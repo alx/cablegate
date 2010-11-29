@@ -1,0 +1,837 @@
+09STATE37561
+S) REPORTING AND COLLECTION NEEDS: AFRICAN GREAT
+Thu Apr 16 14:02:00 +0200 2009
+SECRET//NOFORN
+Secretary of State
+INFO  LOG-00   EEB-00   AF-00    AGRE-00  VIN-00   AID-00   AMAD-00  
+      COME-00  CTME-00  INL-00   DODE-00  DOTE-00  PERC-00  DS-00    
+      DHSE-00  EUR-00   OIGO-00  FAAE-00  FBIE-00  VCI-00   FO-00    
+      FRB-00   H-00     TEDE-00  IO-00    LAB-01   L-00     CAC-00   
+      MOFM-00  MOF-00   CDC-00   VCIE-00  NEA-00   DCP-00   NSAE-00  
+      ISN-00   OES-00   OIC-00   OMB-00   NIMA-00  CAEX-00  MCC-00   
+      PM-00    GIWI-00  PPT-00   SGAC-00  ISNE-00  DOHS-00  FMPC-00  
+      SP-00    IRM-00   DPM-00   EVR-00   NCTC-00  CBP-00   BBG-00   
+      R-00     EPAE-00  SCRS-00  PMB-00   DSCC-00  PRM-00   DRL-00   
+      G-00     SAS-00   DTT-00   FA-00    SWCI-00    /001R
+
+    
+R 161411Z APR 09
+FM SECSTATE WASHDC
+TO AMEMBASSY BUJUMBURA 
+AMEMBASSY KAMPALA 
+AMEMBASSY KIGALI 
+AMEMBASSY KINSHASA 
+INFO DIA WASHINGTON DC//DHI-1B/CLM//DP//
+CIA WASHINGTON DC//NHTC// 0000S E C R E T STATE 037561 
+ 
+ 
+NOFORN 
+ 
+E.O. 12958: DECL: 04/16/2034 
+TAGS: PINR KSPR ECON KDEM KHIV ZF XA CF RW BY
+SUBJECT: (S) REPORTING AND COLLECTION NEEDS: AFRICAN GREAT 
+LAKES (DROC, BURUNDI, RWANDA) 
+ 
+REF: A. 08 KIGALI 00830--05/DEC/2008 
+     ¶B. 08 STATE 122706--19/NOV/2008 
+     ¶C. 04 STATE 101403--06/MAY/2004 
+ 
+Classified By: SUZANNE MCCORMICK, DIRECTOR, INR/OPS,  REASON: 1.4(C). 
+ 
+¶1. (S/NF) This cable provides the full text of the new 
+National HUMINT Collection Directive (NHCD) on African Great 
+Lakes (paragraph 3-end) as well as a request for continued 
+DOS reporting of biographic information relating to DROC, 
+Burundi, and Rwanda (paragraph 2). 
+ 
+¶A. (S/NF) The NHCD below supersedes the NHCD contained in Ref 
+C and reflects the results of a recent Washington review of 
+reporting and collection needs announced in Ref B focused on 
+African Great Lakes.  The review produced a comprehensive 
+list of strategic priorities (paragraph 3) and reporting and 
+collection needs (paragraph 4) intended to guide 
+participating USG agencies as they allocate resources and 
+update plans to collect information on African Great Lakes. 
+We thank Kigali for its Ref A input.  The priorities should 
+also serve as a useful tool to help the Embassy manage 
+reporting and collection, including formulation of Mission 
+Strategic Plans (MSPs). 
+ 
+¶B. (S/NF) This NHCD is compliant with the National 
+Intelligence Priorities Framework (NIPF), which was 
+established in response to NSPD-26 of February 24, 2003.  If 
+needed, GRPO can provide further background on the NIPF and 
+the use of NIPF abbreviations (shown in parentheses following 
+each sub-issue below) in NHCDs. 
+ 
+¶C. (S/NF) Important information often is available to 
+non-State members of the Country Team whose agencies 
+participated in the review of this National HUMINT Collection 
+Directive.  COMs, DCMs, and State reporting officers can 
+assist by coordinating with other Country Team members to 
+encourage relevant reporting through their own or State 
+Department channels.  We appreciate Ref A response from 
+Kigali. 
+ 
+¶2. (S/NF) State biographic reporting: 
+ 
+¶A. (S/NF) The intelligence community relies on State 
+reporting officers for much of the biographical information 
+collected worldwide.  Informal biographic reporting via email 
+and other means is vital to the community's collection 
+efforts and can be sent to the INR/B (Biographic) office for 
+dissemination to the IC. 
+ 
+¶B. (S/NF) Reporting officers should include as much of the 
+following information as possible when they have information 
+relating to persons linked to African Great Lakes: office and 
+organizational titles; names, position titles and other 
+information on business cards; numbers of telephones, cell 
+phones, pagers and faxes; compendia of contact information, 
+such as telephone directories (in compact disc or electronic 
+format if available) and e-mail listings; internet and 
+intranet "handles", internet e-mail addresses, web site 
+identification-URLs; credit card account numbers; frequent 
+flyer account numbers; work schedules, and other relevant 
+biographical information. 
+ 
+¶3. (S/NF) Priority issues and issues outline: 
+ 
+    ¶I. Regional Issues 
+ 
+        ¶A. Democratization and Political Stability 
+            1) Leadership Dynamics (DEPS) 
+            2) Rebel and Militia Groups (SRCC) 
+            3) Democracy and Governance (DEPS) 
+            4) Political Opposition (DEPS) 
+        ¶B. Military and Security 
+            1) Military Developments (FMCC) 
+            2) Weapons Procurement (FMCC) 
+            3) Police and Paramilitary Forces (CINT) 
+            4) GRPO can provide text of this issue. 
+            5) Support to US Military Contingency Planning 
+(HREL) 
+            6) Terrorism (TERR) 
+        ¶C. Societal Challenges 
+            1) Refugees (DEMG) 
+            2) Human Rights and War Crimes (HRWC) 
+            3) Infectious Disease and Health (HLTH) 
+            4) Food Security and Agriculture (FOOD) 
+            5) Economic Stability (ECFS) 
+        ¶D. External Relations 
+            1) Regional Relations (SRCC) 
+            2) International Relations (FPOL) 
+        ¶E. Overarching Issues 
+       1) Media Structure and Availability (INFR) 
+       2) Information Systems and Telecommunications 
+Infrastructure (INFR) 
+ 
+    II. Country-Specific Issues 
+ 
+        ¶A. Mineral Resources (ENVR) 
+        ¶B. Genocidal Legacy Issues (HRWC) 
+ 
+¶4. (S/NF) Reporting and collection needs: 
+ 
+¶I. Regional Issues 
+ 
+        ¶A. Democratization and Political Stability 
+ 
+            1) Leadership Dynamics (DEPS) 
+ 
+-- Leadership dynamics and decision-making processes of key 
+civilian and military officials; influence of corruption and 
+patronage in decision-making. 
+-- Status of relations among top leaders of African Great 
+Lakes countries, especially Kigali and Kinshasa, and Kampala 
+and Kinshasa. 
+-- Plans and intentions regarding political succession, 
+including post-election transitions; indications of coup 
+plotting. 
+-- Leader influence on popular opinion and popular sentiments. 
+-- Influence on government leadership of religious 
+organizations, interest groups, ethnic groups, and military. 
+-- The role of military, intelligence, and security services 
+in national policy decision-making and their control of 
+government institutions and parastatals. 
+-- Leadership policies and actions that cause or respond to 
+political instability or economic deterioration. 
+-- Leadership financial resources and personal relationships. 
+-- Government and public views about and evidence of impact 
+of corruption and crime on internal stability and development. 
+-- Information on political stability, sources of 
+instability, and nature of challenges to effective governance. 
+-- Government plans and efforts to respond to threats to 
+political stability; strategies for addressing underlying 
+discontent. 
+-- Changes inside key ministries and security forces, 
+including personal dynamics, tribal politics and factions. 
+-- Details on identities, motives, influence, and relations 
+among principal advisors. 
+-- Biographic and biometric data, including health, opinions 
+toward the US, training history, ethnicity (tribal and/or 
+clan), and language skills of key and emerging political, 
+military, intelligence, opposition, ethnic, religious, and 
+business leaders.  Data should include email addresses, 
+telephone and fax numbers, fingerprints, facial images, DNA, 
+and iris scans. 
+ 
+                COUNTRIES: BURUNDI-PRIORITY 5; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 4; RWANDA- PRIORITY 5H 
+ 
+           2) Rebel and Militia Groups (SRCC) 
+ 
+-- Efforts by rebel or militia groups or non-state 
+actors--especially entities such as the FDLR that contain 
+Rwandans who participated in the 1994 genocide--to obtain 
+control of or greater participation in national or local 
+government; to obtain control of natural or financial 
+resources; to integrate into the Congolese armed forces 
+(FARDC) or to cooperate with the FARDC in the exploitation of 
+economic resources. 
+-- Extent of political influence of rebel or militia groups. 
+-- Attitudes toward implementation of regional peace accords. 
+-- Organization, leadership, order of battle, training, 
+strategies and tactics of armed groups and factions, 
+including those integrated into government. 
+-- Efforts by rebel or militia groups to recruit government 
+forces or demobilized troops/fighters. 
+-- Indications of shifting alliances and factions. 
+-- Indications of political and social infrastructure 
+development by rebel and militia groups, including 
+fundraising, recruitments, weapons and repair parts 
+procurement, and propaganda. 
+-- Public sympathy or antipathy toward rebel and militia 
+groups. 
+-- Evidence of influence or pressure on, or support for, 
+rebel or militia groups from foreign governments, non-state 
+actors, and Congolese diaspora. 
+-- Infiltration and resupply routes used by rebel and militia 
+groups. 
+-- Evidence that drug trafficking, evasion of the Kimberly 
+Process, or other criminal activities, including cyber crime, 
+are used to finance the activities of rebel and militia 
+groups. 
+-- Evidence and impact of the presence of troops from 
+neighboring countries and their proxy forces in Congo, 
+particularly the Rwanda Defense Forces (RDF). 
+ 
+                COUNTRIES: BURUNDI- PRIORITY 5; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 4; RWANDA- PRIORITY 5 
+                 REGIONAL REBEL GROUPS AND NON-STATE ACTORS 
+WHO CARRY OUT ATROCITIES AND TERRORIST ACTIVITIES:  ALLIED 
+DEMOCRATIC FORCES (ADF), DEMOCRATIC FORCES FOR THE LIBERATION 
+OF RWANDA (FDLR), LORD,S RESISTANCE ARMY (LRA)-PRIORITY- 4 
+ 
+            3) Democracy and Governance (DEPS) 
+ 
+-- Leadership views, intentions, and actions on democratic 
+reforms, to include free press, treatment of opposition 
+political or ethnic groups, respect for human rights, respect 
+for rule of law and independent judiciary, and fair elections. 
+-- Extent/effectiveness of government control over national 
+territory and over cross-border flows of people and goods. 
+-- Progress of or obstacles to disarmament, demobilization, 
+repatriation, and reintegration (DDRR) of ex-combatants into 
+a civilian society. 
+-- Structure, interaction, and role of administrative, 
+judicial, and legislative organs, including indications that 
+they are overshadowed by personal politics. 
+-- Information on effectiveness or abuse of the electoral 
+system or judiciary, including government procedures to 
+maintain the integrity and secrecy of the ballot during each 
+phase of balloting and vote reconciliation. 
+-- Details on all aspects of the electoral process, to 
+include election laws, electoral procedures, election 
+monitoring, balloting, and election equipment. 
+-- Details on corruption in government institutions and 
+efforts to reduce it. 
+-- Signs of ethnic, religious, or generational polarization 
+and role of ethnic, regional or class distinctions in access 
+to decision-making and natural or financial resources. 
+-- Information on government improvements in infrastructure, 
+including in remote regions. 
+-- Ability and efforts to adhere to/evade the Kimberly 
+Process, and to combat illicit finance. 
+ 
+            COUNTRIES: BURUNDI-PRIORITY 5; CONGO, DEMOCRATIC 
+REPUBLIC- PRIORITY 4; RWANDA- PRIORITY 5H 
+ 
+            4) Political Opposition (DEPS) 
+ 
+-- Activities, plans, and intentions of political opposition 
+parties and individuals; sources of funding and support. 
+-- Government attempts to stifle political opposition. 
+-- Alliances or factions, and evidence of links to foreign 
+governments or armed groups. 
+-- Political opposition party leadership, organization, 
+agendas, membership, and level of influence on civil society 
+and military; leadership biographic data. 
+-- Opposition party regional and ethnic support areas, family 
+and financial networks, key patrons and clients, and internal 
+alliances and rivalries 
+-- Opinions of ethnic, religious, and other groups on the 
+government and political opposition. 
+ 
+                COUNTRIES: BURUNDI-PRIORITY 5; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 4; RWANDA- PRIORITY 5H 
+ 
+        ¶B. Military and Security 
+ 
+            1) Military Developments (FMCC) 
+ 
+-- Military capabilities, intentions, and actions in support 
+of or against existing political leadership or government 
+activities. 
+-- Progress of or obstacles to the integration of former 
+government, rebel, and militia fighters into a new armed 
+force; loyalty of units integrated from former armed 
+opponents. 
+-- Impact of ethnic, political, regional, or tribal divisions 
+within the military and other security forces on morale, 
+readiness, placement of leaders, and support for the 
+government. 
+-- Indications of military involvement in human rights 
+abuses, recruiting of children, criminal or corrupt activity, 
+or anti-government insurgency. 
+-- Loyalties, cohesion, discord, rivalries, competing agendas 
+or ambitions, and signs of dissension within military 
+leadership, officer corps, and ranks; evidence of 
+corruption/criminal activity in the military or security 
+forces and effects on preparedness. 
+-- Extent and effects of ethnic and political divisions 
+within the military and between the military and political 
+leadership. 
+-- Attitudes toward AFRICOM; willingness to cooperate with 
+AFRICOM. 
+-- Ability and willingness to cooperate with forces from 
+neighboring countries and deployed peacekeeping forces to 
+manage threats. 
+-- Personnel strength levels, force structure, doctrine, 
+modernization plans, training, discipline, professionalism, 
+morale, order of battle, logistics, combat effectiveness, and 
+capabilities of military services. 
+-- Details on military facilities, such as airfields and army 
+camps, and on military equipment, including numbers, 
+operational status, and procurement/refurbishment activity. 
+-- Details about military relations with other countries, 
+especially China, Libya, Sudan, North Korea, Iran, Russia, 
+Ukraine, Belarus and other former Soviet bloc countries. 
+-- Details about foreign military assistance and training. 
+-- Attitudes toward and impact of US military training. 
+-- Details on defense budget by function and service. 
+-- Development and implementation of mechanisms for civil 
+control of the military. 
+-- Public attitudes towards the military and other security 
+forces. 
+ 
+                COUNTRIES: BURUNDI-PRIORITY 5H; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 5H; RWANDA- PRIORITY 5H 
+ 
+            2) Weapons Procurement (FMCC) 
+ 
+ -- Details of arms acquisitions and arms sales by government 
+or insurgents, including negotiations, contracts, deliveries, 
+terms of sale, quantity and quality of equipment, and price 
+and payment terms. 
+-- Transfer of strategic materials such as uranium. 
+-- Information on insurgent groups' weapons and material 
+entry and transshipment points, routes, and destinations. 
+-- Indications of smuggling and weapons and weapons repair 
+parts trafficking. 
+-- Factory markings and paint/color schemes on all 
+arms/weapon systems and their munitions acquired or produced 
+locally. 
+ 
+                COUNTRIES: BURUNDI-PRIORITY 5H; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 5H; RWANDA- PRIORITY 5H 
+ 
+            3) Police and Paramilitary Forces (CINT) 
+ 
+-- Non-military security force loyalties, leadership, 
+capabilities, organization, size, locations, and ethnic 
+composition. 
+-- Roles and missions of various units. 
+-- Evidence of splits within police and paramilitary forces. 
+-- Evidence of contact and cooperation with rebel groups. 
+-- Ability to maintain local security without intervention or 
+assistance of military forces. 
+-- Reports of misconduct, human rights violations, or 
+involvement in illegal/illicit activities, or the misuse of 
+foreign training funds or equipment. 
+-- Evidence of conflict between security forces and the 
+military. 
+ 
+                COUNTRIES: BURUNDI-PRIORITY 5H; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 5H; RWANDA- PRIORITY 5H 
+ 
+            4) GRPO can provide text of this issue and 
+related requirements. 
+ 
+            5) Support to US Military Contingency Planning 
+(HREL) 
+ 
+-- Details on developments that could prompt US contingency 
+planning for non-combatant evacuation operations (NEO) or 
+humanitarian assistance. 
+-- Host nation support for evacuation or humanitarian 
+assistance by US forces (AFRICOM), including host nation 
+ability and willingness to protect US citizens and/or 
+facilities. 
+-- Government plans and capabilities to cope with 
+emergencies, including civilian and military response, or to 
+request or accept assistance from the US, UN, or others. 
+-- Government or other organizations' plans to work with UN 
+and international donor and NGO groups in relief and 
+reconstruction efforts, resettlement programs, and 
+development assistance. 
+-- Details on obstacles to aid distribution and 
+implementation of humanitarian aid programs. 
+-- Details of emergency infrastructure, including locations, 
+descriptions, and capabilities of military, police, and fire 
+response resources. 
+-- Location and description of third-country diplomatic and 
+aid/NGO facilities, and of leaders' residences and alternate 
+locations. 
+-- Information on the character and severity of existing or 
+potential future humanitarian crises resulting from natural 
+disasters or from internal or regional violence. 
+-- Description and locations of potential evacuation sites, 
+hospitals, hotels, government installations, religious sites 
+and shrines, civilian institutions including schools and 
+stadiums, diplomatic facilities, educational and medical 
+facilities, and culturally significant sites. 
+-- Evacuation routes, including chokepoints and potential 
+impediments. 
+-- Volcanic activity on the Congo (Kinshasa)/Rwanda border. 
+ 
+                COUNTRIES: BURUNDI-PRIORITY 5H; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 4; RWANDA- PRIORITY 5H 
+ 
+          6) Terrorism (TERR) 
+ 
+-- Individuals and organizations supporting international 
+terrorism, including legitimate businesses and financial 
+transactions, money laundering, drug trafficking, logistical 
+support, cyber crime, and document forgeries. 
+-- Extent to which ethnic, tribal, religious and regional 
+fragmentation could serve to attract international terrorist 
+groups. 
+-- Evidence of transit and safe haven by transnational and 
+regional terrorist groups. 
+-- Vulnerability of populace to Islamic extremism. 
+-- Evidence of domestic terrorist groups. 
+-- Indications of funding from Gulf-based financiers or NGOs. 
+ 
+                COUNTRIES: BURUNDI-PRIORITY 5H; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 5H; RWANDA- PRIORITY 5H 
+                INTERNATIONAL TERRORIST GROUPS:  HIZBALLAH 
+(LEBANESE)-PRIORITY 1 
+                 REGIONAL REBEL GROUPS AND NON-STATE ACTORS 
+WHO CARRY OUT ATROCITIES AND TERRORIST ACTIVITIES:  ALLIED 
+DEMOCRATIC FORCES (ADF), DEMOCRATIC FORCES FOR THE LIBERATION 
+OF RWANDA (FDLR), LORD,S RESISTANCE ARMY (LRA)-PRIORITY- 4 
+ 
+         ¶C. Societal Challenges 
+ 
+            1) Refugees (DEMG) 
+ 
+-- Government plans, policies, and efforts regarding refugees 
+and internally displaced persons (IDPs). 
+-- Government capability and willingness to absorb, register, 
+assist, and protect refugees and IDPs. 
+-- Government capability and willingness to protect and 
+assist NGO and aid agency personnel. 
+-- Plans and intentions of rebel forces to cooperate, hinder, 
+or manipulate aid for refugees and IDPs. 
+-- Indications of rebel or militia forces infiltrating 
+refugee camps or groups, or using such camps/groups to mask 
+their activities. 
+-- Public attitudes for or against repatriation of IDPs or 
+refugees. 
+-- Information on neighboring country efforts regarding 
+refugees and IDPs. 
+-- Number, location, and size of refugee and IDP areas (to 
+include hospitals, churches, and other de facto IDP areas as 
+well as traditional camps); transit routes used by refugees 
+and IDPs. 
+-- Numbers, age, gender, ethnicity, general health and 
+security conditions, nature and extent of critical needs of 
+refugees and IDPs. 
+-- Factors driving refugee movements; links between refugee 
+movements and political and economic stability. 
+-- Indications that the inability of returning refugees to 
+reclaim their land is contributing to instability. 
+-- Details of cross-border criminal activity, including 
+travel routes and nodes, transshipment sites, communications, 
+and financial facilitators, especially for human smuggling 
+and trafficking. 
+-- Attitudes toward women; women,s legal rights, especially 
+rights to education, work, land ownership, and inheritance. 
+-- Process and effects of migration and demographic shifts 
+within and among regional nations, including movement from 
+rural to urban areas and youth bulge. 
+-- Details about geographic distribution of population and 
+internal migration. 
+-- Information on population density, population growth, age 
+breakdowns, economic and housing characteristics, ethnic and 
+religious affiliations, occupations, literacy, educational 
+attainment, access to electricity, water, and sanitation. 
+ 
+                COUNTRIES: BURUNDI-PRIORITY 5; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 3; RWANDA- PRIORITY 3 
+ 
+            2) Human Rights and War Crimes (HRWC) 
+ 
+-- Plans, intentions, and actions of rebel and militia 
+groups, federal and state government officials, military, 
+intelligence and other security services, to commit human 
+rights violations, including mass killings, extra judicial 
+killing, forced disappearance, torture, sexually based 
+violence, arbitrary arrest, police brutality, and persecution 
+of minorities and ethnic factions. 
+-- Indications that policies targeting civilians could be 
+perceived as strategically advantageous to a government, 
+rebel, or militia group. 
+-- Indications of leaders, failure to instill discipline 
+within armies, rebel groups, or militias that could lead to 
+human rights violations and abuses. 
+--  Ethnic/regional tensions that might fuel genocidal 
+activity, including scapegoating or calls for violence 
+against noncombatants of a particular ethnic, regional, or 
+political group by government, rebel, or militia groups. 
+-- Indications of mobilization or force posturing directed 
+against civilians. 
+-- Threats against or denial of access to media, foreigners, 
+or NGOs to areas of concern. 
+-- Support for or response to activities of international 
+criminal tribunals, including the International Criminal 
+Court. 
+-- Ability and willingness of all levels of government to 
+promote human rights. 
+-- Details on government policies, procedures, and efforts 
+regarding prevention of human rights abuses, including 
+efforts to marginalize specific groups of people. 
+-- Efforts of the police and military to uphold or violate 
+human rights. 
+-- Government intentions to follow through on investigations 
+and prosecution of human rights abuses. 
+-- Indications that ambiguity between civilians and 
+combatants could lead to violence against civilians. 
+-- Plans and activities of the government to use food, or 
+other government-controlled commodities, as a political tool. 
+-- Evidence of attacks or planned attacks on peacekeepers and 
+humanitarian aid workers; limitations on the activities of 
+NGOs. 
+-- Evidence that humanitarian aid agencies are preparing for 
+an increase in the number of civilian casualties or refugees. 
+-- Evidence that truth and reconciliation activities or war 
+crimes trials are increasing or decreasing tension or 
+fostering or alleviating instability. 
+-- Landmine or explosive remnant of war (ERW) casualties and 
+evidence of mine stockpiling; government intentions to clear 
+landmine/ERW areas. 
+ 
+                COUNTRIES: BURUNDI- PRIORITY 4; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 3; RWANDA- PRIORITY 4 
+ 
+            3) Infectious Disease and Health (HLTH) 
+ 
+-- Government plans, policies, and capabilities to prevent, 
+control, and treat existing and emerging disease outbreaks, 
+particularly HIV/AIDS, malaria, tuberculosis, polio, and 
+avian influenza. 
+-- Details of infectious diseases and general health 
+conditions including number of cases, percentage, fatalities, 
+dates, and areas of occurrence. Also if possible, provide 
+historical data in order to compare recent data collection. 
+-- HIV statistics, including percentage of military, police 
+force, and orphans that are HIV positive. 
+--Information concerning the influence of traditional healers 
+on infectious diseases as well as endemic health issues. 
+-- Details on drug resistant strains, including malaria, 
+HIV/AIDS, avian influenza, and tuberculosis. 
+--Information concerning maternal and child health, in terms 
+of access to prenatal care, statistics on the types of 
+pregnancy-related poor outcomes related to infant and/or 
+maternal morbidity/mortality, and access to well-baby clinics. 
+-- Access to care information, including regions and 
+populations with access to advanced levels of care and those 
+without basic prevention and treatment needs. 
+-- Information on medical professionals, including number of 
+personnel by type (nurse, physician, midwife, etc.), medical 
+specialty, and location (urban or rural). 
+-- Education and training requirements for medical 
+professionals; locations of institutions where training is 
+available. 
+-- Information on medical facilities/hospitals, including 
+capabilities, personnel, training, equipment, etc.  Disaster 
+response capability/plan. 
+-- Details about contaminated food, water, air, and soil and 
+the effect on health.  Toxic industrial chemical 
+contamination, including types of industrial facilities, 
+chemicals on site, and products being generated. 
+-- Details on water, food, and vector-borne diseases, 
+including location, prevalence, and virulence. 
+-- Government efforts to protect the population from zoonotic 
+(animal to human transmission capable) diseases; details on 
+the stockpile and storage of vaccines. 
+-- Information on drug addiction treatment facilities. 
+-- Information on mental health issues, including the 
+government,s willingness to report, the types and severity 
+of mental health problems, and access to care. 
+-- Chronic disease information, including types and access to 
+treatment, such as diabetes and cardiovascular disease. 
+ 
+                COUNTRIES: BURUNDI-PRIORITY 5H; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 4; RWANDA- PRIORITY 5H 
+ 
+            4) Food Security and Agriculture (FOOD) 
+ 
+-- Government policies, plans, intentions, and actions 
+regarding food security and food safety, and willingness to 
+cooperate with UN and other donor agencies. 
+-- Nutritional status of population, including refugees. 
+-- Indications that rising food prices are adversely 
+affecting nutritional status and/or contributing to 
+instability; use of subsidies or export/import bans. 
+-- Yields and prospects for cash and subsistence crops; 
+changes in agricultural practices, such as cropping patterns 
+and crop selection; use/availability of seeds and fertilizers. 
+-- Government acceptance of genetically modified food and 
+propagation of genetically modified crops. 
+-- Status of structural adjustments and infrastructure 
+improvements to increase agricultural producer income and 
+reduce migration to urban areas. 
+-- Information on surface and groundwater resources, to 
+include sources, treatment, distribution and storage. 
+-- Indications that deforestation, desertification, erosion 
+and degradation of soils are affecting agricultural output. 
+-- Food contamination affecting population health. 
+-- Indications of invasive species, especially those 
+affecting food security or development. 
+-- Indications of water table degradation, decreases in lake 
+levels below historic norms, or evidence of territorial 
+disputes associated with declining water resources or quality. 
+ 
+                COUNTRIES: BURUNDI- PRIORITY 5; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 5; RWANDA- PRIORITY 5H 
+ 
+            5) Economic Stability (ECFS) 
+ 
+-- Overall economic status, including government plans and 
+will to implement free-market reform, to ensure consistent 
+regulations, and to uphold the rule of law on economic issues. 
+--  Government plans and intentions to address economic 
+effects of war and conflict, such as shortages of fuel, 
+electric power, and food; unemployment; and wage arrears, 
+particularly the inability to pay troops. 
+-- Fiscal policies and investment strategies, financial and 
+commercial links within and outside the region, status of 
+foreign currency reserves, and positions on bilateral and 
+multilateral economic issues and negotiations. 
+-- Details of Chinese trade, aid, and investment activities. 
+-- Public and expert perceptions of the effect on economic 
+performance of corruption among government and business 
+elites and of the competence of economic administrators. 
+-- Policies and actions to attract foreign investment; plans 
+and intentions of foreign nationals or companies to invest or 
+start up new business ventures. 
+-- Government strategy and objectives for engagement with 
+international financial institutions--World Bank, IMF, 
+African Development Bank--for loans, grants, debt management, 
+and restructuring. 
+-- Details on economic assistance needs and requests, 
+including donors, projects, and effectiveness of current or 
+proposed aid. 
+-- Status of raw materials industries, including plans to 
+develop/exploit resource deposits. 
+-- Government plans and objectives regarding land 
+reallocation; effects of land reallocation on indigenous 
+population, commercial farmers, militant interest groups, and 
+its impact on foreign investment. 
+-- Indications of ethnic/regional tensions over resources, 
+such as land and water. 
+-- Details on and public perception of economic growth, 
+including youth employment prospects. 
+-- Statistics on economic indicators, including remittances. 
+-- Details, capabilities, and potentially required repairs 
+and upgrades of infrastructure and lines of communication, 
+such as airfields, landing zones, river ports, rail lines, 
+roads, bridges, medical facilities, and electric power, 
+petroleum, and water facilities. 
+ 
+                COUNTRIES: BURUNDI-PRIORITY 5H; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 5H; RWANDA- PRIORITY 5H 
+ 
+        ¶D. External Relations 
+ 
+            1) Regional Relations (SRCC) 
+ 
+-- Policy toward and relations with regional states, 
+particularly with regard to ongoing conflicts, support for 
+foreign dissidents, border incursions, peace negotiations, 
+refugee assistance and repatriation, trade, aid, and security 
+agreements. 
+-- Government views and perceptions about activities and 
+intentions of regional organizations, such as the African 
+Union (AU), the East African Community (EAC), and other 
+regional organizations. 
+-- Activities of mercenaries or private security firms in 
+assisting military forces or insurgencies; mercenary or 
+private security firm involvement in trafficking activities. 
+ 
+                COUNTRIES: BURUNDI-PRIORITY 5; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 4; RWANDA- PRIORITY 5 
+ 
+            2) International Relations (FPOL) 
+ 
+-- Government leader views and policies toward the US, 
+AFRICOM, and international organizations; plans and 
+intentions to support or oppose US positions in international 
+fora. 
+-- Public and private attitudes toward the US, AFRICOM, and 
+US policies. 
+-- Foreign alliances and activities, especially those 
+involving China and Iran. 
+-- Agreements and concessions negotiated with foreign states 
+and non-state actors for military, paramilitary, or economic 
+assistance. 
+-- Government views and perceptions about activities and 
+intentions of non-regional nations and organizations, 
+particularly China, Iran, France, UN, and the European Union 
+(EU). 
+-- Perceptions by the civilian population towards the UN, 
+particularly improvements or failures of UN efforts to 
+address human rights abuses by peacekeeping forces. 
+-- Plans and efforts of countries or organizations to 
+arbitrate or influence conflict resolution. 
+-- Efforts to enforce or circumvent sanctions against Iran, 
+North Korea, and terrorist groups. 
+-- Political will and intentions of governments to 
+participate in or support peacekeeping operations sponsored 
+by regional organizations, such as ECOWAS, or by the UN, US, 
+France, or other. 
+-- Willingness to contribute forces to African Union (AU) 
+Standby Brigade Forces (e.g. EASBRIG) and/or the will to 
+provide meaningful participation in CEEAC - Economic 
+Community of Central African States) 
+-- Government plans, intentions, and capabilities to provide, 
+train, equip, transport, maintain, supply, and fund 
+international peacekeeping forces, including providing 
+command, control, communications, and intelligence. 
+-- Military willingness and capability to train with other 
+nations in programs such as the US Africa Contingency 
+Operations Training and Assistance (ACOTA) and Joint Combined 
+Exercise for Training (JCET) programs, and to participate in 
+peacekeeping operations. 
+-- Local population relationship with foreign peacekeeping 
+forces. 
+-- Capabilities, attitudes, and behavior of peacekeepers from 
+or stationed in regional nations, including understanding of 
+and adherence to human rights standards. 
+-- Government cooperation regarding rescue/recovery of 
+US/allied POW/MIAs and detained/kidnapped US/allied citizens. 
+ 
+                COUNTRIES: BURUNDI-PRIORITY 5H; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 5H; RWANDA- PRIORITY 5H 
+ 
+        ¶E. Overarching Issues 
+ 
+            1) Media Structure and Availability (INFR) 
+ 
+-- Government, public, and private perceptions of status of 
+press freedom. 
+-- Evidence of media control or manipulation, in particular 
+to incite unrest, by government, opposition groups, non-state 
+actors, and other groups. 
+-- Details on print and broadcast media, including name, 
+content, ownership, target audience, staff, broadcast 
+frequency and power. 
+-- Internet availability and use. 
+-- Extent of, access to, and identity of, foreign television 
+and radio broadcasts, and news publications. 
+-- Changes to the UN commitment to provide media services in 
+the eastern Congolese provinces. 
+ 
+                COUNTRIES: BURUNDI-PRIORITY 5H; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 5; RWANDA- PRIORITY 5H 
+ 
+            2) Information Systems and Telecommunications 
+Infrastructure (INFR) 
+ 
+-- Current specifications, vulnerabilities, capabilities, and 
+planned upgrades to, national telecommunications 
+infrastructure and information systems, command and control 
+systems, networks, and technologies used by government, 
+military, and private sector. 
+-- Details about foreign assistance (especially Chinese) for 
+improvements to the national telecommunications grid. 
+-- National leadership use of, and dependencies on, dedicated 
+telecommunications infrastructures and information systems. 
+-- Details about national and regional telecommunications 
+policies, programs, regulations, service providers, vendors, 
+and training. 
+-- Details about internet and intranet use, infrastructure, 
+and government oversight. 
+-- Plans and efforts to acquire U.S. export-controlled 
+telecommunications technology. 
+-- Details about information repositories for Radio Frequency 
+Identification-enabled systems used for passports, government 
+badges, and transportation systems. 
+-- Official and personal phone numbers, fax numbers, and 
+e-mail addresses of principal civilian and military leaders. 
+ 
+                 COUNTRIES: BURUNDI-PRIORITY 5H; CONGO, 
+DEMOCRATIC REPUBLIC- PRIORITY 5H; RWANDA- PRIORITY 5H 
+ 
+II.  Country Specific Issues 
+ 
+    ¶A. Mineral Resources (ENVR) 
+ 
+-- Details on mining of diamonds, copper, cobalt, uranium, 
+other minerals, and oil extraction: number and location of 
+mines, production statistics and revenue generated, and 
+extent of control given to China and other foreign 
+governments, companies or consortiums; export statistics. 
+-- Details on mineral, oil and other resource exploitation by 
+rebel groups and foreign elements to include type and 
+location of resources exploited, and revenue generated 
+through sales, customs duties, taxation, and access control. 
+-- Government ability/willingness to deal with environmental 
+abuses. 
+ 
+               COUNTRIES:  CONGO, DEMOCRATIC 
+REPUBLIC-PRIORITY 5H 
+ 
+          ¶B. Genocidal Legacy Issues (HRWC) 
+ 
+-- Government attitudes and intentions toward Tutsi 
+survivors, Tutsis operating outside the power elite, Hutus, 
+returning Hutu fighters/refugees, and Twa. 
+-- Indications of increased ethnic tensions that could spark 
+renewed violence. 
+-- Government plans and intentions to counter ethnic violence 
+or genocide; identification of government officials 
+encouraging violence. 
+-- Information on policies concerning human rights, 
+democratization, political inclusion, reconciliation, land 
+ownership and tenancy, and political prisoners. 
+-- Public attitudes toward traditional judicial courts 
+(gacaca) and the International Criminal Tribunal for Rwanda. 
+-- Information on participation in human rights abuses, 
+including extra judicial killings by Rwanda Defense Forces 
+(RDF); paramilitary, including local defense forces; police, 
+security forces; or Tutsi civilians against Hutus. 
+-- Divisions within President Kagame's inner circle and his 
+party, the Rwandan Patriotic Front (RPF). 
+-- Public attitudes toward the FDLR and subgroups; links 
+between those groups and supporters outside the Great Lakes 
+Region. 
+-- Information about identification, location and arrest of 
+such leaders. 
+ 
+                COUNTRIES: RWANDA- PRIORITY 4 
+ 
+ 
+CLINTON
