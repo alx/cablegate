@@ -16,7 +16,7 @@ require 'date'
 # Setup: just change your specific folders here
 #
 #
-
+options = {}
 # Link to cablegate website or mirror
 options[:web_root] = "http://cablegate.wikileaks.org"
 # options[:web_root] = "http://cablegate.tetalab.org"
@@ -134,7 +134,6 @@ if(nb_cables == Dir["cables/*"].length)
 else
   p "New cables: #{nb_cables}"
 
-  options = {}
   options[:updated] = false
   
   publication_date = DateTime.parse("11/28/2010")
