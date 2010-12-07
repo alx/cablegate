@@ -1,10 +1,10 @@
 require 'date'
 
-basedir = '.'
+$basedir = '.'
 
 $dated_cables = {}
 $tags = []
-Dir.glob(File.join(basedir, "/dates/*")).each do |year_folder|
+Dir.glob(File.join($basedir, "/dates/*")).each do |year_folder|
   year = File.basename(year_folder)
   Dir.glob(File.join(year_folder, "*")).each do |month_folder|
     month = File.basename(month_folder)
@@ -91,7 +91,7 @@ def write_index(cable_count)
   	  <div style='text-align:center'><img src='./images/wikileaks.png' alt='wikileaks'/></div>
   	
   		<ul data-role='listview' data-inset='true'> 
-        <li><a href='./cables.html'>All cables</a> <span class='ui-li-count'>#{cable_count}</span></li>
+        <li><a href='./cables/page_0.html'>All cables</a> <span class='ui-li-count'>#{cable_count}</span></li>
         <li><a href='./classification.html'>By Classification</a></li>
         <li><a href='./origin.html'>By Origin</a></li>
         <li><a href='./release.html'>By Release</a></li>
@@ -99,21 +99,21 @@ def write_index(cable_count)
   	</div><!-- /content --> 
   	
     <div data-role='footer'>
-    		<div data-role='controlgroup' data-type='horizontal' style='text-align:center'>
-  		    <a href='http://jquerymobile.com'>Jquery Mobile</a>
-    		  <a href='http://www.wikileaks.ch/support.html'>Support Wikileaks</a>
-    		  <a href='http://git.tetalab.org/index.php/p/cablegate/source/tree/master/'>Code</a>
-    		</div>
+      <div data-role='controlgroup' data-type='horizontal' style='text-align:center'>
+  		  <a href='http://jquerymobile.com'>Jquery Mobile</a>
+    	  <a href='http://www.wikileaks.ch/support.html'>Support Wikileaks</a>
+  		  <a href='http://git.tetalab.org/index.php/p/cablegate/source/tree/master/'>Code</a>
+  		</div>
     </div><!-- /foter -->
   </div><!-- /page -->"
   write_html("index.html", index_content)
 end
 
-def write_list(filename, list)
+def write_list(filename, list, title = nil)
   content = "
   <div data-role='page'> 
   	<div data-role='header'> 
-  		<h1>Wikileaks CableGate</h1> 
+  		<h1>#{title || "Wikileaks CableGate"}</h1> 
   	</div><!-- /header --> 
 
   	<div data-role='content'> 
@@ -132,51 +132,152 @@ def write_list(filename, list)
   write_html(filename, content)
 end
 
-# Write index
-write_index(Dir.glob(File.join(basedir, "/cables/*.txt")).count)
+def write_page(filename, list, title = nil, previous_page = nil, next_page = nil)
+  content = "
+  <div data-role='page'> 
+  	<div data-role='header'>
+  	  <a href='index.html'>Back</a>
+  		<h1>#{title || "Wikileaks CableGate"}</h1> 
+  	</div><!-- /header --> 
 
-# List all cables
-# write_list("cables.html", list_cables("", Dir.glob(File.join(basedir, "/cables/*.txt"))))
-cable_list = ""
-Dir.glob(File.join(basedir, "/dates/*")).each do |year_folder|
-  year = File.basename(year_folder)
-  Dir.glob(File.join(year_folder, "*")).each do |month_folder|
-    month = File.basename(month_folder)
-    cable_list << "<li data-role='list-divider'>#{DateTime.parse("#{year}-#{month}-01").strftime("%b %Y")} <span class='ui-li-count'>#{Dir.glob(File.join(month_folder, "*")).count}</span></li>"
-    Dir.glob(File.join(month_folder, "*")) do |cable|
-      cable_list << cable_list_item(File.basename(cable, ".txt"))
+  	<div data-role='content'>
+  	  <fieldset class='ui-grid-a'>
+      	<div class='ui-block-a'>"
+      	if previous_page
+      	  content << "<a href='#{previous_page}' data-role='button'>&#x2190; Prev</a>" 
+    	  else
+    	    content << "&nbsp;"
+    	  end
+        content << "</div><div class='ui-block-b'>"
+      	content << "<a href='#{next_page}' data-role='button'>Next &#x2192;</a>" if next_page
+    content << "</div>	   
+      </fieldset> 
+  		<ul data-role='listview' data-inset='true'> 
+        #{list}
+      </ul>
+      <fieldset class='ui-grid-a'>
+      	<div class='ui-block-a'>"
+      	if previous_page
+      	  content << "<a href='#{previous_page}' data-role='button'>&#x2190; Prev</a>" 
+    	  else
+    	    content << "&nbsp;"
+    	  end 
+        content << "</div><div class='ui-block-b'>"
+      	content << "<a href='#{next_page}' data-role='button'>Next &#x2192;</a>" if next_page
+    content << "</div>	   
+      </fieldset>
+  	</div><!-- /content --> 
+  	<div data-role='footer'>
+    		<div data-role='controlgroup' data-type='horizontal' style='text-align:center'>
+  		    <a href='http://jquerymobile.com'>Jquery Mobile</a>
+    		  <a href='http://www.wikileaks.ch/support.html'>Support Wikileaks</a>
+    		  <a href='http://git.tetalab.org/index.php/p/cablegate/source/tree/master/'>Code</a>
+    		</div>
+    </div><!-- /foter -->
+  </div><!-- /page -->"
+  write_html(filename, content)
+end
+
+def write_section_all
+  cable_list = ""
+  nb_cables = 0
+  cable_pages = []
+  Dir.glob(File.join($basedir, "/dates/*")).each do |year_folder|
+    year = File.basename(year_folder)
+    Dir.glob(File.join(year_folder, "*")).each do |month_folder|
+      month = File.basename(month_folder)
+      cable_list << "<li data-role='list-divider'>#{DateTime.parse("#{year}-#{month}-01").strftime("%b %Y")} <span class='ui-li-count'>#{Dir.glob(File.join(month_folder, "*")).count}</span></li>"
+      
+      cable_files = Dir.glob(File.join(month_folder, "*"))
+      cable_files.each do |cable|
+        cable_list << cable_list_item(File.basename(cable, ".txt"))
+      end
+      
+      nb_cables += cable_files.size
+      if nb_cables > 100
+        cable_pages << [cable_list]
+        cable_list = ""
+        nb_cables = 0
+      end
     end
   end
-end
-write_list("cables.html", cable_list)
-
-# List origin
-cable_list = ""
-Dir.glob(File.join(basedir, "/origin/*")).each do |origin|
-  cable_list << list_cables(File.basename(origin), Dir.glob(File.join(origin, "*.txt")))
-end
-write_list("origin.html", cable_list)
-
-# List classification
-cable_list = ""
-cable_list << list_cables("Secret - No Foreigners", Dir.glob(File.join(basedir, "/classification/SECRET/NOFORN/*.txt")))
-cable_list << list_cables("Secret", Dir.glob(File.join(basedir, "/classification/SECRET/*.txt")))
-cable_list << list_cables("Confidential - No Foreigners", Dir.glob(File.join(basedir, "/classification/CONFIDENTIAL/NOFORN/*.txt")))
-cable_list << list_cables("Confidential", Dir.glob(File.join(basedir, "/classification/CONFIDENTIAL/*.txt")))
-cable_list << list_cables("Unclassified - For official use only", Dir.glob(File.join(basedir, "/classification/UNCLASSIFIED/FOR OFFICIAL USE ONLY/*.txt")))
-cable_list << list_cables("Unclassified", Dir.glob(File.join(basedir, "/classification/UNCLASSIFIED/*.txt")))
-write_list("classification.html", cable_list)
-
-# List release dates
-cable_list = ""
-Dir.glob(File.join(basedir, "/rel_date/*")).each do |year_folder|
-  year = File.basename(year_folder)
-  Dir.glob(File.join(year_folder, "*")).each do |month_folder|
-    month = File.basename(month_folder)
-    Dir.glob(File.join(month_folder, "*")).each do |day_folder|
-      day = File.basename(day_folder)
-      cable_list << list_cables("#{DateTime.parse("#{year}-#{month}-#{day}").strftime("%d %b %Y")}", Dir.glob(File.join(day_folder, "*")))
-    end
+  
+  previous_page = nil
+  cable_pages.each_with_index do |page_cables, index|
+    next_page = index == (cable_pages.size - 1) ? nil : "page_#{index + 1}.html"
+    write_page("cables/page_#{index}.html", page_cables, "All Cables (#{index + 1}/#{cable_pages.size})", previous_page, next_page)
+    previous_page = "page_#{index}.html"
   end
 end
-write_list("release.html", cable_list)
+
+def write_section_origin
+  origin_list = ""
+  files = Dir.glob(File.join($basedir, "/origin/*"))
+  files.each do |origin|
+    basename = File.basename(origin)
+    origin_url = "origin/#{File.basename(origin).downcase.gsub(" ", "_")}.html"
+    origin_list << "<li><a href='#{origin_url}'>#{basename} <span class='ui-li-count'>#{files.count}</span></li>"
+
+    cable_list = ""
+    Dir.glob(File.join(origin, "/*.txt")).each{|cable| cable_list << cable_list_item(File.basename(cable, ".txt"))}
+    write_list(origin_url, cable_list, basename)
+  end
+  write_list("origin.html", origin_list)
+end
+
+def write_classification(title, folder, html)
+  files = Dir.glob(File.join($basedir, "/classification/#{folder}/*.txt"))
+  files.each do |classification|
+    basename = File.basename(classification)
+    cable_list = ""
+    files.each{|cable| cable_list << cable_list_item(File.basename(cable, ".txt"))}
+    Dir.glob(File.join(classification, "/*.txt")).each{|cable| cable_list << cable_list_item(File.basename(cable, ".txt"))}
+    write_list("classification/#{html}.html", cable_list, title)
+  end
+  "<li><a href='classification/#{html}.html'>#{title} <span class='ui-li-count'>#{files.count}</span></li>"
+end
+
+def write_section_classification
+  classification_list = write_classification("Secret - No Foreigners", "SECRET/NOFORN", "secret_noforn")
+  classification_list << write_classification("Secret", "SECRET", "secret")
+  classification_list << write_classification("Confidential - No Foreigners", "CONFIDENTIAL/NOFORN", "confidential_noforn")
+  classification_list << write_classification("Confidential", "CONFIDENTIAL", "confidential")
+  classification_list << write_classification("Unclassified - For official use only", "UNCLASSIFIED/FOR OFFICIAL USE ONLY", "unclassified_official_use_only")
+  classification_list << write_classification("Unclassified", "UNCLASSIFIED", "unclassified")
+  
+  write_list("classification.html", classification_list)
+end
+
+def write_release(title, folder, html)
+  files = Dir.glob(File.join($basedir, "/rel_date/#{folder}/*.txt"))
+  files.each do |release|
+    basename = File.basename(release)
+    cable_list = ""
+    files.each{|cable| cable_list << cable_list_item(File.basename(cable, ".txt"))}
+    Dir.glob(File.join(release, "/*.txt")).each{|cable| cable_list << cable_list_item(File.basename(cable, ".txt"))}
+    write_list("release/#{html}.html", cable_list, title)
+  end
+  "<li><a href='release/#{html}.html'>#{title} <span class='ui-li-count'>#{files.count}</span></li>"
+end
+
+def write_section_release
+  release_list = []
+  Dir.glob(File.join($basedir, "/rel_date/*")).each do |year_folder|
+    year = File.basename(year_folder)
+    Dir.glob(File.join(year_folder, "*")).each do |month_folder|
+      month = File.basename(month_folder)
+      Dir.glob(File.join(month_folder, "*")).each do |day_folder|
+        day = File.basename(day_folder)
+        date = DateTime.parse("#{year}-#{month}-#{day}")
+        release_list << write_release(date.strftime("%d %b %Y"), date.strftime("%Y/%m/%d"), date.strftime("%Y_%m_%d"))
+      end
+    end
+  end
+  write_list("release.html", release_list.reverse.join(""))
+end
+
+write_index(Dir.glob(File.join($basedir, "/cables/*.txt")).count)
+write_section_all
+write_section_origin
+write_section_classification
+write_section_release
