@@ -136,7 +136,7 @@ def write_page(filename, list, title = nil, previous_page = nil, next_page = nil
   content = "
   <div data-role='page'> 
   	<div data-role='header'>
-  	  <a href='../index.html'>Home</a>
+  	  <a href='/'>Home</a>
   		<h1>#{title || "Wikileaks CableGate"}</h1> 
   	</div><!-- /header --> 
 
@@ -144,12 +144,12 @@ def write_page(filename, list, title = nil, previous_page = nil, next_page = nil
   	  <fieldset class='ui-grid-a'>
       	<div class='ui-block-a'>"
       	if previous_page
-      	  content << "<a href='#{previous_page}' data-role='button'>&#x2190; Prev</a>" 
+      	  content << "<a href='#{previous_page}' data-role='button' data-transition='slide' data-back='true'>&#x2190; Prev</a>" 
     	  else
     	    content << "&nbsp;"
     	  end
         content << "</div><div class='ui-block-b'>"
-      	content << "<a href='#{next_page}' data-role='button'>Next &#x2192;</a>" if next_page
+      	content << "<a href='#{next_page}' data-role='button' data-transition='slide'>Next &#x2192;</a>" if next_page
     content << "</div>	   
       </fieldset> 
   		<ul data-role='listview' data-inset='true'> 
@@ -158,12 +158,12 @@ def write_page(filename, list, title = nil, previous_page = nil, next_page = nil
       <fieldset class='ui-grid-a'>
       	<div class='ui-block-a'>"
       	if previous_page
-      	  content << "<a href='#{previous_page}' data-role='button'>&#x2190; Prev</a>" 
+      	  content << "<a href='#{previous_page}' data-role='button' data-transition='slide' data-back='true'>&#x2190; Prev</a>" 
     	  else
     	    content << "&nbsp;"
     	  end 
         content << "</div><div class='ui-block-b'>"
-      	content << "<a href='#{next_page}' data-role='button'>Next &#x2192;</a>" if next_page
+      	content << "<a href='#{next_page}' data-role='button' data-transition='slide'>Next &#x2192;</a>" if next_page
     content << "</div>	   
       </fieldset>
   	</div><!-- /content --> 
