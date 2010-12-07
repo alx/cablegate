@@ -3,24 +3,56 @@ require 'date'
 basedir = '.'
 
 $dated_cables = {}
-Dir.glob(File.join(basedir, "/dates")).each do |year|
-  Dir.glob(File.join(basedir, year)).each do |month|
-    Dir.glob(File.join(basedir, year, month)) do |cable|
-      $dated_cables[File.basename(cable)] = "#{year}/#{month}"
+Dir.glob(File.join(basedir, "/dates/*")).each do |year_folder|
+  year = File.basename(year_folder)
+  Dir.glob(File.join(year_folder, "*")).each do |month_folder|
+    month = File.basename(month_folder)
+    Dir.glob(File.join(month_folder, "*")) do |cable|
+      title = ""
+      tags = ""
+      begin
+          file = File.new(cable, "r")
+          while title.empty? && tags.empty? && (line = file.gets)
+            line.scan /^TAGS: (.*)\n/m do |extract|
+              tags << extract.first
+              line = file.gets
+            end
+            line.scan /^SUBJECT: (.*)\n/m do |extract|
+              title << extract.first
+              title << file.gets
+              title.strip!
+            end
+          end
+          file.close
+      rescue => err
+          puts "Exception: #{err}"
+      end
+      
+      $dated_cables[File.basename(cable, ".txt")] = {
+        :date => "#{year}/#{month}",
+        :title => title,
+        :tags => tags
+      }
     end
   end
 end
 
+def cable_list_item(basename)
+  cables_url = 'http://www.wikileaks.ch/cable'
+  cable_data = $dated_cables[basename]
+  output = "\n<li><h3><a href='#{cables_url}/#{cable_data[:date]}/#{basename}.html'>#{cable_data[:title]}</a></h3>"
+  output << "<p>Tags: #{cable_data[:tags]}</p>" unless cable_data[:tags].empty?
+  output << "<p class='ui-li-aside'>#{basename}</p></li>"
+  output
+end
+
 def list_cables(title, files)
-  cables_url = 'http://git.tetalab.org/index.php/p/cablegate/source/tree/master/cables'
+  
   output = ""
   
-  output << "\n<li>#{title} <span class='ui-li-count'>#{files.size}</span><ul>" unless title.empty?
+  output << "\n<li>#{title} <span class='ui-li-count'>#{files.count}</span><ul>" unless title.empty?
   
-  files.each do |file| 
-    basename = File.basename(file)
-    output << "\n<li><a href='#{$dated_cables[basename]}/#{basename}'>#{basename}</a></li>"
-  end
+  files.each{|file| output << cable_list_item(File.basename(file, ".txt"))}
   
   output << "\n</ul></li>" unless title.empty?
   
@@ -53,18 +85,11 @@ def write_index(cable_count)
   	</div><!-- /header --> 
 
   	<div data-role='content'>
-  	  <div style='text-align:center'>
-  	    <img src='./images/wikileaks.png' alt='wikileaks'/>
-  	    <p>
-  	    Currently released so far... <br>
-  	    #{cable_count} / 251,287
-  	    </p>
-  	  </div>
+  	  <div style='text-align:center'><img src='./images/wikileaks.png' alt='wikileaks'/></div>
   	
   		<ul data-role='listview' data-inset='true'> 
         <li><a href='./cables.html'>All cables</a> <span class='ui-li-count'>#{cable_count}</span></li>
         <li><a href='./classification.html'>By Classification</a></li>
-        <li><a href='./date.html'>By Date</a></li>
         <li><a href='./origin.html'>By Origin</a></li>
         <li><a href='./release.html'>By Release</a></li>
       </ul>
@@ -93,7 +118,19 @@ end
 write_index(Dir.glob(File.join(basedir, "/cables/*.txt")).count)
 
 # List all cables
-write_list("cables.html", list_cables("", Dir.glob(File.join(basedir, "/cables/*.txt"))))
+# write_list("cables.html", list_cables("", Dir.glob(File.join(basedir, "/cables/*.txt"))))
+cable_list = ""
+Dir.glob(File.join(basedir, "/dates/*")).each do |year_folder|
+  year = File.basename(year_folder)
+  Dir.glob(File.join(year_folder, "*")).each do |month_folder|
+    month = File.basename(month_folder)
+    cable_list << "<li data-role='list-divider'>#{DateTime.parse("#{year}-#{month}-01").strftime("%b %Y")} <span class='ui-li-count'>#{Dir.glob(File.join(month_folder, "*")).count}</span></li>"
+    Dir.glob(File.join(month_folder, "*")) do |cable|
+      cable_list << cable_list_item(File.basename(cable, ".txt"))
+    end
+  end
+end
+write_list("cables.html", cable_list)
 
 # List origin
 cable_list = ""
