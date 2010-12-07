@@ -3,6 +3,7 @@ require 'date'
 basedir = '.'
 
 $dated_cables = {}
+$tags = []
 Dir.glob(File.join(basedir, "/dates/*")).each do |year_folder|
   year = File.basename(year_folder)
   Dir.glob(File.join(year_folder, "*")).each do |month_folder|
@@ -27,7 +28,9 @@ Dir.glob(File.join(basedir, "/dates/*")).each do |year_folder|
       rescue => err
           puts "Exception: #{err}"
       end
-      
+      tags.split(" ").each do |tag|
+        $tags << tag
+      end
       $dated_cables[File.basename(cable, ".txt")] = {
         :date => "#{year}/#{month}",
         :title => title,
@@ -98,7 +101,7 @@ def write_index(cable_count)
     <div data-role='footer'>
     		<div data-role='controlgroup' data-type='horizontal' style='text-align:center'>
   		    <a href='http://jquerymobile.com'>Jquery Mobile</a>
-    		  <a href='http://www.wikileaks.ch/support.html'>Support Wikileaks CableGate</a>
+    		  <a href='http://www.wikileaks.ch/support.html'>Support Wikileaks</a>
     		  <a href='http://git.tetalab.org/index.php/p/cablegate/source/tree/master/'>Code</a>
     		</div>
     </div><!-- /foter -->
@@ -121,7 +124,7 @@ def write_list(filename, list)
   	<div data-role='footer'>
     		<div data-role='controlgroup' data-type='horizontal' style='text-align:center'>
   		    <a href='http://jquerymobile.com'>Jquery Mobile</a>
-    		  <a href='http://www.wikileaks.ch/support.html'>Support Wikileaks CableGate</a>
+    		  <a href='http://www.wikileaks.ch/support.html'>Support Wikileaks</a>
     		  <a href='http://git.tetalab.org/index.php/p/cablegate/source/tree/master/'>Code</a>
     		</div>
     </div><!-- /foter -->
