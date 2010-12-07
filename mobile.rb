@@ -151,9 +151,14 @@ write_list("classification.html", cable_list)
 
 # List release dates
 cable_list = ""
-release_date = DateTime.parse("11/28/2010")
-while release_date.strftime("%Y%m%d") != (Date.today + 1).strftime("%Y%m%d")
-  cable_list << list_cables(release_date.strftime("%Y/%m/%d"), Dir.glob(File.join(basedir, "/rel_date/#{release_date.strftime("%Y/%m/%d")}/*.txt")))
-  release_date += 1
+Dir.glob(File.join(basedir, "/rel_date/*")).each do |year_folder|
+  year = File.basename(year_folder)
+  Dir.glob(File.join(year_folder, "*")).each do |month_folder|
+    month = File.basename(month_folder)
+    Dir.glob(File.join(month_folder, "*")).each do |day_folder|
+      day = File.basename(day_folder)
+      cable_list << list_cables("#{DateTime.parse("#{year}-#{month}-#{day}").strftime("%d %b %Y")}", Dir.glob(File.join(day_folder, "*")))
+    end
+  end
 end
 write_list("release.html", cable_list)
