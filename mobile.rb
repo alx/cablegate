@@ -101,7 +101,7 @@ def write_index(cable_count)
     		  <a href='http://www.wikileaks.ch/support.html'>Support Wikileaks CableGate</a>
     		  <a href='http://git.tetalab.org/index.php/p/cablegate/source/tree/master/'>Code</a>
     		</div>
-    </div><!-- /header -->
+    </div><!-- /foter -->
   </div><!-- /page -->"
   write_html("index.html", index_content)
 end
@@ -118,6 +118,13 @@ def write_list(filename, list)
         #{list}
       </ul>
   	</div><!-- /content --> 
+  	<div data-role='footer'>
+    		<div data-role='controlgroup' data-type='horizontal' style='text-align:center'>
+  		    <a href='http://jquerymobile.com'>Jquery Mobile</a>
+    		  <a href='http://www.wikileaks.ch/support.html'>Support Wikileaks CableGate</a>
+    		  <a href='http://git.tetalab.org/index.php/p/cablegate/source/tree/master/'>Code</a>
+    		</div>
+    </div><!-- /foter -->
   </div><!-- /page -->"
   write_html(filename, content)
 end
