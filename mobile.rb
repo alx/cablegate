@@ -136,7 +136,7 @@ def write_page(filename, list, title = nil, previous_page = nil, next_page = nil
   content = "
   <div data-role='page'> 
   	<div data-role='header'>
-  	  <a href='index.html'>Back</a>
+  	  <a href='../index.html'>Home</a>
   		<h1>#{title || "Wikileaks CableGate"}</h1> 
   	</div><!-- /header --> 
 
