@@ -153,7 +153,7 @@ def write_page(filename, list, title = nil, previous_page = nil, next_page = nil
       	content << "<a href='#{next_page}' data-role='button' data-transition='slide'>Next &#x2192;</a>" if next_page
     content << "</div>	   
       </fieldset> 
-  		<ul data-role='listview' data-inset='true'> 
+  		<ul data-role='listview'> 
         #{list}
       </ul>
       <fieldset class='ui-grid-a'>
