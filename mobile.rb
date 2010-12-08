@@ -137,7 +137,7 @@ def write_page(filename, list, title = nil, previous_page = nil, next_page = nil
   content = "
   <div data-role='page'> 
   	<div data-role='header'>
-  	  #{previous_page ? "<a href='#{previous_page}' data-role='button' data-icon='arrow-l'>Previous</a>" : "<a href='/'>Home</a>"}
+  	  #{previous_page ? "<a href='#{previous_page}' data-role='button' data-icon='arrow-l'>Previous</a>" : "<a href='/' data-role='button' data-icon='arrow-u'>Home</a>"}
   		<h1>#{title || "Wikileaks CableGate"}</h1>
   		#{"<a href='#{next_page}' data-role='button' data-icon='arrow-r'>Next</a>" if next_page}
   	</div><!-- /header --> 
@@ -148,9 +148,11 @@ def write_page(filename, list, title = nil, previous_page = nil, next_page = nil
       </ul>
   	</div><!-- /content --> 
   	<div data-role='footer'>
-    	#{"<a href='#{previous_page}' data-role='button' data-icon='arrow-l'>Previous</a>" if previous_page}
-    	<a href='/' data-role='button' data-icon='arrow-u'>Home</a>
-    	#{"<a href='#{next_page}' data-role='button' data-icon='arrow-r'>Next</a>" if next_page}
+  	  <div data-role='controlgroup' data-type='horizontal' style='text-align:center'>
+    	  #{"<a href='#{previous_page}' data-role='button' data-icon='arrow-l'>Previous</a>" if previous_page}
+    	  <a href='/' data-role='button' data-icon='arrow-u'>Home</a>
+    	  #{"<a href='#{next_page}' data-role='button' data-icon='arrow-r'>Next</a>" if next_page}
+    	</div>
     </div><!-- /foter -->
   </div><!-- /page -->"
   write_html(filename, content)
