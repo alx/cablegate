@@ -45,8 +45,8 @@ def cable_list_item(basename)
   cable_data = $dated_cables[basename]
   output = "\n<li><h3><a href='#{cables_url}/#{cable_data[:date]}/#{basename}.html'>#{cable_data[:title]}</a></h3>"
   output << "<p>"
-  output << "Tags: #{cable_data[:tags]}" unless cable_data[:tags].empty?
-  output << " - #{basename}</p></li>"
+  output << "Tags: #{cable_data[:tags]} - " unless cable_data[:tags].empty?
+  output << "#{basename}</p></li>"
   output
 end
 
