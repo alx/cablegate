@@ -137,43 +137,20 @@ def write_page(filename, list, title = nil, previous_page = nil, next_page = nil
   content = "
   <div data-role='page'> 
   	<div data-role='header'>
-  	  <a href='/'>Home</a>
-  		<h1>#{title || "Wikileaks CableGate"}</h1> 
+  	  #{previous_page ? "<a href='#{previous_page}' data-role='button' data-icon='arrow-l'>Previous</a>" : "<a href='/'>Home</a>"}
+  		<h1>#{title || "Wikileaks CableGate"}</h1>
+  		#{"<a href='#{next_page}' data-role='button' data-icon='arrow-r'>Next</a>" if next_page}
   	</div><!-- /header --> 
 
   	<div data-role='content'>
-  	  <fieldset class='ui-grid-a'>
-      	<div class='ui-block-a'>"
-      	if previous_page
-      	  content << "<a href='#{previous_page}' data-role='button' data-transition='slide' data-back='true'>&#x2190; Prev</a>" 
-    	  else
-    	    content << "&nbsp;"
-    	  end
-        content << "</div><div class='ui-block-b'>"
-      	content << "<a href='#{next_page}' data-role='button' data-transition='slide'>Next &#x2192;</a>" if next_page
-    content << "</div>	   
-      </fieldset> 
   		<ul data-role='listview'> 
         #{list}
       </ul>
-      <fieldset class='ui-grid-a'>
-      	<div class='ui-block-a'>"
-      	if previous_page
-      	  content << "<a href='#{previous_page}' data-role='button' data-transition='slide' data-back='true'>&#x2190; Prev</a>" 
-    	  else
-    	    content << "&nbsp;"
-    	  end 
-        content << "</div><div class='ui-block-b'>"
-      	content << "<a href='#{next_page}' data-role='button' data-transition='slide'>Next &#x2192;</a>" if next_page
-    content << "</div>	   
-      </fieldset>
   	</div><!-- /content --> 
   	<div data-role='footer'>
-    		<div data-role='controlgroup' data-type='horizontal' style='text-align:center'>
-  		    <a href='http://jquerymobile.com'>Jquery Mobile</a>
-    		  <a href='http://www.wikileaks.ch/support.html'>Support Wikileaks</a>
-    		  <a href='http://git.tetalab.org/index.php/p/cablegate/source/tree/master/'>Code</a>
-    		</div>
+    	#{"<a href='#{previous_page}' data-role='button' data-icon='arrow-l'>Previous</a>" if previous_page}
+    	<a href='/' data-role='button' data-icon='arrow-u'>Home</a>
+    	#{"<a href='#{next_page}' data-role='button' data-icon='arrow-r'>Next</a>" if next_page}
     </div><!-- /foter -->
   </div><!-- /page -->"
   write_html(filename, content)
