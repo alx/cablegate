@@ -110,7 +110,7 @@ def write_index(cable_count)
   write_html("index.html", index_content)
 end
 
-def write_list(filename, list, title = nil)
+def write_list(filename, list, title = nil, data_filter = false)
   content = "
   <div data-role='page'> 
   	<div data-role='header'> 
@@ -118,7 +118,7 @@ def write_list(filename, list, title = nil)
   	</div><!-- /header --> 
 
   	<div data-role='content'> 
-  		<ul data-role='listview' data-filter='true'> 
+  		<ul data-role='listview' #{"data-filter='true'" if data_filter}> 
         #{list}
       </ul>
   	</div><!-- /content --> 
@@ -221,9 +221,9 @@ def write_section_origin
 
     cable_list = ""
     Dir.glob(File.join(origin, "/*.txt")).each{|cable| cable_list << cable_list_item(File.basename(cable, ".txt"))}
-    write_list(origin_url, cable_list, basename)
+    write_list(origin_url, cable_list, basename, true)
   end
-  write_list("origin.html", origin_list)
+  write_list("origin.html", origin_list, nil, true)
 end
 
 def write_classification(title, folder, html)
@@ -233,7 +233,7 @@ def write_classification(title, folder, html)
     cable_list = ""
     files.each{|cable| cable_list << cable_list_item(File.basename(cable, ".txt"))}
     Dir.glob(File.join(classification, "/*.txt")).each{|cable| cable_list << cable_list_item(File.basename(cable, ".txt"))}
-    write_list("classification/#{html}.html", cable_list, title)
+    write_list("classification/#{html}.html", cable_list, title, true)
   end
   "<li><a href='classification/#{html}.html'>#{title} <span class='ui-li-count'>#{files.count}</span></li>"
 end
@@ -246,7 +246,7 @@ def write_section_classification
   classification_list << write_classification("Unclassified - For official use only", "UNCLASSIFIED/FOR OFFICIAL USE ONLY", "unclassified_official_use_only")
   classification_list << write_classification("Unclassified", "UNCLASSIFIED", "unclassified")
   
-  write_list("classification.html", classification_list)
+  write_list("classification.html", classification_list, nil, false)
 end
 
 def write_release(title, folder, html)
@@ -256,7 +256,7 @@ def write_release(title, folder, html)
     cable_list = ""
     files.each{|cable| cable_list << cable_list_item(File.basename(cable, ".txt"))}
     Dir.glob(File.join(release, "/*.txt")).each{|cable| cable_list << cable_list_item(File.basename(cable, ".txt"))}
-    write_list("release/#{html}.html", cable_list, title)
+    write_list("release/#{html}.html", cable_list, title, true)
   end
   "<li><a href='release/#{html}.html'>#{title} <span class='ui-li-count'>#{files.count}</span></li>"
 end
@@ -274,7 +274,7 @@ def write_section_release
       end
     end
   end
-  write_list("release.html", release_list.reverse.join(""))
+  write_list("release.html", release_list.reverse.join(""), nil, false)
 end
 
 write_index(Dir.glob(File.join($basedir, "/cables/*.txt")).count)
