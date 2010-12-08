@@ -118,7 +118,7 @@ def write_list(filename, list, title = nil)
   	</div><!-- /header --> 
 
   	<div data-role='content'> 
-  		<ul data-role='listview'> 
+  		<ul data-role='listview' data-filter='true'> 
         #{list}
       </ul>
   	</div><!-- /content --> 
