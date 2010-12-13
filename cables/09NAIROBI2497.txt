@@ -13,171 +13,190 @@ TO RUEHC/SECSTATE WASHDC IMMEDIATE 0140
 INFO IGAD COLLECTIVE
 RHEFDIA/DIA WASHINGTON DC
 RHEHAAA/NATIONAL SECURITY COUNCIL WASHINGTON DC
-RUEHKH/AMEMBASSY KHARTOUM 0002S E C R E T SECTION 01 OF 02 NAIROBI 002497 
-
-NOFORN 
-SIPDIS 
-
-E.O. 12958: DECL: 2019/12/16 
+RUEHKH/AMEMBASSY KHARTOUM 0002<<240168>>
+12/16/2009 14:15
+09NAIROBI2497
+Embassy Nairobi
+SECRET//NOFORN
+09NAIROBI2487|09STATE122115
+VZCZCXRO7793
+OO RUEHROV
+DE RUEHNR #2497/01 3501415
+ZNY SSSSS ZZH
+O R 161415Z DEC 09
+FM AMEMBASSY NAIROBI
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 0140
+INFO IGAD COLLECTIVE
+RHEFDIA/DIA WASHINGTON DC
+RHEHAAA/NATIONAL SECURITY COUNCIL WASHINGTON DC
+RUEHKH/AMEMBASSY KHARTOUM 0002
 TAGS: MARR MCAP MOPS MASS PARM PINR PTER PREL KE UG UP SU
 SUBJECT: Kenya responds to Sudan tank demarche 
-
-REF: 09 STATE 122115; 09 NAIROBI 2487 
-
-CLASSIFIED BY: Rachel Meyers, Deputy Political Counselor, State, POL; 
-REASON: 1.4(A), (B), (D) 
-
-¶1. On December 15, Ambassador Ranneberger discussed the tank 
-transfer issue with Prime Minister Odinga, who said that the GOK 
-was committed to assisting the GOSS and that there was "intense 
-pressure" from the GOSS to deliver the tanks. He hinted that the 
-GOK might instead transfer the tanks to Uganda (and, he implied, 
-from there to South Sudan). On December 16, following AF guidance, 
-Ambassador Ranneberger reiterated to the PM that any further 
-transfer of the tanks, via Uganda or otherwise, would violate U.S. 
-law and could trigger sweeping sanctions against Kenya. He also 
-noted that the likelihood of receiving a waiver for past transfers 
-of LME to the SPLA since 2007 would be remote if the GOK proceeded 
-with moving the tanks to Sudan. Ambassador Ranneberger also briefed 
-Minister of Finance Uhuru Kenyatta on the issue on December 16, and 
-Kenyatta responded that he understood the U.S. position. 
+REF: 09 STATE 122115; 09 NAIROBI 2487
 
 
+S e c r e t section 01 of 02 nairobi 002497
 
-¶2. On December 16, COL McNevin and DAO notetaker met with CGS 
-Kianga and DMI Kameru at the Ambassador's direction. The Vice Chief 
-of General Staff General Karanji also attended. McNevin reiterated 
-the points made by Ambassador Ranneberger to the PM (see para 2) 
-and noted that we are open to discussing possible future options 
-for disposition of the tanks so that the GOK is not stuck with 
-assets it does not need. Before the meeting, Kameru mentioned that 
-in the GOK's view, the tanks belong to the GOSS and that his 
-government is receiving "increasing pressure" to deliver them. He 
-added that President Kibaki was personally very angry about this 
-issue. During the meeting, Kianga commented that the GOK was "very 
-confused" by our position and did not understand why they needed a 
-waiver, since the past transfers had been undertaken in 
-consultation with the United States and they thought we were in 
-agreement on the way forward towards implementation of the CPA. He 
-added that this was causing a "major problem" between the GOK and 
-the GOSS. Kianga asked about the significance of what appeared to 
-him to be a major policy reversal, and questioned whether the 
-United States is rethinking the CPA, increasingly shifting its 
-support to Khartoum, and/or now seeking a unitary state in Sudan. 
-Kianga asked that the United States explain directly to the 
-GOSS/SPLA why we are blocking the tank transfer. Following that 
-discussion, Kianga indicated the GOK would like to participate in 
-a high-level trilateral meeting (GOK, GOSS, and USG) to reach a 
-collective understanding of U.S. and regional partner countries' 
-objectives with respect to implementation of the CPA. 
+Noforn
+sipdis
+
+E.o. 12958: decl: 2019/12/16
+Tags: marr, mcap, mops, mass, parm, pinr, pter, prel, ke, ug, up, su
+SUBJECT: Kenya responds to Sudan tank demarche
+
+Ref: 09 state 122115; 09 nairobi 2487
+
+CLASSIFIED BY: Rachel Meyers, Deputy Political Counselor, State, POL;
+reason: 1.4(a), (b), (d)
+
+¶1. On December 15, Ambassador Ranneberger discussed the tank
+transfer issue with Prime Minister Odinga, who said that the GOK
+was committed to assisting the GOSS and that there was "intense
+pressure" from the GOSS to deliver the tanks. He hinted that the
+GOK might instead transfer the tanks to Uganda (and, he implied,
+from there to South Sudan). On December 16, following AF guidance,
+Ambassador Ranneberger reiterated to the PM that any further
+transfer of the tanks, via Uganda or otherwise, would violate U.S.
+law and could trigger sweeping sanctions against Kenya. He also
+noted that the likelihood of receiving a waiver for past transfers
+of LME to the SPLA since 2007 would be remote if the GOK proceeded
+with moving the tanks to Sudan. Ambassador Ranneberger also briefed
+Minister of Finance Uhuru Kenyatta on the issue on December 16, and
+Kenyatta responded that he understood the U.S. position.
 
 
 
-¶3. As McNevin was departing the meeting, Kameru called him back and 
-asked, on Kianga's behalf, for a list of all DOD programs and 
-funding for Kenya, due to Kameru later today (December 16) in 
-preparation for an upcoming Defense Council meeting scheduled for 
-December 21. The Defense Council is chaired by President Kibaki, 
-and it appears likely that Kianga will use the list to underscore 
-the importance of the U.S.-Kenya mil-mil relationship and to 
-convince Kibaki not to transfer the tanks. In addition to Kibaki 
-and Kianga, other Defense Council members are NSIS Director 
-Gichangi, Minister for Defense Haji, Minister for Internal Security 
-Saitoti, Commandant of the Administration Police Mbugua, and Police 
-Commissioner Iteere. (Note: The Defense Council is composed 
-entirely of advisors who are close to the President and come from 
-his Kikuyu ethnic group or closely related groups. End note.) 
+¶2. xxxxxxxxxxxx, COL McNevin and DAO notetaker met with xxxxxxxxxxxx. 
+xxxxxxxxxxxx also attended. McNevin reiterated
+the points made by Ambassador Ranneberger to the PM (see para 2)
+and noted that we are open to discussing possible future options
+for disposition of the tanks so that the GOK is not stuck with
+assets it does not need. Before the meeting, xxxxxxxxxxxx mentioned that
+in the GOK's view, the tanks belong to the GOSS and that his
+government is receiving "increasing pressure" to deliver them. He
+added that President Kibaki was personally very angry about this
+issue. During the meeting, xxxxxxxxxxxx commented that the GOK was "very
+confused" by our position and did not understand why they needed a
+waiver, since the past transfers had been undertaken in
+consultation with the United States and they thought we were in
+agreement on the way forward towards implementation of the CPA. He
+added that this was causing a "major problem" between the GOK and
+the GOSS. xxxxxxxxxxxx asked about the significance of what appeared to
+him to be a major policy reversal, and questioned whether the
+United States is rethinking the CPA, increasingly shifting its
+support to Khartoum, and/or now seeking a unitary state in Sudan.
+xxxxxxxxxxxx asked that the United States explain directly to the
+GOSS/SPLA why we are blocking the tank transfer. Following that
+discussion, xxxxxxxxxxxx indicated the GOK would like to participate in
+a high-level trilateral meeting (GOK, GOSS, and USG) to reach a
+collective understanding of U.S. and regional partner countries'
+objectives with respect to implementation of the CPA.
 
 
 
-¶4. As directed in ref A, the demarche regarding transfer of 
-Ukrainian-origin LME by the Government of Kenya (GOK) to the Sudan 
-People's Liberation Army (SPLA) was originally delivered by Deputy 
-Assistant Secretary for Defense Vicki Huddleston and Kenya-US 
-Liaison Office Chief COL McNevin to Kenya Assistant Minister for 
-Defense David Musila and Kenya Chief of Defense Forces General 
-Kianga on 8 December 2009. COL McNevin also discussed the issue 
-further with the Director of Military Intelligence Philip Kameru on 
-December 9, 12, and 16. In addition, the Political RA Chief met 
-with Director of National Security and Intelligence Service (NSIS) 
-General Gichangi on the issue on December 16.The GOK 
-representatives assured DASD Huddleston and COL McNevin that no 
-tanks would be delivered to the SPLA for the foreseeable future. 
-(Note: There are 32 T-72 tanks remaining in Kenya from the 
-shipment that arrived in Mombasa aboard the M/V Faina. End note.) 
-
-NAIROBI 00002497 002 OF 002 
-
-
-¶5. On December 9, DMI Kameru also noted that all other transfers 
-have been done with full disclosure to the United States, and the 
-GOK has shared all information regarding these transfers without 
-hesitation. He further noted that stopping this shipment will 
-incur "big costs" and that "Salva Kir will not be happy." He went 
-on to state that the GOK may seek waiver support from the 
-Government of Southern Sudan (GOSS) and that the basis for the 
-waiver would be the implementing instructions of the Comprehensive 
-Peace Agreement (CPA), which allow other nations to support the 
-modernization and conversion of the SPLA from a guerilla force to a 
-small conventional civilian military that would be capable of 
-future integration with the Sudanese national military. As noted in 
-ref A talking points, McNevin and Kameru also briefly discussed 
-that U.S. legislation does contain a waiver provision. On December 
-12, McNevin held a subsequent meeting with Kameru at the 
-Ambassasdor's request and noted that the likelihood of a waiver 
-being granted by the United States would be remote if the GOK went 
-ahead with the tank transfer. 
+¶3. As McNevin was departing the meeting, xxxxxxxxxxxx called him back and
+asked, on xxxxxxxxxxxx behalf, for a list of all DOD programs and
+funding for Kenya, due to xxxxxxxxxxxx later today (December 16) in
+preparation for an upcoming Defense Council meeting scheduled for
+December 21. The Defense Council is chaired by President Kibaki,
+and it appears likely that xxxxxxxxxxxx will use the list to underscore
+the importance of the U.S.-Kenya mil-mil relationship and to
+convince Kibaki not to transfer the tanks. In addition to Kibaki
+and xxxxxxxxxxxxx other Defense Council members are NSIS Director
+Gichangi, Minister for Defense Haji, Minister for Internal Security
+Saitoti, Commandant of the Administration Police Mbugua, and Police
+Commissioner Iteere. (Note: The Defense Council is composed
+entirely of advisors who are close to the President and come from
+his Kikuyu ethnic group or closely related groups. End note.)
 
 
 
-¶6. Comment: As of 16 December, the 32 T-72 tanks remain on 
-flatcars at Kahawa Army Barracks in Nairobi. If indeed the tanks 
-are not going to be transported in the "foreseeable future," we 
-would expect to see them off-loaded soon and the flatcars returned 
-to Rift Valley Railroad service. The GOK is understandably 
-confused, as transfer of these tanks, in their view, dove-tailed 
-with the goals of the United States to implement the CPA by 
-converting the SPLA from a guerrilla force to a small conventional 
-force capable of defending Juba (but not take Khartoum), able to 
-integrate with a national force, and able to counterbalance the 
-significant military capacity of Khartoum. Despite the GOK 
-assurances, there are a number of factors that may lead to the 
-eventual transfer of the tanks, including: the need to maintain 
-good relations with South Sudan and keep a friendly ally on Kenya's 
-unstable northwestern border; the substantial financial losses 
-Kenya will incur if it does not complete the transfer; the fact 
-that Kenya has no need to add additional tank assets to its 
-military; and Kenya's financial and, to a lesser extent, 
-cultural/ideological links with South Sudan. 
+¶4. As directed in ref A, the demarche regarding transfer of
+Ukrainian-origin LME by the Government of Kenya (GOK) to the Sudan
+People's Liberation Army (SPLA) was originally delivered by Deputy
+Assistant Secretary for Defense Vicki Huddleston and Kenya-US
+Liaison Office Chief COL McNevin to Kenya Assistant Minister for
+Defense David Musila and xxxxxxxxxxxx. COL McNevin also discussed the issue
+further with the xxxxxxxxxxxx. In addition, the Political RA Chief met
+with Director of National Security and Intelligence Service (NSIS)
+General Gichangi on the issue on December 16.The GOK
+representatives assured DASD Huddleston and COL McNevin that no
+tanks would be delivered to the SPLA for the foreseeable future.
+(Note: There are 32 T-72 tanks remaining in Kenya from the
+shipment that arrived in Mombasa aboard the M/V Faina. End note.)
+
+Nairobi 00002497 002 of 002
+
+
+¶5. xxxxxxxxxxxx also noted that all other transfers
+have been done with full disclosure to the United States, and the
+GOK has shared all information regarding these transfers without
+hesitation. He further noted that stopping this shipment will
+incur "big costs" and that "Salva Kir will not be happy." He went
+on to state that the GOK may seek waiver support from the
+Government of Southern Sudan (GOSS) and that the basis for the
+waiver would be the implementing instructions of the Comprehensive
+Peace Agreement (CPA), which allow other nations to support the
+modernization and conversion of the SPLA from a guerilla force to a
+small conventional civilian military that would be capable of
+future integration with the Sudanese national military. As noted in
+ref A talking points, McNevin and xxxxxxxxxxxx also briefly discussed
+that U.S. legislation does contain a waiver provision. xxxxxxxxxxxx
+McNevin held a subsequent meeting with xxxxxxxxxxxx at the
+Ambassasdor's request and noted that the likelihood of a waiver
+being granted by the United States would be remote if the GOK went
+ahead with the tank transfer.
 
 
 
-¶7. Over the past two years, KMOD officials have shared full details 
-of their engagement with the SPLA as we have shared details of our 
-training program for the SPLA, including combat arms soldier 
-training, under a May 2007 Presidential Directive. The GOK views 
-this as a reversal of U.S. policy that has significant 
-security,financial, and political implications for them. It is 
-difficult to persuade the Kenyans that transferring this equipment 
-to the SPLA violates the terms of the CPA and therefore will merit 
-sanctions if completed when they are well aware that the United 
-States is continuing military to military security sector reform 
-assistance to the SPLA. 
+¶6. Comment: As of 16 December, the 32 T-72 tanks remain on
+flatcars at Kahawa Army Barracks in Nairobi. If indeed the tanks
+are not going to be transported in the "foreseeable future," we
+would expect to see them off-loaded soon and the flatcars returned
+to Rift Valley Railroad service. The GOK is understandably
+confused, as transfer of these tanks, in their view, dove-tailed
+with the goals of the United States to implement the CPA by
+converting the SPLA from a guerrilla force to a small conventional
+force capable of defending Juba (but not take Khartoum), able to
+integrate with a national force, and able to counterbalance the
+significant military capacity of Khartoum. Despite the GOK
+assurances, there are a number of factors that may lead to the
+eventual transfer of the tanks, including: the need to maintain
+good relations with South Sudan and keep a friendly ally on Kenya's
+unstable northwestern border; the substantial financial losses
+Kenya will incur if it does not complete the transfer; the fact
+that Kenya has no need to add additional tank assets to its
+military; and Kenya's financial and, to a lesser extent,
+cultural/ideological links with South Sudan.
 
 
 
-¶8. We have been pushing the GOK very hard on the civilian side to 
-bring about reform and good governance, and have sparked mounting 
-resistance as a result. Despite that pressure and tension, our 
-military to military relations have been excellent and our 
-unimpeded access has been of significant benefit to the USG in 
-terms of counterterrorism and anti-piracy. Given the competing 
-policy issues on the table, we welcome ideas to defuse this 
-situation, discuss options for alternative dispositions of the 
-tanks, and to harmonize the "apparent disconnect" between the CPA 
-and U.S. legislation mentioned in ref A. We urge Washington to 
-consider the GOK's request to convene a high-level dialogue with 
-the GOK, GOSS, and other relevant stakeholders as soon as possible 
-to foster a clear understanding of U.S. policy and develop a way 
-forward towards CPA implementation. 
-RANNEBERGER
+¶7. Over the past two years, KMOD officials have shared full details
+of their engagement with the SPLA as we have shared details of our
+training program for the SPLA, including combat arms soldier
+training, under a May 2007 Presidential Directive. The GOK views
+this as a reversal of U.S. policy that has significant
+security,financial, and political implications for them. It is
+difficult to persuade the Kenyans that transferring this equipment
+to the SPLA violates the terms of the CPA and therefore will merit
+sanctions if completed when they are well aware that the United
+States is continuing military to military security sector reform
+assistance to the SPLA.
+
+
+
+¶8. We have been pushing the GOK very hard on the civilian side to
+bring about reform and good governance, and have sparked mounting
+resistance as a result. Despite that pressure and tension, our
+military to military relations have been excellent and our
+unimpeded access has been of significant benefit to the USG in
+terms of counterterrorism and anti-piracy. Given the competing
+policy issues on the table, we welcome ideas to defuse this
+situation, discuss options for alternative dispositions of the
+tanks, and to harmonize the "apparent disconnect" between the CPA
+and U.S. legislation mentioned in ref A. We urge Washington to
+consider the GOK's request to convene a high-level dialogue with
+the GOK, GOSS, and other relevant stakeholders as soon as possible
+to foster a clear understanding of U.S. policy and develop a way
+forward towards CPA implementation.
+Ranneberger
