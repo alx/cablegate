@@ -4,7 +4,6 @@ require 'nokogiri'
 require 'hpricot'
 require 'open-uri'
 require 'date'
-require 'twitter'
 
 ####
 # Wikileak CableGate Parser
