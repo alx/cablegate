@@ -1,8 +1,10 @@
 require 'rubygems'
+require 'net/http'
 require 'nokogiri'
 require 'hpricot'
 require 'open-uri'
 require 'date'
+require 'twitter'
 
 ####
 # Wikileak CableGate Parser
@@ -11,24 +13,25 @@ require 'date'
 # Extract these info and fetch the content of each file to rebuild a text only version of the content
 # 
 
-#
-#
-# Setup: just change your specific folders here
-#
-#
 options = {}
-# Link to cablegate website or mirror
-options[:web_root] = "http://cablegate.wikileaks.org"
-# options[:web_root] = "http://cablegate.tetalab.org"
 
-# Folder where you'll save the cables
-options[:scrape_root] = "/home/tetalab/cablegate"
+###
+###
 
-#
-#
-#
-#
-#
+options[:ip_root] = "213.251.145.96"
+#options[:ip_root] = "www.wikileaks.ch"
+
+###
+###
+
+## Optional
+options[:web_root] = "http://#{options[:ip_root]}"
+#web_root = "http://localhost/~alx/wikileaks"
+options[:scrape_root] = "/home/alex/wikileaks/cablegate"
+options[:updated] = false
+options[:current_cables] = []
+options[:new_cables] = []
+####
 
 def write_cable(cable, options = {})
   
@@ -38,7 +41,8 @@ def write_cable(cable, options = {})
   unless File.exists? cable_local
     
     options[:updated] = true
-    
+    options[:new_cables] << cable
+
     p cable_remote
     cable_document = Hpricot(open(cable_remote))
 
@@ -65,15 +69,23 @@ def write_cable(cable, options = {})
     File.open(cable_file, "w") do |f|
       f.write cable_file_content
     end
+  end
+end
 
-    [
+def dispatch_cables_into_folders(options = {})
+
+  if(options[:new_cables].size > 0)
+    options[:new_cables].each do |cable|
+      cable_file = File.join("#{options[:scrape_root]}/cables", "#{cable[:id]}.txt")
+      [
       "#{options[:scrape_root]}/dates/#{cable[:date].strftime("%Y/%m")}",
       "#{options[:scrape_root]}/classification/#{cable[:classification]}",
       "#{options[:scrape_root]}/origin/#{cable[:origin]}",
       "#{options[:scrape_root]}/rel_date/#{options[:rel_date]}/"
-    ].each do |folder|
-      FileUtils.mkdir_p folder
-      FileUtils.cp cable_file, File.join(folder, "#{cable[:id]}.txt")
+      ].each do |folder|
+        FileUtils.mkdir_p folder
+        FileUtils.cp cable_file, File.join(folder, "#{cable[:id]}.txt")
+      end
     end
   end
 end
@@ -91,6 +103,7 @@ def parse_index(document, options = {})
           case index
           when 0
             cable[:id] = (cable_info[index]/"/a").inner_html
+	    options[:current_cables] << cable[:id]
           when 1
             cable[:title] = cable_info[index].inner_html
           when 2
@@ -109,14 +122,9 @@ def parse_index(document, options = {})
   end
 end
 
-def archive_cables
-  nb_cables = Dir["cables/*"].length.to_s
-  `git add .; git commit -a -m "update to #{nb_cables}"`
-end
-
 def parse_date(date, options = {})
   page = 0
-  wikileaks_request = Net::HTTP.new('cablegate.wikileaks.org', 80)
+  wikileaks_request = Net::HTTP.new(options[:ip_root], 80)
   while (wikileaks_request.request_head("/reldate/#{date.strftime("%Y-%m-%d")}_#{page}.html").kind_of? Net::HTTPOK)
     p "#{options[:web_root]}/reldate/#{date.strftime("%Y-%m-%d")}_#{page}.html"
     document = Hpricot(open("#{options[:web_root]}/reldate/#{date.strftime("%Y-%m-%d")}_#{page}.html"))
@@ -125,28 +133,15 @@ def parse_date(date, options = {})
     page += 1
   end
 end
-
-index_doc = Hpricot(open("http://cablegate.wikileaks.org"))
-nb_cables = (index_doc/"div.main  p").first.inner_html.match(/\d+/).to_s.to_i
-
-if(nb_cables == Dir["cables/*"].length)
-  p "Same cables: #{nb_cables}"
-else
-  p "New cables: #{nb_cables}"
-
-  options[:updated] = false
   
-  publication_date = DateTime.parse("11/28/2010")
-  
-  while publication_date.strftime("%Y%m%d") != (Date.today + 1).strftime("%Y%m%d")
-    p publication_date.strftime("%Y%m%d")
-    parse_date(publication_date, options)
-    publication_date += 1
-  end
+publication_date = DateTime.parse("11/28/2010")
 
-  unless options[:updated]
-    p "no update"
-  else
-    archive_cables
-  end
+while publication_date.strftime("%Y%m%d") != (Date.today + 1).strftime("%Y%m%d")
+  p publication_date.strftime("%Y%m%d")
+  parse_date(publication_date, options)
+  publication_date += 1
+end
+
+if options[:updated]
+  dispatch_cables_into_folders(options = {})
 end
