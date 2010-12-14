@@ -30,22 +30,38 @@ options[:updated] = false
 options[:new_cables] = []
 ####
 
+def parse_index(document, options = {})
+  document.xpath("//tr").each do |c|
+    cable_details = c.content.strip.split(/\n+/)
+    # p "content: #{c.content.strip}"
+    unless cable_details[0] == "Reference ID"
+      # p "cable_details: #{cable_details.inspect}"
+      cable = {}
+      cable[:origin] = cable_details.pop
+      cable[:classification] = cable_details.pop
+      cable[:release_date] = Time.parse(cable_details.pop)
+      cable[:date] = Time.parse(cable_details.pop)
+      cable[:title] = cable_details.size == 2 ? cable_details.pop : ""
+      cable[:id] = cable_details.pop
+      write_cable(cable, options)
+    end
+  end
+end
+
 def write_cable(cable, options = {})
-  
+
   cable_local = File.join("#{options[:scrape_root]}/cables", "#{cable[:id]}.txt")
   cable_remote = "#{options[:web_root]}/cable/#{cable[:date].strftime("%Y/%m")}/#{cable[:id]}.html"
-  
-  unless File.exists? cable_local
-    
+
+  p cable_remote
+  begin
+    cable_document = Nokogiri::HTML(open(cable_remote))
     options[:updated] = true
     options[:new_cables] << cable
 
-    p cable_remote
-    cable_document = Nokogiri::HTML(open(cable_remote))
-
     cable[:content] = ""
-    cable_document.xpath("//pre").each do |content|
-      cable[:content] << description.content.strip.gsub("#x000A;", "\n").gsub(/&$/, "").gsub(/<a.[^>]*>/, "").gsub("</a>", "")
+    cable_document.xpath("//pre").each do |description|
+      cable[:content] << description.content.strip.gsub("&#x000A;", "\n").gsub(/&$/, "").gsub(/<a.[^>]*>/, "").gsub("</a>", "")
     end
 
     cable_file_content = ""
@@ -60,73 +76,62 @@ def write_cable(cable, options = {})
     cable_file_content << cable[:origin]
     cable_file_content << "\n"
     cable_file_content << cable[:content]
-    
-    cable_file = File.join("#{options[:scrape_root]}/cables", "#{cable[:id]}.txt")
-    p "cable_file: #{cable_file}"
-    File.open(cable_file, "w") do |f|
+
+    p "cable_file: #{cable_local}"
+    File.open(cable_local, "w") do |f|
       f.write cable_file_content
     end
+  rescue => e
+    p "error parsing cable #{e.backtrace}"
   end
+end
+
+def git_cable(nb_cables, message = "", options = {})
+  g = Git.open(options[:scrape_root])
+  g.add(".")
+  g.commit_all("Update to #{nb_cables} cables - #{message}")
 end
 
 def dispatch_cables_into_folders(options = {})
-
-  if(options[:new_cables].size > 0)
-    options[:new_cables].each do |cable|
-      cable_file = File.join("#{options[:scrape_root]}/cables", "#{cable[:id]}.txt")
-      [
-      "#{options[:scrape_root]}/dates/#{cable[:date].strftime("%Y/%m")}",
-      "#{options[:scrape_root]}/classification/#{cable[:classification]}",
-      "#{options[:scrape_root]}/origin/#{cable[:origin]}",
-      "#{options[:scrape_root]}/rel_date/#{options[:rel_date]}/"
-      ].each do |folder|
-        FileUtils.mkdir_p folder
-        FileUtils.cp cable_file, File.join(folder, "#{cable[:id]}.txt")
-      end
-    end
-  end
-end
-
-def parse_index(document, options = {})
-  
-  document.xpath("//tr").each do |c|
-  
-    cable = {}
-    current_index = 0
-    
-    if cable_info = c.xpath("//td")
-      if cable_info[0]
-        6.times do |index|
-          case index
-          when 0
-            cable[:id] = cable_info[index].content.strip
-          when 1
-            cable[:title] = cable_info[index].content
-          when 2
-            cable[:date] = Time.parse(cable_info[index].content.strip)
-          when 3
-            cable[:release_date] = Time.parse(cable_info[index].content.strip)
-          when 4
-            cable[:classification] = cable_info[index].content.strip
-          when 5
-            cable[:origin] = cable_info[index].content.strip
-          end
-        end
-        write_cable(cable, options)
-      end
+  `cd #{project[:scrape_root]}; git log --reverse --raw --encoding=UTF-8 --no-renames --pretty=format:user:%aN%n%ct`.split("\n")[2..-1].each do |cable_commit|
+    cable_file = File.join(options[:scrape_root], cable_commit.split("A  ").pop)
+    [
+    "#{options[:scrape_root]}/dates/#{cable[:date].strftime("%Y/%m")}",
+    "#{options[:scrape_root]}/classification/#{cable[:classification]}",
+    "#{options[:scrape_root]}/origin/#{cable[:origin]}",
+    "#{options[:scrape_root]}/rel_date/#{options[:rel_date]}/"
+    ].each do |folder|
+      FileUtils.mkdir_p folder
+      FileUtils.cp cable_file, File.join(folder, "#{cable[:id]}.txt")
     end
   end
 end
 
 def parse_date(date, options = {})
   page = 0
+  no_more_page = false
   wikileaks_request = Net::HTTP.new(options[:ip_root], 80)
-  while (wikileaks_request.request_head("/reldate/#{date.strftime("%Y-%m-%d")}_#{page}.html").kind_of? Net::HTTPOK)
-    p "#{options[:web_root]}/reldate/#{date.strftime("%Y-%m-%d")}_#{page}.html"
-    document = Nokogiri::HTML(open("#{options[:web_root]}/reldate/#{date.strftime("%Y-%m-%d")}_#{page}.html"))
-    options[:rel_date] = date.strftime("%Y/%m/%d")
-    parse_index(document, options)
-    page += 1
+  begin
+    while(!no_more_page)
+      path = "#{options[:web_path]}/reldate/#{date.strftime("%Y-%m-%d")}_#{page}.html"
+      request = wikileaks_request.request_head(path)
+      if (request.kind_of? Net::HTTPOK)
+        # p "#{options[:web_root]}/reldate/#{date.strftime("%Y-%m-%d")}_#{page}.html"
+        begin
+          document_url = "#{options[:web_root]}/reldate/#{date.strftime("%Y-%m-%d")}_#{page}.html"
+          document = Nokogiri::HTML(open(document_url))
+          options[:rel_date] = date.strftime("%Y/%m/%d")
+          parse_index(document, options)
+        rescue => e
+          p "error parsing document #{document_url}: #{e.backtrace}"
+        end
+        page += 1
+      else
+        no_more_page = true
+      end
+    end
+  rescue => e
+    p "error getting webpage #{path}: #{e.backtrace}"
   end
 end
   
@@ -139,5 +144,10 @@ while publication_date.strftime("%Y%m%d") != (Date.today + 1).strftime("%Y%m%d")
 end
 
 if options[:updated]
-  dispatch_cables_into_folders(options = {})
+  nb_cables = Dir[options[:scrape_root] + "/cables/*"].length.to_s
+  p "updated: #{nb_cables} cables"
+  git_cable(nb_cables, "only new cables", options)
+  dispatch_cables_into_folders(options)
+  git_cable(nb_cables, "folder classification", options)
+  #archive_cables(options)
 end
