@@ -37,6 +37,7 @@ def list_cables(title, files)
 end
 
 def write_html(filename, content)
+  FileUtils.mkdir_p File.dirname(File.join("mobile", filename))
   File.open(File.join("mobile", filename), "w") do |f|
     f.write "<!DOCTYPE html> 
     <html> 
