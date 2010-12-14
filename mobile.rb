@@ -81,7 +81,7 @@ def write_html(filename, content)
   end
 end
 
-def write_index(cable_count)
+def write_index(cable_count, latest_update)
   index_content = "
   <div data-role='page'> 
   	<div data-role='header'> 
@@ -90,6 +90,10 @@ def write_index(cable_count)
 
   	<div data-role='content'>
   	  <div style='text-align:center'><img src='./images/wikileaks.png' alt='wikileaks'/></div>
+  	
+  	  <ul data-role='listview' data-inset='true' data-theme='b'> 
+        <li><a href='#{latest_update[:link]}'>Latest Updates</a> <span class='ui-li-count'>#{latest_update[:count]}</span></li>
+      </ul>
   	
   		<ul data-role='listview' data-inset='true'> 
         <li><a href='./cables/page_0.html'>All cables</a> <span class='ui-li-count'>#{cable_count}</span></li>
@@ -228,8 +232,9 @@ def write_section_classification
   write_list("classification.html", classification_list, nil, false)
 end
 
-def write_release(title, folder, html)
+def write_release(title, folder, html, latest_update)
   files = Dir.glob(File.join($basedir, "/rel_date/#{folder}/*.txt"))
+  latest_update[:count] = files.size if latest_update[:date].strftime("%Y/%m/%d") == folder
   files.each do |release|
     basename = File.basename(release)
     cable_list = ""
@@ -240,7 +245,7 @@ def write_release(title, folder, html)
   "<li><a href='release/#{html}.html'>#{title} <span class='ui-li-count'>#{files.count}</span></li>"
 end
 
-def write_section_release
+def write_section_release(latest_update)
   release_list = ""
   Dir.glob(File.join($basedir, "/rel_date/*")).each do |year_folder|
     year = File.basename(year_folder)
@@ -249,15 +254,21 @@ def write_section_release
       Dir.glob(File.join(month_folder, "*")).each do |day_folder|
         day = File.basename(day_folder)
         date = DateTime.parse("#{year}-#{month}-#{day}")
-        release_list << write_release(date.strftime("%d %b %Y"), date.strftime("%Y/%m/%d"), date.strftime("%Y_%m_%d"))
+        if latest_update[:date].nil? || date > latest_update[:date]
+          latest_update[:date] = date
+          latest_update[:link] = "release/#{date.strftime("%Y_%m_%d")}.html"
+        end
+        release_list << write_release(date.strftime("%d %b %Y"), date.strftime("%Y/%m/%d"), date.strftime("%Y_%m_%d"), latest_update)
       end
     end
   end
   write_list("release.html", release_list, nil, false)
 end
 
-write_index(Dir.glob(File.join($basedir, "/cables/*.txt")).count)
+latest_update = {:date => nil, :count => 0, :link => ""}
+
+write_section_release(latest_update)
+write_index(Dir.glob(File.join($basedir, "/cables/*.txt")).count, latest_update)
 write_section_all
 write_section_origin
 write_section_classification
-write_section_release
