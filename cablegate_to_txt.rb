@@ -93,16 +93,18 @@ def git_cable(nb_cables, message = "", options = {})
 end
 
 def dispatch_cables_into_folders(options = {})
-  `cd #{project[:scrape_root]}; git log --reverse --raw --encoding=UTF-8 --no-renames --pretty=format:user:%aN%n%ct`.split("\n")[2..-1].each do |cable_commit|
-    cable_file = File.join(options[:scrape_root], cable_commit.split("A  ").pop)
-    [
-    "#{options[:scrape_root]}/dates/#{cable[:date].strftime("%Y/%m")}",
-    "#{options[:scrape_root]}/classification/#{cable[:classification]}",
-    "#{options[:scrape_root]}/origin/#{cable[:origin]}",
-    "#{options[:scrape_root]}/rel_date/#{options[:rel_date]}/"
-    ].each do |folder|
-      FileUtils.mkdir_p folder
-      FileUtils.cp cable_file, File.join(folder, "#{cable[:id]}.txt")
+  if(options[:new_cables].size > 0)
+    options[:new_cables].each do |cable|
+      cable_file = File.join("#{options[:scrape_root]}/cables", "#{cable[:id]}.txt")
+      [
+      "#{options[:scrape_root]}/dates/#{cable[:date].strftime("%Y/%m")}",
+      "#{options[:scrape_root]}/classification/#{cable[:classification]}",
+      "#{options[:scrape_root]}/origin/#{cable[:origin]}",
+      "#{options[:scrape_root]}/rel_date/#{cable[:release_date].strftime("%Y/%m/%d")}/"
+      ].each do |folder|
+        FileUtils.mkdir_p folder
+        FileUtils.cp cable_file, File.join(folder, "#{cable[:id]}.txt")
+      end
     end
   end
 end
@@ -149,5 +151,4 @@ if options[:updated]
   git_cable(nb_cables, "only new cables", options)
   dispatch_cables_into_folders(options)
   git_cable(nb_cables, "folder classification", options)
-  #archive_cables(options)
 end
