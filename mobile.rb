@@ -91,7 +91,7 @@ def write_index(cable_count, latest_update)
   	<div data-role='content'>
   	  <div style='text-align:center'><img src='./images/wikileaks.png' alt='wikileaks'/></div>
   	
-  	  <ul data-role='listview' data-inset='true' data-theme='b'> 
+  	  <ul data-role='listview' data-inset='true'> 
         <li><a href='#{latest_update[:link]}'>Latest Updates</a> <span class='ui-li-count'>#{latest_update[:count]}</span></li>
         <li><a href='./cables/page_0.html'>All cables</a> <span class='ui-li-count'>#{cable_count}</span></li>
         <li><a href='./classification.html'>By Classification</a></li>
