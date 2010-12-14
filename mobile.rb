@@ -137,7 +137,7 @@ def write_page(filename, list, title = nil, previous_page = nil, next_page = nil
   content = "
   <div data-role='page'> 
   	<div data-role='header'>
-  	  #{previous_page ? "<a href='#{previous_page}' data-role='button' data-icon='arrow-l'>Previous</a>" : "<a href='/' data-role='button' data-icon='arrow-u'>Home</a>"}
+  	  #{previous_page ? "<a href='#{previous_page}' data-role='button' data-icon='arrow-l'>Previous</a>" : "<a href='http://wikileaks.tetalab.org/mobile/' data-role='button' data-icon='arrow-u'>Home</a>"}
   		<h1>#{title || "Wikileaks CableGate"}</h1>
   		#{"<a href='#{next_page}' data-role='button' data-icon='arrow-r'>Next</a>" if next_page}
   	</div><!-- /header --> 
