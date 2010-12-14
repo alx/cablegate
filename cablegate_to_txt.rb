@@ -1,7 +1,6 @@
 require 'rubygems'
 require 'net/http'
 require 'nokogiri'
-require 'hpricot'
 require 'open-uri'
 require 'date'
 
@@ -42,11 +41,11 @@ def write_cable(cable, options = {})
     options[:new_cables] << cable
 
     p cable_remote
-    cable_document = Hpricot(open(cable_remote))
+    cable_document = Nokogiri::HTML(open(cable_remote))
 
     cable[:content] = ""
-    (cable_document/"//pre").each do |content|
-      cable[:content] << content.inner_html.gsub("#x000A;", "\n").gsub(/&$/, "").gsub(/<a.[^>]*>/, "").gsub("</a>", "")
+    cable_document.xpath("//pre").each do |content|
+      cable[:content] << description.content.strip.gsub("#x000A;", "\n").gsub(/&$/, "").gsub(/<a.[^>]*>/, "").gsub("</a>", "")
     end
 
     cable_file_content = ""
@@ -90,27 +89,27 @@ end
 
 def parse_index(document, options = {})
   
-  (document/"//tr").each do |c|
+  document.xpath("//tr").each do |c|
   
     cable = {}
     current_index = 0
     
-    if cable_info = (c/"//td")
+    if cable_info = c.xpath("//td")
       if cable_info[0]
         6.times do |index|
           case index
           when 0
-            cable[:id] = (cable_info[index]/"/a").inner_html
+            cable[:id] = cable_info[index].content.strip
           when 1
-            cable[:title] = cable_info[index].inner_html
+            cable[:title] = cable_info[index].content
           when 2
-            cable[:date] = Time.parse((cable_info[index]/"/a").inner_html)
+            cable[:date] = Time.parse(cable_info[index].content.strip)
           when 3
-            cable[:release_date] = Time.parse((cable_info[index]/"/a").inner_html)
+            cable[:release_date] = Time.parse(cable_info[index].content.strip)
           when 4
-            cable[:classification] = (cable_info[index]/"/a").inner_html
+            cable[:classification] = cable_info[index].content.strip
           when 5
-            cable[:origin] = (cable_info[index]/"/a").inner_html
+            cable[:origin] = cable_info[index].content.strip
           end
         end
         write_cable(cable, options)
@@ -124,7 +123,7 @@ def parse_date(date, options = {})
   wikileaks_request = Net::HTTP.new(options[:ip_root], 80)
   while (wikileaks_request.request_head("/reldate/#{date.strftime("%Y-%m-%d")}_#{page}.html").kind_of? Net::HTTPOK)
     p "#{options[:web_root]}/reldate/#{date.strftime("%Y-%m-%d")}_#{page}.html"
-    document = Hpricot(open("#{options[:web_root]}/reldate/#{date.strftime("%Y-%m-%d")}_#{page}.html"))
+    document = Nokogiri::HTML(open("#{options[:web_root]}/reldate/#{date.strftime("%Y-%m-%d")}_#{page}.html"))
     options[:rel_date] = date.strftime("%Y/%m/%d")
     parse_index(document, options)
     page += 1
