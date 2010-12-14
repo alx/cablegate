@@ -26,7 +26,6 @@ options[:ip_root] = "213.251.145.96"
 options[:web_root] = "http://#{options[:ip_root]}"
 #web_root = "http://localhost/~alx/wikileaks"
 options[:scrape_root] = "/home/alex/wikileaks/cablegate"
-options[:updated] = false
 options[:new_cables] = []
 ####
 
@@ -56,7 +55,6 @@ def write_cable(cable, options = {})
   p cable_remote
   begin
     cable_document = Nokogiri::HTML(open(cable_remote))
-    options[:updated] = true
     options[:new_cables] << cable
 
     cable[:content] = ""
@@ -138,6 +136,7 @@ def parse_date(date, options = {})
 end
   
 publication_date = DateTime.parse("11/28/2010")
+nb_cables_start = Dir[options[:scrape_root] + "/cables/*"].length.to_s
 
 while publication_date.strftime("%Y%m%d") != (Date.today + 1).strftime("%Y%m%d")
   p publication_date.strftime("%Y%m%d")
@@ -145,10 +144,11 @@ while publication_date.strftime("%Y%m%d") != (Date.today + 1).strftime("%Y%m%d")
   publication_date += 1
 end
 
-if options[:updated]
-  nb_cables = Dir[options[:scrape_root] + "/cables/*"].length.to_s
-  p "updated: #{nb_cables} cables"
-  git_cable(nb_cables, "only new cables", options)
+nb_cables_end = Dir[options[:scrape_root] + "/cables/*"].length.to_s
+
+if nb_cables_start != nb_cables_end
+  p "updated: #{nb_cables_end} cables"
+  git_cable(nb_cables_end, "only new cables", options)
   dispatch_cables_into_folders(options)
-  git_cable(nb_cables, "folder classification", options)
+  git_cable(nb_cables_end, "folder classification", options)
 end
