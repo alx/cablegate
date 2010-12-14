@@ -1,49 +1,22 @@
 require 'date'
 
+#
+# Globals
+#
+
 $basedir = '.'
 
 $dated_cables = {}
 $tags = []
-Dir.glob(File.join($basedir, "/dates/*")).each do |year_folder|
-  year = File.basename(year_folder)
-  Dir.glob(File.join(year_folder, "*")).each do |month_folder|
-    month = File.basename(month_folder)
-    Dir.glob(File.join(month_folder, "*")) do |cable|
-      title = ""
-      tags = ""
-      begin
-          file = File.new(cable, "r")
-          while title.empty? && tags.empty? && (line = file.gets)
-            line.scan /^TAGS: (.*)\n/m do |extract|
-              tags << extract.first
-              line = file.gets
-            end
-            line.scan /^SUBJECT: (.*)\n/m do |extract|
-              title << extract.first
-              title << file.gets
-              title.strip!
-            end
-          end
-          file.close
-      rescue => err
-          puts "Exception: #{err}"
-      end
-      tags.split(" ").each do |tag|
-        $tags << tag
-      end
-      $dated_cables[File.basename(cable, ".txt")] = {
-        :date => "#{year}/#{month}",
-        :title => title,
-        :tags => tags
-      }
-    end
-  end
-end
+
+#
+# Helper methods
+#
 
 def cable_list_item(basename)
   cables_url = 'http://www.wikileaks.ch/cable'
   cable_data = $dated_cables[basename]
-  output = "\n<li><h3><a href='#{cables_url}/#{cable_data[:date]}/#{basename}.html'>#{cable_data[:title]}</a></h3>"
+  output = "\n<li><h3><a href='/mobile/cables/#{basename}.html'>#{cable_data[:title]}</a></h3>"
   output << "<p>"
   output << "Tags: #{cable_data[:tags]} - " unless cable_data[:tags].empty?
   output << "#{basename}</p></li>"
@@ -159,6 +132,23 @@ def write_page(filename, list, title = nil, previous_page = nil, next_page = nil
   write_html(filename, content)
 end
 
+def write_cable(cable_id, content)
+  cable_data = $dated_cables[cable_id]
+  cables_url = 'http://www.wikileaks.ch/cable'
+  content = "
+  <div data-role='page'> 
+  	<div data-role='header'>
+  		<h1>#{cable_data[:title]}</h1>
+  		<a href='#{cables_url}/#{cable_data[:date]}/#{cable_id}.html' data-role='button' data-icon='arrow-r'  class='ui-btn-right''>On Wikileaks</a>
+  	</div><!-- /header --> 
+
+  	<div data-role='content'>
+        #{content}
+  	</div><!-- /content -->
+  </div><!-- /page -->"
+  write_html("cables/#{cable_id}.html", content)
+end
+
 def write_section_all
   cable_list = ""
   nb_cables = 0
@@ -261,6 +251,69 @@ def write_section_release(latest_update)
   end
   write_list("release.html", release_list, nil, false)
 end
+
+#
+# Read files to complete metadata
+#
+
+Dir.glob(File.join($basedir, "/dates/*")).each do |year_folder|
+  year = File.basename(year_folder)
+  Dir.glob(File.join(year_folder, "*")).each do |month_folder|
+    month = File.basename(month_folder)
+    Dir.glob(File.join(month_folder, "*")) do |cable|
+      title = ""
+      tags = ""
+      begin
+          file = File.new(cable, "r")
+          while title.empty? && tags.empty? && (line = file.gets)
+            line.scan /^TAGS: (.*)\n/m do |extract|
+              tags << extract.first
+              line = file.gets
+            end
+            line.scan /^SUBJECT: (.*)\n/m do |extract|
+              title << extract.first
+              title << file.gets
+              title.strip!
+            end
+          end
+          file.close
+      rescue => err
+          puts "Exception: #{err}"
+      end
+      tags.split(" ").each do |tag|
+        $tags << tag
+      end
+      $dated_cables[File.basename(cable, ".txt")] = {
+        :date => "#{year}/#{month}",
+        :title => title,
+        :tags => tags
+      }
+    end
+  end
+end
+
+#
+# read files to write cables in mobile format
+#
+
+Dir.glob(File.join($basedir, "/cables/*")).each do |cable|
+  content = ""
+  cable_id = File.basename(cable, ".txt")
+  begin
+      file = File.new(cable, "r")
+      while (line = file.gets)
+        content << line << "<br>"
+      end
+      file.close
+  rescue => err
+      puts "Exception: #{err}"
+  end
+  write_cable(cable_id, content)
+end
+
+#
+# Write indexes
+#
 
 latest_update = {:date => nil, :count => 0, :link => ""}
 
