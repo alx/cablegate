@@ -1,6 +1,6 @@
 10ANKARA302
 U/S BURNS' FEBRUARY 18 MEETINGS WITH U/S
-Thu Feb 25 11:11:00 +0100 2010
+Thu Feb 25 00:00:00 +0100 2010
 CONFIDENTIAL
 Embassy Ankara
 VZCZCXRO3002
@@ -392,5 +392,4 @@ Jeremiah Howard, Deputy Political Counselor - Notetaker
  
 Jeffrey 
  
-           "Visit Ankara's Classified Web Site at http://www.intelink.s 
-gov.gov/wiki/Portal:Turkey"
+"Visit Ankara's Classified Web Site at http://www.intelink.s gov.gov/wiki/Portal:Turkey"

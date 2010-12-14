@@ -28,7 +28,6 @@ options[:web_root] = "http://#{options[:ip_root]}"
 #web_root = "http://localhost/~alx/wikileaks"
 options[:scrape_root] = "/home/alex/wikileaks/cablegate"
 options[:updated] = false
-options[:current_cables] = []
 options[:new_cables] = []
 ####
 
@@ -102,7 +101,6 @@ def parse_index(document, options = {})
           case index
           when 0
             cable[:id] = (cable_info[index]/"/a").inner_html
-	    options[:current_cables] << cable[:id]
           when 1
             cable[:title] = cable_info[index].inner_html
           when 2
