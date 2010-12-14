@@ -241,7 +241,7 @@ def write_release(title, folder, html)
 end
 
 def write_section_release
-  release_list = []
+  release_list = ""
   Dir.glob(File.join($basedir, "/rel_date/*")).each do |year_folder|
     year = File.basename(year_folder)
     Dir.glob(File.join(year_folder, "*")).each do |month_folder|
@@ -253,7 +253,7 @@ def write_section_release
       end
     end
   end
-  write_list("release.html", release_list.reverse.join(""), nil, false)
+  write_list("release.html", release_list, nil, false)
 end
 
 write_index(Dir.glob(File.join($basedir, "/cables/*.txt")).count)
