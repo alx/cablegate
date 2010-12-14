@@ -93,9 +93,6 @@ def write_index(cable_count, latest_update)
   	
   	  <ul data-role='listview' data-inset='true' data-theme='b'> 
         <li><a href='#{latest_update[:link]}'>Latest Updates</a> <span class='ui-li-count'>#{latest_update[:count]}</span></li>
-      </ul>
-  	
-  		<ul data-role='listview' data-inset='true'> 
         <li><a href='./cables/page_0.html'>All cables</a> <span class='ui-li-count'>#{cable_count}</span></li>
         <li><a href='./classification.html'>By Classification</a></li>
         <li><a href='./origin.html'>By Origin</a></li>
