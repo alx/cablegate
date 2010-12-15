@@ -299,6 +299,7 @@ end
 #
 
 Dir.glob(File.join($basedir, "/cables/*")).each do |cable|
+  header = ""
   content = ""
   cable_id = File.basename(cable, ".txt")
   has_been_classified = false
@@ -311,10 +312,11 @@ Dir.glob(File.join($basedir, "/cables/*")).each do |cable|
           else
             content << line
           end
-        end
-        if line =~ /^classified by/i
-          content << "<ul data-role='listview' data-theme='d' data-inset='true'><li>#{line}</li></ul><p>"
+        elsif line =~ /^classified by/i
+          content << "<div data-role='collapsible' data-collapsed='true'><h3>#{line}</h3><p><pre>#{header}</pre></p></div><p>"
           has_been_classified = true
+        else
+          header << line << "<br>"
         end
       end
       content << "</p>"
