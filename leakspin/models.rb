@@ -30,7 +30,7 @@ class Metadata
   include DataMapper::Resource
   
   property :id,  Serial
-  property :key, Text
+  property :name, Text
   property :value, Text
   property :valid, Boolean, :default => false
   
