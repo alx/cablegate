@@ -306,8 +306,8 @@ Dir.glob(File.join($basedir, "/cables/*")).each do |cable|
       file = File.new(cable, "r")
       while (line = file.gets)
         if has_been_classified
-          if line == ""
-            "</p><p>"
+          if line == "\n"
+            content << "</p><p>"
           else
             content << line
           end
