@@ -2,6 +2,17 @@ require 'rubygems'
 require 'dm-core'
 require 'dm-types'
 require 'dm-migrations'
+require 'sinatra'
+
+configure do
+  LOGGER = Logger.new("sinatra.log") 
+end
+
+helpers do
+  def logger
+    LOGGER
+  end
+end
 
 DataMapper.setup(:default, 'sqlite://leakspin.db')
 
@@ -40,33 +51,39 @@ end
 DataMapper.finalize
 DataMapper.auto_migrate!
 
-Dir.glob(File.join("..", "/cables/*")).each do |cable|
-  header = ""
-  content = ""
-  cable_id = File.basename(cable, ".txt")
-  has_been_classified = false
+get '/update_db' do
+  Dir.glob(File.join("..", "/cables/*")).each do |cable|
+    header = ""
+    content = ""
+    cable_id = File.basename(cable, ".txt")
+    has_been_classified = false
   
-  db_cable = Cable.create(:cable_id => cable_id)
+    db_cable = Cable.create(:cable_id => cable_id)
   
-  begin
-      file = File.new(cable, "r")
-      while (line = file.gets)
-        if has_been_classified
-          if line == "\n"
-            db_cable.fragments << Fragment.create(:content => content, :type => :content)
-            content = ""
+    begin
+        file = File.new(cable, "r")
+        while (line = file.gets)
+          if has_been_classified
+            if line == "\n"
+              db_cable.fragments << Fragment.create(:content => content, :type => :content)
+              content = ""
+            else
+              content << line
+            end
+          elsif line =~ /^classified by/i
+            db_cable.fragments << Fragment.create(:content => header, :type => :header)
+            has_been_classified = true
           else
-            content << line
+            header << line
           end
-        elsif line =~ /^classified by/i
-          db_cable.fragments << Fragment.create(:content => header, :type => :header)
-          has_been_classified = true
-        else
-          header << line
         end
-      end
-      file.close
-  rescue => err
-      puts "Exception: #{err}"
+        file.close
+    rescue => err
+        puts "Exception: #{err}"
+    end
   end
+end
+
+get '/' do
+  erb :index
 end

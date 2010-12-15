@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Wikileaks - LeakSpin</title>
+<link rel="stylesheet" href="/css/960.css" type="text/css" media="screen" title="960" charset="utf-8">
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/master.js"></script>
+</head>
+<body>
+                
+
+<div id="header" class="container_12"></div>
+                
+
+<div id="content" class="container_12">
+
+<div id="cable_panel" class="grid_6 ">
+    <code>
+        <pre>
+            <%= Cable.first.fragments.first(:type => :content).content %>
+        </pre>
+    </code>
+</div>
+
+<div id="spin_panel" class="grid_6 ">
+    <h2>Wikileaks - LeakSpin</h2>
+    <div id="spin_question">Select the subject of this leak</div>
+    <div id="spin_answer">Select text and press enter</div>
+</div>
+
+</div>
+
+                
+
+<div id="footer" class="container_12"></div>
+            
+</body>
+</html>
