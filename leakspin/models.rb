@@ -1,8 +1,7 @@
 require 'rubygems'
-require 'dm-core'
-require 'dm-types'
-require 'dm-migrations'
-require 'sinatra'
+require 'bundler'
+
+Bundler.require
 
 configure do
   LOGGER = Logger.new("sinatra.log") 

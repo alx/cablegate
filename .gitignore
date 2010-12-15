@@ -1,2 +1,5 @@
 cablegate_to_tetalab.rb
 mobile/*
+.bundle
+*.lock
+.rvmrc
