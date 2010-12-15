@@ -306,13 +306,18 @@ Dir.glob(File.join($basedir, "/cables/*")).each do |cable|
       file = File.new(cable, "r")
       while (line = file.gets)
         if has_been_classified
-          content << line << "<br>"
+          if line == "\n"
+            "</p><p>"
+          else
+            content << line
+          end
         end
         if line =~ /^classified by/i
-          content << "<ul data-role='listview' data-theme='d' data-inset='true'><li>#{line}</li></ul>"
+          content << "<ul data-role='listview' data-theme='d' data-inset='true'><li>#{line}</li></ul><p>"
           has_been_classified = true
         end
       end
+      content << "</p>"
       file.close
   rescue => err
       puts "Exception: #{err}"
