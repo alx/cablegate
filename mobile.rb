@@ -67,7 +67,7 @@ def write_index(cable_count, latest_update)
   	  <div style='text-align:center'><img src='./images/wikileaks.png' alt='wikileaks'/></div>
   	
   	  <ul data-role='listview' data-inset='true'> 
-        <li><a href='#{latest_update[:link]}'>Latest Updates</a> <span class='ui-li-count'>#{latest_update[:count]}</span></li>
+        <li><a href='./#{latest_update[:link]}'>Latest Updates</a> <span class='ui-li-count'>#{latest_update[:count]}</span></li>
         <li><a href='./cables/page_0.html'>All cables</a> <span class='ui-li-count'>#{cable_count}</span></li>
         <li><a href='./classification.html'>By Classification</a></li>
         <li><a href='./origin.html'>By Origin</a></li>
@@ -301,10 +301,17 @@ end
 Dir.glob(File.join($basedir, "/cables/*")).each do |cable|
   content = ""
   cable_id = File.basename(cable, ".txt")
+  has_been_classified = false
   begin
       file = File.new(cable, "r")
       while (line = file.gets)
-        content << line << "<br>"
+        if has_been_classified
+          content << line << "<br>"
+        end
+        if line =~ /^classified by/i
+          content << "<ul data-role='listview' data-theme='d' data-inset='true'><li>#{line}</li></ul>"
+          has_been_classified = true
+        end
       end
       file.close
   rescue => err
