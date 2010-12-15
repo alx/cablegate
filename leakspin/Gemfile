@@ -1,0 +1,7 @@
+source :rubygems
+
+gem 'dm-core'
+gem 'dm-types'
+gem 'dm-migrations'
+gem 'dm-sqlite-adapter'
+gem 'sinatra'
