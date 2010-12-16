@@ -1,0 +1,59 @@
+09BRASILIA1042
+
+Fri Aug 21 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Brasilia
+VZCZCXRO1768
+PP RUEHRG
+DE RUEHBR #1042/01 2331623
+ZNR UUUUU ZZH
+P 211623Z AUG 09
+FM AMEMBASSY BRASILIA
+TO RUEHC/SECSTATE WASHDC PRIORITY 4912
+INFO RUEHSO/AMCONSUL SAO PAULO 4430
+RUEHRI/AMCONSUL RIO DE JANEIRO 8098
+RUEHRG/AMCONSUL RECIFE 9838
+RUEHAC/AMEMBASSY ASUNCION 7622
+RUEHBU/AMEMBASSY BUENOS AIRES 6319
+RUEHMN/AMEMBASSY MONTEVIDEO 7814
+RUEHKO/AMEMBASSY TOKYO 0976
+RUCPDOC/USDOC WASHDCUNCLAS SECTION 01 OF 03 BRASILIA 001042 
+
+STATE FOR JOELLEN URBAN, ROB HUGHES 
+COMMERCE FOR LAURIE FUSSELL 
+DEPT PASS USTR FOR KATHERINE KALUTKIEWICZ, TANUJA GARDE DEPT PASS USPTO 
+
+SENSITIVE 
+SIPDIS 
+
+E.O. 12958: N/A 
+TAGS: KIPR ETRD ECON BR
+
+¶1. (U) Summary: On August 18, the Brazilian Ministry of Exterior Relations (MRE), Division of Intellectual Property (DIPI), hosted a presentation to interested members of the diplomatic community by the National Anti-Piracy Council (CNCP). Chaired by the Ministry of Justice, CNCP brings together various ministries and private sector representatives to focus on enforcement issues. CNCP's MOJ-based Executive Secretary outlined the organization's new national action plan to combat piracy and its branding campaign designed to encourage the consumption of legitimate goods. Representatives of CNCP member organizations (both public and private) responsible for the action plan's five priority projects provided updates on the content and status of each project. While CNCP's commitment to enforcement against piracy and counterfeiting recognizes the economic impact of intellectual property (IP) protection, an earlier MRE-sponsored conference strongly questioned the connection between IP protection and economic development. End summary. 
+
+-------- NEW NATIONAL PLAN TO COMBAT PIRACY --------------------
+
+¶2. (U) On May 28, the Brazilian National Anti-Piracy Council (CNCP) launched (with high level participation, including Minister of Justice Tarso Genro) its 2007-2008 annual report, a new anti-piracy branding campaign called Brasil Original (the "Brasil Original" logo will be used on tags to identify legitimate products), and a new action plan to combat piracy. 
+
+¶3. (U) On August 18, CNCP presented further details on the progress of the new action plan and priority projects for this year. The event, hosted at MRE and attended by representatives from approximately fifteen countries, was the inauguration of Post's effort to bring together the diplomatic community in Brazil in support of IP protection. 
+
+¶4. (U) CNCP's 2009 priority projects (each assigned to a CNCP member organization for coordination) are: -"Cities Free of Piracy" and "Legal Markets": The Brazilian Institute for Ethical Competition (ETCO) is coordinating these two projects. ETCO President Andre Franco Montoro Filho explained that in five "pilot cities" (Brasilia, Curitiba, Riberao Preto, Rio de Janeiro, and Sao Paulo), the CNCP is working to sign agreements defining obligations, implement a package of action (including following up on existing local initiatives), and create a network of local stakeholders. In three of the cities, they have already identified the local lead and started the process of evaluating initiatives and building a municipal network. The CNCP hopes to conclude agreements for all five cities by September and to have measurable progress by December 3, when Brazil observes a National Anti-Piracy Day. 
+
+-"Merchants Against Piracy": The National Commercial Council (CNC), an association of labor federations and unions, is leading the effort to raise awareness among merchants and vendors of the negative effects of piracy, first in the "pilot cities" of Brasilia, Sao Paulo, Curitiba, Salvador, and Rio de Janeiro. CNC is working with the Association of Brazilian Shopping Centers to capitalize on the visibility and opinion-shaping power of well-known shopping centers and shop owners. The "Brasil Original" logo is part of this project's broader effort to convey to consumers an image of legality. CNCP hopes the "Brasil Original" tags and promotional materials will be in use in shops by December, 2009. 
+
+-"Anti-Piracy Website": The Brazilian Association of Software Businesses (ABES) is leading the project to develop an interactive, consumer-focused website featuring anti-piracy education campaigns and information. It is hoped that the site will allow both common users and rights-holders to post and share files (text and audio/video). ABES noted that the challenge will be to keep the content fresh and attractive to users. CNCP hopes to launch the site before December 3, 2009. 
+
+-"Partnership with Internet Providers": The Ministry of Culture (MOC) is coordinating this effort to create mechanisms with internet providers that can prevent the online distribution of pirated products. In November of 2008, MOC formed a working group with representatives from internet infrastructure and access provider  companies, with the goal of discussing ways to increase the availability of legal content and analyze models for confronting the distribution of illegal content. The working group decided to examine (with respect to the Brazilian legal system) the British model for notifying violators by e-mail, then registered letter, and diminishing the internet speed available to the user as a deterrent when necessary. 
+
+Until February 2009, de Souza said, the response from access providers was positive. At that time, the access providers expressed reluctance to conduct the agreed-upon analysis, so the working group decided the analysis should be conducted by three federal agencies - the MOC's judicial consultant branch, the Attorney General's Federal Public Ministry, and the Department of Consumer Protection. The analyses began to come in this month, and the MOC plans a new meeting of the working group in the near future to discuss the results. 
+
+------------------------------------------------------------------------------------------
+MRE CONFERENCE  SOME QUESTION IP ROLE IN ECONOMIC DEVELOPMENT -----------------------------------------------------------------------------------------
+
+¶5. (U) While the GOB has demonstrated a strong commitment to fighting piracy and counterfeiting, there is not agreement across the board on the overall value of intellectual property rights in economic development. A late-April conference organized by MRE's Intellectual Property Division (DIPI) in conjunction with the World Intellectual Property Organization (WIPO), the Brazilian patent and trademark office (INPI), and the Alexandre de Gusmao Foundation primarily discussed IP protection (particularly the patent system) not as an end in itself, but rather as one possible tool for achieving the ultimate end of industrial and economic development. To an audience of mostly students and executive-branch government representatives, a few speakers (including the President of INPI, a representative from the GOB Secretariat for Economic Law, a patent attorney from the U.S. Patent and Trademark Office, the President of the Brazilian Intellectual Property Association, and representatives of two Brazilian pharmaceutical manufacturers associations) argued for the importance of IP protection to innovation, but the majority (including a former president of INPI, the IP Coordinator for the GOB National Health Vigilance Agency (ANVISA), three federal judges, a member of the federal Chamber of Deputies, the Brazilian representative to the Latin American Integration Association (ALADI), several academics, and a representative from the Ministry of Health's HIV program) ) highlighted a need to "balance" IP rights with the public good and concluded that IP protection does not necessarily create innovation or increase economic development. 
+
+¶6. (SBU) Solange Machado, Brazil IP consultant for the U.S. Chamber of Commerce, and Jorge Raimundo, representative of the Brazilian Research-Based Pharmaceutical Manufacturers Association (Interfarma), expressed disappointment at the repeated argument that IP protection does not increase innovation. On a related note, Machado explained that the U.S. Chamber conducted a survey in conjunction with the Federation of Industry of the State of Sao Paulo (FIESP) which revealed that 94% of Brazilian federal legislators describe their knowledge of IP as limited, little, or none. The Chamber has, therefore, started a campaign in the Brazilian Congress to raise awareness and knowledge of IP issues. 
+
+---------------------------------------- COMMENT -------------------------------- 
+
+¶7. (SBU) Post has proposed to interested members of the diplomatic community in Brasilia that the CNCP presentation be the start of an ongoing, informal collaboration on IP. Building on MRE's positive response to the Mission's request for a CNCP presentation to the diplomatic community, Post plans to schedule a follow-up meeting to discuss possible ways the diplomatic community can support the CNCP's efforts. Post hopes that this positive start to collaboration among various like-minded missions and the GOB will lead to discussion on IP issues beyond piracy. However, Post continues to observe a disconnect in the GOB's treatment of intellectual property: a multi-faceted, domestically-driven approach to enforcement against piracy and counterfeiting (led by MOJ's CNCP) contrasted against resistance to some existing aspects of, as well as any enhancements to, the broader international IP system among  some in MRE (as well as MOH, as reported previously). This resistance seems to be motivated by MRE's political desire for Brazil to take a leading role among developing nations and a policy belief (led by MOH) that pharmaceutical patents contradict the public interest by limiting access to medications. While innovation has occasionally served as a hook for positive discussion, some at MRE seem intent on delinking conversations on innovation, economic development, and IP protection. Support for IPR as an engine for innovation and economic development varies across Ministries, with stronger support, for example, within the Ministry of Commerce (MDIC), the Ministry of Science and Technology (MCT), and the Brazilian Agency for Industrial Development (ABDI). Post will report septel on innovation views in other ministries. End Comment. KUBISKE
