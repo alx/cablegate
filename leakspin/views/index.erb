@@ -3,6 +3,7 @@
 <head>
 <title>Wikileaks - LeakSpin</title>
 <link rel="stylesheet" href="/css/960.css" type="text/css" media="screen" title="960" charset="utf-8">
+<link rel="stylesheet" href="/css/boilerplate.css" type="text/css" media="screen" title="boilerplate" charset="utf-8">
 <script type="text/javascript" src="/js/jquery.js"></script>
 <script type="text/javascript" src="/js/master.js"></script>
 </head>
@@ -15,17 +16,15 @@
 <div id="content" class="container_12">
 
 <div id="cable_panel" class="grid_6 ">
-    <code>
-        <pre>
-            <%= Cable.first.fragments.first(:type => :content).content %>
-        </pre>
-    </code>
+    <%= Cable.first.fragments[1].content %>
 </div>
 
 <div id="spin_panel" class="grid_6 ">
     <h2>Wikileaks - LeakSpin</h2>
-    <div id="spin_question">Select the subject of this leak</div>
-    <div id="spin_answer">Select text and press enter</div>
+    <div id="spin_question"></div>
+    <div id="spin_answer"></div>
+    <div id="spin_status">Loading...</div>
+    <input type="hidden" name="spin_metadata" value="" id="spin_metadata">
 </div>
 
 </div>

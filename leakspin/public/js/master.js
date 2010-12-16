@@ -1,15 +1,27 @@
+function changeAnswerText(){
+  var selected = getSelectedText();
+  if(selected != ""){
+    jQuery('#spin_answer').html(getSelectedText());
+    jQuery('#spin_answer').html("Validating...");
+  }
+}
+
+$(document).bind('keydown', 's', function(){
+  changeAnswerText()
+});
+
 jQuery(function() {
-    // Bind the click handler of some button on your page
-    jQuery('#spinValid').click(function(evt) {
-        jQuery('#spin_answer').html(getSelectedText());
-        evt.preventDefault();
+    jQuery('#fragment_content').keypress(function(evt) {
+      code= (evt.keyCode ? evt.keyCode : evt.which);
+      if (code == 13) changeAnswerText();
+      evt.preventDefault();
     });
 });
 
 // Get user selection text on page
 function getSelectedText() {
     if (window.getSelection) {
-        return window.getSelection();
+        return window.getSelection().toString();
     }
     else if (document.selection) {
         return document.selection.createRange().text;
