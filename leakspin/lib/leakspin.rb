@@ -1,7 +1,13 @@
-class LeakSpin < Sinatra::Base
+APP_ROOT = File.expand_path(File.join(File.dirname(__FILE__), '..'))
+
+require 'rubygems'
+require 'bundler'
+
+Bundler.require
+
+class LeakSpin < Sinatra::Application
   set :sessions, true
-  set :foo, 'bar'
-  set :root, File.dirname(__FILE__)
+  set :root, APP_ROOT
 
   class Cable
     include DataMapper::Resource
@@ -41,6 +47,7 @@ class LeakSpin < Sinatra::Base
     property :id,  Serial
     property :text, Text
     property :help, Text
+    property :target_name, Text
 
     has n, :metadata
   end
@@ -91,8 +98,8 @@ class LeakSpin < Sinatra::Base
   
   get '/spin.json' do
     content_type :json
-    cable = Cable.first
     question = Question.first
-    { :cable_id => cable.cable_id, :metadata => 'value2' }.to_json
+    cable = Cable.first
+    { :cable => {:id => cable.cable_id, :content => cable.fragments.first(:type => :header).content.gsub("\n", "<br>")}, :question => {:text => question.text, :help => question.help} }.to_json
   end
 end

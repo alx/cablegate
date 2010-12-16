@@ -1,7 +1,8 @@
-require 'rubygems'
-require 'bundler'
+# To use with thin 
+#  thin start -p PORT -R config.ru
 
-Bundler.require
+require File.join(File.dirname(__FILE__), 'lib', 'leakspin.rb')
 
-require './leakspin'
+disable :run
+set :environment, :production
 run LeakSpin
