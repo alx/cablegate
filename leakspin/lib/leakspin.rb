@@ -1,7 +1,13 @@
-class LeakSpin < Sinatra::Base
+APP_ROOT = File.expand_path(File.join(File.dirname(__FILE__), '..'))
+
+require 'rubygems'
+require 'bundler'
+
+Bundler.require
+
+class LeakSpin < Sinatra::Application
   set :sessions, true
-  set :foo, 'bar'
-  set :root, File.dirname(__FILE__)
+  set :root, APP_ROOT
 
   class Cable
     include DataMapper::Resource
