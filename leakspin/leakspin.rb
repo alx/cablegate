@@ -46,7 +46,7 @@ class LeakSpin < Sinatra::Base
     has n, :metadata
   end
 
-  DataMapper.setup(:default, 'sqlite:///Users/alx/leakspin.db')
+  DataMapper.setup(:default, 'postgres://localhost/leakspin')
   DataMapper.finalize
   DataMapper.auto_migrate!
   
