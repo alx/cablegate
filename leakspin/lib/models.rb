@@ -49,7 +49,4 @@ else
 end
 
 DataMapper.finalize
-unless Cable.all.size > 0
-  DataMapper.auto_migrate!
-  LeakSpin.fill_db_content
-end
+DataMapper.auto_upgrade!
