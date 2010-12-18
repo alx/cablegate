@@ -1,3 +1,4 @@
+$LOAD_PATH << './lib'
 APP_ROOT = File.expand_path(File.join(File.dirname(__FILE__), '..'))
 
 require 'rubygems'
@@ -5,7 +6,7 @@ require 'bundler'
 
 Bundler.require
 
-load 'models.rb'
+require 'models.rb'
 
 class LeakSpin < Sinatra::Application
   set :sessions, true
