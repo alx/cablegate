@@ -48,10 +48,8 @@ else
   DataMapper.setup(:default, 'postgres://localhost/leakspin')
 end
 
+DataMapper.finalize
 unless Cable.all.size > 0
-  DataMapper.finalize
   DataMapper.auto_migrate!
   LeakSpin.fill_db_content
 end
-
-Question.create :text => "Select the subject", :help => "Select text and press enter"

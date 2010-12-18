@@ -14,6 +14,8 @@ class LeakSpin < Sinatra::Application
   set :root, APP_ROOT
   
   def self.fill_db_content
+    Question.create :text => "Select the subject", :help => "Select text and press enter"
+    
     Dir.glob(File.join("..", "/cables/*")).each do |cable|
       header = ""
       content = ""
