@@ -25,7 +25,13 @@ options[:ip_root] = "213.251.145.96"
 ## Optional
 options[:web_root] = "http://#{options[:ip_root]}"
 #web_root = "http://localhost/~alx/wikileaks"
-options[:scrape_root] = "/home/alex/wikileaks/cablegate"
+
+if File.exists? "/Users/alx/"
+  options[:scrape_root] = "/Users/alx/dev/tetalab/wikileaks/"
+else
+  options[:scrape_root] = "/home/alex/wikileaks/cablegate"
+end
+
 options[:new_cables] = []
 ####
 
