@@ -42,8 +42,11 @@ class Question
   has n, :metadata
 end
 
-#DataMapper.setup(:default, 'postgres://localhost/leakspin')
-DataMapper.setup(:default, 'postgres:///Users/alx/leakspin.db')
+if File.exists? "/Users/alx/"
+  DataMapper.setup(:default, 'sqlite:///Users/alx/leakspin.db')
+else
+  DataMapper.setup(:default, 'postgres://localhost/leakspin')
+end
 
 unless Cable.all.size > 0
   DataMapper.finalize
