@@ -10,6 +10,7 @@ require 'models.rb'
 
 class LeakSpin < Sinatra::Application
   set :sessions, true
+  set :logging, true
   set :root, APP_ROOT
   
   def self.fill_db_content
