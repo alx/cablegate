@@ -53,9 +53,19 @@ class LeakSpin < Sinatra::Application
       end
     end
   end
+  
+  ######
+  # Datamapper methods - clean before prod
+  
+  get '/clean_db' do
+    Datamapper.auto_migrate!
+  end
+  
   get '/update_db' do
     fill_db_content
   end
+  
+  ######
 
   get '/' do
     erb :index
@@ -66,5 +76,12 @@ class LeakSpin < Sinatra::Application
     question = Question.first
     cable = Cable.first
     { :cable => {:id => cable.cable_id, :content => cable.fragments.first(:type => :header).content.gsub("\n", "<br>")}, :question => {:text => question.text, :help => question.help} }.to_json
+  end
+  
+  post '/spin' do
+    if metadata = Metadata.create(:name => params[:metadata][:name], :value => params[:metadata][:value])
+      Question.get(params[:question_id]).metadatas << metadata
+      Fragment.get(params[:fragment_id]).metadatas << metadata
+    end
   end
 end
