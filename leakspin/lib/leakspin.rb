@@ -76,9 +76,9 @@ class LeakSpin < Sinatra::Application
   
   get '/spin.json' do
     content_type :json
-    question = Question.first
-    cable = Cable.first
-    { :cable => {:id => cable.cable_id, :content => cable.fragments.first(:type => :header).content.gsub("\n", "<br>")}, :question => {:text => question.text, :help => question.help} }.to_json
+    question = Question.first # Fetch a question (only one at the moment)
+    fragment = Fragment.get(1 + Fragment.count) # Fetch random fragment
+    Hash.new[:question => question, :fragment => fragment].to_json
   end
   
   post '/spin' do
