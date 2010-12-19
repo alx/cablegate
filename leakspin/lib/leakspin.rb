@@ -90,6 +90,8 @@ class LeakSpin < Sinatra::Application
     fragment = nil
     while fragment.nil?
       fragment = Fragment.all(:type => :header, :limit => 1, :offset => rand(Fragment.count)).first
+      # do not keep fragment if it has validated metadata
+      fragment = nil if fragment.metadatas.all(:validated => true).size > 0
     end
     
     {

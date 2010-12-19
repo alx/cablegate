@@ -66,7 +66,11 @@ jQuery(function() {
 });
 
 jQuery(document).bind('mouseup', function(){
-  changeAnswerText()
+  changeAnswerText();
+});
+
+jQuery(document).bind('keydown', 'enter', function(){
+  if(jQuery('#spin_metadata_value').html().length > 0) sendLeakSpin();
 });
 
 jQuery(document).ready(function(){
