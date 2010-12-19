@@ -11,32 +11,37 @@
     <script type="text/javascript" src="/js/master.js"></script>
 </head>
 <body>
-                
 
-<div id="header" class="container_12"></div>
-                
+<div id="header" class="container_12">
+    <div class="bar"></div> 
+    <div class="nav"> 
+        <a href="/">Main</a> 
+        <a href="/answers">Answers</a> 
+    </div>
+</div>
 
 <div id="content" class="container_12">
 
-<div id="cable_panel" class="grid_6 ">
-    <code>
-        <pre>
-        </pre>
-    </code>
-</div>
+    <div id="spin_panel" class="grid_6 ">
+        <a href="/" id='logo'><img style="border:none;" src="/images/wlogo.png" class="logo" alt="WikiLeaks Blog" /></a>
+        <h2>Wikileaks - LeakSpin</h2>
+        <div id="spin_permalink"><a href='#'>Link to full cable</a></div>
+        <div id="spin_question"></div>
+        <div id="spin_question_help"></div>
+        <div id="spin_metadata_value"></div>
+        <div id="spin_status">Loading...</div>
+        <div id="spin_next"><a id='next_question'>Next fragment</a></div>
+        <input type="hidden" name="spin_metadata_name" value="" id="spin_metadata_name">
+        <input type="hidden" name="spin_fragment_id" value="" id="spin_fragment_id">
+        <input type="hidden" name="spin_question_id" value="" id="spin_question_id">
+    </div>
 
-<div id="spin_panel" class="grid_6 ">
-    <h2>Wikileaks - LeakSpin</h2>
-    <div id="spin_permalink"><a href='#'>Link to full cable</a></div>
-    <div id="spin_question"></div>
-    <div id="spin_question_help"></div>
-    <div id="spin_metadata_value"></div>
-    <div id="spin_status">Loading...</div>
-    <div id="spin_next"><a id='next_question'>Next fragment</a></div>
-    <input type="hidden" name="spin_metadata_name" value="" id="spin_metadata_name">
-    <input type="hidden" name="spin_fragment_id" value="" id="spin_fragment_id">
-    <input type="hidden" name="spin_question_id" value="" id="spin_question_id">
-</div>
+    <div id="cable_panel" class="grid_6 ">
+        <code>
+            <pre>
+            </pre>
+        </code>
+    </div>
 
 </div>
 

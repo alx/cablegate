@@ -1,3 +1,78 @@
+/*
+
+Nav bar
+
+*/
+
+div.nav {
+  float: right;
+  margin-right: 20px;
+}
+div.nav a {
+  background-color: #8ED1E0;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px;
+  text-decoration: none;
+  margin: 0px 0px 0px 15px;
+}
+div.nav a:hover {
+  background-color: #333;
+}
+div.bar {
+  width: 960px;
+  height: 7px;
+  background-color: #8ED1E0;
+}
+
+/*
+
+Panel with details
+
+*/
+
+#spin_panel a#logo{
+  float:left;
+}
+
+#spin_panel h2{
+  padding:20px 5px;
+  font-size:20px;
+}
+
+#spin_panel a{
+  cursor: pointer;
+}
+
+#spin_permalink {
+  float:right;
+}
+#spin_question {
+  padding: 5px 10px;
+}
+#spin_question_help {
+  padding: 5px 10px;
+  font-style: italic;
+}
+#spin_metadata_value {
+  
+}
+
+#spin_status {
+  padding: 5px 10px;
+  font-style: italic;
+}
+
+#spin_next {
+  float:right;
+}
+
+/*
+
+Panel with cable
+
+*/
+
 pre {
     white-space: pre-wrap;
     text-align: justify;
@@ -5,8 +80,4 @@ pre {
     margin: 0px;
     margin-top: 10px;
     padding: 10px;
-}
-
-#spin_panel a{
-  cursor: pointer;
 }
