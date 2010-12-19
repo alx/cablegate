@@ -17,7 +17,7 @@ class LeakSpin < Sinatra::Application
   helpers do
     def fill_db_content
       Question.create(:content => "Select the subject", 
-        :help => "Select text and press enter", 
+        :help => "Exemple: 'Subject: abcd' - Select: 'abcd'", 
         :metadata_name => "subject")
     
       Dir.glob(File.join("..", "/cables/*")).each do |cable|
@@ -95,6 +95,7 @@ class LeakSpin < Sinatra::Application
       :question => {
         :id => question.id, 
         :content => question.content, 
+        :help => question.help,
         :metadata_name => question.metadata_name
       },
       :fragment => {

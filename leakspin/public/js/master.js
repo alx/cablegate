@@ -28,6 +28,7 @@ function loadJsonSpin(){
       jQuery("#spin_fragment_id").val(data.fragment.id); // Save fragment id
       
       jQuery("#spin_question").html(data.question.content); // Load question content
+      jQuery("#spin_question_help").html(data.question.help); // Load question help
       jQuery("#spin_question_id").val(data.question.id); // Save question id
       jQuery("#spin_metadata_name").val(data.question.metadata_name);
       
