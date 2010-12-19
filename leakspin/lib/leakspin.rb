@@ -111,10 +111,11 @@ class LeakSpin < Sinatra::Application
   end
   
   post '/spin' do
-    if metadata = Metadata.create(:name => params[:metadata][:name], :value => params[:metadata][:value])
-      Question.get(params[:question_id]).metadatas << metadata
-      Fragment.get(params[:fragment_id]).metadatas << metadata
-    end
+    metadata = Metadata.create(
+      :name => params[:metadata][:name], 
+      :value => params[:metadata][:value],
+      :fragment_id => params[:fragment_id],
+      :question_id => params[:question_id])
     "ok"
   end
 end
