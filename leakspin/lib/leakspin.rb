@@ -66,7 +66,7 @@ class LeakSpin < Sinatra::Application
   # Datamapper methods - clean before prod
   
   get '/update_db' do
-    fill_db_content
+    #fill_db_content
   end
   
   ######
