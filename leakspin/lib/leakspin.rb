@@ -33,9 +33,14 @@ class LeakSpin < Sinatra::Application
             line_number = 1
             while (line = file.gets)
               if has_header
-                if line =~ /^\302\266/i
-                  db_cable.fragments << Fragment.create(:content => content, :type => :content, :line_number => line_number)
-                  content = ""
+                if line =~ /^\n/i
+                  line = file.gets
+                  if line =~ /^\n/i
+                    db_cable.fragments << Fragment.create(:content => content, :type => :content, :line_number => line_number) unless content.empty?
+                    content = ""
+                  else
+                    content << line
+                  end
                 else
                   content << line
                 end
@@ -76,9 +81,31 @@ class LeakSpin < Sinatra::Application
   
   get '/spin.json' do
     content_type :json
-    question = Question.first # Fetch a question (only one at the moment)
-    fragment = Fragment.get(1 + Fragment.count) # Fetch random fragment
-    Hash.new[:question => question, :fragment => fragment].to_json
+    
+    # Fetch a question (only one at the moment)
+    question = Question.first
+    
+    # Fetch random fragment
+    fragment = nil
+    while fragment.nil?
+      fragment = Fragment.all(:type => :header, :limit => 1, :offset => rand(Fragment.count)).first
+    end
+    
+    {
+      :question => {
+        :id => question.id, 
+        :content => question.content, 
+        :metadata_name => question.metadata_name
+      },
+      :fragment => {
+        :id => fragment.id, 
+        :content => fragment.content.gsub("\b", "<br>"),
+        :type => fragment.type,
+        :cable => {
+          :id => fragment.cable.cable_id
+        }
+      }
+    }.to_json
   end
   
   post '/spin' do
