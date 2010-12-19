@@ -24,13 +24,28 @@
 
     <div id="spin_panel" class="grid_6 ">
         <a href="/" id='logo'><img style="border:none;" src="/images/wlogo.png" class="logo" alt="WikiLeaks Blog" /></a>
+        
         <h2>Wikileaks - LeakSpin</h2>
-        <div id="spin_permalink"><a href='#'>Link to full cable</a></div>
-        <div id="spin_question"></div>
-        <div id="spin_question_help"></div>
-        <div id="spin_metadata_value"></div>
-        <div id="spin_status">Loading...</div>
-        <div id="spin_next"><a id='next_question'>Next fragment</a></div>
+        <p>
+            Human parser of <a href='http://wikileaks.ch/cablegate.html'>Wikileaks Cablegate</a>: answer questions by selecting text in panel on the right to help build a <a href='/answers'>database of verified metadata</a> on each cable.<br>
+            This parsing will help building new website to consult <a href="http://wikileaks.ch/cablegate.html">Wikileaks Cablegate</a>, like the <a href='http://wikileaks.tetalab.org/mobile/'>Mobile Cablegate</a>
+
+        <div id='question-box' class='box'>
+            <div id="spin_question"></div>
+            <div id="spin_question_help"></div>
+        </div>
+        
+        <div id='answer-box' class='box'>
+            <div id="spin_metadata_value"></div>
+        </div>
+        
+        <div id="spin_status" class='box'>Loading...</div>
+        
+        <div id='cable_links'>
+            <div id="spin_next"><a id='next_question'>Next fragment &#x2192;</a></div>
+            <div id="spin_permalink"><a>Full cable &#x2192;</a></div>
+        </div>
+        
         <input type="hidden" name="spin_metadata_name" value="" id="spin_metadata_name">
         <input type="hidden" name="spin_fragment_id" value="" id="spin_fragment_id">
         <input type="hidden" name="spin_question_id" value="" id="spin_question_id">

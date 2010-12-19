@@ -25,6 +25,35 @@ div.bar {
   background-color: #8ED1E0;
 }
 
+.box{
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  font-size:16px;
+  padding:5px;
+  margin-left:170px;
+  margin-top:30px;
+}
+
+#question-box{
+  background-color:#E8D48D;
+  color:#FFF;
+}
+
+#answer-box{
+  background-color:#EEDDCC;
+  color:#333;
+}
+
+::selection {
+  background: #E8D48D;
+  color: white;
+  text-shadow: none;
+  background: #E8D48D;
+  color: white;
+  text-shadow: none;
+}
+
 /*
 
 Panel with details
@@ -36,6 +65,7 @@ Panel with details
 }
 
 #spin_panel h2{
+  margin-left:200px;
   padding:20px 5px;
   font-size:20px;
 }
@@ -44,26 +74,46 @@ Panel with details
   cursor: pointer;
 }
 
-#spin_permalink {
-  float:right;
+#spin_permalink a {
+  text-decoration:none;
 }
+
 #spin_question {
   padding: 5px 10px;
 }
+
 #spin_question_help {
   padding: 5px 10px;
   font-style: italic;
+  font-size:12px;
 }
+
 #spin_metadata_value {
-  
+  font-size:14px;
 }
 
 #spin_status {
   padding: 5px 10px;
   font-style: italic;
+  background-color:#757B7E;
+  font-size: 2em;
+  color:#AAA;
+  text-align:center;
+}
+
+#spin_status a {
+  color:#FFF;
 }
 
 #spin_next {
+  margin-top:20px;
+}
+
+#cable_links{
+  float:right;
+}
+
+#spin_permalink{
   float:right;
 }
 

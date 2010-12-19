@@ -13,7 +13,7 @@ function changeAnswerText(){
   var selected = getSelectedText();
   if(selected != ""){
     jQuery('#spin_metadata_value').html(getSelectedText());
-    jQuery('#spin_status').html("<a id='select_validate'>Click to validate selection</a>");
+    jQuery('#spin_status').html("<a id='select_validate'>Validate selection</a>");
   }
 }
 
