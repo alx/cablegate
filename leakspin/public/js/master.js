@@ -42,7 +42,7 @@ function sendLeakSpin(){
   jQuery("#spin_status").html("Sending spin to server..."); // Set new status
   jQuery.ajax({
     url: '/spin',
-    type: 'POST'
+    type: 'POST',
     data: {
       'metadata[name]': jQuery("#spin_metadata_name").val(),
       'metadata[value]': jQuery("#spin_metadata_value").html(),
