@@ -26,6 +26,7 @@ function loadJsonSpin(){
       
       jQuery("#cable_panel pre").html(data.fragment.content); // Load fragment content
       jQuery("#spin_fragment_id").val(data.fragment.id); // Save fragment id
+      jQuery("#spin_permalink a").attr("href", "http://git.tetalab.org/index.php/p/cablegate/source/tree/master/cables/" + data.fragment.cable.id + ".txt");
       
       jQuery("#spin_question").html(data.question.content); // Load question content
       jQuery("#spin_question_help").html(data.question.help); // Load question help
