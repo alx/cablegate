@@ -65,10 +65,6 @@ class LeakSpin < Sinatra::Application
   ######
   # Datamapper methods - clean before prod
   
-  get '/clean_db' do
-    Datamapper.auto_migrate!
-  end
-  
   get '/update_db' do
     fill_db_content
   end
@@ -77,6 +73,11 @@ class LeakSpin < Sinatra::Application
 
   get '/' do
     erb :index
+  end
+  
+  get '/answers' do
+    @questions = Question.all
+    erb :answers
   end
   
   get '/spin.json' do

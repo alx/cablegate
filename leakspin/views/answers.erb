@@ -1,0 +1,8 @@
+<% @questions.each do |question| %>
+    <h1><%= question.metadata_name %></h1>
+    <ul>
+        <% question.metadatas.each do |metadata| %>
+        <li><a href='http://git.tetalab.org/index.php/p/cablegate/source/tree/master/cables/<%= metadata.fragment.cable.cable_id %>.txt'><%= metadata.fragment.cable.cable_id %></a>: <%= metadata.value %></li>
+        <% end %>
+    </ul>
+<% end %>
