@@ -16,13 +16,15 @@ class LeakSpin < Sinatra::Application
   
   helpers do
     def fill_db_content
-      Question.create :text => "Select the subject", :help => "Select text and press enter"
+      Question.create(:content => "Select the subject", 
+        :help => "Select text and press enter", 
+        :metadata_name => "subject")
     
       Dir.glob(File.join("..", "/cables/*")).each do |cable|
         header = ""
         content = ""
         cable_id = File.basename(cable, ".txt")
-        has_been_classified = false
+        has_header = false
 
         db_cable = Cable.create(:cable_id => cable_id)
       
@@ -30,16 +32,17 @@ class LeakSpin < Sinatra::Application
             file = File.new(cable, "r")
             line_number = 1
             while (line = file.gets)
-              if has_been_classified
-                if line == "\n"
+              if has_header
+                if line =~ /^\302\266/i
                   db_cable.fragments << Fragment.create(:content => content, :type => :content, :line_number => line_number)
                   content = ""
                 else
                   content << line
                 end
-              elsif line =~ /^classified by/i
+              elsif line =~ /^\302\266/i
                 db_cable.fragments << Fragment.create(:content => header, :type => :header, :line_number => line_number)
-                has_been_classified = true
+                has_header = true
+                content = line
               else
                 header << line
               end

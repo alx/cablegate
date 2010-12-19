@@ -29,8 +29,8 @@ function loadJsonSpin(){
       
       jQuery("#spin_question").html(data.question.content); // Load question content
       jQuery("#spin_question_id").val(data.question.id); // Save question id
+      jQuery("#spin_metadata_name").val(data.question.metadata_name);
       
-      jQuery("#spin_metadata_name").val(data.metadata.name); // Clean last answer
       jQuery("#spin_metadata_value").html(""); // Clean last answer
       
       jQuery("#spin_status").html("Please select text..."); // Set new status

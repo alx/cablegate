@@ -37,7 +37,7 @@ class Question
   property :id,  Serial
   property :content, Text
   property :help, Text
-  property :target_name, Text
+  property :metadata_name, Text
 
   has n, :metadata
 end
