@@ -63,7 +63,7 @@ jQuery(function() {
     });
 });
 
-jQuery(document).bind('keydown', 's', function(){
+jQuery(document).bind('mouseup', function(){
   changeAnswerText()
 });
 
@@ -72,5 +72,9 @@ jQuery(document).ready(function(){
   
   jQuery("#select_validate").live('click', function(){
     sendLeakSpin();
+  });
+  
+  jQuery("#next_question").live('click', function(){
+    loadJsonSpin();
   });
 });

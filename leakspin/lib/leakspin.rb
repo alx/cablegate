@@ -113,5 +113,6 @@ class LeakSpin < Sinatra::Application
       Question.get(params[:question_id]).metadatas << metadata
       Fragment.get(params[:fragment_id]).metadatas << metadata
     end
+    "ok"
   end
 end

@@ -39,7 +39,7 @@ class Question
   property :help, Text
   property :metadata_name, Text
 
-  has n, :metadata
+  has n, :metadatas
 end
 
 if File.exists? "/Users/alx/"
