@@ -3,7 +3,7 @@
     <p>Progress: <%= question.metadatas.all.size %> / <%= Cable.all.size %> cables</p>
     <p><em>Layout to be corrected soon, accessible with web API too.</em></p>
     <ul>
-        <% question.metadatas.all(:limit => 10).each do |metadata| %>
+        <% question.metadatas.all(:limit => 10, :order => [ :created_at.desc ]).each do |metadata| %>
         <li><a href='http://git.tetalab.org/index.php/p/cablegate/source/tree/master/cables/<%= metadata.fragment.cable.cable_id %>.txt'><%= metadata.fragment.cable.cable_id %></a>: <%= metadata.value %></li>
         <% end %>
         <li>...</li>

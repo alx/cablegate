@@ -3,6 +3,9 @@ class Cable
 
   property :cable_id, String, :required => true, :key => true
 
+  property :created_at, DateTime
+  property :updated_at, DateTime
+
   has n, :fragments
   has n, :metadatas, :through => :fragments
 end
@@ -14,6 +17,9 @@ class Fragment
   property :content, Text
   property :type, Enum[:content, :header], :default => :content
   property :line_number, Integer
+
+  property :created_at, DateTime
+  property :updated_at, DateTime
 
   belongs_to :cable
   has n, :metadatas
@@ -27,6 +33,9 @@ class Metadata
   property :value, Text
   property :validated, Boolean, :default => false
 
+  property :created_at, DateTime
+  property :updated_at, DateTime
+
   belongs_to :fragment
   belongs_to :question
 end
@@ -38,6 +47,9 @@ class Question
   property :content, Text
   property :help, Text
   property :metadata_name, Text
+
+  property :created_at, DateTime
+  property :updated_at, DateTime
 
   has n, :metadatas
 end
