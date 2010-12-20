@@ -122,9 +122,11 @@ Panel with details
 
 #spin_no_answer{
   margin-top:20px;
+  float:right;
 }
 
 #spin_next {
+  float:right;
 }
 
 #cable_links{
