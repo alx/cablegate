@@ -97,6 +97,11 @@ Panel with details
   padding-left: 10px;
 }
 
+#progress a{
+  color: #33A;
+  text-decoration: none;
+}
+
 
 #spin_metadata_value {
   font-size:14px;
