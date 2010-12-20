@@ -44,7 +44,7 @@ function loadJsonSpin(){
       var progress = question.progress;
       var progress_percent = Math.round(progress.total_answers * 100 / progress.total_cables);
       jQuery("#progress").html("<a href='/answers'>" + progress.total_answers + "</a>/" + progress.total_cables + " cables");
-      jQuery("#progressbar").value(progress_percent);
+      jQuery("#progressbar").progressbar( "value" , progress_percent )
     }
   });
 }
