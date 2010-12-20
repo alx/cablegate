@@ -3,11 +3,13 @@
 <head>
     <title>Wikileaks - LeakSpin</title>
     
-    <link rel='stylesheet' href='/css/boilerplate.css' type='text/css' media="screen, projection"> 
+    <link rel='stylesheet' href='/css/boilerplate.css' type='text/css' media="screen, projection">
+    <link rel='stylesheet' href='/css/jquery-ui.css' type='text/css' media="screen, projection">
     <link rel='stylesheet' href='/css/master.css' type='text/css' media="screen, projection"> 
     <link rel='stylesheet' href='/css/960.css' type='text/css' media="screen, projection"> 
     
     <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui.js"></script>
     <script type="text/javascript" src="/js/master.js"></script>
 </head>
 <body>
@@ -33,6 +35,10 @@
         <div id='question-box' class='box'>
             <div id="spin_question"></div>
             <div id="spin_question_help"></div>
+            <div id="spin_question_stats">
+                <div id="progress"></div>
+                <div id="progressbar"></div>
+            </div>
         </div>
         
         <div id='answer-box' class='box'>

@@ -24,18 +24,27 @@ function loadJsonSpin(){
     dataType: 'json',
     success: function(data){
       
-      jQuery("#cable_panel pre").html(data.fragment.content); // Load fragment content
-      jQuery("#spin_fragment_id").val(data.fragment.id); // Save fragment id
-      jQuery("#spin_permalink a").attr("href", "http://git.tetalab.org/index.php/p/cablegate/source/tree/master/cables/" + data.fragment.cable.id + ".txt");
+      var fragment = data.fragment;
+      var question = data.question;
       
-      jQuery("#spin_question").html(data.question.content); // Load question content
-      jQuery("#spin_question_help").html(data.question.help); // Load question help
-      jQuery("#spin_question_id").val(data.question.id); // Save question id
-      jQuery("#spin_metadata_name").val(data.question.metadata_name);
+      jQuery("#cable_panel pre").html(fragment.content); // Load fragment content
+      jQuery("#spin_fragment_id").val(fragment.id); // Save fragment id
+      jQuery("#spin_permalink a").attr("href", "http://git.tetalab.org/index.php/p/cablegate/source/tree/master/cables/" + fragment.cable.id + ".txt");
+      
+      jQuery("#spin_question").html(question.content); // Load question content
+      jQuery("#spin_question_help").html(question.help); // Load question help
+      jQuery("#spin_question_id").val(question.id); // Save question id
+      jQuery("#spin_metadata_name").val(question.metadata_name);
       
       jQuery("#spin_metadata_value").html(""); // Clean last answer
       
       jQuery("#spin_status").html("Please select text..."); // Set new status
+      
+      // Set progress
+      var progress = question.progress;
+      var progress_percent = Math.round(progress.total_answers * 100 / progress.total_cables);
+      jQuery("#progress").html(progress.total_answers + "/" + progress.total_cables + " cables");
+      jQuery("#progressbar").value(progress_percent);
     }
   });
 }
@@ -75,6 +84,8 @@ jQuery(document).bind('keydown', 'enter', function(){
 
 jQuery(document).ready(function(){
   loadJsonSpin();
+  
+  jQuery( "#progressbar" ).progressbar();
   
   jQuery("#select_validate").live('click', function(){
     sendLeakSpin();

@@ -91,7 +91,9 @@ class LeakSpin < Sinatra::Application
     while fragment.nil?
       fragment = Fragment.all(:type => :header, :limit => 1, :offset => rand(Fragment.count)).first
       # do not keep fragment if it has validated metadata
-      fragment = nil if fragment.metadatas.all(:validated => true).size > 0
+      if fragment
+        fragment = nil if fragment.metadatas.count(:validated => true) > 0
+      end
     end
     
     {
@@ -99,14 +101,18 @@ class LeakSpin < Sinatra::Application
         :id => question.id, 
         :content => question.content, 
         :help => question.help,
-        :metadata_name => question.metadata_name
+        :metadata_name => question.metadata_name,
+        :progress => {
+          :total_cables => Cable.all.size,
+          :total_answers => question.metadatas.all.size,
+        }
       },
       :fragment => {
         :id => fragment.id, 
         :content => fragment.content.gsub("\b", "<br>"),
         :type => fragment.type,
         :cable => {
-          :id => fragment.cable.cable_id
+          :id => fragment.cable.cable_id,
         }
       }
     }.to_json

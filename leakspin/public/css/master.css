@@ -88,6 +88,16 @@ Panel with details
   font-size:12px;
 }
 
+#progressbar .ui-progressbar{
+  height: 3px;
+}
+
+#progress{
+  font-size: 12px;
+  padding-left: 10px;
+}
+
+
 #spin_metadata_value {
   font-size:14px;
 }
