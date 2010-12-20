@@ -43,20 +43,20 @@ function loadJsonSpin(){
       // Set progress
       var progress = question.progress;
       var progress_percent = Math.round(progress.total_answers * 100 / progress.total_cables);
-      jQuery("#progress").html(progress.total_answers + "/" + progress.total_cables + " cables");
+      jQuery("#progress").html("<a href='/answers'>" + progress.total_answers + "</a>/" + progress.total_cables + " cables");
       jQuery("#progressbar").value(progress_percent);
     }
   });
 }
 
-function sendLeakSpin(){
+function sendLeakSpin(value){
   jQuery("#spin_status").html("Sending spin to server..."); // Set new status
   jQuery.ajax({
     url: '/spin',
     type: 'POST',
     data: {
       'metadata[name]': jQuery("#spin_metadata_name").val(),
-      'metadata[value]': jQuery("#spin_metadata_value").html(),
+      'metadata[value]': value,
       'fragment_id': jQuery("#spin_fragment_id").val(),
       'question_id': jQuery("#spin_question_id").val()
     },
@@ -79,7 +79,7 @@ jQuery(document).bind('mouseup', function(){
 });
 
 jQuery(document).bind('keydown', 'enter', function(){
-  if(jQuery('#spin_metadata_value').html().length > 0) sendLeakSpin();
+  if(jQuery('#spin_metadata_value').html().length > 0) sendLeakSpin(jQuery("#spin_metadata_value").html());
 });
 
 jQuery(document).ready(function(){
@@ -87,8 +87,12 @@ jQuery(document).ready(function(){
   
   jQuery( "#progressbar" ).progressbar();
   
+  jQuery("#no_answer").live('click', function(){
+    sendLeakSpin('no answer');
+  });
+  
   jQuery("#select_validate").live('click', function(){
-    sendLeakSpin();
+    sendLeakSpin(jQuery("#spin_metadata_value").html());
   });
   
   jQuery("#next_question").live('click', function(){
