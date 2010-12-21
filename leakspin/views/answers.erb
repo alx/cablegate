@@ -1,11 +1,57 @@
-<% @questions.each do |question| %>
-    <h1><%= question.metadata_name %></h1>
-    <p>Progress: <%= question.metadatas.all.size %> / <%= Cable.all.size %> cables</p>
-    <p><em>Layout to be corrected soon, accessible with web API too.</em></p>
-    <ul>
-        <% question.metadatas.all(:limit => 10, :created_at.not => nil, :order => [ :created_at.desc ]).each do |metadata| %>
-        <li><a href='http://git.tetalab.org/index.php/p/cablegate/source/tree/master/cables/<%= metadata.fragment.cable.cable_id %>.txt'><%= metadata.fragment.cable.cable_id %></a>: <%= metadata.value %></li>
-        <% end %>
-        <li>...</li>
-    </ul>
-<% end %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Wikileaks - LeakSpin</title>
+    
+    <link rel='stylesheet' href='/css/boilerplate.css' type='text/css' media="screen, projection">
+    <link rel='stylesheet' href='/css/jquery-ui.css' type='text/css' media="screen, projection">
+    <link rel='stylesheet' href='/css/master.css' type='text/css' media="screen, projection"> 
+    <link rel='stylesheet' href='/css/960.css' type='text/css' media="screen, projection"> 
+    
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui.js"></script>
+    <script type="text/javascript" src="/js/jeditable.js"></script>
+    <script type="text/javascript" src="/js/answers.js"></script>
+</head>
+<body>
+
+<div id="header" class="container_12">
+    <div class="bar"></div> 
+    <div class="nav"> 
+        <a href="/">Main</a>
+        <a href="/answers">Answers</a>
+        <a href="http://git.tetalab.org/index.php/p/cablegate/source/tree/master/">Code</a>
+    </div>
+</div>
+
+<div id="content" class="container_12">
+
+    <div id="questions_panel" class="grid_3">
+        <ul id="selectable_questions" class="ui-selectable">
+            <% @questions.each do |question| %>
+            <li id='question-<%= question.id %>' class="ui-widget-content ui-selectee"><%= question.content %></li>
+            <% end %>
+        </ol>
+    </div>
+
+    <div id="answers_panel" class="grid_3">
+        <div id='answer_list'></div>
+        <a id='more_answers'>More...</a>
+        <input type="hidden" name="current_offset" value="0" id="current_offset">
+    </div>
+    
+    <div id="cable_panel" class="grid_6">
+        <code>
+            <pre>
+            </pre>
+        </code>
+    </div>
+
+</div>
+
+                
+
+<div id="footer" class="container_12"></div>
+            
+</body>
+</html>
