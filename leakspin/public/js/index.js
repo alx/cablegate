@@ -64,15 +64,7 @@ function sendLeakSpin(value){
       loadJsonSpin();
     }
   });
-}
-
-jQuery(function() {
-    jQuery('#fragment_content').keypress(function(evt) {
-      code= (evt.keyCode ? evt.keyCode : evt.which);
-      if (code == 13) changeAnswerText();
-      evt.preventDefault();
-    });
-});
+}d
 
 jQuery(document).bind('mouseup', function(){
   changeAnswerText();
