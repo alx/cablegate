@@ -193,18 +193,22 @@ class LeakSpin < Sinatra::Application
       :cables => cable_json
     }.to_json
   end
-  # 
-  # post '/answers' do
-  #   metadata = Metadata.get(params[:answer_id])
-  #   if params[:status]
-  #     case params[:status]
-  #     when 'valid'
-  #       metadata.update :validated => true
-  #     when 'not_valid'
-  #       metadata.update :validated => true
-  #     when 'delete'
-  #       metadata.destroy!
-  #     end
-  #   end
-  # end
+  
+  post '/answers' do
+    metadata = Metadata.get(params[:answer_id])
+    if params[:status]
+      case params[:status]
+      when 'valid'
+        metadata.update :validated => true
+      when 'not_valid'
+        metadata.update :validated => true
+      when 'delete'
+        metadata.destroy!
+      end
+    end
+  end
+  
+  get '/fragments/:id' do
+    Fragment.get(params[:id]).content
+  end
 end

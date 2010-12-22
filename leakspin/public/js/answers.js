@@ -32,15 +32,15 @@ function loadAnswerForQuestion(question_id, offset){
           var html_metadata = [];
           html_metadata.push("<div class='metadata_value'>");
           html_metadata.push(metadata.value);
-          html_metadata.push("(<a rel='fragment_");
+          html_metadata.push("(<a class='display_fragment' rel='fragment_");
           html_metadata.push(metadata.fragment_id);
           html_metadata.push("'>display</a>)</div><div id='metadata-" + metadata.id + "' class='metadata-control'>");
           html_metadata.push("<a class='valid");
           if (metadata.validated) html_metadata.push(" selected");
-          html_metadata.push("'>Valid</a>");
+          html_metadata.push("'>Valid</a>  ");
           html_metadata.push("<a class='not_valid");
           if (!metadata.validated) html_metadata.push(" selected");
-          html_metadata.push("'>Not Valid</a><a class='delete'>Delete</a>");
+          html_metadata.push("'>Not Valid</a>  <a class='delete'>Delete</a>");
           html_cable.push(html_metadata.join(""));
         });  
         html_cable.push("</div><hr/>");
@@ -88,5 +88,10 @@ jQuery(document).ready(function(){
     var question_id = jQuery('#selectable_questions li.ui-selected').attr('id').split("-").pop();
     var offset = parseInt(jQuery('#current_offset').val()) + 10;
     loadAnswerForQuestion(question_id, offset);
+  });
+  
+  jQuery("a.display_fragment").live("click", function(){
+    var fragment_id = jQuery(this).attr('id').split("-").pop();
+    jQuery("#cable_panel pre").load('/fragments/' + fragment_id);
   });
 });
