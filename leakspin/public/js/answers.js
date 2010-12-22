@@ -43,7 +43,7 @@ function loadAnswerForQuestion(question_id, offset){
           html_answer.push("<label for='radio_delete'>Delete</label></div>");
           html_cable.push(html_answer.join(""));
         });  
-        html_answer.push("<button class='display_cable' value='" + cable.cable_id + "'>Display Cable &#x2192;</button><hr/>");
+        html_cable.push("<button class='display_cable' value='" + cable.cable_id + "'>Display Cable &#x2192;</button><hr/>");
         answers.push(html_cable.join(""));
       });
       
