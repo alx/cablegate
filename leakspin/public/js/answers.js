@@ -1,15 +1,15 @@
 /*Tested by marcel*/
 
-function setAnswerStatus(answer_id, status){
+function setAnswerStatus(metadata_id, status){
   jQuery.ajax({
     url: '/answers',
     type: 'POST',
     data: {
-      answer_id: answer_id,
+      metadata_id: metadata_id,
       status: status
     }
   });
-  if(status == 'delete') jQuery("#answer-" + answer_id).remove();
+  if(status == 'delete') jQuery("#metadata-" + metadata_id).remove();
 }
 
 function loadAnswerForQuestion(question_id, offset){
@@ -23,31 +23,31 @@ function loadAnswerForQuestion(question_id, offset){
     dataType: 'json',
     success: function(data){
       
-      var answers = [];
+      var metadatas = [];
 
       jQuery.each(data.cables, function(index, cable){
         var html_cable = [];
         html_cable.push("Cable: " + cable.cable_id)
         jQuery.each(cable.metadatas, function(index, metadata){
-          var html_answer = [];
-          html_answer.push("<p>");
-          html_answer.push(metadata.value);
-          html_answer.push("</p><div id='answer-" + metadata.id + "' class='radio_validation'>");
-          html_answer.push("<input type='radio' id='radio_valid' name='radio_validation' value='valid'");
-          if (metadata.validated) html_answer.push(" checked='checked'");
-          html_answer.push("/><label for='radio_valid'>Valid</label>");
-          html_answer.push("<input type='radio' id='radio_not_valid' name='radio_validation' value='not_valid'");
-          if (!metadata.validated) html_answer.push(" checked='checked'");
-          html_answer.push("/><label for='radio_not_valid'>Not Valid</label>");
-          html_answer.push("<input type='radio' id='radio_delete' name='radio_validation' value='delete'/>");
-          html_answer.push("<label for='radio_delete'>Delete</label></div>");
-          html_cable.push(html_answer.join(""));
+          var html_metadata = [];
+          html_metadata.push("<div class='metadata_value'>");
+          html_metadata.push(metadata.value);
+          html_metadata.push("</p><div id='metadata-" + metadata.id + "' class='radio_validation'>");
+          html_metadata.push("<input type='radio' class='radio_valid' name='radio_validation' value='valid'");
+          if (metadata.validated) html_metadata.push(" checked='checked'");
+          html_metadata.push("/><label for='radio_valid'>Valid</label>");
+          html_metadata.push("<input type='radio' class='radio_not_valid' name='radio_validation' value='not_valid'");
+          if (!metadata.validated) html_metadata.push(" checked='checked'");
+          html_metadata.push("/><label for='radio_not_valid'>Not Valid</label>");
+          html_metadata.push("<input type='radio' class='radio_delete' name='radio_validation' value='delete'/>");
+          html_metadata.push("<label for='radio_delete'>Delete</label></div>");
+          html_cable.push(html_metadata.join(""));
         });  
         html_cable.push("<button class='display_cable' value='" + cable.cable_id + "'>Display Cable &#x2192;</button><hr/>");
-        answers.push(html_cable.join(""));
+        metadatas.push(html_cable.join(""));
       });
       
-      jQuery("#answer_list").append(answers.join(""));
+      jQuery("#metadata_list").append(metadatas.join(""));
       
       jQuery(".radio_validation").buttonset();
       jQuery(".display_cable").button();
@@ -66,12 +66,12 @@ jQuery(document).ready(function(){
   });
   
   jQuery(".radio_validation").live('change', function(){
-    var answer_id = jQuery(this).parents(".radio_validation").attr('id').split('-').pop();
+    var metadata_id = jQuery(this).parents(".radio_validation").attr('id').split('-').pop();
     var status = jQuery(this).val();
-    setAnswerStatus(answer_id, status);
+    setAnswerStatus(metadata_id, status);
   });
   
-  jQuery("#more_answers").click(function(){
+  jQuery("#more_metadatas").click(function(){
     var question_id = jQuery('#selectable_questions li.ui-selected').attr('id').split("-").pop();
     var offset = parseInt(jQuery('#current_offset').val()) + 10;
     loadAnswerForQuestion(question_id, offset);
