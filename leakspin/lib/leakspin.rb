@@ -167,6 +167,7 @@ class LeakSpin < Sinatra::Application
             :validated => metadata.validated,
             :name => metadata.name,
             :value => metadata.value,
+            :fragment_id => fragment.id
           }
         end
       end
