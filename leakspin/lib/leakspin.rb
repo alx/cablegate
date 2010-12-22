@@ -70,15 +70,22 @@ class LeakSpin < Sinatra::Application
   end
   
   ######
-
+  
+  #
+  #
+  # HOME
+  #
+  #
+  
   get '/' do
     erb :index
   end
   
-  get '/answers' do
-    @questions = Question.all
-    erb :answers
-  end
+  #
+  #
+  # SPIN
+  #
+  #
   
   get '/spin.json' do
     content_type :json
@@ -132,13 +139,26 @@ class LeakSpin < Sinatra::Application
     "ok"
   end
   
+  #
+  #
+  # ANSWERS
+  #
+  #
+  
+  get '/answers' do
+    @questions = Question.all
+    erb :answers
+  end
+  
   get '/answers.json' do
     content_type :json
     
     question = Question.get(params[:question_id])
+    return "{}" if question.nil?
+    
     cable_json = []
     
-    cables.all('fragments.metadatas.question_id' => question.id, :limit => 20, :offset => params[:offset]).each do |cable|
+    Cable.all('fragments.metadatas.question_id' => question.id, :limit => 20, :offset => params[:offset].to_i).each do |cable|
       metadatas = []
       cable.fragments.each do |fragment|
         fragment.metadatas.each do |metadata|
@@ -172,7 +192,7 @@ class LeakSpin < Sinatra::Application
     }.to_json
   end
   # 
-  # post 'answer' do
+  # post '/answers' do
   #   metadata = Metadata.get(params[:answer_id])
   #   if params[:status]
   #     case params[:status]
