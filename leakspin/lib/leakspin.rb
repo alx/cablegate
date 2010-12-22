@@ -195,8 +195,7 @@ class LeakSpin < Sinatra::Application
   end
   
   post '/answers' do
-    metadata = Metadata.get(params[:answer_id])
-    if params[:status]
+    if params[:status] && metadata = Metadata.get(params[:metadata_id])
       case params[:status]
       when 'valid'
         metadata.update :validated => true
