@@ -84,7 +84,7 @@ class LeakSpin < Sinatra::Application
     content_type :json
     
     # Fetch a question (only one at the moment)
-    question = Question.get(2)
+    question = Question.first(:metadata_name => 'people')
     
     # Fetch random fragment
     fragment = nil
