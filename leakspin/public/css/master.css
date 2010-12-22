@@ -156,6 +156,7 @@ Answer Page
 
 */
 
-.question-metadata{
+li.question-metadata{
   cursor:pointer;
+  list-style-type: none;
 }
