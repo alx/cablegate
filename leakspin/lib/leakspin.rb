@@ -132,34 +132,45 @@ class LeakSpin < Sinatra::Application
     "ok"
   end
   
-  # get 'answers' do
-  #   content_type :json
-  #   
-  #   question = Question.get(params[:question_id])
-  #   
-  #   metadatas = []
-  #   question.metadatas.each do |metadata|
-  #     metadatas << {
-  #       :value => metadata.value,
-  #       :validated => metadata.validated,
-  #       :cable => metadata.fragment.cable.cable_id
-  #     }
-  #   end
-  #   
-  #   {
-  #     :question => {
-  #       :id => question.id, 
-  #       :content => question.content, 
-  #       :help => question.help,
-  #       :metadata_name => question.metadata_name,
-  #       :progress => {
-  #         :total_cables => Cable.all.size,
-  #         :total_answers => question.metadatas.all.size,
-  #       }
-  #     },
-  #     :metadatas => metadatas
-  #   }.to_json
-  # end
+  get 'answers.json' do
+    content_type :json
+    
+    question = Question.get(params[:question_id])
+    cable_json = []
+    
+    cables.all('fragments.metadatas.question_id' => question.id, :limit => 20, :offset => params[:offset]).each do |cable|
+      metadatas = []
+      cable.fragments.each do |fragment|
+        fragment.metadatas.each do |metadata|
+          metadatas << {
+            :id => metadata.id,
+            :validated => metadata.validated
+          }
+        end
+      end
+      if metadatas.size > 0
+        cable_json << {
+          :id => cable.id,
+          :content => cable.content,
+          :metadatas => metadatas
+        }
+      end
+    end
+    
+    {
+      :question => {
+        :id => question.id, 
+        :content => question.content, 
+        :help => question.help,
+        :metadata_name => question.metadata_name,
+        :progress => {
+          :total_cables => Cable.all.size,
+          :total_answers => question.metadatas.all.size,
+        }
+      },
+      :cables => cable_json
+    }.to_json
+  end
   # 
   # post 'answer' do
   #   metadata = Metadata.get(params[:answer_id])

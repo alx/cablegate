@@ -1,3 +1,5 @@
+/*Tested by sandrine :-*/
+
 // Get user selection text on page
 function getSelectedText() {
     if (window.getSelection) {
