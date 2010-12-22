@@ -89,10 +89,15 @@ class LeakSpin < Sinatra::Application
     # Fetch random fragment
     fragment = nil
     while fragment.nil?
-      fragment = Fragment.all(:type => :header, :limit => 1, :offset => rand(Fragment.count)).first
+      #fragment = Fragment.all(:type => :header, :limit => 1, :offset => rand(Fragment.count)).first
+      fragment = Fragment.all(:limit => 1, :offset => rand(Fragment.count)).first
       # do not keep fragment if it has validated metadata
       if fragment
-        fragment = nil if fragment.metadatas.count(:validated => true) > 0
+        if fragment.metadatas.count(:validated => true) > 0
+          fragment = nil
+        elsif fragment.content.strip.empty?
+          fragment = nil
+        end
       end
     end
     
