@@ -32,7 +32,7 @@ function loadAnswerForQuestion(question_id, offset){
           var html_metadata = [];
           html_metadata.push("<div class='metadata_value'>");
           html_metadata.push(metadata.value);
-          html_metadata.push("(<a class='display_fragment' id='fragment_");
+          html_metadata.push("(<a class='display_fragment' id='fragment-");
           html_metadata.push(metadata.fragment_id);
           html_metadata.push("'>display</a>)</div><div id='metadata-" + metadata.id + "' class='metadata-control'>");
           html_metadata.push("<a class='valid");
