@@ -27,7 +27,7 @@ function loadAnswerForQuestion(question_id, offset){
 
       jQuery.each(data.cables, function(index, cable){
         var html_cable = [];
-        html_cable.push("Cable: " + cable.content)
+        html_cable.push("Cable: " + cable.cable_id)
         jQuery.each(cable.metadatas, function(index, metadata){
           var html_answer = [];
           html_answer.push("<p>");
@@ -43,7 +43,7 @@ function loadAnswerForQuestion(question_id, offset){
           html_answer.push("<label for='radio_delete'>Delete</label></div>");
           html_cable.push(html_answer.join(""));
         });  
-        html_answer.push("<button class='display_cable' value='" + cable.id + "'>Display Cable &#x2192;</button><hr/>");
+        html_answer.push("<button class='display_cable' value='" + cable.cable_id + "'>Display Cable &#x2192;</button><hr/>");
         answers.push(html_cable.join(""));
       });
       
