@@ -132,45 +132,46 @@ class LeakSpin < Sinatra::Application
     "ok"
   end
   
-  get 'answers' do
-    content_type :json
-    
-    question = Question.get(params[:question_id])
-    
-    metadatas = []
-    question.metadatas.each do |metadata|
-      metadatas << {
-        :value => metadata.value,
-        :validated => metadata.validated,
-        :cable => metadata.fragment.cable.cable_id
-      }
-    end
-    
-    {
-      :question => {
-        :id => question.id, 
-        :content => question.content, 
-        :help => question.help,
-        :metadata_name => question.metadata_name,
-        :progress => {
-          :total_cables => Cable.all.size,
-          :total_answers => question.metadatas.all.size,
-        }
-      },
-      :metadatas => metadatas
-    }.to_json
-  end
-  
-  post 'answer' do
-    metadata = Metadata.get(params[:answer_id])
-    if params[:status]
-      case params[:status]
-      when 'valid'
-        metadata.update :validated => true
-      when 'not_valid'
-        metadata.update :validated => true
-      when 'delete'
-        metadata.destroy!
-      end
-    end
+  # get 'answers' do
+  #   content_type :json
+  #   
+  #   question = Question.get(params[:question_id])
+  #   
+  #   metadatas = []
+  #   question.metadatas.each do |metadata|
+  #     metadatas << {
+  #       :value => metadata.value,
+  #       :validated => metadata.validated,
+  #       :cable => metadata.fragment.cable.cable_id
+  #     }
+  #   end
+  #   
+  #   {
+  #     :question => {
+  #       :id => question.id, 
+  #       :content => question.content, 
+  #       :help => question.help,
+  #       :metadata_name => question.metadata_name,
+  #       :progress => {
+  #         :total_cables => Cable.all.size,
+  #         :total_answers => question.metadatas.all.size,
+  #       }
+  #     },
+  #     :metadatas => metadatas
+  #   }.to_json
+  # end
+  # 
+  # post 'answer' do
+  #   metadata = Metadata.get(params[:answer_id])
+  #   if params[:status]
+  #     case params[:status]
+  #     when 'valid'
+  #       metadata.update :validated => true
+  #     when 'not_valid'
+  #       metadata.update :validated => true
+  #     when 'delete'
+  #       metadata.destroy!
+  #     end
+  #   end
+  # end
 end
