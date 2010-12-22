@@ -132,7 +132,7 @@ class LeakSpin < Sinatra::Application
     "ok"
   end
   
-  get 'answers.json' do
+  get '/answers.json' do
     content_type :json
     
     question = Question.get(params[:question_id])
