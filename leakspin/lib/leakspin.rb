@@ -154,7 +154,7 @@ class LeakSpin < Sinatra::Application
     content_type :json
     
     question = Question.get(params[:question_id])
-    return "{}" if question.nil?
+    #return "{}" if question.nil?
     
     cable_json = []
     
@@ -170,8 +170,7 @@ class LeakSpin < Sinatra::Application
       end
       if metadatas.size > 0
         cable_json << {
-          :id => cable.id,
-          :content => cable.content,
+          :cable_id => cable.cable_id,
           :metadatas => metadatas
         }
       end
