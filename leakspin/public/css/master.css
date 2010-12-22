@@ -31,7 +31,6 @@ div.bar {
   border-radius: 5px;
   font-size:16px;
   padding:5px;
-  margin-left:170px;
   margin-top:30px;
 }
 
@@ -62,10 +61,10 @@ Panel with details
 
 #spin_panel a#logo{
   float:left;
+  padding:10px;
 }
 
 #spin_panel h2{
-  margin-left:200px;
   padding:20px 5px;
   font-size:20px;
 }
