@@ -27,9 +27,9 @@
 <div id="content" class="container_12">
 
     <div id="questions_panel" class="grid_3">
-        <ul id="selectable_questions" class="ui-selectable">
+        <ul id="selectable_questions">
             <% @questions.each do |question| %>
-            <li id='question-<%= question.id %>' class="ui-widget-content ui-selectee"><%= question.content %></li>
+            <li id='question-<%= question.id %>' class='question-metadata'><%= question.metadata_name %></li>
             <% end %>
         </ol>
     </div>
