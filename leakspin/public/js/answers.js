@@ -34,7 +34,7 @@ function loadAnswerForQuestion(question_id){
           html_answer.push("<input type='radio' id='radio_valid' name='radio_validation' value='valid'");
           if (metadata.validated) html_answer.push(" checked='checked'");
           html_answer.push("/><label for='radio_valid'>Valid</label>");
-          html_answer.push("<input type='radio' id='radio_not_valid' name='radio_validation' value='not_valid');
+          html_answer.push("<input type='radio' id='radio_not_valid' name='radio_validation' value='not_valid'");
           if (!metadata.validated) html_answer.push(" checked='checked'");
           html_answer.push("/><label for='radio_not_valid'>Not Valid</label>");
           html_answer.push("<input type='radio' id='radio_delete' name='radio_validation' value='delete'/>");
