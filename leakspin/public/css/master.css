@@ -149,3 +149,13 @@ pre {
     margin-top: 10px;
     padding: 10px;
 }
+
+/*
+
+Answer Page
+
+*/
+
+.question-metadata{
+  cursor:pointer;
+}

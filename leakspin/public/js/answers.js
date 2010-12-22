@@ -56,7 +56,7 @@ function loadAnswerForQuestion(question_id){
 
 jQuery(document).ready(function(){
   
-  jQuery("#selectable_questions li").click(function(){
+  jQuery("li.question-metadata").click(function(){
     var question_id = jQuery(this).attr('id').split("-").pop();
     loadAnswerForQuestion(question_id, 0);
     jQuery('#selectable_questions li').removeClass('ui-selected');
