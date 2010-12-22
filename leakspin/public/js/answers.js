@@ -30,11 +30,11 @@ function loadAnswerForQuestion(question_id, offset){
         html_cable.push("<div class='cable' id='cable-" + cable.cable_id + "'>Cable: " + cable.cable_id);
         jQuery.each(cable.metadatas, function(index, metadata){
           var html_metadata = [];
-          html_metadata.push("<div class='metadata_value'>");
+          html_metadata.push("<div class='metadata'><div class='metadata-content'>");
           html_metadata.push(metadata.value);
           html_metadata.push("(<a class='display_fragment' id='fragment-");
           html_metadata.push(metadata.fragment_id);
-          html_metadata.push("'>display</a>)<div id='metadata-" + metadata.id + "' class='metadata-control'>");
+          html_metadata.push("'>display</a>)</div><div id='metadata-" + metadata.id + "' class='metadata-control'>");
           html_metadata.push("<a class='valid");
           if (metadata.validated) html_metadata.push(" selected");
           html_metadata.push("'>Valid</a>  ");
@@ -81,7 +81,7 @@ jQuery(document).ready(function(){
   jQuery("a.delete").live("click", function(){
     var metadata_id = jQuery(this).parents(".metadata-control").attr('id').split('-').pop();
     setAnswerStatus(metadata_id, "delete");
-    jQuery(this).parents(".metadata_value").remove();
+    jQuery(this).parents(".metadata").remove();
   });
   
   jQuery("#more_metadatas").click(function(){
