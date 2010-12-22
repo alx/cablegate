@@ -34,13 +34,13 @@ function loadAnswerForQuestion(question_id, offset){
           html_metadata.push(metadata.value);
           html_metadata.push("(<a class='display_fragment' id='fragment-");
           html_metadata.push(metadata.fragment_id);
-          html_metadata.push("'>display</a>)</div><div id='metadata-" + metadata.id + "' class='metadata-control'>");
+          html_metadata.push("'>display</a>)<div id='metadata-" + metadata.id + "' class='metadata-control'>");
           html_metadata.push("<a class='valid");
           if (metadata.validated) html_metadata.push(" selected");
           html_metadata.push("'>Valid</a>  ");
           html_metadata.push("<a class='not_valid");
           if (!metadata.validated) html_metadata.push(" selected");
-          html_metadata.push("'>Not Valid</a>  <a class='delete'>Delete</a>");
+          html_metadata.push("'>Not Valid</a>  <a class='delete'>Delete</a></div></div>");
           html_cable.push(html_metadata.join(""));
         });  
         html_cable.push("</div><hr/>");
@@ -81,11 +81,11 @@ jQuery(document).ready(function(){
   jQuery("a.delete").live("click", function(){
     var metadata_id = jQuery(this).parents(".metadata-control").attr('id').split('-').pop();
     setAnswerStatus(metadata_id, "delete");
-    jQuery(this).parents(".cable").remove();
+    jQuery(this).parents(".metadata_value").remove();
   });
   
   jQuery("#more_metadatas").click(function(){
-    var question_id = jQuery('#selectable_questions li.ui-selected').attr('id').split("-").pop();
+    var question_id = jQuery('#selectable_questions .selected').attr('id').split("-").pop();
     var offset = parseInt(jQuery('#current_offset').val()) + 10;
     loadAnswerForQuestion(question_id, offset);
   });
