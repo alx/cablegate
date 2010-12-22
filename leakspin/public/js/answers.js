@@ -32,7 +32,7 @@ function loadAnswerForQuestion(question_id, offset){
           var html_metadata = [];
           html_metadata.push("<div class='metadata_value'>");
           html_metadata.push(metadata.value);
-          html_metadata.push("</p><div id='metadata-" + metadata.id + "' class='radio_validation'>");
+          html_metadata.push("</div><div id='metadata-" + metadata.id + "' class='radio_validation'>");
           html_metadata.push("<input type='radio' class='radio_valid' name='radio_validation' value='valid'");
           if (metadata.validated) html_metadata.push(" checked='checked'");
           html_metadata.push("/><label for='radio_valid'>Valid</label>");
