@@ -31,7 +31,7 @@ function loadAnswerForQuestion(question_id, offset){
         jQuery.each(cable.metadatas, function(index, metadata){
           var html_answer = [];
           html_answer.push("<p>");
-          html_answer.push(answer.value);
+          html_answer.push(metadata.value);
           html_answer.push("</p><div id='answer-" + metadata.id + "' class='radio_validation'>");
           html_answer.push("<input type='radio' id='radio_valid' name='radio_validation' value='valid'");
           if (metadata.validated) html_answer.push(" checked='checked'");
