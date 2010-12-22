@@ -10,7 +10,7 @@ function setAnswerStatus(answer_id, status){
   if(status == 'delete') jQuery("#answer-" + answer_id).remove();
 }
 
-function loadAnswerForQuestion(question_id){
+function loadAnswerForQuestion(question_id, offset){
   jQuery.ajax({
     url: '/answers.json',
     type: 'GET',
