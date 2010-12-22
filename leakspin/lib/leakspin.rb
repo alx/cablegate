@@ -84,15 +84,20 @@ class LeakSpin < Sinatra::Application
     content_type :json
     
     # Fetch a question (only one at the moment)
-    question = Question.get(2)
+    question = Question.first(:metadata_name => 'people')
     
     # Fetch random fragment
     fragment = nil
     while fragment.nil?
-      fragment = Fragment.all(:type => :header, :limit => 1, :offset => rand(Fragment.count)).first
+      #fragment = Fragment.all(:type => :header, :limit => 1, :offset => rand(Fragment.count)).first
+      fragment = Fragment.all(:limit => 1, :offset => rand(Fragment.count)).first
       # do not keep fragment if it has validated metadata
       if fragment
-        fragment = nil if fragment.metadatas.count(:validated => true) > 0
+        if fragment.metadatas.count(:validated => true) > 0
+          fragment = nil
+        elsif fragment.content.strip.empty?
+          fragment = nil
+        end
       end
     end
     
@@ -126,4 +131,46 @@ class LeakSpin < Sinatra::Application
       :question_id => params[:question_id])
     "ok"
   end
+  
+  get 'answers' do
+    content_type :json
+    
+    question = Question.get(params[:question_id])
+    
+    metadatas = []
+    question.metadatas.each do |metadata|
+      metadatas << {
+        :value => metadata.value,
+        :validated => metadata.validated,
+        :cable => metadata.fragment.cable.cable_id
+      }
+    end
+    
+    {
+      :question => {
+        :id => question.id, 
+        :content => question.content, 
+        :help => question.help,
+        :metadata_name => question.metadata_name,
+        :progress => {
+          :total_cables => Cable.all.size,
+          :total_answers => question.metadatas.all.size,
+        }
+      },
+      :metadatas => metadatas
+    }.to_json
+  end
+  
+  post 'answer' do
+    metadata = Metadata.get(params[:answer_id])
+    if params[:status]
+      case params[:status]
+      when 'valid'
+        metadata.update :validated => true
+      when 'not_valid'
+        metadata.update :validated => true
+      when 'delete'
+        metadata.destroy!
+      end
+    end
 end
