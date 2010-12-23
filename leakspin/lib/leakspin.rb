@@ -158,7 +158,7 @@ class LeakSpin < Sinatra::Application
     
     metadatas = []
     
-    question.metadatas.all(:limit => 20, :offset => params[:offset].to_i, :order => [:created_at.desc]).each do |metadata|
+    question.metadatas.all(:validated => false, :limit => 20, :offset => params[:offset].to_i, :order => [:created_at.desc]).each do |metadata|
       metadatas << {
         :id => metadata.id,
         :validated => metadata.validated,
