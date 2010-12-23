@@ -26,19 +26,17 @@ function loadAnswerForQuestion(question_id){
 
       jQuery.each(data.metadatas, function(index, metadata){
         var html_metadata = [];
-        html_metadata.push("<div class='cable' id='cable-" + metadata.cable_id + "'>Cable: " + metadata.cable_id);
+        html_metadata.push("<div class='cable' id='cable-");
+        html_metadata.push(metadata.cable_id);
+        html_metadata.push("'>Cable: ");
+        html_metadata.push(metadata.cable_id);
         html_metadata.push("<div class='metadata'><div class='metadata-content'>");
         html_metadata.push(metadata.value);
         html_metadata.push("(<a class='display_fragment' id='fragment-");
         html_metadata.push(metadata.fragment_id);
-        html_metadata.push("'>display</a>)</div><div id='metadata-" + metadata.id + "' class='metadata-control'>");
-        html_metadata.push("<a class='valid");
-        if (metadata.validated) html_metadata.push(" selected");
-        html_metadata.push("'>Valid</a>  ");
-        html_metadata.push("<a class='not_valid");
-        if (!metadata.validated) html_metadata.push(" selected");
-        html_metadata.push("'>Not Valid</a>  <a class='delete'>Delete</a></div></div>");
-        html_metadata.push("</div><hr/>");
+        html_metadata.push("'>display</a>)</div><div id='metadata-");
+        html_metadata.push(metadata.id);
+        html_metadata.push("' class='metadata-control'><a class='valid'>Valid</a><a class='delete'>Delete</a></div></div></div><hr/>");
         metadatas.push(html_metadata.join(""));
       });
       
@@ -85,6 +83,11 @@ jQuery(document).ready(function(){
   
   jQuery("a.display_fragment").live("click", function(){
     var fragment_id = jQuery(this).attr('id').split("-").pop();
+    jQuery("#cable_panel pre").load('/fragments/' + fragment_id);
+  });
+  
+  jQuery(".cable").live("mouseover", function(){
+    var fragment_id = jQuery(this).find(".display_fragment).attr('id').split("-").pop();
     jQuery("#cable_panel pre").load('/fragments/' + fragment_id);
   });
 });

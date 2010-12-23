@@ -158,7 +158,7 @@ class LeakSpin < Sinatra::Application
     
     metadatas = []
     
-    question.metadatas.all(:validated => false, :limit => 20, :order => [:created_at.desc]).each do |metadata|
+    question.metadatas.all(:validated => false, :limit => 10, :order => [:created_at.desc]).each do |metadata|
       metadatas << {
         :id => metadata.id,
         :validated => metadata.validated,
@@ -189,8 +189,6 @@ class LeakSpin < Sinatra::Application
       case params[:status]
       when 'valid'
         metadata.update :validated => true
-      when 'not_valid'
-        metadata.update :validated => false
       when 'delete'
         metadata.destroy! unless metadata.validated
       end
