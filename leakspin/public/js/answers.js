@@ -92,6 +92,6 @@ jQuery(document).ready(function(){
     jQuery("#cable_panel pre").load('/fragments/' + fragment_id);
     var cable_text = jQuery("#cable_panel pre").html();
     cable_text.replace(metadata_value, "<span class='selected_text'>" + metadata_value + "</span>");
-    jQuery("#cable_panel pre").html(cable_text).css({'top': jQuery(this).position().top, 'position':'absolute'});
+    jQuery("#cable_panel pre").html(cable_text).css({'top': window.pageYOffset, 'position':'absolute'});
   });
 });
