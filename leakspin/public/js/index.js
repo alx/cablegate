@@ -66,7 +66,7 @@ function sendLeakSpin(value){
       loadJsonSpin();
     }
   });
-}d
+}
 
 jQuery(document).bind('mouseup', function(){
   changeAnswerText();
