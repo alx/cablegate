@@ -190,9 +190,9 @@ class LeakSpin < Sinatra::Application
       when 'valid'
         metadata.update :validated => true
       when 'not_valid'
-        metadata.update :validated => true
+        metadata.update :validated => false
       when 'delete'
-        metadata.destroy!
+        metadata.destroy! unless metadata.validated
       end
     end
   end
