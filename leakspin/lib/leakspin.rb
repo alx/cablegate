@@ -156,27 +156,17 @@ class LeakSpin < Sinatra::Application
     question = Question.get(params[:question_id])
     #return "{}" if question.nil?
     
-    cable_json = []
+    metadatas = []
     
-    Cable.all('fragments.metadatas.question_id' => question.id, :limit => 20, :offset => params[:offset].to_i).each do |cable|
-      metadatas = []
-      cable.fragments.each do |fragment|
-        fragment.metadatas.each do |metadata|
-          metadatas << {
-            :id => metadata.id,
-            :validated => metadata.validated,
-            :name => metadata.name,
-            :value => metadata.value,
-            :fragment_id => fragment.id
-          }
-        end
-      end
-      if metadatas.size > 0
-        cable_json << {
-          :cable_id => cable.cable_id,
-          :metadatas => metadatas
-        }
-      end
+    question.metadatas.all(:limit => 20, :offset => params[:offset].to_i, :order => [:created_at.desc]).each do |metadata|
+      metadatas << {
+        :id => metadata.id,
+        :validated => metadata.validated,
+        :name => metadata.name,
+        :value => metadata.value,
+        :fragment_id => metadata.fragment.id,
+        :cable_id => metadata.fragment.cable.cable_id
+      }
     end
     
     {
@@ -190,7 +180,7 @@ class LeakSpin < Sinatra::Application
           :total_answers => question.metadatas.all.size,
         }
       },
-      :cables => cable_json
+      :metadatas => metadatas
     }.to_json
   end
   
