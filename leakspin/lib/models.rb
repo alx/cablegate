@@ -47,6 +47,7 @@ class Question
   property :content, Text
   property :help, Text
   property :metadata_name, Text
+  property :type, Enum[:unique, :list], :default => :unique
 
   property :created_at, DateTime
   property :updated_at, DateTime
