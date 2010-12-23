@@ -92,6 +92,7 @@ class LeakSpin < Sinatra::Application
     
     # Fetch a question (only one at the moment)
     question = Question.first(:metadata_name => 'people')
+    return "{}" unless question
     
     # Fetch random fragment
     fragment = nil
