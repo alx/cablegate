@@ -25,26 +25,22 @@ function loadAnswerForQuestion(question_id, offset){
       
       var metadatas = [];
 
-      jQuery.each(data.cables, function(index, cable){
-        var html_cable = [];
-        html_cable.push("<div class='cable' id='cable-" + cable.cable_id + "'>Cable: " + cable.cable_id);
-        jQuery.each(cable.metadatas, function(index, metadata){
-          var html_metadata = [];
-          html_metadata.push("<div class='metadata'><div class='metadata-content'>");
-          html_metadata.push(metadata.value);
-          html_metadata.push("(<a class='display_fragment' id='fragment-");
-          html_metadata.push(metadata.fragment_id);
-          html_metadata.push("'>display</a>)</div><div id='metadata-" + metadata.id + "' class='metadata-control'>");
-          html_metadata.push("<a class='valid");
-          if (metadata.validated) html_metadata.push(" selected");
-          html_metadata.push("'>Valid</a>  ");
-          html_metadata.push("<a class='not_valid");
-          if (!metadata.validated) html_metadata.push(" selected");
-          html_metadata.push("'>Not Valid</a>  <a class='delete'>Delete</a></div></div>");
-          html_cable.push(html_metadata.join(""));
-        });  
-        html_cable.push("</div><hr/>");
-        metadatas.push(html_cable.join(""));
+      jQuery.each(data.metadatas, function(index, metadata){
+        var html_metadata = [];
+        html_metadata.push("<div class='cable' id='cable-" + metadata.cable_id + "'>Cable: " + metadata.cable_id);
+        html_metadata.push("<div class='metadata'><div class='metadata-content'>");
+        html_metadata.push(metadata.value);
+        html_metadata.push("(<a class='display_fragment' id='fragment-");
+        html_metadata.push(metadata.fragment_id);
+        html_metadata.push("'>display</a>)</div><div id='metadata-" + metadata.id + "' class='metadata-control'>");
+        html_metadata.push("<a class='valid");
+        if (metadata.validated) html_metadata.push(" selected");
+        html_metadata.push("'>Valid</a>  ");
+        html_metadata.push("<a class='not_valid");
+        if (!metadata.validated) html_metadata.push(" selected");
+        html_metadata.push("'>Not Valid</a>  <a class='delete'>Delete</a></div></div>");
+        html_metadata.push("</div><hr/>");
+        metadatas.push(html_metadata.join(""));
       });
       
       jQuery("#metadata_list").append(metadatas.join(""));
