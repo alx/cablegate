@@ -43,7 +43,7 @@ function loadAnswerForQuestion(question_id, offset){
         metadatas.push(html_metadata.join(""));
       });
       
-      jQuery("#metadata_list").append(metadatas.join(""));
+      jQuery("#metadata_list").html(metadatas.join(""));
       jQuery('#current_offset').val(offset);
     }
   })

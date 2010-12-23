@@ -160,6 +160,7 @@ Answer Page
 {
 padding: 3px 0;
 margin-left: 0;
+margin-top: 20px;
 border-bottom: 1px solid #778;
 font: bold 12px Verdana, sans-serif;
 }
@@ -192,8 +193,12 @@ background: #AAE;
 border-color: #227;
 }
 
-#selectable_questions li a#selected
+#selectable_questions li a.selected
 {
 background: white;
 border-bottom: 1px solid white;
+}
+
+.metadata-control a.selected{
+  font-weight:bold;
 }
