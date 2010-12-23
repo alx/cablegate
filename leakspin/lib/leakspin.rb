@@ -189,6 +189,11 @@ class LeakSpin < Sinatra::Application
       case params[:status]
       when 'valid'
         metadata.update :validated => true
+        if metadata.question.type == :unique
+          metadata.question.questions.all(:validated => false).each do |unvalid_metadata|
+            unvalid_metadata.destroy!
+          end
+        end
       when 'delete'
         metadata.destroy! unless metadata.validated
       end

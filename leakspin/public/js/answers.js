@@ -30,11 +30,11 @@ function loadAnswerForQuestion(question_id){
         html_metadata.push(metadata.cable_id);
         html_metadata.push("'>Cable: ");
         html_metadata.push(metadata.cable_id);
-        html_metadata.push("<div class='metadata'><div class='metadata-content'>");
+        html_metadata.push("<div class='metadata'><div class='metadata-value'>");
         html_metadata.push(metadata.value);
-        html_metadata.push("(<a class='display_fragment' id='fragment-");
+        html_metadata.push("</div>(<a class='display_fragment' id='fragment-");
         html_metadata.push(metadata.fragment_id);
-        html_metadata.push("'>display</a>)</div><div id='metadata-");
+        html_metadata.push("'>display</a>)<div id='metadata-");
         html_metadata.push(metadata.id);
         html_metadata.push("' class='metadata-control'><a class='valid'>Valid</a><a class='delete'>Delete</a></div></div></div><hr/>");
         metadatas.push(html_metadata.join(""));
@@ -88,6 +88,10 @@ jQuery(document).ready(function(){
   
   jQuery(".cable").live("mouseover", function(){
     var fragment_id = jQuery(this).find(".display_fragment").attr('id').split("-").pop();
+    var metadata_value = jQuery(this).find('.metadata-value').html();
     jQuery("#cable_panel pre").load('/fragments/' + fragment_id);
+    var cable_text = jQuery("#cable_panel pre").html();
+    cable_text.replace(metadata_value, "<span class='selected_text'>" + metadata_value + "</span>");
+    jQuery("#cable_panel pre").html(cable_text).css({'top': jQuery(this).position().top, 'position':'absolute'});
   });
 });
