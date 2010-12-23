@@ -211,3 +211,15 @@ span.selected_text{
   color: white;
   text-shadow: none; 
 }
+
+.cable{
+  border-bottom: 1px solid #999;
+}
+
+.cable .current{
+  background-color:#EEF;
+}
+
+.metadata-control{
+  float:right;
+}

@@ -28,15 +28,15 @@ function loadAnswerForQuestion(question_id){
         var html_metadata = [];
         html_metadata.push("<div class='cable' id='cable-");
         html_metadata.push(metadata.cable_id);
-        html_metadata.push("'>Cable: ");
-        html_metadata.push(metadata.cable_id);
-        html_metadata.push("<div class='metadata'><div class='metadata-value'>");
-        html_metadata.push(metadata.value);
-        html_metadata.push("</div>(<a class='display_fragment' id='fragment-");
-        html_metadata.push(metadata.fragment_id);
-        html_metadata.push("'>display</a>)<div id='metadata-");
+        html_metadata.push("'><div id='metadata-");
         html_metadata.push(metadata.id);
-        html_metadata.push("' class='metadata-control'><a class='valid'>Valid</a><a class='delete'>Delete</a></div></div></div><hr/>");
+        html_metadata.push("' class='metadata-control'><a class='valid'>1. Valid</a><br><a class='delete'>2. Delete</a></div>Cable: ");
+        html_metadata.push(metadata.cable_id);
+        html_metadata.push("<div class='metadata' id='fragment-");
+        html_metadata.push(metadata.fragment_id);
+        html_metadata.push("><div class='metadata-value'>");
+        html_metadata.push(metadata.value);
+        html_metadata.push("</div></div></div>");
         metadatas.push(html_metadata.join(""));
       });
       
@@ -44,6 +44,34 @@ function loadAnswerForQuestion(question_id){
     }
   })
 }
+
+jQuery(document).bind('keydown', 'tab', function(){
+  var nextCable = jQuery(".cable .current").next('.cable:first');
+  if(nextCable.lenght > 0){
+    jQuery(".cable").removeClass(".current");
+    nextCable.addClass(".current");
+  } else {
+    // refresh list
+    var question_id = jQuery('#selectable_questions .selected').attr('id').split("-").pop();
+    loadAnswerForQuestion(question_id);
+  }
+});
+
+jQuery(document).bind('keydown', '1', function(){
+  var controls = jQuery(".cable .current .metadata-control")
+  var metadata_id = controls.attr('id').split('-').pop();
+  setAnswerStatus(metadata_id, "valid");
+  controls.find("a").removeClass('selected');
+  controls.find("a.valid").addClass('selected');
+});
+
+jQuery(document).bind('keydown', '2', function(){
+  var controls = jQuery(".cable .current .metadata-control")
+  var metadata_id = controls.attr('id').split('-').pop();
+  setAnswerStatus(metadata_id, "delete");
+  jQuery(".cable .current").remove();
+});
+
 
 jQuery(document).ready(function(){
   
