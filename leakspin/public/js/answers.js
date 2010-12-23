@@ -12,13 +12,12 @@ function setAnswerStatus(metadata_id, status){
   if(status == 'delete') jQuery("#metadata-" + metadata_id).remove();
 }
 
-function loadAnswerForQuestion(question_id, offset){
+function loadAnswerForQuestion(question_id){
   jQuery.ajax({
     url: '/answers.json',
     type: 'GET',
     data: {
-      question_id: question_id,
-      offset: offset
+      question_id: question_id
     },
     dataType: 'json',
     success: function(data){
@@ -44,7 +43,6 @@ function loadAnswerForQuestion(question_id, offset){
       });
       
       jQuery("#metadata_list").html(metadatas.join(""));
-      jQuery('#current_offset').val(offset);
     }
   })
 }
@@ -82,8 +80,7 @@ jQuery(document).ready(function(){
   
   jQuery("#more_metadatas").click(function(){
     var question_id = jQuery('#selectable_questions .selected').attr('id').split("-").pop();
-    var offset = parseInt(jQuery('#current_offset').val()) + 10;
-    loadAnswerForQuestion(question_id, offset);
+    loadAnswerForQuestion(question_id);
   });
   
   jQuery("a.display_fragment").live("click", function(){
