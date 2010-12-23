@@ -26,21 +26,19 @@
 
 <div id="content" class="container_12">
 
-    <div id="questions_panel" class="grid_3">
+    <div id="questions_panel" class="grid_5">
         <ul id="selectable_questions">
             <% @questions.each do |question| %>
-            <li id='question-<%= question.id %>' class='question-metadata'><%= question.metadata_name %></li>
+            <li><a id='question-<%= question.id %>' class='question-metadata'><%= question.metadata_name %></a></li>
             <% end %>
-        </ol>
-    </div>
-
-    <div id="answers_panel" class="grid_3">
+        </ul>
+        
         <div id='metadata_list'></div>
         <a id='more_metadatas'>More...</a>
         <input type="hidden" name="current_offset" value="0" id="current_offset">
     </div>
     
-    <div id="cable_panel" class="grid_6">
+    <div id="cable_panel" class="grid_7">
         <code>
             <pre>
             </pre>

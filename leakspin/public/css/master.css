@@ -156,7 +156,44 @@ Answer Page
 
 */
 
-li.question-metadata{
-  cursor:pointer;
-  list-style-type: none;
+#navlist
+{
+padding: 3px 0;
+margin-left: 0;
+border-bottom: 1px solid #778;
+font: bold 12px Verdana, sans-serif;
+}
+
+#selectable_questions li
+{
+list-style: none;
+margin: 0;
+display: inline;
+}
+
+#selectable_questions li a
+{
+cursor:pointer;
+padding: 3px 0.5em;
+margin-left: 3px;
+border: 1px solid #778;
+border-bottom: none;
+background: #DDE;
+text-decoration: none;
+}
+
+#selectable_questions li a:link { color: #448; }
+#selectable_questions li a:visited { color: #667; }
+
+#selectable_questions li a:hover
+{
+color: #000;
+background: #AAE;
+border-color: #227;
+}
+
+#selectable_questions li a#selected
+{
+background: white;
+border-bottom: 1px solid white;
 }
