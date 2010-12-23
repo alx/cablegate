@@ -87,7 +87,7 @@ jQuery(document).ready(function(){
   });
   
   jQuery(".cable").live("mouseover", function(){
-    var fragment_id = jQuery(this).find(".display_fragment).attr('id').split("-").pop();
+    var fragment_id = jQuery(this).find(".display_fragment").attr('id').split("-").pop();
     jQuery("#cable_panel pre").load('/fragments/' + fragment_id);
   });
 });
