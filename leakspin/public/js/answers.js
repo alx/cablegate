@@ -26,7 +26,12 @@ function loadAnswerForQuestion(question_id){
 
       jQuery.each(data.metadatas, function(index, metadata){
         var html_metadata = [];
-        html_metadata.push("<div class='cable' id='cable-");
+        html_metadata.push("<div class='cable ");
+        if (firstCable == true){
+          firstCable = false;
+          html_metadata.push("current");
+        }
+        html_metadata.push("' id='cable-");
         html_metadata.push(metadata.cable_id);
         html_metadata.push("'><div id='metadata-");
         html_metadata.push(metadata.id);
