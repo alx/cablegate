@@ -51,12 +51,11 @@ function loadAnswerForQuestion(question_id){
   })
 }
 
-jQuery(document).bind('keydown', 'down', function(){
-  var nextCable = jQuery(".current_cable").next('.cable:first');
-  if(nextCable.length > 0){
-    var fragment_id = nextCable.find("#fragment_id").val();
+function switchCable(cable){
+  if(cable.length > 0){
+    var fragment_id = cable.find("#fragment_id").val();
     jQuery(".cable").removeClass("current_cable");
-    nextCable.addClass("current_cable");
+    cable.addClass("current_cable");
     jQuery("#cable_panel pre").load('/fragments/' + fragment_id);
     jQuery("#cable_panel pre").css({'top': window.pageYOffset, 'position':'absolute'});
   } else {
@@ -64,22 +63,30 @@ jQuery(document).bind('keydown', 'down', function(){
     var question_id = jQuery('#selectable_questions .selected').attr('id').split("-").pop();
     loadAnswerForQuestion(question_id);
   }
+}
+
+function controlCable(action){
+  var controls = jQuery(".current_cable .metadata-control");
+  var metadata_id = controls.attr('id').split('-').pop();
+  setAnswerStatus(metadata_id, action);
+  controls.find("a").removeClass('selected');
+  controls.find("a." + action).addClass('selected');
+}
+
+jQuery(document).bind('keydown', 'up', function(){
+  switchCable(jQuery(".current_cable").prev('.cable:first'));
+});
+
+jQuery(document).bind('keydown', 'down', function(){
+  switchCable(jQuery(".current_cable").next('.cable:first'));
 });
 
 jQuery(document).bind('keyup', '1', function(){
-  var controls = jQuery(".current_cable .metadata-control");
-  var metadata_id = controls.attr('id').split('-').pop();
-  setAnswerStatus(metadata_id, "valid");
-  controls.find("a").removeClass('selected');
-  controls.find("a.valid").addClass('selected');
+  controlCable("valid");
 });
 
 jQuery(document).bind('keyup', '2', function(){
-  var controls = jQuery(".current_cable .metadata-control");
-  var metadata_id = controls.attr('id').split('-').pop();
-  setAnswerStatus(metadata_id, "delete");
-  controls.find("a").removeClass('selected');
-  controls.find("a.delete").addClass('selected');
+  controlCable("delete");
 });
 
 
@@ -95,13 +102,5 @@ jQuery(document).ready(function(){
   jQuery("#more_metadatas").click(function(){
     var question_id = jQuery('#selectable_questions .selected').attr('id').split("-").pop();
     loadAnswerForQuestion(question_id);
-  });
-  
-  jQuery(".cable").live("mouseover", function(){
-    var fragment_id = jQuery(this).find("#fragment_id").val();
-    jQuery(".current_cable").removeClass('current_cable');
-    jQuery(this).addClass('current_cable');
-    jQuery("#cable_panel pre").load('/fragments/' + fragment_id);
-    jQuery("#cable_panel pre").css({'top': window.pageYOffset, 'position':'absolute'});
   });
 });
