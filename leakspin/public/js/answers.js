@@ -51,7 +51,7 @@ function loadAnswerForQuestion(question_id){
   })
 }
 
-jQuery(document).bind('keydown', 'tab', function(){
+jQuery(document).bind('keydown', 'down', function(){
   var nextCable = jQuery(".current_cable").next('.cable:first');
   if(nextCable.lenght > 0){
     jQuery(".cable").removeClass("current_cable");
@@ -89,28 +89,6 @@ jQuery(document).ready(function(){
     jQuery(this).addClass('selected');
   });
   
-  jQuery("a.valid").live("click", function(){
-    var controls = jQuery(this).parents(".metadata-control");
-    var metadata_id = controls.attr('id').split('-').pop();
-    setAnswerStatus(metadata_id, "valid");
-    controls.find("a").removeClass('selected');
-    jQuery(this).addClass('selected');
-  });
-  
-  jQuery("a.not_valid").live("click", function(){
-    var controls = jQuery(this).parents(".metadata-control");
-    var metadata_id = controls.attr('id').split('-').pop();
-    setAnswerStatus(metadata_id, "not_valid");
-    controls.find("a").removeClass('selected');
-    jQuery(this).addClass('selected');
-  });
-  
-  jQuery("a.delete").live("click", function(){
-    var metadata_id = jQuery(this).parents(".metadata-control").attr('id').split('-').pop();
-    setAnswerStatus(metadata_id, "delete");
-    jQuery(this).parents(".metadata").remove();
-  });
-  
   jQuery("#more_metadatas").click(function(){
     var question_id = jQuery('#selectable_questions .selected').attr('id').split("-").pop();
     loadAnswerForQuestion(question_id);
@@ -118,7 +96,8 @@ jQuery(document).ready(function(){
   
   jQuery(".cable").live("mouseover", function(){
     var fragment_id = jQuery(this).find("#fragment_id").val();
-    jQuery(this).addClass('current_cable')
+    jQuery(".current_cable").removeClass('current_cable');
+    jQuery(this).addClass('current_cable');
     jQuery("#cable_panel pre").load('/fragments/' + fragment_id);
     jQuery("#cable_panel pre").css({'top': window.pageYOffset, 'position':'absolute'});
   });
