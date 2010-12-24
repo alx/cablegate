@@ -47,17 +47,21 @@ function loadAnswerForQuestion(question_id){
       });
       
       jQuery("#metadata_list").html(metadatas.join(""));
+      loadFragment();
     }
   })
 }
 
+function loadFragment(){
+  jQuery("#cable_panel pre").load('/fragments/' + jQuery(".current_cable #fragment_id").val());
+  jQuery("#cable_panel pre").css({'top': window.pageYOffset, 'position':'absolute'});
+}
+
 function switchCable(cable){
   if(cable.length > 0){
-    var fragment_id = cable.find("#fragment_id").val();
     jQuery(".cable").removeClass("current_cable");
     cable.addClass("current_cable");
-    jQuery("#cable_panel pre").load('/fragments/' + fragment_id);
-    jQuery("#cable_panel pre").css({'top': window.pageYOffset, 'position':'absolute'});
+    loadFragment();
   } else {
     // refresh list
     var question_id = jQuery('#selectable_questions .selected').attr('id').split("-").pop();
