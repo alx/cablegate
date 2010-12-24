@@ -23,6 +23,7 @@ function loadAnswerForQuestion(question_id){
     success: function(data){
       
       var metadatas = [];
+      var firstCable = true;
 
       jQuery.each(data.metadatas, function(index, metadata){
         var html_metadata = [];
