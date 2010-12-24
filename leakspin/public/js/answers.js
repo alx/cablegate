@@ -63,16 +63,16 @@ jQuery(document).bind('keydown', 'down', function(){
   }
 });
 
-jQuery(document).bind('keydown', '1', function(){
-  var controls = jQuery(".current_cable .metadata-control")
+jQuery(document).bind('keyup', '1', function(){
+  var controls = jQuery(".current_cable .metadata-control");
   var metadata_id = controls.attr('id').split('-').pop();
   setAnswerStatus(metadata_id, "valid");
   controls.find("a").removeClass('selected');
   controls.find("a.valid").addClass('selected');
 });
 
-jQuery(document).bind('keydown', '2', function(){
-  var controls = jQuery(".current_cable .metadata-control")
+jQuery(document).bind('keyup', '2', function(){
+  var controls = jQuery(".current_cable .metadata-control");
   var metadata_id = controls.attr('id').split('-').pop();
   setAnswerStatus(metadata_id, "delete");
   controls.find("a").removeClass('selected');
