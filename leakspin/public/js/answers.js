@@ -1,5 +1,6 @@
 /*Tested by marcel*/
 
+/*
 function setAnswerStatus(metadata_id, status){
   jQuery.ajax({
     url: '/answers',
@@ -11,6 +12,7 @@ function setAnswerStatus(metadata_id, status){
   });
   if(status == 'delete') jQuery("#metadata-" + metadata_id).remove();
 }
+*/
 
 function loadAnswerForQuestion(question_id){
   jQuery.ajax({
