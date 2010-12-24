@@ -190,10 +190,13 @@ class LeakSpin < Sinatra::Application
       case params[:status]
       when 'valid'
         metadata.update :validated => true
-        if metadata.question.type == :unique
-          metadata.question.questions.all(:validated => false).each do |unvalid_metadata|
-            unvalid_metadata.destroy!
-          end
+        case metadata.question.type
+        when :unique
+          # destroy other metadata for this question on this metadata fragment
+          metadata.question.metadatas.all(:validated => false, :fragment_id => metadata.fragment_id).destroy!
+        when :list
+          # destroy other metadata with same value for this question on this metadata fragment
+          metadata.question.metadatas.all(:id.not => metadata.id, :value => metadata.value, :fragment_id => metadata.fragment_id).destroy!
         end
       when 'delete'
         metadata.destroy! unless metadata.validated
