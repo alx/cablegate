@@ -53,7 +53,7 @@ function loadAnswerForQuestion(question_id){
 
 jQuery(document).bind('keydown', 'down', function(){
   var nextCable = jQuery(".current_cable").next('.cable:first');
-  if(nextCable.lenght > 0){
+  if(nextCable.length > 0){
     jQuery(".cable").removeClass("current_cable");
     nextCable.addClass("current_cable");
   } else {
