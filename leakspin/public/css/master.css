@@ -216,7 +216,7 @@ span.selected_text{
   border-bottom: 1px solid #999;
 }
 
-.cable .current{
+.current_cable{
   background-color:#EEF;
 }
 

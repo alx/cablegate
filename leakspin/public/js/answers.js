@@ -30,7 +30,7 @@ function loadAnswerForQuestion(question_id){
         html_metadata.push("<div class='cable ");
         if (firstCable == true){
           firstCable = false;
-          html_metadata.push("current");
+          html_metadata.push("current_cable");
         }
         html_metadata.push("' id='cable-");
         html_metadata.push(metadata.cable_id);
@@ -52,10 +52,10 @@ function loadAnswerForQuestion(question_id){
 }
 
 jQuery(document).bind('keydown', 'tab', function(){
-  var nextCable = jQuery(".cable .current").next('.cable:first');
+  var nextCable = jQuery(".current_cable").next('.cable:first');
   if(nextCable.lenght > 0){
-    jQuery(".cable").removeClass(".current");
-    nextCable.addClass(".current");
+    jQuery(".cable").removeClass("current_cable");
+    nextCable.addClass("current_cable");
   } else {
     // refresh list
     var question_id = jQuery('#selectable_questions .selected').attr('id').split("-").pop();
@@ -64,7 +64,7 @@ jQuery(document).bind('keydown', 'tab', function(){
 });
 
 jQuery(document).bind('keydown', '1', function(){
-  var controls = jQuery(".cable .current .metadata-control")
+  var controls = jQuery(".current_cable .metadata-control")
   var metadata_id = controls.attr('id').split('-').pop();
   setAnswerStatus(metadata_id, "valid");
   controls.find("a").removeClass('selected');
@@ -72,10 +72,11 @@ jQuery(document).bind('keydown', '1', function(){
 });
 
 jQuery(document).bind('keydown', '2', function(){
-  var controls = jQuery(".cable .current .metadata-control")
+  var controls = jQuery(".current_cable .metadata-control")
   var metadata_id = controls.attr('id').split('-').pop();
   setAnswerStatus(metadata_id, "delete");
-  jQuery(".cable .current").remove();
+  controls.find("a").removeClass('selected');
+  controls.find("a.delete").addClass('selected');
 });
 
 
@@ -117,10 +118,8 @@ jQuery(document).ready(function(){
   
   jQuery(".cable").live("mouseover", function(){
     var fragment_id = jQuery(this).find("#fragment_id").val();
-    var metadata_value = jQuery(this).find('.metadata-value').html();
+    jQuery(this).addClass('current_cable')
     jQuery("#cable_panel pre").load('/fragments/' + fragment_id);
-    var cable_text = jQuery("#cable_panel pre").html();
-    cable_text.replace(metadata_value, "<span class='selected_text'>" + metadata_value + "</span>");
-    jQuery("#cable_panel pre").html(cable_text).css({'top': window.pageYOffset, 'position':'absolute'});
+    jQuery("#cable_panel pre").css({'top': window.pageYOffset, 'position':'absolute'});
   });
 });
