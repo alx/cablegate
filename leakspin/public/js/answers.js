@@ -34,15 +34,15 @@ function loadAnswerForQuestion(question_id){
         }
         html_metadata.push("' id='cable-");
         html_metadata.push(metadata.cable_id);
-        html_metadata.push("'><div id='metadata-");
+        html_metadata.push("'><input type='hidden' name='fragment_id' id='fragment_id' value='");
+        html_metadata.push(metadata.fragment_id);
+        html_metadata.push("'/><div id='metadata-");
         html_metadata.push(metadata.id);
         html_metadata.push("' class='metadata-control'><a class='valid'>1. Valid</a><br><a class='delete'>2. Delete</a></div>Cable: ");
         html_metadata.push(metadata.cable_id);
-        html_metadata.push("<div class='metadata' id='fragment-");
-        html_metadata.push(metadata.fragment_id);
-        html_metadata.push("><div class='metadata-value'>");
+        html_metadata.push("<div class='metadata-value'>");
         html_metadata.push(metadata.value);
-        html_metadata.push("</div></div></div>");
+        html_metadata.push("</div></div>");
         metadatas.push(html_metadata.join(""));
       });
       
@@ -115,13 +115,8 @@ jQuery(document).ready(function(){
     loadAnswerForQuestion(question_id);
   });
   
-  jQuery("a.display_fragment").live("click", function(){
-    var fragment_id = jQuery(this).attr('id').split("-").pop();
-    jQuery("#cable_panel pre").load('/fragments/' + fragment_id);
-  });
-  
   jQuery(".cable").live("mouseover", function(){
-    var fragment_id = jQuery(this).find(".display_fragment").attr('id').split("-").pop();
+    var fragment_id = jQuery(this).find("#fragment_id").val();
     var metadata_value = jQuery(this).find('.metadata-value').html();
     jQuery("#cable_panel pre").load('/fragments/' + fragment_id);
     var cable_text = jQuery("#cable_panel pre").html();
