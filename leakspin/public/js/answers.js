@@ -54,8 +54,11 @@ function loadAnswerForQuestion(question_id){
 jQuery(document).bind('keydown', 'down', function(){
   var nextCable = jQuery(".current_cable").next('.cable:first');
   if(nextCable.length > 0){
+    var fragment_id = nextCable.find("#fragment_id").val();
     jQuery(".cable").removeClass("current_cable");
     nextCable.addClass("current_cable");
+    jQuery("#cable_panel pre").load('/fragments/' + fragment_id);
+    jQuery("#cable_panel pre").css({'top': window.pageYOffset, 'position':'absolute'});
   } else {
     // refresh list
     var question_id = jQuery('#selectable_questions .selected').attr('id').split("-").pop();
