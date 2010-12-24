@@ -99,7 +99,7 @@ jQuery(document).ready(function(){
   jQuery("a.question-metadata").click(function(){
     var question_id = jQuery(this).attr('id').split("-").pop();
     loadAnswerForQuestion(question_id, 0);
-    jQuery('#selectable_questions li').removeClass('selected');
+    jQuery('#selectable_questions a').removeClass('selected');
     jQuery(this).addClass('selected');
   });
   
