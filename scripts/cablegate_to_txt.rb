@@ -1,8 +1,13 @@
+$LOAD_PATH << '../leakspin/lib'
+
 require 'rubygems'
 require 'net/http'
 require 'nokogiri'
 require 'open-uri'
 require 'date'
+
+# Include leakspin database
+require 'models.rb'
 
 ####
 # Wikileak CableGate Parser

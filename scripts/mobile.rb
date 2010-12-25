@@ -1,5 +1,10 @@
+$LOAD_PATH << '../leakspin/lib'
+
 require 'date'
 require 'fileutils'
+
+# Include leakspin database
+require 'models.rb'
 
 #
 # Globals
