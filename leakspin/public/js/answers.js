@@ -107,4 +107,11 @@ jQuery(document).ready(function(){
     var question_id = jQuery('#selectable_questions .selected').attr('id').split("-").pop();
     loadAnswerForQuestion(question_id);
   });
+  
+  jQuery(".metadata-value").editable('/metadatas', {
+    name: 'value',
+    submitdata: {
+      id: jQuery(this).parents('div').siblings('.metadata-control').attr('id').split("-").pop();
+    }
+  });
 });

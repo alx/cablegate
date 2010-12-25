@@ -238,4 +238,10 @@ class LeakSpin < Sinatra::Application
   get '/fragments/:id' do
     Fragment.get(params[:id]).content
   end
+  
+  post '/metadatas' do
+    unless metadata = Metadata.get(params[:id])
+      metadata.update :value => params[:value]
+    end
+  end
 end

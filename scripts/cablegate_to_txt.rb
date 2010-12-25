@@ -7,6 +7,13 @@ require 'open-uri'
 require 'date'
 
 # Include leakspin database
+require 'dm-core'
+require 'dm-types'
+require 'dm-migrations'
+require 'dm-sqlite-adapter'
+require 'dm-postgres-adapter'
+require 'dm-aggregates'
+require 'dm-timestamps'
 require 'models.rb'
 
 ####
@@ -90,8 +97,52 @@ def write_cable(cable, options = {})
     File.open(cable_local, "w") do |f|
       f.write cable_file_content
     end
+    
+    add_cable_to_database(cable, options)
   rescue => e
     p "error parsing cable #{e.backtrace}"
+  end
+end
+
+def add_cable_to_database(cable_id, options)
+  unless Cable.first(:cable_id => cable_id)
+    header = ""
+    content = ""
+    has_header = false
+    
+    db_cable = Cable.create(:cable_id => cable_id)
+    cable_local = File.join("#{options[:scrape_root]}/cables", "#{cable_id}.txt")
+    
+    begin
+        file = File.new(cable_local, "r")
+        line_number = 1
+        while (line = file.gets)
+          if has_header
+            if line =~ /^\n/i
+              line = file.gets
+              if line =~ /^\n/i
+                db_cable.fragments << Fragment.create(:content => content, :type => :content, :line_number => line_number) unless content.empty?
+                content = ""
+              else
+                content << line
+              end
+            else
+              content << line
+            end
+          elsif line =~ /^\302\266/i
+            db_cable.fragments << Fragment.create(:content => header, :type => :header, :line_number => line_number)
+            has_header = true
+            content = line
+          else
+            header << line
+          end
+          line_number += 1
+        end
+        db_cable.save
+        file.close
+    rescue => err
+        puts "Exception: #{err}"
+    end
   end
 end
 
