@@ -135,6 +135,10 @@ Panel with details
   float:right;
 }
 
+.remove_from_list{
+  cursor:pointer;
+}
+
 /*
 
 Panel with cable

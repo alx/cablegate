@@ -15,5 +15,5 @@ ALTER TABLE questions ADD COLUMN updated_at timestamp;
 # Add question type column
 
 ALTER TABLE questions ADD COLUMN type integer;
-UPDATE questions SET type=1 WHERE id!=4;
-UPDATE questions SET type=2 WHERE id=4;
+UPDATE questions SET type=1 WHERE metatada NOT LIKE 'peoeple';
+UPDATE questions SET type=2 WHERE metatada LIKE 'peoeple';

@@ -15,11 +15,29 @@ class LeakSpin < Sinatra::Application
   set :root, APP_ROOT
   
   helpers do
-    def fill_db_content
+    
+    def add_missing_question
+      # subject
       Question.create(:content => "Select the subject", 
         :help => "Exemple: 'Subject: abcd' - Select: 'abcd'", 
-        :metadata_name => "subject")
+        :metadata_name => "subject") unless Question.first(:metadata_name => "subject")
+      
+      # tags
+      Question.create(:content => "Select the tag", 
+        :help => "Exemple: 'Tags: abc, def' - Select: 'abc, def'", 
+        :metadata_name => "tags") unless Question.first(:metadata_name => "tags")
+      
+      # people
+      Question.create(:content => "Select the people", 
+        :help => "Exemple: 'Emperor Palpatine' - Select: 'Palpatine'", :type => :list,
+        :metadata_name => "people") unless Question.first(:metadata_name => "people")
+        
+      if question = Question.first(:metadata_name => "people")
+        question.update(:type => :list) if question.type == :unique
+      end
+    end
     
+    def fill_db_content
       Dir.glob(File.join("..", "/cables/*")).each do |cable|
         header = ""
         content = ""
@@ -67,6 +85,7 @@ class LeakSpin < Sinatra::Application
   
   get '/update_db' do
     #fill_db_content
+    add_missing_question
   end
   
   ######
@@ -109,17 +128,29 @@ class LeakSpin < Sinatra::Application
       end
     end
     
+    question_json = {
+      :id => question.id, 
+      :content => question.content, 
+      :help => question.help,
+      :metadata_name => question.metadata_name,
+      :type => question.type,
+      :progress => {
+        :total_cables => Cable.all.size,
+        :total_answers => question.metadatas.all.size,
+      }
+    }
+    
+    question_answers = []
+    question.metadatas.all(:fragment_id => fragment.id, :validated => true).each do |metadata|
+      question_answers << {
+        :id => metadata.id,
+        :value => metadata.value
+      }
+    end
+    question_json[:answers] = question_answers
+    
     {
-      :question => {
-        :id => question.id, 
-        :content => question.content, 
-        :help => question.help,
-        :metadata_name => question.metadata_name,
-        :progress => {
-          :total_cables => Cable.all.size,
-          :total_answers => question.metadatas.all.size,
-        }
-      },
+      :question => question_json,
       :fragment => {
         :id => fragment.id, 
         :content => fragment.content.gsub("\b", "<br>"),
