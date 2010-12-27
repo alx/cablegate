@@ -91,7 +91,7 @@ class People
   
   property :id, Serial
   property :name, Text
-  property :image_url, URL
+  property :image_url, URI
   
   has n, :metadatas
 end
