@@ -88,7 +88,8 @@ function parseAnswer(){
       var callback = false;
       jQuery.each(jQuery("#spin_metadata_value li.new"), function(index, element){
         if(index == list_size) callback = true;
-        sendLeakSpin(element.html(), callback);
+        var selection = jQuery(element).html().replace(/\s\(.*/, "");
+        sendLeakSpin(selection, callback);
       });
     } else {
       sendLeakSpin(jQuery("#spin_metadata_value").html(), true);
