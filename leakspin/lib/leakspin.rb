@@ -6,7 +6,7 @@ require 'bundler'
 
 Bundler.require
 
-require 'auth.rb'
+#require 'auth.rb'
 require 'models.rb'
 
 class LeakSpin < Sinatra::Application
