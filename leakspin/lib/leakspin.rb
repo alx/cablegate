@@ -11,7 +11,7 @@ require 'models.rb'
 
 class LeakSpin < Sinatra::Application
   
-  register SinatraMore::WardenPlugin
+  #register SinatraMore::WardenPlugin
   
   set :sessions, true
   set :logging, true
