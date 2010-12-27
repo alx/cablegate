@@ -84,7 +84,7 @@ function sendLeakSpin(value, callback){
 function parseAnswer(){
   if(jQuery('#spin_metadata_value').html().length > 0){
     if(jQuery("#spin_question_type").val() == 'list'){
-      var list_index = (jQuery("#spin_metadata_value li.new").size() - 1);
+      var list_size = (jQuery("#spin_metadata_value li.new").size() - 1);
       var callback = false;
       jQuery.each(jQuery("#spin_metadata_value li.new"), function(index, element){
         if(index == list_size) callback = true;

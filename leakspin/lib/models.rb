@@ -68,6 +68,7 @@ class Metadata
 
   belongs_to :fragment
   belongs_to :question
+  belongs_to :people
 end
 
 class Question
@@ -82,6 +83,16 @@ class Question
   property :created_at, DateTime
   property :updated_at, DateTime
 
+  has n, :metadatas
+end
+
+class People
+  include DataMapper::Resource
+  
+  property :id, Serial
+  property :name, Text
+  property :image_url, URL
+  
   has n, :metadatas
 end
 

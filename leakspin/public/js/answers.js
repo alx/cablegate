@@ -47,6 +47,7 @@ function loadAnswerForQuestion(question_id){
       });
       
       jQuery("#metadata_list").html(metadatas.join(""));
+      jQuery("#more_metadatas").html("Refresh (still " + question.progress.not_validated + ")");
       loadFragment();
     }
   })

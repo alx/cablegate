@@ -6,9 +6,13 @@ require 'bundler'
 
 Bundler.require
 
+require 'auth.rb'
 require 'models.rb'
 
 class LeakSpin < Sinatra::Application
+  
+  register SinatraMore::WardenPlugin
+  
   set :sessions, true
   set :logging, true
   set :raise_errors, true
@@ -208,8 +212,7 @@ class LeakSpin < Sinatra::Application
         :help => question.help,
         :metadata_name => question.metadata_name,
         :progress => {
-          :total_cables => Cable.all.size,
-          :total_answers => question.metadatas.all.size,
+          :not_validated => question.metadatas.all(:validated => false).size,
         }
       },
       :metadatas => metadatas
@@ -242,6 +245,36 @@ class LeakSpin < Sinatra::Application
   post '/metadatas' do
     unless metadata = Metadata.get(params[:id])
       metadata.update :value => params[:value]
+    end
+  end
+  
+  #
+  #
+  # People
+  #
+  #
+  
+  get '/people' do
+    people_metadatas = Metadatas.all(:name => 'people', :validated => true)
+    people = People.all
+  end
+  
+  post '/people' do
+    if people = People.get(params[:people_id])
+      people.metadatas << Metadata.all(:value => params[:metadatas], :validated => true) if params[:metadatas]
+      people.name = params[:name] if params[:name]
+      if params[:image_url]
+        File.mkdir('../images/people') unless File.exists? '../images/people'
+        
+        image = open(params[:image_url])
+        image_ext = File.extension(params[:image_url])
+        people.image_url = "/images/people/#{people.name.gsub(/\s+/, "")}.#{image_ext}"
+        
+        File.open(File.join('..', people.image_url), "w") do |f|
+          f.write image
+        end
+      end
+      people.save
     end
   end
 end
