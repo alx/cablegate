@@ -54,13 +54,16 @@ function loadAnswerForQuestion(question_id){
 }
 
 function loadFragment(){
-  jQuery("#cable_panel p").load('/fragments/' + jQuery(".current_cable #fragment_id").val());
-  jQuery("#cable_panel p").css({'margin-top': '30px', 'top': window.pageYOffset, 'position':'absolute'});
-  
-  var metadataValue = jQuery(".current_cable .metadata-value").html();
-  if(metadataValue != "no answer"){
-    jQuery("#cable_panel p").replace(metadataValue, "<span class='selected_text'>" + metadataValue + "</span>");
-  }
+  jQuery("#cable_panel p").load('/fragments/' + jQuery(".current_cable #fragment_id").val(),
+    function(response, status, xhr) {
+      jQuery("#cable_panel p").css({'margin-top': '30px', 'top': window.pageYOffset, 'position':'absolute'});
+
+      var metadataValue = jQuery(".current_cable .metadata-value").html();
+      if(metadataValue != "no answer"){
+        jQuery("#cable_panel p").replace(metadataValue, "<span class='selected_text'>" + metadataValue + "</span>");
+      }
+    }
+  );
 }
 
 function switchCable(cable){
