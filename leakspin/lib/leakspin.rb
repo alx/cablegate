@@ -257,20 +257,34 @@ class LeakSpin < Sinatra::Application
   #
   
   get '/people' do
-    @people_metadatas = Metadata.all(:name => 'people', :validated => true, :people_id => nil)
+    @people_metadatas = Metadata.all(
+      :value.not => 'no answer', 
+      :name => 'people', 
+      :validated => true, 
+      :people_id => nil
+    )
     @people = People.all
     erb :people
   end
   
   post '/people' do
+    content_type :json
+    
     if params[:people_id].nil?
-      people = People.create(params[:name]) if people.nil?
+      people = People.create(:name => params[:name])
     else
       people = People.get(params[:people_id])
       people.name = params[:name] if params[:name]
     end
     
-    people.metadatas << Metadata.all(:value => params[:metadatas], :validated => true) if params[:metadatas]
+    if metadata = Metadata.get(params[:metadata_id])
+      people.metadatas << metadata
+      metadata.save!
+      Metadata.all(:value => metadata.value).each do |other_metadata|
+        people.metadatas << other_metadata
+        other_metadata.save!
+      end
+    end
     
     if params[:image_url]
       File.mkdir('../images/people') unless File.exists? '../images/people'
@@ -285,5 +299,18 @@ class LeakSpin < Sinatra::Application
     end
     
     people.save!
+    
+    metadatas = []
+    people.metadatas.each do |metadata|
+      metadatas << {:id => metadata.id, :name => metadata.name, :value => metadata.value}
+    end
+    
+    {
+      :people => {
+        :id => people.id, 
+        :name => people.name, 
+        :metadatas => metadatas
+      }
+    }.to_json
   end
 end

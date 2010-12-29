@@ -227,3 +227,17 @@ span.selected_text{
 .metadata-control{
   float:right;
 }
+
+/*
+
+People
+
+*/
+
+li.people{
+  cursor:pointer;;
+}
+
+li.selected{
+  background: #DDD;
+}
