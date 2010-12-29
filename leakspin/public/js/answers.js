@@ -123,4 +123,8 @@ jQuery(document).ready(function(){
       id: jQuery(this).parents('div').siblings('.metadata-control').attr('id').split("-").pop()
     }
   });*/
+  
+  jQuery(".remove_from_list").live('click', function(){
+    jQuery(this).parents("li").remove();
+  });
 });

@@ -239,7 +239,9 @@ class LeakSpin < Sinatra::Application
   end
   
   get '/fragments/:id' do
-    Fragment.get(params[:id]).content
+    fragment = Fragment.get(params[:id])
+    return "" if fragment.nil?
+    fragment.content
   end
   
   post '/metadatas' do
@@ -255,26 +257,33 @@ class LeakSpin < Sinatra::Application
   #
   
   get '/people' do
-    people_metadatas = Metadatas.all(:name => 'people', :validated => true)
-    people = People.all
+    @people_metadatas = Metadata.all(:name => 'people', :validated => true, :people_id => nil)
+    @people = People.all
+    erb :people
   end
   
   post '/people' do
-    if people = People.get(params[:people_id])
-      people.metadatas << Metadata.all(:value => params[:metadatas], :validated => true) if params[:metadatas]
+    if params[:people_id].nil?
+      people = People.create(params[:name]) if people.nil?
+    else
+      people = People.get(params[:people_id])
       people.name = params[:name] if params[:name]
-      if params[:image_url]
-        File.mkdir('../images/people') unless File.exists? '../images/people'
-        
-        image = open(params[:image_url])
-        image_ext = File.extension(params[:image_url])
-        people.image_url = "/images/people/#{people.name.gsub(/\s+/, "")}.#{image_ext}"
-        
-        File.open(File.join('..', people.image_url), "w") do |f|
-          f.write image
-        end
-      end
-      people.save
     end
+    
+    people.metadatas << Metadata.all(:value => params[:metadatas], :validated => true) if params[:metadatas]
+    
+    if params[:image_url]
+      File.mkdir('../images/people') unless File.exists? '../images/people'
+      
+      image = open(params[:image_url])
+      image_ext = File.extension(params[:image_url])
+      people.image_url = "/images/people/#{people.name.gsub(/\s+/, "")}.#{image_ext}"
+      
+      File.open(File.join('..', people.image_url), "w") do |f|
+        f.write image
+      end
+    end
+    
+    people.save!
   end
 end

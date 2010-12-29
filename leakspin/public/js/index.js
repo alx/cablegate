@@ -130,8 +130,4 @@ jQuery(document).ready(function(){
   jQuery("#next_question").live('click', function(){
     loadJsonSpin();
   });
-  
-  jQuery(".remove_from_list").live('click', function(){
-    jQuery(this).parents("li").remove();
-  });
 });
