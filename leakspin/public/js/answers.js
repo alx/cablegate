@@ -55,7 +55,7 @@ function loadAnswerForQuestion(question_id){
 
 function loadFragment(){
   jQuery("#cable_panel p").load('/fragments/' + jQuery(".current_cable #fragment_id").val());
-  jQuery("#cable_panel p").css({'margin-top': 30px, 'top': window.pageYOffset, 'position':'absolute'});
+  jQuery("#cable_panel p").css({'margin-top': '30px', 'top': window.pageYOffset, 'position':'absolute'});
 }
 
 function switchCable(cable){
