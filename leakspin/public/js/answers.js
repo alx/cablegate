@@ -109,10 +109,10 @@ jQuery(document).ready(function(){
     loadAnswerForQuestion(question_id);
   });
   
-  jQuery(".metadata-value").editable('/metadatas', {
+/*  jQuery(".metadata-value").editable('/metadatas', {
     name: 'value',
     submitdata: {
       id: jQuery(this).parents('div').siblings('.metadata-control').attr('id').split("-").pop()
     }
-  });
+  });*/
 });
