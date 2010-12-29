@@ -26,7 +26,7 @@ function createPeople(name, metadata_id){
   });
 }
 
-function updatePeople(people, name){
+function updatePeople(people, name, metadata_id){
   jQuery.ajax({
     url: '/people',
     type: 'POST',
