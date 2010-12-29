@@ -1,0 +1,270 @@
+08MADRID843
+SPAIN: INTERNET SURVEY PROJECT
+Tue Jul 29 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Madrid
+VZCZCXRO8538
+RR RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHMD #0843/01 2111305
+ZNR UUUUU ZZH
+R 291305Z JUL 08
+FM AMEMBASSY MADRID
+TO RUEHC/SECSTATE WASHDC 5185
+INFO RUCNMEM/EU MEMBER STATES COLLECTIVEUNCLAS SECTION 01 OF 03 MADRID 000843
+
+SIPDIS
+
+STATE FOR EEB/TPP/IPE JOELLEN URBAN
+STATE PASS USTR CHRIS WILSON
+STATE PASS COMMERCE DON CALVERT
+
+E.O. 12958: DECL: N/A
+TAGS: ECON ECPS KIPR SP UK
+SUBJECT: SPAIN: INTERNET SURVEY PROJECT
+
+REF: LONDON 1814
+
+SENSITIVE BUT UNCLASSIFIED
+
+¶1. (SBU) Summary: After consulting with rights-holders, the Embassy
+
+has identified seven main websites as most likely to be used
+for the purpose of uploading and/or downloading copyrighted
+materials considering accessibility, ease of download, and
+anonymity. Based on what we have found, it is fairly easy for
+Spaniards to obtain access to pirated media over the internet.
+Internet user anonymity remains a large legal obstacle in the
+enforcement of Spanish piracy regulations. Negotiations between
+Internet Service Providers (ISPs) and content providers have
+aimed to address this issue in recent months as part of a
+larger effort to stem internet piracy. Spain also continues to
+look towards the examples of neighboring countries in making
+decisions on internet piracy policy. Our overall assessment is
+that there is extensive illicit copyrighted material available
+for Spanish consumers, although we make no judgment regarding
+whether there is more or less such material available for
+consumers in other countries. End Summary.
+
+Embassy Internet Project
+------------------------
+
+¶2. (SBU) Spain has a major internet piracy problem. The country was
+
+placed on the Special 301 QWatch ListQ in 2008, largely because
+of this issue. The purpose of this project is to evaluate the
+nature of pirated content marketed to and available to the
+Spanish consumer, and to attempt to determine the facility
+which with Spanish nationals can acquire pirated materials over
+the internet. Online music and movies are the primary focus of
+this project. Due to the growing number of Spanish households
+with broadband internet access, in addition to the availability
+of efficient playback software, music and movies have become
+the primary concern with respect to online pirated materials.
+This project was carried out with the aid of several
+organizations from the movie industry, music industry, and
+intellectual property rights groups in Spain. Among those who
+provided information on questionable web pages were the Motion
+Picture Association (MPA), the Federation for the Protection of
+Intellectual Property (FAP), General Society of Authors and
+Editors (SGAE), and Producers of Spanish Music (Promusicae).
+
+¶3. (SBU) With the information provided by these Organizations, the
+
+Embassy identified seven main websites as most likely to
+attract Spanish consumers considering accessibility, ease of
+download, and anonymity. Three of the webpages have been
+identified for downloading movies, three for downloading music,
+and one page, www.vagos.es, has been noted by all of the above
+mentioned content provider organizations for its movie and
+music download popularity. (Note: The Embassy surveyed these
+websites but did not actually upload or download any material.)
+
+¶4. (SBU) The websites appear mostly to be operated out of locations
+
+in Spain. Technically, it does not matter where they are
+located. However, rights-holders have told us that, in theory,
+it should be less burdensome from a legal standpoint to block
+consumer access to sites operated from outside Spain.)
+
+Movies
+------
+
+¶5. (SBU) www.elrincondejesus.com is a traditional webpage based
+in the northwestern Spanish region of Galicia. This
+page offers download links from various P2P systems including
+eMule and BitTorrent. One must, however download execute
+applications that access the P2P networks specified in order to
+download content. In order to access download information,
+users must register with the web page and login. Registration
+information includes: nickname, email address, password,
+occupation, country, postal code, sex, year of birth, and
+sector of employment.
+
+¶6. (SBU) www.fase6.com is a traditional webpage with links to
+streaming video online. Movies do not have to be downloaded and
+can be viewed almost instantly, depending on the internet connection
+
+available. This page uploads movies daily, popular new and old
+releases and targets Spanish audiences. This site is very easy
+to access. There is no need to sign in, log on, or provide any
+information in order to access 100 percent of the content.
+Users just have to click on the link and the video starts to
+play.
+
+
+MADRID 00000843 002 OF 003
+
+
+¶7. (SBU) www.sharemula.com is a page based in the southern Spanish
+region of Andaluca that offers links to a variety of media on
+the eMule P2P network. Types of media include software, music,
+movies, and eBooks in PDF format. Upon registration, users have
+access to links available for download through the eMule
+application. This page uses P2P networks to facilitate movie
+downloading. The content on this site is more difficult to
+access because one must both sign into the webpage with a login
+and password and additionally download and execute the eMule
+application in order to acquire pirated content.
+
+Music:
+-----
+
+¶8. (SBU) www.elitemp3.net is a traditional webpage. Upon login,
+users have access to a variety of full music albums. The siteQs
+selection includes American and Spanish albums, but its
+language and themes suggest the site is geared towards a
+Spanish audience. The availability of songs and albums for
+download can be viewed by any internet user but download links
+and physical downloads are only available to registered users.
+Registration information includes: username, password, email
+address, country, postal code, age occupation, and sector of
+employment. Users are also given the option to join various
+email lists. According to Promusicae, this site contains 3537
+albums, has 263,342 users, and 6,600,000 downloads. In 2008,
+Promusicae reported that charges have been pressed against this
+site.
+
+¶10. (SBU) www.ddr.mforos.com is an online message board. This site
+
+also offers access to movies, series, etc. in addition to
+music. The site was however originally noted for music piracy.
+The music section of the site contains threads for various
+albums, both Spanish and English. Upon entrance into the
+thread, a listing of songs on the album and a link to a Qone-
+click hosting siteQ (pages that store large-size files for
+their users, i.e. Rapidshare.com, Megaupload.com) appears.
+According to Promusicae, this site contains 3000 albums, has
+70,964 users, and has been visited over 21,000,000 times.
+
+¶11. (SBU) www.posteando.com is an online message board with various
+
+themes including video games, software, literature, and
+multimedia. The multimedia section of the site contains both
+movies and music for download. The music section is organized
+in a manner where each thread specifies a download link for a
+certain album or song. The music section of the page also
+contains a thread where users can request download links from
+other users. Any internet user can view the locations of the
+content in question. It is necessary, however, to have a
+profile to post on the forum and thus be able to both post
+links and ask for links. According to Promusicae, this site
+contains 5000 albums and currently has 65,729 users.
+
+Special Note
+------------
+
+¶12. (SBU) www.vagos.es has been noted by both music and movie
+industry representatives as well as intellectual property
+rights organizations in Spain. For this reason, it receives
+special attention as a notorious provider of pirated materials of
+several kinds to its users. This site is an online message
+board based in the Balearic Islands. Music and movies are just
+two sections of the site. Other sections include general
+discussions about sports, humor, cars, and technology, and do
+not always contain pirated material. The music and movies
+sections include links uploaded by users of the site. Links are
+mostly to Qone-click hostingQ pages such as Megaupload and
+Rapidshare. Visitors who have not signed up with the web site
+are only able to view one post from one message board,
+therefore only having access to download one piece of media. In
+order to see more than one message, users must register with
+the web site and login. Information needed to register
+includes: name, password, email, country, postal code, sex,
+occupation, and industry.
+
+Analysis:
+--------
+
+¶13. (SBU) After a general review of each of these internet pages, it
+
+is clear that it is not difficult for Spaniards to obtain
+access to pirated movies and music over the internet. In
+addition, users can usually do so anonymously. Most of the
+pages visited required the provision of a user name and email
+address, from neither of which could a true identity be
+verified. However, rights-holders have told us that this should
+not be an insurmountable obstacle to restricting service to
+
+MADRID 00000843 003 OF 003
+
+
+internet service subscribers suspected of trafficking in
+copyrighted material, i.e. rights-holders can provide suspected
+IP address detectors without knowing the name of the person
+behind the address. In theory, this should provide a way for
+ISPs to limit or eliminate service to internet service
+subscribers without breaking Spanish privacy laws, although
+they do not appear to be convinced. Additionally, the fact that
+pirated materials sometimes appear on sites that are mainly
+geared towards discussions on lifestyle and leisure
+(www.posteando.com) poses an additional risk to rights-holders
+in that some internet users otherwise unlikely to seek pirated
+materials may opportunistically download pirated products
+through these sites. The QlifestyleQ sites are geared mainly
+towards teens and adults in their 20Qs. Popular music and movie
+titles found on these sites are rarely more than twenty years
+old. This fact, especially in regard to music, points to the
+fact that the majority of both uploaders and downloaders fall
+into the age groups specified. The organizational structure of
+media downloading in Spain seems to be dominated by independent
+sites that allow users to post links, or more simply
+instructions, on how to download the content from a third
+party. The third party download sources generally fall into one
+of two categories: one-click hosting sites or peer-to-peer
+(P2P) applications. The most common P2P applications among the
+sites reviewed are eMule, which runs on the eDonkey network,
+and BitTorrent, a P2P system that allows users to share the
+costs (hardware, memory, download time) of uploading and
+downloading content. The most common one-click hosting sites
+were Rapidshare and Megaupload. These sites offer users to
+upload large size files onto their network space and make the
+files available for download to other users. While these sites
+are meant for personal use and legal sharing of non-copyrighted
+material, they are being used by a growing number of people to
+distribute pirated content.
+
+Comment:
+-------
+
+¶14. (SBU) After a number of years of increasing complaints from
+rights-holders about internet piracy, the Embassy thought it
+would be valuable to try to see what is available to Spanish
+consumers. From our survey of the internet, it is clear that
+rights-holders have a point. Access to pirated material over
+the internet does appear to be quite extensive. We make no
+judgment as to whether more or less illicit content is
+available in Spain than in other major economies, only that
+such content is indeed available here. Moreover, a generation
+of Spanish internet users has become used to using the internet
+to access movies and music, some of which is legally available
+over the internet, but much of which is not available legally
+through the internet. Rights-holders sometimes describe the
+Spanish government and ISP pressure on content providers to
+offer legal internet alternatives as a Qred herring.Q In part,
+they may be right. We suspect, however, that any deal between
+ISPs and rights-holders or any new legislation aimed a
+protecting copyright over the internet will have to include an
+element of more legal alternatives, much as was described in
+reftel in the case of the United Kingdom.
+
+AGUIRRE
