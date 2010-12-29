@@ -1,0 +1,304 @@
+html {
+  overflow-y: scroll;
+}
+body {
+  text-rendering: optimizeLegibility;
+  color: #222222;
+  position: relative;
+}
+body.rhythm {
+  background: transparent url("/media/images/rhythm.png") top left;
+}
+body a {
+  text-decoration: none;
+  color: #e50053;
+}
+body a:hover {
+  text-decoration: underline;
+}
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6 {
+  font-family: 'OFL Sorts Mill Goudy', 'OFL Sorts Mill Goudy TT', serif;
+  font-weight: normal;
+}
+body h1 a,
+body h2 a,
+body h3 a,
+body h4 a,
+body h5 a,
+body h6 a {
+  color: #222222;
+}
+body h1 a:hover,
+body h2 a:hover,
+body h3 a:hover,
+body h4 a:hover,
+body h5 a:hover,
+body h6 a:hover {
+  color: #e50053;
+  text-decoration: none;
+}
+body h1 .amp,
+body h2 .amp,
+body h3 .amp,
+body h4 .amp,
+body h5 .amp,
+body h6 .amp {
+  font-style: italic;
+}
+body h1 {
+  font-size: 45px;
+  line-height: 50px;
+  margin: 25px 0;
+}
+body h2 {
+  font-size: 32px;
+  line-height: 50px;
+  margin: 25px 0;
+}
+body h3 {
+  font-size: 23px;
+  line-height: 25px;
+  margin: 25px 0;
+}
+body h4 {
+  font-size: 18px;
+  line-height: 25px;
+  margin: 25px 0;
+}
+body code, body pre {
+  font-family: Consolas, Menlo, "Courier New", monospace;
+  font-size: 14px;
+}
+body .codehilite code, body .codehilite pre {
+  font-family: Consolas, Menlo, "Courier New", monospace;
+  font-size: 16px;
+  line-height: 25px;
+  overflow-x: auto;
+  border: 1px solid #d5d5d5;
+  border-left: 10px solid #d5d5d5;
+  background-color: #fafafa;
+  padding: 11px 15px 12px;
+  margin-left: -25px;
+}
+body .codehilite pre::-webkit-scrollbar {
+  height: 25px;
+}
+body .codehilite pre::-webkit-scrollbar-button:start, body .codehilite pre::-webkit-scrollbar-button:end {
+  display: none;
+}
+body .codehilite pre::-webkit-scrollbar-track-piece {
+  background-color: #eee;
+}
+body .codehilite pre::-webkit-scrollbar-thumb {
+  background-color: #bbb;
+  border: 7px solid #eee;
+  -webkit-background-clip: padding-box;
+  -webkit-border-radius: 12px;
+}
+body p code, body li code {
+  border: 1px solid #ccc;
+  background-color: #fafafa;
+  font-size: 13px;
+  padding: 1px 3px;
+  line-height: 20px;
+  margin: 0;
+  white-space: nowrap;
+}
+body .wrap {
+  width: 612px;
+  margin: 0 auto;
+  margin-bottom: 5em;
+}
+body .wrap .top header {
+  float: left;
+  font-family: 'OFL Sorts Mill Goudy', 'OFL Sorts Mill Goudy TT', serif;
+  font-size: 23px;
+  line-height: 50px;
+  text-transform: lowercase;
+  padding-left: 2px;
+  width: 210px;
+}
+body .wrap .top header .amp {
+  font-style: italic;
+}
+body .wrap .top header a {
+  color: #222222;
+}
+body .wrap .top header a:hover {
+  color: #e50053;
+}
+body .wrap .top nav {
+  font: normal 18px/50px 'OFL Sorts Mill Goudy', 'OFL Sorts Mill Goudy TT', serif;
+  text-align: right;
+  text-transform: lowercase;
+  padding-right: 2px;
+  width: 398px;
+  float: left;
+}
+body .wrap .top nav .sep {
+  padding: 0 4px;
+  color: #666;
+}
+body .wrap .hr {
+  margin-top: -12px;
+  margin-bottom: 37px;
+  height: 25px;
+  background: transparent url('/media/images/hr.png') top left no-repeat;
+}
+body .wrap .hrb {
+  height: 25px;
+  margin-top: 50px;
+  background: transparent url('/media/images/hrb.png') top left no-repeat;
+}
+body .wrap footer {
+  font-size: 14px;
+  font-style: italic;
+  line-height: 50px;
+  text-align: center;
+}
+.splash {
+  color: #454545;
+  text-align: center;
+  font: normal 45px/50px 'OFL Sorts Mill Goudy', 'OFL Sorts Mill Goudy TT', serif;
+  margin-bottom: -1px;
+  padding-top: 25px;
+}
+.splash p {
+  margin-bottom: 50px;
+}
+.splash .amp {
+  font-style: italic;
+}
+.section-listing {
+  margin-bottom: -50px;
+}
+.section-listing ol {
+  list-style-type: none;
+}
+.section-listing ol li {
+  float: left;
+  width: 281px;
+  height: 150px;
+  margin: 0;
+  text-align: center;
+}
+.section-listing ol li a {
+  font: normal 23px/32px 'OFL Sorts Mill Goudy', 'OFL Sorts Mill Goudy TT', serif;
+  color: #222222;
+  display: block;
+}
+.section-listing ol li a:hover {
+  color: #e50053;
+  text-decoration: none;
+}
+.section-listing ol li span.snip {
+  font-size: 18px;
+  color: #333;
+  font-family: 'OFL Sorts Mill Goudy', 'OFL Sorts Mill Goudy TT', serif;
+  line-height: 25px;
+  font-style: italic;
+}
+.section-listing ol li .amp {
+  font-style: italic;
+}
+.section-listing ol li:nth-child(odd) {
+  margin-right: 25px;
+}
+.section-listing ol li:nth-child(even) {
+  margin-left: 25px;
+}
+blockquote {
+  border: 1px solid #ccc;
+  background-color: #fafafa;
+  padding: 11px 15px 12px;
+  margin-left: 2em;
+  overflow: auto;
+}
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+span.dquo {
+  margin-left: -0.23em;
+}
+#leaf-stats p {
+  color: #666;
+  margin-top: -22px;
+  margin-bottom: 22px;
+}
+#leaf-content img {
+  display: block;
+  margin: 25px auto 26px;
+  border: 11px solid #e5e5e5;
+  padding: 1px;
+  background: black;
+}
+#leaf-content img.left, #leaf-content img.right {
+  border: none;
+  background: none;
+  padding: none;
+}
+#leaf-content img.left {
+  margin: 0 1.5em 1em 0;
+}
+#leaf-content img.right {
+  margin: 0 0 .75em 1em;
+}
+#leaf-content .gallery img {
+  background: none;
+  padding: 0;
+  border: none;
+  display: inline;
+  margin-bottom: 25px;
+  margin-right: 25px;
+}
+#leaf-content .toc ul {
+  list-style: none;
+}
+#leaf-content .toc ul:first-child > li {
+  margin-left: 0em;
+}
+#leaf-content.with-diagrams img {
+  display: block;
+  margin: 25px auto;
+  padding: 0;
+  background: none;
+  border: none;
+}
+.print-links {
+  display: none;
+}
+img.self {
+  border: none;
+  padding: 0;
+  margin: 0;
+  margin-right: -108px;
+  margin-top: -15px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+div#cboxCurrent {
+  bottom: -30px;
+  font-size: 17px;
+  font-weight: normal;
+  left: 60px;
+}
+#scrolling-header {
+  color: #999;
+  font-size: 23px;
+  font-style: italic;
+  font: italic 23px 'OFL Sorts Mill Goudy', 'OFL Sorts Mill Goudy TT', serif;
+  line-height: 30px;
+  position: fixed;
+  top: 75px;
+  text-align: right;
+  width: 180px;
+}
+.flattr {
+  float: right;
+  padding-top: 1px;
+}

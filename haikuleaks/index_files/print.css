@@ -1,0 +1,65 @@
+body {
+  font: normal 10pt/1.25 Palatino, "Palatino Linotype";
+  text-rendering: optimizeLegibility;
+}
+nav, header, .toc {
+  display: none;
+}
+#leaf-title a {
+  text-decoration: none;
+  color: black;
+}
+#leaf-content ul.print-links {
+  display: block;
+  font-size: 1em;
+  list-style-type: none;
+  margin-left: 0em;
+}
+#leaf-content ul.print-links a {
+  text-decoration: none;
+}
+#leaf-content code, #leaf-content pre {
+  font: normal 9pt Menlo, Monaco, Consolas, "Courier New", Courier, monospace;
+}
+#leaf-content img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1.43em solid #e5e5e5;
+  padding: 1px;
+  background: black;
+}
+#leaf-content img.left, #leaf-content img.right {
+  border: none;
+  background: none;
+  padding: none;
+}
+#leaf-content img.left {
+  margin: 0 1.5em 1em 0;
+  float: left;
+}
+#leaf-content img.right {
+  margin: 0 0 .75em 1em;
+  float: right;
+}
+div#leaf-content.with-diagrams img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background: none;
+  border: none;
+}
+span.amp {
+  font-family: "Palatino", "Constantia", "Palatino Linotype", serif;
+  font-style: italic;
+}
+.flattr {
+  display: none;
+}
+a {
+  text-decoration: underline;
+  color: #c06;
+}
+footer {
+  display: none;
+}

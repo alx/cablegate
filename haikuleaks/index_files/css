@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'OFL Sorts Mill Goudy TT';
+  font-style: normal;
+  font-weight: normal;
+  src: local('OFL Sorts Mill Goudy TT'), local('OFLGoudyStMTT'), url('http://themes.googleusercontent.com/font?kit=9ZZVVBRCceNnPBXqWLH8IBaCi8XR2Wndwbau3-eaE1g') format('truetype');
+}
+@font-face {
+  font-family: 'OFL Sorts Mill Goudy TT';
+  font-style: italic;
+  font-weight: normal;
+  src: local('OFL Sorts Mill Goudy Italic TT'), local('OFLGoudyStMTT-Italic'), url('http://themes.googleusercontent.com/font?kit=4zlbkWdiblhTyAxV3yYOK1Map0k-03pf3IKr-TpLv1-glnMp3_3A8V8Ai8YosRtX') format('truetype');
+}
