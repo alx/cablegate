@@ -54,8 +54,8 @@ function loadAnswerForQuestion(question_id){
 }
 
 function loadFragment(){
-  jQuery("#cable_panel pre").load('/fragments/' + jQuery(".current_cable #fragment_id").val());
-  jQuery("#cable_panel pre").css({'top': window.pageYOffset, 'position':'absolute'});
+  jQuery("#cable_panel p").load('/fragments/' + jQuery(".current_cable #fragment_id").val());
+  jQuery("#cable_panel p").css({'margin-top': 30px, 'top': window.pageYOffset, 'position':'absolute'});
 }
 
 function switchCable(cable){
@@ -63,6 +63,11 @@ function switchCable(cable){
     jQuery(".cable").removeClass("current_cable");
     cable.addClass("current_cable");
     loadFragment();
+    
+    var metadataValue = jQuery(".current_cable .metadata-value").html();
+    if(metadataValue != "no answer"){
+      jQuery("#cable_panel p").replace(metadataValue, "<span class='selected_text'>" + metadataValue + "</span>");
+    }
   } else {
     // refresh list
     var question_id = jQuery('#selectable_questions .selected').attr('id').split("-").pop();
