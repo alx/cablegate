@@ -60,7 +60,7 @@ function loadFragment(){
 
       var metadataValue = jQuery(".current_cable .metadata-value").html();
       if(metadataValue != "no answer"){
-        jQuery("#cable_panel p").replace(metadataValue, "<span class='selected_text'>" + metadataValue + "</span>");
+        jQuery("#cable_panel p").html(response.replace(metadataValue, "<span class='selected_text'>" + metadataValue + "</span>");
       }
     }
   );
