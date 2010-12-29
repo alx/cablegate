@@ -68,7 +68,7 @@ class Metadata
 
   belongs_to :fragment
   belongs_to :question
-  belongs_to :people
+  belongs_to :people, :required => false
 end
 
 class Question
