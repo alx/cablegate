@@ -112,7 +112,7 @@ jQuery(document).ready(function(){
   jQuery(".metadata-value").editable('/metadatas', {
     name: 'value',
     submitdata: {
-      id: jQuery(this).parents('div').siblings('.metadata-control').attr('id').split("-").pop();
+      id: jQuery(this).parents('div').siblings('.metadata-control').attr('id').split("-").pop()
     }
   });
 });
