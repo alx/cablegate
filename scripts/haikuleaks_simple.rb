@@ -118,9 +118,6 @@ doc.css('li').each do |haiku|
                   <div class='hrb'>&nbsp;</div>
 
                   <footer>
-                      Here is the
-                      <a href='http://git.tetalab.org/'>code</a>, thanks to Alex for the <a href='http://git.tetalab.org/index.php/p/cablegate/'>cablegate text version</a> and Jonathan Feinberg for the <a href='https://github.com/jdf/haikufinder'>haikufinder</a><br>
-      Fabrice / Tetalab
                   </footer>
               </div>
 
@@ -240,7 +237,7 @@ index << "
 
               <footer>
                   Here is the
-                  <a href='http://git.tetalab.org/'>code</a>, thanks to Alex for the <a href='http://git.tetalab.org/index.php/p/cablegate/'>cablegate text version</a> and Jonathan Feinberg for the <a href='https://github.com/jdf/haikufinder'>haikufinder</a><br>
+                  <a href='http://git.tetalab.org/index.php/p/cablegate/source/tree/master/haikuleaks'>code</a>, thanks to Alex for the <a href='http://git.tetalab.org/index.php/p/cablegate/'>cablegate text version</a> and Jonathan Feinberg for the <a href='https://github.com/jdf/haikufinder'>haikufinder</a><br>
   Fabrice / Tetalab
               </footer>
           </div>
