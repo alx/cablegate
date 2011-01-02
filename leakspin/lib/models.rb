@@ -8,6 +8,36 @@ class Cable
 
   has n, :fragments
   has n, :metadatas, :through => :fragments
+  
+  def title
+    validated_title = ""
+    if header = fragments.first(:type => :header)
+      validated_title = header.metadatas.first(:name => 'title', :validated => true).value
+    end
+    return validated_title
+  end
+  
+  def tags
+    validated_tags = ""
+    if header = fragments.first(:type => :header)
+      validated_tags = header.metadatas.first(:name => 'tags', :validated => true).value
+    end
+    return validated_tags
+  end
+  
+  def tags_array
+    self.tags.gsub(/,|;/, "").split(/\s+/)
+  end
+  
+  def people
+    people = []
+    fragments.each do |fragment|
+      fragment.metadatas.all(:name => 'people', :validated => true).each do |metadata|
+        people << metadata.value
+      end
+    end
+    people.uniq
+  end
 end
 
 class Fragment
@@ -38,6 +68,7 @@ class Metadata
 
   belongs_to :fragment
   belongs_to :question
+  belongs_to :people, :required => false
 end
 
 class Question
@@ -47,10 +78,21 @@ class Question
   property :content, Text
   property :help, Text
   property :metadata_name, Text
+  property :type, Enum[:unique, :list], :default => :unique
 
   property :created_at, DateTime
   property :updated_at, DateTime
 
+  has n, :metadatas
+end
+
+class People
+  include DataMapper::Resource
+  
+  property :id, Serial
+  property :name, Text
+  property :image_url, URI
+  
   has n, :metadatas
 end
 

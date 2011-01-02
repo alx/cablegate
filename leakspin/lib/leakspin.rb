@@ -6,20 +6,42 @@ require 'bundler'
 
 Bundler.require
 
+#require 'auth.rb'
 require 'models.rb'
 
 class LeakSpin < Sinatra::Application
+  
+  #register SinatraMore::WardenPlugin
+  
   set :sessions, true
   set :logging, true
   set :raise_errors, true
   set :root, APP_ROOT
   
   helpers do
-    def fill_db_content
+    
+    def add_missing_question
+      # subject
       Question.create(:content => "Select the subject", 
         :help => "Exemple: 'Subject: abcd' - Select: 'abcd'", 
-        :metadata_name => "subject")
+        :metadata_name => "subject") unless Question.first(:metadata_name => "subject")
+      
+      # tags
+      Question.create(:content => "Select the tag", 
+        :help => "Exemple: 'Tags: abc, def' - Select: 'abc, def'", 
+        :metadata_name => "tags") unless Question.first(:metadata_name => "tags")
+      
+      # people
+      Question.create(:content => "Select the people", 
+        :help => "Exemple: 'Emperor Palpatine' - Select: 'Palpatine'", :type => :list,
+        :metadata_name => "people") unless Question.first(:metadata_name => "people")
+        
+      if question = Question.first(:metadata_name => "people")
+        question.update(:type => :list) if question.type == :unique
+      end
+    end
     
+    def fill_db_content
       Dir.glob(File.join("..", "/cables/*")).each do |cable|
         header = ""
         content = ""
@@ -67,46 +89,72 @@ class LeakSpin < Sinatra::Application
   
   get '/update_db' do
     #fill_db_content
+    add_missing_question
   end
   
   ######
-
+  
+  #
+  #
+  # HOME
+  #
+  #
+  
   get '/' do
     erb :index
   end
   
-  get '/answers' do
-    @questions = Question.all
-    erb :answers
-  end
+  #
+  #
+  # SPIN
+  #
+  #
   
   get '/spin.json' do
     content_type :json
     
     # Fetch a question (only one at the moment)
-    question = Question.get(2)
+    question = Question.first(:metadata_name => 'people')
+    return "{}" unless question
     
     # Fetch random fragment
     fragment = nil
     while fragment.nil?
-      fragment = Fragment.all(:type => :header, :limit => 1, :offset => rand(Fragment.count)).first
+      #fragment = Fragment.all(:type => :header, :limit => 1, :offset => rand(Fragment.count)).first
+      fragment = Fragment.all(:limit => 1, :offset => rand(Fragment.count)).first
       # do not keep fragment if it has validated metadata
       if fragment
-        fragment = nil if fragment.metadatas.count(:validated => true) > 0
+        if fragment.metadatas.count(:validated => true) > 0
+          fragment = nil
+        elsif fragment.content.strip.empty?
+          fragment = nil
+        end
       end
     end
     
+    question_json = {
+      :id => question.id, 
+      :content => question.content, 
+      :help => question.help,
+      :metadata_name => question.metadata_name,
+      :type => question.type,
+      :progress => {
+        :total_cables => Cable.all.size,
+        :total_answers => question.metadatas.all.size,
+      }
+    }
+    
+    question_answers = []
+    question.metadatas.all(:fragment_id => fragment.id, :validated => true).each do |metadata|
+      question_answers << {
+        :id => metadata.id,
+        :value => metadata.value
+      }
+    end
+    question_json[:answers] = question_answers
+    
     {
-      :question => {
-        :id => question.id, 
-        :content => question.content, 
-        :help => question.help,
-        :metadata_name => question.metadata_name,
-        :progress => {
-          :total_cables => Cable.all.size,
-          :total_answers => question.metadatas.all.size,
-        }
-      },
+      :question => question_json,
       :fragment => {
         :id => fragment.id, 
         :content => fragment.content.gsub("\b", "<br>"),
@@ -127,17 +175,33 @@ class LeakSpin < Sinatra::Application
     "ok"
   end
   
-  get 'answers' do
+  #
+  #
+  # ANSWERS
+  #
+  #
+  
+  get '/answers' do
+    @questions = Question.all
+    erb :answers
+  end
+  
+  get '/answers.json' do
     content_type :json
     
     question = Question.get(params[:question_id])
+    #return "{}" if question.nil?
     
     metadatas = []
-    question.metadatas.each do |metadata|
+    
+    question.metadatas.all(:validated => false, :limit => 10, :order => [:created_at.desc]).each do |metadata|
       metadatas << {
-        :value => metadata.value,
+        :id => metadata.id,
         :validated => metadata.validated,
-        :cable => metadata.fragment.cable.cable_id
+        :name => metadata.name,
+        :value => metadata.value,
+        :fragment_id => metadata.fragment.id,
+        :cable_id => metadata.fragment.cable.cable_id
       }
     end
     
@@ -148,24 +212,105 @@ class LeakSpin < Sinatra::Application
         :help => question.help,
         :metadata_name => question.metadata_name,
         :progress => {
-          :total_cables => Cable.all.size,
-          :total_answers => question.metadatas.all.size,
+          :not_validated => question.metadatas.all(:validated => false).size,
         }
       },
       :metadatas => metadatas
     }.to_json
   end
   
-  post 'answer' do
-    metadata = Metadata.get(params[:answer_id])
-    if params[:status]
+  post '/answers' do
+    if params[:status] && metadata = Metadata.get(params[:metadata_id])
       case params[:status]
       when 'valid'
         metadata.update :validated => true
-      when 'not_valid'
-        metadata.update :validated => true
+        case metadata.question.type
+        when :unique
+          # destroy other metadata for this question on this metadata fragment
+          metadata.question.metadatas.all(:validated => false, :fragment_id => metadata.fragment_id).destroy!
+        when :list
+          # destroy other metadata with same value for this question on this metadata fragment
+          metadata.question.metadatas.all(:id.not => metadata.id, :value => metadata.value, :fragment_id => metadata.fragment_id).destroy!
+        end
       when 'delete'
-        metadata.destroy!
+        metadata.destroy! unless metadata.validated
       end
     end
+  end
+  
+  get '/fragments/:id' do
+    fragment = Fragment.get(params[:id])
+    return "" if fragment.nil?
+    fragment.content
+  end
+  
+  post '/metadatas' do
+    unless metadata = Metadata.get(params[:id])
+      metadata.update :value => params[:value]
+    end
+  end
+  
+  #
+  #
+  # People
+  #
+  #
+  
+  get '/people' do
+    @people_metadatas = Metadata.all(
+      :value.not => 'no answer', 
+      :name => 'people', 
+      :validated => true, 
+      :people_id => nil
+    )
+    @people = People.all
+    erb :people
+  end
+  
+  post '/people' do
+    content_type :json
+    
+    if params[:people_id].nil?
+      people = People.create(:name => params[:name])
+    else
+      people = People.get(params[:people_id])
+      people.name = params[:name] if params[:name]
+    end
+    
+    if metadata = Metadata.get(params[:metadata_id])
+      people.metadatas << metadata
+      metadata.save!
+      Metadata.all(:value => metadata.value).each do |other_metadata|
+        people.metadatas << other_metadata
+        other_metadata.save!
+      end
+    end
+    
+    if params[:image_url]
+      File.mkdir('../images/people') unless File.exists? '../images/people'
+      
+      image = open(params[:image_url])
+      image_ext = File.extension(params[:image_url])
+      people.image_url = "/images/people/#{people.name.gsub(/\s+/, "")}.#{image_ext}"
+      
+      File.open(File.join('..', people.image_url), "w") do |f|
+        f.write image
+      end
+    end
+    
+    people.save!
+    
+    metadatas = []
+    people.metadatas.each do |metadata|
+      metadatas << {:id => metadata.id, :name => metadata.name, :value => metadata.value}
+    end
+    
+    {
+      :people => {
+        :id => people.id, 
+        :name => people.name, 
+        :metadatas => metadatas
+      }
+    }.to_json
+  end
 end

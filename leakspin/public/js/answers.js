@@ -1,13 +1,15 @@
-function setAnswerStatus(answer_id, status){
+/*Tested by marcel*/
+
+function setAnswerStatus(metadata_id, status){
   jQuery.ajax({
     url: '/answers',
     type: 'POST',
     data: {
-      answer_id: answer_id,
+      metadata_id: metadata_id,
       status: status
     }
   });
-  if(status == 'delete') jQuery("#answer-" + answer_id).remove();
+  if(status == 'delete') jQuery("#metadata-" + metadata_id).remove();
 }
 
 function loadAnswerForQuestion(question_id){
@@ -15,63 +17,114 @@ function loadAnswerForQuestion(question_id){
     url: '/answers.json',
     type: 'GET',
     data: {
-      question_id: question_id,
-      offset: offset
+      question_id: question_id
     },
     dataType: 'json',
     success: function(data){
       
-      var answers = [];
+      var metadatas = [];
+      var firstCable = true;
 
-      jQuery.each(data.cables, function(index, cable){
-        var html_cable = [];
-        html_cable.push("Cable: " + cable.content)
-        jQuery.each(cable.metadata, function(index, answer){
-          var html_answer = [];
-          html_answer.push("<p>");
-          html_answer.push(answer.value);
-          html_answer.push("</p><div id='answer-" + answer.id + "' class='radio_validation'>");
-          html_answer.push("<input type='radio' id='radio_valid' name='radio_validation' value='valid'");
-          if (metadata.validated) html_answer.push(" checked='checked'");
-          html_answer.push("/><label for='radio_valid'>Valid</label>");
-          html_answer.push("<input type='radio' id='radio_not_valid' name='radio_validation' value='not_valid');
-          if (!metadata.validated) html_answer.push(" checked='checked'");
-          html_answer.push("/><label for='radio_not_valid'>Not Valid</label>");
-          html_answer.push("<input type='radio' id='radio_delete' name='radio_validation' value='delete'/>");
-          html_answer.push("<label for='radio_delete'>Delete</label></div>");
-          html_cable.push(html_answer.join(""));
-        });  
-        html_answer.push("<button class='display_cable'>Display Cable &#x2192;</button><hr/>");
-        answers.push(html_cable.join(""));
+      jQuery.each(data.metadatas, function(index, metadata){
+        var html_metadata = [];
+        html_metadata.push("<div class='cable ");
+        if (firstCable == true){
+          firstCable = false;
+          html_metadata.push("current_cable");
+        }
+        html_metadata.push("' id='cable-");
+        html_metadata.push(metadata.cable_id);
+        html_metadata.push("'><input type='hidden' name='fragment_id' id='fragment_id' value='");
+        html_metadata.push(metadata.fragment_id);
+        html_metadata.push("'/><div id='metadata-");
+        html_metadata.push(metadata.id);
+        html_metadata.push("' class='metadata-control'><a class='valid'>1. Valid</a><br><a class='delete'>2. Delete</a></div>Cable: ");
+        html_metadata.push(metadata.cable_id);
+        html_metadata.push("<div class='metadata-value'>");
+        html_metadata.push(metadata.value);
+        html_metadata.push("</div></div>");
+        metadatas.push(html_metadata.join(""));
       });
       
-      jQuery("#answer_list").append(answers.join(""));
-      
-      jQuery(".radio_validation").buttonset();
-      jQuery(".display_cable").button();
-      jQuery('#current_offset').val(offset);
+      jQuery("#metadata_list").html(metadatas.join(""));
+      jQuery("#more_metadatas").html("Refresh (still " + data.question.progress.not_validated + ")");
+      loadFragment();
     }
   })
 }
 
+function loadFragment(){
+  jQuery("#cable_panel p").load('/fragments/' + jQuery(".current_cable #fragment_id").val(),
+    function(response, status, xhr) {
+      jQuery("#cable_panel p").css({'margin-top': '30px', 'top': window.pageYOffset, 'position':'absolute'});
+
+      var metadataValue = jQuery(".current_cable .metadata-value").html();
+      if(metadataValue != "no answer"){
+        jQuery("#cable_panel p").html(response.replace(metadataValue, "<span class='selected_text'>" + metadataValue + "</span>"));
+      }
+    }
+  );
+}
+
+function switchCable(cable){
+  if(cable.length > 0){
+    jQuery(".cable").removeClass("current_cable");
+    cable.addClass("current_cable");
+    loadFragment();
+  } else {
+    // refresh list
+    var question_id = jQuery('#selectable_questions .selected').attr('id').split("-").pop();
+    loadAnswerForQuestion(question_id);
+  }
+}
+
+function controlCable(action){
+  var controls = jQuery(".current_cable .metadata-control");
+  var metadata_id = controls.attr('id').split('-').pop();
+  setAnswerStatus(metadata_id, action);
+  controls.find("a").removeClass('selected');
+  controls.find("a." + action).addClass('selected');
+}
+
+jQuery(document).bind('keydown', 'up', function(){
+  switchCable(jQuery(".current_cable").prev('.cable:first'));
+});
+
+jQuery(document).bind('keydown', 'down', function(){
+  switchCable(jQuery(".current_cable").next('.cable:first'));
+});
+
+jQuery(document).bind('keyup', '1', function(){
+  controlCable("valid");
+});
+
+jQuery(document).bind('keyup', '2', function(){
+  controlCable("delete");
+});
+
+
 jQuery(document).ready(function(){
   
-  jQuery("#selectable_questions li").click(function(){
+  jQuery("a.question-metadata").click(function(){
     var question_id = jQuery(this).attr('id').split("-").pop();
     loadAnswerForQuestion(question_id, 0);
-    jQuery('#selectable_questions li').removeClass('ui-selected');
-    jQuery(this).addClass('ui-selected');
+    jQuery('#selectable_questions a').removeClass('selected');
+    jQuery(this).addClass('selected');
   });
   
-  jQuery(".radio_validation").live('change', function(){
-    var answer_id = jQuery(this).parents(".radio_validation").attr('id').split('-').pop();
-    var status = jQuery(this).val();
-    setAnswerStatus(answer_id, status);
+  jQuery("#more_metadatas").click(function(){
+    var question_id = jQuery('#selectable_questions .selected').attr('id').split("-").pop();
+    loadAnswerForQuestion(question_id);
   });
   
-  jQuery("#more_answers").click(function(){
-    var question_id = jQuery('#selectable_questions li.ui-selected').attr('id').split("-").pop();
-    var offset = parseInt(jQuery('#current_offset').val()) + 10;
-    loadAnswerForQuestion(question_id, offset);
+/*  jQuery(".metadata-value").editable('/metadatas', {
+    name: 'value',
+    submitdata: {
+      id: jQuery(this).parents('div').siblings('.metadata-control').attr('id').split("-").pop()
+    }
+  });*/
+  
+  jQuery(".remove_from_list").live('click', function(){
+    jQuery(this).parents("li").remove();
   });
 });

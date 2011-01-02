@@ -1,5 +1,17 @@
+$LOAD_PATH << '../leakspin/lib'
+
 require 'date'
 require 'fileutils'
+
+# Include leakspin database
+require 'dm-core'
+require 'dm-types'
+require 'dm-migrations'
+require 'dm-sqlite-adapter'
+require 'dm-postgres-adapter'
+require 'dm-aggregates'
+require 'dm-timestamps'
+require 'models.rb'
 
 #
 # Globals
@@ -254,6 +266,10 @@ def write_section_release(latest_update)
   write_list("release.html", release_list, nil, false)
 end
 
+def write_tromboniscope
+  
+end
+
 #
 # Read files to complete metadata
 #
@@ -338,3 +354,4 @@ write_index(Dir.glob(File.join($basedir, "/cables/*.txt")).count, latest_update)
 write_section_all
 write_section_origin
 write_section_classification
+write_trombinoscope

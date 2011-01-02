@@ -1,3 +1,5 @@
+/*Tested by sandrine :-*/
+
 // Get user selection text on page
 function getSelectedText() {
     if (window.getSelection) {
@@ -12,7 +14,11 @@ function getSelectedText() {
 function changeAnswerText(){
   var selected = getSelectedText();
   if(selected != ""){
-    jQuery('#spin_metadata_value').html(getSelectedText());
+    if(jQuery("#spin_question_type").val() == 'list'){
+      jQuery('#spin_metadata_value ul#answer_list').append("<li class='new'>" + selected + " (<a class='remove_from_list'>x</a>)</li>");
+    } else {
+      jQuery('#spin_metadata_value').html(selected);
+    }
     jQuery('#spin_status').html("<a id='select_validate'>Validate selection</a>");
   }
 }
@@ -34,9 +40,18 @@ function loadJsonSpin(){
       jQuery("#spin_question").html(question.content); // Load question content
       jQuery("#spin_question_help").html(question.help); // Load question help
       jQuery("#spin_question_id").val(question.id); // Save question id
+      jQuery("#spin_question_type").val(question.type); // Save question type
       jQuery("#spin_metadata_name").val(question.metadata_name);
       
       jQuery("#spin_metadata_value").html(""); // Clean last answer
+      
+      if(question.type == 'list'){
+        jQuery("#spin_metadata_value").html("You can select more than 1 answer:<ul id='answer_list'>");
+        jQuery.each(question.answers, function(index, answer){
+          jQuery("#spin_metadata_value").append("<li>" + answer.value + "</li>");
+        });
+        jQuery("#spin_metadata_value").append("</ul>");
+      }
       
       jQuery("#spin_status").html("Please select text..."); // Set new status
       
@@ -49,7 +64,7 @@ function loadJsonSpin(){
   });
 }
 
-function sendLeakSpin(value){
+function sendLeakSpin(value, callback){
   jQuery("#spin_status").html("Sending spin to server..."); // Set new status
   jQuery.ajax({
     url: '/spin',
@@ -60,26 +75,43 @@ function sendLeakSpin(value){
       'fragment_id': jQuery("#spin_fragment_id").val(),
       'question_id': jQuery("#spin_question_id").val()
     },
-    success: function(data){
-      loadJsonSpin();
+    complete: function(){
+      if(callback == true) loadJsonSpin();
     }
   });
 }
 
-jQuery(function() {
-    jQuery('#fragment_content').keypress(function(evt) {
-      code= (evt.keyCode ? evt.keyCode : evt.which);
-      if (code == 13) changeAnswerText();
-      evt.preventDefault();
-    });
-});
+function parseAnswer(){
+  if(jQuery('#spin_metadata_value').html().length > 0){
+    if(jQuery("#spin_question_type").val() == 'list'){
+      var list_size = (jQuery("#spin_metadata_value li.new").size() - 1);
+      var callback = false;
+      jQuery.each(jQuery("#spin_metadata_value li.new"), function(index, element){
+        if(index == list_size) callback = true;
+        var selection = jQuery(element).html().replace(/\s\(.*/, "");
+        sendLeakSpin(selection, callback);
+      });
+    } else {
+      sendLeakSpin(jQuery("#spin_metadata_value").html(), true);
+    }
+  }
+}
 
 jQuery(document).bind('mouseup', function(){
   changeAnswerText();
 });
 
 jQuery(document).bind('keydown', 'enter', function(){
-  if(jQuery('#spin_metadata_value').html().length > 0) sendLeakSpin(jQuery("#spin_metadata_value").html());
+  parseAnswer();
+});
+
+jQuery(document).bind('keydown', 'backspace', function(){
+  if(jQuery("#spin_question_type").val() == 'list'){
+    jQuery("li.new:last").remove();
+  } else {
+    jQuery("#spin_metadata_value").html("");
+  }
+  jQuery.preventDefault();
 });
 
 jQuery(document).ready(function(){
@@ -88,11 +120,11 @@ jQuery(document).ready(function(){
   jQuery( "#progressbar" ).progressbar();
   
   jQuery("#no_answer").live('click', function(){
-    sendLeakSpin('no answer');
+    sendLeakSpin('no answer', true);
   });
   
   jQuery("#select_validate").live('click', function(){
-    sendLeakSpin(jQuery("#spin_metadata_value").html());
+    parseAnswer();
   });
   
   jQuery("#next_question").live('click', function(){

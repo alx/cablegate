@@ -10,6 +10,7 @@
     
     <script type="text/javascript" src="/js/jquery.js"></script>
     <script type="text/javascript" src="/js/jquery-ui.js"></script>
+    <script type="text/javascript" src="/js/jquery.hotkeys.js"></script>
     <script type="text/javascript" src="/js/jeditable.js"></script>
     <script type="text/javascript" src="/js/answers.js"></script>
 </head>
@@ -26,25 +27,19 @@
 
 <div id="content" class="container_12">
 
-    <div id="questions_panel" class="grid_3">
-        <ul id="selectable_questions" class="ui-selectable">
+    <div id="questions_panel" class="grid_4">
+        <ul id="selectable_questions">
             <% @questions.each do |question| %>
-            <li id='question-<%= question.id %>' class="ui-widget-content ui-selectee"><%= question.content %></li>
+            <li><a id='question-<%= question.id %>' class='question-metadata'><%= question.metadata_name %></a></li>
             <% end %>
-        </ol>
-    </div>
-
-    <div id="answers_panel" class="grid_3">
-        <div id='answer_list'></div>
-        <a id='more_answers'>More...</a>
-        <input type="hidden" name="current_offset" value="0" id="current_offset">
+        </ul>
+        
+        <div id='metadata_list'></div>
+        <a id='more_metadatas'>Refresh</a>
     </div>
     
-    <div id="cable_panel" class="grid_6">
-        <code>
-            <pre>
-            </pre>
-        </code>
+    <div id="cable_panel" class="grid_8">
+        <p></p>
     </div>
 
 </div>

@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Wikileaks - LeakSpin</title>
+    
+    <link rel='stylesheet' href='/css/boilerplate.css' type='text/css' media="screen, projection">
+    <link rel='stylesheet' href='/css/jquery-ui.css' type='text/css' media="screen, projection">
+    <link rel='stylesheet' href='/css/master.css' type='text/css' media="screen, projection"> 
+    <link rel='stylesheet' href='/css/960.css' type='text/css' media="screen, projection"> 
+    
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui.js"></script>
+    <script type="text/javascript" src="/js/jquery.hotkeys.js"></script>
+    <script type="text/javascript" src="/js/jeditable.js"></script>
+    <script type="text/javascript" src="/js/people.js"></script>
+</head>
+<body>
+
+<div id="header" class="container_12">
+    <div class="bar"></div> 
+    <div class="nav"> 
+        <a href="/">Main</a>
+        <a href="/answers">Answers</a>
+        <a href="http://git.tetalab.org/index.php/p/cablegate/source/tree/master/">Code</a>
+    </div>
+</div>
+
+<div id="content" class="container_12">
+
+    <div id='people_panel' class="grid_4">
+        <ul id='people_list'>
+            <% @people.each do |people| %>
+            <li class='people' id='people-<%= people.id %>'><%= people.name %>
+            <ul class='metadata-list'>
+                <% people.metadatas.each do |metadata| %>
+                    <li class='people-metadata' id='people-metadata-<%= metadata.id %>'><%= metadata.value %></li>
+                <% end %>
+            </ul></li>
+            <% end %>
+        </ul>
+    </div>
+    
+    <div class="grid_8">
+        <ul>
+            <% @people_metadatas.each do |metadata| %>
+            <li class='metadata' id='metadata-<%= metadata.id %>'>
+                <span class='metadata-value'><%= metadata.value %></span>
+                or <a class='create_people'>Create</a>
+            </li>
+            <% end %>
+        </ul>
+    </div>
+
+</div>
+
+                
+
+<div id="footer" class="container_12"></div>
+            
+</body>
+</html>
