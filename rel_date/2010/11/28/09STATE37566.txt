@@ -3,3 +3,673 @@ S) REPORTING AND COLLECTION NEEDS: WEST AFRICA
 Thu Apr 16 00:00:00 +0200 2009
 SECRET//NOFORN
 Secretary of State
+INFO  LOG-00   EEB-00   AF-00    AGRE-00  VIN-00   AID-00   AMAD-00  
+      COME-00  INL-00   DODE-00  DOTE-00  DS-00    EAP-00   DHSE-00  
+      EUR-00   OIGO-00  FAAE-00  FBIE-00  VCI-00   H-00     TEDE-00  
+      IO-00    LAB-01   L-00     CAC-00   MOFM-00  MOF-00   CDC-00   
+      VCIE-00  DCP-00   NSAE-00  ISN-00   OIC-00   OMB-00   NIMA-00  
+      MCC-00   GIWI-00  PPT-00   SGAC-00  ISNE-00  DOHS-00  FMPC-00  
+      IRM-00   DPM-00   EVR-00   NCTC-00  CBP-00   BBG-00   R-00     
+      EPAE-00  SCRS-00  DSCC-00  PRM-00   DRL-00   CARC-00  NFAT-00  
+      SAS-00   DTT-00   FA-00      /001R
+
+  
+R 161417Z APR 09
+FM SECSTATE WASHDC
+TO AMEMBASSY BAMAKO 
+AMEMBASSY BANJUL 
+AMEMBASSY DAKAR 
+AMEMBASSY NDJAMENA 
+AMEMBASSY NIAMEY 
+AMEMBASSY NOUAKCHOTT 
+AMEMBASSY OUAGADOUGOU 
+AMEMBASSY PRAIA 
+INFO PAGE 02        STATE   037566  161435Z 
+DIA WASHINGTON DC//DHI-1B/CLM//DP//
+CIA WASHINGTON DC//NHTC// 0000
+AMEMBASSY LONDON 
+AMEMBASSY PARIS 
+AMEMBASSY ABUJA 
+AMCONSUL LAGOS 
+AMEMBASSY ACCRAS E C R E T STATE 037566 
+ 
+ 
+NOFORN 
+ 
+E.O. 12958: DECL: 04/16/2034 
+TAGS: PINR KSPR ECON CD CV GA ML MR NG SG UV
+SUBJECT: (S) REPORTING AND COLLECTION NEEDS: WEST AFRICA 
+SAHEL REGION 
+ 
+REF: A. 08 STATE 124337 
+     ¶B. 04 STATE 179667 
+ 
+Classified By: CATHERINE BROWN, DAS IPC.  REASON: 1.4(C). 
+ 
+ ¶1. (S/NF) This cable provides the full text of the new 
+National HUMINT Collection Directive (NHCD) on the West 
+Africa Sahel region (paragraph 3-end) as well as a request 
+for continued DOS reporting of biographic information 
+relating to the West Africa Sahel region (paragraph 2). 
+ 
+¶A. (S/NF) The NHCD below supercedes the NHCD contained in Ref 
+B and reflects the results of a recent Washington review of 
+reporting and collection needs focused on the West Africa 
+Sahel region (Ref A).  The review produced a comprehensive 
+list of strategic priorities (paragraph 3) and reporting and 
+collection needs (paragraph 4) intended to guide 
+participating USG agencies as they allocate resources and 
+update plans to collect information on the West Africa Sahel 
+region.  The priorities should also serve as a useful tool to 
+help the Embassy manage reporting and collection, including 
+formulation of Mission Strategic Plans (MSPs). 
+ 
+¶B. (S/NF) This NHCD is compliant with the National 
+Intelligence Priorities Framework (NIPF), which was 
+established in response to NSPD-26 of February 24, 2003.  If 
+needed, GRPO can provide further background on the NIPF and 
+the use of NIPF abbreviations (shown in parentheses following 
+each sub-issue below) in NHCDs. 
+ 
+¶C. (S/NF) Important information often is available to 
+non-State members of the Country Team whose agencies 
+participated in the review of this National HUMINT Collection 
+Directive.  COMs, DCMs, and State reporting officers can 
+assist by coordinating with other Country Team members to 
+encourage relevant reporting through their own or State 
+Department channels. 
+ 
+¶2. (S/NF) State biographic reporting: 
+ 
+¶A. (S/NF) The intelligence community relies on State 
+reporting officers for much of the biographical information 
+collected worldwide.  Informal biographic reporting via email 
+and other means is vital to the community's collection 
+efforts and can be sent to the INR/B (Biographic) office for 
+dissemination to the IC. 
+ 
+¶B. (S/NF) Reporting officers should include as much of the 
+following information as possible when they have information 
+relating to persons linked to the West Africa Sahel region: 
+office and organizational titles; names, position titles and 
+other information on business cards; numbers of telephones, 
+cell phones, pagers and faxes; compendia of contact 
+information, such as telephone directories (in compact disc 
+or electronic format if available) and e-mail listings; 
+internet and intranet "handles", internet e-mail addresses, 
+web site identification-URLs; credit card account numbers; 
+frequent flyer account numbers; work schedules, and other 
+relevant biographical information. 
+ 
+¶3. (S/NF) Priority issues and issues outline: 
+ 
+This directive covers eight countries of Sahelian West 
+Africa: Burkina Faso, Cape Verde, Chad, The Gambia, Mali, 
+Mauritania, Niger, and Senegal.  The coastal countries to the 
+south (Guinea-Bissau, Guinea, Sierra Leone, Liberia, Cote 
+d'Ivoire, Ghana, Togo, and Benin) are covered separately in 
+the West Africa Littoral directive. 
+ 
+¶I.  Regional Issues 
+ 
+¶A.  Security 
+1) International Terrorism (TERR) 
+2) Response To Terrorism (TERR) 
+3) Military (FMCC) 
+4) Support for U.S. Military Contingency Planning (HREL) 
+5) Insurgent and Separatist Groups (SRCC) 
+6) Relations With The United States (FPOL) 
+7) Drug Trafficking (DRUG) 
+8) Peacekeeping (SRCC) 
+9) GRPO can provide text of this issue. 
+ 
+¶B.  Governance 
+1) Leadership (LEAD) 
+2) Government Stability and Support For Democracy (DEPS) 
+3) Human Rights (HRWC) 
+4) Political Opposition (DEPS) 
+ 
+¶C.  Socio-Economic Issues 
+1) Agriculture and Food Security (FOOD) 
+2) Foreign Aid and Relations (FPOL) 
+3) Criminal Activities (CRIM) 
+4) Health and Infectious Diseases (HLTH) 
+5) Population and Refugee Issues (DEMG) 
+6) Economic Institutions and Initiatives (ECFS) 
+7) Environmental Issues (ENVR) 
+ 
+¶D.  Information Systems and Telecommunications Infrastructure 
+(INFR) 
+ 
+II.  Country-Specific Issues 
+ 
+¶A.  Chad: Sudan/Darfur Issues (SRCC-2) 
+ 
+¶4. (S/NF) Reporting and collection needs: 
+ 
+¶I.  Regional Issues 
+ 
+¶A.  Security 
+ 
+1) International Terrorism (TERR). 
+--  Details, presence, and activities related to al-Qa'ida in 
+the land of the Islamic Maghreb and other terrorist-related 
+individuals and organizations. 
+--  Plans and intentions for operations against U.S. or 
+allied personnel or interests. 
+--  Links to weapons of mass destruction or related 
+materials. 
+--  Presence and activities of fighters returning from Iraq 
+and Afghanistan. 
+--  Information on organizations, leadership, personnel, 
+tradecraft, intelligence and counterintelligence 
+capabilities, financing, front companies, recruitment, and 
+training. 
+--  Weapons and methodologies, particularly for improvised 
+explosive devices. 
+--  Details about local support networks, particularly for 
+transshipments. 
+--  Details about couriers operating in, or originating 
+outside of, the region. 
+--  Presence and activities of non-North African fighters in 
+the region. 
+--  Indications that international terrorist groups are 
+seeking to take advantage of political, ethnic, tribal, or 
+religious conflict. 
+--  Health, biographic, biometric, and assessment information 
+on leaders. 
+ 
+NIPF Priority for TERR 
+Chad: 1, Mali: 1, Mauritania: 1, Niger: 1 
+ 
+NIPF Priority for Non-State Actors for TERR 
+Al-Qa'ida and Sunni Affiliates: 1, Hizballah (Lebanese): 1, 
+Jama'at Tablighi: 3 
+ 
+HUMINT Priority for TERR 
+Burkina Faso: 5H, Cape Verde: 5H, The Gambia: 5H, Senegal: 5H 
+ 
+      2) Response To Terrorism (TERR). 
+--  Capability, willingness and intent of countries to 
+cooperate with U.S. counterterrorism (CT) efforts and 
+policies, and to conduct counterterrorist operations. 
+--  Details about CT legislation, organizations, 
+capabilities, equipment, operations, tactics, and limitations. 
+--  Data regarding the impact of U.S. and multilateral 
+economic sanctions 
+--  Policies, attitudes, and actions regarding U.S. and other 
+western CT training. 
+--  Military and security forces' attitudes towards CT 
+training and operations. 
+--  Interaction and interoperability of security and military 
+forces with foreign CT forces. 
+--  Public attitudes towards CT policies and activities. 
+--  Plans to deploy biometric systems to enhance domestic 
+counterterrorism efforts. 
+ 
+NIPF Priority for TERR 
+Chad: 1, Mali: 1, Mauritania: 1, Niger: 1 
+ 
+NIPF Priority for Non-State Actors for TERR 
+Al-Qa'ida and Sunni Affiliates: 1, Hizballah (Lebanese): 1, 
+Jama'at Tablighi: 3 
+ 
+HUMINT Priority for TERR 
+Burkina Faso: 5H, Cape Verde: 5H, The Gambia: 5H, Senegal: 5H 
+ 
+      3) Military (FMCC) 
+--  Plans, intentions, status and details of the national 
+defense policy and strategy. 
+--  Military relations with other countries, including 
+training exercises. 
+--  Capabilities, disposition, vulnerabilities, and readiness 
+of forces. 
+--  Details about military personnel, units, equipment, and 
+tactics. 
+--  Plans and efforts regarding military reform, procurement, 
+and modernization. 
+--  Government cooperation regarding U.S. POW/MIAs and 
+detained U.S. citizens. 
+--  Evidence of coup plotting in military ranks. 
+--  Evidence of criminal activity in military ranks and 
+impact. 
+--  Extent and effects of ethnic, religious, and political 
+factions within the military. 
+--  Public attitudes towards the military and other security 
+forces. 
+--  Details of covert arms acquisitions and arms sales. 
+ 
+NIPF Priority for FMCC 
+Chad: 3, Mali: 4, Mauritania: 4, Niger: 4, Senegal: 4 
+ 
+HUMINT Priority for FMCC 
+Burkina Faso: 5H, Cape Verde: 5H, The Gambia: 5H 
+ 
+      4) Support for U.S. Military Contingency Planning 
+(HREL). 
+--  Plans, intentions, and capability of host governments to 
+support evacuation or humanitarian assistance by U.S. forces, 
+including host nations' ability and willingness to protect 
+U.S. citizens and/or facilities. 
+--  Internal developments that could prompt U.S. contingency 
+planning for Non-combatant Evacuation Operations (NEO) or 
+humanitarian assistance. 
+--  Host government's emergency management capabilities and 
+points-of-contact. 
+--  Details about infrastructure, medical facilities, and 
+communication networks. 
+--  Geocoordinates and description of third-country 
+diplomatic, humanitarian aid, and non-governmental 
+organization (NGO) facilities. 
+--  Evacuation routes, including official/unofficial 
+checkpoints, chokepoints, and potential impediments. 
+ 
+NIPF Priority for HREL 
+Chad: 3, Niger: 5 
+ 
+HUMINT Priority for HREL 
+Burkina Faso: 5H, Cape Verde: 5H, The Gambia: 5H, Mali: 5H, 
+Mauritania: 5H, Senegal: 5H 
+ 
+      5) Insurgent and Separatist Groups (SRCC). 
+--  Plans, intentions, and capabilities of separatist, 
+insurgent or radical opposition groups or organizations to 
+influence or destabilize host country government. 
+--  Clandestine efforts to subvert peace accords and 
+reconciliation efforts. 
+--  Plans and intentions relating to U.S. citizens and 
+military personnel in the region. 
+--  Leadership, organization, recruitment and training, 
+tactics, sources of financing, and  Command, Control, 
+Communications, Computer, and Intelligence capabilities. 
+--  Goals and attitudes toward peace accords and 
+reconciliation efforts. 
+--  Links to foreign governments and non-state actors in 
+foreign countries. 
+--  Public support for groups. 
+--  Links to international terrorist groups. 
+--  Health, biographic, biometric, and assessment information 
+on leaders. 
+ 
+NIPF Priority for SRCC 
+Chad: 2 
+ 
+HUMINT Priority for SRCC 
+Burkina Faso: 5H, Cape Verde: 5H, The Gambia: 5H, Mali: 4H, 
+Mauritania: 5H, Niger: 4H, Senegal: 5H 
+ 
+      6) Relations with the United States (FPOL). 
+--   Plans and intentions of government and government 
+leaders concerning relations with the United States, 
+including plans and efforts to support or oppose U.S. 
+policies and efforts in international fora. 
+--  Decision-making, policies, plans, negotiating strategies, 
+and efforts, particularly regarding Burkina Faso. 
+--  Impact of relations with China on relations with the 
+United States. 
+--  Public opinion about U.S. actions in Africa, particularly 
+regarding the U.S. Africa Command (AFRICOM) and the 
+Millennium Challenge Corporation foreign aid program. 
+--  Response to U.S. policies regarding the Sahel region, the 
+Middle East, Iraq, Afghanistan, Iran, and the global war on 
+terror. 
+--  Impact of trade relations with India and Brazil on 
+relations with the United States. 
+ 
+HUMINT Priority for FPOL 
+Burkina Faso: 3H, Cape Verde: 5H, Chad: 4H, The Gambia: 5H, 
+Mali: 5H, Mauritania: 3H, Niger: 5H, Senegal: 4H 
+ 
+      7) Drug Trafficking (DRUG). 
+--  Government plans and intentions regarding drug production 
+and trafficking. 
+--  Use of transportation networks for drug production, 
+trafficking, or storage. 
+--  Details about types of drugs trafficked and associated 
+transportation networks and seizures. 
+--  Details about front companies, financial institutions, 
+and money flow. 
+--  Links to international terrorist groups. 
+--  Links to drug producers outside of region, particularly 
+Latin American cocaine cartels. 
+--  Links to regional or international drug distribution 
+networks. 
+--  Law enforcement and judiciary capabilities to combat drug 
+trafficking and production. 
+--  Drug traffickers' efforts to corrupt or undermine law 
+enforcement and government. 
+--  Presence, use, or transshipment of precursor chemicals 
+and associated equipment for drug production. 
+--  Information about terrorist or insurgent groups' income 
+derived from the drug trade, including drug types and 
+quantities. 
+--  Information on impact of drug trafficking and use, 
+particularly on public health and crime, and supporting 
+internal statistics. 
+ 
+NIPF Priority for DRUG 
+Senegal: 5 
+ 
+HUMINT Priority for DRUG 
+Burkina Faso: 5H, Cape Verde: 4H, Chad: 5H, The Gambia: 5H, 
+Mali: 5H, Mauritania: 3H, Niger: 5H 
+ 
+      8) Peacekeeping (SRCC). 
+--  Governments' plans and intentions to participate in or 
+support peacekeeping operations and funding allocated/spent. 
+--  Military and security forces' willingness and capability 
+to train with other nations and participate in peacekeeping 
+operations, and details of peacekeeping experience. 
+--  Military and security forces' capabilities and 
+willingness to accept international military assistance and 
+joint training. 
+--  Perception of troops' performance during peacekeeping 
+operations. 
+ 
+NIPF Priority for SRCC 
+Chad: 2 
+ 
+HUMINT Priority for SRCC 
+Burkina Faso: 5H, Cape Verde: 5H, The Gambia: 5H, Mali: 4H, 
+Mauritania: 5H, Niger: 5H, Senegal: 5H 
+ 
+      9) GRPO can provide text of this issue and related 
+requirements. 
+ 
+¶B.    Governance 
+ 
+      1) Leadership (LEAD). 
+--  Key issues of concern to national and opposition 
+leadership, particularly dynamics and decision-making 
+processes of key civilian and military officials and of 
+ruling political parties, including coup plotting. 
+--  Attitude toward political opposition. 
+--  Personal financial resources, financial institutions 
+used, and personal relationships. 
+--  Biographic data, including opinions about the United 
+States. 
+ 
+HUMINT Priority for LEAD 
+Burkina Faso: 3H, Cape Verde: 5H, Chad: 3H, The Gambia: 5H, 
+Mali: 5H, Mauritania: 3H, Niger: 5H, Senegal: 4H 
+ 
+      2) Government Stability and Support For Democracy 
+(DEPS). 
+--  Internal or external threats to government stability, 
+democracy, or rule of law, including government efforts to 
+address these threats. 
+--  Government control over national territory and borders, 
+including areas where government authority is weak or absent. 
+--  Commitment to representative government and democratic 
+reforms, particularly during election cycle. 
+--  Laws, policies, and prospects for political succession 
+and elections. 
+--  Details on corruption and anti-corruption measures. 
+--  Drivers of, and responses to, political instability or 
+economic deterioration. 
+--  Details on administrative, judicial, and legislative 
+organs and related decision-making. 
+--  Signs of ethnic, religious, or generational polarization 
+and impact on decision-making. 
+--  Political and social infrastructure development in remote 
+regions. 
+ 
+NIPF Priority for DEPS 
+Chad: 4, Mauritania: 5, Senegal: 5 
+ 
+HUMINT Priority for DEPS 
+Burkina Faso: 5H, Cape Verde: 5H, The Gambia: 5H, Mali: 5H, 
+Niger: 5H 
+ 
+      3) Human Rights (HRWC). 
+--  Details of human rights abuses by intelligence and 
+security services, military, paramilitary, police, or other 
+officials, or by insurgent, separatist, or other groups. 
+--  Details of government efforts and capability to prevent 
+or respond to abuses. 
+--  Government reaction to foreign and domestic criticism of 
+alleged human rights abuses. 
+--  Details of alleged disenfranchisement or enslavement of 
+individuals or groups, including government complicity or 
+inaction. 
+--  Government relationship with international peacekeeping 
+and aid organizations. 
+ 
+NIPF Priority for HRWC 
+Chad: 2, Mauritania: 5, Niger: 5 
+ 
+HUMINT Priority for HRWC 
+Burkina Faso: 5H, Cape Verde: 5H, The Gambia: 4H, Mali: 5H, 
+Senegal: 5H 
+ 
+      4) Political Opposition (DEPS). 
+--  Plans, intentions, and role of opposition parties in 
+political system, including intention to use extra-legal 
+means to depose government. 
+--  Activities, plans, intentions, and sources of funding and 
+support. 
+--  Leadership, organization, agendas, membership, and level 
+of influence. 
+--  Plans and intentions related to the election cycle. 
+--  Alliances, factions, and evidence of links to foreign 
+governments or insurgent/separatist groups. 
+--  Opinions of ethnic, religious, and other population 
+groups towards the government and political opposition. 
+ 
+NIPF Priority for DEPS 
+Chad: 4, Mauritania: 5, Senegal: 5 
+ 
+HUMINT Priority for DEPS 
+Burkina Faso: 5H, Cape Verde: 5H, The Gambia: 5H, Mali: 5H, 
+Niger: 5H 
+ 
+¶C.  Socio-Economic Issues 
+ 
+      1) Agriculture and Food Security (FOOD). 
+--  Government plans and actions regarding agricultural 
+output, food security, and food safety. 
+--  Willingness to cooperate with U.N. and other donor 
+agencies on food-related issues. 
+--  Details about food prices and food trade and public 
+reaction to increasing food prices. 
+--  Indications of environmental factors affecting 
+agricultural output. 
+--  Government policies and initiatives to increase 
+agricultural producer income. 
+--  Status of, and prospects for, cash and subsistence crops. 
+--  Indications of invasive species affecting food security 
+or development. 
+--  Details about manipulation of food aid by government or 
+warlords to enhance power. 
+ 
+NIPF Priority for FOOD 
+Chad: 5 
+ 
+HUMINT Priority for FOOD 
+Burkina Faso: 5H, Cape Verde: 5H, The Gambia: 5H, Mali: 5H, 
+Mauritania: 5H, Niger: 5H, Senegal: 5H 
+ 
+      2) Foreign Aid and Relations (FPOL). 
+--  Governments' and leaders' views on foreign nations and 
+international organizations, particularly China, Iran, and 
+India. 
+--  Foreign alliances, aid, and activities, including those 
+withheld from public view. 
+--  Details on international trade issues and economic 
+assistance needs and requests. 
+--  Governments' actions and intentions regarding existing 
+U.S. Status of Forces Agreements and the Rome Convention's 
+International Criminal Court (Article 98). 
+ 
+HUMINT Priority for FPOL 
+Burkina Faso: 3H, Cape Verde: 5H, Chad: 4H, The Gambia: 5H, 
+Mali: 5H, Mauritania: 5H, Niger: 5H, Senegal: 4H 
+ 
+      3) Criminal Activities (CRIM). 
+--  Details of corruption and cross-border criminal activity, 
+including weapons trafficking, human trafficking, alien 
+smuggling, illicit finance, and cigarette smuggling.  -- 
+Government and law enforcement plans and intentions to combat 
+criminal activity. 
+--  Organizations, activities, methodologies, alliances, and 
+vulnerabilities. 
+--  Cooperation with terrorist or insurgent groups. 
+--  Key investors, facilitators, beneficiaries, and corrupt 
+officials. 
+ 
+HUMINT Priority for CRIM 
+Burkina Faso: 5H, Cape Verde: 4H, Chad: 5H, The Gambia: 5H, 
+Mali: 4H, Mauritania: 3H, Niger: 4H, Senegal: 5H 
+ 
+      4) Health and Infectious Diseases (HLTH). 
+--  Details of infectious diseases and general health 
+conditions, including number of cases, percentage of 
+population affected, fatalities, dates, areas of occurrence, 
+and impact. 
+--  Government policies, plans, and efforts for disease 
+prevention and identification. 
+--  Nutrition-related health of population, including 
+refugees. 
+--  Vaccination practices, capabilities, and response related 
+to drug-resistant and Emerging and Re-Emerging Diseases, 
+particularly polio and tuberculosis. 
+--  Effect of  HIV/AIDS or other diseases on military, 
+government, or economic performance. 
+--  Public attitudes towards disease prevention and treatment 
+programs. 
+--  Indications of infectious plant, animal, or zoonotic 
+diseases (animal to human transmission) with potential 
+economic or public health consequences. 
+--  Details about contaminated food, water, air, and soil. 
+--  Information on medical facilities, including capabilities 
+and training. 
+ 
+NIPF Priority for HLTH 
+Chad: 4 
+ 
+HUMINT Priority for HLTH 
+Burkina Faso: 5H, Cape Verde: 5H, The Gambia: 5H, Mali: 5H, 
+Mauritania: 5H, Niger: 5H, Senegal: 5H 
+ 
+      5) Population and Refugee Issues (DEMG). 
+--  Population movements in the region, and governments' 
+involvement and response. 
+--  Indications of actual or potential refugee movements 
+within or into the region. 
+--  Locations and conditions of refugee camps and informal 
+refugee and internally displaced persons (IDP) gathering 
+sites and transit routes. 
+--  Government capability and willingness to assist refugees 
+and IDPs. 
+--  Health and demographic statistics of refugees and IDPs. 
+--  Dynamics and impact of migration and demographic shifts. 
+--  Efforts to repatriate refugees. 
+ 
+NIPF Priority for DEMG 
+Chad: 3, Mali: 4, Mauritania: 4, Niger: 4 
+ 
+HUMINT Priority for DEMG 
+Burkina Faso: 4H, Cape Verde: 4H, The Gambia: 4H, Senegal: 4H 
+ 
+      6) Economic Institutions and Initiatives (ECFS). 
+--  Policies, strategies, and efforts to improve economic 
+growth. 
+--  Leadership views on economic, trade, and fiscal policies 
+and regulatory enforcement. 
+--  Identities and roles of governments' economic 
+policy-making and regulatory bodies/officials. 
+--  Macroeconomic statistics regarding trade, budget, balance 
+of payments, and national economies, including reliability or 
+manipulation of data. 
+--  Public perception of economic conditions, including youth 
+employment prospects. 
+--  Nature and extent of underground banking systems. 
+--  Details on economic assistance needs and partnerships, 
+and effectiveness of aid. 
+--  Financial data transmission systems and accounting 
+methods. 
+--  Details of natural resource development activities, 
+including financing. 
+ 
+HUMINT Priority for ECFS 
+Burkina Faso: 5H, Cape Verde: 5H, Chad: 5H, The Gambia: 5H, 
+Mali: 5H, Mauritania: 4H, Niger: 5H, Senegal: 5H 
+ 
+      7) Environmental Issues (ENVR). 
+--  Details of plans and efforts by governments, NGOs, and 
+others to combat deforestation and desertification, including 
+the Great Green Wall project. 
+--  Governments' willingness and ability to manage 
+exploitation of natural resources and respond to natural and 
+man-made environmental disasters. 
+--  Capability and willingness to protect nearby sea lanes, 
+and fishing grounds and other Exclusive Economic Zone claims. 
+--  Negotiating positions at international environmental 
+meetings. 
+--  Government and public perceptions regarding environmental 
+issues. 
+ 
+NIPF Priority for ENVR 
+Niger: 5 
+ 
+HUMINT Priority for ENVR 
+Burkina Faso: 5H, Cape Verde: 5H, Chad: 4H, The Gambia: 5H, 
+Mali: 5H, Mauritania: 5H, Senegal: 5H 
+ 
+¶D.  Information Systems and Telecommunications Infrastructure 
+(INFR). 
+ 
+--  Current specifications, vulnerabilities, capabilities, 
+and planned upgrades to, national telecommunications 
+infrastructure and information systems, command and control 
+systems, networks, and technologies used by government, 
+military, and private sector. 
+--  National leadership use of, and dependencies on, 
+dedicated telecommunications infrastructures and information 
+systems. 
+--  Details about national and regional telecommunications 
+policies, programs, regulations, service providers, vendors, 
+and training. 
+--  Details about internet and intranet use, infrastructure, 
+and government oversight. 
+--  Plans and efforts to acquire U.S. export-controlled 
+telecommunications technology. 
+--  Details about information repositories for Radio 
+Frequency Identification-enabled systems used for passports, 
+government badges, and transportation systems. 
+--  Official and personal phone numbers, fax numbers, and 
+e-mail addresses of principal civilian and military leaders. 
+ 
+NIPF Priority for INFR 
+Chad: 4 
+ 
+HUMINT Priority for INFR 
+Burkina Faso: 5H, Cape Verde: 5H, The Gambia: 5H, Mali: 5H, 
+Mauritania: 5H, Niger: 5H, Senegal: 5H 
+ 
+II.  Country-Specific Issues 
+ 
+¶A.  Chad: Sudan/Darfur Issues (SRCC-2). 
+ 
+--  Details about Sudanese-backed insurgency in Chad and 
+Chadian-backed insurgency in Sudan and related population 
+movements. 
+--  Indications of actual or potential refugee or IDP 
+movements, especially Sudanese and Central African Republic 
+refugees. 
+--  Human rights abuses against refugees currently located in 
+Chad. 
+--  Government's political will and intention to engage 
+Sudanese-backed separatists. 
+--  Military capability to combat Sudanese-backed separatists. 
+--  Role of international institutions in stabilizing 
+domestic uprising. 
+--  Details about Chadian insurgents' relationship with the 
+Government of Sudan. 
+--  Details about the government's relationship with Sudanese 
+insurgents in Darfur. 
+--  Presence or activities of international terrorist groups 
+in insurgencies. 
+ 
+ 
+CLINTON
