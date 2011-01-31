@@ -3,3 +3,118 @@ MILITARY PLANS TO DISPLACE THOUSANDS OF RESIDENTS
 Fri Jan 23 00:00:00 +0100 2009
 CONFIDENTIAL
 Embassy Harare
+VZCZCXRO3452
+OO RUEHBZ RUEHDU RUEHMR RUEHRN
+DE RUEHSB #0051/01 0230942
+ZNY CCCCC ZZH
+O 230942Z JAN 09 ZDK
+FM AMEMBASSY HARARE
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 3957
+INFO RUCNSAD/SOUTHERN AF DEVELOPMENT COMMUNITY COLLECTIVE
+RUEHAR/AMEMBASSY ACCRA 2572
+RUEHDS/AMEMBASSY ADDIS ABABA 2694
+RUEHRL/AMEMBASSY BERLIN 1185
+RUEHBY/AMEMBASSY CANBERRA 1963
+RUEHDK/AMEMBASSY DAKAR 2318
+RUEHKM/AMEMBASSY KAMPALA 2743
+RUEHNR/AMEMBASSY NAIROBI 5171
+RUEAIIA/CIA WASHDC
+RUZEJAA/JAC MOLESWORTH RAF MOLESWORTH UK
+RHMFISS/EUCOM POLAD VAIHINGEN GE
+RHEFDIA/DIA WASHDC
+RUEHGV/USMISSION GENEVA 1861
+RHEHAAA/NSC WASHDCC O N F I D E N T I A L SECTION 01 OF 02 HARARE 000051 
+
+SIPDIS 
+
+AF/S FOR B. WALCH 
+DRL FOR N. WILETT 
+ADDIS ABABA FOR USAU 
+ADDIS ABABA FOR ACSS 
+STATE PASS TO USAID FOR E. LOKEN AND L. DOBBINS 
+
+E.O. 12958: DECL: 01/23/2019 
+TAGS: EMIN ASEC PHUM ZI RS ECON PREL
+SUBJECT: MILITARY PLANS TO DISPLACE THOUSANDS OF RESIDENTS 
+FROM XXXXXXXXXXXX
+REF: A. HARARE 49 
+¶B. HARARE 24 
+¶C. 08 HARARE 1035 
+¶D. 08 HARARE 1016 
+
+Classified By: Ambassador James D. McGee for reason 1.4 (d) 
+
+------- 
+SUMMARY 
+------- 
+
+¶1. (SBU) In mid-January, a local chief in the diamond rich 
+and violence-ridden XXXXXXXXXXXX  
+informed us of the Zimbabwean military's intention to 
+displace as many as 25,000 villagers from their homes XXXXXXXXXXXX.
+ The military operation is intended to establish 
+control over the diamond fields as well as to provide 
+village-based housing to troops. The plan was temporarily 
+delayed due to the discovery of gold ore in the region where 
+the villagers were to be relocated. END SUMMARY. 
+
+---------------------------------------- 
+Military Operation to Displace Thousands 
+---------------------------------------- 
+
+¶2. (C) XXXXXXXXXXXX, XXXXXXXXXXXX the local chief in 
+the conflict-ridden XXXXXXXXXXXX diamond fields of XXXXXXXXXXXX 
+Zimbabwe, met with poloff to describe a military operation 
+intended to displace the region's 20,000 to 25,000 residents. 
+He said that the military had informed them that XXXXXXXXXXXX
+had been named a "government reserve area" and consequently, 
+it was authorized to displace all the local residents in and 
+around the XXXXXXXXXXXX diamond fields. He estimated that the 
+area in question encompassed several hundred square 
+kilometers, which is well in excess of the 70 hectare site 
+currently being hand-panned. 
+
+¶3. (C) Chief XXXXXXXXXXXX told us that the military's plan had 
+been to move the residents in mid-January from their villages 
+to a site near the town of XXXXXXXXXXXX, some 60 kilometers north XXXXXXXXXXXX. 
+XXXXXXXXXXXX has a farm in XXXXXXXXXXXX where the villagers would be placed. While the area is within the boundaries of the 
+XXXXXXXXXXXX farm, the land was described by XXXXXXXXXXXX 
+as "just rough bush." The villagers were to be provided with tents 
+for shelter, but no other accommodations were to be made for 
+their benefit. However, the chief said that the plan was 
+scuttled because an unnamed Russian gold mining group with 
+operations in the area informed the military that they had 
+recently discovered gold at XXXXXXXXXXXX. Consequently, the military is now seeking an alternate relocation site for the villagers. 
+
+¶4. (C) XXXXXXXXXXXX also explained that the operation was 
+motivated by both a desire to control the area and a need to 
+provide housing for the military brigades currently stationed 
+in the Marange region. An independent NGO in the area, as 
+well as the chief, reported that troops routinely force the 
+local villages to provide them with food and shelter, while 
+making residents dig for diamonds. 
+
+¶5. (C) Chief XXXXXXXXXXXX is establishing a trust intended to 
+raise funds for the legal defense and protection of displaced 
+people in the area and sought our help in the endeavor. 
+
+------- 
+COMMENT 
+------- 
+
+¶6. (C) The relocation of these villagers, if it occurs, is 
+the next preparatory step in the GOZ's plan to use the 
+XXXXXXXXXXXX diamond fields to bail out the failed Zimbabwean 
+
+HARARE 00000051 002 OF 002 
+
+
+economy and prop-up the Mugabe patronage system (reftels). 
+While we are highly skeptical of the success of that scheme, 
+what is certain is that it would result in additional 
+suffering for XXXXXXXXXXXX residents. END COMMENT. 
+
+MCGEE 
+  
+
+SELECT * FROM `cable` WHERE `id` = '188474' ORDER BY `date` ASC
