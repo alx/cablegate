@@ -1,0 +1,64 @@
+09STOCKHOLM736
+CONCERNS ABOUT ACTA NEGOTIATIONS AND IPR UPDATE:  IPRED, PIRATE BAY, AND VODDLER  Ref: A) STOCKHOLM 733, B) STOCKHOLM 676  STOCKHOLM 00000736  001.2 OF 002
+Tue Nov 24 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Stockholm
+VZCZCXRO7102
+PP RUEHIK
+DE RUEHSM #0736/01 3281231
+ZNR UUUUU ZZH
+P 241231Z NOV 09
+FM AMEMBASSY STOCKHOLM
+TO RUEHC/SECSTATE WASHDC PRIORITY 4936
+INFO RUEHZL/EUROPEAN POLITICAL COLLECTIVE PRIORITYUNCLAS SECTION 01 OF 02 STOCKHOLM 000736  
+
+STATE FOR JOELLEN URBAN  
+
+STATE PASS TO USTR FOR DAVID WEINER AND KIRA ALVAREZ  
+
+SIPDIS  
+
+TAGS: KIPR EINT ETRD ECON PGOV SW
+
+SUBJECT: CONCERNS ABOUT ACTA NEGOTIATIONS AND IPR UPDATE:  IPRED, PIRATE BAY, AND VODDLER  Ref: A) STOCKHOLM 733, B) STOCKHOLM 676  STOCKHOLM 00000736  001.2 OF 002   
+
+¶1.  (SBU) Summary:  Swedish media and the usual blogger-circles have expressed similar concerns about the on-going ACTA (Anti-Counterfeiting Trade Agreement) negotiations as we have seen in many other countries, mostly focusing on the secrecy and the internet chapter with its reported demands for graduated response systems.  As the Swedish Justice Ministry has negotiating for the EU during the second half of this year, this has led to domestic criticism of the government.  Media reporting has forced the Swedish Government to go public saying that Sweden will not agree to ACTA provisions requiring revised Swedish laws.  Meanwhile, The Pirate Bay website, no longer based in Sweden, is moving towards complying with its court injunction by removing its tracker.  An identical tracker shortly thereafter appeared on another site.  We are now beginning to hear criticism that the IPRED (Intellectual Property Rights Enforcement Directive) legislation makes investigating and solving crimes more difficult in Sweden as Internet Service Providers tend to destroy their records as soon as legally possible. And, some good news:  There has been an overwhelming positive response to the Voddler launch.  End summary.  
+
+ACTA ---- 
+
+¶2.  (SBU) Post contacted Stefan Johansson, who has represented the EU at the ACTA negotiations during the Swedish EU Presidency.  He told us that the secrecy issue has been very damaging to the negotiating climate in Sweden.  All political parties have vocal minorities challenging the steps the government has taken to step up its IPR enforcement.  For those groups, the refusal to make ACTA documents public has been an excellent political tool around which to build speculation about the political intent behind the negotiations.  If the instrument for example had been negotiated within the World Intellectual Property Organization (WIPO) critics say, WIPO's Secretariat would have made public initial draft proposals.  
+
+¶3.  (SBU) In Johansson's opinion, the secrecy around the negotiations has led to that the legitimacy of the whole process being questioned.  This, combined with the leaked European Commission document summarizing an oral account of the U.S. internet chapter proposal, forced Justice Ministry State Secretary Magnus Graner to go public earlier this month to appease the storm of critics by assuring them that the Swedish government will not agree to any ACTA provision that would require changes to current Swedish laws.  
+
+¶4.  (SBU) Johansson said that in his opinion, there is strong support within the negotiating group for the position that a negotiated text coming out of the ACTA discussions must be made public while there is still scope to influence the final outcome. He further told us that the European Commission is concerned that the USG has close consultation with U.S. industry, while the EU does not have the same  possibility to share the content under discussion in the negotiations.  
+
+¶5.  (SBU) EU Member states' representatives will meet around November 25-26 to further discuss the U.S. internet chapter proposal, and to coordinate its position going forward.  Johansson will, of course, no longer negotiate on behalf of the EU come January 2010 - when the Presidency rotates to Spain.  Nonetheless, Johansson told us he hopes the negotiations might be concluded during 2010, maybe during the second half of the year.  He said that we need to get to a point soon where we start separating out linguistic differences from the principal issues that need to be negotiated.  Thus far, the negotiations have not been effective at separating out the core issues. 
+
+IPRED legislation ----------------- 
+
+¶6.  (U) Swedish Police Enforcement officials are complaining that implementation of the IPRED has made it more difficult to solve crimes.  Swedish Internet Service Providers are saving user information related to IP-numbers for a shorter period of time following the IPRED legislation.  
+
+¶7.  (U)  Also, as previously reported (Ref A) the IPRED legislation might be doing little to stop the problem of illegal file-sharing as internet users now are using services which allow them to hide their IP-addresses.  
+
+IPR-issues discussed in Swedish Parliament --------------------------------------- 
+
+¶8.  (U) U.S. Professor Lawrence Lessing lectured at the Swedish Parliament on November 18.  Following the discussion he told Swedish media he hopes to shift the focus from illegal file-sharing to means of enabling ""remix and creativity.""  Lessing maintains that it is important to both compensate right-holders, but also allow remix of certain intellectual property without compensation.  
+
+STOCKHOLM 00000736  002.2 OF 002    
+Pirate Bay tracker removed ------ ---- ------- ------- 
+
+¶9.  (U) The Pirate Bay has removed its tracker, to comply with a previous court injunction delivered in October.  According to one of the founders of The Pirate Bay, the tracker is not needed for the website to function.  Monique Wadsted, legal representative of the U.S. movie industry, says that the removal is not enough for The Pirate Bay to be in compliance with the USD 72,000 injunction.  
+
+¶10.  (U) The founders of The Pirate Bay have appealed the injunction on grounds that the Stockholm District Court lacks jurisdiction because the Pirate Bay founders no longer live in Sweden.  Moreover, the founders oppose the decision, arguing that they no longer have control over the website, which is located outside Sweden as well.   
+
+¶11.  (U) Following removal of the tracker from The Pirate Bay's website, an identical tracker surfaced on a Swedish website. Monique Wadsted, representing the U.S. movie industry, on November 18 filed a claim in court, asking ISP Portlane to shut off bandwidth to the tracker which allows for file-sharers to connect with each other.  
+
+Swedes excited over Voddler launch ---------------------------------- 
+
+¶12.  (U)  The new service Voddler for legally watching movies over the internet for free has attracted more than a quarter of a million Swedes since its launch two weeks ago (Ref B).  In addition to signing up tens of thousands of subscribers in a matter of days, Voddler recently inked licensing deals with two major Hollywood studios, Walt Disney Company and Paramount, giving its users access to thousands of film titles.  
+
+¶13.  (U) Founded in Stockholm in 2005, Voddler offers users legal streaming on-demand videos free of charge.  When it released a beta version of its technology in July 2009, the service attracted 16,000 users on the first day.  As previously reported, Voddler launched an updated version of the service in late October, inviting customers of Swedish ISP Bredbandsbolaget to sign up.  
+
+¶14.  (U) Voddler's executive vice president Zoran Slav calls ""the launch very, very successful, both in terms of how the service has been received in the press and in terms of the response from the public"".  He said Voddler now has 70,000 registered users, as well as a waiting-list of more than 200,000 people who have requested an invitation to join the service.  ""We're adding about 3,000 users a day,"" Slav said.  Voddler is not the only company in Sweden offering legal streaming of movies over the internet, however, they are the only entertainment service provider that offers access to movies for free.  
+
+¶15.  (U) Voddler's service is currently only available in Sweden. Voddler plans to expand service to Norway, Denmark, and Finland in 2010.  According to the executive vice president, Voddler is looking to bigger markets in other parts of Europe and North America -- however, the company is taking a measured approach to its expansion plans.  Voddler also recently launched a version of its service for Mac users, and Slavic said that an iPhone application is in the works.  BARZUN
