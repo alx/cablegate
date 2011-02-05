@@ -1,0 +1,108 @@
+08LONDON2035
+IMO: FLAG STATE IMPLEMENTATION SUB-COMMITTEE -
+Tue Aug 05 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy London
+VZCZCXYZ0010
+RR RUEHWEB
+
+DE RUEHLO #2035/01 2181152
+ZNR UUUUU ZZH
+R 051152Z AUG 08
+FM AMEMBASSY LONDON
+TO RUEHC/SECSTATE WASHDC 9399
+INFO RUWDQAC/COMDT COGARD WASHINGTON DC//CG-001/CG-ACO-I/CG-094//
+RUWDQAC/COMDT COGARD WASHINGTON DC//CG-2/CG-5/CG-52/CG-521//
+RUWDQAC/COMDT COGARD WASHINGTON DC//CG-522/CG-523/CG-534//
+RUWDQAC/COMDT COGARD WASHINGTON DC//CG -541/CG-544/CG-545//
+RUWDQAC/COMDT COGARD WASHINGTON DC//CG-543/CG-62/CG-7M//UNCLAS LONDON 002035 
+ 
+SIPDIS 
+ 
+STATE PLEASE PASS TO DOJ, MARAD AND NTSB 
+ 
+E.O. 12958: N/A 
+TAGS: AORC EWWT PHSA UK TU JA
+ 
+SUBJECT: IMO: FLAG STATE IMPLEMENTATION SUB-COMMITTEE - 
+REPORT OF THE 16TH SESSION, LONDON, 2 - 6 JUNE 2008. 
+ 
+¶1. SUMMARY: The International Maritime Organization (IMO) 16th Session of the Flag State Implementation Sub- Committee (FSI 16) met at IMO Headquarters, London, UK. Mrs. Tatjana Krilic of Croatia chaired the meeting. The meeting was attended by eighty members, three associate members, one state not a member of the IMO, one United Nations specialized agency, eight intergovernmental organizations and seventeen nongovernmental organizations. FSI 16 agreed to:  
+
+-- The draft amendments to the Survey Guidelines under the Harmonized System of Survey and Certification (HSSC) resolution A.997(25) and the identification of amendments to mandatory instruments that would affect the HSSC and the status of their adoption or entry into force.  
+
+-- The text of the draft Maritime Safety Committee (MSC) circular on the meaning of "First Survey" to supersede MSC/Circ.1141 to be submitted to MSC 85 (November 26 - December 5, 2008) for approval 
+
+-- The text of the draft MSC circular on unified interpretation of the application of regulations governed by the building contract date, the keel laying date and the delivery date for the requirements of the Safety of Life at Sea (SOLAS) and the Maritime Pollution Prevention (MARPOL) Conventions to be submitted to Marine Environmental Protection Committee MEPC 58 (October 6-10, 2008) and MSC 85 for approval.  
+
+-- The draft MSC/MEPC circular on blanking (sealing) of bilge discharge piping system in port.  
+
+-- FSC 16 prepared a draft amendment to MSC-MEPC.3/Circ.1 based on the revision of the IMO Damage Card. END SUMMARY  
+
+Decisions of other IMO Bodies ----------------------------- 
+
+¶2. The Secretariat gave an overview of the Strategic Plan and High-Level Action Plan of the Organization and its relationship to the FSI and other IMO bodies. Specifically, how each IMO body must take the goals of the organization into account during the development and monitoring of their planned outputs.  
+
+Responsibilities of Governments and Measures to Encourage Flag State Compliance ------------------------------------------- 
+
+¶3. Meeting document 16/3/1, presented by the Secretariat, proposes that IMO create a database of non-mandatory instruments implemented by Member States. The USDEL intervened and expressed our concern that the Global Integrated Shipping Information System (GISIS) module, as proposed, would create unnecessary expectations on Member States to provide details of implementing national legislation for non-mandatory instruments. Other Member States agreed with our position and there was very limited support for the creation of this module. However, the Secretariat provided additional background on how this information would benefit developing states, and the S/C agreed to the creation and voluntary population of the GISIS module. Significant discussions under this agenda item took place while the S/C reviewed various studies of Port State Control (PSC) data. These studies attempted to show a connection between casualty and other performance indicators and substandard vessels. A Drafting Group was established to develop terms of reference for a comprehensive study to be completed by an outside, expert organization. The Secretariat had recommended the World Maritime University (WMU) as the expert organization. However, the USDEL and others felt that restricting ourselves to the WMU was unwise and that a solicitation of other expert organizations may reduce the cost and identify parties with greater expertise in this area. This was agreed upon and FSI 17 will review the submitted proposals and decide which organization is best to carry out this work.  
+
+Mandatory Reports under MARPOL ------------------------------ 
+
+¶4. FSI 16 noted that only 34 parties (including the United States) and one associate member had submitted the required reports for 2006, approximately a 25% compliance rate. The S/C agreed that the compliance rate was disappointing in spite of simplification of the reporting  form and again urged members to fulfill their obligations. Member States were encouraged to comply with the annual reporting requirements for MARPOL 73/78, as outlined in MEPC/Circ.318.  
+
+Port Reception Facilities-Related Issues ---------------------------------------- 
+
+¶5. The coordinator of the correspondence group (Portugal) updated the S/C on the progress under its terms of reference. Specifically, four of the eight assigned tasks remain to be addressed. The S/C agreed that the correspondence group should continue and instructed it to report its work to FSI 17 for further consideration by the S/C. At the request of the Secretariat and Chairperson, the USDEL agreed to serve as coordinator for the reestablished correspondence group. Portugal had previously asked to relinquish that role.  
+
+Casualty Statistics and Investigations -------------------------------------- 
+
+¶6. The S/C considered the report of the Correspondence Group on Casualty Analysis, confirmed the analyses of casualty reports, authorized their release, and approved the lessons learned for presentation to seafarers and posting on the IMO website. The S/C prepared a draft amendment to MSC-MEPC.3/Circ.1 based on the revision of the IMO Damage Card by the 49th Session of the Sub -  Committee of Stability, Loadlines, and Fishing Vessel Safety (SLF) and on the need for harmonization of terminologies for submission to MSC 85 and MEPC 58. In considering the issues involved in the fire on the roll on/roll off (ro-ro) cargo ship UND ADRIYATTIK, the S/C agreed that Turkey and Croatia should be commended for their efforts and for responding with a preliminary report very soon after the accident, and that the preliminary findings should be provided to the Fire Protection (FP) and Ship Design and Equipment (DE) Sub- Committees. The S/C considered the investigation report on the catastrophic structural failure of the containership MSC NAPOLI, and recommended to the MSC that the accident report be referred to the Sub-Committee on Ship Design and Equipment and the Joint MEPC-MSC Working Group on the Human Element, national maritime administrations be invited to share the report's recommendations with their vessel owners and operators, and International Association of Classification Societies (IACS) be requested to provide an update on its review of relevant standards. The S/C also noted the work by Incident Command System (ICS) to develop a Code of Good Practice for the Container Shipping Industry, and recommended that MSC consider further appropriate action when the Code is completed. The S/C noted the information provided on the recovery of the Vessel Data Recorder (VDR) from the sunken AL SALAM BOCCACCIO '98, discussed the difficulties expressed by several delegations with the operation of VDRs, and invited members to provide additional information at the next session. The correspondence group on casualty analysis was re- established.  
+
+Harmonization of Port State Control (PSC) ---------------------------------------- 
+
+¶7. PSC Regional Memoranda of Understanding (MOUs) presented statistics regarding their activities in 2006 and 2007. The USDEL presented an oral report of our 2007 statistics. The S/C requested that all PSC MOUs and the United States submit annual reports to FSI 17. In addition, discussed harmonized annual reports and referred the issue to the working group. FSI 15 established an intersessional correspondence group to further the work in PSC harmonization efforts. Unfortunately, the Polish chairmanship of the correspondence group - like the Russian chairmanship before it, did not move any issues forward, so very limited work was completed in this important area for more than two years. FSI 16 reestablished the correspondence group with Australia as coordinator, and we have submitted our contact information to participate. We are hopeful that significant progress will be made intersessionally. The United States made an intervention regarding our efforts to create the Caribbean Cargo Ship Safety Code for non-SOLAS vessels showing that such regional efforts can be used for a harmonized approach to these types of vessels. The Secretariat has asked that these types of agreements or codes be submitted to the  Organization for recordkeeping purposes. Finally, there were significant discussions on the harmonization efforts of Member States for information coding systems (for data exchange) and examination procedures. Due to the limited time provided to the working group it was decided that these issues should be referred to the correspondence group.  
+
+Development of Guidelines on Port State Control --------------------------------------------- -- 
+
+¶8. With respect to the 2004 Ballast Water Management (BWM) Convention, USDEL suggested that it was premature to develop these guidelines in light of the significant substantive issues yet to be resolved, such as the guidelines for ballast water sampling (G2), the available time prior to prospective entry into force, and the large amount of other work assigned to the PSC working group. USDEL further suggested deferring further work on this item until FSI 17, but that a correspondence group might be a useful way to proceed. There was support for the USG statement, including from ICS, which has played a very significant role in the development of the BWM Convention implementation efforts. The S/C tasked the PSC correspondence group with advancing this item and reporting to FSI 17.  
+
+PSC Guidelines on seafarers' working hours ------------------------------------------ 
+
+¶9. No substantive discussion under this agenda item. FSI 16 briefly reviewed the submission on the outcome of Standards of Training, Certification and Watchkeeping (STW) 39 and deferred further discussion of this matter until after MSC 85 had reviewed STW 39's comments. The Secretariat also provided information on the upcoming International Labor Organization (ILO) meeting on the development of Flag State and Port State Guidelines for the implementation of the ILO's Maritime Labor Convention, 2006.  
+
+Comprehensive analysis of difficulties encountered in the implementation of IMO instruments --------------------------------------------- ------- 
+
+¶10. The Secretariat briefly discussed the issue of Self Assessment Forms (SAFs), particularly those submitted to the IMO. The Secretariat encouraged Member States to submit new or updated SAFs to the Organization. There was discussion on the removal of this agenda item from the work program due to the limited number of documents submitted in past years. However, the consensus was to retain the agenda item and use it to capture the issues identified by the auditors during the Voluntary Member State Audit Scheme (VMSAS) audits.  
+
+Review of the Survey Guidelines under the HSSC Resolution A.997(23) ---------------------------------- 
+
+¶11. The coordinator of the correspondence group (France) updated the Sub-Committee on the progress under its terms of reference. There are two ongoing tasks for the group, updating the non-mandatory guidance contained in the Harmonized System of Survey and Certification (HSSC) and updating the Code for the Implementation of IMO Mandatory Instruments (Resolution A.996(25)). At the request of the MSC 83 and MSC 84, the correspondence group and the working group were tasked to consider a proposal by the Bahamas and Cruise Line International Association (CLIA) to allow passenger/cruise ships to be drydocked out of the water only once every five years instead of twice every five years as recommended by the current HSSC. The United States and Panama had sponsored a paper at last year's FSI meeting to formally establish guidance that passenger ships should come out of the water for examination at least twice in a five-year period, but not more than three years between and two drydockings. The United States/Panama proposal was accepted and is now part of the HSSC. The Bahamas and Cruise Lines International Association (CLIA), having failed to gain majority support at FSI 16 and in the correspondence group, seek to reopen the discussion. The FSI Chairman postponed consideration of this issue to next year's FSI meeting pending an intermediate technical review by the Ship Design and Equipment Sub-Committee on the matter. A proposal by the Republic of Korea to require annual testing of the Automatic Identification System (AIS) by a radio technician was not adopted. The working group  accepted a list of technical amendments to the HSSC and to the list of IMO mandatory instruments that came into force over the course of the past year.  
+
+Consideration of IACS Unified Interpretations --------------------------------------------- 
+
+¶12. This issue was addressed as part of the HSSC working group. International Association of Classification Societies (IACS) submitted a paper that defined the first survey of a ship to be the survey conducted at the end of construction. This was significant because some new IMO regulations become effective at the first survey of a ship after the new requirements come into force. Some Flag Administrations and ship owners had contended that the first survey is the first annual survey that occurs after the ship is initially certificated vice the survey for issuance of the initial certificate. The United States supported the IACS proposal, which was adopted, as reflective of the true intent of the term "first survey."  
+
+Illegal, Unreported, and Unregulated (IUU) Fishing and Implementation of Resolution A.925(22) --------------------------------------------- ---- 
+
+¶13. The IMO Secretariat submitted one paper under this agenda item outlining its activities relating to IUU Fishing since the last FSI meeting. The Secretariat urged members to become contracting parties to the 1993 Torremolinos Protocol and the 1995 Standards of Training, Certification & Watchkeeping - Fishing Vessels (STCW-F) Convention with hopes that this would reduce problems associated with safety and IUU Fishing. The paper also provided information on past and future joint meetings between the IMO and the UN Food and Agriculture Organization (FAO). The FAO spoke at length regarding its activities and how the IMO and its Member States have assisted in providing necessary expertise in an effort to reduce IUU Fishing. Some member States expressed their support for the work carried out by the IMO and FAO to combat IUU Fishing and promote a safe working environment aboard fishing vessels.  
+
+Review of the Code for the Implementation of Mandatory IMO Instruments ------------------------------------------- 
+
+¶14. There were two substantive issues under this agenda item. First, review of the applicability of existing IMO instruments to floating production, storage and offloading facilities (FPSOs) and floating storage units (FSUs). And further, the need to create a separate set of guidelines or a code for these vessel types. The majority of the Member States felt that the existing instruments were sufficient and also recognized the sovereignty of Coastal States in defining their own requirements for such vessels operating in their waters. However, there were a small number of Member States that voiced concern that they do not possess the necessary expertise within their maritime administrations to implement appropriate requirements, when acting as a Coastal State. As a result, the S/C requested interested Member States to make submissions to MSC 85 for review and action as appropriate. It was noted that the Oil Companies International Marine Forum (OCIMF) will submit a meeting document to MSC 85 containing guidelines for use by Coastal States, owners and operators for the safe operation of these vessels. OCIMF has informally asked for U.S. support of this paper. The second substantive issue related to the development of Voluntary Member State Audit Scheme (VMSAS) audit summary reports. Due to the high priority of this task, a drafting group under U.S. chairmanship was established. The drafting group created the terms of reference for the intersessional correspondence group to move the issue forward. The United Kingdom will chair the correspondence group and the United States will participate.  
+
+Work Program and Agenda for FSI 17 --------------------------------- 
+
+¶15. There was substantial debate over the work program and in particular with regard to the number and specific designation of working groups, drafting groups, and correspondence groups. Several open registry delegations repeated their familiar concerns that the S/C was establishing too many groups, given the rules of the organization. This has become a recurrent theme at IMO sessions of all levels. There was robust debate over  reconciling the provisional agenda for FSI 17 with the actual work program for the S/C and its references to the high level action plan for the organization. Japan introduced its paper calling for development of a code governing demonstrations/campaigns against ships on the high seas. Significant discussion occurred about this item on the margins, including at MSC 84, on how best to deal with this tasking from MSC 82. Ultimately, Japan chose to introduce its paper with a recommendation to allow the Safety of Navigation (NAV) Sub-Committee, which is designated as the coordinator, to consider the issue prior to FSI engaging in any substantive way. This recommendation was consistent with the USG position and was quickly agreed by the S/C as the appropriate course of action. The USDEL to NAV 54 has been briefed on the issue and is prepared to suggest a statement or resolution from the organization as a more appropriate output than a code, as MSC has directed. If NAV adopts this approach, the USDEL for MSC 85 will need to be prepared accordingly, when the report from NAV 54 is considered.  
+
+Election of Chairman and Vice-Chairman for 2009 --------------------------------------------- -- 
+
+¶16. The Sub-Committee reelected by acclamation Mrs. Tatjana Krilic of Croatia as chairman and Captain Dwain Hutchinson of the Bahamas as vice-chairman.  
+
+Other Business -------------- 
+
+¶17. Secretariat staff briefly introduced various items related to the IMO's Global Integrated Shipping Information SYSTEM (GISIS). In particular, they noted the use of their new functionality for online update of National Points of Contact and the current status of usage for the Port Reception Facility Database module. The United States supports the efforts of the IMO in the use of GISIS and its future developments. We are regular contributors to various modules of the system, and we are working closely with the IMO regarding the upload of our many reception facilities into their new database.  
+
+Next Session ------------ 
+
+¶18. The chairman announced that FSI 17 is tentatively scheduled for 20-24 April 2009 at IMO Headquarters in London. FSI 16 agreed that the following working groups are expected to be established at FSI 17: casualty analysis, review of the Survey Guidelines under the HSSC (resolution A.948(23)) and the Code for implementation of mandatory IMO instruments, and harmonization of PSC activities. Other major areas of consideration expected to be discussed during FSI 17 will include: Consolidated Audit Summary Reports; PSC Guidelines for the 2004 BWM Convention; Port reception facilities-related issues and comprehensive analysis of difficulties encountered in the implementation of IMO Instruments. LEBARON
