@@ -1,0 +1,60 @@
+08LONDON3199
+POSITIVE OUTLOOK FOR UK NUCLEAR ENERGY EXPANSION
+Mon Dec 22 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy London
+VZCZCXRO2657
+PP RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV RUEHSR
+DE RUEHLO #3199/01 3571754
+ZNR UUUUU ZZH
+P 221754Z DEC 08
+FM AMEMBASSY LONDON
+TO RUEHC/SECSTATE WASHDC PRIORITY 0767
+INFO RUCNMEM/EU MEMBER STATES COLLECTIVE
+RHEBAAA/DEPT OF ENERGY WASHINGTON DC
+RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS SECTION 01 OF 03 LONDON 003199 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE: MHUMPHREY, T BUREAU; COMMERCE:SLOPP 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG TRGY BEXP BTIO UK
+SUBJECT: POSITIVE OUTLOOK FOR UK NUCLEAR ENERGY EXPANSION 
+ 
+REF: A. SECSTATE 127468      B. LONDON 808      C. LONDON 2989  
+
+¶1.  (SBU)  Summary. HMG announced a long-term nuclear energy strategy in January 2008, setting it on a path for tremendous growth over the next ten years.  This strategy addresses the UK's energy security concerns and EU commitments for clean/renewable energy.  The UK hopes to increase the proportion of nuclear energy from the current 15-18 percent level to 30 percent.  The Government is also tackling the concerns of an "aging" workforce through various public-private sector training initiatives related to nuclear.  U.S. companies involved in the UK nuclear energy market -- Westinghouse, CH2M Hill, Fluor, URS, and others -- are positioned to benefit from the expansion of the nuclear sector.  Market dynamics, however, are very dependent on French-owned Electricite de France (EDF's) 12.4 billion GBP purchase of British Energy (BE) and BE's eight nuclear sites.  The European Commission (EC) approved the acquisition on December 22, subject to conditions that include divesting two power plants, concessions on new build, and other agreements related to the wholesale of electricity and the national grid.  It is too early to assess whether EDF's competitors agree whether this "remedy package" goes far enough in opening the market to competition.  End Summary.  
+
+Overall Expansion Plans -----------------------  
+
+¶2. (SBU) In January 2008, HMG produced a white paper on its long-term policy on nuclear energy, stating new nuclear power stations should have a role to play in the UK's future energy mix.  The Government also announced it would launch the application process for investment in new nuclear power stations.  Overall objectives include helping the UK meet the challenges of climate change and addressing energy security concerns due to limitations of oil and gas.  According to the Office of Nuclear Development (OND), which is part of the new Department of Energy and Climate Change, there are ten existing nuclear power stations.  Eight of these nuclear power stations are owned by BE and two by the Nuclear Decommissioning Authority (NDA).  French-owned EDF bid in September 2008 to buy BE, pending approval by the EC.  The EC issued its approval of the acquisition on December 22, pending conditions.  These include commitments by EDF to divest the power generation plant at Sutton Bridge (owned by EDF) and at Eggborough (owned by BE), to sell certain volumes of electricity in the British wholesale market, to divest a site suitable for nuclear new build either at Dungeness or Heysham sites, and to end one grid connection agreement with National Grid at Hinkley Point.  
+
+¶3.  (SBU)  According to OND, there is not a specific number of new sites planned over the next ten years.  The current timeline calls for site assessment/licensing and other planning between 2009 and 2013, and new plants are to become operational by 2018. Nuclear energy comprises approximately 15-18 percent of the UK's current energy mix, and OND expects this percentage to increase to 30 percent long-term.  Many existing nuclear sites are expected to be decommissioned by 2025.  The UK Government expects many of the new nuclear stations will be built on (or near) decommissioned sites since the infrastructure and workforce are already in place in these locations.  
+
+The Government's Role:  No Subsidies ------------------------------------  
+
+¶4. (SBU) The UK Government does not provide any financial incentives to the civil nuclear industry; the "new build" market will be completely paid by the private sector.  OND plays a role by facilitating the site assessment, the design process, and overall policy development.  While members of industry comment on the positive support from the UK Government, they also contend the licensing and site assessment processes are cumbersome.  The Foreign Commonwealth Office (FCO) plays a diplomatic role in facilitating the shipment of spent fuel and in handling concerns raised by UK neighboring countries.  According to one FCO representative, both Sweden and Ireland have raised concerns in the past regarding nuclear safety of plants near their borders.  5. (SBU) While the UK Government currently owns 36 percent of BE, its ownership will decrease substantially now that the EC has approved the acquisition by EDF.  The UK Government stands to receive close to 5 billion GBP from the sale of BE.  LONDON 00003199  002 OF 003    OND notes the UK Government supports the EDF deal, but would like to see a diverse energy market.  There are also no automatic "guarantees" that the sites EDF purchased from BE will meet OND's established site criteria.  
+
+Regulatory Authorities ----------------------  
+
+¶6. (SBU) The Nuclear Installations Inspectorate (NII), which is part of the Health and Safety Executive (HSE), is the primary nuclear regulatory authority.  The NII consists of six divisions and focuses on nuclear safety and security standards.  A site license by the NII can take 2-3 years. OND requires site assessments from businesses interested in developing nuclear sites, but also looks at threats of terrorism and nuclear non-proliferation.  The Nuclear Decommissioning Authority (NDA) is responsible for the decommissioning of old or "legacy" nuclear sites.  The Department of Environment, Food and Rural Affairs (DEFRA) plays a small role in regulating overall environmental protection.  
+
+Liability Regime/Laws ---------------------  
+
+¶7. (SBU) The UK does not have a domestic nuclear liability law.  However, it is signature to the Joint Protocol Relating to the Application of the Vienna Convention and the Paris Convention (September 21, 1988), as well as the Convention on Nuclear Safety (September 20, 1994).  It is also signature to the Joint Convention on the Safety of Spent Fuel Management and on the Safety of Radioactive Waste Management (September 29, 1997).  The UK also established the Nuclear Liability Financing Assurance Board, which scrutinizes the site plans of companies and requires both financing and plans for dealing with nuclear incidents, as well as funding for the decommissioning of a nuclear plant at the end of its life cycle.  The UK is also a partner to the Nuclear Non-Proliferation Treaty.  All IAEA safeguards are applied on all civil nuclear activities.  
+
+Manufacturing and Workforce Base --------------------------------  
+
+¶8. (SBU) The UK has a strong manufacturing base to support the UK nuclear industry.  Nuclear plants are big businesses generating significant revenue and workforce.  Figures provided by the Nuclear Industry Association (NIA) indicate that approximately 40,000 jobs in the UK are directly attributable to the nuclear energy sector.  The largest employers include the Sellafield site (11,000), British Energy (5,400), and the Magnox site (3,600). One concern, however, is that there is a dearth of "new blood" with technical expertise and that most of the workforce is nearing retirement.  To address this challenge, the UK Government and industry have formed partnerships to support investment in skills and training as well as nuclear energy research.  The National Skills Academy for Nuclear works with universities, technical institutes, and trade unions to provide funding for training initiatives.  Sellafield also runs its own nuclear engineering training program (ref B).  In addition, the University of Manchester Dalton Labs has a specialized program focused on nuclear research.  
+
+Opportunities and Concerns for US Industry ------------------------------------------  
+
+¶9. (SBU) U.S. companies, such as Westinghouse, CH2M Hill, and Fluor are very active in the UK nuclear industry sector. Westinghouse is currently one of the producers of the newest technologies, the AP1000 nuclear reactor, and hopes to partner with a UK or foreign electricity provider for the nuclear new build.  Most of Westinghouse's current business is in recycling and exporting spent fuel and uranium to other European countries and Japan.  CH2M Hill is focusing right now on decommissioning work, but hopes to partner with other companies for the nuclear new build.  URS is part of a consortium which received a contract in November 2008 to manage the Sellafield nuclear waste reprocessing facility. Fluor is also very involved in the UK nuclear energy sector.  
+
+Foreign Competitors and Cooperation -----------------------------------  
+
+¶10. (SBU) French-owned EDF and Areva are the biggest foreign players in the UK market.  EDF's acquisition of BE is of concern to US businesses.  It remains to be seen whether the remedy package approved by the EC goes far enough.  Besides  LONDON 00003199  003 OF 003   EDF, other foreign utilities include E.On (Germany), Iberdrola (Spain), RWE (Germany), Endessa (Spain), Suez (France), Union Fenosa (Spain), and Vattenfall (Sweden).  The UK gets most of its uranium (fuel) from Canada and Australia, and OND says this arrangement should not change significantly with the EDF purchase of BE.  The UK is active in the international community in cooperating on nuclear energy issues, and is a member of the European Atomic Energy Community (EURATOM), the Global Nuclear Energy Partnership (GNEP), and the IAEA Safeguards Agreement.  Visit London's Classified Website: XXXXXXXXXXXX
+TUTTLE
+    ...

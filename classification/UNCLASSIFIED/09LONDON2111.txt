@@ -1,0 +1,154 @@
+09LONDON2111
+IMO: REPORT OF THE MARINE ENVIRONMENT PROTECTION
+Thu Sep 10 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy London
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHLO #2111/01 2531914
+ZNR UUUUU ZZH
+R 101914Z SEP 09
+FM AMEMBASSY LONDON
+TO RUEHC/SECSTATE WASHDC 3446
+INFO RUWDQAC/COMDT COGARD WASHINGTON DCUNCLAS LONDON 002111 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: EWWT KGHG PHSA SENV UK
+SUBJECT: IMO: REPORT OF THE MARINE ENVIRONMENT PROTECTION 
+COMMITTEE (MEPC), LONDON, 59TH SESSION,  13-18 JULY, 2009 
+ 
+¶1. SUMMARY: The 59th session of the International Maritime Organization's (IMO) Marine Environment Protection Committee (MEPC) convened 13)18 July 2009 under the chairmanship of Mr. A. Chrysostomou (Cyprus).  Major U.S. policy interests were advanced by MEPC: 1) approving a North American Emission Control Area (ECA) to limit air pollution from ships (para 22), 2) making progress on guidance to reduce greenhouse gas (GHG) emissions through more efficient ship design and operations (para 23), and 3) banning heavy fuel oil for Antarctic operations (para 31).  The meeting was attended by 89 members, 2 associate members, 7 United Nations agencies, 9 intergovernmental organizations, and 43 non-governmental organizations.  All U.S. objectives were achieved.  End summary.  
+
+SUMMARY OF ACTIONS AND ACHIEVEMENTS -----------------------------------  
+
+¶2.  Results from MEPC 59 of particular note include:  A. The approval of amendments to ECA Annex VI to designate the North American Emission Control Area (ECA) as proposed by the United States and Canada and later joined by France.  The amendments will be considered for adoption at MEPC 60;  B. Significant progress on greenhouse gas (GHG) emissions: finalization of 1) guidelines on the voluntary energy efficiency design index (a fuel efficiency standard for new ships), 2) an operational indicator for existing ships, and 3) a ship efficiency management plan;  C. The granting of basic approval for three Ballast Water Management (BWM) systems and final approval for five BWM systems;  D. Agreement that ballast water treatment technologies were available and concluded that no changes to the assembly resolution a.1005(25) were needed with respect to ships constructed in 2010;  E. The adoption of a resolution on the calculation of recycling capacity for satisfaction of the entry-into-force conditions of the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships, 2009.  F. The approval of an amendment to ban the use and carriage of heavy grade oil on ships operating in Antarctica and agreement to circulate the amendment for adoption at MEPC 60;   G. The adoption of amendments to ECA Annex I for a new chapter 8, entitled "Prevention of Pollution during Transfer of Oil Cargo between Oil Tankers at Sea";  H. Approval of a guidance document for minimizing the risk of ship strikes with cetaceans on the basis of the U.S.submittal;  I. The re-establishment of the correspondence group on noise from commercial shipping and its adverse impacts on marine life, under the coordination of the United States;  J. The approval of the inclusion of a high-priority item in the work program of the Design and Equipment Sub-committee on &Development of guidelines for a shipboard oil waste pollution prevention plan8; and,  K. The inclusion of a high-priority item on &Development of a mandatory code for ships operating in Polar waters8 in the work program of the Design and Equipment (DE) Sub-committee, as proposed by United States, Norway and Denmark.  
+
+BALLAST WATER -------------  
+
+¶3.  Regarding applications for ballast water treatment systems using active substances, MEPC 59 agreed to grant basic approval of A) the Blue Ocean Shield Ballast Water Management System proposed by China, B) the Hyundai Heavy Industries Ballast Water Management System (Ecoballast) proposed by the Republic of Korea, and 3) the Aquatricomb Ballast Water Management system proposed by Germany.  
+
+¶4.  The committee agreed to grant final approval to the RWO ballast water management system (Cleanballast) proposed by Germany, the NK-o3 Blueballast System (ozone) proposed by the Republic of Korea, the Hitachi ballast water purification system (Clearballast) proposed by Japan, the Greenship sedinox ballast water management system submitted by the Netherlands.  The committee agreed to deny final approval to special pipe ballast water management system (combined with ozone treatment) proposed by Japan.  
+
+GESAMP BALLAST WATER WORKING GROUP ----------------------------------  
+
+¶5.  The committee considered a number of recommendations from the GESAMP-BWWG (Ballast Water Working Group) following two meetings to review proposals for approval of ballast water management systems using active substances and one meeting to take stock of its work to date.  
+
+¶6.  In considering the GESAMP-BWWG,s recommendation that ballast water management systems which use UV light should be reviewed in accordance with the requirements of procedure (G9), the committee noted the views expressed by the United Kingdom and supported by other delegations, including the USDEL, which disagreed with the blanket approach proposed by the GESAMP-BWWG.  After some discussion, the committee did not agree with the GESAMP-BWWG,s recommendation that all ballast water management systems that use UV light need to be reviewed by IMO.  The committee reiterated the view that the decision on whether a ballast water management system makes use of active substances remains the prerogative of the responsible national administrations and that it is for the national administration to determine if a ballast water management system that uses UV light produces active substances and to decide if it needs to make a proposal for approval to the committee.  
+
+¶7.  The committee concurred with the GESAMP-BWWG,s proposal to change references to &toxicity8 in section 5 of the procedure (G9) to &ecotoxicity8 in order to remove any suggestion that mammalian toxicity studies need to be performed on treated ballast water, and instructed the secretariat to incorporate the necessary changes into future amendments to procedure (G9).  
+
+¶8.  The committee noted a list of more than 70 byproducts which have been detected during the treatment by various ballast water management systems, 18 of which are believed to pose a potential risk to the environment as well as to humans.  The committee asked the GESAMP WG 1 (also known as GESAMP EHS group) to develop hazard profiles for those chemicals.  
+
+¶9.  Following the intervention of the USDEL (stating that procedural issues should be addressed in the procedure (G9)), the committee did not agree with the GESAMP-BWWG,s recommendation for new procedural directions in the &methodology for information gathering and conduct of work of the GESAMP-BWWG.8  
+
+BULK LIQUIDS AND GASES SUBCOMMITTEE ON BALLAST WATER --------------------------------------------- --------  
+
+¶10.  The committee considered the work of Bulk Liquids and Gases (BLG) Subcommittee 13 (2 to 6 March 2009) concerning ballast water management (BWM).  The committee approved the technical circular on clarification regarding the application dates contained in regulation b-3.1 of the BWM Convention.  
+
+¶11. The committee endorsed the BLG sub-committee,s decision to merge the guidance document on the onboard handling and storage of chemicals used to treat ballast water and the guidance document on safety procedures for ship and crew protection against risks associated with the active substance BWM systems.  The merge will create one guidance document titled &Guidance to ensure safe handling and storage of chemicals and preparations used to treat ballast water and the development of safety procedures for risks to the ship and crew resulting from the treatment process.8  The committee approved the consolidated guidance document for dissemination as a technical circular.  
+
+BALLAST WATER REVIEW GROUP --------------------------  
+
+¶12.  A ballast water review group met under the chairmanship of Canada (Chris Wiley) to consider and discuss: 1) the current status of ballast water treatment technologies and provide an estimate of how many of them will be available for ships constructed in 2010; 2)whether there are sufficient type-approved technologies for ships subject to regulation b-3.3 constructed in 2010, and recommend an appropriate course of action for consideration by the committee; and 3)issues associated with the use of potable water as ballast water.  
+
+¶13.  In noting the items listed below, the committee agreed that ballast water treatment technologies were available and are currently being fitted on board ships.  The committee confirmed that a sufficient number of ballast water management systems would be available for ships constructed in 2010.  Due to recent global economic downturn, the  building of many new ships has been delayed or even cancelled and, as such, the number of ships expected to be built in the year 2010 subject to regulation b-3.3 will, in all probability, decrease significantly.  The number of ballast water treatment technologies available has increased significantly to six type-approved systems and eight additional systems holding final approval after this session.  The prediction of manufacturing capability in the Lloyd,s Report of 2008 was supported by Germany,s observation that six systems developed under the supervision of their administration alone would produce approximately 800 ballast water management units by 2010.  
+
+¶14.  The committee noted that postponing the dates stipulated in resolution a.1005(25) would not be beneficial to the implementation process and would send the wrong message to the world.  Moreover it would not stimulate the installation of new ballast water technologies on board ships.  Therefore, the committee concluded that no changes to the assembly resolution a.1005(25) were needed with respect to ships constructed in 2010.  
+
+¶15.  Recognizing that a proactive approach would best serve the interests of the industry at this stage, the committee instructed the Secretariat to prepare a draft MEPC resolution requesting administrations to encourage the installation of ballast water management systems during new ship construction in accordance with the application dates contained in the BWM Convention, to be presented to MEPC 60 for consideration and adoption.  
+
+¶16.  The committee noted extensive discussions held by the review group on the matter of the intent of the usage of potable water as ballast, the definitions of ballast water and potable water, and the chemicals that could be potentially discharged (particularly residual chlorine).  The committee agreed that if potable water is used as ballast water then the potable water should be subject to the Ballast Water Management Convention.  The committee further concluded that there are options for evaluating technologies for producing potable water for use as ballast available under guidelines (G8) or procedure (G9), as appropriate, or under the &procedure for assessing other methods of ballast water management8 currently under development by the BLG sub-committee.  The committee agreed to re-visit this issue when the latter procedure is finalized.  
+
+¶17.  The committee agreed to conduct a new review of the status of ballast water technologies before the 2010 application date, or before the entry into force of the convention, and to re-establish the ballast water review group during MEPC 61 for this purpose in accordance with the provisions contained in regulation d-5.1 of the convention.  
+
+SHIP RECYCLING --------------  
+
+¶18.  The committee convened a ship recycling work group (SRWG), which met under the chairmanship of United Kingdom (Katy Ware).  The correspondence group (CG) that preceded MEPC 59, led by Japan, developed draft &guidelines for the inventory of hazardous materials8 and identified nine major issues that the CG could not resolve in the inventory guidelines.  Initially there was clear disagreement within the SRWG on many of these issues.  However, agreement on all the issues was achieved and a substantial rewrite of the draft guidelines was produced.  Key aspects of the resulting guidance included: 1) the establishment of threshold levels for most of the hazardous materials of concern, below which they do not need to be listed in the inventory; 2) recommended procedures for identifying hazardous materials during the construction of new ships; 3) recommended procedures for developing an inventory for existing ships; 4) an exemplary list of ship components that may contain hazardous materials; and 4) a suggested process for verifying the presence of hazardous materials on ships using visual and sampling techniques. The committee adopted the inventory guidelines by resolution.  
+
+¶19. The committee re-established an intersessional correspondence group coordinated by Japan to further develop the facility guidelines. The United States proposal for the ship recycling facility guidelines was approved as the base document for further work by the committee.  The U.S. approach is likely to result in a less prescriptive, more performance-based document that will have wider applicability and acceptance.  
+
+¶20. The committee noted the suggested sequence of development of additional ship recycling guidelines.  After the ship recycling guidelines, the United States believes the &ship recycling plan8 and &authorization of ship recycling  facilities8 guidelines are the most critical, and we intend to submit proposals on these two topics for MEPC 60.  
+
+¶21. The committee adopted a resolution on the calculation of recycling capacity for meeting the entry-into-force conditions of the Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships, 2009.  
+
+AIR POLLUTION EMISSION CONTROL AREAS ------------------------------------  
+
+¶22. The committee approved the U.S. and Canadian proposal for the North American Emission Control Area (ECA).  This was the most significant issue for the United States at this session.  A number of countries raised both substantive and procedural issues including: 1) the size of the ECA (200 mi from coast), 2) intersection with the Exclusive Economic Zone (EEZ), 3) co-sponsorship by Canada (which is not a party to ECA annex vi), 4) the timing of the adoption of ECA related amendments (in relation to the acceptance date of the revised annex), and 5) the timing of the ECA,s entry into force, (in relation to the entry into force date of the revised annex). Due to the superb efforts and advance work in the lead up to MEPC 59 by the USDEL, these issues were thoroughly addressed to the complete satisfaction of the committee. Praise was received for the thoroughness and completeness of the submittal, including its attention to all criteria for ECA designation.  The U.S.-Canada submission has set a high standard for future ECA submittals.  In the end, France joined as a co-sponsor of the North America ECA due to the inclusion of the Saint-Pierre and Miquelon archipelago.  The necessary amendments to ECA annex VI to establish the ECA were approved and they will be considered for adoption at MEPC 60 (March 2010).  Once adopted, the amendments will enter into force sixteen months later.  The only change required is for the United States, Canada and France to provide the exact coordinates for the ECA.  
+
+GREENHOUSE GAS EMISSIONS (GHG) ------------------------------  
+
+¶23. MEPC 59 made significant progress on GHG by finalizing and circulating to members guidelines on the voluntary energy efficiency design index (a fuel efficiency standard for new ships), an operational indicator for existing ships, and a ship efficiency management plan.  For the first time, the committee had an in-depth discussion on market-based measures. The MEPC also created a timeline, which culminates at MEPC 62 (July 2011) and will ideally result in a decision regarding a preferred market-based measure. The United States will actively work to make the design index mandatory at MEPC 60 (March 2010,) as well as to work productively in the discussion on market-based measures.  Developing countries remain adamant about not being required to participate in any mandatory measure to address greenhouse gases, creating a hurdle for expedited decisions.  Large developing countries were particularly critical of a maritime emissions trading system and a levy on bunker fuels.  This opposition might promote acceptance of the U.S. proposal to create an efficiency standard for existing ships.  However, getting acceptance of the U.S. paper will still be difficult, as will our efforts to get agreement at MEPC 60 on making the design index mandatory for new ships.  
+
+Prevention of Pollution during Transfer of Oil Cargo Between Oil Tankers at Sea --------------------------------------------- -------  
+
+¶24. The committee adopted, by overwhelming majority, the proposed chapter 8 of ECA Annex I, entitled "Prevention of Pollution during Transfer of Oil Cargo between Oil Tankers at Sea" including consequential amendments to the supplement to the International Oil Pollution Prevention (IOPP) Certificate, form B.  The USDEL intervened to request deletion of the proposed requirement in draft reg. 42.1 for advance notification of such transfers in the EEZ of a state party coastal state, absent a port entry from either oil tanker.  Although seven states spoke in support of the USG position, 25 states spoke against the USG position.  The leading opponent of the USG position was the United Kingdom, and their position had broad support from EU states and other states.  The Iranian comments presented in their submission 59/5/2 resulted in no serious consideration of any amendments.  This was in part because Iran had many of their concerns addressed and resolved prior to introducing their paper.   
+
+Interpretations And Amendments to ECA and ECA Instruments --------------------------------------------- ------------  
+
+¶25.  The committee reviewed work and noted the progress of  the ECA Annex V Correspondence Group, which has been working to review and possibly amend Annex V and its implementing guidelines.  The committee agreed to continue the work of the correspondence group under the coordination of New Zealand; Canada was the previous coordinator.  The group has been asked to consider and draft amendments to the guidelines where appropriate.  The group will take into account the following items: 1) definitions of terms used in Annex V and its implementing guidelines, 2) a general prohibition on discharge of garbage, 3) a general obligation for waste minimization on ships, 4) measures to reduce the accidental loss of fishing gear, 5) the availability of adequate port reception facilities, and 6) the management of cargo residues.  The target completion date for the Annex V review is 2010.  The boundary group, designed to coordinate activities between the London Convention/London Protocol and Annex V, was suspended pending final review of Annex V and the guidelines.  
+
+¶26.  The observer delegations of Bimco and Intercargo introduced a paper contending that the designation of the Persian Gulf and Mediterranean as special areas had not considered the issue of cargo residues and cargo hold washing water; that reception facilities are not adequate, and that bulk carriers needed to discharge those materials.  Bimco and Intercargo requested permission to discharge cargo residue and washings beyond the 12 nautical miles limit in those special areas.  
+
+¶27.  The committee, recognizing that the issue was linked to the ongoing review of ECA Annex V, agreed to issue an MEPC circular to the effect that: 1) cargo hold washing water, containing the remnants of any dry cargo material, generated in connection with the ship cleaning its cargo holds is not to be considered garbage under Annex V within the Persian Gulf area and Mediterranean sea area; and 2)such cargo hold washing water may be discharged at a greater distance than 12 nautical miles from shore within these areas.  Cargo residues in the washing water must not originate from a cargo material that is classified as a marine pollutant in the International Maritime Dangerous Goods (IMDG) Code.  
+
+¶28.  The committee agreed that the circular should be revisited in light of the outcome of the consideration of this matter during the deliberations of the correspondence group on Annex V.  
+
+IDENTIFICATION AND PROTECTION OF SPECIAL AREAS AND PARTICULARLY SENSITIVE SEA AREAS --------------------------------------------- -  
+
+¶29. The committee noted that the Maritime Safety Committee (MSC) 85 had adopted, by resolution MSC.279(85), amendments to the existing mandatory ship reporting systems for &the Papahnaumokukea Marine National Monument8, &Coral Shiprep8, which had been disseminated by means of SN.1/Circ.273.  
+
+REPORTS OF SUB-COMMITTEES - ANTARCTIC FUEL ------------------------------------------  
+
+¶30. The Dangerous Goods, Solid Cargoes and Containers (DSC) Subcommittee 13 (DSC 13) identified two areas where ECA Annex III requirements differ from or conflict with Convention on the Safety of Life at Sea (SOLAS) and the IMDG code.  It was determined that an amendment to Annex III was necessary to reconcile those differences or conflicts.  This amendment was placed on the work program for DSC14.  
+
+¶31.  MEPC 59 considered an amendment forwarded by the Bulk Liquids and Gases (BLG) Subcommittee 13 (BLG 13) to ban the use and carriage of heavy grade oil in Antarctica.  Although the Cruise Lines International Association (CLIA), supported by a few delegations, proposed to delay the entry into force of any such amendment by two years because it claimed that there was a need to accommodate fuel contracts, this proposal was overwhelming defeated and the amendment approved.  It will be circulated for adoption at MEPC 60.  
+
+WORK OF OTHER BODIES --------------------  
+
+¶32.  MEPC 59 noted that Maritime Safety Committee 86 (MSC 86) agreed that the practice of blending of cargoes should be prohibited while at sea and that mandatory provisions should be developed.  The committee agreed with this recommendation and an appropriate item was placed on the work program of the BLG subcommittee. In the interim, the committee also agreed with MSC 86 and approved a MSC-MEPC circular concerning prohibition of blending operations on board at sea.  
+
+HARMFUL ANTI-FOULING SYSTEMS (AFS) FOR SHIPS  --------------------------------------------  
+
+¶33. The committee considered draft &guidance on best management practices for removal of anti-fouling systems from ships, including TBT hull paints8 that was developed by the scientific groups under the London Convention.  The committee agreed the issue of in-water cleaning of a ship,s hull, which was included in the draft guidance, required further consideration.  The committee referred that issue to the BLG sub-committee for consideration under the agenda item on bio-fouling.  The committee agreed that the guidance should be limited for now to the removal of harmful anti-fouling systems and that the text and other references related to in-water hull cleaning from the guidance would be removed. Subject to those modifications, the committee approved the guidance and instructed the Secretariat to disseminate it through an AFS circular under the anti-fouling convention.  
+
+ROLE OF THE HUMAN ELEMENT -------------------------  
+
+¶34.  The committee established the joint MSC/MEPC working group on the human element and took the following actions. The committee noted the discussion of the MSC/MEPC WG on the review of the investigation report of the MSC Napoli casualty in order to report on its recommendations and whether or not further action was needed by the Maritime Safety Committee or Flag State Implementation Sub-Committee.  The committee determined that no further action or guidance was required.  
+
+¶35.  Following an agreement made at MSC 86, the committee noted the MSC/MEPC WG discussion concerning the establishment of a joint ad hoc IMO/International Labor Organization (ILO) working group to consider matters of common interest to the two organizations.  The committee noted the group concluded that such a joint working IMO/ILO working group should only be established on an ad hoc basis with specific terms of reference to consider discrete matters of common interest. Accordingly, the group prepared draft terms of reference for a joint ad hoc working group to consider guidelines for medical examinations of seafarers and the revision of existing recommendations for ship's medicine chests.  
+
+¶36.  The committee noted the MSC/MEPC WG, in considering a proposal to amend the International Safety Management (ISM) Code to establish the role of the seafarer's representative, recognized the position is already mandated through the ILO,s Maritime Labor Convention of 2006, and therefore did not support the inclusion of requirements for the seafarer safety representative in the ISM code.  
+
+¶37.  Subsequently, the committee noted the Standard,s of Training and Watchkeeping (STW) subcommittee,s ongoing discussions concerning the training requirements for the seafarer safety representative (SSR).  The committee, subject to concurrent decision at MSC87, agreed to develop guidance to address training for the SSR and disseminated by means of a MSC-MEPC.7 circular.  Accordingly, the committee prepared a draft circular for consideration at MSC87.  Furthermore, the committee instructed STW there was no need for it to consider this issue any further.  
+
+¶38.  Finally, the committee reviewed the draft text of guidelines on implementation of the ISM code by administrations as prepared by MSC at its 84th session (MSC84 wp.6).  The committee finalized the guidelines along with draft assembly resolution to superceed assembly resolution a.913(22) with a view for adoption at a26.  
+
+FORMAL SAFETY ASSESSMENT ------------------------  
+
+¶39.  The committee considered matters related to the ongoing work of the correspondence group on the development of environmental risk evaluation criteria as well as the ongoing work of the formal safety assessment (FSA) expert review group.  After receiving the report of the correspondence group as well as submissions intended to further the development of such criteria, the committee agreed to continue the correspondence group in order to expedite final development of environmental risk evaluation criteria.  
+
+SHIP STRIKES AND CETACEANS --------------------------  
+
+¶40.  The committee considered the issue of the development of a guidance document for minimizing the risk of ship strikes with cetaceans (whales and dolphins).  The U.S. submittal to MEPC 58 (58/18) was adopted by the committee as the base document at MEPC 59. The International Federation of Animal Welfare (IFAW) recommended the guidance contain an annex on measures to minimize ship strikes during off-shore  recreational boating events.  Noting there were no written submissions concerning the U.S. proposal, the committee included the IFAW comments in preparation of the MEPC circular which was subsequently approved.  
+
+SHIPPING NOISE AND MARINE MAMMALS ---------------------------------  
+
+¶41.  The USDEL presented the correspondence group report on the issue of noise from commercial shipping and its adverse impacts on marine life.  Several delegations supported this report and the work of the correspondence group and called for it to continue.  The committee thus re-established the group under the coordination of the United States and directed it to take into account the research issues presented.  The committee called upon member states to encourage the review of their vessels with an aim to assessing those vessels that create the most noise and provide this information to the correspondence group.  
+
+WORK PROGRAM OF THE COMMITTEES AND SUBSIDIARY BODIES --------------------------------------------- -------  
+
+¶42. The committee approved the proposal by the United States to develop guidelines for a shipboard oil waste pollution prevention plan and included a high-priority item in the work program of the Design and Equipment (DE) sub-committee.  
+
+¶43. Mandatory requirements for Polar regions: the committee noted the proposal by Denmark, Norway and the United States (MEPC 59/20/1) to develop mandatory requirements for application in the Polar regions to be coordinated by the DE sub-committee with a target completion date of two sessions. These countries made the same proposal to the Maritime Safety Committee (MSC 86) which had subsequently approved the proposed work program item.  The committee concurred with the decision of MSC 86.  
+
+ELECTION OF THE CHAIRMAN AND VICE-CHAIRMAN FOR 2010 --------------------------------------------- ------  
+
+¶44.  Mr. Andreas Chrysostomou (Cyprus) was unanimously re-elected as MEPC Chairman and Captain Manuel Nogueira (Spain) was elected as Vice-Chairman.  
+
+NEXT SESSION OF MEPC 60 WILL BE HELD 22-26 MARCH 2010 --------------------------------------------- --------  
+
+¶45.  The committee agreed, in principle, to establish the following working/review/drafting groups at MEPC 60: working group on greenhouse gas (GHG) issues; working group on guidelines for ship recycling; working group on environmental risk evaluation criteria and a drafting group on amendments to mandatory instruments.  The committee also agreed to establish the following intersessional correspondence groups which will report to MEPC 60: environmental risk evaluation criteria, review of ECA Annex V, development of ship recycling guidelines, noise from commercial shipping and adverse impacts on marine life.  Visit London's Classified Website: XXXXXXXXXXXX 
+SUSMAN
