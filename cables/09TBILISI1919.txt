@@ -3,3 +3,43 @@ GEORGIA: RADIOACTIVE MATERIAL CROSSES THE BORDER
 Wed Oct 21 00:00:00 +0200 2009
 CONFIDENTIAL
 Embassy Tbilisi
+VZCZCXRO5918
+PP RUEHDBU RUEHFL RUEHKW RUEHLA RUEHNP RUEHROV RUEHSL RUEHSR
+DE RUEHSI #1919 2941249
+ZNY CCCCC ZZH
+P 211249Z OCT 09 ZDK
+FM AMEMBASSY TBILISI
+TO RUEHC/SECSTATE WASHDC PRIORITY 2345
+INFO RUEHZL/EUROPEAN POLITICAL COLLECTIVE PRIORITY
+RUEKJCS/OSD WASHINGTON DC PRIORITY
+RHMFISS/DEPT OF ENERGY WASHINGTON DC PRIORITY
+RHEHAAA/NATIONAL SECURITY COUNCIL WASHINGTON DC PRIORITY
+RHMCSUU/FBI WASHINGTON DC PRIORITY
+RUEAHLC/HOMELAND SECURITY CENTER WASHINGTON DC PRIORITY
+RUEANFA/NRC WASHINGTON DC PRIORITY
+RUEHUNV/UNVIE VIENNA PRIORITY
+RHMFISS/US CUSTOMS AND BORDER PROTECTION WASHINGTON DC PRIORITYC O N F I D E N T I A L TBILISI 001919 
+
+SIPDIS 
+
+EO 12958 DECL: 10/19/2019 
+TAGS PARM, PGOV, PREL, KNNP, DOE, GG 
+SUBJECT: GEORGIA: RADIOACTIVE MATERIAL CROSSES THE BORDER 
+
+REF: TBILISI 207
+
+Classified By: Deputy Chief of Mission Kent Logsdon for reasons 1.4 (b)  AND (d).
+
+¶1. (C) Summary. On August 26, a car carrying three Armenian citizens entered Georgia from Armenia at the Sadakhlo border crossing. The car set off a gamma alarm on the radiation detection portal monitor. The driver provided a cursory explanation for the alarm, and the patrol police did not detain the group. On August 27, the same car returned to Armenia through the Sadakhlo crossing, and again set off a gamma alarm. At this point, the patrol police detained the occupants and searched the vehicle. Georgian officials determined that the car was contaminated with Cesium-137. However, because the search did not produce any radioactive material, the occupants were released and returned to Armenia. An FBI officer is currently following up with the Government of Armenia on the case. End summary.
+
+¶2. (C) Comment. This incident shows the value of radiation detection portal monitors at ports of entry in Georgia, which have been installed across the country over the last several years by the Department of Energy/National Nuclear Security Administration/Second Line of Defense (SLD) program. Without the monitors, this car would have probably entered and exited Georgia with no one knowing that radioactive material may have been brought across the border. Officers with the Patrol Police, Border Police and Georgian Customs have received, and continue to receive, training from the United States on detecting and deterring radioactive and nuclear material smuggling. This includes instruction on how to operate the portal monitors. This incident also reveals that some training gaps remain within the patrol police on how to appropriately handle alarms. This vortex of knowledge likely results from the fairly recent (January 2009) assumption of responsibility of ports of entry by the patrol police (reftel). End comment.
+
+GAMMA ALARM ON THE WAY INTO GEORGIA
+
+¶3. (C) On August 26, a car carrying three Armenian citizens entered Georgia from Armenia at the Sadakhlo border crossing.  As the car passed through the radiation detection portal monitors, it set off a gamma alarm. The patrol police manning the port of entry briefly detained the vehicle to try and determine the reason for the alarm. The driver of the vehicle said that he had recently had surgery, during which time a radioactive isotope was injected into his body. The patrol police accepted this explanation, requiring no documentation or proof from the driver, and allowed the vehicle and occupants to enter Georgia (Note: According to standard procedures, the driver should have had a doctor’s note or some documentation confirming this. End note).
+
+GAMMA ALARM ON THE WAY OUT OF GEORGIA
+
+¶4. (C) On August 27, the same car, carrying the same three Armenian citizens, returned to the Sadakhlo border crossing to exit from Georgia. The car again set off the gamma alarm on the radiation detection portal monitor. At this point, the occupants were detained and the patrol police, using a handheld pager, determined that the car was contaminated with Qhandheld pager, determined that the car was contaminated with Cesium-137 (Cs-137). However, a search of the vehicle failed to produce any radioactive material. An official with Georgia’s Nuclear and Radiation Safety Service (NRSS) was called to the site, and confirmed that there was Cs-137 contamination covering almost the entire car, even in the ventilation system. A cloth in the car produced the highest radiation reading.
+
+¶5. (C) The occupants of the vehicle were questioned, and one of the detainees told the investigator that he may have been contaminated while at a radio station near his village in Armenia. Because no radioactive material was found, the occupants were released and sent back to Armenia. Using pictures of the alarms from the monitors as evidence that the alarm did go off as the car entered Georgia, thereby establishing that the material originated in Armenia vice Georgia, the FBI’s Regional WMD Coordinator is currently following up with the Government of Armenia on this case. BASS
