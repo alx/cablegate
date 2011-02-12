@@ -3,3 +3,261 @@ DUTCH UNVEIL THEIR 14-BIT ADC PARTS CONTROL PLAN
 Tue Feb 22 00:00:00 +0100 2005
 SECRET
 Embassy The Hague
+This record is a partial extract of the original cable. The full text of the original cable is not available.S E C R E T SECTION 01 OF 03 THE HAGUE 000484 
+
+SIPDIS 
+
+STATE FOR NP/ECNP AND EUR/UBI/HOLLIDAY 
+DOD FOR U/S WYNNE, U/S BRONSON AND N. BRELAND 
+
+E.O. 12958: DECL: 02/18/2009 
+TAGS: ETTC KSTC PARM NL CH
+SUBJECT: DUTCH UNVEIL THEIR 14-BIT ADC PARTS CONTROL PLAN 
+
+REF: A. 2004 STATE 239012 
+
+¶B. 2004 THE HAGUE 3156 (NOT ALL) 
+
+Classified By: Richard Huff, Econ Counselor, for reasons 1.4 (b) and (d 
+). 
+
+1 (S) Over the last two years, Defense and State export 
+control officials have been working with the GONL towards 
+agreement on rules governing sales of 14-bit analogue to 
+digital converters (ADCs) to Chinese companies. Most 
+recently, on 14 November, 2004 State NP/ECNP and DOD officers 
+briefed Dutch Ministry of Defense (MOD), Economic Affairs 
+(MEA) and Foreign Affairs export control staff on Chinese 
+end-users (ref A). At that meeting the Dutch said Philips 
+Electronics had pending sales of 14-bit ADCs to Chinese 
+companies. The GONL favored a parts control program to 
+govern these sales, and promised to share their plan with us 
+as soon as it was ready (ref B). 
+
+¶2. (S) On February 11, 2005, MOD officials provided post's 
+Office of Defense Cooperation with a letter from Dutch MOD 
+Armaments Director RADM Dirk van Dord to Acting U/S Michael 
+Wynne and Deputy U/S Lisa Bronson (para three), an advance 
+copy of the Dutch parts control plan (para four) and an annex 
+to the plan (para five). MEA officials told us Dutch State 
+Secretary for Trade Karien van Gennip will provide the USG 
+
+SIPDIS 
+with an official copy of the plan and annex, probably in 
+March. ODC has forwarded the letters to their principals. 
+Text of the letter, plan and annex follow. 
+
+----------------------------------------- 
+COVER LETTER TO U/S WYNNE AND U/S BRONSON 
+----------------------------------------- 
+
+¶3. (S) Begin text of letter: 
+
+The Hague, 11 February 2005 
+
+The last two years we discussed the subject of the 14-bit 
+Analogue Digital Converters (ADCs), the potential export of 
+ADCs by Philips to the People's Republic of China (PRC), in 
+several bilateral meetings. After having evaluated all the 
+relevant aspects, the Ministry of Economic Affairs will 
+inform the United States government about the position of the 
+Dutch government. The purpose of this letter is to inform 
+you about this letter and to provide background information 
+on the decision. 
+
+The Dutch government will apply strict export conditions to 
+the supply of high speed 14-bit analogue-to-digital 
+converters (ADCs) to Chinese manufacturers of 
+telecommunication equipment. The conditions have been 
+accepted by Philips Electronics (see annex). 
+
+The decision to apply these specific conditions was taken 
+after due consideration of all relevant aspects presented in 
+several US non-papers, the bilateral meetings as well as the 
+identical letters sent by the Deputy Secretaries Kassinger, 
+Armitage and Wolfowitz in August 2004 to State Secretary Van 
+Gennip, Minister Bot and State Secretary Van der Knaap 
+respectively. 
+
+You will notice that the conditions laid down in the parts 
+control plan bare a close resemblance to the license 
+conditions agreed on by the (US) Advisory Committee on Export 
+Policy with regard to an application, more than a year ago, 
+by (a) US exporter(s) of 14-bit ADCs to Chinese entities and 
+in that sense constitute the sought after level of 
+harmonization of conditions as set by the export control 
+authorities in both our countries. 
+
+You may also notice that the Netherlands export control 
+authorities have not in advance limited the applicability of 
+these conditions to any particular Chinese manufacturers of 
+telecommunication equipment or for example excluded certain 
+such manufacturers by virtue of stock ownership (i.e. no 
+distinction between wholly and non-wholly owned PRC 
+companies). Specifically included within the scope of these 
+conditions are contracts with manufacturers based outside 
+China but with (known intended use of) production facilities 
+in China. By thus expanding rather than limiting the scope 
+of harmonized conditions, unwarranted distortion of the 
+Chinese market for telecommunication equipment incorporating 
+high speed 14-bit ADCs is avoided. As long as the production 
+of these 14-bit ADCs is limited to companies based in either 
+the US or the Netherlands all such ADCs entering the Chinese 
+market as bulk supply of parts will in fact be covered by a 
+similar parts control plan. 
+
+To conclude, I assure you that this issue has kept my 
+personal attention all the time. Please be aware that to 
+ensure that all the defense interests would be addressed, the 
+final parts control plan was formulated in close co-operation 
+with my staff. If you need any clarification, please do not 
+hesitate to contact me personally. 
+
+Dirk van Dord 
+Rear Admiral 
+
+END TEXT. 
+
+------------------ 
+PARTS CONTROL PLAN 
+------------------ 
+
+¶4. (S) Begin text of Parts Control Plan: 
+
+SECRET - RELEASABLE TO THE UNITED STATES OF AMERICA 
+
+SIPDIS 
+
+NETHERLANDS' APPROACH TO DELIVERIES OF ADCs TO CHINESE 
+ENTITIES 
+
+Conditions set by the Netherlands export control authorities 
+and agreed to by Koninklijke Philips Electronics N.V. 
+(Philips) to the supply (supply is understood to mean the 
+actual delivery of ADCs to production facilities where these 
+ADCs are processed into telecommunication equipment or into 
+assembled parts of such equipment, irrespective of the 
+question whether the ADCs are sold directly to the 
+manufacturers involved or through intermediates.) of high 
+speed 14-bit analogue to digital converters (hereafter: 
+14-bit ADCs) to manufacturers of telecommunications equipment 
+in the People's Republic of China (hereafter: Chinese 
+manufacturers). 
+
+Before signing a contract for the supply of 14-bit ADCs to 
+any Chinese manufacturer Philips will establish that the 
+relevant contract, be it with a Chinese manufacturer or an 
+intermediate, contains clauses to effectively assure that: 
+
+¶1. all 14-bit ADCs that are to be supplied under this 
+contract will solely be used for the manufacture of base 
+stations or parts thereof for civilian communication purposes; 
+
+¶2. telecommunication equipment or assembled parts of such 
+equipment containing these 14-bit ADCs can only be sold to 
+telecommunications operators or any other third party after 
+receipt of an end-use statement by such a third party 
+declaring that the equipment or assembled parts will solely 
+be used for civilian communication purposes; 
+
+¶3. the supply of these 14-bit ADCs will occur according to 
+an agreed parts control plan with the features described in 
+the delivery procedure in Annex 1; 
+
+¶4. the person(s) who will be responsible for the proper 
+implementation of the parts control plan and its delivery 
+procedure is (are) identified by name and function; 
+
+¶5. all parties concerned agree - or will have agreed in 
+advance of any supply to them - to provide Philips with all 
+information required to enable Philips to report on the 
+implementation of the parts control plan to the Netherlands 
+export control authorities; 
+
+¶6. no objections exist or will be raised against audits to 
+be performed by or on behalf of the Netherlands Government on 
+the implementation of the parts control plan at the 
+manufacturers site. 
+
+Prior to the first regular supply of 14-bit ADCs to any 
+Chinese manufacturer of telecommunications equipment or parts 
+thereof, Philips will be allowed, under the conditions 
+described above, to supply a set of samples in a quantity - 
+yet to be decided - that will not exceed the number 
+appropriate for testing and prototype manufacturing purposes. 
+
+Should Philips be asked to supply 14-bit ADCs to a 
+manufacturer outside China, but with (the use of) production 
+facilities in China, then the relevant contract must 
+stipulate that all the clauses mentioned above as well as the 
+delivery procedure described in Annex 1 will apply in full to 
+any shipments of 14-bit ADCs to such production facilities in 
+China. 
+
+END TEXT 
+
+¶5. (S) Begin text of Annex. 
+
+------- 
+ANNEX 1 
+------- 
+
+Annex 1 - Delivery Procedure 
+
+Physical deliveries will be made to manufacturers, not to 
+intermediates. Invoicing, however, can be done as required. 
+
+Philips will register the date, the amount of ADCs involved 
+and the particular recipient of every relevant shipment. 
+
+Each recipient will register the date and the amount of ADCs 
+involved of every shipment received with a reference to the 
+supplier's order/delivery number. 
+
+Since the total stock at Chinese manufacturers production 
+sites may not exceed the amount of ADCs necessary for two 
+weeks production the Chinese manufacturer will provide 
+Philips either directly or trough any intermediate supplier 
+with the following documentation for each production site: 
+
+- A detailed production schedule for the period of three 
+weeks starting the day the order is placed and specifying the 
+exact quantity of 14-bit ADCs need to complete that 
+production plan; 
+
+- The exact quantity of 14-bit ADCs on stock at the moment of 
+ordering; 
+
+- A declaration containing the exact quantity of 14-bit ADCs 
+destroyed because of malfunctioning of PCB's or base stations 
+and a precise description of the manner in which these ADCs 
+were destroyed. This declaration must cover the period 
+between the date of the previous order and the date of the 
+new order and it must be signed by the quality control 
+manager of the production site in question. 
+
+The volume of any follow on supply will be adjusted if a 
+report by the Chinese manufacturer shows a significant 
+deviation from the anticipated volume for two weeks 
+production. 
+
+Philips will archive all information on the implementation of 
+the parts control plans and will make this information 
+available for scrutiny by the Netherlands export control 
+authorities upon request. 
+
+Philips will provide the Netherlands export control 
+authorities with a quarterly summary report on the 
+functioning of the parts control plans as well as on the 
+quantity of ADCs supplied to Chinese manufacturers under 
+those parts control plans. 
+
+Philips will inform the Netherlands export control 
+authorities forthwith of any irregularities it notices in the 
+figures or in case it has reason to believe that any Chinese 
+manufacturer or intermediate involved in the parts control 
+plans is not compliant with these conditions. 
+
+END TEXT. 
+
+SOBEL
