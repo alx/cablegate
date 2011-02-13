@@ -3,3 +3,68 @@ IMO: SUB-COMMITTEE ON SAFETY OF NAVIGATION,
 Tue Aug 05 00:00:00 +0200 2008
 UNCLASSIFIED
 Embassy London
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHLO #2036/01 2181152
+ZNR UUUUU ZZH
+R 051152Z AUG 08
+FM AMEMBASSY LONDON
+TO RUEHC/SECSTATE WASHDC 9404
+INFO RUWDQAC/COMDT COGARD WASHINGTON DC//CG-001/CG-ACO-I//
+RUWDQAC/COMDT COGARD WASHINGTON DC//CG-094/CG-2/CG-5/CG-52//
+RUWDQAC/COMDT COGARD WASHINGTON DC//CG-521/CG-522/CG-523//
+RUWDQAC/COMDT COGARD WASHINGTON DC//CG-534/CG-541/CG-544//
+RUWDQAC/COMDT COGARD WASHINGTON DC//CG-545/CG-543/CG-62/CG-7M//UNCLAS LONDON 002036 
+ 
+SIPDIS 
+ 
+STATE PLEASE PASS TO DOD, DOJ, NOAA, FCC, AND MARAD 
+ 
+E.O. 12958: N/A 
+TAGS: AORC EWWT PHSA SENV UK KTIA
+ 
+SUBJECT: IMO: SUB-COMMITTEE ON SAFETY OF NAVIGATION, 
+REPORT OF THE 54TH SESSION, LONDON, JUNE 30 TO JULY 4, 2008  
+
+¶1. SUMMARY: The 54th session of the Sub-Committee (S/C) on Safety of Navigation (NAV 54) was held from June 30 to July 4 2008, under the chairmanship of Mr. K. Polderman (Netherlands). The session was attended by 65 member governments, one associate member government, one IMO non-member, and 25 United Nations, intergovernmental and nongovernmental organizations. The S/C unanimously elected Mr. J. M. Sollosi (United States) as the new chairman and elected Mr. Raja Datuk Malik (Malaysia) as the new vice-chairman for 2009. All U.S. objectives were achieved. Major accomplishments of NAV 54 were: the Sub- Committee approved U.S. proposals to establish a seasonal Area To Be Avoided (ATBA) in the Great South Channel, amendments to the traffic separation scheme (TSS) in the approach to Boston and establishment of an ATBA and two No Anchoring Areas (NAAs) in the vicinity of a planned deepwater port; the Sub-Committee approved a draft strategy for e-navigation and a draft framework for implementing the strategy; the Sub-Committee approved draft amendments to Safety of Life at Sea (SOLAS) regulation V/19 to establish type and tonnage of ships and entry into force dates for mandatory carriage of Electronic Chart Display and Information Systems (ECDIS); the Sub-Committee prepared a draft Maritime Safety Committee (MSC) resolution on the responsibilities of ships involved in protests on high seas; and approved draft amendments to SOLAS regulation V/19 to reflect a new carriage requirement for a bridge navigational watch alarm system (BNWAS). END SUMMARY.  
+
+Routing of ships, ship reporting and related matters --------------------------------------------- ------ 
+
+¶2. The Sub-Committee approved 14 new or amended ships' routing or reporting measures, including U.S. proposals to establish a seasonal Area To Be Avoided (ATBA) in the Great South Channel off the Massachusetts coast, amendments to the Traffic Separation Scheme in the approach to Boston and an ATBA and two No Anchoring Areas in the vicinity of the proposed Excelerate Northeast Gateway Energy Bridge. The S/C approved amendments to the existing ship reporting system for the Papahanaumokuakea Marine National Monument to simplify the coordinates of the boundaries to facilitate use and compliance by mariners. MSC is invited to adopt these proposals. The S/C considered the issue of the increasing number of mandatory reporting systems and whether automatic identification system (AIS) or long range identification and tracking (LRIT) could be used to satisfy the reporting requirements in such systems. The S/C agreed AIS and LRIT could not in all instances take the place of manual reporting in ship reporting systems. For instance, when a mariner has to take affirmative action to report, manual reporting ensures that the person on the bridge is more alert and could be made aware of issues when entering the reporting area. Additionally, since the International Convention for the Safety of Life at Sea (SOLAS) chapter V, regulation 11, required that a system be capable of interaction, and a ship reporting system might provide the mariner with valuable information when entering a reporting area. In considering the way forward on this issue, the S/C agreed that any review of mandatory ship reporting systems should be done in the context of SOLAS chapter V, regulation 11. The Sub- Committee also agreed that it was premature for the S/C to undertake a full-scale review of all mandatory reporting systems as AIS and LRIT were still under development.  
+
+Development of guidelines for Integrated Bridge Systems (IBS), including performance standards for bridge alert management --------------------------------------------- ---------- 
+
+¶3. The Sub-Committee reviewed the outline of the draft IBS guidelines and agreed that due to the broader application of the guidelines it was appropriate to use the new title "guidelines for bridge equipment and systems, their arrangement and integration." The S/C further agreed to proceed with the development of two separate documents:  Guidelines for Bridge Equipment and Systems, their Arrangement and Integration; and Performance Standards for Bridge Alert Management. The S/C finalized the draft Safety Navigation (SN)/Circular on guidelines for the application of the modular concept to performance standards.  The S/C reestablished the   intersessional Correspondence Group on IBS under the leadership of Germany, inviting it to finalize the guidelines and performance standards noted above and to continue liaison with the S/C on Ship Design and Equipment (DE) to ensure consistent treatment of alerts, including alarms and indicators.  
+
+Amendments to the General Provisions on Ships' Routing --------------------------------------------- --------- 
+
+¶4. The Sub-Committee prepared amendments to the General Provisions on Ships' Routing (resolution A.572(14) as amended) to align them with the specifications for routing measures' boundary symbology and charting of archipelagic sea lanes adopted by the International Hydrographic Organization (IHO). The S/C was invited to adopt the amendments, subject to confirmation by the Assembly.  
+
+Carriage requirements for a bridge navigational watch alarm system (BNWAS) --------------------------------------------- -- 
+
+¶5. After extended discussion, the Sub-Committee agreed to a carriage requirement for BNWAS provided it was not used as a device to support reduced manning or to offset fatigue and there would be a grandfather clause for ships already fitted with a similar device. The S/C agreed to a draft amendment to SOLAS regulation V/19 to reflect a new carriage requirement for a BNWAS with a view to adoption at MSC's eighty-sixth session.  
+
+Review of COLREGs regarding the right-of-way of vessels over pleasure craft -------------------------------------------- 
+
+¶6. The Sub-Committee considered Italy's proposals for the revision of the International Regulations for Preventing Collisions at Sea (COLREGs) regarding the right-of-way of vessels over pleasure craft to reduce the risk of collision especially in areas with high density of pleasure craft and where it is difficult for large vessels to operate safely.  Most delegations shared Italy's concern regarding the risk of collision. However, a large majority was not in favor of amending the COLREGs at this stage and instead favored a local approach based on national regulations, educational awareness campaigns and other practical measures aimed at recreational craft. As there was little support for the proposed amendments, the MSC was invited to delete the item from the S/C's work program, as the work on this item had been completed.  
+
+Code of conduct during demonstrations/campaigns against ships on high seas --------------------------------------------- -- 
+
+¶7. The USDEL, while strongly supporting the concerns regarding maritime safety and the safety of seafarers, did not support the development of a Code, but instead advocated the development of a MSC resolution or circular on this issue. In the S/C discussion, there was little support for the development of a Code and overwhelming support for the development of a resolution or circular. A drafting group was sent out with the USDEL as chair, using a draft resolution prepared by Australia as the base text.  While there was robust discussion on many issues, there was only one issue upon which consensus could not be reached.  This issue was whether the resolution should refer to, and provide an explanatory sentence on, international human rights instruments. The USDEL opposed the inclusion of this language because such instruments are not within the competency of IMO. This language was left out of the resolution; however, it was noted in the draft report. A draft resolution was developed, preliminarily approved by the S/C, and forwarded to the Sub-Committee on Flag State Implementation (FSI). After consideration by the FSI, it will come back to NAV 55 for finalization before going to the MSC for adoption.  
+
+Development of an e-navigation strategy --------------------------------------- 
+
+¶8. The Sub-Committee considered the report of the correspondence group on e-navigation (a collection of electronic systems used to improve navigation between ships and shore facilities) and a Working Paper prepared by the S/C chairman. The S/C prepared a draft strategy   for the development and implementation of e-navigation for approval by the MSC. The S/C developed a draft framework for the implementation of the e-navigation strategy along with a timeframe for implementation, for approval by the MSC. The S/C further agreed that, subject to the MSC's approval of the e-navigation strategy, it would be necessary to have a corresponding item on the S/C's work program to implement it. Accordingly, the Sub- Committee invited the MSC to amend the title of this work program item to "Implementation of an e-navigation strategy," with four sessions to complete the work.  
+
+Development of carriage requirements for ECDIS --------------------------------------------- 
+
+¶9. After extended debate, a strong majority overcame the objections of the few who continued to argue that chart data and equipment were not universally available, among other discounted assertions. The Sub-Committee considered in detail the United Kingdom proposal and agreed on a draft text incorporating the various amendments with respect to ship size/type and the relevant time frames, with respect to the proposed mandatory carriage requirement for Electronic Chart Display and Information Systems (ECDIS) equipment. The S/C also agreed on an exemption for ships that would be taken out of service within two years.  The S/C agreed that the proposed new regulation should be incorporated into regulation V/19 as paragraphs 2.10 and 2.11. The S/C also agreed with the Australian proposal to finalize a draft SN/Circular on Guidance on transitioning from paper chart to ECDIS navigation, which would be of benefit whenever ships are first equipped with ECDIS, and the draft circular was forwarded to MSC for adoption.  
+
+Improved safety of pilot transfer arrangements --------------------------------------------- - 
+
+¶10. The Sub-Committee considered a document by International Maritime Pilots' Association (IMPA) on improved safety of pilot transfer arrangements; the results of a 2007 Safety Campaign; and a document by Brazil, United States and IMPA on a work program item proposal on improving the safety of pilot transfer arrangements. The S/C established a correspondence group to consider these documents and prepare draft text for proposed revisions to SOLAS regulation V/23 and resolution A.889(21). The United States (Mr. Bill Cairns) will chair the correspondence group. In addition to preparing a report for NAV 55, the correspondence group will prepare an interim report for DE 52 in order to advance the matter. 
+
+Other business -------------- 
+
+¶11. The Sub-Committee noted with interest the information provided by the United States on the development of an International Product Specification for marine environmental protection data to be used in conjunction with Electronic Navigational Charts (ENCs) and ongoing work on this issue. Use of these data would promote maritime safety and increase protection of the marine environment.  The observer from IHO stated that, as reported by the United States, the IHO had established a working group to develop a marine environment protection product specification to be used in conjunction with ENCs, which would enhance voyage planning and mariners' ability to navigate safely, thus avoiding damaging the marine environment. The United Kingdom urged that, while developing such a standard, it should be ensured that any system introduced did not interfere with the core functionality of the electronic charting system for safe navigation by cluttering the chart display. LEBARON
