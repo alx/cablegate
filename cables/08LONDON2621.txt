@@ -3,3 +3,85 @@ IMO: SUB-COMMITTEE ON DANGEROUS GOODS, SOLID CARGOES AND CONTAINERS (DSC), REPOR
 Fri Oct 17 00:00:00 +0200 2008
 UNCLASSIFIED
 Embassy London
+VZCZCXYZ0009
+RR RUEHWEB
+
+DE RUEHLO #2621/01 2911213
+ZNR UUUUU ZZH
+R 171213Z OCT 08
+FM AMEMBASSY LONDON
+TO RUEHC/SECSTATE WASHDC 0100
+INFO RUWDQAC/COMDT COGARD WASHINGTON DC//CG-001/CG-DCO-I//
+RUWDQAC/COMDT COGARD WASHINGTON DC//CG-094/CG-2/CG-5/CG-52//
+RUWDQAC/COMDT COGARD WASHINGTON DC//CG-521/CG-522/CG-523//
+RUWDQAC/COMDT COGARD WASHINGTON DC//CG-534/CG-541/CG-544//
+RUWDQAC/COMDT COGARD WASHINGTON DC//CG-545/CG-543/CG-62//
+RUWDQAC/COMDT COGARD WASHINGTON DC//CG-7M//UNCLAS LONDON 002621 
+
+SIPDIS 
+
+STATE PLEASE PASS TO IO FOR CLARKE, C.C., DHS, DOD, DOJ, FCC, MARAD, NOAA, AND NTSB E.O. 12958: N/A 
+
+TAGS: AORC EWWT PHSA SENV UK
+
+SUBJECT: IMO: SUB-COMMITTEE ON DANGEROUS GOODS, SOLID CARGOES AND CONTAINERS (DSC), REPORT OF THE 13TH SESSION, LONDON, SEPTEMBER 22-26, 2008
+
+1.SUMMARY: The 13th session of the International Maritime Organization (IMO) Sub-Committee (S/C) on Dangerous Goods, Solid Cargoes and Containers (DSC) met in London from September 22-26, 2008 under the chairmanship of Mrs. Olga Pestel-Lefevre (France). The session was attended by delegations from sixty- eight member states, one associate member, two inter-governmental organizations and fourteen non- governmental organizations in consultative status. Working groups (WGs) and drafting groups (DGs) were formed to address several of the agenda items. USDEL objectives were achieved. The outcomes of particular interest include the following: A. The S/C began work on Amendment 35-10 to the International Maritime Dangerous Goods (IMDG) Code and agreed in principle to various proposals subject to finalization by the Editorial & Technical (E&T) working group which will meet in spring 2009. Amendment 34-08 to the IMDG Code was adopted unanimously at the 84th session of Marine Safety Committee (MSC) by resolution MSC.262(84). Amendment 34-08 will be published in fall 2008 and will attain voluntary status on January 1, 2009 and mandatory status on January 1, 2010. B. The S/C completed its work on Amendments to the International Maritime Solid Bulk Cargoes (IMSBC) Code and its mandatory application. A WG was formed during DSC13 to prepare a draft revised schedules for direct reduced iron (DRI), sulphur, coal, woodchips, and wood pellets. The WG also prepared draft amendments to the forward and section 1 of the IMSBC Code as instructed by MSC84. This work will become part of the mandatory IMSBC Code and will be forwarded directly to MSC85 with a view to adoption. The IMSBC Code will attain mandatory status on January 1, 2011. END SUMMARY. 
+
+Amendments to the IMDG Code and its supplements --------------------------------------------- --
+
+2.The S/C considered 14 separate proposals under this agenda item. Several were agreed to in principle for inclusion in Amendment 35-10 to the International Maritime Dangerous Goods (IMDG) Code, and were referred to the E&T working group for refinement and consolidation in the draft amendment. Other proposals were either rejected or deferred for further consideration at DSC 14 contingent on submission of revised proposals. Also under this agenda item, the S/C considered a proposal to establish minimum safety requirements for vehicles and equipment that contain various amounts of dangerous goods such as fuels, batteries, accumulators, or fuel cells. In considering the issue, the S/C agreed in principle that minimum standards should be developed and invited the United States to submit a revised proposal to the E&T group for refinement and inclusion in Amendment 35-10 to the IMDG Code.
+
+ Amendments to the IMSBC Code, including evaluation of properties of solid bulk cargoes --------------------------------------------- -----
+
+3.The S/C convened a WG to consider the schedules for DRI, sulphur, coal, woodchips, wood pellets, and amendments to the forward and section 1 of the IMSBC Code under this agenda item and made several decisions based on the results of the WG's deliberations. The WG deliberated on these cargoes and prepared draft revised schedules for inclusion in the mandatory IMSBC Code. In particular, the WG finalized draft schedules DRI (A), briquettes, hot- molded and DRI (B), lumps, pellets, briquettes, cold-molded. The WG also finalized a draft schedule for DRI (C) for by-product fines giving preference to inerting (vice mechanically ventilating) cargo spaces during carriage. These amendments will be included in the mandatory IMSBC Code, subject to approval and adoption at MSC85 which meets at end of November, 2008.
+
+ Casualty and incidents reports and analysis -------------------------------------------
+
+4.The S/C considered an incident report from Secretariat whereby a portable tank loaded with titanium tetrachloride leaked and caused harm to two crew members and four dock workers. The titanium tetrachloride mixed with water causing the evolution of hydrochloric acid vapors which are highly toxic. The S/C noted the report and requested interested member governments to submit proposals to DSC 14 on this issue. The S/C also considered an incident report from the Republic of Iran whereby a portable tank of methyl ethyl ketone peroxide (MEKP) leaked and subsequently exploded; however, no one was seriously injured. The S/C was of the opinion that the leak was a result of improper loading and handling but, nonetheless, agreed to minor amendments to the IMDG Code to highlight the hazards of MEKP. The S/C also considered an incident report from the United States involving the release of argon, refrigerated liquid, from a portable tank. The portable tank failed while stowed below deck and subsequently led to the asphyxiation deaths of three longshoreman. As a result of this incident, the S/C agreed in principle to prohibit the under deck stowage of all refrigerated liquefied gases subject to finalization by the E&T Group. The S/C also reviewed the reports from eleven member governments and from the Secretariat concerning container inspection programs that had been carried out in various countries and further agreed to urge all member governments to submit such reports in the future in accordance with MSC.1/Circ.1202. 
+
+Extension of the Code of Practice for the Safe Loading and Unloading for Bulk Carriers (BLU Code) --------------------------------------------- ----
+
+5.The S/C recalled that at DSC 11 it was decided that amendments to Safety of Life at Sea (SOLAS) chapter IV to extend the application of the BLU Code grain should be coordinated with the SOLAS amendments to make the IMSBC Code mandatory. However, the target completion date for this agenda item was extended to 2009 in order to prepare consequential amendments to the BLU Code and the Manual in light of the recent amendments to the IMSBC Code. On this basis, the S/C established an intersessional correspondence group under the chairmanship of the United States to progress this work and prepare a written report to DSC14. 
+
+Guidance on providing safe working conditions for securing of containers, amendments to the Code of Safe Practice for Cargo Stowage and Securing (CSS Code), and form and procedure for approval of the cargo securing manual --------------------------------------------- ------
+
+6.The S/C convened a WG to consider numerous issues under these agenda items and made several decisions based on the results of the WG's deliberations. The WG deliberated on the following issues: measures to prevent container lashing systems from failing including measures to improve efficiency where possible, lashing position design, turnbuckle design, container top working, and the application of these proposed amendments to new and existing ships. The WG made progress on all of these issues and the S/C decided to extend the target completion date of these agenda items to 2009 in order to reconvene the WG at DSC14 to complete the work.
+
+ Review of the Recommendations on the Safe use of Pesticides in Ships --------------------------------------------- ---
+
+7.The S/C, at DSC10, considered two proposals by Germany noting that the Recommendations cover three aspects of the use of pesticides on board ships, namely: the fumigation of containers and cargo transport units subject to the IMDG Code, the fumigation of cargo holds containing dry cargoes subject to the IMSBC Code, and the control of rodent pests on board all ships. The S/C established a drafting group at DSC12 to develop two draft MSC circulars, which were subsequently approved at MSC84, as applicable to the safe use of pesticides for cargo holds (MSC/Circ.689) and for cargo transport units (MSC/Circ.746). The S/C noted that one issue remained outstanding, namely the control of rodent pests on board all kinds of ships and further noting that no documents were submitted to DSC13 on this issue, invited member governments to submit proposals to DSC 14 for consideration. 
+
+Guidance on Protective Clothing -------------------------------
+
+8.The S/C recalled an amendment to the 2000 HSC Code and SOLAS II-2, as prepared by the 49th session of the S/C on Fire Protection, to include a requirement to carry chemical protective clothing on board the vessel taking into account the danger of the chemicals to be carried. The S/C expressed a view that, if the relevant amendments were approved by MSC, the S/C should develop associated guidance concerning the selection of protective clothing. On this basis, the S/C considered a proposal by Sweden to refer to EN 943-2 as a suitable standard for the selection of protective clothing. However, the S/C was of the opinion that this standard may provide too little protection and there were other standards which should also be taken into consideration, such as the American Conference of Governmental Industrial Hygienist's "Guidelines for the Selection of Chemical Protective clothing". On this basis, the S/C established a DG to develop guidance on protective clothing. Having received the report of the DG, the S/C decided to extend the target completion date of the agenda item to 2009 and invited member governments to submit proposals to DSC14 for consideration. 
+
+Revision of the Code of Safe Practice for Ships Carrying Timber Deck Cargoes --------------------------------------------- --
+
+9.The S/C considered the report of the intersessional correspondence group which was established at DSC12 to progress work under this under agenda item. The S/C approved the report in general and agreed to establish a WG at DSC
+
+13.Having received the report of the WG, the S/C took decisions on a number of issues and re-established the correspondence group under the chairmanship of Sweden to continue the work intersessionally and submit a written report to DSC14. 
+
+Stowage of water reactive materials -----------------------------------
+
+10.The S/C noted a proposal by Germany to review the cargo stowage, segregation, and packing requirements for water reactive substances covered by the IMDG Code and agreed to include this agenda item in the work program of the S/C with a target completion date of 2009. In the proposal, Germany observed that there are some water-reactive substances that could react dangerously with carbon dioxide and therefore would render conventional fire-fighting mediums useless or even dangerous in an emergency situation. The S/C, noting that no documents were submitted under this agenda item, invited Germany and other interested member governments to continue research in this area and to submit proposals to DSC 14 for consideration. 
+
+Amendments to the International Convention for Safe Containers, 1972 --------------------------------------------- -
+
+11.The S/C recalled that DSC12 considered proposals to standardize the scope, principles, and requirements of the continuous examination programmes in light of a recent incident involving a deficient container and agreed to include this agenda item in the work program of the S/C with a target completion date of 2009. Under this agenda item, the S/C took decisions on a number of proposals and decided to establish an intersessional correspondence group under the chairmanship of the International Standards Organization (ISO) to progress this work and prepare a written report to DSC14. 
+
+Review of the guidelines for packing cargo transport units --------------------------------------------- -------
+
+12.The S/C recalled that DSC12 considered a proposal by Germany, noting that Guidelines on Packing of Cargo Transport Units have not been amended since the adoption of Amendment 31-02 to the IMDG Code and that the Guidelines may benefit from improvements, and agreed to include this agenda item in the work program of the S/C with a target completion date of 2009. The S/C noted that the guidelines were prepared in co-operation with the Inland Transport Committee of the United Nations Economic Commission for Europe and the International Labor Organization and amendments to the guidelines would have to be approved by these organizations. Therefore the S/C was of the view that it would not be possible to amend the Guidelines for the 2008 edition of the Supplement to the IMDG Code. On this basis, the S/C established a DG to prepare amendments to the Guidelines to harmonize with Amendment 34-08 to the IMDG Code. Having received the report of the DG, the S/C decided to forward Guidelines to the E&T Group for further consideration and finalization. 
+
+Any other business ------------------
+
+13.The S/C considered a proposal by the Republic of Iran to require the use of fixed or portable radiation detection equipment in port areas in order to protect port workers, other persons, and the environment from inadvertent exposure radioactive contamination. The S/C supported the proposal Q principle and, noting that close co-operation with the International Atomic Energy Agency would be required, invited the Republic of Iran to submit a request for a new work programme item in accordance with the Guidelines on the organization and method of work. The S/C also considered information provided by the dry cargo ship owners non- governmental organization; INTERCARGO regarding an ongoing investigation into high loading rates for bulk carriers. These loading rates give an indication that the provisions of the BLU Code have not been universally applied by all member governments. The S/C agreed that the issue had merit and instructed the correspondence group established under the agenda item titled "Extension of the BLU Code to include grain" to consider the issue intersessionally and provide a written report to DSC
+
+¶14. Review of documentation requirements for dangerous goods in packaged form --------------------------------------------- -----
+
+14.The S/C noted a proposal by the United States to review documentation requirements for dangerous goods in packaged form and, if necessary, to prepare amendments to SOLAS chapter VII regulation 4 and the IMDG Code and agreed to include this agenda item in the work program of the S/C with a target completion date of 2009. In the proposal, United States observed that ambiguities and inconsistencies exist with respect to the application documentation requirements and was of the opinion that SOLAS needed to be amended in order to ensure safety and efficient transportation of dangerous goods. The S/C supported the proposal in principle and, noting that the documentation requirements contained in International Convention for the Prevention of Pollution From Ships (MARPOL) Annex III, agreed to forward the proposal to the E&T Group for finalization and invited the United States to submit a proposal to the Marine Environmental Protection Committee (MEPC) to expand the scope of this agenda item to include a review of the documentation requirements contained in MARPOL Annex III. 
+
+Election of the Chairman and date of next meeting --------------------------------------------- ---
+
+15.The S/C unanimously re-elected Mrs. Olga Pestel- Lefevre (France) as chairman and Mr. Arsenio A. Dominguez (Panama) as vice chairman for 2009. The date of the 14th session of the DSC Sub-Committee is tentatively scheduled for September 21-25, 2009. TUTTLE
