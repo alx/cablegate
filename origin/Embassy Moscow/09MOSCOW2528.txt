@@ -3,3 +3,207 @@ GAZPROM'S REVERSAL OF FORTUNE, PART ONE
 Tue Oct 06 00:00:00 +0200 2009
 CONFIDENTIAL
 Embassy Moscow
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHMO #2528/01 2791102
+ZNY CCCCC ZZH
+P 061102Z OCT 09
+FM AMEMBASSY MOSCOW
+TO RUEHC/SECSTATE WASHDC PRIORITY 4993
+INFO RUCNCIS/CIS COLLECTIVE PRIORITY
+RUEHZL/EUROPEAN POLITICAL COLLECTIVE PRIORITY
+RUEHXD/MOSCOW POLITICAL COLLECTIVE PRIORITY
+RHEHNSC/NSC WASHDC PRIORITY
+RHMFISS/DEPT OF ENERGY WASHINGTON DC PRIORITY
+RUCPDOC/DEPT OF COMMERCE WASHDC PRIORITYC O N F I D E N T I A L MOSCOW 002528
+
+SIPDIS
+
+DEPT FOR EUR/RUS, EEB/ESC/IEC GALLOGLY AND WRIGHT, S/EEE
+MORNINGSTAR
+DOE FOR HEGBURG, EKIMOFF
+DOC FOR JBROUGHER
+NSC FOR MMCFAUL
+
+E.O. 12958: DECL: 10/05/2019
+TAGS: EPET ENRG ECON PREL RS
+
+SUBJECT: GAZPROM'S REVERSAL OF FORTUNE, PART ONE
+
+REF: A. MOSCOW 971
+¶B. MOSCOW 403
+¶C. MOSCOW 367
+
+Classified By: Econ MC Matthias J. Mitman for Reasons 1.4 (b/d)
+
+¶1. (U) This is the first of a two-part report on the new
+economic realities facing Gazprom, Russia's state-owned gas
+sector giant.
+
+-------
+summary
+-------
+
+¶2. (SBU) Far from reaching its ambitions of becoming "the
+most valuable company in the world," Gazprom's fortunes have
+reversed dramatically in the past year. The company's market
+value, production, and sales have all plummeted since the
+onset of the economic crisis. With dramatically reduced
+cash-flow, the company has been forced to cut back on capital
+expenditures and its ambitions, despite political rhetoric to
+the contrary. However, as we will examine in part two of
+this report, Gazprom's problems are likely longer term. End
+summary.
+
+------------------------------------
+massive reversal in major indicators
+------------------------------------
+
+¶3. (U) Major indicators of Gazprom's performance have all
+reversed course dramatically in the past year. (Note:
+Figures in this report are taken from Gazprom reports,
+statements, and presentations, unless otherwise indicated.
+End note.)
+
+Market capitalization --
+
+¶4. (U) At its peak in May 2008, Gazprom's market valuation,
+based on the small percentage of its shares that trade
+publicly, was over $350 billion, and company president Alexey
+Miller declared Gazprom would become "the most valuable
+company in the world." Miller suggested Gazprom's market
+capitalization would reach $1 trillion in the near future.
+By May 2009, in the midst of the global economic and
+financial crisis, the company's market capitalization had
+dropped to its recent low of approximately $75 billion, but
+has since rebounded to approximately $120 billion.
+
+Production --
+
+¶5. (U) Gazprom's gas production peaked in 2006, at 556
+billion cubic meters (bcm). In 2008, it was 550 bcm. In the
+first seven months of 2009, however, Gazprom's production was
+down almost 25% over the same period in 2008. As of
+September 2009, Gazprom expects 2009 production to reach just
+474 bcm, and many analysts believe that figure to be overly
+optimistic. In a September note on Gazprom, investment bank
+Troika Dialog predicted Gazprom would have difficulty even
+reaching 460 bcm. On the low end, some analysts estimate
+Gazprom could produce just 450 bcm or less in 2009 -- a 100
+bcm or more decline from its peak production. Even this
+massive drop in production is masked to some degree by the
+halt in gas imports from Turkmenistan since April (ref A).
+In 2008, Gazprom imported 42 bcm from Turkmenistan, nearly
+all of which was re-exported to Ukraine. Having halted these
+imports, Gazprom itself is supplying the Ukrainian market out
+of Russian production.
+
+Revenues --
+
+¶6. (U) The Russian Customs Service reports that Russian gas
+export revenues were down 50% in the first 7 months of 2009,
+compared to the same period in 2008, a decline of almost $20
+billion. While Gazprom's official results for 2009 will not
+be published until well into 2010, a back-of-the-envelope
+calculation using Gazprom's own projections for average price
+and volumes of exports to Europe in 2009 (ref C) indicates
+the company might receive about $30 billion less from exports
+to Europe in 2009 than in 2008. This represents a loss of
+about 2% of Russian GDP and is in line with estimates from
+various analysts. (Note: Given the relative significance of
+export sales to Europe (excluding FSU), the relative
+reliability of the figures, and to avoid exchange rate
+complications, we focus only on export revenues here.
+According to its recent bond prospectus, Gazprom's exports
+are divided into sales to the FSU, and to Europe. Sales to
+the FSU and Europe represent 16% and 63%, respectively, of
+its sales by revenue -- meaning exports represent 79% of
+Gazprom's revenues. End note.)
+
+Domestic sales --
+
+¶7. (U) Gazprom's domestic sales are not down as dramatically
+as one would expect given the economic crisis, due primarily
+to artificially low domestic prices, which prop up demand.
+While Gazprom has not yet reported official results for the
+first half of 2009 (1H09), various analysts predict a drop of
+about 10% in gas volumes to the domestic market.
+
+Export volumes --
+
+¶8. (U) Gazprom's overall exports peaked in 2008 at 281 bcm.
+Gazprom's sales to the FSU peaked in 2007, at 101 bcm,
+dropping slightly to 97 bcm in 2008. Sales to the rest of
+Europe peaked in 2008, at 184 bcm. (Note: Interim
+statements regarding 2009 sales often do not coincide in
+definition with audited annual reports. Thus 1H09 sales
+estimates only give an indication of the trend and are not an
+exact comparison with 2008 figures. Gazprom has not yet
+released official results for 1H09 and only released first
+quarter (1Q09) results on August 26. End note.) Through
+1H09, Gazprom has said it shipped about 33% less gas to
+European customers than in 1H08. In a recent statement, the
+company said its exports to the FSU in 1H09 dropped 54%
+compared to 1H08. A weighted average of those estimates
+indicates overall exports shrunk by about 40% 1H09.
+
+¶9. (U) As Gazprom and many analysts point out, however, 2H09
+should be much better for Gazprom exports as many European
+customers restrained purchases in 1H09, knowing that prices
+-- which are tied to oil prices with a six to nine month lag
+-- would drop dramatically in 3Q09. Furthermore, export
+volumes in 2H08 were already dropping rapidly due to the
+economic crisis and high gas prices that were reaching their
+peak in 4Q08. Results for 1H09 were also significantly
+affected by the 21 day gas cutoff to Ukraine and 10 day
+cutoff to Europe in January. That said, 2009 will still be a
+dismal year for Gazprom export volumes.
+
+---------------
+forced cutbacks
+---------------
+
+¶10. (C) Facing financial realities, Gazprom recently cut its
+capital expenditure budget by $7.5 billion, or about 25%,
+including cuts to Shtokman and Yamal development. However,
+Gazprom and GOR leadership continue to take the tack that
+"everything is fine" (ref B). One attendee at the recent
+gathering of the "Valdai" group of international Russia
+experts told us that Gazprom CEO Alexey Miller told the group
+that the company's plans for the Nord Stream and South Stream
+gas pipelines, and for the development of the Shtokman and
+Yamal gas fields are "all on track."
+
+¶11. (C)xxxxxxxxxxxx told us recently that
+Miller's and other GOR leaders' public statements on Gazprom
+should be ignored. xxxxxxxxxxxx said these leaders understand well
+that Gazprom is in trouble but they just don't know what to
+do about it.
+
+¶12. (C) According to xxxxxxxxxxxx, Gazprom simply doesn't have the
+money to move forward on all its so-called "priorities," and
+it will need to choose which are most important, while facing
+insatiable political demands on its revenue streams. xxxxxxxxxxxx, told us
+recently that he believes Gazprom has "a heck of a lot of
+cost-cutting capacity" still available, but that the company
+has too many political constraints preventing it from taking
+the most necessary and painful measures. Furthermore, he
+figures the company needs to spend about $5 to $8 billion a
+year just to maintain its aging system and that these costs
+will rise in the future. xxxxxxxxxxxx is thus also very
+skeptical of Gazprom's other major commitments such as South
+Stream and Shtokman.
+
+-------
+comment
+-------
+
+¶13. (C) Gazprom's capital expenditure cuts reflect an
+understanding that, public rhetoric aside, the company can't
+spend money it doesn't have. However, Gazprom's longer-run
+problems are largely beyond its control and require
+fundamental reforms that will be difficult to achieve. In
+part two of this report, we examine the constraints to
+Gazprom's return to dominance.
+Beyrle
