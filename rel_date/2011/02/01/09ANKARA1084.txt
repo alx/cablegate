@@ -3,3 +3,60 @@ TURKEY-IRAN BORDER: A TALE OF TWO CUSTOMS POSTS
 Wed Jul 29 00:00:00 +0200 2009
 SECRET//NOFORN
 Embassy Ankara
+VZCZCXRO8805
+RR RUEHBC RUEHDE RUEHDIR RUEHKUK RUEHTRO
+DE RUEHAK #1084/01 2100405
+ZNY SSSSS ZZH
+R 290405Z JUL 09
+FM AMEMBASSY ANKARA
+TO RUEHC/SECSTATE WASHDC 0349
+INFO RUCNIRA/IRAN COLLECTIVE
+RUEHIT/AMCONSUL ISTANBUL 6070
+RHEHAAA/NSC WASHDC
+RUEAIIA/CIA WASHDC
+RHEFDIA/DIA WASHDCS E C R E T SECTION 01 OF 03 ANKARA 001084 
+ 
+SIPDIS 
+NOFORN 
+ 
+E.O. 12958: DECL: 07/28/2029 
+TAGS: ECON PINS PTER EAID IR TU
+SUBJECT: TURKEY-IRAN BORDER: A TALE OF TWO CUSTOMS POSTS 
+ 
+REF: A. 08 ANKARA 1837 
+     ¶B. 08 ISTANBUL 540 
+ 
+Classified By: A/DCM Daniel O,Grady for reason 1.4(d).
+
+1.(S/NF) This information is being sent in cable format at the request of a visiting analyst. The report had previously been disseminated via email.
+
+2.(S/NF) Summary: Econoffs recently traveled to Van to do research on potential development projects in eastern Turkey. In addition to the meetings held with local government officials (reported Ref A), we visited the two border checkpoints with Iran: Gurbulak and Kapikoy. We held discussions on capabilities and needs with officials at both facilities, and were given a tour of the Gurbulak facility. The conditions at the two border posts varied starkly; Gurbulak had more modern conveniences and scanning equipment, while Kapikoy had no scanning equipment at all, and even the living arrangements seemed to be substandard. End summary.
+
+Gurbulak --------
+
+3.(S/NF) Gurbulak is the main Customs points for traffic from Iran to Turkey, and lies in the shadow of Mt. Ararat on Turkey's northeastern border. We approached the Gurbulak checkpoint from Dogubeyazit along the only road in the region leading to Iran. Approximately 1 km from the checkpoint, there were trucks lined up waiting to be checked. Car traffic was allowed to ride in the oncoming lanes to cut in front of the trucks. About 500 yards before the checkpoint, a Jandarma soldier stopped us and asked for identification, then waved us through to the Customs station. The Customs checkpoint security station did not ask for any identification and told us that we could proceed after we told them that we were there to see "someone" and were not going to Iran. While approaching the border, we saw numerous people coming to and from Iran, in addition to trucks and cars transiting the border. The director of the border crossing, Hasan Demirci, assembled high level officers from all offices of the facility including customs enforcement, police, and customs valuation departments. None of the other officials were identified during the meeting and the subsequent tour by name - they were identified by title only. Demirci told us that he was the only one authorized to talk to the embassy, and that he only brought in the other officers because he was new to the post. As a result, he was reluctant to identify anyone else by name.
+
+4.(S/NF) The officials discussed the facility's needs at length. They said that they do not need additional physical infrastructure at the checkpoint, as the entire post was recently rebuilt, but that they do need more scanning equipment. Demirci said that 3000 people and 400-500 trucks cross the checkpoint daily. Numerous travelers also enter Turkey from Iran in private cars and buses, which Demirci said are primarily going to Syria. While the checkpoint has a large x-ray to scan incoming vehicles, they do not have an airport-style x-ray to scan the baggage of people crossing the border on foot. Demirci said that baggage searches are now done by hand, reducing the effectiveness of the search. He admitted that, in general, only people who "act suspiciously" are fully searched, with the majority simply being waved through.
+
+5.(S/NF) The facility has serious problems with its power supply. Even during our brief visit to the facility there were numerous power outages. According to the Chief of Customs Enforcement, the power is frequently out for up to 12 hours at a time, and the facility's backup generators only supply the housing facilities. In the winter, this problem is exacerbated by local residents stealing power from the grid. When the power goes out, the facility's scanning and camera equipment go out as well, meaning that traffic is passing unscanned for hours at a time. While we were at the border station, the camera system for taking photos of license plates was also broken, although the Chief of Enforcement said that a new one was expected soon.
+
+6.(S/NF) All vehicles entering and leaving Turkey pass through radiation scanners. The scanners, which are made by the Turkish Atomic Energy Commission (TAEK), are centrally monitored in Ankara. The deputy chief of enforcement stated that they have no control over this system, although there is an alarm should a substance be detected. As the vehicles pass through the gate, a customs officer manually inserts the vehicle's information into the customs computer system. ANKARA 00001084 002 OF 003 After passing through this area, the trucks then pass through a decontamination shower into an inspection area. The chief of enforcement said that 80 per cent of the vehicles are put through the vehicle x-ray. The x-ray itself is located in a large metal structure, with a smaller structure next to it where the computers and technicians are located. The day that we were at the facility, the x-ray was not scanning vehicles because technicians were installing software to scan for inorganic and organic material. When the x-ray is operational, the images of the vehicles are indefinitely stored in the system along with copies of its paperwork. The x-ray software identifies suspicious areas in vehicles and flags it for the operator, who alerts enforcement. If a suspect vehicle is identified, it is then moved to the nearby enforcement building. The building consists of two vehicle bays that can accommodate semi trucks and buses. There are mechanic pits below the bays and a machine to remove tires from rims. Inspection is done by hand in this area, targeted by the x-ray results. If contraband is found, the driver is taken for an interview with a lawyer on site and put in a holding cell in the inspection area for transfer to the nearest court in Dogubeyazit.
+
+7.(S/NF) Requested equipment: During the meeting with Demirci and the subsequent tour, the enforcement chief asked us for help procuring multiple pieces of equipment, including: optical passport readers, the previously mentioned baggage x-ray, carbon dioxide detectors, ion scanners for drugs, chemical kits for drugs, an explosive swab test machine, and a videoscope for searching vehicles in the inspection bay. (Note: The requests made by these local officials were clearly not coordinated with the central government and do not constitute a formal request from the Government of Turkey. Any request would have to be coordinated by the MFA, and we have not received requests from the MFA for such equipment to date.
+
+Kapikoy -------
+
+8.(S/NF) Kapikoy is located due east from Van on the Iranian border in what could charitably be described as "the middle of nowhere." It is the only train crossing from Iran for both goods and people. There are 4 passenger trains a week and numerous freight trains. The customs checkpoint is not physically located on the border, but is 1-2 km inside Turkey at the Kapikoy rail station. On the border itself, there is a small free trade zone and a Jandarma base. Trains are brought into Turkey by an Iranian locomotive, which drops the cars off at the checkpoint and leaves them for a Turkish locomotive from Van. Upon arrival in Van, the train is loaded on a train ferry and shipped across the lake to Tatvan. From there it could go in several directions, to include other destinations in Turkey or Syria.
+
+9.(S/NF) There are 11 customs officers led by Soner Kucuk, the chief of the customs office. Kucuk said that 5 of his officers were new to the customs service and were often in training, meaning that his effective strength is actually much less than 11 people. Kucuk also said that he has no electronic scanning equipment of any kind at the checkpoint, and all searches for contraband are conducted by hand and with two dogs. As at Gurbulak, people are allowed to pass unless they do something to arouse the suspicion of the customs officer. The officers generally only check the passenger compartments due to time constraints.
+
+10.(S/NF) Morale appeared to be very low at the checkpoint because of the backwater nature of the post. They are fully dependent on Turkish Railways for all maintenance services, and as at Gurbulak the power systems are very spotty. The customs officers have two official vehicles at the checkpoint, but one was inoperable, and there was no fuel for the other. Kucuk said that he and his officers normally have to walk the 2 km to the free trade zone to get food and other necessities. This further reduces the number of available inspectors, as someone is almost always on the road. It appeared to us that the Kucuk and his officers were more focused on their own safety than on screening the passage of goods - the checkpoint was out of view from the Jandarma base and Kucuk was concerned that they could easily come under PKK attack from the hills that surround the outpost. After security, they focus primarily on counternarcotics, with only cursory attention paid to countering other forms of smuggling. When asked about smuggling in the railcars, as opposed to an individual trying to smuggle things in his baggage or on his person, Kucuk expressed surprise and asked why anyone would smuggle things in railcars. Also, he ANKARA 00001084 003 OF 003 continued, the lack of heavy lift equipment and manpower made checking the railcars for smuggled goods nearly impossible.
+
+11.(S/NF) When asked about their needs, Kucuk said he needed everything, describing the post's living conditions (including food) as substandard. He plaintively asked us to remind Ankara that Kapikoy exists, noting that the fax informing him of our arrival was the first he had received in weeks. Also, the lack of trained manpower and scanning equipment hamper his ability to carry out his job, so any type of improvement in that regard would be helpful.
+
+Comment -------
+
+12.(S/NF) The two customs posts we visited provided starkly different views of life on the Turco-Iranian border - while Gurbulak had some problems, the facilities are spotless and gleaming, and its needs are mostly in the realm of advanced scanning capabilities (assuming the power is working). Visiting Kapikoy, on the other hand, is like traveling back in time to an Ottoman border crossing, lacking any of the tools necessary to carry out modern customs work. In both posts, however, there is a sense that when operational capabilities are not running optimally (either because the power is out or because the capacity never existed in the first place), the border is left open to anyone who is not overtly suspicious. Visit Ankara's Classified Web Site at xxxxxxxxxxxx JEFFREY
+
+0 07/29/2009 10808 ECON,PINS,PTER,EAID,IR,TU TURKEY-IRAN BORDER: A TALE OF TWO CUSTOMS POSTS
+Econoffs recently traveled to Van to do research on potential development projects in eastern Turkey. In addition to the meetings held with local government officials (reported Ref A), we visited the two border checkpoints with Iran: Gurbulak and Kapikoy. We held discussions on capabilities and needs with officials at both facilities, and were given a tour of the Gurbulak facility. The conditions at the two border posts varied starkly; Gurbulak had more modern conveniences and scanning equipment, while Kapikoy had no scanning equipment at all, and even the living arrangements seemed to be substandard.
