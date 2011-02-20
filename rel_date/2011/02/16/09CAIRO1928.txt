@@ -3,3 +3,31 @@ NEW TELECOM LICENSES FALL SHORT OF ENDING TELECOM
 Thu Oct 08 00:00:00 +0200 2009
 UNCLASSIFIED//FOR OFFICIAL USE ONLY
 Embassy Cairo
+VZCZCXYZ0005
+PP RUEHWEB
+
+DE RUEHEG #1928 2811645
+ZNR UUUUU ZZH
+P 081645Z OCT 09
+FM AMEMBASSY CAIRO
+TO RUEHC/SECSTATE WASHDC PRIORITY 3803
+INFO RUCPDOC/DEPT OF COMMERCE WASHDC PRIORITYUNCLAS CAIRO 001928 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPT FOR NEA/ELA AND NEA/EEB 
+DEPT OF COMMERCE FOR IT MAS AND NTIA 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN EINV PGOV EG
+SUBJECT: NEW TELECOM LICENSES FALL SHORT OF ENDING TELECOM 
+EGYPT'S MONOPOLY 
+ 
+1.(U) KEY POINTS - Egypt is issuing new tenders for bundled voice and data services for the rapidly growing housing-compound market. The GOE expects $1 billion to be invested in these services over the next five years. - For the first time, the telecom tenders will be based on revenue-sharing agreements rather than large upfront license payments. - Though this is a positive step for deregulation, the GOE is maintaining Telecom Egypt's fixed line monopoly and granting it exclusivity in bundled services in the larger compound communities.
+
+2.(U) On October 1, the Egyptian Ministry of Communication and Information Technology (MCIT) and the National Telecommunications Regulatory Authority (NTRA) announced the tender for two new licenses for "triple-play" or "compound" services, the first of their kind in Egypt. The licenses include the provision of bundled value-added services (voice, data, and internet) to Egypt's higher-income consumers located in gated "compound" communities. Bidding is open to both Egyptian and international competitors. The licenses differ from previous ones as they are based on a revenue-sharing model rather than the model of a large up-front payment that has been used with all previous license offers. These licenses require eight percent revenue sharing with the GOE and no "significant" upfront fees. MCIT expects the investment by the new licensees to reach US $1 billion over the next five years. The tender's closing date is January 12, 2010.
+
+¶3. (U) The new licenses will only cover small, gated communities in Egypt. Specifically, the two new licensees, as well as Telecom Egypt, will be able to compete for housing communities with 50-5000 units. However, Telecom Egypt will remain a monopoly to provide services to communities with more than 5000 units.
+
+4.(SBU) COMMENT: The addition of "triple-play" operators to the market could open the way to break Telecom Egypt's continued fixed-line monopoly. Although Telecom Egypt will still operate in larger gated communities as a monopoly, Egypt's decision to open up competition within the smaller gated communities is a small step in the right direction. The CIT Minister Tarek Kamel has stated that the economic crisis has prevented MCIT from offering a tender for the second fixed-line license as previously planned. However, MCIT actually postponed working on the fixed-line license prior to the onset of the economic crisis and has yet to set a projected timeline for when they hope to offer the new license tender. While MCIT has made one positive decision, the hesitation to fully open up fixed-line services to competition means that Egypt is still far from full telecom de-regulation. End comment. Scobey
