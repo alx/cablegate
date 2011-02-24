@@ -1,0 +1,484 @@
+08TALLINN326
+ESTONIA CHARTS LEGAL, MILITARY FUTURE OF CYBER
+Mon Sep 22 00:00:00 +0200 2008
+CONFIDENTIAL
+Embassy Tallinn
+VZCZCXYZ0010
+RR RUEHWEB
+
+DE RUEHTL #0326/01 2661407
+ZNY CCCCC ZZH
+R 221407Z SEP 08
+FM AMEMBASSY TALLINN
+TO RUEHC/SECSTATE WASHDC 0819
+INFO RUEHMO/AMEMBASSY MOSCOW 2616
+RUEHSI/AMEMBASSY TBILISI 0191
+RUEHZL/EUROPEAN POLITICAL COLLECTIVE
+RUEHZG/NATO EU COLLECTIVE
+RUEHNO/USMISSION USNATO BRUSSELS BE9/22/2008 14:07 CONFIDENTIAL
+
+C O N F I D E N T I A L TALLINN 000326
+
+
+SIPDIS
+
+
+DEPT FOR EUR/NB, EEB/CIP and INR/EC
+
+
+E.O. 12958: DECL: 09/21/2018
+
+TAGS: PREL PGOV PINS TINT NATO RU GG EN
+
+SUBJECT: ESTONIA CHARTS LEGAL, MILITARY FUTURE OF CYBER
+
+WARFARE (INCLUDING APPLICABILITY OF NATO'S ARTICLE V)
+
+
+Classified by: DCM Karen Decker for reasons 1.4 (b) & (d)
+
+
+¶1. (C) Summary and Comment: In the wake of the August cyber
+
+attacks against government websites in the Republic of
+
+Georgia, Estonia has provided both material and technical
+
+assistance to Tbilisi. Lawyers at the Cyber Center of
+
+Excellence in Tallinn have produced a legal analysis of the
+
+status of cyber warfare under NATO's Article V. The
+
+Ministry of Defense (MOD) is prioritizing strategic-level
+
+cyber defense planning, and the MOD's forthcoming 2008
+
+Cyber Defense Strategy will clarify lines of authority and
+
+create trip-wires to declare a national security threat
+
+during a future attack. Various Estonian experts all agree
+
+on one thing: Georgia was the latest victim of this new
+
+form of warfare, and the attacks are getting more effective
+
+each time. Estonia continues to lead international
+
+thinking on the cyber issue, having positioned itself as a
+
+niche expert on cyber defense based on its combination of
+
+past experience, a high level of IT expertise and
+
+dependence, and a small country's inevitable fears for its
+
+existence. End Summary and Comment.
+
+
+¶2. (C) BACKGROUND: In April and May 2007, Estonia grabbed
+
+international headlines as it suffered from coordinated,
+
+massive, and potentially crippling distributed-denial-of-
+
+service attacks (DDOS) from the cyberspace. The attacks of
+
+2007 were a wake-up call for national cyber security in
+
+much the same way as the January 2006 Gazprom cut-off of
+
+Ukraine was on energy security. For a period of about ten
+
+days in late April/early May 2007, key websites of the
+
+Government of Estonia (GOE) and private banks could not
+
+function, or had intermittent availability, and the country
+
+was forced to cut itself off temporarily from the World
+
+Wide Web. Both the financial cost of these attacks, and
+
+the parties ultimately responsible, are still unknown. The
+
+former - if known by banks such as swedebank and SEB
+
+Uhispank - is guarded; but the latter is widely assumed
+
+both by the GOE and many cyber security experts to be a
+
+network of Russian hackers guided and funded by the
+
+Kremlin. As the story goes, these hackers used popular
+
+Russian blog sites to instruct willing 'patriotic hackers'
+
+to assist in punishing Estonia for the GOE's decision to
+
+move the WWII-era Bronze Soldier monument. In addition to
+
+enlisting 'script kiddies' who did nothing more than click
+
+on links provided to them, or pass along a line of
+
+malicious code, this core group of hackers acted as 'bot-
+
+herders' thus magnifying their impact by exploiting scores
+
+of 'bot.net' or 'zombie' computers to send DDOS attacks
+
+unbeknownst to their users. Estonia's ad-hoc defense in
+
+April 2007, led by its national Computer Emergency Response
+
+Team (CERT) was to first increase the capacity of state
+
+websites to handle the massive volume of traffic, and then
+
+- as a last resort - to pull the plug to the outside world.
+
+
+Learning from Experience, and Passing it on...
+
+--------------------------------------------- -
+
+
+¶3. (C) Now fast-forward to the cyber attacks on Georgian
+
+websites in July/August 2008. (NOTE: The cyber attacks
+
+actually preceded the August 8 Russian ground assault into
+
+South Ossetia and Abkhazia, starting with a July 21 mild
+
+DDOS attack against the Georgian presidential website. END
+
+NOTE.) In the wake of these attacks, the GOE has been at
+
+the forefront of the response to assist Georgia, and the
+
+ensuing debate within NATO and the EU on the meaning of the
+
+attacks. The GOE response has taken the form of (1)
+
+applied expertise, (2) legal thinking about how to
+
+characterize and respond to cyber warfare, and (3)
+
+strategic defense planning on institutional responses to
+
+cyber war. In addition to humanitarian and financial aid,
+
+Estonia immediately sent two cyber-security experts from
+
+its CERT to assist the Georgian CERT for roughly ten days.
+
+Meanwhile, the Estonian Cooperative Cyber Defense Center of
+
+Excellence (CCDCOE) began an analysis of the implications
+
+of cyber warfare both under international law and NATO
+
+Article V. (NOTE: The CCDCOE currently has experts from
+
+four of the 15 NATO members who have expressed a desire to
+
+be Sponsoring Nations, including the United States. END
+
+NOTE.) At the same time, the MOD's forthcoming 2008 Cyber
+
+Defense Strategy will propose new institutional structures
+
+to deal with future attacks.
+
+
+Estonia's CERT Mission to Georgia
+
+---------------------------------
+
+
+¶4. (C) EmbOffs met with Hillar Aarelaid, Director of CERT-
+
+
+Estonia for his read on the recent assistance mission to
+
+Georgia. Aarelaid recapped the profile of the cyber
+
+attacks on Georgia: the country's internet satellite or
+
+microwave links which could not be shut down (inside
+
+Russia) were simply bombed (in southern Georgia). The
+
+ensuing DDOS attacks, though intense for several days, had
+
+less impact on commerce and government than in Estonia last
+
+year, where over 90 percent of the public banks online, and
+
+the GOE convenes virtual cabinet meetings. Yet the attacks
+
+on Georgia were more sophisticated than those against
+
+Estonia, and did not repeat the same mistakes. For
+
+example, in 2007, the 'zombie-bots' flooded Estonian
+
+cyberspace with identical messages that were more easily
+
+filtered. The August 2008 attacks on Georgia did not carry
+
+such a message.
+
+
+¶5. (C) Although Aarelaid stressed that CERT-Estonia does
+
+not have the full picture yet, he offered some assessments
+
+of the CERT-Georgia response. Roughly "ten years behind"
+
+Estonia, CERT-Georgia "did some stupid things" such as
+
+failing to keep archives of collected network flow data,
+
+which would have provided material for forensic analysis of
+
+the attacks. However, they wisely did not waste time
+
+defending GOG websites, he said, but simply hosted them on
+
+Estonian, U.S. and public-domain websites until the attack
+
+was over. (Steps, according to the CCDCOE, which could not
+
+have been taken without the lessons learned from the 2007
+
+attacks against Estonia.) Aarelaid felt that another cyber
+
+attack on Estonia "...won't happen again the same way..."
+
+but could be triggered by nothing more than rumors. For
+
+example, what could have turned into a run on the banks in
+
+Estonia during the brief November 2007 panic over a rumored
+
+currency devaluation was averted by luck. Money transfers
+
+into dollars spiked, he explained, but since most Estonians
+
+bank online, these transfers did not deplete banks' actual
+
+cash reserves. In terms of improving responses, Aarelaid
+
+felt that "We are fighting a global threat locally..." but
+
+acknowledged this may be unavoidable since, by their
+
+nature, cyber attacks require both a real-time response and
+
+a high degree of trust among those coordinating the
+
+defense, seemingly impossible at the international level.
+
+Although CERT-Estonia currently has a permanent staff of
+
+only four, Aarelaid said he "...could hire about 200 extra
+
+people in an hour..." if needed to respond to a future
+
+attack.
+
+
+Civil Law, Criminal Law or Article V?
+
+--------------------------------------
+
+
+¶6. (SBU) On the legal front, experts at Estonia's CCDCOE
+
+quickly prepared a scholarly analysis of the possible legal
+
+responses to cyber warfare. In "Cyber Attacks Against
+
+Georgia: Legal Lessons Learned" the CCDCOE confronted two
+
+of the biggest challenges to (A) determining whether a
+
+cyber attack rises to the level of a national security
+
+threat and (B) assigning responsibility to a state actor
+
+who could then be the object of a legal or military
+
+response. The report examines the potential status of
+
+cyber attacks as an act of violence from the view of the
+
+Geneva Conventions, the Law of Armed Conflict (LOAC) and
+
+NATO Article V. The authors acknowledge at the outset the
+
+complexity of a situation where "...states use private
+
+companies to conduct cyber attacks and thus grant the
+
+nation deniability..." Since the North Atlantic Treaty
+
+itself does not define an 'armed attack', the report falls
+
+back on examinations of international law. It states that
+
+both level of damage inflicted by a cyber attack, and the
+
+intent of the perpetrator would factor into whether a DDOS
+
+rises to the level of 'violence'. Considering finally the
+
+intent of the attack, its resulting damages, destruction or
+
+deaths (i.e. due to paralyzed emergency response networks)
+
+and the ability of its attribution to a willing state
+
+actor, the CCDCOE concludes that "If all questions are
+
+answered affirmatively, there is a strong basis for
+
+application of Article V [to cyber attacks]."
+
+
+Institutional Responses: MOD and Strategic Planning
+
+--------------------------------------------- ------
+
+
+¶7. (SBU) Estonia's Ministry of Defense (MOD) takes cyber
+
+defense very seriously. In a 2007 address to Estonia's
+
+Overseas Security Advisory Council (OSAC), Minister Jaak
+
+Aaviksoo likened a massive DDOS as "...the modern
+
+equivalent of a 19th century naval blockade of a nation's
+
+ports." In a September 2008 address to a CompTIA/OSAC
+
+seminar on cyber security, Aaviksoo again put the threat of
+
+
+cyber attacks in existential terms: "At a basic level, life
+
+and liberty depend upon your ability to control the space
+
+around you. Threats from cyberspace are national security
+
+threats, and cyber warfare is here to stay." In response
+
+to the attacks on Georgia, former Prime Minister Mart Laar
+
+called on Estonia immediately to "...create state
+
+structures for the anticipation and control of information
+
+attacks." That is, to get better at confronting the
+
+propaganda that accompanies a cyber war aggressor's attempt
+
+to blind its enemy to what is happening, and drown out
+
+competition in the battle for world opinion.
+
+
+¶8. (C) In a meeting with EconOff, XXXXXXXXXXXX, XXXXXXXXXXXX, outlined MOD's position
+
+on cyber defense and Article V. (NOTE: XXXXXXXXXXXX went to
+
+XXXXXXXXXXXX and served as XXXXXXXXXXXX at the
+
+Estonian embassy in XXXXXXXXXXXX prior to taking up his
+
+current position. END NOTE.) MOD needs much better cyber
+
+intelligence, XXXXXXXXXXXX said, since even the CERT sees only
+
+a small percentage of overall internet traffic in Estonia.
+
+Banks such as swedebank here are often used for "test runs"
+
+of the latest, third-generation cyber attacks before these
+
+methods are used against larger western banks. While MOD
+
+does not take a position on whether cyber attacks should be
+
+subject to Article V, XXXXXXXXXXXX did outline three important
+
+considerations. First, a clear state actor is not
+
+necessarily a pre-requisite for invocation of Article V
+
+(witness NATO's response to the attacks on the United
+
+States on September 11, 2001). Second, there cannot be
+
+different standards for invoking Article V depending on the
+
+victim's ability to respond. Thus, having a cyber defense
+
+capability sufficient to thwart otherwise-crippling DDOS
+
+attacks should not affect the Article V umbrella. And
+
+third, there must be a clear idea of what Article V
+
+collective defense would mean in response to cyber attacks.
+
+Would it mean other members agree to host the targeted
+
+government's websites on their servers, or other measures?
+
+
+¶9. (C) While this debate continues within NATO and the
+
+international community, MOD is taking steps to improve its
+
+domestic response capability. Its forthcoming 2008 Cyber
+
+Defense Strategy will recommend a range of measures to
+
+increase international cooperation, raise awareness and
+
+improve the effectiveness of national cyber defense. A key
+
+recommendation is for the creation of a 'Cyber Security
+
+Council' under the structure of the GOE's national security
+
+committee which reports directly to the Prime Minister.
+
+During a future cyber attack, and with input from the CERT,
+
+private banks and others, this committee would make the
+
+call whether a given cyber attack - which after all occur
+
+all the time at low levels - rises to the level of a
+
+national security threat. This committee would also
+
+clarify who has the authority, for example, to unplug
+
+Estonia from the internet. In the case of the 2007
+
+attacks, XXXXXXXXXXXX noted, it was simply one technician who
+
+decided on his own this was the best response to the
+
+growing volume of attacks.
+
+
+PHILLIPS
