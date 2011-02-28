@@ -3,3 +3,45 @@ EGYPT: COUNTER SMUGGLING UPDATE
 Sun Dec 20 00:00:00 +0100 2009
 SECRET//NOFORN
 Embassy Cairo
+VZCZCXYZ0001
+OO RUEHWEB
+
+DE RUEHEG #2325/01 3540509
+ZNY SSSSS ZZH
+O 200509Z DEC 09
+FM AMEMBASSY CAIRO
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 4494
+INFO RUEHTV/AMEMBASSY TEL AVIV PRIORITY 1988
+RUEHJM/AMCONSUL JERUSALEM PRIORITY 1238
+RUEKJCS/SECDEF WASHINGTON DC PRIORITY
+RHMFISS/HQ USCENTCOM MACDILL AFB FL PRIORITY
+RHMFISS/JOINT STAFF WASHINGTON DC PRIORITY
+RHEHNSC/NSC WASHDC PRIORITY
+RUEAIIA/CIA WASHINGTON DC PRIORITYS E C R E T CAIRO 002325 
+ 
+NOFORN 
+SIPDIS 
+ 
+E.O. 12958: DECL: 12/16/2019 
+TAGS: PREL PARM PTER MASS KPAL EG
+SUBJECT: EGYPT: COUNTER SMUGGLING UPDATE 
+ 
+REF: A. CAIRO 2249 
+     ¶B. IIR 6 899 0124 10 
+     ¶C. IIR 6 899 0111 10 
+    ¶D. CAIRO 1350 Classified By: Ambassador Margaret Scobey per 1.4 (b) and (d).
+¶1. Key Points: -- (S/NF) Egypt increased its efforts to combat smuggling over the last several months, including beginning installation of a subterranean steel wall and resuming installation of an FMF-funded tunnel activity detection system. -- (S/NF) Installation of the tunnel detection system has resulted in the daily discovery of main tunnels along the Egyptian-Gaza border, revealing only part of what is believed to be a vast subterranean network. Recent damage to some of the equipment, however, has raised concerns about Egypt's ability to successfully maintain the program in the long-run.
+
+¶2. (S/NF) Comment: Anecdotal evidence from contacts in northern Sinai (ref A) and press reports seem to indicate that Egypt's increased efforts in Rafah and along the entrances to the Sinai peninsula have helped reduce the flow of smuggled goods through northern Sinai. While achieving short-term success, those efforts have also clearly demonstrated long-term challenges to Egypt's capacity to combat arms smuggling. Recent damage to some of the equipment related to the tunnel detection system appears to have been intentionally inflicted, although it is unclear by whom. Post has requested that MOD conduct a full investigation into the damaged equipment and apply additional security measures to protect the equipment, which will be especially critical once the U.S. Army Corps of Engineers (ACE) complete installation in April 2010 and turn the system over to the Egyptian military. The BTADS system, however, is merely a tool. To be effective at counter smuggling, Egypt must use the information on tunnel locations and activity to identify and dismantle the lucrative smuggling networks. --------------------------------------------- --- BTADS: Tunnels Discovered, but Equipment Damaged --------------------------------------------- ---
+
+¶3. (S/NF) Since resuming installation of the FMF-funded Border Tunnel Activity and Detection System (BTADS) in November, the process of drilling holes for the seismic acoustic sensors alone has resulted in the daily discovery of 1 - 3 tunnels per day. Over a two day period at the beginning of December, for example, installation turned up five main tunnels (ref B). In one episode, after contractors drilled a hole, several angry and wet men appeared out of the tunnel's opening on the Gaza side, after being drenched with water from the drill. Main tunnels serve as the primary conduits between Egypt and Gaza, which innumerable smaller feeder tunnels empty into. Prior to BTADS, Egypt was only capable of discovering and destroying the smaller feeder tunnels, leaving the main tunnels intact.
+
+¶4. (S/NF) Damage to FMF-provided video cameras, however, has significantly reduced Egypt's ability to exploit or map these tunnels. Every camera provided during the first phase of the program (3 cameras in total) is currently out-of-service after having suffered damage that should not have occurred during normal use, according to the manufacturer (ref C). The cameras were provided as supplemental equipment for the BTADS system, so that the Egyptians could investigate tunnels discovered when the sensors detect activity. Overall, the BTADS timeline remains unaffected and is actually ahead of the scheduled April 2010 completion date.
+
+¶5. (S/NF) It is unknown who inflicted the damage or why. The cameras were under the control of MOD's Tunnel Detection Unit, but the Border Guard Force and smugglers themselves when cameras were being operated also had access. The cameras are currently being repaired and replaced and will return to operation by mid-January 2010. Additional cameras (48 units of various types) are also being provided as part of phases II and III of the BTADS program. Once the damage was discovered, the ACE immediately helped the Egyptians institute stricter security controls for all the equipment. On December 16, OMC sent a letter to Assistant Minister of Defense Major General Fouad Abdel Halim, who is responsible for the project, raising our concerns about the damaged equipment.
+
+¶6. (S/NF) In addition to ensuring an investigation into the damaged equipment, OMC is also working with MOD to submit a letter of request for $5.5 million of additional training and maintenance for the BTADS program. MOD has already indicated a willingness to fund additional support through FMF, but has not yet submitted a request. Follow on support will be critical once the ACE completes the installation and turns the system over entirely to the Egyptian military. ---------- Steel Wall ----------
+
+¶7. (S/NF) In December, the Egyptian military began constructing a subterranean steel wall along the Egypt-Gaza border. The wall is an MOD-initiative valued at $40 million, which will be 19 meters deep (16 meters of steel sheet beginning at a depth of 3 meters) and 12 mm thick. MOD had frequently discussed this project with us since the beginning of the year (Ref D), but only recently received the corrugated steel sheets. MOD engineers also coordinated with OMC to ensure that the wall was far enough away from the BTADS system to prevent interference with the sensors. MOD expects to finish the project by December 2010.
+
+¶8. (S/NF) International, regional and local press have recently begun reporting on the project, generating criticism that Egypt is complicit in Israel's embargo on Gaza (septel) and erroneously stating the wall is a U.S.-funded project. For the short-term, the wall has become a very visible symbol of Egypt's counter smuggling efforts. We also understand that the installation process - vibrating the plates into position - is itself damaging the tunnel structure beneath. It is unknown, however, if the wall will be effective at deterring smuggling in the long-run, as the steel sheets are basic construction-grade material that can be cut using a tool like a blow torch. Scobey
