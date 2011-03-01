@@ -3,32 +3,3 @@
 Fri Oct 31 00:00:00 +0100 2008
 UNCLASSIFIED//FOR OFFICIAL USE ONLY
 Embassy London
-VZCZCXRO0516
-PP RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
-DE RUEHLO #2766 3051657
-ZNR UUUUU ZZH
-P 311657Z OCT 08
-FM AMEMBASSY LONDON
-TO RUEHC/SECSTATE WASHDC PRIORITY 0291
-RUEATRS/DEPT OF TREASURY WASHDC PRIORITY
-INFO RUCNMEM/EU MEMBER STATES COLLECTIVE PRIORITYUNCLAS LONDON 002766
-
-SENSITIVE SIPDIS REF LONDON 01170
-
-E.O. 12598: N/A 
-
-TAGS: ECON KTFN UK
-
-1.(SBU) Summary: The UK Court of Appeals supported the British government's asset-freezing regime after it had been struck down in an April High Court ruling, in an October 30 decision. HM Treasury was largely pleased with the outcome, although they will have to make modifications to UK regulations (Orders), which implement UN terrorist financing designations into UK practice. End Summary
-
-2.(SBU) Six months after a UK High Court (court of first instance) ruled against the UK asset-freezing regime, the Court of Appeals has essentially returned the HM Treasury-run program to its prior form, with a few modifications. The following comes from HM Treasury's immediate analysis of the ruling. (1) The Terrorism Order remains lawful, but the "or may be" [a terrorist financier, supporter of terrorism, etc.] element of the test for designation should be excised; (2) The Directions against the five petitioners should be quashed as they contain the "or may be" test; (3) The Al-Qaida and Taliban Order remains lawful, although people designated under the Orders should be able to apply to UK courts to investigate the basis of their UN listing and, if appropriate, the courts could require the Government to seek a delisting at the UN; (4) Courts can appoint special advocates within their jurisdictions [this would allow HMG to use special advocates in the current challenges and any further challenges commenced before the pending Counter-Terrorism Bill is finally approved (probably in late November). 
-
-Impact on the Five Un-named Designees ------------------------------------
-
-3.(SBU) All five designations were initially revoked by HMT following the High Court decision, but fresh decisions were made in four of the five cases. In effect, apart from one case (which HMG determined prior to receiving the embargoed judgment should be delisted) the freezes remain intact and uninterrupted. HMT sent a notice on its website on October 31.
-
-4.(SBU) The court did not rule that designations made against other persons on the basis of the "or may be" test should be quashed but HMG is reviewing all other Terrorism Order designations to head off legal action.
-
-5.(SBU) In practice, the court's order to remove the "may be" evidentiary level is unlikely to have a major impact on UK cases, because HMT rarely utilize it in designations. They believe they will only have to delist two of 100 cases who will not meet this higher test. One case has less than $300 of frozen assets, and the other is Yasim Al Qadi, whose designation in the UK will be maintained as long as the EU designation continues to maintain the UN listing.
-
-6.(SBU) COMMENT: The Court of Appeals decision now seems to put a floor under what had been a tenuous asset-freezing regime, particularly since the April decision cast doubt on the entire program. Through minor modifications to the regulations, and improvements in the current Counter-Terrorism bill working its way through Parliament, the British government should be on stronger ground domestically in its fight against terrorist finance. LeBaron
