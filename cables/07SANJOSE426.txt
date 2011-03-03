@@ -1,0 +1,59 @@
+07SANJOSE426
+COSTA RICAN TELECOM UPGRADE ON TRACK
+Mon Mar 05 00:00:00 +0100 2007
+UNCLASSIFIED
+Embassy San Jose
+VZCZCXYZ0029
+RR RUEHWEB
+
+DE RUEHSJ #0426 0642018
+ZNR UUUUU ZZH
+R 052018Z MAR 07
+FM AMEMBASSY SAN JOSE
+TO RUEHC/SECSTATE WASHDC 7411
+INFO RUEHZA/WHA CENTRAL AMERICAN COLLECTIVEUNCLAS SAN JOSE 000426 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ETRDEINVTINTCS
+SUBJECT: COSTA RICAN TELECOM UPGRADE ON TRACK 
+ 
+¶1.  Summary.  Costa Rica's parastatal telecom monopoly, Instituto 
+Costarricense de Electricidad (ICE), announced plans to invest 
+US$59.8 million for installation of a nationwide fiber optics 
+network upgrade to improve its broadband internet capacity and 
+coverage.  This investment is being made so ICE can better compete 
+under CAFTA.  End Summary 
+ 
+¶2. ICE signed an agreement with ECI Telecom, an Israeli network 
+provider, in October 2005, which just gained final contract approval 
+from the GOCR comptroller's office.  Utilizing ECI's design, ICE has 
+already completed up to 40% of the network which will comprise a 
+total of five separate rings covering border to border and sea to 
+sea creating improved international interconnection for its network. 
+ The backbone network will provide ICE with additional capacity to 
+deliver voice and data services to fixed and mobile subscribers. 
+The project completion date is set for mid 2008. 
+ 
+¶3.  The project includes the delivery and installation of ECI's XDM 
+converged SDH and DWDM optical platforms, which enable up to 40 
+channels and 10 Gigabits each, meeting the long-term bandwidth 
+capacity needs of ICE.  In addition, the project will give ICE an 
+advanced network architecture for future services and expansion to 
+meet the needs of both residential and business communities. 
+ 
+¶4.  Under the terms of the contract, ECI Telecom has provided all 
+aspects of the network design and installation for over 1,000 km 
+across urban and rural areas of Costa Rica.  The total project cost 
+is $US59.8 million.  ICE will contribute US$28.6 million and the 
+Central American Bank for Economic Integration will provide a loan 
+for the remaining US$32.5 million. 
+ 
+¶5.  Most industry observers think ICE would not be making this kind 
+of investment without the competitive environment created by CAFTA 
+looming on the horizon.  In that sense CAFTA is already spurring 
+investment that will benefit Costa Rican telecom consumers. 
+WEITZENKORN
