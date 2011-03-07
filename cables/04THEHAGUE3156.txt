@@ -3,3 +3,69 @@ DUTCH PROPOSE PARTS CONTROL PLANS FOR 14-BIT ADC
 Fri Dec 03 00:00:00 +0100 2004
 SECRET
 Embassy The Hague
+This record is a partial extract of the original cable. The full text of the original cable is not available.S E C R E T THE HAGUE 003156 
+
+SIPDIS 
+
+STATE FOR EUR/UBI/HOLLIDAY 
+STATE PLEASE PASS DOD FOR N.BRELAND 
+
+E.O. 12958: DECL: 12/02/2014 
+TAGS: KSTC ETTC PARM NL CH
+SUBJECT: DUTCH PROPOSE PARTS CONTROL PLANS FOR 14-BIT ADC 
+SALES 
+
+REF: 239012 
+
+Classified By: Economics Counselor Richard Huff for Reasons 1.4 (B) and 
+(D). 
+
+¶1. (S) On November 15, Chris Kessler, Export Control 
+Non-Proliferation office director, Nicole Breland, Department 
+of Defense export control policy advisor, and embassy econoff 
+(note taker) briefed the non-paper (reftel) to Dutch ministry 
+of foreign affairs, economic affairs and defense officials 
+responsible for dual use technology export policy. George 
+Bontenbal, director of the Ministry of Economic Affairs' 
+office of Export Control and Strategic Goods policy led the 
+Dutch delegation 
+
+¶2. (S) Bontenbal thanked the U.S. side for its information 
+and remarked that Huawei, for example, was among the largest 
+telecommunications base station manufacturers in China and a 
+probable Philips customer. Note: Philips manufactures 
+14-bit ADCs, but according to the Dutch as yet has not sold 
+these to Chinese companies. End Note. He thought the USG and 
+GONL should draw a distinction between Huawei's civilian 
+telecommunications manufacturing and their defense related 
+work for the PLA. 
+
+¶3. (S) Kessler countered that it was unreasonable to expect 
+that the civilian division of a partially PLA-owned company 
+would not share its western bought technology with the 
+defense division. Firms that are established defense 
+contractors to the PLA and have extensive ties to PRC 
+national security agencies cannot be expected or trusted to 
+maintain impermeable fire-walls; we know they do not. The 
+only companies that can be trusted, even on the basis of the 
+rigorous conditions and parts control plan approach we have 
+discussed, are those that are strictly focused on the 
+civilian market, and therefore have strong incentives to 
+avoid leakage. 
+
+¶4. (S) Nevertheless, Bontenbal said the GONL preferred 
+requiring end-use conditions and parts control plans, 
+requiring ADC buyers to track and account for their ADC 
+inventory, rather than prohibiting altogether ADC sales to 
+certain companies. It would be hard, he concluded, to 
+shut out Huawei, one of the biggest players in China's third 
+generation cell phone program. Bontenbal suggested the Dutch 
+would agree to require parts control programs for ADC sales 
+to Chinese companies, rather than excluding the companies all 
+together. He confided that Philips wants to sell 14-bit ADCs 
+to Huawei soon. With this in mind, the GONL had been 
+drafting sales contract language requiring 14-bit ADC buyers 
+to put parts control programs in place for the converters. 
+He offered to share the Dutch contract conditions with the 
+U.S., probably sometime in mid-December. 
+RUSSEL
