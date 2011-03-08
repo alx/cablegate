@@ -3,3 +3,340 @@ DECENTRALIZATION: GOVERNMENT AMBIVALENCE AND
 Mon Jun 11 00:00:00 +0200 2007
 UNCLASSIFIED//FOR OFFICIAL USE ONLY
 Embassy Lima
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHPE #2026/01 1621519
+ZNR UUUUU ZZH
+P 111519Z JUN 07
+FM AMEMBASSY LIMA
+TO RUEHC/SECSTATE WASHDC PRIORITY 5783
+INFO RUEHAC/AMEMBASSY ASUNCION PRIORITY 1668
+RUEHBO/AMEMBASSY BOGOTA PRIORITY 4731
+RUEHBR/AMEMBASSY BRASILIA PRIORITY 7389
+RUEHBU/AMEMBASSY BUENOS AIRES PRIORITY 2915
+RUEHCV/AMEMBASSY CARACAS PRIORITY 0450
+RUEHGE/AMEMBASSY GEORGETOWN PRIORITY 0528
+RUEHLP/AMEMBASSY LA PAZ JUN 4280
+RUEHMN/AMEMBASSY MONTEVIDEO PRIORITY 9188
+RUEHQT/AMEMBASSY QUITO PRIORITY 1266
+RUEHSG/AMEMBASSY SANTIAGO PRIORITY 1315
+RHEHAAA/NATIONAL SECURITY COUNCIL WASHINGTON DC PRIORITY
+RUMIAAA/USCINCSO MIAMI FL PRIORITYUNCLAS LIMA 002026 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PREL PGOV PHUM ECON ETRD EINV PE
+SUBJECT: DECENTRALIZATION: GOVERNMENT AMBIVALENCE AND 
+REGIONAL (IN)CAPACITY 
+ 
+REF: A. 06 LIMA 4519 
+     ¶B. LIMA 309 
+     ¶C. LIMA ...
+
+id: 111659
+date: 6/11/2007 15:19
+refid: 07LIMA2026
+origin: Embassy Lima
+classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
+destination: 06LIMA4519|07LIMA1804|07LIMA1940|07LIMA309
+header:
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHPE #2026/01 1621519
+ZNR UUUUU ZZH
+P 111519Z JUN 07
+FM AMEMBASSY LIMA
+TO RUEHC/SECSTATE WASHDC PRIORITY 5783
+INFO RUEHAC/AMEMBASSY ASUNCION PRIORITY 1668
+RUEHBO/AMEMBASSY BOGOTA PRIORITY 4731
+RUEHBR/AMEMBASSY BRASILIA PRIORITY 7389
+RUEHBU/AMEMBASSY BUENOS AIRES PRIORITY 2915
+RUEHCV/AMEMBASSY CARACAS PRIORITY 0450
+RUEHGE/AMEMBASSY GEORGETOWN PRIORITY 0528
+RUEHLP/AMEMBASSY LA PAZ JUN 4280
+RUEHMN/AMEMBASSY MONTEVIDEO PRIORITY 9188
+RUEHQT/AMEMBASSY QUITO PRIORITY 1266
+RUEHSG/AMEMBASSY SANTIAGO PRIORITY 1315
+RHEHAAA/NATIONAL SECURITY COUNCIL WASHINGTON DC PRIORITY
+RUMIAAA/USCINCSO MIAMI FL PRIORITY
+
+
+----------------- header ends ----------------
+
+UNCLAS LIMA 002026 
+
+SIPDIS 
+
+SENSITIVE 
+SIPDIS 
+
+E.O. 12958: N/A 
+TAGS: PREL PGOV PHUM ECON ETRD EINV PE
+SUBJECT: DECENTRALIZATION: GOVERNMENT AMBIVALENCE AND 
+REGIONAL (IN)CAPACITY 
+
+REF: A. 06 LIMA 4519 
+     ¶B. LIMA 309 
+     ¶C. LIMA 1804 
+     ¶D. LIMA 1940 
+
+¶1. (SBU) Summary: Decentralization -- the transfer of 
+administrative responsibility from the national government to 
+regions and municipalities -- is a cornerstone of the Garcia 
+government's state reform plan.  In pursuit of this policy, 
+President Garcia recently signed a decree transferring 185 
+functions from the central government to regional and 
+municipal governments by the end of 2007.  Despite the Garcia 
+Administration's public commitment to decentralization, many 
+observers believe it is ambivalent about implementation, 
+partly because some regional and municipal governments 
+represent rival and sometimes radical political groups. 
+Analysts are also concerned about the administrative 
+incapacity of local governments, and believe transferring 
+functions without equivalent financial resources or needed 
+technical support is a recipe for failure.  The success of 
+decentralization policy is likely to vary from region to 
+region, primarily as a function of the potential for economic 
+development there.  By pursuing accelerated administrative 
+decentralization, the Garcia government hopes to minimize its 
+responsibility for social conflicts in newly "decentralized" 
+regions -- but it is unlikely to escape such responsibility 
+in the end.  End Summary. 
+
+Hypercentralization 
+------------------- 
+¶2.  (U) "Lima is Peru, and Peru is Lima" goes a national 
+refrain.  Home to roughly 9 million people (more than one 
+third of the country's population), Lima is the fulcrum and 
+reference of national political life, the undisputed economic 
+center (producing close to half of the gross national 
+product), the sole financial hub, and the clear social and 
+cultural capital.  No other Peruvian city comes close to 
+matching its multifarious heft.  As one national politician 
+noted, Lima generates enormous centripetal pressure that 
+"sucks" everything toward its vortex: investment, people, 
+business, construction, traffic.  Partly to counteract the 
+negative consequences of such hypercentralization, and to 
+redress the acute underdevelopment of the southern highlands 
+and Amazonian regions in particular, decentralization has 
+been pursued in fits and starts by various administrations in 
+the past.  After passage of a framework decentralization law, 
+in 2002 Regional Presidents were chosen in popular elections 
+(rather than appointed by the central government) for the 
+first time. 
+
+Decentralization as Cornerstone 
+------------------------------- 
+¶3.  (SBU) Under the Garcia administration, decentralization 
+has emerged as a cornerstone of the government's state reform 
+plan.  This effort aims to bring government closer to the 
+governed and to respond to widespread demands for more and 
+better public services, particularly in regions virtually 
+abandoned by the state and left out of Peru's economic surge. 
+ To underscore his commitment to this process, in April 
+President Garcia signed an executive decree to transfer 185 
+functions from the central government to regional and 
+municipal governments by the end of 2007.  This represented a 
+significant acceleration of a timetable that was initially 
+set to take place over Garcia's full five year presidential 
+term.  The GOP set up 20 decentralization objectives or 
+"shocks" to help achieve this goal (Ref A).  Garcia signed 
+the plan in the northern region of Piura, the first stop of a 
+region-by-region tour intended to highlight his desire to 
+push government out of the capital city and into the 
+provinces.  Spurred by the executive, Congress has also 
+approved supplemental credits to funnel state resources to 
+the sub-national level. 
+
+¶4.  (SBU) In response to pressure from regional presidents 
+and to help free up the significant moneys that are sitting 
+idle in government coffers, Garcia recently signed a separate 
+supreme decree limiting the role of the onerous System of 
+National Public Investments (SNIP) (and the state public 
+procurement system) in approving development projects in 
+
+education, health, transportation, communication and 
+agriculture for regions and municipalities (Ref C).  After 
+discussions with the Finance Minister, who has responsibility 
+for the SNIP function, the President rescinded the decree and 
+subsequently issued a revised one that limited SNIP 
+intervention to large-scale regional projects.  The revised 
+decree also formed two commissions tasked with making 
+recommendations to streamline the SNIP and government 
+adquisitions processes in orQo make them more 
+user-friendly (particularly) for regional and local 
+officials.  Many analysts believe that in issuing the decree 
+Garcia was motivated by the desire to see that urgently 
+needed and impatiently awaited regional development and 
+infrastructure projects were kicked off with all possible 
+dispatch. 
+
+Government Ambivalence 
+---------------------- 
+¶5.  (SBU) Despite the Garcia Administration's public and 
+private statements of commitment to decentralization, 
+analysts suspect it is ambivalent about implementation. 
+Grover Pango, head of the Executive Secretariat for 
+Decentralization, recently underscored to us the government's 
+genuine commitment to decentralization.  And yet the 
+Secretariat he heads -- now part of the PM's office -- was 
+
+SIPDIS 
+created out of the formerly autonomous National Council for 
+Decentralization (CND), a move that effectively and 
+ironically recentralized this pivotal function (Ref C). 
+(Note: Observers acknowledge that the former CND was not 
+doing its job and therefore needed to be overhauled.  After 
+the CND was disbanded, the country's 25 regional presidents 
+formed the "National Assembly of Regional Governments" as a 
+vehicle to maintain leverage and to continue pressing the 
+national government for effective decentralization.  End 
+Note.)  Pango added that he was being tasked to implement the 
+accelerated decentralization schedule with a skeleton staff, 
+most of whom had little experience with the critical issues 
+in question.  Some analysts say that the government's mixed 
+signals reflect real internal divisions, with several top 
+government officials firmly in favor (PM Del Castillo, FM 
+Garcia Belaunde) and others more inclined to maintain strong 
+centralized control.  Many believe that President Garcia 
+himself -- at once keenly aware that decentralization is an 
+urgent priority and yet instinctively centralist in his 
+approach to governing -- embodies this ambivalence. 
+
+¶6.  (SBU) The government's ambivalence was reinforced by the 
+results of the November 2006 regional and municipal 
+elections, in which a plethora of local leaders representing 
+mostly narrow local interests gained power and the ruling 
+APRA party captured only 2 of 25 regional presidencies.  The 
+government now has to deal with a mixed bag of regional 
+forces, some friendly, some hostile, and many in between. 
+The result so far has been predictable: the government has 
+willingly transferred functions in some cases while proving 
+reluctant to do so in others.  The recent civil unrest in 
+Ancash was a case in point.  In April, the Regional Governor 
+of Ancash Cesar Alvarez -- widely seen as a hot-head and 
+openly hostile to the APRA government -- organized a blockade 
+of the Pan-America Highway in retaliation for the central 
+government's refusal to transfer administration and execution 
+of the Chinecas Hydroelectric/Irrigation Project to his 
+government -- giving it instead to a small municipal 
+government headed by an APRA ally.  Alvarez was particularly 
+angry because seven other National Institute of Development 
+(INADE) projects of similar scope had gone (as they should) 
+to regional governments.  This situation fueled a violent 
+protest that disrupted one of the country's main 
+thoroughfares for several days and resulted in at least two 
+deaths.  (The national government has since decided to 
+transfer the project to the regional administration.) 
+
+Obstacles to Decentralization 
+----------------------------- 
+¶7. (U) Many analysts are further concerned about two related 
+obstacles to effective decentralization.  The first is the 
+administrative incapacity of regional and municipal 
+governments.  Regional President of Junin (and current head 
+of the National Assembly of Regional Presidents) Vladimiro 
+
+Huaroc recently told us he wanted the regional government to 
+assume greater responsibilities quickly because it understood 
+the region's priority needs much better than the central 
+government did.  At the same time, he was wary about the 
+ability of the government's administrative apparatus, which 
+he characterized as dilapidated and dysfunctional, to handle 
+the additional load.  Cusco Regional President Hugo Gonzales 
+Sayan echoed this view, and went on to describe his 
+government's permanent bureaucracy as unenthusiastic, 
+unmotivated and unlikely to want to assume greater 
+responsibilities in the future.  (Comment: In support of 
+decentralization, the USG, through the USAID-funded PRODES 
+program, has been training regional and municipal government 
+officials to strengthen their capacity, including in the 
+design and implementation of developmental projects that meet 
+Ministry of Finance (SNIP) requirements.  One challenge has 
+been administrative turnover at the regional and local 
+levels.  End Comment.)  To counter the pessimistic view, some 
+analysts emphasize that the administrative capacity of the 
+national government is no great shakes either, and that the 
+best way to develop local capacity is by trial and error. 
+
+¶8.  (SBU) The second concern is that the central government 
+will transfer functions without transferring the financial 
+resources or providing the technical training needed to carry 
+them out -- implementing what amounts to an unfunded mandate. 
+ Many believe that, without such support, moves to 
+decentralize will exacerbate strains on already overtaxed and 
+underfunded government mechanisms, and almost inevitably 
+result in failure.  Finance Ministry official Carlos Casas 
+told us recently that the current decentralization plan does 
+not yet link functions to revenue streams, and that the 
+central government was still contemplating various approaches 
+to budgetary decentralization, including the transfer of 
+certain kinds of tax authority from the central government to 
+its regional counterparts.  In response to concerns about the 
+lack of technical training, the Prime Ministers office has 
+pledged to contract ten experts per region to assist local 
+officials manage the increased administrative burdens that 
+effective decentralization will bring.  The Economic and 
+Finance Ministry has also committed to opening offices in 
+each region to help regional government and municipalities to 
+develop projects.  To date, seven such offices have been 
+established. 
+
+Success Depends on Economic Decentralization 
+-------------------------------------------- 
+¶9.  (SBU) The ultimate success of decentralization is likely 
+to vary from region to region, largely as a function of the 
+economic potential found there.  President of Congress's 
+Decentralization Committee, UN Congressman Juan Carlos 
+Eguren, asserted to us recently that the government's primary 
+focus on administrative, vice economic, decentralization was 
+to put the cart before the horse.  The trick, he said, was to 
+generate poles of economic development throughout the country 
+that can compete with Lima for investment, labor and human 
+capital.  (Many claim that Lima alone offers the kind of 
+basic services network -- schools, hospitals etc. -- and 
+multifaceted lifestyle options demanded by Peru's 
+professional class.)  Other analyst agree with this view, and 
+argue that transferring administrative functions without 
+fomenting economic development in the regions is like sailing 
+into the wind.  Peru's emerging agro-industrial regions such 
+as Ica and the northern coast -- which have boomed 
+economically, enjoyed close to full employment and begun 
+drawing migrants away from Lima -- appear to bear this 
+analysis out, suggesting grounds for incipient optimism on 
+the decentralization of economic development.  Other 
+observers say that transferring administrative functions 
+without building the larger structure of incentives needed 
+for a region to thrive more generally was an incomplete 
+strategy, particularly for politically vulnerable and 
+volatile areas such as Puno, Apurimac and Ayacucho -- the 
+heart of the southern sierras. 
+
+Comment: Decentralizing Blame 
+----------------------------- 
+¶10.  (SBU) The demand for more and better services throughout 
+Peru's regions probably outstrips the ability of government, 
+
+at any level, to deliver -- at least in the short term.  In 
+that sense, by pursuing accelerated administrative 
+decentralization, the Garcia government aims to minimize its 
+responsibility, and to share the blame, for persistent 
+discontent and inevitable social conflicts in newly 
+"decentralized" regions.  But if recent experience provides 
+any indication, when the going gets tough regional and local 
+leaders will seek to pass the hot potato back to the central 
+government and quickly make themselves scarce.  (Even Lima 
+Mayor Luis Castaneda, a presumed 2011 Presidential hopeful, 
+dropped conspucuosly out of public view when pressure mounted 
+around the Santa Anita market impasse -- Ref D).  When that 
+happens, the central government will likely assume the 
+responsibility, or the blame, for whatever happens in the end. 
+STRUBLE 
+
+=======================CABLE ENDS============================
