@@ -3,3 +3,194 @@ KENYA - DOING BUSINESS THE CHINESE WAY
 Tue Oct 30 00:00:00 +0100 2007
 UNCLASSIFIED//FOR OFFICIAL USE ONLY
 Embassy Nairobi
+VZCZCXRO2675
+RR RUEHGI RUEHRN
+DE RUEHNR #4246/01 3030813
+ZNR UUUUU ZZH
+R 300813Z OCT 07
+FM AMEMBASSY NAIROBI
+TO RUEHC/SECSTATE WASHDC 3164
+INFO RUEHXR/RWANDA COLLECTIVE
+RUEHBJ/AMEMBASSY BEIJING 0373
+RUEHGH/AMCONSUL SHANGHAI 0021
+RUEHGZ/AMCONSUL GUANGZHOU 0027
+RUEHSH/AMCONSUL SHENYANG 0018
+RUEHCN/AMCONSUL CHENGDU 0019
+RUEATRS/DEPT OF TREASURY WASHDC
+RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS SECTION 01 OF 02 NAIROBI 004246 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+ 
+STATE PASS USTR - BILL JACKSON 
+STATE FOR AF/E, AF/EPS AND EB/CIP 
+ 
+E.O. 12958:  N/A 
+TAGS: ECON ECPS EFIN KCOR CH KE
+SUBJECT: KENYA - DOING BUSINESS THE CHINESE WAY 
+ 
+REF: NAIROBI 4202 
+ 
+NAIROBI 00004246  001.2 OF 002 
+ 
+ 
+Sensitive-but-unclassified.  This cable is not for release outside 
+USG channels. 
+ 
+¶1.  (SBU) Summary: Chinese firms selling into Kenya's information 
+and communications technologies (ICT) sector are throwing a lot of 
+money around, according to industry contacts.  Indeed, Chinese 
+influence may be so great that it is distorting important investment 
+decisions in the country.  Putting aside corruption, Chinese ICT 
+vendors are difficult to beat on price and quality, and therefore 
+often win government procurement tenders.  However, companies that 
+buy Chinese equipment often find that they end up paying the piper 
+later due to poor after-sales service.  End summary. 
+ 
+¶2.  (U) In the course of gathering information for reftel report on 
+developments in Kenya's information and communications technology 
+(ICT) sector, interesting anecdotes emerged about the way Chinese 
+firms do business in Kenya. 
+ 
+---------------------------- 
+China "Re-Colonizing Africa" 
+---------------------------- 
+ 
+¶3.  (SBU) "The Chinese are re-colonizing Africa for natural 
+resources," according to Michael Joseph, the Amcit CEO of Safaricom, 
+Kenya's largest and most successful mobile phone company, speaking 
+to U.S. Mission staff on October 18.  Joseph diverged from his brief 
+on Kenyan efforts to build FONN, a new terrestrial national fiber 
+optic network (reftel), to say the project is an example of how "the 
+Chinese are driving the ICT agenda in Kenya."  FONN, he said, was 
+poorly planned - consciously so, in his view, so that Chinese 
+companies could get fatter contracts.  As noted reftel, FONN will 
+extend all the way to the borders of Kenya's neighbors, which means 
+it will traverse vast tracts of virtually empty land in Kenya's 
+northern and western reaches.  Two Chinese firms and one French firm 
+have been awarded contracts to construct the network.  According to 
+Joseph: "We don't need fiber to Garissa (in sparsely populated 
+Northeast Province), we need it in Nyeri" (a bustling market town 
+just north of Nairobi). 
+ 
+--------------------------------------------- ---- 
+Chinese Stuff: Good and Cheap, But Service Stinks 
+--------------------------------------------- ---- 
+ 
+¶4.  (SBU) Joseph went on to describe the use by Chinese ICT vendors 
+of concessional credits from the Chinese government to lock up 
+contracts - nothing new there.  Echoing the views of many industry 
+contacts, he said the quality of the ICT equipment provided by 
+companies like Huawai and ZTE is pretty good, and their prices are 
+low.  But he used a monosyllabic expletive beginning with "S" to 
+describe after-sales service.  When there are equipment problems 
+later, he said, the Chinese run for the door, and matters are made 
+worse by the language barrier. Safaricom purchased equipment last 
+year from Huawei, but the deal was too good to be true.  Huawei 
+effectively reneged and only delivered half the equipment promised 
+in the contract.  Joseph went to China personally, eventually got 
+the Huawai CEO to admit that the company had lied, and then forced 
+it to cancel the contract. 
+ 
+---------------------------------------- 
+Chinese Buying Politicians and Influence 
+---------------------------------------- 
+ 
+¶5.  (SBU) More insidious, said Joseph, is that "the Chinese" (by 
+this we believe he meant Chinese firms, not the government) are 
+"funding the political agenda" of Kenyan politicians and ministers. 
+When he returned from China after cancelling the Huawei contract, he 
+was summoned to the office of Mutahi Kagwe, the Minister of 
+Information and Communication, and told the cancellation put all 
+Chinese foreign assistance to Kenya at risk.  He also received phone 
+calls from different ministers with no responsibility for ICT who 
+insisted that he reconsider the cancellation.  One was the Minister 
+of Immigration, who hinted that Joseph, a foreigner, might have work 
+permit problems if he cancelled the contract.  He held his ground. 
+Joseph said that whenever he meets with a Chinese firm, "within 20 
+minutes" he receives calls from various Kenyan ministers or members 
+of parliament lobbying on behalf of the company. 
+ 
+¶6.  (SBU) Another likely manifestation of the undue influence and 
+ 
+NAIROBI 00004246  002.2 OF 002 
+ 
+ 
+unfair play by the Chinese, said Joseph, was the recent Phase II 
+expansion of the CDMA fixed wireless service being rolled out by 
+Kenya's monopoly fixed line phone company, Telkom Kenya (see 
+reftel). Because of Telkom Kenya's state-owned status, the project 
+by law should have been put out for public tender.  But instead, the 
+Kenyan government quietly and unilaterally awarded the contract to 
+Huawei, the Chinese company that did Phase I.  Separately in August, 
+the CEO of one of the country's largest internet service providers 
+confirmed the details of the deal, which he said raised eyebrows 
+throughout the industry. 
+ 
+--------------------------------------------- ---- 
+Telkom Kenya Looking for Non-Chinese Tech Partner 
+--------------------------------------------- ---- 
+ 
+¶7.  (SBU) Asked about China's influence in the ICT sector on October 
+18, the more restrained CEO of Telkom Kenya, Sammy Kirui, insisted 
+that the Chinese "can't throw their weight around too much." He 
+echoed Joseph's assessment that Chinese equipment is decent quality 
+and low price. But like Joseph, he complained that "you pay down the 
+line" in terms of poor after-sales service.  As a state-owned 
+entity, he said, Telkom has to follow government procurement 
+procedures, and "the Chinese always do well on government tenders." 
+After Telkom is privatized (reftel), however, it will have more 
+flexibility to procure equipment on the basis of factors beyond 
+price, such as network compatibility.  The company already counts 
+Huawei as a "strategic technical partner", but has issued an 
+expression of interest for a second such partner.  Huawei rival ZTE, 
+also a Chinese company, is pressing hard, but Kirui insists that the 
+company's second strategic tech partner must be non-Chinese. 
+ 
+------------------------------------------ 
+Finding Ways Around the Chinese Juggernaut 
+------------------------------------------ 
+ 
+¶8.  (SBU) More emphatic is the Permanent Secretary of Information 
+and Communications, Dr. Bitange Ndemo.  Ndemo, a talented former 
+U.S.-resident business executive, has repeatedly lamented the 
+inability of U.S. firms to win Kenyan government tenders.  A strong 
+proponent of U.S. technology, he is resorting to creative ways to 
+circumvent a tender process which he sees as handcuffing the country 
+by virtually guaranteeing that it is forced to buy low-cost Chinese 
+equipment, without heed to other important factors, such as 
+after-sales service and network compatibility.  Ndemo recently 
+signed a memorandum of agreement for a public-private partnership 
+with a Saudi firm that for the most part sells and services 
+U.S.-made equipment.  The deal calls for the construction of at 
+least one $30 million data center that will complement the roll-out 
+of the national fiber network.  By structuring the relationship in 
+this way, Ndemo believes he can legally buy the equipment and 
+technology most appropriate for Kenya, without having to pander only 
+to the lowest price seller. 
+ 
+¶9.  (SBU) More generally, Ndemo regularly expresses concern about 
+the influence of China in the ICT sector.  Without providing 
+details, he has told Econ/C many times that he and other senior 
+technocrats are under constant pressure from their own ministers and 
+the country's senior political leadership to buy Chinese. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶10.  (SBU) The views and anecdotes conveyed by people like Joseph 
+and Ndemo put a bit flesh on the bones of the oft-repeated (but 
+seldom proven) contention that Chinese companies play dirty.  Most 
+disturbing in this case is the idea that Chinese influence is so 
+great that it's actually distorting critical investment decisions in 
+Kenya's all-important ICT sector.  For further investigation is the 
+role of the Chinese government.  We wonder if it simply turns a 
+blind eye to the dirty work of Chinese firms, or if it actively 
+contributes to the problem. 
+Ranneberger
+
+...
