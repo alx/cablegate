@@ -3,32 +3,3 @@ NO TIMELINE SET FOR OFFER OF A SECOND FIXED LINE TELECOM LICENSE REF: CAIRO 1928
 Mon Oct 26 00:00:00 +0100 2009
 UNCLASSIFIED//FOR OFFICIAL USE ONLY
 Embassy Cairo
-VZCZCXYZ0000
-PP RUEHWEB
-
-DE RUEHEG #2042 2991509
-ZNR UUUUU ZZH
-P 261509Z OCT 09
-FM AMEMBASSY CAIRO
-TO RUEHC/SECSTATE WASHDC PRIORITY 3997
-INFO RUCPDOC/DEPT OF COMMERCE WASHDC PRIORITYUNCLAS CAIRO 002042 
- 
-SENSITIVE 
-SIPDIS 
- 
-DEPT FOR NEA/ELA AND NEA/EEB 
-DEPT OF COMMERCE FOR IT MAS AND NTIA 
- 
-E.O. 12958: N/A 
-TAGS: ECON EFIN EG PGOV ECPS EINV
-SUBJECT: NO TIMELINE SET FOR OFFER OF A SECOND FIXED LINE TELECOM LICENSE REF: CAIRO 1928
-1.(SBU) Key Points - GOE has no set timeline or conditions upon which to offer a second fixed line telecom license. - NTRA President Badawi believes any future offer of second fixed line license would be a revenue-sharing model.
-
-2.(SBU) On October 12, we met with Amr Badawi, President of the National Telecommunications Regulatory Authority (NTRA) and discussed the GOE,s postponement of offering a second fixed line license that would assist in fully de-regulating the telecommunications market. Badawi reiterated the official line that the GOE was postponing the offer of a second fixed line license due to the world economic crisis. Badawi stated that the Ministry of Communications and Information Technology (MCIT) and NTRA wanted to see better market conditions before they offered a second license; however, despite being pressed multiple times, Badawi was unable to define what would determine or quantify better market conditions.
-
-3.(SBU) Badawi claimed that Telecom Egypt lost 1.4 million fixed line customers over the past three to six months, most of whom were subscribers who were simply long overdue in paying their bills. Thus, Telecom Egypt had made the business decision to finally cut the lines off. Badawi used this figure to claim that fixed-line communication was not a growing industry but rather a dying one.
-
-4.(SBU) Badawi,s personal opinion is that if and when the GOE offers a second fixed-line license, it would most likely do so through a revenue-sharing model, as this would be less of an up-front burden to a new entrant into the market. Badawi stated that he would like to see a new entrant have a reasonable chance of success before determining that GOE will offer a new fixed line license. Badawi believes that although Telecom Egypt has the fixed line monopoly, mobile phone operators serve as its competition, as more residential subscribers were moving away from having fixed lines in their homes and simply using cellular phones. Badawi also worried that the infrastructure and its associated costs would be too burdensome for a new entrant into the fixed-line market and that this would in turn affect the GOE,s ability to make decent revenue from the project.
-
-5.(SBU) Comment: The MCIT is not committed to implementing a full de-regulation of the fixed line market in Egypt and has yet to explain what specifics they are waiting for to make a decision on offering a new license. If the GOE were to offer a new fixed line license based on a revenue-sharing model, there would be little cost to the GOE while at the same time opening up the market to full competition. The recent decision by the MCIT to offer two new "triple-play" or "compound" licenses for small, gated communities (Reftel) may serve as a temporary solution to start breaking up Telecom Egypt's monopoly on fixed line; however, it is only a small step. Although fixed line growth is not likely to be high given the ever-expanding technologies in Egypt, the GOE has the opportunity to offer another license for bundled services to include fixed line that may attract more bidders. While the NTRA has tended to focus on the effect that fixed line communication has on private citizens, NTRA does not address the effect that this has on potential businesses and investment. As most businesses need a fixed line operation, the monopoly that Telecom Egypt has on fixed line can impact costs. Scobey
-...
