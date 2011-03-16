@@ -3,3 +3,256 @@ KENYA: DID KIBAKI REALLY STEAL THE ELECTION?
 Thu Jan 17 00:00:00 +0100 2008
 UNCLASSIFIED
 Embassy Nairobi
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHNR #0199/01 0171703
+ZNR UUUUU ZZH
+R 171703Z JAN 08
+FM AMEMBASSY NAIROBI
+TO RUEHC/SECSTATE WASHDC 4287
+INFO RUEHXR/RWANDA COLLECTIVE
+RUEHLO/AMEMBASSY LONDON 2580
+RUEHFR/AMEMBASSY PARIS 2506UNCLAS NAIROBI 000199 
+ 
+SIPDIS 
+QENSITIVE 
+ 
+SIPDIS 
+ 
+DEPT FOR AF/E 
+LONDON AND PARIS FOR AFRICA WATCHERS 
+ 
+E.O. 12958:N/A 
+TAGS: PGOV KCOR PREL KE
+SUBJECT: KENYA: DID KIBAKI REALLY STEAL THE ELECTION? 
+ 
+REF: A. Doherty-AF/E e-mail of 09 Jan 08 
+      ¶B. Nairobi 0013 
+ 
+Sensitive-but-Unclassified.  Please handle accordingly. 
+ 
+¶1.  (SBU) Summary: Kenya's hotly contested December 27 presidential 
+election has been controversial on a number of levels, and many 
+observers still question who actually won.  When we looked at any and 
+all available data to try to answer that question, we found evidence 
+of rigging on both sides and confirmation that some of the rigging 
+took place inside ECK headquarters itself.  By analyzing various 
+datasets (available on request), we developed scenarios that could 
+point to either a Kibaki or a Raila victory.  We do not think it will 
+ever be possible to tell definitively who actually won the election. 
+This is due in part to the compromise of election officials and 
+election-related ballots and forms, but also because our estimated 
+number of "ghost votes" (i.e., stuffed ballots) from both sides 
+easily exceeded President Kibaki's margin of victory.  End summary. 
+ 
+--------------------------------------------- ------ 
+PNU Steals Votes for Kibaki at 11th Hour at KICC... 
+--------------------------------------------- ------ 
+ 
+¶2.  (SBU) Ref B provides the context for the disputed results of 
+Kenya's December 27 presidential election, in which incumbent 
+President Mwai Kibaki was announced the winner by the Electoral 
+Commission of Kenya (ECK) late in the afternoon of December 31, and 
+then immediately sworn in as president.  Raila Odinga of the Orange 
+Democratic Movement (ODM) continues to insist that he in fact won the 
+election.  Specifically, he claims that he was cheated out of the 
+presidency when a politicized and/or compromised ECK leadership 
+altered constituency-level vote tally sheets in the tense days 
+between the closure of polls late on December 27 and the 
+controversial announcement of results in Kibaki's favor on December 
+¶30.  Right or wrong, the perception of an election brazenly stolen by 
+the incumbent administration was the initial spark for tribally-based 
+attacks and mass demonstrations that have since left over 600 Kenyans 
+dead and the country embroiled in a major, unresolved political 
+crisis. 
+ 
+-------------------------------------------- 
+...But Did it Provide the Margin of Victory? 
+-------------------------------------------- 
+ 
+¶3.  (SBU) There is little doubt that there were major irregularities 
+in the way constituency vote tallies were received, verified and 
+reported by the ECK in Nairobi between December 28 and December 30, 
+and there appears little doubt that the cheating that took place at 
+this level was done so exclusively by Party of National Unity (PNU) 
+partisans in Kibaki's favor.  There was cheating at the constituency 
+level by the ODM and PNU.  An interesting question arises: 
+Numerically, did this unprecedented form of central-level, 11th hour 
+cheating in fact make the difference in who won and who lost?  In 
+other words, in taking into account all the data available, was the 
+cheating that occurred at KICC significant enough numerically to 
+provide the margin of victory for Kibaki?  The answer has important 
+implications for how the current crisis might be resolved. 
+ 
+----------------------------------------- 
+A Major Caveat About Local-Level Cheating 
+----------------------------------------- 
+ 
+¶4.  (SBU) An important caveat hangs over the analysis below, and over 
+the election results more generally.  This is that despite praise 
+from all quarters that election day voting was generally free and 
+fair, in fact there is strong circumstantial evidence indicating that 
+more traditional forms of cheating, such as ballot stuffing at 
+polling stations and/or constituency-level tallying centers, probably 
+played an important role in determining the final results of the 2007 
+presidential election.  This was possible because despite the 
+extensive monitoring, there were no party agents or international 
+observers at many polling stations and vote tallying centers (and 
+domestic observation that was more widespread was of mixed 
+reliability).  In Kenya, it is very unlikely that a voter would cast 
+a presidential ballot and not a parliamentary one.  Yet there were 
+significant discrepancies in six of Kenya's eight provinces between 
+votes cast for parliament vs. those cast for president. 
+ 
+¶5.  (SBU) These discrepancies total 459,100 votes, or 4.6 percent of 
+all votes cast, dwarfing Kibaki's margin of victory (230,478 votes, 
+or 2.3 percent of all votes cast).  It is impossible to conclude 
+definitely how many of these "ghost votes" went to each candidate, 
+but the margin of uncertainty these extra votes create easily exceeds 
+Kibaki's margin of victory. 
+ 
+¶6.  (SBU) But in moving back to trying to determine how many votes 
+were "stolen" at the central level after polls closed and the results 
+were being returned to Nairobi, it is critical to find credible 
+discrepancies between the presidential vote tallies unofficially 
+disclosed at the constituency-level tallying centers the night of 
+December 27, and the official results announced by the ECK in Nairobi 
+in the days thereafter.  Significant discrepancies would indicate 
+that the results were doctored enroute to, or after arriving in 
+Nairobi, as per the claims of ODM and others.  To try to quantify 
+these discrepancies, Post gathered polling data from a variety of 
+sources and ran the numbers in several different ways, each discussed 
+below. 
+ 
+--------------------------------- 
+The Official Results: Kibaki Wins 
+--------------------------------- 
+ 
+¶7.  (SBU) The official ECK documentary results show Kibaki winning 
+4,583,358 votes to Raila's 4,352,880, for a margin of victory of 
+230,478. (Note: This dataset comes from hardcopy tally sheets for all 
+constituencies obtained from ECK sources on January 4.  These results 
+vary from the ECK results verbally announced December 28-30, but the 
+difference is insignificant - a victory for Kibaki that is 1,363 
+votes narrower.  End note.)  This dataset forms the baseline against 
+which others below are compared for signs of discrepancies. 
+ 
+--------------------------------------------- --- 
+The Standard Newspaper: Kibaki Wins, But by Less 
+--------------------------------------------- --- 
+ 
+¶8.  (SBU) A spreadsheet obtained January 4 from the Standard 
+Newspaper (which was considered pro-Odinga) reports unofficial 
+results gathered by Standard journalists at the constituency tallying 
+centers on the night of December 27.  The Standard dataset has 
+results for all but 12 of 210 constituencies, and in 117 
+constituencies, the results match those of the ECK. Comparison 
+against official ECK results shows significant discrepancies (500 or 
+more added votes) in 35 constituencies in Kibaki's favor totalling 
+191,894.  But these gains are counterbalanced to a large extent by 
+the 149,579 votes inexplicably gained by Raila, indicating there was 
+vote rigging by ECK Returning Officers on both sides.  The net 
+result: Kibaki still wins with 4,391,464 to Odinga's 4,203,301. 
+Margin of victory: 188,163. 
+ 
+-------------------------------------- 
+Other Allegations: Raila Wins Narrowly 
+-------------------------------------- 
+ 
+¶9.  (SBU) In another scenario, Post subtracted from the official ECK 
+results discrepancies reported from the constituency level by a 
+number of observers, monitors, and other sources, including two ECK 
+contacts who provided documentary evidence to us of vote padding in 
+favor of Kibaki in six constituencies by Nairobi-based ECK officials. 
+ Other sources include the European Union election monitoring group, 
+which documented anomalies in six constituencies, domestic observers, 
+ODM party agents and partisan blogs.  The latter two sources would 
+have to be considered less reliable, but we threw them into the mix 
+to see what would happen.  All together, the dataset included alleged 
+discrepancies in 28 constituencies.  Numbers from the Standard 
+database were not included in this dataset.  With these important 
+caveats in mind, we ran the numbers, and found that Raila comes out 
+on top with 4,375,539 votes to Kibaki's 4,349,001.  Margin of 
+victory: A slender 26,538. 
+ 
+-------------------------------- 
+Merging Allegations: A Mixed Bag 
+-------------------------------- 
+ 
+¶10.  (SBU) Finally, we ran the numbers one more time, combining the 
+numbers from the Standard's database with the discrepancies reported 
+by other observers.  The Standard's discrepancies sometimes matched 
+reports from other sources, particularly with regard to disputed 
+votes for President Kibaki (nine matches for Kibaki versus three for 
+Raila).   In other cases, however, ECK, the Standard, and other 
+observers all reported different results for the same constituency 
+(this occurred a total of ten times). 
+ 
+¶11. (SBU) The results of this final analysis were mixed.  When giving 
+Kibaki the benefit of the doubt over differing discrepancies, he beat 
+Raila by 26,364 votes.  When Raila gained the benefit of the doubt, 
+however, he came out ahead by 57,425 votes. 
+ 
+--------------------------------------------- -- 
+Connecting Two Very Fuzzy Dots: Advantage Raila 
+--------------------------------------------- -- 
+ 
+¶12. (SBU) Finally, if we combine the four estimates of stolen votes 
+at the central level (paras 7-11) with our estimate of stuffed 
+ballots at the local level (paras 4-5) and then subtract these grand 
+totals from the official ECK results, the scenarios change slightly. 
+Either Raila or Kibaki wins, depending on how the votes are 
+apportioned.  Using a conservative assumption that apportions 
+according to the percentage of votes won in each constituency by each 
+candidate, the margins of victory are between 30,331 and 114,130 
+votes.  All of these scenarios assume extensive cheating on both 
+sides.  In all cases, the margin of victory for either side is slim 
+and ultimately unknowable. 
+ 
+----------------------- 
+Comment and Conclusions 
+----------------------- 
+ 
+¶13.  (SBU) This analysis is not the last word.  Additional data could 
+emerge that would alter the bottom lines, which are heavily caveated 
+to begin with.  Thus, our conclusions are by definition very 
+tentative.  It is now clear that the ECK became a victim of partisan 
+political interests during the election, and the ECK's failure as an 
+institution constitutes a dark spot on Kenya's democratic evolution. 
+(Note: After the results were announced and ECK officials were sent 
+home, a "break-in" at the heavily guarded KICC building occurred.  We 
+do not know what was taken or altered, but since there was heavy 
+police security around the ECK, we can only conclude that it was an 
+inside job.  End Note.) 
+ 
+¶14. (SBU) What the analysis does tell us is that it's not at all 
+clear who actually would have won the presidency had the election 
+been truly transparent, free, and fair.  The only thing we know for 
+sure on the basis of our incomplete and possibly flawed data is that 
+we don't know for sure, and that whoever won likely did so by a very 
+slim margin.  This flies in the face of the position adopted by the 
+ODM and others as mantra: That the election was brazenly stolen by 
+Kibaki's ECK insiders at the last moment and that Raila should have 
+won by a wide margin.  It also contradicts any perception or 
+conviction within the Kibaki camp that the latter clearly won the 
+race.  The fact of the matter is, as ECK Chairman Kivuitu said 
+publicly on January 1, "I do not know if Kibaki won the election." 
+ 
+¶15. (SBU) One implication of our analysis is that a recount or an 
+independent audit of the December 27 results as a practical matter 
+would probably not be able to definitively determine the true winner, 
+particularly since it appears the election's paper trail has since 
+been compromised.  And even if an honest audit could be conducted, 
+the results might be so close as to fuel further controversy and 
+unrest.  Another implication is that holding a run-off election might 
+likewise result in a very close race.  After what happened during 
+this election, Kenya's electoral institutions cannot credibly conduct 
+a free, fair, and transparent election until fundamental reform has 
+been carried out. 
+ 
+¶16. (SBU) Note: We have forwarded our datasets (see ref A) to AF/E 
+and INR for further analysis.  Please contact Rachael Doherty at 
+DohertyRT@state.gov if you would also like to receive a copy. End 
+Note. 
+Ranneberger
