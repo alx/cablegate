@@ -3,3 +3,38 @@ EGYPT FAILS TO MAKE CONCERTED EFFORT TO EXPAND
 Mon Oct 26 00:00:00 +0100 2009
 UNCLASSIFIED//FOR OFFICIAL USE ONLY
 Embassy Cairo
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHEG #2041/01 2991509
+ZNR UUUUU ZZH
+P 261509Z OCT 09
+FM AMEMBASSY CAIRO
+TO RUEHC/SECSTATE WASHDC PRIORITY 3995
+INFO RUCPDOC/DEPT OF COMMERCE WASHDC PRIORITYUNCLAS CAIRO 002041 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPT FOR NEA/ELA AND NEA/EEB 
+DEPT OF COMMERCE FOR IT MAS AND NTIA 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN EINV PGOV EG ECPS
+SUBJECT: EGYPT FAILS TO MAKE CONCERTED EFFORT TO EXPAND 
+BROADBAND 
+ 
+REF: STATE 27310
+1.(SBU) Key Points: - NTRA does not have a cohesive policy to expand broadband internet service to underserved areas. - NTRA President and private sector media executives believe the lack of Arabic language content on the internet has prevented demand from growing in underserved areas. - TEData Chairman believes that line-sharing is the real challenge preventing a growth in demand and a push for more broadband in underserved areas.
+
+2.(SBU) On October 12, Econoff met with Amr Badawi, President of the National Telecommunications Regulatory Authority (NTRA), to discuss Egypt,s efforts to expand broadband internet services to underserved areas. Badawi stated that he was not satisfied with the current broadband situation in Egypt but that he was still investigating the best way to extend broadband. Badawi stated that the lack of Arabic-language content on the internet was still one of the biggest impediments to extending broadband to the rural and underserved areas of Egypt. He claimed that increasedbroadband penetration ha not increased Arabic content, and the GOE will need to work directly with content sites to improve this situation. The Ministry of Communications and Information Technology (MCIT) has not directed efforts to push for E-governance, which would increase Arabic content for services on the internet, but has rather relied on individual ministries (such as the Ministry of Culture and Ministry of Education) to make individual progress in this area.
+
+3.(SBU) Badawi claimed that the use of 3G wireless technology was impacting the extension of broadband, as approximately 200,000 people are using 3G to deliver their internet services. Badawi noted that the government was looking at two parallel tracks: increasing demand in order to generate access, while at the same time providing access in order to generate demand; however, he was unable to describe how the government was working on this.
+
+4.(SBU) Azza Torky, Chairman of TEData, an internet service provider that is 90 percent owned by Telecom Egypt, told Econoff that the lack of Arabic content was not the reason behind the lack of broadband or demand in rural and underserved areas of Egypt, citing for example the ability for people to read the news (such as Al Masry Al Youm) on line interactively and leave comments. Torky stated that line-sharing is one of the challenges that internet companies face in outlying areas of Egypt, by which multiple users or households share the same fixed line. In the Delta region of Egypt, for example, Torky stated that there is typically one line for every four homes receiving service. Torky also believes that the GOE needs to focus on increasing internet education in schools, rather than simply providing them with personal computers. It should also better publicize those E-government services that are currently available, such as obtaining birth certificates, renewing drivers licenses, and viewing traffic tickets.
+
+5.(SBU) Torky does not believe that the entrance of 3G technology is competition with fixed lines but rather works as a complement. Torky stated that TEData,s biggest growth area is from users moving from narrow band to broadband and that they rarely saw users moving from no services straight to broadband. TEData sees Upper Egypt as the fastest growing area, despite the fact that their numbers in that region are still relatively low. Approximately 60 percent of TEData,s users are in Cairo, while 15-17 percent are in the Alexandria area, and 10 percent in Upper Egypt. TEData finds customers to be price sensitive to internet costs and noted that internet costs are lower than they have ever been, the minimum being LE 45 (US $9) per month to get broadband.
+
+6.(SBU) Econoff also met with Sherif Iskander, Executive Manager for Online Entertainment and Digital Media with Rotana, the Arab world's largest entertainment company with ventures in film, magazines, television, and music. Iskander stated that most potential companies who would be interested in a fixed line license do not have the money to build and establish the infrastructure in outlying areas because prices and therefore revenue are too low, and GOE would likely find it difficult to attract bidders for a purely fixed line license at this point. Iskander also explained that in many rural areas, the current infrastructure can better support voice services but not data services. Iskander echoed Badawi's view that the expansion of broadband was being driven by supply instead of demand. He believed that there was a lack of demand in rural and underserved areas because of the lack of Arabic content in education, religion, sports, and entertainment and the lack of perceived daily value of the internet by the average Egyptian. Iskander believes that the GOE could assist in expanding internet usage and broadband in underserved areas by focusing on providing educational opportunities delivered through it. For example, the average Egyptian family spends a large portion of its income paying for private tutors, often hiring a tutor with a few other families to work with their children after school. Iskander believed that GOE could meet this demand by helping private online tutoring companies get established, thus cutting families' costs and increasing the use of the internet. However, Iskander pointed out that while MCIT has been more forward-leaning on moving to expand broadband and internet use, the GOE as a whole has not.
+
+7.(SBU) Comments: While MCIT does appear to have a sincere desire to expand broadband to rural and underserved areas, they have not worked effectively with other ministries to involve them in a concerted effort to do so. Rather, the MCIT appears to be hoping that ministries will do this on their own. In order to expand Arabic content, the MCIT would need to be more proactive in encouraging companies and various ministries to put practical Arabic content on websites that the average citizen could and would be interested in using. As it stands, neither the GOE nor the private sector has not done much to increase demand in rural and underserved areas for expanded broadband services. Scobey
