@@ -3,3 +3,263 @@ COSTA RICA: MERIDA SPOT REPORT #2: FBI CAFE
 Wed Sep 23 00:00:00 +0200 2009
 UNCLASSIFIED//FOR OFFICIAL USE ONLY
 Embassy San Jose
+VZCZCXYZ0017
+PP RUEHWEB
+
+DE RUEHSJ #0807/01 2661346
+ZNR UUUUU ZZH
+P 231346Z SEP 09
+FM AMEMBASSY SAN JOSE
+TO RUEHC/SECSTATE WASHDC PRIORITY 1225
+INFO RUEHZA/WHA CENTRAL AMERICAN COLLECTIVE
+RUEKJCS/SECDEF WASHDC
+RUEABND/DRUG ENFORCEMENT ADMIN HQ WASHINGTON DC
+RHMFIUU/CDR USSOUTHCOM MIAMI FL
+RHMCSUU/FBI WASHINGTON DCUNCLAS SAN JOSE 000807 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPT FOR WHA/CEN, INL/LP 
+ 
+E.O. 12958: N/A 
+TAGS: PREL PINR SNAR CS
+SUBJECT: COSTA RICA: MERIDA SPOT REPORT #2: FBI CAFE 
+EVALUATION VISIT 
+ 
+REF: A. ANDREW/JOHNSON EMAIL 21 SEPTEMBER 
+     ¶B. SAN JOSE 772 
+ 
+¶1. (SBU) SUMMARY.  From September 1-3, an FBI fingerprint 
+team evaluated Costa Rica's various fingerprint programs as 
+part of the Merida Initiative's Central American Fingerprint 
+Exchange (CAFE).  While noting the diverse levels of 
+sophistication of Costa Rica's fingerprint programs depending 
+on the ministry or organization, the FBI team concluded that 
+Costa Rica had a basic and working, if not up to date and 
+stove-piped, system.  The team recognized that Costa Rica's 
+various institutions needed to better coordinate and have 
+better connectivity in order to develop a strong domestic 
+fingerprint program.  As a result of this visit, the FBI will 
+provide a request for proposal (RFP) over the next several 
+months via the CAFE program.  END SUMMARY. 
+ 
+¶2. (SBU) As part of the USG's Merida Initiative in Costa 
+Rica, which includes improving policing/police equipment 
+(reported Ref B) and prison management, the FBI's George 
+Saymon and Michael Pettry as well as our regional LEGAT Paris 
+Johnson visited several Costa Rican law enforcement and civil 
+institutions to kick off the CAFE evaluation: 
+ 
+ -- Judicial Police Agency (OIJ), a rough equivalent to the 
+FBI, which in Costa Rica's case falls under the judicial 
+branch. 
+ 
+ -- National Civil Registry, the Costa Rican institution that 
+produces a national identification card for every citizen and 
+is part of a semi-autonomous government organization that 
+runs Costa Rica's elections (Supreme Electoral Tribunal-TSE). 
+ 
+ -- Ministry of Public Security (MPS), the ministry charged 
+with both domestic and national security as Costa Rica 
+abolished its military in 1948. 
+ 
+ -- Ministry of Justice (MOJ), which runs the country's 
+prison systems. 
+ 
+ -- Immigration, part of MPS but operates separately from the 
+regular uniformed police. 
+ 
+--- 
+OIJ 
+--- 
+ 
+¶3. (SBU) The FBI team found that the OIJ had an older, but 
+still effective Automated Fingerprint Identification System 
+(AFIS) in their facilities.  Jorge Rojas, the OIJ Director, 
+told us they were planning to upgrade their AFIS soon to be 
+able to hold more fingerprints as well as have an interface 
+that would link criminal records to fingerprint records. 
+(The AFIS currently has 156,000 records; upgrade would give 
+database up to 300,000).  Their new AFIS system would also 
+come with 10 remote locations, he said, but OIJ would prefer 
+to have 25 more terminals to cover their regional stations. 
+The OIJ also maintains a paper back-up system to their AFIS. 
+ 
+¶4. (SBU) Rojas told us that while the regional goal of CAFE 
+was important, it was more important that Costa Rica fully 
+develop and strengthen its domestic fingerprinting system 
+first.  He noted that of all of the Costa Rican government 
+entities that use fingerprints for one purpose or another, 
+his organization needed to have better connectivity to the 
+Ministry of Public Security and Immigration.  Once those 
+links were solidified and they had a good system in place, 
+Rojas added, Costa Rica would be a better regional 
+fingerprint-sharing partner.  FBI team member Saymon agreed 
+that putting a strong, national fingerprint system in place 
+first was important and he added that CAFE should be able to 
+assist in that effort. 
+ 
+¶5. (SBU) On the question of providing easy access to Costa 
+Rica's fingerprint database to the U.S., OIJ Rojas signaled 
+that it would need to be in compliance with the Costa Rican 
+constitution and that, at the least, there would probably 
+need to be a Memorandum of Agreement/Understanding (MOA/MOU) 
+in place in order to do this.  He added that Costa Rica would 
+expect reciprocity.  Saymon said he would provide a sample 
+MOA/MOU that the USG has done in other countries as a model. 
+ 
+--------------------------- 
+MINISTRY OF PUBLIC SECURITY 
+--------------------------- 
+ 
+ 
+¶6. (SBU) MPS Vice Minister Marcela Chacon and Deputy Director 
+of Costa Rica's uniformed police Kattia Chavarria provided 
+the FBI team a thorough briefing and tour of MPS's 
+fingerprint facilities.  While their fingerprint database is 
+the largest in the country with over 3 million prints, it is 
+in paper files only and not digitized.  The FBI team observed 
+how MPS fingerprint technicians analyzed, stored, and filed 
+their fingerprint cards.  VM Chacon, in referring to a 
+MOA/MOU between the USG and GOCR (as noted in para 5 above) 
+told us that the MOA could be more of a "Statement of Intent" 
+and that it could fall under the auspices of the Merida 
+Initiative or the 1962 Technical Assistance agreement between 
+the U.S. and Costa Rica. 
+ 
+----------- 
+IMMIGRATION 
+----------- 
+ 
+¶7. (SBU) Mario Zamora, Director of Costa Rican Immigration, 
+told us that his department was slowly upgrading their 
+digitization capabilities to include fingerprinting 
+technologies.  He said that of the 4.5 million inhabitants in 
+Costa Rica, approximately 600,000 were foreigners and 
+approximately 250,000-300,000 of them had an "irregular" 
+status.  In addition, he said that Costa Rica had more than 2 
+million tourist visitors each year. 
+ 
+¶8. (SBU) One area that Immigration has made significant 
+progress in is its legal permanent resident (LPR) card 
+program.  It uses the same basic card that U.S. LPRs use (and 
+made by the same company that the USG contracts with for LPR 
+cards).  Zamora provided us with a tour of his facilities 
+that included how they adjudicate, manufacture, and issue 
+these new cards.  They use a two-print system with other 
+biometric information, such as a photo and signature.  Zamora 
+said his agency had already issued 135,000 of these new cards 
+at a rate of approximately 10,000 cards a month.  They 
+already have plans to upgrade this card with an embedded 
+microchip that will contain personal information as part of 
+their "Digitize Government" program. 
+ 
+¶9. (SBU) Zamora agreed with OIJ Rojas' assessment that better 
+connectivity was needed between Immigration, MPS, and OIJ. 
+His main challenge, he said, was lack of resources. 
+ 
+------------------- 
+MINISTRY OF JUSTICE 
+------------------- 
+ 
+¶10. (SBU) Guillermo Ugalde, Director of the MOJ's 
+Penitentiary Police, and his team provided us with a 
+professional presentation detailing their need to upgrade 
+their current paper fingerprint system to an AFIS-type of 
+system.  (Per Ref A, we emailed this presentation to FBI 
+regional attache Paris Johnson).  Ugalde said that currently 
+they have 20 trained employees in the "Henry" fingerprint 
+system but would need technological training if they were to 
+get an AFIS system.  According to their estimates, to fully 
+digitize their records and to implement AFIS would cost 
+approximately $859,000. 
+ 
+¶11. (SBU) Ugalde underscored that Costa Rica's prison 
+population was growing in all of their 25 detention centers 
+located around the country, in part due to recently passed 
+security-reform laws including an organized crime law. 
+Fourteen of those centers are "closed" (meaning inmates spend 
+full time in jail) and have roughly 9100 prisoners; 11 of 
+them are "open" centers where 820 prisoners work outside of 
+jail during the day but sleep in jail facilities at night. 
+Finally, they also have what they call a "community" program, 
+somewhat similar to a parole system, with 5025 persons. 
+Ugalde added that some of their prisoners were "high value" 
+and very "visible" due to their connections to the FARC, and 
+their presence was forcing Costa Rica to change/update their 
+prison system. 
+ 
+----------------------- 
+NATIONAL CIVIL REGISTRY 
+----------------------- 
+ 
+¶12. (SBU) Marisol Castro, Director General of Costa Rica's 
+National Civil Registry (NCR), appreciated the FBI visit and 
+provided us a tour of their facilities.  Although not 
+directly linked to Costa Rica's law enforcement agencies, the 
+ 
+NCR maintains a fingerprint registry using two prints (each 
+index finger preferably) linked to other identifying 
+characteristics of all of Costa Rica's citizens.  When 
+necessary, they do cooperate with OIJ and others in official 
+investigations. 
+ 
+---------- 
+NEXT STEPS 
+---------- 
+ 
+¶13. (SBU) During a wrap-up meeting, FBI Saymon provided all 
+of the GOCR organizations that we visited a review of what 
+the FBI's (and others) next steps were to implement CAFE in 
+Costa Rica: 
+ 
+ -- Create an after action report (AAR) from this visit; 
+ 
+ -- From this AAR, develop a program proposal that would take 
+into account what fingerprint systems currently exist in 
+Costa Rica, what methods of assistance might be available, 
+and how to best meet the needs of both Costa Rica and the 
+U.S.; 
+ 
+ -- Once there is a program proposal, it would be cleared 
+through the interagency process, including Post and GOCR; 
+ 
+ -- Upon mutual agreement, the proposal would go to 
+Department of State for public advertisement for a contract; 
+ 
+ -- Once the contract has been awarded, then work could begin. 
+ 
+¶14. (SBU) Based on this process, Saymon estimated that work 
+would begin on the project near the end of 2010 or earlier 
+depending on the speed of the contracting process.  He 
+clarified that with the current Merida resources dedicated to 
+Costa Rica for CAFE, only the strengthening of its domestic 
+fingerprint capabilities would be addressed.  Additional 
+funding, he said, would be required to integrate CAFE into a 
+regional platform.  However, Saymon indicated that the FBI in 
+the short term might be able to provide fingerprint training 
+to Costa Rica. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶15. (SBU) Every GOCR agency appreciated the FBI fingerprint 
+evaluation visit.  OIJ will most likely be the main 
+organization that the FBI will be able to assist, with 
+probable emphasis on being able to help them link into the 
+fingerprint databases of MPS and Immigration.  However, MPS's 
+fingerprint system is wholly based on paper, so assisting MPS 
+in digitizing their records would seem to be appropriate. 
+Additionally, the MOJ has a clear plan on the shelf and any 
+assistance that the FBI can provide to it or any of the 
+organizations, even if just sending training teams to 
+demonstrate how to properly take fingerprints will benefit 
+Costa Rica immensely. 
+ 
+¶16. (U) Post appreciates the visit by the FBI evaluation team 
+and looks forward to further cooperation. 
+ 
+¶17. (U) FBI Saymon has cleared this report. 
+BRENNAN
