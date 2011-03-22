@@ -3,3 +3,72 @@ Costa Rica's Spectrum Auction
 Wed Jan 20 00:00:00 +0100 2010
 UNCLASSIFIED
 Embassy San Jose
+VZCZCXYZ0026
+RR RUEHWEB
+
+DE RUEHSJ #0102 0202322
+ZNR UUUUU ZZH
+R 202322Z JAN 10
+FM AMEMBASSY SAN JOSE
+TO RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEHC/SECSTATE WASHDC 0278
+INFO RUEHSJ/AMEMBASSY SAN JOSEUNCLAS SAN JOSE 000102 
+ 
+SIPDIS 
+DEPT FOR OFFICE OF INVESTMENT AFFAIRS-EB/IFD/OIA WHAT/CEN 
+(JENNIFER VANTRUMP) 
+PASS TO USTR 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ECPS BTIO CS
+SUBJECT: Costa Rica's Spectrum Auction 
+ 
+¶1. (U) Costa Rica's telecom regulator, SUTEL, held a public meeting 
+January 18th to announce the schedule and conditions under which 
+the cellular phone market will be opened to competition. The method 
+of choice will be a "hybrid" auction in which competitors must 
+first demonstrate their qualifications and present their technical 
+proposals. Then the qualifiers bid against each other for the 
+cellular spectrum. Only companies that have operated in multiple 
+countries and managed networks of similar size and complexity to 
+Costa Rica's network will qualify. The published schedule starts 
+with SUTEL's presentation of the auction announcement February 5, 
+followed by reception and examination of the companies' technical 
+proposals on March 19, opening of the bids on April 16th, delivery 
+of SUTEL's recommendation to the Executive April 20, and signature 
+of the concession contracts three days before the end of the Arias 
+Administration on May 5. If all goes as planned, the new cell phone 
+competitors would begin operating in the market in late 2010. 
+ 
+ 
+ 
+¶2. (SBU) Despite the formal nature of the announcement, we 
+anticipate some problems going forward. The manner in which the 
+schedule has been compressed in order for contracts to be signed by 
+the outgoing Administration raises some concern that the process is 
+too hurried. One specific issue that has not yet been 
+satisfactorily resolved is designation and use of the microwave 
+frequencies that are used to transmit signals from each individual 
+radio tower to trunk lines. Those microwave frequencies are 
+partially occupied by ICE and television operators and are not a 
+part of the bid package. The President of the SUTEL board George 
+Miley stated that, at some point after the May 5 contract 
+signature, the GOCR will ensure that the winners of the cellular 
+licenses are given sufficient transmission capacity over microwave 
+frequencies. The frequencies will be made available on a 
+non-exclusive basis to the auction winners through a process known 
+as "direct concession". 
+ 
+ 
+ 
+¶3. (SBU) The Administration's non-competitive assignation of 
+microwave frequency on a non-exclusive basis will create 
+uncertainty among prospective spectrum bidders.  As one observer 
+told us with some hyperbole, building a cell-phone network without 
+guaranteed microwave transmission capacity is "like building a 
+highway without bridges."   We expect Vice Minister of 
+Telecommunications Hannia Vega to address aspects of this issue in 
+the near future, but any modification to the plan outlined above 
+would likely require more time and upset the Administration's 
+schedule. 
+BRENNAN

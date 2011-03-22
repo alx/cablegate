@@ -3,3 +3,396 @@ ERGENEKON PROBE: SOME SMOKE, BUT LASTING IMPACT
 Thu Jan 29 00:00:00 +0100 2009
 CONFIDENTIAL
 Embassy Ankara
+VZCZCXRO7975
+PP RUEHFL RUEHKW RUEHLA RUEHNP RUEHROV RUEHSR
+DE RUEHAK #0144/01 0291234
+ZNY CCCCC ZZH
+P 291234Z JAN 09
+FM AMEMBASSY ANKARA
+TO RUEHC/SECSTATE WASHDC PRIORITY 8615
+INFO RUEHZL/EUROPEAN POLITICAL COLLECTIVE
+RHMFISS/EUCOM POLAD VAIHINGEN GE
+RUEAIIA/CIA WASHDC
+RHEFDIA/DIA WASHDC
+RUEKJCS/JOINT STAFF WASHDC//J-3/J-5//
+RHEHAAA/NSC WASHDC
+RUEUITH/ODC ANKARA TU//TCH//
+RUEKJCS/SECDEF WASHDC
+RUEUITH/TLO ANKARA TU
+RUEHAK/TSR ANKARA TU
+RUEHAK/USDAO ANKARA TUid: 189386
+date: 1/29/2009 12:34
+refid: 09ANKARA144
+origin: Embassy Ankara
+classification: CONFIDENTIAL
+destination: 08ANKARA375|09ANKARA31|09ANKARA64
+header:
+VZCZCXRO7975
+PP RUEHFL RUEHKW RUEHLA RUEHNP RUEHROV RUEHSR
+DE RUEHAK #0144/01 0291234
+ZNY CCCCC ZZH
+P 291234Z JAN 09
+FM AMEMBASSY ANKARA
+TO RUEHC/SECSTATE WASHDC PRIORITY 8615
+INFO RUEHZL/EUROPEAN POLITICAL COLLECTIVE
+RHMFISS/EUCOM POLAD VAIHINGEN GE
+RUEAIIA/CIA WASHDC
+RHEFDIA/DIA WASHDC
+RUEKJCS/JOINT STAFF WASHDC//J-3/J-5//
+RHEHAAA/NSC WASHDC
+RUEUITH/ODC ANKARA TU//TCH//
+RUEKJCS/SECDEF WASHDC
+RUEUITH/TLO ANKARA TU
+RUEHAK/TSR ANKARA TU
+RUEHAK/USDAO ANKARA TU
+
+----------------- header ends ----------------
+
+C O N F I D E N T I A L SECTION 01 OF 04 ANKARA 000144 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 01/29/2019 
+TAGS: PGOV PHUM PREL OSCE TU
+SUBJECT: ERGENEKON PROBE: SOME SMOKE, BUT LASTING IMPACT 
+ 
+REF: A. ANKARA 64 
+     ¶B. ANKARA 31 
+     ¶C. 08 ANKARA 375 
+ 
+Classified By: POL Counselor Daniel O'Grady for reasons 1.4(b,d) 
+ 
+¶1. (C) Summary:  The widening scope of the Ergenekon 
+investigation has divided Turkish society into two 
+increasingly hardened camps:  those who see the case as a 
+courageous step to bring Turkish society under the rule of 
+law, by uncovering and then holding accountable the gangs 
+responsible for hundreds of unsolved mystery killings and 
+disappearances; and those who see a politically manipulated 
+investigation that targets only opponents of the ruling 
+Justice and Development Party (AKP).  The continuing 
+progression of the investigation and trial, steps that would 
+have been unthinkable just several years ago in Turkey, 
+demonstrates a shift in balance of power away from an 
+entrenched elite that includes the military, bureaucracy, and 
+the Republican People's Party (CHP) to a body of elites that 
+has newly emerged on the political scene.  The case reflects 
+the deep schisms in Turkish society, and therefore will 
+continue to evoke visceral responses that are an outgrowth of 
+a larger debate over where the country is headed.  Many Turks 
+are quick to blame Ergenekon for every wound in the past, but 
+we find the notion of such a vast conspiracy network highly 
+implausible.  Prosecutors seem to be overreaching as they try 
+to connect ever-widening circles of defendants, some of whom 
+appear directly culpable for violent crimes, but others who 
+seem only marginally involved, or are simply strong advocates 
+for secularism.  Actual convictions may prove elusive, given 
+the nature of the evidence.  The trials promise to be 
+unusually lengthy.  AKP sees itself as the political 
+beneficiary of the Ergenekon investigation, but over the long 
+term Turkish society itself may be the real winner:  the 
+prosecutor's resolve in tackling this previously taboo topic 
+introduces the concept of full accountability -- even in dark 
+corners of the "deep state."  End summary. 
+ 
+---------------------------- 
+Investigation's Scope Widens 
+---------------------------- 
+ 
+¶2. (U) The Ergenekon case, which began in June 2007 after 
+police raided the home of a non-commissioned military officer 
+in Istanbul and discovered 27 hand grenades of the same type 
+used in attacks on "Cumhuriyet" newspaper's Istanbul office 
+in 2006, has grown ever wider in scope.  Prosecutors have 
+worked with the Turkish National Police (TNP) to detain more 
+than 100 journalists, writers, alleged gang leaders, and 
+politicians in what has morphed into a case to root out and 
+hold accountable members of an alleged ultra-nationalist gang 
+named Ergenekon.  The 2,500-page indictment filed by chief 
+prosecutor Zekeriya Oz alleges an extensive criminal network 
+sought to carry out numerous assassinations and other crimes. 
+ Although the indictment does not explicitly say so, may 
+allege the evidence points to a plan by the criminal network 
+to topple the AKP government by creating an environment of 
+mayhem that would lead to a military coup. 
+ 
+¶3. (U) Turkish police on January 22 carried out the eleventh 
+sweep, detaining 39 people from 13 cities, including 
+Istanbul, Ankara, Antalya, Bursa, Hakkari, Elezig, Igdir, and 
+Hatay, and seizing 50,000 books and 200,000 documents.  The 
+detainees are alleged to be part of assassination teams 
+directed by Ibrahim Sahin, former head of the police special 
+operations unit who is currently under arrest in the case. 
+Detainees included 17 police officers from a special 
+operations unit, two non-commissioned military officers, 
+three lieutenants, seven journalists, the leader of the 
+Turkish Metal Worker's Union (a body that claims 300,000 
+members) and four unionists, the head of Ankara-based Eurasia 
+TV, VERSO Polling company's owner Erhan Goksel, senior 
+journalist Unal Inanc, and Sirinoglu Human Rights Association 
+Head Savas Avci.  Union leaders, the main opposition 
+Republican People's Party (CHP) and detainees' relatives 
+condemned the detentions as part of a campaign to eliminate 
+AKP's opponents.  Turkish Confederation of Labor Unions 
+(Turk-Is) released a statement reading, "It is impossible to 
+implicate any union in the Ergenekon case.  The reason for 
+the union's existence is democracy itself."  Following the 
+detentions, Prosecutor Turan Colakkadi told reporters that 
+ 
+ANKARA 00000144  002 OF 004 
+ 
+ 
+his office would complete a supplemental indictment by the 
+end of January. 
+ 
+¶4. (C) The military seemingly has generally acquiesced in the 
+probe, saying that it, more than any other institution in 
+Turkey, has an interest in "making the investigation more 
+clear."  The military has cooperated with the civilian-led 
+investigations, allowing searches on premises controlled by 
+the military, and consenting to the arrest of active duty 
+officers.   Official military reactions against the Ergenekon 
+investigation have been limited to expressing concern about 
+the treatment of senior retired officers arrested in the case 
+and the need to respect the rule of law and the rights of the 
+accused as well as about how the case is covered by the 
+media.  Still, some of our contacts tell us that many 
+generals are seething and perceive this probe as a focused 
+effort to diminish the military's stature.  There are outward 
+signs of this anger.  For example, the military issued a 
+sharply-worded statement following the suicide of a decorated 
+retired colonel implicated in the investigations, comparing 
+those passing judgment in the media on individual suspects 
+before the formal judicial proceedings have concluded to 
+"extrajudicial executions." 
+ 
+------------------------------ 
+Views of Ergenekon Politicized 
+------------------------------ 
+ 
+¶5. (U) A January 17-19 "A and G Company" poll that surveyed 
+2,407 people in 33 provinces reveals a sharp division in 
+societal views about Ergenekon.  The poll determined that 62 
+percent of those questioned believe an organization called 
+Ergenekon exists, while 20 percent do not.  The percentage of 
+those who rejected the existence increased with education: 
+15 percent of primary school graduates did not believe 
+Ergenekon exists; 23 percent of high school graduates did 
+not; and 27 percent of university graduates did not.  When 
+asked their views of the aims of the investigation, 49 
+percent of respondents said they believe it aims to punish a 
+criminal gang and coup plotters, while 22 percent agreed that 
+it is an excuse used by the government to punish opposition 
+and the military.  When asked if the investigation is 
+proceeding according to legal norms, 33 percent said yes; 27 
+percent said they believe illegal gangs within the state 
+exist but that the investigation is targeting government 
+opponents; 15 percent said the entire investigation is a 
+government ploy. 
+ 
+¶6. (U) The poll demonstrated that Turks' views of the case 
+line up according to political allegiances.  According to the 
+poll, half of respondents who are CHP supporters did not 
+believe Ergenekon exists.  Among AKP supporters, 75 percent 
+believed the alleged gang exists, while 64 percent of 
+Nationalist Action Party (MHP) supporters believed in 
+Ergenekon's existence.  Partisanship was also apparent in 
+answers to the question of whether the investigation is 
+proceeding in accordance with legal norms.  Only 13 percent 
+of CHP supporters believed this to be true, while the 
+percentage increased to 18 percent among pro-Kurdish 
+Democratic Society (DTP) supporters, 21 percent among MHP 
+supporters, and 56 percent among AKP supporters.  Among CHP 
+supporters, 33 percent believed the investigation to be a 
+government ploy, versus 2 percent for AKP supporters. 
+ 
+--------------------------------------------- ---- 
+A Leap Forward in Transparency and Accountability 
+--------------------------------------------- ---- 
+ 
+¶7. (C) Many liberal contacts hope that the case represents a 
+"Clean Hands" process that will hold the military and 
+traditional state elites accountable for their conduct. 
+Human Rights Agenda Association President Orhan Kemal Cengiz, 
+lead attorney for the families of three Christians murdered 
+in Malatya in 2007, told us the investigation is a necessary 
+first step to end the "tremendous culture of impunity in 
+Turkey that has led to over 17,500 unsolved killings." 
+Cengiz said criticisms of the use of excessive force in the 
+investigation are beside the point, noting that Ergenekon 
+opponents "never once criticized such tactics when they were 
+used over the past several decades to detain Kurds, human 
+rights activists, and other innocent citizens."  Such claims 
+by opponents of the case distract from the reality that the 
+ 
+ANKARA 00000144  003 OF 004 
+ 
+ 
+investigation has brought to light evidence that has made it 
+impossible to deny the existence of "deep-state" involvement 
+in criminal acts and "collapsed the old balance of power in 
+Turkey" between the military, the government, and the 
+traditional state elite, including the judiciary.  Cengiz 
+said that as the revelations of the Ergenekon investigation 
+have come forth, the once-skeptical judges in the Malatya 
+murders trial (ref C) have been increasingly willing to allow 
+Cengiz to pursue his theory that the Ergenekon network was 
+responsible for the Malatya murders. 
+ 
+¶8. (C) Ankara University Law Professor Mithat Sancar told us 
+that the Ergenekon investigation is the most important event 
+in Turkey since the Turkish Republic was founded in 1923. 
+Sancar said he does not believe that there is an overarching 
+criminal network as such, but estimates that 80 percent of 
+detainees are guilty of some serious crime.  He disagrees 
+that the prosecution team is under AKP's influence.  Chief 
+prosecutor Oz is a well-respected professional and 
+understands that it would be foolish to give too much 
+credence to the views of a political party that could be 
+voted out of office, he said.  Sancar believes that the 
+investigation will last at least two years and will uncover 
+only the "tip of the iceberg" because "Turkey's judicial 
+system is not equipped to process such a large and complex 
+case."  He told us that the impact of the case is not tied to 
+its length or conclusion, noting that the investigation had 
+already upended the traditional culture of impunity for 
+certain segments of Turkish society, including the military. 
+ 
+¶9. (C) Ayhan Bilgen, former President of human rights NGO 
+Mazlum-Der, told us the military's apparent acquiescence thus 
+far is in itself a sea change.  Bilgen said that the past 
+investigations of Susurluk and Semdinli, two other cases 
+where deep-state involvement was indicated, had been quashed 
+by the military without legal consequences for any involved. 
+If Ergenekon had begun just 5 years ago it too would have 
+been stopped in its tracks, he said.  AKP's triumph over the 
+military and the traditional elite in the controversy 
+regarding the 2007 election of Abdullah Gul to the Presidency 
+and later in the 2008 AKP closure case had significantly 
+weakened the military's hand.  The military will not 
+intervene lest it draw fierce public response, according to 
+Bilgen.  (Comment:  Retired military judge Sadi Cayci told us 
+the Turkish military firmly believes Turkey's secular 
+identity is sacred and must be protected at all costs, and 
+that there are active duty and retired officers who might 
+take this view to the extreme.  He said Basbug's challenge is 
+to rein in extremists while pushing for an investigation that 
+respects the rule of law and is not used as a political tool. 
+ End comment.) 
+ 
+--------------------------------------------- ----- 
+Politicization Jeopardizes Ability to Bring Change 
+--------------------------------------------- ----- 
+ 
+¶10. (C) Middle East Technical University (METU) Dean of 
+Graduate Programs Sencer Ayata, one of Turkey's most 
+respected Social Democrats, doubts the case will lead to the 
+lasting effect for which its proponents hope.  He told us 
+that the ever-widening scope of the investigation and the use 
+of questionable prosecutorial tactics undermines the 
+credibility of the investigation.  The prosecutors had 
+rounded up a diverse array of figures, many of whom are 
+traditional enemies, whose only common element is their 
+opposition to AKP:  union leaders and Alevis on the left, 
+right-wing ultranationalists, and marginal figures such as a 
+transvestite television star with no connection to politics. 
+Lumping together these diverse figures into one massive case 
+makes it appear to be deeply politicized, and it has 
+therefore lost credibility, according to Ayata.  MHP MP Faruk 
+Bal told us that it is unlikely that the criminals who worked 
+for Ergenekon will be brought to justice because the 
+investigation has turned into "a farce."  Prime Minister 
+Erdogan and CHP Chairman Baykal have taken such clear sides 
+on the case that regardless of the verdict, the popular 
+perception will be that it will have been political. 
+ 
+¶11. (C) METU professor Aykan Erdemir told us that the tactic 
+of arresting even marginal figures, such as a transvestite 
+actor, often in the middle of the night, had scared people 
+into silence.  In an atmosphere "eerily reminiscent of the 
+ 
+ANKARA 00000144  004 OF 004 
+ 
+ 
+post-1980 coup," parents are telling their kids not to talk 
+about politics, and academics are scared to mention anything 
+about politics when talking on the phone, according to 
+Aydemir.  Such an environment of fear had significantly 
+eroded trust in Turkey's system of justice.  "The tragedy," 
+in his view, "is that the politicization will cause the 
+perverse result of leading to the collapse of the case 
+without the guilty having been brought to justice." 
+ 
+¶12. (C) "Hurriyet" columnist Yusuf Kanli believes the case 
+has become politicized to an extent that it will not be able 
+to increase respect for the rule of law.  He wrote January 19 
+that the investigation's disregard for traditional pillars of 
+justice -- due process, protection of individual rights, and 
+the right to a fair trial -- has undermined its legitimacy. 
+The prosecution's tendency to detain people without a court 
+warrant and then "summarily execute them on the front pages 
+of the AKP-controlled media" was legitimizing the "gross 
+violations" of due process that have plagued Turkey for 
+decades. 
+ 
+------------------------------------ 
+Comment:  A Pivotal Event for Turkey 
+------------------------------------ 
+ 
+¶13. (C) Although the investigation has already proceeded much 
+further in time and scope than many believed possible when it 
+began, many obstacles stand in the way of the prosecutor's 
+ability to see it through.  Not least is the opposition he 
+will face from the judicial establishment itself. 
+Foreshadowing this tension, following a police search of the 
+house of the honorary president of the Court of Appeals Sabih 
+Kanadoglu, Union of Judges and Prosecutors (Yarsav) head Omer 
+Faruk Eminagaoglu called a January 23 press conference to 
+criticize the investigation as politically manipulated and to 
+reprimand Turkish police for "seeking murderers in the houses 
+of judges and prosecutors."  Eminagaoglu criticized Justice 
+Minister Mehmet Ali Sahin for siding with intelligence 
+organizations instead of upholding the law, and said the 
+investigatory tactics were turning Turkey into a "police 
+state."  Many predict that one of the coming prosecutorial 
+police sweeps will occur shortly before March 29 local 
+elections and focus on politicians from the mainstream 
+opposition parties -- CHP, MHP, Democratic Party (DP) and 
+Motherland Party (ANAP).  If true, this is likely to bring 
+increasing protests that the investigation is less a push for 
+transparency than a witch hunt against AKP enemies.  AKP 
+opponents will continue to point out that AKP refuses to lift 
+parliamentary immunity and is less than fully engaged in 
+urging investigations into credible allegations of AKP-linked 
+corruption, such as the Deniz Feneri (Lighthouse) scandal. 
+ 
+¶14. (C) Irrespective of the length of the case or its 
+ultimate conclusion, the fact that the case has proceeded so 
+far already -- 8 months, a 2,500-page indictment, and over 
+200 people detained, including active duty and senior retired 
+military officers, active police officers, union leaders -- 
+demonstrates that the balance of power in Turkey has already 
+swung away from an entrenched elite composed of the military, 
+bureaucracy, and CHP to a body of elites that has emerged on 
+the political scene in the past decade.  The prosecution's 
+ability to detain such noteworthy figures and delve into some 
+of Turkey's dark secrets has sent a message to the public and 
+the old guard that illegal manipulation of politics is no 
+longer acceptable in Turkey, and portends the end of Turks' 
+once-sacred belief that the military stands as the primary 
+protector and guardian of the Republic.  The progression of 
+this sometimes disorderly and confusing case will bring more 
+visceral reactions and likely further political polarization. 
+ These are a natural outgrowth of a larger debate over where 
+the country is headed, as democratic reforms related to 
+Turkey's European Union accession are forcing Turks to 
+grapple with the meaning of secularism and nationalism, as 
+well as darker parts of Turkish history.  But the 
+prosecutor's willingness to tackle this previously taboo 
+topic, and the debate Ergenkon has engendered, gives evidence 
+of a maturing Turkish democracy. 
+ 
+Visit Ankara's Classified Web Site at 
+http://www.intelink.sgov.gov/wiki/Portal:Turk ey 
+ 
+Jeffrey

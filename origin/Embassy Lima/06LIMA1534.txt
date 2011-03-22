@@ -3,3 +3,360 @@ ILLEGAL LOGGING THRIVES IN PERU
 Fri Apr 21 00:00:00 +0200 2006
 UNCLASSIFIED//FOR OFFICIAL USE ONLY
 Embassy Lima
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHPE #1534/01 1111451
+ZNR UUUUU ZZH
+R 211451Z APR 06
+FM AMEMBASSY LIMA
+TO RUEHC/SECSTATE WASHDC 9925
+INFO RUEHBO/AMEMBASSY BOGOTA 3287
+RUEHBR/AMEMBASSY BRASILIA 6688
+RUEHBU/AMEMBASSY BUENOS AIRES 2346
+RUEHCV/AMEMBASSY CARACAS 9334
+RUEHLP/AMEMBASSY LA PAZ APR QUITO 0260
+RUEHSG/AMEMBASSY SANTIAGO 0437
+RUEHRC/USDA FAS WASHDC//USD 1440
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEATRS/DEPT OF TREASURY WASHDCUNCLAS LIMA 001534 
+ 
+SIPDIS 
+ 
+DEPT FOR WHA/AND, EPSC AND OES/ETC,ENV 
+BRASILIA FOR ESTH HUB - J STORY 
+USAID FOR LAC, EGAT 
+USTR FOR B HARMANN, M BURR 
+COMMERCE FOR M CAMERON 
+USDA/AS/FAA/BAILLEY AND USDA/FAS/ITP/FSTSD/BREHM 
+ 
+SENSITIVE 
+SIPDIS 
+...
+
+id: 61359
+date: 4/21/2006 14:51
+refid: 06LIMA1534
+origin: Embassy Lima
+classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
+destination: 06LIMA2444
+header:
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHPE #1534/01 1111451
+ZNR UUUUU ZZH
+R 211451Z APR 06
+FM AMEMBASSY LIMA
+TO RUEHC/SECSTATE WASHDC 9925
+INFO RUEHBO/AMEMBASSY BOGOTA 3287
+RUEHBR/AMEMBASSY BRASILIA 6688
+RUEHBU/AMEMBASSY BUENOS AIRES 2346
+RUEHCV/AMEMBASSY CARACAS 9334
+RUEHLP/AMEMBASSY LA PAZ APR QUITO 0260
+RUEHSG/AMEMBASSY SANTIAGO 0437
+RUEHRC/USDA FAS WASHDC//USD 1440
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEATRS/DEPT OF TREASURY WASHDC
+
+
+----------------- header ends ----------------
+
+UNCLAS LIMA 001534 
+
+SIPDIS 
+
+DEPT FOR WHA/AND, EPSC AND OES/ETC,ENV 
+BRASILIA FOR ESTH HUB - J STORY 
+USAID FOR LAC, EGAT 
+USTR FOR B HARMANN, M BURR 
+COMMERCE FOR M CAMERON 
+USDA/AS/FAA/BAILLEY AND USDA/FAS/ITP/FSTSD/BREHM 
+
+SENSITIVE 
+SIPDIS 
+
+E.O. 12958:  N/A 
+TAGS: SENV ETRD EINV EAID ECON PGOV SNAR PE
+SUBJECT:  ILLEGAL LOGGING THRIVES IN PERU 
+
+REF: LIMA 2444 
+
+¶1.  (SBU) SUMMARY: Peru exports the most broad leaf mahogany 
+in the world, a majority of it to the U.S.   Much of the 
+exports are likely from illegal logging, violating Peruvian 
+law and the CITES international convention against 
+trafficking in endangered species.  The GOP, NGO community 
+and Peruvian logging industry agree that illegal logging is 
+a problem.  Post has identified serious deficiencies in GOP 
+regulator INRENA's ability to police the logging industry, 
+formal and informal.  The formal forest products industry, 
+concerned about legal challenges to mahogany exports, 
+appears interested in working to reduce illegal logging. 
+Post is exploring options such as applying for OES-I Qoject 
+funds and realigning USAID programming.  END SUMMARY. 
+
+DIRE MAHOGANY SITUATION 
+----------------------- 
+¶2.  (U) Peru now is the world's largest exporter of broad 
+leaf mahogany, according to thQatest report of the 
+International Tropical Timber Organization (ITTO).  Brazil 
+reportedly no longer allows legal export of broad leaf 
+mahogany, and the Bolivian government is reducing legal 
+exports due to its declining stocks.  Legal exports of 
+Peruvian mahogany have declined steadily since, according to 
+the 2005 report of the GOP's natural resources monitoring 
+and enforcement agency, INRENA.  Since 2002, the agency's 
+estimate of illicit exported mahogany has been 60,000 cubic 
+meters per year.  Broad leaf mahogany continues as an 
+endangered species under Appendix II of the International 
+Convention against Trafficking in Endangered Species 
+(CITES).  The high selective extraction of reproducing 
+trees, the slow reproduction rate of wild mahogany, and the 
+inability so far of silviculturalists to develop healthy 
+mahogany plantations have combined to cause a steady decline 
+in mahogany stocks. 
+
+PROBLEMS WITH MAHOGANY BUYERS AND SELLERS 
+----------------------------------------- 
+¶3.  (U) Ten firms with INRENA permits account for over 85 
+percent of Peru's mahogany exports.  The United States 
+continues to be by far the largest importer of mahogany 
+importing 88 percent of Peru's total 2005 mahogany exports. 
+Unofficial INRENA estimates indicate that 70-90 percent of 
+all mahogany exported in 2005 originated from illegal 
+sources. 
+
+¶4.  (SBU) INRENA's current verification process, implemented 
+as a result of USAID support, is confirming that mahogany is 
+being harvested not from the commercial concessions but from 
+protected areas (where commercial extraction is prohibited) 
+and from areas in indigenous territories different than 
+those specified in INRENA-approved logging plans.  INRENA 
+must approve all logging plans to extract mahogany legally 
+from commercial forestry concessions, indigenous community 
+lands, and agricultural land with remnant forests. 
+
+¶5.  (SBU) Reliable INRENA sources and civil society groups 
+report that mahogany loggers exploit indigenous communities 
+by paying below-market prices.  The loggers also are 
+involved in forced labor, according to the International 
+Labor Organization (ILO). Moreover, commercial timber 
+extraction from forested remnants of agricultural land is 
+considered the most common system to launder illegal timber. 
+There is a long history of extracting mahogany from remnant 
+forests and the origin of the cut timber is hard to trace. 
+
+PERU SETS QUOTAS AT LAST 
+------------------------ 
+¶6.  (SBU) Despite domestic political pressure against the 
+measure, INRENA (with USG support) set in May 2005 Peru's 
+first mahogany export quota.  INRENA established the quota 
+for 2005 at 23,621 cubic meters (m3).  INRENA concluded that 
+an export quota was the most cost-effective and 
+scientifically defensible way to manage the resource and 
+fulfill CITES requirements after it verified, with direct 
+USAID support, 52 concessions.  The verification process 
+showed that 60 percent of these concessions presented 
+serious infractions, including document falsification, 
+timber extraction outside the concession boundaries and 
+links to bribes.  The other 40 percent showed they were 
+complying with the minimal management standards per Peruvian 
+law, but still required corrections.  None of the 
+concessions verified showed high management standards.  As a 
+result, INRENA set a mahogany quota, suspended the granting 
+of new concessions and requested USAID-targeted support to 
+correct the identified weaknesses. 
+
+¶7.  (U) INRENA officials said that a quota allowed official 
+exports to be controlled while better methods were developed 
+to farm mahogany in plantations or foster regeneration of 
+wild stocks, and until a reliable supervision system could 
+be put in place.  INRENA set a quota for 2006 at 23,239 m3. 
+As of March 2006, Peru has exported 5,698.57 m3, most of 
+which has gone to the United States. (Note: Given the 
+acknowledged problem with illegal logging, we were surprised 
+that INRENA reduced the quota by only 394 m3 for 2006.  End 
+Note.) 
+
+¶8.  (SBU) INRENA based the 2005-06 quota on various 
+criteria.  This included:  historical exports; requirements 
+for non-detrimental legal exports under Appendix II of 
+CITES; and INRENA projections of available commercial timber 
+volume for the harvest seasons.  INRENA considered as well 
+NGO and ITTO data on the continuing reduction of mahogany 
+populations in Latin America.  The National Agrarian 
+University (UNALM) is the CITES scientific authority for 
+"non-detriment" in Peru.  The University has been unable to 
+produce a definitive census or other reliable monitoring 
+system of mahogany stocks; UNALM finally delivered to 
+ESTHoff on April 3 a promised preliminary census.  UNALM's 
+report states that Peru's mahogany population has declined 
+dramatically, from 768,220 trees (224,733 in protected 
+natural areas) to 304,630 trees (87,888 in protected natural 
+areas). 
+
+MISPLACED SUPPORT FROM CITES AUTHORITIES... 
+
+¶9.  (SBU) At the last international CITES meeting, in 
+October 2005, INRENA presented a series of accomplishments 
+it claimed had been made in the fight against the illegal 
+cutting of mahogany.  When the CITIES Commission lauded 
+Peru's gains in the management of forest resources and 
+environmental governance, it also noted the fragility of 
+these gains.  Highlighting future challenges, the Commission 
+identified the "increased powers" of an illicit forest 
+management cartel; the cartel's strengthened linkages to 
+what it called the Coca Cartel; and the continued crisis in 
+institutional capacity.  (Comment: Post does not believe 
+that there is either a single illicit logging cartel nor a 
+single coca cartel.  End Comment.) 
+
+¶10.  (SBU) At the CITES meeting, the GOP cited as an 
+accomplishment its computerized system to track mahogany 
+harvest, a system developed with USAID funding.  Reliable 
+information indicates that data has consistently been mis- 
+entered or later altered at field locations, allowing 
+concessionaires to cut more lumber than they are legally 
+permitted.  Post has suspected corruption for many months 
+and has consistently informed INRENA of these concerns.  A 
+few weeks ago, when the story appeared in the media, INRENA 
+claimed it would address this situation.  Nothing has 
+changed to date. 
+
+¶11.  (SBU) INRENA at the last CITES meeting announced that 
+it was re-structuring itself to ensure greater "separation 
+of powers" among INRENA's management, forest supervision 
+department (OSINFOR), and its departments for protected 
+areas and species.  More than five months since the meeting, 
+the new structure has yet to be implemented.  Post now has 
+reason to believe that the gains the GOP claimed last 
+October were simply not true.  (Comment: Ironically, the GOP 
+has agreed to host in Lima the next CITES meeting.  GOP lead 
+host agency, INRENA, has asked USAID for funding support. 
+Peru's lack of CITES compliance could become an issue.  End 
+Comment.) 
+
+GROWING NEXUS BETWEEN ILLEGAL LOGGING AND NARCOTRAFFICKING 
+--------------------------------------------- -------------- 
+¶12.  (SBU) The narcotrafficking presence on the eastern 
+slopes of the Andes puts even more pressure on mahogany and 
+cedar populations.  Narcotraffickers with established 
+networks for moving coca paste and opium latex appear to be 
+getting involved in transport of illegal timber, for both 
+its profitability and its utility as concealment.  For 
+example, GOP officials and mining developers familiar with 
+mine exploration activities at the northern border with 
+Ecuador told Econoff in July that a local Mayor has been 
+involved in both illegal logging and opium poppy production. 
+
+¶13. (SBU) Police in Loreto Department told Econoff in June 
+and September that they continue to find coca paste packages 
+hidden in mahogany and cedar shipments.  The transported 
+mahogany trunks, or stacked loads of sawn lumber, are so 
+huge, and the number of shipments so massive that police 
+catch only a tiny fraction of the coca that they estimate is 
+transported from the Andes downriver to Brazil.  DEA's Lima 
+Country Office -- which actively assists GOP law enforcement 
+in eliminating the concealment of illicit drugs in wood 
+shipments, believes that suspected shipments are large. 
+
+USAID RESPONSE 
+-------------- 
+¶14.  (U) Consistent with its overall objective of assisting 
+GOP institutions to take the lead and become accountable for 
+sustainable natural resources management and conservation of 
+biodiversity, USAID continues to support transformational 
+development interventions.  USAID funds and advises INRENA 
+on issues related to sustainable natural resources 
+management, management of protected areas, institutional 
+capacity strengthening, and policy and legal controls. 
+USAID decided recently to discontinue support for the 
+computer registration program because of the credible 
+allegations of corruption and the lack of INRENA action to 
+address the situation. 
+
+¶15.  (U) USAID is pursuing the most effective way of 
+combating illegal logging, through legal forest management. 
+USAID is working with INRENA to achieve international 
+certification of forests and the lumber export chain, 
+limiting participation in programs to operators whom USAID 
+can certify.  Working with a small group of private 
+concessionaires and 10 different indigenous communities, the 
+objective is to certify approximately 200,000 hectares by 
+December 2006.  The initial results are promising, but the 
+task is daunting. 
+
+PRIVATE SECTOR CONCERNED ABOUT ESA LITIGATION 
+--------------------------------------------- 
+¶16.  (SBU) In late March and early April meetings with 
+Econoff and USAID Environmental officer, Peruvian 
+Association of Exporters (ADEX) representatives expressed 
+their concern about what misrepresentations of fact in the 
+copy of Notice to Sue, written by NGO Natural Resources 
+Defense Council (NRDC) under the Endangered Species Act 
+(ESA).  During the meeting ADEX representatives admitted 
+that the problem was great, but that there existed a core 
+group of exporters interested in "doing this right."  ADEX 
+members are particularly concerned about current lumber 
+shipments soon to depart Peru bound for the U.S. 
+
+PARTNERSHIP WITH THE PRIVATE SECTOR 
+----------------------------------- 
+¶17.  (SBU) While Peru's forested land accounts for over 64 
+percent of the country's surface, forestry accounts for only 
+one percent of GDP.  One of the most compelling issues 
+identified towards the achievement of forest and 
+biodiversity sustainability and promotion of licit 
+livelihoods is to promote international standards for 
+certification and chain of custody.  The forest products 
+firms in Peru appear to want to change that.  ADEX recently 
+acknowledged in a public presentation the problem of illegal 
+logging, the opportunity to increase exports and GDP and 
+some suggestions for reforming GOP oversight of the forest 
+products industry (Reftel). 
+
+COMMENT: MUCH TO BE DONE 
+------------------------ 
+¶18.  (SBU) Peru's forest management has been trouble for 
+years, and its legitimate mahogany exports for the important 
+U.S. market are in jeopardy.  Peru risks violating not only 
+CITES, but also the recently-signed free trade agreement 
+with the United States, which will require Peru to enforce 
+its local and international obligations.  If the GOP does 
+not maintain its quota in the face of continuing illegal 
+harvest, it risks suspension of imports by the European 
+Union, destruction of an endangered species and a defeat of 
+the rule of law.  U.S. wood importers need to join the 
+effort by investing in the system's improvement. 
+
+¶19.  (U) The U.S-Peru free trade agreement may provide an 
+additional tool to move Peru along a path of compliance and 
+conservation, promoting legal trade with the United States. 
+Post will continue discussions with industry representatives 
+on how to promote greater industry compliance with 
+international standards.  The International Wood Products 
+Association has also expressed interest in helping to assure 
+legal U.S. imports.  Logging/export certification, if 
+properly funded, could fit into a Post trade capacity 
+building program for implementation of the U.S. trade deal. 
+Post is applying for an OES-I project grant for this 
+purpose. 
+
+¶20.  (U) Embassy will raise with appropriate GOP officials 
+the need to maintain a credible approach to mahogany exports 
+and adhere to international forest and chain of custody 
+certification standards.  USAID will continue to work with 
+INRENA, the private sector and indigenous populations to 
+ensure that INRENA acquires the needed capacity to be held 
+accountable for the proper and sustainable management of 
+natural resources in Peru.  Advancing the responsible 
+promotion of the forest sector is the best alternative to 
+the illicit livelihoods that sustain many in the current 
+forest sector. 
+
+¶21.  (U) This cable was co-drafted with USAID Lima. 
+
+STRUBLE 
+
+=======================CABLE ENDS============================
