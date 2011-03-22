@@ -1,0 +1,73 @@
+09ASUNCION561
+BOLIVIA EXPLAINING ARMS PURCHASES
+Thu Sep 10 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Asuncion
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHAC #0561 2531207
+ZNR UUUUU ZZH
+R 101207Z SEP 09
+FM AMEMBASSY ASUNCION
+TO RUEHC/SECSTATE WASHDC 0015
+INFO MERCOSUR COLLECTIVE
+RHEFDIA/DIA WASHINGTON DC
+RHMFIUU/CDR USSOUTHCOM MIAMI FL
+RUEHLP/AMEMBASSY LA PAZ 0001id: 224423
+date: 9/10/2009 12:07
+refid: 09ASUNCION561
+origin: Embassy Asuncion
+classification: UNCLASSIFIED
+destination:
+header:
+VZCZCXYZ0000
+RR RUEHWEB
+DE RUEHAC #0561 2531207
+ZNR UUUUU ZZH
+R 101207Z SEP 09
+FM AMEMBASSY ASUNCION
+TO RUEHC/SECSTATE WASHDC 0015
+INFO MERCOSUR COLLECTIVE
+RHEFDIA/DIA WASHINGTON DC
+RHMFIUU/CDR USSOUTHCOM MIAMI FL
+RUEHLP/AMEMBASSY LA PAZ 0001
+----------------- header ends ----------------
+UNCLAS ASUNCION 000561
+SIPDIS
+E.O. 12958: N/A
+TAGS: MCAP PGOV PREL PA BL
+SUBJECT: BOLIVIA EXPLAINING ARMS PURCHASES
+¶1. (U) Press reports that Bolivian ministers of defense and foreign
+affairs are visiting Paraguay to better explain up to USD 100
+million in future Bolivian arms purchases from Russia. Foreign
+Minister Hector Lacognata responded to earlier press reports with
+an official request for information to Bolivia. Lacognata was
+critical of Bolivia's proposed military expenditures, arguing that
+Bolivia should use its funds to help the poor. Lacognata requested
+a meeting with Bolivian counterparts through the 2+2 mechanism.
+(NOTE: Signed in March 2007, the 2+2 Mechanism was established by
+UNASUR to deal with issues relating to international order. It
+provides a framework for meetings between countries' Foreign and
+Defense Ministers. END NOTE).
+¶2. (U) Lacognata briefed the Senate August 19, saying Bolivia arms
+purchases do not pose any threat to Paraguay because Bolivia's
+objectives are to safeguard internal security and fight drug
+traffickers. In Congress and among the general public, there is
+much greater concern about what is viewed as the arming of Bolivia.
+President of the Chamber of Deputies Foreign Relations Committee,
+Carlos Liseras, said that Paraguay should worry about Bolivia
+rearmament, and accused Venezuelan President Hugo Chavez of giving
+financial incentives to Bolivia to create a sense of "imminent
+war." President of the Senate Foreign Relations Committee, Miguel
+Saguier, said that Lacognata's explanations to the committee were
+convincing, but that he still distrusts the Bolivian arms purchase.
+¶3. (SBU) COMMENT: Even though the final border agreement for the
+1932-35 Chaco War between Paraguay and Bolivia was signed this
+April, Paraguay is still extremely sensitive to any attempt by
+Bolivia to strengthen its military. Despite the scheduled 2+2
+talks and Bolivia's recent announcement of a delay in the arms
+purchases until 2010, tensions over military and border matters
+will continue to be heavily covered in the Paraguayan press.
+AYALDE
+=======================CABLE ENDS============================

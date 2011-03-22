@@ -1,0 +1,273 @@
+07MEXICO4334
+MEXICAN TELECOMMUNICATION POLICY TARGETS TELMEX
+Tue Aug 14 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Mexico
+VZCZCXRO9872
+PP RUEHCD RUEHGD RUEHHO RUEHMC RUEHNG RUEHNL RUEHRD RUEHRS RUEHTM
+DE RUEHME #4334/01 2261531
+ZNR UUUUU ZZH
+P 141531Z AUG 07
+FM AMEMBASSY MEXICO
+TO RHEHNSC/NSC WASHINGTON DC PRIORITY
+RUEAFCC/FCC WASHINGTON DC PRIORITY
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC PRIORITY
+RUEHC/SECSTATE WASHDC PRIORITY 8425
+INFO RUEHXC/ALL US CONSULATES IN MEXICO COLLECTIVE PRIORITY
+RUEATRS/DEPT OF TREASURY WASHINGTON DC PRIORITY118838
+2007-08-14 15:31:00
+07MEXICO4334
+Embassy Mexico
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+07STATE45618
+VZCZCXRO9872
+PP RUEHCD RUEHGD RUEHHO RUEHMC RUEHNG RUEHNL RUEHRD RUEHRS RUEHTM
+DE RUEHME #4334/01 2261531
+ZNR UUUUU ZZH
+P 141531Z AUG 07
+FM AMEMBASSY MEXICO
+TO RHEHNSC/NSC WASHINGTON DC PRIORITY
+RUEAFCC/FCC WASHINGTON DC PRIORITY
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC PRIORITY
+RUEHC/SECSTATE WASHDC PRIORITY 8425
+INFO RUEHXC/ALL US CONSULATES IN MEXICO COLLECTIVE PRIORITY
+RUEATRS/DEPT OF TREASURY WASHINGTON DC PRIORITY
+
+UNCLAS SECTION 01 OF 03 MEXICO 004334 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR WHA/MEX AND EB/CIP 
+STATE PASS TO USTR FOR JONATHAN MCHALE AND CATHERINE 
+HINCKLEY 
+FCC FOR HELEN DOMENICI, KATHRYN O'BRIEN, AND DAVID FURTH, 
+FCC FOR LARRY OLSON, BRIAN MARENCO AND EMILY TALAGA 
+NTIA FOR KARL NEBBIA AND JANE COFFIN 
+USDOC FOR 4320/ITA/MAC/WH/ONAFTA/GWORD 
+ITA FOR MICHELLE O'NEILL AND DAMON GREER 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ECPS ENIV PGOV MX
+SUBJECT: MEXICAN TELECOMMUNICATION POLICY TARGETS TELMEX 
+ 
+REF: STATE 45618 
+ 
+Summary 
+------- 
+ 
+¶1. (SBU) On August 3, as part of the Ninth Meeting of the 
+High Level Consultative Commission (HLCC) on 
+Telecommunications, Rafael del Villar, Under Secretary for 
+Communications at the Secretariat of Communications and 
+Transportation (SCT), briefed a small group of Department of 
+State (DOS), Federal Communications Commission (FCC), and 
+Department of Commerce (DOC) officials on Mexican President 
+Felipe Calderon's telecommunications policy.  SCT Secretary 
+Luis Tellez Kuenzler joined the meeting and supported del 
+Villar's assertions.  Del Villar emphasized that SCT's 
+primary concern is the lack of penetration of landline 
+telephone and broadband services.  Among other proposals, del 
+Villar suggested that while participating in the upcoming 
+Security and Prosperity Partnership in Canada, the three 
+Leaders propose to dramatically lower long distance 
+interconnection rates to make calling within North America 
+within reach for even the poorest citizens.  With the "social 
+good" argument as a backbone, it appears that the SCT and 
+possibly the Calderon Government may try to tackle the 
+Mexican telecom monopoly, Telmex's dominance in the sector. 
+End Summary. 
+ 
+Clarifying Roles in the Sector 
+------------------------------ 
+ 
+¶2. (SBU)  Summarizing the current state of Mexico's telecom 
+sector, del Villar said the Calderon administration will seek 
+to clarify the roles SCT, the Federal Telecommunications 
+Commission (Cofetel), and the Federal Competition Commission 
+(Cofeco) play in the sector.  He highlighted the political 
+role of the SCT as a planning and policy body with the power 
+to decide which radio frequency bands will be auctioned and 
+when.  He stated that, for the first time since 1990 (when 
+Telmex was privatized), the SCT is more willing to support 
+competition and openness than the regulator (Cofetel), a 
+situation he termed a "political anomaly."  Also, for the 
+first time in Mexican history, the President is keenly aware 
+of the important issues facing the telecom sector and is 
+creating a political climate that is conducive to moving 
+forward with telecom policy.  He pointed out that Cofetel is 
+a part of the SCT (and hence Executive Branch) and not an 
+independent regulator like the FCC in the U.S.  He also 
+stressed that the SCT currently enjoys an excellent working 
+relationship with Cofeco. 
+ 
+Social Good Argument 
+-------------------- 
+ 
+3.(SBU)  Del Villar observed that the rural areas of Mexico 
+have been devastated by migration.  He cited "heroic 
+families" in which the husband travels to the U.S. to work to 
+send money home, yet his wife is left in Mexico, unable to 
+call her husband in the U.S. because of prohibitively high 
+telecommunication rates.  High fixed and mobile 
+interconnection rates; the lack of unlimited calling plans; 
+and the need for technology to decrease overall telecom costs 
+drive SCT telecom policy.  He reiterated Mexico's commitment 
+to "Calling Party Pays," but also his concern with the level 
+of tariffs.  He might seek to implement a "Bill and Keep" 
+regime in mobile telephony in Mexico in which each network 
+agrees to terminate calls from the other network at no 
+charge. Cofetel is in the process of developing its 
+Fundamental Technical Plan for Interconnection and is holding 
+a second period for public comment that ends August 10. 
+ 
+Broadband Penetration Lacking 
+----------------------------- 
+ 
+¶4. (SBU)   Del Villar suggested possible policy changes to 
+promote broadband penetration in Mexico. Broadband network 
+"unbundling" would foster increased network investment by 
+outside players.   Del Villar added that Mexico would label 
+this proposal "leasing of the last mile" to avoid any 
+ 
+MEXICO 00004334  002 OF 003 
+ 
+ 
+negative stigma.  He noted that while this policy would be 
+tough to implement, it was nonetheless being considered 
+because SCT has not seen sufficient investment by Telmex in 
+its network. Second, he suggested that Mexico allow the 
+resale of broadband in the marketplace.  Third, because 
+approximately twenty-six percent of Mexican mobile users do 
+not have access to a fixed line, he would like broadband to 
+be offered on a stand-alone basis instead of solely with a 
+package.  Last, he suggested one option for Mexico might be 
+public-private partnerships in which the government might be 
+the owner of spectrum that is operated by a local government 
+or community mechanism.  Mexico, he continued, has the 
+spectrum available to do this with the ultimate goal being 
+increased rural access to the Internet. 
+ 
+Broadcasting Sector in the Hands of the President 
+--------------------------------------------- --- 
+ 
+¶5. (SBU)    Throughout the conversation, del Villar was 
+careful to reiterate that he was referring only to Mexican 
+telecommunications policy, not broadcasting.  Because of the 
+political fallout that licensing a third broadcasting network 
+would cause, the decision on whether to move forward rests 
+with President Calderon.  Del Villar did mention that through 
+changes in the existing licenses of current broadcasters, the 
+Government may impose a "must carry / must offer" policy.  He 
+noted SCT fears Telmex collusion with Televisa in the video 
+services market to secure cheap content, while squeezing out 
+other smaller potential competitors. 
+ 
+Spectrum Negotiations 
+--------------------- 
+ 
+¶6. (SBU)  The U.S. and Mexican delegations also held spectrum 
+negotiations during a three-day HLCC working level meeting 
+(July 31-August 2) immediately prior to the Ninth HLCC on 
+August 3.  As a result, at the Ninth HLCC the principals 
+signed three documents:(A)A Permanent Protocol concerning the 
+allotment and use of the 138-144 MHz band for terrestrial 
+non-broadcasting radio communication services along the 
+U.S.-Mexican border; (B)  A Joint Statement of the principals 
+at the Ninth HLCC; and (C) A Directory of Bilateral Issues 
+for 2007-2009 (DBI).  In terms of ongoing negotiations to 
+reconfigure the allotment plan of the 800 MHz band, del 
+Villar noted that the SCT is actively engaged in negotiations 
+with Nextel Mexico and Intercomunicacion del Pacifico, a 
+subsidiary of Telmex, the two most affected Mexican carriers. 
+The SCT also requested assistance from the FCC in determining 
+a realistic cost for network carrier actions to relocate the 
+affected Mexican carriers within the 800 MHz band as well as 
+to move them to an alternate  band. 
+ 
+¶7.  (SBU) On the topic of increasing broadband penetration by 
+means of near-term spectrum auctions, (para.4 above), in the 
+three-day working level meeting, SCT and Cofetel officials 
+pressed U.S. representatives to identify additional radio 
+bands suitable for broadband applications and place them in 
+the DBI so that new cross-border sharing agreements could be 
+reached.  These bands included:  420-450 MHz, 698-806 MHz 
+("700 MHz"), 2300-2400 MHz and 3300-3700 MHz bands.  All of 
+these bands were included in the DBI except the 2300-2400 MHz 
+which will be discussed informally in upcoming HLCC working 
+level teleconferences.  (The U.S. and Mexico currently have 
+an agreement in place for the 2310-2360 MHz band for the 
+Digital Audio Radio Satellite Service used extensively by 
+U.S. providers XM Satellite Radio and Sirius Satellite 
+Radio).  SCT and Cofetel also mentioned their interest in 
+amending the existing Protocol for Personal Communications 
+Services in the 1850-1990 MHz band to also support wireless 
+broadband. 
+ 
+The three HLCC documents that were signed will be posted 
+shortly on the Department's public website at : 
+http://www.state.gov/e/eeb/cip/c622.htm. 
+ 
+Improvements for Cross Border Security Communications 
+--------------------------------------------- -------- 
+ 
+¶8.  (SBU)  Representatives of Mexico's Secretariat of Public 
+ 
+MEXICO 00004334  003 OF 003 
+ 
+ 
+Safety (SSP) and the U.S. Department of Homeland Security 
+reported in the working level meeting that the HLCC Security 
+Communications Task Group plans to complete its Plan for the 
+Long Term Solution for Cross Border Security Communications 
+shortly and submit the Plan to the HLCC for adoption.  The 
+Plan reportedly includes establishment of six cross border 
+microwave links in the 7-8.5 GHz band that will allow voice, 
+data and video intercommunications between communications 
+centers of law enforcement agencies on both sides.   In the 
+principals meeting, DOS also mentioned the need for a second 
+phase of the "Long Term Solution" that would address 
+reciprocal licensing for mobile and portable equipment of 
+public safety agencies on both sides as well as improving 
+mutual-aid communications for specific individual public 
+safety agencies on each side.    These are the continuing 
+actions described in reftel, and the Plan will be distributed 
+to border consulates when completed. 
+ 
+Del Villar Proposes a North America-wide Calling Area 
+--------------------------------------------- -------- 
+ 
+¶9. (SBU)  Lowering interconnection rates is high on SCT's 
+agenda, justified to the public and the industry by the 
+"social good" argument.  At the meeting, del Villar and 
+Tellez said that if the U.S., Canada and Mexico could come to 
+an agreement to trilaterally lower interconnection rates for 
+telephony across the region, this would help the GOM to 
+convince Telmex to relinquish some hold on the sector. 
+ 
+Comment 
+------- 
+¶10. (SBU) Telmex seems to be feeling the pressure as there is 
+already speculation in the industry that the monopoly will 
+file an injunction against Cofetel's proposed interconnection 
+plan.  The SCT appears to have firmly taken control of 
+telecommunications policy in Mexico and has an arsenal of 
+ideas for progress in the sector.  In telecommunication 
+negotiations, we are seeing unprecedented levels of positive 
+engagement from our Mexican counterparts.  SCT Under 
+Secretary del Villar has a lot of energy and progressive 
+ 
+SIPDIS 
+ideas, now it's a matter of how much momentum he can gather 
+to push for change in the industry.  End comment. 
+ 
+¶11.  (U) This cable was prepared jointly with collaboration 
+of members of the U.S. delegation from EEB/CIP. 
+ 
+ 
+Visit Mexico City's Classified Web Site at 
+http://www.state.sgov.gov/p/wha/mexicocity and the North American 
+Partnership Blog at http://www.intelink.gov/communities/state/nap / 
+BASSETT

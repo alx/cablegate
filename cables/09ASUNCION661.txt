@@ -1,0 +1,105 @@
+09ASUNCION661
+EMBASSY IS NOT SPARED AS CRIME CONTINUES TO RISE IN ASUNCION
+Mon Nov 23 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Asuncion
+VZCZCXYZ0011
+RR RUEHWEB
+
+DE RUEHAC #0661 3272120
+ZNR UUUUU ZZH
+R 232120Z NOV 09
+FM AMEMBASSY ASUNCION
+TO RUEHC/SECSTATE WASHDC 0206
+INFO RUEHAC/AMEMBASSY ASUNCIONid: 236241
+date: 11/23/2009 21:20
+refid: 09ASUNCION661
+origin: Embassy Asuncion
+classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
+destination: 09ASUNCION512
+header:
+VZCZCXYZ0011
+RR RUEHWEB
+DE RUEHAC #0661 3272120
+ZNR UUUUU ZZH
+R 232120Z NOV 09
+FM AMEMBASSY ASUNCION
+TO RUEHC/SECSTATE WASHDC 0206
+INFO RUEHAC/AMEMBASSY ASUNCION
+----------------- header ends ----------------
+UNCLAS ASUNCION 000661
+SENSITIVE
+SIPDIS
+DEPARTMENT FOR WHA DAS MCCMULLEN, WHA/BSC MILTON DRUCKER, MARY DASHBACH
+E.O. 12958: N/A
+TAGS: ASEC AMGT ALOW
+SUBJECT: EMBASSY IS NOT SPARED AS CRIME CONTINUES TO RISE IN ASUNCION
+REF: ASUNCION 512
+¶1. (U) SUMMARY: Over the course of the past six months, Asuncion
+has experienced a notable increase in crime. The crime wave has
+impacted the Embassy community, but most recently the Paraguayan
+National Police have reacted quickly to arrest suspects. Case in
+point: on November 16 the Paraguayan National Police successfully
+arrested the suspected assailant in the armed robbery of two
+Fulbright Scholars in downtown Asuncion. The robbery took place on
+November 11, at approximately 10:00 P.M. local time in a busy
+public area of central Asuncion. The investigation and successful
+arrest represents a rare success in what has been a year of rising
+crime and instability in Asuncion and Paraguay as whole. END
+SUMMARY.
+--------------------------------
+Rising Anxiety over Crime
+--------------------------------
+¶2. (U) In July 2009 the Paraguayan National Police Office of
+Public Affairs released updated crime statistics showing that
+violent crimes in Asuncion for 2009 had already surpassed the
+annual total for 2008 and that crime levels throughout the country
+were also up sharply. This information, although of debatable
+statistical veracity, added to the already rising sense of
+insecurity among Paraguayans. The media contribute to the general
+anxiety over crime by highlighting spectacular robberies and
+violent crimes with front page headlines and horrific photos. The
+overall sense of rising insecurity is only exacerbated by
+perception of widespread corruption and incompetence within the
+Paraguayan law enforcement elements. The Paraguayan National
+Police have been directly involved in several high profile criminal
+incidents this year; one being the attempted assassination of a
+Lebanese businessman by a police officer and another the kidnapping
+and eventual death of a teenager by a group involving police.
+Senior levels of the police are also tainted by allegations of
+corruption, with three different individuals holding the position
+of Commander of the National Police with the last calendar year,
+and one recently replaced Commander holding an ostentatious 15th
+birthday for his daughter with over 600 invited guests.
+Paraguayans can frequently be heard referring nostalgically to the
+days of the Stroessner dictatorship when crime was supposedly
+nonexistent and people could sleep soundly without locking their
+doors.
+---------------------------
+Embassy Not Immune
+---------------------------
+¶3. (SBU) Embassy personnel have not been immune to increasing
+criminal activity in Asuncion. Within the last year Embassy
+housing has suffered one break-in, with a laptop computer and
+jewelry stolen, and another attempted burglary. Six vehicles
+belonging to mission personnel have been broken into with laptop
+computers, cash, and personal belongings stolen. Most seriously,
+a member of the Embassy staff was drugged, beaten, and robbed in
+early 2009. The armed robbery of November 11 is merely the latest
+criminal incident against Embassy personnel. The Regional Security
+Office has responded with regular security advisories, updated
+briefings, enhanced training for the local guard force, and
+strengthened cooperation with the Paraguayan National Police. The
+successful arrest and ensuing confession in the armed robbery on
+November 11, following a joint investigation and ruse operation, is
+an outstanding example of the Regional Security Office working with
+the Paraguayan National Police to protect American citizens.
+¶4. (U) Although it is not surprising that the Embassy has not been
+spared from Asuncion's increasing crime, the large number of events
+that affect Embassy personnel is cause for concern. As the
+Government of Paraguay struggles to improve security, with the
+still unresolved kidnapping (see Reftel) shaking the confidence of
+the public, criminal activity is expected to continue to increase
+- and the Embassy will increase its vigilance accordingly.
+AYALDE
+=======================CABLE ENDS============================

@@ -1,0 +1,264 @@
+07BOGOTA1903
+VISAS VIPER MONTHLY REPORT: FEBRUARY 2007
+Fri Mar 23 00:00:00 +0100 2007
+SECRET//NOFORN
+Embassy Bogota
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHBO #1903/01 0821832
+ZNY SSSSS ZZH
+R 231832Z MAR 07
+FM AMEMBASSY BOGOTA
+TO RUEHC/SECSTATE WASHDC 3568
+INFO RUEHPE/AMEMBASSY LIMA 4878
+RHEFDIA/DIA WASHDC
+RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUEAHLC/HOMELAND SECURITY WASHDC
+RUEAIIA/CIA WASHDC
+RHMCSUU/FBI WASHINGTON DC//INTD/CTD/CT WATCHid: 101791
+date: 3/23/2007 18:32
+refid: 07BOGOTA1903
+origin: Embassy Bogota
+classification: SECRET//NOFORN
+destination: 07BOGOTA1390
+header:
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHBO #1903/01 0821832
+ZNY SSSSS ZZH
+R 231832Z MAR 07
+FM AMEMBASSY BOGOTA
+TO RUEHC/SECSTATE WASHDC 3568
+INFO RUEHPE/AMEMBASSY LIMA 4878
+RHEFDIA/DIA WASHDC
+RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUEAHLC/HOMELAND SECURITY WASHDC
+RUEAIIA/CIA WASHDC
+RHMCSUU/FBI WASHINGTON DC//INTD/CTD/CT WATCH
+
+
+----------------- header ends ----------------
+
+S E C R E T BOGOTA 001903 
+ 
+SIPDIS 
+ 
+NOFORN 
+SIPDIS 
+VISAS VIPER 
+ 
+E.O. 12958: DECL: 03/23/2016 
+TAGS: ASEC CMGT CVIS KVPR PINR PTER CO
+SUBJECT: VISAS VIPER MONTHLY REPORT: FEBRUARY 2007 
+ 
+REF: BOGOTA 01390 AND PREVIOUS 
+ 
+Classified By: CDA Milton Drucker, reason 1.5(d). 
+ 
+¶1. (U) Post's Visa Viper Committee met on March 7, 2007, and 
+the meeting was chaired by the CDA, Milton Drucker.  Post's 
+Viper Coordinator is Fraud Prevention Unit officer Jenny 
+Cordell. 
+ 
+¶2. (C) Post's Visas Viper Committee submits Horacio Duque 
+Giraldo, former advisor to then-Minister of Interior Horacio 
+Serpa during the presidential administration of Ernesto 
+Samper.  Duque was arrested on February 28, 2007 for his 
+alleged ties to a drug trafficking organization that conducts 
+business with the Revolutionary Armed Forces of Colombia 
+(FARC), a Named Foreign Terrorist Organization.  Reports 
+characterize Duque as the right-hand man of FARC spokesperson 
+"Raul Reyes," and Post's Drug Enforcement Administration 
+(DEA) office confirms that, according to 2005 reporting, 
+Duque is a finance man for the FARC. 
+ 
+¶3. (SBU) Name: Duque Girlado, Horacio 
+DOB: 18-MAY-1954 
+Colombian Cedula Number: 4406725 
+Colombian Passport: PO47719 
+Gender: Male 
+CLASS Hits: None 
+Subject's B-1/B-2 visa was revoked on March 7, 2007 under INA 
+Section 212(a)(2)(C)(i). 
+ 
+¶4. (C) Post's Visas Viper Committee submits Denys (aka Denis) 
+Silva Ruiz, who was arrested on February 18, 2007 for 
+membership in and activities on behalf of the FARC.  Silva 
+played a key role in a 1998 operation, negotiated by former 
+Peruvian security chief Vladimiro Montesinos, wherein 10,000 
+AK-47 rifles from Jordan were bought and transferred to the 
+FARC.  Silva faces international drug and arms trafficking 
+charges.  DEA confirms that Silva is a member of the FARC's 
+16th Front.  Although there are CLASS hits which appear to 
+correspond to Silva, Colombian security officials confirm 
+that Silva's nationality and date of birth are different from 
+those shown in CLASS. 
+ 
+¶5. (SBU) Name: Silva Ruiz, Denys (or Denis) 
+DOB: 31-MAY-1969 
+Peruvian Passport Number: 0679757 
+Country of Birth: Peru 
+Gender: Male 
+ 
+¶6. (SBU) Post's Visas Viper Committee submits Rosa Stella 
+Ibanez Alonso, who was arrested on February 12, 2007, for her 
+alleged involvement in diverting the equivalent of USD 2.7 
+million in municipal funds to the United Self-Defense Forces 
+of Colombia (AUC, a Named Foreign Terrorist Organization). 
+Ibanez, the former Mayor of Soledad in Colombia's Casanare 
+Department, remains in custody. 
+ 
+¶7. (SBU) Name: Ibanez Alonso, Rosa Stella (or Estella) 
+DOB: 29-AUG-1969 
+Colombian Cedula Number: 32828433 
+Colombian Passport: AJ140391 
+Gender: Female 
+CLASS Hits: None 
+ 
+¶8. (S/NF) Post's Visas Viper Committee submits Bertulfo 
+Trujillo Fuentes.  Post's Office of Regional Affairs (ORA) 
+reports that according to Colombian Army Intelligence, 
+noncommissioned officer Trujillo is actively involved with 
+the FARC and has attempted to facilitate the kidnapping of 
+several unit mates.  Until he was recently terminated from 
+his post, Trujillo was a part of the Intelligence Unit, as 
+well. 
+ 
+¶9. (SBU) Name: Trujillo Fuentes, Bertulfo 
+DOB: 05-OCT-1969 
+Colombian Cedula Number: 75001768 
+CLASS hits: None 
+ 
+¶10. (SBU) Post's Visas Viper Committee submits Alvaro Araujo 
+Castro, Colombian Senator from Cesar Department who, on 
+February 15, 2007, upon the order of Colombia's Supreme Court 
+of Justice, was arrested for his alleged ties to the AUC. 
+Araujo has been charged with conspiracy and aggravated 
+kidnapping.  Araujo remains in custody. 
+¶11. (SBU) Name: Araujo Castro, Alvaro 
+DOB: 07-NOV-1966 
+Colombian Cedula Number: 80411143 
+Colombian Passport: PO038731 
+Gender: Male 
+CLASS Hits: None 
+Subject's B-1/B-2 visa was revoked on December 22, 2006 under 
+INA Section 221(i). 
+ 
+¶12. (SBU) Post's Visas Viper Committee submits Dieb Nicolas 
+Maloof Cuse, Colombian Senator from Atlantico Department who, 
+on February 15, 2007, upon the order of Colombia's Supreme 
+Court of Justice, was arrested for his alleged ties to the 
+AUC.  Maloof has been charged with conspiracy, and remains in 
+custody. 
+ 
+¶13. (SBU) Name: Maloof Cuse, Dieb Nicolas 
+DOB: 19-APR-1964 
+Colombian Cedula Number: 8736863 
+Colombian Passport: PO031658 
+Gender: Male 
+CLASS Hits: None 
+Subject's B-1/B-2 visa was revoked on December 22, 2006 under 
+INA Section 221(i). 
+ 
+¶14. (SBU) Post's Visas Viper Committee submits Mauricio 
+Pimiento Barrera, Colombian Senator from Cesar Department 
+who, on February 15, 2007, upon the order of Colombia's 
+Supreme Court of Justice, was arrested for his alleged ties 
+to the AUC.  Pimiento has been charged with conspiracy, and 
+remains in custody. 
+ 
+¶15. (SBU) Name: Pimiento Barrera, Mauricio 
+DOB: 17-MAR-1961 
+Colombian Cedula Number: 19434067 
+Colombian Passport: D031184 
+Gender: Male 
+CLASS Hits: None 
+Subject's B-1/B-2 visa was revoked on December 22, 2006 under 
+INA Section 221(i). 
+ 
+¶16. (SBU) Post's Visas Viper Committee submits Luis Eduardo 
+Vives Lacouture, Colombian Senator from Magdalena Department 
+who, on February 15, 2007, upon the order of Colombia's 
+Supreme Court of Justice, was arrested for his alleged ties 
+to the AUC.  Vives has been charged with conspiracy, and 
+remains in custody. 
+ 
+¶17. (SBU) Name: Vives Lacouture, Luis Eduardo 
+DOB: 10-DEC-1957 
+Colombian Cedula Number: 12544261 
+Colombian Passport: PO029013 
+Gender: Male 
+CLASS Hits: None 
+Subject's B-1/B-2 visa was revoked on December 22, 2006 under 
+INA Section 221(i). 
+ 
+¶18. (SBU) Post's Visas Viper Committee submits Alfonso 
+Antonio Francisco Campo Escobar, Colombian Representative 
+from Magdalena Department who, on February 15, 2007, upon the 
+order of Colombia's Supreme Court of Justice, was arrested 
+for his alleged ties to the AUC.  Campo has been charged with 
+conspiracy, and remains in custody. 
+ 
+¶19. (SBU) Name: Campo Escobar, Alfonso Antonio Francisco 
+DOB: 05-DEC-1966 
+Colombian Cedula Number: 85449946 
+Colombian Passport: PO038616 
+Gender: Male 
+CLASS Hits: None 
+Subject's B-1/B-2 visa was revoked on December 22, 2006 under 
+INA Section 221(i). 
+ 
+¶20. (SBU) Post's Visas Viper Committee submits Jorge Luis 
+Caballero Caballero, Colombian Representative from Magdalena 
+Department, whose arrest has been ordered by the Colombian 
+Supreme Court of Justice due to his alleged ties to the AUC. 
+Caballero has been charged with conspiracy, but has fled 
+Colombia and is reportedly seeking asylum in Europe. 
+ 
+¶21. (SBU) Name: Caballero Caballero, Jorge Luis 
+DOB: 21-APR-1967 
+Colombian Cedula Number: 5056056 
+Colombian Passport: PO034270 
+Gender: Male 
+CLASS Hits: None 
+Subject's B-1/B-2 visa was revoked on December 22, 2006 under 
+INA Section 221(i). 
+ 
+¶22. (SBU) The Visas Viper Committee also discussed the status 
+of the Colombian Supreme Court investigation into  Colombian 
+Senators' and Representatives' alleged ties to AUC 
+paramilitaries and others involved in the "parapolitics" 
+scandal (reftel).  Specifically, the Committee reviewed the 
+cases of Alvaro Araujo Noguera, Jorge de Jesus Castro 
+Pacheco, Miguel Angel Duran Gelvis, Hernando Cesar de Jesus 
+Molina Araujo, Ciro Ramirez Pinzon, and Oscar Leonidas 
+Wilches Carreno.  The Committee determined that additional 
+information is needed before submission to Visas Viper. 
+Given that these individuals are currently under criminal 
+investigation, however, the Consular Section, in concurrence 
+with the Visas Viper Committee, is taking action to revoke 
+the visas of those who hold them, as these individuals 
+currently pose a flight risk. 
+ 
+¶23. (SBU) The Committee discussed the cases of six sitting 
+mayors who have been called for questioning by a prosecutor 
+with the National Anticorruption Unit.  The mayors are under 
+investigation for alleged ties to the ACC (Casanare Peasant 
+Self-Defense Group), having signed a document in which they 
+agreed to channel part of their towns' budgets to 
+paramilitary coffers.  Those implicated include: Raul Cabrera 
+Barreto, Mayor of Villanueva; Aleyder Castaneda Avila, Mayor 
+of Monterey; Mauricio Esteban Chaparro, Mayor of Sabanalarga; 
+Jorge Eliecer Lopez Barreto, Mayor of Tauramena; Henry Montes 
+Montes, Mayor of Mani; and Leonel Roberto Torres Arias, Mayor 
+of Aguazul.  The subjects' ties to the AUC and the 
+circumstances under which they signed the document remain 
+unclear.  As such,the Committee determined that additional 
+information is needed before submission to Visas Viper.  None 
+of the mayors currently hold visas, and CLASS Lookouts have 
+been added for each of them. 
+Drucker 
+
+=======================CABLE ENDS============================
