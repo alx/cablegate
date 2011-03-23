@@ -1,0 +1,98 @@
+08CARACAS319
+BRV DEPLOYMENT CONTINUES TO CREEP FORWARD
+Thu Mar 06 00:00:00 +0100 2008
+SECRET
+Embassy Caracas
+VZCZCXRO7686
+OO RUEHAG RUEHROV
+DE RUEHCV #0319 0662212
+ZNY SSSSS ZZH
+O 062212Z MAR 08
+FM AMEMBASSY CARACAS
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 0752
+INFO RUMIAAA/HQ USSOUTHCOM MIAMI FL IMMEDIATE
+RHEHNSC/NSC WASHDC IMMEDIATE
+RUCNMEM/EU MEMBER STATES COLLECTIVE PRIORITY
+RUEHWH/WESTERN HEMISPHERIC AFFAIRS DIPL POSTS PRIORITYid: 144644
+date: 3/6/2008 22:12
+refid: 08CARACAS319
+origin: Embassy Caracas
+classification: SECRET
+destination: 08CARACAS308
+header:
+VZCZCXRO7686
+OO RUEHAG RUEHROV
+DE RUEHCV #0319 0662212
+ZNY SSSSS ZZH
+O 062212Z MAR 08
+FM AMEMBASSY CARACAS
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 0752
+INFO RUMIAAA/HQ USSOUTHCOM MIAMI FL IMMEDIATE
+RHEHNSC/NSC WASHDC IMMEDIATE
+RUCNMEM/EU MEMBER STATES COLLECTIVE PRIORITY
+RUEHWH/WESTERN HEMISPHERIC AFFAIRS DIPL POSTS PRIORITY
+
+----------------- header ends ----------------
+
+S E C R E T CARACAS 000319 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+SOUTHCOM ALSO FOR POLAD 
+ 
+E.O. 12958: DECL: 11/30/2028 
+TAGS: MCAP MOPS PGOV PREL CO VE
+SUBJECT: BRV DEPLOYMENT CONTINUES TO CREEP FORWARD 
+ 
+REF: CARACAS 308 
+ 
+Classified By: Robert Downes, Political Counselor, 
+for Reason 1.4(d) 
+ 
+¶1. (S) SUMMARY: The deployment of Venezuelan troops to the 
+areas near the border of Colombia continues with some 
+movement being reported in local press at Fuerte Paramaracay 
+in Valencia and Fuerte Mara in the border state of Zulia. 
+This included, for the first time, reports of helicopter 
+movements.  There is no indication of the activation of any 
+new units and the 42 Parachute Brigade still appears to 
+remain in garrison.  Available open source and sensitive 
+reporting does not support the BRV's claims of 9,000 troops. 
+END SUMMARY. 
+ 
+Getting a Lift 
+-------------- 
+¶2. (S) Local press observed five heavy equipment transports 
+(HETs) entering Fuerte Paramaracay in Valencia, home of the 
+41st Armored Brigade on the morning of March 5.  Although 
+they were not seen leaving, earlier photographs show that the 
+HETs are capable of carrying either one AMX-30 main battle 
+tank or two AMX-13 light tanks configured as armored fighting 
+vehicles (AFVs).  This would concur with other sensitive 
+reporting that showed seven AFVs awaiting transport in 
+Valencia.   The press also reported and photographed a 
+helicopter (possibly an MI-17 HIP or an MI-26 HALO) making 
+two brief landings, presumably to pick up troops or command 
+elements on March 5. 
+ 
+Front Pages From the Front 
+-------------------------- 
+¶3. (S) Regional newspapers from the border state of Zulia ran 
+photographs of a military column (presumably from the 1st 
+Division in Fuerte Mara) made up of olive drab buses and 
+trucks.  The front page also carried a photograph of an MI-25 
+HIND gunship circling the highway interchange near La Chinita 
+airport, which confirms sensitive reporting of a HIND. A 
+contact at La Chinita airport told PolOff that the Venezuelan 
+Air Force was paying to fuel the helicopters and not 
+commandeering supplies. 
+ 
+¶4.  (C)  COMMENT:  Although not every troop movement can 
+expect to be reported in the open press, available open 
+source and sensitive reporting does not support the BRV's 
+claims of 9,000 troops.  END COMMENT. 
+DUDDY 
+
+=======================CABLE ENDS============================

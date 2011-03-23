@@ -1,0 +1,248 @@
+08QUITO228
+ECUADORIAN TROOP MOVEMENTS, FARC CAPTURES, FOL
+Fri Mar 07 00:00:00 +0100 2008
+SECRET
+Embassy Quito
+VZCZCXYZ0000
+OO RUEHWEB
+
+DE RUEHQT #0228/01 0672235
+ZNY SSSSS ZZH
+O 072235Z MAR 08
+FM AMEMBASSY QUITO
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 8596
+INFO RUEHBO/AMEMBASSY BOGOTA 7414
+RUEHBR/AMEMBASSY BRASILIA 3859
+RUEHCV/AMEMBASSY CARACAS 2938
+RUEHLP/AMEMBASSY LA PAZ MAR LIMA 2460
+RUEHMD/AMEMBASSY MADRID 1759
+RUEHMU/AMEMBASSY MANAGUA 0492
+RUEHME/AMEMBASSY MEXICO 1752
+RUEHGL/AMCONSUL GUAYAQUIL 3380
+RUEKJCS/SECDEF WASHDC
+RUEKJCS/JOINT STAFF WASHDC
+RHMFISS/CDR USSOUTHCOM MIAMI FLid: 144928
+date: 3/7/2008 22:35
+refid: 08QUITO228
+origin: Embassy Quito
+classification: SECRET
+destination: 08QUITO221
+header:
+VZCZCXYZ0000
+OO RUEHWEB
+
+DE RUEHQT #0228/01 0672235
+ZNY SSSSS ZZH
+O 072235Z MAR 08
+FM AMEMBASSY QUITO
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 8596
+INFO RUEHBO/AMEMBASSY BOGOTA 7414
+RUEHBR/AMEMBASSY BRASILIA 3859
+RUEHCV/AMEMBASSY CARACAS 2938
+RUEHLP/AMEMBASSY LA PAZ MAR LIMA 2460
+RUEHMD/AMEMBASSY MADRID 1759
+RUEHMU/AMEMBASSY MANAGUA 0492
+RUEHME/AMEMBASSY MEXICO 1752
+RUEHGL/AMCONSUL GUAYAQUIL 3380
+RUEKJCS/SECDEF WASHDC
+RUEKJCS/JOINT STAFF WASHDC
+RHMFISS/CDR USSOUTHCOM MIAMI FL
+
+
+----------------- header ends ----------------
+
+S E C R E T QUITO 000228 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 09/06/2014 
+TAGS: PREL MOPS PTER EC CO MX SP
+SUBJECT: ECUADORIAN TROOP MOVEMENTS, FARC CAPTURES, FOL 
+INVESTIGATION 
+ 
+REF: QUITO 221 
+ 
+Classified By: CDA Jefferson Brown for Reasons 1.4 (b&d) 
+ 
+¶1.  (S) SUMMARY.  Ecuador's Fourth Division Army Commander 
+Narvaez confirmed on March 4 that he had modestly increased 
+border zone deployments but was operating fairly normally, 
+and that the Division's primary mission was still to pursue 
+the FARC. Five suspected FARC insurgents were captured near 
+the site of the Colombian operation on March 6.   Colombian 
+accusations about Correa administration's FARC contacts have 
+caused some within the military to be concerned about 
+possible removal of some military leaders, including Narvaez. 
+ Several of the individuals killed in the March 1 attack 
+appear to have been Mexican, including at least one of the 
+survivors currently in a Quito military hospital. 50% of 
+Ecuadorian poll respondents did not agree with the GOE 
+decision to cut of diplomatic relations with Colombia.  The 
+Constituent Assembly is considering calls for an 
+investigation into whether the Manta Forward Operating 
+Location was involved in supporting the Colombian operation. 
+END SUMMARY. 
+ 
+MILITARY UPDATE 
+ 
+¶2.  (S) USG representatives have met over the past few days 
+with Brigadier General Fabian Edmundo Narvaez, commander of 
+the Ecuadorian Army's Fourth Division (which includes the 
+area of the Reyes incident).  Narvaez has been an aggressive 
+commander, increasing patrols and operations, and very 
+receptive to USG support.  He did not appear to have changed 
+his attitude, nor did he demonstrate anger over the GOC's 
+operation against the FARC.  He seemed to remain committed to 
+pursuing the FARC.  Narvaez confirmed that approximately 150 
+soldiers from the Fourth Division converged on the site of 
+the Colombian operation in northern Ecuador, some to assess 
+the site and others to look for evidence of other FARC 
+presence.  The Ecuadorian Navy sent three corvette warships 
+to the maritime border with Colombia as a show of force. 
+ 
+¶3.  (S) The Fourth Division, comprised of 4,500 troops, has 
+relocated its operating headquarters from Coca, Orellana 
+province, to the 24th Special Forces Group in Lago Agrio, 
+Sucumbios province, closer to the border.  According to 
+Narvaez, the Fourth Division is pursuing the FARC actively, 
+as it has in a series of concerted operations since last 
+November.  Amid recriminations for the GOE,s failure to 
+locate and destroy the Reyes camp, some in the military fear 
+that Narvaez will be (unfairly, in his case) made a scapegoat 
+and relieved of his command (note: many believe he is one of 
+the officers whose replacement appeared to be part of the 
+negotiation that Larrea conducted with Reyes, as cited in the 
+post-op captured documents).  Other military officers have 
+expressed resentment regarding President Correa's handling of 
+the situation and concern about the Colombian accusations 
+that the Correa administration may replace military 
+leadership as part of negotiations with the FARC. 
+ 
+RECOVERY AND CAPTURE OF FARC 
+ 
+¶4.  (C) The Fourth Division relocated the 22 bodies and the 
+three wounded from the FARC camp to Quito on March 3 and 4, 
+the wounded currently in a military hospital.  (Two others, 
+including Raul Reyes, were previously removed by the 
+Colombian military.)  Ecuadorian leaders, in seeking to build 
+their case against the GOC action in terms of international 
+law and convention, have asserted that some of the bodies 
+reveal shots in the back.  Accompanying this argument is 
+criticism that the Colombian forces left wounded individuals 
+behind.  Among the three female survivors, Lucia Andrea 
+Morett Alvarez, a Mexican national whose parents came to 
+Quito to visit her on March 6, claimed no ties to the FARC, 
+whereas another, Martha Perez, admitted to the press that she 
+had been a FARC insurgent for one year.  No decision has yet 
+been announced about how the GOE intends to handle these 
+detainees, as officials say only that an investigation must 
+first proceed.  Minister of Coordination of Internal and 
+External Security Gustavo Larrea claimed publicly on March 7 
+that five other Mexican nationals were at the FARC camp at 
+the time of the attack, and "may have died."  An embassy 
+ 
+source informed that one body already recovered from the site 
+had a Mexican passport and is presumed to be a Mexican 
+national. 
+ 
+¶5.  (SBU) On March 6, two additional bodies were discovered 
+approximately 800 meters from the site of the Colombian 
+operation.  That same day, the Ecuadorian military captured 
+five presumed FARC members.  Minister Larrea announced that 
+"the insurgents were detained in the Chanangue river, that 
+opens into the San Miguel river, a few meters from the 
+Colombian border." 
+ 
+PROTESTS AND PUBLIC OPINION 
+ 
+¶6.  (SBU) Demonstrations have taken place in Quito during the 
+week following the Colombian incursion, most passing in front 
+of the Colombian embassy.  Most have been limited to just a 
+few hundred; most have been directed against the Colombian 
+action but some have also been against the FARC.  On the 
+evening of March 6, approximately 1,200 participants 
+demonstrated peacefully in front of the U.S. embassy, 
+chanting anti-U.S. and anti-Colombian slogans.  Ecuadorian 
+authorities prevented a smaller protest group from reaching 
+the U.S. embassy earlier in the day.  A larger, government 
+sponsored demonstration is planned for March 13. 
+ 
+¶7.  (C) The GOE, seeking to ensure domestic support, 
+organized a large meeting with civil society representatives 
+on March 5, where it made a detailed presentation on the 
+March 1 events.  Our contacts in the government and academia 
+have expressed a range of views on the prospects for 
+repairing the rupture.  MFA North America DG Santiago Chavez 
+was by far the most optimistic, expressing his (apparently 
+personal) view that things could be patched together over the 
+next few weeks.  Professor Grace Jaramillo of the Latin 
+American Social Sciences Faculty (FLACSO) was far more 
+pessimistic; she told us that the determinant whether Ecuador 
+would shift permanently to a position closer to Chavez would 
+be U.S. willingness to condemn Colombia's violation of 
+Ecuadorian sovereignty. 
+ 
+¶8.  (C) Many of our contacts, while supporting Correa's 
+position on the incursion, have expressed regret at the break 
+in diplomatic relations with Colombia.  For example, NGO 
+Citizen Participation Executive Director Ruth Hidalgo told us 
+it was unfortunate given all that the Ecuadorian and 
+Colombian people have in common.  A Cedatos poll found that 
+50% of respondents did not agree with the break in diplomatic 
+relations.  Commentators have noted that Ecuador did not 
+break off relations with Peru even during two wars they 
+fought in the last 20 years.  Specifically consular functions 
+have apparently been allowed to continue. 
+ 
+FOL INVESTIGATION BY ASSEMBLY 
+ 
+¶9.  (C) Alberto Acosta and other Constituent Assembly leaders 
+have stated that the Assembly's Committee on Sovereignty, 
+International Relations, and Latin American Integration will 
+decide whether to investigate if the U.S. Forward Operating 
+Location (FOL) was involved in supporting the Colombian 
+attack on March 1 (reftel).  The Constituent Assembly sent a 
+letter on March 6 to the FOL Commander requesting information 
+on flights originating from the FOL.  The Embassy is working 
+to communicate transparency, stressing that the FOL flight 
+arrival and departure information is available from the 
+Ecuadorian civil aviation agency that mans the Manta airport 
+control tower, as well as through the Ecuadorian liaison 
+officer stationed at JIATF-South.  On March 6, thirteen 
+opposition Assembly members visited the FOL and received a 
+full tour and command briefing. 
+ 
+QUITO BOLIVARIAN CONGRESS TIES TO FARC 
+ 
+¶10.  (S) There is reason to suspect that some of those in the 
+Raul Reyes camp at the time of the Colombian attack had 
+entered Ecuador to attend the Second Bolivarian Continental 
+Congress in Quito February 24-27.  At least two passports 
+recovered from the attack site show that the insurgents 
+entered Ecuador shortly before the Bolivarian Congress.  The 
+Bolivarian Congress was also attended by three Basque 
+ 
+Homeland and Freedom (ETA) members from Spain.  A video 
+address by Raul Reyes was played at the beginning of the 
+Congress.  The FARC helped sponsor and fund the event by 
+paying the $4,200 deposit on the Culture House, the venue. 
+The Caribbean Bloc Coordinator of the Bolivarian Continental 
+Coordinator, Luciano Marin Arango (aka Ivan Marquez), passed 
+the funds for the Congress through Audrey Millot, a known 
+French FARC affiliate. 
+ 
+¶11.  (C) Maria Augusta Calle, President of the sovereignty 
+committee in the Constituent Assembly, signed a petition 
+along with numerous others requesting the use of the Culture 
+House for the Bolivarian Congress.  An article in the March 6 
+edition of the weekly Vistazo magazine shows photos of Calle 
+with the daughter of Raul Reyes, Lidia Carmenza Devia 
+Collazos, who it said had been living in El Quinche, 
+northeast of Quito.  In the article, Calle was quoted as 
+saying she had met many people as a journalist but denying 
+any knowledge of contact with Reyes' daughter. 
+BROWN 
+
+=======================CABLE ENDS============================
