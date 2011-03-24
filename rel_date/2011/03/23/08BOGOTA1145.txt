@@ -3,3 +3,148 @@ C) COLOMBIA'S STRATEGY TO EXPLOIT INFO FROM FARC
 Thu Mar 27 00:00:00 +0100 2008
 CONFIDENTIAL
 Embassy Bogota
+VZCZCXYZ0002
+OO RUEHWEB
+
+DE RUEHBO #1145/01 0872245
+ZNY CCCCC ZZH
+O 272245Z MAR 08
+FM AMEMBASSY BOGOTA
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 2092
+INFO RHMFISS/CDR USSOUTHCOM MIAMI FL IMMEDIATE
+RUEAIIA/CIA WASHDC IMMEDIATE
+RHEHNSC/NSC WASHDC IMMEDIATE
+RHMFIUU/FBI WASHINGTON DC IMMEDIATE
+RUEAWJA/DEPT OF JUSTICE WASHDC IMMEDIATE
+RHEFDIA/DIA WASHDC IMMEDIATE
+RUEKJCS/JOINT STAFF WASHINGTON DC IMMEDIATE
+RUEKJCS/SECDEF WASHDC IMMEDIATE
+RUEHBR/AMEMBASSY BRASILIA PRIORITY 8116
+RUEHCV/AMEMBASSY CARACAS PRIORITY 0162
+RUEHPE/AMEMBASSY LIMA PRIORITY 6037
+RUEHMD/AMEMBASSY MADRID PRIORITY 0165
+RUEHZP/AMEMBASSY PANAMA PRIORITY 1431
+RUEHQT/AMEMBASSY QUITO PRIORITY 6691id: 147556
+date: 3/27/2008 22:45
+refid: 08BOGOTA1145
+origin: Embassy Bogota
+classification: CONFIDENTIAL
+destination: 
+header:
+VZCZCXYZ0002
+OO RUEHWEB
+
+DE RUEHBO #1145/01 0872245
+ZNY CCCCC ZZH
+O 272245Z MAR 08
+FM AMEMBASSY BOGOTA
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 2092
+INFO RHMFISS/CDR USSOUTHCOM MIAMI FL IMMEDIATE
+RUEAIIA/CIA WASHDC IMMEDIATE
+RHEHNSC/NSC WASHDC IMMEDIATE
+RHMFIUU/FBI WASHINGTON DC IMMEDIATE
+RUEAWJA/DEPT OF JUSTICE WASHDC IMMEDIATE
+RHEFDIA/DIA WASHDC IMMEDIATE
+RUEKJCS/JOINT STAFF WASHINGTON DC IMMEDIATE
+RUEKJCS/SECDEF WASHDC IMMEDIATE
+RUEHBR/AMEMBASSY BRASILIA PRIORITY 8116
+RUEHCV/AMEMBASSY CARACAS PRIORITY 0162
+RUEHPE/AMEMBASSY LIMA PRIORITY 6037
+RUEHMD/AMEMBASSY MADRID PRIORITY 0165
+RUEHZP/AMEMBASSY PANAMA PRIORITY 1431
+RUEHQT/AMEMBASSY QUITO PRIORITY 6691
+
+
+----------------- header ends ----------------
+
+C O N F I D E N T I A L BOGOTA 001145 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 03/27/2018 
+TAGS: PTER PREF PREL PHUM MOPS VZ EC CO
+SUBJECT: (C) COLOMBIA'S STRATEGY TO EXPLOIT INFO FROM FARC 
+ON VENEZUELA AND ECUADOR 
+ 
+Classified By: Ambassador William R. Brownfield 
+Reasons 1.4 (b and d) 
+ 
+ 
+SUMMARY 
+------- 
+¶1. (C) Defense Minister Santos and Vice Minister of Defense 
+(VMOD) Jaramillo told the Ambassador the GOC plans to 
+selectively leak information from FARC computers connecting 
+Presidents Chavez and Correa and their Governments to the 
+FARC over the next 4-6 weeks, as INTERPOL completes its 
+verification procedures.  Once verified, the GOC wants 
+INTERPOL or another respected international organization to 
+publish the materials on a web site.  The GOC plans to 
+provide 90 documents to Venezuela and 30 to Ecuador from the 
+Reyes materials as early as March 27, but will not provide 
+full sets now.  The GOC provided us with full sets of the 
+hard drives, but Santos told us they were doing so on the 
+condition that we not release any information without first 
+consulting with the GOC.   End summary. 
+ 
+GOC STRATEGY FOR REYES INFORMATION 
+---------------------------------- 
+¶2. (C) Minister of Defense Juan Manuel Santos told the 
+Ambassador generally, and VMOD Sergio Jaramillo more 
+specifically March 18, that the GOC plans to use materials 
+seized from Raul Reyes' FARC computers to link Venezuelan 
+President Hugo Chavez, Ecuadorian President Rafael Correa, 
+and their Governments to the terrorist group.  Jaramillo has 
+been designated by the GOC to develop the computer 
+exploitation strategy.  He emphasized on March 26 that the 
+strategy is not yet complete, but 95 percent of its outline 
+is clear.  The GOC would wait to dump the data onto a public 
+web site until INTERPOL verifies the integrity of the 
+computers and no tampering with the information therein, a 
+process expected to be completed by late-April. 
+ 
+¶3. (C) In the 4-6 week interim, the GOC plans to selectively 
+provide intelligence from the computers to carefully chosen 
+North American, Colombian, Spanish, and Latin media tied to 
+specific themes.  Jaramillo thought the most logical themes 
+were: the FARC and President Chavez, the FARC and President 
+Correa, the FARC and drug trafficking, and the FARC and 
+hostages.  The GOC would carefully review all material before 
+release to filter material that could be damaging to the GOC. 
+ 
+ 
+¶4. (C) Once INTERPOL completes its review, the GOC intends to 
+turn over the Reyes computer materials to an independent 
+organization not identified with either the GOC or USG for 
+release on a public internet web site.  The GOC would prefer 
+that INTERPOL, the OAS, or another respected international 
+organization manage the site, but Jaramillo suspected 
+INTERPOL and the OAS would be unwilling to host the 
+information, and that an NGO will end up with the task. 
+ 
+ 
+SHARING WITH GOV/GOE 
+-------------------- 
+ 
+¶5. (C) Santos said the GOC would provide approximately ninety 
+documents from the Reyes computers to Venezuela and thirty 
+documents to Ecuador on March 27, but would not provide them 
+with full sets of information prior to completion of the 
+INTERPOL review. 
+ 
+ 
+GOC SHARES INFO WITH USG--WITH A CONDITION 
+------------------------------------------ 
+ 
+¶6. (C) Santos promised us full sets of the hard drives 
+(subsequently provided), but emphasized to the Ambassador 
+that the GOC was providing the materials on the condition 
+that the USG not/not release any information publicly or for 
+attribution without prior consultation and agreement with the 
+GOC. 
+ 
+BROWNFIELD 
+
+=======================CABLE ENDS============================
