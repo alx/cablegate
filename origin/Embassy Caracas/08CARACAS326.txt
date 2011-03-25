@@ -3,3 +3,73 @@ NO NEW TROOP MOVEMENTS REPORTED
 Fri Mar 07 00:00:00 +0100 2008
 SECRET
 Embassy Caracas
+VZCZCXRO9160
+OO RUEHAO RUEHCD RUEHGA RUEHGD RUEHHA RUEHHO RUEHMC RUEHNG RUEHNL
+RUEHQU RUEHRD RUEHRG RUEHRS RUEHTM RUEHVC
+DE RUEHCV #0326 0672126
+ZNY SSSSS ZZH
+O 072126Z MAR 08
+FM AMEMBASSY CARACAS
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 0763
+INFO RUMIAAA/HQ USSOUTHCOM MIAMI FL IMMEDIATE
+RHEHNSC/NSC WASHDC IMMEDIATE
+RUCNMEM/EU MEMBER STATES COLLECTIVE PRIORITY
+RUEHWH/WESTERN HEMISPHERIC AFFAIRS DIPL POSTS PRIORITYid: 144916
+date: 3/7/2008 21:26
+refid: 08CARACAS326
+origin: Embassy Caracas
+classification: SECRET
+destination: 08CARACAS293|08CARACAS308
+header:
+VZCZCXRO9160
+OO RUEHAO RUEHCD RUEHGA RUEHGD RUEHHA RUEHHO RUEHMC RUEHNG RUEHNL
+RUEHQU RUEHRD RUEHRG RUEHRS RUEHTM RUEHVC
+DE RUEHCV #0326 0672126
+ZNY SSSSS ZZH
+O 072126Z MAR 08
+FM AMEMBASSY CARACAS
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 0763
+INFO RUMIAAA/HQ USSOUTHCOM MIAMI FL IMMEDIATE
+RHEHNSC/NSC WASHDC IMMEDIATE
+RUCNMEM/EU MEMBER STATES COLLECTIVE PRIORITY
+RUEHWH/WESTERN HEMISPHERIC AFFAIRS DIPL POSTS PRIORITY
+
+----------------- header ends ----------------
+
+S E C R E T CARACAS 000326 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+SOUTHCOM ALSO FOR POLAD 
+ 
+E.O. 12958: DECL: 03/05/2018 
+TAGS: MCAP MOPS PGOV PREL CO VE
+SUBJECT: NO NEW TROOP MOVEMENTS REPORTED 
+ 
+REF: A. CARACAS 000293 
+     ¶B. CARACAS 000308 
+ 
+Classified By: Robert Downes, Political Counselor, 
+for Reason 1.4(d) 
+ 
+¶1. (S)  No additional troop movements have been reported in 
+the March 7 open press.  Considering the distances from major 
+bases such as Fuerte Paramaracay in Valencia and Carora 
+barracks in Lara state, it is reasonable to assume that 
+elements of the 41st Armored Brigade, such as the 413th 
+"Pedro Leon Torres" Armored Battalion and the 412th 
+"Bermudez" Armored Battalion are still en route to their 
+forward garrison positions near the Colombian border. Wire 
+service photographs indicate that AK-103 assault rifles, from 
+the consignment of 100,000 purchased from Russia, have been 
+issued to Army units.  Based on open source and sensitive 
+reporting, the Venezuelan army remains far from reaching its 
+stated deployment of 10 battalions since numerous tanks and 
+armored vehicles are still awaiting transport.  There are 
+unconfirmed rumors that there may be a public display of more 
+troops deploying over the March 8-9 weekend. 
+DUDDY 
+
+=======================CABLE ENDS============================
