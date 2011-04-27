@@ -1,0 +1,126 @@
+10CARACAS139
+Venezuela: Cuban Assistance to Confront Electricity Crisis
+Wed Feb 03 00:00:00 +0100 2010
+CONFIDENTIAL
+Embassy Caracas
+VZCZCXRO5612
+RR RUEHAO RUEHCD RUEHHO RUEHNG RUEHRS
+DE RUEHCV #0139 0342202
+ZNY CCCCC ZZH
+R 032202Z FEB 10 ZFF3
+FM AMEMBASSY CARACAS
+TO RUEHC/SECSTATE WASHDC 0407
+INFO OPEC COLLECTIVE
+WESTERN HEMISPHERIC AFFAIRS DIPL POSTS
+RHEBAAA/DEPT OF ENERGY WASHINGTON DC
+RHEHAAA/NATIONAL SECURITY COUNCIL WASHINGTON DC
+RHEHNSC/WHITE HOUSE NATIONAL SECURITY COUNCIL WASHINGTON DC
+RHMFISS/HQ USSOUTHCOM MIAMI FL
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEATRS/DEPT OF TREASURY WASHINGTON DCid: 247099
+date: 2/3/2010 22:02
+refid: 10CARACAS139
+origin: Embassy Caracas
+classification: CONFIDENTIAL
+destination: 09CARACAS1318|09CARACAS1367|10CARACAS35
+header:
+VZCZCXRO5612
+RR RUEHAO RUEHCD RUEHHO RUEHNG RUEHRS
+DE RUEHCV #0139 0342202
+ZNY CCCCC ZZH
+R 032202Z FEB 10 ZFF3
+FM AMEMBASSY CARACAS
+TO RUEHC/SECSTATE WASHDC 0407
+INFO OPEC COLLECTIVE
+WESTERN HEMISPHERIC AFFAIRS DIPL POSTS
+RHEBAAA/DEPT OF ENERGY WASHINGTON DC
+RHEHAAA/NATIONAL SECURITY COUNCIL WASHINGTON DC
+RHEHNSC/WHITE HOUSE NATIONAL SECURITY COUNCIL WASHINGTON DC
+RHMFISS/HQ USSOUTHCOM MIAMI FL
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEATRS/DEPT OF TREASURY WASHINGTON DC
+
+----------------- header ends ----------------
+
+C O N F I D E N T I A L CARACAS 000139 
+ 
+SIPDIS 
+ENERGY FOR ALOCKWOOD AND LEINSTEIN, DOE/EIA FOR MCLINE 
+HQ SOUTHCOM ALSO FOR POLAD 
+TREASURY FOR MKACZMAREK 
+COMMERCE FOR 4332/MAC/WH/JLAO 
+NSC FOR DRESTREPO AND LROSSELLO 
+OPIC FOR BSIMONEN-MORENO 
+AMEMBASSY BRIDGETOWN PASS TO AMEMBASSY GRENADA 
+AMEMBASSY OTTAWA PASS TO AMCONSUL QUEBEC 
+AMEMBASSY BRASILIA PASS TO AMCONSUL RECIFE 
+ 
+E.O. 12958: DECL: 2020/02/03 
+TAGS: EPET EINV ENRG ECON VE
+SUBJECT: Venezuela: Cuban Assistance to Confront Electricity Crisis 
+ 
+REF: CARACAS 35; 09 CARACAS 1367; 09 CARACAS 1318 
+ 
+CLASSIFIED BY: Darnall Steuart, Economic Counselor, DOS, Econ; 
+REASON: 1.4(B), (D) 
+ 
+¶1. (SBU) The evening of February 2, President Chavez announced the 
+arrival of Cuban Minister of Technology and President of the 
+Cabinet of Ministers Ramiro Valdez in Venezuela [NOTE: According to 
+USINT Havana, Valdez is the Cuban Minister of Communication.  END 
+NOTE].  He reportedly was sent to lead a technical commission to 
+resolve Venezuela's electricity crisis (see reftels).  The 
+government of the Bolivarian Republic of Venezuela (GBRV) 
+previously has announced its intention to transition to a 
+distributed electricity system modeled on Cuba's, i.e., a network 
+of small generators distributed around the country.  Venezuela 
+plans to double its distributed generation capacity from 1,000 MW 
+to 2,000 MW (NOTE: Venezuela's peak electricity demand to date in 
+September 2009 surpassed 17,000 MW).  This might alleviate some 
+problems experienced in the rural areas of Venezuela, but would not 
+impact large population centers, such as Caracas or Maracaibo. 
+ 
+ 
+ 
+¶2. (SBU) Venezuelan blogs are speculating that Valdez actually has 
+a different mission in Venezuela, i.e., to use his technical 
+expertise to assist the GBRV clamp down on dissident voices finding 
+expression through the Internet and new media, such as Twitter. 
+[NOTE: Daily statistics on Venezuela's electricity sector, 
+including the daily decrease in the water levels in the Guri dam 
+reservoir, are publicly available on the internet from the 
+Venezuelan Interconnected Systems Operations Office (SEN by its 
+Spanish acronym).  END NOTE] 
+ 
+ 
+ 
+¶3. (C) The press also reported that the Government of Brazil 
+announced that it would send a senior level technical assessment 
+team to Venezuela this week to help develop a solution to 
+Venezuela's impending electricity crisis.  In contrast, EconOffs 
+recently learned from a local businessman that a U.S. citizen 
+engineer present in Venezuela to help repair the Guri hydroelectric 
+turbines had shown his daughter a non-disclosure agreement that he 
+had had to sign to keep his nationality and purpose in Venezuela a 
+secret. 
+ 
+ 
+ 
+¶4. (C) COMMENT: A GBRV move to enlist Cuban assistance to affect a 
+short-term solution to the impending electricity crisis in 
+Venezuela is logical, especially given Electricity Minister and 
+former Venezuelan Ambassador to Cuba Ali Rodriguez' continuing 
+close relations with Havana.  In reality, given the enormity of the 
+electricity crisis, Venezuela likely needs all the help it can 
+secure.  Short of rainfall or massive electricity rationing, 
+however, no local industry analyst believes Venezuela will avoid a 
+collapse of Guri by early summer.  Thus, the possibility raised in 
+the blogosphere that the Cubans might not only be here to lend 
+their electrical expertise but also their expertise in protecting 
+potentially embarrassing government information, i.e., factual data 
+on the deterioration of the electrical sector, represents a concern 
+that the GBRV may take new measures to dampen social discontent by 
+restricting access to public information.  END COMMENT. 
+DUDDY 
+
+=======================CABLE ENDS============================

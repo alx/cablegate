@@ -1,0 +1,116 @@
+06HELSINKI667
+BLUE LANTERN - DTC CASE 05-995123
+Fri Jul 14 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Helsinki
+VZCZCXYZ0006
+RR RUEHWEB
+
+DE RUEHHE #0667 1951357
+ZNR UUUUU ZZH
+R 141357Z JUL 06
+FM AMEMBASSY HELSINKI
+TO RUEHC/SECSTATE WASHDC 2167
+INFO RUEHLO/AMEMBASSY LONDON 0167UNCLAS HELSINKI 000667 
+ 
+SIPDIS 
+ 
+SIPDIS 
+STATE FOR PM/DTCC - BLUE LANTERN COORDINATOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC UK FI
+SUBJECT: BLUE LANTERN - DTC CASE 05-995123 
+ 
+REF: STATE 99974 
+ 
+¶1. Econoff spoke to Jonne Piisila (Security, Defence & 
+Space Division) and Marko Koski (Director, Sales & Business 
+Development) about Elecktrobit Ltd.'s request to purchase 
+the following components from US firm M/A Com, Inc. (Tyco 
+Electronics): 
+ 
+2 -- MAPCGM0005 X-band 6-bit Phase Shifter 
+ 
+1 -- MAPCGM0005-SMB Phase Shifter 6-bit tester 
+ 
+2 -- MA08509D 10 W X-band HPA MMIC 
+ 
+1 -- MAAP-008509-SMB0004 Amplifier Power, 10 W 
+ 
+These components were originally ordered through consignee 
+Richardson Electronics Ltd. in the UK. 
+ 
+¶2. The contacts at Elecktrobit Ltd. stated that this 
+project was classified in nature by the Finnish Defense 
+Force; therefore, additional documentation was not 
+available.  Auvo Viita-aho from the Finnish Defense Force 
+substantiated this claim, and said that they were happy to 
+provide an End User Statement verifying this.  The direct 
+text of the End User Statement from the Finnish Defense 
+Forces is included below: 
+ 
+--------------------------- 
+THE FINNISH DEFENCE FORCES 
+DEFENSE STAFF, C4 DIVISION 
+ 
+Date: 3 JULY 2006 
+ 
+END USER STATEMENT 
+ 
+We undersigned hereby state that, 
+The following commodities, 
+ 
+¶1.  MAPCGM0005 X-band 6-bit Phase Shifter. 
+ 
+¶2.  MAPCGM0005-SMB Phase Shifter 6-bit tester. 
+ 
+¶3.  MA08509D 10 W X-band HPA MMIC. 
+ 
+¶4.  MAAP-008509-SMB0004 Amplifier Power, 10 W. 
+ 
+which are purchased from Tyco Electronics ("Tyco United 
+(U.S.)") by Elektrobit Ltd. Finland, are used for following 
+end use, the purchase commodities are solely used in 
+Research and Development phases and later on in 
+manufacturing phase of Electronic Defense System(s) (EDS) 
+by Elektrobit Ltd. Finland, 
+ 
+the Ultimate and sole End-User for the above mentioned 
+Electronic Defense System(s) is Finnish Defense Forces 
+(FDF), Finland, the EDS system(s) will not be used for any 
+of the following, Nuclear end use, Missile related items or 
+devices, or in development or manufacturing of chemical or 
+biochemical weapons. 
+ 
+And that under any circumstances they will not be re- 
+exported, whole or in part, against the export control 
+regulations of any related country of origin. 
+ 
+Signed by, 
+ 
+Signature: Auvo Viita-aho, Commander, Deputy Chief of C4 
+division 
+ 
+(Finnish Defense Force Seal) 
+---------------------------- 
+ 
+¶3. Related to why these components were ordered through 
+consignee Richardson Electronics in the UK, officials at 
+Elektrobit Ltd. provided the following response which they 
+received from Kim Shattock (Tyco Electronics UK Ltd M/A-COM 
+Division): 
+ 
+"Richardson Electronics are our sole franchised distributor 
+for Finland, the original correspondance came from them and 
+I have continued to handle the matter through them as no 
+one has asked me to do otherwise. There is absolutely 
+nothing unusual in this approach as Richardsons are 
+consindered a business partner by M/A-COM and are a 
+worldwide distribution outlet for us." (SIC) 
+ 
+¶4. Econoff is satisfied that these components will be 
+utilized as procured by the Finnish Defense Force in 
+accordance with the terms of the End User Statement above. 
+ 
+WARE

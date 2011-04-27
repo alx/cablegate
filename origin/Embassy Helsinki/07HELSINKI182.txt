@@ -1,0 +1,83 @@
+07HELSINKI182
+AMBASSADOR MEETS WITH FINNISH COMPUTER SECURITY
+Wed Mar 14 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Helsinki
+VZCZCXRO4872
+RR RUEHAG RUEHAST RUEHDA RUEHDBU RUEHDF RUEHFL RUEHIK RUEHKW RUEHLA
+RUEHLN RUEHLZ RUEHROV RUEHSR RUEHVK RUEHYG
+DE RUEHHE #0182 0731053
+ZNR UUUUU ZZH
+R 141053Z MAR 07
+FM AMEMBASSY HELSINKI
+TO RUEHC/SECSTATE WASHDC 3067
+INFO RUEHZL/EUROPEAN POLITICAL COLLECTIVEUNCLAS HELSINKI 000182 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS EINT PINR BEXP FI
+SUBJECT: AMBASSADOR MEETS WITH FINNISH COMPUTER SECURITY 
+EXPERTS 
+ 
+¶1. (SBU) Summary: Ambassador Ware recently received a 
+briefing on computer and Internet security from senior 
+officials at F-Secure, known internationally as a reliable 
+antivirus provider and Finland,s foremost computer security 
+company.  A protector of critical infrastructure worldwide, 
+F-Secure works closely with international law enforcement 
+organizations, including U.S. authorities, to track and 
+identify cyber criminals.  F-Secure officials noted an 
+alarming shift in the complexity of new viruses and an 
+increase in targeted industrial and defense-related espionage 
+attacks.  End summary. 
+ 
+¶2. (SBU) Sitting in F-Secure,s impressive 24/7 Ops Center, 
+F-Secure CEO/President Kimmo Alkio told the Ambassador that 
+his company prides itself on adapting quickly and 
+anticipating trends as it provides network security services 
+to thousands of customers worldwide, including the Finnish 
+government and the Finnish Defense Forces.  Clearly riding 
+the Finnish ICT wave, F-Secure nonetheless sees itself as a 
+global company.  Reflecting its global reach, Ambassador Ware 
+was introduced to computer security experts from the U.S., 
+Russia, and Finland, including the oft-quoted Mikko Hypponen 
+-- widely considered to be one of the industry,s "rock 
+stars".  In line with its business strategy of promoting 
+growth rather than short-term profits, F-Secure is currently 
+focused on actively developing software to protect the 
+avalanche of mission-critical services that shortly will be 
+available on mobile devices, including the phones of that 
+other Finnish giant, Nokia. 
+ 
+¶3. (SBU) As a protector of critical infrastructure worldwide, 
+F-Secure tracks and identifies cyber criminals, routinely 
+working with international law enforcement organizations, 
+including the U.S. Federal Bureau of Investigations and the 
+Secret Service.  Known for its close collaboration with other 
+ 
+SIPDIS 
+computer security companies, F-Secure welcomed further 
+opportunities to share best practices with the U.S. 
+Government and private sector experts to improve worldwide 
+computer security. 
+ 
+¶4. (SBU) F-Secure officials noted an alarming shift in the 
+complexity of new viruses that appear to be the work of 
+organized crime units rather than teenage hackers.  While 
+large scale virus attacks still occur regularly, F-Secure 
+officials said they are increasingly seeing individual 
+companies, particularly in the defense industry, being 
+targeted for specific proprietary data.  Officials shared 
+several examples of sophisticated viruses that employees at 
+defense-related companies have received recently.  In each of 
+these cases, the masquerading email and associated attachment 
+appears to have been sent from within the employee,s own 
+company.  F-Secure believes this trend in industrial and 
+defense-related espionage will simply increase as more 
+sophisticated wireless mobile devices come online in the 
+future. 
+HYATT

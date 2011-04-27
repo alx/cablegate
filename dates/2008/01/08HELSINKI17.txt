@@ -1,0 +1,168 @@
+08HELSINKI17
+LESSONS LEARNED FROM FINLAND'S CONVERSION TO
+Tue Jan 15 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Helsinki
+VZCZCXRO2187
+RR RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHHE #0017/01 0150810
+ZNR UUUUU ZZH
+R 150810Z JAN 08
+FM AMEMBASSY HELSINKI
+TO RUCPDOC/DEPT OF COMMERCE WASHDC
+RHDIFCC/FCC WASHDC
+RUEHC/SECSTATE WASHDC 4002
+INFO RUCNMEM/EU MEMBER STATES COLLECTIVEUNCLAS SECTION 01 OF 02 HELSINKI 000017 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE FOR EEB/CIP/BA WHITNEY WITTEMAN 
+FCC FOR TRACEY WEISLER 
+COMMERCE FOR NATIONAL TELECOMMUNICATIONS AND INFORMATION 
+ADMINISTRATION (NTIA) / CHRISTINA SPECK 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS FI
+SUBJECT: LESSONS LEARNED FROM FINLAND'S CONVERSION TO 
+DIGITAL TELEVISION 
+ 
+ 
+¶1. (U) On September 1, 2007 Finland became one of the first 
+countries in the world to broadcast all television signals 
+digitally.  Econoff recently sat down with Mr. Tauno Aijala, 
+Project Manager of the switch-over at the Ministry of 
+Transport and Communications, to gather best practices from 
+an early adopter of digital television. 
+ 
+¶2. (U) Although Finland originally began broadcasting digital 
+television signals in 2001, nearly fifty percent of Finnish 
+households received analog terrestrial television broadcasts 
+until a few months before the switch-over to digital 
+transmissions last fall.  Despite being a large country 
+geographically by European standards and sparsely populated 
+in many regions, over 99.999 percent of the Finnish public 
+now has access to digital television broadcasts.  An early 
+adopter, Finland is well ahead of the EU mandate that all 
+television broadcasts be digital by 2012. 
+ 
+¶3. (U) The digital television discussion has had a lengthy 
+history in Finland, dating back to 1996 when the GOF issued 
+its "resolution on digitalization".  Following a series of 
+milestones, the Finnish Parliament determined that all 
+analogue television transmissions would cease by August 31, 
+¶2007.  Although Finland is a technically savvy country, there 
+was some measured opposition and resentment of the impending 
+transition, particularly from the country's senior citizens. 
+Working with key stakeholders such as TV stations, equipment 
+manufacturers and key retailers, the GOF organized a major 
+information campaign to educate and inform people about the 
+digital switch-over.  The stakeholders also funded a free 
+"Digi-TV Info" helpdesk that has fielded over 100,000 calls 
+to date.  The GOF worked with local service organizations, 
+such as the Lions Club, to provide assistance for those 
+needing extra installation help. 
+ 
+¶4. (U) Preferring to use a carrot rather than a stick, the 
+GOF accentuated the positive aspects of the switch-over 
+including clearer transmissions and increasing the number of 
+free channels from five to twelve.  The digital conversion 
+also made possible additional options for subtitling (Finland 
+is a dual-language country), voice subtitling (reading the 
+subtitles in foreign language programming), an Electronic 
+Program Guide (EPG) and digital teletext services.  However, 
+unlike the planned U.S. conversion to digital television in 
+February 2009, Finland did not offer any subsidies for the 
+set-top boxes required to receive digital television. 
+ 
+¶5. (U) Finland has reallocated the frequency band previously 
+used for analogue television into nine multiplexes. 
+Currently four of the nine multiplexes are allocated for 
+digital television broadcasts, including one multiplex for 
+television broadcasts to mobile devices.  The remaining four 
+have yet to be allocated; many propose using themfor 
+additional wireless services or to support eergency response 
+communications. 
+ 
+¶6. (U) Critic of the innish conversion to digital continue 
+t bemoan the fact that current broadcasts and many f the 
+set-top boxes are not HDTV-ready.  Hence, inns will have to 
+endure another migration before true HDTV broadcasts will be 
+supported.  Also, Finland's tight multiplex bandwidth 
+allocation will further complicate the eventual move to HDTV. 
+ Likewise, many cite the lack of support for Multimedia Home 
+Platform (MHP), something that was originally promised in the 
+move to digital transmissions.  Rather than supporting 
+interactive TV through interoperable middleware, Finnish 
+broadcasters instead are relying on SMS text messaging and 
+Internet sites to provide the "interactive" component.  While 
+this approach has been quite successful in Finland, many 
+tech-savvy Finns still say dropping support MHP was 
+shortsighted. 
+ 
+¶7. (U) Lessons Learned from an Early Adopter: 
+============================================= 
+Mr. Aijala created a brief outline for interested parties 
+highlighting Finnish best practices in the transition to 
+digital TV.  This document, entitled "Learning by Doing", has 
+been shared with other EU countries converting to digital 
+broadcasts.  Below is a partial list of his suggestions, with 
+Embassy edits added in brackets. 
+ 
+BEGIN TEXT 
+¶1. Create a brand image by using a famous actor or animated 
+figure to promote digitalization. 
+¶2. Use only a few key points in promotions: new channels, new 
+ 
+HELSINKI 00000017  002 OF 002 
+ 
+ 
+content, better quality of sounds and picture, Electronic 
+Program Guide. 
+¶3. Only use the carrot.  Don't threaten with a black screen. 
+Keep on talking about the advantages of the new services. 
+¶4. Hire an experienced spokesman with a TV-background (to 
+lead the project).  Strong connections to the media companies 
+are needed. 
+¶5. Create a panel of experts representing the (appropriate 
+government) ministry, TV-channels, the distributors of the 
+TV-channels, the regulatory authorities, the consumer agency, 
+the cable TV companies, wholesalers and retailers.  Gather 
+and distribute information (extensively).  Use everyone's 
+expertise. 
+¶6. Create a single taskforce to coordinate all aspects of the 
+switch (over).  The group needs to have power to make 
+decisions and its own budget. 
+¶7. National and local information services are needed to 
+inform the consumer on proper aerial (antenna) and where to 
+direct it. 
+¶8. Meet the nation.  Organize roadshows to visit cities. 
+People have many questions and opinions (to share). 
+¶9. Set up a Digi-TV Info hotline three years before the 
+digital switch-over.  (It should be) financed by all actors 
+in the digital TV business, including wholesalers (and 
+product manufactures). 
+¶10. A neutral organization is needed to test and approve 
+(local compatibility of) set-top boxes. 
+¶11. Make sure there are enough set-top boxes available with a 
+variety of features and in all price ranges. 
+¶12. Voluntary organizations are willing to help the elderly 
+people install their boxes. 
+¶13. Research (market) penetration, (consumer) attitudes, 
+(product) reliability and price ranges. 
+¶14. Make the decisions concerning (broadcast) frequencies on 
+time.  Terrestrial network operators need time (to prepare 
+systems). 
+END TEXT 
+ 
+¶8. (U) Comment: Mr. Aijala candidly shared insightful 
+comments about areas in which Finland could have improved its 
+implementation.  He will soon be traveling to a number of 
+countries to share best practices from Finland's conversion 
+to digital broadcasting, and he has expressed willingness to 
+visit with interested parties in the U.S. in the future. 
+Econoff has a series of presentations in digital format that 
+are available to interested parties (contact 
+lewisgk@state.gov).  End comment. 
+HYATT

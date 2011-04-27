@@ -1,0 +1,94 @@
+09QUITO1011
+Delivery of Letters on U.S.-Colombia DCA
+Wed Dec 02 00:00:00 +0100 2009
+CONFIDENTIAL
+Embassy Quito
+VZCZCXYZ0031
+OO RUEHWEB
+
+DE RUEHQT #1011 3361423
+ZNY CCCCC ZZH
+O R 021423Z DEC 09
+FM AMEMBASSY QUITO
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 0490
+INFO RUEHBR/AMEMBASSY BRASILIA 0131
+RUEHCV/AMEMBASSY CARACAS
+RUEHGL/AMCONSUL GUAYAQUIL
+RUEHLP/AMEMBASSY LA PAZ
+RUEHPE/AMEMBASSY LIMA
+RUEHQT/AMEMBASSY QUITO
+RUEHRI/AMCONSUL RIO DE JANEIRO
+RUEHSO/AMCONSUL SAO PAULOC O N F I D E N T I A L QUITO 001011 
+ 
+SIPDIS 
+AMEMBASSY BRASILIA PASS TO AMCONSUL RECIFE 
+ 
+E.O. 12958: DECL: 2019/12/02 
+TAGS: PREL MARR KTIA AORC US CO EC
+SUBJECT: Delivery of Letters on U.S.-Colombia DCA 
+ 
+REF: QUITO 979; STATE 121858 
+...
+
+
+id: 237635
+date: 12/2/2009 14:23
+refid: 09QUITO1011
+origin: Embassy Quito
+classification: CONFIDENTIAL
+destination: 09QUITO979|09STATE121858
+header:
+VZCZCXYZ0031
+OO RUEHWEB
+
+DE RUEHQT #1011 3361423
+ZNY CCCCC ZZH
+O R 021423Z DEC 09
+FM AMEMBASSY QUITO
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 0490
+INFO RUEHBR/AMEMBASSY BRASILIA 0131
+RUEHCV/AMEMBASSY CARACAS
+RUEHGL/AMCONSUL GUAYAQUIL
+RUEHLP/AMEMBASSY LA PAZ
+RUEHPE/AMEMBASSY LIMA
+RUEHQT/AMEMBASSY QUITO
+RUEHRI/AMCONSUL RIO DE JANEIRO
+RUEHSO/AMCONSUL SAO PAULO
+
+
+----------------- header ends ----------------
+
+C O N F I D E N T I A L QUITO 001011 
+ 
+SIPDIS 
+AMEMBASSY BRASILIA PASS TO AMCONSUL RECIFE 
+ 
+E.O. 12958: DECL: 2019/12/02 
+TAGS: PREL MARR KTIA AORC US CO EC
+SUBJECT: Delivery of Letters on U.S.-Colombia DCA 
+ 
+REF: QUITO 979; STATE 121858 
+ 
+CLASSIFIED BY: Andrew Chritton, DCM; REASON: 1.4(B), (D) 
+ 
+¶1.  (SBU) The Embassy delivered Ref B letters under cover of a 
+diplomatic note to the Foreign Minister's office, as well as the 
+MFA's Union of South American Nations (UNASUR) Coordination Office 
+and Directorate General of North America, by e-mail on November 25, 
+and delivered the original on the morning of November 26.  MFA U.S. 
+desk officer Sebastian Fonseca confirmed that the letters had been 
+distributed early on November 26 to the appropriate offices at the 
+MFA, Ministry of Defense and Presidency. 
+ 
+ 
+ 
+¶2.  (C) Marjorie Ulloa of the Foreign Ministry's UNASUR 
+Coordination Office informed us on December 1 that the Brazilian 
+delegation had distributed the letter from Secretary Clinton and 
+Secretary Gates to all UNASUR participants during the November 27 
+ministerial meeting.  Ulloa added that the letter had proved useful 
+in the discussion surrounding the U.S.-Colombia Defense Cooperation 
+Agreement (DCA) (Ref B). 
+HODGES 
+
+=======================CABLE ENDS============================

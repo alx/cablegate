@@ -1,0 +1,86 @@
+08MONTEVIDEO144
+DEMARCHE DELIVERED: URUGUAY ON COLOMBIA-ECUADOR
+Thu Mar 13 00:00:00 +0100 2008
+CONFIDENTIAL
+Embassy Montevideo
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHMN #0144 0732038
+ZNY CCCCC ZZH
+P 132038Z MAR 08
+FM AMEMBASSY MONTEVIDEO
+TO RUEHC/SECSTATE WASHDC PRIORITY 8039
+INFO RUCNMER/MERCOSUR COLLECTIVE PRIORITY
+RUEHBO/AMEMBASSY BOGOTA PRIORITY 2657
+RUEHPE/AMEMBASSY LIMA PRIORITY 4939
+RUEHQT/AMEMBASSY QUITO PRIORITY 1950
+RUEHDG/AMEMBASSY SANTO DOMINGO PRIORITY 0075id: 145751
+date: 3/13/2008 20:38
+refid: 08MONTEVIDEO144
+origin: Embassy Montevideo
+classification: CONFIDENTIAL
+destination: 08STATE25971
+header:
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHMN #0144 0732038
+ZNY CCCCC ZZH
+P 132038Z MAR 08
+FM AMEMBASSY MONTEVIDEO
+TO RUEHC/SECSTATE WASHDC PRIORITY 8039
+INFO RUCNMER/MERCOSUR COLLECTIVE PRIORITY
+RUEHBO/AMEMBASSY BOGOTA PRIORITY 2657
+RUEHPE/AMEMBASSY LIMA PRIORITY 4939
+RUEHQT/AMEMBASSY QUITO PRIORITY 1950
+RUEHDG/AMEMBASSY SANTO DOMINGO PRIORITY 0075
+
+
+----------------- header ends ----------------
+
+C O N F I D E N T I A L MONTEVIDEO 000144 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+WHA/USOAS FOR RICARDO ZUNIGA 
+WHA/BSC FOR KBEAMER 
+ 
+E.O. 12958: DECL: 03/13/2018 
+TAGS: PREL PTER PGOV CO EC VE UY
+SUBJECT: DEMARCHE DELIVERED: URUGUAY ON COLOMBIA-ECUADOR 
+DISPUTE AND 3/17 OAS MINISTERIAL 
+ 
+REF: STATE 25971 
+ 
+Classified By: DCM ROBIN MATTHEWMAN, REASON 1.4 (d) 
+ 
+¶1. (SBU) Polcouns delivered reftel demarche jointly to the 
+MFA's Director of Multilateral Affairs, Ambassador Carlos 
+Barros and Director for the Americas, Laura Dupuy on March 13 
+and mentioned that the WHA Front Office was intending to 
+reach out directly to Foreign Minister Gonzalo Fernandez in 
+the near future.  NOTE: WHA DAS Chris McMullen called 
+Fernandez that same afternoon.  END NOTE. 
+ 
+¶2. (C) Barros and Dupuy said the USG points, to a great 
+extent, corresponded with Uruguay's position.  The GOU took 
+the row between Ecuador and Colombia very seriously and was 
+anxious to do it part to help further reduce tensions. 
+Barros said Uruguay was especially interested in chairing the 
+March 17 Consultation of Ministers where it would play a 
+neutral and proactive role. 
+ 
+¶3. (C) Barros emphasized that Uruguay was sending a senior 
+delegation, comprised of FM Fernandez, Director General of 
+the Secretariat Jose Cancela, and Director General for 
+Political Affairs Juan Enrique Fischer.  He described the 
+delegation as ready to engage and be proactive on the issue. 
+ 
+¶4. (C)  Barros also mentioned that Venezuela plans to raise 
+Plan Colombia as an issue at the March 17 OAS meeting. 
+Baxter 
+
+=======================CABLE ENDS============================

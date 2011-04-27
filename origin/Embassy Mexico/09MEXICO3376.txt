@@ -1,0 +1,324 @@
+09MEXICO3376
+BLUE LANTERN LEVEL 3: POST SHIPMENT END-USE CHECK
+Mon Nov 30 00:00:00 +0100 2009
+CONFIDENTIAL
+Embassy Mexico
+VZCZCXYZ0004
+OO RUEHWEB
+
+DE RUEHME #3376/01 3342314
+ZNY CCCCC ZZH
+O 302314Z NOV 09
+FM AMEMBASSY MEXICO
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 9213
+INFO RUCPDOC/DEPT OF COMMERCE WASHINGTON DC IMMEDIATE
+RUEKJCS/SECDEF WASHINGTON DC IMMEDIATE
+RHMFISS/FBI WASHINGTON DC IMMEDIATE
+RUEAIIA/CIA WASHINGTON DC IMMEDIATE
+RHMFISS/HQ BICE INTEL WASHINGTON DC IMMEDIATE237278
+2009-11-30 23:14:00
+09MEXICO3376
+Embassy Mexico
+CONFIDENTIAL
+09STATE57530
+VZCZCXYZ0004
+OO RUEHWEB
+
+DE RUEHME #3376/01 3342314
+ZNY CCCCC ZZH
+O 302314Z NOV 09
+FM AMEMBASSY MEXICO
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 9213
+INFO RUCPDOC/DEPT OF COMMERCE WASHINGTON DC IMMEDIATE
+RUEKJCS/SECDEF WASHINGTON DC IMMEDIATE
+RHMFISS/FBI WASHINGTON DC IMMEDIATE
+RUEAIIA/CIA WASHINGTON DC IMMEDIATE
+RHMFISS/HQ BICE INTEL WASHINGTON DC IMMEDIATE
+
+TAGS: ETTC KOMC SNAR MX
+C O N F I D E N T I A L MEXICO 003376 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+FOR PM/DTCC - BLUE LANTERN COORDINATOR, WHA/MEX, AND INL/LP 
+ 
+E.O. 12958: DECL: 08 OCTOBER 2019 
+TAGS: ETTC KOMC SNAR MX
+SUBJECT: BLUE LANTERN LEVEL 3: POST SHIPMENT END-USE CHECK 
+ON LICENSE 050016624  
+REF: STATE 57530 
+ 
+Classified By: Political Minister Counselor Gustavo Delgado. Reason: 1. 
+4 (b) and (d). 
+ 
+¶1.  Summary:  Blue lantern Coordinators requested that Poloff 
+investigate the circumstances surrounding the recovery of an 
+U.S. licensed AR-15 rifle from a Mexican crime scene and 
+substantiate the chain of custody from the supplier to the 
+end user.  The investigative branch of the Mexican Attorney 
+General (PGR CENAPI) used E-trace to determine that the last 
+legal point of sale was Bushmaster International, LLC. 
+Realizing that the recovered weapon was part of a USG 
+licensed sale, Bushmaster notified the State Department.  The 
+Department does not track individual serial numbers of 
+weapons involved with USG licensed sales. Therefore, it is 
+reliant on supplier information to provide the basis of 
+investigations.  This investigation tracked the chain of 
+custody for the weapon through the following entities: the 
+U.S. supplier, the U.S. manufacture representative in Mexico, 
+the Mexican customs-broker, the Mexican Army, and the State 
+Government of Michoacan.  End Summary. 
+ 
+ 
+¶2. (SBU)  The Defense Attach Office's sent an official 
+request to the Secretariat of Defense (SEDENA) on 23 June 
+2009 and received a response to reftel questions on 10 August 
+¶2009. 
+ 
+¶Q.  Did the GOM receive all 1030 AR-15 type rifles exported 
+under license 050016624? 
+ 
+¶A.  SEDENA received 507 rifles on 21 December 2006 and 523 
+rifles on 5 January 2007.  SEDENA stated that all the items 
+were received in Nuevo Laredo, Tamaulipas. 
+ 
+¶Q.  Can the GOM provide documentation demonstrating the 
+receipt of the rifles by SEDENA? 
+ 
+¶A.  SEDENA provided the following documentation with regards 
+to the items received under license 0550016624:  Application 
+and Permit of Permanent Exportation of Firearms, Warehouse 
+receipt of 507 firearms, Importation Contract 093/2006, Card 
+of Final Destination, Bushmaster Certificate of Origin, 
+Warehouse Receipt of 523 firearms, Transfer of Custody to 
+Government of Michoacan, and Warehouse Inventory.  The 
+following information is deemed to be important from the 
+documentation. 
+ 
+-- On 21 November, 2006, SEDENA received the license from the 
+USG to receive Bushmaster 5.56x46 rifles as part of license 
+¶0550016624. 
+ 
+-- On 28 November, 2006, SEDENA received 507 Bushmaster 
+5.56x46 and the serial numbers of all of the weapons are 
+listed. 
+ 
+-- On 5 December 2006, SEDENA and Bushmaster Firearms 
+International, LLC signed importation contract 093/2006 for 
+1,030 Bushmaster 5.56x45 rifles and associated hardware. 
+ 
+-- On December 9, 2006, SEDENA presented a note of final 
+destination to Bushmaster Firearms International, LLC. 
+SEDENA stated that the 1,030 Bushmaster 5.56x45 rifles that 
+were purchased as part of contract 093/2006 were for ultimate 
+use by the states of Baja California, Chihuahua, and 
+Michoacan.  The note also stated that SEDENA understood that 
+U.S. law prohibits the re-export of these weapons. 
+ 
+-- On 12 December, 2006 Bushmaster sent 523 Bushmaster 5.56 
+rifles to SEDENA.  The list included the rifle with serial 
+number L428091. 
+ 
+-- On 10 January, 2007 SEDENA received 523 Bushmaster 5.56 
+rifles at the port of entry, Nuevo Laredo. The list matched 
+the Certificate of Origin issued by Bushmaster Firearms 
+International, LLC and L428091 was part of the list. 
+ 
+-- On 15 May 2007, L428091 was part of a shipment of 121 
+Bushmaster 5.56x45 rifles (contract number 093/2006) from 
+SEDENA to the Secretariat of Public Security in Michoacan. 
+SEDENA did not provide any further chain of custody 
+information on the specific state or local law enforcement 
+entity or the ultimate individual retaining the weapon. 
+ 
+-- On 21 May 2007, the SEDENA arms warehouse at Campo Militar 
+No. 1-D, Lomas de Tecamachalco, Municipio de Naucalpan de 
+Juarez, Estado de Mexico inventoried 500 pieces of hardware 
+that included 81 Bushmaster 5.56 rifles remaining in SEDENA 
+custody from contract number 093/2006.  SEDENA is willing to 
+provide the transfer of custody paperwork for the weapons 
+that went to the Baja and Chihuahua in order to show complete 
+accountability for all the weapons that were part of contract 
+093/2006. 
+ 
+¶Q.  Can the GOM provide documentation demonstrating that the 
+firearms were transferred and received by the Secretarias de 
+Seguridad Publica in Baja, Chihuahua and Michoacan 
+ 
+¶A.  SEDENA provided documentation that shows that 121 
+Bushmaster 5.56x45 rifles including L428091 were transferred 
+to the government of Michoacan and signed off by Francisco 
+Gabriel Huerta Cruz, El Ciudadano Licencia del Gobierno 
+Michoacan. 
+ 
+¶Q.  Did the GOM authorize the re-transfer of any of these 
+rifles? 
+ 
+¶A.  No 
+ 
+¶Q.  Does the GOM maintain sufficient records to allow a 
+thorough inventory of rifles in stock and account for the 
+current location of the 1030 AR-15 rifles? 
+ 
+¶A.  SEDENA provided an inventory of 81 AR-15 rifles remaining 
+in its warehouse from the original shipment of weapons per 
+license 050016624.  The inventory is not broken down by 
+serial number.  SEDENA also provided the transfer document 
+for the 121 AR-15 rifles sent to the Government of Michoacan. 
+ SEDENA insists that it strictly controls and documents the 
+distribution of weapons legally arriving in Mexico.  SEDENA 
+has advised that it will provide us documentation that speaks 
+to the chain of custody for the remaining 828 AR-15 rifles 
+shipped in connection to license 050016624. 
+ 
+¶Q.  Did the GOM or SEDENA re-export these weapons? 
+ 
+¶A.  No 
+ 
+¶Q.  Does SEDENA register and inventory arms that they export? 
+ 
+¶A.  Mexico does not export war material. 
+ 
+ 
+¶3.  (SBU) Poloff from Consulate Monterrey interviewed Carlos 
+Salas Sosa, Director of Operations, Central Aduanas de 
+Mexico, S.A. on 10 September 2009. 
+ 
+¶Q.  When was your company established and who are its 
+principals? 
+ 
+¶A.  Central Aduanas de Mexico (CAM) was established in 1949. 
+It is an association with offices in Mexico City, Toluca, 
+Guadalajara, and Monterrey.  Eduardo Valle and Fortino 
+Escamillo are the principal officers in charge of CAM 
+operations in D.F.  Carlos Salas Sosa is the principal 
+officer and Edna Alanis is the General Administrator in 
+charge of operations in Monterrey. 
+ 
+¶Q.  What goods and services does your company provide? 
+ 
+¶A.  CAM is a full service customs broker, specializing in the 
+import and export of goods to and from Mexico. 
+ 
+¶Q.  Who are your regular customers? 
+ 
+¶A.  Daimler, CADECO, John Deer and many other companies 
+specializing in trucks and agricultural equipment. 
+ 
+¶Q.  What was your role in the transaction involving export 
+license 05001664? 
+ 
+¶A.  CAM only handled the importation of the weapons.  In the 
+case of firearms, the manufacturer is responsible for the 
+export license. 
+ 
+¶Q.  Did CAM physically take possession of the firearms and 
+can you provide all the documentation involved in this 
+transaction? 
+ 
+¶A.  CAM took possession of the arms in Laredo, TX., 
+inventoried the arms, walked them through U.S. and Mexican 
+customs, and delivered them at the border to the Mexican 
+Army.  The documents are available with CAM agent Orlando 
+Farza in Laredo.  He can fax them upon request.  His phone 
+number is (956) 722-6346. 
+ 
+¶Q.  What is your relationship with Central Aduanas de Laredo, 
+TX? 
+ 
+¶A.  This was CAM's branch in Texas.  It was closed three 
+years ago because the employees were dishonest and it was not 
+profitable.  As a result, no business or partnership 
+agreement with this office presently exist. 
+ 
+¶Q.  What is CAM's relationship with Eduardo Jordan? 
+ 
+¶A.  Eduardo Jordan is Bushmaster Firearms International 
+representative in Metepec, Estado de Mexico.  CAM has no 
+contractual relationship with Eduardo Jordan.  Orlando Farza 
+based in Laredo TX may be able to provide more information. 
+As noted above, he can be reached at 956-722-6346. 
+ 
+¶Q.  What was Eduardo Jordan's role in this transaction? 
+ 
+¶A.  Unknown 
+ 
+¶Q.  Did Eduardo Jordan ever have physical possession of the 
+firearms? 
+ 
+¶A.  Impossible.  CAM claimed the weapons at the border, 
+cleared the weapons through customs, and the Mexican army 
+took immediate possession. 
+ 
+ 
+¶4. (SBU)   Another Embassy poloff interviewed Eduardo Jordan 
+on 14 January 2008 for a pre-license check of 050054200, 
+050054678, 050055652, 050055694, 050055700, and 050054219. 
+Embassy's current Blue Lantern Officer made several attempts 
+to contact Eduardo Jordan for this investigation during the 
+months of August and September, however, his office indicated 
+that he was on travel and could not be reached.  Eduardo 
+Jordan is operating from the same office and is using the 
+same number as in 2008.  Contacts with Central Aduanas de 
+Mexico, the paper trail provided by SEDENA, and the 
+appearance of consistency based on the 2008 interview 
+indicate that Eduardo Jordan had only minimal involvement 
+with this transaction. 
+ 
+¶5.  (C)  Comment.  Post's Blue Lantern Officer does not 
+believe that SEDENA, Bushmaster Firearms International LLC, 
+Central Aduanas de Mexico, or Eduardo Jordan committed 
+malfeasance with regards to export license 050016624. 
+Although there are a couple of discrepancies with regards to 
+the dates of the initial import of 507 rifles versus the 
+actual contract date for the 1030 rifles, the chain of 
+custody and transfer to the Government of Michoacan for the 
+rifle in question, L428091, is well documented and appears to 
+be valid.  Post's Blue Lantern Officer is coordinating with 
+Immigration and Customs (ICE) Agents at Post to approach the 
+State Government of Michoacan.  ICE agents indicated that 
+they may use a newly formed vetted unit to obtain additional 
+information.  ICE agents at post do not believe that an overt 
+inquiry to the state official that signed the documents would 
+yield any significant information.  Using the Mexican vetted 
+unit, however, could provide new details on tracking and 
+inventory procedures at the local and state level. 
+ 
+¶6.  (SBU)  On the basis of this and similar cases, it is not 
+evident that government officials at the state apply strict 
+enforcement measures to track the chain of custody of weapons 
+once SEDENA transfers them from its custody to the custody of 
+state officials.  Given the lack of accountability for 
+weapons once they arrive at the state level, U.S. law 
+enforcement agencies have fair reason to worry that a number 
+of weapons simply "disappear."  Because USG access to 
+recovered weapons in Mexico remains limited, it is difficult 
+to gauge just how serious a problem this is and to what 
+extent these weapons turn up in the hands of criminal 
+organizations in Mexico. 
+ 
+¶7.  (SBU)  Post believes both the USG and the GOM need to 
+take a more systematic approach to tracking weapon transfers 
+to the state level and beyond to the final end user.  We 
+support the Blue Lantern Coordinator's proposal that his 
+ 
+office bundle, according to region, the cases of firearms 
+recovered from crime scenes.  Mission Mexico's ICE and ATF 
+Attaches would then approach the Mexico Attorney General 
+PGR's International Relations Office with a list of the 
+serial numbers of confiscated weapons that had been 
+transferred to state authorities and request a fuller 
+accounting for how these weapons ended up in the hands of 
+criminals.  On a broader policy level, the Embassy will urge 
+the GOM to work with states to develop a stricter policy with 
+regard to accounting for weapons once they arrive at the 
+state level.  End Comment 
+ 
+ 
+ 
+ 
+Visit Mexico City's Classified Web Site at 
+http://www.state.sgov.gov/p/wha/mexicocity and the North American 
+Partnership Blog at http://www.intelink.gov/communities/state/nap / 
+PASCUAL

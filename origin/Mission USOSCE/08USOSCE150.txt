@@ -1,0 +1,366 @@
+08USOSCE150
+FSC-PC JUNE 4: CYBER SECURITY AND PREPARATION FOR
+Fri Jun 06 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Mission USOSCE
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHVEN #0150/01 1581243
+ZNR UUUUU ZZH
+P 061243Z JUN 08 CTG SECSTATE #0047W
+FM USMISSION USOSCE
+TO RUEHC/SECSTATE WASHDC PRIORITY 5767
+INFO RUCNOSC/ORG FOR SECURITY CO OP IN EUR COLLECTIVE
+RUCNDT/USMISSION USUN NEW YORK 0530
+RUEAIIA/CIA WASHDC
+RUEHUNV/USMISSION UNVIE VIENNA 1084
+RUEKJCS/DIA WASHDC
+RUEHGV/USMISSION GENEVA 1029
+RUEKJCS/SECDEF WASHDC
+RHMFIUU/HQ USAFE RAMSTEIN AB GE//POLAD/XPXC//
+RHMFISS/CDRUSAREUR HEIDELBERG GE
+RHMFISS/CDR USEUCOM VAIHINGEN GE//ECJ5-T/ECPLAD/ECCS//
+RHMFISS/CDR USCENTCOM MACDILL AFB FL
+RUEASWA/DTRA ALEX WASHINGTON DC//OSAE
+RUESDT/DTRA-OSES DARMSTADT GE
+RUEKJCS/JOINT STAFF WASHDC//J5-DDPMA-E/DDPMA-IN/CAC//
+RUEADWD/DA WASHINGTON DCUNCLAS USOSCE 000150 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+ 
+STATE FOR VCI/CCA, VCI/NRRC, EUR/RPM, EUR/PRA, EUR/CARC, 
+SCA/CEN, SCA/RA, PM/WRA 
+JCS FOR J5 
+OSD FOR ISA (PERENYI) 
+NSC FOR DOWLEY 
+USUN FOR LEGAL, POL 
+CENTCOM FOR CCJ5-C, POLAD 
+UNVIE FOR AC 
+GENEVA FOR CD 
+ 
+E.O. 12958: N/A 
+TAGS: PARM PREL OSCE KCFE KCIP EN FI XG
+SUBJECT: FSC-PC JUNE 4: CYBER SECURITY AND PREPARATION FOR 
+BMS 
+ 
+¶1. (SBU) Summary:  The Estonian defense minister and other 
+speakers discussed cyber security and the need for the OSCE 
+to remain involved in coordinating the efforts of 
+participating States (pS) in responding to emerging threats 
+to information and communication systems.  Speakers extolled 
+the Council of Europe's Convention on Cybercrime as an 
+example of the international cooperation needed. 
+ 
+¶2. (SBU) The special working group to prepare the OSCE 
+contribution to the Biennial Meeting of States (BMS) on the 
+UN Program of Action on Small Arms and Light Weapons (SALW) 
+discussed the products needed for the July 14-16 meeting in 
+New York.  These will include an oral presentation and a 
+written report.  Delegations generally agreed to focus on 
+existing programs and documents, including brokering and 
+end-user certificates.  Germany lamented the absence of any 
+normative work on SALW over the last four years and 
+recommended considering the merger of the OSCE Documents on 
+SALW and Stockpiles of Conventional Ammunition.  End summary. 
+ 
+Cyber Security 
+-------------- 
+ 
+¶3. (SBU) Jaak Aaviksoo, the Estonian Minister of Defense, 
+told the June 4 joint PC-FSC meeting there was a continued 
+need for international and domestic legal frameworks regimes 
+to address threats to cyber security, including use of the 
+Internet by terrorists and attacks on the Internet and other 
+information systems.  Aaviksoo urged all countries to join 
+the European Council's Convention on Cybercrime.  Inter-state 
+cooperation was essential, and the OSCE could have a role in 
+fostering cooperation among policymakers, experts, and other 
+stakeholders.  (FSC-PC.DEL/18/08) 
+¶4. (SBU) The UK, Canada (FSC-PC.DEL/23/08), Germany, France, 
+and Russia (Voronkov), agreed that the OSCE could respond to 
+the emerging threats by further discussion and exploring ways 
+to develop concrete actions, although Russia's definition of 
+cybercrime seemed to include websites that propagated 
+extremist views without necessarily directly connecting them 
+to terrorist activities. 
+ 
+¶5. (SBU) Voronkov welcomed further OSCE efforts on cyber 
+security, mentioning favorably "recent documents and 
+conferences" on the subject, particularly the "Public-Private 
+Partnership."  Voronkov noted a connection between terrorist 
+use of the Internet and unrest in the Caucasus.  He reported 
+that terrorists use sites controlled from computers in the 
+Baltics, Finland, and Sweden.  Voronkov called for 
+international legal frameworks to identify terrorist websites 
+and monitor their activities.  Such legal regimes need not 
+conflict with human rights principles, he added, but would 
+actually buttress a fundamental human right to life itself. 
+(FSC-PC.DEL/22/08) 
+ 
+¶6. (SBU) Belarus (Pavlov) noted the use of the Internet to 
+incite ethnic and religious hatred.  He said transnational 
+crimes committed through the Internet require international 
+cooperation to prevent or prosecute them.  The OSCE could 
+work with specialist organizations like Interpol to 
+coordinate national efforts while avoiding politicization of 
+cyber security.  (FSC-PC.DEL/24/08) 
+ 
+¶7. (SBU) The U.S. (Finley) mentioned the recent cyber attacks 
+on Radio Free Europe/Radio Liberty Internet sites in Belarus 
+and supported further OSCE work on cyber security, 
+ 
+particularly in cooperation with other international 
+organizations like NATO.  Ambassador Finley also announced 
+the distribution of remarks on cyber security by Homeland 
+Security Secretary Chertoff at the 2008 RSA conference. 
+(FSC-PC.DEL/20/08) 
+ 
+¶8. (SBU) Armenia (Tabibian) observed it was perhaps less 
+vulnerable than some pS because its information 
+infrastructure was less developed.  He described information 
+technology as a "Faustian deal" that brings added 
+vulnerabilities as well as advantages.  A fundamental concern 
+in cyber security should be the privacy of the individual, he 
+concluded, as the cyber realm creates a "culture of 
+licentiousness and gossip." 
+ 
+European Council's Convention on Cybercrime 
+------------------------------------------- 
+ 
+¶9. (SBU) Alexander Seger, head of the economic crime division 
+at the legal directorate in the Council of Europe, explained 
+the organization and provisions of the Council's Convention 
+on Cybercrime, which the U.S. and 22 other states have 
+ratified.  He noted that cybercrime is transnational, yet 
+there is no consolidated international response to it.  He 
+said there remained a need to balance states' interest in 
+preventing and prosecuting cybercrime and protecting privacy. 
+ The Convention on Cybercrime contains both procedural and 
+substantive provisions, including measures for preserving 
+electronic evidence that are relevant to general criminal 
+investigations.  Seger touched on the Council's Convention 
+for the Prevention of Terrorism, which the U.S. has not 
+joined, and concluded there was at present no need for 
+additional international legal instruments beyond these two 
+conventions.  (FSC-PC.DEL/19/08) 
+ 
+Finnish Approaches to Cyber Security 
+------------------------------------ 
+ 
+¶10. (SBU) Colonel Aapo Cederberg of the Finnish Ministry of 
+Defense explained his country's "total defense" approach to 
+securing vital national functions.  This draws on the legacy 
+of Finland's "nation in arms" experiences in World War II and 
+involves coordinated action between different sectors of 
+Finnish society.  Total defense is designed to preserve a 
+well-functioning economy and infrastructure, including 
+information and communications technology.  (FSC-PC.DEL/15/08) 
+ 
+¶11. (SBU) Erka Koivunen, head of the emergency response team 
+from the Finnish Communication Regulatory Authority, briefed 
+the organization and functions of his team, which provides a 
+coordinated response to information security incidents. 
+KoivUnen said that Finland had a robust domestic IT 
+infrastructure but was still dependent on outside resources 
+for its functioning, e.g., the "main route" to the Internet 
+passes physically through Sweden.  Thanks in part to the 
+efforts of his agency, Finland has among the "cleanest" 
+networks in the world, as measured by the presence of 
+"malware" in host servers.  (FSC-PC.DEL/16/08) 
+ 
+Azerbaijan Attacks France (and Armenia) 
+--------------------------------------- 
+ 
+¶12. (SBU) Azerbaijan (Ismayilov) launched a long tirade 
+against France for mentioning, in its report of a Vienna 
+Document inspection in Armenia, the Armenian charge that 
+ 
+Azerbaijan is in excess of its CFE equipment quotas. 
+Ismayilov said the place to raise this issue was the Joint 
+Consultative Group.  He criticized France's apparent 
+partiality to Armenia, particularly offensive because France 
+was a member of the OSCE-sponsored Minsk Group charged with 
+resolving the conflict between Armenia and Azerbaijan over 
+Nagorno-Karabakh.  He also referred to his country's May 14 
+intervention in the FSC challenging Armenia's nil response in 
+its 2008 Code of Conduct submission to the question of how 
+many of its forces were serving outside its national 
+territory. 
+ 
+¶13. (SBU) Armenia (Hovhannisyan) complained it had not been 
+given warning of the Azerbaijani intervention.  France 
+(Simonet), also noting the absence of warning, reserved the 
+right to reply. 
+ 
+Georgia Reports More Russian Troops Deployed 
+-------------------------------------------- 
+ 
+¶14. (SBU) Georgia reported that Russia had deployed 
+additional forces into the disputed separatist region of 
+Abkhazia without Georgian consent.  Despite Russian 
+assurances of benign intentions, Georgia saw these recent 
+deployments as part of Russia's large-scale preparation for 
+aggression against it and called on all states to prevent 
+this aggression.  (Note:  The Georgian and Russian 
+delegations were at this time meeting separately as part of 
+the consultative mechanism of Chapter III of the Vienna 
+Document 1999 to discuss the situation in Abkhazia including 
+the April 20 UAV incident.  End note.) 
+ 
+Ireland Pitches Cluster Munitions Ban 
+------------------------------------- 
+ 
+¶15. (SBU) Ireland (O'Leary) announced an agreement to ban 
+cluster munitions had been completed by a diplomatic 
+conference in Dublin recently.  O'Leary called on all states 
+to join the agreement while noting the absence from the 
+conference of "some of the major producers of cluster 
+munitions."  The agreement will, he said, stigmatize any use 
+of these munitions. 
+ 
+SALW/SCA Donations 
+------------------ 
+ 
+¶16. (SBU) Finland announced it was contributing 345,000 euros 
+to Tajikistan for stockpile security, phase II, task 3 of the 
+OSCE SALW project there.  Finland also will contribute 15,000 
+euros to Albania for melange disposition. 
+ 
+¶17. (SBU) Denmark announced it too was contributing 15,000 
+euros for melange disposition in Albania. 
+ 
+Code of Conduct Outreach 
+------------------------ 
+ 
+¶18. (SBU) Austria (Eischer), the Code of Conduct coordinator, 
+announced a September 22-24 conference in Almaty, Kazakhstan 
+for central Asian pS on the Code of Conduct.  Details and 
+invitations will follow. 
+ 
+¶19. (SBU) Estonia (Parts), the FSC chair, announced it 
+planned a June Code of Conduct outreach meeting with the OSCE 
+Partners for Cooperation.  She solicited views and 
+ 
+suggestions for content of the meeting from all pS. 
+ 
+Special Working Group Meeting on BMS and Future SALW Actions 
+--------------------------------------------- --------------- 
+ 
+¶20. (SBU) Discussion of the OSCE contribution of the Third 
+Biennial Meeting of States on the UN Program of Action on 
+SALW (BMS), to be held in New York July 14-18, at the special 
+working group meeting did not result in agreement on the 
+specifics of the contribution, although there was general 
+support for including information about ongoing OSCE programs 
+in SALW including normative documents.  The chair announced 
+that Vasily Pavlov (Belarus), the current chair of the 
+Informal Group of Friends of SALW, and Colonel Steven 
+Hartnell (UK), who will follow Pavlov in the chair this 
+summer, will represent the OSCE at the BMS. The chair also 
+reported that the OSCE planned a side event and exhibition of 
+its SALW work at the BMS. 
+ 
+¶21. (SBU) There was prolonged discussion over the content of 
+the oral and written reports the OSCE will present at the 
+BMS.  Belarus (Pavlov) suggested including information about 
+both the normative and practical sides of OSCE work on SALW, 
+including currently pending draft decisions for an 
+information exchange of end-user certificates and a Best 
+Practices Guide on regulation of air transport of SALW, as 
+well as the recent decision on updating the OSCE MANPADS 
+export controls principles. 
+ 
+¶22. (SBU) Germany (Schweizer) said that the limited time for 
+an oral presentation meant it should concentrate solely on 
+implementation of existing documents and project work.  This 
+would include implementation of extant documents on brokering 
+and end-user certificates.  Schweizer lamented the lack of 
+OSCE normative work on SALW over the last four years.  The 
+OSCE seemed to be better at generating ideas that others 
+realized than doing the work itself, he said. 
+ 
+¶23. (SBU) Russia (Petr Litavrin, Russian MFA security affairs 
+and disarmament deputy director) countered that the OSCE had 
+an enviable record of accomplishments in SALW, unlike the UN 
+Program of Action (UNPOA) that had limited impact because of 
+funding constraints.  Litavrin also noted that UNPOA reports 
+had diminishing substance and influence.  Litavrin suggested 
+a focus on international brokering of SALW, as well as export 
+controls and MANPADS. 
+ 
+¶24. (SBU) Finland (Kangste) reminded that the OSCE could 
+participate in the thematic sessions at the BMS besides the 
+meeting for regional organizations.  Sweden (Nilsson) 
+suggested it was good news that, as Schweizer had noted, 
+other organizations were now sharing the burden of work on 
+SALW. 
+ 
+¶25. (SBU) Slovenia, as EU president, supported concentration 
+on physical security and stockpile management, surplus 
+destruction, marking and tracing, export and border controls, 
+and the control of brokering.  The EU continues to support 
+work on an international treaty to regulate trade in arms. 
+(FSC.DEL/110/08) 
+ 
+¶26. (SBU) The Conflict Prevention Center (Kytomaki) reported 
+on its participation in the OSCE and European-Atlantic 
+Partnership Council "synergy" conference May 28-30 in 
+Brussels at NATO.  Kytomaki reported the conference concluded 
+there was insufficient implementation of existing SALW 
+obligations and scarce cooperation among international and 
+regional organizations.  The conference report is available 
+through the CPC. 
+ 
+¶27. (SBU) The chair will prepare the reports for the BMS with 
+the assistance of the CPC and the chair of the IGOF of SALW. 
+Germany made a point of wanting to see the draft reports 
+before the BMS, as did Turkey.  Sweden and Canada, while 
+happy to review the drafts, expressed full confidence in the 
+FSC chair and do not believe additional discussion of the 
+drafts would be necessary. 
+ 
+Future Actions on SALW 
+---------------------- 
+ 
+¶28. (SBU) During the last part of the special working group, 
+delegations were asked to consider future actions on SALW. 
+Germany (Schweizer) suggested it was time to undertake a 
+review of the OSCE Document on SALW.  In the context of the 
+BMS, he suggested, perhaps OSCE SALW reporting requirements 
+could be "standardized" in light of the UNPOA.  Schweizer 
+also suggested considering the merger of the OSCE Documents 
+of SALW and Conventional Ammunition. 
+ 
+¶29. (SBU) Russia (Litavrin) rejoined that SALW and SCA were 
+two different threats: SALW work meant efforts to prevent 
+inappropriate transfer, while ammunition and other munitions 
+represented a safety and environmental threat wherever they 
+were.  Schweizer responded that, when considering a merger of 
+the documents, he had in mind "SALW and its ammunition," not 
+the entire realm of explosive devices and munitions. 
+Litavrin separately remarked to USDel that he anticipated 
+some personnel changes at MFA, particularly in his department 
+(DVBR).  These could result in "fresh approaches" to security 
+issues. 
+ 
+¶30. (SBU) Sweden (Nilsson) agreed it might be time to 
+undertake a thorough review of the OSCE Document on SALW. 
+Should the OSCE task itself to do this at the 2008 
+Ministerial in Helsinki?  Perhaps the OSCE should also review 
+the need for separate documents on SALW and ammunition. 
+Belarus said any review would involve experts from capitals 
+meeting under OSCE auspices.  Finland said the OSCE should 
+seek a "global" endorsement of its SALW norms and programs. 
+Switzerland is prepared to explore further work in SALW. 
+ 
+Future Meetings 
+--------------- 
+ 
+¶31. (SBU) The FSC will return to its standard agenda in the 
+Plenary and working groups at its next meeting on June 11. 
+Austria (Eischer) told USDel that it will make a presentation 
+on "private military companies" at the June 25 FSC. 
+FINLEY
