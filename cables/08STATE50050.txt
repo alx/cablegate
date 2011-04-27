@@ -1,0 +1,375 @@
+08STATE50050
+MISSILE TECHNOLOGY CONTROL REGIME (MTCR):
+Mon May 12 00:00:00 +0200 2008
+CONFIDENTIAL
+Secretary of State
+R 121525Z MAY 08
+FM SECSTATE WASHDC
+TO AMEMBASSY BUENOS AIRES
+INFO MISSILE TECHNOLOGY CONTROL REGIME COLLECTIVEC O N F I D E N T I A L STATE 050050 
+ 
+ 
+BUENOS AIRES FOR EST:A. SCHANDLBAUER 
+ 
+E.O. 12958: DECL: 05/31/2033 
+TAGS: MTCRE PARM PREL ETTC TSPL AR
+ 
+SUBJECT: MISSILE TECHNOLOGY CONTROL REGIME (MTCR): 
+ ARGENTINE SPACE LAUNCH VEHICLE (SLV) PROGRAM  (U) 
+  
+ REF: A. LA NACION ARTICLE OF 05 AUGUST 07 (AND SUBSEQUENT) 
+      ¶B. 00 BUENOS AIRES 1211 (AND PREVIOUS) 
+      ¶C. 00 STATE 43295 
+      ¶D. 99 STATE 153139 (AND PREVIOUS) 
+      ¶E. 99 BUENOS AIRES 4356 
+      ¶F. 99 BUENSO AIRES 5768 
+      ¶G. 99 BUENOS AIRES 657 
+      ¶H. 99 BUENOS AIRES 694 
+      ¶I. 99 BUENOS AIRES 598 
+      ¶J. 99 STATE 261161 (AND PREVIOUS) 
+      ¶K. 92 BUENOS AIRES 6466 
+      ¶L. 92 BUENOS AIRES 4636 
+      ¶M. 92 STATE 186032 
+      ¶N. 93 STATE 33962 
+      ¶O. 94 STATE 245377 
+      ¶P. 94 BUENOS AIRES 2735 
+      ¶Q. 94 BUENOS AIRES 6094 
+      ¶R. 94 BUENOS AIRES 7658 
+      ¶S. 00 STATE 1581 
+      ¶T. 07 STATE 10771 
+      ¶U. 07 BUENOS AIRES 1793 
+      ¶V. 08 BUENOS AIRES 138 
+      ¶W. 08 BUENOS AIRES 170 
+      ¶X. 08 BUENOS AIRES 124 
+      ¶Y. DURHAM-VAROTTO DISCUSSION OF 14 SEPTEMBER 07 
+  
+ Classified By: ISN/MTR Director Pam Durham. 
+ Reason:  1.5 (B), (D). 
+  
+  
+ ¶1.  (U)  Classified by ISN/MTR Director Pam Durham.  Reason: 
+ 1.5 (B), (D). 
+  
+ ¶2.  (U)  This is an action request.  Embassy Buenos Aires, 
+ please see paragraph 15. 
+  
+ ¶3.  (C)  BACKGROUND:  According to published reports (REF A), 
+ the Argentine Commission for Space Activities (CONAE) is 
+ overseeing an enterprise known as VENG to develop space 
+ vehicles, particularly satellite launch vehicles (SLVs), and 
+ launch services.  Pursuant to this effort, VENG has developed 
+ and tested the Tronador I rocket.  Development of the 
+ Tronador rocket and development of a hydrazine concentrate 
+ pilot plant at Falda del Carmen also are underway.  Hydrazine 
+ is a key substance in liquid rocket fuel, and the Falda del 
+ Carmen plant was part of Argentina's dismantled Condor II 
+ missile program.  Per REF V, this ""space program"" seems to 
+ have approval from the Government of Argentina (GOA). 
+  
+ ¶4.  (C)  The GOA's/CONAE's plans to develop a rocket for 
+ space launch purposes -- and to develop rocket propellant at 
+ the Falda del Carmen facility -- is of interest to the U.S. 
+ because it appears inconsistent with the understanding on 
+ SLVs and dismantlement of the rocket motor production 
+ facility at Falda del Carmen reached between Argentina and 
+ the United States prior to Argentina becoming a member of the 
+ Missile Technology Control Regime (MTCR) in 1994. 
+  
+ ¶5.  (C)  In the 1980's/early 1990's, Argentina was actively 
+ engaged in the development of the Condor ballistic missile 
+ program, which clearly was intended to produce MTCR Category 
+ I military missiles, including for export to Egypt and Iraq. 
+ (NOTE:  An MTCR Category I missile system is one that can 
+ carry a payload of at least 500 kg to a range of at least 300 
+ km. END NOTE.)  The Condor program represented a serious 
+ missile proliferation concern and a major irritant in our 
+ bilateral relationship.  This situation was further 
+ aggravated by Argentina's attempts to camouflage - and 
+ thereby maintain - the Condor program by calling it an SLV 
+ program.  SLVs and ballistic missiles are almost identical in 
+ design, fabrication, and function.  Their technologies are 
+ essentially interchangeable, and there are virtually no 
+ technologies that support SLV development that would not also 
+ facilitate ballistic missile development.  Any rocket capable 
+ of putting a satellite into orbit also is by definition an 
+ MTCR Category I syste 
+ m.  It also is inherently capable of delivering weapons of 
+ mass destruction (WMD) against surface targets, and many 
+ countries have used the same boosters to deliver both weapons 
+ and satellite payloads. 
+  
+ ¶6.  (C)  To address the concerns raised by the Condor 
+ program, the United States insisted that Argentina dismantle 
+ its existing missile facilities and agree to forego Category 
+ I missiles.  In addition, because Argentina sought to 
+ disguise the Condor program as an SLV program, we also 
+ insisted on restrictions on Argentina's SLV activities.  The 
+ United States -- and the MTCR as a whole -- sought and 
+ obtained from the GOA written assurances that Argentina would 
+ undertake specific actions to dismantle the rocket production 
+ facilities at the Falda del Carmen plant.  The MTCR Partners 
+ requested these actions to ensure that Argentina's MTCR-class 
+ missile program could not be revived. 
+  
+ ¶7.  (C)  Accordingly, in 1992, the GOA assured U.S. officials 
+ -- including then-Under Secretary Bartholomew -- that 
+ Argentina had no SLV program and that Argentina did ""not now 
+ or anytime in the foreseeable future"" contemplate development 
+ of an SLV (REF K and REF L).  The GOA provided similar 
+ assurances to the MTCR during April 1992 meetings with the 
+ multinational MTCR outreach team.  While Argentina did not 
+ state unequivocally that it would ""never"" pursue an 
+ indigenous SLV capability, the diplomatic record indicates 
+ that the United States has understood this to be the case 
+ since 1992. 
+  
+ ¶8.  (C)  With regard to dismantlement of the Falda del Carmen 
+ rocket-motor production facility, the GOA provided written 
+ assurances to the MTCR in late 1993 that it would take 
+ specific steps to dispose of the MTCR Category I missile 
+ manufacturing equipment located at the Falda del Carmen plant 
+ (REFS N-R).  These assurances were key to the MTCR Partners' 
+ decision to admit Argentina to the Regime  and included 
+ agreement to: 
+  
+ --seal the casting pits in such a way that they cannot be put 
+ to their originally intended use (i.e., rocket motor 
+ production); 
+  
+ --remove from the propellant mixer all sets of gears and 
+ mixing blades; and 
+  
+ --relocate from the Falda del Carmen rocket motor plant 
+ either the AP grinder or the X-ray machine, and use both 
+ items only for non-missile (which includes non-SLV) purposes. 
+  
+ To our knowledge, Argentina has honored faithfully its 
+ explicit commitments related to dismantlement of the Condor 
+ II missile program. 
+  
+ ¶9. (C)  In 1999 (REF D), the GOA sought release from its 1992 
+ commitments regarding SLV development, and expressed great 
+ disappointment when the U.S. declined to do so.  The GOA 
+ argued that the U.S. decision disadvantaged Argentina 
+ vis-~-vis other MTCR Partners and infringed on Argentine 
+ sovereignty.  It also argued that while Argentina did provide 
+ assurances to the U.S. in 1992 regarding SLV development, it 
+ had not permanently renounced its right to peaceful use of 
+ space technologies, including SLV development.  Subsequently, 
+ in late 1999/early 2000, following further discussion of the 
+ issue, the GOA made clear that it had no intention of 
+ pursuing development of an indigenous SLV capability, largely 
+ due to financial concerns.  However, in an April 2000 
+ non-paper (REF S), the GOA reiterated its view on SLV 
+ development, noting that it believed it inappropriate to 
+ limit Argentina's future ""peaceful pursuit"" of an SLV based 
+ on past events.  It also indicated that U.S. dialogue on this 
+ matter would continue. 
+  
+ ¶10.  (C)  After seeing press reporting in August 2007 on the 
+ Tronador program, U.S. officials informally raised the launch 
+ vehicle issue with the CONAE Director Dr. Conrado Varotto 
+ (REF U and REF Y).  During those September 2007 discussions, 
+ Varotto said Argentina has no intention of proliferating 
+ missile technology but needs a reliable solution to its space 
+ launch problem.  It has decided that contracting for launches 
+ of its satellites on foreign boosters is too costly, and is 
+ pursuing an SLV program as a cost-effective way to get its 
+ satellites into orbit.  With regard to its 1992 commitments, 
+ Varotto said the commitment on SLVs was for the ""foreseeable 
+ future,"" not ""forever,"" and that the passage of time had 
+ changed Argentina's situation.  At the same time, Varotto 
+ said Argentina is serious about nonproliferation and its 
+ commitments with regard to the Condor program.  The 
+ facilities used in the Condor program have been completely 
+ dismantled, and Argentina has developed a new facility (at 
+ the same industria 
+ l park) for the SLV program that does not implicate the old 
+ Condor facilities.  Additionally, the Tronador SLV is a 
+ liquid-propellant system whereas the Condor was a solid 
+ propellant system. 
+  
+ ¶11.  (C)  During REF Y discussions, the U.S. was skeptical of 
+ Dr. Varotto's suggestion that building and maintaining an SLV 
+ infrastructure would be less costly than contracting for 
+ launches, but noted that the priority concern for the U.S. 
+ was nonproliferation.  SLVs are MTCR Category I systems and 
+ inherently capable of WMD delivery.  SLVs and ballistic 
+ missiles also are essentially identical in design, form, and 
+ fabrication and any developments in one area could be applied 
+ to the other.  Given past concerns about Argentina trying to 
+ disguise its missile program as an SLV program and the 
+ interest of the U.S. and other MTCR countries in preventing 
+ the spread of missiles and missile-related technology that 
+ could potentially fall into the hands of proliferators and 
+ terrorists, the U.S. hoped that Argentina would continue to 
+ abide by its 1992 commitments.  U.S. officials also noted 
+ that the United States has maintained a policy since 
+ September 1993 of not encouraging MTCR member countries' 
+ ""new"" SLV programs. (NO 
+ TE:  In this context, ""new"" means SLV programs the United 
+ States did not cooperate with prior to the advent of the MTCR 
+ in 1987.  END NOTE.)  Argentina therefore should not expect 
+ U.S. support for its program even if the United States and 
+ Argentina simply agree to disagree about Argentina's 1992 
+ commitment on SLVs.  Varotto hoped that the two sides could 
+ think creatively about ways to resolve the issue, possibly 
+ including by the United States agreeing to support 
+ Argentina's SLV program if certain transparency measures were 
+ implemented. 
+  
+ ¶12.  (C)  In light of sensitivities in the broad 
+ U.S.-Argentina bilateral relationship, the United States has 
+ not raised this issue formally with the GOA.  However, during 
+ discussions with the U.S. Embassy in Buenos Aires in February 
+ 2008 (REF V), Dr. Varotto indicated that the SLV program 
+ remains a high priority.  He also suggested strongly that the 
+ GOA would be open to unobtrusive transparency measures, 
+ including briefing the MTCR on the details of the program. 
+  
+ END BACKGROUND. 
+  
+ ¶13.  (C)  PURPOSE/OBJECTIVE: We support the peaceful pursuit 
+ of space as outlined in the President's Space Policy. 
+ Washington agencies have been considering how to balance its 
+ response to Argentina's pursuit of a space launch vehicle 
+ program in light of the understanding on SLVs and 
+ dismantlement of the Condor missile program reached in 1992 
+ between the United States and Argentina prior to Argentina 
+ becoming an MTCR member.  That review has now concluded, and 
+ the United States has determined that while the United States 
+ and Argentina continue to hold different understandings of 
+ Argentina's SLV commitments, there is little likelihood that 
+ the GOA could be persuaded to abandon its SLV program and we 
+ do not intend to pursue such an outcome.  Rather, given the 
+ past history of the SLV issue and the ongoing priority we 
+ place on missile nonproliferation, we want to seek full 
+ transparency into the GOA's SLV program, including annual 
+ consultations on the status of the program and the option for 
+ periodic site/s visits 
+ . We also want to request Argentina brief its SLV program to 
+ the MTCR Partners and encourage the GOA to describe its 
+ ongoing SLV efforts in its annual declaration to the Hague 
+ Code of Conduct Against Ballistic Missile Proliferation 
+ (HCOC).  We believe this approach will keep this issue from 
+ being an irritant in our bilateral relationship.  It also 
+ will reinforce our broad missile nonproliferation objectives 
+ by providing ongoing insight into the Argentine program and 
+ opportunities to weigh in with the GOA if program 
+ developments - including imports/exports relation to the 
+ program - raise concerns. 
+  
+ ¶14.  (C)  We therefore propose to raise the SLV issue 
+ formally with the GOA, making clear that while the United 
+ States and Argentina continue to hold different 
+ understandings of Argentina's SLV commitments, we greatly 
+ value Argentina's ongoing support for missile 
+ nonproliferation and transparent approach to this matter and 
+ do not want this issue to be a source of concern in our 
+ bilateral relationship.  In that spirit, we also want to note 
+ that while the United States does not support Argentina's 
+ pursuit of an MTCR Category I SLV, we understand that 
+ Argentina intends to go forward with development of such a 
+ system.  Accordingly, we seek a GOA commitment to provide the 
+ United States with full transparency into its SLV program, 
+ including annual consultations on the status of the program 
+ and on imports/exports relating to the program and the option 
+ of periodic site/s visits.  This could take the form of a 
+ letter from Dr. Varotto to Ambassador Wayne, for example.  As 
+ an additional transparency measure, we also see 
+ k Argentina's commitment to brief the MTCR Partners on its 
+ SLV program - perhaps via a short information paper to all 
+ MTCR Partners - and to describe its SLV efforts in its annual 
+ declaration to the HCOC. 
+  
+ ¶15.  (C)  ACTION REQUEST:  Drawing on the talking points 
+ provided below and, as necessary and appropriate, the 
+ information in paragraphs 2-14 above, request Embassy Buenos 
+ Aires raise the SLV issue with CONAE Director Varotto and 
+ appropriate Argentine MFA officials and seek GOA commitment 
+ to providing the United States with full transparency into 
+ its SLV program. 
+  
+ BEGIN TALKING POINTS: 
+  
+ (CONFIDENTIAL/RELEASABLE ARGENTINA) 
+  
+ --During the past several years our two governments have 
+ cooperated closely on missile nonproliferation issues, and we 
+ greatly value your leadership and support for the Missile 
+ Technology Control Regime's (MTCR's) efforts to stem the flow 
+ of missile technology and equipment worldwide. 
+  
+ --In the cooperative spirit of our nonproliferation 
+ partnership, we would like to discuss with you Argentina's 
+ development of a space launch vehicle (SLV). 
+  
+ --Specifically, we understand that the Commission for Space 
+ Activities (CONAE) is working to develop the Tronador rocket 
+ in order to launch satellites into orbit.  Such an SLV would 
+ clearly be an MTCR Category I system, and raises questions 
+ concerning Argentina's commitments to the United States 
+ concerning SLV development. 
+  
+ --Our two governments have discussed issues relating to these 
+ commitments on several occasions since 1992, and continue to 
+ hold vastly different understandings of Argentina's SLV 
+ commitments. 
+  
+ --However, despite these differences, the United States 
+ recognizes and appreciates Argentina's efforts to pursue SLV 
+ development in an open and transparent manner.  We also 
+ continue to highly value Argentina's activism on missile 
+ nonproliferation issues and look forward to continued 
+ collaboration in this area. 
+  
+ --In this context, we want to advise your government that 
+ while the United States does not support Argentina's pursuit 
+ of an MTCR Category I SLV, we understand that Argentina 
+ intends to go forward with development of such a system. 
+  
+ --We therefore would like to ask that as this effort 
+ proceeds, Argentina undertake to provide the United States 
+ with full transparency into its SLV program. 
+  
+ --In our view, such transparency would be in keeping with our 
+ shared missile nonproliferation objectives and help to ensure 
+ that this matter does not become a source of irritation in 
+ our bilateral relationship. 
+  
+ --Specifically, we would urge your government to agree to 
+ annual consultations on the status of Argentina's SLV program 
+ -- to include, as necessary and appropriate, discussion of 
+ potential imports/exports relating to the program -- as well 
+ as the option of periodic site/s visits by U.S. officials. 
+  
+ --Additionally, we would like to ask that Argentina provide a 
+ one-time briefing to the MTCR Partners on its intention to 
+ pursue an SLV program.  We similarly would urge Argentina to 
+ describe its SLV program in its annual declaration to the 
+ Hague Code of Conduct Against Ballistic Missile Proliferation 
+ (HCOC). 
+  
+ --We know Argentina shares our commitment to international 
+ nonproliferation efforts and look forward to continued close 
+ cooperation with Argentina on issues of mutual concern.  We 
+ hope we can work together to address the SLV issue in a 
+ mutually satisfactory way. 
+  
+ END TALKING POINTS. 
+  
+ ¶16.  (U) Washington POC is ISN/MTR Director Pam Durham 
+ (Phone: 202-647-4931).  Please slug any reporting on this 
+ issue for ISN and WHA. 
+  
+ ¶17.  (U) A word version of this document will be posted 
+ AT WWW.STATE.SGOV.GOV/DEMARCHE. 
+ RICE 
+  
+  
+ NNNN 
+  
+
+
+
+ End Cable Text

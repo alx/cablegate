@@ -1,0 +1,170 @@
+08STATE62235
+BLUE LANTERN PRE-LICENSE END USE CHECK ON
+Tue Jun 10 00:00:00 +0200 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHC #2235 1621424
+ZNR UUUUU ZZH
+R 101415Z JUN 08
+FM SECSTATE WASHDC
+TO RUEHKV/AMEMBASSY KYIV 0000
+INFO RUEHHE/AMEMBASSY HELSINKI 0000
+RUEHLO/AMEMBASSY LONDON 0000
+RUEHMO/AMEMBASSY MOSCOW 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 062235 
+ 
+SIPDIS 
+FOR ECON WILLIAM H. KLEIN 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC FI KOMC RS UK UP
+SUBJECT: BLUE LANTERN PRE-LICENSE END USE CHECK ON 
+APPLICATION 05-050103848 
+ 
+¶1.  This is an action message.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post assistance in conducting a 
+pre-license check for the export of power modules to Ukraine 
+via Russia.  Post is requested to complete this Blue Lantern 
+check within 30 days.  Lack of response to a Blue Lantern 
+check will affect pending and future licenses involving 
+parties to this license. 
+ 
+¶3.  Reason for request: license application documents 
+indicate that the requested components are to be incorporated 
+into a static converter for use on an AN-70 transport 
+aircraft.  These documents, however, do not specify the final 
+end-user of the aircraft.  The power modules are United 
+States Munitions List (USML) commodities.  Restrictions of 
+the Arms Export Control Act (AECA) prohibits the re-transfer 
+or re-export of USML commodities without express USG 
+authorization. 
+ 
+¶4.  ACTION: Please contact the Foreign Consignee, Aviant 
+State Aviation Plant, and the Foreign End User, ASTC ANTONOV. 
+ Ask each company to explain the end use of the static 
+converter that will contain the USML components.  Will this 
+static converter be used in a single AN-70, or for testing 
+purposes on several aircraft?  If the static converter is 
+intended for permanent installation on one AN-70, who will be 
+the ultimate end-user of this particular aircraft?  Ask 
+Aviant and Antonov if they understand the restrictions on 
+USML commodities, and the prohibition against re-transfer or 
+re-export without express USG authorization.  END ACTION. 
+ 
+¶5.  License Information: 
+ 
+DDTC Case Number 05-050103848 
+ 
+QUANTITY/COMMODITY: 
+ 
+12       Plastic Full-Bridge IGBT Module, Int-A-Pak 3, P/N: 
+G150SPBK06P3H 
+ 
+01       Technical Data: Worst Case Analysis, Stress 
+Analysis, Tree Analysis, ELDERS Testing, Thermal Analysis, 
+FMCEA Reports, Data Pack 
+ 
+LICENSE VALUE: USD 16,472.00 
+ 
+APPLICANT: 
+ 
+International Rectifier Corporation 
+233 Kansas Street 
+El Segundo, California 90245 USA 
+ 
+SOURCE: 
+ 
+International Rectifier Corporation 
+205 Crawford Street 
+Leominster, Massachusetts 01453 USA 
+ 
+FOREIGN INTERMEDIATE CONSIGNEES: 
+ 
+Expeditors International 
+Unit 2, Polar Park Bath Road 
+UB7 0DG Harmondsworth, Middlesex 
+UNITED KINGDOM 
+ 
+DHL Global Forwarding 
+Danzas House, Kestrel Way 
+UB3 1HJ Hayes, Middlesex 
+UNITED KINGDOM 
+ 
+International Rectifier Company Ltd. 
+The Omnibus Building Lesbourne Road 
+RH2 7JP Reigate, Surrey 
+UNITED KINGDOM 
+ 
+OY Transsphere Ltd. 
+Manttaalitie 7A, Doors 3-6 
+01530 Vantaa 
+FINLAND 
+ 
+FOREIGN CONSIGNEES: 
+ 
+Aeroelectromash Open Joint Stock Company 
+12 Bolshaya Novodmitrovskaya Str. 
+Moscow 
+RUSSIA 
+ 
+PetroinTrade Ltd. 
+71 Englesa Str. 
+194214 St. Petersburg 
+RUSSIA 
+ 
+Aviant State Aviation Plant 
+100/1 Pobedy Prospekt 
+03062 Kyiv 
+UKRAINE 
+ 
+FOREIGN END USER: 
+ 
+Aeronautical Scientific Technical Complex Antonov (ASTC 
+ANTONOV) 
+1 Tupolev Str. 
+03062 Kyiv 
+UKRAINE 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Components will be shipped to PetroinTrade pursuant to their 
+purchase order.  The components will be incorporated into the 
+PTS-15 static converter of the AN-70 aircraft by Kyiv State 
+Aviation Plant Aviant.  PetroinTrade will forward the 
+components to Open Stock Company Aeroelectromash and 
+Aeroelectromash will install the components into the PTS-15 
+static converter and forward this item to Aviant.  Aviant is 
+responsible for the AN-70 transport aircraft integration and 
+test. 
+ 
+¶6.  Additional documentation submitted in support of license 
+application: 
+ 
+A)  PetroinTrade Purchase Order Number R080212PIHR-060BO, 
+dated 12 February 2008, signed by Denis Emelianov, General 
+Director. 
+ 
+B)  Aeroelectromash ITAR Parts Control and Accountability 
+Plan, citing PetroinTrade Purchase Order Number above, signed 
+by Vladimir Tretyhk (dated 08 April 2008), Main Designer; 
+Standard Statement of Intended Parts Use For the PTS-15 
+static converter for AN-70 aircraft Program. 
+ 
+¶7.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the DDTC Case Number 
+in the subject line.  POC on this case is Peter Sabatini, 
+PM/DTCC, phone: 202-663-2819; ClassNet email: 
+sabtinipj@state.sgov.gov; OpenNet email: 
+sabatinipj@state.gov.  The 2006 Blue Lantern Guide Book is 
+available on OpenNet at 
+http://fsi.state.gov/fsi/spas/default.asp?ID= 1588 
+Department thanks Post for its assistance in this matter. 
+RICE
