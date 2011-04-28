@@ -1,0 +1,232 @@
+09STATE122382
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Mon Nov 30 00:00:00 +0100 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHC #2382 3341318
+ZNR UUUUU ZZH
+R 301314Z NOV 09
+FM SECSTATE WASHDC
+TO RUEHOT/AMEMBASSY OTTAWA 0000
+INFO RUEHON/AMCONSUL TORONTO 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEAIIA/CIA WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DC 0000UNCLAS STATE 122382 
+ 
+SIPDIS 
+OTTAWA FOR LORI BALBI 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC CA
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON THE EXPORT OF U.S. DEFENSE ARTICLES CITING THE CANADIAN 
+EXEMPTION 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Embassy's assistance in 
+conducting a post-shipment check on transactions citing the 
+Canadian exemption for the export of inertial navigation 
+units to Canada.  Embassy is requested to complete this Blue 
+Lantern check within 45 days.  Lack of response to a Blue 
+Lantern check will affect pending and future licenses 
+involving parties to this license. 
+ 
+¶3. Reason for request: Under ITAR 126.5 (Canadian Exemption), 
+certain United States Munitions List (USML) items may be 
+exported to Canada without a license.  Some items on USML 
+Category VIII - which includes inertial navigation units - 
+may be subject to Missile Technology Control Regime (MTCR) 
+restrictions and may require a license depending on commodity 
+specification and type.  DDTC requests this check based on 
+vague description of commodity and end-use in export filing. 
+ 
+¶4. ACTION OTTAWA: Mission Canada is requested to make 
+inquiries with appropriate L-3 Communications officials to 
+obtain all relevant details regarding the export of inertial 
+navigation units to Canada citing the Canadian exemption, 
+including exact commodity description and technical 
+parameters for performance and capability, number, type, 
+dollar value, and serial number of items.  (See paragraph 5 
+for details of export, including filer identification and 
+shipping reference numbers.) 
+ 
+The following questions are provided as suggested guidance: 
+ 
+--What were the exact United States Munitions List (USML) 
+articles exported to you on June 27th, November 28th, and 
+November 30th of 2007, and May 23rd 2008?  (Automated Export 
+System (AES) filing data provides the following information, 
+"inertial navigation unit".)  Please provide detail on model, 
+type and technical specifications. 
+ 
+--What is the exact end-use for these USML items?  Will L-3 
+Communications be the sole end-user and retain positive 
+control over the inertial navigation units at all times? 
+Will they be transferred to other end-users in Canada or 
+re-exported? 
+ 
+--Does the company understand the restrictions on USML items, 
+especially the prohibition against unauthorized re-transfer 
+and re-export? 
+ 
+END ACTION. 
+ 
+¶5. Details of the AES filings: 
+ 
+--EXPORT 1 - QUANTITY/COMMODITY: 
+ 
+Quantity not provided 
+ 
+Commodity - Vague description cited as, "inertial navigation 
+unit" 
+ 
+Stated Value: USD 190,000.00 
+ 
+Export Date - 27 June 2007 
+ 
+ITAR Exemption Number - 126.5B 
+ 
+Filer Identification Number - 136240874 
+ 
+Shipping Reference Number - 7112AOR521 
+ 
+Export Identification Code - 52228712600 
+ 
+U.S. EXPORTER: 
+ 
+Dyncorp International LLC 
+1245 Royal Lane North 
+DFW Airport, TX 75261 
+POC is Mr. Harlin, Tel. 817-224-8314 
+ 
+ULTIMATE CONSIGNEE 
+ 
+L-3 Communications 
+25 City View Dr. 
+Toronto 
+Canada M9W5A7 
+POC is Mr. Long, Tel. 734-741-8868 
+ 
+--EXPORT 2 - QUANTITY/COMMODITY: 
+ 
+Quantity not provided 
+ 
+Commodity - Vague description cited as, "inertial navigation 
+unit" 
+ 
+Stated Value: USD 33,159.00 
+ 
+Export Date - 28 November 2007 
+ 
+ITAR Exemption Number - 126.5B 
+ 
+Filer Identification Number - 522287126 
+ 
+Shipping Reference Number - CA112807 
+ 
+Export Identification Code - 52228712600 
+ 
+U.S. EXPORTER: 
+ 
+Dyncorp International LLC 
+15005 Peterson Ct. 
+Fort Worth, TX 76177 
+POC is Mr. Harlin, Tel. 817-24-8314 
+ 
+ULTIMATE CONSIGNEE 
+ 
+L-3 Communications 
+25 City View Dr. 
+Toronto 
+Canada M9W5A7 
+No POC provided, Tel. 416-249-1231 
+ 
+--EXPORT 3 - QUANTITY/COMMODITY: 
+ 
+Quantity not provided 
+ 
+Commodity - Vague description cited as, "inertial navigation 
+unit" 
+ 
+Stated Value: 280,000.00 
+ 
+Export Date - 30 November 2007 
+ 
+ITAR Exemption Number - 126.5B 
+ 
+Filer Identification Number - 522287126 
+ 
+Shipping Reference Number - CA112807 
+ 
+Export Identification Code - 52228712600 
+ 
+U.S. EXPORTER: 
+ 
+Dyncorp International LLC 
+15005 Peterson Ct. 
+Fort Worth, TX 76177 
+POC is Mr. Harlin, Tel. 817-24-8314 
+ 
+ULTIMATE CONSIGNEE 
+ 
+L-3 Communications 
+25 City View Dr. 
+Toronto 
+Canada M9W5A7 
+No POC provided, Tel. 416-249-1231 
+ 
+--EXPORT 4 - QUANTITY/COMMODITY: 
+ 
+Quantity not provided 
+ 
+Commodity - Vague description cited as, "inertial navigation 
+unit" 
+ 
+Stated Value: USD 25,000.00 
+ 
+Export Date - 23 May 2008 
+ 
+ITAR Exemption Number - 126.5B 
+ 
+Filer Identification Number - 30391841 
+ 
+Shipping Reference Number - 174642131301 
+ 
+Export Identification Code - 0303918841GT 
+ 
+U.S. EXPORTER: 
+ 
+L-3 Communications 
+10001 Jack Finney Blvd. 
+Greenville, TX 75402 
+POC is Mr. Burnett, Tel. 903-408-8601 
+ 
+ULTIMATE CONSIGNEE 
+ 
+L-3 Communications 
+25 City View Dr. 
+Toronto 
+Canada M9W5A7 
+No POC provided, Tel. 416-249-1231 
+ 
+¶6. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Tim Mazzarelli, Phone: 
+202-663-3867; Email: MazzarelliTP@state.gov; SIPRNET: 
+MazzarelliTP@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file on Intellipedia: 
+http://www.intelink.gov/wiki/ 
+Blue Lantern End-Use Monitoring Program. 
+ 
+¶7. Department is grateful for post's assistance in this 
+matter. 
+CLINTON

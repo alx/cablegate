@@ -1,0 +1,168 @@
+09OTTAWA300
+Broadband Deployment in Canada
+Fri Apr 17 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ottawa
+VZCZCXRO2748
+PP RUEHGA RUEHHA RUEHMT RUEHQU RUEHVC
+DE RUEHOT #0300/01 1071358
+ZNR UUUUU ZZH
+P 171358Z APR 09
+FM AMEMBASSY OTTAWA
+TO RUEHC/SECSTATE WASHDC PRIORITY 9341
+RUCPDOC/USDOC WASHDC
+RUCNCAN/ALL CANADIAN POSTS COLLECTIVEUNCLAS SECTION 01 OF 02 OTTAWA 000300 
+ 
+STATE FOR E, EB/DCT, WHA/EX, WHA/CAN 
+ 
+STATE FOR EEB/CAP/BA (FINTON) 
+ 
+COMMERCE FOR ITA/OTEC (BENNETT) 
+ 
+STATE PASS FCC (TANNER) 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ECPS CA
+ 
+SUBJECT: Broadband Deployment in Canada 
+ 
+Ref:   SECSTATE 27310 
+ 
+SENSITIVE BUT UNCLASSIFIED.  PLEASE PROTECT ACCORDINGLY 
+ 
+¶1.  (SBU) Summary:  Canada moved quickly to achieve extensive, 
+cross-country broadband deployment early this decade and leads the 
+G7 in national connectivity rates. This achievement is particularly 
+impressive given the size and geography of Canada and it showcases 
+the government's commitment to broadband access.  However, Canada's 
+continued expansion and adaptation of broadband technologies is 
+hindered by the competitive structure of the Canadian market, 
+characterized by a limited number of carriage providers, low 
+population density, and barriers to investment.  End summary 
+ 
+Extent of broadband deployment in Canada 
+---------------------------------------- 
+ 
+¶2.  (U) According to 2006 Government of Canada data, broadband 
+service is available to 93 percent of Canadian households; 75 
+percent of Canadians have a home computer; and 60 percent of 
+households are broadband subscribers. Approximately 87 percent of 
+households in Canada have a choice between telephone- or cable-based 
+broadband. 
+ 
+The evolution of Canada's broadband penetration 
+--------------------------------------------- --- 
+ 
+¶3.  (U) Canada has a low population density - approximately 2.05 
+people per square mile - and most of Canada's 30 million people live 
+within 100 miles of the United States border. Most of this 
+population is easily reached by telephone or cable infrastructure. 
+However, Canada's relatively small population density outside of the 
+major cities of Toronto, Montreal, and Vancouver, provides weak 
+commercial incentives for telecommunications investment. 
+Consequently, the Government of Canada embarked on an aggressive 
+strategy to stimulate broadband expansion in the country in the late 
+1990s. 
+ 
+¶4.  (U) The Canadian strategy combined regulatory and market-based 
+initiatives, set out in broad strokes in the 2001 Report of the 
+National Broadband Task Force.  Government spending was loaded at 
+the front end of the initiative and gradually reduced to a few 
+programs to assist incremental expansion in underserved areas. 
+ 
+¶5.  (U) Canada also brought the private sector on board through 
+regulatory incentives and licensing schemes such as: making certain 
+telecommunications licenses conditional on broadband investment; a 
+two-percent levy for connectivity improvement paid by satellite TV 
+license holders; and the condition that spectrum license holders 
+must also provide WiMAx mobile broadband service. 
+ 
+Incentives for internet deployment in stimulus packages 
+--------------------------------------------- ---------- 
+ 
+¶6.  (U) Since most of the government initiatives took place between 
+2001 and 2007 (and 93 percent household coverage was achieved by 
+2006), there has been little recent government spending on broadband 
+infrastructure.  While Canada's 2009 federal budget included various 
+types of science and technology supports, there was no appreciable 
+targeting of broadband expansion.  In July of 2008, an interagency 
+group of Canadian officials told visiting FCC Commissioner Copps 
+that they were pleased with Canada's progress and had no plans for 
+additional, significant initiatives to expand broadband 
+availability. 
+ 
+Deployment of broadband to rural and underserved areas 
+--------------------------------------------- --------- 
+ 
+¶7.  (U) The Canadian regions of Yukon, Nunavut and Northwest 
+Territories comprise 41 percent of Canada's land mass, but only 0.4 
+percent of its population. The land is rugged and difficult to 
+Qpercent of its population. The land is rugged and difficult to 
+service with infrastructure of any kind.  As a result, comprehensive 
+broadband penetration in Canada's far north and other remote areas 
+has not been realized.  Nevertheless, the government predicts that 
+the access gap will close as technology improves and fixed wireless 
+and satellite services become less expensive. 
+ 
+Limitations arising from the Canadian market structure 
+--------------------------------------------- --------- 
+ 
+¶8.  (U) Canada's incumbent telecom and cable broadband 
+infrastructure is controlled by a small number of companies. 
+ 
+OTTAWA 00000300  002 OF 002 
+ 
+ 
+Although access to the 'last mile' of networks and to telephone 
+broadband equipment is being slowly de-regulated, Canada's small 
+population and large size make it a costly market to service.  As 
+well, federal restrictions on foreign ownership of 
+telecommunications (and satellite) industries shrink the pool of 
+potential new competitors in the marketplace even further. 
+ 
+¶9.  (U) While Canada's broadband deployment is impressive for so 
+large a country, Canada lags behind its OECD counterparts in service 
+and price.  The average broadband connection in Canada is about 7 
+mbps, below the OECD average of 9 mbps.  According to the OECD, 
+Canada also fares poorly in internet cost versus speed, ranking 27 
+out of 30 for average monthly broadband charges.  Canada also 
+imposes download caps on subscribers.  Typical limits on Canadian 
+internet connections are 60 GB per month, with higher-end plans 
+offering around 100 GB. 
+¶10.  (U) Local-loop unbundling is a practice that allows smaller 
+ISPs to rent out portions of a large phone company's network and 
+then attach their own equipment to provide customers with internet 
+access.  While Canada's regulations permit local-loop unbundling, 
+its telecommunications firms have tended to erect barriers that 
+limit practical access by smaller firms to the main network. 
+¶11.  (U) As wireless technologies play a more important role in 
+internet connectivity, Canada's relatively expensive and 
+underdeveloped wireless services have also become more of an 
+impediment.  For example, Apple's iPhone was introduced in Canada 
+one year later than in the US and UK, and there is only one company 
+able to provide necessary GSM support service.  Canada's mobile data 
+costs are among the highest in the world and the World Economic 
+Forum dropped Canada's 'network readiness' status from 5th place in 
+2005 to 13th place in 2008. 
+ 
+Future prospects and US commercial opportunities 
+--------------------------------------------- --- 
+ 
+¶12.  (SBU) Comment: The government's official strategy is to 
+increase reliance on market forces "to the maximum extent feasible" 
+in order to promote competition while maintaining advanced services 
+for customers.  Canada has promised a gradual transition to 
+deregulation of networks and telephone-based broadband equipment 
+once equivalent commercial alternatives are sufficiently available. 
+However, the hands-on regulatory environment that helped Canada 
+rapidly expand its broadband deployment may now impede growth and 
+adaptation in the sector.  Given the factors limiting competition, 
+it is by no means certain whether affordable consumer access to new 
+technology and next-generation networks can be sustained without 
+significant government intervention.  The government is currently 
+re-assessing its role in telecommunications and is leaning towards 
+stronger deregulation, including consideration of permitting foreign 
+investment in telecommunications carriers.  End comment.

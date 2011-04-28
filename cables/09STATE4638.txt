@@ -1,0 +1,476 @@
+09STATE4638
+WESTERN AND CENTRAL PACIFIC FISHERIES COMMISSION
+Fri Jan 16 00:00:00 +0100 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXRO9212
+PP RUEHAP RUEHKN RUEHKR RUEHMJ RUEHPB
+DE RUEHC #4638/01 0161708
+ZNR UUUUU ZZH
+P 161657Z JAN 09
+FM SECSTATE WASHDC
+TO RUEHAP/AMEMBASSY APIA PRIORITY 1310
+RUEHBJ/AMEMBASSY BEIJING PRIORITY 5272
+RUEHBS/AMEMBASSY BRUSSELS PRIORITY 2617
+RUEHBY/AMEMBASSY CANBERRA PRIORITY 3371
+RUEHKN/AMEMBASSY KOLONIA PRIORITY 1952
+RUEHKR/AMEMBASSY KOROR PRIORITY 1572
+RUEHMJ/AMEMBASSY MAJURO PRIORITY 6598
+RUEHML/AMEMBASSY MANILA PRIORITY 9401
+RUEHME/AMEMBASSY MEXICO PRIORITY 8084
+RUEHOT/AMEMBASSY OTTAWA PRIORITY 3636
+RUEHPB/AMEMBASSY PORT MORESBY PRIORITY 1457
+RUEHQT/AMEMBASSY QUITO PRIORITY 3602
+RUEHSN/AMEMBASSY SAN SALVADOR PRIORITY 2196
+RUEHUL/AMEMBASSY SEOUL PRIORITY 9727
+RUEHSV/AMEMBASSY SUVA PRIORITY 7674
+RUEHKO/AMEMBASSY TOKYO PRIORITY 7513
+RUEHWL/AMEMBASSY WELLINGTON PRIORITY 6562
+RUCPDC/NOAA NMFS SILVER SPRING MD PRIORITY
+RUEHIN/AIT TAIPEI PRIORITY 3635
+RHMFIUU/CCGDFOURTEEN HONOLULU HI - RHMFIUU PRIORITYUNCLAS SECTION 01 OF 06 STATE 004638 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: EFIS PHSA SENV KSCA XB XV ZN AQ AS CA CH CW FM FJ
+FR, FP, GQ, JA, KR, KS, RM, NR, NC, NZ, CQ, PS, PP, RP, WS, BP, TW, 
+TN, US, NH, BH, ID, EC, ES, MX, SG 
+SUBJECT: WESTERN AND CENTRAL PACIFIC FISHERIES COMMISSION 
+ADOPTS CONSERVATION AND MANAGEMENT MEASURES AT ITS 5TH 
+ANNUAL MEETING 
+ 
+REF: A. A. 08 STATE 5966 
+     ¶B. B. 08 STATE 119766 
+     ¶C. C. 08 STATE 120163 
+ 
+¶1. (U) SUMMARY.  The fifth meeting of the Western and Central 
+Pacific Fisheries Commission was held in Busan, Korea from 8 
+) 12 December 2008.  The meeting focused on conservation and 
+management measures for the region,s two major fish stocks - 
+yellowfin and bigeye tuna, adopting a suite of measures for 
+purse seine and longline fisheries to reduce the fishing 
+effort and total catch of bigeye tuna, and by association 
+yellowfin tuna, by 10 percent during 2009 and 30 percent 
+before the end of 2011.  The members negotiated and adopted a 
+number of other conservation and management measures at this 
+meeting, including measures for South Pacific swordfish, 
+large-scale driftnets and sea turtles.   The Parties revised 
+measures currently in place for sharks and for Cooperating 
+non-Members (CNMs) were revised and adopted a resolution on 
+the development aspirations of Small Island Developing 
+States. The Commission welcomed six CNMs for 2009: Belize, El 
+Salvador, Indonesia, Mexico and Senegal and approved 
+Ecuador,s application under the condition the country would 
+provide the United States with information regarding presumed 
+illegal fishing by Ecuadorian vessels in U.S. waters.  A 
+number of officers were appointed and a new Commission 
+Chairman, Ambassador Satya Nandan of Fiji, was elected for a 
+two-year term.  END SUMMARY 
+ 
+¶2. (U) PARTICIPANTS.  The Fifth Regular Session of the 
+Western and Central Pacific Fisheries Commission (WCPFC) was 
+held in Busan, Korea from 8 ) 12 December 2008. 
+Representatives from American Samoa, Australia, Canada, 
+China, Cook Islands, European Community, Federated States of 
+Micronesia, Fiji, France, French Polynesia, Guam, Japan, 
+Kiribati, Korea, Republic of the Marshall Islands, Nauru, New 
+Caledonia, New Zealand, Northern Marianas Islands, Palau, 
+Papua New Guinea, Philippines, Samoa, Solomon Islands, 
+Chinese Taipei, Tonga, the United States, and Vanuatu 
+attended the meeting.  Belize and Indonesia participated in 
+their capacity as Cooperating non-Members, and the Executive 
+Secretary of the Inter-American Tropical Tuna Commission and 
+a variety of fishing industry and environmental conservation 
+organization representatives observed the proceedings.  A 
+number of participants also attended two days of preliminary 
+meetings to discuss Cooperating non-Member applications and 
+conservation and management measures for yellowfin and bigeye 
+tuna.  The Finance and Administration Committee also convened 
+prior to the opening of the plenary session of the 
+Commission. 
+ 
+BIGEYE AND YELLOWFIN TUNA 
+ 
+¶3.  (U) Developing a conservation and management measure 
+(CMM) for yellowfin and bigeye tuna was the Commission,s 
+main focus during 2008.  The Chairman,s initial drafts were 
+taken from the Vessel Day Scheme (VDS) and Third Implementing 
+Arrangement the Parties to the Nauru Agreement (PNA) have 
+adopted to regulate fishing activities in their domestic 
+waters. (NOTE: The PNA is a collection of eight Pacific 
+Island States that have formed a sub-regional agreement on 
+the terms and arrangements for licensing tuna purse seine 
+fishing vessels. 
+Tuna management in the Western and Central Pacific is 
+complicated by the fact that the majority of the tuna are 
+found in waters under the jurisdiction of Small Island 
+Developing States (SIDs). Although the Convention Area 
+ 
+STATE 00004638  002 OF 006 
+ 
+SUBJECT: WESTERN AND CENTRAL PACIFIC FISHERIES COMMISSI 
+includes Party,s exclusive economic zones (EEZs), the 
+responsibility for managing resources within those waters is 
+the sovereign right of a coastal State.  The Commission 
+provides the venue for international cooperation to manage 
+the highly migratory fish stocks throughout their range. 
+Further, conservation measures adopted by the Commission and 
+those adopted by Parties for their EEZs must be compatible. 
+Given the economic importance of the tuna resources to SIDs, 
+there is great pressure within these islands to continue to 
+issue access licenses or otherwise develop domestic fleets or 
+industries.  This has led to conflict in recent years as some 
+SIDs have asserted that the Commission is responsible only 
+for managing the high seas and that measures adopted for 
+their EEZs are sufficient and no additional measures that may 
+limit fishing activities in their EEZs will be acceptable. 
+WCPFC5 made some progress on these issues; however, balancing 
+sovereign rights and economic and social growth with the need 
+for international cooperation to conserve marine resources 
+will continue to challenge the Commission during coming 
+years.  END NOTE.) 
+ 
+¶5. (U) Just prior to the Commission meeting in December, the 
+United States developed and circulated a US paper expressing 
+views on the need to adopt measures that are enforceable, 
+result in a real and measurable conservation benefit and are 
+equitable across all of the Commission members, cooperating 
+non-members and participating territories (&CCMs8).  The US 
+Views paper also laid out specific management options to 
+achieve the required reductions in fishing mortality across 
+fleets, taking into account currently available compliance 
+and enforcement tools.  Japan also circulated a paper 
+promoting a system that would allow each Party to 
+independently determine the measures they would implement to 
+reduce fishing and catch of bigeye tuna by initially 10 
+percent.  Japan,s position appeared to be motivated by their 
+opposition to fisheries closures, both temporally and on fish 
+aggregating devices (FADs), and a desire to use their 
+existing port sampling program to monitor catch of bigeye 
+tuna, only reducing fishing where and if necessary.  The 
+United States stressed the need to adopt Convention Area-wide 
+measures to facilitate monitoring and enforcement and 
+increase the effectiveness of the CMM.  In the end, the 
+Parties adopted a combination of the PNA measures adopted for 
+their domestic waters and the Japanese and U.S. proposals. 
+ 
+¶6. (U) PURSE SEINE MEASURES.  Management measures for the 
+purse seine fishery were divided into near term (2009) and 
+midterm (2010-2011) activities.   For 2009, all fishing for 
+bigeye tuna is capped at 2001-2004 levels, fishing in 
+association with fish aggregating devices (FADs) is 
+prohibited for 60 days in waters between 20 degrees North and 
+20 degrees South latitude, 20 percent observer coverage is 
+required for all fleets and Japan is required to reduce their 
+total catch of bigeye tuna by 10 percent.  Starting in 2010 
+the Third Implementing Arrangement will come into force, 
+meaning that purse seine vessels fishing in PNA waters will 
+be prohibited from discarding unwanted tuna, fishing in two 
+of the high seas pockets, or fishing on FADs between 1 July 
+and 30 September.   Unless otherwise decided at the next 
+Commission meeting, fishing in other parts of the Convention 
+area (high seas and waters of non-PNA members) will be 
+subject to a 60 day FAD closure, a high seas pockets closure 
+and 100 percent observer coverage on vessels fishing between 
+20 degrees North and 20 degrees South latitude.   During the 
+2009 and 2010/2011 FAD closures, vessels will be required to 
+return and stay in port unless a fisheries observer is on 
+board to verify that the vessel did not fish in association 
+with FADs.   During the next two years, the Commission will 
+consider developing a vessel day scheme (similar to the PNA 
+VDS) to limit fishing on the high seas and will attempt to 
+conduct research to identify fishing methods or gear that 
+effectively reduce catch of juvenile bigeye tunas. 
+ 
+¶7. (U) LONGLINE MEASURES.   Most CCMs are required to reduce 
+ 
+STATE 00004638  003 OF 006 
+ 
+SUBJECT: WESTERN AND CENTRAL PACIFIC FISHERIES COMMISSI 
+their longline catch of bigeye tuna by 10 percent every year 
+for the next three years, to achieve a 30 percent reduction 
+in catch before the end of 2011.  CCMs that historically 
+caught less than 2,000mt of bigeye tuna will not have to 
+reduce their catch each year and will instead have a 2,000mt 
+limit.  Participating territories and SIDs will not have to 
+limit their longline catch of bigeye tuna.  Furthermore, the 
+Commission agreed that China would not be required to reduce 
+its bigeye catch, but instead would be capped at current 
+catch levels.  Longline fleets, such as that of the United 
+States, which land exclusively fresh fish and catch 5,000mt 
+or less, will take a 10 percent reduction in 2009, but will 
+not be required to make further reductions during 2010 or 
+¶2011. 
+ 
+OTHER CONSERVATION AND MANAGEMENT MEASURES 
+ 
+¶8. (U) SEA TURTLES.  After addressing concerns of Australia, 
+New Zealand and battling resistance from the European 
+Community to adopt any measure that referenced the use of 
+circle hooks, the United States developed a proposal to 
+address fishery induced sea turtle mortalities.  The adopted 
+measure requires WCPFC vessels to implement safe handling and 
+release practices, including the use of dip nets, de-hooking 
+devices and line cutters to safely free sea turtles that 
+become entangled in fishing gear.  Most notably, the measure 
+requires longline vessels fishing for swordfish with 
+shallow-set hooks to use circle hooks or whole fish bait. 
+This measure makes WCPFC the first regional fishery 
+management organization to require the use of modified 
+fishing gear, such as circle hooks, to reduce fishery 
+interactions with sea turtles.  As an alternative to these 
+measures, CCMs may develop alternative mitigation plans that 
+can be implemented after they are reviewed and approved by 
+the Scientific and Technical and Compliance Committees. 
+ 
+¶9. (U) SHARKS.  The shark CMM previously in place, applied 
+only to vessels greater than 24m in length.  The 4th Regular 
+Session of the SC concluded that shark bycatch does not 
+differ significantly between vessels that are greater than 
+24m and vessels that are less than 24m.  Consequently, the 
+U.S. delegation proposed revisions to the shark CMM to ensure 
+it would apply to sharks caught in association with all 
+fisheries managed under the Convention.  The revised measure 
+also recognized the continued use of sharks in subsistence 
+and artisanal fisheries and called for the SC to provide 
+guidance on establishing a research plan to assess the status 
+of key shark species in the Convention Area. 
+ 
+¶10. (U) HIGH SEAS DRIFTNET FISHING.  The 4th Regular Session 
+of the Northern Committee Meeting (NC4) recommended the 
+Commission adopt a CMM prohibiting the use of large-scale 
+driftnets on the high seas in the Convention Area (reftel B). 
+ The Commission adopted a U.S. proposal that prohibits the 
+use and possession of this gear on the high seas of the 
+Convention Area.  Although a number of international 
+instruments exist that regulate the use of large-scale 
+driftnets, this new WCPFC measure enables Parties to utilize 
+the Commission,s high seas boarding and inspection scheme to 
+board and inspect vessels suspected of carrying or using this 
+gear.  In the absence of an appropriate flag state 
+enforcement response, vessels documented violating this CMM 
+can then be forwarded to the Commission for consideration of 
+inclusion on the WCPFC,s Illegal, Unreported and Unregulated 
+(IUU) vessel list. 
+¶11. (U) SWORDFISH.  The previous measure caped the total 
+number of vessels that may fish for swordfish south of 20 
+degrees South latitude.  The newly adopted CMM in addition, 
+sets annual limits on CCM,s total catch of South Pacific 
+Swordfish.  This measure was highly controversial and 
+eventually led to the EC agreeing to allow the Commission,s 
+scientific services provider (the SPC,s Oceanic Fisheries 
+Program) to review data currently available, pursuant to an 
+appropriate confidentiality agreement and in cooperation with 
+ 
+STATE 00004638  004 OF 006 
+ 
+ 
+¶12. (U) APPLICATIONS.  CCMs met prior to the Commission 
+meeting to discuss the 2009 cooperating non-member 
+applications from Belize, Ecuador, El Salvador, Indonesia, 
+Mexico and Senegal.  Following a presentation from the 
+Commission,s legal advisor, Belize, Ecuador, El Salvador and 
+Indonesia described their fishing effort in the Convention 
+Area (Mexico and Senegal did not attend.)  Belize, El 
+Salvador and Indonesia were accepted as CNMs with little 
+discussion within the Commission.  Following a thorough 
+evaluation of their applications, and consultations to 
+resolve outstanding questions regarding current and intended 
+fishing effort and how the CMMs would apply to their vessels, 
+Mexico and Senegal were accepted.  During discussions 
+regarding Ecuador,s application, the United States noted 
+that despite numerous requests through the last year and a 
+half, Ecuador has not taken steps to address presumed IUU 
+fishing activities by a number of their vessels within U.S. 
+waters.  A number of other Parties also raised concerns about 
+Ecuador,s involvement in illegal fishing activities.  After 
+participating in numerous bilateral discussions with the 
+United States, Ecuador was granted CNM status on the 
+condition it provides the United States with information by 
+February 15, 2009, regarding fishing activities of Ecuadorian 
+vessels in U.S. waters.  If it does not provide all the 
+requested information to the satisfaction of the United 
+States, its CNM status will become null and void.  Belize 
+also requested support from members to become a full Member 
+of the Commission. Discussions regarding their request will 
+be progressed intersessionally by the Executive Director. 
+ 
+¶14. (U) COOPERATING NON-MEMBER MEASURE.  Following the 
+contentious discussion regarding CNMs that occurred during 
+the 4th Annual WCPFC meeting (reftel A), the Chairman tasked 
+the Parties to improve and clarify the process for evaluating 
+CNM applications.  During the 2008 meeting of the TC), Palau 
+proposed changes to the current CNM measure and presented a 
+flow chart outlining the specific steps for evaluating 
+applications.  TCC revised Palau,s flowchart to reflect the 
+measure that was currently in force and tasked Canada with 
+revising the CNM measure based on comments submitted by CCMs. 
+ Canada presented a well balanced proposal at the Commission 
+meeting and led efforts to adopt a revised measure that inter 
+alia, requires CNMs to accept high seas boardings and 
+inspections, encourages CNMs to voluntarily limit their catch 
+or number of vessels fishing in the WCPFC Convention area 
+given the status of the stocks and requires CNMs to respond 
+in a timely manner to allegations of IUU fishing. 
+ 
+MONITORING, CONTROL AND SURVEILLANCE 
+¶15. (U) VESSEL MONITORING SYSTEM (VMS).   Before adopting the 
+service level agreement to officially establish the &Pacific 
+VMS8, the Commission worked to resolve outstanding issues 
+with the Commission VMS Standards, Specifications and 
+Procedures (SSPs).  Agreement could not be reached on how to 
+handle  reporting in the event of a breakdown of a VMS, so 
+the SSPs were adopted with the understanding that this issue 
+would be discussed at TCC5 and hopefully resolved at WCPFC6. 
+Subsequently, the Commission adopted the service level 
+agreement for the Pacific VMS and an implementation date of 
+April 1, 2009 was established for the Commission,s VMS to 
+become operational.  The WCPFC and FFA Secretariats executed 
+that agreement shortly thereafter.  The Finance and 
+Administration Committee (FAC) reviewed estimates of the cost 
+structure for the VMS program and recommended an increase in 
+funds to allow 600 additional vessels (double the original 
+estimate) in the Commission,s VMS program during the first 
+year. 
+¶16. (U) REGIONAL OBSERVER PROGRAM.  The Commission adopted 
+the recommendations of the ROP Intersessional Working Group 
+(IWG-ROP) and decisions of the TCC including recommendations 
+on interim minimum standards, data to be collected by 
+ 
+STATE 00004638  005 OF 006 
+ 
+SUBJECT: WESTERN AND CENTRAL PACIFIC FISHERIES COMMISSI 
+observers, the role and function of audits, the authorization 
+process for national observers, and the need to extend the 
+mandate of the IWG-ROP.  The Commission is tentatively 
+planning a meeting of the IWG-ROP for March 2009 in Guam. 
+During 2009 the IWG-ROP will further consider issues related 
+to vessel size, program costs, observer safety and issues 
+related to the definitions of &principally8, 
+&occasionally8, &adjacent8 and &impartial8, which will 
+determine if a fleet will be allowed to carry fisheries 
+observers from the national observer programs of its flag 
+state. 
+ 
+¶17. (U) IUU VESSEL LIST.  The 2009 WCPFC IUU vessel list 
+contains two vessels: Jinn Feng Tsair (Chinese-Taipei) and 
+Daniela F (Venezuela). Although the TCC4 considered eight 
+vessels for potential listing, two of which were placed on 
+the Provisional IUU list, no new vessels were added because 
+the concerned Parties reached bilateral agreements to address 
+the presumed IUU activities. 
+ 
+FINANCE AND ADMINSTRATION COMMITTEE 
+¶18. (U) In determining the funds necessary to support the 
+work of the Commission, the Finance and Administration 
+Committee (FAC) recommended expanding the Secretariat staff 
+to include a second VMS program operator and a data quality 
+officer.  The FAC also recommended augmenting the budget to 
+reflect 600 more vessels in the WCPFC VMS in 2009 than were 
+accounted for in the original budget.  The FAC recommended 
+extended the contract of the current Director, Mr. Andrew 
+Wright of Australia, for an additional four years. Guided by 
+Australia and the United States, the FAC created a template 
+for a strategic plan to assist Parties in identifying 
+priorities for the Commission andCanada agreed to coordinate 
+the development a strategic plan.  Mr. Terry Toomata of Samoa 
+was re-elected as FAC chairman and Mr. Lui Xiaobing of China 
+was selected as co-chair.  The total budget approved by the 
+Commission for 2009 was $4,209,155 with the United States 
+paying $385,623, or approximately 9% of the total budget. 
+OTHER ISSUES 
+¶19. (U) SMALL ISLAND DEVELOPING STATES.  The Parties adopted 
+a resolution recognizing the special needs of developing 
+island States and territories.  This resolution prompts the 
+Parties to consider options to accommodate and assist SIDS 
+and territories in their aspirations to develop domestic 
+fisheries.  Specifically, CCMs are asked to take concerted 
+efforts and consider innovative options to reduce or 
+restructure their fleets to open fishing capacity for SIDS, 
+development, and to cooperate with SIDS in investments in 
+fishing vessels as well as shore-side facilities.   The 
+resolution also outlines a number of principles that should 
+be taken into account when adopting conservation and 
+management measures so as not to unduly or disproportionately 
+burden SIDS or territories. 
+¶20. (U) BLUEFIN TUNA.  The North Committee (NC4) postponed 
+agrement on a recommended measure to cap both the total 
+fishing effort and the fishing mortality rate of Pacific 
+bluefin tuna until the Commission meeting (reftel B). 
+Unfortunately, prior to the meeting Korea circulated a 
+written notification that they were currently unable to agree 
+to such a measure.  It is not clear if this measure will be 
+re-tabled at the 2009 NC meeting.  In the interim, some 
+outreach to Korea will be necessary to better understand its 
+concerns and ensure its future cooperation in such efforts. 
+¶21. (U) TRANSHIPMENT.  The Commission has been continually 
+challenged by differences between the coastal states, whose 
+ports and shore side facilities would benefit economically 
+from a total prohibition on at-sea transhipment, and distant 
+water fishing nations for which certain fishing operations 
+are established and based on their ability to tranship 
+at-sea.  The proposal tabled by the Marshall Islands 
+contained a number of contentious elements, such as 
+prohibitions against transhipping in the high seas pockets, 
+transhipping frozen fish at sea between 20 North and 20 South 
+latitude and transhipping to carrier vessels flagged to 
+ 
+STATE 00004638  006 OF 006 
+ 
+SUBJECT: WESTERN AND CENTRAL PACIFIC FISHERIES COMMISSI 
+non-CCM nations -- an activity that is currently allowed by 
+the Commission.  In an attempt to produce a consensus 
+document, there was significant movement on a number of these 
+controversial issues towards the end of the meeting; however, 
+there was not enough time to resolve other details of the 
+draft measure.   The Commission therefore decided to develop 
+a revised measure intersessionally and adopted a one-year 
+extension of the exemptions currently in place for at-sea 
+transshipment agreeing that further extensions would be 
+unacceptable. 
+ 
+¶22. (U) COMPLIANCE WORKING GROUP (C2M2).  Australia proposed 
+and will lead an intersessional Compliance with Conservation 
+and Management Measures Working Group (C2M2) that will 
+recommend to TCC5 options for an effective structure and 
+process for a WCPFC Compliance Monitoring Scheme.  Draft 
+terms of reference were tabled at WCPFC5, but there was not 
+sufficient time to agree on them.  The United States will 
+provide further comments on the draft terms of reference for 
+the C2M2 Working Group, and will participate in its work. 
+ 
+¶23. (U) CHAIRMANSHIP.  There were three candidates for WCPFC 
+Chairman: Mr. Masanori Miyahara of Japan, Mr. William 
+Gibbons-Fly of the United States and Mr. Satya Nandan of 
+Fiji.  Following discussion in heads of delegation meetings, 
+the Commission elected, by consensus, Ambassador Satya Nandan 
+for a term of two years.  It was agreed that at the expiry of 
+this term, non-FFA States will provide a candidate or 
+candidates for the position of Chair for the consideration of 
+the Commission.  Ms. Sylvie LaPointe of Canada was selected 
+to serve as Vice-Chair during Mr. Nandan,s two year term. 
+ 
+¶24. (U) OFFICERS.  Mr. Naozumi Miyabe of Japan was elected 
+chair of the Scientific Committee and Mr. Keith Bigelow of 
+the United States was elected Vice-Chair.   Mr. Masanori 
+Miyahara was re-elected as the Chairman of the Northern 
+Committee and Mr. Benjamin Tabios of the Philippines was 
+elected to serve as Vice-Chair. 
+ 
+¶25. (U) NEXT MEETINGS.  The next annual meeting of the WCPFC 
+will be held in French Polynesia December 7-11, 2009.  The 
+provisional schedule for the subsidiary bodies of the WCPFC 
+will start with a meeting of the IWG-ROP program in Guam 
+17-21 March 2009.  The Scientific Committee will meet August 
+10-21, 2009 in Port Vila, Vanuatu.  The Northern Committee 
+will meet September 15-17, 2009 in Japan and the Technical 
+and Compliance Committee will meet October 1-6, 2009 in 
+Pohnpei, Federated States of Micronesia. 
+ 
+¶26. (U) CONTACT INFORMATION.  Please direct related questions 
+or comments to Ms. Sarah McTee, Office of Marine 
+Conservation, by phone (202-647-3941) or via the 
+Department,s classified or unclassified email system at 
+McTeeSa@state.gov. 
+RICE

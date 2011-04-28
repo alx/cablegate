@@ -1,0 +1,243 @@
+05OTTAWA1664
+FY 2006 IVLP Individual Program - Allan Scholz
+Fri Jun 03 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+031204Z Jun 05UNCLAS SECTION 01 OF 03 OTTAWA 001664 
+ 
+SIPDIS 
+ 
+STATE 
+ 
+SECSTATE FOR ECA/PE/V/R/W - EWILKES-SCOTT; 
+WHA/PDA - JCARPENTER; 
+MONTREAL, TORONTO AND VANCOUVER FOR PAOS; 
+HALIFAX AND QUEBEC FOR CONGENS; 
+CALGARY FOR PA FIELD REP; CALGARY PLEASE PASS TO WINNIPEG 
+ 
+E.O. 12958: N/A 
+TAGS: KPAO OEXC SCUL CA IV
+SUBJECT: FY 2006 IVLP Individual Program - Allan Scholz 
+(Alternate Candidate) 
+ 
+REFERENCE:  OTTAWA 1504 
+ 
+¶1.   Post nominates Allan Scholz, President, A.N. Scholz and 
+Associates, Calgary as an alternate candidate for a 21-day 
+individual or ITT project on U.S. water policy and 
+management.  Mr. Scholz has full country team approval. 
+EVDB nomination follows. 
+ 
+¶2.   START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: slw@pd.state.gov 
+TRANSMITTING-POST: PAS Ottawa 
+TRANSMITTING-POST-ID: 6540 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VRW 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 354 
+ECA-PROJ-NO: 
+PROJ-NAME: Scholz, Allan Neil - Individual 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 0 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1037 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 526774 
+FUNDING-CNTRY-ID: 322158 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Agriculture 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Allan 
+M-NAME: Neil 
+L-NAME: Scholz 
+SUFFIX: 
+POSITION-CODE: 330 
+PRINCIPAL?: Yes 
+GENDER: M 
+DOB: 01/28/1953 
+MAR-STAT: M 
+BIRTH-CITY: Langenburg, Sask. 
+BIRTH-CNTRY: Canada 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+President, A.N. Scholz and Associates, Inc. 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Executive Director, Saskatchewan Agrivision Corporation 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+- Vice-President and Management Consultant, Trimension 
+Training and Consulting Group, Inc., Saskatoon, 1993-98 
+- President, A.N. Scholz and Associates, Inc., Saskatoon, 
+1987-93 
+- Owner/manager, Scholz Pedigreed Seed Farm, Churchbridge, 
+Saskatchewan, 1980-87 
+- Marketing Representative, Hoechst Canada (now AgrEvo, 
+Aventis),  Regina, Saskatchewan, 1984-86 
+- Manager, Agronomic Services, CSP Food, Ltd, Corporate 
+Office (now Canamera), Saskatoon, 1980-84 
+- Rural Extension Advisor (CUSO), Ministry of Agriculture, 
+Royal Thai Government, Chiang Rai, Thailand, 1976-79 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Minnesota (regular visits to relatives); 
+short pleasure trips to North Dakota, South Dakota,  Idaho, 
+Montana, Las Vegas; 
+conferences in Ft. Lauderdale, North Dakota 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+No recent international travel 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+BS, Agriculture, Plant Science, University of Saskatchewan, 
+1973 
+BEd, Non-Formal Adult Education, University of Saskatchewan, 
+1976 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Agricultural Institute of Canada 
+Canadian Association of Professional Speakers    (CAPS) 
+Canadian Consulting Agrologists Association 
+Canadian Society of Extension 
+Saskatchewan Consulting Agrologists 
+Saskatchewan Institute of Agrologists 
+Saskatoon and District Chamber of Commerce, Member 
+Saskatoon Regional Economic Development Authority 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+--Researched and wrote "Community Success Stories"; a 
+collection of community profiles of eight rural Saskatchewan 
+communities taking steps towards positive rural economic 
+renewal 
+--"Don't Turn Out the Lights: Entrepreneurship in Rural 
+Saskatchewan", 2000 (book focuses on 18 successful 
+sustainable, rural-based ventures),  (nominated for 
+Saskatchewan Book Award in 2001) 
+--Columnist for Prarieland Farm newspaper, a bi-monthly 
+Saskatchewan publication, 1996-97 
+--Numerous articles, commentaries, reports and  keynote 
+presentations at conferences, both 
+domestic and international, where proceedings  have been 
+published 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+Non-smoker 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: English 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START OTHER-LANGS: 
+OTHER-LANG: Thai 
+OTHER-LANG-ID: TH 
+READ: 3 
+SPEAK: 3 
+COMP: 3 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: Indonesian 
+OTHER-LANG-ID: JN 
+READ: 1 
+SPEAK: 1 
+COMP: 1 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Field Rep Betty Rice 
+START MEMO NOMINATING-JUSTIFICATION: 
+Al Scholz has been very active in the current dialogue in 
+Saskatchewan regarding rural economic development, 
+appropriate land use, and issues surrounding the use of 
+water.  He has been involved in organizations such as the 
+Saskatchewan Agrivision Corporation, which recently 
+established a provincial water council to determine 
+Saskatchewan's water needs and to essentially "drought- 
+proof" the economy.  Al has been involved in a variety of 
+areas with respect to rural economy in Saskatchewan, 
+including rural population growth and retention, grain and 
+livestock development, and resource management.   He's a 
+good listener too-Al spends a fair amount of time talking to 
+people in rural communities, after which he writes articles 
+about best practices and lessons learned in those 
+communities.  Outgoing and bright, Al would gain much from a 
+study tour on water management, one of the looming 
+environmental and economic questions of the coming decades, 
+as well as other developments in rural economics. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ConGen Calgary 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: NONE 
+NOMINEE-ID: 525 
+PERSON-ID: 403 
+BIRTH-CNTRY-ID: CA 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: EN 
+E-I-TYPE-ID: N 
+NOM-POST-ID: 526774 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 03.0103 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+DICKSON, CHARGE

@@ -1,0 +1,247 @@
+05OTTAWA1646
+FY 2006 IVLP Individual Program - Letia Cousins
+Thu Jun 02 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+021955Z Jun 05UNCLAS SECTION 01 OF 03 OTTAWA 001646 
+ 
+SIPDIS 
+ 
+STATE 
+ 
+SECSTATE FOR ECA/PE/V/R/W - EWILKES-SCOTT; 
+WHA/PDA - JCARPENTER-ROCK; 
+MONTREAL, TORONTO AND VANCOUVER FOR PAOS; 
+HALIFAX AND QUEBEC FOR CONGENS; 
+CALGARY FOR PA FIELD REP; CALGARY PLEASE PASS TO WINNIPEG 
+ 
+E.O. 12958: N/A 
+TAGS: KPAO OEXC SCUL CA IV
+SUBJECT: FY 2006 IVLP Individual Program - Letia Cousins 
+(Principal Candidate) 
+ 
+REFERENCE:  OTTAWA 1504 
+ 
+Post is pleased to nominate Letia Cousins, Director, 
+Aboriginal and Circumpolar Affairs, Government of Nunavut 
+for a 21-day individual project.  EVDB-formatted nomination 
+follows. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: slw@pd.state.gov 
+TRANSMITTING-POST: PAS Ottawa 
+TRANSMITTING-POST-ID: 6540 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VRW 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 333 
+ECA-PROJ-NO: 
+PROJ-NAME: Cousins, Letia - Individual 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 28 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1037 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 6540 
+FUNDING-CNTRY-ID: 322158 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Education (General) 
+START BIO: 
+PREFIX: Ms. 
+F-NAME: Letia 
+M-NAME: 
+L-NAME: Cousins 
+SUFFIX: 
+POSITION-CODE: 124 
+PRINCIPAL?: Yes 
+GENDER: F 
+DOB: 10/01/1974 
+MAR-STAT: 
+BIRTH-CITY: Prince Albert, Saska 
+BIRTH-CNTRY: Canada 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+Director, Aboriginal & Circumpolar Affairs Department of 
+Executive and Intergovernmental Affairs, Government of 
+Nunavut 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+-Circumpolar Affairs Advisor - Department of Executive and 
+Intergovernmental Affairs, Government of Nunavut (2002-2004) 
+-Training expert in Statistical Analysis and Dissemination - 
+United Nations Educational, Scientific and Cultural 
+Organization, Harare, Zimbabwe (2001) 
+-Information Systems Management Delegate - International 
+Federation of the Red Cross and International Institute for 
+Sustainable Development, Mbabane, Swaziland (2000) 
+-Economic Modeling Specialist - Department of Economic 
+Development and Transportation, Government of Nunavut (1998) 
+-Career Development Officer - Department of Education, 
+Government of Nunavut (1997) 
+-Research Assistant- Department of Political Science, Acadia 
+University, Nova Scotia 
+-Teaching Assistant- Department of Economics, Acadia 
+University, Nova Scotia 
+ 
+ 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Summer vacations in Washington, New York and Tennessee 
+(We note that the extensive list of places she has visited 
+in the U.S. is somewhat misleading.  Ms. Cousins apparently 
+went to each place for only about a day or two, spread out 
+over her childhood years.  For example, her visit to 
+Tennessee was for one day, to see the Nunavut hockey legend 
+Jordin Tootoo play.) 
+ 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Australia, Botswana, Denmark and Greenland, Finland, Italy, 
+Mozambique, New Zealand, Russia, South Africa, Swaziland, 
+Switzerland, United Kingdom, and Zimbabwe 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Master of Arts in Economics Candidate, Dalhousie University, 
+Halifax, present 
+B.A. with Honors in Economics, University of Alberta, 
+Edmonton, 1998 
+B.A. in Economics and Political Science, Acadia University, 
+Nova Scotia, 1997 
+ 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Board of Directors - Nunavut Youth Abroad Program 
+Iqaluit Unit of the Girl Guides of Canada 
+ 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+Dietary or medical considerations (e.g. diabetic, allergies, 
+vegetarian): None 
+Smoker/non-smoker: non-smoker 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: English 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START OTHER-LANGS: 
+OTHER-LANG: French 
+OTHER-LANG-ID: FR 
+READ: 3 
+SPEAK: 3 
+COMP: 3 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: CG Abigail Friedman 
+START MEMO NOMINATING-JUSTIFICATION: 
+The Mission in Canada has put a priority on increasing 
+contact with representatives of the Northern Canadian 
+Territorties.  This nomination supports this Mission goal of 
+involving people of influence in the North through the 
+Virtual Presence Posts, outreach  and programs.  Letia 
+Cousins is Circumpolar Affairs Advisor for the Government of 
+Nunavut.  Young, bright and Inuit, Ms. Cousins is widely 
+regarded as the future of Nunavut.  She has taken advantage 
+of several opportunities to travel the world - most notably 
+spending nearly two years working in Africa, with the 
+International Red Cross in Swaziland and with UNESCO in 
+Zimbabwe.  But she has always come back to Nunavut.  "This 
+is where my family is and this is where I will stay," she 
+tells us proudly.  This is good news for Nunavut Territory, 
+where the brain drain of talented youth is a serious 
+problem. 
+Letia Cousins is already proving herself a leader among her 
+colleagues.  She is on the Board of Directors of the Nunavut 
+Youth Abroad program and she is training to be a Nunavut 
+Justice of the Peace.  Within the GON, she is the lead 
+person in handling official visitors to Nunavut.   She is a 
+reliable interlocutor and an energetic supporter of our 
+efforts to raise the U.S. profile in Nunavut.  Letia Cousins 
+recently returned from a GON mission to Greenland, where she 
+represented Nunavut at a conference for future leaders. 
+ 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ConGen Quebec City 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: ELEO 
+NOMINEE-ID: 500 
+PERSON-ID: 381 
+BIRTH-CNTRY-ID: CA 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: EN 
+E-I-TYPE-ID: E 
+NOM-POST-ID: 6540 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 45.0101 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+DICKSON, CHARGE

@@ -1,0 +1,213 @@
+05OTTAWA2970
+CANADIAN STAKEHOLDERS' CONCERNS ON COPYRIGHT
+Tue Oct 04 00:00:00 +0200 2005
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+041821Z Oct 05UNCLAS SECTION 01 OF 03 OTTAWA 002970 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+DEPT PASS USTR FOR CHANDLER AND ESPINEL 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD KIPR CA
+SUBJECT: CANADIAN STAKEHOLDERS' CONCERNS ON COPYRIGHT 
+AMENDMENT, SPECIAL 301 OCR, AND ENFORCEMENT 
+ 
+REF: A. OTTAWA 2833 (DEMARCHE ON SPECIAL 301 
+ 
+        OUT-OF-CYCLE REVIEW) 
+     ¶B. SECSTATE 173476 (DEMARCHE ON SPECIAL 301 
+        OUT-OF-CYCLE REVIEW) 
+     ¶C. OTTAWA 1168 (CANADIAN REACTION TO GOC'S PROPOSED 
+        COPYRIGHT LAW AMENDMENTS) 
+ 
+¶1. (SBU)  Summary:  We have met again with intellectual 
+property (IP) rightsholders to discuss their views of GOC 
+moves on IPR.  Canadian industry frustration with ineffective 
+IPR enforcement continues to grow, and further review of the 
+proposed copyright amendment legislation (C-60) has revealed 
+some complexities and emerging disagreement among 
+stakeholders.  The Canadian Motion Picture Distributors 
+Association (CMPDA) also raised a new issue: camcording of 
+new-release movies in theaters, which seems to be a 
+significant problem in Canada.  End Summary. 
+ 
+COMMENTS ON PROPOSED AMENDMENTS TO THE COPYRIGHT ACT 
+--------------------------------------------- ------- 
+¶2. (SBU)  In our meetings with IP rightsholders in Ottawa and 
+Toronto, we found that most stakeholder concerns with C-60, 
+the draft legislation to amend Canada's Copyright Act, were 
+familiar (see Ottawa 1168).  However, time has fine-tuned 
+industry concerns and highlighted subtle differences in 
+stakeholder positions. 
+ 
+¶3. (SBU)  Internet Service Provider (ISP) Liability:  For 
+example, while the current USG action plan and U.S. 
+stakeholders emphasize the need for a notice-and-takedown 
+regime, Canadian industry opinions are mixed on the need to 
+push for notice-and-takedown.  The Canadian Motion Picture 
+Distributors Association (CMPDA) is satisfied with the 
+current notice-and-notice proposal in the draft legislation, 
+hoping that the record-keeping requirements for ISPs will 
+help their industry keep track of actions against online 
+infringers.  In CMPDA's view, the advent of peer-to-peer 
+filesharing has lessened the need for notice-and-takedown, 
+since fewer users are downloading their files from large 
+websites of infringing material.  On the other hand, the 
+Canadian Recording Industry Association (CRIA), Canadian 
+Alliance Against Software Theft (CAAST) and U.S.-based 
+Business Software Alliance (BSA) representatives strongly 
+believe that their industries still need a 
+notice-and-takedown regime.  This divergence seems to depend 
+on how an industry's products are pirated and how 
+recalcitrant they anticipate the GOC will be on the issue. 
+Entertainment Software Association (ESA) representatives 
+opined that the GOC "isn't going to budge" on the issue of 
+notice-and-notice, possibly because of fears that a 
+notice-and-takedown regime could be unconstitutional in 
+Canada.  C-60's general waiver of ISP liability was deemed 
+overly broad by all stakeholders; they felt that the waiver 
+of liability shouldn't be a blank check and that ISPs should 
+be held responsible for the content of their users' websites 
+once they become aware of the presence of copyright 
+infringing files. 
+ 
+¶4. (SBU)  Trafficking in circumvention "tools" (devices and 
+software): Even in this area, which generally prompts a 
+chorus seeking a ban against trafficking in tools to 
+circumvent technological protection measures (TPM), industry 
+associations were not entirely in agreement. CMPDA, CRIA, 
+CAAST, and ESA are all firmly pushing for trafficking in TPM 
+circumvention tools to be made illegal.  Currently the draft 
+legislation requires that the rightholder prove "intent to 
+infringe" for trafficking in tools to be illegal, and as one 
+industry representative points out, they already need to 
+prove intent and therefore this legislative change doesn't 
+give them any more ability to fight piracy.  Industry 
+representatives would also like a law that allows them to go 
+after the larger-scale pirates selling circumvention tools, 
+rather than continuing to have to go after the "little guys" 
+who use them. However, the Information Technology Association 
+of Canada (ITAC) represents security firms who occasionally 
+circumvent TPMs, either to test their efficacy or to create 
+fixes for various holes in the security.  ITAC says that 
+these niche activities need the protection of the "intent" 
+clause, although others argue that circumvention for reasons 
+other than infringement could be specifically exempted in the 
+legislation or could fall under 'fair use'.  Prompted by its 
+cyber-security members, ITAC therefore opposes any move to 
+make trafficking in or creating TPM circumvention tools 
+illegal and supports the current requirement to prove intent 
+to infringe.  (SBU comment:  In an off-hand remark, an ITAC 
+VP mentioned that ITAC may feel the need to "push the other 
+side" to balance the anticipated lobbying from ESA, who will 
+push strongly for trafficking in circumvention tools to be 
+illegal regardless of intent.  End comment.) 
+ 
+¶5. (SBU) Circumvention of TPMs intended to prevent access: 
+In what the CMPDA characterizes as a possible oversight in 
+the draft legislation, C-60 does not seem to make 
+circumvention of TPMs intended to prevent access (as opposed 
+to distribution) an offense.  As with other issues of TPM 
+circumvention, the major industry associations hope to fix 
+this omission in the upcoming committee hearings on the draft 
+legislation. 
+ 
+¶6. (SBU) No criminal sanctions for infringement:  CRIA, ESA 
+and CMPDA note that the WIPO treaties require "effective" 
+deterrents to copyright infringement.  C-60 as drafted does 
+not provide any criminal provisions for circumvention, which 
+CRIA and CMPDA believe will mean that Canada does not have 
+adequate legal protection and effective remedies against 
+copyright infringement.  An ESA representative pointed out 
+that the original Heritage Committee recommendations for 
+legislation included a recommendation for criminal provisions 
+for circumvention. (Comment: Per reftels, Heritage Canada's 
+stronger stance on IPR protection has been generally 
+undermined by Industry Canada's pressure for "balance."  End 
+comment.) 
+ 
+¶7. (SBU) Can C-60 be saved?:  One of the most contentious 
+insights that has arisen during recent consultations with IPR 
+stakeholders is the question of whether stakeholders even 
+want the bill to pass.  Some industry representatives 
+predicted that the bill will "die on paper" and criticized 
+the potential for amending it in committee as likely to 
+result in "a mess".  These representatives expressed the 
+expectation and hope that the legislation would be scrapped 
+and described as a best-case-scenario the legislation dying 
+after oral submissions (so that industries could make 
+comments.)  On the other hand, when asked if they wanted the 
+bill to die, other industry representative seemed surprised 
+and explained that their members would rather see this draft 
+fixed, since if the bill dies, progress will be delayed for 
+another year. 
+ 
+CUSTOMS ENFORCEMENT 
+-------------------- 
+¶8. (SBU) Numerous stakeholders noted that Justice Ministry, 
+Canadian Border Services Agency (CBSA) and Royal Canadian 
+Mounted Police (RCMP) top priorities--terrorism, the border, 
+and counterfeits with safety issues like fake 
+pharmaceuticals--do not currently leave much attention or 
+funding for copyright protection.  Anecdotal evidence of 
+progress, including RCMP training and minor counterfeit 
+seizures, was countered by general frustration over CBSA's 
+lack of power and all three agencies' inaction.  Since RCMP 
+and Customs often do not respond to industry information on 
+infringement, Embassy has requested greater industry feedback 
+on industry's own enforcement actions.  CMPDA gave an example 
+of a private seizure of 11,000 counterfeit DVDs from one 
+store in Toronto's Pacific Mall.  (After giving the owner a 
+list of counterfeit DVDs that the owner agreed to hand over, 
+CMPDA officials were not surprised to return the next day to 
+find the store completely restocked...with counterfeit DVDs.) 
+ ESA representatives also indicated that they intend to lobby 
+for more RCMP resources to combat copyright infringement; 
+they also hope to find a way for CBSA to have more power to 
+seize shipments (although ESA and CMPDA mentioned that the 
+border may become less important as Canadian-made 
+counterfeiting increases).  Obviously enforcement is an 
+ongoing issue for IPR stakeholders, and we will provide 
+further information as we receive it.  (Comment:  one contact 
+told econoff of a recent discussion with a prominent IPR 
+lawyer who suggested that industry associations not even try 
+for criminal sanctions for TPM circumvention in C-60, since 
+it would not be enforced and therefore would be just one more 
+toothless law on the books.  End comment.) 
+ 
+CAMCORDING IN THEATERS 
+----------------------- 
+¶9.  CMPDA raised a new issue in meetings last week: 
+camcording new-release movies in theaters to create 
+counterfeit DVDs that often hit the streets within hours of 
+the official movie premiers.  Because movies open in Canada 
+at the same time as in the United States, and because movies 
+in Canada are shown in both French and English, Canada has 
+become a primary source for camcorded counterfeits.  In fact, 
+according to CMPDA, of all theaters which are used for 
+camcording new-release movies, 40 percent are in Canada, with 
+the majority of that 40 percent coming from just two theaters 
+in Montreal.  CMPDA has worked with the theater owners in 
+question and is engaged in training their staff to combat 
+this activity, but without any law against camcording in 
+theaters, options are limited.  RCMP and the local police 
+can't do anything without proof of commercial intent, and 
+generally the best CMPDA can hope for is that the offenders 
+will be ejected from the theater for that particular showing. 
+ CMPDA is developing an estimate of the economic loss from 
+this sort of piracy, which they hope to use to prompt an 
+amendment to the criminal code outlawing camcording in 
+theaters. We have requested a copy of their loss estimates 
+when compiled, and we will continue to follow this issue 
+closely. 
+ 
+Visit Canada's Classified Web Site at 
+http://www.state.sgov.gov/p/wha/ottawa 
+ 
+WILKINS

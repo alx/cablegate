@@ -1,0 +1,581 @@
+06OTTAWA617
+SPECTRUM MANAGEMENT POLICIES: CANADA
+Tue Mar 07 00:00:00 +0100 2006
+UNCLASSIFIED
+Embassy Ottawa
+VZCZCXRO0993
+RR RUEHGA RUEHHA RUEHQU RUEHVC
+DE RUEHOT #0617/01 0661624
+ZNR UUUUU ZZH
+R 071624Z MAR 06
+FM AMEMBASSY OTTAWA
+TO RUEHC/SECSTATE WASHDC 1657
+INFO RUCNCAN/ALL CANADIAN POSTS COLLECTIVE
+RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS SECTION 01 OF 06 OTTAWA 000617 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS CA
+SUBJECT: SPECTRUM MANAGEMENT POLICIES: CANADA 
+ 
+REF: SECSTATE 225777 
+ 
+¶1.  The GOC's response to the questions posed in SECSTATE 
+225777 has been sent as an email attachment, with formatting 
+to make the GOC points clearer, to Mr. Frederick Matos, 
+Office of Spectrum Management, National Telecommunications 
+and Information Administration.  We recommend that others 
+interested in the GOC response view the formatted document 
+(email madere@state.gov to request formatted version.) 
+ 
+     Question 1:  Responsible Authority: Which organizations 
+are involved in spectrum management in your country?  To whom 
+are they responsible -  executive branch, legislative branch, 
+military - or are they autonomous? 
+ 
+     Organization involved in spectrum management: 
+------------------------- 
+In Canada, the federal government's Department of Industry 
+(Industry Canada (IC)) is responsible for all aspects of 
+spectrum management.  The powers of the Minister of Industry 
+with regard to spectrum management are mainly set out in the 
+following Acts and applicable regulations: the Department of 
+Industry Act, the Radiocommunication Act and the 
+Radiocommunication Regulations, and the Telecommunications 
+Act and the Canadian Telecommunications Common Carrier and 
+Ownership and Control Regulations.  The Minister of Industry 
+also acquires a lead role with regard to electronic 
+communications under the Emergency Communications Act. Within 
+Industry Canada, the following branches are involved in 
+delivering spectrum management activities: 
+--the Radiocommunications and Broadcasting Regulatory Branch 
+(DGRB), (headquarter organization) is responsible for 
+licensing, fee setting, regulatory policy, spectrum auctions, 
+spectrum management operations, regional relationships and 
+broadcast certification; 
+--the Spectrum Engineering Branch (DGSE) (headquarter 
+organization) is responsible for the establishment of the 
+technical and engineering basis for the provision and use of 
+the radio frequency spectrum and telecommunication equipment 
+in Canada; 
+--the Telecommunications Policy Branch (DGTP) (headquarter 
+organization) is responsible for developing policies dealing 
+with radio frequency spectrum usage and services in 
+accordance with the objectives of telecommunications as set 
+out in Section 7 of the Telecommunications Act. 
+--Regional and District Offices across the following five 
+regions covering the whole of Canada: Atlantic, Quebec, 
+Ontario, Prairies/Northern, and Pacific, are involved in 
+making a full range of spectrum-related services available to 
+a diverse client base. 
+ 
+     Other organizations involved in spectrum management: 
+------------------------- 
+--  The Canadian Radio-television and Telecommunications 
+Commission (CRTC) is an independent federal agency 
+(regulatory body) governed by the Broadcasting Act and the 
+Telecommunications Act.  The CRTC assigns broadcasting 
+licenses (e.g., for radio and television) under the 
+Broadcasting Act following a consultation with Industry 
+Canada which issues the concomitant broadcasting certificates 
+dealing with the technical aspects of the assignment (e.g., 
+antenna specifications, output power limits) under the 
+Radiocommunication Act.  Under the Telecommunications Act, 
+the CRTC also oversees the operation of telecommunications 
+carriers and promotes the telecommunications objectives that 
+are set out in Section 7 of the Act. 
+-- The Department of National Defense (DND) is the federal 
+government department having the overall responsibility for 
+the defense requirements of Canada.  Industry Canada has an 
+agreement with DND whereby DND is authorized to centrally 
+manage the allocation and use of the 225-400 MHz frequency 
+Qmanage the allocation and use of the 225-400 MHz frequency 
+band.  DND must obtain Industry Canada approval for the use 
+of all radiocommunications facilities and must pay license 
+fees.  DND uses a large number of shared bands with the 
+private sector. 
+--  The Department of Transport (TC) is the federal 
+government department responsible for maintaining a safe and 
+secure Canadian transportation system.  Among its many 
+activities, TC carries out certain frequency coordination 
+activities, e.g., instances involving aeronautical 
+obstruction clearances under the Air Regulations. 
+--  NAV CANADA (NAVCAN) is a not-for-profit private 
+corporation established to ensure a safe and reliable civil 
+air navigations service.  Industry Canada and NAVCAN entered 
+into an agreement authorizing NAVCAN to carry out certain 
+frequency management requirements within certain radio bands 
+allocated for aeronautical purposes, e.g., frequency 
+coordination and engineering activities such as compatibility 
+studies. 
+ 
+     Accountability of organizations involved in spectrum 
+management 
+ 
+OTTAWA 00000617  002 OF 006 
+ 
+ 
+------------------------- 
+Canada is an independent sovereign democracy governed by a 
+constitution which defines a federal system of government; 
+the powers and limits of powers that can be exercised by the 
+different levels of government (i.e., federal and 
+provincial); and the powers of the executive, legislative and 
+judicial branches of government.  Canada is governed in 
+accordance to a parliamentary system.  The following are the 
+main branches of Canada's Parliamentary System: the Executive 
+Branch consisting of the Prime Minister and Cabinet; the 
+Legislative Branch consisting of the Senate and House of 
+Commons; and the Judicial Branch consisting of the Supreme 
+Court of Canada, the Federal Court of Canada and the Superior 
+courts in the provinces. 
+ 
+     Executive Branch:  The Prime Minister and the Cabinet 
+form the Executive Branch of Parliament.  The Executive 
+Branch carries out actions authorized by Parliament and 
+governs the country.  Most Cabinet Ministers are responsible 
+for the administration of one or more government departments 
+and report to Parliament on their departments' activities. 
+The Governor in Council acts on advice of the Privy Council 
+and is the formal executive body which gives legal effect to 
+those decisions of Cabinet that are to have the force of law. 
+ 
+ 
+     Within Canada's parliamentary system, the Minister of 
+Industry is a Cabinet Minister of the Executive Branch and 
+reports to Parliament on the activities of the Department. 
+The Minister of Industry is responsible for Industry 
+Portfolio initiatives which aim at fostering the creation and 
+growth of a thriving and innovative economy.  As part of 
+these initiatives, IC is responsible for various Marketplace 
+Service Organizations including the Spectrum/Telecom Program. 
+ 
+¶2.   Assignment Process:  Please describe the mechanism(s) 
+your country uses to assign spectrum (for example, auctions, 
+lotteries, comparative hearings).  To what services and/or 
+bands are such mechanisms applied? 
+ 
+     The following describes the various assignment 
+mechanisms used in Canada and the service and/or bands to 
+which the mechanisms apply: 
+ 
+     First-Come, First-Served (FCFS) 
+------------------------- 
+The FCFS assignment process accounts for more than 95% of the 
+radio licenses currently issued. The FCFS approach is used in 
+instances where there is sufficient spectrum to meet the 
+demand in a given frequency band and where there is no 
+additional measure required to advance particular 
+telecommunications policy objectives.  The FCFS assignment 
+process is not automatic and in certain circumstances due to 
+substantial spectrum demand, IC may determine that a 
+competitive licensing process is the preferred assignment 
+mechanism. 
+ 
+     The FCFS generally applies to: 
+--most point-to-point microwave systems and conventional land 
+mobile systems where a --modest amount of spectrum is 
+required; 
+--individual land mobile frequency assignments; 
+--some point-to-multipoint applications; 
+--all satellite earth stations. 
+ 
+     Competitive Licensing Processes 
+------------------------- 
+Competitive licensing processes (both comparative review and 
+auctioning) have been used to license the following spectrum 
+resources: 
+--most frequency bands for Multipoint Communications Systems 
+(MCS) in urban areas; 
+--spectrum for public mobile telephone service; 
+--spectrum for broadband wireless access applications; 
+--fixed-satellite orbital positions. 
+ 
+     Comparative Review 
+------------------------- 
+A comparative review process is used when the demand for 
+spectrum is expected to exceed the supply or where there is a 
+Qspectrum is expected to exceed the supply or where there is a 
+need to pursue certain telecommunications policy objectives. 
+Comparative review processes were previously used to license 
+Local Multipoint Communications Systems (LMCS) in the 28 GHz 
+range, Multipoint Communications Systems at 2500 MHz and to 
+authorize the development of the Canadian satellite orbital 
+position at 118.7 degrees orbital position. 
+ 
+     Auction 
+------------------------- 
+An auction is used when the demand for spectrum is expected 
+to exceed the supply; when government policy objectives can 
+be fully met through the various means available (e.g. 
+ 
+OTTAWA 00000617  003 OF 006 
+ 
+ 
+measures such as regulations, conditions of license, 
+utilization policies, standards, and auction rules); and 
+where reliance on market forces to select licensees is deemed 
+to be in the public interest. 
+ 
+     To date, the following 4 auctions have been held: 
+--Wireless Broadband Communications in the 24 and 38 GHz bands 
+--Additional Personal Communications Services (PCS) spectrum 
+in the 2 GHz frequency range 
+--2300 MHz (Wireless Communications Services - WCS) and 3500 
+MHz (Fixed Wireless Access - FWA) 
+--2nd Phase - 2300 MHz and 3500 MHz 
+ 
+ 
+¶3.  Licensing Regime:  Please describe your spectrum 
+licensing regime.  Are licenses awarded for the provision of 
+a specific service, or a specified technology or standard? 
+Are licenses subject to renewal? 
+ 
+     Industry Canada issues 2 types of licenses:  radio 
+licenses and spectrum licenses. 
+ 
+     Radio Licenses 
+------------------------- 
+ 
+     Radio licenses are awarded to users, service providers 
+or carriers, based on the type of station used and type of 
+radio service to be provided.  In certain cases, the amount 
+of radio frequency spectrum required, or the number of 
+frequencies assigned, and the location of operations are also 
+taken into account. 
+ 
+     For the most part, radio licenses expire on March 31 of 
+each year and are renewable for a period of 12 months.  Radio 
+licenses issued for less than 30 days expire on the day 
+indicated on the licenses and are not renewable. 
+ 
+     Spectrum Licenses 
+------------------------- 
+Spectrum licenses are awarded based on the utilization of 
+specified radio frequencies within a defined geographic area. 
+ With spectrum licenses, IC generally provides licensees with 
+the maximum possible flexibility in determining the services 
+they will offer and the technologies they will employ. 
+ 
+     i)  Spectrum licenses assigned by auction: 
+ 
+     Spectrum licenses issued through auctioning are 
+generally valid for a 10 year period with expectancy of 
+renewal for a further 10 years.  (Spectrum licenses would not 
+be renewed on the basis of a breach of license condition, a 
+fundamental re-allocation of spectrum to a new service, or an 
+overriding policy.) 
+ 
+     ii)  Spectrum licenses that are not assigned by auction, 
+but by other mechanisms: 
+ 
+     With regard to spectrum licenses that are not assigned 
+through auctioning, the licensing term is determined on a 
+case-by-case basis.  For example, some point-to-multipoint 
+frequencies providing local network distribution may be 
+licensed on a FCFS basis. 
+ 
+ 
+ 
+¶4.   Licensee Privileges:  What flexibility do licensees have 
+(e.g., secondary markets) to transfer their spectrum rights 
+to other parties?  May licensees aggregate licenses or 
+subdivide them?  May licensees make all or part of their 
+spectrum available to other entities based on geography or 
+time?  May licensees accept payment in exchange for spectrum 
+access? 
+ 
+     Transfer of spectrum licenses assigned on the basis of 
+an auction 
+------------------------- 
+The spectrum licensee may transfer its license(s) in whole or 
+in part (divisibility), in both the bandwidth and geographic 
+dimensions to a qualified recipient.  Generally, the area 
+transferred may be no smaller than a single spectrum grid 
+cell.  (Grid system: For purposes of measuring coverage area, 
+a geographic grid has been developed to standardize the units 
+of measurement for a system's coverage area.  A spectrum grid 
+cell is an hexagonal figure with an area of 25 square 
+kilometers.  The grid cells fit together in an interlocking 
+pattern over the geography of Canada.) 
+ 
+     Generally, no minimum limit will be imposed on the 
+Q     Generally, no minimum limit will be imposed on the 
+amount of spectrum that can be transferred in the bandwidth 
+dimension.  However, limits may be required on the amount of 
+spectrum that can be transferred in the spectrum dimension in 
+order to respect international band channeling plans or other 
+ 
+OTTAWA 00000617  004 OF 006 
+ 
+ 
+policy needs. 
+ 
+     The transferee will only receive a license term equal to 
+that remaining on the original license, but will be eligible 
+for the same license renewal provision granted to the 
+original licensee. 
+ 
+     Under certain circumstances, Industry Canada allows for 
+the desegregation and divisibility of spectrum licenses. 
+ 
+     Where desegregation of a spectrum license is being 
+considered, a portion of the specified radio frequency block 
+may only be transferred/returned and desegregated when the 
+discrete spectrum portions may be divided, such that the 
+resulting portions remain as assignable blocks of spectrum. 
+Desegregation must be concluded in a manner which allows for 
+the portion(s) of spectrum transferred/returned and remaining 
+to respect the spectrum assignment plans as defined in the 
+applicable policy or Standard Radio System Plan. 
+ 
+     A notification of transfer is required by Industry 
+Canada for all proposed license transfers including a 
+declaration from all interested parties that the transfer is 
+in compliance with the eligibility criteria and other 
+conditions of license.   Licensees accept payments for 
+transfers. 
+ 
+     Transfer of spectrum licenses 
+------------------------- 
+The following conditions with regard to transferability 
+generally apply in cases where a spectrum license is assigned 
+through a licensing mechanism other than auctions.  In most 
+cases, the spectrum licensee does not have the enhanced 
+transferability and divisibility rights.  However, in view of 
+the fact that one of Industry Canada's objectives is to have 
+the spectrum fully utilized in the market place, an 
+application may be made to the Minister to transfer spectrum 
+licenses to a third party in circumstances where the 
+objective is not met.  While the licensee (or trustee) cannot 
+sell the licenses outright, consideration will be given to a 
+request for transfer of the license where the license 
+accompanies other business assets and is being used as part 
+of a going concern. 
+ 
+     Non-assignability of radio licenses 
+------------------------- 
+A radio license cannot be transferred or assigned without the 
+authorization of the Minister. 
+ 
+¶5.  Spectrum Fees:  What types of fees are imposed on 
+spectrum users?  How are fees calculated?  Which, if any, 
+spectrum users are exempt from fees? 
+ 
+     Fees for spectrum licenses assigned through auctioning 
+------------------------- 
+Spectrum fees for licenses assigned through auctioning are 
+established by competitive bidding. 
+ 
+     Fees for spectrum licenses assigned through other 
+mechanisms 
+------------------------- 
+Under the Department of Industry Act, the Minister may fix 
+spectrum license fees in respect of the rights and privileges 
+provided.  Common to all spectrum licenses is authorization 
+by geographical area(s) and frequency(ies) or frequency 
+block(s), rather than authority for the installation and 
+operation of an individual radio apparatus.  Prior to fixing 
+a fee, Industry Canada normally holds a public consultation 
+with all interested parties and the general public to enable 
+a review and discussion of the proposed fee.  License fees 
+are based on spectrum management costs where resource rents 
+do not exist.  When resource rents do exist, fees will ensure 
+a fair economic return to the public in addition to 
+recovering spectrum management costs. 
+ 
+     In 2003, Industry Canada established spectrum fees for 
+cellular or PCS spectrum usage as follows: 
+--the fee rate of $0.03512361 per MHz per person over the 
+geographic area of their spectrum license. 
+--The minimum yearly fee for a spectrum license is set at 
+Q--The minimum yearly fee for a spectrum license is set at 
+$1,000.  This fee is charged on an annual basis and is 
+payable in full by March 31 of each year. 
+ 
+     Fees for radio licenses in respect of radio apparatus 
+installed in a station and that authorize the use of certain 
+frequencies:  Under the Radiocommunication Regulations, fees 
+for radio licenses are set by the Governor in Council and are 
+determined by the type of station licensed and the type of 
+service used.  In certain cases, the amount of radio 
+frequency spectrum required or number of frequencies assigned 
+and the location of operations are also taken into account. 
+ 
+ 
+OTTAWA 00000617  005 OF 006 
+ 
+ 
+     The following are the various fees that may be 
+applicable to a radio license: 
+---an issuance fee (the initial issuance of a radio license) 
+the issuance fee and the monthly fee (see below) are 
+calculated from the month the license is issued to March 31 
+---a monthly fee - for the continuance in force of a radio 
+license until the radio license has expired 
+--a renewal fee - the annual fee for the renewal of a radio 
+license (before expiry on March 31 - and renewable for a 
+period of 12 months) 
+--a reinstatement fee - for the reinstatement of a radio 
+license after the license has expired on March 31 (where the 
+fee is paid during the period beginning on Apr. 1 and ending 
+Apr. 30 of the following year; and where the fee is paid 
+during the period beginning on May 1 and ending on Mar. 31 of 
+the following year) 
+--a short-term fee - for the issuance and continuance in 
+force of a radio license for a term of not more than 30 days 
+- not renewable 
+ 
+     Spectrum users exempted from licensing fees 
+------------------------- 
+All radio apparatus must be licensed under the 
+Radiocommunication Act except if only capable of receiving 
+broadcasting or if exempted by the Governor in Council under 
+the Radiocommunication Regulations.  For example: 
+--apparatus that is exempted from licensing and no licensing 
+fees apply, e.g.: 
+--radio apparatus that is set out in and meets a standard set 
+out in the License Exempt Radio Apparatus Standards List, as 
+amended from time to time 
+--radio apparatus on board an aircraft 
+--radio apparatus on board a ship or vessel 
+--radio apparatus operated in the amateur radio service at a 
+mobile or fixed station 
+--all radio apparatus that is licensed but exempt from 
+licensing fees must be prescribed by Governor in Council 
+regulation, e.g.:  foreign governments that grant a 
+reciprocal radio license fee exemption. 
+ 
+¶6.  Treatment of Government versus Commercial Users:  Are 
+government or other non-commercial users subject to different 
+rules from commercial users with respect to questions 1-5 
+above?  If yes, please describe. 
+ 
+     The radio frequency spectrum is allocated and planned to 
+advance public policy objectives while ensuring a balance 
+between public and private radiocommunication use to benefit 
+Canadians.  Industry Canada designates spectrum by type of 
+use rather than type of user.  This means that various users, 
+including government, can access many bands.  In our view, 
+this allows for a more efficient use of the spectrum than 
+portioning it for specific users or groups of users. 
+However, Industry Canada established priorities in the use of 
+frequencies for various radio services.  Safety services 
+involve protection of life and property and take precedence 
+over the following.  Generally, safety services benefit from 
+non-shared, exclusive use assignments.  Preferred services 
+are those established for industrial or business 
+communications purposes, e.g., federal and provincial civil 
+defense systems, provincial and municipal hydro electric 
+power, highways and transportation systems, systems essential 
+to the distribution and 
+maintenance of electrical, oil and gas services, etc. 
+ 
+     However, under the current regulations, radio license 
+fees are set for classes of radio stations independent from 
+the nature of the licensees.  Therefore all users, regardless 
+of their line of business or the nature of the service they 
+provide, are charged the same fee. 
+ 
+¶7.  Other Incentives: Please describe what other means (not 
+already identified) are used to encourage more efficient use 
+of spectrum through market-based incentives or other 
+Qof spectrum through market-based incentives or other 
+mechanisms. 
+ 
+     In recent years Industry Canada has introduced new 
+approaches and policies for the effective management of 
+spectrum:  Market-based mechanisms (mentioned above); 
+Spectrum licensing (mentioned above); Other mechanisms (apart 
+from market-based incentives) to encourage more efficient use 
+of spectrum: 
+ 
+     Spectrum sharing:  is employed among services in 
+particular allocations and geographical areas to increase the 
+usage of the spectrum.  (Examples of spectrum sharing 
+arrangements: 
+--Sharing by two or more often dissimilar services, that can 
+coexist in the spectrum space in a manner that they derive 
+virtually unencumbered use providing that certain technical 
+sharing parameters are applied, e.g., power limitations, 
+antenna pointing ranges. 
+ 
+OTTAWA 00000617  006 OF 006 
+ 
+ 
+--Time sharing of the spectrum, e.g., a number of lower usage 
+mobile radio users sharing the same frequency channel; 
+traffic engineering by grouping a large number of users 
+together on multi-channel systems. 
+--Spread spectrum. 
+ 
+     New technologies: often augment the efficiency and 
+flexibility of the use of spectrum.  E.g.: 
+--They are often optimized to meet communication service 
+demands and, as such, they often offer the additional benefit 
+of increasing spectrum utilization. 
+--Software-defined and cognitive radio offer the prospect of 
+increasing flexible spectrum management practices. 
+--The adoption of narrowband technology through spectrum 
+refarming. 
+ 
+     Certain approaches (efficient techniques): 
+--Under laying radio services using the noise temperature 
+concept to move regulation of interference from transmitters 
+to receivers; 
+--Re-introduction of radio receiver standards. 
+ 
+     Conditions of licenses: 
+--In certain situations, require research and development 
+(R&D) commitments, i.e., R&D role in bringing new technology 
+to marketplace. 
+--Requirement to implement within a certain timeframe to 
+ensure radio frequencies are utilized efficiently. 
+ 
+¶8.    Government Spectrum:  If not already addressed above, 
+do the provisions identified above (market-based assignment 
+mechanisms, secondary markets, fees) apply to the management 
+of spectrum used by government agencies or other non-profit 
+entities?  Please describe and identify any lessons learned. 
+ 
+     As mentioned in Question 6, under the current 
+regulations, radio license fees are set for classes of radio 
+stations independent from the nature of the licensees. 
+Therefore all users, regardless of their line of business or 
+the nature of the service they provide, are charged the same 
+fee.  However, Priority Users do not have to participate in 
+market-based approaches (e.g., auctions) to ensure that they 
+have the frequencies in the bands designated for priority 
+services.  Such users include those whose radiocommunications 
+services are vital to national sovereignty and defense, law 
+enforcement, public safety, and emergency services. 
+Furthermore, Industry Canada will continue to facilitate 
+access to spectrum for certain societal needs which would not 
+be achieved by economic factors alone.  Industry Canada 
+endeavors to ensure that spectrum is available for rural and 
+remote areas, e.g., broadband services. 
+ 
+¶9.  In-Country Contacts and Studies:  Please provide several 
+in-country contacts that are willing to discuss these issues 
+in more detail with us.  For each of these contacts, supply 
+his or her name, title, organization, postal address, email 
+address, telephone, and fax numbers.   Also, please provide 
+all publicly available spectrum studies of market-based 
+economic mechanisms (such as incentives). 
+ 
+     Peter Hill, Director, Spectrum Management Operations 
+(613) 980-7176 
+ 
+     Fern Lger, Director, Spectrum and Radio Policy  (613) 
+998-4470 
+ 
+     Bill Graham, Director, International Telecommunications 
+Policy and Coordination, (613) 998-4478 
+ 
+Visit Canada's Classified Web Site at 
+http://www.state.sgov.gov/p/wha/ottawa 
+ 
+WILKINS

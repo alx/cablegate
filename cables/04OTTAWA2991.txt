@@ -1,0 +1,186 @@
+04OTTAWA2991
+CANADIAN PRIVACY LAW AND POLICY:  BACKGROUND
+Mon Nov 08 00:00:00 +0100 2004
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+082016Z Nov 04UNCLAS SECTION 01 OF 02 OTTAWA 002991 
+ 
+SIPDIS 
+ 
+STATE FOR EB/EWH, WHA/CAN, WHA/EPSC - J.YOUNG 
+ 
+STATE ALSO FOR L/LEI - PROPP 
+ 
+DEPT PASS USTR FOR CHANDLER 
+ 
+USDOC FOR ITA - WORD, FOX, HERNANDEZ 
+ 
+USDOC PASS ITC - SCHLITT AND JENNINGS 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD EINV CA
+SUBJECT:  CANADIAN PRIVACY LAW AND POLICY:  BACKGROUND 
+ 
+REF:  VANCOUVER 1450 
+ 
+SUMMARY/ INTRODUCTION 
+--------------------- 
+ 
+¶1. On October 29, the Information and Privacy Commissioner 
+for the Canadian Province of British Columbia released a 
+report titled "Privacy and the US Patriot Act."  The report 
+(reftel) finds a "general consensus" that, under the Patriot 
+Act, U.S. authorities could order a U.S.-based corporation 
+to produce records held in Canada.  The example in question 
+is personal health data on Canadian citizens which the 
+corporation might hold as part of a data services 
+arrangement with a Canadian province's health ministry.  On 
+November 4, in an annual report, the Privacy Commissioner of 
+Canada proposed (among other things) an audit of the cross- 
+border flow of Canadians' personal information and the 
+impact this may have on their rights to privacy. 
+ 
+¶2.   These reports have intensified discussion in Canada of 
+privacy issues, particularly those raised by the interplay 
+of the world's largest cross-border commercial relationship 
+with U.S. law enforcement and counterterrorist activity.  As 
+background to inevitable USG participation, this message 
+outlines the Canadian context of such issues.  END 
+SUMMARY/INTRODUCTION 
+ 
+CANADIAN LEGAL CONTEXT 
+---------------------- 
+ 
+3.There are two key Canadian laws governing privacy: 
+ 
+-- The 1983 Privacy Act required some limits on the GOC's 
+collection, use and disclosure of personal information, and 
+gave Canadians the right to access and correct it. 
+ 
+-- The 2001 Personal Information Protection and Electronic 
+Documents Act (PIPEDA), which extended privacy protections 
+beyond the federal government to personal information 
+collected in any commercial activity. 
+ 
+4.Key guidelines of PIPEDA are that (a) the individual's 
+knowledge and consent are required; (b) purposes must be 
+identified at or before the time of collection, and the 
+information cannot be used or disclosed for other purposes; 
+and (c) individuals generally must be given access to the 
+information about themselves, and be able to challenge it. 
+ 
+5.The key difference between the Canadian and U.S. legal 
+approaches to privacy is that independent offices, called 
+Privacy Commissioners, exist to enforce these laws at both 
+the federal and provincial levels in Canada.  While these 
+officials' direct power is constrained by their very limited 
+staff resources, they comment regularly on privacy issues 
+(including on government policy and legislation) through 
+publications, media, and Parliamentary channels, and their 
+views are widely reported.  The federal Privacy 
+Commissioner's website is privcom.gc.ca. 
+ 
+ 
+HISTORY OF ISSUES 
+----------------- 
+ 
+6.EU DIRECTIVE:  Beginning in 1995, the European Union's 
+Policy Directive on Personal Data accented differences 
+between EU and US practices, and threatened to bar the 
+commercial transmission of personal data across the 
+Atlantic.  Canada's privacy regime, with its (albeit modest) 
+enforcement capacity, was significantly closer to the EU 
+model than the United States'.  While the EU and the United 
+States spent several years negotiating USDOC's "safe harbor" 
+compromise, the GOC responded by developing the legislation 
+which eventually resulted in PIPEDA. 
+ 
+7.CUSTOMER DATA:  Throughout Canadian society in the late 
+1990's, as in the United States, there was heightened 
+concern about telephone and Internet privacy: 
+telemarketing, customer "loyalty" or "reward" programs, the 
+sale of mailing lists and other customer data, and the 
+collection and distribution of personal information through 
+the Internet.  These mainly focussed on practices in the 
+private sector, rather than in government.  Privacy 
+Commissioners commented extensively on these issues, which 
+PIPEDA was also intended to address. 
+ 
+¶8. OPENING MAIL:  In 2001, the federal Privacy Commissioner 
+successfully rolled back Canadian customs officials' right 
+to open international mail.  Until then, customs inspectors 
+could not open letters under 30 grams without consent or a 
+warrant, but they could legally open any correspondence 
+contained in a larger package, such as a courier envelope. 
+The GOC admitted that this was done regularly to assist in 
+the enforcement of immigration law.  Immigration lawyers 
+appealed to the Privacy Commissioner, who persuaded the GOC 
+to exclude the weight of courier envelopes from the 30-gram 
+rule. 
+ 
+9/11 REACTION 
+------------- 
+ 
+¶9.   In the rush to enact anti-terrorist measures in both 
+Canada and the United States in the wake of September 11, 
+2001, advocates viewed privacy rights as being threatened by 
+over-hasty government action.  In addition, Canada's federal 
+Privacy Commissioner repeatedly cautioned the GOC against 
+relying too heavily on pressure from the USG as a 
+justification for its measures.  In his view, national 
+security could well provide reasonable grounds for 
+diminishing Canadians' privacy rights, but the GOC had to do 
+so in a Canadian legal context.  In his words, "The 
+Americans made us do it" could not be a sufficient excuse. 
+ 
+PUBLIC SAFETY ACT 
+----------------- 
+ 
+¶10. The GOC unveiled an extensive Public Safety Act which 
+worked its way through Parliament during 2003, to close 
+scrutiny from the media and the Privacy Commissioners.  Much 
+of the Act dealt with transportation security questions, 
+such as the provision of airline passenger data to the 
+federal police and intelligence services (RCMP and CSIS).  A 
+key issue in this context was the extent to which this data 
+might be used not just for counter-terrorist purposes, but 
+for broader law enforcement and surveillance.  Again, the 
+Privacy Commissioner stressed that if this were to occur, it 
+should be done transparently and not hidden behind a "mask" 
+of counter-terrorism.  The Act also touched on other privacy 
+issues, such as federal authorities' access to financial 
+records of non-governmental organizations. 
+ 
+STATUS AND NEXT STEPS 
+--------------------- 
+ 
+¶11.   At the beginning of 2004, PIPEDA became applicable 
+across the private sector, i.e. to all personal data 
+gathered in the course of commercial activity.  Enforcement 
+of PIPEDA (and its provincial equivalents) is complaints- 
+driven and is expected to be constrained by the size of 
+Privacy Commissioners' staffs.  The Public Safety Act became 
+law on May 6, 2004.  The appropriate use of airline 
+passenger data continues to be discussed both within Canada 
+and between U.S. and Canadian authorities. 
+ 
+¶12.  GOC privacy concerns and constitutional constraints 
+present significant barriers to information sharing with the 
+U.S. law enforcement community.  In 2002, as part of our 
+efforts to facilitate the Border Action Plan, Embassy 
+recommended a joint USG-GOC review of privacy regimes in 
+order to provide for effective law enforcement, national 
+security, the rule of law, and protection of constitutional 
+liberties. 
+ 
+¶13.  While the Public Safety Act was before Parliament in 
+2002-2004, Embassy made efforts to raise the level and 
+frequency of our contacts with the federal Office of the 
+Privacy Commissioner (OPC).  These efforts - and the work of 
+the Office - were disrupted by an administrative and 
+financial scandal at OPC in 2003, and we intend to renew 
+them in coming months. 
+ 
+CELLUCCI

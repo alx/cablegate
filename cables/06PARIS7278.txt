@@ -1,0 +1,75 @@
+06PARIS7278
+FRANCE:  BLUE LANTERN LEVEL 3:  PRE-LICENSE END USE
+Tue Nov 07 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+null
+Lucia A Keegan  11/08/2006 10:07:52 AM  From  DB/Inbox:  Lucia A Keegan
+
+Cable 
+Text:                                                                      
+                                                                           
+      
+UNCLAS    SENSITIVE     PARIS 07278
+
+SIPDIS
+cxparis:
+    ACTION: ECON
+    INFO:   ECSO SCI LABO ENGO SCIO TRDO FCS POL ESCI ORA
+            AMB AGR DCM ECNO UNESCO
+
+DISSEMINATION: ECONOUT /1
+CHARGE: PROG
+
+APPROVED: ECON:SDWYER
+DRAFTED: ECON:HSULLIVAN
+CLEARED: NONE
+
+VZCZCFRI795
+RR RUEHC RUEHOT
+DE RUEHFR #7278 3111628
+ZNR UUUUU ZZH
+R 071628Z NOV 06
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 2933
+INFO RUEHOT/AMEMBASSY OTTAWA 1998UNCLAS PARIS 007278 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+STATE FOR PM/DTCC - BLUE LANTERN COORDINATOR 
+OTTOWA FOR ROBERT MERRIGAN 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC FR CA
+SUBJECT:  FRANCE:  BLUE LANTERN LEVEL 3:  PRE-LICENSE END USE 
+CHECK ON LICENSE DA1023-06 
+ 
+REF:  STATE 169012 
+ 
+¶1. (SBU) Per reftel, Post Blue Lantern Action Officer contacted 
+the French company CEO Jean-Marc Gardin regarding export license 
+DA1023-06, involving the export of components for flight 
+simulators to Canadian firm CAE.  According to Garden, the 
+distribution agreement between Thales Electronics, BEI Sensors, 
+and CAE, Inc. conforms to the terms of export license DA1923-06. 
+ Thales has also confirmed that all of its end-users under this 
+distribution agreement are not prohibited from receiving 
+U.S.-origin defense articles, as stipulated by the International 
+Traffic in Arms Regulations (ITAR) section 126.1.  He said that 
+he realizes that the end users of this equipment must reside in 
+certain, specified countries and that this list evolves.  Thales 
+takes care to ensure that it conforms to the evolving list. 
+ 
+¶2. (SBU) Gardin told us that Thales has done business with CAE 
+Canada since 1997.  It has delivered five IESIs containing the 
+QRS-11 for use in flight simulators on the following dates: 
+July 29, 2005; November 30, 2005; January 3, 2006; March 1, 
+2006, and March 30, 2006.  He said that for each transaction 
+Thales explicitly disclosed to CAE that the hardware contained 
+U.S. origin components.  It also advised CAE regularly and at 
+various levels on the restrictions governing the unauthorized 
+re-transfer of IESI's equipped with U.S.-origin components. 
+ 
+STAPLETON

@@ -1,5 +1,5 @@
 $LOAD_PATH << '../leakspin/lib'
-
+require 'rubygems'
 require 'date'
 require 'fileutils'
 
@@ -17,7 +17,7 @@ require 'models.rb'
 # Globals
 #
 
-$basedir = '.'
+$basedir = '..'
 
 $dated_cables = {}
 $tags = []
@@ -354,4 +354,4 @@ write_index(Dir.glob(File.join($basedir, "/cables/*.txt")).count, latest_update)
 write_section_all
 write_section_origin
 write_section_classification
-write_trombinoscope
+#write_trombinoscope

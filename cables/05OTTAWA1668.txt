@@ -1,0 +1,249 @@
+05OTTAWA1668
+FY 2006 IVLP Individual Program - Peter Gregg
+Fri Jun 03 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+031422Z Jun 05UNCLAS SECTION 01 OF 03 OTTAWA 001668 
+ 
+SIPDIS 
+ 
+STATE 
+ 
+SECSTATE FOR ECA/PE/V/R/W - EWILKES-SCOTT; 
+WHA/PDA - JCARPENTER-ROCK; 
+MONTREAL, TORONTO AND VANCOUVER FOR PAOS AND CONGENS; 
+HALIFAX AND QUEBEC FOR CONGENS; 
+CALGARY FOR PA FIELD REP; CALGARY PLEASE PASS TO WINNIPEG 
+ 
+E.O. 12958: N/A 
+TAGS: KPAO OEXC SCUL CA IV
+SUBJECT: FY 2006 IVLP Individual Program - Peter Gregg 
+(Principal Candidate) 
+ 
+REFERENCE:  OTTAWA 1504 
+ 
+¶1.   Post is pleased to nominate Peter Gregg, Vice 
+President, Corporate Communications, Hydro One, Toronto for 
+a 21-day individual project on U.S. Energy Policy and 
+Security.  Mr. Gregg has full country team approval.  EVDB- 
+formatted nomination follows. 
+ 
+¶2. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: slw@pd.state.gov 
+TRANSMITTING-POST: PAS Ottawa 
+TRANSMITTING-POST-ID: 6540 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VRW 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 336 
+ECA-PROJ-NO: 
+PROJ-NAME: Gregg, Peter - Individual 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 19 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1037 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 6540 
+FUNDING-CNTRY-ID: 322158 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Energy 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Peter 
+M-NAME: 
+L-NAME: Gregg 
+SUFFIX: 
+POSITION-CODE: 128 
+PRINCIPAL?: Yes 
+M-ADDR1: 1128 Manor Road 
+M-ADDR2: 
+M-ADDR3: 
+M-CITY: Oakville 
+M-STATE: Ontario 
+M-CNTRY: Canada 
+M-ZONE: L6M 1G4 
+M-ZIP: 
+M-PHONE: 416-776-3709 
+M-FAX: 
+M-EMAIL: peter.gregg@HydroOne.com 
+M-CNTRY-ID: CA 
+M-ADDRTYPE: 
+GENDER: M 
+DOB: 07/06/1967 
+MAR-STAT: 
+BIRTH-CITY: Guelph, Ontario 
+BIRTH-CNTRY: Canada 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+2005:Vice President, Corporate Communications, Hydro One 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+2000-2004, GREATER TORONTO AIRPORTS AUTHORITY, GENERAL 
+MANAGER, CORPORATE AFFAIRS AND COMMUNICATIONS. 
+1997-2000 - DIRECTOR OF COMMUNICATIONS, OFFICE OF THE 
+MINISTER OF TRANSPORTATION, OTTAWA; 
+1993-1997 - EXECUTIVE ASSISTANT TO JULIAN REED, MEMBER OF 
+PARLIAMENT; 
+CHIEF RESEARCHER FOR THE CHAIRMAN OF THE LIBERAL CAUCUS 
+RENEWABLE FUELS TASK FORCE 
+ 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+short vacations only 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1992 - UNIVERSITY OF TORONTO, GRADUATE STUDIES IN ENGLISH 
+LITERATURE; 
+1991 - UNIVERSITE DE LAUSANNE, FRENCH LANGUAGE CERTIFICATE; 
+1991 - B.A., CARLETON UNIVERSITY 
+ 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+MEMBER - INTERNATIONAL ASSOCIATION OF BUSINESS 
+COMMUNICATORS; 
+PRESIDENT - HALTON FEDERAL LIBERAL RIDING ASSOCIATION 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: English 
+ENGL-READ: 0 
+ENGL-SPEAK: 0 
+ENGL-COMP: 0 
+START OTHER-LANGS: 
+OTHER-LANG: French 
+OTHER-LANG-ID: FR 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: PAO Nick Giacobbe 
+START MEMO NOMINATING-JUSTIFICATION: 
+Peter Gregg is Vice President Corporate Communications for 
+Hydro One, North America's largest electricity delivery 
+company.  Hydro One focuses on planning, building, managing 
+and maintaining electrical transmission and distribution 
+networks that serve Ontario.  Other business ventures 
+include the marketing of excess fibre-optic capacity to 
+telecommunications carriers and commercial customers. 
+Prior to coming to Hydro One, Gregg was communications 
+director at Toronto's Pearson International Airport, 
+Canada's busiest airport, handling 28.9 million passengers 
+in 2000.  Established in 1939, Pearson currently handles 
+more than 1,200 arrivals and departures each day - or more 
+than 426, 506 aircraft movements last year.  By the year 
+2020 the number of passengers passing through the airport's 
+gates is expected to reach 50 million.  Gregg successfully 
+lobbied the Canadian Federal government to consider 
+introducing changes to the airport and airline security 
+regulations post-September 11.  He played a major role in 
+influencing the nature of public policy with respect to the 
+federal government's National Airports Policy.  Gregg not 
+only represented Pearson Airport but the entire Canadian 
+Airport industry as public affairs spokesperson during the 
+immediate response to the aftermath of September 11.  He 
+established the GTAA as the point of contact for national 
+media with respect to transportation issues. 
+His connections with the Federal Liberal Party enabled him 
+to help guide legislation on behalf of the Minister of 
+Transportation through the Canadian House of Commons and the 
+Senate on numerous occasions including amendments to the 
+Canadian Transportation Act and the National Marine Act. 
+His participation in an IV program will provide long-term 
+benefits to meet the energy and security/border cooperation 
+goals, as well as the growing need to address the 
+infrastructure and restructuring of electricity transmission 
+grids between Ontario and the United States. 
+ 
+ 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ConGen Toronto 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: NONE 
+NOMINEE-ID: 506 
+PERSON-ID: 225 
+BIRTH-CNTRY-ID: CA 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: EN 
+E-I-TYPE-ID: N 
+NOM-POST-ID: 6540 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 15.0503 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+DICKSON, CHARGE

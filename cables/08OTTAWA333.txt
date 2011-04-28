@@ -1,0 +1,323 @@
+08OTTAWA333
+
+Tue Mar 04 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Ottawa
+VZCZCXRO5135
+RR RUEHHA RUEHQU RUEHVC
+DE RUEHOT #0333/01 0642202
+ZNR UUUUU ZZH
+R 042202Z MAR 08
+FM AMEMBASSY OTTAWA
+TO RUEHC/SECSTATE WASHDC 7456
+INFO RUEHBS/USEU BRUSSELS 0623
+RUEHMO/AMEMBASSY MOSCOW 2194
+RUEHMD/AMEMBASSY MADRID 2169
+RUEHLI/AMEMBASSY LISBON 0191
+RUEHKO/AMEMBASSY TOKYO 3343
+RUEHLO/AMEMBASSY LONDON 0914
+RUEHNY/AMEMBASSY OSLO 2360
+RUEHRK/AMEMBASSY REYKJAVIK 0030
+RUEHCP/AMEMBASSY COPENHAGEN 2331
+RUEHBY/AMEMBASSY CANBERRA 1335
+RUEHWL/AMEMBASSY WELLINGTON 0246
+RUEHBJ/AMEMBASSY BEIJING 2238
+RUEHUL/AMEMBASSY SEOUL 1512
+RUEHHA/AMCONSUL HALIFAX 2920
+RUEHVC/AMCONSUL VANCOUVER 2620
+RUEHQU/AMCONSUL QUEBEC 5331
+RUCPDC/NOAA WASHDC
+RUCPDOC/USDOC WASHDCUNCLAS SECTION 01 OF 04 OTTAWA 000333 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE FOR OES AND WHA/CAN 
+ 
+COMMERCE FOR NMFS 
+ 
+E.O. 12958: N/A 
+TAGS: EFIS EWWT PHSA SENV CA
+SUBJ:  INTERNATIONAL OCEANS POLICYMAKING IN CANADA: 
+AMBITIOUS VISION, PAROCHIAL POLITICS 
+ 
+REF:  OTTAWA 0094 (notal) 
+ 
+¶1. (U) This message is sensitive, but unclassified.  Not for 
+distribution outside USG channels. 
+ 
+¶2. (SBU) SUMMARY/INTRODUCTION:  As they envision a global role, 
+Canada's policymakers in the Department of Fisheries and Oceans 
+(DFO) draw heavily upon Canadians' popular self-image as being 
+active multilateralists, international consensus brokers, and (at 
+least aspiring) leaders in resource stewardship.  DFO brings some 
+important strengths to the international table, including 
+respectable scientific and operating capabilities, many 
+international linkages, and (more or less) a single federal 
+government ministry overseeing policy in this area (which 
+facilitates decisions, though it may reduce their quality). 
+ 
+¶3. (SBU) At the same time, DFO suffers from some severe weaknesses 
+as a policy-making department.  DFO has yet to live down the blame 
+for the collapse of the once-immense Northwest Atlantic groundfish 
+(cod) resource in the early 1990s, nor the blame for its leading 
+role during the preceding decade in Canada's mismanagement of the 
+labor and industries that relied on fisheries.  DFO's policy-making 
+and fish management machinery appears to have remained largely 
+unreformed since the cod collapse.  Bureaucratically, DFO is 
+horizontally disintegrated, with weak links to other departments, 
+and large, semi-autonomous regional branches. 
+ 
+¶4. (SBU) Finally and most seriously, the political-electoral context 
+in which DFO Ministers operate makes them highly responsive to 
+parochial pressures in a few coastal regions (particularly 
+Newfoundland and Nova Scotia), and leaves them with few or no 
+incentives to consider the broad national interest, nor 
+international matters (except possibly as a source of external 
+enemies and scapegoats).  There may yet be good results from 
+Canada's global oceans policy vision, but in our view, such results 
+would have to be realized in spite of, rather than due to, DFO's 
+Ministers, the DFO Department, and Canadians' own experience.  END 
+SUMMARY/INTRODUCTION. 
+ 
+BACKGROUND 
+---------- 
+¶5. (SBU) Since the collapse of the Northwest Atlantic groundfish 
+resource in the late 1980s and early 1990s, and the bitterly 
+reluctant cessation of cod fishing in 1993, Canada's Department of 
+Fisheries and Oceans (DFO) has been living down its role in that 
+collapse.  Most outside experts view Canada's governments, led by 
+DFO with the complicity of other federal and provincial departments, 
+as having caused the destruction not only of the resource but also 
+of the East Coast maritime economy. 
+ 
+¶6. (SBU) The beginning of the end is generally held to have been 
+1977, when the extension of Canada's exclusive economic zone (EEZ) 
+to 200 nautical miles inaugurated a rush to exploit newly staked 
+offshore resources.  As the story is usually told, DFO and other 
+government agencies facilitated the overexpansion of the fishery for 
+more than a decade through a complex of mistaken policies: 
+Qmore than a decade through a complex of mistaken policies: 
+subsidizing the acquisition of boats and gear, building fish 
+processing infrastructure in as many locations as possible, 
+enriching income support programs (notably unemployment insurance) 
+that caused young workers to choose the fishery over schooling or 
+alternate occupations, expanding fishing quotas while biasing or 
+ignoring scientific advice, and under-investing in enforcement. 
+ 
+¶7. (U) Groundfish catches fell steeply in the early 1990s until the 
+government introduced a moratorium on cod fishing in 1993, with the 
+hope that the stocks would begin to recover in a year or two.  This 
+did not occur.  While federal and provincial government programs 
+were adapted to suit the new circumstances, they continued to keep 
+people attached to the fishery and to maintain capacity.  Some fish 
+ 
+OTTAWA 00000333  002 OF 004 
+ 
+ 
+catching and processing capacity was mothballed, but much effort was 
+redirected to shellfish and previously "under-utilized" species. 
+These have largely turned out to be high-value and have yielded good 
+incomes.  So far these species seem to have avoided the fate of the 
+cod, though observers suggest this is due to their shorter life 
+cycles and higher reproductive rates, rather than to implementation 
+of "lessons learned" in fish management. 
+ 
+ 
+¶8. (U) DFO tried for some years to attribute the cod collapse to 
+environmental or other factors (temperature change, seals), and one 
+Minister (Brian Tobin) attained folk-hero status by dramatically 
+highlighting the culpability of foreign long-distance fleets. 
+However, most independent observers (and many within the GOC) saw 
+GOC policies, and particularly DFO fish management practices over 
+the long run, as having been primarily responsible, with strong 
+encouragement from successive provincial governments, particularly 
+in Newfoundland-Labrador. 
+ 
+BOLD VISION 
+----------- 
+¶9. (U) In 1997 Canada passed a law called the "Oceans Act" which it 
+presented as a model for the future. DFO created a new Oceans 
+Directorate, and the Act mandated DFO to develop an "overall 
+strategic approach to oceans management" based on sustainable 
+development, integrated management, and the precautionary approach. 
+This led DFO into a decade of policy and "strategy" development 
+exercises.  In 2005, funds were allocated to implement the first 
+phase of an Oceans Action Plan, and significant progress has been 
+made toward creating Marine Protected Areas (MPAs). 
+ 
+¶10. (U) Cynics could say that DFO eventually came to terms with the 
+cod collapse by describing it as part of a "global problem with many 
+underlying causes."  DFO's approach to overfishing is now expressed 
+in its "International Fisheries and Oceans Governance Strategy," or 
+IFOGS.  According to IFOGS, a "holistic approach" is needed to 
+combat global overfishing, including monitoring and surveillance, 
+diplomacy, better governance of regional fisheries management 
+organizations, and greater scientific understanding (particularly of 
+straddling and highly migratory stocks). 
+ 
+¶11. (SBU) While these "strategic policy" exercises no doubt reflect 
+a sincere effort by DFO to learn from the past and broaden its view, 
+there is no perception among Canadians that the system that 
+mismanaged the cod through the 1980s has been reformed, or that DFO 
+has admitted the magnitude of its responsibility.  DFO remains more 
+or less solely responsible for managing Canada's marine fisheries, 
+under the same political calculus and using more or less the same 
+systems that have prevailed for decades.  An update to the 
+140-year-old fisheries law is currently before Parliament, and this 
+partly reflects an effort to de-politicize fish management. 
+Nevertheless, DFO officials downplay the legislation - billing it as 
+"just trying to catch up and codify what present practice is" 
+Q"just trying to catch up and codify what present practice is" 
+(reftel) - reinforcing the impression that little has really 
+changed. 
+ 
+IMPORTANT STRENGTHS - AND WEAKNESSES 
+------------------------------------ 
+ 
+¶12. (U)  As a policy-making organization, DFO has some important 
+real or at least potential strengths, yet on examination, these tend 
+not to be utilized.  Examples include the following: 
+ 
+¶13. (U) SCIENCE - DFO has a large, diverse scientific establishment 
+which is relatively autonomous and is located in institutes and 
+field offices far from Ottawa.  The problems of managing this 
+establishment are not unique to DFO, rather they are common to most 
+research organizations (succession planning, knowledge management, 
+long-term budgeting).  More problematic is whether and how DFO 
+ 
+OTTAWA 00000333  003 OF 004 
+ 
+ 
+policymakers have based their decisions on the knowledge generated 
+by this establishment.  It is now widely believed that, at least in 
+the years around the collapse of the cod stocks, much scientific 
+advice about fish management was distorted and/or ignored, and 
+scientists were pressured not to complain publicly about this. 
+While these practices may have been reformed, there is no such 
+perception among other stakeholders.  As a result, while DFO has 
+strong scientific assets, its credibility does not benefit 
+accordingly. 
+ 
+¶14. (U) INTERNATIONAL LINKAGES - DFO offices, and particularly its 
+operational and scientific staff, have strong and diverse 
+international connections.  A study at the end of 2006 found the 
+department's employees had some 400 recent or ongoing international 
+activities, which could be classed into navigation/safety/security 
+(30%), science and hydrography (28%), policy, trade and development 
+(22%) and fisheries and conservation (20%).  (More than half of 
+these 400 international activities involved the United States, and 
+this measurement did not capture a significant amount of additional 
+informal contact).  As with operational and scientific knowledge, 
+these international linkages appear to offer rich source data for 
+DFO to develop international policy, but this data was scattered, 
+hard to collect, and not being utilized. 
+ 
+¶15. (U) SINGLE POLICY SHOP - DFO international policy staff proudly 
+note that they run Canada's "single policy shop" on international 
+fisheries and oceans issues, in that the Department shares very 
+little of its jurisdiction with provincial governments or other 
+federal departments.  (The Department of Foreign Affairs and 
+International Trade (DFAIT) substantially cedes international 
+fisheries and oceans policy to DFO).  Unfortunately, there is a flip 
+side to this coin:  policy may lack the robustness that can be 
+conferred by inter-agency process.  DFO's links to other departments 
+and agencies appear to be surprisingly weak (in the case of Foreign 
+Affairs or Environment Canada) or non-existent (in the case of the 
+Canadian International Development Agency).  Even the Canadian Coast 
+Guard and the Canadian Hydrographic Service - two significant 
+agencies which formally report to the Minister of Fisheries and 
+Oceans - are protective of their separate identities, and seem to 
+play down their links to the department. 
+ 
+¶16. (U) OPERATIONAL CAPACITY - For a Canadian government 
+organization, a remarkably high proportion of DFO's personnel are 
+"boots on the ground" (or on the wharf, on deck, or in the chart 
+room) who work out of regional and local offices and serve in 
+operational roles such as the Coast Guard, the Hydrographic Service, 
+small harbor management and construction, navigational systems, 
+fisheries management and enforcement, and fish habitat protection - 
+not to mention science (below). 
+ 
+¶17. (SBU) Though the policymaking function must compete against all 
+Q17. (SBU) Though the policymaking function must compete against all 
+these operational concerns for the attention of the Minister and 
+Deputy Minister, policymaking can also draw upon a very large number 
+of contacts with reality, and the Department has a direct and 
+visible role in stakeholder communities which should give it a 
+useful "voter constituency."  Unfortunately, these potential 
+strengths are not fully realized; too many of those in policy 
+development roles have virtually never been on a ship and are 
+unlikely to stay long in the Department, while DFO's presence in 
+communities can merely cause its decisions to be skewed by local 
+electoral concerns. 
+ 
+THE FATAL FLAW:  REGIONAL POLITICS 
+---------------------------------- 
+ 
+ 
+¶18. (SBU) Which brings us to what, in Embassy Ottawa's view, is the 
+most serious challenge to Canadian fisheries and oceans 
+policymaking:  regional electoral politics.  All of the weaknesses 
+ 
+OTTAWA 00000333  004 OF 004 
+ 
+ 
+mentioned so far could arguably be overcome or mitigated by reform. 
+It is much harder to see what can be done about the decisive 
+concentration of fishery-related votes in certain provinces of 
+Canada. 
+ 
+¶19.  (SBU) In Newfoundland-Labrador, Prince Edward Island (PEI), the 
+territory of Nunavut, and parts of Nova Scotia (NS), New Brunswick 
+(NB), Quebec and British Columbia (BC), marine-based economic 
+activity is a principal economic driver, so that fishery votes 
+really matter to electoral outcomes.  (This contrasts sharply with, 
+for example, the States of Washington, Massachusetts, Florida and 
+California, where fishery-related issues are tiny compared with 
+other industries and concerns in those diverse, wealthy regional 
+economies).  Indeed, in Newfoundland and Labrador, issues like the 
+governance/reform of a regional fishery management organization like 
+the North Atlantic Fishery Organization (NAFO), or the denial of 
+port privileges to foreign long-distance fishing fleets - questions 
+which might seem obscure in other jurisdictions - draw intense voter 
+attention. 
+ 
+¶20. (SBU) In Canadian general elections, where it takes as little as 
+100-120 seats to win federal power, ten or more seats in Atlantic 
+Canada can easily tilt on fishing issues:  three to seven in 
+Newfoundland-Labrador, and two or three in each of NS, NB, PEI and 
+Quebec.  Normally, the top political concern of Canada's Minister of 
+Fisheries and Oceans, a mid-level cabinet minister who more often 
+than not holds one of these seats, is to deliver as many of them as 
+possible to candidates for his/her political party. (The current 
+Minister, Loyola Hearn, represents a riding in 
+Newfoundland-Labrador.)  International policymaking is guaranteed to 
+be subordinate in the Minister's calculations, if it figures at all. 
+ This narrow focus is likely to tighten even further in the next 
+federal election as the Minister will have to overcome regional 
+hostility over an ongoing dispute between Ottawa and the Atlantic 
+provinces concerning Ottawa's treatment of natural resource 
+revenue. 
+ 
+CONCLUSION/COMMENT 
+------------------ 
+ 
+¶21. (SBU) Our conclusion is that too much of the crafting of 
+Canada's international fisheries and oceans policy positions, and 
+too much of the diplomatic work, falls to a few senior DFO officials 
+without the benefit of an interagency process or ministerial 
+engagement.  But solution of these institutional-bureaucratic 
+problems is at least a possibility (though the companies and fishers 
+that currently influence DFO would likely resist).  Even so, that 
+would leave policymakers with the constraints of regional electoral 
+politics.  While offshore oil development has wrought some change in 
+eastern Newfoundland, and economic growth and resource developments 
+have amazing power to transform "have-nots" into "haves," there 
+seems little current prospect that such fishing-reliant 
+constituencies will develop enough dramatic new economic drivers to 
+Qconstituencies will develop enough dramatic new economic drivers to 
+dilute the power of the "fish vote." 
+ 
+WILKINS
