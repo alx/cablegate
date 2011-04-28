@@ -1,0 +1,148 @@
+09STATE118567
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Tue Nov 17 00:00:00 +0100 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXRO0663
+RR RUEHQU
+DE RUEHC #8567/01 3211723
+ZNR UUUUU ZZH
+R 171719Z NOV 09
+FM SECSTATE WASHDC
+TO RUEHOT/AMEMBASSY OTTAWA 0375
+RUEHQU/AMCONSUL QUEBEC 0815
+INFO RHMCSUU/FBI WASHINGTON DC 6930
+RUEAIIA/CIA WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 6051
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS SECTION 01 OF 02 STATE 118567 
+ 
+SIPDIS 
+OTTAWA FOR LORI BALBI 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC CA
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON THE EXPORT OF U.S. DEFENSE ARTICLES CITING THE CANADIAN 
+EXEMPTION 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Embassy's assistance in 
+conducting a post-shipment check on transactions citing the 
+Canadian exemption for the export of satellite flight 
+hardware to Canada.  Embassy is requested to complete this 
+Blue Lantern check within 45 days.  Lack of response to a 
+Blue Lantern check will affect pending and future licenses 
+involving parties to this license. 
+ 
+¶3. Reason for request: Under ITAR 126.5 (Canadian Exemption), 
+certain United States Munitions List (USML) items may be 
+exported to Canada without a license.  Some items on USML 
+Category XV - which includes satellite flight hardware - may 
+require a license depending on commodity specification and 
+type.  DDTC requests this check based on vague description of 
+commodity and end-use in export filing.  DDTC notes that 
+end-user Macdonald, Dettwiler and Associates (MDA) has 
+appeared on numerous DDTC licenses and is a bona fide 
+recipient of USML items. 
+ 
+¶4. ACTION OTTAWA: Mission Canada is requested to make 
+inquiries with appropriate MDA officials to obtain all 
+relevant details regarding the export of satellite flight 
+hardware to Canada citing the Canadian exemption, including 
+the exact description, number, type, dollar value, and serial 
+number of items. 
+ 
+The following questions are provided as suggested guidance: 
+ 
+--What were the exact United States Munitions List (USML) 
+articles exported to you?  (Automated Export System (AES) 
+filing data provides the following information, "satellite 
+flight hardware".) 
+ 
+--What is the exact end-use for these USML items?  Will MDA 
+be the sole end-user and retain positive control over the 
+satellite flight hardware at all times?  Will they be 
+transferred to other end-users in Canada or re-exported? 
+ 
+--Does the company understand the restrictions on USML items, 
+especially the prohibition against unauthorized re-transfer 
+and re-export? 
+ 
+END ACTION. 
+ 
+¶5. Details of the AES filings: 
+ 
+--EXPORT 1 - QUANTITY/COMMODITY: 
+ 
+Quantity not provided 
+ 
+Commodity - Vague description cited as, "satellite flight 
+hardware" 
+ 
+Stated Value: USD 21,300.00 
+ 
+Export Date - 10 May 2007 
+ 
+ITAR Exemption Number - 126.5B 
+ 
+Filer Identification Number - 752550831 
+ 
+Shipping Reference Number - 1424546 
+ 
+Export Identification Code - 06120956100 
+ 
+--EXPORT 2 - QUANTITY/COMMODITY: 
+ 
+Quantity not provided 
+ 
+Commodity - Vague description cited as, "satellite flight 
+hardware" 
+ 
+Stated Value: USD 70,150.00 
+ 
+Export Date - 11 May 2007 
+ 
+STATE 00118567  002 OF 002 
+ 
+ 
+ITAR Exemption Number - 126.5B 
+ 
+Filer Identification Number - 752550831 
+ 
+Shipping Reference Number - 1424548 
+ 
+Export Identification Code - 06120956100 
+ 
+U.S. EXPORTER: 
+ 
+Orbital Sciences Corporation 
+21830 Atlantic Blvd. 
+Dulles, VA 20166 
+POC is Mr. Hatch, Tel. 703-948-8442 
+ 
+ULTIMATE CONSIGNEE 
+ 
+Macdonald, Dettwiler and Associates 
+21025 Trans Canada Highway 
+Ste. Anne De Bellevue 
+Quebec 
+Canada H9X3R2 
+No POC provided 
+ 
+¶6. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Tim Mazzarelli, Phone: 
+202-663-3867; Email: MazzarelliTP@state.gov; SIPRNET: 
+MazzarelliTP@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file on Intellipedia: 
+http://www.intelink.gov/wiki/ 
+Blue Lantern End-Use Monitoring Program. 
+ 
+¶7. Department is grateful for post's assistance in this 
+matter. 
+CLINTON

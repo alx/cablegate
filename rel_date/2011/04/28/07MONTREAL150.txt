@@ -1,0 +1,241 @@
+07MONTREAL150
+McGill Conference Offers Perspectives on New Media and
+Sat Mar 31 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Montreal
+VZCZCXRO0952
+RR RUEHGA RUEHHA RUEHQU RUEHVC
+DE RUEHMT #0150/01 0901349
+ZNR UUUUU ZZH
+R 311349Z MAR 07
+FM AMCONSUL MONTREAL
+TO RUEHC/SECSTATE WASHDC 0527
+INFO RUCNCAN/ALCAN COLLECTIVE
+RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS SECTION 01 OF 03 MONTREAL 000150 
+ 
+SIPDIS 
+ 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+ 
+ 
+SECSTATE FOR WHA/CAN, WHA/PD, DS/IP/WHA, EB/TPP/IPE 
+State please pass to USTR for Sullivan, Melle, and Garde 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ETRD KIPR CA
+SUBJECT:  McGill Conference Offers Perspectives on New Media and 
+Copyright Reform 
+ 
+ 
+This message is Sensitive but Unclassified 
+ 
+------- 
+Summary 
+------- 
+ 
+¶1. (SBU) A conference on music and copyright issues entitled 
+"Musical Myopia, Digital Dystopia: New Media and Copyright Reform," 
+hosted by McGill University on March 23, brought together a number 
+of experts in the field of digital rights management and musical 
+technology to discuss the current challenges facing the music 
+industry and the evolving role of intellectual property rights in 
+new media.  The conference featured participation from Ann 
+Chaitovitz, Attorney-Advisor at the U.S. Patent and Trademark 
+Office, Bruce Lehman, former Commissioner of Patents and Trademarks 
+in the Clinton Administration, and Michael Geist, a law professor at 
+the University of Ottawa, among others.  While Geist's remarks about 
+the adequacy of current Canadian legislation were predictable (Geist 
+is an oft-quoted critic of the Special 301 report and other efforts 
+to encourage Canada to adopt stronger IPR protection), Lehman's 
+comments about the inefficacy of the Digital Media Copyright Act 
+came as a surprise.  Although movie piracy (specifically camcording) 
+in Montreal has received widespread press coverage in recent months, 
+the issue of copyright protection for music (and technical 
+protection measures in general) also remains a hot issue. Ms. 
+Chaitovitz underscored how U.S. copyright law evolved to incorporate 
+new media, explained the difference between rights limitations and 
+access limitations within U.S. copyright law, and offered examples 
+of how consumers have benefited from copyright protection by being 
+able to pay more selectively for the services they want.  The points 
+of view expressed by some participants have been used to justify GOC 
+resistance to changing its copyright legislation and ratifying the 
+WIPO Internet Treaties.  Some conference participants stated that 
+copyright issues remain oversimplified by policymakers and 
+misunderstood by the general public.  Post will continue to engage 
+stakeholders in multiple sectors about the importance of 
+implementing the WIPO internet treaties. 
+ 
+------------- 
+Canada's IPR "Public Intellectual" rails against anti-circumvention 
+------------ 
+¶2. (SBU) Geist, regarded by some academics as Canada's "public 
+intellectual" on intellectual property issues and internet law, has 
+published a number of editorials casting doubt on figures related to 
+Canada's share of global film piracy. Geist maintains a blog in 
+which he tackles issues related to new technologies and their legal 
+ramifications and intellectual property issues more generally and 
+has argued against the inclusion of anti-circumvention provisions in 
+Canadian law (see http://www.michaelgeist.ca/index.php).  Such 
+provisions, which exist in U.S. law, would ban the manufacture of 
+devices that could be used to "pick digital locks."  Geist made a 
+"case against Canadian Anti-Circumvention legislation," contending 
+that anti-circumvention devices are harmful, run counter to the free 
+market, are ineffective, and are unnecessary. 
+ 
+¶3. (SBU) Geist outlined the changes occurring in the world of 
+digital media on the internet, such as the presence of 70 million 
+blogs, the development of services such as myspace, youtube, 
+webcasts and podcasts that all facilitated audio and video file 
+sharing, to conclude that "those involved in WIPO guessed wrong" 
+about the need to control digital copying.  Geist stated that 
+anti-circumvention devices could be harmful to the software and 
+materials they were created to protect.  He also said that many 
+Canadian artists do not want to see legislation enacted that would 
+facilitate lawsuits against fans. Geist pointed to the creation of 
+the Canadian Music Creators' Coalition, which claims to be a 
+"growing coalition of Canadian music creators who share the common 
+goal of having our voices heard about the laws and policies that 
+affect our livelihoods," including artists such as Sarah McLaughlan, 
+Avril Lavigne, and the Barenaked Ladies, as evidence of this trend. 
+Some music groups, such as Broken Social Scene, have credited new 
+technology and file sharing mechanisms for facilitating their 
+popularity. 
+ 
+------- 
+An architect of the DMCA proclaims a "post-copyright" era 
+------- 
+ 
+¶4. (SBU) Mr. Lehman, one of the self-proclaimed "architects" of the 
+Digital Millennium Copyright Act (DMCA) as well as the WIPO Internet 
+treaties, stated that the music world has entered the 
+"post-copyright era" and that existing copyright mechanisms had 
+failed to respond to the evolution of the internet.  Mr. Lehman's 
+comments could be interpreted narrowly to mean that the "copyright" 
+ 
+MONTREAL 00000150  002 OF 003 
+ 
+ 
+era has come to a close because the genie of digital music is 
+already out of the copyright bottle.  Lehman went on to say that 
+Canada should not be constrained by what was done in the United 
+States and blasted the U.S. government process.  He said that under 
+U.S. law, individuals are held responsible for file-sharing 
+activities because the big corporations, like the internet service 
+providers (ISPs), lobbied to exempt themselves.  He suggested that 
+Canada take a new approach that allegedly could not have been 
+accomplished in the U.S. because of powerful interests, and urging 
+Canada to play an outside role as a cauldron of creativity and 
+culture. 
+ 
+--------- 
+Defending the DMCA 
+-------- 
+ 
+¶5. (SBU) Ms. Chaitovitz stressed the need for the prohibition in 
+manufacture and trafficking of circumvention devices, and noted that 
+such prohibition leads to more effective and less intrusive 
+enforcement of copyright infringement.  With regard to technological 
+protection measures, Ms. Chaitovitz said that U.S. law does not 
+require creators to install such devices in their products, and that 
+individual enterprises decide if they wish to protect their material 
+in this way.  She also made the distinction between rights 
+limitations and access limitations, with rights controls limiting 
+what consumers can do with purchased materials and access controls 
+determining which consumers can gain access to a particular product 
+or service through subscription services.  Ms. Chaitovitz noted that 
+many new digital business models offering consumers more choice and 
+flexibility (such as music subscription services or Netflix offering 
+access to on-demand-streaming movies) rely on access controls.  She 
+stated that content owners will be more willing to provide such 
+services only if they are confident that their rights will be 
+protected.  Ms. Chaitovitz stressed aspects of U.S. copyright 
+protections work well, and how such protections have benefited 
+consumers, artists, and content providers alike. 
+ 
+¶6. (SBU) Charles Morgan, a lawyer for McCarthy Tetrault, made the 
+case for Canada to ratify the WIPO internet treaties and bring 
+itself up to the "international standard" for copyright protection. 
+He noted that the massive technological changes the world has 
+undergone had brought about an "imbalance in traditional copyright" 
+and that copyright protection is necessary in order to ensure those 
+who create works are paid for their efforts.  Canada, he said, 
+should "act in a manner consistent with all of its trading 
+partners," including the U.S. and the EU, by amending its laws to 
+conform with WIPO requirements. Morgan also noted that Bill C-60, 
+which the GOC had proposed but not adopted in 2005 under the Liberal 
+government, would have ranked among the developed world world's 
+weakest WIPO-implementing legislation.  Geist responded to Morgan's 
+remarks by noting that Canadians "must be very clear about what 
+commitments we took on by signing [WIPO]-none." 
+ 
+------- 
+Copyright and the GOC 
+------- 
+ 
+¶7.  (SBU) Sunny Handa, a conference moderator and McGill Law 
+Professor noted that the GOC "has not put forward a view on 
+Intellectual Property" and that this was "unfortunate."  He 
+speculated that the issue of copyright, and IP in general, is "so 
+complex, no one wants to touch it in any serious way."  Charlie 
+Angus, a Member of Parliament for James Bay and NDP Heritage critic, 
+echoed this sentiment, acknowledging that "IP is complex, and 
+politicians don't like complexity."  Angus, who has a background as 
+a band member and advocates musicians' rights, stated that the 
+challenge for Canadian musicians was to "tap into the digital age" 
+and "get our cultural goods onto platforms where they'll be seen." 
+He said musicians need to find a business model that would protect 
+Canadian culture while taking advantage of new media to promote 
+Canadian artists worldwide.  Angus also mentioned the need for in 
+Canada for legislation that "is applicable, and works," and that 
+would strike an appropriate balance between industry and consumer 
+interests. 
+ 
+¶8. (SBU) Sandy Pearlman, a prolific music producer, creator and 
+songwriter who has produced works for Blue Oyster Cult and the 
+Clash, among others, gave an overview of the ways in which the 
+internet has revolutionized access to music and the challenges to 
+copyright.  "For the first time," he said, "there is infinite access 
+to infinite music for a quarter of the world's population." 
+Currently, legal, monetized music downloads account for only a 
+fraction of overall internet traffic.  Pearlman stated that five 
+cents is the price at which people would rather pay for a download 
+ 
+MONTREAL 00000150  003 OF 003 
+ 
+ 
+rather than go through the trouble of stealing it.  He has advocated 
+a five cent download model, combined with a comprehensive search and 
+recommendation engine, in which the sheer volume of music people 
+would be willing to download at this price point would generate 
+significant revenue for the music industry that is currently being 
+lost to illegal downloads.  Pearlman stated that the music industry 
+now finds itself in its current state because music labels did not 
+position themselves to capitalize on new technologies when they had 
+the chance.  He predicted that the music industry globally is 
+teetering on the brink of a sea change that would bring nearly 
+universal access to all music, at an extremely low cost, and that 
+this change could also be beneficial for artists and music 
+producers. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶9. (SBU) With unlicensed movie uploads and music file-sharing 
+becoming increasingly popular, and legitimate, licensed downloads of 
+music and movies accounting for an extremely small percentage of all 
+internet traffic, the music and entertainment industry worldwide is 
+grappling with the best way to generate revenue with new media and 
+platforms.  Efforts to encourage the GOC to ratify its WIPO 
+obligations have been hindered by the sheer complexity of copyright 
+law and IP-related issues, and perceptions by consumers and artists 
+that technological protection measures might be harmful.  Post will 
+continue to engage in outreach with Canadian stakeholders across a 
+wide range of sectors to emphasize that copyright protection 
+benefits Canadian artists, that technological protection measures 
+can provide more choice for consumers, and that the prohibition of 
+circumvention devices produces less intrusive and more effective 
+enforcement of copyright.

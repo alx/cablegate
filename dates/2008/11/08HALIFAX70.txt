@@ -1,0 +1,293 @@
+08HALIFAX70
+HALIFAX ANNUAL CERTIFICATION OF CONSULAR MANAGEMENT
+Mon Nov 10 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Halifax
+VZCZCXRO7881
+RR RUEHHA
+DE RUEHHA #0070/01 3151935
+ZNR UUUUU ZZH
+R 101935Z NOV 08
+FM AMCONSUL HALIFAX
+TO RUEHC/SECSTATE WASHDC 1334
+INFO RUEHOT/AMEMBASSY OTTAWA 0563
+RUEHHA/AMCONSUL HALIFAX 1422UNCLAS SECTION 01 OF 03 HALIFAX 000070 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: CMGT CVIS CASC KFRD CA
+SUBJECT: HALIFAX ANNUAL CERTIFICATION OF CONSULAR MANAGEMENT 
+CONTROLS 
+ 
+REF: STATE 114455 
+ 
+¶1.  In accordance with reftel, Halifax conducted its annual 
+review of consular management controls on November 10, 2008. 
+Harold D. Foster, FS-01, Consul General certifies successful 
+completion of the management review and that post is in full 
+compliance. 
+ 
+¶2. 
+ 
+a. Standard Operating Procedures:  I have reviewed and confirm 
+that the consular officer is familiar with and has access to the 
+basic references and instructions including 7 and 9 FAM, 7 
+FAH-1, the Consular Management Handbook, CA's SOP cables, and 
+CAWeb (both the unclassified and classified sites).  No one is 
+using training materials as a reference in place of the 
+reference materials listed above. 
+ 
+b.  Consular Shared Tables (CST) Management:  I have reviewed 
+and confirm that: (1) only consular section employees have 
+consular roles and that adjudicatory and management roles are 
+limited to American consular officers;  (2) all active users are 
+in fact at post with a need to access the system and their 
+particular role(s), and that users who no longer have a need for 
+access have been switched to inactive status, and that any test 
+or anonymous accounts have been deactivated; (3) users are 
+authorized system access only at the appropriate level; and, (4) 
+user passwords have been periodically reset (at a minimum every 
+six months) and are randomly chosen by the individual so that no 
+one else, including the system and CST administrators, knows the 
+individual's password. 
+ 
+c.  Physical Access:  I confirm that physical access to the 
+working areas of the consular section, and to consular computers 
+and workstations in particular, are controlled and, in general, 
+limited only to consular section employees and those whose 
+responsibilities allow access. FSN personnel are not present 
+outside of office hours without a cleared American and 
+controlled items are secured if an American consular officer is 
+not present.  Consulate General Halifax is located in a small 
+office suite.  The office's open floor-plan design does not 
+allow for doors and restricted access to the consular section. 
+Non-consular employees must frequently pass through the section, 
+but they do not work or linger in the section.  Access to the 
+section is particularly limited during visa interviewing hours. 
+The Consular Section Chief has line of sight control over the 
+entire consular section from her workspace. 
+ 
+d. Access to Personally Identifiable Information (PII): I 
+confirm that procedures are in place to assure that the 
+collection of Personally Identifiable Information (PII), such as 
+date and place of birth and social security numbers, is kept to 
+a minimum and such information is appropriately protected.  I 
+confirm that access to consular systems containing such 
+information, including PIERs, IV, NIV and ACS, is restricted to 
+those with a legitimate need to see such information and that 
+records are only accessed in connection with official duties.  I 
+confirm that there have been no breaches or incidents involving 
+loss, theft, unauthorized access or compromise of PII at this 
+post, but that such incidents would be reported as described in 
+Department Notice 2008-06-134 of June 25, 2008. 
+ 
+e.   Inventory Count and Reconciliation of Accountable Consular 
+Items:  The Consular Section Chief Elizabeth Schwefler(ACO), 
+together with the Consul General Harold Foster (backup ACO), has 
+performed a comprehensive physical inventory of accountable 
+consular supplies (passports, passport foils, CBRAs, Visa Foils 
+and non-expendable items such as seals and stamps) and 
+documented the results of that inventory in the Accountable 
+Items (AI) module for visa foils, CRBAs, passport books and 
+passport foils, and for all other accountable items in a memo 
+for the files.  I certify that the physical inventory reconciles 
+with inventory records, and that there are no discrepancies. 
+ 
+f.  Control and Reconciliation of Accountable Items:  I confirm 
+that internal section procedures are in place, that accountable 
+consular supplies are controlled, handled, destroyed, and 
+accounted for in accordance with 7 FAH-1 H-600. AI is being used 
+for reconciling daily usage of all accountable consular supplies 
+including passports, CRBAs, and NIV foils.  Post has had no 
+instances of missing controlled items in the past 12 months. 
+ 
+g. Destruction Log: I have reviewed and confirm that post is 
+properly destroying (or returning to the Department for 
+destruction) spoiled or unusable or obsolete controlled items 
+(passport books, CRBAs, visa foils) and recording their 
+witnessed destruction in AI. 
+ 
+h. Cash Accountability:  I have reviewed and confirm that the 
+ACO, Consular Cashier, and alternates have been formally 
+designated using the model letters found under tools on the 
+Consular Fees page on CAWeb and are fully familiar with the 
+instructions in Consular Management Handbook chapter 7 FAH-1 
+ 
+HALIFAX 00000070  002 OF 003 
+ 
+ 
+H-700. The ACO has completed Consular Management at a Small Post 
+at FSI, which included ACO responsibilities.  She will enroll in 
+the online course PC 417 for refresher training.  The Consular 
+Cashier and alternates will complete PC 419 as soon as it is 
+available online.  I confirm that accounting and reconciliation 
+procedures for consular fees, including MRV fees, are properly 
+carried out.  The ACRS End of Day report and Daily Accounting 
+Sheet (Exhibit 7-5 in CMH 700) is completed daily.  At the end 
+of the month the Daily Accounting Sheet is forwarded to the 
+post's FMO for verification against FSC's record of OF-158 
+receipts, and signed by both the ACO (Consul) and FMO (Consul 
+General).  The Daily Accounting Sheet for the past twelve months 
+is on file in the ACO's records.  In the past 12 months, there 
+have been no discrepancies at this post. 
+ 
+i. Periodic Comparison of MRV Fees and NIV Applications: I have 
+reviewed and confirm that the periodic comparison of MRV fees 
+and NIV applications is carried out as prescribed in 7 FAH-1 
+H-744, H-752 e and f, and under tools on the Consular Fee page 
+on CAWeb.  All NIV Application fees are paid at an off-site 
+location. Data on fees collected and applications received are 
+also forwarded monthly to Ottawa for Mission-wide 
+reconciliation.  Cancelled receipts are filed with the DS-156 
+for reconciliation. 
+ 
+j. Referral System: I have reviewed and confirm that post visa 
+referral procedures are in compliance with 9 FAM Appendix K and 
+06 State 180489.  Post follows Mission referral policy and 
+procedures that are documented in writing and issued to post on 
+the authority of the Ambassador.  All referrals are signed by 
+agency and section heads as appropriate, referral information is 
+captured in the NIV system, referral forms are scanned into the 
+NIV system, and consular managers periodically review referral 
+reports to identify trends and possible areas of concern. 
+Briefings are required before officers can submit referrals.  No 
+visa referrals were done in Halifax in the past 12 months. 
+Referrals from within the consular section would be handled and 
+documented identically to those from outside the section. 
+ 
+k. Training: I have reviewed and confirm that American and 
+locally employed staff are adequately trained for their 
+responsibilities, including awareness of fraud in applications 
+for visas and other benefits.  Newcomers to the consular section 
+are trained in accordance with SOP 73.  The ACO has completed 
+the on-line user training for ACRS. 
+ 
+l. Standards of Employee Conduct:  I have reviewed and confirm 
+that all consular employees, American and FSN, are familiar with 
+the standards of ethical conduct expected of them.  The consular 
+officer has reviewed the Department's Standards of Ethical 
+Conduct for Employees of the Executive Branch, and we have 
+discussed the applicability of these ethical standards in the 
+consular context.  I have reviewed post operations with all 
+personnel to determine that there are no influences being 
+brought to bear on the visa or passport process that would lead 
+to any perception of impropriety.  Post follows the Mission's 
+written gift policy consistent with Department standards. 
+Consular officers must follow the same procedures as all other 
+Mission employees when advocating on behalf of an applicant.  A 
+consular officer who is personally acquainted with an applicant 
+must recuse himself or herself from adjudicating that person's 
+visa application to the extent possible at a two-officer post. 
+ 
+m. Namecheck and Clearance Reviews:  I have reviewed and confirm 
+that all namecheck returns are given a rigorous review and that 
+consistent standards are applied in determining when a hit is 
+close enough to warrant further action.  I confirm that when 
+insufficient information is present to rule out a potential 
+match to a namecheck hit, that hit is treated as if it were a 
+match. 
+ 
+n. Visa Lookout Accountability (VLA):  I have reviewed and 
+confirm that VLA procedures are in place and that VLA 
+certification is up to date.  All issuing officers at post fully 
+understand VLA provisions and requirements, as well as the 
+consequences for failing to comply with VLA procedures and 
+supervisors spot check issuances to verify that VLA requirements 
+were met by reviewing any with CAT I hits. 
+ 
+o. Intake, Interview and Screening:  I have reviewed visa 
+intake, interview, and document review procedures and confirm 
+that post is in full compliance with the Department's 
+instruction (9 FAM 41.102 and 41.103 procedural notes and other 
+guidance).  I have reviewed and confirm that screening of 
+applications by locally employed staff does not encroach on 
+adjudication.  Screening is only for completeness of application 
+and does not extend to asking questions or making notes on the 
+application that could be interpreted as influencing 
+adjudication.  LES employees do not turn away NIV applicants who 
+have paid the appropriate fees and have a completed application, 
+even if they think additional documents will be required.  Such 
+cases are adjudicated by an officer and denied under 221g if 
+ 
+HALIFAX 00000070  003 OF 003 
+ 
+ 
+appropriate. 
+ 
+p. Oversight of Processing: I have reviewed and confirm that 
+adequate supervision of processing is exercised by American 
+officers.  The Consular Section Chief has line of sight 
+supervision of the print station. 
+ 
+q. Biometrics: I have reviewed and confirm that fingerprinting 
+for biometric purposes is collected by LE staff and verified by 
+an American Officer, and that post is in compliance with 
+Bio/Visa Enrollment policy and procedures (05 State 191641) 
+regarding waivers. 
+ 
+r. Interview and Adjudication:  I have reviewed and confirm that 
+all visa applicants for whom a personal appearance is required 
+per 05 State 0092176 and 9 FAM 41.102 are being interviewed. 
+ 
+s. Photo Standards:  I have reviewed 9 FAM 41.113 procedural 
+notes and the photo guide on www.travel.state.gov and confirm 
+that post is only entering recent photos of the applicant and is 
+rigorously applying standards for NIV and passport photos. 
+ 
+t. Review of Visa Refusals and Issuances:  I have ensured that 
+NIV refusals and issuances are being reviewed using the approved 
+electronic NIV review system (in CCD).  The CG reviews the 
+Consul's refusals and issuances daily in accordance with 07 
+State 076951, 9 FAM 41.113 (1) and PN18.1 and.2; and 9 FAM 
+41.121 and PN1.2-8 and .2-9.  There have been no supervisory 
+overcomes in the past 12 months. 
+ 
+u. Visa Shopping:  I have reviewed post procedures to ensure 
+there are practices in place that discourage visa shopping. 
+Virtually all visa applicants in Halifax are TCNs.  Post does 
+not maintain any sort of NIV written re-application process. 
+ 
+v. Files:  I have reviewed and confirm that consular files are 
+being retained in accordance with the Record Disposition 
+Schedule and that visa files in particular are being retained 
+per instructions in 9 FAM Appendix F.  I confirm that all 
+consular personnel understand that visa records are to be 
+safeguarded in accordance with INA Section 222(f), to prevent 
+unauthorized disclosure in any form, including via the internet 
+or other public media.    I confirm that NIV records are being 
+filed chronologically per instructions in SOP 8 (03 State 70558). 
+ 
+w. Passports and CRBAs:  I have reviewed and confirm that post 
+procedures and controls are in place to ensure the accuracy and 
+integrity of U.S. passports, CRBAS, and other nationality 
+determinations.  Post conducts passport name checks for all 
+passport services, including adding visa pages. Consular 
+managers continue to audit passport cases 
+adjudicated at post.  In particular, procedures are in place to 
+ensure accurate annotation of citizenship and identity 
+documentation; annotation related to name clearances, 
+endorsements and limitations; clarification of illegible entries 
+and correction of inaccuracies; and fraud detection. 
+ 
+x. Fraud Prevention Programs:  I have reviewed and confirm that 
+appropriate management controls are in effect for the fraud 
+prevention program.  The sole consular officer has been 
+designated and trained as Fraud Prevention Manager.  There are 
+procedures to safeguard the role of the FSN investigator by 
+prohibiting her from influencing decisions on eligibility. 
+Halifax has never conducted a fraud prevention field trip. 
+ 
+y. Classified Access: I confirm that the consular officer has 
+access to classified systems and that she checks classified 
+e-mail at least once a week.  The limited amount of classified 
+traffic handled by post makes it impractical to open the vault 
+to check e-mail on a daily basis. 
+ 
+z. Consular Agents: Halifax does not supervise any consular 
+agents. 
+ 
+¶3.  Halifax is a two-officer post.  The Consul fills all of the 
+primary consular management roles and the Consul General serves 
+as supervisor and/or backup. 
+FOSTER

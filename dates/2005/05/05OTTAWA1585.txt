@@ -1,0 +1,387 @@
+05OTTAWA1585
+FY 2006 IVLP, ITT Ground Transportation Safety and
+Fri May 27 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+271150Z May 05UNCLAS SECTION 01 OF 05 OTTAWA 001585 
+ 
+SIPDIS 
+ 
+STATE 
+ 
+SECSTATE FOR ECA/PE/V/R/W - EWILKES-SCOTT; 
+WHA/PDA - JCARPENTER-ROCK 
+MONTREAL, TORONTO AND VANCOUVER FOR PAOS; 
+HALIFAX AND QUEBEC FOR CONGENS; 
+CALGARY FOR FIELD REPS; CALGARY PLEASE PASS TO WINNIPEG 
+ 
+E.O. 12958: N/A 
+TAGS: KPAO OEXC SCUL CA IV
+SUBJECT: FY 2006 IVLP, ITT Ground Transportation Safety and 
+Planning 
+ 
+REFERENCE:  OTTAWA 1504 
+ 
+¶1.   Post proposes a two-person IVLP project on Ground 
+Transportation Safety and Planning in the U.S.  This project 
+would better acquaint two players involved in supporting 
+Canada-U.S. trade via truck to overall U.S. security 
+policies, U.S. border security concerns, regulation and 
+implementation, including both northern and southern 
+borders, ground transportation safety measures, 
+infrastructure planning and funding, and broader border 
+security measures, such as container inspection, bio- 
+terrorism countermeasures, and marine security cooperation. 
+The project would support Mission's objectives in protecting 
+critical infrastructure and promoting secure and stable 
+markets with the U.S.' largest trading partner. 
+ 
+¶2.   Post nominates Stephen Laskowski, Assistant Vice 
+President, Ontario Trucking Association; Robert Kroeker, 
+Director of Commercial Vehicle Safety, British Columbia 
+Ministry of Solicitor General, subject to availability once 
+approved and invited.  Both candidates have full country 
+team approval. 
+ 
+¶3.   EVDB-formatted nomination follows: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: slw@pd.state.gov 
+TRANSMITTING-POST: PAS Ottawa 
+TRANSMITTING-POST-ID: 6540 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VRW 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 330 
+ECA-PROJ-NO: 
+PROJ-NAME: ITT Ground Transportation Safety and Planning 
+(Laskowski, Kroeker) 
+START MEMO PROJ-DESC: 
+This project would better acquaint two players involved in 
+supporting Canada-U.S. trade via truck to overall U.S. 
+security policies, U.S. border security concerns, regulation 
+and implementation, including both northern and southern 
+borders, ground transportation safety measures, 
+infrastructure planning and funding, and broader border 
+security measures, such as container inspection, 
+bioterrorism countermeasures, and marine security 
+cooperation.  The project would support the Mission's goals 
+of protecting critical infrastructure and promoting secure 
+and stable markets with the U.S.' largest trading partner. 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individuals Traveling Together 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 2 
+RANK-ORDER: 0 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1037 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: ITT 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 6540 
+FUNDING-CNTRY-ID: 322158 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Transportation Systems 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Stephen 
+M-NAME: 
+L-NAME: Laskowski 
+SUFFIX: 
+POSITION-CODE: 123 
+PRINCIPAL?: Yes 
+GENDER: M 
+DOB: 07/07/1967 
+MAR-STAT: 
+BIRTH-CITY: Hamilton, Ontario 
+BIRTH-CNTRY: Canada 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+Assistant Vice President, Ontario Trucking Association 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Associate Vice President, Canadian Trucking Alliance 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+ 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+travel in U.S. for business purposes - Albany and Buffalo 
+NY; Harrisburg PA; Trenton NJ; Lansing and Detroit MI; 
+Washington DC and Scottsdale AZ, all related to tax issues, 
+customs issues or meeting with other trucking 
+representatives; trips are infrequent and issue-driven 
+(other than Buffalo and Detroit) 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+none 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Undergraduate honors degree (political science and history) 
+was from McMaster University; masters degree (public 
+administration) from the University of Western Ontario 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Ontario Trucking Association, Canadian Trucking Alliance 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+none 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+Dietary or medical considerations (e.g. diabetic, allergies, 
+vegetarian): none known 
+Smoker/non-smoker: non-smoker 
+ 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: English 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Pol/Econ Janice Weiner 
+START MEMO NOMINATING-JUSTIFICATION: 
+This nomination supports the post's goal of protecting 
+critical infrastructure and secure and stable markets. 
+Stephen Laskowski is following in the footsteps of Ontario 
+Trucking Association president David Bradley, who has become 
+a master at understanding and - in the correct fora - 
+articulating the border and transportation interests of the 
+trucking community, which moves so much of North America's 
+trade.  It is essential that this indispensable cog in our 
+trade have a full understanding, not only of how to partner 
+and converse with various levels of government and business 
+on the Canadian side, but on the U.S. side as well. 
+Laskowski would benefit from meetings with DHS, to better 
+understand how the various border programs work and are 
+intended to work; with state departments of transportation, 
+not only in neighboring states, where contacts likely 
+already exist, but in other border states, such as 
+Washington State, California or Texas, to learn how others 
+deal with border issues; with members of Congress or 
+staffers to open a dialogue on border issues; and with city 
+governments that have dealt with knotty traffic problems. 
+It would give Laskowski, i.a., a greater understanding of 
+how security and efficient trade can be balanced, and help 
+him put the security aspect into its proper perspective. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ConGen Toronto 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: NONE 
+NOMINEE-ID: 517 
+PERSON-ID: 399 
+BIRTH-CNTRY-ID: CA 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: EN 
+E-I-TYPE-ID: N 
+NOM-POST-ID: 6540 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 52.0209 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Robert 
+M-NAME: George 
+L-NAME: Kroeker 
+SUFFIX: 
+POSITION-CODE: 120 
+PRINCIPAL?: Yes 
+GENDER: M 
+DOB: 07/29/1961 
+MAR-STAT: U 
+BIRTH-CITY: New Westminster 
+BIRTH-CNTRY: Canada 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+Director of Commercial Vehicle Safety, Government of British 
+Columbia 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Director, Vehicle Licensing Policy, Government of British 
+Columbia 
+Constable, RCMP 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Vacations to South West United States (Phoenix, Palm 
+Springs) 1 or 2 times yearly for 10 days at a time 
+Business 
+Washington, DC 3 days in January 2002 
+Houston, Texas 3 days in February 2004 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+none 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Bachelor of Arts, Criminology, Simon Fraser University 
+(1985) 
+Law Degree, University of Victoria (1992) 
+Masters of Public Administration, University of Victoria 
+(2000) 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Canadian Bar Association 
+Law Society of British Columbia 
+International Public Administration of Canada 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+Proceeds of Crime - Journal Article 
+Legal Advice for Police - Journal Article 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+none 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: English 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: CG Arreaga, PA Hillman and Eng 
+START MEMO NOMINATING-JUSTIFICATION: 
+Rob Kroeker, who works in the British Columbia Ministry of 
+the Solicitor General as director of commercial vehicle 
+safety, has a background in law, criminology and 
+transportation.  The post nominates him for an IVL program 
+that explores ground transportation policy at the local, 
+state, and federal level in the U.S. as well as at the U.S.- 
+Canada bilateral level and NAFTA international level. 
+Mr. Kroeker sits on the Canadian Council of Motor Transport 
+Administrators, which is the body with federal, provincial 
+and territorial representatives who coordinate all matters 
+regarding administration, regulation and control of motor 
+vehicle transportation. This would include transport of 
+hazardous goods and transport strategies. 
+Mr. Kroeker envisions his future as an assistant or deputy 
+minister dealing with transport.  He is very interested in 
+learning more about the Federal Motor Carrier Safety 
+Administration, meeting state counterparts in commercial 
+transportation and law enforcement, and organizations 
+dealing with security and safety. Better knowledge of the 
+U.S. side of commercial ground transportation would assist 
+him (and Canada) to better harmonize transport rules which 
+he says can be quite divergent. Some examples in which  U.S. 
+and Canada regulations differ include hours of service 
+(hours a trucker can be on the road), safety inspection 
+criteria, and border rules. He would like to see what 
+directions are being taken for common rules applying to 
+NAFTA, anticipating more tri-country trade in the future. 
+Mr. Kroeker presently does not have any contacts at the U.S. 
+federal and state levels of government. An IVL program for 
+Mr. Kroeker would be a useful means of opening 
+communications between our two countries in regards to 
+commercial ground transportation. 
+The president of the B.C. Trucking Association speaks very 
+highly of Mr. Kroeker and believes he has a bright future in 
+government. With a Bachelors Degree in criminology, a law 
+degree and a Masters Degree in public administration, Mr. 
+Kroeker has a solid foundation to be effective in his future 
+work, and in cooperating with American neighbors to ensure 
+secure and smooth border crossings. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ConGen Vancouver 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: NONE 
+NOMINEE-ID: 528 
+PERSON-ID: 407 
+BIRTH-CNTRY-ID: CA 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: EN 
+E-I-TYPE-ID: N 
+NOM-POST-ID: 88501 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 52.0209 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+DICKSON, CHARGE

@@ -1,0 +1,258 @@
+05OTTAWA1636
+CORRECTION:  FY 2006 IVLP Individual Program -
+Thu Jun 02 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+021830Z Jun 05UNCLAS SECTION 01 OF 03 OTTAWA 001636 
+ 
+SIPDIS 
+ 
+STATE 
+ 
+SECSTATE FOR ECA/PE/V/R/W - EWILKES-SCOTT; 
+WHA/PDA - JCARPENTER-ROCK 
+MONTREAL, TORONTO AND VANCOUVER FOR PAOS AND CONGENS; 
+HALIFAX AND QUEBEC FOR CONGENS; 
+CALGARY FOR FIELD REPS; CALGARY PLEASE PASS TO WINNIPEG 
+ 
+E.O. 12958: N/A 
+TAGS: KPAO OEXC SCUL CA IV
+SUBJECT: CORRECTION:  FY 2006 IVLP Individual Program - 
+Ahmed Mahidjiba (Principal Candidate) 
+ 
+REFERENCE:  OTTAWA 1504 
+ 
+This cable includes corrected version of nominee biodate. 
+Post nominates Ahmed Mahidjiba, President, Algerian Cultural 
+Center, Montreal for a 21-day individual project on The Role 
+of Religious Communities in U.S. Society.  Mr. Mahidjiba has 
+full country team approval.  EVDB-formatted nomination 
+follows. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: slw@pd.state.gov 
+TRANSMITTING-POST: PAS Ottawa 
+TRANSMITTING-POST-ID: 6540 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VRW 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 342 
+ECA-PROJ-NO: 
+PROJ-NAME: Mahidjiba, Ahmed - Individual 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 6 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1037 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 6540 
+FUNDING-CNTRY-ID: 322158 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Diversity & Pluralism 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Ahmed 
+M-NAME: 
+L-NAME: Mahidjiba 
+SUFFIX: 
+POSITION-CODE: 339 
+PRINCIPAL?: Yes 
+GENDER: M 
+DOB: 05/07/1969 
+MAR-STAT: 
+BIRTH-CITY: El Attaf 
+BIRTH-CNTRY: Algeria 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+President/Founder of the Algerian Cultural Center of 
+Montreal 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Researcher, Ouranos (Quebec government climate change 
+research agency) 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Has held various academic positions (Researcher, Research 
+Assistant, Teaching Assistant, Lab Assistant and Co-Director 
+of Masters and PhD theses) at  ole Polytechnique and  ole 
+de Technologie Suprieure, both in Montreal 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+One stopover in February 2002 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Studied in France from 1993-1995 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Currently working toward a PhD in the Sociology of 
+Immigration and Ethnic Relations at Universit du Qubec 
+Montral (UQAM) 
+PhD (2001) in Mechanical Engineering from  ole 
+Polytechnique; 
+Masters (1998) in Mechanical Engineering from  ole 
+Polytechnique; 
+ue; 
+ 
+SIPDIS 
+Post Graduate degree (1995) in Mechanical Engineering from 
+ ole nationale suprieure des arts et mtiers, Paris; 
+Bachelor's Degree (1993) in Engineering from  ole nationale 
+des travaux publics of Algiers 
+ 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Centre Culturel Algrien  Montral; Executive Council of 
+ ole Pie XII (in charge of external relations); Association 
+of Montreal Polytechnique Alumni; Montreal Polytechnique 
+Graduate Students Association 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+Besides his various thesis papers, Mahidjiba has published 
+most recently in the International Journal of Numerical 
+Methods for Heat and Fluid Flow (2002), Acta Mechanica 
+(2002) and the International Journal of Heat and Mass 
+Transfer (2001) 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+Dietary or medical considerations: None 
+Smoker/non-smoker:  Non-smoker 
+ 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START OTHER-LANGS: 
+OTHER-LANG: English 
+OTHER-LANG-ID: EN 
+READ: 3 
+D: 3 
+SPEAK: 3 
+COMP: 3 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: PAO Alyson Grunder 
+START MEMO NOMINATING-JUSTIFICATION: 
+Like many recent Algerian immigrants to Canada, Ahmed 
+Mahidjiba's academic achievements are impressive.  Since 
+arriving in Montreal nine years ago, Ahmed has completed a 
+Masters and a PhD in fluid mechanics and aerothermics at 
+Montreal's prestigious  ole Polytechnique.  He is 
+completing another PhD at the Universit du Qubec 
+Montral in the sociology of immigration and ethnic 
+relations. Mahidjiba's day job is with Ouranos, Quebec's 
+center on climate research, where he is presently developing 
+a digital model dealing with climate and atmospheric 
+problems.  But equally as important for the Consulate, Ahmed 
+is the President and a founding member of the Algerian 
+Cultural Center in Montreal. 
+l. 
+Montreal's Algerian community is young and growing, 
+numbering about 30,000 according to most estimates.  Because 
+of restricted immigration policies in Europe and the Quebec 
+government's policy goal that at least 50 percent of 
+immigrants to the province be native French speakers, 
+Montreal's North African population will continue to 
+increase in the coming years.  Mahidjiba has helped the 
+Algerian Cultural Center become the main information source 
+for Algerian immigrants before and after they arrive to 
+Canada.  The CCA, which receives funding from the Quebec 
+government, helps immigrants looking for jobs, it provides 
+training in technical fields and helps less-educated 
+immigrants integrate into Quebec society.  The CCA also 
+houses a radio station available on the internet and a 
+newspaper, l' an. 
+Open-minded, very articulate and committed to opening doors 
+for his fellow immigrants in the Maghrebian community, 
+Mahidjiba is a powerful example for younger Muslims and Arab- 
+Canadians in Montreal.  His high educational achievements 
+and his devotion to community service make him someone that 
+people both inside and outside his ethnic group look to for 
+advice.  Mahidjiba has virtually no exposure to the U.S. (he 
+transited a U.S. airport once).   For his IVLP program, 
+Mahidjiba would like to concentrate on issues related to 
+Muslim/Arab integration in the U.S., and U.S. policies 
+toward the Muslim world.  He would also appreciate and 
+benefit from several meetings related to U.S. policies - and 
+scientific perspectives - on climate change. 
+ 
+ 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ConGen  Montreal 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: INTERPRETER 
+NOMINEE-ID: 511 
+PERSON-ID: 393 
+BIRTH-CNTRY-ID: AG 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: I 
+NOM-POST-ID: 6540 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 13.0202 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+DICKSON, CHARGE

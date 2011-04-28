@@ -1,0 +1,117 @@
+03OTTAWA1114
+CANADA: WI-FI SURVEY RESULTS
+Thu Apr 17 00:00:00 +0200 2003
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 02 OTTAWA 001114 
+ 
+SIPDIS 
+ 
+STATE FOR EB/CIP 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON ETRD CA
+SUBJECT: CANADA: WI-FI SURVEY RESULTS 
+ 
+REFTEL: STATE 85946 
+ 
+WE SOLICITED RESPONSES TO THE REFTEL SURVEY FROM INDUSTRY 
+CANADA'S DIRECTOR FOR SPECTRUM AND RADIO POLICY FERNAND 
+LEGER.  THE RESPONSES ARE LETTERED ACCORDING TO THE 
+QUESTIONS LISTED IN REFTEL: 
+ 
+A) Canada has designated several bands for license-exempt 
+operations including those currently of interest to Wi- 
+Fi\802.11 b\a\g standards and similar wireless 
+communication products (i.e. the 2.4 GHz and 5 GHz.) 
+ 
+The band 2400-2483.5 MHz is available for a wide variety 
+of license-exempt applications and products including Wi- 
+Fi (802.11b standard) and higher power point-to-point 
+communications systems using directional antennas.  The 
+Industry Canada (IC) rules for 2.4 GHz 
+(strategis.ic.gc.ca/SSG/sf01918e.html) and 5 GHz 
+(strategis.ic.gc.ca/SSG/sf01915e.html) spectrum 
+designations align with the FCC Part 15 Rules. 
+ 
+In Canada the designations for wireless LANS are: 
+--band 5150-5250 MHz - lower (relatively) power devices 
+to operate indoors (200 mW eirp max) 
+--band 5250-5350 MHZ - medium power, outdoor operation is 
+allowed (250 mW tx pwr, 1W eirp/11 dBm/MHz) 
+--band 5725-5825 MHz - higher power, outdoor operation is 
+allowed (1 W tx pwr, 4W eirp/17 dBm/MHz) 
+--band 5725-5850 MHZ - devices are allowed to operate 
+point-to-point with directional antennas.  This band is 
+also designated for a range of lower power license-exempt 
+devices.  The technical rules for operation and 
+certification of equipment are detailed in the Canadian 
+Radio Standard Specifications (RSS) 210 
+(strategis.ic.gc.ca/SSG/sf01320e.html) 
+ 
+General information on the Government of Canada's (GOC) 
+spectrum policies can be found at: 
+//strategis.ic.gc.ca/sc_mrksv/spectrum/engdoc /spect1.html 
+?icservices=e._ 
+ 
+B) License-exempt operation of equipment certified as Wi- 
+Fi (802.11) is permitted in bands designated in the 2.4 
+GHz and 5 GHz ranges. 
+ 
+C) Commercial applications of Wi-Fi systems are permitted 
+and encouraged.  License-exempt devices may constitute 
+transmission facilities to provide public 
+telecommunications services as defined in the Canadian 
+Telecommunications Act.  Operators of license-exempt 
+transmission links may need to seek approval for antennas 
+and tower structures, and follow Industry Canada's 
+procedures for use of radio spectrum. 
+ 
+D) With the phenomenal uptake of Wi-Fi products to access 
+high-speed Internet by consumer and business users, a 
+number of traditional wireline and wireless carriers, new 
+service providers and ISPs offering high-speed Internet 
+have accelerated market trials for both Wi-Fi public 
+hotspots and use of Wi-Fi for providing high-speed 
+Internet access in urban areas.  Interest in providing 
+high-speed Internet service using Wi-Fi technology is 
+also emerging in rural areas and sub-urban areas, where 
+the potential of interference is relatively low. 
+ 
+E and F) Private service providers are becoming 
+increasingly interested in using Wi-Fi products with more 
+directive antennas that provide longer reach to customers 
+in rural communities and surrounding areas.  A number of 
+rural communities have access to high speed Internet 
+using a range of technologies including license-exempt 
+products such as Wi-Fi access. Wi-Fi is used in schools, 
+libraries, and health centers and governments offices in 
+rural communities.  Information on Canadian wireless 
+ISP's can be found at: 
+www.onelasvegas.com/wireless/wireless_ISP_Can ada.html 
+ 
+Fixed wireless access technology, of all kinds, is an 
+important element of the GOC objective to enable the 
+development of a range of broadband Internet access 
+technologies to provide for under-served rural 
+communities.  Industry Canada has a Broadband Pilot 
+Program (www.broadband.gc.ca/index_e.asp.) aimed at 
+encouraging the development of broadband services in a 
+number of rural and remote communities that are currently 
+not served by high-speed Internet.  Several rural 
+communities have been provided financing to carry out 
+business studies and seek requests for proposals to 
+establish the cost of transport systems (where required) 
+and local broadband access facilities using a mixture of 
+wireline\wireless technologies, including fibre optics, 
+digital microwave systems and satellite transmission.  In 
+the next phase of the program the communities will 
+present business and technical plans as part of their 
+applications to Industry Canada for financial assistance 
+to implement broadband service. Industry Canada 
+anticipates that some of these applications will use 
+wireline\wireless facilities. This will include licensed 
+and license-exempt local distribution facilities, 
+including Wi-Fi technology. 
+ 
+CELLUCCI#

@@ -1,0 +1,128 @@
+08STATE113557
+BLUE LANTERN PRE-LICENSE END USE CHECK ON
+Fri Oct 24 00:00:00 +0200 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXRO3667
+RR RUEHMT
+DE RUEHC #3557/01 2981611
+ZNR UUUUU ZZH
+R 241555Z OCT 08
+FM SECSTATE WASHDC
+TO RUEHOT/AMEMBASSY OTTAWA 2606
+INFO RUEHTV/AMEMBASSY TEL AVIV 6060
+RUEHMT/AMCONSUL MONTREAL 0202
+RHMCSUU/FBI WASHINGTON DC 1740
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 4629
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS SECTION 01 OF 02 STATE 113557 
+ 
+SIPDIS 
+FOR ECON LORI E. BALBI 
+ 
+E.O. 12958: N/A 
+TAGS: CA ETTC IS KOMC
+SUBJECT: BLUE LANTERN PRE-LICENSE END USE CHECK ON 
+APPLICATION 05-050127510 
+ 
+¶1.  This is an action message.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post assistance in conducting a 
+pre-license check for the export of lithium batteries to 
+Canada.  Post is requested to complete this Blue Lantern 
+check within 30 days.  Lack of response to a Blue Lantern 
+check will affect pending and future licenses involving 
+parties to this license. 
+ 
+¶3.  Reason for request: the Foreign Consignees, Pulse Inteco 
+and Semicom Lexis, have a limited licensing history with our 
+office. 
+ 
+¶4.  ACTION: Please contact the Foreign End User, Canada 
+Department of National Defense, Electronics, Simulators and 
+Defense Systems, and verify its request for the exact 
+quantity and specific type of battery listed below.  Please 
+also confirm the intended use of the commodity, and the 
+involvement of both Foreign Consignees in this transaction. 
+END ACTION. 
+ 
+¶5.  License Information: 
+ 
+DDTC Case Number 05-050127510 
+ 
+QUANTITY/COMMODITY: 
+ 
+40       Sophie Lithium Battery, LiMnO2, 13.3V, 5.8, 5S1P, 
+P/N: U2560E-5-27, NSN: 6135-01-539-0013 
+ 
+LICENSE VALUE: USD 5,040.00 
+ 
+APPLICANT/SOURCE: 
+ 
+Ultralife Corporation 
+2000 Technology Parkway 
+Newark, New York 14513 USA 
+ 
+FOREIGN INTERMEDIATE CONSIGNEES: 
+ 
+Fedex Express Ship Center 
+130 Thad Johnson Road 
+Ottawa, Ontario K1V 0C1 
+CANADA 
+ 
+Schenker of Canada Dorval Airport 
+800 Stuart Graham Suite 249 
+Dorval, Quebec H4Y 1J6 
+CANADA 
+ 
+FOREIGN CONSIGNEES: 
+ 
+Pulse Inteco Ltd. 
+13B, Ner Halayla St. 
+Netanya 42209 
+ISRAEL 
+ 
+Semicom Lexis Ltd. 
+PO Box 3 
+Bney Zion 60910 
+ISRAEL 
+ 
+FOREIGN END USER: 
+ 
+Canada Department of National Defense 
+Electronics, Simulators and Defense Systems 
+11 Laurier Street, 8C2, Place du Portage 
+Gatineau, Quebec K1A 0S5 
+CANADA 
+ 
+STATEMENT OF PURPOSE: 
+ 
+For power supply of hand held cloud-base laser ceilometer. 
+ 
+¶6.  Additional documentation submitted in support of license 
+application: 
+ 
+A)  Semicom Lexis Ltd. Purchase Order Number 86502594, dated 
+09/03/08. 
+ 
+ 
+STATE 00113557  002 OF 002 
+ 
+ 
+B)  Pulse Inteco Ltd. Purchase Order Number (illegible), 
+dated 28/08/2008 
+ 
+C)  Semicom Lexis Ltd. End User Statement, dated 28.08.08, 
+signed by (illegible). 
+ 
+¶7.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the DDTC Case Number 
+in the subject line.  POC on this case is Peter Sabatini, 
+PM/DTCC, phone: 202-663-2819; ClassNet email: 
+sabtinipj@state.sgov.gov; OpenNet email: 
+sabatinipj@state.gov.  The 2006 Blue Lantern Guide Book is 
+available on OpenNet at 
+http://fsi.state.gov/fsi/spas/default.asp?ID= 1588 
+Department thanks Post for its assistance in this matter. 
+RICE

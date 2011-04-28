@@ -1,0 +1,139 @@
+05OTTAWA1990
+CANADIAN COPYRIGHT AMENDMENT LEGISLATION: NOT
+Thu Jun 30 00:00:00 +0200 2005
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+301425Z Jun 05UNCLAS SECTION 01 OF 02 OTTAWA 001990 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+DEPT PASS USTR FOR CHANDLER AND ESPINEL 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD KIPR CA WIPO
+SUBJECT: CANADIAN COPYRIGHT AMENDMENT LEGISLATION: NOT 
+QUITE WIPO? 
+ 
+REF: A. OTTAWA 1725 (INTELLECTUAL PROPERTY ACTION PLAN) 
+ 
+     ¶B. OTTAWA 1168 (CANADIAN REACTION TO GOC'S PROPOSED 
+        COPYRIGHT LAW AMENDMENTS) 
+     ¶C. OTTAWA 1571 (IPR FILESHARING APPEAL: 
+        RIGHTS-HOLDERS LOST A BATTLE BUT WINNING 
+        THE WAR) 
+ 
+¶1. (SBU) Summary and Action Request: As predicted (ref Ottawa 
+1725), the GOC has now tabled draft legislation amending the 
+Copyright Act.  The amendments are intended to implement the 
+provisions of the WIPO Copyright Treaty and the WIPO 
+Performances and Phonograms Treaty; however, industry 
+commentators have serious doubts about certain aspects of the 
+legislative text.  Our readthrough and initial rights-holder 
+feedback suggests that the legislation may provide inadequate 
+protection against hackers and that Internet Service 
+Providers will not be made responsible for illegal activity 
+which they may make possible in their capacity as hosts since 
+the legislation seems to provide for a 'notice-and-notice' 
+process rather than the U.S. model of 'notice-and-takedown'. 
+We have provided the text of the amendment (at www.parl.gc.ca 
+then click on "bills" then "government bills" then C-60) and 
+the text of the original act (at laws.justice.gc.ca/en/C-42/) 
+to various USG IPR experts.  Action Request:  To make the 
+case for stronger rules in areas such as Internet Service 
+Provider liability, please provide a clear USG reaction to 
+the draft legislation for us to use in discussion with 
+stakeholders, legislators, GOC agencies and the press.  End 
+Summary. 
+ 
+Notice-and...what? 
+ 
+¶2. (SBU)  The draft legislative text was tabled on June 20, 
+and a quick review with local copyright experts produced the 
+following observations.  The legislation includes a detailed 
+series of requirements that rights holders must meet in order 
+to inform an ISP that its users are infringing copyrights 
+(including a list of information that must be provided about 
+the infringers, and the statement that the rights holders may 
+be required to pay a fee for the privilege of informing the 
+ISP).  What the amendment does not include, however, is a 
+requirement for an ISP to address this problem.  Far from 
+notice-and-takedown requirements which allow rights holders 
+to require the ISP to remove infringing files, the 
+legislation would require only that ISPs pass on complaints 
+to their clients and keep records of the complaints (a press 
+release from the Entertainment Software Association of Canada 
+describes this as allowing ISPs "to wink and nod at illegal 
+activity".)  One industry consultant points out that the 
+fines if ISPs do not comply with this notice-and-keep-records 
+scheme (a maximum of $5000 for not passing on the complaint 
+and a maximum of $10,000 for not keeping records) are not 
+even high enough to make it worth the costs of a court case. 
+This consultant also emphasized the fact that the draft 
+legislation seems to put privacy rights above intellectual 
+property rights, by not requiring ISPs to provide any 
+information about infringers.  This is in contrast to the 
+judgment in the recent appeals court case (ref Ottawa 1571) 
+which affirmed that "(a)lthough privacy concerns must also be 
+considered...they must yield to public concerns for the 
+protection of intellectual property rights in situations 
+where infringement threatens to erode those rights." 
+ 
+But did they mean it, and did they know? 
+ 
+¶3.  (SBU)  As in the GOC's previous statements before tabling 
+the draft text, there are lingering questions about the role 
+of intent as well as new questions about the role of 
+knowledge in infringement.  Various sections of the draft 
+include language such as providing injunctions against anyone 
+who "...circumvents, removes or in any way renders 
+ineffective a technological measure protecting any material 
+form of the work...for the purpose of an act that is an 
+infringement of the copyright..." or anyone who "...knows, or 
+ought to know, that the removal or alteration will facilitate 
+or conceal any infringement of the owner's copyright."  This 
+question of intent was of serious concern to certain 
+interlocutors when it first arose (ref Ottawa 1571), but it 
+has not yet been the focus of many of the comments we have 
+received from rights-holders groups.  One analyst suggests 
+that the knowledge proviso may, in fact, coincide with 
+similar provisions in the WIPO language itself, while another 
+states that the legislation only goes "halfway" towards 
+addressing Canada's international commitments, pointing out 
+that "the anti-circumvention prohibitions, as drafted, make 
+it a practical impossibility for law enforcement officers and 
+rights holders to pursue legal action against those who 
+manufacture circumvention devices."  We anticipate further 
+clarification on this issue, and we welcome any insights from 
+USG copyright experts. 
+ 
+Happy to have it, if not particularly happy with it 
+ 
+¶4.  (SBU)  Local copyright experts and stakeholders generally 
+seem pleased that the GOC has finally tabled legislation, 
+providing them with draft text for further analysis and 
+criticism.  Most rights holders, however, are not satisfied 
+with the provisions of the text in current form.  Provincial 
+education authorities may call for even less-stringent rules, 
+while rights-holders groups will push for strengthening of 
+the provisions described in paragraphs 2 and 3. 
+Additionally, with an election likely to be held after 
+Parliament returns in September, there is little chance that 
+this legislation will pass in 2005.  While this additional 
+potential delay is frustrating for many stakeholders, certain 
+interlocutors have informed us that it gives them additional 
+time to work towards improvements in the text. 
+ 
+¶5.  (SBU)  Earlier this week we sent links to the legislation 
+and the Copyright Act itself (as in the Summary) to various 
+USG copyright experts.  We appreciate the feedback we have 
+already received and look forward to a detailed USG position 
+on the draft legislation. 
+ 
+Visit Canada's Classified Web Site at 
+http://www.state.sgov.gov/p/wha/ottawa 
+ 
+WILKINS

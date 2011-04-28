@@ -1,0 +1,364 @@
+03OTTAWA2125
+CANADA: HIGH ON HYDROGEN
+Thu Jul 24 00:00:00 +0200 2003
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 04 OTTAWA 002125 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: SENV ENRG TRGY CA
+SUBJECT: CANADA: HIGH ON HYDROGEN 
+ 
+REF: REF: (A) STATE 146268 (B) OTTAWA 01721 
+ 
+¶1. SUMMARY:  This cable provides an overview of Canada's 
+public and private efforts to develop technologies for the 
+use of hydrogen as a fuel.  Natural Resources Canada (NRCan) 
+is drafting a detailed national plan for directing Canadian 
+hydrogen efforts ("Canadian Hydrogen Roadmap"), but it is at 
+least one year away from completion, according to GOC 
+officials.  On April 15, Industry Canada released its 
+"Canadian Fuel Cell Commercialisation Roadmap," a document 
+that will complement the expected "Hydrogen Roadmap." 
+Research teams at the National Research Council (NRC) labs in 
+Ottawa and Vancouver are working on the next generation of 
+PEM (proton-exchange membrane) and solid oxide fuel cell 
+(SOFC) components to find ways to lower the cost, reduce the 
+size, and improve the efficiency of fuel cells.  High-profile 
+Canadian corporations, some of them world leaders in their 
+field, are also doing their part to spur the development of 
+hydrogen-related technology and infrastructure in Canada (see 
+paras 10-11).  Given its expertise in some hydrogen 
+technologies, Canada could contribute significantly to the 
+development of the hydrogen economy in North America, and we 
+recommend continued close collaboration between governments 
+and the private sectors of the US and Canada.  END SUMMARY. 
+ 
+GOC:  BRING ON THE HYDROGEN ECONOMY 
+----------------------------------- 
+ 
+¶2.  The Canadian Government (GOC) has made a multi-agency 
+commitment to developing the hydrogen economy.  Natural 
+Resources Canada's (NRCan's) hydrogen-related research and 
+development (H2 R&D) is handled by the CANMET Energy 
+Technology Centre (CETC).  Vesna Scepanovic, Hydrogen and 
+Fuel Cell Program Manager of the CETC, highlighted for Emboff 
+the GOC's strong interest in supporting private H2 R&D, as 
+well as performing some of its own.  She emphasized NRCan's 
+leading role in 20 years of H2 R&D for a total expenditure of 
+C$183 million (US$133 million), not including the new 
+Canadian Transportation Fuel Cell Alliance (see para 3).  She 
+pointed out that more recently involved GOC agencies include 
+Transport Canada, the National Research Council (NRC), and 
+Environment Canada.  Scepanovic said that Industry Canada and 
+the Department of National Defence (DND) are becoming more 
+interested in the use of hydrogen, as shown by Industry 
+Canada's release of the Fuel Cell Commercialisation Roadmap 
+in April (see paras 7-9).  Scepanovic mentioned that NRCan is 
+currently working on a Canadian Hydrogen Roadmap that will 
+take at least one year to develop.  She commented that it 
+should have predated the Fuel Cell Roadmap because the new 
+Hydrogen Roadmap will be a more comprehensive plan, 
+including, but not limited to, fuel cell technology. 
+ 
+¶3.  In 2000, under the Canadian Climate Change Action Plan, 
+CETC created the Canadian Transportation Fuel Cell Alliance 
+(CTFCA).  The CTFCA is an organization that brings together 
+more than 60 universities, private companies, and government 
+agencies.  Richard Fry, CTFCA's Fuel Cell Infrastructure 
+Program Manager, told Emboff that his program will receive 
+C$23 million (US$17 million) over five years (ending in 2005) 
+through NRCan to fund projects on hydrogen fueling stations 
+and demonstrations of hydrogen production from methanol, 
+natural gas, electrolysis, and recovery of waste hydrogen. 
+Fry acknowledged some GOC interest in hydrogen production 
+from nuclear power sources and observed that Geoffrey 
+Ballard, founder of Canadian fuel cell producer Ballard 
+Power, publicly supports the idea.  However, Fry and other 
+officials indicate a preference for renewable sources of 
+hydrogen production, although current government funding of 
+wind and solar projects is weak.  For now Canada continues to 
+produce the majority of its hydrogen from fossil fuels. 
+Major CTFCA partners include Ballard Power Systems, Ford 
+Motor Company, Hydrogenics Corporation, QuestAir 
+Technologies, and Stuart Energy Systems (for more details on 
+these Canadian companies see para 10). 
+ 
+¶4.  The National Research Council of Canada (NRC) does 
+significant research related to PEM (proton-exchange 
+membrane) fuel cells and SOFCs (solid-oxide fuel cells). 
+Senior researchers in Ottawa are applying their expertise and 
+lab capacity in materials science towards specific fuel cell 
+applications, while a more focused fuel cell program is 
+growing at NRC's Institute for Fuel Cell Innovation in 
+Vancouver.  One project involves reducing the amount of 
+platinum needed in fuel cell catalysts, which could 
+drastically lower their cost.  NRC officials emphasize that 
+they are a "crown corporation" distinct from the GOC (which 
+in any case provides most of their funding).  NRCan and its 
+CANMET labs form the epicenter of GOC hydrogen research and 
+policy. 
+ 
+KYOTO RATIFICATION PROVIDES IMPETUS 
+----------------------------------- 
+¶5.  The GOC ratified the Kyoto protocol in late 2002 and 
+views hydrogen as a potential tool for important reductions 
+in greenhouse gas emissions.  Technology Early Action 
+Measures (TEAM), a division of the Climate Change Action Fund 
+(CCAF), provides investment for technology that promises to 
+reduce emissions while sustaining social and economic 
+development.  TEAM, which encourages clean energy solutions 
+that can be marketed quickly, was initially budgeted C$60 
+million (US$44 million) from its inception in 1998 to 2001. 
+An additional C$35 million (US$25 million) will see it 
+through to 2004.  In one example of hydrogen technology 
+investment, TEAM provided C$1.1 million (US$822,000) for an 
+Ontario Power Technologies project in 2000 to build a 
+prototype heat and power plant to run on fuel cells. 
+ 
+¶6.  Hydrogen has also attracted attention and funding from 
+Technology Partnerships Canada (TPC), a loan program that 
+supports private sector R&D.  For example, TPC invested 
+C$4.34 million (US$3.24 million) in Stuart Energy Systems in 
+1999 for the design of a cost-effective refueling system for 
+hydrogen-powered buses. 
+ 
+"CANADIAN FUEL CELL COMMERCIALISATION ROADMAP" 
+--------------------------------------------- - 
+ 
+¶7.  Industry Minister Allan Rock released the "Canadian Fuel 
+Cell Commercialisation Roadmap" on April 15 of this year 
+(information available at www.strategis.ic.gc.ca).  In it, 
+the GOC identifies the economic and environmental goals of H2 
+fuel cell development, such as cleaner air and lower 
+climate-changing emissions levels (towards Kyoto 
+requirements).  It views hydrogen as an important energy 
+resource for transportation, heating, and power generation. 
+The GOC believes it holds a world leadership position in this 
+sector and endorses the roadmap as a way to maintain a 
+Canadian edge in a global hydrogen economy.  The Roadmap 
+profiles no fewer than 96 Canadian players, 42 of which are 
+GOC agencies (Environment Canada, TPC, NRCan's TEAM, Industry 
+Canada, Transport Canada) or NGOs (CHA, Fuel Cells Canada). 
+The other 54 profiles are broken into three categories:  Fuel 
+Cell Producers (Hydrogenics, Ballard Power), Parts and 
+Systems Suppliers (QuestAir, Vandenborre), and Fueling 
+Infrastructure (Stuart Energy).  (For details on these 
+participants see para 10). 
+ 
+¶8.  Most economic data in the Roadmap is from 2001.  The GOC 
+estimates 1,800 Canadian jobs are directly connected and 
+dedicated to the fuel cell industry, 76% of which are located 
+in Western Canada (concentrated in British Columbia).  This 
+number is thought to have remained stable over the last two 
+years and represents mostly university and community college 
+graduates.  According to the GOC, 2001 fuel cell industry 
+revenues were estimated at C$96.9 million (US$70.1 million), 
+with 70% coming from Western Canada.  The GOC predicts 70% 
+revenue growth between 2001 and 2003, resulting in an 
+estimated C$165.2 million (US$119.5 million) in Canadian fuel 
+cell industry revenue this year.  For purposes of comparison, 
+the US fuel cell market is estimated to be worth about US$1.4 
+billion this year (according to a report from the Business 
+Communications Company, Inc., website www.bccresearch.com). 
+Using those numbers, the Canadian fuel cell market is roughly 
+5% the value of the US fuel cell market, which may seem 
+insignificant until one realizes that 2002 nominal Canadian 
+GDP was about 7% of US GDP.  Thus one can see that the fuel 
+cell market is playing an equally important role in the 
+Canadian economy proportionate to the US fuel cell market and 
+economy. 
+ 
+ROADMAP TO GREATER EFFICIENCY 
+----------------------------- 
+ 
+¶9.  The "Roadmap" recommends strategies to stimulate early 
+market demand by showcasing technology and educating the 
+public.  To improve product quality while reducing cost, the 
+Roadmap promotes information sharing and the adoption of 
+common performance and technical standards between 
+researchers and developers, the private sector, and academic 
+institutions.  To help in the financing of H2 fuel cell R&D, 
+the Roadmap proposes tax incentives and matching funds for 
+related investments.  The GOC intends to "take a lead role in 
+setting codes and standards for fuel, fuel cells, and fueling 
+systems."  The Roadmap concludes with the goal of "developing 
+a national fuel cell strategy within the next year" and 
+incorporating Roadmap working groups into Fuel Cells Canada, 
+an industry association that actually began as part of 
+Industry Canada (see para 14). 
+ 
+SAMPLING OF CANADIAN COMPANIES RECEIVING GOC FUNDS 
+--------------------------------------------- ----- 
+ 
+¶10.  The bulk of Canadian private sector H2 R&D efforts (87% 
+of all Canadian fuel cell R&D) is clustered around Vancouver, 
+British Columbia (B.C.), only 150 miles north of Seattle. 
+Another center of private hydrogen activity is in the Toronto 
+area.  Following is a summary of some major private sector 
+players with their location, their focus, and their GOC 
+funding: 
+ 
+COMPANY:  Ballard Power Systems 
+   LOCATION:  Burnaby, B.C. (Vancouver area) 
+   FOCUS/PRODUCT:  World leader of PEM (proton exchange 
+                   membrane) fuel cell manufacturing. 
+   GOC FUNDING:  CETC funds in early 90s for fuel cells in 
+                 city buses; C$8m (US$5.8m) from NRCan, 
+                 Industry Canada, Environment Canada,and 
+                 Transport Canada for fuel cells in Ford 
+                 cars. 
+ 
+COMPANY:  QuestAir Technologies 
+   LOCATION:  Burnaby, B.C. (Vancouver area) 
+   FOCUS/PRODUCT:  Hydrogen and methane harvesting through 
+                   gas purification and separation. 
+   GOC FUNDING:  C$9.6m (US$7m) from TPC for H2 
+                 purification technology R&D.  Government 
+                 of British Columbia has also funded 
+                 QuestAir R&D. 
+ 
+COMPANY:  Stuart Energy, owns Vandenborre Hydrogen 
+          Technologies (formerly Belgian) 
+   LOCATION:  Mississauga, Ontario (Toronto area) 
+   FOCUS/PRODUCT:  Hydrogen refueling and power back-up 
+                   systems.  Active in European and Asian 
+                   markets. 
+   GOC FUNDING:  C$5.8m (US$4.2m) from TPC and CCAF for 
+                 cost-effective and reliable method of 
+                 refueling hydrogen fuel cell buses. 
+ 
+COMPANY:  Hydrogenics Corporation 
+   LOCATION:  Mississauga, Ontario (Toronto area) 
+   FOCUS/PRODUCT:  Constructs power generation systems 
+                   based on PEM fuel cells.  Named Canada's 
+                   fastest growing company during last 5 
+                   years by PROFIT magazine. 
+   GOC FUNDING:  C$500,000 (US$364,000) from NRCan for 
+                 10-kilowatt fuel cell power module for use 
+                 in forklifts, utility and mining vehicles. 
+ 
+ 
+ 
+SOME CANADIAN COMPANIES ARE WORLD LEADERS IN THEIR FIELD 
+--------------------------------------------- ----------- 
+ 
+¶11.  The above list details only four of a large group of 
+Canadian companies making significant steps forward in the 
+development of hydrogen technology.  The following Canadian 
+firms are considered to be among the world's leaders in their 
+fields: 
+ 
+Ballard Power 
+     PEM (proton-exchange membrane) technology 
+ 
+Dynetek 
+     Compressed hydrogen storage 
+ 
+Greenlight Division of Hydrogenics 
+     Fuel cell systems testing 
+ 
+HERA Hydrogen Storage Systems 
+     Hydrogen storage in light-weight hydride materials 
+     and R&D on carbon-based materials for H2 storage. 
+ 
+ 
+HYDROGEN ECONOMY OFF TO A GOOD START 
+------------------------------------ 
+ 
+¶12.  The Canadian private sector foresees strong consumer 
+demand for hydrogen-powered products in the near future and 
+many products are already on the market.  Stuart Energy has 
+mobile and permanent hydrogen refueling stations running; 
+Hydrogenics offers portable and stationary hydrogen-run power 
+generators; Ballard fuel cells are in both Coleman Powermate 
+generators and Daimler/Chrysler buses and cars.  According to 
+Stuart Energy, modifying a current internal combustion engine 
+to run on hydrogen (cutting emissions dramatically) costs 
+only about US$700, meaning that large numbers of Canadians 
+(and Americans) could be driving hydrogen-powered vehicles 
+today.  Companies such as Stuart Energy that are not 
+primarily involved with fuel cell technology (whose practical 
+applications are still 15-20 years away) see the 'hydrogen 
+economy' as a more immediate subset of the larger economy. 
+Instead of replacing contemporary energy sources, hydrogen 
+can complement them and help optimize their use through its 
+ability to store energy during off-peak hours for emergency 
+use during times of heavy demand. 
+ 
+BUSINESS ACROSS THE BORDER 
+-------------------------- 
+ 
+¶13.  Private sector players in the US and Canada are showing 
+a healthy degree of teamwork with regard to hydrogen 
+technology and applications.  Companies on both sides of the 
+border belong to the same H2 industry organizations (Ballard 
+Power, for example, is a member of the Canadian Fuel Cell 
+Partnership, and Ford Motor Company is a partner of the 
+Canadian Transportation Fuel Cell Alliance).  Some companies 
+are conducting joint projects; for instance, US General 
+Motors is working with Canadian firms Hydrogenics and General 
+Hydrogen, and Ford is working with Stuart Energy and Ballard 
+Power.  Canadian and American businesses would both benefit 
+from a compatible, balanced and strong hydrogen 
+infrastructure on both sides of the border, so they have an 
+incentive to cooperate in working towards that goal.  GOC 
+officials confirmed that any multinational with an office 
+based in Canada qualifies for hydrogen-related government 
+funds, which might make American private investment in 
+hydrogen projects in Canada even more attractive. 
+ 
+H2 INDUSTRY ASSOCIATIONS IN CANADA 
+---------------------------------- 
+ 
+¶14.  A host of organizations have sprung up in efforts to 
+coordinate the hydrogen-related activities of industries, 
+universities, research institutions, the GOC and provincial 
+governments.  Two examples are Fuel Cells Canada (based in 
+the NRC's Institute for Fuel Cell Innovation in Vancouver) 
+and the Canadian Hydrogen Association (CHA, offices in 
+Toronto and Montreal).  Fuel Cells Canada, a non-profit 
+industry association that began with support from the 
+National Research Council (NRC), provides support and 
+services for continuing demonstration, development, and 
+deployment of hydrogen fuel cell technology.  The CHA, also 
+non-profit, sponsors and organizes meetings and conferences 
+for its members and promotes educational activities in 
+schools.  CHA members include Ballard Power, Dynetek, General 
+Hydrogen, Hydrogenics, and Stuart Energy.  These two 
+associations form the industry framework for plans like the 
+Fuel Cell Commercialisation Roadmap that call for a wide 
+variety of players dealing in different sectors of the 
+hydrogen economy. 
+ 
+US-CANADIAN COORDINATION: KEEPING THE LIGHT ON 
+--------------------------------------------- - 
+ 
+¶15.  Although NRCan already collaborates with DOE on hydrogen 
+safety standards and educational outreach projects, their 
+hydrogen managers at the working level are eager for further 
+bilateral coordination.  Fortunately NRCan officials say that 
+they do not feel they are duplicating US H2 R&D efforts. 
+While both countries' scientists are researching many of the 
+same issues, they are "developing very specific 
+technologies."  In the recent bilateral energy consultations 
+held in Ottawa, the GOC committed to participation in the 
+International Partnership for the Hydrogen Economy (IPHE, REF 
+A), despite concerns of potential overlapping with the 
+International Energy Agency's (IEA's) Hydrogen Control Group 
+(HCG) (REF B). 
+ 
+¶16.  COMMENT:  While the GOC has a long track record of fuel 
+cell funding and research, its attention to the significant 
+matters of hydrogen production, storage, and transport is 
+relatively new.  These areas would benefit greatly from 
+USG-GOC coordination.  It is still unclear to some GOC 
+officials how best to engage in successful North American H2 
+R&D collaboration with the US, which they all agree is very 
+desirable.  Post believes that US and Canadian bilateral and 
+multilateral cooperation on hydrogen technologies will help 
+cement both countries' leading positions in the coming global 
+hydrogen economy.  END COMMENT. 
+CELLUCCI

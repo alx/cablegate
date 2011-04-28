@@ -1,0 +1,253 @@
+07OTTAWA2029
+INFORMATION ON HOST GOVERNMENT PRACTICES -
+Mon Nov 05 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ottawa
+VZCZCXRO8107
+PP RUEHGA RUEHHA RUEHQU RUEHVC
+DE RUEHOT #2029/01 3091443
+ZNR UUUUU ZZH
+P 051443Z NOV 07
+FM AMEMBASSY OTTAWA
+TO RUEHC/SECSTATE WASHDC PRIORITY 6846
+INFO RUCNCAN/ALL CANADIAN POSTS COLLECTIVEUNCLAS SECTION 01 OF 03 OTTAWA 002029 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PTER PREL KVPR PGOV PINR CVIS ASEC KHLS CA
+SUBJECT: INFORMATION ON HOST GOVERNMENT PRACTICES - 
+INFORMATION COLLECTION, SCREENING, AND SHARING; CANADA 
+ 
+REF: STATE 133921 
+ 
+¶1. (SBU)  Officials of the Canadian Border Services Agency 
+(CBSA) declined to meet with Emboffs to discuss elements of 
+their border practices in time to meet the deadline for 
+responding to reftel.  The entire issue of "Watch-listing" is 
+extremely politically sensitive in Canada.  Therefore, 
+responses below are based on observation and interaction of 
+various Embassy offices with their Canadian counterparts. 
+ 
+¶2.  (SBU)  Responses are linked to para six of reftel. 
+ 
+¶A. Watchlisting: 
+ 
+-- the current Canadian Watchlist contains approximately 2000 
+records.  We have no breakdown of the watchlist by content. 
+The Canadian Security Intelligence Service (CSIS) maintains 
+the watchlist. 
+ 
+¶B. Traveler Information Collection: 
+ 
+--  What are the country's policies (legislation, mandates, 
+etc.) on collecting information from travelers arriving in 
+the country?: Essentially the same as the United States. 
+ 
+--  Are there different policies for air, sea, and land entry 
+and for domestic flights?: Policies are not officially 
+different.  But data collection is more thorough at the air 
+and sea ports of entry than the land border. 
+ 
+--  Who collects traveler information?:  CBSA 
+ 
+--  What are the policies of the collecting agency to share 
+that information with foreign governments?:  Canadian privacy 
+laws severely limit information-sharing with regard to 
+Canadian citizens or persons with a legal status in Canada. 
+Information on others is more freely shared. 
+ 
+-- Does the host government collect Passenger Name Record 
+(PNR) data on incoming commercial flights or vessels?  Is 
+this data used for intelligence or law enforcement purposes 
+to screen travelers?  Does host government have any existing 
+treaties to share PNR data?:  Canada collects PNR data, but 
+we have no information as to the extent this data is used for 
+screening travelers. 
+ 
+-- If applicable, have advance passenger information systems 
+(APIS), interactive advanced passenger information systems 
+(IAPIS), or electronic travel authority systems been 
+effective at detecting other national security threats, such 
+as wanted criminals?:  Not available. 
+ 
+ ¶C.  Border Control and Screening: 
+ 
+-- Does the host government employ software to screen 
+travelers of security interest?:  Yes.  National Record 
+Assessment Center (NRAC) 
+ 
+-- Are all travelers tracked electronically, or only 
+non-host- country nationals?  What is the frequency of 
+travelers being "waived through"  because they hold up what 
+appears to be an appropriate document, but whose information 
+is not actually recorded electronically?  What is the 
+estimated percentage of non-recorded crossings, entries and 
+exits?:  All travelers are tracked only at entry.  All 
+travelers are entering by land or sea are entered 
+electronically.  The majority of land entries are entered 
+electronically. 
+ 
+-- Do host government border control officials have the 
+authority to use other criminal data when making decisions on 
+who can enter the country? If so, please describe this 
+authority (legislation, mandates, etc):  Yes.  CBSA has MOU's 
+with responsible agencies to use their information in making 
+entry decisions. 
+ 
+ -- What are the host government's policies on questioning, 
+detaining and denying entry to individuals presenting 
+themselves at a point of entry into the country?  Which 
+agency would question, detain, or deny entry?:  CBSA has the 
+authority and its practices are similar to those in the 
+United States. 
+ 
+--  How well does information-sharing function within the 
+host government, e.g., if there is a determination that 
+Qhost government, e.g., if there is a determination that 
+someone with a valid host government visa is later identified 
+with terrorism, how is this communicated and resolved 
+internally?:  Interagency cooperation is not particularly 
+good within the Canadian bureaucracy. 
+ 
+¶D.  Biometric Collection: 
+ 
+OTTAWA 00002029  002 OF 003 
+ 
+ 
+ 
+-- Are biometric systems integrated for all active POEs? 
+What are the systems and models used?:  No, they are still 
+being integrated. 
+ 
+--  Are all passengers screened for the biometric or does the 
+host government target a specific population for collection 
+(i.e. host country nationals)? Do the biometric collection 
+systems look for a one to one comparison (ensure the 
+biometric presented matches the one stored on the e-Passport) 
+or one to many comparison (checking the biometric presented 
+against a database of known biometrics)?:  No 
+ 
+-- If biometric systems are in place, does the host 
+government know of any countermeasures that have been used or 
+attempted to defeat biometric checkpoints?:  Not available. 
+ 
+-- What are the host government's policies on collecting the 
+fingerprints of travelers coming into the country?: 
+Fingerprints may only be collected for specific reasons such 
+as Refugee Applicant, Suspected Criminal. 
+ 
+--  Which agency is responsible for the host government's 
+fingerprint system?:  Royal Canadian Mounted Police (RCMP) 
+ 
+--  Are the fingerprint programs in place NIST, INT-I, EFTS, 
+UK1 or RTID compliant?:  Not available. 
+ 
+--  Are the fingerprints collected as flats or rolled? Which 
+agency collects the fingerprints?:  Either process may be 
+used depending on the circumstances.  CBSA collects the 
+prints at the Port of Entry. 
+ 
+ ¶E.  Passports: 
+ 
+--  If the host government issues a machine-readable passport 
+containing biometric information, does the host government 
+share the public key required to read the biometric 
+information with any other governments?  If so, which 
+governments?:  There is no sharing. 
+ 
+--  Does the host government issue replacement passports for 
+full or limited validity (e.g. the time remaining on the 
+original passports, fixed validity for a replacement, etc.)?: 
+ Except for temporary, emergency passports, replacement 
+passports are issued for a full validity.  They are 
+considered new passports. 
+ 
+--  Does the host government have special 
+regulations/procedures for dealing with "habitual" losers of 
+passports or bearers who have reported their passports stolen 
+multiple times?:  There is no basis for denying issuance of a 
+passport except for a violation of law. 
+ 
+--  Are replacement passports of the same or different 
+appearance and page length as regular passports (do they have 
+something along the lines of our emergency partial duration 
+passports)?:  Replacement passports are considered fully 
+valid new passports.  There is a short validity emergency 
+passport issued by overseas offices that has a different 
+appearance. 
+ 
+--  Do emergency replacement passports contain the same or 
+fewer biometric fields as regular-issue passports?: 
+Emergency passports have no biometric fields. 
+ 
+--  Where applicable, has Post noticed any increase in the 
+number of replacement or "clean" (i.e. no evidence of prior 
+travel) passports used to apply for U.S. visas?:  Canadian 
+citizens do not need a visa to enter the United States. 
+ 
+--  Are replacement passports assigned a characteristic 
+number series or otherwise identified?:  No 
+ 
+ ¶F. Fraud Detection 
+ 
+--  How robust is fraud detection and how actively are 
+instances of fraud involving documents followed up?:  It is 
+reasonably robust.  On an individual basis, there is limited 
+follow-up.  Where a pattern is detected or where individual 
+fraud appears as a component for a larger issue, there is 
+significant investigation. 
+ 
+--  How are potentially fraudulently issued documents taken 
+out of circulation, or made harder to use?:  The documents 
+Qout of circulation, or made harder to use?:  The documents 
+are seized and entered into the CBSA Fraudulent Document 
+System. 
+ 
+¶G. Privacy and Data Security 
+ 
+--  What are the country's policies on records related to the 
+ 
+OTTAWA 00002029  003 OF 003 
+ 
+ 
+questioning, detention, or removal of individuals encountered 
+at points of entry into the country?  How are those records 
+stored, and for how long?:  All records are covered by the 
+Access To Information and Privacy Act.  All records are 
+stored in the Field Operation Support System (FOSS).  We have 
+no information on retention policies. 
+ 
+-- What are the country's restrictions on the collection or 
+use of sensitive data?:  Restrictions are based on the Access 
+To Information and Privacy Act, which severely restricts the 
+use or sharing of any collected data. 
+ 
+-- What are the requirements to provide notice to the public 
+on the implementation of new databases of records?:  Not 
+available. 
+ 
+-- Are there any laws relating to security features for 
+government computer systems that hold personally identifying 
+information?:  Yes.  Access To Information and Privacy Act. 
+ 
+-- What are the rules on an individual's ability to access 
+data that homeland security agencies hold about them?:  A 
+Canadian citizen can request copies of data that government 
+agencies hold on him except in the case of security-related 
+data.  But the standards of withholding data are very high. 
+ 
+--  Are there different rules for raw data (name, date of 
+birth, etc.) versus case files (for example, records about 
+enforcement actions)?:  No 
+ 
+--  Does a non-citizen/resident have the right to sue the 
+government to obtain these types of data?:  Yes 
+ 
+Visit our shared North American Partnership blog (Canada & Mexico) at 
+http://www.intelink.gov/communities/state/nap 
+ 
+WILKINS

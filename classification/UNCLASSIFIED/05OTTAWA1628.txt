@@ -1,0 +1,225 @@
+05OTTAWA1628
+FY 2006 IVLP Individual Nomination - Marie-France
+Wed Jun 01 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+011643Z Jun 05UNCLAS SECTION 01 OF 03 OTTAWA 001628 
+ 
+SIPDIS 
+ 
+STATE 
+ 
+SECSTATE FOR ECA/PE/V/R/W - EWILKES-SCOTT; 
+WHA/PDA - JCARPENTER-ROCK 
+MONTREAL, TORONTO AND VANCOUVER FOR PAOS AND CONGENS; 
+HALIFAX AND QUEBEC FOR CONGENS; 
+CALGARY FOR PA FIELD REP; CALGARY PLEASE PASS TO WINNIPEG 
+ 
+E.O. 12958: N/A 
+TAGS: KPAO OEXC SCUL CA IV
+SUBJECT: FY 2006 IVLP Individual Nomination - Marie-France 
+Charbonneau (Principal Candidate) 
+ 
+REFERENCE:  OTTAWA 1504 
+ 
+¶1.   Post is pleased to nominate Ms. Marie-France 
+Charbonneau, Political Attache of the Bloc Qubcois 
+Cabinet, for a 21-day individual project.  EVDB nomination 
+follows. 
+ 
+¶2. START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+DB 
+VERSION: 3.0.7 
+POST-EMAIL: slw@pd.state.gov 
+TRANSMITTING-POST: PAS Ottawa 
+TRANSMITTING-POST-ID: 6540 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VRW 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 350 
+ECA-PROJ-NO: 
+PROJ-NAME: Charbonneau, Marie-France - Individual 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 0 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1037 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 6540 
+FUNDING-CNTRY-ID: 322158 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Federalism/U.S. Government 
+START BIO: 
+PREFIX: Ms. 
+F-NAME: Marie-France 
+M-NAME: 
+L-NAME: Charbonneau 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: 3750 Crmazie Boulevard East 
+M-ADDR2: Suite 307 
+M-ADDR3: 
+M-CITY: Montreal 
+M-STATE: Quebec 
+M-CNTRY: Canada 
+M-ZONE: H2A 1B6 
+M-ZIP: 
+M-PHONE: (514) 526-3000 
+M-FAX: (514) 526-2868 
+ 
+M-EMAIL: mfcharbonneau@bloc.org 
+M-CNTRY-ID: CA 
+M-ADDRTYPE: B 
+GENDER: F 
+DOB: 08/12/1964 
+MAR-STAT: U 
+BIRTH-CITY: Montreal 
+BIRTH-CNTRY: Canada 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+Political Attache - Bloc Qubcois Cabinet 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Charbonneau has worked for the Bloc Qubcois since 1992. 
+Previously, she served as Interim General Director, 
+Communications Director and Riding Political Attache to 
+then-MP Gilles Duceppe.  Prior to 1992, Charbonneau worked 
+for the Parti Qubcois, as Political Attache to then-MP 
+Bernard Landry, Liaison Officer, Fte Nationale Coordinator 
+and candidate in the Saint-Laurent riding (1989). 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Short holidays in New England and Florida 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Two holiday trips to France 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Currently completing a Masters degree in Public 
+in Public 
+Administration at  AP ( ole nationale d'administration 
+publique). Some studies in law. 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Bloc Qubcois, Parti Qubcois 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+None 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+Smoker 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 3 
+ENGL-SPEAK: 2 
+ENGL-COMP: 3 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: PAO Alyson Grunder 
+START MEMO NOMINATING-JUSTIFICATION: 
+Since the Bloc Quebecois' strong showing in the 2004 federal 
+election, we have been on the lookout for a BQ 
+representative to nominate for the IV program.  We believe 
+Marie-France Charbonneau, Bloc political advisor, would make 
+an excellent candidate for a program devoted to current 
+issues in U.S.-Canada relations, federalism and 
+decentralization in the U.S. political system, and U.S. 
+.S. 
+perspectives on globalization, including its impact on 
+international security. 
+Charbonneau proved her loyalty to the Quebec separatist 
+movement when early in her career she ran for the provincial 
+legislature as a sacrificial Parti Quebecois lamb, in a 
+strong Liberal (federalist) riding.  Since that 1989 race, 
+she has worked continuously as a political advisor to senior 
+PQ and Bloc politicians, including former Quebec Premier 
+Bernard Landry, and currently, BQ leader Gilles Duceppe. 
+Charbonneau is bright, trusted and supported by the inner 
+circle of senior elected officials in the Bloc.  She was 
+tasked with planning and organizing Duceppe's public events 
+during the 2004 election campaign, and his recent speaking 
+tours outside of Quebec.  Charbonneau well understands that 
+the U.S. strongly favors a united Canada, but she makes the 
+case that Americans need to understand that the sovereignist 
+cause has many supporters in Quebec, including among young 
+voters.  She, and her separatist colleagues, would also 
+benefit from hearing the American arguments for federalism, 
+within a decentralized political system. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ConGen Montreal 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: INTERPRETER 
+NOMINEE-ID: 532 
+PERSON-ID: 409 
+BIRTH-CNTRY-ID: CA 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: I 
+NOM-POST-ID: 6540 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 45.1001 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+DICKSON, CHARGE

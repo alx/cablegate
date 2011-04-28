@@ -1,0 +1,191 @@
+08MONTREAL59
+ICAO: SECOND MEETING OF THE SPECIAL LEGAL SUB-COMMITTEE ON
+Wed Mar 05 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Montreal
+VZCZCXYZ0069
+OO RUEHWEB
+
+DE RUEHMT #0059/01 0651954
+ZNR UUUUU ZZH
+O 051954Z MAR 08
+FM AMCONSUL MONTREAL
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 0828
+INFO RULSDMK/DOT WASHDC
+RUEKJCS/SECDEF WASHDC
+RHMFIUU/FAA NATIONAL HQ WASHINGTON DC
+RUEAWJA/DOJ WASHDC
+RHEBAAA/USDOE WASHDC
+RHEFHTA/TSA HQ WASHDCUNCLAS MONTREAL 000059 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+DOT FOR OST AND OGC 
+FAA FOR AGC-JENNISON 
+TSA FOR GENERAL COUNSEL 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: AORC EAIR ICAO KNNP OTRA KTIA PARM XX
+SUBJECT: ICAO: SECOND MEETING OF THE SPECIAL LEGAL SUB-COMMITTEE ON 
+THE PREPARATION OF ONE OR MORE INSTRUMENTS ADDRESSING NEW AND 
+EMERGING THREATS 
+ 
+REFS:  A) STATE 013631 B) STATE 017530 (NOTAL) 
+ 
+SENSITIVE BUT UNCLASSIFIED - PLEASE PROTECT ACCORDINGLY. 
+ 
+¶1. (U) SUMMARY:  The International Civil Aviation Organization 
+(ICAO) Special Legal Sub-Committee on New and Emerging Threats met a 
+second time (February 19-21, 2008) to consider the issue of unlawful 
+transport by air of particularly dangerous goods and related items 
+and fugitives, as directed by a November 28, 2007 decision of the 
+ICAO Council (see ref A).  The Sub-Committee agreed to incorporate 
+"transport of materials" offenses into the draft amendment to the 
+Montreal Convention, using substantively identical text as that 
+included in the 2005 Protocol to the Convention on the Suppression 
+of Unlawful Acts against the Safety of Maritime Navigation (SUA). 
+The Sub-Committee did not reach consensus on whether the amendment 
+to the Montreal Convention should include a fugitives transport 
+offense; however, it was agreed that such a provision would be added 
+in brackets for future consideration.  The ICAO Secretariat plans to 
+prepare new draft texts of both the Hague and Montreal Conventions 
+and to seek an ICAO Council decision on whether the draft is ready 
+to forward to the entire ICAO Legal Committee.  END SUMMARY. 
+ 
+¶2. (U) TRANSPORT OFFENSES: 
+ 
+a. Explosives, radioactive material, WMD and related items:  The 
+Sub-Committee considered two options, proposed by Australia, for 
+incorporating transport offenses into the draft amendment to the 
+Montreal Convention:  Option A would adapt for aviation purposes the 
+text in the 2005 SUA Protocol.  Option B would criminalize unlawful 
+transport of "high consequence dangerous goods" as defined in Annex 
+18 to the Chicago Convention.  The U.S. delegation (per ref B 
+guidance) supported Option A.  Eleven other states spoke; all 
+supported inclusion of transport offenses for WMD and related items, 
+either in general or specifically via Option A.  No country 
+supported Option B.  Below is additional background on the 
+discussion of the "transport of materials" offense provisions: 
+ 
+-- India submitted a working paper claiming the SUA Protocol 
+provisions would implicate innocent persons and discriminate against 
+non-parties to the Nuclear Non-Proliferation Treaty (NPT).  In the 
+course of the meetings, India specifically proposed replacing the 
+term "an IAEA comprehensive safeguards agreement" with "a respective 
+safeguards agreement" or "a safeguards agreement with the IAEA" in 
+the transport offenses text.  India claimed that the exemptions in 
+the SUA Protocol for nuclear dual-use transfers consistent with the 
+NPT applied only to nuclear weapons states-parties to the NPT. 
+South Africa pointed out that the Montreal Convention only 
+criminalizes "unlawful" activities, and an activity conducted under 
+any safeguards agreement would not be unlawful.  Other countries 
+asked for time to study India's proposal; therefore the phrases were 
+placed in brackets. 
+ 
+-- During discussion of the elements of the offense of transport of 
+explosives or radioactive material, Canada stated that the amendment 
+should not cover the failure to obtain a license for otherwise 
+lawful exports of explosives or conventional arms.  The U.S. 
+delegation agreed.  Nevertheless, no agreement was reached on 
+whether to include the terrorist object/purpose element for this 
+offense (as used in the SUA Protocol), or delete it, or replace it 
+with alternate wording. 
+ 
+-- China (two CAAC officials) expressed numerous concerns about 
+incorporating transport offenses during a February 18 bilateral 
+meeting with the U.S. delegation.  Following U.S. explanations, 
+however, China supported the effort during the Sub-Committee 
+meetings.  China expressed concern regarding the applicability of 
+the amendment to state aircraft, noting that there is no standard 
+definition of what a state aircraft is.  China wants to ensure that 
+the offenses would apply only to civil aircraft, and said it might 
+raise this issue again in the future. 
+ 
+b. Fugitives:  Australia also had proposed inclusion of an offense 
+provision requiring criminalization of the act of transporting a 
+fugitive on board an aircraft with the knowledge that the person has 
+committed a terrorist act and the intent of assisting the person in 
+evading prosecution.  The text would be substantively the same as 
+the "transport of fugitives" provision in the 2005 SUA Protocol. 
+Four countries, including the United States, supported inclusion of 
+such a provision in the amendment to the Montreal Convention, while 
+eight countries made negative comments.  The Chair (Thierry Olson of 
+France) decided to insert the provision with brackets. 
+ 
+ 
+ 
+¶3. (SBU) MILITARY EXCLUSION CLAUSE:  Lebanon repeated its concerns 
+and/or opposition to the standard military carve-out included in the 
+amendments to The Hague and Montreal Conventions in July 2007. 
+Lebanon's representative asked for clarity as to what other rules of 
+international law would apply to military forces, since these 
+Conventions would not apply.  The Chair noted that the provisions 
+used standard wording from many other international counterterrorism 
+conventions and that it had received broad support in July 2007. 
+The Chair did not bracket any portion of the military exclusion 
+provisions, but agreed to reflect Lebanon's comments in the Minutes. 
+ No other countries spoke on the military carve-out, and the U.S. 
+Delegation did not consider a U.S. intervention necessary given the 
+Chair's comments. 
+ 
+¶4. (U) CONSPIRACY OFFENSE:  Japan opposed applicability of the 
+conspiracy/criminal association offense provision, agreed upon by 
+the Sub-Committee in July 2007, to the transport offense provisions. 
+The Japanese delegation was confident of Japan's ability to 
+implement domestically a conspiracy provision applicable to the 
+non-transport offense provisions in the Montreal Convention and 
+draft amendment.  However, Japan did not think it would be able to 
+implement a conspiracy provision that applied to transport offenses 
+since "transport," itself, could be viewed as a preparatory act. The 
+Chair objected to revising text that was agreed at the 
+Sub-Committee's first meeting in July 2007, but agreed to note 
+Japan's concerns in the report on the Sub-Committee proceedings. 
+(In a bilateral meeting with Japan on this issue, the U.S. 
+delegation reiterated its view of the importance of extending the 
+conspiracy provision to transport offenses and noted its willingness 
+to work with the Japanese to find an acceptable solution.  Japan 
+informed the U.S. delegation that a draft anti-conspiracy law is 
+being held up in Japan's parliament, hampering Japan's ability to 
+accede to any international conventions that criminalize 
+conspiracy.) 
+ 
+¶5. (U) FORM OF AMENDMENT:  Three options were discussed for the form 
+of the amendments to The Hague and Montreal Conventions: (1) 
+protocols to both Conventions, (2) new consolidated texts of both 
+Conventions, and (3) protocols along with unofficial new 
+consolidated texts.  The Sub-Committee did not reach agreement on 
+which form the amendments should ultimately take. 
+ 
+¶6. (U) NEXT STEPS:  The Sub-Committee discussed whether it needed to 
+meet again before submitting draft texts to the entire Legal 
+Committee.  (Such a meeting could take place in September or October 
+2008).  Senegal and IATA (the global air carrier industry 
+association) supported a third meeting.  Five countries, including 
+the United States, opposed another meeting.  The Chair indicated 
+that, since there was not clear consensus, this issue would be 
+referred to the ICAO Council for a decision sometime in March. 
+(Only the Council has authority to schedule a meeting of the Legal 
+Sub-Committee and allocate funding for it.  USICAO plans to work 
+with like-minded Council members to express objection to another 
+Sub-Committee meeting in order that ICAO, in a tight budget climate, 
+can save money, and to avoid protracted discussion of some of the 
+more contentious issues.) 
+ 
+¶7. (U) PARTICIPANTS:  The Legal Sub-Committee members that attended 
+the meetings were:  Argentina, Australia, Brazil, Canada, China, 
+France, Germany, India, Italy, Japan, Lebanon, Nigeria, Russia, 
+Senegal, Singapore, South Africa, Switzerland, United Kingdom, and 
+United States.  Legal Sub-Committee members Egypt, Finland, Jordan, 
+Mexico, and the UAE did not attend.  At their request, Colombia, the 
+Dominican Republic, Greece, South Korea, Turkey, Uruguay, and the 
+International Air Transport Association (IATA) were allowed to 
+attend as observers. 
+ 
+ 
+Bliss  Marshall

@@ -1,0 +1,292 @@
+04HALIFAX40
+ATLANTIC CANADA/STATEOF MAINE:  ELECTRIC AND NATURAL GAS
+Tue Feb 10 00:00:00 +0100 2004
+UNCLASSIFIED
+Consulate Halifax
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 04 HALIFAX 000040 
+ 
+SIPDIS 
+ 
+COMMERCE FOR 4320/MAC/WH/ON/OIA/BENDER 
+DOE FOR INT'L AND POLICY (PDAS DEVITO) AND IE-141 (DEUTSCH) 
+OES/EGC (MIOTKE AND DEROSA) 
+STATE FOR EB/TPP/BTA EB/ESC/ISC (MCMANUS AND ERVITI), WHA/CAN (WHEELER) 
+ 
+STATE PASS FERC FOR CHAIRMAN WOOD, KEVIN KELLY AND DONALD LEKANG 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EPET ENRG ETRD CA
+SUBJECT: ATLANTIC CANADA/STATEOF MAINE:  ELECTRIC AND NATURAL GAS 
+SUPPLY AND MARKET DEVELOPMENTS 
+ 
+REF: A) 03 OTTAWA 1924; B) 03 OTTAWA 566; C) 03 OTTAWA 503; D) 03 HALIF 
+ 58; E) 02 OTTAWA 3205 
+ 
+ 
+SUMMARY/INTRODUCTION 
+-------------------- 
+ 
+¶1. Several energy infrastructure projects being contemplated in 
+New Brunswick and Nova Scotia promise to bind Atlantic Canada 
+further into the northeastern U.S. gas and electric grids, with 
+likely benefits for New England energy consumers: 
+ 
+- Refurbishment of NB Power's Point Lepreau nuclear generating 
+station (awaiting GoNB political approval). 
+ 
+- Construction of a major power line from Point Lepreau to 
+Bangor (awaiting State of Maine approval). 
+ 
+- Break-up of provincially-owned NB Power into five new entities 
+(awaiting GoNB legislation).  A long run objective among New 
+Brunswick energy leaders is to encourage an integrated electric 
+power market covering New Brunswick, Nova Scotia, Prince Edward 
+Island and much of northern Maine. 
+ 
+- Proposals for liquefied natural gas (LNG) terminals in both 
+provinces (one near Saint John, New Brunswick is expected to 
+start construction by June). 
+ 
+- Either LNG terminal, if completed, would require expansion of 
+the Maritimes and Northeast Pipeline (M&NE -- which runs from 
+offshore Nova Scotia through New England) to approximately twice 
+its current capacity. 
+ 
+¶2. Mission ECON staff paid calls on several government and 
+industry players in New Brunswick and Nova Scotia during late 
+January.  This report, which is based on those conversations, is 
+a joint effort of Amconsul Halifax and Amembassy Ottawa. 
+ 
+END SUMMARY/INTRODUCTION 
+ 
+ 
+ELECTRIC POWER 
+-------------- 
+ 
+¶3.  Northern Maine's power grid is closely integrated with that 
+of Atlantic Canada.  Bangor Hydro is controlled by Halifax-based 
+Emera, the dominant power firm in Nova Scotia.  NB Power 
+officials say that the grids in two Maine counties - Aroostook 
+and Washington - are in effect "part of the New Brunswick grid." 
+ In 2003, NB Power exported roughly 2 terawatt-hours of electric 
+power to Maine (net of imports).  Given recent declines in net 
+power exports from the rest of Canada, NB Power now accounts for 
+around 30 percent of Canada's net power exports to the United 
+States.  NB Power has also historically supplied virtually all 
+of the power needs of neighboring Prince Edward Island. 
+ 
+¶4.  In New Brunswick, the electric power industry is dominated 
+by provincial government-owned NB Power.  NB Power has a mix of 
+hydroelectric and fossil-fuel generation plus a single-reactor 
+nuclear plant at Point Lepreau, about 30 miles from Calais, 
+Maine.  A decision is required soon on whether to replace, 
+refurbish, or decommission the 22-year-old reactor. 
+ 
+¶5.  New Brunswick's options for additional generation are 
+limited.  Despite the presence of the M&NE pipeline (see below), 
+natural gas is not currently available in New Brunswick at 
+prices which would make it economic for power generation.  Few 
+undeveloped hydroelectric sites are available.  The remaining 
+options - burning imported coal or oil - are relatively 
+polluting and carbon-emitting.  They are thus likely to conflict 
+with the Government of Canada's commitment to implement the 
+Kyoto Protocol.  Industry representatives await clarification of 
+this policy, which will probably take several more months - 
+meanwhile, they summarize this problem in the words "regulatory 
+risk". 
+ 
+¶6.  REACTOR RENEWAL:  Provincial government energy officials and 
+NB Power executives are currently hanging on a GoNB decision on 
+the future of the Point Lepreau nuclear plant.  Regulatory 
+approvals are already in place for refurbishment, but the 
+financial cost would be high to purchase large amounts of 
+replacement power while 380 fuel channels in the reactor core 
+are replaced and the turbines and generator are reconditioned. 
+ 
+¶7.  In 2002, citing "no significant economic advantage" from 
+refurbishing, provincial regulators recommended against it. 
+However, Department of Energy officials believe the arguments in 
+favor of refurbishment have strengthened since then, as the 
+price outlook for natural gas (the main alternative) is now even 
+higher.  Moreover, they say the regulators did not consider the 
+value of refurbishment in avoiding future greenhouse gas 
+emissions, particularly vis-`-vis coal, which is the lowest-cost 
+option.  Finally, the nuclear option has the added attractions - 
+particularly for a relatively low-income, high-unemployment 
+province - of being both high-technology and relatively 
+labor-intensive. 
+ 
+¶8.  Whether or not the GoNB decides to refurbish Point Lepreau, 
+building a second reactor at that site is also a possibility. 
+Without outside financing, this would be even more costly than 
+refurbishment.  The GoNB is exploring the potential for private 
+sector participation in either option, and/or for Point Lepreau 
+to be a "demonstration site" for the latest reactor design 
+offered by Atomic Energy of Canada Limited (AECL).  The latter 
+idea is based on hopes that AECL would foot most of the bill - 
+but AECL in turn awaits a decision from the GOC, its sole 
+shareholder, on options for AECL's future access to financing. 
+ 
+¶9.  TRANSMISSION LINE TO BANGOR:  Whatever happens at Point 
+Lepreau, NB Power also hopes to proceed with construction of a 
+transmission line from the Lepreau area to the vicinity of 
+Bangor, Maine (where the receiving utility, Bangor Hydro, is 
+owned by Nova Scotia's Emera Inc).  This line could be completed 
+by 2007 and would carry power in either direction depending on 
+seasonal and other requirements.  NB Power officials say that 
+all approvals still needed are on the U.S. side, and are 
+environment-related:  some Maine stakeholders continue to demand 
+that the line to follow an existing (but longer) corridor 
+farther inland, which would be less economic. 
+ 
+¶10. ELECTRICITY MARKET DEVELOPMENT:  Atlantic Canada and Maine 
+are lightly populated and their electric demand is strongly 
+winter-peaking.  New Brunswick energy officials expect this 
+entire region to have a significant power scarcity problem by 
+the winter of 2007-08 due to the shutdown of aging generating 
+assets before new plants are built.  Gains in both cost and 
+reliability can be expected from integrating the regional grid 
+and facilitating power trade with the rest of the U.S. 
+Northeast, and this makes up much of New Brunswick's current 
+strategy for addressing the scarcity problem.  They add that it 
+has the potential to greatly reduce the vulnerability of 
+northern Maine to power outages.  (While neighboring Quebec is a 
+major exporter of electricity from hydroelectric dams, it has 
+few interconnections with New Brunswick and virtually none with 
+Maine - and these small markets are a very long way from 
+Quebec's reservoirs). 
+ 
+¶11.  As of April 1, 2004, NB Power will be split into five new 
+corporate entities (generating, transmission, distribution, 
+nuclear, and a holding/services company) plus an Independent 
+System Operator (ISO).  NB energy officials told us that, while 
+they use U.S. FERC requirements to justify this publicly, they 
+are really planning for the anticipated power scarcity in 
+2007-2008 - when the new structure will allow them to invite 
+proposals from independent power producers.  They also hope to 
+share experience/models with counterparts in Nova Scotia, which 
+plans to initiate a wholesale power market in 2005.  NB 
+officials admit that a really integrated regional power market 
+in Atlantic Canada will take "another generation," and that for 
+the current decade, they are working toward "seamless" clearing 
+of power trades between the provinces' still-separate power 
+grids. 
+ 
+NATURAL GAS TRANSMISSION 
+------------------------ 
+ 
+¶12.  Nova Scotia's offshore Sable Island energy project began 
+producing natural gas in early 2000.  Most of this gas is 
+transmitted to New England via the Maritimes and Northeast 
+Pipeline (MNE), which also has lateral lines serving industries 
+near the Strait of Canso plus the urban areas of Halifax, 
+Moncton and Saint John.  For more on the prospects for 
+production of oil and gas from Atlantic Canada's continental 
+shelf, see refs D and E and other reporting from Halifax. 
+ 
+¶13.  The terms on which New Brunswick and Nova Scotia 
+communities and industries can access this gas has been a 
+sensitive political issue.  Energy exports into the United 
+States are licensed by Canada's National Energy Board (NEB), 
+which generally defers to market forces.  In order to buy gas 
+from the MNE pipeline, Atlantic Canadians must pay prices which 
+are tied to short-term markets in the Boston area (minus the 
+additional cost of transportation to Boston).  New Brunswick 
+interests have two complaints about this system.  First, they 
+argue that the Boston-based prices are in some sense "excessive" 
+(presumably, this means, higher than they would be if most or 
+all of this gas were piped to markets in eastern Canada - which 
+was one of the options before MNE was built).  Second, they 
+complain that that it has become impossible to purchase MNE gas 
+on secure, long-term contracts - which is a prerequisite for New 
+Brunswick's industrial needs, and particularly for electric 
+power generation. 
+ 
+¶14.  In 2001-2002 the GoNB raised this issue formally with the 
+NEB, which declined to take action, other than agreeing to 
+"monitor" the gas transmission situation in New Brunswick.  GoNB 
+officials remain unapologetic about having raised the issue, 
+stressing that it is not a matter of "Canada first" (as their 
+position was sometimes characterized in the media) but rather 
+"Canada too."  They say they are no longer pressing the issue 
+because at current prices, natural gas is simply not a viable 
+option for industrial uses or electric power generation in New 
+Brunswick.  One event that might change this, they said, would 
+be the construction of a liquefied natural gas terminal in 
+Atlantic Canada. 
+ 
+¶15.  LIQUEFIED NATURAL GAS:  Like other parts of North America, 
+Atlantic Canada is hearing proposals to construct terminals 
+which would receive liquefied natural gas (LNG) from pressurized 
+tanker ships and distribute it on the continental pipeline 
+network.  Currently, there are two proposals: 
+ 
+-- Access Northeast Energy Inc. (ane-inc.com), an infrastructure 
+development firm, proposes to build an LNG terminal ("Bear 
+Head") in an established heavy-industrial zone near Point Tupper 
+on the Strait of Canso between mainland Nova Scotia and Cape 
+Breton Island.  This site has very good natural features and the 
+project enjoys local political support.  The proponent submitted 
+environmental applications in 2003. 
+ 
+-- Irving Oil Ltd. (irvingoilco.com), part of a family-owned 
+industrial conglomerate which is currently a large buyer/shipper 
+of gas on the MNE pipeline, proposes to build an LNG terminal on 
+the Bay of Fundy about 5 miles east of Saint John, New 
+Brunswick.  While this project is said to be less favored by 
+geography (and local politics) than Bear Head, the proponent's 
+industrial and financial autonomy may allow it to move ahead 
+quickly, perhaps in an effort to pre-empt its competitor. 
+Irving Oil says it plans to begin construction during 2004. 
+ 
+¶16.  Either of these projects would require at least a doubling 
+in size of the MNE pipeline, and either one would require the 
+negotiation of gas supply contracts on a long-term basis in 
+order to secure financing for both port and pipeline.  MNE 
+representatives say that either project could fit well with 
+their plans. 
+ 
+¶17.  New Brunswick energy officials told us that they are open 
+to either LNG project, provided New Brunswick buyers obtain 
+adequate access to the gas.  They expect either project to 
+revive natural gas as a fuel option for industrial development 
+in New Brunswick. 
+ 
+CONCLUSION/COMMENT 
+------------------ 
+ 
+¶18.  An array of interesting new energy infrastructure projects 
+are on the horizon for Nova Scotia and New Brunswick, all of 
+which have the potential to significantly benefit neighboring 
+U.S. states.  However, we also see the potential for great 
+frustration, discord, and disappointment.  The key reason is 
+that optimism has consistently run ahead of reality in Atlantic 
+Canadian energy developments.  This is painfully evident in Nova 
+Scotia's offshore industry, which, thirty years after the first 
+resource discoveries, still struggles to deliver on popular 
+expectations - particularly with respect to royalty flows.  Part 
+of the problem is the multi-agency, multi-jurisdictional 
+complexity of offshore regulation in Canada, which makes this 
+one of the world's highest-cost areas of active exploration. 
+ 
+¶19.  With respect to LNG ports and natural gas transmission, 
+there is little doubt that further development of such 
+infrastructure - if it occurs - would heat up a simmering debate 
+about local industries' access to natural gas.  In Nova Scotia, 
+this issue is moderated by the provincial government's closeness 
+to the needs of gas producers, and by the benefit of jobs 
+created by gas exploration and production.  New Brunswickers, 
+without such offsetting gains, are likely to be irritated by 
+news that increasing volumes of gas would transit their province 
+en route to New England markets. 
+ 
+¶20.  In electric power, there could be difficult years ahead. 
+If New Brunswick cannot or will not finance the refurbishment of 
+the Point Lepreau reactor, the prospects for power generation in 
+that province will be bleak.  The province could then be on a 
+collision course with the GOC's climate change policy - and 
+decisions on new fossil-fuelled generating plant will likely be 
+slowed and clouded.  The results will affect residents of Maine 
+for the rest of this decade. 
+ 
+HILL

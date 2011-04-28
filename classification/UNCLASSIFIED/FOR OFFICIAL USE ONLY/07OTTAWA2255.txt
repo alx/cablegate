@@ -1,0 +1,151 @@
+07OTTAWA2255
+CRITICAL MEDICAL RADIOISOTOPE PRODUCTION MAY
+Wed Dec 12 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ottawa
+VZCZCXRO0249
+PP RUEHGA RUEHHA RUEHQU RUEHVC
+DE RUEHOT #2255/01 3462145
+ZNR UUUUU ZZH
+P 122145Z DEC 07
+FM AMEMBASSY OTTAWA
+TO RUEHC/SECSTATE WASHDC PRIORITY 7025
+INFO RUCNCAN/ALL CANADIAN POSTS COLLECTIVE
+RUEHBS/AMEMBASSY BRUSSELS 0717
+RUEHFR/AMEMBASSY PARIS 0977
+RUEHSA/AMEMBASSY PRETORIA 0289
+RUEHTC/AMEMBASSY THE HAGUE 3465
+RUEAUSA/DEPT OF HHS WASHDC
+RHEBAAA/DEPT OF ENERGY WASHDCUNCLAS SECTION 01 OF 02 OTTAWA 002255 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR WHA, OES AND ISN 
+HHS FOR OFFICE OF GLOBAL HEALTH AFFAIRS 
+DOE FOR NE 
+ 
+E.O. 12958: N/A 
+TAGS: TBIO ECON KSCA CA
+SUBJECT: CRITICAL MEDICAL RADIOISOTOPE PRODUCTION MAY 
+RESUME SOON 
+ 
+¶1. (U) Summary: In the face of a growing shortage of medical 
+radioisotopes, the Canadian House of Commons passed emergency 
+legislation late on December 11 to exempt the nuclear reactor 
+where much of the world's supply of medical radioisotopes is 
+produced from regulatory oversight (for a very narrow 
+exception) for 120 days in order to facilitate a rapid 
+restart of the reactor and resumed production of medical 
+radioisotopes.  Once the legislation passes through the 
+Senate, expected later today (December 12), and it receives 
+Royal Assent, perhaps by the end of this week, reactor 
+operator Atomic Energy of Canada Limited (AECL) will commence 
+restarting the reactor, which has been shut down since 
+November 18.  Barring unforeseen events, AECL anticipates it 
+will take several days to ramp up to normal operations and 
+several days after that before the medical radioisotope 
+supply chain can return to normal.  End summary. 
+ 
+¶2. (U) On the evening of December 11, in the face of a 
+growing shortage of radioisotopes for medical use, the 
+Conservative government introduced and then pushed through 
+the House of Commons emergency legislation, Bill C-38, that 
+would allow Atomic Energy of Canada Limited (AECL), the 
+operator of the 50 year-old National Research Universal 
+reactor at Chalk River, Ontario, to resume operations and 
+radioisotope production without complying with nuclear 
+regulator Canadian Nuclear Safety Commission (CNSC) orders to 
+modify and upgrade certain of its components.  Essentially 
+the bill removes CNSC oversight for 120 days for this 
+specific aspect of AECL's operations.  In addition to its 
+Chalk River laboratory, AECL also operates a variety of other 
+atomic facilities, such as nuclear waste sites, throughout 
+Canada.  Presently a Crown Corporation whose privatization 
+has been discussed, AECL is the designer and builder of CANDU 
+technology. 
+ 
+¶3. (U) The NRU was shut down for routine maintenance on 
+November 18, at which time CNSC inspectors became aware that 
+modifications to the reactor's cooling system called for in 
+an August 2006 licensing review had not been installed, and 
+notified AECL that they were not in compliance with the NRU 
+operating license and could not therefore restart the 
+reactor.  AECL of course complied with the CNSC order to not 
+restart the reactor, but claimed the modifications were 
+upgrades, not mission critical, and could be accomplished 
+over a longer period of time during regular maintenance. 
+AECL claimed it could continue to operate the NRU safely 
+without complete installation of the additional equipment, at 
+least as an interim measure.  The impasse between the 
+regulator and AECL has extended NRU's scheduled shutdown from 
+one week to over three weeks, at this point, and global 
+supplies of critical medical radioisotopes have dwindled. 
+Since only four other reactors around the world (one each in 
+France, Belgium, South Africa, and the Netherlands) produce 
+these basic radioisotopes, many of which have half-lives 
+measured in hours, any unplanned reactor shutdown quickly 
+leads to supply disruption.  The NRU alone accounts for about 
+50 percent of global supply of molybdenum-90 the source of 
+technetium-99m, the most widely used isotope for diagnosing 
+disease. 
+ 
+¶4. (U) On December 11 in the House of Commons Prime Minister 
+Q4. (U) On December 11 in the House of Commons Prime Minister 
+Harper noted the shortage of medical radioisotopes presented 
+a very clear danger to hundreds if not thousands of people 
+around the world, whereas the risk to be mitigated by the 
+CNSC-mandated upgrades was significantly more remote and less 
+certain.  The Bloc Quebecois and New Democratic Party 
+supported the measure immediately, but the Liberal Party fell 
+in line, and by 11:30 pm Bill C-38 had passed with all party 
+support through all three stages of debate in the House of 
+Commons.  It now will go to the Senate, where the government 
+believes it will also pass quickly.  The government 
+anticipates the bill could receive Royal Assent by Thursday, 
+December 13.  (In fact, we've heard reports the government 
+leader in the Senate thought she would receive the bill from 
+the Commons last night and had maintained a quorum until it 
+became clear the House would not be able to conclude its 
+business until near midnight.) 
+ 
+¶5. (U) Once Royal Assent is received, making Bill C-38 law, 
+CNSC's authority and licensing conditions in this matter will 
+ 
+OTTAWA 00002255  002 OF 002 
+ 
+ 
+be suspended for 120 days, and AECL can begin to restart the 
+reactor, which may take several days.  AECL and CNSC will 
+nevertheless be working closely together during this 120 day 
+period.  Government relations executives for MDS Nordion, the 
+company that actually refines and processes the medical 
+radioisotopes from NRU, told embassy the company will only be 
+able to estimate when the medical radioisotope supply chain 
+will return to normal once reactor operations have 
+recommenced successfully.  AECL had earlier said it could not 
+return NRU to service before December 20 if had to comply 
+with all of the upgrades mandated by CNSC. 
+ 
+¶6. (SBU) Comment: Canada,s nuclear regulator, the CNSC, was 
+only formed in 2000 from the former Atomic Energy Control 
+Board (AECB).  Where AECB had non-proliferation as its 
+primary focus, CNSC has as its principal mandate to "protect 
+people and the environment from licensed sources of man-made 
+radiation resulting from the use of nuclear energy and 
+materials".  Given this focus on human health and safety some 
+observers have commented that it is odd that the regulator 
+may not have anticipated that an extended shutdown of NRU 
+would have immediate and far-reaching health impacts 
+downstream.  While these second-order health effects may not 
+formally be the concern of the regulator, CNSC's decision on 
+this occasion suggests the capacity to assess the impact of 
+its decisions more broadly may have been lacking. End comment. 
+ 
+ 
+Visit our shared North American Partnership blog (Canada & Mexico) at 
+http://www.intelink.gov/communities/state/nap 
+ 
+WILKINS

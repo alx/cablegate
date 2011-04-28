@@ -1,0 +1,157 @@
+05OTTAWA1832
+Canadian company predicts damage to U.S.
+Fri Jun 17 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+171545Z Jun 05UNCLAS SECTION 01 OF 02 OTTAWA 001832 
+ 
+SIPDIS 
+ 
+STATE WHA/CAN, PM/PP/DTC, OES/O/SAT, EB/CIP/SP, EB/TPP 
+ 
+WHITE HOUSE FOR OSTP (RICHARD RUSSELL) 
+ 
+COMMERCE FOR TECHNOLOGY ADMINISTRATION 
+ 
+COMMERCE FOR INTERNATIONAL TRADE ADMINISTRATION 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KSTC BEXP TSPA CA
+SUBJECT: Canadian company predicts damage to U.S. 
+communications satellite industry-standing from ITAR 
+controls 
+ 
+ 
+Sensitive But Unclassified.  Proprietary business 
+information.  Handle accordingly. 
+ 
+¶1.  (SBU) Summary:  On June 8, Charge, and U.S. Foreign 
+Commercial Service, POL and ECON staff met with executives 
+of a Canadian commercial communications satellite operations 
+and consulting company, Telesat, for a presentation on the 
+impact of U.S. International Traffic in Arms Regulations 
+(ITAR) on the commercial satellite industry. Company 
+officials warn that because of ITAR controls on commercial 
+satellites and parts, U.S. satellite producers (Telesat is 
+mostly dependent on U.S. satellites) are destined for 
+decreasing sales and declining competitiveness in the world 
+market.  End Summary. 
+¶2. (SBU) Created in 1969, Telesat is an operator of civilian 
+communications and Direct Broadcast satellites and is the 
+largest commercial satellite company in Canada.  Telesat has 
+successfully launched and operated 16 satellites, (6 remain 
+in operation, and two new satellites are being constructed 
+for launches in 2005 and 2006).  Until recently most of 
+Telesat's satellites have been American designed and built. 
+Telesat also provides consulting services to third parties 
+on satellite procurement, insurance procurement and risk 
+assessment (the fact that Telesat is a competent non-U.S. 
+operator of U.S.-made satellites has helped to convince some 
+international users to purchase U.S.-made satellites, since 
+they value Telesat's experience and ability to offer 
+independent and objective advice to end-users.) Telesat is a 
+wholly owned subsidiary of BCE Inc., Canada's largest 
+communications company. 
+¶3. (SBU) In their presentation, Telesat executives gave 
+numerous examples of difficulties their company has had with 
+the ITAR regulations, including the inability to hire an 
+Iranian-Canadian dual-national who cannot abandon the 
+nationality of his birthplace because the Iranian government 
+does not allow abandonment of citizenship.  Other 
+difficulties included the need for special training and 
+designated areas for operations involving U.S. satellites, 
+even if equivalent non-U.S. technology was openly handled 
+elsewhere in the company.  Knowing, however, that the 
+difficulties of a Canadian company might not be a compelling 
+issue for U.S. decision makers, Telesat executives also 
+explained how ITAR controls have led to a decrease in the 
+quality of U.S. satellites, an erosion of market share for 
+the U.S. satellite industry, and may culminate in a loss of 
+international standing for the U.S. commercial space 
+industry as a whole. 
+¶4. (SBU) Telesat asserts that the inflexibility and 
+processing delays inherent in a government oversight program 
+like ITAR  (International Traffic in Arms Regulations) have 
+led to a decrease in product quality that is damaging the 
+United States' position as a leader in commercial 
+communications satellite innovation.  Whereas the United 
+States used to be the leader in the field, according to 
+Telesat, U.S. satellites are now behind the innovation 
+curve. 
+ 
+¶5. (SBU) The company representatives claim that the U.S. 
+commercial communication satellite industry is losing sales 
+due to international customer disinclination to deal with 
+the complexities of ITAR red tape.  They believe that 
+equivalent and sometimes more technologically advanced 
+satellites are available from Europe and Japan and that many 
+of their consulting clients are increasingly likely to avoid 
+U.S. satellites for fear of the delays and inflexibility 
+inherent in the ITAR process.  (Comment:  Telesat stated 
+that the "Canadian exemption" is of little value to them, 
+since most commercial satellites cost more than the $50 
+million maximum of the exemption and since the exemption 
+does not address end-use by non-Canadian companies, which 
+makes up the majority of their consulting business.  End 
+comment.)  The argument that ITAR regulations are costing 
+U.S. companies sales was familiar to the USG audience, since 
+it substantially matched the U.S. Chamber of Commerce 
+position (articulated at 
+www.uschamber.com/space/policy/exportcontrol. htm). 
+ 
+¶6. (SBU) Telesat claims that over the last ten years it has 
+seen a marked decline in the quality of U.S.-manufactured 
+commercial satellites.  Company officials attribute this 
+decline to the loss of the "feedback-loop" between 
+manufacturers and users.  Alluding to the pre-ITAR 
+conditions of the early 1990s, the company's director of 
+satellite systems argued that the close technical 
+relationship between operators and manufacturers provided 
+vital information sharing and allowed for technical 
+improvements.  According to the presentation, often the 
+satellite operators grew to be more familiar with the 
+satellite than the original manufacturers, and sometimes 
+manufacturers actually turned to the operators for technical 
+assistance when design problems arose with subsequent 
+generations of satellites.  The operators, with years or 
+decades of experience with certain satellites, became 
+another level in the manufacturers' design teams, leading to 
+improvement of the product.  ITAR limits on information 
+sharing between the manufacturers and operators have, in 
+this company's estimation, severely damaged this cooperative 
+relationship between manufacturers and operators, and the 
+design of the product itself has suffered. 
+ 
+¶7.  (SBU) At the same time, company officials were adamant 
+that U.S. launch technology should remain regulated under 
+ITAR control.  Launch technology, they stated categorically, 
+is an area of dual-use threat (as was also stated in the Cox 
+report, www.house.gov/coxreport/) and ITAR controls on 
+launch technology are necessary to ensure U.S. security. 
+They contend, however, that the controls on standard 
+commercial satellites should be removed because that 
+technology is commercially available outside of the United 
+States, is based on long-established and widely available 
+physical principles and engineering techniques and, in fact, 
+U.S. industry is increasingly no longer at the forefront of 
+innovation.  In their opinion, removing commercial 
+satellites from regulation under ITAR would allow for better 
+and more focused control by the Department of State of 
+critical areas such as U.S. launch technology, while 
+allowing the U.S. commercial satellite industry to recover 
+lost ground (or, perhaps, lost space). 
+ 
+ 
+¶8. (SBU) COMMENT:  The company representatives, obviously 
+frustrated by what they see as ineffective and unnecessary 
+regulations which are damaging their industry, acknowledged 
+that they didn't expect their presentation to have much 
+impact on U.S. policy and legislation.  Their objective in 
+meeting with Embassy officials, they said, was to inform. 
+Embassy Ottawa appreciates that Telesat's view is a piece of 
+a bigger puzzle and understands that this Canadian company's 
+concerns may not encompass the entire situation. 
+ 
+Dickson

@@ -1,0 +1,433 @@
+08STATE91332
+AFTER-ACTION REPORT FOR DEMETER'S RESILIENCE, THE
+Mon Aug 25 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Secretary of State
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHC #1332 2382040
+ZNR UUUUU ZZH
+R 252032Z AUG 08
+FM SECSTATE WASHDC
+TO RUEHRL/AMEMBASSY BERLIN 0000
+RUEHLO/AMEMBASSY LONDON 0000
+RUEHMO/AMEMBASSY MOSCOW 0000
+RUEHOT/AMEMBASSY OTTAWA 0000
+RUEHFR/AMEMBASSY PARIS 0000
+RUEHRO/AMEMBASSY ROME 0000
+RUEHKO/AMEMBASSY TOKYO 0000
+RUEHBS/USEU BRUSSELSUNCLAS STATE 091332 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: CA EUN FR GM IT JA PTER RS TBIO UK
+SUBJECT: AFTER-ACTION REPORT FOR DEMETER'S RESILIENCE, THE 
+G8 FOOD DEFENSE EXERCISE 
+ 
+REF: A. STATE 14591 
+     ¶B. STATE 39260 
+ 
+¶1.  (U) Summary: Following the recommendations of the G8 
+Bioterrorism Experts (BTEX) Group in 2005, a series of G8 
+workshops dealing with decontamination, food defense and 
+public health/law enforcement cooperation was organized. 
+"Demeter,s Resilience" was the second G8 food defense event 
+and was held May 27-29, 2008 at the U.S. National Center for 
+Food Protection and Defense (NCFPD) in Minneapolis, Minnesota 
+(reftels).  The exercise was designed to stimulate national 
+and international cooperation and communication in 
+identifying, responding to and recovering from a terrorist 
+attack on the food supply.  The NCPFD, a DHS Center of 
+Excellence, designed the exercise scenario and facilitated 
+the exercise.  Exercise participation was lively and robust, 
+although not all G8 nations attended.  The After-action 
+Report (para 4) contains further details on the exercise 
+format, scenario, emerging themes and key recommendations. 
+End Summary. 
+ 
+¶2.  (U) U.S. Delegation: The U.S. delegation consisted of 
+Lindsey Hillesheim (State), John Guzewich (FDA), Perfecto 
+Santiago (USDA), Robert Hooks (DHS), and Bill Zinnikas (FBI). 
+ The U.S. also sent several additional observers from FDA, 
+USDA, DHS, FBI, and OSTP. 
+ 
+¶3. (SBU) Other Delegations: 
+- The Government of Germany,s (GOG) delegation came 
+well-prepared for the exercise with answers in hand for many 
+of the discussion questions.  Their delegation was composed 
+of representatives from the Federal Foreign Office, the 
+Federal Institute for Risk Assessment, and the Federal 
+Ministry for Food, Agriculture and Consumer Protection. 
+Since Germany is organized as a federal system like the U.S., 
+much of the detection and response tasks fall to the Landers 
+(similar to states).  Thus GOG emphasized the importance of 
+robust local public health and food safety systems and the 
+need to coordinate these systems across a federal 
+organization. 
+- In addition to several observers, the Government of 
+Canada,s (GOC) official delegation was robust and balanced 
+including representatives from the Department of Foreign 
+Affairs and International Trade Canada, Royal Canadian 
+Mounted Police (RCMP), Canadian Food Inspection Agency, 
+Health Canada, and the Department of Public Safety.  The GOC 
+food defense response system is similar to the U.S. system, 
+thus providing significant opportunities to share best 
+practices. 
+- Her Majesty,s Government,s (HMG) delegation, while 
+missing a foreign affairs representative, was very active 
+during the exercise and included officials from the Health 
+Protection Agency, Food Standards Agency, and the Centre for 
+the National Protection of Infrastructure.  Participants from 
+the G8 other delegations  found many of the lessons 
+identified by HMG as a result of the Sudan Red recall in 2005 
+to be particularly useful, including the use of "scoping 
+meetings" that include experts from industry to map out how 
+an ingredient was distributed. 
+           - The Government of Japan (GOJ) sent only one 
+person from the Cabinet Office,s Consumer Safety Division. 
+This small delegation was surprising given that GOJ holds the 
+G8 presidency and gave approval for the exercise to be held 
+and hosted by the USG. 
+-  The Government of France (GOF) sent technical experts from 
+the Ministries of Health, and of Agriculture and Fishery. 
+Due to the lack of foreign affairs and law enforcement 
+officials, a complete picture of GOF,s response to a 
+terrorist attack on the food supply is not possible. 
+- The Governments of the Russian Federation and Italy did not 
+send delegations. 
+- The European Commission and the World Health Organization 
+both sent observers to the exercise. 
+ 
+¶4.  (U) The following "After-action Report for Demeter,s 
+Resilience" includes input and comments from the countries 
+present at the exercise.  A formatted version of the 
+After-action Report has already been shared with participants 
+and G8 BTEX points of contact. 
+ 
+Begin text of After-action Report. 
+ 
+EXECUTIVE SUMMARY 
+ 
+Demeter,s Resilience was a three-day exercise on food supply 
+protection for the G8 nations with fifty participants from 
+Japan, Canada, France, Germany, United Kingdom, and United 
+States.  The exercise aimed to strengthen coordination, 
+cooperation, and communication between G8 nations in the 
+event of an intentional attack on the food supply.  In 
+addition, the World Health Organization and the European 
+Commission along with a private industry representative 
+participated in the exercise.  The exercise was hosted by The 
+National Center for Food Protection and Defense (NCFPD) at 
+the University of Minnesota. 
+ 
+The exercise provided nations an opportunity to discuss roles 
+and responsibilities of various stakeholders in event of a 
+terrorist attack, and enhance strategies for working together 
+to prevent and respond to a terrorist attack on the food 
+supply.  In addition, Country representatives shared insights 
+on preparedness planning and lessons learned from previous 
+experiences. 
+ 
+Key recommendations resulting from this exercise include: 
+¶1. Establish and maintain key functional contacts in areas 
+relevant to food defense. 
+¶2. Establish a mechanism or leverage an existing one to 
+develop complementary risk communication messages during a 
+widespread outbreak. 
+¶3. Foster collaboration between countries to address gaps in 
+knowledge and capabilities in food-related surveillance, 
+diagnostics, decontamination procedures, and risk assessments 
+of threat agents. 
+¶4. Foster and develop relationships among stakeholders within 
+and between countries as these informal networks can enhance 
+the communications between nations and between sectors 
+relevant to food defense, as well as strengthen the 
+collective capacity of G8 nations to anticipate, prevent, 
+respond to, and recover from intentional contamination of the 
+food supply. 
+ 
+EXERCISE DESIGN AND FORMAT 
+ 
+In 2004 and 2005, G8 leaders committed to defending against 
+bioterrorism by; strengthening national and international 
+biosurveillance capabilities, increasing protection of the 
+global food supply, and improving bioterrorism investigation, 
+response and mitigation capabilities.  In 2005 the G8 
+Bioterrorism Experts Group (BTEX) agreed on a work plan that 
+included the development of a food defense tabletop exercise. 
+ 
+Demeter,s Resilience served to initiate a dialogue between 
+G8 member nations on communication mechanisms during an 
+intentional bioterrorist attack upon the G8 food supply.  The 
+exercise provided an opportunity for G8 nations to strengthen 
+lines of communication, which may enhance prevention, 
+mitigation and recovery efforts on food system events.  The 
+simulated attack was based around a hypothetical food product 
+that is widely exported to and/or imported from all G8 
+nations. 
+ 
+Demeter,s Resilience was intended to accomplish the 
+following primary objectives: 
+-- Examine food defense communication and coordination 
+procedures within and among G8 countries in response to a 
+terrorist attack on the food supply. 
+-- Discuss the roles and responsibilities of the various 
+ministries, organizations, and sectors in responding to a 
+terrorist threat or attack on the food supply (e.g. law 
+enforcement, foreign affairs, food/agriculture/public health 
+agencies, and the private sector). 
+-- Through facilitated discussion and simulation, examine G8 
+countries, responses to a bioterrorism incident targeted at 
+the food supply system. 
+ 
+Demeter,s Resilience took place on May 27-29, 2008, and was 
+hosted by the National Center for Food Protection and Defense 
+(NCFPD) at the University of Minnesota, Minneapolis, 
+Minnesota.  Established in 2003 and led by the University of 
+Minnesota, the NCFPD is a Department of Homeland Security 
+Center of Excellence.  The Center is a consortium of 
+academic, public sector, and private sector partners tasked 
+with developing technologies and strategies to prevent, 
+respond, and recover from intentional contamination of the 
+food system in order to mitigate the public health and 
+economic impact of the event. 
+ 
+In addition to the time participants spent engaged in the 
+exercise itself, an informal evening reception and lunches 
+allowed participants to interact outside of the structured 
+exercise.  These informal events strengthened the personal 
+relationships and communication networks of exercise 
+participants.   Besides the interactions among participants 
+physically present at the exercise, World Health Organization 
+(WHO) representatives participated via a web link from the 
+WHO,s global Strategic Health Operations Center (SHOC) in 
+Geneva, Switzerland. 
+ 
+To familiarize participants with other countries, response 
+plans and capabilities, each country provided an overview of 
+how response to food safety and/or food defense events was 
+organized in their respective country. 
+ 
+Demeter,s Resilience employed a fictitious scenario and 
+scenario elements or information--including descriptions, 
+timelines, and instructions--were provided by the exercise 
+facilitators to stimulate participant activity. The scenario 
+ensured necessary events occurred so that all objectives were 
+met. The exercise was divided into four distinct phases 
+representing significant periods in a food defense event: 
+notification, identification, investigation, and recovery - 
+followed by an interactive discussion session to capture key 
+features, lessons learned, and identify opportunities for 
+further work. Each phase began with an overview of key events 
+and communications occurring within the phase. Following the 
+phase overview and facilitator instructions, participants 
+reviewed the situation and engaged in group discussions 
+within and between G8 countries regarding an appropriate 
+response. 
+ 
+The exercise was intended to be a safe, open, and stress-free 
+environment to allow all participants to openly share their 
+perspectives.  Varying viewpoints were encouraged, as there 
+are no international standards for handling a terrorist 
+attack on the food supply.  Participants were encouraged to 
+focus on the communication process, and identify 
+opportunities to strengthen communication within and between 
+governments. Participants were encouraged to move among 
+groups and interact with the experts to ensure thorough, 
+thought-provoking discussion and problem resolution. 
+ 
+Exercise participants representing various government 
+agencies from six of the eight G8 countries were present. 
+Government agencies represented included those in the fields 
+of law enforcement, food safety, public health, agriculture 
+and foreign affairs.  The World Health Organization and the 
+European Commission also had representatives present at the 
+exercise.  A representative from industry was also present to 
+answer questions about their experiences in responding to 
+incidents of contamination occurring in the food supply. 
+ 
+SCENARIO OVERVIEW 
+ 
+An unspecified poultry processing facility in the United 
+States is the source of a breaded chicken product designed 
+primarily for restaurant distribution both in the United 
+States and for export.  The contaminated poultry product is 
+shipped from the United States to all G8 member countries 
+through various modes of transport.  The product is 
+contaminated during production via adulteration of the 
+breading mix, resulting in 24 breading batches contaminated 
+in a single day.  The contaminant is relative heat stable, 
+with little or no organoleptic impact on the finished product 
+(i.e. not altering the taste, texture or smell).  Clinical 
+presentation of acute gastroenteritis, often accompanied by 
+vomiting and diarrhea, occurs after a one day latency period. 
+ Severely affected patients developmultiple organ failure 
+five days after apparent initial recovery. 
+ 
+Phase one consisted of public health identification and 
+notification of the initial illness.  Because shipment times 
+and product consumption varied over different countries, 
+various numbers of illnesses were reported to the relevant 
+agencies at different times.  This phase focused on illness 
+reporting within country, and how this information would be 
+both handled within the country and relayed internationally. 
+The phase ended with a fictional video news clip shown to the 
+entire group from "Global News Network" announcing unusual 
+and widespread illnesses occurring around the globe. 
+ 
+Phase two consisted of the initial epidemiological 
+investigation suggesting a single common source for many of 
+those affected during the outbreak.  Some individuals, who 
+had previously gone to hospitals with vomiting and diarrhea, 
+returned later with multiple organ failure.  This led to a 
+large number of hospitalizations, with several patients 
+dying. 
+ 
+Phase three began with a video news clip from "World News" in 
+which a terrorist organization claimed responsibility for the 
+outbreak.  During this phase the specific product responsible 
+and the lot and shipment information were also confirmed. 
+ 
+Phase four focused on recovery.  Contaminated product lots 
+were retrieved, and decontamination protocols were issued. 
+The rate of new illnesses rapidly declined, while new threats 
+to the food supply were received. 
+ 
+EMERGING THEMES 
+ 
+Food safety authorities and responsibilities are distributed 
+in different ways across countries and investigations into a 
+food borne illness outbreak vary by agency, country and 
+event.  When an event is recognized as a food safety problem, 
+the roles of various agencies involved are fairly well 
+defined; however in intentional contamination (e.g. a food 
+defense problem), the triggers which initiate a concurrent 
+criminal investigation are more difficult to determine. 
+ 
+Recognition of a food borne disease outbreak is driven by the 
+characteristics of the illness, rather than actual numbers of 
+ill individuals.  Some patterns considered were geography, 
+population demographics, as well as exposure information. 
+The event characteristics often determine which agencies are 
+involved in the investigation, and how soon other agencies 
+would be contacted.  While international reporting may vary 
+due to legal constraints and uncertainty during an outbreak, 
+the effectiveness of international communication channels are 
+greatest when utilized as soon as possible after 
+identification of an outbreak. 
+ 
+During the course of a food borne disease outbreak there are 
+often multiple levels of communication underway.  These often 
+include government communications to their affected or 
+at-risk populations, within country communications between 
+agencies or ministries, bilateral ministerial communications 
+between countries, ad hoc communications between scientists, 
+and perhaps communication with the media.  Due to the 
+multiple levels of communication which occur, it is often 
+difficult to achieve consistent risk communication messages. 
+In addition, multiple communication messages may be needed to 
+reach different cultures or audiences. 
+ 
+On a global scale, it is challenging to develop a common case 
+definition.  Several factors contribute to this challenge 
+including country differences in data collection and one 
+country,s ability, or inability, to utilize another 
+country,s investigative data.  There is also variability in 
+the degree to which countries would involve the private 
+sector and civil organizations at different stages in a 
+response. 
+ 
+During an intentional contamination event, the health and 
+safety of the public remain the priority of all agencies 
+involved.  A claim or suspicion of terrorism shifts 
+leadership of the overall investigation to law enforcement, 
+but not at the expense of the public health investigation. 
+Multiple agencies continue to provide active support for the 
+investigation.  Uncertainty as to the route of contamination, 
+the contaminating agent, and the scale of the event all 
+contribute to the challenge of managing the response to a 
+widespread food contamination event.  Law enforcement, food 
+safety, and public health working together on a major food 
+defense issue is a relatively new paradigm, and, as such, 
+there is a recognized need for increasing the knowledge of 
+public health, food safety, and law enforcement response 
+protocols within each country and between countries. 
+ 
+KEY RECOMMENDATIONS 
+ 
+Establish and maintain key functional contacts in areas 
+relevant to food defense.  A system for up to date 
+information for key contacts and for promoting a network 
+among key individuals/agencies is needed both within 
+countries and across the G8 to ensure a timely and 
+coordinated response to a food contamination event.  Existing 
+global forums should be utilized and expanded to discuss and 
+share lessons identified after an international bioterrorism 
+attack on the food supply. 
+ 
+Establish a mechanism, or leverage an existing one, to 
+develop complementary risk communication messages during a 
+widespread outbreak.  Current global communication channels 
+(e.g. WHO INFOSAN and IHR notification) can be strengthened 
+to facilitate multi-national communication in the event of a 
+terrorist attack on the food supply. The sharing of 
+information needs to be fostered, and processes created to 
+forewarn countries of upcoming public announcements, as well 
+as exchange public messages and risk communication materials. 
+ 
+ 
+Foster collaboration between countries to address gaps in 
+knowledge and capabilities in food-related surveillance, 
+diagnostics, decontamination procedures, and risk assessments 
+of threat agents.  A process to facilitate collaboration 
+among relevant researchers in multiple countries to address 
+these gaps should be developed. 
+ 
+Foster and develop relationships among stakeholders within 
+and between countries as these informal networks can enhance 
+the communications between nations and between sectors 
+relevant to food defense, as well as strengthen the 
+collective capacity of G8 nations to anticipate, prevent, 
+respond to, and recover from intentional contamination of the 
+food supply.  Particular attention should be given to 
+developing relationships among public health, food safety, 
+and law enforcement agencies within countries and to 
+understanding the roles, responsibilities, and statutory 
+authorities of the various agencies required in responding to 
+an intentional contamination of the food supply. Tabletop 
+exercises could continue to be integrated to build capacity 
+and expand the personal networks of individuals responding to 
+during a bioterrorism event. Developing memoranda of 
+understanding and agreements between agencies ahead of time 
+will avoid confusion during an actual event.  In addition to 
+public health, food safety, and law enforcement agencies, 
+non-traditional partners, such as private industry 
+representatives, consumer organizations, environmental 
+agencies and other stakeholders, should also be considered 
+for inclusion in training exercises. 
+ 
+CONCLUSION 
+ 
+Demeter,s Resilience increased participants, awareness of 
+G8 member nation,s food safety authorities and protocols in 
+G8 member nations for responding to incidents of intentional 
+contamination of the food supply.  Exercise discussions 
+recognized the need for increased communication and 
+information sharing on an international level during a 
+bioterrorism attack on the food supply.  The discussions also 
+reinforced the need for international communication channels 
+to be utilized early during an emerging event. 
+ 
+End text of After-action Report. 
+ 
+¶5.  (U)  Additional Information: Please contact OES/IHB,s 
+Lindsey Hillesheim (HillesheimLN@state.gov, 202-647-6922) for 
+additional information on this event, including the 
+participant list and a formatted version of the report. 
+Other inquiries related to G8 BTEX activities should be 
+directed to ISN/CTR,s Kendra Chittenden 
+(ChittendenKA@state.gov, 202-647-6294). 
+RICE

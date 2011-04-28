@@ -1,0 +1,128 @@
+09STATE122387
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Mon Nov 30 00:00:00 +0100 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0012
+RR RUEHWEB
+
+DE RUEHC #2387 3341323
+ZNR UUUUU ZZH
+R 301315Z NOV 09
+FM SECSTATE WASHDC
+TO RUEHOT/AMEMBASSY OTTAWA 0000
+INFO RHMCSUU/FBI WASHINGTON DC 0000
+RUEAIIA/CIA WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DC 0000UNCLAS STATE 122387 
+ 
+SIPDIS 
+OTTAWA FOR LORI BALBI 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC CA
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON THE EXPORT OF U.S. DEFENSE ARTICLES CITING THE CANADIAN 
+EXEMPTION 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Embassy's assistance in 
+conducting a post-shipment check on a transaction citing the 
+Canadian exemption for the export of inertial measurement 
+units to Canada.  Embassy is requested to complete this Blue 
+Lantern check within 45 days.  Lack of response to a Blue 
+Lantern check will affect pending and future licenses 
+involving parties to this license. 
+ 
+¶3. Reason for request: Under ITAR 126.5 (Canadian Exemption), 
+certain United States Munitions List (USML) items may be 
+exported to Canada without a license.  Some items on USML 
+Category XII - which includes inertial measurement units - 
+may be subject to Missile Technology Control Regime (MTCR) 
+restrictions and may require a license depending on commodity 
+specification and type.  DDTC requests this check based on 
+vague description of commodity and end-use in export filing. 
+ 
+¶4. ACTION OTTAWA: Mission Canada is requested to make 
+inquiries with appropriate Wescam/L-3 Communications 
+officials to obtain all relevant details regarding the export 
+of inertial measurement units to Canada citing the Canadian 
+exemption, including exact commodity description and 
+technical parameters for performance and capability, number, 
+type, dollar value, and serial number of items.  (See 
+paragraph 5 for details of export, including filer 
+identification and shipping reference numbers.) 
+ 
+The following questions are provided as suggested guidance: 
+ 
+--What were the exact United States Munitions List (USML) 
+articles exported to you on October 19th 2007?  (Automated 
+Export System (AES) filing data provides the following 
+information, "inertial measurement unit".)  Please provide 
+detail on model, type and technical specifications. 
+ 
+--What is the exact end-use for these USML items?  Will 
+Wescam/L-3 Communications be the sole end-user and retain 
+positive control over the inertial measurement units at all 
+times?  Will they be transferred to other end-users in Canada 
+or re-exported? 
+ 
+--Does the company understand the restrictions on USML items, 
+especially the prohibition against unauthorized re-transfer 
+and re-export? 
+ 
+END ACTION. 
+ 
+¶5. Details of the AES filings: 
+ 
+--EXPORT 1 - QUANTITY/COMMODITY: 
+ 
+Quantity not provided 
+ 
+Commodity - Vague description cited as, "inertial measurement 
+unit" 
+ 
+Stated Value: USD 60,000.00 
+ 
+Export Date - 19 October 2007 
+ 
+ITAR Exemption Number - 126.5B 
+ 
+Filer Identification Number - 161238054 
+ 
+Shipping Reference Number - 803215780 
+ 
+Export Identification Code - 01038331400 
+ 
+U.S. EXPORTER: 
+ 
+Telford Aviation 
+14606 Pennsylvania Ave. 
+Hagerstown, MD 21742 
+POC is Mr. Johnson, Tel. 334-702-3595 
+ 
+ULTIMATE CONSIGNEE 
+ 
+Wescam/L-3 Communications 
+649 North Service Rd. West 
+Burlington, Ontario 
+Canada 
+POC is Mr. Stagg, Tel. 905-633-4091 
+ 
+¶6. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Tim Mazzarelli, Phone: 
+202-663-3867; Email: MazzarelliTP@state.gov; SIPRNET: 
+MazzarelliTP@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file on Intellipedia: 
+http://www.intelink.gov/wiki/ 
+Blue Lantern End-Use Monitoring Program. 
+ 
+¶7. Department is grateful for post's assistance in this 
+matter. 
+CLINTON

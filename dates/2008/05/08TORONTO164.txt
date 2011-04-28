@@ -1,0 +1,145 @@
+08TORONTO164
+Another Hurdle for ABCP Market Restructuring
+Tue May 27 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Toronto
+VZCZCXRO3915
+PP RUEHGA RUEHHA RUEHQU RUEHVC
+DE RUEHON #0164/01 1481335
+ZNR UUUUU ZZH
+P 271335Z MAY 08
+FM AMCONSUL TORONTO
+TO RUEHC/SECSTATE WASHDC PRIORITY 2504
+INFO RUCNCAN/ALCAN COLLECTIVE
+RUEHLO/AMEMBASSY LONDON 0058
+RUEATRS/DEPT OF TREASURY WASHDC
+RUCPDOC/USDOC WASHDCUNCLAS SECTION 01 OF 02 TORONTO 000164 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+STATE FOR WHA/CAN (RIOS) AND EEB (SIROTIC) 
+DEPT PASS USTR FOR MELLE, MENDENHALL, SULLIVAN 
+TREASURY FOR INTERNATIONAL AFFAIRS (TRAN) 
+COMMERCE FOR 4320/ITA/MAC/WH/ONIA (WORD) 
+ 
+E.O. 12958: N/A 
+TAGS: EFIN EINV ETRD PGOV CA
+SUBJECT: Another Hurdle for ABCP Market Restructuring 
+ 
+REF: (A) Toronto 115 (B) Toronto 87 (C) Toronto 81 
+ 
+ (D) Toronto 66  (E) 07 Toronto 430 
+ 
+Sensitive But Unclassified - Please protect accordingly. 
+ 
+¶1. (U) Summary:  Ontario Superior Court Justice Colin Campbell, who 
+is presiding over restructuring of the C$32 billion third-party 
+asset-backed commercial paper (ABCP) market is considering how to 
+resolve potential fraud claims.  Foreign banks, whose support is 
+crucial for the restructuring, initially said they would not support 
+a deal that did not release them from future liability but have 
+recently indicated they could support a deal that includes 
+provisions for lawsuits based only on fraud.  Some corporate 
+investors have initiated or plan to initiate lawsuits against the 
+retailers who sold them the ABCP.  Barrick Gold reportedly settled a 
+similar dispute with big-five Canadian bank CIBC on May 8. 
+Regulatory bodies are beginning to investigate the behavior of ABCP 
+retailers but have not yet publicly issued formal conclusions.  End 
+Summary. 
+ 
+--------------------- 
+No Release from Fraud 
+--------------------- 
+ 
+¶2. (U) On April 25, 96% of the 2,000 ABCP note holders who cast 
+ballots, mostly retail investors, voted in favor of the 
+restructuring plan that will convert the frozen C$32 billion 
+non-bank (third party) ABCP into new notes maturing within nine 
+years (ref (D)).  Many of the 200 corporate investors (ref (A)), 
+however, withheld their support for the plan because they will not 
+get as much of their investment back as small investors (who will 
+receive 100 cents on the dollar through buyout programs for retail 
+investors arranged by Canaccord Capital Inc. in exchange for giving 
+up their right to sue for losses).  Toronto's Hollinger Canadian 
+Publishing Holdings, and Quebec-based Jean Coutu Group have 
+reportedly said they will sue the ABCP-issuing institutions to 
+recover their losses rather than settle for the limited compensation 
+available to them under the restructuring plan.  Vancouver-based 
+First Quantum Minerals has launched a suit against HSBC Bank Canada 
+for selling the paper. 
+ 
+¶3. (U) On May 16, following two days of hearings with over 20 mostly 
+corporate investors groups, Ontario Superior Court Justice Colin 
+Campbell announced he would not finalize his approval of the ABCP 
+market restructuring before May 30.  Before that date, Campbell is 
+considering how to treat potential fraud claims under the ABCP 
+market restructuring plan.  He has already said the issuers and 
+retailers of non-bank ABCP should not be completely released from 
+civil liability under the Companies' Creditors Arrangement Act 
+(CCAA) (ref (C)).  Purdy Crawford, chair of the restructuring 
+committee, told investors in April that alleged fraud cases might be 
+allowed to proceed even if the restructuring wins court approval 
+(ref (A)).  Foreign banks such as Deutsche Bank, whose support is 
+crucial for the restructuring, initially said they would not support 
+a deal that did not release them from future liability.  In the past 
+few days, however, they reportedly indicated that they could support 
+a deal that includes provisions for lawsuits based on fraud.  They 
+have made clear that their support hinges on the precise definition 
+of "fraud." 
+ 
+------------------------------ 
+CIBC Settles with Barrick Gold 
+------------------------------ 
+ 
+¶4. (U) On May 8, Toronto-based Barrick Gold and Canadian Imperial 
+Bank of Commerce (CIBC), Canada's fifth largest bank, settled a 
+dispute over C$66 million worth of Ironstone Trust-issued ABCP, 
+which CIBC sold to Barrick.  Barrick had demanded full repayment of 
+C$66 million from CIBC, and was fighting in court for the right to 
+sue CIBC for selling Barrick the now almost worthless paper.  The 
+terms of the deal remain confidential.  A majority of the investors 
+holding Ironstone-issued ABCP voted against the restructuring plan. 
+Ironstone-issued ABCP, unlike that of the other 20 ABCP-issuing 
+trusts, is backed by many subprime assets which make its notes worth 
+between 5 and 12 cents on the dollar.  Sources said a similar deal 
+between CIBC and Chicago-based Sun-Times Media Group is also nearing 
+completion.  According to industry sources, some of CIBC's 
+competitors quietly bought back bad notes from their valued 
+corporate clients after the August 2007 meltdown. 
+ 
+------------------- 
+Regulatory Response 
+------------------- 
+ 
+ 
+TORONTO 00000164  002 OF 002 
+ 
+ 
+¶5. (U) In response to complaints from retail investors, the 
+Investment Dealers Association of Canada (IDA), the self-regulator 
+for the securities industry, in April began a "compliance sweep" 
+focusing on firms that sold non-bank ABCP.  The IDA is investigating 
+whether ABCP retailers met know-your client and suitability 
+requirements.  While the IDA can sanction brokers for inappropriate 
+behavior, it does not have the power to recover lost funds.  The 
+Ontario Securities Commission (OSC), which has market oversight 
+responsibility, is reviewing the compliance of issuers with 
+accounting standards and disclosure requirements (required to 
+provide investors with the level of transparency needed to make 
+informed investment decisions).  The OSC is also considering whether 
+to mandate relief for the financial institutions and other retailers 
+that have bought back ABCP from retail investors. 
+ 
+¶6. (SBU) Comment:  Judge Campbell is apparently looking for a 
+solution that will give the restructuring plan sponsors some comfort 
+that they will not be significantly affected by fraud claims, while 
+at the same time not shutting down fraud claims altogether, which 
+would be unacceptable to a higher court.  Some market watchers view 
+the IDA's investigation as a public relations campaign with no 
+teeth.  We expect the non-bank ABCP liquidity crisis will prompt 
+financial sector regulatory reform once the restructuring plan is 
+finally complete, and the market again operating, sometime this 
+summer.  End Comment. 
+ 
+NAY

@@ -1,0 +1,113 @@
+08OTTAWA1407
+EMERGENCY COMMUNICATIONS PROTOCOL IN CANADA
+Mon Nov 03 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Ottawa
+VZCZCXYZ0006
+PP RUEHWEB
+
+DE RUEHOT #1407 3082208
+ZNR UUUUU ZZH
+P 032208Z NOV 08
+FM AMEMBASSY OTTAWA
+TO RUEHC/SECSTATE WASHDC PRIORITY 8688
+INFO RUEHRL/AMEMBASSY BERLIN PRIORITY 1130
+RUEHLO/AMEMBASSY LONDON PRIORITY 0977
+RUEHFR/AMEMBASSY PARIS PRIORITY 1040
+RUEHRO/AMEMBASSY ROME PRIORITY 1383
+RUEHKO/AMEMBASSY TOKYO PRIORITY 3381
+RUCPDOC/DEPT OF COMMERCE WASHDC PRIORITYUNCLAS OTTAWA 001407 
+ 
+SIPDIS 
+ 
+STATE FOR WHA/CAN AND IRM/BPC/CST/EA GODWIN 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ACAO AMGT ANET ECPS CA
+SUBJECT: EMERGENCY COMMUNICATIONS PROTOCOL IN CANADA 
+ 
+REF: STATE 92121 
+ 
+¶1. (U) Summary: Canada's emergency telecom systems consist of 
+a priority access for dialing (also known as priority access 
+to dial tone or PAD) system for landline phones and a 
+wireless priority system (WPS) similar to the U.S. model. 
+The dated PAD system offers little benefit to the Embassy. 
+However, the GOC would welcome Mission Canada's participation 
+in the WPS. End Summary. 
+ 
+LANDLINE PRIORITY 
+----------------- 
+ 
+¶2. (SBU) Reftel requested information regarding potential 
+means for post to communicate locally and with Washington in 
+case of emergency and/or severe network overload.  Christine 
+Volonte, Project Officer, National Emergency Telecom 
+Services, Industry Canada, told emboffs that Canada does not 
+have an emergency "end-to-end" priority service for landline 
+calls on par with the U.S Government Emergency Telecom 
+Service (GETS).  Canada's emergency system provides Canadian 
+federal, provincial, and municipal officials only with 
+priority access to dial tone (PAD).  Volonte noted that the 
+Canadian and U.S. telecom systems are well integrated and use 
+the same switching and routing.  As a result, many Canadian 
+officials, herself included, have U.S. GETS cards that give 
+them access to the U.S. GETS system as long as they can get a 
+call through to a U.S. system. 
+ 
+¶3. (SBU) The Canadian PAD system is not compatible with voice 
+over internet protocol (VOIP), which is already used by 
+several Canadian municipalities, including Vancouver, the 
+host of the 2010 Olympics, Volonte said.  She stated that the 
+technology needed to prioritize certain VOIP data packets 
+(particularly end-to-end) does not yet exist. 
+ 
+¶4. (SBU) Volonte believes that the Canadian PAD system would 
+not be beneficial to post.  She said even in times of severe 
+stress on the Canadian telecom system, the Embassy's own 
+communications arrangements would likely allow Embassy 
+officials to obtain a dial tone due to the fact that we host 
+our own PBX system and have digital (T-1) lines. 
+Furthermore, she expects that the PAD system will eventually 
+be phased out. 
+ 
+WIRELESS PRIORITY 
+----------------- 
+ 
+¶5. (SBU) Canada's wireless priority service (WPS), according 
+to Volonte, is identical to the WPS in the United States. 
+The Canadian WPS does not offer end-to-end priority, but 
+rather helps prioritize phone to cell tower communication 
+during emergencies.  The system is two years old, has less 
+than 1,000 subscribers, and is maintained by Rogers Wireless, 
+a private company.  A second company, MTS Allstream, has 
+requested and been approved to offer WPS because they provide 
+Canada-wide telecom services but have not yet offered the WPS 
+service to customers.  All domestic officials wishing to 
+subscribe to WPS must apply through Industry Canada, and 
+foreign officials must apply through the Department of 
+Foreign Affairs and International Trade.  WPS in Canada has 
+issues identical to WPS in the United States regarding the 
+use of 3G (HSPA) handsets and at this point in time 2G phones 
+should be used to ensure access to WPS. 
+ 
+¶5. (U) Within the WPS, subscribers are separated into five 
+levels of priority: 
+ 
+Level 1: Executive Leadership and Decision Makers 
+Level 2: Disaster Response and Military Command and Control 
+Level 3: Public Health and Safety and Law Enforcement Command 
+Level 4: Public Service, Utilities, and Public Welfare 
+QLevel 4: Public Service, Utilities, and Public Welfare 
+Level 5: Disaster Recovery 
+ 
+¶6. (SBU) Mission Canada officials, should they subscribe to 
+WPS, would be assigned priority level 2.  The subscription 
+costs 10 CAD/month/phone and 1 CAD per minute of use. 
+¶7.  (U) For additional information visit Industry Canada's 
+site at www.ic.gc.ca and search for PAD. 
+ 
+Visit Canada,s Economy and Environment Forum at 
+http://www.intelink.gov/communities/state/can ada 
+ 
+WILKINS

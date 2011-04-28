@@ -1,0 +1,406 @@
+08OTTAWA135
+
+Fri Jan 25 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ottawa
+VZCZCXRO1708
+RR RUEHGA RUEHHA RUEHQU RUEHVC
+DE RUEHOT #0135/01 0252158
+ZNR UUUUU ZZH
+R 252158Z JAN 08
+FM AMEMBASSY OTTAWA
+TO RUEHC/SECSTATE WASHDC 7204
+INFO RHEBAAA/DEPT OF ENERGY WASHDC
+RUEAEPA/HQ EPA WASHDC
+RUCPDOC/USDOC WASHDC
+RUCNCAN/ALL CANADIAN POSTS COLLECTIVEUNCLAS SECTION 01 OF 05 OTTAWA 000135 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+STATE FOR OES, EEB/ESC, WHA/CAN 
+ 
+DOE FOR INT'L AND POLICY AND IE-141 
+ 
+EPA FOR OFFICE OF THE ADMINISTRATOR AND INTERNATIONAL AFFAIRS 
+ 
+USDOC FOR 4320/ITA/MAC/WH/ONIA - WORD 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG SENV PGOV CA
+SUBJ:  ELECTRIC POWER FROM CANADA:  TRADE DWINDLES AS CONTINENT'S 
+NEEDED INFRASTRUCTURE REMAINS UNBUILT 
+ 
+SUMMARY/INTRODUCTION 
+-------------------- 
+ 
+¶1. (U) SENSITIVE, BUT UNCLASSIFIED. 
+ 
+¶2. (U) Five years ago, based on its extensive study, Embassy Ottawa 
+concluded that while Canada's potential for new electric power 
+development had been growing, its exports of power to the United 
+States were likely to decline in coming decades.  The main reason 
+was transmission constraints.  Obtaining permits to build or expand 
+transmission lines had become very difficult, and efforts in both 
+countries to restructure electric power markets had created 
+uncertainty which discouraged investment. 
+ 
+¶3. (U) The result was too little transmission capacity.  Thus, 
+generating plants were increasingly being built close to markets, 
+leading to heavy reliance on natural gas as a fuel, and reduced 
+long-distance trade in electric power, including across the 
+U.S.-Canadian border.  Such factors threatened to make the entire 
+North American electric grid less efficient and less resilient. 
+These problems were subsequently highlighted by the northeastern 
+power outage of August 2003, which affected millions in both 
+countries.  We reported in 2002 that Canadian stakeholders were 
+ready and willing to join U.S. counterparts in developing a cohesive 
+bi-national effort to address these problems, and this was borne out 
+by Canadian engagement in the Power System Outage Task Force. 
+ 
+¶4. (SBU) The analysis in this message contains both good and bad 
+news.  The bad news is that the problems we identified in 2002 
+mostly remain.  Electricity market restructuring has failed to 
+advance in many jurisdictions and the needed catch-up of investment 
+in North America's transmission grid has scarcely begun.  Perhaps 
+partly as a result, Canadian players for the most part have not 
+moved ahead with major expansions of generation capacity.  Instead, 
+Canadian jurisdictions have resolved the mismatch between demand 
+growth and supply growth by reducing net exports of power to their 
+neighbors.  If and when new generating resources come on stream, a 
+lack of transmission investment in the northern tier of U.S. States 
+will help tilt Canadian options in favor of building links east-west 
+between provinces (links which are currently underdeveloped), rather 
+than the more usual pattern southward into the USA. 
+ 
+¶5. (U) The good news is that the opportunities we saw in 2002 also 
+remain present.  Canada continues to have enormous undeveloped 
+generating potential.  Many Canadian players are interested in 
+tapping this potential and opening up export opportunities.  Our two 
+countries' bi-national response to the August 2003 outage clearly 
+demonstrated that we can coordinate successful, high-level 
+approaches to the sector's problems.  The U.S. Energy Policy Act of 
+2005 strengthened the USG's capacity to address these challenges. 
+In particular, USDOE's 2006 National Electric Transmission 
+Congestion Study focused attention on the capacity issue in the U.S. 
+domestic grid, including specific problem areas in northern border 
+states. 
+ 
+END SUMMARY/INTRODUCTION 
+ 
+THE PROBLEM 
+----------- 
+ 
+¶6. (U) Early in 2001, with energy policy at the top of the new 
+Administration's agenda, then Canadian Prime Minister Jean Chretien 
+suggested to President Bush that transmission grid improvements 
+could unlock major undeveloped electric generating resources in 
+Qcould unlock major undeveloped electric generating resources in 
+Canada.  While Chretien focused particularly on hydroelectric sites 
+in northern Manitoba (Nelson River), there was considerable 
+potential in hydro resources in other regions (such as Labrador and 
+Quebec) and in oilsands cogeneration in Alberta. 
+ 
+¶7. (U) While several Canadian provinces have abundant 
+environmentally and politically acceptable opportunities for new 
+power generation, these opportunities are constrained by sheer 
+distance from markets and severe obstacles of either access or 
+capacity on the transmission side.  These obstacles are not limited 
+to Canada, but are continent-wide. 
+ 
+¶8. (SBU) As a result, in much of North America for the past decade, 
+investment in generation has been biased toward natural-gas-fired 
+plants.  These can be sited close to markets because they are 
+ 
+OTTAWA 00000135  002 OF 005 
+ 
+ 
+relatively low in emissions, and because gas pipelines effectively 
+substitute for power lines (being buried, gas lines are less visible 
+and thus more acceptable to property owners, who hate overhead power 
+lines).  Industry observers worry that this trend over-commits the 
+electric power sector to a relatively high-cost fuel, that the stock 
+of these gas-fired plants might outlive the era of abundant natural 
+gas in North America, and that the lack of investment in 
+long-distance transmission is making the whole continental power 
+grid less flexible, efficient, and reliable. 
+ 
+SUGGESTED REMEDIES, THEN AND NOW 
+-------------------------------- 
+ 
+¶9. (SBU) In 2002, suggested remedies for the problem of grid 
+underinvestment fell into four general categories: 
+ 
+- The U.S. and Canada should develop a high-level binational plan 
+for the continental transmission grid.  (This has not occurred). 
+ 
+- The USG should consider assuming "eminent domain" over the siting 
+of transmission lines.  (Federal energy corridors are being 
+designated in areas experiencing constraints and congestion, and 
+FERC now has authority to issue construction permits for 
+transmission facilities in these corridors). 
+ 
+- Regional Transmission Organization (RTO) formation should be 
+expedited.  (This has occurred, with RTOs now covering about 
+two-thirds of the continental USA and much of Canada.) 
+ 
+- Priority should be given to developing innovative transmission 
+technologies in order to expand grid capacity.  (DOE's 2007 
+Strategic Plan for electricity deliverability begins to answer this 
+need). 
+ 
+U.S. POLICY PROGRESS 
+-------------------- 
+ 
+¶10. (U) The bi-national Task Force which investigated the 
+northeastern electric power outage of August 2003 made many 
+recommendations on institutional issues related to system 
+reliability, as well as on how to support and strengthen the North 
+American Electric Reliability Corporation (NERC - now the Electric 
+Reliability Organization for both countries).  Beyond the work of 
+the Task Force, there remains potential for greater economic 
+investment in the grid's capacity to make it more efficient and 
+reliable and to open up new generating resources. 
+ 
+¶11. (U) While the Energy Policy Act of 2005 focused more heavily on 
+the oil and nuclear industries than on the electric grid, it led 
+FERC to develop incentive-based rate treatments for interstate 
+transmission of electric power.  The 2005 Act also led to USDOE's 
+first National Electric Transmission Congestion Study (NETC study, 
+August 2006).  This document makes good progress in examining 
+transmission congestion and identifying constrained areas of the 
+grid within the United States.  (Two such areas are adjacent to the 
+Canadian border:  New England and the Seattle-Portland area.) 
+ 
+¶12. (SBU) The NETC study also finds that large coal and wind 
+resources in Minnesota, the Dakotas, Montana and Wyoming cannot be 
+developed for electric generation without placing strains on the 
+existing transmission grid in those States.  In our view, this 
+analysis could easily have been extended to cover coal, oilsand, 
+wind and hydroelectric resources across western Canada (and indeed 
+in other provinces).  In order to be developed, these huge 
+generating resources will require new transmission capacity within 
+Canada and/or in adjacent States.  If those investments do not occur 
+QCanada and/or in adjacent States.  If those investments do not occur 
+in the United States, then Canadian proponents of new generation 
+will reluctantly be left with a more limited and much sparser 
+Canadian market. 
+ 
+¶13. (SBU) The Energy Policy Act of 2005 also directed the 
+Administration to designate energy corridors on federal land in the 
+United States, strengthening FERC's authority to permit the 
+expansion of transmission capacity for electricity, oil, gas and 
+hydrogen in areas experiencing constraints or congestion.  While 
+this is a great step forward, the proposed corridors barely reach 
+the northern tier of states which are adjacent to Canada. 
+ 
+CANADIAN GENERATION AND TRANSMISSION OUTLOOK 
+ 
+OTTAWA 00000135  003 OF 005 
+ 
+ 
+-------------------------------------------- 
+ 
+¶14. (SBU) BRITISH COLUMBIA (which accounted for 11.5 percent of 
+Canada's power generation in 2005) relies on a legacy of pre-1975 
+hydro dams built on the Columbia River and Peace River systems.  The 
+province exported large quantities of power to the western States in 
+subsequent years while in-province demand "grew into" this 
+generating overcapacity; demand is now catching up with supply and 
+the governing philosophy is one of provincial self-sufficiency.  For 
+future demand, the priority is to purchase more power from 
+independent producers.  A potential large hydroelectric site known 
+as "Site C" on the Peace River is the most likely large generating 
+investment, but there is currently no time-line for its development. 
+ 
+ 
+¶15. (SBU) Transmission investment in B.C. has lagged in recent 
+decades.  A few modest transmission line reinforcements are in the 
+works, none of which would cross the border.  The GOC expects 
+British Columbia's net power exports to the USA to decline from 
+about 3 terawatt hours (TWH) in 2004 to about 1.1 TWH in 2020.  Key 
+obstacles to new infrastructure in B.C. are unresolved native land 
+claims, which cover nearly all of the province's area. 
+ 
+ 
+¶16. (SBU) ALBERTA (9.5 percent of national generation) relies mainly 
+on inexpensive local coal and natural gas as generating fuels. 
+Increasingly, electricity is co-generated while natural gas is 
+burned to extract bitumen from the province's vast northern oilsand 
+deposits.  This electricity is consumed locally by industry, which 
+reduces the growth of industrial demand on the grid, helping to keep 
+on-grid demand growth below 1 percent annually.  Cogeneration could 
+also make a net contribution to electricity supply, perhaps even 
+changing the province's traditional status from small net importer 
+of power to net exporter if transmission capacity in Montana and 
+Wyoming can be expanded.  (Moreover, some in Alberta are seriously 
+considering use of nuclear reactors to fuel bitumen extraction, 
+which could boost the amount of power co-generated in this process). 
+ Alberta has gone much further than other provinces in introducing 
+competition to its electric power market.  Several transmission 
+investments are contemplated, including two which are cross-border: 
+the likely-to-be-completed Montana Alberta Tie (240 kilovolts over 
+346 kilometers) and the ambitious Northern Lights project from the 
+oilsands to Oregon (500 kilovolts over 1743 km), with a projected 
+in-service date of 2012. 
+ 
+¶17. (SBU) MANITOBA (5.6 percent of national generation) has plans, 
+but no timeline, for a low-unit-cost 1380 megawatt hydroelectric 
+station at Conawapa on the lower Nelson River.  While the 
+environmental and land-claims obstacles to development appear to be 
+moderate, the Conawapa site is remote from power markets and would 
+require a major long-distance transmission line southward to 
+Minneapolis/Chicago or eastward to the Toronto area.  While Toronto 
+is more distant from Manitoba than Chicago is, the eastward 
+transmission route to Toronto is relatively uninhabited.  This means 
+that an all-new line to Toronto, costing over C$1 billion, may be 
+more feasible than expanding the grid's capacity in adjacent U.S. 
+States, which according to Manitoba Hydro appears nearly impossible 
+QStates, which according to Manitoba Hydro appears nearly impossible 
+due to "not in my backyard" resistance.  Around 2005-06, Ontario and 
+Manitoba held discussions aimed at reinforcing and expanding their 
+power interconnections, in what they describe as "a first step in 
+creating a national east-west power grid."  The GOC predicts that 
+Manitoba's annual power exports to the USA will remain at about 11 
+TWH through 2020, but that sales to Ontario will roughly double to 
+over 3 TWH even if Conawapa remains undeveloped, with greater growth 
+if that project goes forward. 
+ 
+¶18. (SBU) ONTARIO (28.5 percent of national generation) has 
+committed to close its four remaining large coal-fired generating 
+facilities by 2014 due to air quality concerns, despite having 
+limited options for new generating capacity.  Recently, most new 
+generating investment has been in natural-gas-fired peaking plants 
+built close to demand centers in southern Ontario, and dozens of 
+small renewable (wind, biomass, solar and hydroelectric) projects. 
+The province is edging toward permitting new nuclear reactors (there 
+are 18 power reactors in service or being refurbished) to provide 
+the baseload power that will be needed in the future.  Because those 
+new reactors will not enter service before 2018, total nuclear 
+capacity will actually decline over the coming decade.  The Ontario 
+Power Authority (OPA) has clearly stated that natural gas plants are 
+ 
+OTTAWA 00000135  004 OF 005 
+ 
+ 
+effectively projects of last resort - "when additional conservation 
+and renewable resources are not feasible or cost effective." 
+ 
+¶19. (SBU) As it works to replace the baseload power currently 
+generated by its coal plants, Ontario would like to have the 
+flexibility to purchase energy generated from renewable sources from 
+neighboring provinces and U.S. States.  The OPA estimates that 
+demand could exceed in-province supply from 2015 until new nuclear 
+capacity comes online.  The GOC's prediction for Ontario's net 
+imports is strongly dependent on assumptions about the province's 
+construction of new nuclear generating plants.  Ontario is currently 
+focused on building the internal transmission infrastructure needed 
+to carry power from its new renewable energy projects and upgrading 
+transmission lines linking the Bruce nuclear facility to large 
+electricity demand centers.  The province plans to expand its very 
+limited east-west interprovincial transmission links in order to 
+accommodate more imports.  Use of provincial funds in this way is at 
+least partly rationalized as an environmental investment which 
+facilitates the shutdown of the coal-fired plants.  The vast 
+distance (over 1,200 road miles, some of which cross native lands) 
+from the Manitoba border to the Toronto-area demand center, 
+significantly complicates construction of this portion of the 
+east-west transmission grid across Ontario. 
+ 
+¶20. (SBU) Currently only one of the transmission line projects under 
+construction - a 20 kilometer, 230 kilovolt link to neighboring 
+Quebec - would cross the province's boundary.  With the exception of 
+the 2006 replacement of a 230 kv transmission line between Sarnia 
+and Marysville, Michigan, Ontario's north-south transmission grid 
+links to the U.S. have not been upgraded or expanded in recent 
+years.  In the near term, increased Ontario-U.S. transmission 
+capacity is not a priority for Ontario policymakers and the 
+Independent Electricity System Operator (IESO). 
+ 
+¶21. (SBU) QUEBEC (28.7 percent of national generation in 2005) has 
+enormous hydroelectric capacity, both developed and undeveloped. 
+Historically Quebec built transmission lines to support long-term 
+net exports to the northeastern United States.  The province has 
+successfully added new medium-sized hydro generating plants in 
+recent years, and has plans for at least one large development (La 
+Romaine - 1500 megawatts) in the coming decade.  Quebec is also 
+investing in wind generating capacity, which is expected to reach 
+5.5 gigawatts by 2020.  All these developments are located far from 
+markets, so the ability to link them to the grid and strengthen 
+overall transmission capacity is a crucial factor, as is the 
+negotiation of long-term supply contracts with U.S. customers. 
+Outside of developed areas in the province's south, Quebec seems to 
+be making more progress than other provinces in expanding its 
+transmission grid.  However, all currently planned expansions appear 
+to be either bringing new capacity into the grid, or strengthening 
+export capacity to Ontario.  Grid reinforcements in densely settled 
+areas, notably those into the Montreal urban area and near the 
+boundary with New York State, remain politically very difficult to 
+achieve, and we understand that there are similar challenges on the 
+U.S. side of the border. 
+QU.S. side of the border. 
+ 
+¶22. (SBU) NEW BRUNSWICK (3.1 percent of generation) is expected to 
+increase its power exports into Maine from 0.9 TWH in 2005 to 2.3 
+TWH by 2020, due to slow in-province demand growth and a diverse 
+range of supply options (hydro, coal, nuclear, gas, wind).  A 230 
+kilometer, 345 kilovolt line to the Bangor, Maine area is currently 
+being completed. 
+ 
+¶23. (SBU) NEWFOUNDLAND AND LABRADOR (7.3 percent of generation) has 
+most of its generating capacity at a remote location in Churchill 
+Falls, Labrador, from which power is exported to the Quebec grid and 
+into the northeastern United States.  While large developments are 
+contemplated for new sites on the Lower Churchill River, 
+transmission depends on interprovincial arrangements with Quebec. 
+If Quebec continues to invest in interprovincial ties with Ontario, 
+the majority of new generation from Labrador could  end up in the 
+Ontario market.  A more expensive export alternative for 
+Newfoundland/Labrador would involve building transmission lines and 
+undersea cables across the Island of Newfoundland and Cabot Strait 
+to Nova Scotia and thence to New England, an ambitious (and 
+early-stage) idea which Nova Scotia and Newfoundland have agreed to 
+consider. 
+ 
+CONCLUSION/COMMENT 
+ 
+OTTAWA 00000135  005 OF 005 
+ 
+ 
+------------------ 
+ 
+¶24. (SBU) Canada's annual net electric power exports to the United 
+States halved in the first six years of the current decade, sliding 
+from 36 TWH in 2000 to 18 TWH in 2006.  The GOC expects Canada's net 
+power exports to decline somewhat further over the next dozen years, 
+to 15 TWH in 2015 and 14 TWH in 2020.  U.S. markets will probably 
+have access to increased net exports from two provinces (a modest 
+increase from Alberta, more from New Brunswick), but as the 2006 
+U.S. NETC study implies, grid congestion in adjacent States may yet 
+limit these opportunities. 
+ 
+¶25. (SBU) While the drive to open up electricity markets in both the 
+U.S. and Canada appears to have slowed since around 2003, at least 
+this slowdown has mitigated the uncertainty which may have been 
+impeding investment previously.  Compared with 2000-2002, we are 
+reassured to find signs of an upswing in capital investment in the 
+electric power industry.  Still, too little of this investment is on 
+the transmission side.  Also, while the 2005 Energy Policy Act made 
+great strides toward facilitating such investment, it treats the 
+grid essentially as a domestic system and does not promote 
+investment in cross-border transmission.  Where Canadian players are 
+planning inter-jurisdictional connections, the biggest players - 
+Ontario and Quebec - are thinking along east-west rather than 
+north-south lines.  Assuming provinces individually do not give in 
+to parochial "self-sufficiency" thinking, power trade on such 
+inter-provincial connections will bring benefits, but still, the 
+benefits will be largely confined to Canada.  As Prime Minister 
+Chretien told President Bush seven years ago, removing obstacles to 
+transmission investment, and growing the capacity for north-south 
+power trade, would unlock major new electric power supplies and 
+bigger economic gains for both countries. 
+ 
+WILKINS

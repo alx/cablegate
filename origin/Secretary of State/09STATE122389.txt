@@ -1,0 +1,241 @@
+09STATE122389
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Mon Nov 30 00:00:00 +0100 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXRO2729
+RR RUEHMT
+DE RUEHC #2389/01 3341324
+ZNR UUUUU ZZH
+R 301315Z NOV 09
+FM SECSTATE WASHDC
+TO RUEHOT/AMEMBASSY OTTAWA 0572
+INFO RUEHMT/AMCONSUL MONTREAL 0062
+RHMCSUU/FBI WASHINGTON DC 7138
+RUEAIIA/CIA WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 6124
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DC 0778UNCLAS SECTION 01 OF 03 STATE 122389 
+ 
+SIPDIS 
+OTTAWA FOR LORI BALBI 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC CA
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON THE EXPORT OF U.S. DEFENSE ARTICLES CITING THE CANADIAN 
+EXEMPTION 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Embassy's assistance in 
+conducting a post-shipment check on transactions citing the 
+Canadian exemption for the export of Gyroscopic compasses to 
+Canada.  Embassy is requested to complete this Blue Lantern 
+check within 45 days.  Lack of response to a Blue Lantern 
+check will affect pending and future licenses involving 
+parties to this license. 
+ 
+¶3. Reason for request: Under ITAR 126.5 (Canadian Exemption), 
+certain United States Munitions List (USML) items may be 
+exported to Canada without a license.  Some items on USML 
+Categories XI and XII - which includes gyroscopic compasses - 
+may be subject to Missile Technology Control Regime (MTCR) 
+restrictions and may require a license depending on commodity 
+specification and type.  DDTC requests this check based on 
+vague description of commodity and end-use in export filing. 
+ 
+¶4. ACTION OTTAWA: Mission Canada is requested to make 
+inquiries with appropriate Bell Helicopter Txtrn Ltd. (Bell) 
+and Elcan Optical Technologies (Elcan) officials to obtain 
+all relevant details regarding the export of gyroscopic 
+compasses to Canada citing the Canadian exemption, including 
+exact commodity description and technical parameters for 
+performance and capability, number, type, dollar value, and 
+serial number of items.  (See paragraph 5 for details of 
+export, including filer identification and shipping reference 
+numbers.) 
+ 
+The following questions are provided as suggested guidance: 
+ 
+--What were the exact United States Munitions List (USML) 
+articles exported to you on (for Bell) June 21st 2007, and 
+For Elcan on January 21st, March 17th and May 6th 2008? 
+(Automated Export System (AES) filing data provides the 
+following information, for Bell "gyroscopic compasses other 
+than el", and for Elcan "gyroscopic compasses, electrical, 
+except for".)  Please provide detail on model, type and 
+technical specifications. 
+ 
+--What is the exact end-use for these USML items?  Will Bell 
+(or Elcan) be the sole end-user and retain positive control 
+over the gyroscopic compasses at all times?  Will they be 
+transferred to other end-users in Canada or re-exported? 
+ 
+--Does the company understand the restrictions on USML items, 
+especially the prohibition against unauthorized re-transfer 
+and re-export? 
+ 
+END ACTION. 
+ 
+¶5. Details of the AES filings: 
+ 
+--EXPORT 1 - QUANTITY/COMMODITY: 
+ 
+Quantity not provided 
+ 
+Commodity - Vague description cited as, "gyroscopic compasses 
+other than el" 
+ 
+Stated Value: USD 35,336.00 
+ 
+Export Date - 21 June 2007 
+ 
+ITAR Exemption Number - 126.5B 
+ 
+Filer Identification Number - 943083515 
+ 
+Shipping Reference Number - 5459215234717 
+ 
+Export Identification Code - 22264065000 
+ 
+U.S. EXPORTER: 
+ 
+Honeywell, Inc. 
+23500 W. 105th St. 
+ 
+STATE 00122389  002 OF 003 
+ 
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON THE EXPORT OF U.S. DEFENSE ARTICLES CITING THE CANADIAN 
+EXEMPTI 
+Olathe, KS 66061 
+POC is Ron Thorton, Tel. 913-712-2142 
+ 
+ULTIMATE CONSIGNEE 
+ 
+Bell Helicopter Txtrn Ltd. 
+12 800 Rue De Lavenir 
+Mirabel 
+Canada J7J1R4 
+POC is Joseph Dakka, No Tel. provided 
+ 
+--EXPORT 2 - QUANTITY/COMMODITY: 
+ 
+Quantity not provided 
+ 
+Commodity - Vague description cited as, "gyroscopic 
+compasses, electrical, except for" 
+ 
+Stated Value: USD 14,175.00 
+ 
+Export Date - 21 January 2008 
+ 
+ITAR Exemption Number - 126.5B 
+ 
+Filer Identification Number - 30117050 
+ 
+Shipping Reference Number - 58911X 
+ 
+Export Identification Code - 95247994200 
+ 
+U.S. EXPORTER: 
+ 
+BAE Systems Inertial Products 
+250 Knotter Dr. 
+Cheshire, CT 06410 
+POC is Mr. Gamanche, Tel. 203-250-3617 
+ 
+ULTIMATE CONSIGNEE 
+ 
+Elcan Optical Technologies 
+450 Leitz Rd. 
+Midland, Ontario 
+Canada L4R5B8 
+POC is Mr. Beiers, Tel. 705-528-7107 
+ 
+--EXPORT 3 - QUANTITY/COMMODITY: 
+ 
+Quantity not provided 
+ 
+Commodity - Vague description cited as, "gyroscopic 
+compasses, electrical, except for" 
+ 
+Stated Value: USD 11,340.00 
+ 
+Export Date - 17 March 2008 
+ 
+ITAR Exemption Number - 126.5B 
+ 
+Filer Identification Number - 30117050 
+ 
+Shipping Reference Number - 59243X 
+ 
+Export Identification Code - 95247994200 
+ 
+U.S. EXPORTER: 
+ 
+Atlantic Inertial Systems, Inc. 
+250 Knotter Dr. 
+Cheshire, CT 06410 
+POC is Mr. Strazzeri, Tel. 203-250-3617 
+ 
+ULTIMATE CONSIGNEE 
+ 
+Elcan Optical Technologies 
+450 Leitz Rd. 
+Midland, Ontario 
+Canada L4R5B8 
+POC is Mr. Beiers, Tel. 705-528-7107 
+ 
+--EXPORT 4 - QUANTITY/COMMODITY: 
+ 
+Quantity not provided 
+ 
+Commodity - Vague description cited as, "gyroscopic 
+compasses, electrical, except for" 
+ 
+ 
+STATE 00122389  003 OF 003 
+ 
+ 
+Export Date - 6 May 2008 
+ 
+ITAR Exemption Number - 126.5B 
+ 
+Filer Identification Number - 30117050 
+ 
+Shipping Reference Number - 59611X 
+ 
+Export Identification Code - 95247994200 
+ 
+U.S. EXPORTER: 
+ 
+BAE Systems Inertial Products 
+250 Knotter Dr. 
+Cheshire, CT 06410 
+POC is Mr. Strazzeri, Tel. 203-250-3617 
+ 
+ULTIMATE CONSIGNEE 
+ 
+Elcan Optical Technologies 
+450 Leitz Rd. 
+Midland, Ontario 
+Canada L4R5B8 
+POC is Mr. Beiers, Tel. 705-528-7107 
+ 
+¶6. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Tim Mazzarelli, Phone: 
+202-663-3867; Email: MazzarelliTP@state.gov; SIPRNET: 
+MazzarelliTP@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file on Intellipedia: 
+http://www.intelink.gov/wiki/ 
+Blue Lantern End-Use Monitoring Program. 
+ 
+¶7. Department is grateful for post's assistance in this 
+matter. 
+CLINTON

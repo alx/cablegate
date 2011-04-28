@@ -1,0 +1,376 @@
+05OTTAWA1588
+FY 2006 IVLP, ITT on U.S. Public Policy Issues and
+Fri May 27 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+271152Z May 05UNCLAS SECTION 01 OF 05 OTTAWA 001588 
+ 
+SIPDIS 
+ 
+STATE 
+ 
+SECSTATE FOR ECA/PE/V/R/W - EWILKES-SCOTT; 
+WHA/PDA - JCARPENTER 
+MONTREAL, TORONTO AND VANCOUVER FOR PAOS; 
+HALIFAX AND QUEBEC FOR CONGENS; 
+CALGARY FOR FIELD REPS; CALGARY PLEASE PASS TO WINNIPEG 
+ 
+E.O. 12958: N/A 
+TAGS: KPAO OEXC SCUL CA IV
+SUBJECT: FY 2006 IVLP, ITT on U.S. Public Policy Issues and 
+the Broadcast Media 
+ 
+REFERENCE:  OTTAWA 1504 
+ 
+¶1.   Mission Canada proposes a two-person International 
+Visitor Leadership Program which would acquaint two 
+accomplished broadcast journalists in Halifax and Winnipeg 
+with major public policy debates in the U.S. and how they 
+are covered in the broadcast media.  Through meetings with 
+federal executive, legislative and judicial branches, state 
+and local governments, NGOs, industry and professional 
+associations, and their counterparts in U.S. media 
+organizations, they would gain insights into a) the workings 
+of the U.S. political system, and b) how the diverse views 
+of Americans merge in the policy-making process.  Specific 
+issues on which they might focus include U.S. Homeland 
+Security (e.g. balancing security measures with privacy and 
+civil liberties concerns); U.S. Trade Policy (e.g. 
+commitment to free trade, positions on agricultural trade 
+distortions in world markets, U.S. trade remedies as applied 
+to Canada-U.S. softwood, wheat and hog trade); energy and 
+environmental policy, or domestic health care and social 
+security debates. 
+ 
+¶2.   Proposed participants, Wade Keller, Senior Producer, 
+ATV news, Halifax, Nova Scotia; and Kacey Wilson, 
+Host/Producer "Today So Far", CJOB 68 Radio, Winnipeg, both 
+have full country team approval. 
+ 
+¶3.   EVDB-formatted nomination follows: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: slw@pd.state.gov 
+TRANSMITTING-POST: PAS Ottawa 
+TRANSMITTING-POST-ID: 6540 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VRW 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 341 
+ECA-PROJ-NO: 
+PROJ-NAME: ITT U.S. Public Policy and the Broadcast Media 
+(Keller, Wilson) 
+START MEMO PROJ-DESC: 
+This program would acquaint two emerging broadcast 
+journalists with major public policy debates in the U.S. and 
+how they are covered in the broadcast media.  Through 
+meetings with federal executive, legislative and judicial 
+branches, state and local governments, NGOs, industry and 
+professional associations, and naturally, their counterparts 
+in U.S. media organizations, they would gain insights into 
+how the differing views of Americans merge in the policy- 
+making process.  Specific issues on which they might focus 
+include U.S. Homeland Security (e.g. balancing security 
+measures with privacy and civil liberties concerns); U.S. 
+Trade Policy (e.g. commitment to free trade, positions on 
+agricultural trade distortions in world markets, U.S. trade 
+remedies as applied to Canada-U.S. softwood, wheat and hog 
+trade); Energy and Environmental Policy (respective 
+contributions of energy companies, auto companies, 
+alternative energy researchers and producers, nuclear power 
+proponents, conservationists, public utilities, and NGOs), 
+Prescription Drug Trade, or the Social Security Debate. 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individuals Traveling Together 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 2 
+RANK-ORDER: 0 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1037 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: ITT 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 6540 
+FUNDING-CNTRY-ID: 322158 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Politics & Parties 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Wade 
+M-NAME: 
+L-NAME: Keller 
+SUFFIX: 
+POSITION-CODE: 622 
+PRINCIPAL?: Yes 
+GENDER: M 
+DOB: 07/10/1966 
+MAR-STAT: 
+BIRTH-CITY: Kingston, Ontario 
+BIRTH-CNTRY: Canada 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+Senior Producer, ATV News, Halifax, Nova Scotia, Canada 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Producer/Director, CBC Newsworld, Canadian Broadcasting 
+Corporation (1998-2000) Halifax, Nova Scotia; 
+Producer/Director, ATV/ASN News (1993-1998) Halifax, Nova 
+Scotia; Photojournalist, Editor, Reporter, Producer, Camera 
+Operator, Independent Television for the Maritimes - MITV 
+(1990-1993) Halifax, Nova Scotia; Reporter/Announcer, 
+CJCB/CKPE Radio Sydney, Nova Scotia (1988-1990); 
+Reporter/Announcer, and Ottawa Valley Radio, Renfrew, 
+Ontario (1987-1988). 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+private, short trips limited to New England and New York for 
+tourism only 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Caribbean and Italy, Spain and Portugal for tourism 
+purposes. 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Broadcast Journalism Diploma, Canadore College, North Bay, 
+Ontario 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+Recipient of the CANPRO (The Canadian Television Program 
+Award) for a special presentation in the 1998 crash of Swiss 
+Air Flight 111 off Nova Scotia; recipient of the Radio- 
+Television News Directors Association of Canada Merit Award 
+for several half-hour documentaries.  As a student, a 
+recipient of two achievement awards. 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: English 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: ConGen Len Hill 
+START MEMO NOMINATING-JUSTIFICATION: 
+Mr. Keller is one of this post's most important media 
+contacts. His position as Senior Producer for ATV news, the 
+Atlantic regional affiliate for Canada's largest private 
+sector broadcaster, CTV, puts him in regular contact with 
+the Consulate.  He works with us in coordinating TV 
+interviews of visiting U.S. officials such as the 
+Ambassador, U.S. Under Secretary for Commerce Grant Aldonas 
+and other high ranking officials.  He also works closely 
+with other host government officials and business and 
+community leaders in coordinating similar interviews. 
+ATV news is broadcast throughout three of Canada's four 
+Atlantic Provinces and has captured over 350,000 viewers 
+each evening, more than the Toronto CTV affiliate.  As such, 
+Mr. Keller's work has a direct influence on how Atlantic 
+Canadians view the U.S.-Canada relationship and U.S. foreign 
+policy.  An IVLP project would give him direct exposure to 
+politics and policymaking in the United States, as well as 
+media trends, that will strengthen his ability to interpret 
+United States news and events for the Canadian public. 
+ 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ConGen Halifax 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: ELEO 
+NOMINEE-ID: 510 
+PERSON-ID: 392 
+BIRTH-CNTRY-ID: CA 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: EN 
+E-I-TYPE-ID: E 
+NOM-POST-ID: 6540 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 45.1001 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+START BIO: 
+PREFIX: Ms. 
+F-NAME: Kacey 
+M-NAME: Ann 
+L-NAME: Wilson 
+SUFFIX: 
+POSITION-CODE: 622 
+PRINCIPAL?: Yes 
+GENDER: F 
+DOB: 05/28/1979 
+MAR-STAT: 
+BIRTH-CITY: Calgary, Alberta 
+BIRTH-CNTRY: Canada 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+Host/Producer "Today So Far" on CJOB 68 radio in Winnipeg, 
+Manitoba (current affairs/news program) 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+-    Host/Producer "Up Close and Personal with Kacey Wilson" 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+-    Host/Producer "Kacey at the Watercooler" on CJOB 68 
+(open line talk show) -  Morning Show Co-Host /News Reporter 
+at 94XFM/CJCI radio in Prince George, British Columbia- 
+News Reporter/Desker at BKR Radio in Grand Forks, British 
+Columbia 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Grand Forks, North Dakota (2004) - Personal 
+Los Angeles, California (1991) - Personal 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+none 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Diploma in Broadcast Journalism from Southern Alberta 
+Institute of Technology (SAIT) in Calgary Alberta (2000) 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+none 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+none 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+Dietary / Medical Considerations:  None 
+Smoker / Non-smoker: Non-Smoker 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: English 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: ConGen Todd Schwartz 
+START MEMO NOMINATING-JUSTIFICATION: 
+Engaging media leaders in Canada's central region in 
+dialogue with Americans is important to post, both to 
+provide issue-specific information and to shape reporters 
+overall picture of the United States.   Although young at 
+26, Kacey Wilson has  come into her own since taking over 
+CJOB's afternoon call-in show late last year.  She has a 
+quick and solid grasp of a wide variety of issues, and has 
+an overall favorable impression of the United States. 
+Wilson has a promising future ahead of her in broadcasting, 
+and her appearance and demeanor will not limit her 
+exclusively to radio.  Her quick adaptive skills and the way 
+she puts her guests instantly at ease - while really teeing 
+them up for the hard questions she is about to ask - will 
+serve her well in years to come in whatever opportunities 
+she chooses to accept. 
+We believe that an IVLP at this early point in her very 
+promising career would offer her the opportunity to see the 
+United States from the American perspective, giving her a 
+fresh take on the many issues that are important to U.S. 
+interests in Manitoba and Canada. 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ConGen Winnipeg 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: ELEO 
+NOMINEE-ID: 512 
+PERSON-ID: 394 
+BIRTH-CNTRY-ID: CA 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: EN 
+E-I-TYPE-ID: E 
+NOM-POST-ID: 6540 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 45.1001 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+DICKSON, CHARGE

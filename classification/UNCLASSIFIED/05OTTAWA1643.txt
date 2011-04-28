@@ -1,0 +1,239 @@
+05OTTAWA1643
+FY 2006 IVLP EU RP on Current Social, Political and
+Thu Jun 02 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+021932Z Jun 05UNCLAS SECTION 01 OF 03 OTTAWA 001643 
+ 
+SIPDIS 
+ 
+STATE 
+ 
+SECSTATE FOR ECA/PE/V/R/W - EWILKES-SCOTT; 
+ECA/PE/V/R/E - MHILBERT; WHA/PDA - JCARPENTER-ROCK; 
+MONTREAL, TORONTO AND VANCOUVER FOR PAOS; 
+HALIFAX AND QUEBEC FOR CONGENS; 
+CALGARY FOR PA FIELD REP; CALGARY PLEASE PASS TO WINNIPEG 
+ 
+E.O. 12958: N/A 
+TAGS: KPAO OEXC SCUL CA IV
+SUBJECT: FY 2006 IVLP EU RP on Current Social, Political and 
+Economic Issues - October 24-November 11, 2005 - Adrienne 
+Batra (Principal Candidate) 
+ 
+REFERENCE:  OTTAWA 1504 
+ 
+Post is pleased to nominate Adrienne Batra, Manitoba 
+Director of the Canadian Taxpayers Federation for subject 
+project.  Ms. Batra has full country team approval.  EVDB- 
+formatted nomination follows. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: slw@pd.state.gov 
+TRANSMITTING-POST: PAS Ottawa 
+TRANSMITTING-POST-ID: 6540 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VRW 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 335 
+ECA-PROJ-NO: 
+PROJ-NAME: Batra, Adrienne - EU RP Current Issues 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Regional 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 10/24/2005 
+SESSION-DATE: 
+RETURN-POST: 11/12/2005 
+NO-OF-PART: 1 
+RANK-ORDER: 14 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1037 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: RP 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 6540 
+FUNDING-CNTRY-ID: 322158 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Mutual Understanding & Education 
+START BIO: 
+PREFIX: Ms. 
+F-NAME: Adrienne 
+M-NAME: Harpreet Kaur 
+L-NAME: Batra 
+SUFFIX: 
+POSITION-CODE: 339 
+PRINCIPAL?: Yes 
+GENDER: F 
+DOB: 11/09/1973 
+MAR-STAT: 
+BIRTH-CITY: Maple Creek, Saskatc 
+BIRTH-CNTRY: Canada 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+Manitoba Director, Canadian Taxpayers Federation 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+-    Researcher, Saskatchewan Party Caucus 
+-    Research/Writer, Saskatchewan Telecommunications 
+-    Communications Intern, Saskatchewan Chamber of Commerce 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+-    December 1989 - Los Angeles, California - duration of 
+visit was 7 days (personal) 
+-    December 2001 - Orlando, Florida - duration of visit 
+was 8 days (personal) 
+)-   March 2002 - New York City- duration of visit 6 days 
+(personal) 
+-    September 2003 - Big Sky Montana - duration of visit 10 
+days (personal) 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Masters in Public Administration, Bachelor of Arts (Hons.) 
+Political Studies 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+I.H. Asper School of Business Young Associates 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+The Taxpayer Magazine (national)- contribute articles for 
+Manitoba section. 
+-    Frequent contributor to the Winnipeg Sun - opinion 
+editorials include privatization, government waste, smoking 
+ban and equalization payments 
+-    Provide a weekly commentary entitled Let's Talk Taxes 
+which is distributed to 80 media outlets across the 
+province. 
+-    Published pre-budget submissions to both the Province 
+of Manitoba and the City of Winnipeg 
+.-   Published a report on the impact of School Taxes on 
+Farmland 
+.-   Provided a submission to the review of MLA Salaries and 
+Pensions and the Review of the Freedom of Information & 
+Privacy Protection Act. 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+Dietary / Medical Considerations: None 
+Smoker / Non-smoker: Smoker 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: English 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START OTHER-LANGS: 
+OTHER-LANG: Panjabi/Punjabi 
+OTHER-LANG-ID: PJ 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: Hindi 
+OTHER-LANG-ID: HJ 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: CG Todd Schwartz 
+START MEMO NOMINATING-JUSTIFICATION: 
+Adrienne Batra leads the Manitoba branch of the Canadian 
+Taxpayers Federation, a federally incorporated, non-profit, 
+non-partisan, organization that describes itself as a 
+watchdog on government.  Ms. Batra has consistently been a 
+high-achiever throughout her adult life, whether in college 
+where she completed her college degree while serving as a 
+Lieutenant in the Canadian Armed Forces - and being elected 
+VP Academic to the University of Saskatchewan Students' 
+Union - or in her current position where she maintains a 
+high public profile through her well-researched columns and 
+serving as a frequent guest host of Manitoba's most-listened 
+to call-in radio show, Adler On Line.  Although Ms. Batra is 
+clearly thriving in her current environment, Post expects 
+that she will continue to rise through the expanding network 
+of pro-trade and free enterprise NGOs in Canada and one day 
+will likely run for elected office.  Ms. Batra is an avid 
+free-trader and is favorably disposed to the United States, 
+despite relatively limited exposure to the country and its 
+people.  More extensive exposure to the country through an 
+IVLP would help to further shape her perceptions of the 
+United States and put some 'meat on the bones' of the 
+positive conceptions she already holds.  Batra will share 
+her  experiences in the United States via media appearances 
+when she returns, as well as through her leadership 
+position. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: American Presence Post Winnipeg 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 505 
+PERSON-ID: 387 
+BIRTH-CNTRY-ID: CA 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: EN 
+E-I-TYPE-ID: 
+NOM-POST-ID: 6540 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 22.0211 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+DICKSON, CHARGE

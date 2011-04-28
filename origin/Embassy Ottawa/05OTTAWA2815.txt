@@ -1,0 +1,52 @@
+05OTTAWA2815
+Mission Canada 90-Day Goal Tracker Application -
+Tue Sep 20 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+201339Z Sep 05UNCLAS OTTAWA 002815 
+ 
+SIPDIS 
+ 
+DEPT FOR WHA/EX, CONSULATES FOR ALL MISSION STAFF 
+ 
+FT LAUDERDALE FOR RIMC 
+ 
+E.O. 12958: N/A 
+TAGS: AMGT AADP PREL
+SUBJECT:   Mission Canada 90-Day Goal Tracker Application - 
+Empowering Diplomacy Through Web Enabled Technology 
+ 
+ 
+¶1.  Mission Canada is pleased to announce the launch of an 
+innovative, locally developed, web-enabled application to 
+track Mission 90-Day goals and progress. 
+ 
+¶2.  The 90-Day Goal Tracker application provides Department 
+and Mission managers with a snapshot of current Mission 
+Canada goals, a graphical representation of the progress 
+we're making in achieving those goals, a searchable archive 
+of previous quarter goals, and a comprehensive report 
+capability.  Additionally, the application contains a 
+password-protected content management layer that enables 
+goal coordinators to update goal details.  Plans are 
+underway to expand the application to track Mission progress 
+of MPP goals.  Additional details will be provided when the 
+MPP module is available for use. 
+ 
+¶3.  The 90-Day Goal Tracker dashboard is accessible from the 
+Mission Canada home page http://ottawa.state.gov or directly 
+via the following link: 
+ 
+http://ottawa.state.gov/goals/default.asp 
+ 
+¶4.  Bureau and Post personnel are invited to visit the site 
+frequently to track quarterly Mission goals.  Requests for 
+application passwords should be sent to the application 
+administrator, IMO Ed Gagliardi (GagliardiEJ@state.gov) or 
+to the application developer, Naveed Iqbal. 
+(IqbalN@state.gov)  Note:  Passwords are only required for 
+goal coordinators, not for read-only management access. 
+ 
+Wilkins

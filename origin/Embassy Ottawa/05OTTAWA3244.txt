@@ -1,0 +1,138 @@
+05OTTAWA3244
+EVOLUTION OF INDUSTRY RESPONSE TO CANADA'S DRAFT
+Mon Oct 31 00:00:00 +0100 2005
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+311946Z Oct 05UNCLAS SECTION 01 OF 02 OTTAWA 003244 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+DEPT PASS USTR FOR CHANDLER AND CHOE-GROVES 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD KIPR CA
+SUBJECT: EVOLUTION OF INDUSTRY RESPONSE TO CANADA'S DRAFT 
+COPYRIGHT AMENDMENT LEGISLATION 
+ 
+REF: A. OTTAWA 2970 (CANADIAN STAKEHOLDERS' CONCERNS ON 
+ 
+        COPYRIGHT AMENDMENT) 
+     ¶B. OTTAWA 2833 (DEMARCHE ON SPECIAL 301 OUT OF 
+        CYCLE REVIEW) 
+ 
+¶1. (SBU) Summary:  Canadian rightsholders seem to be 
+positioning themselves to accept notice and notice as a step 
+in the negotiations surrounding Canada's proposed amendment 
+to the Copyright Act.  Internet service provider (ISP) 
+liability waivers in the draft text have rightsholders 
+fearing that Canada may again become an IPR "wild west" with 
+legal filesharing.  Rightsholder industries are also united 
+in their despair over the weakness of remedies against 
+technological protection measures (TPMs).  Proponents of weak 
+or nonexistent copyright continue to publish and lobby 
+Parliament, where a special committee to review the proposed 
+legislation is expected to be formed by mid-November. End 
+summary. 
+ 
+¶2. (SBU) Although most Canadian rightsholder industry 
+associations still publicly hope for a notice and takedown 
+regime, industry reps have privately told econoff that they 
+are preparing to accept the currently-proposed notice and 
+notice system in the course of negotiations with GOC.  In 
+fact, some industry associations plan to use the anticipated 
+USG insistence on notice and takedown as a chance to play 
+good cop to our bad cop, and they will present their 
+acceptance of notice and notice as a signal to the GOC that 
+they are willing to be "more reasonable than the Americans". 
+ 
+¶3. (SBU) Industry representatives are newly concerned that 
+the wording of the internet service provider (ISP) liability 
+waiver in the proposed amendments may be interpreted to again 
+make peer-to-peer filesharing legal in Canada, an eventuality 
+that industry representatives on either side of the border 
+will see as disastrous.  Section 31.1(1) of the draft 
+amendment states, "A person who, in providing services 
+related to the operation of the Internet or other digital 
+network, provides any means for the telecommunication of a 
+work or other subject-matter or a reproduction of it through 
+that network does not, solely by reason of providing those 
+means, infringe copyright..." and section 31.1(2) adds that 
+"a person...who performs any other acts related to the 
+telecommunication that render it more efficient...does not, 
+by virtue of those acts alone, infringe copyright..." 
+Industry representatives fear that peer-to-peer filesharing 
+services could be argued to be a "means for the 
+telecommunication" and an act to "render it more efficient" 
+and therefore could be exempted from liability under these 
+sections. 
+ 
+¶4. (SBU) The question of technological protection measure 
+(TPM) circumvention continues to focus on two concerns: the 
+need to prove intent to infringe in order for circumvention 
+of TPMs to be considered illegal, and the fact that the bill 
+as drafted contains no language making the trafficking of 
+circumvention "tools" (such as video game mod chips or 
+DVD-hacking software) illegal.  Both of these concerns have 
+been prevalent in industry commentary since the draft text 
+was first tabled (see reftels).  Some commentators have 
+suggested that "trafficking in tools" could be somehow folded 
+into or added to the section that provides legal remedies 
+against a person who "offers or provides a service to 
+circumvent" (section 34.02(2)). 
+ 
+¶5. (SBU) Meanwhile, in the midst of this chorus of industry 
+displeasure at the content of C-60, a lone happy ISP 
+representative presented a very upbeat reaction at last 
+week's C-60 conference in Toronto.  Seemingly, ISPs have no 
+complaint with the text of C-60 as drafted--in fact, this 
+representative's only substantive input was to ask that 
+rightsholders be required to pay ISPs to forward and retain 
+the notices of infringement under the notice and notice 
+scheme (as currently laid out in section 40.2(2) of C-60.) 
+The fact that ISPs are the sole enthusiastic and 
+fully-satisfied stakeholder in the process highlights the 
+bargaining power of the ISPs in this process.  They have been 
+given a bill which exempts them from any liability for 
+infringing content on their members' sites and does not 
+require them to take down such infringing material unless 
+there is a court order; in addition, they will potentially be 
+able to charge stakeholders for the notice process itself. 
+ 
+¶6. (SBU) "Copyleft" academics who argue against copyright in 
+general continue to receive significant press time and seem 
+to be increasing their lobbying efforts directed at 
+Parliament.  University of Ottawa professor and columnist 
+Michael Geist has published a collection of papers claiming 
+to put the reform proposals into context ("In the Public 
+Interest The Future of Canadian Copyright Law" available at 
+www.michaelgeist.ca for C$50 or for free download).  His 
+University of Ottawa colleague Ian Kerr addressed a breakfast 
+in the Parliamentary dining room last week on the subject of 
+C-60.  Dr. Kerr is another "information wants to be free" 
+advocate, and he focused on what he sees as a need for 
+protection against TPMs, since in his opinion they can too 
+easily become surveillance devices that invade the privacy of 
+users. (Comment: an econ staffer was present in the audience 
+and attempted to provide a balancing view, pointing out that 
+Canada's existing laws do not put excessive power in the 
+hands of rightsholders.  End comment.) 
+ 
+¶7. (SBU) We expect the bill to be put before an as-yet 
+unformed special committee, which should be assembled by the 
+middle of November.  Parliamentary insiders suggest that the 
+special committee may make the process faster, but few 
+observers expect that the bill will pass before Parliament 
+faces another election which is expected by Spring 2006 
+(comment: faced with such a flawed document, some industry 
+representatives are stuck hoping that the legislation, for 
+which they pushed so long and hard, will die in committee. 
+See ref A for details.) 
+ 
+Visit Canada's Classified Web Site at 
+http://www.state.sgov.gov/p/wha/ottawa 
+ 
+WILKINS

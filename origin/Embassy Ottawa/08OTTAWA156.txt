@@ -1,0 +1,314 @@
+08OTTAWA156
+CANADA'S NUCLEAR SECTOR: REACTOR SHUTDOWN
+Thu Jan 31 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ottawa
+VZCZCXRO6392
+RR RUEHGA RUEHHA RUEHQU RUEHVC
+DE RUEHOT #0156/01 0311803
+ZNR UUUUU ZZH
+R 311803Z JAN 08
+FM AMEMBASSY OTTAWA
+TO RUEHC/SECSTATE WASHDC 7227
+INFO RUCNCAN/ALL CANADIAN POSTS COLLECTIVE
+RUCPDOC/DEPT OF COMMERCE WASHDC
+RHEBAAA/DEPT OF ENERGY WASHDC
+RUEAEPA/EPA WASHDC
+RUEANFA/NRC WASHDCUNCLAS SECTION 01 OF 04 OTTAWA 000156 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPARTMENT FOR WHA, OES, EB, AND ISN 
+DOE FOR P&I, NE AND NNSA 
+EPA FOR OFFICE OF THE AMINISTRATOR AND INTERNATIONAL AFFAIRS 
+COMMERCE FOR 4320/ITA/MAC/WH/ONIA - WORD 
+ 
+E.O. 12958: N/A 
+TAGS: TRGY TBIO PGOV BTIO ENRG CA
+SUBJECT: CANADA'S NUCLEAR SECTOR: REACTOR SHUTDOWN 
+HIGHLIGHTS BROADER CONCERNS 
+ 
+REF: A. 2007 OTTAWA 2276 
+ 
+     ¶B. 2007 OTTAWA 2260 
+     ¶C. 2007 OTTAWA 2255 
+ 
+SENSITIVE BUT UNCLASSIFIED.  Not for Internet distribution. 
+ 
+¶1. (SBU) Summary.  Natural Resources Minister Gary Lunn 
+removed Linda Keen from the Presidency of the Canadian 
+Nuclear Safety Commission (CNSC) late on January 15.  (While 
+no longer CNSC President, she remains a member of the 
+Commission.) Undoubtedly the government hoped this would wrap 
+up the two-month drama that began with a routine shutdown of 
+the NRU reactor in Chalk River in mid-November (reported 
+reftels), but this seems certain not to be the case.  This 
+episode serves to illustrate several distinct problems 
+surrounding Canada's nuclear sector. 
+ 
+-- The dependence of half of the global market for certain 
+short-lived medical isotopes on the operation of a single, 
+half-century-old reactor. 
+ 
+-- Long-run financing problems facing GOC-owned reactor 
+supplier Atomic Energy of Canada Limited (AECL), and the 
+government's strategy for the company's future. 
+ 
+-- Staffing and capacity challenges faced by the CNSC, the 
+nuclear regulator, not just vis-a-vis its current mission, 
+but also in the face of a possible resurgence of the nuclear 
+industry in Canada over the coming decade. 
+ 
+¶2. (SBU) Comment: We think that, as a consequence of this 
+affair, the very real resource and capacity problems of the 
+Canadian nuclear regulator have gained greater prominence in 
+Parliament and the public mind, and stand a better chance of 
+being addressed.  The prognosis for AECL, however, may be 
+darker.  This imbroglio has served to highlight the 
+difficulty AECL is having with its replacement technology 
+(now eight years behind schedule) for the aging reactor which 
+produces the medical isotopes and its lack of success in 
+moving its new power reactor design forward and finding early 
+customers )- all at a juncture when the GoC has been 
+considering putting the money-losing company on the auction 
+block or otherwise divesting itself of it.  The affair may 
+also affect Canada's position as the world's largest supplier 
+of medical isotopes as other countries, in particular the 
+United States, consider whether to pursue their own domestic 
+production capacity.  The significant political facets of 
+this episode are discussed septel.  End Summary and Comment. 
+ 
+Overview of CNSC and AECL 
+------------------------- 
+¶3. In Canada nuclear regulation is solely a federal 
+jurisdiction; the Canadian Nuclear Safety Commission (CNSC), 
+formed in 2000 out of the former Atomic Energy Control Board, 
+is the independent, quasi-judicial administrative tribunal 
+and regulatory agency charged with that responsibility.  It 
+reports to Parliament through the Minister of Natural 
+Resources (Gary Lunn).  With roughly 500 employees, the CNSC 
+has as its principal mandate to "protect people and the 
+environment from licensed sources of man-made radiation 
+resulting from the use of nuclear energy and materials."  It 
+also regulates the use of nuclear energy and materials in 
+line with Canada's international commitments on the peaceful 
+use of nuclear energy.  In a series of reports over the past 
+eight years Canada's independent Auditor General (AG) 
+identified a series of challenges facing CNSC, in particular 
+human resources issues of capacity, recruitment, and 
+Qhuman resources issues of capacity, recruitment, and 
+retention of capable staff, and clarification of roles and 
+responsibilities.  In its first audit, in 2000, the AG found 
+that CNSC's regulatory activities were not based on a 
+rigorous, well-documented system of risk analysis; and that 
+only a few CNSC divisions had developed formal approaches to 
+risk analysis as a basis for proposing regulatory activity. 
+ 
+¶4. (SBU) Canada's federal government owns Atomic Energy of 
+Canada Ltd. (AECL), a money-losing, 55-year-old reactor 
+design/supply/service firm.  AECL has sold 12 reactors to 
+Argentina, India, China, South Korea and other developing 
+countries (the last reactor sale was to China in 1999), but 
+it is not clear AECL will be competitive for future 
+international business against U.S. and European competitors, 
+and even its prospects for domestic Canadian new builds are 
+ 
+OTTAWA 00000156  002 OF 004 
+ 
+ 
+very uncertain. 
+ 
+¶5. (SBU) While all reactors now in use in Canada are of AECL 
+design, only the oldest unit is directly operated by AECL: 
+the so-called National Research Universal or NRU reactor 
+built in the early 1950s at Chalk River, Ontario, about 100 
+miles west of Ottawa.  Approximately half of all diagnostic 
+nuclear medicine procedures performed worldwide depend on 
+Molybdenum-99 from the NRU reactor; these isotopes are 
+packaged and distributed by MDS Nordion, Inc. (a private 
+sector concern spun off from AECL around 1990).  Because 
+these isotopes have half-lives of a few days or less, this 
+business depends on more or less continuous operation of the 
+NRU.  Construction of two new reactors dedicated to isotope 
+supply (known as "Maple 1 and 2") and intended to replace the 
+NRU in that capacity are significantly over budget and over 
+eight years behind schedule.  Current AECL expectations are 
+that the Maples will come on-line in late 2008 and early 2009. 
+ 
+What Happened? 
+-------------- 
+¶6. (U) When the NRU was shut down for routine maintenance on 
+November 18, CNSC inspectors verified that modifications to 
+the reactor's cooling system called for in an August 2006 
+licensing review had not been installed.  CNSC notified AECL 
+the NRU was not in compliance with its license and could not 
+therefore be restarted.  AECL did not restart the reactor, 
+but claimed the modifications were upgrades, not mission 
+critical, and could be accomplished over a longer period of 
+time during forthcoming monthly maintenance periods.  AECL 
+claimed it could continue to operate the NRU safely without 
+the additional equipment, at least as an interim measure. 
+The impasse between the regulator and AECL extended the 
+scheduled NRU shutdown from one week to over a month, and the 
+shutdown would have gone longer had the government not 
+intervened and temporarily exempted the reactor from CNSC 
+oversight (through emergency legislation that had all party 
+support) to allow its restart (ref a). 
+ 
+Medical Isotopes ) No Security of Supply? 
+----------------------------------------- 
+¶7. (U) As a result of the extended NRU shutdown, global 
+supplies of critical medical radio-isotopes dwindled.  (Only 
+five reactors around the world produce these radio-isotopes, 
+one each in France, Belgium, Netherlands, South Africa, and 
+Canada.)  Since many isotopes have half-lives measured in 
+hours, any unplanned reactor shutdown easily leads to supply 
+disruption.  The NRU alone accounts for over 50 percent of 
+global supply of Molybdenum 99, which is the source of 
+Technetium-99m, the most widely used isotope for diagnosing 
+disease.  Compounding the shortage, the South African reactor 
+went down for scheduled maintenance in early December. 
+(Maintenance schedules are coordinated among reactor 
+operators well in advance, but it had been anticipated the 
+NRU would be back on-line by the end of November.) 
+ 
+¶8. (SBU) In early December as medical concerns heightened -- 
+the head of the Canadian Medical Association indicated he was 
+"very concerned" -- Health Canada initiated efforts at some 
+800 hospitals and clinics to monitor radioisotope shortages 
+and plan a response.  (The government in fact portrayed the 
+issue as one of public health from the beginning, leading the 
+Prime Minister to claim in the House of Commons that 
+QPrime Minister to claim in the House of Commons that 
+operating the NRU without the safety upgrades posed "no 
+threat to nuclear safety at all.")  The NRU shutdown exposed 
+the lack of additional production capacity worldwide, and in 
+particular the vulnerability of the United States which, 
+although the largest consumer of medical isotopes, has no 
+commercial production capacity at all for key elements such 
+as Molybdenum 99.  Indeed, Congress has tasked the U.S. 
+National Research Council to examine further the risks to the 
+American public due to the lack of domestic production 
+capacity. 
+ 
+Precarious Finances ) End ahead for AECL? 
+----------------------------------------- 
+¶9. (SBU) Atomic Energy of Canada Ltd., established in 1951, 
+is wholly owned by the GOC and has always required subsidies, 
+which have been trimmed over the past decade even as reactor 
+sales have gone flat.  (The last AECL sales were to China (2) 
+and Korea (4) in the 1990s.)  Indeed, Minister Lunn himself 
+noted that there has been a "chronic shortage of funding for 
+ 
+OTTAWA 00000156  003 OF 004 
+ 
+ 
+AECL going back over 14 years," and the firm's 
+under-capitalization and poor accounting have been documented 
+repeatedly by the Auditor General.  In an otherwise bleak 
+immediate market, much hope has been invested in the putative 
+"nuclear renaissance" expected as a consequence of policies 
+aimed at reducing greenhouse gas emissions. 
+¶10. (SBU) AECL has been lobbying the Ontario provincial 
+government and utility firms to spend about C$12 billion on 
+eight new reactors required to meet the province's energy 
+needs over the next 20 years.  However, a 2007 public 
+declaration by Ontario premier Dalton McGuinty that AECL,s 
+heavy-water reactor technology (so-called CANDU for "CANada 
+Deuterium Uranium", a reference to its heavy water moderator) 
+was not a shoo-in and that all technologies would be 
+considered, was a blow to AECL expectations.  This distress 
+was exacerbated when the CNSC decided to discontinue its 
+"pre-licensing assessments" (citing resource constraints) of 
+AECL's new flagship reactor design, the Advanced CANDU 
+Reactor (ACR), which was to be pitched to Ontario.  The loss 
+of this pre-licensing assessment puts AECL at a competitive 
+disadvantage in marketing the ACR, which has so far cost 
+about C$300 million to develop. 
+ 
+¶11. (SBU) In November 2007, just before the NRU isotope story 
+broke publicly, the Conservative federal government announced 
+a broad review of AECL's future, including the possibility of 
+selling the company.  That long-rumored review is now on hold 
+due to the turbulence around the isotope affair. 
+ 
+¶12. Comment:  This may, however, only be a stay of execution. 
+ There is no shortage of criticism of AECL, fueled by reports 
+from the Auditor General, not just in 2007, but also in 2002 
+and 1996, pointing to mismanagement and lack of transparency 
+as critical and on-going failures at AECL.  And contrary to 
+normal practice, AECL had not previously made the earlier 
+reports public.  Divestment is certainly a political option, 
+as governments of both parties have participated in the 
+gradual privatization of, for example, PetroCanada, an 
+integrated oil company, Air Canada, and the CN railroad over 
+the past two decades.  However, if the ACR fails to attract 
+Canadian buyers, AECL's financial prospects and its 
+attractiveness to potential investors are open to question. 
+End comment. 
+ 
+CNSC Capacity ) Is Confidence Warranted? 
+---------------------------------------- 
+¶13. (SBU) Since inception, CNSC has struggled with problems 
+of under-capacity, caught between limited funding, the aging 
+demographics of nuclear professionals, and a current and 
+anticipated rise in regulatory demands due to reactor 
+refurbishments, redesigns, probable new builds, and plans for 
+waste management.  In this case, although the downstream 
+supply of medical isotopes is not formally the regulator's 
+concern, Linda Keen's choice to stick to the licensing rule 
+book suggests that the capacity to assess the broader impacts 
+of CNSC decisions may have been lacking )- perhaps a direct 
+consequence of a relatively young organization lacking 
+sufficient resources.  On the plus side, in its most recent 
+assessment (2005), the Auditor General found CNSC was making 
+satisfactory progress in implementing its recommendations 
+from the 2000 audit in areas such as human resource planning 
+Qfrom the 2000 audit in areas such as human resource planning 
+and implementation of an integrated, risk-informed approach 
+to regulatory activities.  Comment:  The high profile events 
+of the past two months have clearly served to make Parliament 
+aware of the regulator's constraints.  Given that Canada 
+cannot do without a nuclear regulator, these events may 
+compel the government and Parliament to provide additional 
+resources needed to remedy them, rather than to sweep them 
+under the carpet yet again.  On the other hand, rational 
+assessment and treatment of these events in the political 
+domain is anything but assured.  End comment. 
+ 
+What Does It All Mean? 
+---------------------- 
+¶14. (SBU) Despite the resource and organizational challenges 
+faced by the CNSC and the apparent lack of a robust response 
+by the regulator in the face of this unique set of 
+circumstances, the evidence, including assessments by the 
+Auditor General, still suggests that the CNSC is a capable 
+and credible nuclear regulator that should retain the trust 
+of its international peers.  Realistically, the government 
+cannot dispense with CNSC, and may well be forced to find 
+ 
+OTTAWA 00000156  004 OF 004 
+ 
+ 
+additional resources to address its identified problems.  On 
+the other hand, the fate of AECL in the wake of this 
+imbroglio is cloudy.  The company undoubtedly lost some 
+government goodwill, from an already diminished reserve, and 
+its failure to comply with NRU licensing conditions (i.e., 
+the installation of the two back-up cooling pumps) for 18 
+months certainly will not help the firm's credibility with 
+prospective customers in Canada, the United States, or 
+elsewhere.  While to the casual observer AECL seems to have 
+come out of the squabble over NRU relatively unscathed, the 
+real implications for the company may be far different, and 
+it is unclear to what extent the government will continue to 
+support the loss-making firm.  In broader terms, this may be 
+welcome news for AECL's international competitors. 
+ 
+Visit Canada,s Economy and Environment Forum at 
+http://www.intelink.gov/communities/state/can ada 
+ 
+WILKINS

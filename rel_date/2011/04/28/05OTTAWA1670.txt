@@ -1,0 +1,365 @@
+05OTTAWA1670
+FY 2006 IVLP MRP on U.S. Foreign Policy and
+Fri Jun 03 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+031441Z Jun 05UNCLAS SECTION 01 OF 05 OTTAWA 001670 
+ 
+SIPDIS 
+ 
+STATE 
+ 
+SECSTATE FOR ECA/PE/V/R/W - EWILKES-SCOTT; 
+ECA/PE/V/M - Isabelle Zsoldos and Deborah L. 
+Thompson; 
+WHA/PDA - JCARPENTER; 
+MONTREAL, TORONTO AND VANCOUVER FOR PAOS; 
+HALIFAX AND QUEBEC FOR CONGENS; 
+CALGARY FOR PA FIELD REP; CALGARY PLEASE PASS TO WINNIPEG 
+ 
+E.O. 12958: N/A 
+TAGS: KPAO OEXC SCUL CA IV
+SUBJECT: FY 2006 IVLP MRP on U.S. Foreign Policy and 
+Counterterrorism - March 2-23, 2006 - Canadian nominee 
+Baraladei Daniel Igali (Alternate Candidate) 
+ 
+REFERENCE:  OTTAWA 1504 
+ 
+¶1.   Post nominates Baraladei Daniel Igali, President, Igali 
+Foundation Inc., Vancouver, for subject project, pending 
+availability of funds.  (Mr. Igali is currently a high 
+alternate for Canada funding).  EVDB-formatted nomination 
+follows. 
+ 
+¶2. START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: slw@pd.state.gov 
+TRANSMITTING-POST: PAS Ottawa 
+TRANSMITTING-POST-ID: 6540 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VRW 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 362 
+ECA-PROJ-NO: 
+PROJ-NAME: Igali, Baraladei Daniel - MRP US Foreign Policy 
+and Counterterrorism 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Multi-Regional 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 3/1/2006 
+SESSION-DATE: 3/2/2006 
+RETURN-POST: 3/24/2006 
+NO-OF-PART: 1 
+RANK-ORDER: 30 
+START MEMO POST-OBJ: 
+Daniel Igali is a high profile, first-time candidate for the 
+British Columbia Legislative Assembly with the potential for 
+greatness in the B.C. Liberal Party. Nominated by his party 
+to replace the incumbent in the Liberal-held Surrey-Newton 
+Electoral District, he is a strong contender to retain the 
+electoral district for the Liberals in the May 2005 
+provincial elections. Daniel is young, popular, and 
+energetic. He also shows a strong interest in international 
+affairs and counter terrorism. In short, he is exactly the 
+type of talent we look for in identifying future Canadian 
+leaders for the IVL Program. 
+Daniel Igali is internationally known as the Canadian 
+wrestler who, in the 2000 Sydney Olympics, won gold, knelt 
+down and kissed the Canadian flag.  Since then, he has been 
+repeatedly interviewed by the media including all major 
+Canadian newspapers, CBC: Life and Times, Sportsnet and 
+Reader's Digest.  Attracted by his "star appeal," the 
+provincial BC Liberals recruited him to run in the May 2005 
+elections. 
+Daniel came to Canada as a refugee from poverty-stricken 
+Eniwari, Nigeria, to pursue an education and a career in 
+sports.  He is currently completing a Masters Degree in 
+criminology and shows particular interest in counter 
+terrorism efforts and international politics. During his 
+high achieving wrestling career, he became the 1994 African 
+Champion, the first male Canadian world wrestling champion 
+and a gold medallist in the 2000 Athens Olympics. 
+As a young person with star appeal and great potential, we 
+feel he will benefit tremendously from the IVL Program. 
+Daniel is very committed to improving the lives of others 
+through advocacy and community work.  The Igali Foundation 
+Inc is a not-for-profit foundation that aids underprivileged 
+children worldwide.  Locally, he devotes much of his time on 
+the "Keep Sweating Tour", where he speaks to children and 
+corporations on the benefits of healthy living and proper 
+conduct.  He also successfully funded and lobbied for the 
+construction of a new school and community center in his 
+hometown in Nigeria. 
+Daniel has expressed a strong interest in participating in 
+the IVL Program to learn more about U.S. efforts to 
+incorporate counter terrorism into its overall foreign 
+policy. The insight he would gain from this program would be 
+invaluable as Daniel moves into an influential position in 
+the B.C. Legislature Assembly. We are excited about the rare 
+opportunity to nominate someone certain to become an 
+important player in B.C. politics to participate in the IVL 
+Program. 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+With to Mr. Igali's background in criminology and his 
+interest in counter-terrorism efforts, we recommend him to 
+participate in a multiregional program on counter-terrorism. 
+Through such a program, he will be able to learn firsthand 
+how the US is combatting terrorism domestically and 
+internationally at the local, state and federal levels. 
+Please note that Mr. Igali goes by the name "Daniel Igali." 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1037 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: MRP 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 88501 
+FUNDING-CNTRY-ID: 322158 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Terrorism 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Baraladei 
+M-NAME: Daniel 
+L-NAME: Igali 
+SUFFIX: 
+POSITION-CODE: 300 
+PRINCIPAL?: Yes 
+GENDER: M 
+DOB: 02/03/1974 
+MAR-STAT: S 
+BIRTH-CITY: Eniwari 
+BIRTH-CNTRY: Nigeria 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+President - Igali Foundation 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Competitive amateur wrestler 
+Motivational speaker - Keep Sweating Tour 
+Advisory Board - Ryan's Well Foundation 
+Athlete Ambassador - Right to Play 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Olympic Wrestler - Canada 2000 Olympics Games (Gold) 
+Athlete Council - Canadian Olympic Committee 
+Athlete Ambassador - Toronto 2008 Summer Olympic Committee 
+Bord of Directors - Vancouver 2010 Winter Olympic Bid 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+All trips are for wrestling competitions 
+1996 - New York City - 3 days 
+1997 - Arizona - 3 days 
+1998 - Spokane, Washington - 1 day 
+1998 - Arizona - 3 days 
+1998 - Las Vegas - 3 days 
+1998 - Washington and Idaho - 2 weeks 
+1999 - New York City - 3 days 
+1999 - Spokane, Washington - 2 days 
+2001 - Arizona - 3 days 
+2002 - Colorado - 3 days 
+2003 - New York City - 5 days 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Nigeria - 3 week annual trips since 1998 
+2000 - Sydney, Australia 
+2004 - Athens, Greece 
+International travel in 1998 mainly for wrestling 
+competitions in South Africa, Egypt, Cameroon, Ghana, 
+Bulgaria, Iran, Germany, Slovakia, England, Australia, 
+Greece, Korea, France, Russia 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+2001 - Bachelor of Arts - Criminology 
+Completing Masters in Criminology 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+none 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: English 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START OTHER-LANGS: 
+OTHER-LANG: Ijan 
+OTHER-LANG-ID: JJ 
+READ: 5 
+SPEAK: 5 
+COMP: 5 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: Panjabi/Punjabi 
+OTHER-LANG-ID: PJ 
+READ: 1 
+SPEAK: 1 
+COMP: 1 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Daniel Igali is a high profile, first-time candidate for the 
+British Columbia Legislative Assembly with the potential for 
+greatness in the B.C. Liberal Party. Nominated by his party 
+to replace the incumbent in the Liberal-held Surrey-Newton 
+Electoral District, he is a strong contender to retain the 
+electoral district for the Liberals in the May 2005 
+provincial elections. Daniel is young, popular, and 
+energetic. He also shows a strong interest in international 
+affairs and counter terrorism. In short, he is exactly the 
+type of talent we look for in identifying future Canadian 
+leaders for the IVL Program. 
+Daniel Igali is internationally known as the Canadian 
+wrestler who, in the 2000 Sydney Olympics, won gold, knelt 
+down and kissed the Canadian flag.  Since then, he has been 
+repeatedly interviewed by the media including all major 
+Canadian newspapers, CBC: Life and Times, Sportsnet and 
+Reader's Digest.  Attracted by his "star appeal," the 
+provincial BC Liberals recruited him to run in the May 2005 
+elections. 
+Daniel came to Canada as a refugee from poverty-stricken 
+Eniwari, Nigeria, to pursue an education and a career in 
+sports.  He is currently completing a Masters Degree in 
+criminology and shows particular interest in counter 
+terrorism efforts and international politics. During his 
+high achieving wrestling career, he became the 1994 African 
+Champion, the first male Canadian world wrestling champion 
+and a gold medallist in the 2000 Athens Olympics. 
+Daniel is very committed to improving the lives of others 
+through advocacy and community work.  The Igali Foundation 
+Inc is a not-for-profit foundation that aids underprivileged 
+children worldwide.  Locally, he devotes much of his time on 
+the "Keep Sweating Tour", where he speaks to children and 
+corporations on the benefits of healthy living and proper 
+conduct.  He also successfully funded and lobbied for the 
+construction of a new school and community center in his 
+hometown in Nigeria. 
+Daniel has expressed a strong interest in participating in 
+the IVL Program to learn more about U.S. efforts to 
+incorporate counter terrorism into its overall foreign 
+policy. The insight he would gain from this program would be 
+invaluable as Daniel moves into an influential position in 
+the B.C. Legislature Assembly. We are excited about the rare 
+opportunity to nominate someone certain to become an 
+important player in B.C. politics to participate in the IVL 
+Program. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: PAO Ian Hillman 
+START MEMO NOMINATING-JUSTIFICATION: 
+Daniel Igali is a high profile, politically involved 
+criminologist with demonstrated leadership ability and 
+potential for increased influence in British Columbia's 
+Liberal Party. Nominated by his party to replace the 
+incumbent in the Liberal-held Surrey-Newton Electoral 
+District, he was a strong contender to retain the electoral 
+district for the Liberals in the May 2005 provincial 
+legislative assembly elections. Daniel is young, popular, 
+and energetic. He also shows a strong interest in 
+international affairs and counter terrorism. In short, he is 
+exactly the type of talent we look for in identifying future 
+Canadian leaders for the IVL Program. 
+Daniel Igali is internationally known as the Canadian 
+wrestler who, in the 2000 Sydney Olympics, won gold, knelt 
+down and kissed the Canadian flag.  Since then, he has been 
+repeatedly interviewed by the media including all major 
+Canadian newspapers, CBC: Life and Times, Sportsnet and 
+Reader's Digest.  Attracted by his "star appeal," the 
+provincial BC Liberals recruited him to run in the May 2005 
+elections. 
+Daniel came to Canada as a refugee from poverty-stricken 
+Eniwari, Nigeria, to pursue an education and a career in 
+sports.  He is currently completing a Masters Degree in 
+criminology and shows particular interest in counter 
+terrorism efforts and international politics. During his 
+high achieving wrestling career, he became the 1994 African 
+Champion, the first male Canadian world wrestling champion 
+and a gold medallist in the 2000 Athens Olympics. 
+Daniel is very committed to improving the lives of others 
+through advocacy and community work.  The Igali Foundation 
+Inc is a not-for-profit foundation that aids underprivileged 
+children worldwide.  Locally, he devotes much of his time on 
+the "Keep Sweating Tour", where he speaks to children and 
+corporations on the benefits of healthy living and proper 
+conduct.  He also successfully funded and lobbied for the 
+construction of a new school and community center in his 
+hometown in Nigeria. 
+Daniel has expressed a strong interest in participating in 
+the IVL Program to learn more about U.S. efforts to 
+incorporate counter terrorism into its overall foreign 
+policy.  Whether Mr. Igali is elected into provincial or 
+national office or pursues a career in the public service, 
+he will continue to be an important player and respected 
+public figure in western Canada. 
+Mr. Igali's participation in the IVLP would support the 
+Mission goal of advancing  counterterrorism cooperation with 
+Canada.  With a 5,000-mile border with the United States, 
+Canada is an indispensable partner in the U.S. war against 
+terrorism. 
+ 
+ 
+ 
+ 
+ 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ConGen Vancouver 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: ELEO 
+NOMINEE-ID: 535 
+PERSON-ID: 414 
+BIRTH-CNTRY-ID: NI 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: EN 
+E-I-TYPE-ID: E 
+NOM-POST-ID: 88501 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 22.0000 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+DICKSON, CHARGE

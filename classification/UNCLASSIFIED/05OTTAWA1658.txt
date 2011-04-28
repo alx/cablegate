@@ -1,0 +1,211 @@
+05OTTAWA1658
+FY 2006 IVLP Individual Program - Carmen Moore
+Thu Jun 02 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+022037Z Jun 05UNCLAS SECTION 01 OF 03 OTTAWA 001658 
+ 
+SIPDIS 
+ 
+STATE 
+ 
+SECSTATE FOR ECA/PE/V/R/W - EWILKES-SCOTT; 
+WHA/PDA - JCARPENTER 
+MONTREAL, TORONTO AND VANCOUVER FOR PAOS; 
+HALIFAX AND QUEBEC FOR CONGENS; 
+CALGARY FOR PA FIELD REP; CALGARY PLEASE PASS TO WINNIPEG 
+ 
+E.O. 12958: N/A 
+TAGS: KPAO OEXC SCUL CA IV
+SUBJECT: FY 2006 IVLP Individual Program - Carmen Moore 
+(Alternate Candidate) 
+ 
+REFERENCE:  OTTAWA 1504 
+ 
+¶1.   Post nominates Carmen Moore, Chief of Protocol, 
+Government of the Northwest Territories, as an alternate 
+Canadian candidate for a 21-day individual project in 
+FY2006.  EVDB nomination follows.  Ms. Moore has full 
+country team approval. 
+ 
+¶2.   START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: slw@pd.state.gov 
+TRANSMITTING-POST: PAS Ottawa 
+TRANSMITTING-POST-ID: 6540 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VRW 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 351 
+ECA-PROJ-NO: 
+PROJ-NAME: Moore, Carmen - Individual 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 0 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1037 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 526774 
+FUNDING-CNTRY-ID: 322158 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Mutual Understanding & Education 
+START BIO: 
+PREFIX: Ms. 
+F-NAME: Carmen 
+M-NAME: 
+L-NAME: Moore 
+SUFFIX: 
+POSITION-CODE: 124 
+PRINCIPAL?: No 
+GENDER: F 
+DOB: 08/17/1960 
+MAR-STAT: M 
+BIRTH-CITY: Summerside 
+BIRTH-CNTRY: Canada 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+Chief of Protocol, Government of the Northwest Territories 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Public Affairs Officer, Protocol, Corporate Communications 
+and Protocol, Department of the Executive, Government of the 
+Northwest Territories, 1999-2002 
+Executive Secretary to the Press Secretary, Office of the 
+Premier, Government of the Northwest 
+Territories, 1988-1998 
+Office Support Clerk, Employment and 
+Immigration Canada, Yellowknife, 1985-87 
+Secretary, Treasury Board of Canada, Department 
+ 
+SIPDIS 
+of Veteran#s Affairs, Charlottetown, PEI, 1980-85 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+vacation visit to Florida, 1981; vacation visit to San Diego 
+and San Francisco, 1993 and 1997 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+France and Spain (1977) 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+New Brunswick Community College, degree in bilingual 
+stenography, 1980 
+Courses at Algonquin College, Ottawa, in computers and 
+accounting, 1984 
+Courses in French at Athabasca University, 1990 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: English 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START OTHER-LANGS: 
+OTHER-LANG: French 
+OTHER-LANG-ID: FR 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Field Rep Betty Rice 
+START MEMO NOMINATING-JUSTIFICATION: 
+Carmen Moore is ConGen Calgary's link to the Great White 
+North.  Ms. Moore has offered useful insights into the 
+northern psyche, in connection with Consulate initiatives 
+such as the Virtual Presence Posts or cultural programming 
+in the most distinct area of the consular district. 
+The post proposes an individual program to help Carmen 
+better understand U.S. attitudes and thinking,  federalism; 
+the relationship between and among cities, states, and the 
+federal government; and American culture and society.  In 
+sharing the information she gains with Northwest Territory 
+colleagues, she will help advance the Mission's goal of 
+strengthening ties with Canadians in Canada's remote north. 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ConGen Calgary 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: ELEO 
+NOMINEE-ID: 522 
+PERSON-ID: 402 
+BIRTH-CNTRY-ID: CA 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: EN 
+E-I-TYPE-ID: E 
+NOM-POST-ID: 526774 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 45.1001 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+ 
+DICKSON, CHARGE

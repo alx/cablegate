@@ -1,0 +1,258 @@
+05OTTAWA1168
+Canadian Reaction to GOC's Proposed Copyright Law Amendments
+Mon Apr 18 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 OTTAWA 001168 
+ 
+SIPDIS 
+ 
+DEPT PASS USTR FOR CHANDLER AND ESPINEL 
+4320/ITA/MAC/WH/ONIA/ for GWORD 
+ 
+E.O. 12958: N/A 
+TAGS: KIPR ETRD ECON CA
+SUBJECT: Canadian Reaction to GOC's Proposed Copyright Law Amendments 
+ 
+REF: 04 OTTAWA 893 
+ 
+¶1.  (U) Summary:  On March 24th, GOC released its highly 
+anticipated response to the 2002 Heritage Committee report on the 
+need for copyright reform.  Many Canadian observers had hoped that 
+the GOC's recent announcement would adequately address remaining 
+IPR questions, but the government's goals for proposed legislation 
+appear to fall short in key areas such as ISP liability and 
+technological protection measure (TPM) circumvention: GOC is 
+proposing 'notice and notice' rather than 'notice and takedown' 
+and the proposed definition of TPM circumvention may require that 
+rights holders prove the circumvention was with the intent to 
+infringe.   Overall, however, Canadian stakeholders are unable to 
+clearly judge the impacts of the proposed amendments because the 
+legislative text is not available and the details of the 
+legislation will be critical.  We expect renewed lobbying after 
+the draft text of the legislation is available.  End Summary. 
+ 
+--------------------------------------------- ------- 
+The Devil's in the details, and he won't hold still 
+--------------------------------------------- ------- 
+¶2. (U) We have spoken to a number of Canadian IPR stakeholders, 
+including the Canadian Recording Industry Association, the 
+Canadian Motion Picture Distributors Association, the Canadian 
+Publishers Council, and the Entertainment Software Association to 
+get their views on the substance of the GOC's announcement of 
+intent to table broad legislation this spring to comply with WIPO 
+obligations and address a number of other IPR issues.   The draft 
+text of the legislation is not yet available, and Embassy contacts 
+suggest that it may be a long time coming; one senior official 
+suggested that the GOC will not table a draft before June.  All 
+reactions to the proposed amendments thus far are based on three 
+documents released by GOC in late March: a backgrounder, a 
+statement, and a series of frequently asked questions.  These 
+documents are often vague, and industry analysts fear that the 
+devil may be in the details that have not yet been drafted.  For 
+the GOC's full documentation on proposed amendments, see 
+http://strategis.ic.gc.ca/epic/internet/incrp - 
+prda.nsf/en/rp01140e.html. 
+ 
+¶3. (U) Even between the three released GOC documents, there are 
+differences.  For example, the GOC's Backgrounder and FAQ clearly 
+state that circumvention of TPM or alteration of rights management 
+information (RMI) would constitute an infringement of copyright 
+when done with intent to infringe, but the GOC's Statement seems 
+to imply that 'enabling' infringement would also be illegal. 
+Industry analysts who sought to clarify this difference have told 
+us that they received contradictory answers depending on which 
+agency they asked (Comment: Both Heritage Canada, which has 
+traditionally supported IP rights holders, and Industry Canada, 
+which tends to side more with free-use rights and promotion of new 
+technologies, have responsibility for the content of this 
+legislation, which will be drafted by Justice Canada.  Frustrated 
+industry analysts have described the relationship between the two 
+policy-making agencies as dysfunctional, with Industry holding de 
+facto veto power and Heritage over-willing to compromise.  These 
+observations are supported to some extent by Embassy experience 
+with the agencies: at an IPR meeting hosted by the Embassy in 
+December 2004, Heritage representatives seemed far more eager to 
+move on the issue.  End comment.) 
+ 
+--------------------------------------------- - 
+Even hidden, the Devil scares rights holders 
+--------------------------------------------- - 
+¶4. (U) What details can be found in the GOC's documents have 
+rights holders associations alarmed.  Various interlocutors have 
+mentioned two items in particular as particularly threatening to 
+intellectual property rights: 
+ 
+--Technological Protection Measures and Rights Management 
+Information: The GOC's backgrounder and FAQ clearly imply that 
+circumvention of TPM or alteration of rights management 
+information would constitute an infringement of copyright only 
+when done for infringing purposes.  Most analysts are reading this 
+as a reversal of the U.S. standard of burden of proof: rights 
+holders would have to prove that the circumvention or alteration 
+was intended to infringe, just the action would not be enough. Our 
+contacts were discouraged by the GOC's apparent reluctance to 
+outlaw devices that have no conceivable legal purpose, such as 
+adaptors that allow video game players to play pirated games. 
+(Comment: this is somewhat akin to a homeowner having to prove 
+that a burglar not only picked the lock, but did so with the 
+intent to steal.  More than one analyst pointed out that this 
+would represent a step back in Canadian law, since sections 351 to 
+353 of the Criminal Code make it illegal to own breaking and 
+entering tools, regardless of any proof of 'intent to infringe'.) 
+As one interlocutor explained, if the rights holder has to prove 
+infringement, this new language does not provide any new power to 
+fight infringement assistance, since once infringement is proven, 
+current law is sufficient to charge the infringer.  Another 
+industry analyst bewailed the fact that this weakness in the law 
+will mean that rights holders have no way of going after 
+traffickers, but will be forced to continue suing users (as he put 
+it: adding one more charge when the rights holder is stuck suing 
+some kid is a PR nightmare.) 
+ 
+¶5. (U) Some rights holders associations are pinning their hope on 
+a phrase in the GOC's `Statement', which added the concept that 
+circumventing TPM or altering RMI would constitute an infringement 
+if the person acted to "enable or facilitate circumvention".  This 
+added phrase could cover the hacker who cracks RMI for fun and 
+posts the information on the internet (that is, not profiting from 
+the action but enabling others to profit.)  However, this phrase 
+does not appear in the rest of the documentation (the Backgrounder 
+or the FAQs), and industry analysts tell us that attempts at 
+clarifying the situation with Canadian Heritage or Industry have 
+been met with confusion.  Multiple industry reps mentioned that, 
+without appropriate measures to counter trafficking, these 
+amendments may not bring Canada into compliance with the WIPO 
+treaties to which it is a signatory.  (Comment: more than one 
+expert referred us to a book by Mihaly Ficsor called "The Law of 
+Copyright and the Internet: The 1996 WIPO Treaties, Their 
+Interpretation and Implementation", which provides a list of 
+requirements to meet the WIPO treaties.  According to industry 
+reps, Ficsor's argument suggests that the weakness of GOC's 
+amendments with regards to traffickers means that these amendments 
+will not bring Canada into compliance with the WIPO Performances 
+and Phonograms Treaty (WPPT). End comment) 
+ 
+Notice and Notice:  If I've told you once, I've...told you once 
+--------------------------------------------- ------------------ 
+¶6. (U) On the subject of notice and notice (as opposed to the 
+preferred U.S. model of notice and takedown), industry opinions 
+vary.  Although some stakeholders have described the GOC's intent 
+to instigate notice and notice as a major flaw of the proposed 
+copyright amendments, local industry reps have suggested to us 
+that, although industry groups will lobby for notice and takedown, 
+internet file-sharing may have moved past the point where notice 
+and takedown was once critically important.  A year ago when 
+Canada's supreme court issued a controversial decision describing 
+peer-to-peer filesharing as legal, the filesharing profile of such 
+programs as Napster involved large caches of files on individual 
+websites; in this situation notice and takedown could prove 
+beneficial in combating pirated downloads by requiring that ISPs 
+remove these caches of files.  However, the current popularity of 
+such programs as BitTorrent and Grokster, where files are 
+fragmented and not centrally located, means that notice and 
+takedown may not be an effective tool to combat illegal downloads. 
+ 
+¶7. (U) However, the proposed notice and notice model provides 
+little benefit to rights holders beyond ensuring documentation of 
+their complaints to ISPs (comment: the documentation of complaints 
+is useful, however, and some industry analysts fear that ISPs will 
+lobby to remove even that responsibility as onerous.  In addition, 
+rights holders groups expressed concern at the GOC's open-ended 
+statement that fees may be required to be paid by rights holders 
+to ISPs for processing such notices.  End Comment.)  In discussing 
+future lobbying options, one industry analyst explained that 
+notice and notice could be helpful in combating peer-to-peer 
+filesharing if the addition of a 'cease and desist' clause could 
+be negotiated.  That is, if ISPs were required to give notice to 
+an offending filesharer, that notice could include some reference 
+to the fact that the user's internet activity was being monitored 
+and, if infringement continued, the ISP would act to terminate the 
+user's account.  This type of addition would amount to a 'repeat 
+offender' clause under notice and notice.  The industry analyst 
+mentioned that a best-case scenario would involve GOC's provision 
+of statutory language for such notices, eliminating confusion 
+among rights holders and taking some of the burden of public 
+disapproval away from ISPs. 
+ 
+As in music, timing is everything 
+----------------------------------- 
+¶8. (U) Most analysts are withholding final judgment until they can 
+see the actual draft legislation of the amendments.  However, the 
+current political turmoil as Canada's minority government faces 
+inquiry into a vast ethical scandal suggests that legislative 
+language may not be available soon.  One industry analyst told us 
+that, even optimistically, it would be an example of "blinding 
+speed" if the bill was drafted before June.  If the opposition 
+forces an election, this legislation is likely to fall behind. 
+The development of this legislation was a major factor in 
+decisions on Canada's Special 301 placement, and the Embassy 
+recommended an out-of-cycle review to keep track of and encourage 
+progress on the legislation. 
+ 
+-------------------------------------- 
+A summary of the proposed amendments 
+-------------------------------------- 
+¶9. (U) WIPO treaty issues 
+ 
+The proposed amendments that are intended to implement the WIPO 
+treaties (as described by GOC) include: 
+--clarifying the existing exclusive communication right of authors 
+to include control over the making available of their material on 
+the internet; 
+--providing sound recording makers and performers with the right 
+to control the making available right of their sound recordings 
+and performances on the internet; 
+--making the circumvention for infringing purposes of 
+technological protection measures (TPMs) applied to copyright 
+material an infringement of copyright; 
+--making the alteration or removal of rights management 
+information (RMI) embedded in copyright material (when done to 
+further or conceal infringement) an infringement of copyright; 
+--providing rights holders with the ability to control the first 
+distribution of their material in tangible form; 
+--making the term of protection for photographs the life of the 
+photographer plus 50 years; 
+--introducing a full reproduction right for performers in sound 
+recordings; 
+--modifying the term of protection provided to sound recording 
+makers so as to extend to 50 years from the publication of the 
+sound recording; 
+--providing performers moral rights in their fixed and live 
+performances. 
+ 
+¶10. (U) ISP Liability 
+ 
+Proposed amendments concerning internet server provider (ISP) 
+liability include: 
+--making ISPs exempt from copyright liability in relation to their 
+activities as intermediaries (comment:  one industry analyst 
+worries that the phrasing of this exemption could be far too broad 
+and might encourage the creation of small ISPs dedicated to 
+hosting illegal copies but not-liable due to this part of the law. 
+As with many reactions to the proposed amendments, much depends on 
+the final phrasing of the legislative text.); and 
+--establishing a "notice and notice" regime in relation to the 
+hosting and file-sharing activities of an ISP's subscriber (that 
+is, when an ISP receives notice from a rights holder that one of 
+its subscribers is allegedly hosting or sharing infringing 
+material, the ISP would be required to forward the notice to the 
+subscriber and to keep a record of the relevant information for a 
+specified time.) 
+ 
+¶11. (U) Conclusion:  The GOC's proposed amendments to the 
+Copyright Act appear to fall short in key areas such as ISP 
+liability and technological protection measure (TPM) circumvention 
+and in fact may not be sufficient to bring Canada into compliance 
+with the WIPO treaties.  Canadian stakeholders are as yet unable 
+to judge the impact of the proposed amendments because the 
+legislative text is not available.  We expect intense lobbying 
+once the draft language is available if the draft text does not 
+adequately address the questions of ISP liability and trafficking. 
+Post is also watching upcoming court cases and GOC's deliberations 
+on educational use of the internet (a question which was removed 
+from the current proposed amendments so that the GOC can obtain 
+further input on this contentious issue.)  Post will continue to 
+work with stakeholders and GOC agencies to encourage legislation 
+to bring Canada into compliance with the WIPO treaties.  End 
+Conclusion.

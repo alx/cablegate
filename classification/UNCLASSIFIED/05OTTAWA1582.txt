@@ -1,0 +1,372 @@
+05OTTAWA1582
+FY 2006 IVLP, ITT on U.S. Policymaking Process
+Fri May 27 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+271146Z May 05UNCLAS SECTION 01 OF 05 OTTAWA 001582 
+ 
+SIPDIS 
+ 
+STATE 
+ 
+SECSTATE FOR ECA/PE/V/R/W - EWILKES-SCOTT; 
+WHA/PDA - JCARPENTER-ROCK 
+MONTREAL, TORONTO AND VANCOUVER FOR PAOS; 
+HALIFAX AND QUEBEC FOR CONGENS; 
+CALGARY FOR PA FIELD REP; CALGARY PLEASE PASS TO WINNIPEG 
+ 
+E.O. 12958: N/A 
+TAGS: KPAO OEXC SCUL CA IV
+SUBJECT: FY 2006 IVLP, ITT on U.S. Policymaking Process 
+(Bains and Cullen) 
+ 
+REFERENCE:  OTTAWA 1504 
+ 
+¶1.   The post proposes a two-person project, subject to 
+availability of nominees once approved and invited, that 
+would acquaint two first-term Members of the Canadian 
+Parliament to the policy-making process in the United 
+States.  Through discussions with federal, state and local 
+government leaders and officials, experts, lobbyists, media, 
+labor organizations, and interest groups on issues that 
+matter in the U.S.-Canada relationship, nominees would gain 
+insight into the players and processes involved in 
+formulating U.S. security, economic, trade, and social 
+policies.  This project supports the Mission's goals of 
+combating terrorism and strengthening ties with close allies 
+and friends. 
+ 
+¶2.   Nominees Navdeep BAINS, Member of Canadian Parliament 
+(Liberal Pary) and Nathan CULLEN, Member of Canadian 
+Parliament (New Democratic Party) both have full country 
+team approval.  EVDB-formatted nomination follows: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: slw@pd.state.gov 
+TRANSMITTING-POST: PAS Ottawa 
+TRANSMITTING-POST-ID: 6540 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VRW 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 325 
+ECA-PROJ-NO: 
+PROJ-NAME: ITT - U.S. Policy Making (Bains, Cullen) 
+START MEMO PROJ-DESC: 
+This project would acquaint two first-term Members of the 
+Canadian Parliament to the policy-making system in the 
+United States, through discussions with federal, state and 
+local government leaders and officials, experts, lobbyists, 
+media, labor organizations, and interest groups on security, 
+economic and environmental issues that matter in the U.S.- 
+Canada relationship.  Specific topics will be determined in 
+consultation with invitees, once approved. 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individuals Traveling Together 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 2 
+RANK-ORDER: 8 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1037 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: ITT 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 6540 
+FUNDING-CNTRY-ID: 322158 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Politics & Parties 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Navdeep 
+M-NAME: 
+L-NAME: Bains 
+SUFFIX: 
+POSITION-CODE: 116 
+PRINCIPAL?: Yes 
+GENDER: M 
+DOB: 06/16/1977 
+MAR-STAT: 
+BIRTH-CITY: Toronto, Ontario 
+BIRTH-CNTRY: Canada 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+Member of Parliament; 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Member of the Standing Committee on Access to Information 
+Privacy and Ethics 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Financial Analyst and Certified Management Accountant - Ford 
+Canada 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Very limited travel to the United States 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Member of Canadian Parliamentary delegation to tsunami 
+disaster areas in India 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Certified Management Accountant, Society of Management 
+Accountants (Ontario), 2003 
+MBA, University of Windsor, 2001 
+BA Administration Studies, York University, 1999 
+ 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Society of Management Accountants 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+none 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: English 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: POL - Brian Flora 
+START MEMO NOMINATING-JUSTIFICATION: 
+Navdeep Bains Singh is a successful and recognized rookie 
+Member of Parliament and a member of the governing Liberal 
+Party.  He decisively won his seat in the June 2004 
+election, nearly doubling the vote count of the second place 
+Conservative candidate.  Bains' seat is in the heart of the 
+greater Toronto area, one that is easily perceived as a left- 
+leaning Liberal Party stronghold.  In combination with its 
+riding density, this leads some observers to cynically, but 
+not altogether inaccurately, suggest the country is run from 
+Toronto. 
+Bains is a new and moderate voice in the party whose 
+background in corporate finance does not clearly fit with 
+the stereotypical Toronto-area, left leaning Liberal. 
+Despite his rookie status he has a seat on the important 
+Standing Committee on Access to Information, Privacy and 
+Ethics.  This committee investigates topics such as the 
+ramifications of the U.S. Patriot Act and Canadians' rights 
+to information privacy and the regulation of lobbyists on 
+Parliament Hill.  He also featured prominently at the recent 
+Liberal Biennial Convention, held in Ottawa between March 3 
+and 6.  He was seen at many policy workshops and was a 
+favorite of the left-leaning Young Liberals of Canada 
+despite his previous existence as a financial analyst and 
+certified management accountant. 
+Acquainting this open-minded, rookie Liberal MP from Toronto 
+first-hand with the policy formulation process in the United 
+States will allow him to form his own opinions, rather than 
+leave it to older Toronto Liberals to 'teach him.'  An IVLP 
+experience could very easily give an MP like Navdeep Bains a 
+formative experience that he could call on when expressing 
+his own growing voice in Parliament, both in the House of 
+Commons, in Committees and within the Liberal Party.   This 
+project supports the Mission's goals of countering terrorism 
+and strengthening ties with close allies and friends. 
+ 
+ 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: Embassy Ottawa 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: ELEO 
+NOMINEE-ID: 495 
+PERSON-ID: 376 
+BIRTH-CNTRY-ID: CA 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: EN 
+E-I-TYPE-ID: E 
+NOM-POST-ID: 6540 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 45.1001 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Nathan 
+M-NAME: 
+L-NAME: Cullen 
+SUFFIX: 
+POSITION-CODE: 116 
+PRINCIPAL?: Yes 
+GENDER: M 
+DOB: 07/13/1972 
+MAR-STAT: 
+BIRTH-CITY: Toronto, Ontario 
+BIRTH-CNTRY: Canada 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+Member of Parliament 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Member of the Standing Committee on Environment and 
+Sustainable Development 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Human Resources Consulting Firm (Owner) Maravilla 
+Consultants, Smithers, B.C. 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Minimal 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Costa Rica, Guyana, Ecuador, Sierra Leone 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Certificate in Conflict Resolution, Justice Institute of 
+British Columbia, 2002 
+Bachelor of Arts, Comparative Development & Environmental 
+Resource Studies, Trent University, 1997 
+ 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+none 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+none 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: English 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: POL - Brian Flora 
+START MEMO NOMINATING-JUSTIFICATION: 
+Member of Parliament Nathan Cullen is a successful rookie MP 
+who was recognized by The Hill Times news magazine as the 
+number-one up-and-coming rookie on Parliament Hill at the 
+end of the first sitting of the 38th Parliament, in December 
+¶2004.  A member of the New Democratic Party of Canada, he 
+achieved an unlikely coup by winning (by an admittedly 
+narrow margin) his seat by defeating the incumbent 
+Conservative Member of Parliament.  It is extremely rare for 
+a New Democrat to win a seat in rural, western Canada at 
+all, let alone take one from a sitting Conservative. 
+The new Democratic Party of Canada is typically left- 
+leaning, and a perennial 3rd place party at the national 
+level, though the Liberal Party of Canada is frequently 
+accused of co-opting their policies to please left-minded 
+voters in their own ranks. 
+Nathan Cullen is a new and moderate member of the NDP who 
+appears to focus more on policy and procedure than following 
+a strict, reactionary party line.  He focuses on 
+environmental and social issues while acting as his party's 
+Critic for National Parks, Environment and Youth.   Giving 
+him first-hand observation of policy formulation in the 
+United States and a chance to interact and develop contacts 
+with Americans involved in issues of mutual concern to North 
+American neighbors--security, economic and trade policy, 
+environmental issues, and social policies--will help him 
+balance realities against the myths that sometimes prevail 
+with regard to U.S. positions and intentions. 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: Embassy Ottawa 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: ELEO 
+NOMINEE-ID: 497 
+PERSON-ID: 378 
+BIRTH-CNTRY-ID: CA 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: EN 
+E-I-TYPE-ID: E 
+NOM-POST-ID: 6540 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 45.1001 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+ 
+ 
+ 
+DICKSON, CHARGE

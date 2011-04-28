@@ -1,0 +1,84 @@
+07MONTREAL302
+Blue Lantern Level 3: Pre-License Check on Application
+Wed Jul 25 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Montreal
+VZCZCXRO2133
+RR RUEHGA RUEHHA RUEHQU RUEHVC
+DE RUEHMT #0302 2061428
+ZNR UUUUU ZZH
+R 251428Z JUL 07
+FM AMCONSUL MONTREAL
+TO RUEHC/SECSTATE WASHDC 0649
+INFO RUCNCAN/ALCAN COLLECTIVE
+RHEFHLC/DEPT OF HOMELAND SECURITY WASHDCUNCLAS MONTREAL 000302 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE FOR PM/DTCC - Blue Lantern POC - Michael Romero 
+ 
+SENSITIVE 
+ 
+E.O. N/A 12958: N/A 
+TAGS: ETTC KOMC NL CA TU GM NO
+SUBJECT:  Blue Lantern Level 3: Pre-License Check on Application 
+05-050048064 
+ 
+REF: A. SECSTATE 87824 
+ ¶B. THE HAGUE 1356 
+ 
+¶1. (SBU) Conoff contacted Rheinmetall Canada headquarters in 
+St-Jean-sur-Richelieu, Quebec.  All officials contacted were helpful 
+and forthcoming, and though they had not been contacted by the 
+Mission in the past, understood the purpose of our questions. 
+ 
+¶2. Natalie Nantel, Transport Coordinator, confirmed that the order 
+had been placed, and that the product was destined for the Royal 
+Dutch Army.  However, she said that the license number in Ref A, 
+05-050048064, may have been changed because of an error in the 
+initial license application.  The project described in reftel 
+requires "FGBAD Consoles" rather than "ASRAD Consoles" necessitating 
+a change in the order to U.S. supplier Vicor Corporation. 
+ 
+¶2. Conoff also spoke to Pierre Lord, Security Coordinator and 
+Raymond Houle, Senior Procurement Manager and ITAR Coordinator. 
+Lord said that the company has applied for and been granted several 
+DTCC Licenses over the last twenty years, and is fully aware of the 
+restrictions on the export of U.S. defense articles.  He said that 
+the facility in St-Jean is "NATO-Secret" certified for secure 
+handling of defense technology. 
+ 
+¶3. Houle said that Rheinmetall Canada's role in the transaction is 
+to assemble and integrate the U.S. components into the consoles. 
+These consoles would then be transferred to EADS in Germany, who 
+would install the consoles into the armored personnel vehicles.  The 
+vehicles would then be transferred to the Dutch.  Under ideal 
+circumstances, Houle said, the U.S. technology would not have to be 
+handled by the other three intermediate consignees: Krauss-Maffei 
+Wegman, Kongsberg, and Aselsan.  Rheinmetall added them to their 
+license application in case it was necessary for any of them to make 
+a modification or perform testing after the U.S. technology was 
+installed into the vehicle.  Krauss-Maffei Wegman is the 
+manufacturer of the basic vehicle.  Normally, the vehicle would be 
+shipped from Krauss-Maffei Wegman to Kongsberg defense, where a 
+radar system would be installed, and then shipped to EADS.  EADS 
+would then install Rheinmetall's console, with U.S. technology, 
+completing the vehicle for the Dutch Royal Army.  Aselsan, a company 
+that EADS uses for testing of its products, was also included, so 
+that testing could be performed at their facility, if necessary, 
+without changes to the license. 
+ 
+¶4. Rheinmetall Canada, formerly Oerlikon Contraves Canada, supplies 
+defense hardware and software mainly to the Canadian Forces, but 
+also to other military customers, such as France, Belgium and the 
+Netherlands, as well as the U.S. and Canadian Coast Guard. 
+Rheinmetall Canada has also contracted with the Port of Dakar, 
+Senegal to upgrade the security of the country's main commercial 
+port.  The company has been in business since 1986. 
+ 
+¶4. Post was not able to arrange a site visit in time for this 
+report.  A site visit will be arranged at the earliest opportunity. 
+ 
+MARSHALL

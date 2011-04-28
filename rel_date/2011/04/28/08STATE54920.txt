@@ -1,0 +1,171 @@
+08STATE54920
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Thu May 22 00:00:00 +0200 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0013
+RR RUEHWEB
+
+DE RUEHC #4920 1431624
+ZNR UUUUU ZZH
+R 221615Z MAY 08
+FM SECSTATE WASHDC
+TO RUEHOT/AMEMBASSY OTTAWA 0000
+RUEHIN/AIT TAIPEI 0000
+INFO RUEHON/AMCONSUL TORONTO 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC 0000
+RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUEAIIA/CIA WASHINGTON DC 0000UNCLAS STATE 054920 
+ 
+SIPDIS 
+AIT TAIPEI FOR MATTHEW O'CONNOR AND MI YONG KIM 
+OTTAWA FOR ROBERT MERRIGAN 
+ECON 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC CA TW
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON APPLICATION 05-050103333 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests AIT Taipei's and Post's 
+assistance in conducting a pre-license check on application 
+05-050103333 for the export of defense hardware to Taiwan. 
+It is requested that you complete this Blue Lantern inquiry 
+within 30 days.  Lack of response to a Blue Lantern inquiry 
+will affect pending and future licenses involving parties to 
+this license. 
+ 
+¶3. Reason for request: Unable to verify bona fides of foreign 
+consignee, Junsdom Solutions, in proposed transaction. 
+Open-source information indicates that it may be based in 
+mainland China. 
+ 
+¶4. Action AIT Taipei: Department requests that AIT Taipei 
+contact Chung Shan Institute of Technology and determine 
+whether that entity placed an order for the items listed 
+below for the purpose stated on the application. If so, 
+determine whether any other Taiwan-based firm is involved in 
+the procurement of the items. Remind the end-user that 
+the unauthorized re-export or retransfer of United States 
+Munitions List (USML) items is strictly prohibited. 
+ 
+Action Ottawa: Department requests that Post establish the 
+bona fides of foreign consignee Junsdom Solutions Co. Ltd as 
+a responsible recipient of USML items.  Conduct a site visit 
+to assess the company's reliability as a recipient of USML 
+articles, and assess its operations and on-site security. 
+Emphasize that the unauthorized re-export or retransfer of 
+USML items is strictly prohibited. 
+ 
+The following questions provide suggested guidance: 
+ 
+ (To Junsdom Solutions Co., Ltd.) 
+ 
+ - Please confirm an order to be shipped under license 
+05-050103333. 
+ 
+ - How long has your company been in the business of 
+importing and selling defense articles? What other products 
+are sold by your company? Does your company do business (or 
+has it done business) under any other names? 
+ 
+ - Does your company conduct business involving USML articles 
+with any countries besides Taiwan? If so, where?  If your 
+company has offices overseas, where are they located? 
+ 
+ - Are you familiar with the restrictions against the 
+unauthorized re-export or retransfer of U.S.-origin defense 
+articles? 
+ 
+End Action Request. 
+ 
+¶5. Details of license application: 
+ 
+DTC Case: 05-050103333 
+ 
+QUANTITY/COMMODITY: 
+ 
+2 High Power S-Band Duplexers, Ferrite Part Number SC3-113 
+ 
+5 S-Band Low Pass Filter, Waveguide, Ferrite Part Number 
+SFWG-100 
+ 
+License Value: USD $40,125. 
+ 
+SELLER: 
+ 
+Linda Oxenham, Sales Rep. 
+The Ferrite Company, Inc. 
+165 Ledge Street 
+Nashua, NH  03060 
+603-881-5234 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Peter Hou 
+Junsdom Solutions Co., Ltd. 
+33 Ruden Cres 
+North York, Ontario 
+M3A 3H4 
+Canada 
+Tel: 416-805-4591 
+Fax: 416-510-8999 
+ 
+END-USER: 
+ 
+Chang-Cheng Yang 
+Chief, Antenna Section 
+Electric Systems Research Division 
+Chung Shan Institute of Science and Technology 
+No. 481 Chia-An Section 
+Chung-Cheng Road 
+Chia-An Village, Lung Tan 
+Tao-Yuan 
+Taiwan 
+ 
+PURPOSE: 
+ 
+Maintenance and extra sites of S-Band Radar.  The type of 
+radar is S-Band, Phased Array, Multi-function, Air Defense 
+Array Radar (ADAR), (Ref: CCNAA/RCA Government System 
+Division, Contact No. HX231665N-C603, 2/8/84) 
+ 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC will fax documentation to AIT 
+Taipei and Post Ottawa upon request): 
+ 
+-- End-User Statement from Chung Shan Institute dated 29 
+April 2008 which references Purchase Order 
+No. XU96K07P845PE 
+ 
+-- Junsdom Solutions Co., Ltd. Purchase Order No. 
+JS9607004Q2L9 dated 08 January 2008 
+ 
+-- Undated letter (typed on plain letter-sized paper) from 
+Junsdom Solutions which references the proposed transaction 
+and indicates that Allen Hu, District Manager of Evergo 
+Instruments Inc., Taipei, TW, is coordinating the procurement 
+of the listed items on behalf of Chung Shan Institute of 
+Science and Technology. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Rachael-Therese S. Joubert-Lin, 
+Phone: 202-663-2950; Email: JoubertLinRS@state.gov; SIPRNET: 
+JoubertLinRS@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file in the Bunche Library's 
+E-Book Collection on the DOS Intranet: 
+http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶8. Department is grateful for AIT Taipei's and Post's 
+assistance in this matter. 
+RICE

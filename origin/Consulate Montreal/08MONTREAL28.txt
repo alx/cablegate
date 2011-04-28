@@ -1,0 +1,123 @@
+08MONTREAL28
+ICAO ACKNOWLEDGES U.S. OFFER CONTINUING GPS SERVICES
+Thu Feb 07 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Montreal
+VZCZCXYZ0014
+RR RUEHWEB
+
+DE RUEHMT #0028/01 0382111
+ZNR UUUUU ZZH
+R 072111Z FEB 08
+FM AMCONSUL MONTREAL
+TO RUEHC/SECSTATE WASHDC 0797
+RULSDMK/DOT WASHDC
+RHMFIUU/FAA NATIONAL HQ WASHINGTON DC//API-20UNCLAS MONTREAL 000028 
+ 
+SIPDIS 
+ 
+FROM USMISSION ICAO 
+ 
+DEPT FOR IO/T, OES/SAT, L/OES, L/T, L/EB, EEB/TRA/OTP 
+TRANSPORTATION FOR OST 
+FAA FOR API-20 
+ 
+SIPDIS 
+ 
+E.O. 12958:  N/A 
+TAGS: AORC ECPS ICAO CA
+SUBJECT: ICAO ACKNOWLEDGES U.S. OFFER CONTINUING GPS SERVICES 
+ 
+¶1.  The President of the governing Council of the International 
+Civil Aviation Organization(ICAO), Roberto Kobeh, sent a reply to 
+the FAA Administrator, copied to USICAO, affirming ICAO's acceptance 
+of the September 10, 2007 United States' offer to continue worldwide 
+access to the U.S. Global Positioning System-GPS.  Text of ICAO's 
+acceptance, which repeats the U.S. offer, is given paragraph two. 
+The exchange of letters renews the pre-existing agreement regarding 
+GPS services between the United States Government and ICAO.  A PDF 
+copy of the letter has been emailed to OES/SAT RClore, IO/T LLuftig, 
+EB/TRA/OTP WDayton, L/EB K Milton, and L/OES M Simonoff, FAA/API 
+JTooren, FAA BCleese, and DOT/OST J Kiser. 
+ 
+¶2.  The text of President Kobeh's December 18, 2007 letter is 
+below. 
+ 
+Begin text: 
+ 
+Sir/Madam, 
+ 
+I have the honor to acknowledge receipt of the letter dated 
+September 10, 2007 from Mrs. Marion C. Blakey, Administrator, 
+Federal Aviation Administration, which reads as follows: 
+ 
+(Begin quote of US offer) This letter reaffirms the United States 
+Government's commitment to provide the Global Positioning System-GPS 
+Standard Positioning Service-SPS for aviation throughout the world. 
+Further, the United States commits to provide the Wide-Area 
+Augmentation System (WAAS) service within its prescribed service 
+volume. 
+ 
+More than ten years ago, the United States began providing the GPS 
+SPS.  Since 1994, GPS has grown into a global utility whose 
+multi-use services have become essential elements of the worldwide 
+infrastructure.  In 2003, the United States commissioned the WAAS 
+Satellite-Based Augmentation System to provide improved space-based 
+positioning, navigation and timing (PNT) service.  In 2004, the U.S. 
+Government's GPS management structure was improved by national 
+policy directive to accommodate a more comprehensive approach to 
+planning, resource allocation, and system development.  This policy 
+strengthens civil participation in managing GPS and supports state 
+aircraft access to airspace using other using other GPS signals, 
+such as Precise Positioning Service (PPS) where the capability is 
+equivalent. 
+ 
+The U.S. Government maintains its commitment to provide GPS SPS 
+signals on a continuous worldwide basis, free of direct user fees, 
+enabling worldwide civil space-based PNT services (to include GPS 
+SPS augmentation), and to provide open, free access to information 
+necessary to develop and build equipment to use these services. 
+ 
+The U.S. Government commits to providing single frequency WAAS 
+signals on a nondiscriminatory basis, free of direct user fees, 
+throughout the area of coverage of WAAS satellites within its 
+prescribed service volume and to provide open free access to 
+information necessary to develop and build equipment to use these 
+services.  WAAS provides new and improved aviation capabilities for 
+satellite-based vertical-guidance procedures, consistent 
+International Civil Aviation Organization initiatives.   The U.S. 
+Government has concluded arrangements with Canada and Mexico that 
+extend the WAAS service in North America and is supporting testing 
+and development of WAAS capabilities for the Western  Hemisphere. 
+ 
+The U.S. Government plans to take all necessary measures for the 
+foreseeable future to maintain the integrity, reliability, and 
+availability of the GPS SPS and WAAS service and expects to provide 
+at least six years' notice prior to any termination of such 
+operations or elimination of such services. 
+ 
+All of the above commitments are subject to the availability of 
+funds as required by United States law. 
+ 
+The availability of GPS and WAAS signals is not intended in any way 
+to limit the right of any State to control the operations of 
+aircraft and enforce safety regulations within its sovereign 
+airspace.  Furthermore, the United States expects that standards and 
+recommended practices (SARPS) developed by the ICAO will continue to 
+be compatible with GPS operations and vice versa, and that States 
+will be free to augment GPS in accordance with appropriate SARPS. 
+ 
+I (FAA-Blakey)would greatly appreciate your confirmation that the 
+ICAO is satisfied with the foregoing political commitments, which I 
+submit in lieu of an agreement.  In that event, this letter and your 
+reply will comprise the continued mutual understanding between the 
+Government of the United States and the ICAO regarding the provision 
+and use of space-based navigation services." (End quote of U.S. 
+offer) 
+ 
+I (ICAO Pres. Kobeh) am pleased to inform you that the arrangements 
+contained in the foregoing are acceptable to the International Civil 
+Aviation Organization. 
+Complimentary close and signed by Roberto Kobeh Gonzalez. (End text 
+of ICAO acceptance) 
+BLISS MARSHALL

@@ -1,0 +1,266 @@
+09MONTREAL115
+RESULTS OF ICAO'S TWENTIETH AVIATION SECURITY PANEL MEETING
+Tue Apr 07 00:00:00 +0200 2009
+UNCLASSIFIED
+Consulate Montreal
+INFO  LOG-00   AF-00    AID-00   A-00     ACQ-00   CEA-01   CIAE-00  
+      COME-00  CTME-00  INL-00   DODE-00  DOEE-00  ITCE-00  WHA-00   
+      DS-00    EAP-00   DHSE-00  EXME-00  EUR-00   OIGO-00  E-00     
+      FBIE-00  UTED-00  VCI-00   FRB-00   H-00     TEDE-00  INR-00   
+      IO-00    LAB-01   L-00     MOFM-00  MOF-00   VCIE-00  NEA-00   
+      DCP-00   NSAE-00  ISN-00   NSCE-00  OIC-00   OIG-00   OMB-00   
+      NIMA-00  EPAU-00  MCC-00   PER-00   GIWI-00  SCT-00   ISNE-00  
+      DOHS-00  SP-00    SSO-00   SS-00    STR-00   TRSE-00  NCTC-00  
+      ASDS-00  FMP-00   CBP-00   BBG-00   EPAE-00  IIP-00   SCRS-00  
+      DSCC-00  PRM-00   DRL-00   G-00     SCA-00   CARC-00  SAS-00   
+      FA-00    SWCI-00    /002W
+                  ------------------4F491D  071843Z /38 
+
+   
+R 071847Z APR 09
+FM AMCONSUL MONTREAL
+TO SECSTATE WASHDC 0207
+DEPT OF HOMELAND SECURITY WASHINGTON DC
+TSA HQ WASHINGTON DC
+INFO DEPT OF TRANSPORTATION WASHINGTON DC
+FAA NATIONAL HQ WASHINGTON DC
+USEU BRUSSELS 0015
+AMEMBASSY LONDON 
+AMEMBASSY OTTAWA 
+AMEMBASSY MEXICO 
+AMEMBASSY DAKAR 
+AMEMBASSY ROME 
+AMEMBASSY CANBERRA 
+AMEMBASSY NEW DELHI 
+AMEMBASSY TOKYO 
+AMEMBASSY BUENOS AIRES 
+AMEMBASSY RIYADH 
+AMEMBASSY SINGAPORE 
+AMEMBASSY BERLIN 
+AMEMBASSY BRASILIA 
+AMEMBASSY DOHA 
+AMCONSUL MONTREALUNCLAS MONTREAL 000115 
+ 
+ 
+PASS TO ALL DHS/FAA REPRESENTATIVES 
+DOT FOR OST 
+ 
+E.O. 12958: N/A 
+TAGS: EAIR ECON PREL PTER ICAO XX
+SUBJECT: RESULTS OF ICAO'S TWENTIETH AVIATION SECURITY PANEL MEETING 
+ 
+¶1.  Summary. Transportation Security Administration officials 
+led the U.S. delegation to the International Civil Aviation 
+Organization's (ICAO) Twentieth Aviation Security Panel of 
+Experts (AVSECP) meeting and presented two U.S. working paper 
+proposals and an information paper on the supply chain approach 
+to air cargo security, introducing unpredictability into an 
+aviation security regime, as well as a report from the first 
+meeting of a U.S.-chaired New and Emerging Threats Working 
+Group.   The U.S. delegation gained wide support among panel 
+members for U.S. proposals, notably for the concepts of supply 
+chain security and unpredictability as a supplemental tool in 
+enhancing baseline security in the airport environment.    End 
+Summary. 
+ 
+ 
+BACKGROUND 
+ 
+¶2.  The AVSECP, an expert advisory body established by ICAO, is 
+responsible for developing new aviation security Standards and 
+Recommended Practices (SARPs), among other duties. The Panel 
+submits recommendations the ICAO Council, which may adopt and 
+incorporate the SARPs into Security Annex 17 to the Convention 
+on International Civil Aviation (Chicago Convention) governing 
+international aviation security. The Twentieth Meeting of the 
+Aviation Security Panel (AVSECP/20) was held in Montreal from 30 
+March - 3 April 2009. Cindy Farkus, the Transportation Security 
+Administration's Assistant Administrator for the Office of 
+Global Strategies, led the U.S. delegation. 
+ 
+ 
+U.S. PROPOSALS 
+ 
+¶3.  The United States received universal support and positive 
+feedback on its two working papers and one information paper. 
+All will be referred to the ICAO Council for further 
+consideration and approval.  The U.S. papers can be accessed on 
+ICAO's secure website. 
+ 
+¶4.    Report of the New and Emerging Threats Working Group. 
+This paper detailed the process, discussion, and outcomes of the 
+first meeting of ICAO's New and Emerging Threats Working Group 
+(NETWG) held from 6 to 8 January 2009 in Washington, D.C., 
+including experts from eight countries and ICAO staff. 
+Discussions were focused on the use of risk assessment and 
+management models for the process of analyzing the threats (both 
+nature and likelihood) and civil aviation's vulnerabilities to 
+those threats, i.e. the risk as a means of identifying gaps in 
+the mitigating measures in Annex 17 -- Security. The group also 
+discussed in detail a consolidated list of threats passed, on a 
+restricted basis, to the working group by the G8 Roma-Lyon 
+Transportation Security Subgroup. Through small, focused 
+discussion groups, the NETWG reached consensus on four 
+categories of threats: artfully concealed weapons; person-borne 
+improvised explosive devices; vehicle-borne improvised 
+explosives devices; and air cargo. In sum, the group made 
+significant progress in identifying potential gaps in existing 
+measures and providing recommendations for consideration by the 
+panel. 
+ 
+¶5.  The NETWG report group was passed to the Amendment 12 
+working group, which is tasked with identifying and proposing 
+language for new Standards and Recommended Practices to be 
+included in Amendment 12 to Annex 17 -- Security.  The panel 
+agreed to allow a change in the name of the group in order to 
+address the notion of `evolving' threats.  The next NETWG 
+meeting is tentatively scheduled for the first week in June 2009 
+and will be hosted by the co-chair, the United Kingdom.   The 
+report generated positive comments regarding the importance of a 
+proactive approach to threats rather than a reactive one and 
+several states mentioned their concern over cyber-threats.  The 
+UK will ask its own experts and those from a recently convened 
+EC workshop on cyber-threats (nfi) to make a presentation during 
+the next working group meeting. 
+ 
+¶6.  Air Cargo Supply Chain Management.  This paper outlined the 
+elements and benefits of supply chain screening and "chain of 
+custody" requirements for securing air cargo, which emphasizes 
+effective security management of the entire air cargo supply 
+chain. The supply chain approach to air cargo security has been 
+implemented successfully in the Republic of Ireland and the 
+United Kingdom (UK); is under consideration by Canada and the 
+European Commission as a way of increasing air cargo security; 
+and is similar to an initiative undertaken by the International 
+Air Transport Association, referred to as "Secure Freight." The 
+United States has developed a system, modeled after those in 
+Ireland and the UK, referred to as the Certified Cargo Screening 
+Program, to provide a mechanism by which industry may achieve 
+100 percent screening without impeding the flow of commerce. 
+Benefits include decreased air carrier delays and expedited 
+supply chain flow; the ability to build bulk configurations that 
+can be tendered without re-screening; the ability to ship 
+certain cargo types without potential invasive screening later 
+in the chain; and the ability to maintain in-house packaging 
+integrity. 
+ 
+¶7.  The air cargo working paper received positive responses from 
+Australia, the UK, Mexico, Singapore, Switzerland, Saudi Arabia, 
+Italy, Senegal, Japan, Argentina, and India.  Nearly all 
+expressed support for supply chain security principles and 
+highlighted similar efforts in their own countries.  The UK 
+noted that this was one area in aviation security where the 
+international community was implementing measures "ahead of the 
+game" instead of reacting to events.    Cautionary messages from 
+panel members centered on discouraging "unilateral measures" and 
+imposing 100 percent physical screening requirements.  The panel 
+then agreed to add elements of the U.S. paper to guidance 
+material, referred the matter to the Amendment 12 working group 
+to explore ways to incorporate supply chain elements to SARPs, 
+and urged the creation of a joint Secretariat study group on the 
+facilitation/aviation security aspects of the supply chain.  The 
+final panel report further reflected its endorsement of supply 
+chain security management and that the concept should be 
+"considered for inclusion in Annex 17." 
+ 
+¶8.  Building Unpredictability into an Aviation Security Regime. 
+This information paper offered the premise that civil aviation 
+faces an adaptive and motivated enemy whose choice of target and 
+attack method depends significantly on the perceived and actual 
+vulnerability of the security system. Terrorists can analyze a 
+static system easily by identifying where, how, and when 
+resources are used, thereby allowing them a greater opportunity 
+to identify weaknesses, circumvent the system, and exploit 
+vulnerabilities. By implementing various security measures 
+within existing security layers in an unpredictable and random 
+approach, terrorists' plans can be frustrated, attacks may be 
+deterred, and countermeasures can be deployed flexibly and 
+quickly in response to emerging threats. 
+ 
+¶9.  Qatar, Mexico, Canada, Switzerland, Brazil, Germany, 
+Singapore and Saudi Arabia intervened to express their 
+appreciation for the working paper and the concept of 
+introducing unpredictability into an aviation security regime. 
+Mexico said that it was a valuable tool for states with limited 
+resources.   Saudi Arabia suggested it be addressed as a 
+"strategic objective" during a possible future international 
+aviation conference and Canada asked that the Amendment 12 
+working group consider adding language in Annex 17 that reflects 
+the principle and benefits of the approach.  Some debate 
+centered around cautioning against reducing baseline security in 
+order to add in unpredictable elements and around the idea of 
+maintaining passenger comfort by retaining common practices from 
+one destination to another.  In the end, the chair summarized by 
+saying that unpredictability was a key element in the evolution 
+from excelling at screening to developing innovative and new 
+measures to thwart terrorists. 
+ 
+ 
+OTHER KEY ISSUES 
+ 
+¶10.   Other objectives met at this meeting included: 
+ 
+  a)  Encouraging threat-related information sharing among 
+Contracting States; 
+ 
+  b)  Supporting a proposal to establish a Technological Working 
+Group to advise the Panel on security-related technologies for 
+liquids, aerosols and gels and other threats; 
+ 
+  c)  Urging the creation of a temporary working group to 
+develop a revised security plan of action       that will take 
+global security in a new and focused direction; 
+ 
+  d)  Urging greater transparency in the ICAO Universal Security 
+Audit Process (USAP); 
+ 
+  f)  Encouraging an exchange of information between Donor 
+States in the provision of assistance to       developing 
+nations to avoid duplication of effort and wasted resources; 
+ 
+  g)  Monitoring discussions related to a possible requirement 
+for 100 percent staff screening and; 
+ 
+  h)  Conducting bilateral meetings with member states and 
+participating in sidebar discussions. 
+ 
+ 
+¶11.  Coordinating Assistance to States (Partner/Donor Meeting-). 
+ICAO staff provided an overview of a new ICAO coordinated 
+development database of assistance programs offered worldwide 
+and especially in Africa.   ICAO's Implementation Support and 
+Development Branch encouraged States to send in data regarding 
+training and assistance programs and nominations for subject 
+matter experts to conduct training worldwide.   ICAO previewed 
+its new "Go Team"  concept which mirrors TSA's Aviation Security 
+Sustainable International Standards Teams program (ASSIST), 
+which sends a group of veteran security experts to collaborate 
+with local security officials to address several security needs 
+at one time (following an initial security assessment of 
+training needs, equipment, current aviation programs, and 
+aviation security legislation). The teams work to build aviation 
+security capacity, practices, and sustainable institutions 
+through local alliances. 
+ 
+ 
+CONCLUSION 
+ 
+¶12.  The U.S. delegation achieved its goals of gaining 
+international support for its three paper proposals.     The 
+U.S. looks forward to future collaborative and proactive work 
+with the aviation security panel, its working groups and 
+contracting states, to identify new, evolving and emerging 
+threats, share threat information, increase transparency in the 
+universal security audit program, and strengthen Annex 17 and 
+guidance material to include the concepts of supply chain 
+security in air cargo and unpredictability, among other 
+objectives. 
+ 
+¶13.  We greatly appreciate Posts' assistance in this effort and 
+their ongoing support for international civil aviation matters. 
+Please direct questions or requests for additional information 
+pertaining to this cable to  Jillene.MacCreery@dhs.gov (tel.: +1 
+571-227-2244). 
+ 
+ 
+FAUX-GABLE MCCLENNY

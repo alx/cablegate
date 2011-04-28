@@ -1,0 +1,419 @@
+05OTTAWA1642
+FY 2006 Proposed IVLP ITT "Infrastructure
+Thu Jun 02 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ottawa
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+021926Z Jun 05UNCLAS SECTION 01 OF 05 OTTAWA 001642 
+ 
+SIPDIS 
+ 
+STATE 
+ 
+SECSTATE FOR ECA/PE/V/R/W - EWILKES-SCOTT; 
+WHA/PDA - JCARPENTER-ROCK 
+MONTREAL, TORONTO AND VANCOUVER FOR PAOS; 
+HALIFAX AND QUEBEC FOR CONGENS; 
+CALGARY FOR PA FIELD REP; CALGARY PLEASE PASS TO WINNIPEG 
+ 
+E.O. 12958: N/A 
+TAGS: KPAO OEXC SCUL CA IV
+SUBJECT: FY 2006 Proposed IVLP ITT "Infrastructure 
+Development and Protection", David Morley and Isabelle Hudon 
+ 
+REFERENCE:  OTTAWA 1504 
+ 
+¶1.   The post proposes a two-person IVLP project focused on 
+the political, financial, environmental, and social aspects 
+of infrastructure development in urban areas and at key U.S. 
+border crossings.  One nominee is a public sector manager, 
+the other a business association leader.  The program would 
+emphasize the positive interaction between the public and 
+private sectors in the United States to identify priorities, 
+stimulate investment, and implement infrastructure projects 
+that support economic growth, safety and well-being of 
+citizens. 
+ 
+¶2.   Post nominates David Morley, Senior Policy Advisor, 
+Office of the Minister of State for Infrastructure and 
+Communities, Ottawa Principal Candidate) and Isabelle Hudon, 
+President and CEO, Board of Trade of Metropolitan Montreal 
+(Principal Candidate).  Both candidates have full country 
+team approval. 
+ 
+¶3.   EVDB-formatted nomination follows: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: slw@pd.state.gov 
+TRANSMITTING-POST: PAS Ottawa 
+TRANSMITTING-POST-ID: 6540 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VRW 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 329 
+ECA-PROJ-NO: 
+PROJ-NAME: ITT Infrastructure Development (Morley, Hudon) 
+START MEMO PROJ-DESC: 
+This project would focus on the political, financial, 
+environmental, and social aspects of infrastructure 
+development in urban areas and at key U.S. border crossings. 
+One nominee is a public sector manager, the other a business 
+association leader.  The program would emphasize the 
+positive interaction between the public and private sectors 
+in the United States to identify priorities, stimulate 
+investment, and implement infrastructure projects that 
+support economic growth, safety and well-being of citizens. 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individuals Traveling Together 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 2 
+RANK-ORDER: 0 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1037 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: ITT 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 6540 
+FUNDING-CNTRY-ID: 322158 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Urban Planning 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: David 
+M-NAME: 
+L-NAME: Morley 
+SUFFIX: 
+POSITION-CODE: 114 
+PRINCIPAL?: Yes 
+GENDER: M 
+DOB: 03/18/1974 
+MAR-STAT: 
+BIRTH-CITY: Kitchener, Ontario 
+BIRTH-CNTRY: Canada 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+Departmental Senior Policy Advisor, Office of the Canadian 
+Minister of State (Infrastructure and Communities), August 
+2004 to present. 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Senior Policy Analyst, Privy Council Office (Cities 
+Secretariat) and Chair of the Advisory Committee on Cities 
+ 
+SIPDIS 
+and Communities, December 2003 to August 2004. 
+Policy Analyst, Intergovernmental Affairs, September 2002 to 
+December 2003. 
+Climate Change Analyst, Department of Foreign Affairs 
+(Environmental Affairs), December 2001 to August 2002. 
+Other:  Media Relations Team Member, Athens Olympics 
+Canadian Olympic Committee, August 2004. 
+ 
+ 
+ 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+brief tourism trips 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Ghana, Greece 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+BA (Hons), International Development, University of Guelph, 
+June 1998. 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+National Leader, Young Environmental Professionals of 
+Canada, 2002 - 2005. 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+Guest Columnist, Ottawa Citizen, August 2004. 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+SMOKER/NON SMOKER:  Non/smoker 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: English 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START OTHER-LANGS: 
+OTHER-LANG: Spanish 
+OTHER-LANG-ID: QB 
+READ: 3 
+SPEAK: 3 
+COMP: 3 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: French 
+OTHER-LANG-ID: FR 
+READ: 3 
+SPEAK: 3 
+COMP: 3 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: PAO Nick Giacobbe 
+START MEMO NOMINATING-JUSTIFICATION: 
+David Morley has extensive experience in government, 
+business and the private sector.  For various reasons the 
+federal government is coming under increasing pressure from 
+the provinces and municipalities to revenue share as urban 
+centers are experiencing stress from lack of funds.  Morley 
+has been tasked with helping communities reinvent 
+themselves. This is a situation that is significant and 
+timely both in the United States and Canada.  The U.S. 
+experience in urban development and urban renewal has met 
+with challenges.  As deteriorating conditions turn up the 
+political rhetoric, public pressure forces governments to 
+act.  Faced with similar situations: crumbling 
+infrastructure and decreasing tax base (both residential and 
+industrial) they choose to partner government and the 
+private sector.    There is little history and even less 
+research and background on urban renewal in Canada.  Morley 
+would gain a lot from a program that views historical 
+relationships between levels of government, development of 
+the socio-economic dialogue, performance and the accounting 
+mechanisms and at the same time develops an appreciation of 
+state, municipal and federal government structure.   An 
+avenue that could also be explored is the decay of 
+infrastructure at border crossings vital to both economies, 
+with exploration of options for planning and implementing 
+border infrastructure to serve the needs of both countries. 
+ 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ConGen Toronto 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: ELEO 
+NOMINEE-ID: 518 
+PERSON-ID: 400 
+BIRTH-CNTRY-ID: CA 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: EN 
+E-I-TYPE-ID: E 
+NOM-POST-ID: 6540 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 45.1201 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+START BIO: 
+PREFIX: Ms. 
+F-NAME: Isabelle 
+M-NAME: Brigitte 
+L-NAME: Hudon 
+SUFFIX: 
+POSITION-CODE: 319 
+PRINCIPAL?: Yes 
+M-ADDR1: 380 Saint-Antoine Street West 
+M-ADDR2: 
+M-ADDR3: 
+M-CITY: Montreal 
+M-STATE: Quebec 
+M-CNTRY: Canada 
+M-ZONE: H2Y 3X7 
+M-ZIP: 
+M-PHONE: (514) 871-4000 
+M-FAX: (514) 871-1255 
+M-EMAIL: ihudon@ccmm.qc.ca 
+M-CNTRY-ID: CA 
+M-ADDRTYPE: B 
+GENDER: F 
+DOB: 02/18/1967 
+MAR-STAT: U 
+BIRTH-CITY: Ormstown 
+BIRTH-CNTRY: Canada 
+CITIZ-CNTRY: Canada 
+RES-CNTRY: Canada 
+START MEMO POSITION: 
+President and CEO - Board of Trade of Metropolitan Montreal 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Director of Communications and Public Relations, BCE Media - 
+Communications and Public Relations Advisor, Bombardier - 
+Director of Public Relations and Media Relations, Candian 
+Space Agency - Director of Media Relations, Department of 
+Foreign Affair and International Trade 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Vacation travel to places with "sun and sand" in the U.S.; 
+Travel to Florida and Texas when employed at the Canadian 
+Space Agency. No travel to the U.S. in past 5 years. 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Extensive travel to Europe and Africa as well as in the rest 
+of Canada. 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Studied Business Administration at the University of Ottawa 
+and Economics at Universit de 
+Montral 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Sits on several boards: Aroports de Montral, Conseil des 
+relations interculturelles du Qubec, Fondation de la 
+Chambre de commerce du Montral mtropolitain, Fondation de 
+l'Hpital Rivire-des-Prairies, Fonds Ville-Marie and 
+Regroupement pour un Festival de Cinma  Montral 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+None 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+Allergic to garlic 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START MEMO NOM-POST-OBJ: 
+ 
+-POST-OBJ: 
+ 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: PAO Alyson Grunder 
+START MEMO NOMINATING-JUSTIFICATION: 
+Having begun her career as a Regional Coordinator for the 
+federal Progressive Conservatives Party, Isabelle Hudon has 
+risen rapidly through a series of strategic communications 
+and media relations positions, in both the federal 
+government and the private sector.  Her experience at the 
+Canadian Space Agency, Bombardier and BCE Enterprises gave 
+her excellent background and contacts in aerospace and 
+telecommunications, two sectors historically at the 
+forefront of Montreal's economic development. She has also 
+been active in Montreal's civic life, taking leadership 
+roles in the political development of the so-called 
+"megacity," created by the merger of numerous surrounding 
+municipalities and the center city into one entity. 
+Articulate in both French and English and a confidante of 
+many in Quebec's overlapping business and political world, 
+Hudon was recently promoted to President and CEO of the 
+Montreal Board of Trade, the city's leading private economic 
+development organization. The almost 200-year old Board of 
+Trade (Chambre de commerce du Montral mtropolitain is its 
+French title), at 7,000 members currently, has been an 
+important force in nearly every major development of the 
+city's growth, from the construction of Montreal's port 
+facilities to the restructuring of municipal government. 
+Both provincial political parties, the Parti Qubcois and 
+the Parti liberal du Qubec, are considering the use of 
+public-private partnerships - a strategy long in use in the 
+U.S. but quite new in Quebec - to accomplish certain large 
+infrastructure projects and for some public service 
+delivery.  Hudon wants to position the Board to play a 
+leading role in developing a Quebec model for so-called 
+lled 
+PPPs, and in promoting various pilot projects, including 
+infrastructure related to cross-border and international 
+trade facilitation.  Hudon would like to explore the 
+burgeoning partnerships between American businesses and all 
+levels of government that are helping to prepare U.S. cities 
+for the globalization era, and resulting in urban 
+infrastructure and transportation projects, environmental 
+clean-ups, education and training improvements and enhanced 
+community participation. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ConGen Montreal 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: ELEO 
+NOMINEE-ID: 533 
+PERSON-ID: 412 
+BIRTH-CNTRY-ID: CA 
+CITIZ-CNTRY-ID: CA 
+RES-CNTRY-ID: CA 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: E 
+NOM-POST-ID: 96589 
+NOM-FUNDING-CNTRY-ID: 322158 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 45.1201 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+DICKSON, CHARGE
