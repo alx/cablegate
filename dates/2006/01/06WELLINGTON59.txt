@@ -1,0 +1,249 @@
+06WELLINGTON59
+Bio Data for 2006 International Visitor Haydon
+Tue Jan 24 00:00:00 +0100 2006
+UNCLASSIFIED
+Embassy Wellington
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+241847Z Jan 06UNCLAS SECTION 01 OF 03 WELLINGTON 000059 
+ 
+SIPDIS 
+ 
+STATE FOR ECA/PE/VRF-HSZPAKOWSKI, JHATHAWAY 
+INFO ECA/PE/V/C/N; EAP/PD-AGRIMES;EAP/ANP-TRAMSAY 
+ 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL KPAO NZ
+SUBJECT: Bio Data for 2006 International Visitor Haydon 
+Dewes, Political Reporter 
+ 
+ 
+¶1. Post nominates Haydon Dewes for RP Edward R. Murrow 
+Program for Journalists, April 3-21, 2006. 
+ 
+¶2. Haydon Dewes has Full Country Team Approval. 
+ 
+¶3. START FIXED-FORMAT TEXT: 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: benger@state.gov 
+TRANSMITTING-POST: PAS Wellington 
+TRANSMITTING-POST-ID: 4005 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VRF 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 128 
+ECA-PROJ-NO: 
+PROJ-NAME: Haydon Dewes Edward R.Murrow Program for 
+Journalists 
+START MEMO PROJ-DESC: 
+RP: Edward R. Murrow Program for Journalists 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Regional 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 04/01/2006 
+SESSION-DATE: 04/03/2006 
+RETURN-POST: 04/22/2006 
+NO-OF-PART: 1 
+RANK-ORDER: 1 
+START MEMO POST-OBJ: 
+Through this nomination Post recognizes the need for strong 
+relationships with future leaders in the New Zealand media 
+and recommends Mr. Haydon Dewes as having all the attributes 
+and qualifications for this program. 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+Through this nomination Post recognises the need for strong 
+relationships with future leaders in the New Zealand media 
+and recommends Mr. Haydon Dewes as having all the attributes 
+and qualifications for this program. 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1041 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: RP 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 4005 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Print Journalism 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Haydon 
+M-NAME: Anthony 
+L-NAME: Dewes 
+SUFFIX: 
+POSITION-CODE: 622 
+PRINCIPAL?: Yes 
+M-ADDR1: c/- The Dominion Post 
+M-ADDR2: PO Box 3740 
+M-ADDR3: 
+M-CITY: Wellington 
+M-STATE: 
+M-CNTRY: 
+M-ZONE: 
+M-ZIP: 
+M-PHONE: 64 4 471 9241 
+M-FAX: 
+M-EMAIL: haydon.dewes@dompost.co.nz 
+M-CNTRY-ID: 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 10/27/1975 
+MAR-STAT: U 
+BIRTH-CITY: Opotiki 
+BIRTH-CNTRY: New Zealand 
+CITIZ-CNTRY: New Zealand 
+RES-CNTRY: New Zealand 
+START MEMO POSITION: 
+Political reporter The Dominion Post Newspaper 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+2002 - 2003 Phnom Pehn Post, Phnom Penh, Cambodia. English 
+Language Newspaper reporter. 
+ 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+1999 - personal travel 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+1999 Canada England Scotland Wales Ireland 
+2000 Denmark Sweden, Spain, Turkey, France, Italy, Slovenia, 
+Croatia, Austria, Germany. 
+2001 Kenya, Tanzania, Malawi, Zimbabwe, Zambia, Botswana, 
+South Africa, Australia 
+2002 Thailand, Cambodia, Australia 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Bachelor of Arts ( English Literature major) First Class 
+honors, Victoria University. Graduated 2001, 
+Diploma in Journalism, Massey University. Graduated 2002. 
+ 
+ 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: English 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START MEMO NOM-POST-OBJ: 
+Haydon Dewes is a future leader in New Zealand Journalism, 
+and Post wishes for him to have U.S. experience. He is the 
+Parliamentary Political reporter covering the bilateral 
+relationship in reference to parliament and government. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Participation in the Edward R. Murrow Program for 
+Journalists would come at the right time for Haydon Dewes, 
+who is an exceptional young journalist expected to rise to 
+senior levels in the New Zealand media and have a positive 
+effect on the standard and quality of reporting, including 
+the bilateral relationship and Asia Pacific security issues. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+Wishes to boost skills as a journalist. 
+Would like an overview of the United States government's 
+relationships with its own journalists. 
+An insight into how the U.S. government sets out to 
+disseminate its policies and win over the public and the 
+world. 
+Interested in U.S. policy regarding the Asia-Pacific region 
+and defense issues in this region in particular. 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+Wishes to boost skills as a journalist. 
+Would like an overview of the United States government's 
+relationships with its own journalists. 
+An insight into how the U.S. government sets out to 
+disseminate its policies and win over the public and the 
+world. 
+Interested in U.S. policy regarding the Asia-Pacific region 
+and defense issues in this region in particular. 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Roy Glover, PAO Wellington 
+START MEMO NOMINATING-JUSTIFICATION: 
+Last year, Haydon was named New Zealand's Best Overall 
+Junior Reporter; in recent months he has declined three job 
+offers from his newspaper's competitors. Haydon Dewes works 
+for the country's second-largest daily newspaper. He is 
+based in New Zealand's Parliamentary Press Gallery, where he 
+works with three senior political correspondents and reaches 
+a large audience covering the breaking  political news of 
+the day. 
+Haydon is responsible for the Dominion Post's coverage of 
+immigration issues and Maori affairs, both roles that bring 
+him into regular contact with New Zealand's ethnic, migrant, 
+and refugee communities (including those from Iraq and 
+Afghanistan). 
+Haydon is an influential member of the Maori community (New 
+Zealand indigenous people) and is regularly recognized at 
+Maori meetings. 
+He provides analysis and writes commentary and feature 
+articles, including pieces on foreign policy. He has a 
+strong interest in US policy. 
+The Embassy and Haydon's peers and employers all consider 
+him a likely future leader in NZ journalism. It was a rare 
+move for the major daily to employ Haydon so soon out of 
+journalism school, and he was quickly promoted to his 
+current role in the Parliamentary Press Gallery. (Such 
+placements are typically reserved for senior reporters with 
+greater experience.) Haydon has also been a guest lecturer 
+at a New Zealand journalism school. His nomination for this 
+program enjoys the Charg's enthusiastic support. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: Freedom of the Press 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: 
+NOMINEE-ID: 186 
+PERSON-ID: 173 
+BIRTH-CNTRY-ID: NZ 
+CITIZ-CNTRY-ID: NZ 
+RES-CNTRY-ID: NZ 
+FIRST-LANG-ID: EN 
+E-I-TYPE-ID: 
+NOM-POST-ID: 4005 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 09.0401 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: DOS 
+US-AGENCY-AMT1: 8500 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+¶5. Post appreciates consideration of this nominee. Thanks 
+and regards, Burnett

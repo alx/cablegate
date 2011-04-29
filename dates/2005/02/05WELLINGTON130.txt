@@ -1,0 +1,107 @@
+05WELLINGTON130
+NEW ZEALAND UPDATE ON E-PASSPORT AND VWP QUESTIONS
+Tue Feb 15 00:00:00 +0100 2005
+UNCLASSIFIED
+Embassy Wellington
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS WELLINGTON 000130 
+ 
+SIPDIS 
+ 
+DEPT FOR EAP/ANP, CA 
+ 
+E.O. 12958: N/A 
+TAGS: CMGT PREL NZ
+SUBJECT: NEW ZEALAND UPDATE ON E-PASSPORT AND VWP QUESTIONS 
+ 
+REF: STATE 23029 
+ 
+¶1. (U) Post passed information contained reftel to David 
+Philp, Manager, Passports, New Zealand Department of Internal 
+Affairs (DIA.) Philp reported that while he is the Project 
+Sponsor, the e-Passport Project Manager is Brian Greenough, 
+DIA.  He added that the project steering committee is in 
+place, but the time line is still being negotiated with the 
+U.S. Department of Homeland Security (DHS.)  He noted that 
+the GoNZ is provisionally considering a live trial at LAX 
+using Air Crew in June 2005. 
+ 
+¶2. (U) Philp provided the following detailed answers to 
+reftel questions: 
+ 
+Begin text. 
+ 
+¶1. "The process for awarding contracts and dates certain to 
+produce ICAO compliant passports as well as date for full 
+production"; 
+ 
+DIA Response:  New Zealand has completed all contract 
+negotiations and has entered into supply contracts for the 
+enhancement to existing passport issuance systems to 
+incorporate functions required to support e-Passport 
+personalisation.  Hewlett-Packard have been selected as the 
+lead contractor of a consortium including Entrust (PKI) and 
+Iris Malaysia (RF Readers/chip encoding) to carry out this 
+work. Canadian Bank Note has been awarded the contract for 
+the supply of the e-Passport book. 
+ 
+New Zealand will begin a phased roll-out of the e-Passport 
+from early in the 3rd quarter of 2005 calendar year subject 
+to US Department of Homeland Security acceptance and 
+certification of the NZ e-Passport, and a suitable point of 
+entry trial with the NZ e-Passport at a US border.  Full 
+production will be achieved prior to October 2005 however the 
+exact date will be determined by the level of application 
+demand coupled with our desire the minimise wastage of 
+existing passport book stock. 
+ 
+¶2. "any possible legal obstacles to manufacturing ICAO 
+compliant passports"; 
+ 
+DIA Response: We are not aware of any legal issues specific 
+to New Zealand constraining the New Zealand implementation of 
+an ICAO compliant e-Passport  e-Passports will be issued to 
+all applicants regardless of age.  We currently have 
+legislation before Parliament that reduces the maximum 
+validity of a passport from ten to five years and removes the 
+provision to allow name endorsements in passports.  (Note: 
+Legal name changes would now require a new passport.)  This 
+is expected to come into force prior to the first issuance of 
+e-Passports however it would have little material impact if 
+it did not. 
+ 
+¶3. "any technical obstacles to manufacturing ICAO  compliant 
+passports"; 
+ 
+DIA Response: NZ has undergone a lengthy e-Passport 
+development process. Although technical issues have arisen, 
+these have been resolved and we are not aware of any further 
+issues constraining the New Zealand implementation of an ICAO 
+compliant e-Passport 
+ 
+¶4. "a description of how the proposed passport process meets 
+the security standards recommended by ICAO"; 
+ 
+DIA Response: The New Zealand e-Passport will meet the 
+mandatory security requirements for Passive Authentication 
+required by ICAO as detailed in the PKI Technical Report. 
+This is in order to: 
+ 
+-- Facilitate passenger processing by providing for a closed 
+book read approach with minimum chip processing time, 
+-- Ensure interoperability with other nations wishing to read 
+the NZ e-Passport, 
+-- Minimise the complexity of the technology used to issue an 
+e-Passport. 
+ 
+The New Zealand e-Passport PKI deployment will utilise 
+SHA-256 hashing algorithm and a 2048kb signing key size. 
+ 
+¶5. "a certification that the chips meet the ISO 14443 
+communications standard for interoperability"; 
+ 
+DIA Response:  The New Zealand e-Passport will contain a 72kb 
+Philips SmartMX Type A chip. The chip is manufactured to the 
+ISO 14443-A standard, which was defined by Philips. 
+ 
+End text. 
+Swindells
