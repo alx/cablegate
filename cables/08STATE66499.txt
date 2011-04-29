@@ -1,0 +1,126 @@
+08STATE66499
+BLUE LANTERN POST-SHIPMENT END USE CHECK ON
+Fri Jun 20 00:00:00 +0200 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0020
+RR RUEHWEB
+
+DE RUEHC #6499 1721436
+ZNR UUUUU ZZH
+R 201435Z JUN 08
+FM SECSTATE WASHDC
+TO RUEHWL/AMEMBASSY WELLINGTON 0000
+INFO RUEHBY/AMEMBASSY CANBERRA 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 066499 
+ 
+SIPDIS 
+FOR ECON THOMAS J. WALSH 
+ 
+E.O. 12958: N/A 
+TAGS: AS ETTC KOMC NZ
+SUBJECT: BLUE LANTERN POST-SHIPMENT END USE CHECK ON 
+LICENSE 05-050101902 
+ 
+¶1.  This is an action message.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post assistance in conducting a 
+post-shipment check for the export of GloTape (infrared 
+reflective material) to New Zealand via Australia.  Post is 
+requested to complete this Blue Lantern check within 45 days. 
+ Lack of response to a Blue Lantern check will affect pending 
+and future licenses involving parties to this license. 
+ 
+¶3.  Reason for request: Sensitive commodity with potential 
+for diversion.  This is a check on the intermediary parties 
+involved in the transaction. 
+ 
+¶4.  ACTION: Please contact the Foreign End User, New Zealand 
+Defense Force, and confirm its receipt of the exact quantity 
+and specific type of commodity listed below.  END ACTION. 
+ 
+¶5.  License Information: 
+ 
+DDTC Case Number 05-050101902 
+ 
+QUANTITY/COMMODITY: 
+ 
+30       GloTape, CIDV-21, NSN 9390-01-521-3576, Inverted V 
+Combat ID Vehicle Marker (21 inch x 3 inch) 
+ 
+Note: DHS shipment data indicates that all 30 units were 
+exported on 05/24/2008. 
+ 
+LICENSE VALUE: USD 7,085.00 
+ 
+APPLICANT: 
+ 
+DRS Technologies Inc. 
+5 Sylvan Way 
+Parsippany, New Jersey 08054 USA 
+ 
+SOURCE: 
+ 
+Night Vision Systems LLC 
+2751 Mendecino Drive 
+Prescott Valley, Arizona 86314 USA 
+ 
+FOREIGN INTERMEDIATE CONSIGNEES: 
+ 
+DHL Global Forwarding 
+21-29 Translink Drive 
+Keilor Park, Victoria 3042 
+AUSTRALIA 
+ 
+NIOA Trading Company 
+128 Buchanan Road 
+Banyo, Queensland 4014 
+AUSTRALIA 
+ 
+Aero and Military Products Pty Ltd. 
+Unit 1, 35-41 Westpool Drive 
+Hallam, Victoria 3803 
+AUSTRALIA 
+ 
+DHL Global Forwarding Ltd. 
+CNR Stewart Duff and Freight Drives 
+Wellington Airport 
+NEW ZEALAND 
+ 
+FOREIGN CONSIGNEE: 
+ 
+NIOA Trading 
+128 Buchanan Road 
+Banyo, Queensland 4014 
+AUSTRALIA 
+ 
+FOREIGN END USER: 
+ 
+New Zealand Defense Force 
+Trentham Military Camp 
+Camp Road 
+Upper Hutt 6430 
+NEW ZEALAND 
+ 
+STATEMENT OF PURPOSE: 
+ 
+For use by the New Zealand Defense Force. 
+ 
+¶6.  Additional documentation submitted in support of license 
+application: NIOA Trading Purchase Order Number 241, dated 19 
+Dec 2007. 
+ 
+¶7.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the DDTC Case Number 
+in the subject line.  POC on this case is Peter Sabatini, 
+PM/DTCC, phone: 202-663-2819; ClassNet email: 
+sabtinipj@state.sgov.gov; OpenNet email: 
+sabatinipj@state.gov.  The 2006 Blue Lantern Guide Book is 
+available on OpenNet at 
+http://fsi.state.gov/fsi/spas/default.asp?ID= 1588 
+Department thanks Post for its assistance in this matter. 
+RICE

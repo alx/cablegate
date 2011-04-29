@@ -1,0 +1,155 @@
+08STATE93505
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Tue Sep 02 00:00:00 +0200 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0009
+RR RUEHWEB
+
+DE RUEHC #3505 2461209
+ZNR UUUUU ZZH
+R 021206Z SEP 08
+FM SECSTATE WASHDC
+TO RUEHWL/AMEMBASSY WELLINGTON 0000
+INFO RUEAIIA/CIA WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 093505 
+ 
+SIPDIS 
+WELLINGTON FOR THOMAS J. WALSH 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC NZ
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON APPLICATION 050119469 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post's assistance in conducting 
+a pre-license check on application 050119469 for the export 
+of an inertial measurement unit to New Zealand.  Post is 
+requested to complete this Blue Lantern check within 30 days. 
+ Lack of response to a Blue Lantern check will affect pending 
+and future licenses involving parties to this license. 
+ 
+¶3. Reason for request:  Unfamiliar foreign consignee and 
+end-user Geospatial Research Centre Limited.  The company has 
+not appeared on any previous license applications, nor have 
+the bona fides of the company been verified by a Blue Lantern 
+check. 
+ 
+¶4. ACTION:  Department requests that Embassy make appropriate 
+inquiries to verify the bona fides of foreign consignee and 
+end-user Geospatial Research Centre Limited, and to confirm 
+the legitimacy of this proposed transaction.  PM/DTCC also 
+requests that post conducts a site visit to the company in 
+order to provide Department with an assessment of its 
+business operations and on-site security.  Finally, post is 
+asked to assess whether the company appears to be a reliable 
+recipient of USML items.  If a site visit is not possible, 
+please inform the PM/DTCC officer. 
+ 
+The following questions are provided as suggested guidance: 
+ 
+--Does the company have supporting documentation for this 
+proposed transaction? 
+ 
+--Does the company have secure facilities and proper 
+accounting and security procedures for handling sensitive 
+USML items? 
+ 
+--What is the exact end-use for this USML item?  Will 
+Geospatial Research Centre Limited retain positive control 
+over the inertial measurement unit at all times or will your 
+company lease the system to your customers?  Who exactly are 
+these customers and where are they located?  Are they all 
+located in New Zealand?  Will the inertial measurement unit 
+be taken outside of New Zealand?  If so, where? 
+ 
+--When was the company established and who are its 
+principals? 
+ 
+--What is the nature of its business -- what type of items 
+does it handle, does it serve as a broker? 
+ 
+--What type of organizations are among its typical customers 
+and where are the customers located? 
+ 
+--Does the company understand the restrictions on United 
+States Munitions List (USML) items, especially the 
+prohibition against unauthorized re-transfers and re-exports? 
+ 
+END ACTION 
+ 
+¶5. Details of license application: 
+ 
+DTC Case: 050119469 
+ 
+QUANTITY/COMMODITY: 
+ 
+1  HG1700AG (Series) Inertial Measurement Unit 
+License Value: USD 9,000.00 
+ 
+SELLER: 
+ 
+Honeywell International, Inc. 
+2600 Ridgway Parkway 
+Minneapolis, MN 55413 
+POC is Jerry C. Dant, Tel. 612-951-6382 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Geospatial Research Centre Limited 
+20 Kirkwood Avenue 
+Christchurch 8140 
+New Zealand 
+POC is Dr. Chris Hide, Tel. 64 (0) 364 3830 
+ 
+FOREIGN END-USER: 
+ 
+Geospatial Research Centre Limited 
+20 Kirkwood Avenue 
+Christchurch 8140 
+New Zealand 
+POC is Dr. Chris Hide, Tel. 64 (0) 364 3830 
+ 
+PURPOSE: 
+ 
+The inertial measurement unit will be integrated with a 
+commercial off-the-shelf GPS receiver to form an integrated 
+GPS/INS navigation sensor for use in research and commercial 
+activities such as: positioning, surveying and geodesy. 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC can fax documentation to post 
+upon request): 
+ 
+--Purchase Order No. 00000019 submitted by Geospatial 
+Research Centre Limited on 21 May 2008, unsigned. 
+ 
+--DSP-83 submitted by Geospatial Research Centre Limited on 
+19 May 2008, signed by CEO David Park. 
+ 
+--Nontransfer and Use Certificate (Form DSP-83) submitted by 
+Geospatial Research Centre Limited on 13 June 2008, signed by 
+Senior Research Scientist Dr. Chris Hide. 
+ 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Tim Mazzarelli, Phone: 
+202-663-3867; Email: MazzarelliTP@state.gov; SIPRNET: 
+MazzarelliTP@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file in the Bunche Library's 
+E-Book Collection on the DOS Intranet: 
+http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶8. Department is grateful for post's assistance in this 
+matter. 
+RICE

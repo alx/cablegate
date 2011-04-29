@@ -1,0 +1,200 @@
+08STATE76746
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Thu Jul 17 00:00:00 +0200 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0017
+RR RUEHWEB
+
+DE RUEHC #6746 1991254
+ZNR UUUUU ZZH
+R 171250Z JUL 08
+FM SECSTATE WASHDC
+TO RUEHWL/AMEMBASSY WELLINGTON 0000
+RUEHIN/AIT TAIPEI 0000
+INFO RHMCSUU/FBI WASHINGTON DC 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 076746 
+ 
+SIPDIS 
+WELLINGTON FOR THOMAS WALSH 
+ECON 
+AIT TAIPEI FOR O'CONNOR MATTHEW ECON 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC NZ TW
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 05-050095335  AND 05-050097129 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Embassy Wellington and AIT 
+Taipei's assistance in conducting a post-shipment check on 
+license 05-050095335 for the export of 16L401-21; SHIM to 
+Taiwan and on license 05-050097129 for the export of spare 
+parts for multiple aircraft platforms to Taiwan.  Embassy 
+Wellington and AIT Taipei are requested to complete this Blue 
+Lantern check within 45 days.  Lack of response to a Blue 
+Lantern check will affect pending and future licenses 
+involving parties to these licenses. 
+ 
+¶3. Reason for request:  Questionable routing to Taiwan via 
+New Zealand and unfamiliar foreign intermediate consignee, 
+Custom Aeronautical Solutions (CAS). 
+ 
+¶4. ACTION AIT Taipei: Department requests that AIT contact 
+the Taiwan MOD and verify its order for the items listed on 
+both license applications and provide information of its 
+relationship with the New Zealand company CAS. 
+ 
+END ACTION AIT Taipei. 
+ 
+ACTION Wellington: Department requests that Embassy conduct a 
+site visit to Custom Aeronautical Solutions (POC: Emma Niu, 
+Sales Manager, Tel #:  64 3 355 2223, Email: 
+emma@customaero.co.nz) in order to assess its business 
+operations, on-site security, and general reliability as a 
+recipient of United States Munitions List (USML) items.  The 
+following questions are offered as suggested guidance with 
+CAS: 
+ 
+- Can the company provide documentation from the Taiwan Air 
+Force, the Taiwan Naval Logistics Command, and the Taiwan 
+Army Logistics Command (e.g. purchase order, contract, or 
+letter of intent) establishing them as the final end users of 
+these items? 
+ 
+- What is the company's exact role in these transactions? 
+ 
+- Who are the company's main clients? 
+ 
+- Does the company keep proper, detailed records of its sales 
+and customers? 
+ 
+- Does the company understand the restrictions on United 
+States Munitions List (USML) articles, particularly regarding 
+re-export and retransfer? 
+ 
+If a site visit is not possible, please inform PM/DTCC case 
+officer.   End Action Wellington. 
+ 
+¶5. Details of license applications: 
+ 
+¶A. DTC Case: 05-050095335 
+ 
+QUANTITY/COMMODITY: 
+ 
+13 16L401-21; SHIM 
+ 
+License Value: USD $234.00 
+ 
+SELLER: 
+ 
+MAC Aerospace Corporation 
+14558 Lee Road 
+Chantilly, VA 20151 
+703-885-8096 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Custom Aerospace Corporation 
+46 Maunsell Street 
+Woolston, Christchurch 
+NZ 
+ 
+FOREIGN END-USER: 
+ 
+Taiwan Air Force 
+NO.55, SEC.3, Ten-Ai Roadda-An District 
+Taipei City 106 
+TW 
+ 
+PURPOSE: 
+ 
+Minor part and component to be used on the Indigenous Defense 
+Fighter (IDF) aircraft operated by the Taiwan Air Force. 
+ 
+¶B. DTC Case: 05-050097129 
+ 
+QUANTITY/COMMODITY: 
+ 
+1 SPARE PARTS FOR AT-3 AIRCRAFT, T-34 AIRCRAFT, S-70C 
+AIRCRAFT, F-CK1 (IDF) AIRCRAFT, F-5 AIRCRAFT, F-16 AIRCRAFT, 
+E-2T AIRCRAFT, B-1900 AIRCRAFT, C-130 HERCULES, FOKKER-50, 
+UH-1H, OH-58D, AH-1W, CH-47, S-2T, AND 500 MD 
+ 
+License Value: USD $ 4,000,000.00 
+ 
+SELLER: 
+ 
+S.O.I. Aviation 
+23965 Ventura Blvd. 
+Calabasas, CA 91302 
+818-591-3166 ext. 218 
+ 
+FOREIGN CONSIGNEE: 
+ 
+AIDC/Aerospace Industrial Development Corporation/Ministry of 
+Economic Affairs 
+111-17 Lane 68 Fu-Hsing N. Road 
+Taichung 407 
+TW 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Custom Aeronautical Solutions 
+46/3 Maunsell Street Woolston 8014 
+Christchurch 
+NZ 
+ 
+FOREIGN END-USER: 
+ 
+Taiwan Naval Logistics Command 
+20 Je-So Road Tsoying 
+Kaohsuing 
+TW 
+ 
+Taiwan Air Force 
+NO 55 Sec 3, Ren-Ai Road Da-An District 
+Taipei City 
+TW 
+ 
+Army Logistics Command 
+100 Section San-Lin Chung Cheng Road Lung-Tan Village 
+Taotyan 
+TW 
+ 
+PURPOSE: 
+ 
+Spare parts for the repair and maintenance of AT-3, T-34, 
+S-70C, F-CK1 (IDF), F-5, F-16, E-2T, B-1900, C-130, 
+FOKKER-50, UH-1H, OH-58D, AH-1W, CH-47, S-2T, 500MD aircraft 
+and helicopters including ground support equipment. 
+ 
+¶6. Submitted in support of the license application 
+05-050095335 was the following document (PM/DTCC will fax 
+documentation upon request): 
+ 
+-- Purchase Order prepared by Custom Aeronautical Solutions 
+No: 00005241, dated 18 March 2008 
+-- End User Statement prepared by Custom Aeronautical 
+Solutions, dated 22 March 2008 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Tim Watkins, Phone: 202-663-2814; 
+Email: WatkinsTR@state.gov; SIPRNET: 
+WatkinsTR@state.sgov.gov.  The Blue Lantern Guidebook (ref) 
+is available as a PDF file in the Bunche Library's E-Book 
+Collection on the DOS Intranet: 
+http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶8. Department is grateful for Embassy Wellington and AIT 
+Taipei's assistance in this matter. 
+RICE

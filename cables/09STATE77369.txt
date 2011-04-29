@@ -1,0 +1,238 @@
+09STATE77369
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Fri Jul 24 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHC #7369 2051259
+ZNR UUUUU ZZH
+R 241240Z JUL 09
+FM SECSTATE WASHDC
+TO RUEHWL/AMEMBASSY WELLINGTON 0000
+INFO RHMCSUU/FBI WASHINGTON DC 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 077369 
+ 
+SIPDIS 
+WELLINGTON FOR THOMAS J. WALSH 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC NZ
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 050087303 AND 050107693 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post's assistance in 
+conducting a post-shipment check on licenses 050087303 and 
+050107693 for the export of night vision devices (NVDs) to 
+New Zealand.  Post is requested to complete this Blue Lantern 
+check within 45 days.  Lack of response to a Blue Lantern 
+check will affect pending and future licenses involving 
+parties to this license. 
+ 
+¶3. Reason for request:  Unfamiliar foreign consignee and 
+end-user, Garden City Helicopters. 
+The company has appeared on previous licenses but the 
+company's bona fides have not been 
+verified by a Blue Lantern check.  Moreover, due to the 
+sensitivity of the 
+equipment and the potential for their diversion or misuse, 
+the Department of State and the Department of Defense have 
+policies of carefully scrutinizing NVD export licenses and 
+taking steps to ensure proper end-use.  Provisos attached 
+to these licenses obligate the end-user to secure the NVDs 
+from loss, theft, or unauthorized access, and to perform 
+routine inventory checks by serial number.  These records 
+are to be made available for review upon US Government 
+request. 
+ 
+¶4. Action Request:  Post is requested to make appropriate 
+inquiries 
+to confirm continued possession by Garden City Helicopters of 
+ 
+the NVDs, to determine the serial numbers of the NVDs, and 
+to verify that all NVDs are secure and being used only for 
+the purpose stated on the license.  Department requests 
+that post conduct a site visit, if possible, in order to 
+gather and verify this information and establish the bona 
+fides of 
+unfamiliar foreign end-user, Garden City Helicopters.  If a 
+site visit is 
+not possible, please obtain official written confirmation 
+of receipt and possession and inform PM/DTCC case officer. 
+ 
+The following questions are provided as suggested guidance: 
+ 
+--Does the company have secure facilities and proper 
+accounting and security procedures for handling sensitive 
+USML items? 
+ 
+--What is the exact end-use for this USML item? 
+ 
+--When was the company established and who are its 
+principals? 
+ 
+--What is the nature of its business -- what type of items 
+does it handle? 
+ 
+--What type of organizations are among its typical customers 
+and where are the customers located? 
+ 
+--Does the company understand the restrictions on United 
+States Munitions List (USML) items, especially the 
+prohibition against unauthorized re-transfer and re-export? 
+END ACTION 
+ 
+¶5. For background, the following details of the license in 
+question are provided: 
+ 
+DTC Case: 050107693 
+ 
+QUANTITY/COMMODITY: 
+ 
+2  ITT Model F4949F, Gen III ANVIS 9 Aviator NVG with FOM of 
+1600 including accessories 
+2  Quick disconnect mounting screw sets 
+2  Case Assembly shipping and storage (P/N 268787-1) 
+2  LPBP counterweight assy, (P/N 268465-CW) 
+2  Helmet mount assy, SPH-4AF (P/N 265897-1) 
+2  Clip on power source (P/N A3260911) 
+ 
+License Value: USD 22,992.00 
+ 
+COMMENT: According to U.S. Customs data, 2 NVDs and related 
+component parts were 
+exported to New Zealand on 7 September 2008 
+END COMMENT 
+ 
+SELLER: 
+ 
+Aviation Specialties Unlimited, Inc. 
+4632 W. Aeronca St. 
+Boise, ID 83705 
+POC is Chris Atwood, Tel. 208-287-5389 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Garden City Helicopters 
+515 Memorial Avenue P.O. Box 14147 
+Christchurch 
+New Zealand 
+POC is General Manager, Simon Duncan, Tel. 03-547-4360 
+ 
+FOREIGN END-USER: 
+ 
+Garden City Helicopters 
+515 Memorial Avenue P.O. Box 14147 
+Christchurch 
+New Zealand 
+POC is General Manager, Simon Duncan, Tel. 03-547-4360 
+ 
+PURPOSE: 
+ 
+Night vision spare parts and accessories to be used to 
+maintain critical component parts of NVGs currently in use 
+and previously approved by USDOS under export license 1002922. 
+ 
+¶6. Submitted in support of the license application were 
+the following documents (PM/DTCC can fax documentation to 
+post upon request): 
+ 
+--Nontransfer and Use Certificate (Form DSP-83), submitted by 
+Garden City Helicopters, signed by General Manager, Simon 
+Duncan on 12 November 2007, and by SGT Peter Summerfield of 
+the New Zealand Police (Tel. 0064 4 474 9499) on 12 November 
+¶2007. 
+ 
+--Purchase Order No. 408224 submitted by Garden City 
+Helicopters, signed by General Manager, Simon Duncan on 8 
+December 2007. 
+ 
+¶7. For background, the following details of the license in 
+question are provided: 
+ 
+DTC Case: 050087303 
+ 
+QUANTITY/COMMODITY: 
+ 
+2  ITT Model F4949F, Gen III ANVIS 9 Aviator NVG with FOM of 
+1600 including accessories 
+2  Quick disconnect mounting screw sets 
+2  Case Assembly shipping and storage (P/N 268787-1) 
+2  LPBP counterweight assy, (P/N 268465-CW) 
+2  Helmet mount assy, SPH-4AF (P/N 265897-1) 
+ 
+License Value: USD 22,947.00 
+ 
+COMMENT: According to U.S. Customs data, 2 NVDs and related 
+component parts were 
+exported to New Zealand on 7 September 2008 
+END COMMENT 
+ 
+SELLER: 
+ 
+Aviation Specialties Unlimited, Inc. 
+4632 W. Aeronca St. 
+Boise, ID 83705 
+POC is Chris Atwood, Tel. 208-287-5389 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Garden City Helicopters 
+515 Memorial Avenue P.O. Box 14147 
+Christchurch 
+New Zealand 
+POC is General Manager, Simon Duncan, Tel. 03-547-4360 
+ 
+FOREIGN END-USER: 
+ 
+Garden City Helicopters 
+515 Memorial Avenue P.O. Box 14147 
+Christchurch 
+New Zealand 
+POC is General Manager, Simon Duncan, Tel. 03-547-4360 
+ 
+PURPOSE: 
+ 
+Night vision goggles to be used for observers and additional 
+flight crew while conducting night missions for emergency 
+medical, search and rescue, and law enforcement services. 
+Night vision goggle spare parts to be used to maintain 
+systems currently in use and previously approved by USDOS and 
+the systems in this export license request. 
+ 
+¶8. Submitted in support of the license application were 
+the following documents (PM/DTCC can fax documentation to 
+post upon request): 
+ 
+--Nontransfer and Use Certificate (Form DSP-83), submitted by 
+Garden City Helicopters, signed by General Manager, Simon 
+Duncan on 15 May 2008, and by Inspector (foreign government 
+certification), Hugh R. Flower on 15 May 2008. 
+ 
+--Purchase Order No. AA696156 submitted by Garden City 
+Helicopters, signed by General Manager, Simon Duncan on 23 
+April 2008. 
+ 
+¶9.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Tim Mazzarelli, Phone: 
+202-663-3867; Email: MazzarelliTP@state.gov; SIPRNET: 
+MazzarelliTP@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file in the Bunche Library's 
+E-Book Collection on the DOS Intranet: 
+http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+ 
+¶10. Department is grateful for post's assistance in this 
+matter. 
+CLINTON
