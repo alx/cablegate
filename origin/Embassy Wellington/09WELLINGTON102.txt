@@ -1,0 +1,245 @@
+09WELLINGTON102
+NEW ZEALAND'S $1.5NZ BILLION BROADBAND DEPLOYMENT
+Wed Apr 22 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Wellington
+VZCZCXRO5667
+RR RUEHAG RUEHCHI RUEHDF RUEHFK RUEHHM RUEHIK RUEHKSO RUEHLZ RUEHNAG
+RUEHPB RUEHRN RUEHROV RUEHSR
+DE RUEHWL #0102/01 1120303
+ZNR UUUUU ZZH
+R 220303Z APR 09
+FM AMEMBASSY WELLINGTON
+TO RUEHC/SECSTATE WASHDC 5840
+INFO RUEHNZ/AMCONSUL AUCKLAND 1953
+RUEHBY/AMEMBASSY CANBERRA 5497
+RUEHDN/AMCONSUL SYDNEY 0832
+RHHMUNA/CDR USPACOM HONOLULU HI
+RUCPDOC/USDOC WASHDC 0297
+RUEAFCC/FCC WASHINGTON DC
+RUCNMEM/EU MEMBER STATES COLLECTIVE
+RUEHZU/ASIAN PACIFIC ECONOMIC COOPERATION
+RUEHSS/OECD POSTS COLLECTIVEUNCLAS SECTION 01 OF 03 WELLINGTON 000102 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EAP/ANP, EEB/CIP/BA FOR TIM FINTON, AND DOC/ITA/OTEC FOR 
+ANDREW BENNETT 
+STATE PASS TO FCC ROBERT TANNER 
+STATE PASS TO NTIA 
+STATE PASS TO PACOM FOR J01E/J2/J233/J5/SJFHQ 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON NZ
+SUBJECT: NEW ZEALAND'S $1.5NZ BILLION BROADBAND DEPLOYMENT 
+INITIATIVE 
+ 
+Ref: State 27310 
+ 
+WELLINGTON 00000102  001.2 OF 003 
+ 
+ 
+¶1. (SBU)  Summary.  In March, Communications and Information 
+Technology Minister Steven Joyce unveiled plans for GNZ to offer up 
+to NZ$1.5 billion for building high-speed broadband infrastructure 
+to cover seventy-five percent of New Zealand.  A Crown-owned 
+investment company is expected, along with private sector partners, 
+to invest a total of NZ$3 billion into "regional fiber companies" 
+which will install fiber-optic networks throughout New Zealand's top 
+25 most densely populated cities and towns.  The effort is part of 
+the government's attempt to marry an overall fiscal stimulus package 
+with investment in new technology to produce long-range economic and 
+commercial benefits.  The GNZ admits that there are challenges for 
+the success of the initiative and the Labour opposition has already 
+slammed the plan as a waste of tax payer money.  End Summary. 
+ 
+GNZ to Invest NZ$1.5 Billion in Broadband 
+----------------------------------------- 
+ 
+¶2. (U)  At the end of March, Communications and Information 
+Technology Minister Steven Joyce unveiled plans to create a 
+Crown-owned investment company known as the "Crown Fibre Investment 
+Co" (CFIC) with a mandate to invest up to NZ$1.5 billion of 
+government funds for building high-speed broadband infrastructure 
+throughout New Zealand.  CFIC will, alongside private sector 
+investors, put money into "regional fiber companies" that will 
+install fiber-optic networks in 25 New Zealand towns and cities. 
+ 
+¶3. (U)  The effort comes as part of the government's attempt to 
+marry an overall fiscal stimulus package with investment in new 
+technology which it hopes will generate long-range economic and 
+commercial benefits.  The new company's goal is to boost broadband 
+speeds to 100 megabits per second - more than 50 times faster than 
+speeds currently available - by connecting fiber-optic cables to 
+homes and businesses.  The money will be dispersed via private 
+companies on a regional basis in a series of "Public-Private 
+Partnerships."  A feasibility study commissioned by the NZ Treasury 
+and conducted by Milner Consulting Ltd. projects that total fixed 
+investment (infrastructure costs) required to connect seventy-five 
+percent of urban New Zealand is expected to range between NZ$2.6 and 
+NZ$3.3 billion. 
+ 
+Seventy-five Percent of New Zealand to be Connected 
+--------------------------------------------- ------ 
+ 
+¶4. (U)  The 25 (initial) centers identified are based on population 
+and range from Auckland, with 1.2 million people, to Oamaru, with 
+population of 12,681.  Once finished, the GNZ hopes this investment 
+model "will deliver on the government's commitment of ultra fast 
+broadband to 75 percent of New Zealanders where they live, work and 
+study over the next ten years," said Joyce.  Those towns or rural 
+areas outside this initial group would eventually get "improved" 
+internet services but that would occur in the second phase of the 
+initiative.  The more remote regions could expect eventual upgrades 
+to broadband but they would not have the fiber enabling the 
+ultra-fast broadband, said Joyce. 
+ 
+Commerce Commission Report on Current NZ Broadband 
+--------------------------------------------- ----- 
+ 
+¶5. (U)  Apart from the CFIC initiative, the New Zealand Commerce 
+Commission's latest report claims that the quality of current 
+broadband services improved greatly by end of 2008.  The Commerce 
+Commission released its report just days after the government 
+announced the CFIC initiative.  The report, drafted by IDC 
+Consultants and Epitiro (consulting firms contracted by Commerce 
+Commission), claims that Telecom, TelstraClear DSL, Vodafone, Orcon 
+and Slingshot (firms with the largest share of the current NZ 
+internet market) have boosted their broadband scores by between 99 
+percent and 166 percent over the course of 2008.  Most of this was 
+due to investment in their current networks and additional 
+improvements stemmed from the inclusion of ADSL2+ technology 
+(Asymmetric Digital Subscriber Line - a data communications 
+technology that enables faster data transmission over copper 
+telephone lines). 
+ 
+ 
+WELLINGTON 00000102  002.2 OF 003 
+ 
+ 
+¶6. (U)  As of June 2008, New Zealand ranked 19 out of 30 OECD 
+countries in terms of numbers of broadband connections, with about 
+20 broadband subscribers per 100 of population.  Total broadband 
+connections, including fixed and wireless connections, had reached 
+915,000 by December 31, 2008.  The overall quality of broadband 
+services has also improved, with major internet service providers 
+investing in extra network capacity.  Nearly 60 per cent of digital 
+subscriber line (DSL) connections had now been upgraded to the newer 
+and faster ADSL2+. 
+ 
+Likely Investors Reviewing GNZ Proposal 
+--------------------------------------- 
+ 
+¶7. (U)  An internal report (Castalia consultants) commissioned by 
+the three largest telecommunications firms in NZ - Telecom, Vodafone 
+and TelstraClear - said their own investment plans would deliver 
+broadband speeds adequate for the needs of everyday internet users 
+without the need for a boost from the Government.  Castalia 
+challenged the belief that high broadband speeds for households - up 
+to 50 times faster than what is presently available - would deliver 
+significant economic benefits. 
+ 
+¶8. (U)  Telecom (largest NZ telecommunication firm) has set up an 
+internal "think tank" to formulate its response to the Government's 
+NZ$1.5 billion plan.  Sources suggest there is still internal debate 
+within Telecom about the implications of the government plan. 
+"Telecom will be reviewing the opportunities the initiative presents 
+to work with the proposed CFIC to extend the reach of Telecom's own 
+ultra-fast broadband network, and to utilize the fiber networks 
+others may build," said chief executive Paul Reynolds.  Reynolds 
+further opined that Telecom "looked forward to working with 
+government funding to complement the government's plans to take fast 
+broadband even further, including to those areas that currently are 
+not commercially viable."  Telecom's current share of the retail 
+broadband market has slipped to 57 percent, down from 61 per cent in 
+¶2007. 
+ 
+¶9. (U)  In addition to the traditional telecommunication firms 
+considering the CFIC's offer, Auckland-based Vector Energy is also 
+likely to be a prime candidate to join up with the new investment 
+company CFIC in rolling out fiber optic cables to homes and 
+businesses.  Vector currently has 500km of fiber optic network laid 
+in Auckland's business districts and is expanding that network by an 
+extra 300km as part of an agreement with Vodafone. 
+ 
+Endorsements 
+------------ 
+ 
+¶10. (U)  Much of the GNZ's current CFIC plan was based on a March 
+2008 study by the Auckland-based New Zealand Institute entitled, 
+"Assessing New Zealand's Current Broadband Path: The Need for 
+Change."  The NZ Institute concluded that the current state of NZ 
+broadband was insufficient.  The NZ Institute maintained that the 
+announced investment by the major telecoms would not take NZ far 
+enough fast enough.  Despite the dominant investor (Telecom) making 
+significant investments in fiber-optic, it had insufficient 
+commercial incentive to roll it out rapidly.  Finally, the longer NZ 
+took to roll out its fiber-optic upgrade, the more costly it would 
+become thus shutting out all but the major urban centers. 
+ 
+¶11. (U)  CFIC's plans have been favorably welcomed by the 
+Telecommunications Users Association, TUANZ.  "The Minister's paper 
+is at the top end of our expectations," said TUANZ's chief executive 
+Ernie Newman.  "It sets out a clear structure for the proposed 
+partnerships, and will give potential partners in the private sector 
+all the information they need to come up with regionally-based 
+proposals."  Newman said the plan appeared to be "sector-neutral" - 
+meaning it opened the way for a wide range of potential co-investors 
+including telecommunications companies, power line companies, or 
+regional groupings.  This was important, said Newman, as a greater 
+diversity of investors were "showing their hands and broadening the 
+range of innovative, cost-effective solutions." 
+ 
+Criticism of the Plan 
+--------------------- 
+ 
+ 
+WELLINGTON 00000102  003.2 OF 003 
+ 
+ 
+¶12. (U)  Labour Party's Finance spokesman David Cunliffe accused the 
+Government of "performing a NZ$1.5 billion back flip."  He said the 
+scheme largely mirrored the approach of Labour's NZ$325 million 
+Broadband Investment Fund (BIF), which the Government scrapped, but 
+was more wasteful of taxpayers' dollars.  Minister Joyce responded, 
+saying the Government's plan differed from Labour's in three key 
+respects: its sheer size, the Government's investment in fiber 
+providers instead of handing out subsidies, and its focus on fiber 
+to the home, rather than a mix of other technologies such as 
+wireless and/or satellite broadband. 
+ 
+¶13. (U)  The Government conceded that there was a risk that private 
+investors might not come forward with their share of the NZ$3 
+billion, that this might not be enough to provide the desired 
+network coverage, and that local fiber companies might fail.  Laws 
+might be changed to make it easier for contractors to string cables 
+on power and telephone poles, and to lay fiber in "micro-trenches" 
+cut in roads.  Tim Davin, policy manager at the Institute for 
+Professional Engineers, said 25,000 kilometers of cabling would be 
+needed.  New Zealand did not have enough trained engineers to build 
+the network, but some could be brought in from overseas, he said. 
+ 
+Comment 
+------- 
+ 
+¶14. (SBU)  Despite the contested nature of the high-speed broadband 
+debate, most seem to agree that the best way forward for NZ is 
+through the Government's proposed collaborative approach.  There are 
+a number of technical issues yet to be worked through and engaging 
+with the country's major telecoms will help the GNZ to form a 
+clearer roadmap towards developing an effective plan for the 
+proposed NZ$1.5 billion in spending.  The GNZ's commitment to invest 
+in New Zealand's broadband infrastructure clearly demonstrates the 
+importance the National-led government attaches to state-of-the art 
+information and communication technologies (ICT) as an enabler of 
+business and a driver of international competitiveness.  To date, 
+too much of the broadband debate in NZ has focused on the "last 
+mile" of infrastructure and centered on broadband access alone. 
+Faster broadband will eventually encourage developments in areas 
+such as eHealth (real time remote healthcare monitoring and 
+diagnosis) and education through improved research and 
+communications technologies and enhanced distance learning - all of 
+which were National Party campaign promises.  End Comment. 
+ 
+KEEGAN

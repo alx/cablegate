@@ -1,0 +1,71 @@
+06WELLINGTON538
+WELLINGTON EQUIPMENT REQUEST FOLLOW-UP
+Wed Jul 12 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Wellington
+VZCZCXYZ0020
+PP RUEHWEB
+
+DE RUEHWL #0538 1930402
+ZNR UUUUU ZZH
+P 120402Z JUL 06
+FM AMEMBASSY WELLINGTON
+TO RUEHC/SECSTATE WASHDC PRIORITY 3024
+INFO RUEHBY/AMEMBASSY CANBERRA PRIORITY 4478
+RUEHBK/AMEMBASSY BANGKOK PRIORITY 1492UNCLAS WELLINGTON 000538 
+ 
+SIPDIS 
+ 
+SENSITIVE SIPDIS 
+ 
+DEPT FOR DS/FSE/FSB, DS/STO/OSB, DS/IP/EAP, CANBERRA FOR ESO AND 
+BANGKOK FOR ESC 
+ 
+E.O. 12958: N/A 
+TAGS: ASEC ABLD NZ
+SUBJECT: WELLINGTON EQUIPMENT REQUEST FOLLOW-UP 
+ 
+REF: A.) WELLINGTON 282 
+     B.) WELLINGTON 283 
+     C.) WELLINGTON 323 
+ 
+¶1. (SBU) Since March 2006, a number of replacement and new equipment 
+items have been ordered by RSO Wellington 
+for projects at post.  The replacement equipment (two 24-zone AES 
+monitors) was requested both through the OTIS system and by email. 
+The new equipment items were requested in Ref. A, B, C, and through 
+the OTIS system as well as by email.  To date, none of this 
+equipment has arrived at post. 
+ 
+¶2. (SBU) RSO Wellington's impression of the OTIS ordering system is 
+that the system does not work.  Although we have received a 
+confirmation of the order each time we have ordered this way, the 
+material never appears and there has been no follow-up to tell Post 
+about equipment shortages in the pipeline, contractual difficulties, 
+etc.  We wonder if other posts are experiencing similar difficulties 
+with OTIS. 
+ 
+¶3. (SBU) We've had better feedback rates on our cable requests, but 
+similar problems with delivery of items. We were informed that the 
+CCTV contract was changing and that the equipment we ordered was 
+going to be replaced with other equipment.  However, three months 
+after sending in the original ESSR, no equipment for the CCTV 
+installations has yet arrived.  A similar time frame has lapsed 
+since the Aiphone video intercoms were ordered. 
+ 
+¶4. (SBU) As a follow-up, please provide the following security 
+equipment to Wellington as soon as possible: 
+ 
+1 MY-2CD intercom mast stat, for the MSG booth ICM 267 
+2 MK-DGV surface mount sing gang vid door stat ICM 275 
+2 MK-DVC vandal resistant mounting box         ICM 276 
+2 500 feet rolls of 2-conductor non-polarized 
+ 
+parallel-conduct suitable for Intercom install WIR 150 
+1 PS 18E Aiphone power supply 110/220 VAC      ICM 241 
+2 AES 24-zone alarm monitors, rack mount       ALM 102 
+2 Panasonic Dual Mode PTZ cameras       TVC 515 
+2 Mounting bases, CCTV, ceiling pole    TVB 528 
+2 Rolls, coax cab, RG-59U, solid core, 500'    WIR 114 
+ 
+¶5. (U) RSO Wellington appreciates the support.

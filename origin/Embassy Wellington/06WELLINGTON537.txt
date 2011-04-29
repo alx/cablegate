@@ -1,0 +1,75 @@
+06WELLINGTON537
+WELLINGTON STOCK REQUEST
+Wed Jul 12 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Wellington
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHWL #0537 1930348
+ZNR UUUUU ZZH
+R 120348Z JUL 06
+FM AMEMBASSY WELLINGTON
+TO RUEHC/SECSTATE WASHDC 3023
+INFO RUEHBY/AMEMBASSY CANBERRA 4477
+RUEHBK/AMEMBASSY BANGKOK 1491UNCLAS WELLINGTON 000537 
+ 
+SIPDIS 
+ 
+SENSITIVE SIPDIS 
+ 
+DEPT FOR DS/FSE/FSB, DS/STO/OSB, DS/IP/EAP, CANBERRA FOR ESO AND 
+BANGKOK FOR ESC 
+ 
+E.O. 12958: N/A 
+ 
+ 
+TAGS: ASEC ABLD NZ
+SUBJECT: WELLINGTON STOCK REQUEST 
+ 
+ 
+¶1. (SBU) Wellington has received support visits from three TSS teams 
+and has had two recent visits from ESO Canberra.  While all of these 
+teams came to post well equipped, each installation team has needed 
+a few items which have come from our existing stock.  This cable 
+requests a re-supply of those items and spare parts to support 
+newly-installed hardware. 
+ 
+¶2. (SBU) The following material from the DS catalog is needed: 
+ 
+Quantity    Item                    Stock Number 
+ 
+2 Splices, Butt, Red, 100      SUP 850 0000 
+1 Splices, Butt, Blue, 100      SUP 851 0000 
+1 Splices, Butt, Yellow, 100     SUP 852 0000 
+1 Safety Glasses        HNT 198 0000 
+2 Spade lugs, T&B, Red      SUP 870 0000 
+2 Spade lugs, T&B, Blue      SUP 871 0000 
+10 Term block, double row,        SUP 102 0000 
+2 Dynalock, sing maglock w/sen     LOK 167 0000 
+24 LED bulbs for AES door switches   SUP 435 0000 
+1 Folding change key set, Lockmast  KEY 455 9999 
+4 Von Duprin roller strike, 9/16"   LOK 008 0000 
+1 Von Duprin potted EL-33 breaker   LOK 020 0000 
+2 Von Duprin EL-33 solenoid         LOK 021 0000 
+2 S&G #1 Strike flush inswing       LOK 400 0000 
+2 S&G #2 Strike surface outswing LOK 401 0000 
+2 S&G #3 Strike surface inswing  LOK 402 0000 
+2 S&G #12 Strike double door  LOK 404 0000 
+2 Unican, 900 series w/ key override LOK 069 9999 
+1 Thermal Printer paper rolls  PRT 150 0000 
+2 Cable ties, 7.4 inch white nylon 100 SUP 150 0000 
+2 Cable ties, 8 1/8 inch black nylon 50SUP 151 0000 
+2 Cable ties, 14.5 inch black nylon 100SUP 152 0000 
+2 Cable tie points, adhesive, 1 inch 100SUP 158 0000 
+2 Dust Mask, paper, disposable,      5 NT 417 0000 
+1 ITI Advent 2 line alpha/num pad    ALM 527 9999 
+25 Coaxial Connector, BNC crimp-on    SUP 182 0000 
+4 Battery for Advent Alarm           BAT 125 0000 
+4 Drill bit, masonry, 1/4" X 6"  DRB 313 0000 
+1 Plastic anchor kit, 3/4" w/bit 100 HRW 150 0000 
+2 Nylon marking pen, blk   SUP 154 0000 
+2 Nylon marking pen, red   SUP 153 0000 
+2 Limit Switch, Delta, Sentrol  VAS 413 0000 
+ 
+¶3. (U) RSO appreciates the support.

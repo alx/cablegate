@@ -1,0 +1,101 @@
+08WELLINGTON325
+BLUE LANTERN PRE-LICENSE END-USE CHECK ON APPLICATION
+Fri Oct 03 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Wellington
+VZCZCXRO7556
+RR RUEHNZ
+DE RUEHWL #0325 2770309
+ZNR UUUUU ZZH
+R 030309Z OCT 08
+FM AMEMBASSY WELLINGTON
+TO RUEHC/SECSTATE WASHDC 5458
+INFO RUEHNZ/AMCONSUL AUCKLAND 1751
+RUEHBY/AMEMBASSY CANBERRA 5272
+RUEHDN/AMCONSUL SYDNEY 0727
+RUCPDOC/USDOC WASHDC 0250
+RUEKJCS/SECDEF WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC
+RHMFIUU/HQ BICE INTEL WASHINGTON DC
+RUEAIIA/CIA WASHINGTON DCUNCLAS WELLINGTON 000325 
+ 
+BLUE LANTERN 
+SIPDIS 
+ 
+EAP/ANP, PM/DTTC - BLUE LANTERN COORDINATOR TIM MAZZARELLI 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC NZ
+SUBJECT: BLUE LANTERN PRE-LICENSE END-USE CHECK ON APPLICATION 
+050119469 
+ 
+REF: STATE 93505 
+ 
+¶1. (U) In response to reftel, Econoff conducted a phone interview 
+with Dr. David Park who is the CEO of Geospatial Research Centre 
+(GRS).  The Embassy's RSO local investigator also conducted an 
+on-site visit and met with Dr. Park.  Our site visit confirmed that 
+GRC's offices are located at 20 Kirkwood Ave, Christchurch which is 
+an office complex physically located close to the University of 
+Canterbury's campus which is the organization with whom GRC 
+contracts to perform research.  GRC's CEO Park indicated that 
+company had not yet received the equipment from Honeywell but 
+expected the (Blue Lantern) review/interview to be part of required 
+clearance before shipment of equipment is authorized. 
+ 
+¶2. (U) Response to reftel questions are as follows: 
+ 
+--GRC has completed all documentation requested by both Honeywell 
+and U.S. State Department as provided to the company to date. 
+ 
+--The United States Military Listed (USML) item, i.e. the Honeywell 
+Inertial Measurement Unit (HG1700AG) would be secured at GRC 
+premises in Christchurch, New Zealand in restricted access room, 
+secure cabinet at GRS complex.  Only members of the GRC team and 
+those authorized by GRC CEO would be allowed to remove the USML item 
+from GRC offices. 
+ 
+--The Inertial Measurement Unit (IMU) will be integrated with a GPS 
+receiver to form an integrated GPS/INS navigation sensor.  The IMU 
+will be used to conduct business in the areas of positioning, 
+surveying and geodesy.  The IMU will be used for civilian 
+applications only. 
+ 
+--GRC will retain positive control over the inertial measurement 
+unit at all times.  GRC will NOT be leasing the system to any 
+external parties. 
+ 
+--The Inertial Measurement Unit will NOT be taken outside of New 
+Zealand. 
+ 
+--GRC was incorporated under the New Zealand Companies Act 1993 on 
+12 October 2006 (NZ Company Number 1873804). GRC has four 
+shareholders: 
+ University of Canterbury (NZ) 
+ University of Nottingham (UK) 
+ Canterbury Development Corporation (NZ) 
+ Dr David Park CEO GRC (NZ) 
+ 
+--The Geospatial Research Centre (GRC) is a New Zealand based, 
+University owned, company providing research and consultancy 
+services in the fields of geo-referenced sensors and data 
+integration (with particular expertise in positioning and 
+orientation, image analysis, data visualization and electronics). 
+GRC does NOT serve as a broker 
+ 
+--GRC has secured contract work from a range of companies and 
+government organizations in the US, UK and New Zealand including: 
+Google (US), Defense Technology Agency (NZ), Rakon (NZ), Trimble 
+(NZ), Sonardyne (UK). 
+ 
+--The company understands the restrictions on USML items, especially 
+the prohibition against unauthorized re-transfers and re-exports. 
+GRC and its staff understand the restrictions on USML items and have 
+NO intention of re-transferring or re-exporting the item. 
+ 
+¶3. (U) Please let Embassy know if there is any additional 
+information which may be helpful in satisfying this Blue Lantern 
+request.  Embassy POC is Tom Walsh and can be reached by phone at 
+(64)(4) 462-6182 or email at walshtj@state.gov. 
+ 
+KEEGAN
