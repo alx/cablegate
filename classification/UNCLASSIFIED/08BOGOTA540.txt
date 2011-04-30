@@ -1,0 +1,310 @@
+08BOGOTA540
+COLOMBIA'S TRANSPORT INFRASTRUCTURE: IS IT UP TO
+Tue Feb 12 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Bogota
+VZCZCXYZ0007
+RR RUEHWEB
+
+DE RUEHBO #0540/01 0431513
+ZNR UUUUU ZZH
+R 121513Z FEB 08 ZDK
+FM AMEMBASSY BOGOTA
+TO RUEHC/SECSTATE WASHDC 1291
+INFO RUEHCV/AMEMBASSY CARACAS 9947
+RUEHPE/AMEMBASSY LIMA 5901
+RUEHZP/AMEMBASSY PANAMA 1226
+RUEHQT/AMEMBASSY QUITO 6549id: 141031
+date: 2/12/2008 15:13
+refid: 08BOGOTA540
+origin: Embassy Bogota
+classification: UNCLASSIFIED
+destination: 07BOGOTA7265
+header:
+VZCZCXYZ0007
+RR RUEHWEB
+
+DE RUEHBO #0540/01 0431513
+ZNR UUUUU ZZH
+R 121513Z FEB 08 ZDK
+FM AMEMBASSY BOGOTA
+TO RUEHC/SECSTATE WASHDC 1291
+INFO RUEHCV/AMEMBASSY CARACAS 9947
+RUEHPE/AMEMBASSY LIMA 5901
+RUEHZP/AMEMBASSY PANAMA 1226
+RUEHQT/AMEMBASSY QUITO 6549
+
+
+----------------- header ends ----------------
+
+UNCLAS BOGOTA 000540 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ELTN EAIR EWWT ETRD ECON CO
+SUBJECT: COLOMBIA'S TRANSPORT INFRASTRUCTURE: IS IT UP TO 
+THE GLOBALIZATION TASK? 
+ 
+REF: A. (A) 07 BOGOTA 7265 
+ 
+     ¶B. (B) 07 BOGOTA 8592 
+ 
+ 
+¶1.  (U)  SUMMARY:  Colombia's demography and topography make 
+transportation infrastructure development particularly 
+challenging.  Security problems and constitutional earmarks 
+for social services and local governments hobbled public 
+investment in transportation in the 1990s.  Today the GOC is 
+embarking upon construction of an integrated national 
+transportation network combining public and private 
+investment.  GOC plans include over USD 6.5 billion in road 
+projects, a rail system between Bogota and the Atlantic 
+coast, and USD 1 billion for improvements to Colombia's 
+ports.  Colombia's ability to pull off a dramatic improvement 
+in its infrastructure -- widely regarded as the Achilles' 
+heel in the trade sector -- will be a key factor in deciding 
+whether Colombia will prosper or falter in the global 
+marketplace.  END SUMMARY 
+ 
+Landlocked... 
+------------- 
+ 
+¶2.  (SBU)  Transportation expert Ignacio de Guzman describes 
+the country as "effectively landlocked," despite being the 
+only South American country with Pacific and Atlantic ports. 
+Guzman notes that one-half of the country's population and 
+production comes from a tenth of Colombian territory -- the 
+"productive triangle" comprised of high Andean peaks and 
+tropical valleys bordered by Bogota, Cali and Medellin. 
+Guzman cited a recent World Bank study that found exporting 
+goods from Colombia was slower and more costly than from 
+anywhere else in the region (except Venezuela).  Mauricio 
+Cardenas, head of the economic think-tank Fedesarrollo and a 
+former Minister of Economic Development and of Transportation 
+(MinTrans), called Colombia's roads an economic bottleneck. 
+Cardenas said Colombia needs a national road system to 
+successfully take advantage of globalization, including 
+implementation of the U.S.-Colombia Trade Promotion Agreement 
+(CTPA). 
+ 
+And Constitutionally Blocked 
+---------------------------- 
+ 
+¶3.  (SBU)  GOC spending on roads remained low during the 
+1990s.  Cardenas said the 1991 Constitution undercut 
+long-term transportation development by mandating that high 
+percentages of federal government revenues be delivered to 
+local departments for health and education, instead of 
+transportation.  Regardless, security issues made it near 
+impossible to build and protect critical infrastructure in 
+many rural areas that are key conduits to ports and major 
+cities.  Ana Maria Pinto, Director of Transportation 
+Infrastructure for the National Planning Department (DNP), 
+said that between 1995 and 2002 public investment in 
+transportation remained flat.  As security started improving 
+in 2002, road travel increased by 10-20 percent per year, and 
+GOC investment in transportation was forced to catch up. 
+Pinto added that even stepped-up investment favored local 
+road projects -- accounting for some 75 percent of the GOC's 
+transportation investment between 2002-2006 -- and 
+contributing little to an integrated national transport 
+system. 
+ 
+In Hock... 
+---------- 
+ 
+¶4.  (SBU)  Private investment in roads had a rocky start in 
+the early 1990s.  Juan Martin Caicedo, head of the Colombian 
+Infrastructure Association, described the private concessions 
+of the 1990s as failures.  He noted that concessionaires 
+built only about 2,000 miles of roads, usually of low quality 
+and with high tolls.  Caicedo said the GOC was essentially 
+"in hock" to investors who used security issues to leverage a 
+guaranteed income for their projects from the GOC.  In the 
+late 1990s private transportation investment began slowly 
+rising and projects improved due to a stronger investment 
+environment, the GOC's increased experience in concessions, 
+and improved regulations. 
+ 
+But Now Ready to Rock 
+--------------------- 
+ 
+¶5.  (SBU)  Pinto said with increased emphasis on economic 
+development in President Uribe's second term, GOC agencies 
+coalesced around the idea of improving Colombia's transport 
+system.  She noted that GOC efforts to improve transportation 
+logistics already contributed to the World Bank identifying 
+it as the region's top economic reformer in 2007 (ref A). 
+ 
+The GOC's National Development Plan (NDP) projects an 
+investment of USD 11.5 billion through 2010, including over 
+USD 1 billion for road maintenance, to develop an integrated 
+transport system (with another USD 15 billion through 2019). 
+Pinto said USD 5.1 billion of the USD 11.5 billion investment 
+will come from private sector concessions.  She and Caicedo 
+agreed Colombia has a "window of opportunity" to develop 
+strong concession projects now because increasing domestic 
+and international trade will increase demand for better 
+transportation, and economic and security improvements allow 
+the GOC to negotiate far more favorable deals than in the 
+past. 
+ 
+"Grand Corridors": Roads and Rolling Stocks 
+------------------------------------------- 
+ 
+¶6.  (SBU)  The NDP makes roads, especially "Grand Corridors" 
+between Bogota and Atlantic and Pacific ports, the top 
+priority.  For example, Pinto said the World Bank, DNP and 
+the MinTrans are collaborating on the "Ruta del Sol," a USD 
+2.5 billion, 580-mile concession four-lane highway linking 
+Bogota to the Atlantic coast, to be bid out in 2008 with a 
+construction period of 5-8 years.  The World Bank hopes the 
+project will serve as a "best practices" model for other 
+concessions, sorely needed in a country known for 
+inefficient, and oft corrupt, concession practices (as 
+illustrated by the recent cancellation of the USD 270 million 
+bid on the "La Linea" tunnel project).  Construction has 
+started on a USD 1.5 billion (two-thirds private investment) 
+highway to double road capacity between Bogota and the 
+Pacific port of Buenaventura.  Buenaventura handles 40 
+percent of Colombia's non-coal foreign trade, but Pinto said 
+the road to Bogota suffers from landslides, flooding, and 
+frequent traffic jams of 6-12 hours.  Other concession road 
+projects include: 
+ 
+-- the "Golfo de Uraba" project, a USD 625 million, 270 mile 
+long road between Medellin and the Pacific coast port 
+   town of Turbo offering the potential for a new export 
+route for Colombia's second city; 
+-- the "Ruta de la Montana" project, a USD 610 million, 265 
+mile long road connecting Medellin with Manizales and 
+   Puerto Olaya; and 
+-- the "Arterias del Llano" project, a 630 mile long road 
+linking Villavicencio with Arauca, Puerto Gaitan, and San 
+   Jose de Guaviare. 
+ 
+¶7.  (SBU)  Colombia is not a country of trains.  Guzman said 
+high construction costs, up to twice that in the U.S. due to 
+mountainous terrain and tropical conditions, slowed the 
+historic growth of railroads.  In the second half of the 19th 
+century, the boom era for railways in the rest of the world, 
+Colombia laid down little more than 10 miles of tracks  per 
+year.  Between 1900 and 1930 rail construction picked up 
+slightly, mainly under the impetus of increased coffee 
+exports.  But in the 193s the GOC shifted its transportation 
+priorities from rail to road.  Still, privately run freight 
+trains have played a significant role in moving coal from 
+mines in Colombia's interior to the Atlantic coast for 
+export.  The most significant GOC rail project is the 
+"Magdalena Medio" rail system which parallels the Magdalena 
+river between Bogota and the Pacific coast.  Approximately 
+USD 225 million will be invested in private concessions for 
+new construction (in part to build new tracks parallel to 
+those used exclusively by coal companies) and rehabilitation 
+over 3-5 years. 
+ 
+"Points of Access": Airports and Docks 
+-------------------------------------- 
+ 
+¶8.  (SBU)  Domestic and international air passengers 
+increased between 2003-2007 by 5 percent and 15 percent per 
+year respectively.  One quarter of all international visitors 
+came from the U.S., and a new aviation agreement should 
+increase flights between the two countries by at least 50 
+percent (ref B).  Janeth Benitez, spokesperson for Colombia's 
+flag airline Avianca, said her company plans to invest over 
+USD 4 billion in expanding its fleet over the next two years 
+with the expectation that Bogota's El Dorado airport will 
+become a regional hub for Latin America.  The GOC has, or is 
+in the process of, privatizing all of Colombia's major 
+airports.  Concessionaires are spending hundreds of millions 
+of dollars on airport improvements.  Bogota's El Dorado 
+international airport began a USD 650 million upgrade under a 
+new concessionaire in September 2007, and private investors 
+plan to spend USD 135 million to upgrade Medellin's 
+international and domestic airports (together with four other 
+smaller nearby airports), and a yet-to-be determined sum to 
+expand and improve four major airports in Northeast Colombia. 
+ 
+ 
+ 
+¶9.  (SBU)  Colombia's four major ports, Buenaventura, 
+Cartagena, Barranquilla, and Santa Marta, have operated under 
+private 20-year concessions since 1993.  The port of 
+Cartagena, currently in the process of a USD 300 million 
+expansion, owes much of its success to having negotiated an 
+additional 20-year concession in the late 1990s that allowed 
+it to make long-term investments.  Cartagena also hosts 75 
+percent of Colombia's increasingly lucrative cruise business; 
+in 2008 each of the expected 125 ships will generate about 
+USD 200,000 for the economy.  Guzman said the other three 
+ports are getting new 20-year concessions, which has sparked 
+new investments.  Barranquilla plans to spend USD 178 million 
+to improve facilities and dredge its access canal, and Santa 
+Marta will invest USD 125 million to develop as a general 
+container port as it eliminates coal exports in the next two 
+years (coal exports from Santa Marta are expected to move to 
+Barranquilla and to Cienaga to reduce pollution and protect 
+Santa Marta's tourist industry).  Buenaventura has had 
+inefficiencies resulting from multiple companies 
+independently operating different sections of the port. 
+Still, Buenaventura plans to invest USD 450 million plan to 
+improve container handling, strengthen infrastructure, and 
+maximize space usage. 
+ 
+The Magdalena River:  Building Levees and Locks 
+--------------------------------------------- -- 
+ 
+¶10.  (SBU)  The Magdalena river, which runs from the center 
+of the country to Barranquilla, served as the main link to 
+the outside world for most Colombians until the twentieth 
+century.  Although its relative importance has declined, it 
+still moves about two million tons of goods from Northern 
+Colombia to the Atlantic at 70 percent the cost of road 
+transport.  Cormagdalena (a public company charged with 
+development of the river) wants to see the river's 
+navigability increased and extended.  The MinTrans estimates 
+that an investment of USD 1.2 billion in river improvements 
+(dredging, canal construction, sedimentation control, levees, 
+and locks) would cost USD 1.2 billion dollars, but could 
+increase the river's capacity to ten million tons, extend 
+navigability South to the heart of Colombia's productive 
+triangle, and reduce transportation costs almost ten-fold. 
+ 
+¶11.  (SBU)  Still, developing the Magdalena will not be easy. 
+ Pinto said logistic and environmental problems could easily 
+outweigh financial issues.  Pinto thinks the Magdalena can 
+ultimately evolve into a major transport route between Bogota 
+and the Atlantic, but said such a development is at least a 
+decade away.  The USG, through the Army Corps of Engineers, 
+will soon provide Cormagdalena with technical assistance in 
+identifying issues related to development of the Magdalena. 
+Once such issues have been identified, the USG could assist 
+in the design phase of developing the river through 
+environmental studies, construction plans and bid package 
+preparation.  Finally, the USG could provide assistance in 
+the construction phase through OPIC loan guarantees and other 
+financial instruments. 
+ 
+COMMENT:  Key to Success in Globalized Marketplace 
+--------------------------------------------- ----- 
+ 
+¶12. (SBU)  Colombia, blessed with a superb resource base and 
+geographical location, has been historically hampered as a 
+trading nation by an inward-looking business class, leaden 
+bureaucracy and inadequate infrastructure.  Globalization 
+realities have taken care of the first factor, and a series 
+of reforms have set the nation on the path to a greatly 
+improved (though still lacking) business regulatory 
+environment.  The Achilles' heel of infrastructure remains, 
+and the Uribe government is focusing heavily on this weakness 
+for the remaining 2 years of the administration.  This 
+process -- expensive and lengthy -- holds the key to 
+Colombia's ability to emerge as more than another bit player 
+in the global marketplace. 
+Brownfield 
+
+=======================CABLE ENDS============================

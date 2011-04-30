@@ -1,0 +1,151 @@
+09QUITO455
+ECUADORIAN PRESIDENT MAKES ACCUSATIONS ABOUT U.S. TELECOMS
+Mon Jun 15 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Quito
+VZCZCXYZ0017
+RR RUEHWEB
+
+DE RUEHQT #0455 1661856
+ZNR UUUUU ZZH
+R 151856Z JUN 09
+FM AMEMBASSY QUITO
+TO RUEHC/SECSTATE WASHDC 0472
+INFO RUEHBO/AMEMBASSY BOGOTA 8186
+RUEHCV/AMEMBASSY CARACAS 3585
+RUEHLP/AMEMBASSY LA PAZ JUN LIMA 3244
+RUEHGL/AMCONSUL GUAYAQUIL 4376
+RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS QUITO 000455 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EINV EINT ETRD EC
+SUBJECT: ECUADORIAN PRESIDENT MAKES ACCUSATIONS ABOUT U.S. TELECOMS 
+ 
+¶1.  (SBU) Summary: In the May 30 presentation of his weekly radio 
+address, Ecuado...
+
+
+
+
+id: 212217
+date: 6/15/2009 18:56
+refid: 09QUITO455
+origin: Embassy Quito
+classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
+destination: 
+header:
+VZCZCXYZ0017
+RR RUEHWEB
+
+DE RUEHQT #0455 1661856
+ZNR UUUUU ZZH
+R 151856Z JUN 09
+FM AMEMBASSY QUITO
+TO RUEHC/SECSTATE WASHDC 0472
+INFO RUEHBO/AMEMBASSY BOGOTA 8186
+RUEHCV/AMEMBASSY CARACAS 3585
+RUEHLP/AMEMBASSY LA PAZ JUN LIMA 3244
+RUEHGL/AMCONSUL GUAYAQUIL 4376
+RUCPDOC/DEPT OF COMMERCE WASHDC
+
+
+----------------- header ends ----------------
+
+UNCLAS QUITO 000455 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EINV EINT ETRD EC
+SUBJECT: ECUADORIAN PRESIDENT MAKES ACCUSATIONS ABOUT U.S. TELECOMS 
+ 
+¶1.  (SBU) Summary: In the May 30 presentation of his weekly radio 
+address, Ecuadorian President Rafael Correa sharply criticized U.S. 
+telecommunications companies ATT, MCI, and Sprint, accusing them of 
+"swindling" Ecuador out of millions of dollars of long-distance 
+fees.  ATT maintains that the accusation is based upon a misreading 
+of international communications records conducted by a small, 
+auditing company looking for business with Ecuador.  End Summary. 
+ 
+¶2.  (SBU) In 2007, ATT, MCI (now Verizon), and Sprint received 
+letters from Global Audit, a Virginia-based company, which suggested 
+there were discrepancies in the amount of long-distance minutes to 
+Ecuador reported by the FCC and the minutes the companies declared 
+to Ecuador's state-owned telephone companies Andinatel, and 
+Pacifictel. (Note: In September 2008 these two companies merged to 
+form the GOE-owned company Corporacion Nacional de 
+Telecomunicaciones (CNT). End Note.)  ATT informed EmbOffs that 
+company representatives met with a representative from Global Audit 
+and sent a written reply to the query in 2007.  ATT informed Global 
+Audit that its analysis was flawed because it was "comparing apples 
+and oranges."  According to ATT, Global Audit's analysis categorized 
+minutes as originating with ATT that, in fact, should have been put 
+in the "re-file" category.  The "re-file" category consists of 
+third-party calls such as those routed through another country (say, 
+Mexico or Brazil).  In these cases, the re-file carrier settles with 
+the Ecuadorian carrier.  In its letter, ATT asserted that this error 
+explained the supposed discrepancy in the FCC's reported minutes and 
+the minutes reported to Ecuador.  Global Audit sent a short reply to 
+ATT in 2007 saying it would follow up on the matter, but ATT says it 
+never did so. 
+ 
+¶3.  (SBU) The issue did not arise again until President Correa 
+mentioned it in his May 30 radio address.  Correa acknowledged that 
+the GOE had retained Global Audit's services, and the current 
+accusations appear to be identical to the ones from 2007.  Correa 
+said that the total amount now owed was roughly $80 million.  He 
+claimed that ATT underreported 274 million minutes of calls, costing 
+Ecuador $38 million dollars in missed fees; Sprint allegedly 
+underreported 148 million minutes, costing Ecuador $23 million; and 
+MCI allegedly underreported 138 million minutes, costing Ecuador $19 
+million. 
+ 
+¶4.  (SBU) ATT representatives told EmbOffs they believe the current 
+accusations are based on the same flawed analysis they saw in 2007. 
+The company is currently negotiating a renewal of its Ecuadorian 
+Value-Added Service (VAS) license, and does not want Correa's 
+accusations to influence those discussions.  ATT believes the 
+billing issue will be resolved once it is better understood, so it 
+is choosing to keep a low profile in this dispute.  The company said 
+it had not yet received any official communication from the GOE 
+about this matter.  The Embassy has been unsuccessful in getting 
+feedback from Sprint or MCI (Verizon), but we believe their 
+situations are similar to that of ATT. 
+ 
+¶5.  (SBU) An Embassy contact who is knowledgeable about Ecuador's 
+telecom industry told EmbOffs that he believed the charges were 
+politically motivated.  This contact is very familiar with the 
+billing practices of Ecuadorian telephone firms, and he flatly 
+denied that ATT or the other companies had done anything improper. 
+According to this contact, the US and Ecuadorian companies jointly 
+reconcile their statements every month.  He also said that the GOE 
+regulatory agency Supertel monitors monthly telephone traffic and 
+quickly resolves any problems.  This contact said that Supertel has 
+started an audit that will be finished in June, which he is 
+confident will exonerate the US carriers. 
+ 
+¶6.  (SBU) Little is known about the audit company involved in these 
+allegations.  The Embassy telecom source believes that the company 
+saw an opportunity in the perceived discrepancies in the data on the 
+FCC website and offered its services to Andinatel in 2006. 
+Andinatel/Pacifictel eventually signed a one year contract with 
+Global Audit, which resulted in the 2007 letters to the companies. 
+Global Audit's letters from 2007 have a Herndon, Virginia mailing 
+address, but the Associated Press reported it was unable to find any 
+listing for the company.  EconOff was similarly unsuccessful in 
+finding any records of its existence. 
+ 
+¶7.  (SBU) Comment.  Correa's radio address was the first that the 
+Embassy had heard of this issue, which appears to be a 
+misinterpretation generated by a U.S. auditing company looking to 
+sell its services to Ecuadorian phone companies.  It is 
+characteristic of Correa to make a public pronouncement on an issue 
+like this without doing sufficient research. 
+ 
+HODGES 
+
+=======================CABLE ENDS============================
