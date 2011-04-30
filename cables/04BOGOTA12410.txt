@@ -1,0 +1,106 @@
+04BOGOTA12410
+GOC PARDONS 23 FARC GUERRILLAS
+Fri Dec 03 00:00:00 +0100 2004
+CONFIDENTIAL
+Embassy Bogota
+O 032254Z DEC 04
+FM AMEMBASSY BOGOTA
+TO SECSTATE WASHDC IMMEDIATE 9890
+INFO AMEMBASSY BRASILIA 
+AMEMBASSY CARACAS 
+AMEMBASSY LA PAZ 
+AMEMBASSY LIMA 
+AMEMBASSY PANAMA 
+AMEMBASSY QUITO 
+CIA WASHDC
+DEPT OF JUSTICE WASHDC
+DIA WASHDC
+DIRONDCP WASHDC
+NSC WASHDC
+SECDEF WASHDC
+USCINCSO MIAMI FLid: 23605
+date: 12/3/2004 22:54
+refid: 04BOGOTA12410
+origin: Embassy Bogota
+classification: CONFIDENTIAL
+destination: 04BOGOTA11207
+header:
+O 032254Z DEC 04
+FM AMEMBASSY BOGOTA
+TO SECSTATE WASHDC IMMEDIATE 9890
+INFO AMEMBASSY BRASILIA 
+AMEMBASSY CARACAS 
+AMEMBASSY LA PAZ 
+AMEMBASSY LIMA 
+AMEMBASSY PANAMA 
+AMEMBASSY QUITO 
+CIA WASHDC
+DEPT OF JUSTICE WASHDC
+DIA WASHDC
+DIRONDCP WASHDC
+NSC WASHDC
+SECDEF WASHDC
+USCINCSO MIAMI FL
+
+
+----------------- header ends ----------------
+
+C O N F I D E N T I A L BOGOTA 012410 
+ 
+ 
+E.O. 12958: DECL: 12/02/2014 
+TAGS: PTER KJUS PHUM PINR PREL CO
+SUBJECT: GOC PARDONS 23 FARC GUERRILLAS 
+ 
+REF: BOGOTA 11207 
+ 
+Classified By: Ambassador William B. Wood for reasons 
+1.4 (b) and (d) 
+ 
+¶1. (U) On December 2, the GOC pardoned 23 imprisoned members 
+of the Revolutionary Armed Forces of Colombia (FARC).  Those 
+pardoned were guilty only of membership in an illegal armed 
+group; no guerrillas guilty of violent crimes were eligible 
+for pardon.  They will be released from prisons throughout 
+the country on December 3 and have pledged not to return to 
+the armed conflict.  They will be eligible to enter the GOC's 
+reinsertion program for former members of an illegal armed 
+group.  All had light sentences and would have been released 
+in a short period of time even without the pardon. 
+ 
+¶2. (U) The GOC promised the safety of the pardoned guerrillas 
+and their families from FARC or paramilitary reprisals, and 
+said the release was a demonstration of government commitment 
+to secure the release of hostages.  Peace Commissioner Luis 
+Carlos Restrepo said efforts would continue to hold a 
+humanitarian exchange with FARC and President Uribe 
+underscored that the release was not a surrender to FARC 
+demands.  Family members of FARC hostages, including Ingrid 
+Betancourt's mother and the wife of one of the kidnapped 
+Valle Department deputies, praised the GOC's actions. 
+ 
+¶3. (C) Restrepo explained to the Ambassador that the GOC was 
+responding to heavy pressure from family members of FARC 
+hostages to hold a prisoner exchange.  The FARC has rejected 
+all GOC offers, including a recent proposal to swap 15 
+guerrillas followed by a temporary cease-fire and 
+face-to-face meeting in Bogota (reftel).  We understand that 
+another 12 ex-FARC members will be released as soon as the 
+documents are prepared. 
+ 
+¶4. (C) Comment: Although we are dubious that this initiative 
+will prompt any FARC action, it has some interesting aspects: 
+(1) It is very close to the outcome desired for the 
+paramilitary process: release and reinsertion of illegal 
+armed group members after identification, investigation, and 
+verification that they have not committed violent crimes that 
+would demand incarceration; (2) It has received a positive 
+reaction inside and outside Colombia, putting the ball 
+squarely in the FARC's court; and (3) It has reduced pressure 
+for concessions on cases like Simon Trinidad and other high 
+profile FARC members held by the government. 
+ 
+ 
+WOOD 
+
+=======================CABLE ENDS============================
