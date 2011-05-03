@@ -1,0 +1,139 @@
+09STATE868
+BLUE LANTERN CHECK ON LICENSE APPLICATION
+Tue Jan 06 00:00:00 +0100 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHC #0868 0061528
+ZNR UUUUU ZZH
+R 061515Z JAN 09
+FM SECSTATE WASHDC
+TO RUEHQT/AMEMBASSY QUITO 0000
+INFO RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 000868 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: EC ETTC KOMC
+SUBJECT: BLUE LANTERN CHECK ON LICENSE APPLICATION 
+050128842 
+ 
+¶1.  This is an action message.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post assistance in contacting 
+appropriate GOE officials regarding a proposed export of 
+torpedo parts to the Ecuador Navy (DDTC license 050128842). 
+Post is requested to deliver this action message within 14 
+days, or as soon as possible. 
+ 
+¶3.  Reason for request: license application 050128842 was 
+denied on 26 November 2008 because of the Foreign 
+Intermediate Consignee involved in the transaction, Spanish 
+company Commerce International Group Ltd. (CIG Ltd.).  Based 
+upon credible information, the Department concluded that CIG 
+Ltd. is not a reliable recipient of United States Munitions 
+List (USML) items and may not be a party to any defense trade 
+transaction subject to control under the International 
+Traffic in Arms Regulations (ITAR).  It needs to be 
+clarified, however, that the proposed sale of torpedo parts 
+to the Ecuador Navy is not problematic.  Without the 
+involvement of CIG Ltd., the license application would most 
+likely have been approved.  PM/DTCC is therefore requesting 
+post assistance to inform the Ecuador Navy about this 
+clarification.  U.S. applicant Ordnance Technology Service 
+Inc. has already been informed of this matter. 
+ 
+¶4.  ACTION: Please contact the Ecuador Navy, or other 
+appropriate Ecuador military officials, and inform them about 
+the reason why this license application was denied.  Post 
+should advise the Ecuador Navy that an export request for the 
+same commodities would be favorably considered if supported 
+by a direct purchase order with the U.S. applicant of the 
+denied case, or another U.S. supplier.  The use of Foreign 
+Consignees other than CIG Ltd. is also acceptable.  Finally, 
+post may wish to recommend the Ecuador military to exercise 
+caution in any future contact with CIG Ltd., and make clear 
+that any U.S. defense exports to Ecuador involving CIG will 
+likely be denied.  END ACTION. 
+ 
+¶5.  License Information: 
+ 
+DDTC Case Number 050128842 
+ 
+QUANTITY/COMMODITY: 
+ 
+11       Alignment Pin, P/N 2526871 
+ 
+03       Clamp Cable, P/N MS9024-11 
+ 
+06       Sea Water Pump Assembly, NSN 1355-01-042-1056 
+ 
+06       Cylinder Barrel, P/N 1568887 
+ 
+17       Pad Shock, NSN 5310-00-835-1720 
+ 
+06       Retainer Pad, NSN 1355-00-975-0893 
+ 
+LICENSE VALUE: USD 47,618.00 
+ 
+APPLICANT/SOURCE: 
+ 
+Ordnance Technology Service Inc. 
+7895 Unit A Division Drive 
+Mentor, Ohio 44060 USA 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Commerce International Group Ltd. 
+5 Avenida Marques Del Duero s/n 
+Edificio Atlantico 
+E-29670 S.P.de Alcantara 
+PO Box 65 
+29680 Estepona (Malaga) 
+SPAIN 
+ 
+FOREIGN CONSIGNEE/FOREIGN END USER: 
+ 
+Armada del Ecuador 
+Direccion de Abastecimientos de la Armada 
+Direccion General de Material 
+Base Naval Sur, Guayaquil 
+ECUADOR 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spare parts of MK 46 Mod 2 torpedoes. 
+ 
+¶6.  Additional documentation submitted in support of license 
+application: 
+ 
+A)  CIG Ltd. Purchase Order Number 020/2008, dated 04 
+September 2008, signed by Paul R. Cradock, Managing Director. 
+ 
+B)  Armada del Ecuador, Direccion de Mantenimiento y 
+Recuperacion de Unidades Navales, End User Certificate No. 
+004, dated 26 August 2008, signed by Fernando Aguiar 
+Villagomez, Capitan de Navio-EM, Director de Mantenimiento y 
+Recuperacion. 
+ 
+C)  U.S. Department of State DDTC DSP-83 Non-Transfer and Use 
+Certificate, signed by Fernando Aguiar Villagomez (dated 
+08-26-2008), Director Mantenimiento y Recuperacion Unidades 
+Navales. 
+ 
+¶7.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the DDTC Case Number 
+in the subject line.  POC on this case is Peter Sabatini, 
+PM/DTCC, phone: 202-663-2819; ClassNet email: 
+sabtinipj@state.sgov.gov; OpenNet email: 
+sabatinipj@state.gov.  The 2006 Blue Lantern Guide Book is 
+available on OpenNet at 
+http://fsi.state.gov/fsi/spas/default.asp?ID= 1588 
+Department thanks Post for its assistance in this matter. 
+RICE

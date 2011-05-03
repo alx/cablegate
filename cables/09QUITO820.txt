@@ -38,56 +38,6 @@ SUMMARY
  
 ------- 
  
- ...
-
-
-id: 223899
-date: 9/4/2009 21:42
-refid: 09QUITO820
-origin: Embassy Quito
-classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
-destination: 09QUITO351
-header:
-VZCZCXYZ0011
-RR RUEHWEB
-
-DE RUEHQT #0820 2511056
-ZNR UUUUU ZZH
-R 042142Z SEP 09
-FM AMEMBASSY QUITO
-TO RUEHC/SECSTATE WASHDC0000
-INFO RHEBAAA/DEPT OF ENERGY WASHINGTON DC
-RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
-RUEATRS/DEPT OF TREASURY WASHINGTON DC
-RUEHBJ/AMEMBASSY BEIJING
-RUEHBO/AMEMBASSY BOGOTA
-RUEHCV/AMEMBASSY CARACAS
-RUEHGL/AMCONSUL GUAYAQUIL
-RUEHLP/AMEMBASSY LA PAZ
-RUEHPE/AMEMBASSY LIMA
-RUEHQT/AMEMBASSY QUITO
-
-
------------------ header ends ----------------
-
-UNCLAS QUITO 000820 
- 
-SENSITIVE 
-SIPDIS 
- 
-E.O. 12958: N/A 
-TAGS: ECON EPET EINV EFIN ENRG EC
-SUBJECT: ECUADOR SELLS FUTURE OIL PRODUCTION TO PETROCHINA TO 
-STRENGTHEN FISCAL ACCOUNTS 
- 
-REF: 09 QUITO 351 
- 
-------- 
- 
-SUMMARY 
- 
-------- 
- 
  
  
 ¶1. (SBU) The Government of Ecuador (GoE) is increasingly looking to 
@@ -269,6 +219,4 @@ expenditures.  With this deal, the GOE is clearly prioritizing
 today's expenditures at the expense of future fiscal stability, and 
 serious questions remain about how the GoE will meet its financing 
 needs in 2010 and later years. 
-HODGES 
-
-=======================CABLE ENDS============================
+HODGES

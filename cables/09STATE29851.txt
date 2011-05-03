@@ -1,0 +1,122 @@
+09STATE29851
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Fri Mar 27 00:00:00 +0100 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0016
+RR RUEHWEB
+
+DE RUEHC #9851 0861803
+ZNR UUUUU ZZH
+R 271746Z MAR 09
+FM SECSTATE WASHDC
+TO RUEHQT/AMEMBASSY QUITO 0000
+INFO RUEHTV/AMEMBASSY TEL AVIV 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 029851 
+ 
+SIPDIS 
+QUITO FOR JARAHN HILLSMAN 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC EC
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 050118116 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Embassy's assistance in 
+conducting a post-shipment check on license 050118116 for the 
+export of inertial measurement units (IMUs) to Ecuador. 
+Embassy is requested to complete this Blue Lantern check 
+within 45 days.  Lack of response to a Blue Lantern check 
+will affect pending and future licenses involving parties to 
+this license. 
+ 
+¶3. Reason for request: Need to verify Ecuador Ministry of 
+Defense (EMOD) relationship with foreign consignee, Israeli 
+Aerospace Industries (IAI) and need to verify compliance with 
+license provisos. 
+ 
+¶4. ACTION QUITO: Embassy is requested to make inquiries with 
+appropriate host government officials to determine if the 
+EMOD has received the IMUs from IAI and that the articles are 
+being used for the purpose stated on the license. Department 
+also requests that Embassy verify compliance with U.S. 
+Department of Defense provisos stipulating that the IMUs are 
+not approved for use on Category I Unmanned Aerial Vehicles 
+(UAVs).  Export data indicates that items worth $117,050 
+shipped from the United States on October 3, 2008.  Post is 
+requested to exercise its contacts within the Ecuador MOD to 
+verify this order. 
+END ACTION. 
+ 
+¶5. Details of license application: 
+ 
+DTC Case: 050118116 
+ 
+QUANTITY/COMMODITY: 
+ 
+9  H-0184 Inertial Measurement Unit 
+ 
+License Value: USD 117,050.00 
+ 
+SELLER: 
+ 
+Crossbow Technology, Inc. 
+4145 N. First Street 
+San Jose, CA 95134 
+POC is Michael P. Dierks, Tel. 408-965-3300 
+ 
+FOREIGN CONSIGNEE 
+ 
+Israeli Aerospace Industries Malat Division 
+Ben Gurion International Airport 
+LOD, 70100 
+Israel 
+POC is Samuel Almagor, Tel. 972-3-9359335 
+ 
+FOREIGN END-USER 
+ 
+Ecuador Ministry of Defense Navy Command 
+Exposicion and Recoleta Streets 
+Quito 
+Ecuador 
+POC is Jose Mino Alcivar, No Tel. provided 
+ 
+PURPOSE: 
+ 
+For Heron and Searcher 2 UAV for avionics system 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC can fax documentation to post 
+upon request): 
+ 
+--Purchase Order No. U000017245 submitted by Israel Aerospace 
+Industries on July 1, 2008, signed by Esti Atias and Samuel 
+Almagor 
+ 
+--DSP-83 Nontransfer and Use Certificate submitted by Ecuador 
+MoD, signed by Capitan De Navic, Director General Jose Mino 
+Alcivar on July 16, 2008; and by Israeli Aerospace 
+Industries, Director of Material, Rami Cohen on July 8, 2008 
+ 
+¶6. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  PM/DTCC can fax documentation to post upon 
+request.  POC is Tim Mazzarelli, Phone: 202-663-3867; Email: 
+MazzarelliTP@state.gov; SIPRNET: MazzarelliTP@state.sgov.gov. 
+ The Blue Lantern Guidebook (ref) is available as a PDF file 
+in the Bunche Library's E-Book Collection on the DOS 
+Intranet:  http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶7. Department is grateful for post's assistance in this 
+matter. 
+CLINTON

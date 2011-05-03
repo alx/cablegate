@@ -29,48 +29,6 @@ Colombia Defense Cooperation Agreement
  
 REF: STATE 121858 
  
-¶1. The Embassy received under cover of a dip...
-
-
-
-id: 240720
-date: 12/18/2009 19:19
-refid: 09QUITO1206
-origin: Embassy Quito
-classification: UNCLASSIFIED
-destination: 09STATE121858
-header:
-VZCZCXYZ0001
-OO RUEHWEB
-
-DE RUEHQT #1206 3521920
-ZNR UUUUU ZZH
-O R 181919Z DEC 09
-FM AMEMBASSY QUITO
-TO RUEHC/SECSTATE WASHDC IMMEDIATE 0565
-INFO RUEHBO/AMEMBASSY BOGOTA
-RUEHBR/AMEMBASSY BRASILIA
-RUEHCV/AMEMBASSY CARACAS
-RUEHGL/AMCONSUL GUAYAQUIL
-RUEHLP/AMEMBASSY LA PAZ
-RUEHPE/AMEMBASSY LIMA
-RUEHQT/AMEMBASSY QUITO
-RUEKJCS/SECDEF WASHINGTON DC
-
-
------------------ header ends ----------------
-
-UNCLAS QUITO 001206 
- 
-SIPDIS 
- 
-E.O. 12958: N/A 
-TAGS: PGOV PREL EC
-SUBJECT: Letter from Ecuador's President Correa Regarding the U.S. - 
-Colombia Defense Cooperation Agreement 
- 
-REF: STATE 121858 
- 
 ¶1. The Embassy received under cover of a diplomatic note a letter 
 from President Rafael Correa, responding to the Secretary's letter 
 dated November 25, 2009, regarding the U.S. - Colombia Defense 
@@ -142,6 +100,4 @@ Pro Tempore President of the Union of South American Nations
  
  
 (End text) 
-HODGES 
-
-=======================CABLE ENDS============================
+HODGES

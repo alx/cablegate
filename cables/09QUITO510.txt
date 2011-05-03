@@ -27,46 +27,6 @@ SUBJECT:  ECUADOR ANNOUNCES BOND BUYBACK "A SUCCESS"
 Reftel:  Quito 277 
  
 ¶1. (SBU) Summary:  On June 11, Ecuador's Minister of Finance 
-presented the results of t...
-
-
-
-id: 213930
-date: 6/25/2009 13:16
-refid: 09QUITO510
-origin: Embassy Quito
-classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
-destination: 09QUITO277
-header:
-VZCZCXYZ0001
-RR RUEHWEB
-
-DE RUEHQT #0510/01 1761316
-ZNR UUUUU ZZH
-R 251316Z JUN 09
-FM AMEMBASSY QUITO
-TO RUEHC/SECSTATE WASHDC 0533
-INFO RUEHBO/AMEMBASSY BOGOTA 8227
-RUEHCV/AMEMBASSY CARACAS 3609
-RUEHLP/AMEMBASSY LA PAZ JUN LIMA 3280
-RUEHGL/AMCONSUL GUAYAQUIL 4435
-RUEATRS/DEPT OF TREASURY WASHDC
-
-
------------------ header ends ----------------
-
-UNCLAS QUITO 000510 
- 
-SENSITIVE 
-SIPDIS 
- 
-E.O. 12958: N/A 
-TAGS: ECON EFIN EC
-SUBJECT:  ECUADOR ANNOUNCES BOND BUYBACK "A SUCCESS" 
- 
-Reftel:  Quito 277 
- 
-¶1. (SBU) Summary:  On June 11, Ecuador's Minister of Finance 
 presented the results of the GOE's bond repurchase, which resulted 
 in the repurchase of 91% of the country's 2010 and 2030 Global bonds 
 at a 65-70% discount.  Although President Correa called the 
@@ -160,6 +120,4 @@ there does not appear to be many left to call for charges.  The big
 question will be whether the default will have a significant impact 
 on access to credit in the longer term.  End Comment. 
  
-HODGES 
-
-=======================CABLE ENDS============================
+HODGES

@@ -30,50 +30,9 @@ WESTERN DIPLOMATS
  
 Ref.  A) 08 Quito 1497 
  
-¶1.  (SBU) Summary.  On March 5, 2009 the...
-
-
-
-id: 198620
-date: 3/24/2009 19:15
-refid: 09QUITO204
-origin: Embassy Quito
-classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
-destination: 08QUITO1497
-header:
-VZCZCXYZ0006
-RR RUEHWEB
-
-DE RUEHQT #0204/01 0831915
-ZNR UUUUU ZZH
-R 241915Z MAR 09
-FM AMEMBASSY QUITO
-TO RUEHC/SECSTATE WASHDC 0192
-INFO RUEHBO/AMEMBASSY BOGOTA 8056
-RUEHCV/AMEMBASSY CARACAS 3468
-RUEHLP/AMEMBASSY LA PAZ MAR LIMA 3116
-RUEHBR/AMEMBASSY BRASILIA 4118
-RUEHGL/AMCONSUL GUAYAQUIL 4211
-RUEATRS/DEPT OF TREASURY WASHDC
-RUEHRC/USDA FAS WASHDC 0630
-RUCPDOC/DEPT OF COMMERCE WASHDC
-
-
------------------ header ends ----------------
-
-UNCLAS QUITO 000204 
- 
-SENSITIVE 
-SIPDIS 
- 
-E.O. 12958: N/A 
-TAGS: EPET PREL SENV ECON EC
-SUBJECT: ECUADOR'S MFA PITCHES YASUNI ITT CONSERVATION PROJECT TO 
-WESTERN DIPLOMATS 
- 
-Ref.  A) 08 Quito 1497 
- 
-¶1.  (SBU) Summary.  On March 5, 2009 the Ecuadorian Foreign Ministry presented a revised proposal to forego development of oil fields in the environmentally sensitive Yasuni Park in exchange for 
+¶1.  (SBU) Summary.  On March 5, 2009 the Ecuadorian Foreign Ministry 
+presented a revised proposal to forego development of oil fields in 
+the environmentally sensitive Yasuni Park in exchange for 
 international compensation.  The new initiative focuses on 
 compensation based on carbon credits rather than the value of 
 foregone oil production.  End Summary. 
@@ -124,7 +83,13 @@ through the European Trading System (ETS) and would register these
 purchases with participating governments.  The Yasuni initiative 
 would also solicit voluntary contributions from supporting 
 governments and individual contributors.  Noting the success that 
-the Obama campaign had in raising large sums through a broad network of small donors, Sevilla presented a scenario in which individuals could purchase, either online or through cell phone transactions, "symbolic" barrels of oil that would remain in the ground.  Proceeds from the sales of CGYs would be placed in an international trust, whose directors would have a fiduciary responsibility to ensure that the funds are used to advance development goals.  The directors 
+the Obama campaign had in raising large sums through a broad network 
+of small donors, Sevilla presented a scenario in which individuals 
+could purchase, either online or through cell phone transactions, 
+"symbolic" barrels of oil that would remain in the ground.  Proceeds 
+from the sales of CGYs would be placed in an international trust, 
+whose directors would have a fiduciary responsibility to ensure that 
+the funds are used to advance development goals.  The directors 
 would only be able to spend interest from the trust, meaning that 
 the benefits of the initiative would theoretically extend to 
 perpetuity. 
@@ -145,7 +110,8 @@ an NPV of $3.3 billion at the December WTI price of $49/barrel.
 (Note: The ITT fields contain heavy oil.  Current Ecuadorian oil 
 production sells at a discount from the WTI reference price, and the 
 ITT production would likely sell at even a larger discount, so using 
- the WTI reference price likely overstates the value of the oil.  End 
+ 
+the WTI reference price likely overstates the value of the oil.  End 
 Note.) 
  
 Use of the Proceeds 
@@ -198,6 +164,4 @@ other areas that equal Yasuni in the scope of their biodiversity,
 and these funds could probably be applied even more effectively in 
 protecting these areas. 
  
-Hodges 
-
-=======================CABLE ENDS============================
+Hodges

@@ -25,44 +25,6 @@ THE NEW CONSTITUTION
  
 REFTEL: 08 QUITO 616 
  
-1.(SBU) SUMMARY: Since President Rafael Co...
-
-
-
-id: 191620
-date: 2/11/2009 20:33
-refid: 09QUITO108
-origin: Embassy Quito
-classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
-destination: 08QUITO616
-header:
-VZCZCXYZ0002
-RR RUEHWEB
-
-DE RUEHQT #0108/01 0422033
-ZNR UUUUU ZZH
-R 112033Z FEB 09
-FM AMEMBASSY QUITO
-TO RUEHC/SECSTATE WASHDC 0016
-INFO RUEHBO/AMEMBASSY BOGOTA 7953
-RUEHLP/AMEMBASSY LA PAZ FEB LIMA 3019
-RUEHCV/AMEMBASSY CARACAS 3376
-RUEHGL/AMCONSUL GUAYAQUIL 4086
-
-
------------------ header ends ----------------
-
-UNCLAS QUITO 000108 
- 
-SENSITIVE, SIPDIS 
- 
-E.O. 12958: N/A 
-TAGS: PHUM PGOV KPAO EC
-SUBJECT: COMMERCIAL MEDIA IN ECUADOR WORRIED ABOUT THE PRESIDENT AND 
-THE NEW CONSTITUTION 
- 
-REFTEL: 08 QUITO 616 
- 
 1.(SBU) SUMMARY: Since President Rafael Correa came to office in 
 2007 he has criticized the Ecuadorian commercial media as 
 "incompetent," and complained that the majority of media outlets 
@@ -313,6 +275,4 @@ media outlets remain, or if the system of social communication
 promised in the new constitution proves to be nothing more than a 
 government-run press. 
  
-HODGES 
-
-=======================CABLE ENDS============================
+HODGES
