@@ -30,48 +30,6 @@ SUBJECT: DISORGANIZED LABOR: LOTS OF TALK, LITTLE COLLECTIVE ACTION
 REF: 09 QUITO 951 
  
 ¶1. (SBU) SUMMARY.  Union leaders are calling for strikes beginning 
-...
-
-
-id: 243678
-date: 1/14/2010 17:57
-refid: 10QUITO9
-origin: Embassy Quito
-classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
-destination: 09QUITO951
-header:
-VZCZCXYZ0000
-OO RUEHWEB
-
-DE RUEHQT #0009/01 0141757
-ZNR UUUUU ZZH
-O R 141757Z JAN 10
-FM AMEMBASSY QUITO
-TO RUEHC/SECSTATE WASHDC IMMEDIATE 0636
-INFO RUEHBO/AMEMBASSY BOGOTA
-RUEHBR/AMEMBASSY BRASILIA
-RUEHC/DEPT OF LABOR WASHINGTON DC
-RUEHCV/AMEMBASSY CARACAS
-RUEHGL/AMCONSUL GUAYAQUIL
-RUEHLP/AMEMBASSY LA PAZ
-RUEHPE/AMEMBASSY LIMA
-RUEHQT/AMEMBASSY QUITO
-
-
------------------ header ends ----------------
-
-UNCLAS QUITO 000009 
- 
-SENSITIVE 
-SIPDIS 
- 
-E.O. 12958: N/A 
-TAGS: PGOV ELAB PHUM EC
-SUBJECT: DISORGANIZED LABOR: LOTS OF TALK, LITTLE COLLECTIVE ACTION 
- 
-REF: 09 QUITO 951 
- 
-¶1. (SBU) SUMMARY.  Union leaders are calling for strikes beginning 
 on January 15, ostensibly to protest the "insufficient" rise in the 
 minimum wage, which will go from 218 dollars to 240 dollars in 
 ¶2010.  However, worker protests are unlikely to amount to much, 
@@ -365,6 +323,4 @@ schedules for their actions.  While the different schedules will
 let each group highlight their individual gripes, they will miss 
 yet another opportunity to show a united front against the 
 government. 
-HODGES 
-
-=======================CABLE ENDS============================
+HODGES

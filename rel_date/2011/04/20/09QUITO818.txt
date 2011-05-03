@@ -1,5 +1,5 @@
 09QUITO818
-Proposal for Foreign A...
+Proposal for Foreign Assistance Agreement to Explore Host
 Fri Sep 04 00:00:00 +0200 2009
 UNCLASSIFIED//FOR OFFICIAL USE ONLY
 Embassy Quito
@@ -22,41 +22,6 @@ DAA/LAC EDWARD LANDAU
  
 E.O. 12958: N/A 
 TAGS: PREL EAID EC
-SUBJECT: Proposal for Foreign A...
-
-
-
-id: 223898
-date: 9/4/2009 21:35
-refid: 09QUITO818
-origin: Embassy Quito
-classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
-destination: 09QUITO779|09QUITO786
-header:
-VZCZCXYZ0000
-OO RUEHWEB
-
-DE RUEHQT #0818/01 2472136
-ZNR UUUUU ZZH
-O R 042135Z SEP 09
-FM AMEMBASSY QUITO
-TO RUEHC/SECSTATE WASHDC IMMEDIATE 0003
-INFO RUEHQT/AMEMBASSY QUITO
-
-
------------------ header ends ----------------
-
-UNCLAS QUITO 000818 
- 
-SENSITIVE 
-SIPDIS 
-STATE FOR WHA DAS  MCMULLEN, WHA/AND, AND EEB/IFD/ODF 
-STATE PASS TO USAID FOR A-AA/LAC JANET BALLANTYNE AND 
-DAA/LAC EDWARD LANDAU 
- 
- 
-E.O. 12958: N/A 
-TAGS: PREL EAID EC
 SUBJECT: Proposal for Foreign Assistance Agreement to Explore Host 
 Country Contracting for Project Implementation 
  
@@ -67,7 +32,8 @@ SANCHEZ-BUSTAMANTE DATED 09/04/2009 (NOTAL)
  
  
  
-¶2.  (SBU) Summary.  The Government of Ecuador (GOE) has proposed a "transition clause" in USAID/Ecuador's Assistance Agreement to 
+¶2.  (SBU) Summary.  The Government of Ecuador (GOE) has proposed a 
+"transition clause" in USAID/Ecuador's Assistance Agreement to 
 signal our concurrence with exploring host country contracting 
 (HCC) in the near future.  DAA/LAC Landau has suggested, and 
 USAID/Ecuador agrees, that we should investigate the possibility of 
@@ -170,6 +136,4 @@ adoption of host country contracting may have consequences in other
 countries in the region where USAID implements development 
 programs, Post urges Washington to confirm this approach before 
 USAID/Ecuador meets with the GOE on September 14, 2009. 
-HODGES 
-
-=======================CABLE ENDS============================
+HODGES

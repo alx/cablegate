@@ -25,45 +25,6 @@ TAGS: ECON EINV EINT ETRD EC
 SUBJECT: ECUADORIAN PRESIDENT MAKES ACCUSATIONS ABOUT U.S. TELECOMS 
  
 ¶1.  (SBU) Summary: In the May 30 presentation of his weekly radio 
-address, Ecuado...
-
-
-
-
-id: 212217
-date: 6/15/2009 18:56
-refid: 09QUITO455
-origin: Embassy Quito
-classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
-destination: 
-header:
-VZCZCXYZ0017
-RR RUEHWEB
-
-DE RUEHQT #0455 1661856
-ZNR UUUUU ZZH
-R 151856Z JUN 09
-FM AMEMBASSY QUITO
-TO RUEHC/SECSTATE WASHDC 0472
-INFO RUEHBO/AMEMBASSY BOGOTA 8186
-RUEHCV/AMEMBASSY CARACAS 3585
-RUEHLP/AMEMBASSY LA PAZ JUN LIMA 3244
-RUEHGL/AMCONSUL GUAYAQUIL 4376
-RUCPDOC/DEPT OF COMMERCE WASHDC
-
-
------------------ header ends ----------------
-
-UNCLAS QUITO 000455 
- 
-SENSITIVE 
-SIPDIS 
- 
-E.O. 12958: N/A 
-TAGS: ECON EINV EINT ETRD EC
-SUBJECT: ECUADORIAN PRESIDENT MAKES ACCUSATIONS ABOUT U.S. TELECOMS 
- 
-¶1.  (SBU) Summary: In the May 30 presentation of his weekly radio 
 address, Ecuadorian President Rafael Correa sharply criticized U.S. 
 telecommunications companies ATT, MCI, and Sprint, accusing them of 
 "swindling" Ecuador out of millions of dollars of long-distance 
@@ -146,6 +107,4 @@ sell its services to Ecuadorian phone companies.  It is
 characteristic of Correa to make a public pronouncement on an issue 
 like this without doing sufficient research. 
  
-HODGES 
-
-=======================CABLE ENDS============================
+HODGES

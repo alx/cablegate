@@ -26,45 +26,6 @@ SUBJECT: PRESIDENT'S BROTHER INVOLVED IN PUBLIC CONTRACTING
 CONTROVERSY 
  
 ¶1.  (U) Summary:  An Ecuadorian newspaper story on June 14 denounced 
-President Correa's b...
-
-
-
-id: 215274
-date: 7/6/2009 14:19
-refid: 09QUITO549
-origin: Embassy Quito
-classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
-destination: 
-header:
-VZCZCXYZ0000
-RR RUEHWEB
-
-DE RUEHQT #0549/01 1871419
-ZNR UUUUU ZZH
-R 061419Z JUL 09
-FM AMEMBASSY QUITO
-TO RUEHC/SECSTATE WASHDC 0583
-INFO RUEHBO/AMEMBASSY BOGOTA 8236
-RUEHCV/AMEMBASSY CARACAS 3618
-RUEHLP/AMEMBASSY LA PAZ JUL LIMA 3289
-RUEHGL/AMCONSUL GUAYAQUIL 4452
-RUEATRS/DEPT OF TREASURY WASHDC
-
-
------------------ header ends ----------------
-
-UNCLAS QUITO 000549 
- 
-SENSITIVE 
-SIPDIS 
- 
-E.O. 12958: N/A 
-TAGS: ECON EFIN EC
-SUBJECT: PRESIDENT'S BROTHER INVOLVED IN PUBLIC CONTRACTING 
-CONTROVERSY 
- 
-¶1.  (U) Summary:  An Ecuadorian newspaper story on June 14 denounced 
 President Correa's brother Fabricio for alleged corruption in public 
 contracting, claiming he received $80 million worth of government 
 contracts through shell companies based in Panama and other 
@@ -195,6 +156,4 @@ for Correa's image, since it gives at least the appearance of
 favoritism at the highest levels of an administration that has 
 prided itself on fighting corruption. 
  
-HODGES 
-
-=======================CABLE ENDS============================
+HODGES

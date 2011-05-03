@@ -33,51 +33,6 @@ TAGS: PGOV PREL EC
 SUBJECT: GOE DECLARES EMBASSY OFFICER PERSONA NON GRATA 
  
 ¶1.  (SBU)  The Embassy received two diplomatic notes on 
-February 18 related to Embassy officer Mark Sulliv...
-
-
-id: 192676
-date: 2/18/2009 20:42
-refid: 09QUITO122
-origin: Embassy Quito
-classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
-destination: 
-header:
-VZCZCXYZ0006
-OO RUEHWEB
-
-DE RUEHQT #0122/01 0492042
-ZNR UUUUU ZZH
-O 182042Z FEB 09
-FM AMEMBASSY QUITO
-TO RUEHC/SECSTATE WASHDC IMMEDIATE 0042
-INFO RUEHBO/AMEMBASSY BOGOTA 7972
-RUEHBR/AMEMBASSY BRASILIA 4087
-RUEHCV/AMEMBASSY CARACAS 3395
-RUEHLP/AMEMBASSY LA PAZ FEB LIMA 3038
-RUEHGL/AMCONSUL GUAYAQUIL 4107
-RUEKJCS/SECDEF WASHDC
-RHMFISS/CDR USSOUTHCOM MIAMI FL
-RUEKJCS/JOINT STAFF WASHDC
-RHMFISS/HQ USSOUTHCOM MIAMI FL
-RHEHNSC/NSC WASHDC 2262
-RHEFHLC/DEPT OF HOMELAND SECURITY WASHINGTON DC
-RUEAWJA/DEPT OF JUSTICE WASHDC
-RUEAIIA/CIA WASHDC
-
-
------------------ header ends ----------------
-
-UNCLAS QUITO 000122 
- 
-SENSITIVE 
-SIPDIS 
- 
-E.O. 12958: N/A 
-TAGS: PGOV PREL EC
-SUBJECT: GOE DECLARES EMBASSY OFFICER PERSONA NON GRATA 
- 
-¶1.  (SBU)  The Embassy received two diplomatic notes on 
 February 18 related to Embassy officer Mark Sullivan's 
 expulsion.  The first, dated February 16 and delivered in 
 hard copy on the morning of February 18, requests that 
@@ -174,6 +129,4 @@ City.-
  
 (End Text) 
  
-HODGES 
-
-=======================CABLE ENDS============================
+HODGES

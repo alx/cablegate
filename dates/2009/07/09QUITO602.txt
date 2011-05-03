@@ -29,47 +29,6 @@ REF: A. QUITO 1010
      ¶B. QUITO 437 
      ¶C. QUITO 467 
      ¶D. QUITO 329 
-     ¶E. QUI...
-
-
-id: 217139
-date: 7/17/2009 16:20
-refid: 09QUITO602
-origin: Embassy Quito
-classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
-destination: 09QUITO1010|09QUITO308|09QUITO329|09QUITO437|09QUITO467|09QUITO513
-header:
-VZCZCXYZ0015
-OO RUEHWEB
-
-DE RUEHQT #0602/01 1981620
-ZNR UUUUU ZZH
-O 171620Z JUL 09
-FM AMEMBASSY QUITO
-TO RUEHC/SECSTATE WASHDC IMMEDIATE 0637
-INFO RUEHBO/AMEMBASSY BOGOTA 8265
-RUEHBR/AMEMBASSY BRASILIA 4217
-RUEHCV/AMEMBASSY CARACAS 3636
-RUEHLP/AMEMBASSY LA PAZ JUL LIMA 3312
-RUEHGL/AMCONSUL GUAYAQUIL 4486
-
-
------------------ header ends ----------------
-
-UNCLAS QUITO 000602 
- 
-SENSITIVE 
-SIPDIS 
- 
-E.O. 12958: N/A 
-TAGS: PGOV PREL EC
-SUBJECT: GOVERNMENT INSTITUTIONS STRUGGLE TO ACCOMMODATE 
-NEW CONSTITUTION 
- 
-REF: A. QUITO 1010 
-     ¶B. QUITO 437 
-     ¶C. QUITO 467 
-     ¶D. QUITO 329 
      ¶E. QUITO 308 
      ¶F. QUITO 513 
  
@@ -329,6 +288,4 @@ Assembly members can take their seats raises doubts that the
 Correa administration is willing to promote debate and seek 
 consensus on the new institutional order. 
  
-HODGES 
-
-=======================CABLE ENDS============================
+HODGES

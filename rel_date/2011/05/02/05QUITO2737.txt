@@ -1,0 +1,160 @@
+05QUITO2737
+ECUADOR - INTERNATIONAL CIRCUIT BLOCKAGE A DOMESTIC
+Thu Dec 01 00:00:00 +0100 2005
+UNCLASSIFIED
+Embassy Quito
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+012115Z Dec 05UNCLAS SECTION 01 OF 02 QUITO 002737 
+ 
+SIPDIS 
+ 
+DEPT FOR EB/CIP/BA 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON ETRD EINV EC
+SUBJECT: ECUADOR - INTERNATIONAL CIRCUIT BLOCKAGE A DOMESTIC 
+MATTER 
+ 
+REF:  STATE 177365 
+ 
+SENSITIVE 
+ 
+¶1. Summary.  The blocking of international telephone traffic 
+from the United States to Ecuador over the past 18 months 
+has less to do with the negotiating tactics referred to in 
+reftel than with local political and economic interests.  In 
+Ecuador, the blocking of circuits to impede the termination 
+of international calls to cellular phones is driven by 
+domestic contractual disputes between domestic fixed-line 
+and mobile operators.  Because of this dispute, Ecuadorian 
+mobile operators and US carriers have had to enter into 
+direct agreements that bypass Ecuadorian fixed-line 
+operators.  Meanwhile, in their negotiations with Andinatel 
+and Pacifictel, US carriers note that they have not 
+experienced the type of tactics referred to in reftel.  End 
+Summary. 
+ 
+ECUADORIAN CIRCUIT BLOCKAGE AND INTERCONNECTION RATES 
+--------------------------------------------- -------- 
+ 
+¶2. The blocking of circuits connecting US telecom traffic to 
+Ecuadorian cellular numbers is associated with 
+interconnection rate disputes between Ecuadorian mobile and 
+fixed-line operators.  Interconnection rate agreements 
+between fixed-line and mobile operators ended in April 2004 
+when the parties could not agree on a new rate.  With the 
+end of the prior interconnection agreement, fixed-line 
+operators ceased sharing interconnection revenue with the 
+mobiles.  Complaints from the mobiles were ignored by the 
+fixed-line operators.  In retaliation, mobile operators 
+began to disconnect circuits, blocking international phone 
+calls to Ecuadorian cellular phones. 
+ 
+¶3. (The main Ecuadorian fixed-line operators are Andinatel 
+and Pacifictel, which were created in 1997 when regulators 
+broke up state-owned telecom EMETEL.  Although they 
+technically became private companies in 1997, the GOE, 
+through state holding company Fondo de Solidaridad (FS), 
+still owns 100% of Andinatel and Pacifictel.  The main 
+mobile companies in Ecuador include Spanish-owned Movistar, 
+Mexican-owned Porta, and Allegra, which is a joint Andinatel- 
+Pacifictel venture.  Growth among the mobiles has far 
+exceeded that of the fixed-line operators, and currently 
+there are more than three mobile phones for every fixed line 
+in service.) 
+ 
+¶4. In July 2005, after more than a year of unsuccessful 
+negotiations between operators, Ecuadorian telecoms sector 
+administrator Senatel announced new interconnection rates to 
+govern traffic between mobile and fixed-line operators in 
+Ecuador.   The decision followed a 30-day warning from 
+Senatel to operators indicating that it would establish 
+rates if they were unable to do so.  Under the Senatel 
+decision, interconnection rates for calls from fixed-line to 
+mobile operators are $0.1131 per minute, while those from 
+mobile to fixed are $0.02 per minute.  The new rates reduced 
+fixed to mobile and mobile to fixed line interconnection 
+charges by 43% and 62% respectively. 
+ 
+¶5. Despite Senatel's action, international traffic from the 
+United States to cellular numbers in Ecuador remains blocked 
+because the dispute over unpaid charges continues. 
+Movistar, for example, claims that Andinatel and Pacifictel 
+still owe it $40 million in unpaid interconnection charges. 
+In total, mobile companies are owed a reported $100 million 
+from interconnection charges from fixed-line operators. 
+ 
+ESTABLISHING DIRECT LINES TO MOBILE OPERATORS 
+--------------------------------------------- 
+ 
+¶6. (SBU) (Information commercially sensitive - please 
+protect.)  Faced with a domestic dispute that impedes their 
+ability to establish connections to cellular phones, US 
+carriers have re-routed such traffic, establishing their own 
+direct lines to Ecuadorian mobiles.  Hernan Ordonez, 
+Movistar's Vice-President of Regulation, acknowledged to 
+Econoff that Movistar has established direct lines with the 
+main US carriers.  For example, according to Ordonez, 
+arrangements with AT&T and Sprint began in April and May 
+2005, respectively, and those with Bell South Long Distance 
+go back to October 2004 when their operations were owned by 
+Bell South.  In many cases, US carriers are routing traffic 
+through Telefonica, Movistar's parent company. 
+Representatives from some of the US carriers have confirmed 
+these arrangements. 
+ 
+US CARRIER RELATIONS WITH ANDINATEL AND PACIFICTEL 
+--------------------------------------------- ----- 
+ 
+¶7. That US telecom traffic to cellular phones is disrupted 
+by domestic commercial disputes does not mean that US 
+telecoms are not having contractual problems with Ecuadorian 
+fixed-line operators.  Both AT&T and MCI reported to Econoff 
+that 2005 contracts with Andinatel have yet to be signed. 
+According to Mary Hoberman, AT&T's Director of International 
+Public Policy, continuous changeover in executives at 
+Andinatel has directly affected AT&T's ability to obtain 
+closure on their 2005 agreement.  Luis Montenegro, MCI's 
+International Carrier Services provider in Quito, tells a 
+similar tale.  Meanwhile, both carriers report that 2005 
+agreements with Pacifictel are in place. 
+¶8. At Mary Hoberman's request, Econoff spoke to recently- 
+arrived Andinatel President Gales Chiriboga about the 
+outstanding contract.  The Commercial Section also has 
+raised the issue in recent months with Chiriboga's 
+predecessor.  Chiriboga expressed genuine concern that the 
+contract had not been concluded, and rightly so, as the lack 
+of a contract precludes payment by AT&T.  Chiriboga said 
+that he would make sure that the issue is resolved soon. 
+ 
+¶9. It is important to note that contracting delays with 
+Andinatel are not associated with circuit blockage.  Despite 
+the lack of contracts for 2005, phone calls from US carriers 
+to Andinatel are not blocked.  International traffic 
+continues to reach fixed-line operators. 
+ 
+COMMENT 
+------- 
+ 
+¶10. The US carriers with whom Econoff spoke note that the 
+difficulties they are experiencing in other Latin American 
+countries referred to in reftel are completely different 
+than what they are experiencing in Ecuador.  That is, their 
+experience does not indicate that Andinatel and Pacifictel 
+are blocking circuits in order to obtain higher 
+interconnection rates from US carriers, nor does it suggest 
+pressure from the GOE to extract higher interconnection 
+rates from US carriers in order to increase tax revenues to 
+pay for other domestic programs. 
+ 
+¶11. However, while not a result of negotiating tactics, 
+circuit blockage to cellular phones in Ecuador has the same 
+effect on US carriers.  Re-routing traffic through direct 
+lines to Ecuadorian mobiles has not come cheaply.  US 
+carriers claim that the cost of re-routing traffic has had 
+the same net effect on them cost-wise as that which they 
+have been experiencing as a result of circuit-blocking 
+tactics elsewhere in Latin America. 
+ 
+BROWN
