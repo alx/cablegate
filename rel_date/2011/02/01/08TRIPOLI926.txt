@@ -1,5 +1,5 @@
 08TRIPOLI926
-SWISS FOREIGN MINISTER MAY VISIT TRIPOLI IN "LAST GASP"
+SWISS FOREIGN MINISTER MAY VISIT TRIPOLI IN "LAST GASP" \
 Tue Dec 02 00:00:00 +0100 2008
 CONFIDENTIAL
 Embassy Tripoli
@@ -17,24 +17,115 @@ RUEHTU/AMEMBASSY TUNIS PRIORITY 0688
 RUEHAS/AMEMBASSY ALGIERS PRIORITY 0832
 RUEHRB/AMEMBASSY RABAT PRIORITY 0778
 RHEHAAA/NSC WASHINGTON DC
-RUCNMEM/EU MEMBER STATESC O N F I D E N T I A L TRIPOLI 000926 
- 
-SIPDIS 
- 
-DEPT FOR NEA/MAG 
- 
-E.O. 12958: DECL:  12/2/2018 
+RUCNMEM/EU MEMBER STATES2008-12-02 17:06:00	08TRIPOLI926	Embassy Tripoli	CONFIDENTIAL	08TRIPOLI851	VZCZCXRO4123\
+OO RUEHAG RUEHROV RUEHSR\
+DE RUEHTRO #0926 3371706\
+ZNY CCCCC ZZH\
+O 021706Z DEC 08\
+FM AMEMBASSY TRIPOLI\
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 4201\
+INFO RUEHTRO/AMEMBASSY TRIPOLI 4723\
+RUEHSW/AMEMBASSY BERN IMMEDIATE 0022\
+RUEHEG/AMEMBASSY CAIRO PRIORITY 1328\
+RUEHTU/AMEMBASSY TUNIS PRIORITY 0688\
+RUEHAS/AMEMBASSY ALGIERS PRIORITY 0832\
+RUEHRB/AMEMBASSY RABAT PRIORITY 0778\
+RHEHAAA/NSC WASHINGTON DC\
+RUCNMEM/EU MEMBER STATES	C O N F I D E N T I A L TRIPOLI 000926 \
+ \
+SIPDIS \
+ \
+DEPT FOR NEA/MAG \
+ \
+E.O. 12958: DECL:  12/2/2018 \
 TAGS: PREL PHUM ECON EAIR SZ LY
-SUBJECT: SWISS FOREIGN MINISTER MAY VISIT TRIPOLI IN "LAST GASP" 
-EFFORT TO MEND FRAYED BILATERAL TIES 
- 
-REF: TRIPOLI 851  CLASSIFIED BY: Chris Stevens, CDA, Embassy Tripoli, Department of State. REASON: 1.4 (b), (d) 
-
-¶1. (C) Swiss Consul Francois Schmidt told P/E Chief on December 2 that Swiss Foreign Minister Micheline Calmy-Rey intends to travel to Tripoli on December 5 for talks with as-yet undetermined Government of Libya interlocutors in what he described as "a last gasp" effort to resolve the lingering Libyan-Swiss contretemps occasioned by the arrest in Geneva of Hannibal al-Qadhafi, son of Muammar al-Qadhafi, in July.  (Note: Schmidt asked that we keep news of the possible visit close-hold as it had not yet been finalized.  End note.) The Swiss Embassy submitted a diplomatic note to the Libyan MFA on December 1 requesting meetings for Calmy-Rey with Muammar al-Qadhafi and a number of lesser officials, including Foreign Minister-equivalent Abdulrahman Shalgham and National Security Advisor Muatassim al-Qadhafi.  Schmidt said Swiss Ambassador to Tripoli Daniel von Muralt had advised against the trip, cautioning Calmy-Rey that she could be "badly humiliated" if she decided to come.  Admitting that there was "no agreed strategy, message or approach" behind the proposed visit, Schmidt said the Swiss Federal Government had nonetheless directed her to make the trip in the hope that it could rejuvenate Libyan-Swiss talks that he characterized as "hopelessly stalled".  
-
-¶2. (C) Schmidt said the situation had worsened since Libyan and Swiss members of a joint commission of inquiry exchanged copies of their respective drafts of a final report on November 14. The idea was that they would agree on language for a report that would be jointly issued to the public, which would detail the events attendant to Hannibal's arrest and mutually-agreed remedies.  Ambassador von Muralt stressed in an earlier meeting with us (reftel) that the joint commission's report would likely be the next stumbling block in the effort to mend frayed ties. Schmidt confirmed that such had come to pass, saying the two reports were "miles apart" in terms of their interpretations of events and conclusions.  Schmidt highlighted the fact that Libyan members had come away with completely different understandings of the testimony of key witnesses, and suggested that they had shaded their intepretations to bolster the key Libyan demand that the arresting police officers be punished.  
-
-¶3. (C) Lamenting that the GOL had repeatedly shifted the goalposts in terms of its demands for redress, Schmidt said GOL officials' latest demands were that the officers be "banished" from Geneva to other cantonments and that the Swiss prosecutor be investigated for legal malpractice.  They had also recently stipulated that a public apology to be issued by the Swiss government as part of a grand bargain admit that Swiss officials had conspired to "deliberately entrap" Hannibal al-Qadhafi.  He attributed most of the creeping demands to the personal involvement of Aisha al-Qadhafi and Hannibal al-Qadhafi in the work of the Libyan committee tasked with resolving the issue. In a positive step, all but two of Switzerland's citizens remaining in Libya had obtained exit visas; the two remaining are under indictment for alleged crimes in cases brought right after Hannibal's arrest.  Swiss Air's station manager, who had been prohibited for over a month from leaving, obtained a six month, multiple-entry visa and a one-year residency permit after Swiss officials linked her case to that of the gravely ill daughter of a senior regime official, whom the family wanted to take to Switzerland for specialized treatment.  In addition, Swiss Air, which had threatened to cease operating its one remaining Zurich-Tripoli route (landing permits for two of its three weekly flights were cancelled by the GOL after Hannibal's arrest), has decided to continue flying until year's end and will assess then whether to shutter its operations.  
-
-¶4. (C)  Comment: Other EU missions have quietly questioned the Swiss approach to the ongoing kerfuffle, particularly Bern's decision to not/not solicit support from Brussels for a joint EU response to the GOL's pressure tactics.  The fact that the reports of the Libyan and Swiss members of the joint commission of inquiry are so divergent with respect to what happened and who is at fault does not augur well.  While high-level shuttle diplomacy with the GOL has worked in some cases in the past (witness French efforts with respect to the Bulgarian nurses), the consensus among the diplomatic corps here is that Tripoli believes it has the upper hand and will not concede much to the Swiss.  The dispute highlights the extent to which the GOL remains a family enterprise, willing to go to extreme lengths over what amounts to a matter of face involving the abhorrent behavior of Hannibal al-Qadhafi.  End comment.  
-STEVENS
+SUBJECT: SWISS FOREIGN MINISTER MAY VISIT TRIPOLI IN "LAST GASP" \
+EFFORT TO MEND FRAYED BILATERAL TIES \
+ \
+REF: TRIPOLI 851 \
+ \
+CLASSIFIED BY: Chris Stevens, CDA, Embassy Tripoli, Department \
+of State. \
+REASON: 1.4 (b), (d) \
+¶1. (C) Swiss Consul Francois Schmidt told P/E Chief on December \
+2 that Swiss Foreign Minister Micheline Calmy-Rey intends to \
+travel to Tripoli on December 5 for talks with as-yet \
+undetermined Government of Libya interlocutors in what he \
+described as "a last gasp" effort to resolve the lingering \
+Libyan-Swiss contretemps occasioned by the arrest in Geneva of \
+Hannibal al-Qadhafi, son of Muammar al-Qadhafi, in July.  (Note: \
+Schmidt asked that we keep news of the possible visit close-hold \
+as it had not yet been finalized.  End note.) The Swiss Embassy \
+submitted a diplomatic note to the Libyan MFA on December 1 \
+requesting meetings for Calmy-Rey with Muammar al-Qadhafi and a \
+number of lesser officials, including Foreign \
+Minister-equivalent Abdulrahman Shalgham and National Security \
+Advisor Muatassim al-Qadhafi.  Schmidt said Swiss Ambassador to \
+Tripoli Daniel von Muralt had advised against the trip, \
+cautioning Calmy-Rey that she could be "badly humiliated" if she \
+decided to come.  Admitting that there was "no agreed strategy, \
+message or approach" behind the proposed visit, Schmidt said the \
+Swiss Federal Government had nonetheless directed her to make \
+the trip in the hope that it could rejuvenate Libyan-Swiss talks \
+that he characterized as "hopelessly stalled". \
+ \
+¶2. (C) Schmidt said the situation had worsened since Libyan and \
+Swiss members of a joint commission of inquiry exchanged copies \
+of their respective drafts of a final report on November 14. \
+The idea was that they would agree on language for a report that \
+would be jointly issued to the public, which would detail the \
+events attendant to Hannibal's arrest and mutually-agreed \
+remedies.  Ambassador von Muralt stressed in an earlier meeting \
+with us (reftel) that the joint commission's report would likely \
+be the next stumbling block in the effort to mend frayed ties. \
+Schmidt confirmed that such had come to pass, saying the two \
+reports were "miles apart" in terms of their interpretations of \
+events and conclusions.  Schmidt highlighted the fact that \
+Libyan members had come away with completely different \
+understandings of the testimony of key witnesses, and suggested \
+that they had shaded their intepretations to bolster the key \
+Libyan demand that the arresting police officers be punished. \
+ \
+¶3. (C) Lamenting that the GOL had repeatedly shifted the \
+goalposts in terms of its demands for redress, Schmidt said GOL \
+officials' latest demands were that the officers be "banished" \
+from Geneva to other cantonments and that the Swiss prosecutor \
+be investigated for legal malpractice.  They had also recently \
+stipulated that a public apology to be issued by the Swiss \
+government as part of a grand bargain admit that Swiss officials \
+had conspired to "deliberately entrap" Hannibal al-Qadhafi.  He \
+attributed most of the creeping demands to the personal \
+involvement of Aisha al-Qadhafi and Hannibal al-Qadhafi in the \
+work of the Libyan committee tasked with resolving the issue. \
+In a positive step, all but two of Switzerland's citizens \
+remaining in Libya had obtained exit visas; the two remaining \
+are under indictment for alleged crimes in cases brought right \
+after Hannibal's arrest.  Swiss Air's station manager, who had \
+been prohibited for over a month from leaving, obtained a six \
+month, multiple-entry visa and a one-year residency permit after \
+Swiss officials linked her case to that of the gravely ill \
+daughter of a senior regime official, whom the family wanted to \
+take to Switzerland for specialized treatment.  In addition, \
+Swiss Air, which had threatened to cease operating its one \
+remaining Zurich-Tripoli route (landing permits for two of its \
+three weekly flights were cancelled by the GOL after Hannibal's \
+arrest), has decided to continue flying until year's end and \
+will assess then whether to shutter its operations. \
+ \
+¶4. (C)  Comment: Other EU missions have quietly questioned the \
+Swiss approach to the ongoing kerfuffle, particularly Bern's \
+decision to not/not solicit support from Brussels for a joint EU \
+response to the GOL's pressure tactics.  The fact that the \
+reports of the Libyan and Swiss members of the joint commission \
+of inquiry are so divergent with respect to what happened and \
+who is at fault does not augur well.  While high-level shuttle \
+diplomacy with the GOL has worked in some cases in the past \
+(witness French efforts with respect to the Bulgarian nurses), \
+the consensus among the diplomatic corps here is that Tripoli \
+believes it has the upper hand and will not concede much to the \
+Swiss.  The dispute highlights the extent to which the GOL \
+remains a family enterprise, willing to go to extreme lengths \
+over what amounts to a matter of face involving the abhorrent \
+behavior of Hannibal al-Qadhafi.  End comment. \
+ \
+STEVENS \
