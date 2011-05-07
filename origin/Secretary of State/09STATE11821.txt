@@ -1,0 +1,77 @@
+09STATE11821
+AF ACTING ASSISTANT SECRETARY CALL TO MALI
+Mon Feb 09 00:00:00 +0100 2009
+CONFIDENTIAL
+Secretary of State
+VZCZCXYZ0000
+OO RUEHWEB
+
+DE RUEHC #1821 0402055
+ZNY CCCCC ZZH
+O P 092040Z FEB 09
+FM SECSTATE WASHDC
+TO RUEHBP/AMEMBASSY BAMAKO IMMEDIATE 0203
+INFO RUEHNM/AMEMBASSY NIAMEY PRIORITY 4644
+RUEHOT/AMEMBASSY OTTAWA PRIORITY 3864
+RUEKJCS/SECDEF WASHINGTON DC PRIORITY=======================CABLE ENDS============================
+id: 191160
+date: 2/9/2009 20:40
+refid: 09STATE11821
+origin: Secretary of State
+classification: CONFIDENTIAL
+destination:
+header:
+VZCZCXYZ0000
+OO RUEHWEB
+DE RUEHC #1821 0402055
+ZNY CCCCC ZZH
+O P 092040Z FEB 09
+FM SECSTATE WASHDC
+TO RUEHBP/AMEMBASSY BAMAKO IMMEDIATE 0203
+INFO RUEHNM/AMEMBASSY NIAMEY PRIORITY 4644
+RUEHOT/AMEMBASSY OTTAWA PRIORITY 3864
+RUEKJCS/SECDEF WASHINGTON DC PRIORITY
+----------------- header ends ----------------
+C O N F I D E N T I A L STATE 011821
+SIPDIS
+E.O. 12958: DECL: 02/08/2019
+TAGS: PTER ML CA
+SUBJECT: AF ACTING ASSISTANT SECRETARY CALL TO MALI
+PRESIDENT RE CANADIAN HOSTAGES
+Classified By: Acting A/S Phil Carter for reasons 1.4 (b) and (d)
+¶1. (C) Summary: Two Canadian nationals, United Nations
+Special Envoy Robert Fowler and Special Assistant Louis Guay,
+and Nigerien national Soumaina Mounkaila are currently being
+held in northern Mali by Al Qaida in the Lands of the Islamic
+Maghreb (AQIM). In response to a February 2 Canadian
+demarche, AF Acting Assistant Secretary Phillip Carter called
+Malian President Amadou Toumani Toure on February 9 to
+encourage him to continue Mali's cooperation with the United
+Nations (UN) and Canada in their efforts to rescue the three
+hostages and urge him to make resolution of this case a
+priority for the GOM.
+¶2. (C) Carter asked for Toure's perspectives on the urgent
+situation with the Canadian hostages, including Ambassador
+Fowler. Carter stressed its importance to the UN, Canadians,
+and United States, saying that these three men were important
+to UN work on the Sahel, and that if this situation
+continues, it will hurt Mali's image for private investment.
+Toure said they were in constant contact and coordinating
+with the Canadians, and that the hostages were in good
+health. Carter noted concern that the situation had become
+complicated with the kidnapping of a second group of
+Europeans: the Canadian government had a policy of not paying
+ransom which may differ from the European approach. Toure
+assured him the two groups were being treated separately and
+Mali would act with the consent of the Canadian government.
+When Carter asked what the United States can do, Toure
+responded that they need information, especially on the
+location of the hostages, who are frequently moved around
+Mali and its bordering countries.
+¶3. (C) Later in the day, Acting AF/W Director met with the
+Canadian POLCON. He reported the conversation and relayed
+Toure's request for information, particularly on the location
+of the hostages.
+¶4. (U) Acting A/S Phillip Carter has cleared on this cable.
+CLINTON
+=======================CABLE ENDS============================
