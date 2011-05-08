@@ -1,0 +1,63 @@
+07TOKYO3296
+JAPAN: NUCLEAR POWER: ADDITIONAL MISHAPS AT
+Wed Jul 18 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Tokyo
+VZCZCXRO5628
+RR RUEHKSO RUEHNH
+DE RUEHKO #3296 1990806
+ZNR UUUUU ZZH
+R 180806Z JUL 07
+FM AMEMBASSY TOKYO
+TO RUEHC/SECSTATE WASHDC 5624
+INFO RUEHNH/AMCONSUL NAHA 4540
+RUEHOK/AMCONSUL OSAKA KOBE 5708
+RUEHKSO/AMCONSUL SAPPORO 2905UNCLAS TOKYO 003296 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ENRG JA TRGY
+SUBJECT: JAPAN: NUCLEAR POWER: ADDITIONAL MISHAPS AT 
+KASHIWAZAKI-KARIWA 
+ 
+REF: TOKYO 03263 
+ 
+1) SUMMARY: On July 17, Tokyo Electric Power Company (TEPCO) 
+announced additional problems that occurred at the 
+Kashiwazaki-Kariwa Nuclear Power Plant in Niigata Prefecture 
+due to the powerful earthquake that hit the prefecture on 
+July 16. However, Japanese government sources indicated to 
+ESTOFF that these problems pose no increased threat to the 
+environment or human safety based on their current 
+understanding of the situation. END SUMMARY. 
+ 
+2) Most notably, TEPCO reported an increased amount of 
+radioactive substances emitted  into the atmosphere.  TEPCO 
+issued a corrected statement on July 18 in which it admitted 
+it miscalculated the amount of radiation leakage. Originally 
+it reported 60,000Bq of radiation had been released, however, 
+after recalculation, TEPCO determined the estimated amount to 
+be 90,000Bq of radioactivity material. 
+ 
+3) At the No.7 reactor that automatically stopped operations 
+due to the quake, radioactive iodine, cobalt, and chromium 
+were detected in a filter of the main ventilation system when 
+it was removed in a weekly routine exchange and then 
+measured. The total detected amount of radioactivity is 
+estimated to be 3X10 8Bq. However, radiation dose from this 
+radioactivity is estimated to be approximately 1.1X10 -7mSv, 
+which is quite less than legal safety standards (1mSv/year). 
+Therefore, there is no impact on the surrounding environment, 
+according to Japanese official reports. In the Radioactive 
+Solid Waste Storage House No. 2, approximately 100 drums 
+toppled and lids of several drums were open. TEPCO said that 
+after inspecting the floor, 0.5 vectors of radiation per 
+square meter were released.  The contamination is still under 
+investigation, however, according to Post's contact in the 
+Japan Nuclear Energy Safety Organization, the drums contained 
+low-level nuclear waste and pose no imminent threat to the 
+environment. 
+SCHIEFFER
