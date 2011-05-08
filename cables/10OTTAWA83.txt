@@ -1,0 +1,68 @@
+10OTTAWA83
+CANADIAN AUDITOR GENERAL DECLINES OIOS NOMINATION
+Thu Feb 25 00:00:00 +0100 2010
+CONFIDENTIAL
+Embassy Ottawa
+VZCZCXYZ0000
+OO RUEHWEB
+
+DE RUEHOT #0083 0561816
+ZNY CCCCC ZZH
+O R 251816Z FEB 10
+FM AMEMBASSY OTTAWA
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 0393
+INFO ALL CANADIAN POSTS COLLECTIVE
+RUCNDT/USMISSION USUN NEW YORK 0017
+RUEHDR/AMEMBASSY DAR ES SALAAM 0002
+RUEHLO/AMEMBASSY LONDON 0011
+RUEHMV/AMEMBASSY MONROVIA
+RUEHNE/AMEMBASSY NEW DELHI 0007
+RUEHSA/AMEMBASSY PRETORIA 0002id: 250860
+date: 2/25/2010 18:16
+refid: 10OTTAWA83
+origin: Embassy Ottawa
+classification: CONFIDENTIAL
+destination: 09OTTAWA839|10STATE16709
+header:
+VZCZCXYZ0000
+OO RUEHWEB
+DE RUEHOT #0083 0561816
+ZNY CCCCC ZZH
+O R 251816Z FEB 10
+FM AMEMBASSY OTTAWA
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 0393
+INFO ALL CANADIAN POSTS COLLECTIVE
+RUCNDT/USMISSION USUN NEW YORK 0017
+RUEHDR/AMEMBASSY DAR ES SALAAM 0002
+RUEHLO/AMEMBASSY LONDON 0011
+RUEHMV/AMEMBASSY MONROVIA
+RUEHNE/AMEMBASSY NEW DELHI 0007
+RUEHSA/AMEMBASSY PRETORIA 0002
+----------------- header ends ----------------
+C O N F I D E N T I A L OTTAWA 000083
+SIPDIS
+SIPDIS
+AMEMBASSY OTTAWA PASS TO AMCONSUL QUEBEC
+AMEMBASSY OTTAWA PASS TO APP WINNIPEG
+E.O. 12958: DECL: 2020/02/25
+TAGS: PREL AORC AMGT CA
+SUBJECT: CANADIAN AUDITOR GENERAL DECLINES OIOS NOMINATION
+REF: STATE 16709; 09 OTTAWA 839
+CLASSIFIED BY: Scott Bellard, Minister Counselor, Ottawa, POL;
+REASON: 1.4(B), (D)
+¶1. (C) In a meeting with PolMinCouns on February 25, Auditor
+General of Canada Shelia Fraser said that she was "deeply honored"
+that the USG had nominated her as a candidate for the head of the
+UN Office of Internal Oversight Services (OIOS). She asked,
+however, that the USG withdraw her nomination. She explained that
+she was wholeheartedly committed to serving out her current mandate
+as Auditor General through May 2011, after which she planned to
+take at least six months to decide on future employment options, if
+any. She said that she was well aware of the important role of
+OIOS and has known Inga-Britt Ahlenius for many years. She added
+that no one from the UN had yet contacted her about this
+nomination, so our request to meet came as quite a surprise. She
+reiterated deep appreciation that the USG had thought highly enough
+of her and her agency to consider this nomination.
+JACOBSON
+=======================CABLE ENDS============================
