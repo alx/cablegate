@@ -15,15 +15,15 @@ RUEHZL/EUROPEAN POLITICAL COLLECTIVE PRIORITY
 RUEHXD/MOSCOW POLITICAL COLLECTIVE PRIORITY
 RHEHNSC/NSC WASHDC PRIORITY
 RHMFISS/DEPT OF ENERGY WASHINGTON DC PRIORITY
-RUCPDOC/DEPT OF COMMERCE WASHDC PRIORITYC O N F I D E N T I A L SECTION 01 OF 02 MOSCOW 002273 
- 
-SIPDIS 
- 
-DEPT FOR EUR/RUS, FOR EEB/ESC/IEC GALLOGLY AND WRIGHT 
-EUR/CARC, SCA (GALLAGHER, SUMAR) 
-DOE FOR FREDRIKSEN, HEGBORG, EKIMOFF 
-DOC FOR 4231/IEP/EUR/JBROUGHER 
- 
+RUCPDOC/DEPT OF COMMERCE WASHDC PRIORITYC O N F I D E N T I A L SECTION 01 OF 02 MOSCOW 002273
+
+SIPDIS
+
+DEPT FOR EUR/RUS, FOR EEB/ESC/IEC GALLOGLY AND WRIGHT
+EUR/CARC, SCA (GALLAGHER, SUMAR)
+DOE FOR FREDRIKSEN, HEGBORG, EKIMOFF
+DOC FOR 4231/IEP/EUR/JBROUGHER
+
 E.O. 12958: DECL: 08/06/2018 TAGS: EPET ENRG ECON PREL PINR RS
 
 ------- SUMMARY -------
@@ -40,6 +40,10 @@ E.O. 12958: DECL: 08/06/2018 TAGS: EPET ENRG ECON PREL PINR RS
 
 4.(C) Sliger, who has been with the company since its founding and helped put the original deal together, sees "about a 30% chance" at a resolution preventing arbitration. "And to get there, we would have to engage in trench warfare with mustard gas." He said CEO Bob Dudley, will have difficulty managing the company from abroad and is unlikely to return to Russia as TNK-BP's CEO. He added that Dudley might also face additional charges of labor code violations, which would allow the labor authorities to temporarily suspend him from his post.
 
-5.(C) Sliger said AAR partners Fridman and Viktor Vekselberg want to get as much money as they can out of TNK-BP, but that Khan ************ wants control of the company that he believes he has built. According to Sliger, the Russian partners simply do not understand how modern corporations work, and thus do not appreciate the implications of their actions for TNK-BP. As long as TNK-BP can continue to pump oil and gas, the Russians will believe all is well. However, what they fail to grasp, Sliger explained, is that the departure of the expats will effect the company's performance. The CFO's departure, for example, will lower the quality of company audits, thus raising uncertainties and risks for lenders, and thus raising the cost of capital for the company. ------- MOSCOW 00002273 002 OF 002 COMMENT -------
+5.(C) Sliger said AAR partners Fridman and Viktor Vekselberg want to get as much money as they can out of TNK-BP, but that Khan XXXXXXXXXXXX wants control of the company that he believes he has built. According to Sliger, the Russian partners simply do not understand how modern corporations work, and thus do not appreciate the implications of their actions for TNK-BP. As long as TNK-BP can continue to pump oil and gas, the Russians will believe all is well. However, what they fail to grasp, Sliger explained, is that the departure of the expats will effect the company's performance. The CFO's departure, for example, will lower the quality of company audits, thus raising uncertainties and risks for lenders, and thus raising the cost of capital for the company.
 
-6.(C) The Russian stock exchanges have lost more than a quarter of their value since mid-May, much of it in the last few weeks. TNK-BP's woes have contributed to this, highlighting the uncertainties and risks related to doing business here. End comment. RUBIN
+------- COMMENT -------
+
+6.(C) The Russian stock exchanges have lost more than a quarter of their value since mid-May, much of it in the last few weeks. TNK-BP's woes have contributed to this, highlighting the uncertainties and risks related to doing business here. End comment.
+
+RUBIN

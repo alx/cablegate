@@ -1,5 +1,5 @@
 09BRASILIA1383
-BRAZIL: BLACKOUT -CAUSES AND IMPLICATIONS Classified By: Charge d'Affaires Cherie Jackson, Reasons 1.4 (b) and (d). REFTELS: A) 2008 BRASILIA 672, B) 2008 BRASILIA 593, C)2008 SAO PAULO 260
+BRAZIL: BLACKOUT -CAUSES AND IMPLICATIONS
 Tue Dec 01 00:00:00 +0100 2009
 SECRET
 Embassy Brasilia
@@ -20,80 +20,399 @@ RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
 RUMIASA/USSOUTHCOM MIAMI FL
 RHEHAAA/NATIONAL SECURITY COUNCIL WASHDC
 RUEFHLC/DEPT OF HOMELAND SECURITY WASHDCS E C R E T SECTION 01 OF 05 BRASILIA 001383 
-
+ 
 SIPDIS 
-
+ 
 NSC FOR RACHEL WALSH, LUIS ROSELLO 
 DOE FOR GARY WARD, RUSS ROTH 
-COMMERCE FOR ITA/MAC/ANNE DRISCOLL, LORRIE FUSSELL DEPT FOR WHA/FO, WHA/EPSC, WHA/BSC 
-DEPT ALSO FOR EEB MATT MCMANUS, BRIAN DUGGAN DEPT PASS DHS AND USTDA 
+COMMERCE FOR ITA/MAC/ANNE DRISCOLL, LORRIE FUSSELL 
+DEPT FOR WHA/FO, WHA/EPSC, WHA/BSC 
+DEPT ALSO FOR EEB MATT MCMANUS, BRIAN DUGGAN 
+DEPT PASS DHS AND USTDA 
+ 
 E.O. 12958: DECL: 011/2/2019 
 TAGS: ENRG ECON KSEC ECIP EINV PREL BR
-
-SUBJECT: BRAZIL: BLACKOUT -CAUSES AND IMPLICATIONS Classified By: Charge d'Affaires Cherie Jackson, Reasons 1.4 (b) and (d). REFTELS: A) 2008 BRASILIA 672, B) 2008 BRASILIA 593, C)2008 SAO PAULO 260 
-
-¶1. (S)SUMMARY: On November 10 at 22:13, Brazil experienced a blackout that plunged 18 of Brazil's 27 states into darkness for periods ranging from 20 minutes to 6 hours. A government commission is investigating, with a draft report and recommendations expected mid-December. GOB has recently begun to focus more attention on infrastructure security, both within the President's office and at Mines and Energy (MME), while an intensive process is also underway to develop recommendations to avoid outage problems in the future. The newly heightened concerns about Brazil's infrastructure as a result of this blackout, combined with the need to address infrastructure challenges in the run-up to the 2014 World Cup and 2016 Olympics, present the United States opportunities for engagement on infrastructure development as well critical infrastructure protection and possibly cyber security. Mission encourages USG agencies, including DOD, DHS, FCC, TDA and others, to explore these opportunities in the near-term. END SUMMARY 
-
+SUBJECT: BRAZIL: BLACKOUT -CAUSES AND IMPLICATIONS 
+ 
+Classified By: Charge d'Affaires Cherie Jackson, Reasons 1.4 (b) and 
+(d). 
+ 
+REFTELS:  A) 2008 BRASILIA 672, B) 2008 BRASILIA 593, C)2008 SAO 
+PAULO 260 
+ 
+¶1. (S)SUMMARY:  On November 10 at 22:13, Brazil experienced a 
+blackout that plunged 18 of Brazil's 27 states into darkness for 
+periods ranging from 20 minutes to 6 hours. A government commission 
+is investigating, with a draft report and recommendations expected 
+mid-December.  GOB has recently begun to focus more attention on 
+infrastructure security, both within the President's office and at 
+Mines and Energy (MME), while an intensive process is also underway 
+to develop recommendations to avoid outage problems in the future. 
+The newly heightened concerns about Brazil's infrastructure as a 
+result of this blackout, combined with the need to address 
+infrastructure challenges in the run-up to the 2014 World Cup and 
+2016 Olympics, present the United States opportunities for engagement 
+on infrastructure development as well critical infrastructure 
+protection and possibly cyber security.  Mission encourages USG 
+agencies, including DOD, DHS, FCC, TDA and others, to explore these 
+opportunities in the near-term.  END SUMMARY 
+ 
 THE EVENT 
-
-¶2. (U) On November 10 at 22:13, Brazil experienced a blackout that plunged 18 of Brazil's 27 states into darkness for periods ranging from 20 minutes to 6 hours. The blackout represented a loss of 28,000 megawatts - or 45 percent of total Brazilian consumption at that instant - of electricity and left an estimated 87 million residents without power. Scrutiny has been intense and speculation rife over the cause of the incident, in large part due to the recent announcement of Rio as the host of the 2016 summer Olympics. 
-
+¶2.  (U) On November 10 at 22:13, Brazil experienced a blackout that 
+plunged 18 of Brazil's 27 states into darkness for periods ranging 
+from 20 minutes to 6 hours.  The blackout represented a loss of 
+28,000 megawatts - or 45 percent of total Brazilian consumption at 
+that instant - of electricity and left an estimated 87 million 
+residents without power.  Scrutiny has been intense and speculation 
+rife over the cause of the incident, in large part due to the recent 
+announcement of Rio as the host of the 2016 summer Olympics. 
+ 
 WHAT HAS THE GOVERNMENT DETERMINED SO FAR? 
-
-¶3. (C) On November 18, Econoff met with Plinio de Oliveira, the President of ONS, the governmental agency responsible for the nation's interlinked electricity grid, along with Wilkens Geraldes Filho, ONS's Director of Statistical Analysis, and Elione Vierira de Araujo, a top engineer. They had spent much of the past week researching the incident and presenting explanations as to what happened. Geraldes and Olivera joined the conversation late after an impromptu meeting with the Director General of ONS to discuss the incident. The team gave Econoff the same presentation they gave after the incident to Energy Minister Lobao. On November 20, Econoff met separately with Jose Coimbra, Chief of Staff to Minister of Mines and Energy Edison Lobao, and Ildo Wilson Grudtner, Deputy Assistant Secretary for Electrical Energy, who was the Ministry official called in to work the issue the night of November the 10th and with overall responsibility for electrical sector planning. 
-
-¶4. (C) Based on those detailed discussions, the following is what the government now says occurred. The source of the outage was a substation close to Sao Paulo called Itaburi on the Tijuco Preto powerline, which supplies Sao Paulo and then Rio with power from the Itaipu dam (a binational hydroelectric dam on the border with Paraguay responsible for 12,600MW of energy or 20 percent of Brazil's energy supply. Brazil's energy matrix is heavily hydro dependent - 80 percent - with the rest a combination of thermo, nuclear, and some bioelectricity.). At that point in the system there are three separate power lines that connect Itaipu into Sao Paulo carrying 765 kilovolts of 60HZ AC supply. There is a separate supply line from Itaipu into Sao Paulo north of the Tijuco Preto power line, which carries 50 Hz of DC power. The Sao Paulo/Rio region is also linked by separate lines to the southern part of the country, as well as to the north and north east, which are also interlinked with one another. Overall system consumption for the day was 60 GW, well below total system capacity of 105 GW. 
-
-¶5. (C) At 22:13, there was a short circuit in one of the three Itaburi lines in what they call the "B" cycle. 13.5 milliseconds later, cycle "A" experienced a short circuit in the second line. 3.2 milliseconds after that, the substation at Itaber went out, knocking out the third and final line, completely disrupting the flow of the southern supply line from Itaipu into Sao Paulo. When this happened, automated controls took over to preserve the system. The generators at Itaipu shut down when they detected the disruption in BRASILIA 00001383 002 OF 005 transmission, thereby also shutting down the northern supply line to Sao Paulo. The interlinked systems in the northeast and northern regions of the country, detecting oscillation in the supply coming from Sao Paulo, shut off the transmission lines to protect those regions. In the southern region of the country, which was also providing energy supply to Sao Paulo, the sudden changes in frequency triggered ERAC (an emergency system in each substation monitoring balance between the supply and the load) isolating the southern section from the rest of the grid. These changes preserved the rest of the system and permitted a quick return to service for most of the country, but left the major population centers without power for up to six hours. 
-
+¶3.  (C) On November 18, Econoff met with Plinio de Oliveira, the 
+President of ONS, the governmental agency responsible for the 
+nation's interlinked electricity grid, along with Wilkens Geraldes 
+Filho, ONS's Director of Statistical Analysis, and Elione Vierira de 
+Araujo, a top engineer.  They had spent much of the past week 
+researching the incident and presenting explanations as to what 
+happened.  Geraldes and Olivera joined the conversation late after an 
+impromptu meeting with the Director General of ONS to discuss the 
+incident.  The team gave Econoff the same presentation they gave 
+after the incident to Energy Minister Lobao.  On November 20, Econoff 
+met separately with Jose Coimbra, Chief of Staff to Minister of Mines 
+and Energy Edison Lobao, and Ildo Wilson Grudtner, Deputy Assistant 
+Secretary for Electrical Energy, who was the Ministry official called 
+in to work the issue the night of November the 10th and with overall 
+responsibility for electrical sector planning. 
+ 
+¶4.  (C) Based on those detailed discussions, the following is what 
+the government now says occurred.  The source of the outage was a 
+substation close to Sao Paulo called Itaburi on the Tijuco Preto 
+powerline, which supplies Sao Paulo and then Rio with power from the 
+Itaipu dam (a binational hydroelectric dam on the border with 
+Paraguay responsible for 12,600MW of energy or 20 percent of Brazil's 
+energy supply.  Brazil's energy matrix is heavily hydro dependent - 
+80 percent - with the rest a combination of thermo, nuclear, and some 
+bioelectricity.).  At that point in the system there are three 
+separate power lines that connect Itaipu into Sao Paulo carrying 765 
+kilovolts of 60HZ AC supply.  There is a separate supply line from 
+Itaipu into Sao Paulo north of the Tijuco Preto power line, which 
+carries 50 Hz of DC power.  The Sao Paulo/Rio region is also linked 
+by separate lines to the southern part of the country, as well as to 
+the north and north east, which are also interlinked with one 
+another.  Overall system consumption for the day was 60 GW, well 
+below total system capacity of 105 GW. 
+ 
+¶5.  (C) At 22:13, there was a short circuit in one of the three 
+Itaburi lines in what they call the "B" cycle.  13.5 milliseconds 
+later, cycle "A" experienced a short circuit in the second line.  3.2 
+milliseconds after that, the substation at Itaber went out, knocking 
+out the third and final line, completely disrupting the flow of the 
+southern supply line from Itaipu into Sao Paulo.  When this happened, 
+automated controls took over to preserve the system.  The generators 
+at Itaipu shut down when they detected the disruption in 
+ 
+BRASILIA 00001383  002 OF 005 
+ 
+ 
+transmission, thereby also shutting down the northern supply line to 
+Sao Paulo.  The interlinked systems in the northeast and northern 
+regions of the country, detecting oscillation in the supply coming 
+from Sao Paulo, shut off the transmission lines to protect those 
+regions.  In the southern region of the country, which was also 
+providing energy supply to Sao Paulo, the sudden changes in frequency 
+triggered ERAC (an emergency system in each substation monitoring 
+balance between the supply and the load) isolating the southern 
+section from the rest of the grid.  These changes preserved the rest 
+of the system and permitted a quick return to service for most of the 
+country, but left the major population centers without power for up 
+to six hours. 
+ 
 WHAT FACTORS EXACERABATED THE EVENT? 
-
-¶6. (C) Geraldes described the events of November 10 as unusual, not in the interruption of the system, but in the confluence of events that led to the overall catastrophic scale of the blackout. He said that a similar disruption taking out the same line had occurred in the past but the system had been operating in such a way that the flow was redistributed with very little disruption. In the November 10 case, reservoirs were full due to recent abundant rainfalls and the thermal plants, which are often tapped to augment flow, were not operating. The interlinked system which allows electricity from any part of the country to be distributed to any other part was exporting power from the primary hydroplants in the South to the Sao Paulo/Rio region. According to Geraldes, in prior instances, the situation was reversed, with flow exported from Sao Paulo to the south during periods of less plentiful rainfall and the disruption had very little effect on the overall supply. 
-
-¶7. (C) Grudtner said international standards generally call for a system to have capacity allowing unimpeded operation with one transmission line inoperable. At the time of the incident, the Brazilian system was operating at a capacity of unimpeded operations with two lines down, but the incident took out all three lines feeding into Sao Paulo. Additionally Coimbra pointed out, each of the lines which were disabled have recovery times of ten seconds, but the short circuits occurred within milliseconds of one another, disabling the transmission system with automatic shutdowns before the lines were able to recover. Geraldes called it the worst possible configuration of factors that led to a cascade effect. 
-
+¶6.  (C) Geraldes described the events of November 10 as unusual, not 
+in the interruption of the system, but in the confluence of events 
+that led to the overall catastrophic scale of the blackout.  He said 
+that a similar disruption taking out the same line had occurred in 
+the past but the system had been operating in such a way that the 
+flow was redistributed with very little disruption.  In the November 
+10 case, reservoirs were full due to recent abundant rainfalls and 
+the thermal plants, which are often tapped to augment flow, were not 
+operating.  The interlinked system which allows electricity from any 
+part of the country to be distributed to any other part was exporting 
+power from the primary hydroplants in the South to the Sao Paulo/Rio 
+region.  According to Geraldes, in prior instances, the situation was 
+reversed, with flow exported from Sao Paulo to the south during 
+periods of less plentiful rainfall and the disruption had very little 
+effect on the overall supply. 
+ 
+¶7.  (C) Grudtner said international standards generally call for a 
+system to have capacity allowing unimpeded operation with one 
+transmission line inoperable.  At the time of the incident, the 
+Brazilian system was operating at a capacity of unimpeded operations 
+with two lines down, but the incident took out all three lines 
+feeding into Sao Paulo.  Additionally Coimbra pointed out, each of 
+the lines which were disabled have recovery times of ten seconds, but 
+the short circuits occurred within milliseconds of one another, 
+disabling the transmission system with automatic shutdowns before the 
+lines were able to recover.  Geraldes called it the worst possible 
+configuration of factors that led to a cascade effect. 
+ 
 WHAT IS THE GOVERNMENT DOING TO INVESTIGATE FURTHER? 
-
-¶8. (C) A government commission composed of ONS and the Brazilian electricity regulator ANEEL is investigating exactly what happened on November 10. The commission has 30 days from its formation on November 13 to complete a draft of its findings, including possible recommendations. The government will then submit the draft report to an independent group of non-governmental experts and academicians for review. The government will finalize the report after that review. In the absence of the final report, neither ONS nor MME offered a definitive explanation for what caused these outages. However, they both maintained that the short circuits are consistent with either a lightning strike (although ONS took pains to show satellite photos demonstrating that there were not storms in that area at that particular time) or a combination of low barometric pressure combined with high winds and high humidity. ONS also showed photos of transmission towers with visible discoloration, which they say further supports these two theories and rules out damage from trees, physical sabotage, or hackers. (Note: there was no way for Econoff to verify the location of the towers in the photos, the times of the discoloration, nor the cause. End Note.) 
-
-¶9. (C) Oliveira and Geraldes further ruled out the possibility of hackers because, following some acknowledged interferences in past years, GOB has closed the system to only a small group of authorized operators, separated the transmission control system from other systems, and installed filters. Coimbra confirmed that the ONS system is a CLAN network using its own wires carried above the electricity wires. Oliveira pointed out that even if someone had managed to gain access to the system, a voice command is required to disrupt transmission. Coimbra said that while sabotage could have caused the outages, this type of disruption would have been deadly, and investigators would have found physical evidence, including the body of the perpetrator. He also noted that any internal attempts by system employees to disrupt the system would have been easily BRASILIA 00001383 003 OF 005 traceable, a fact known to anyone with access to the system. 
-
+¶8.  (C) A government commission composed of ONS and the Brazilian 
+electricity regulator ANEEL is investigating exactly what happened on 
+November 10.  The commission has 30 days from its formation on 
+November 13 to complete a draft of its findings, including possible 
+recommendations.  The government will then submit the draft report to 
+an independent group of non-governmental experts and academicians for 
+review.  The government will finalize the report after that review. 
+In the absence of the final report, neither ONS nor MME offered a 
+definitive explanation for what caused these outages.  However, they 
+both maintained that the short circuits are consistent with either a 
+lightning strike (although ONS took pains to show satellite photos 
+demonstrating that there were not storms in that area at that 
+particular time) or a combination of low barometric pressure combined 
+with high winds and high humidity.  ONS also showed photos of 
+transmission towers with visible discoloration, which they say 
+further supports these two theories and rules out damage from trees, 
+physical sabotage, or hackers.  (Note: there was no way for Econoff 
+to verify the location of the towers in the photos, the times of the 
+discoloration, nor the cause.  End Note.) 
+ 
+¶9.  (C) Oliveira and Geraldes further ruled out the possibility of 
+hackers because, following some acknowledged interferences in past 
+years, GOB has closed the system to only a small group of authorized 
+operators, separated the transmission control system from other 
+systems, and installed filters.  Coimbra confirmed that the ONS 
+system is a CLAN network using its own wires carried above the 
+electricity wires.  Oliveira pointed out that even if someone had 
+managed to gain access to the system, a voice command is required to 
+disrupt transmission.  Coimbra said that while sabotage could have 
+caused the outages, this type of disruption would have been deadly, 
+and investigators would have found physical evidence, including the 
+body of the perpetrator.  He also noted that any internal attempts by 
+system employees to disrupt the system would have been easily 
+ 
+BRASILIA 00001383  003 OF 005 
+ 
+ 
+traceable, a fact known to anyone with access to the system. 
+ 
 THEORIES FROM THE PRIVATE SECTOR, PRESS, AND OTHER AGENCIES 
-
-¶10. (U) In the days immediately following the event, government officials were quoted giving explanations ranging from a downed powerline hit by a tree, storm damage, to the more general and on-message short circuit. Meteorologists and energy analysts questioned the government's weather explanations. Brazil's National Institute of Space Research (INPE), which monitors atmospheric activity, stated they recorded no lightning strikes on the day of the blackout in the immediate vicinity of the transmission lines in question. Adriano Pires, founding director of the Brazilian Center for Infrastructure and a highly-regarded Rio-based energy expert, ruled out the government's explanations, instead blaming an outdated national grid unable to keep pace with demand. In order to avoid future widespread outages, Pires told Rio Econoff, the Brazilian government needs to diversify its sources away from Itaipu by increasing thermoelectric generation and focusing less on just operating costs. Press reports have also suggested that, in order to handle the 2014 World Cup and 2016 Olympic Games, the GoB needs to upgrade its transmission lines and build smaller-scale power plants - independent of the national grid - closer to high energy consumption centers, such as Rio de Janeiro and Sao Paulo. 
-
-¶11. (C) In the meeting with Brasilia econoff, ONS officials uniformly rejected the claims of an outdated grid, noting that the current grid was brought up to date after the 2001 blackouts, and now meets and exceeds international performance criteria and serves some 98% of the country. Coimbra laughed at the suggestion that more construction of thermo plants is the solution, not only because there are existing thermo plants which are not being utilized due to high generation costs, but because even had they been in use, the thermo plants would need 12-13 hours to power up after a power failure. Itaipu was operating again at full capacity less than 30 minutes after the disruption. 
-
-¶12. (S) Two days after the incident, according to a credible source, security officials in Brazil were attributing the outage to "human error" on the part of a Brazilian national who is a system operator. Accordingly to the source, that operator was under investigation. Source is unavailable for further comment on whether evolving assessments may have affected that hypothesis and the status of that particular investigation is unknown. There was also private speculation in at least one conversation among some government officials, apparently based in part of the coincidental "60 Minutes program" just days earlier suggesting vulnerabilities in the Brazilian system, that U.S. private sector interests may have engineered the blackouts to gain better commercial access to the grid. 
-
+¶10.  (U) In the days immediately following the event, government 
+officials were quoted giving explanations ranging from a downed 
+powerline hit by a tree, storm damage, to the more general and 
+on-message short circuit.  Meteorologists and energy analysts 
+questioned the government's weather explanations.  Brazil's National 
+Institute of Space Research (INPE), which monitors atmospheric 
+activity, stated they recorded no lightning strikes on the day of the 
+blackout in the immediate vicinity of the transmission lines in 
+question.  Adriano Pires, founding director of the Brazilian Center 
+for Infrastructure and a highly-regarded Rio-based energy expert, 
+ruled out the government's explanations, instead blaming an outdated 
+national grid unable to keep pace with demand.  In order to avoid 
+future widespread outages, Pires told Rio Econoff, the Brazilian 
+government needs to diversify its sources away from Itaipu by 
+increasing thermoelectric generation and focusing less on just 
+operating costs.  Press reports have also suggested that, in order to 
+handle the 2014 World Cup and 2016 Olympic Games, the GoB needs to 
+upgrade its transmission lines and build smaller-scale power plants - 
+independent of the national grid - closer to high energy consumption 
+centers, such as Rio de Janeiro and Sao Paulo. 
+ 
+¶11.  (C) In the meeting with Brasilia econoff, ONS officials 
+uniformly rejected the claims of an outdated grid, noting that the 
+current grid was brought up to date after the 2001 blackouts, and now 
+meets and exceeds international performance criteria and serves some 
+98% of the country.  Coimbra laughed at the suggestion that more 
+construction of thermo plants is the solution, not only because there 
+are existing thermo plants which are not being utilized due to high 
+generation costs, but because even had they been in use, the thermo 
+plants would need 12-13 hours to power up after a power failure. 
+Itaipu was operating again at full capacity less than 30 minutes 
+after the disruption. 
+ 
+¶12.  (S) Two days after the incident, according to a credible source, 
+security officials in Brazil were attributing the outage to "human 
+error" on the part of a Brazilian national who is a system operator. 
+Accordingly to the source, that operator was under investigation. 
+Source is unavailable for further comment on whether evolving 
+assessments may have affected that hypothesis and the status of that 
+particular investigation is unknown.  There was also private 
+speculation in at least one conversation among some government 
+officials, apparently based in part of the coincidental "60 Minutes 
+program" just days earlier suggesting vulnerabilities in the 
+Brazilian system, that U.S. private sector interests may have 
+engineered the blackouts to gain better commercial access to the 
+grid. 
+ 
 INTERIM STEPS TO PREVENT SECURITY AND OUTAGE INCIDENTS 
-
-¶13. (C) Geraldes acknowledged that the spotlight of the Olympic Games brings an increased scrutiny of the system. ONS has a protocol to guard against electricity disruptions which has been utilized during special events such as the Pan Am Games in 2007 and will be used in upcoming events including the 2014 World Cup and the 2016 Olympics. The protocol includes running all thermal plants, many of these located close to major cities including Rio, during the event to ensure multiple sources of generation. Regular maintenance is deferred during the event to minimize the possibility of disruption and regular transmission patterns are maintained to ensure the consistency of normal flow. Geraldes acknowledged actual physical security was a low priority under this protocol and said no special plans were made even during events. As Geraldes said, "That has been less of a concern for us than for you." However he agreed that there could be an increased focus on physical security in advance of the games, particularly after this incident has called attention to possible weaknesses in the system. 
-
-¶14. (C) The perspective from MME was somewhat different. Coimbra noted that "we are not immune from the kinds of threats that you have seen in recent years." There is a group in President Lula's office known as the Cabinet for Infrastructure Security (GSI) that is looking at infrastructure security. Coimbra recalled that they were the first to contact him after the incident. Grudtner is tasked with leading the Ministry's own effort on physical security and he said BRASILIA 00001383 004 OF 005 that the MME working group is in the process of defining which installations are of greatest concern/most integral to the system, and therefore in need of physical protection. 
-
-¶15. (C) ONS officials told Econoff that there was also an intensive process going on at the Energy Planning Agency, EPE, to develop recommendations for how to avoid outage problems in the future. One immediate measure Brazil has undertaken to guard against a repeat occurrence during the investigation period is reducing the amount of flow in any one direction to take the pressure off the system - but with the by-product of increased reliance on the more expensive thermo plants, increasing the price of electricity. Another longer-term option under consideration would be to build newer, larger, and therefore stronger transmission equipment; an expensive option that the ONS contacts intimated would not be worth the price to avoid a highly unlikely repeat of the November 10 blackout. 16. (SBU) ONS shared the country's five year plan for energy which plans for significant increases in energy demand, to be largely met in the near term with new hydro plants and increases in oil-fueled electric plants. While projections show sufficient electricity to meet demand, Geraldes cautioned the picture could change if there are unanticipated delays in completing the Belo Monte hydro plant due to come on line in April of 2014, just a few months in advance of the July World Cup. 
-
-¶17. (C) Though MME's Coimbra did not offer any thoughts for what might be technological recommendations after this event, he did say that one area of focus for the GOB in a lessons learned-type exercise would be improving communications with the public during such events, as well as in advance of anticipated maintenance that could cause temporary outages. He was interested in learning more about the U.S. Emergency Broadcast system as one possible way of handling this challenge. Econoff committed to research the U.S. program and send information to see whether cooperation on this front was feasible. 
-
+¶13.  (C) Geraldes acknowledged that the spotlight of the Olympic 
+Games brings an increased scrutiny of the system.  ONS has a protocol 
+to guard against electricity disruptions which has been utilized 
+during special events such as the Pan Am Games in 2007 and will be 
+used in upcoming events including the 2014 World Cup and the 2016 
+Olympics.  The protocol includes running all thermal plants, many of 
+these located close to major cities including Rio, during the event 
+to ensure multiple sources of generation.  Regular maintenance is 
+deferred during the event to minimize the possibility of disruption 
+and regular transmission patterns are maintained to ensure the 
+consistency of normal flow.  Geraldes acknowledged actual physical 
+security was a low priority under this protocol and said no special 
+plans were made even during events.  As Geraldes said, "That has been 
+less of a concern for us than for you."  However he agreed that there 
+could be an increased focus on physical security in advance of the 
+games, particularly after this incident has called attention to 
+possible weaknesses in the system. 
+ 
+¶14.  (C) The perspective from MME was somewhat different.  Coimbra 
+noted that "we are not immune from the kinds of threats that you have 
+seen in recent years."  There is a group in President Lula's office 
+known as the Cabinet for Infrastructure Security (GSI) that is 
+looking at infrastructure security. Coimbra recalled that they were 
+the first to contact him after the incident.  Grudtner is tasked with 
+leading the Ministry's own effort on physical security and he said 
+ 
+BRASILIA 00001383  004 OF 005 
+ 
+ 
+that the MME working group is in the process of defining which 
+installations are of greatest concern/most integral to the system, 
+and therefore in need of physical protection. 
+ 
+¶15.  (C) ONS officials told Econoff that there was also an intensive 
+process going on at the Energy Planning Agency, EPE, to develop 
+recommendations for how to avoid outage problems in the future.   One 
+immediate measure Brazil has undertaken to guard against a repeat 
+occurrence during the investigation period is reducing the amount of 
+flow in any one direction to take the pressure off the system - but 
+with the by-product of increased reliance on the more expensive 
+thermo plants, increasing the price of electricity.  Another 
+longer-term option under consideration would be to build newer, 
+larger, and therefore stronger transmission equipment; an expensive 
+option that the ONS contacts intimated would not be worth the price 
+to avoid a highly unlikely repeat of the November 10 blackout. 
+ 
+¶16.  (SBU) ONS shared the country's five year plan for energy which 
+plans for significant increases in energy demand, to be largely met 
+in the near term with new hydro plants and increases in oil-fueled 
+electric plants.  While projections show sufficient electricity to 
+meet demand, Geraldes cautioned the picture could change if there are 
+unanticipated delays in completing the Belo Monte hydro plant due to 
+come on line in April of 2014, just a few months in advance of the 
+July World Cup. 
+ 
+¶17.  (C) Though MME's Coimbra did not offer any thoughts for what 
+might be technological recommendations after this event, he did say 
+that one area of focus for the GOB in a lessons learned-type exercise 
+would be improving communications with the public during such events, 
+as well as in advance of anticipated maintenance that could cause 
+temporary outages.  He was interested in learning more about the U.S. 
+Emergency Broadcast system as one possible way of handling this 
+challenge.  Econoff committed to research the U.S. program and send 
+information to see whether cooperation on this front was feasible. 
+ 
 MANAGING THE POLITICS 
-
-¶18. (C) Both MME and ONS were eager to put the November 10 blackout in perspective. ONS offered a slide that showed other comparable international blackouts over the last 30 years, including the four day East Coast blackout in 2003, detailing both the extent and duration of the blackouts; a cmparison in which the Brazil blackout fared well. Coimbra told Econoff that an American engineering association had sent an official letter of congratulations to the Center for Electrical Research, CEPAL, on the rapid recovery of the system and inviting them to a U.S. conference in the first part of next year to share their experiences. Both ONS and MME point out how quickly most of the system came back (the majority of the affected areas experienced outages of 20 minutes and the longest outage was six hours in Sao Paulo). As Grudtner said, the electrical sector was happy because the system functioned as it should have and came back comparatively quickly, but the politicians are not. Meanwhile, he noted wryly, the press is pleased to have fodder for its reports. Congress has called for hearings on the incident which have had to be postponed because experts were traveling to the area on a fact finding mission in order to complete the investigation report. 
-
+¶18.  (C) Both MME and ONS were eager to put the November 10 blackout 
+in perspective.  ONS offered a slide that showed other comparable 
+international blackouts over the last 30 years, including the four 
+day East Coast blackout in 2003, detailing both the extent and 
+duration of the blackouts; a comparison in which the Brazil blackout 
+fared well.  Coimbra told Econoff that an American engineering 
+association had sent an official letter of congratulations to the 
+Center for Electrical Research, CEPAL, on the rapid recovery of the 
+system and inviting them to a U.S. conference in the first part of 
+next year to share their experiences.  Both ONS and MME point out how 
+quickly most of the system came back (the majority of the affected 
+areas experienced outages of 20 minutes and the longest outage was 
+six hours in Sao Paulo).  As Grudtner said, the electrical sector was 
+happy because the system functioned as it should have and came back 
+comparatively quickly, but the politicians are not.  Meanwhile, he 
+noted wryly, the press is pleased to have fodder for its reports. 
+Congress has called for hearings on the incident which have had to be 
+postponed because experts were traveling to the area on a fact 
+finding mission in order to complete the investigation report. 
+ 
 COMMENT: NOTABLE OPENNESS TO DIALOGUE WITH USG 
-
-¶19. (C) Brazilian officials were strikingly open to discussing the incident with Embassy personnel, non-defensive in response to questions, and forthcoming with their information and assessments. The willingness of the President of ONS and MME Chief of Staff to meet on such a technical issue and provide detailed information to the Embassy demonstrates the importance they place on ensuring the USG has an understanding of the blackout and Brazil's capability to handle major events in the future. Blackouts in Brazil are not uncommon (in fact Rio experienced another blackout on November 23 which has been attributed to disruptions in transmission, possibly due to stolen cables). However, the scale of the November 10 blackout, which garnered undesired international attention, may prompt Brazil to seek long-lasting solutions to weaknesses in and threats to its electricity supply. Heading into a major election year, the GOB will likely want to show they are taking measures to rebuild public trust. In light of the openness displayed by GOB officials in discussing this event, combined with a desire to show progress on addressing the issue, the USG has an opportunity to work BRASILIA 00001383 005 OF 005 with the GOB as they seek to identify possible improvements that will yield real results in the physical security and reliability of its network. 
-
+¶19.  (C) Brazilian officials were strikingly open to discussing the 
+incident with Embassy personnel, non-defensive in response to 
+questions, and forthcoming with their information and assessments. 
+The willingness of the President of ONS and MME Chief of Staff to 
+meet on such a technical issue and provide detailed information to 
+the Embassy demonstrates the importance they place on ensuring the 
+USG has an understanding of the blackout and Brazil's capability to 
+handle major events in the future.  Blackouts in Brazil are not 
+uncommon (in fact Rio experienced another blackout on November 23 
+which has been attributed to disruptions in transmission, possibly 
+due to stolen cables).  However, the scale of the November 10 
+blackout, which garnered undesired international attention, may 
+prompt Brazil to seek long-lasting solutions to weaknesses in and 
+threats to its electricity supply.  Heading into a major election 
+year, the GOB will likely want to show they are taking measures to 
+rebuild public trust.  In light of the openness displayed by GOB 
+officials in discussing this event, combined with a desire to show 
+progress on addressing the issue, the USG has an opportunity to work 
+ 
+BRASILIA 00001383  005 OF 005 
+ 
+ 
+with the GOB as they seek to identify possible improvements that will 
+yield real results in the physical security and reliability of its 
+network. 
+ 
 OPPORTUNITIES FOR USG ENGAGEMENT - SEIZE THE MOMENT 
-
-¶20. (C) Having devoted much time and many resources to correcting problems in national electricity supply that were endemic in 2001, the GOB is proud of its interlinked national transmission system and has tended to view the blackouts that do occur as isolated incidents or as problems with local distribution systems. On recent visits to the United States, Energy Deputy Minister Zimmermann suggested that transmission and long-range distribution might be a subject in which Brazil has expertise it could share with the United States in an energy cooperation agreement. While GOB will be highly resistant to the idea that other countries are more advanced than they are in transmission and distribution, GOB officials do acknowledge there is some room for improvement in their system. We will know more about the immediate cause of Brazil's major blackout in a few weeks but in the meantime, there are opportunities for the USG to take advantage of GOB's openness, highlighting the outage as reason for more engagement as well as preparations toward the 2014 World Cup and 2016 Olympics. 
-
+¶20.  (C) Having devoted much time and many resources to correcting 
+problems in national electricity supply that were endemic in 2001, 
+the GOB is proud of its interlinked national transmission system and 
+has tended to view the blackouts that do occur as isolated incidents 
+or as problems with local distribution systems.  On recent visits to 
+the United States, Energy Deputy Minister Zimmermann suggested that 
+transmission and long-range distribution might be a subject in which 
+Brazil has expertise it could share with the United States in an 
+energy cooperation agreement.  While GOB will be highly resistant to 
+the idea that other countries are more advanced than they are in 
+transmission and distribution, GOB officials do acknowledge there is 
+some room for improvement in their system.  We will know more about 
+the immediate cause of Brazil's major blackout in a few weeks but in 
+the meantime, there are opportunities for the USG to take advantage 
+of GOB's openness, highlighting the outage as reason for more 
+engagement as well as preparations toward the 2014 World Cup and 2016 
+Olympics. 
+ 
 CRITICAL INFRASTRUCTURE SECURITY COOPERATION OPPORTUNITIES 
-
-¶21. (C) This would be an excellent occasion to encourage the military to military Communication and Information Security Memorandum of Agreement (CISMOA), noting that although this incident does not appear to have been the result of an attack on the system, such an event is possible and signing this agreement would permit cooperation were one to occur. We could also consider a cybersecurity working group. Brazil might be open to pursuing cooperation on critical infrastructure protection, and MME has already told us they would be interested in learning more about our emergency broadcasting system. It is clear that physical security has not heretofore been a major focus for planners but officials acknowledge the possibility of an attack and are working on developing protections, another possible area for fruitful cooperation as a follow up from DHS visit in the later part of 2008. 
-
+¶21.  (C) This would be an excellent occasion to encourage the 
+military to military Communication and Information Security 
+Memorandum of Agreement (CISMOA), noting that although this incident 
+does not appear to have been the result of an attack on the system, 
+such an event is possible and signing this agreement would permit 
+cooperation were one to occur.  We could also consider a 
+cybersecurity working group.  Brazil might be open to pursuing 
+cooperation on critical infrastructure protection, and MME has 
+already told us they would be interested in learning more about our 
+emergency broadcasting system.  It is clear that physical security 
+has not heretofore been a major focus for planners but officials 
+acknowledge the possibility of an attack and are working on 
+developing protections, another possible area for fruitful 
+cooperation as a follow up from DHS visit in the later part of 2008. 
+ 
 INFRASTRUCTURE DEVELOPMENT COOPERATION OPPORTUNITIES 
-
-¶22. (C) Regarding infrastructure development, USTDA is now exploring the possibility of sponsoring an orientation visit or a field study on electrical power. Up to this point, USTDA has not pursued cooperation in the electrical area. Most infrastructure projects in this centralized electrical system are at the federal level, which generally translates into more bureaucracy and longer implementation times than projects undertaken at the state or local level. There are, however, electrical distribution issues which need to be addressed at the state and local levels that could benefit from USTDA involvement, possibly offering another means of engagement to help Brazil solve its electrical challenges. Prior to this event, the Energy Ministry had highlighted Smartgrid technology as one area that would be of interest to them in cooperation, perhaps more so now. 
-
-¶23. (C) Mission encourages USG agencies, including DOD, DHS, FCC, TDA and others, to explore these opportunities in the near-term. END COMMENT. 24. (U) This cable has been coordinated with ConGens Rio de Janeiro and Sao Paulo. JACKSON
+¶22. (C) Regarding infrastructure development, USTDA is now exploring 
+the possibility of sponsoring an orientation visit or a field study 
+on electrical power.  Up to this point, USTDA has not pursued 
+cooperation in the electrical area.  Most infrastructure projects in 
+this centralized electrical system are at the federal level, which 
+generally translates into more bureaucracy and longer implementation 
+times than projects undertaken at the state or local level.  There 
+are, however, electrical distribution issues which need to be 
+addressed at the state and local levels that could benefit from USTDA 
+involvement, possibly offering another means of engagement to help 
+Brazil solve its electrical challenges.  Prior to this event, the 
+Energy Ministry had highlighted Smartgrid technology as one area that 
+would be of interest to them in cooperation, perhaps more so now. 
+ 
+¶23. (C) Mission encourages USG agencies, including DOD, DHS, FCC, TDA 
+and others, to explore these opportunities in the near-term.  END 
+COMMENT. 
+ 
+¶24. (U) This cable has been coordinated with ConGens Rio de Janeiro 
+and Sao Paulo. 
+ 
+JACKSON

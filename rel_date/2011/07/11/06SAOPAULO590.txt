@@ -1,0 +1,352 @@
+06SAOPAULO590
+SEMICONDUCTORS RETURN TO BRAZIL AFTER 15 YEARS
+Tue May 30 00:00:00 +0200 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Sao Paulo
+VZCZCXRO1419
+RR RUEHRG
+DE RUEHSO #0590/01 1501205
+ZNR UUUUU ZZH
+R 301205Z MAY 06
+FM AMCONSUL SAO PAULO
+TO RUEHC/SECSTATE WASHDC 5149
+INFO RUEHBR/AMEMBASSY BRASILIA 6275
+RHEHNSC/NSC WASHDC
+RUCPDOC/USDOC WASHDC 2444
+RUEATRS/DEPT OF TREASURY WASHDC
+RUEHMN/AMEMBASSY MONTEVIDEO 2004
+RUEHKO/AMEMBASSY TOKYO 0393
+RUEHBS/USEU BRUSSELS
+RUEHBU/AMEMBASSY BUENOS AIRES 2267
+RUEHAC/AMEMBASSY ASUNCION 2594
+RUEHSG/AMEMBASSY SANTIAGO 1731
+RUEHLP/AMEMBASSY LA PAZ 2822
+RUEHNE/AMEMBASSY NEW DELHI 0059
+RUEHBJ/AMEMBASSY BEIJING 0390
+RUEHUL/AMEMBASSY SEOUL 0183
+RUEHKL/AMEMBASSY KUALA LUMPUR 0296
+RUEHDG/AMEMBASSY SANTO DOMINGO 0177
+RUEHRG/AMCONSUL RECIFE 2953
+RUEHRI/AMCONSUL RIO DE JANEIRO 7142UNCLAS SECTION 01 OF 05 SAO PAULO 000590 
+ 
+SIPDIS 
+ 
+DEPT FOR WHA/BSC, WHA/EPSC, AND EB/CIP 
+STATE PASS USTR FOR MSULLIVAN 
+STATE PASS EXIMBANK 
+STATE PASS OPIC FOR DMORONESE, NRIVERA, CVERVENNE 
+NSC FOR SUE CRONIN 
+USDOC FOR 4332/ITA/MAC/OLAC/JANDERSEN/ADRISCOLL/MWARD 
+USDOC FOR 3134/USFCS/OIO/SHUPKA 
+TREASURY FOR OASIA, DAS LEE AND FPARODI 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O.  12958: N/A 
+TAGS: ECPS EIND PGOV ETRD EINV BEXP BR
+SUBJECT: SEMICONDUCTORS RETURN TO BRAZIL AFTER 15 YEARS 
+ 
+REF:  Brasilia 891 
+ 
+------- 
+SUMMARY 
+------- 
+ 
+¶1. (U) American company Smart Modular Technologies (Smart) recently 
+inaugurated its first semiconductor factory in Brazil.  The Smart 
+plant, which encapsulates imported finished memory wafers, is the 
+first semiconductor facility in Brazil since the early 1990s when 
+all microchip companies closed operations and left the country.  For 
+the last 15 years, Brazil has been importing microprocessor 
+components and assembling chips, but not producing semi-conductors 
+locally.  Despite increasing operating costs due to the 
+strengthening Brazilian currency, Smart expects healthy profits 
+(owing to steep Brazilian import duties on semiconductors and a 
+protected market).  GoB officials claim that the return of 
+semiconductors is the result of a successful GoB strategy (announced 
+in 2003) to attract technology companies to Brazil.  However, this 
+GoB strategy played no part in Smart's decision to invest, and has 
+yet to achieve success in attracting other semiconductor investment. 
+ Brazil ostensibly wants to attract foreign investment in the 
+technology field, but does not appear ready yet to open its market. 
+In our view, a good first step would be for the GoB to adhere to the 
+1997 WTO Information Technology Agreement, which zeros out tariffs 
+on a wide range of high-tech goods, including semiconductors. 
+However, the GOB appears as yet unready to take such a step.  END 
+SUMMARY. 
+ 
+------------------ 
+SMART SETS UP SHOP 
+------------------ 
+ 
+¶2. (U) American company Smart Modular Technologies, headquartered in 
+Fremont, California, recently inaugurated its first semiconductor 
+factory in Brazil, in Atibaia, Sao Paulo state.  At the ceremonial 
+opening, Smart President Iain MacKenzie and Smart Brazil General 
+Manager Noboru Takahashi hosted GoB officials from the Ministry of 
+Development, Industry and International Trade (MDIC); the Sao Paulo 
+state Secretariat of Science, Technology and Economic Development; 
+the Sao Paulo Governor's Chief of Staff; representatives from 
+Samsung, one of Smart's tier-one wafer supply partners; and 
+EconOffs.  This is the first semiconductor plant to operate in 
+Brazil since the early 1990s when Intel, Sun, and every other chip 
+processor left.  Since then, Brazil has been importing 
+microprocessor components and assembling chips, but not producing 
+semi-conductors. 
+ 
+¶3. (U) COMPANY PROFILE: Smart (NASDAQ: SMOD) is a leading 
+independent designer, manufacturer and supplier of electronic 
+subsystems to original equipment manufacturers (OEMs).  In addition 
+to its recently inaugurated factory in Sao Paulo, Smart has 
+international operations in Santo Domingo, Dominican Republic; 
+Bangalore, India; Penang, Malaysia; Dong Guan, China; and Gunpo, 
+Korea.  Domestically, Smart operates in Tewksbury, MA; Irvine, CA; 
+Fremont, CA; and Aguada, Puerto Rico.  Smart offers more than 500 
+standard and custom products to OEMs engaged in the computer, 
+industrial, networking, gaming, and telecommunications markets. 
+Smart's comprehensive memory product line includes DRAM, SRAM, and 
+Flash memory.  Smart's Display Products Group designs, manufactures, 
+and sells liquid crystal display (LCD) solutions to customers 
+developing casino gaming systems as well as embedded applications 
+such as kiosk, ATM, point-of-service, and industrial control 
+systems. 
+ 
+SAO PAULO 00000590  002 OF 005 
+ 
+ 
+ 
+¶4. (U) SMART'S ATIBAIA OPERATION:  Located 47 miles from the city of 
+Sao Paulo, the Atibaia site is currently producing two million 
+semiconductors per month.  The plant only conducts the final stage 
+of the semiconductor process, called encapsulation, in which silicon 
+laminates (memory wafers) are cut, encapsulated in microchips, and 
+then incorporated into semiconductor boards. Smart imports finished 
+memory wafers from Korean electronics giant Samsung.  Smart 
+executives estimate that producing the wafers in Brazil would 
+require an investment of USD 1 billion. 
+ 
+¶5. (U) PROFITING FROM PROTECTION:  Under the Brazilian tariff 
+regime, imported semiconductors face an 18 percent duty, while 
+imported semiconductor components that will be assembled in Brazil 
+face an 8 percent duty.  Imported memory discs such as those 
+supplied by Samsung to Smart face no duty.  In 2005, 5.6 million 
+personal computers (PCs) were sold in Brazil.  Smart estimates that 
+only forty percent of the memory cards in these PCs were of legal 
+origin.  Smart assembled about half of these legal cards using 
+imported components.  Now Smart will actually manufacture the cards 
+here and take advantage of having avoided tariffs in the hopes of 
+increasing its market share against illegal memory cards.  Smart 
+executives say that demand from local PC manufacturers is already 
+overwhelming.  To meet demand, Smart employs 100 workers working 
+around the clock in 3 shifts.  Nevertheless, Smart already has a 
+backlog of orders from Dell, Hewlett Packard, IBM, Toshiba, and 
+every other major computer maker in Brazil.  Prior to commencing its 
+Atibaia operation, Smart operated from Guarulhos, Greater Sao Paulo, 
+assembling (though not producing) memory cards.  The opening of the 
+Atibaia facility is part of Smart's global strategy to vertically 
+integrate production.  With the opening of the Atibaia plant, the 
+Guarulhos plant will close down. 
+ 
+¶6. (U) IPR PROTECTION:  When asked about Brazil's poor reputation 
+for intellectual property rights (IPR) protection, President 
+MacKenzie told EconOffs, "We don't even bother with applying for 
+patents in Brazil.  In the time it takes for someone to clone our 
+product, we've already moved on to the next generation of 
+technology.  We're ahead of the curve.  If someone wants to copy our 
+technology, then they will always be behind us."  But MacKenzie was 
+quick to point out that access to proprietary information will be 
+very tight in Atibaia.  Smart is in the process of installing SAP 
+software to be able to integrate the Brazilian branch with its 
+global operations, but confirms that it will not engage in research 
+and development in Brazil, nor will any proprietary information 
+reside on Smart's Brazilian network servers.  MacKenzie went so far 
+as to say, "Smart Brazil employees won't even have access to our 
+proprietary technology." 
+ 
+¶7. (U) EXPORT OUTLOOK:  Later in the year, Smart will start to 
+export memory cards from Brazil, though only to its own 
+international Smart affiliates, such as production sites in the 
+Dominican Republic and Malaysia.  Smart is working to implement 
+"Recof," a special customs rate created by Brazil Customs that 
+facilitates the importation and exportation of goods into and out of 
+Brazil.  Recof requires a minimum of USD 5 million in exports during 
+the first year and USD 10 million in the second.  Smart's Takahashi 
+predicts, "We'll meet this requirement easily."  When asked about 
+expansion of exports to other markets, Smart President MacKenzie 
+confirmed that he has little hope of exporting beyond shipments to 
+their own affiliates, "We just can't compete with giants like 
+Samsung in open markets."  Although Smart may try to export within 
+Mercosul, MacKenzie claimed, "For now, we are going to have our 
+hands full supplying Brazil.  But we have room for expansion. 
+ 
+SAO PAULO 00000590  003 OF 005 
+ 
+ 
+Since Brazil is one of the world's fastest growing emerging markets, 
+our enhanced capabilities locally will provide us with a competitive 
+advantage as business opportunities in this region continue to 
+grow." 
+ 
+----------------------------------- 
+ATTRACTING SEMICONDUCTORS TO BRAZIL 
+----------------------------------- 
+ 
+¶8. (U) GoB officials heralded Smart's Atibaia operation as the first 
+success in a national strategy to attract technology investment.  In 
+November 2003, President Lula approved a proposal for industrial 
+policy guidelines that would, among other things, provide for 
+investment in technology and tax exemptions for capital goods. 
+Launched in March 2004, the Industrial, Technological and Foreign 
+Trade Policy (PITCE) seeks to "attract technology in key sectors." 
+The PITCE elected four sectors as strategic priorities: 
+pharmaceuticals, capital goods, software, and semiconductors.  To 
+attract investment in these sectors, the GoB offers a bundle of 
+tariff and export incentives.  Moreover, at the PITCE inauguration, 
+MDIC Minister Furlan announced that, in 2004 alone, the new strategy 
+would count on over USD 200 million of GoB support and USD 6 Billion 
+in financing incentives from the Bank of Brazil (BB) and the 
+National Economic and Social Development Bank (BNDES).  Furlan also 
+announced that the Recof customs regime would play an important role 
+in attracting investors. 
+ 
+--------------------------------------------- 
+COMMENT: OUTLOOK CLOUDY FOR FUTURE INVESTMENT 
+--------------------------------------------- 
+ 
+¶9. (SBU) PITCE NOT A FACTOR: The PITCE was announced in 2003 and 
+inaugurated in 2004. However, the results of this USD 200 million 
+program are less than impressive.   Smart's self-financed Atibaia 
+operation represents a relatively modest USD 15 million investment 
+and did not rely on PITCE incentives from BB or BNDES.  In fact, 
+when EconOffs asked about the reasons for Smart's decision to start 
+production of semiconductors in Brazil, Smart executives didn't even 
+appear aware of PITCE.  Instead, they focused on the opportunities 
+created by small-scale producers within closed economies like 
+Brazil.  The recent and expected growth in Brazil's consumer 
+electronics and PC markets was cited as the sole reason for deciding 
+to start producing.  Industry estimates placed ten percent of the 
+2005 world consumption of electronics products in South America, 
+with the Brazilian Association of Electrical and Electronic 
+Industries (ABNEE) claiming that Brazil accounts for 68 percent of 
+that demand.  ABNEE forecasts a USD 125 billion Brazilian 
+electronics market by 2010.  Operating in Brazil since 2002, Smart 
+saw that it could either continue to import and assemble at an eight 
+percent duty, or manufacture with no duty on component parts. 
+According to Smart Brazil's General Manager Takahashi, "The choice 
+was simple."  According to Smart President MacKenzie, "Samsung is 
+too large-scale to set up operations in a closed market like Brazil. 
+ But Smart has the mid-sized flexibility to set up a small operation 
+in Brazil and sell domestically."  Smart executives further noted 
+that the decision to manufacture was part of an effort to vertically 
+integrate Smart's global operations and was more a result of 
+internal corporate strategy than GoB development strategy.  Smart's 
+Treasurer commented to EconOffs, "It's not even that large of an 
+expansion, since at the same time we're opening here we're shutting 
+down our Guarulhos plant." 
+ 
+¶10.  (U) OTHER SEMICONDUCTOR PLANS:  As part of the digital 
+television standard negotiations (reftel), Japanese and European 
+ 
+SAO PAULO 00000590  004 OF 005 
+ 
+ 
+firms have stated they will consider establishing semiconductor 
+manufacturing plants in Brazil, contingent upon the GoB's choosing 
+their respective standards.  These discussions are independent from 
+PITCE strategies, although other plans for semiconductors that would 
+make use of PITCE incentives are also in the works.  In September 
+2005, the GoB announced plans to establish a semiconductor industry 
+in the state of Minas Gerais, where approximately 990 acres are 
+being dedicated to semiconductor and semiconductor-related 
+manufacturing and design.  The Minas Gerais Technological Park will 
+be anchored by Companhia Brasileira de Semicondutores (CBS).  The 
+target completion date is early 2007.  The Minas Gerais 
+Technological Park is Brazil's flagship semiconductor manufacturing 
+venture.  CBS is backed by various Brazilian development banks and 
+private investors worldwide.  The company is focusing on analog and 
+mixed-signal products for consumer, automotive, and industrial 
+applications. 
+ 
+¶11. (SBU) WHY SEMICONDUCTORS FLED:  Smart is not the first company 
+to produce semiconductors in Brazil, but it is the first company in 
+the past 15 years to produce here.  Industry insiders regularly 
+refer to the "tech flight" of the early 1990s, when every single 
+producer of semiconductors closed shop and left Brazil.  when 
+protectionist policies begun during the time of the military 
+dictatorship were ended.  In 1984, Brazil codified these policies to 
+promote a local computer industry by restricting imports and 
+promoting local manufacture and foreign investment through a 
+comprehensive and highly restrictive "informatics law."  As a 
+result, tech industry companies flowed into Brazil to take advantage 
+of the sheltered market.  (The 1984 informatics law and its 
+implementation were the subject of a U.S.-initiated Section 301 
+investigation between 1985 and 1989.)  At the end of the 1980s, the 
+Brazilian electronics component industry could count more than 
+twenty domestic semiconductors companies.  In 1991, Brazil revised 
+its informatics legislation to phase out some of the import and 
+investment restrictions, resulting in the final removal of 
+quantitative import restrictions.  By October 1992, import 
+restrictions that had been in place since the mid-1970s for 
+computers and related (informatics) products were removed.  However, 
+the government's lifting of restrictions on the importation of 
+electronic components led to widespread failures among the country's 
+domestic semiconductor companies.  Foreign companies -- Intel, Sun 
+Microsystems, and every other semiconductor company -- shut down 
+operations.  As a result, the Brazilian domestic electronics 
+components industry has become heavily reliant on imports in the 
+last decade.  The few remaining component manufacturers produce 
+components with limited technological content, and spply only 20 
+percent of the internal demand.  The remaining 80 percent 
+represented a 2003 trade deicit of USD 3 billion, with USD 1.7 
+billion due o semiconductors. 
+ 
+¶12. (SBU) BRAZIL'S SEMICONDUCOR OUTLOOK:  Looking around the world, 
+developin countries with low or no duties on electronics components 
+and systems over the past two decades (Hog Kong, Taiwan, Singapore) 
+have been successful n developing strong, vibrant economies with 
+dynaic high-tech industries.  Meanwhile, developing contries with 
+high duties (Latin America, India) have not been successful.  A 
+special case was Korea which built a narrow semiconductor industry 
+in pite of its 8 percent duty.  With the PITCE, it apears that 
+Brazil hopes to replicate Korea's expeience.  However, Korea's 
+growth was largely based on exports of semiconductors, not on 
+supplying smiconductors to its domestic electronic producers. 
+There are no indications that Brazil will stop potecting its IT 
+sector or adhere to the WTO Infomation Technology Agreement (which 
+zeros out tariffs on semiconductors and other high-tech goods). 
+ 
+SAO PAULO 00000590  005 OF 005 
+ 
+ 
+Indeed, this stance has left Brazil uncompetitive in world IT 
+markets.  The negative effects of the Brazilian model have long been 
+recognized even by some of its own industry executives, as evidenced 
+by a 1991 quote from the Wall Street Journal from Touma Elias, 
+President of Sao Paulo PC company Microtec: "We made PCs before the 
+Taiwanese and the Koreans, but instead of being a USD 1 billion 
+company, like (Taiwan's) Acer or (American) AST or Dell, we're a USD 
+35 million one hoping to be a USD 100 million one.  Why?  Because 
+our market wasn't open, which made components more expensive."  Very 
+little has changed in the last 15 years.  Brazil's market is still 
+closed and its efforts to promote semiconductor investment are more 
+likely to draw participants like Smart who will take advantage of 
+Brazil's market protection than to attract the research and 
+development (RND)-driven investment that the GoB desires.  To date, 
+Brazil's efforts to establish a global electronics presence have 
+been mixed.  Companies such as Motorola have announced RND 
+initiatives in the telecommunications sector.  However, efforts to 
+bolster the country's presence in sectors such as semiconductors 
+have not been as warmly received.  In 2003, Intel CEO Craig Barrett 
+reportedly ruled out setting up a chip plant in Brazil because of 
+high labor costs.  With the Brazilian Real having strengthened more 
+than 35 percent since then, Brazil is becoming even less of an ideal 
+export platform.  In the future, it is more likely that Brazil will 
+see foreign investment come from small- to medium-sized tech 
+companies (like Smart)interested in selling to the local market, 
+rather than from large companies (like Intel) focused on exports and 
+RND.  END COMMENT. 
+ 
+¶13. (U) This cable was coordinated with AmEmbassy Brasilia. 
+ 
+WOLFE

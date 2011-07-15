@@ -25,61 +25,261 @@ RUEHRC/USDA FAS WASHDC 0723
 RUEATRS/DEPT OF TREASURY WASHDC
 RUEHC/DEPT OF LABOR WASHDC
 RHMFISS/CDR USSOUTHCOM MIAMI FLUNCLAS SECTION 01 OF 04 SAO PAULO 000248 
-
+ 
 SENSITIVE 
 SIPDIS 
-
+ 
 STATE FOR WHA/BSC, DRL/ILCSR, INR/IAA, INR/R/AA 
 STATE ALSO FOR DS/IP/WHA, DS/DSS/ITA, DS/DSS/OSAC 
-STATE PASS USTR FOR KATE DUCKWORTH NSC FOR TOMASULO 
+STATE PASS USTR FOR KATE DUCKWORTH 
+NSC FOR TOMASULO 
 TREASURY FOR JHOEK 
 USDOC FOR 4332/ITA/MAC/WH/OLAC 
 USDOC FOR 3134/ITA/USCS/OIO/WH/RD 
-SOUTHCOM ALSO FOR POLAD DOL FOR ILAB 
+SOUTHCOM ALSO FOR POLAD 
+DOL FOR ILAB 
 USAID FOR LAC/AA 
+ 
 E.O. 12958: N/A 
 TAGS: EAGR ELAB PHUM PINS EINV PGOV SOCI ASEC BR
-
 SUBJECT: MST "RED APRIL" SHOWS DECLINE IN ACTIVITY 
-
-REF: 07 SAO PAULO 879 SENSITIVE BUT UNCLASSIFIED - PLEASE PROTECT ACCORDINGLY 
-
-¶1. (SBU) Summary: The Landless Rural Workers' Movement (MST) is facing a significant change in its organization. The number of its members is slowly decreasing, as is the number of land invasions it carries out. Some observers cite President Lula's "Bolsa Familia" cash transfer program for the poor as a factor in the decline in MST activities. In addition, the MST had hoped for greater political will from the Lula administration to conduct land redistribution. An apparent unwillingness on the part of Lula's government to do this may be wearing the MST down and leading it to seek accommodation rather than confrontation. End Summary. 
-
----------- BACKGROUND ---------- 
-
-¶2. (SBU) The MST is a national movement (formed around grass-roots principles) whose goal is to implement land reform in Brazil and ensure the broad distribution of land to the rural poor. The movement advocates a model of economic development that gives pride of place to small family farms and opposes large holdings and agri-business. Land ownership is disputed in many parts of Brazil due to fraudulent titles or other historical circumstances. Even where ownership is undisputed, the government has the right to appropriate and distribute unproductive land or land which is being used to the detriment of the environment or the exploitation of the workers. Accordingly, some MST elements and their allies have adopted an anti-globalization agenda and specialize in challenging the cultivation of genetically modified organisms (GMOs). 
-
-¶3. (SBU) Land invasions (or occupations, as MST members prefer to call them) are the MST's way of pressuring the government for land reform. They are designed to raise public consciousness of the plight of the rural poor and the need for more equitable land distribution. Many MST members live in temporary but long-term settlements ("acampamentos") established on or near disputed land. They live in plastic tents and are organized in collective communities. Some settlements are five or even ten years old, and the settlers are waiting to be given a piece of land as part of the land reform. When the invaded property belongs to the government, the process of land distribution is quicker than when it involves private property. The federal and state governments are usually willing to negotiate an agreement to distribute the land, though such deals sometimes take years to conclude. Private owners, on the other hand, usually seek a court order to require the invaders to leave. 
-
-¶4. (SBU) While the MST is active year-round, the organization follows a calendar of events. Its members carry out land invasions over the Christmas, New Year's and Carnival (February) holidays when government offices and courts are closed, meaning the owners can't get judicial orders to force their withdrawal until after the holidays, offering the invaders more of a media spotlight. In recent years they have also taken to conducting land invasions on International Women's Day (March 8). Every year they conduct "Red April" activities -- land invasions, occupations of government offices, blocking of highways -- throughout the month in observance of the April 1996 armed confrontation between MST and the police in Eldorado de Carajas, Para state, which left 19 MST militants dead. 
-
-¶5. (SBU) Although most recent MST invasions have not involved violence, there have been exceptions. Per reftel, last October some militants from MST and Via Campesina, an associated organization, invaded an agricultural research station in Santa Tereza do Oeste, Parana state, owned by the Swiss-based biotech company Syngenta. A skirmish between the invaders and security guards killed two people and wounded eight. MST claims Syngenta's use of the facility to experiment with varieties of genetically modified soybeans violates Brazilian law due to the proximity of Iguacu National Park, an environmentally protected area. Syngenta maintains it possesses all permits and licenses required by federal law to conduct research at the facility on genetically modified corn and soybeans. The situation is complicated by the fact that the Governor of Parana, Roberto Requiao, is a vocal opponent of GMOs who has sought to expropriate the company's land and declare the state GMO-free. He is also one of a very few major Brazilian political figures to openly support MST and encourage its activities. As a result, Syngenta and other multinationals cultivating GMOs cannot count on state police for protection. Attacks on companies producing GMOs sometimes result in extensive property damage. In March of this year, Via Campesina militants occupied a Monsanto biotech research station in Sao Paulo state and destroyed an experimental facility producing genetically modified corn. One possible explanation for these incidents is that MST and its affiliates regard multinational companies as easier targets than large Brazilian landowners, perhaps considering them easier to intimidate due to concerns over their corporate image. The fact that GMOs remain controversial in the public mind in Brazil also offers MST an opportunity for propaganda victories by taking on their producers. 
-
---------------- SAO PAULO STATE --------------- 
-
-¶6. (SBU) In Sao Paulo state, one focus of MST activity is the Pontal do Paranapanema in the southwestern part of the state, where there remains a long-standing dispute over land titles. During the first two weeks of February, landless people occupied 16 farms in the Pontal, and continued this activity sporadically through March and April. A bill under consideration in the Sao Paulo State Legislative Assembly (ALESP) would legalize large existing holdings, but would require owners to turn a portion of them over to the state to be redistributed. Many owners favor the bill, provided that the portion to be ceded is small (perhaps 5 percent). The landless and their advocates in the Pontal are almost unanimously opposed to this approach on the grounds that the bill would legalize land fraud. 
-
-¶7. (SBU) In the north and northeast of Sao Paulo state, which produces large amounts of sugar cane, oranges, and coffee, land titles are clear and the land is undeniably being put to productive use, the MST accuses the farmers of damaging the environment or exploiting the rural workers. Such allegations raise complex legal questions and often result in nearly intractable negotiations. In some instances, the state buys the land and distributes it. 
-
--------------------- MST MILITANT PROFILE -------------------- 
-
-¶8. (SBU) Carlos Alberto Feliciano, Ombudsman for the Sao Paulo State Land Institute (ITESP) Foundation, offered a general profile of the MST militant. Most landless people are rural workers who left their jobs on large plantations due to mechanization. Some are also rural families that lost (or sold) their small farms to large landowners or private companies. In addition, during periods of economic slowdown in the 1980s and 90s, some urban workers with low  levels of education and few opportunities joined the MST in the hopes of receiving a small plot of land that might enable them to support their families. Brazil was a largely rural country until relatively recently, and many Brazilians dream of returning to the land. As the MST promises land, it has been seen as an attractive alternative. Some members took temporary jobs in the cities while at the same time taking part in settlement activities. These are the people who usually participate in land invasions. 
-
-¶9. (SBU) Feliciano noted that in recent years, the MST has had difficulty recruiting new members because recent economic growth has generated new jobs in the cities. An additional factor is the Lula administration's "Bolsa Familia" cash transfer program for the poor, which now benefits more than 11 million families. Many Bolsa Familia recipients are reluctant to join MST for fear of losing their benefits. It is difficult for them to comply with the program's conditions - keeping their children in school and ensuring they are vaccinated on schedule - when living in an MST "acampamento." Feliciano indicated that Bolsa Familia is but one among a series of reasons that the MST settlements are emptying. 
-
-¶10. (SBU) The change in the MST members' profile also explains the changes in the movement's political maneuvers. (Note: According to the most recent MST figures, there were 103 land invasions in observance of "Red April" in 2007, but only 46 in April 2008. End Note.) Instead of land occupations, the MST is now promoting quick actions designed for high media attention and impact. This past month, for instance, landless groups blocked highways and invaded public buildings and banking agencies, in addition to organizing demonstrations against the mining company Vale (the former Companhia Vale do Rio Doce - CVRD) and multi-nationals that produce GMOs. Most of these political actions were carried out near large cities, required fewer participants, and were less risky than a traditional invasion of a rural area. The actions against Vale, besides generating publicity, are also designed to satisfy MST's political constituency. MST leaders accuse the company of labor exploitation and environmental degradation, and many on the left have called for the reversal of its privatization. 
-
------------------- GOVERNMENT EFFORTS ------------------ 
-
-¶11. (SBU) According to Ariovaldo Umbelino de Oliveira, a professor of geography at the University of Sco Paulo and a land reform expert who was part of the team that prepared the Lula administration's first land reform plan in 2003, social movements such as MST will continue to exist so long as Brazil's land problems remain unsolved. Oliveira noted that Brazil has 850 million hectares of land, but only half of it is registered by Incra (National Institute for Land Reform and Colonization), the federal agency that deals with land issues. Of the land that is registered, there are some 200 million hectares with insufficient documentation to prove ownership. By law this land belongs to the state and could be available for redistribution. 
-
-¶12. (SBU) In Oliveira's view, 40 million hectares would be sufficient to settle one million families. However, a great deal of political will is required to overcome all the legal and institutional obstacles. Oliveira asserts that the Lula administration lacks this political will, in part because it believes agri-business and large holdings offer a better economic model for rural development. While Lula's plan was to resettle 400,000 families over four years, and the Ministry of Agrarian Development claims to have settled 381,000 families between 2003 and 2006 (figures for 2007 are not yet available), Oliveira claims the real figure is 135,000 families settled through 2006. Citing endemic corruption in INCRA, he described a variety of ways INCRA categorizes land in order to pad the figures. The slow pace of land reform under Lula has been a disappointment to MST leaders as well as members of Lula's own Workers' Party (PT), of which MST is an autonomous social movement. "If the movement can't get land to distribute amongst its followers, it loses strength", he explained. "Many people just gave up and went back to the cities." Like Feliciano, Oliveira also cited Bolsa Familia as a factor in the MST's decline and said the group is changing tactics. Instead of land invasions and confrontations, the movement is turning its efforts to improving living conditions in existing settlements, often using government funds distributed through NGOs.
-
- ------- COMMENT ------- 
-
-¶13. (SBU) Although the MST may be in decline, it is unlikely to fade away any time soon. Its activities remain a source of concern to many landowners. However, the growing economy combined with policies designed to improve living conditions for the poor -- a rising minimum wage and "Bolsa Familia" cash transfer payments -- appear to offer at least some erstwhile militants an alternative, and may be forcing the movement's leaders to rethink their tactics. End Comment. 
-
-¶14. (U) This cable was coordinated with and cleared by Embassy Brasilia. 
-
+ 
+REF: 07 SAO PAULO 879 
+ 
+SENSITIVE BUT UNCLASSIFIED - PLEASE PROTECT ACCORDINGLY 
+ 
+¶1. (SBU) Summary: The Landless Rural Workers' Movement (MST) is 
+facing a significant change in its organization.  The number of its 
+members is slowly decreasing, as is the number of land invasions it 
+carries out.  Some observers cite President Lula's "Bolsa Familia" 
+cash transfer program for the poor as a factor in the decline in MST 
+activities.  In addition, the MST had hoped for greater political 
+will from the Lula administration to conduct land redistribution. 
+An apparent unwillingness on the part of Lula's government to do 
+this may be wearing the MST down and leading it to seek 
+accommodation rather than confrontation.  End Summary. 
+ 
+---------- 
+BACKGROUND 
+---------- 
+ 
+¶2.  (SBU) The MST is a national movement (formed around grass-roots 
+principles) whose goal is to implement land reform in Brazil and 
+ensure the broad distribution of land to the rural poor.  The 
+movement advocates a model of economic development that gives pride 
+of place to small family farms and opposes large holdings and 
+agri-business.  Land ownership is disputed in many parts of Brazil 
+due to fraudulent titles or other historical circumstances.  Even 
+where ownership is undisputed, the government has the right to 
+appropriate and distribute unproductive land or land which is being 
+used to the detriment of the environment or the exploitation of the 
+workers.  Accordingly, some MST elements and their allies have 
+adopted an anti-globalization agenda and specialize in challenging 
+the cultivation of genetically modified organisms (GMOs). 
+ 
+¶3.  (SBU) Land invasions (or occupations, as MST members prefer to 
+call them) are the MST's way of pressuring the government for land 
+reform.  They are designed to raise public consciousness of the 
+plight of the rural poor and the need for more equitable land 
+distribution.  Many MST members live in temporary but long-term 
+settlements ("acampamentos") established on or near disputed land. 
+They live in plastic tents and are organized in collective 
+communities.  Some settlements are five or even ten years old, and 
+the settlers are waiting to be given a piece of land as part of the 
+land reform.  When the invaded property belongs to the government, 
+the process of land distribution is quicker than when it involves 
+private property.  The federal and state governments are usually 
+willing to negotiate an agreement to distribute the land, though 
+such deals sometimes take years to conclude.  Private owners, on the 
+other hand, usually seek a court order to require the invaders to 
+leave. 
+ 
+¶4. (SBU) While the MST is active year-round, the organization 
+follows a calendar of events.  Its members carry out land invasions 
+over the Christmas, New Year's and Carnival (February) holidays when 
+government offices and courts are closed, meaning the owners can't 
+get judicial orders to force their withdrawal until after the 
+holidays, offering the invaders more of a media spotlight.  In 
+recent years they have also taken to conducting land invasions on 
+International Women's Day (March 8).  Every year they conduct "Red 
+April" activities -- land invasions, occupations of government 
+offices, blocking of highways -- throughout the month in observance 
+of the April 1996 armed confrontation between MST and the police in 
+Eldorado de Carajas, Para state, which left 19 MST militants dead. 
+ 
+¶5. (SBU) Although most recent MST invasions have not involved 
+violence, there have been exceptions.  Per reftel, last October some 
+ 
+SAO PAULO 00000248  002 OF 004 
+ 
+ 
+200 militants from MST and Via Campesina, an associated 
+organization, invaded an agricultural research station in Santa 
+Tereza do Oeste, Parana state, owned by the Swiss-based biotech 
+company Syngenta.  A skirmish between the invaders and security 
+guards killed two people and wounded eight.  MST claims Syngenta's 
+use of the facility to experiment with varieties of genetically 
+modified soybeans violates Brazilian law due to the proximity of 
+Iguacu National Park, an environmentally protected area.  Syngenta 
+maintains it possesses all permits and licenses required by federal 
+law to conduct research at the facility on genetically modified corn 
+and soybeans.  The situation is complicated by the fact that the 
+Governor of Parana, Roberto Requiao, is a vocal opponent of GMOs who 
+has sought to expropriate the company's land and declare the state 
+GMO-free.  He is also one of a very few major Brazilian political 
+figures to openly support MST and encourage its activities.  As a 
+result, Syngenta and other multinationals cultivating GMOs cannot 
+count on state police for protection.  Attacks on companies 
+producing GMOs sometimes result in extensive property damage.  In 
+March of this year, Via Campesina militants occupied a Monsanto 
+biotech research station in Sao Paulo state and destroyed an 
+experimental facility producing genetically modified corn.  One 
+possible explanation for these incidents is that MST and its 
+affiliates regard multinational companies as easier targets than 
+large Brazilian landowners, perhaps considering them easier to 
+intimidate due to concerns over their corporate image.  The fact 
+that GMOs remain controversial in the public mind in Brazil also 
+offers MST an opportunity for propaganda victories by taking on 
+their producers. 
+ 
+--------------- 
+SAO PAULO STATE 
+--------------- 
+ 
+¶6.  (SBU) In Sao Paulo state, one focus of MST activity is the 
+Pontal do Paranapanema in the southwestern part of the state, where 
+there remains a long-standing dispute over land titles.  During the 
+first two weeks of February, landless people occupied 16 farms in 
+the Pontal, and continued this activity sporadically through March 
+and April.  A bill under consideration in the Sao Paulo State 
+Legislative Assembly (ALESP) would legalize large existing holdings, 
+but would require owners to turn a portion of them over to the state 
+to be redistributed.  Many owners favor the bill, provided that the 
+portion to be ceded is small (perhaps 5 percent).  The landless and 
+their advocates in the Pontal are almost unanimously opposed to this 
+approach on the grounds that the bill would legalize land fraud. 
+ 
+¶7. (SBU) In the north and northeast of Sao Paulo state, which 
+produces large amounts of sugar cane, oranges, and coffee, land 
+titles are clear and the land is undeniably being put to productive 
+use, the MST accuses the farmers of damaging the environment or 
+exploiting the rural workers.  Such allegations raise complex legal 
+questions and often result in nearly intractable negotiations.  In 
+some instances, the state buys the land and distributes it. 
+ 
+-------------------- 
+MST MILITANT PROFILE 
+-------------------- 
+ 
+¶8.  (SBU) Carlos Alberto Feliciano, Ombudsman for the Sao Paulo 
+State Land Institute (ITESP) Foundation, offered a general profile 
+of the MST militant.  Most landless people are rural workers who 
+left their jobs on large plantations due to mechanization.  Some are 
+also rural families that lost (or sold) their small farms to large 
+landowners or private companies.  In addition, during periods of 
+economic slowdown in the 1980s and 90s, some urban workers with low 
+ 
+SAO PAULO 00000248  003 OF 004 
+ 
+ 
+levels of education and few opportunities joined the MST in the 
+hopes of receiving a small plot of land that might enable them to 
+support their families.  Brazil was a largely rural country until 
+relatively recently, and many Brazilians dream of returning to the 
+land.  As the MST promises land, it has been seen as an attractive 
+alternative.  Some members took temporary jobs in the cities while 
+at the same time taking part in settlement activities.  These are 
+the people who usually participate in land invasions. 
+ 
+¶9.  (SBU) Feliciano noted that in recent years, the MST has had 
+difficulty recruiting new members because recent economic growth has 
+generated new jobs in the cities.  An additional factor is the Lula 
+administration's "Bolsa Familia" cash transfer program for the poor, 
+which now benefits more than 11 million families.  Many Bolsa 
+Familia recipients are reluctant to join MST for fear of losing 
+their benefits.  It is difficult for them to comply with the 
+program's conditions - keeping their children in school and ensuring 
+they are vaccinated on schedule - when living in an MST 
+"acampamento."  Feliciano indicated that Bolsa Familia is but one 
+among a series of reasons that the MST settlements are emptying. 
+ 
+¶10.  (SBU) The change in the MST members' profile also explains the 
+changes in the movement's political maneuvers.  (Note:  According to 
+the most recent MST figures, there were 103 land invasions in 
+observance of "Red April" in 2007, but only 46 in April 2008.  End 
+Note.)  Instead of land occupations, the MST is now promoting quick 
+actions designed for high media attention and impact.  This past 
+month, for instance, landless groups blocked highways and invaded 
+public buildings and banking agencies, in addition to organizing 
+demonstrations against the mining company Vale (the former Companhia 
+Vale do Rio Doce - CVRD) and multi-nationals that produce GMOs. 
+Most of these political actions were carried out near large cities, 
+required fewer participants, and were less risky than a traditional 
+invasion of a rural area.  The actions against Vale, besides 
+generating publicity, are also designed to satisfy MST's political 
+constituency.  MST leaders accuse the company of labor exploitation 
+and environmental degradation, and many on the left have called for 
+the reversal of its privatization. 
+ 
+------------------ 
+GOVERNMENT EFFORTS 
+------------------ 
+ 
+¶11.  (SBU) According to Ariovaldo Umbelino de Oliveira, a professor 
+of geography at the University of Sco Paulo and a land reform expert 
+who was part of the team that prepared the Lula administration's 
+first land reform plan in 2003, social movements such as MST will 
+continue to exist so long as Brazil's land problems remain unsolved. 
+ Oliveira noted that Brazil has 850 million hectares of land, but 
+only half of it is registered by Incra (National Institute for Land 
+Reform and Colonization), the federal agency that deals with land 
+issues.  Of the land that is registered, there are some 200 million 
+hectares with insufficient documentation to prove ownership.  By law 
+this land belongs to the state and could be available for 
+redistribution. 
+ 
+¶12.  (SBU) In Oliveira's view, 40 million hectares would be 
+sufficient to settle one million families.  However, a great deal of 
+political will is required to overcome all the legal and 
+institutional obstacles.  Oliveira asserts that the Lula 
+administration lacks this political will, in part because it 
+believes agri-business and large holdings offer a better economic 
+model for rural development.  While Lula's plan was to resettle 
+400,000 families over four years, and the Ministry of Agrarian 
+Development claims to have settled 381,000 families between 2003 and 
+ 
+SAO PAULO 00000248  004 OF 004 
+ 
+ 
+2006 (figures for 2007 are not yet available), Oliveira claims the 
+real figure is 135,000 families settled through 2006.  Citing 
+endemic corruption in INCRA, he described a variety of ways INCRA 
+categorizes land in order to pad the figures.  The slow pace of land 
+reform under Lula has been a disappointment to MST leaders as well 
+as members of Lula's own Workers' Party (PT), of which MST is an 
+autonomous social movement.  "If the movement can't get land to 
+distribute amongst its followers, it loses strength", he explained. 
+"Many people just gave up and went back to the cities."  Like 
+Feliciano, Oliveira also cited Bolsa Familia as a factor in the 
+MST's decline and said the group is changing tactics.  Instead of 
+land invasions and confrontations, the movement is turning its 
+efforts to improving living conditions in existing settlements, 
+often using government funds distributed through NGOs. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶13.  (SBU) Although the MST may be in decline, it is unlikely to 
+fade away any time soon.  Its activities remain a source of concern 
+to many landowners.  However, the growing economy combined with 
+policies designed to improve living conditions for the poor -- a 
+rising minimum wage and "Bolsa Familia" cash transfer payments -- 
+appear to offer at least some erstwhile militants an alternative, 
+and may be forcing the movement's leaders to rethink their tactics. 
+End Comment. 
+ 
+¶14.  (U) This cable was coordinated with and cleared by Embassy 
+Brasilia. 
+ 
 WHITE

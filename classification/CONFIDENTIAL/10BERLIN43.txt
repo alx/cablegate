@@ -1,0 +1,51 @@
+10BERLIN43
+
+Thu Jan 14 00:00:00 +0100 2010
+CONFIDENTIAL
+Embassy Berlin
+VZCZCXRO8206
+PP RUEHAG RUEHDH RUEHHM RUEHPB RUEHROV RUEHSL RUEHSR RUEHTM RUEHTRO
+DE RUEHRL #0043/01 0141630
+ZNY CCCCC ZZH
+P 141630Z JAN 10
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 6260
+INFO RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUCNMEM/EU MEMBER STATES COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+RUEHZG/NATO EU COLLECTIVE
+RUEHBS/AMEMBASSY BRUSSELS 1920
+RUEHLO/AMEMBASSY LONDON 0640
+RUEHMD/AMEMBASSY MADRID 0689
+RUEHFR/AMEMBASSY PARIS 1159
+RUEHRO/AMEMBASSY ROME 2662
+RULSDMK/DEPT OF TRANSPORTATION WASHINGTON DC
+RUEHRL/USDAO BERLIN GE
+RUEHBS/USEU BRUSSELS
+RUCUSTR/USSTRATCOM OFFUTT AFB NECO N F I D E N T I A L SECTION 01 OF 02 BERLIN 000043
+
+SIPDIS STATE FOR EUR/CE PETER SCHROEDER STATE FOR OES/SAT RAYMOND CLORE AND DAVID TURNER STATE FOR ISN/MDSP DICK BUENNEKE
+
+E.O. 12958: DECL: 01/14/2035 TAGS: ETTC PGOV PINR MCAP PREL TSPA FR UK GM
+
+REF: A. BERLIN 1324 B. BERLIN 1207 C. BRUSSELS 1153 D. BERLIN 655 E. BERLIN 430 F. BERLIN 429 G. 08 BERLIN 899 H. 08 BERLIN 897 I. 08 BERLIN 264 J. 08 BERLIN 243
+
+Classified By: Global Affairs Unit Chief Don L. Brown for reasons 1.4 (d).
+
+¶1. (SBU) SUMMARY: Germanys OHB-Technology GmbH, in partnership with Surrey Satellites Technology Limited (SSTL), recently pulled off an underdog victory over industry giant EADS-Astrium for a majority of the EUs heralded Galileo satellite contract worth around 850 million euro. Interestingly, this is not a total loss for Astrium, as it is the majority shareholder of SSTL and is entitled to a share of the OHB/SSTL profits. Industry observers believe OHBs bid was superior to that of Astrium in terms of cost and that OHBs established reputation of delivering product on-time and within budget ultimately sealed the deal. END SUMMARY
+
+¶2. (C) On January 7, the European Commission awarded OHB-Technology a contract worth 566 million euro to build at least 14 of the currently planned 22 Galileo position, navigation, and timing (PNT) satellites. The French newspaper Le Monde reported that Astriums bid for the 14 satellites was valued at 100 million euro higher than OHBs and that this was likely the salient factor in the cost-conscious European Commissions (EC) decision. (COMMENT: OHB is a conservative, family-run company about one tenth the size of Astrium. Some insiders view OHBs victory as a serious blow to Astrium, as it was always considered the favorite to win the contract. END COMMENT)
+
+A WIN/WIN FOR EVERYONE ----------------------
+
+¶3. (C) (TEXT REMOVED BY AFTENPOSTEN), told us that since Astrium is the majority shareholder of SSTL, a win for the OHB/SSTL partnership is an indirect win for Astrium as well. (TEXT REMOVED BY AFTENPOSTEN)estimated that up to 40 percent of the OHB/SSTL profits will wind up in Astriums hands.
+
+OHB IN PARTNERSHIP WITH ITS COMPETITION? ----------------------------------------
+
+¶4. (C) A couple years ago, when OHB was positioning itself to compete for the Galileo contract, it formed a strategic partnership with SSTL, in which SSTL would integrate the payloads OHB would take care of the satellite buses. As part of this partnership, (TEXT REMOVED BY AFTENPOSTEN)said that OHB tried to purchase SSTL, but Astrium swooped in with its deeper pockets and outbid OHB. (TEXT REMOVED BY AFTENPOSTEN) emphasized that the Fuchs family, OHBs owners/operators, has a standing policy to not get in bidding wars for companies/assets, and that once the SSTL price reached OHBs limit, it politely stepped aside. (TEXT REMOVED BY AFTENPOSTEN)said that as a condition of the SSTL sale to Astrium, the EC and British Parliament specified that OHBs prior arrangement with SSTL on Galileo would hold and that all of SSTLs involvement with Galileo must be firewalled-off from Astrium.
+
+COMMENT -------
+
+¶5. (C) OHB will continue to compete with Astrium for the remaining eight satellites, but if price remains the ECs primary criteria, OHB may very well get the rest of the contract. On the other hand, the EC also values multiple
+sources for the satellites and if Astrium can close its price gap with OHB, it may get the upper hand. While it is true that the OHB/SSTL victory is also a win for Astrium in terms of profits, job creation is the other prize. If OHB/SSTL wins the rest of the satellite competition, it is clear that a bulk of the resultant job creation will reside in Germany and the UK and not in France.
+MURPHY

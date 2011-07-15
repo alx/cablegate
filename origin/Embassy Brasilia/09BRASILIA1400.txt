@@ -1,0 +1,199 @@
+09BRASILIA1400
+Brazil's National Broadband Plan
+Thu Dec 03 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Brasilia
+VZCZCXRO9340
+RR RUEHRG
+DE RUEHBR #1400/01 3411224
+ZNR UUUUU ZZH
+R 031911Z DEC 09 ZDS
+FM AMEMBASSY BRASILIA
+TO RUEHC/SECSTATE WASHDC 0003
+INFO RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEAFCC/FCC WASHINGTON DC
+RUEHBR/AMEMBASSY BRASILIA
+RUEHRG/AMCONSUL RECIFE 0001
+RUEHRI/AMCONSUL RIO DE JANEIRO
+RUEHSO/AMCONSUL SAO PAULOUNCLAS SECTION 01 OF 02 BRASILIA 001400 
+ 
+C O R R E C T E D   C O P Y - FCC INFO ADDRESS ADDED 
+ 
+SENSITIVE 
+SIPDIS 
+STATE FOR EEB/CIP/BA TFINTON 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ECPS EINT BR
+SUBJECT: Brazil's National Broadband Plan 
+ 
+REF: 09 BRASILIA 615 
+ 
+BRASILIA 00001400  001.2 OF 002 
+ 
+ 
+¶1. (SBU) Summary:  Brazil's Minister of Communications (MOC), Helio 
+Costa, unveiled Brazil's national broadband plan (NBP) aimed at 
+addressing Brazil's soaring broadband usage demand (reftel) on 
+November 24. The proposal, entitled "A national plan for broadband 
+- Brazil at high speed," lays out MOC goals, to be accomplished by 
+2014 when Brazil hosts the World Cup, of increasing individual 
+access to fixed broadband service in Brazil to 30 million people, 
+providing 60 million users with mobile broadband access, and 
+connecting all government agencies, public schools, public health 
+facilities, public libraries, and federal state and local law 
+enforcement agencies to the plan's expanded broadband network.  The 
+plan also calls for the construction of 100 thousand new community 
+telecenters (reftel) with broadband access designed to reach the 
+rural areas of Brazil.  In describing the NBP as essential to 
+sustaining Brazil's economic growth, increasing its economic global 
+competitiveness, and enhancing the social welfare of its citizens, 
+the plan envisions a concession model that utilizes existing 
+telephone fiber optic networks, and calls for government investment 
+of U.S. $ 26.49 billion and $ 49.01 billion in private investment. 
+To stimulate private investment, the plan proposes IT related tax 
+breaks, favorable financing terms through Brazil's National 
+Development Bank (BNDES), and regulatory reform.  President Lula is 
+currently evaluating MOC's NBP proposal along with alternative NBP 
+option from Brazil's Ministry of Planning that recommends the use 
+of private energy companies' power lines as the NBP network.  GOB 
+has not yet reached consensus regarding how the Plan will be 
+funded. President Lula has said that he will be meeting with MOC, 
+the Ministries of Finance, Planning, and Energy within the next two 
+weeks to decide these two fundamental questions of how broadband 
+will be delivered (phone lines or electricity lines) and how the 
+expansion will be funded.  However, Mission believes these 
+questions will not be resolved before the end of the year.  End 
+Summary. 
+ 
+ 
+ 
+PLAN'S STRATEGIC GOALS/APPROACH 
+ 
+------------------------------- 
+ 
+ 
+ 
+¶2.  (SBU) Communications Minister Costa highlighted that expanding 
+Brazil's broadband infrastructure would forward GOB strategic goals 
+including universal access, greater governmental operational 
+efficiency, improved public interface experience with government 
+services, enhanced development of Brazil's telecommunications 
+networks, contribution to the industrial and technological 
+development of Brazil's ICT sector, increased competitiveness of 
+Brazilian small and medium enterprises in other sectors as well as 
+companies in the ICT sector thereby adding jobs, and GDP growth. 
+Costa stated that without the NBP, Brazil would reach about 21 
+million broadband users by the end of 2014, representing 
+approximately 31.2 accesses per 100 households, a number lower than 
+the 37 per 100 households found in the analysis of the broadband 
+infrastructures of Argentina, Chile, China, Mexico and Turkey. In 
+contrast, Costa argued that implementing the proposed Plan could 
+result in Brazil achieving an access ratio of 50 per 100 
+households.  The key to achieving this growth, according to Costa, 
+is to target rural area broadband usage where geographical 
+isolation and lower income levels have contributed to lower 
+broadband usage (Note: The Brazilian State of Sao Paulo accounts 
+for 40% of Brazil's broadband use and is considered a saturated 
+broadband market. End Note).  It is also critical that Brazil 
+stimulate innovation, efficiency and competition aimed at expanding 
+coverage and reducing consumer retail costs to USD30/month, a level 
+MOC believes is critical in attracting middle to lower income 
+consumers. 
+ 
+ 
+ 
+NBP FUNDING 
+ 
+-------------- 
+ 
+¶3.  (SBU) Sources of government funding for the plan are still to 
+be determined by President Lula, but recognizing that public money 
+cannot subsidize the entire plan, the MOC's NBP calls for a 
+combination of tax cuts and government financing to encourage 
+needed private investment.  The NBP proposes to reduce social 
+contribution tax rates on Brazil's social security tax (COFINS) and 
+ 
+BRASILIA 00001400  002.2 OF 002 
+ 
+ 
+its social integration tax (PIS) for IT companies, and to reduce 
+the tax on broadband related goods and services (ICMS).  The plan 
+recommends adding NBP-based businesses to the national micro or 
+small business plan called "Simples Nacional."  This would provide 
+IT companies with tax benefits, streamline licensing and market 
+entry challenges, qualify the companies for attractive lines of 
+credit, and allow them to receive services from Brazil's National 
+Microbusiness Support Agency (SEBRAE) including business plan 
+development, tax consultation, training, and market research.  The 
+NBP proposes that BNDES offer attractive lines of credit to 
+NBP-based companies for projects to expand broadband infrastructure 
+for fixed and mobile services, for digital inclusion projects with 
+broadband access aimed at rural areas, and for IT related training. 
+ 
+ 
+ 
+ 
+ 
+REGULATORY CHANGES 
+ 
+------------------ 
+ 
+¶4.  (SBU) The primary goal of NBP regulatory reform is to stimulate 
+competition and reduce consumer prices by expanding licensing 
+regimes and reducing entry barriers for new service providers.  The 
+NBP calls for an increase in the availability of new fixed and 
+mobile concessions for cable TV with the goal of increasing by 25% 
+the number of households with access to broadband internet via 
+cable TV by 2014.  Additionally, the plan establishes a special 
+broadband spectrum division within Brazil's Telecommunications 
+Regulatory Agency (ANATEL) for the auction of broadband licensed 
+blocks in order to facilitate the participation of large, medium 
+and small providers of telecommunications services in the process. 
+The division's responsibilities would entail identifying a 
+spectrum's coverage and scope (national, regional or local), 
+establishing a maximum allowable pricing regime with the service 
+provider, defining long term, extended coverage commitments within 
+each spectrum auction, and capping the maximum allowable bid during 
+spectrum auctions in order to foster greater participation. 
+Spectrum in the 450Mhz, 2.5GHz and 3.5GHz bands for mobile 
+broadband will soon be released and the plan calls for the 
+establishment of the broadband spectrum division before the 
+auctions take place.  ANATEL's Jeferson Nacif told Econoff that 
+these goals were consistent with ANATEL's agency objectives of 
+fostering greater competition, enhancing operational efficiencies, 
+and lowering consumer prices through regulatory reform.  In this 
+sense, Nacif mentioned that ANATEL would be reviewing Brazil's 
+compensation network regulations, IT infrastructure sharing 
+regulations, and interconnectivity regulations to find asymmetries 
+that create greater market access.  Nacif added that ANATEL will 
+also be giving priority to the regulations on network neutrality 
+(elimination of tiered internet pricing regimes) and to ensuring 
+that service providers are delivering the connection speed that 
+consumers are paying for. (Note: many of these topics will be 
+included on the agenda during the ANATEL/FCC workshop in February 
+2009 in Washington.  End Note) 
+ 
+ 
+ 
+ 
+ 
+¶5.  (SBU) Comment:  As bold as the strategic thinking of MOC's NBP 
+appears to be, it is still just an introductory proposal.  Until 
+GOB addresses the critical issues of how broadband is to be 
+delivered (via landline telephone infrastructure or electricity 
+grid infrastructure - either option would require expansion of 
+existing networks) and how the government will fund expansion, 
+strategic planning will not turn into tangible implementation.  As 
+in Brazil's energy and aviation sectors, Brazil's IT infrastructure 
+has failed to keep pace with demand.  There is no doubt that past 
+underperformance in this sector has had a negative impact on 
+potential GDP growth and economic competitiveness, as well as on 
+Brazil's social inclusion goals, due to limited information access 
+for Brazilians in rural areas with lower income.  The GOB sees an 
+opportunity to help bridge those gaps and, with Brazil hosting the 
+World Cup in 2014 and the Olympics in 2016, realizes fundamental 
+decisions on delivery mode and funding must be made soon.  That 
+said, Mission believes GOB is unlikely to meets its December 
+deadline to make these decisions.  End comment. 
+KUBISKE

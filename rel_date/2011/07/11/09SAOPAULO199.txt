@@ -1,0 +1,88 @@
+09SAOPAULO199
+B2 VISA VALIDATION STUDY GIVES POSITIVE RESULT
+Wed Apr 01 00:00:00 +0200 2009
+UNCLASSIFIED
+Consulate Sao Paulo
+VZCZCXRO6769
+RR RUEHRG
+DE RUEHSO #0199 0911636
+ZNR UUUUU ZZH
+R 011636Z APR 09
+FM AMCONSUL SAO PAULO
+TO RUEHC/SECSTATE WASHDC 9082
+INFO RHMFIUU/HOMELAND SECURITY CENTER WASHDC
+RUEHBR/AMEMBASSY BRASILIA 0227
+RUEHRI/AMCONSUL RIO DE JANEIRO 9091
+RUEHRG/AMCONSUL RECIFE 4334
+RUEHPNH/NVC PORTSMOUTH 0066UNCLAS SAO PAULO 000199 
+ 
+SIPDIS 
+ 
+DEPARTMENT FOR CA/VO/F/P AND CA/FPP 
+DEPARTMENT PASS TO KCC 
+ 
+E.O. 12958: N/A 
+TAGS: CVIS PREL KRFD KCRM SMIG BR
+ 
+SUBJECT:  B2 VISA VALIDATION STUDY GIVES POSITIVE RESULT 
+ 
+REF: 08 SAO PAULO 575 
+ 
+¶1. Summary:  A recent study of 2,386 B2 non-immigrant visas (NIV) 
+issued at Consulate General Sao Paulo during July 2008 indicated 
+that, of those who have already traveled to the United States, only 
+two percent were overstays.  The results demonstrate that the 
+current fraud prevention training for adjudicating officers is 
+sufficient to avoid visa issuance to mala-fide travelers, and did 
+not indicate any instance of organized fraud.  End Summary. 
+ 
+Methodology 
+ 
+¶2. During the week of July 14, 2008, Consulate General Sao Paulo 
+processed 2,509 applications for B2 non-immigrant visas.  The 
+approval rate on these applications was 95.1 percent.  The Fraud 
+Prevention Unit (FPU) extracted data on applications from the 
+Consular Consolidated Database using the AdHoc Reporting Template. 
+The sample parameters were B2 visas issued during the week of July 
+14, 2008.  Using these criteria, FPU pulled 2,386 issuances and 
+entered them in an Excel Spreadsheet.  The 2,386 applications were 
+randomly sorted and 198 were selected using a sample interval of 12. 
+ Based on the "Warsaw FPU Sample Size Calculator," a sample size of 
+198 would yield a standard error rate of less than three percent at 
+a 95 percent confidence level, using a five percent estimated fraud 
+rate. 
+ 
+¶3. FPU ran each of the 198 selected applications against the 
+Department of Homeland Security's Arrival-Departure Information 
+System to determine whether and/or when the individual had traveled 
+to the United States.  Of the 198 issuances, 125 (63.1 percent) were 
+determined to have traveled and returned, 70 (35.4 percent) were 
+determined not to have traveled, and three (1.5 percent) were 
+indicated as having entered and not yet left the United States.  Of 
+the three in the United States, one had traveled two months earlier 
+and was still under valid B2 status.  FPU then conducted phone 
+checks on the two remaining individuals to examine whether there had 
+been fraud in the application such as to suggest they were unlikely 
+to return. 
+ 
+Results 
+ 
+¶4. Results of the phone checks indicated one of the individuals had 
+provided false employment and residence information.  The other 
+applicant provided accurate information but misrepresented her 
+intentions.  This second individual stated she was taking her 
+seven-year old daughter (who was granted a visa during the same 
+interview) on a ten-day trip to Disney.  After receiving the visa, 
+she apparently closed her business and moved to the United States 
+with her daughter. 
+ 
+¶5. Comment:  Given the margin of error, the two percent overstay 
+rate found in the study is statistically identical to that found in 
+the last similar study in October 2008, which found a three percent 
+rate (reftel).  FPU was unable to identify an instance of organized 
+fraud.  Post believes this data indicates the NIV unit is adequately 
+training its adjudicating officers to identify most types of visa 
+fraud and properly apply Section 214(b) of the Immigration and 
+Naturalization Act to standard B2 cases.  End Comment. 
+ 
+WHITE

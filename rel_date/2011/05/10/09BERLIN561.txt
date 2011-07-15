@@ -1,0 +1,59 @@
+09BERLIN561
+
+Thu May 14 00:00:00 +0200 2009
+SECRET
+Embassy Berlin
+VZCZCXRO4610
+PP RUEHDH RUEHHM RUEHPB RUEHTM RUEHTRO
+DE RUEHRL #0561/01 1341624
+ZNY SSSSS ZZH
+P 141624Z MAY 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 4084
+INFO RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+RUEHBS/AMEMBASSY BRUSSELS 1216
+RUEHFR/AMEMBASSY PARIS 0395
+RUEKJCS/SECDEF WASHINGTON DC
+RUEHRL/USDAO BERLIN GE
+RUEHBS/USEU BRUSSELS
+RUCUSTR/USSTRATCOM OFFUTT AFB NES E C R E T SECTION 01 OF 02 BERLIN 000561
+
+SIPDIS STATE FOR EUR/CE PETER SCHROEDER STATE FOR ISN/MDSP DICK BUENNEKE
+
+E.O. 12958: DECL: 05/14/2034 TAGS: ETTC PGOV PINR MCAP PREL TSPA FR GM
+REF: A. 08 BERLIN 1537 B. 08 BERLIN 1575 C. BERLIN 181
+
+Classified By: Global Affairs Unit Chief Don L. Brown for reasons 1.4 (b) and (d).
+
+¶1. (S//NF) SUMMARY: Germany is taking concrete steps to achieve a full-spectrum, overhead reconnaissance capability by adding a space-based HIgh Resolution Optical System (HiROS) to their already impressive suite of space-based radar and multi-spectral systems. The German Government believes that full spectrum overhead reconnaissance is an effective force multiplier, provides an instrument of national power, and politically frees Germany from dependence on foreign sources of imagery. Germany anticipates that their emergence as a world leader in overhead reconnaissance will generate interest from the USG and envisions an expansion of the intelligence relationship. END SUMMARY
+
+¶2. (S//NF) On 8 April 2009, US National Geospatial Intelligence Agency (NGA) officers met with German Intelligence Service (BND) officials to discuss Germanys plans for expanded nationally operated overhead reconnaissance resources. These meetings included a working lunch with BND Senior Vice President Arndt Freytag Freiherr von Loringhoven, and a working level meeting with BND Directorate UF Geospatial Intelligence (GEOINT) and Imagery Intelligence (IMINT)) officials led by Luftwaffe Colonel Joachim Karl Trenker. Other BND attendees included Bundeswehr Colonel Gross, Bundeswehr Lieutenant Colonel Frank Richter, Navy Captain zur See Hoffheinz, and the BND Deputy Head of Liaison for Berlin Lieutenant Colonel Sven Fleissig.
+
+HIROS IS CRITICAL FOR INTELLIGENCE AND GOOD FOR JOBS
+--------------------------------------------- -------
+
+¶3. (S//NF) Over the past three years, Germany has successfully fielded an impressive array of space-based radar and multispectral collectors and this success has prompted them to fill out their spectrum coverage to include an optical (HiROS) capability. Furthermore, developing a German national overhead reconnaissance capability offers the opportunity to create desirable high profile, sector-specific technology jobs and expand value-added technology exports. The BND indicated that the final decision to appropriate funding for the HiROS program would likely not be made until after the September 27, 2009 German general elections. The BND is highly confident, given their knowledge of available funding and political support, that the HiROS plan will get the go-ahead.
+
+GERMANYS HIROS IMPLEMENTATION PLAN
+-----------------------------------
+
+¶4. (S//NF) Germany intends to develop HiROS through a DLR (German Space Agency) /EADS Astrium public private partnership (PPP). The division of EADS Astrium that would build HiROS is the German-only InfoTerra GmbH, which has also built German space-based radar satellite systems, TerraSAR-X and TanDEM-X satellites (Ref B). To minimize possible political backlash from developing HiROS as an intelligence satellite, the program will be managed by a civil agency, possibly the Ministry of Economics and Technology (BMWi). For political optics, the satellites themselves would be operated by a "commercial entity" created specifically for this purpose, but with tasking managed/controlled/coordinated by BND. Commercial imagery sales are envisioned to help offset program development costs. BND managers are adamant that the imagery must be unclassified to enable maximum utility.
+
+¶5. (S//NF) As envisioned, HiROS would consist of three electro-optical (EO) satellites and may also incorporate an infra-red (IR) sensor capability. BND is proposing an EO sensor capable of 0.5 meter resolution (1.1 meter diameter mirror) and a daily revisit capability for any spot on the Earths surface. The BND said this sensor would incorporate "smart stereo" capabilities, which is a critical technological feature that would aid in real-time, three dimensional data set production.
+
+GERMANY OPTS FOR LOWER RESOLUTION TO AVOID EXPORT RESTRICTION
+--------------------------------------------- ----------------
+
+¶6. (S//NF) Germany chose 0.5 meter resolution for their HiROS based on a balance of cost factors and their ability to commercially export HiROS data. The BND stated that some elements of the German military want a higher resolution capability (possibly 0.41 meter or better), but indicated that this is not in the current plan. Germany,s domestic restrictions on the export of high resolution imagery (Satellitendatensicherheitsgestz) and their sensitivities to the United States remote sensing policy (which limits commercial EO imagery to 0.5 meter) were instrumental factors influencing Germany,s desire to export high resolution EO data while minimizing export restrictions. In addition, higher EO resolution would drive instrument costs up, increase the size/weight of the satellites, and potentially prolong the development time for HiROS.
+
+GERMANY SEES REAL VALUE IN 3D POST-PROCESSING
+---------------------------------------------
+
+¶7. (S//NF) The real value that Germany sees in an indigenous HiROS system stems not only from the data independence it would offer, but also from what they envision doing with the data. Currently, Germany has imagery processing software, developed by DLR, that provides high-resolution three-dimensional (3D) data sets from their indigenous space-based radar imagery and from procured HiROS imagery. Germany anticipates that DLR will evolve the processing of 3D data sets to near real-time. (COMMENT: NGA officers assess that with the launch of the TanDEM-X satellite in Fall 2009 and the proposed launch of HiROS in 2013-2014, Germany could ultimately dominate the world wide market for commercially available optical and SAR-based terrain data. END COMMENT)
+
+GERMANY EYES CLOSER GEOINT RELATIONSHIP WITH THE USG
+--------------------------------------------- -------
+
+¶8. (S//NF) The BND stressed that having their own national space-based reconnaissance assets will enable them to be a better partner with the USG by bringing more unique value to the table. The BND indicated that they are anxious to precede with additional high value substantive joint projects with the USG and hope that through a closer imagery exchange relationship, Germany could fill some of their collection gaps by gaining access to US imagery covering Iran, North Korea, China, and the Haqqani Network in the AFPAK region. Also of note, the BND also wants to work with the USG on GEOINT issues of mutual interest in Africa. (COMMENT: This sentiment was reiterated by von Loringhoven during the working lunch. END COMMENT) NGA officers responded that USG cooperation on additional joint projects would hinge upon the German sides ability to bring unique data sources and information to the table.
+Koenig

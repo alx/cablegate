@@ -1,0 +1,270 @@
+08BRASILIA672
+SOURCES OF GENERATION - ELECTRICITY SERIES #2
+Fri May 16 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Brasilia
+VZCZCXRO6183
+RR RUEHRG
+DE RUEHBR #0672/01 1371209
+ZNR UUUUU ZZH
+R 161209Z MAY 08
+FM AMEMBASSY BRASILIA
+TO RUEHC/SECSTATE WASHDC 1700
+INFO RUEHSO/AMCONSUL SAO PAULO 2075
+RUEHRG/AMCONSUL RECIFE 8051
+RUEHRI/AMCONSUL RIO DE JANEIRO 6167
+RUEHBU/AMEMBASSY BUENOS AIRES 5513
+RUEHAC/AMEMBASSY ASUNCION 6789
+RUEHMN/AMEMBASSY MONTEVIDEO 7367
+RUEHSG/AMEMBASSY SANTIAGO 0332
+RUEHLP/AMEMBASSY LA PAZ 6196
+RUEHSG/AMEMBASSY SANTIAGO 0333
+RUCPDOC/USDOC WASHDC
+RUEATRS/DEPT OF TREASURY WASHDC
+RHEHNSC/WHITE HOUSE NATIONAL SECURITY COUNCIL WASHDC
+RHEBAAA/DEPT OF ENERGY WASHDCUNCLAS SECTION 01 OF 04 BRASILIA 000672 
+ 
+STATE PASS USTR FOR KDUCKWORTH 
+STATE PASS EXIMBANK 
+STATE PASS OPIC FOR DMORONSE, NRIVERA, CMERVENNE 
+DEPT OF TREASURY FOR JHOEK 
+DEPT OF ENERGY FOR CGAY, RDAVIS 
+DOC FOR ADRISCOLL ITA/OLC 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG ECON EINV BR
+SUBJECT: SOURCES OF GENERATION - ELECTRICITY SERIES #2 
+ 
+SENSITIVE BUT UNCLASSIFED--PLEASE PROTECT ACCORDINGLY 
+ 
+REF: A: Sao Paulo 0031; B: La Paz 0462; C: 06 Sao Paulo 1059 D: 
+Brasilia 00593; E: Sao Paulo  F: Rio 0091 
+ 
+ 
+1.(U)SUMMARY: As Brazil enjoys its recent strong pattern of economic 
+growth, many observers question the sustainability of this growth 
+given the poor condition of Brazil's infrastructure.  One critical 
+element in supporting future growth will be Brazil's ability to 
+provide a reliable electrical supply.  The country is currently 
+heavily dependent on hydroelectricty without much diversification, 
+leading to difficulties in years with light rainfall. Chief of Staff 
+Dilma Rouseff says that by 2020 current resources will be 
+insufficient to meet the demand, while some outside the government 
+caution that problems could arise as early as 2009.  Brazil faces 
+many challenges in its ability to ensure sufficient electrical 
+generation capacity, and while there are long term plans to address 
+the deficiency, the current generation capacity remains just barely 
+sufficient. END SUMMARY. 
+ 
+------------------ 
+WHAT IS THE NEED? 
+------------------ 
+ 
+¶2.  (U) Apart from a slowdown in the 1980s during a period of low or 
+negative economic growth, Brazil's energy consumption has been 
+increasing at a rate higher than the world average.  According to 
+the Ministry of Mines and Energy (MME), energy consumption decreased 
+from 332 TW-hour/year (tera - or trillion - watts) in 2000 to 310 
+through rationing in 2001 and since that time has risen at an 
+average of 5% per year, which is also Brazil's target rate of GDP 
+growth.  By 2007, the rate of consumption had risen to 435 TW-hours 
+and is predicted to be 533 TW-hours by 2011.  Data from the national 
+electrical system unified operator, ONS, shows that maximum demand 
+for 2007 was 64,000 megawatts (MW) and they predict by 2011 that 
+will rise to 79,000 MW.  This compares with an installed capacity of 
+98,000 MW in 2007 and a predicted 109,000 MW in 2011.  However, 
+sector experts note that installed capacity figures can be 
+misleading, particularly since Brazil's capacity is heavily 
+influenced by rainfall levels and actual production frequently falls 
+short of capacity. 
+ 
+----------------- 
+RELIANT ON HYDRO 
+----------------- 
+ 
+¶3. (U) According to the World Energy Council (WEC), Brazil has the 
+world's third highest potential capacity for hydroelectricity after 
+China and the U.S., and is the third largest producer of hydro-power 
+after Canada and the U.S.  Brazil's dams are located primarily in 
+the heavily populated southeast, but there are smaller dams 
+throughout the country which are linked into the national power 
+grid.  The largest dam, Itaipu, is owned jointly with Paraguay with 
+a 50-year contract that is due to expire in 2023.  (Note: 
+Paraguayan president-elect Lugo made renegotiating more favorable 
+terms on the Itaipu contract a central part of his campaign 
+platform.  The GOB has said they are unwilling to renegotiate the 
+contract, but in the days following the Paraguayan election have 
+indicated a willingness to work on a solution outside of the 
+contract.  The Brazilian Congress has been vocal in its opposition 
+to any contract renegotiation in the wake of Lugo's victory.  End 
+Note.) 
+ 
+¶4. (SBU) Pricing electricity that is dependent on water levels can 
+be an art not a science, AES Electropaulo CFO Alexandre Innecco 
+explained to Econoff.  The national electrical regulatory body, 
+ANEEL, sets an assured energy capacity for each hydro-generation 
+plant based on average river flows.  ONS, in turn, controls how much 
+water is dispatched via the various rivers based on reservoir 
+levels, and upstream/downstream activity and determines which 
+generators will produce and how much.  Hydroelectric plants can only 
+ 
+BRASILIA 00000672  002 OF 004 
+ 
+ 
+contract electricity up to their assured capacity; however, a plant 
+can conceivably generate less than its contracted energy and would 
+have to purchase electricity either on the bilateral electricity 
+market (where generators can trade excess energy generated above 
+assured capacity) or on the spot market.  Innecco explained, 
+however, that contracted hydroelectric generators generally are not 
+authorized to buy on the spot market and face penalties that 
+effectively double the spot price. 
+ 
+--------------------------- 
+Other Sources of Electricty 
+--------------------------- 
+ 
+¶5.  (U) Aside from hydroelectricity, other renewables do not play a 
+significant role in Brazil's electrical supply, although there are 
+reports that the new Super Eletrobras may be charged with expanding 
+into these areas.  There is significant interest in developing 
+electrical production based on the next generation ethanol, some of 
+which already provides electricity for ethanol factories (septel). 
+As measured by the speed and regularity of prevailing winds, 
+according to the WEC, wind energy is an untapped area with high 
+potential in Brazil, especially in the areas of the Northeast that 
+do not have sufficient water supply for hydroelectric dams.  Growth 
+in this area remains constrained for many reasons, including a high 
+tariff on the import of wind generation equipment.  The result is 
+that Brazil has one of the world's lowest rates of installed wind 
+capacity, and the growth rate in this area has lagged behind that of 
+other countries. 
+ 
+¶6. (SBU) Nuclear energy makes up a very small part of Brazil's 
+electricity generation - its two nuclear plants in Rio de Janeiro 
+State make up only about 2% of production capacity in the country. 
+Although Brazilian officials, including MME Minister Lobco in a 
+conversation with Ambassador Sobel, have indicated Brazilian 
+interest in taking advantage of Brazil's large uranium reserves to 
+become a yellow cake exporter, in the near term any civil nuclear 
+expansion will be minimal.  In the long-term however, Chief of Staff 
+Dilma Rouseff confirmed during Senate questioning on May 6 that the 
+government has long term plans to expand civil nuclear generation 
+even beyond construction of the long-anticipated third reactor. 
+Brazil's long-term desire to increase their civilian nuclear program 
+is in part delayed by the fact that, as World Bank Director Briscoe 
+told Econoff and Ministry of Foreign Relations Director for 
+Non-renewable Energy Vivian Loss San Martin confirmed, the GOB 
+contracted the building of the third nuclear plant at the time of 
+construction of the two existing ones, leaving a warehouse full of 
+already purchased 1970s equipment that the government must now 
+figure out how to update with its French and German partners in 
+order to move ahead, as they clearly intend to do. 
+ 
+¶7. (U) Brazil's thermo electrical plants run largely on coal, of 
+which Brazil does not have sufficient quantities, and gas, which 
+also requires imported sourcing.  Petrobras is installing new 
+liquefied natural gas plants this year to augment thermal capacity 
+(reftel A).  Over the medium-term, new sources of natural gas at 
+Tupi and Sugar Loaf (reftel F) will provide a new, domestic source 
+of natural gas for the potential expansion of thermal electric 
+plants. 
+ 
+---------------- 
+Challenges 
+---------------- 
+ 
+¶8.  (SBU) ANEEL General Director Jerson Kelman told Econoff that one 
+of the biggest challenges to Brazil's energy sector is increasing 
+production in an efficient and environmentally friendly way.  As 
+APINE president, Luiz Fernando Leone Vianna, also pointed out in a 
+separate conversation echoing Kelman's, the current permitting and 
+licensing system makes the building of hydroelectric dams very 
+challenging due to societal and environmental concerns which 
+perversely makes the more polluting, carbon heavy, non-renewable 
+conventional thermoelectric plants much easier to build.  The World 
+ 
+BRASILIA 00000672  003 OF 004 
+ 
+ 
+Bank has recently completed a study which addresses this and other 
+complications in energy licensing in Brazil, making recommendations 
+in an attempt to ease the licensing challenges to electric companies 
+seeking to operate in Brazil. 
+ 
+¶9.  (SBU) The independent energy suppliers association, ABRACEEL, 
+believes the governmental role in the concessions process has led to 
+the distortion of the system.  ABRACEEL President Paulo Pedrosa told 
+Econoff, that this year's concerns over a possible energy crisis 
+were not due to true generation limitations, but rather a shortage 
+of supply caused by the government's artificial intervention in the 
+system of auctions to keep prices low.  He points to government 
+understatement of the actual demand contracted at auction as a way 
+of decreasing the number of contracts for suppliers to vie for.  In 
+so doing, interested suppliers bid the price lower in an attempt to 
+gain the contracts.  This tactic not only results in lower energy 
+prices for the consumer but lower energy supply for the coming year 
+as well. 
+ 
+¶10.  (SBU) Also, as Brazil seeks to diversify its electrical 
+generation base, it must contend with their current lack of other 
+conventional resources such as coal and gas.  They must rely on 
+imports and have in the past been caught on the short end of the 
+stick with unreliable regional suppliers.  Bolivia for example 
+reneged on their contract with Petrobras, successfully demanding a 
+renegotiating.  Bolivia just this year tried to reopen the issue to 
+pursue the GOB to cede part of its gas supply from Bolivia to 
+Argentina, an offer the Lula government firmly declined.  Argentina 
+as well has not lived up to its gas contracts and generally fails to 
+supply the level of gas to Brazil that the two sides had negotiated. 
+ (Reftels A and B) 
+ 
+¶11. (U) Finally, according to ONS, the current dilemma in management 
+of the electrical system is how to optimize the use of the 
+hydropower available.  Having reached the limits of its current 
+capacity, Brazilian electrical regulators must optimize the 
+electrical supply they have available.  What percentage of 
+hydroelectric power to reserve for the dry season and to what extent 
+to utilize the stop gap measure of thermoelectric capacity is a 
+perennial puzzle.  Since thermo power is much more expensive, ONS 
+tell us they would prefer to minimize its use in favor of hydro. 
+However, failure to predict demand or rainfall correctly may mean 
+insufficient hydropower for the year.  This could cause authorities 
+to find themselves on the wrong side of the spot market for coal- 
+and gas-generated thermal electricity - leading to very painful cost 
+hikes, most likely to affect industry and, therefore, potentially 
+overall GDP growth.  Or, in the worst case scenario, authorities 
+could be driven to impose rationing or risk blackouts.  On the other 
+hand, trying to compensate early in the season with thermo power, 
+having incorrectly anticipated a shortage of rainfall, may lead to 
+the more economically efficient hydro supply going to waste and 
+electricity costs rising unnecessarily due to the employment of 
+thermal.  This juggling act is becoming more precarious as Brazil's 
+thirst for electrical power equals its capacity for generation. 
+ 
+¶12.  (SBU)COMMENT: As Brazil looks to continue on its path of strong 
+economic growth, capitalizing on the recent decision by Standard and 
+Poor's to upgrade Brazil's foreign currency sovereign credit rating 
+to investment grade (reftel E), they may find this growth 
+constrained by limits in the electricity sector.  The Lula 
+government is searching for ways to expand the generation capacity, 
+presenting areas ripe for possible bilateral and regional 
+cooperation as well as potential U.S. investment.  In the meantime, 
+the government finds itself having to do a precarious balancing of 
+limited resources in the electrical sector to avoid rationing and 
+possible blackouts on one hand, or spikes in electrical costs on the 
+other.  The nature of the challenge and Brazil's attempts to control 
+it will be the subject of the next cable in this series.  END 
+COMMENT. 
+ 
+¶13.  (U) This cable was written in conjunction with Sao Paulo and 
+coordinated throughout Mission Brazil. 
+ 
+BRASILIA 00000672  004 OF 004 
+ 
+ 
+ 
+CHICOLA

@@ -1,0 +1,236 @@
+09MANAGUA562
+NICARAGUA TELECOM SECTOR: MARKET OPEN, BUT
+Fri Jun 05 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Managua
+VZCZCXYZ0006
+RR RUEHWEB
+
+DE RUEHMU #0562/01 1561950
+ZNR UUUUU ZZH
+R 051950Z JUN 09
+FM AMEMBASSY MANAGUA
+TO RUEHC/SECSTATE WASHDC 4213
+INFO RUEHZA/WHA CENTRAL AMERICAN COLLECTIVE
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DCUNCLAS MANAGUA 000562 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPT PASS USTR 
+DEPT FOR EEB/CIP/BA TIM FENTON 
+DEPT PASS FCC TOBERT TANNER 
+DEPT PASS DOC/ITA/OTEC ANDREW BENNETT 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON EINV ETRD TINT NU
+SUBJECT: NICARAGUA TELECOM SECTOR: MARKET OPEN, BUT 
+COMPETITION 'SLIM' 
+ 
+REF: A. MANAGUA 02474 
+     ¶B. MANAGUA 01343 
+ 
+¶1. (SBU) Summary:  The head of Nicaragua's telecommunications 
+regulator, TELCOR (Instituto Nicaraguense de 
+Telecomunicaciones y Correos), announced in April 2009 that 
+it would begin consultations to reform Nicaragua's telecom 
+legislation, known as Law 200.  As currently drafted, Law 200 
+fails to foster competitive investment in the sector, as 
+envisioned by CAFTA-DR.  In fixed-line telephony, the former 
+government-operated telecommunications company Enitel, now 
+owned by Mexican billionaire Carlos Slim's America Movil, has 
+100% of the market and operates a de-facto monopoly.  The 
+wireless sector is dominated by a duopoly, with America 
+Movil's Claro competing against Telefonica's Movistar for 
+market share.  TELCOR has drafted a revised telecom law, but 
+the National Assembly's Commission on Infrastructure and 
+Public Services is working on its own version, which would 
+create a new regulatory body whose members are chosen by the 
+Assembly rather than the President.  Until a new law is 
+passed, media companies in Nicaragua continue to operate in 
+an uncertain environment.  End Summary. 
+ 
+¶2. (SBU) Nicaragua's complementary agenda to improve the 
+business climate under CAFTA-DR includes legislation to 
+reform the telecommunications sector.  There has been no 
+progress on this score since the free trade agreement was 
+signed in April 2006.  The national telecom regulator, 
+TELCOR, and the National Assembly's Commission on 
+Infrastructure and Public Services are currently drafting 
+revisions to the country's telecom legislation.  Threatening 
+to derail proposed reform is the issue of whether legislation 
+will protect or endanger existing media licenses.  Radio and 
+television stations, often highly critical of the Ortega 
+Administration, fear that the reform process under discussion 
+presents an opportunity to limit or deny them licenses (see 
+paragraphs 10-11). 
+ 
+Still Waiting On New Telecommunications Legislation 
+--------------------------------------------- ------ 
+ 
+¶3. (U) TELCOR Executive President Orlando Castillo announced 
+in April 2009 that the Government of Nicaragua (GON) would 
+begin consultations to reform Nicaragua's "General Law of 
+Telecommunications and Postal Services," Law 200.  Castillo 
+said he would deliver an outline of the proposed reforms to 
+the Executive Branch by the end of June.  The National 
+Assembly's Commission for Infrastructure and Public Services 
+announced the same week that it is working on its own draft 
+of a new telecommunications law.  Media reports indicate that 
+the National Assembly's draft will include a plan to create a 
+new regulatory institution, the Superintendent of 
+Telecommunications and Postal Services (SITEL), whose members 
+would be chosen by the Assembly rather than appointed by the 
+President.  A 2005 attempt by the National Assembly to create 
+a Superintendent of Public Services (SISEP) with authority 
+over telecommunications failed after a confrontation between 
+the National Assembly and President Bolanos ended in a 
+stalemate (Ref A). 
+ 
+¶4. (U) As part of its Rural Telecommunications Project for 
+Nicaragua, the World Bank provided $350,000 in technical 
+assistance to TELCOR to help draft a new regulatory framework 
+for the sector.  World Bank Project Director Eloy Vidal told 
+us that a draft law developed by TELCOR and the World Bank 
+has been completed, and that he is cautiously optimistic it 
+will be approved.  The Nicaraguan National Assembly, 
+meanwhile, received technical assistance from the United 
+Nations Development Program (UNDP) to revise Law 200.  The 
+primary difference between the two draft laws is reportedly 
+the National Assembly's plan to create a new regulatory 
+institution with authority over TELCOR. 
+ 
+¶5. (U) Law 200, as currently drafted, allows for privately 
+owned and operated telecommunications companies, but falls 
+short of fostering competitive investment in landline 
+telephony as envisioned by CAFTA-DR.  One TELCOR executive 
+described the 1995 law as "obsolete" and incapable of 
+addressing technological advances.  For example, while TELCOR 
+regulates interconnection charges, the former 
+government-operated telecommunications company Enitel, now 
+owned by Mexican billionaire Carlos Slim's America Movil (the 
+dominant cellular telephone company in Nicaragua) still 
+controls switching for all cellular services and owns the 
+local loop ("the last mile").  When TELCOR issued regulations 
+in 2006 that mandated unbundling the local loop, consistent 
+with Article 13.4 of CAFTA-DR's Chapter 13 on 
+telecommunications, Enitel refused to unbundle the loop. 
+This created a strong disincentive for potential investors in 
+the sector, effectively preventing liberalization of the 
+market for telephony.  (Note: the local loop refers to the 
+physical wire between a telephone exchange and a customer's 
+premises; the "unbundling" of that loop allows competing 
+service providers to rent the existing infrastructure and 
+access residential customers.) 
+ 
+The Shift Toward Cellular 
+------------------------- 
+ 
+¶6. (U) Having the second lowest access to fixed-line 
+telephony in Latin America on a per capita basis, Nicaragua 
+leapfrogged into mobile communications during the last 
+decade.  Today, Nicaragua's mobile telephone penetration rate 
+is greater than 50%, surpassing that of Honduras, Peru, 
+Haiti, and Cuba.  Cell phones now exceed the number of fixed 
+lines by more than ten to one.  Since 2004, the mobile market 
+has been growing at an annual rate of 60%.  Most recent 
+investment in the sector has focused on expanding service to 
+the poorer social strata throughout the country.  The 
+wireless sector is dominated by a duopoly between America 
+Movil's Claro and Telefonica's Movistar services.  Claro 
+leads with a 70% market share to Movistar's 30%.  Internet 
+penetration has tripled since 2000, to 2.7% of the population 
+in 2008.  About one-sixth of these are broadband users.  Both 
+companies deploy the broadband mobile telecommunications 
+platform standard known as UMTS/HSDPA (Universal Mobile 
+Telecommunications System/High-Speed Downlink Packet Access), 
+allowing them to introduce 3G wireless service in 2008. 
+High-end wireless service and broadband networks can be found 
+in urban areas.  While investment in wireless continues, 
+investment in landline service is minimal. 
+ 
+The Story of Deregulation 
+------------------------- 
+ 
+¶7. (U) Passed in 1995 under President Violeta Chamorro, Laws 
+200 and 210 opened the state-run telecommunications sector to 
+private investment and to the eventual privatization of 
+Enitel, the state-owned telephone company.  The government 
+sold a 40% stake in Enitel in 2001 to an international 
+consortium, which later became Megatel.  The Government of 
+Nicaragua (GON) sold the remaining stake to America Movil in 
+December 2003.  In 2004, America Movil bought Megatel's share 
+to become the sole owner of Enitel, despite opposition from 
+telecom regulator TELCOR.  Enitel now operates a de-facto 
+monopoly as the country's only landline operator and the 
+dominant cellular provider. 
+ 
+¶8. (SBU) TELCOR tried to liberalize the telecom industry at 
+the end of 2004, but Enitel successfully appealed, delaying 
+deregulation until 2005, when Enitel's exclusive right to 
+provide landline telephone services expired under Law 210. 
+Since 2005, any company has been free to bid on a license to 
+provide landline services through a process even TELCOR 
+itself describes as lengthy and cumbersome. 
+ 
+¶9. (U) In 2006, consistent with the country's obligations 
+under CAFTA-DR, TELCOR sought to amend the country's 
+telecommunications regulations.  TELCOR wanted to force the 
+unbundling of the local loop so that companies interested in 
+investing in the landline sector would have access to the 
+existing network elements.  Enitel filed an injunction 
+against the GON, charging discrimination and arguing that the 
+new regulations were impermissible under Law 200, the 
+governing telecommunications legislation.  The Nicaraguan 
+Supreme Court agreed with Enitel, sending the government back 
+to the drawing board.  Since 2007, the Ortega Administration 
+has decided to forego developing new regulations in favor of 
+a complete sectoral reform. 
+ 
+A Political Battle Brewing Over Media Licensing 
+--------------------------------------------- -- 
+ 
+¶10. (SBU) TELCOR also issues licenses for radio and 
+television frequencies.  Here, political battle lines are 
+being drawn.  TELCOR's President, Orlando Castillo, is the 
+former Finance Director for Channel 4, a television station 
+owned by President Ortega and managed by his son.  TELCOR 
+headquarters prominently displays FSLN (Sandinista National 
+Liberation Front) propaganda.  Moreover, TELCOR performs a 
+public relations service to the President, his wife, and the 
+FSLN by financing and staging Ortega's many town hall 
+meetings, broadcast in their entirety by Channel 4.  The FSLN 
+has sharply criticized independent media in Nicaragua, and 
+took the extreme measure in 2008 of paying protesters to 
+occupy Managua's traffic circles to denounce what it 
+perceived as unfair treatment by the media (Ref B).  Protests 
+by FSLN and government-supported Citizen Power Councils 
+(CPC's) in front of media outlets were also common in 2008. 
+ 
+¶11. (SBU) The reform of Law 200 promises to include the 
+renewal of existing media licenses, an issue which has become 
+politically charged.  Media outlets in Nicaragua have 
+operated since 2008 without knowing when their licenses will 
+expire.  The National Assembly temporarily extended the 
+licenses, pending the passage of legislation to replace Law 
+200, after a furor erupted over TELCOR's failure to reply to 
+requests for license extensions from several independent 
+media outlets.  TELCOR's inaction, as the expiration date of 
+the licenses grew near, was interpreted by voices opposed to 
+the governing FSLN as a plan to let the licenses expire and 
+not renew them.  In 2007, opposition candidate Eduardo 
+Montealegre had introduced a bill to the National Assembly to 
+extend media licenses by 10 years, but the FSLN blocked it. 
+ 
+¶12. (SBU) Comment:  While technically open to investment, 
+Nicaragua's telecom sector lacks the regulatory environment 
+that would foster a free and competitive market.  To fully 
+comply with the spirit of CAFTA-DR, the National Assembly 
+needs to pass an improved law on telecommunications.  While 
+the government has suggested that such legislation will move 
+quickly, we believe that the National Assembly is technically 
+unprepared to reform telecommunication legislation at this 
+time.  The issue of renewing radio and television licenses is 
+likely to make any reform effort lengthy and highly 
+controversial. 
+CALLAHAN

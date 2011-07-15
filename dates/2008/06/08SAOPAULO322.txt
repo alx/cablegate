@@ -1,0 +1,100 @@
+08SAOPAULO322
+Sao Paulo Domestic Employee Validation Study
+Fri Jun 20 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Sao Paulo
+VZCZCXRO4628
+RR RUEHRG
+DE RUEHSO #0322 1721558
+ZNR UUUUU ZZH
+R 201558Z JUN 08
+FM AMCONSUL SAO PAULO
+TO RUEHC/SECSTATE WASHDC 8334
+INFO RUEHBR/AMEMBASSY BRASILIA 9470
+RUEHRI/AMCONSUL RIO DE JANEIRO 8766
+RUEHRG/AMCONSUL RECIFE 4145UNCLAS SAO PAULO 000322 
+ 
+SIPDIS 
+ 
+DEPARTMENT FOR CA/FPP 
+ 
+E.O. 12958: N/A 
+TAGS: KRFD CVIS KCRM SMIG BR
+SUBJECT: Sao Paulo Domestic Employee Validation Study 
+ 
+REF: 04 STATE 172283 
+ 
+¶1.  Summary:  A recent study of B-1 domestic employee visas issued 
+in Sao Paulo found a 3.5% overstay rate.  By instituting new fraud 
+prevention procedures, we hope to reduce this rate even further by 
+closing certain loopholes.  In almost all cases, overstays involved 
+both the employer and the applicant misrepresenting that the nanny 
+would be returning.  End Summary. 
+ 
+¶2.  Data on applications was extracted from the CCD (Consular 
+Consolidated Database) using sample parameters of all B-1 Domestic 
+Employee visas issued between Aug 1 and December 31, 2007.  Using 
+these criteria, 340 issuances were pulled and placed in an Excel 
+Spreadsheet.  All were then run through DHS' ADIS (Arrival-Departure 
+Information System) to verify entries and exits. 
+ 
+¶3.  An initial review of the ADIS results indicated 241 had traveled 
+and returned, 54 (15.9%) had not traveled more than six months after 
+visa's issuance, and 45 had traveled and were still in the U.S.  A 
+review of the issuances indicated that 20 of the non-returnees 
+involved an employer who would be in the U.S. for an extended period 
+of time (17 working for L-1's; 1 for an H1-B; 1 for an O-1; and 1 to 
+accompany their employer visiting her sick child for 6 months), 3 
+had pending Adjustments of Status (AOS), and one had an approved 
+AOS.  Phone checks were then done for the remaining 21 cases.  In 7 
+of those cases, return to Brazil was confirmed.  Additionally, one 
+pending AOS returned to Brazil before this study was concluded and 
+one was found to have married an AmCit, yielding a total of 12 
+overstays (3.5%). 
+ 
+¶4.  An analysis of the overstays indicates: 
+ 
+-- In three of the cases the employer left the domestic to work for 
+a son or daughter living in the U.S.; 
+ 
+-- In three cases, the employer was an AmCit who moved back to the 
+U.S. and took the domestic with them; 
+ 
+-- In one case, the domestic asked to stay on for a few extra days 
+following the employers return to Brazil and simply remained; 
+ 
+-- Four appear to have paid to be taken to the US by their 
+"employer," ie. smugglers; 
+ 
+-- And one we were unable to contact. 
+ 
+¶5.  The study identified three possible smugglers who operated both 
+during the time period covered by the study and outside it.  Two are 
+clear cases of smuggling, where a husband or wife, together or 
+separately, applied for a visa for their domestic employee, 
+accompanied them to the U.S. and left them, repeating the process 
+frequently over a relatively short time.  In one case, the 
+individual successfully obtained three domestic employee visas 
+between September 2007 and March 2008.  In another a husband and 
+wife separately obtained five domestic employee visas between 
+September 2007 and May 2008.  The last case involved a husband and 
+wife who appear to have escorted three domestic employees as part of 
+larger scheme involving 11 overstays across several visa categories. 
+ All three cases are subject of ongoing investigations. 
+ 
+¶6. Comment:  In response to the study, Sao Paulo has instituted 
+additional fraud prevention procedures to try and deter such 
+smugglers.  All domestic employee cases will now be associated in 
+NIV with the employers, to enable officers to easily see if the 
+employer has previously applied for a domestic.  As this will not 
+identify cases where a domestic visa was obtained before the start 
+of this procedure, FPU will also conduct full CCD text searches on 
+all new domestic employee cases for the next several months. 
+One-half of the overstays illustrate a distinct challenge in 
+adjudicating domestic employee visas.  When the domestic is taken to 
+the U.S. to work for a family member or an AmCit, it appears to be 
+the employer who is the motivating factor in the overstay.  The 
+officer must try to judge both the applicant's intent and the 
+employer's intent in requesting the visa.  End Comment. 
+ 
+STORY

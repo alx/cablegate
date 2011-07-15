@@ -1,0 +1,68 @@
+09BERLIN1476
+OHB-SYSTEM TO BUILD GERMAN OPTICAL SPY SATELLITE; LOOKING AT U.S. MARKET
+Fri Nov 20 00:00:00 +0100 2009
+SECRET
+Embassy Berlin
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHRL #1476/01 3241534
+ZNY SSSSS ZZH
+P 201534Z NOV 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 5837
+INFO RUCNFRG/FRG COLLECTIVE
+RUEHBJ/AMEMBASSY BEIJING 1046
+RUEHFR/AMEMBASSY PARIS 0974
+RHEHNSC/NSC WASHINGTON DC
+RUEHNO/USMISSION USNATO 1500
+RUEKJCS/HQ USEUCOM LO WASHINGTON DC
+RUEKJCS/SECDEF WASHINGTON DC
+RUEHRL/USDAO BERLIN GE
+RUEHBS/USEU BRUSSELS
+RUCUSTR/USSTRATCOM OFFUTT AFB NES E C R E T BERLIN 001476
+
+SIPDIS STATE FOR EUR/CE PETER SCHROEDER STATE FOR ISN/MDSP DICK BUENNEKE STATE FOR OES/SAT DAVID TURNER NSC FOR PETER MARQUEZ
+
+E.O. 12958: DECL: 11/20/2034 TAGS: ETTC PGOV PINR MCAP PREL TSPA CH FR GM
+
+SUBJECT: OHB-SYSTEM TO BUILD GERMAN OPTICAL SPY SATELLITE; LOOKING AT U.S. MARKET
+
+REF: A. BERLIN 1324 B. BERLIN 1207 C. 08 STATE 48069
+
+Classified By: Global Affairs Officer David L. Fisher for reasons 1.4 (b), (c) and (d).
+
+¶1. (C) SUMMARY: OHB-System, Germanys top satellite manufacturer and third largest in Europe, will be the prime contractor on Germanys planned High Resolution Optical Satellite (HiROS) reconnaissance system -- a system that France would like to see not happen because it would directly compete with its own commercial satellites. In addition to HiROS, OHB-System is investing in a follow-on to SAR-Lupe, Germanys space-radar reconnaissance system, and a series of cutting-edge laser communications satellites to support German military/intelligence operations. OHB-System is placing strategic importance on opening up opportunities to market its space-based remote sensing, communications and missile surveillance technologies in the US. END SUMMARY
+
+¶2. (C) On October 2, EconOff met with OHB-System CEO, Mr. Berry Smutny at the US Embassy in Berlin for general consultations. Smutny became CEO of OHB-System in June of this year and was previously the CEO of Tesat SpaceCom, a German subsidiary of the European Aeronautical Defense and Space Company (EADS). Smutny brings to OHB-System world class expertise in satellite laser communications and is tasked with broadening OHB-Systems market horizon beyond Germany.
+
+OHB-SYSTEM TO BE PRIME CONTRACTOR FOR HIROS -------------------------------------------
+
+¶3. (C) Smutny acknowledged that OHB-Systems role as the primary contractor on HiROS is out of political necessity to ensure that a purely German owned firm, at least on paper, leads the project development. The original plan was for EADS-Astrium in Friedrichshafen, Germany in partnership with the German Space Agency (DLR) to design, build and operate the HiROS. However, when it became obvious to DLR and German Astrium officials that the France, through its influence in EADS-Astrium, would attempt to scuttle the project for fear that HiROS would compete with French commercial satellite business, the decision was made to bring OHB-System on board as the primary contractor. Smutny said the current plan is for OHB-System to build the HiROS satellite bus; Astrium-Friedrichshafen, to assemble the payload (Kayser-Threde GmbH will supply the optical cameras); and DLR, to develop instruments and ground segment.
+
+OHB-SYTEMS ASPIRATION TO JUMP INTO THE US MARKET --------------------------------------------- ----
+
+¶4. (C) Smutny said increasing OHBs footprint in the US market is one of the reasons he was hired, but his company would make its move "when the time is right." For starters, Smutny said OHB-System would "love to offer US customers" SAR-Lupe data and/or complete spacecraft. Recognizing that Astrium has already offered US customers TerraSAR-X data/spacecraft, he emphasized the SAR-Lupe technology is different and would be complimentary to the existing USG systems, whereas the TerraSAR-X systems would only be redundant. In addition to SAR-Lupe, Smutny said his company is formulating plans to offer US customers cutting-edge satellite communication and missile surveillance technologies (NFI).
+
+¶5. (C) Smutny noted that breaking into the US market is particularly tricky these days, particularly with defense-related exports. He said in order for a European company to be successful doing so, it must provide product that is 30 percent better and 30 percent cheaper than US industry rivals to shake the stigma of not buying American and also overcome the currency exchange rate disadvantages.
+
+OHB-SYSTEM: GERMANYS HOUSE INTEL SATELLITE MANUFACTURER --------------------------------------------- -----------
+
+¶6. (C) OHB-System is Germanys preferred contractor for highly sensitive intelligence satellites due to its 100 percent German ownership and relative immunity to the French interference. Although Astriums size, deeper pockets and vast pool of resources give it a clear advantage over OHB-System (fierce industry rivals) competing for contracts, OHB-System smallish size allows it to minimize bureaucratic inefficiencies resulting a well established history of delivering product on-time and within budget; a reputation that resonates very strongly with the German government. Smutny, as well as Astrium officials, quietly acknowledge that OHB-Systems cozy relationship with the German government is a big reason why they beat out Astrium-Satellites for the SAR-Lupe contract in 2001.
+
+OHB-SYSTEM GOING GLOBAL WITH SMUTNY AT THE HELM --------------------------------------------- --
+
+¶7. (C) OHB-System brought in Smutny, a well respected industry veteran with expertise in satellite communications and international marketing, to expand its international presence. Smutny spoke proudly of the fact that while serving as the CEO of Tesat-SpaceCom GmbH and earlier as managing director of Bosch-SatCom, he led an effort that captured a 50 percent world market share in space-based optical laser communications equipment, an area of technical expertise for Smutny. He also noted 70 percent of Tesats sales were to US customers. (COMMENT: Tesat-SpaceCom is a subsidiary of EADS-Astrium and purchased Bosch-SatCom in 2001. END COMMENT)
+
+THE "FRENCHIES" STEAL MORE IPR FROM GERMANY THAN CHINA/RUSSIA --------------------------------------------- ----------------
+
+¶8. (C) Smutny said his primary reason for leaving Tesat-SpaceCom was that he was sick of developing world class German-origin satellite technology only to have the "Frenchies" swoop in via their influence in EADS and siphon German intellectual property. Smutny frankly said "France is the evil empire stealing technology and Germany knows this", but Germanys decentralized government is not willing to do much about it. Going on at length of his despise of the French, Smutny said French IPR espionage is so bad that the total damage done to the German economy is greater the that inflicted by China or Russia. When asked about the possibility of EADS acquiring OHB-System Smutny responded that OHB is a special case and the German government is particularly careful to ensure that OHB stays within Germanys sphere for German military/intelligence reasons.
+
+CUT THE CHINESE A LITTLE SLACK ON ITAR --------------------------------------
+
+¶9. (S) While Smutny spent a great deal of time accusing the French of economic espionage, he took a much softer view on Chinas espionage activities. Smutny said the International Traffic in Arms Regulations (ITAR), though a good apparatus for preventing illicit technology transfers and something that he personally supports, is severely hurting US business opportunities in China. Smutny opined the US should relax ITAR restriction on the exports of goods with black box technologies, such as that found in integrated circuits. He reasoned the risk of technology transfer is very low because these devises can not be easily reverse engineered. (COMMENT: Per ref C, Chinese entities have attempted to procure German satellite technology from Tesat-SpaceCom in the past under the guise of the Galileo program. END COMMENT)
+
+COMMENT -------
+
+¶10. (S) Smutny painted a clear picture that French involvement in German industry is not to be trusted and he feels that German politicians are witting of this fact. On the other hand, it was interesting that he somewhat downplayed the severity of the Chinese economic espionage threat. Past reporting captured procurement ties between Tesat and Chinese military procurement entities affiliated with its military for the same type of "black box" components that Smutny says should be less ITAR restrictive.
+MURPHY

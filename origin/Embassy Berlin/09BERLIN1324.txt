@@ -1,0 +1,52 @@
+09BERLIN1324
+
+Thu Oct 22 00:00:00 +0200 2009
+CONFIDENTIAL
+Embassy Berlin
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHRL #1324/01 2951540
+ZNY CCCCC ZZH
+P 221540Z OCT 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 5555
+INFO RUCNFRG/FRG COLLECTIVE
+RUEHFR/AMEMBASSY PARIS 0892
+RHEHNSC/NSC WASHINGTON DC
+RUEHNO/USMISSION USNATO 1417
+RUEKJCS/HQ USEUCOM LO WASHINGTON DC
+RUEKJCS/SECDEF WASHINGTON DC
+RUEHRL/USDAO BERLIN GE
+RUEHBS/USEU BRUSSELS
+RUCUSTR/USSTRATCOM OFFUTT AFB NEC O N F I D E N T I A L BERLIN 001324
+
+SIPDIS STATE FOR EUR/CE PETER SCHROEDER STATE FOR OES/SAT DAVID TURNER STATE FOR EUR/ERA AND EB/IFD/OMA
+
+E.O. 12958: DECL: 10/22/2034 TAGS: ETTC PGOV PINR MCAP PREL TSPA FR GM
+
+REF: A. BERLIN 1319 B. BERLIN 1207 C. BRUSSELS 1153 D. BERLIN 655 E. BERLIN 430 F. BERLIN 429 G. 08 BERLIN 899 H. 08 BERLIN 897 I. 08 BERLIN 264 J. 08 BERLIN 243
+
+Classified By: Acting Global Affairs Unit Chief David L. Fisher for reasons 1.4 (b) and (d).
+
+¶1. (C) SUMMARY: Berry Smutny, the CEO of Germanys top satellite manufacturer, OHB-System, called the EUs Galileo global navigation satellite system (GNSS) "a waste of EU tax payers money championed by French interests." Nevertheless, Smutny said his company would gladly accept contracts to build the satellites. Smutny anticipates the EU Commission (EC) will award his company a contract this December to build a significant portion of the Galileo satellites. According to a recent media report, the EC is scaling back the Galileo project by about 25 percent off the previously planned 30 satellites ($1.24 billion) due to budget overruns.
+
+¶2. (C) On October 2, EconOffs met with OHB-System CEO, Mr. Berry Smutny for general consultations. Smutny became CEO of OHB-System in June of this year and was previously the CEO of Tesat Spacecom, a German subsidiary of the European Aeronautical Defense and Space Company (EADS). When Smutny arrived at the Berlin Embassy on October 2, he had just finished a high-level meeting with the German Transportation Ministry for Transportation, Building and Urban Development (BMVBS) to discuss OHB-systems bid on the Galileo satellite build contract. Smutny said the meeting went "very well" and his expectation is that OHB will be awarded 40-60 percent of the satellite build. END SUMMARY
+
+GALILEO IS A STUPID IDEA BUT OHB WILL TAKE THE BUSINESS --------------------------------------------- ----------
+
+¶3. (C) Smutny stated frankly, "I think Galileo is a stupid idea that primarily serves French interests" given that GPS already supplies all of Europes position, navigation and timing (PNT) needs. He claimed the EU desire to develop a redundant but alternative to GPS was spearheaded by the French after an incident during the Kosovo Conflict when the US military "manipulated" GPS to support military operations (NFI). Since this time, he said France has aggressively corralled EU support to invest in Galileo development -- something Smutny said France wants to ensure their missile guidance systems are free of any GPS reliance. Smutny added, the irony for German investment in Galileo is that some of Frances nuclear missiles are aimed at Berlin.
+
+THE EC COMMISSION IS SCALING BACK GALILEO TO CUT COSTS --------------------------------------------- --------
+
+¶4. (U) Space News reported that at an October 15-16 conference on European space policy, the EC announced they will reduce the number of Galileo satellites to be built from 28-30 to a maximum of 22 satellites due to cost overruns elsewhere in the program. In addition to soliciting a quote for the entire satellite build, the EC asked both OHB-System and Astrium-Satellites to quote blocks of eight and 16 satellites in the event that the contract is divided. Best-and-final offers are due in November and a final decision on the contract is expected in late December.
+
+¶5. (C) Smutny said the EC is steadfast that the entire Galileo system stay within the allotted 3.4 billion euro budget. In Smutnys opinion, the EU has grossly underestimated the complexity of the complete Galileo system and additional cost overruns and schedule slips are likely. He said industry experts estimate the final Galileo cost to be about 6.5 billion euros (assuming the previously desired 32 satellite constellation), but in his opinion the final
+cost will balloon to around 10 billion euro.
+
+GALILEO CAN NOT BE BUILD ITAR FREE ----------------------------------
+
+¶6. (C) Smutny said no matter how much the French would like Galileo to be built International Traffic in Arms Regulation (ITAR)-free, this is highly unlikely given that there are not sufficient replacements for some radiation-hardened US ITAR-controlled components that Galileo will need. Smutny pointed out that the EU already strayed from the concept of a completely indigenous EU system when they procured the Galileo clock - the heart and soul of the system - from the Swiss. Smutny said he recommended early on that Galileo try an procure an US-origin clock, but this idea was immediately rejected by Galileo decision makers (NFI).
+
+¶7. (C) Smutny feels that the Galileo program, as it currently looks, is either doomed for failure or will have to undergo drastic scalebacks for survival. He said OHB-System is serious about their bid and will deliver contracted product "on time, within budget, and per requirements" (something OHB-System has a good track record of), but his company is preparing for the possibility that the contracts will be canceled if the EC can no longer stomach the ballooning costs.
+Murphy

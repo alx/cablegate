@@ -13,18 +13,18 @@ FM AMEMBASSY MOSCOW
 TO RUEHC/SECSTATE WASHDC IMMEDIATE 8719
 INFO RHEHNSC/NSC WASHDC IMMEDIATE
 RUEHXD/MOSCOW POLITICAL COLLECTIVE PRIORITY
-RUCPDOC/DEPT OF COMMERCE WASHDC PRIORITYC O N F I D E N T I A L MOSCOW 001775 
- 
-SIPDIS 
- 
-STATE FOR EUR/RUS; NSC FOR MWARLICK 
- 
-E.O. 12958: DECL: 06/20/2018 
+RUCPDOC/DEPT OF COMMERCE WASHDC PRIORITYC O N F I D E N T I A L MOSCOW 001775
+
+SIPDIS
+
+STATE FOR EUR/RUS; NSC FOR MWARLICK
+
+E.O. 12958: DECL: 06/20/2018
 TAGS: ECON EINV ETRD PREL PGOV RS
-SUBJECT: INSIDER VIEWS OF TNK-BP DISPUTE 
- 
-REF: MOSCOW 1713 
- 
+SUBJECT: INSIDER VIEWS OF TNK-BP DISPUTE
+
+REF: MOSCOW 1713
+
 Classified By: CDA Daniel A. Russell for Reasons 1.5 (b) and (d).
 
 ------- Summary -------
@@ -43,7 +43,7 @@ Classified By: CDA Daniel A. Russell for Reasons 1.5 (b) and (d).
 
 5.(C) Dudley explained, however, that in fact there was little substance to AAR's claims. The number of expatriates in TNK-BP was less than 250 out of a total of 66,000 employees. Of those, only 110 were permanent TNK-BP employees and of those only 40 had ties to BP. As to international expansion, it was true that BP's preference was to invest in Russia and the FSU, where TNK-BP had competitive advantages. Dudley said the AAR partners, by contrast, were interested in expanding to places like Myanmar, Cuba, and Sudan, which posed problems for BP given U.S. and other Western sanctions.
 
-6.(C) In addition, Dudley said AAR and, in particular, German Khan, had been systematically using TNK-BP resources to vet these projects xxxxxxxxxxxx. This particular dispute arose when Dudley said he had refused to allow Khan to continue to have these projects vetted by TNK-BP.
+6.(C) In addition, Dudley said AAR and, in particular, German Khan, had been systematically using TNK-BP resources to vet these projects XXXXXXXXXXXX. This particular dispute arose when Dudley said he had refused to allow Khan to continue to have these projects vetted by TNK-BP.
 
 --------- Deadlines ---------
 
@@ -67,6 +67,8 @@ Classified By: CDA Daniel A. Russell for Reasons 1.5 (b) and (d).
 
 13.(C) Foresman said Gazprom's failure to move quickly had opened the door to the AAR partners, who had seized control of the process of reconfiguring the company in an effort to extract maximum value if forced to sell. He said it was clear the AAR partners were not negotiating in good faith. For instance, it had been Alfa's Mikhail Fridman who had initiated the discussion of AAR trading its stake in TNK-BP for shares in BP. Fridman had then publicly attributed this idea to BP in an effort to further discredit the company in Russia.
 
-14.(C) Foresman said Gazprom's delay had also opened the door to Igor Sechin who, from his new perch as the Deputy Prime Minister in charge of the energy sector, saw a chance to promote the fortunes of his company, Rosneft, at the expense of its rival, Gazprom. Sechin, according to Foresman, had seen Gazprom's expansion into the oil business via ownership of the Russian half of TNK-BP as a challenge to Rosneft's position as Russia's national champion for oil, and had moved to block the takeover and the broader Gazprom-BP partnership. xxxxxxxxxxxx
+14.(C) Foresman said Gazprom's delay had also opened the door to Igor Sechin who, from his new perch as the Deputy Prime Minister in charge of the energy sector, saw a chance to promote the fortunes of his company, Rosneft, at the expense of its rival, Gazprom. Sechin, according to Foresman, had seen Gazprom's expansion into the oil business via ownership of the Russian half of TNK-BP as a challenge to Rosneft's position as Russia's national champion for oil, and had moved to block the takeover and the broader Gazprom-BP partnership. XXXXXXXXXXXX
 
-15.(C) Foresman said RenCap had also run the numbers on a BP partnership with Rosneft. It was not as mutually profitable as the Gazprom tie-in, nor as significant globally, but was looking increasingly attractive to BP under the current circumstances. Moreover, BP had bought a substantial stake in Rosneft during its IPO two years ago, a stake that had already risen by 60 percent in the interval. Foresman predicted that a Rosneft buy-out of the AAR partners was now the most likely outcome of the dispute and the one most beneficial to BP. Foresman added under that scenario Dudley would likely be out, replaced by someone acceptable to both sides such as Rosneft's current CEO, Amcit Peter O'Brien. RUSSELL
+15.(C) Foresman said RenCap had also run the numbers on a BP partnership with Rosneft. It was not as mutually profitable as the Gazprom tie-in, nor as significant globally, but was looking increasingly attractive to BP under the current circumstances. Moreover, BP had bought a substantial stake in Rosneft during its IPO two years ago, a stake that had already risen by 60 percent in the interval. Foresman predicted that a Rosneft buy-out of the AAR partners was now the most likely outcome of the dispute and the one most beneficial to BP. Foresman added under that scenario Dudley would likely be out, replaced by someone acceptable to both sides such as Rosneft's current CEO, Amcit Peter O'Brien.
+
+RUSSELL

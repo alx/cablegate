@@ -1,0 +1,35 @@
+10BRASILIA22
+Security for OpenNet tail circuit in AMB residence Brasilia
+Fri Jan 08 00:00:00 +0100 2010
+UNCLASSIFIED
+Embassy Brasilia
+VZCZCXYZ0006
+RR RUEHWEB
+
+DE RUEHBR #0022 0081102
+ZNR UUUUU ZZH (CCY-ADX99E26-ICTOQ0917-468)
+R 081047Z JAN 10
+FM AMEMBASSY BRASILIA
+TO RUEHC/SECSTATE WASHDC 0275
+INFO RUEHBR/AMEMBASSY BRASILIA
+RUEHMI/USOFFICE FRC FT LAUDERDALEUNCLAS BRASILIA 000022 
+ 
+C O R R E C T E D   C O P Y - SUBJECT LINE 
+ 
+SIPDIS 
+STATE FOR IRM/OPS/ENM/NED/ND 
+FRC FT LAUDERDAL FOR RIMC 
+ 
+E.O. 12958: N/A 
+TAGS: ACOA
+SUBJECT: Security for OpenNet tail circuit in AMB residence Brasilia 
+ 
+¶1. The facility used at the Ambassador residence and the room 
+housing the OpenNet+ tail circuit 
+communication equipment meets or exceeds all relevant FAM/FAH 
+requirements including 12 FAM 620, 12 FAM 540, and 12 FAH-6 H-540. 
+ 
+¶2. Post requests that ENM activate this circuit without delay. 
+ 
+¶3. POC is ISO Craig A Bowman BowmanCA@state.gov 
+KUBISKE

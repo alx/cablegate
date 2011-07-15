@@ -1,0 +1,229 @@
+10OTTAWA29
+Canada's Conservative Government and its Arctic Focus
+Thu Jan 21 00:00:00 +0100 2010
+CONFIDENTIAL//NOFORN
+Embassy Ottawa
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHOT #0029/01 0211652
+ZNY CCCCC ZZH
+R 211652Z JAN 10
+FM AMEMBASSY OTTAWA
+TO RUEHC/SECSTATE WASHDC 0294
+INFO RUEHCP/AMEMBASSY COPENHAGEN 0001
+RUEHGA/AMCONSUL CALGARY
+RUEHHA/AMCONSUL HALIFAX
+RUEHHE/AMEMBASSY HELSINKI 0003
+RUEHMO/AMEMBASSY MOSCOW 0006
+RUEHMT/AMCONSUL MONTREAL
+RUEHNY/AMEMBASSY OSLO 0006
+RUEHON/AMCONSUL TORONTO
+RUEHOT/AMEMBASSY OTTAWA
+RUEHRK/AMEMBASSY REYKJAVIK 0001
+RUEHSM/AMEMBASSY STOCKHOLM 0008
+RUEHVC/AMCONSUL VANCOUVERid: 244740
+date: 1/21/2010 16:52
+refid: 10OTTAWA29
+origin: Embassy Ottawa
+classification: CONFIDENTIAL//NOFORN
+destination:
+header:
+VZCZCXYZ0001
+RR RUEHWEB
+DE RUEHOT #0029/01 0211652
+ZNY CCCCC ZZH
+R 211652Z JAN 10
+FM AMEMBASSY OTTAWA
+TO RUEHC/SECSTATE WASHDC 0294
+INFO RUEHCP/AMEMBASSY COPENHAGEN 0001
+RUEHGA/AMCONSUL CALGARY
+RUEHHA/AMCONSUL HALIFAX
+RUEHHE/AMEMBASSY HELSINKI 0003
+RUEHMO/AMEMBASSY MOSCOW 0006
+RUEHMT/AMCONSUL MONTREAL
+RUEHNY/AMEMBASSY OSLO 0006
+RUEHON/AMCONSUL TORONTO
+RUEHOT/AMEMBASSY OTTAWA
+RUEHRK/AMEMBASSY REYKJAVIK 0001
+RUEHSM/AMEMBASSY STOCKHOLM 0008
+RUEHVC/AMCONSUL VANCOUVER
+----------------- header ends ----------------
+C O N F I D E N T I A L OTTAWA 000029
+NOFORN
+SIPDIS
+DEPARTMENT FOR WHA/EX, WHA/CAN, OES/OA
+AMEMBASSY OTTAWA PASS TO APP WINNIPEG
+AMEMBASSY OTTAWA PASS TO AMCONSUL QUEBEC
+E.O. 12958: DECL: 2020/01/20
+TAGS: PREL PBTS PGOV SENV CA XQ
+SUBJECT: Canada's Conservative Government and its Arctic Focus
+CLASSIFIED BY: Eric Benjaminson, Economic Minister-Counselor, State
+Department, Embassy Ottawa; REASON: 1.4(D)
+¶1. (C/NF) Summary: Since the day after his initial election victory
+in January 2006, Canadian PM Stephen Harper has continually played
+up his government's commitment to defending Canada's "North" (the
+landmass above 60 degrees North latitude represents about 40% of
+Canada's total territory, but only has about 100,000 people) and
+has endeavored to make concern for the Arctic a prime feature of
+the Conservative political brand. The culmination of that effort
+was the release of the government's "Northern Strategy" in the
+summer of 2009. Thus far, the government's ardor for the "North"
+has translated into only a modest array of actions that have an
+impact on American and other foreign interests: most significantly
+an extension of the reach of its pollution protection rules in the
+Arctic, from 100 nautical miles (nm) to 200 nm. To make further
+progress in its efforts to "enhance Arctic sovereignty," the
+government likely needs to leverage the stature, policies, and
+resources of the United States, the one Arctic neighbor whose
+national interests are most closely aligned with, Canada's.
+Numerous observers of the Canadian political scene caution,
+however, that while Arctic sovereignty is tried and tested as an
+election issue, the promises made are seldom implemented. End
+summary.
+Conservatives make concern for "The North" part of their political
+brand...and it works
+¶2. (U) Beginning in mid-2004, the then-minority government of
+Liberal Prime Minister Paul Martin commenced a rhetorical battle
+with Denmark over a two-decade old claim to uninhabited Hans Island
+between Greenland and Ellesmere Island, which culminated in July
+2005 when the Canadian Defence Minister and several soldiers
+actually landed on Hans Island and hoisted the maple leaf flag
+(they also left a bottle of Canadian whisky). Danish-Canadian
+tensions were reduced to a simmer by a September 2005 joint
+statement, but the government's Arctic sovereignty statements of
+2004 and the Canadian military efforts the following summer set the
+stage for Conservative Party leader Stephen Harper to make the
+North an election issue in the campaign that began in December
+¶2005. "The single most important duty of the federal government is
+to protect and defend our national sovereignty," he declared in
+stump speeches invoking "...new and disturbing reports [sic] of
+American nuclear submarines passing though Canadian waters without
+obtaining the permission of -- or even notifying -- the Canadian
+government." Candidate Harper's Arctic plan focused on the
+construction and deployment of three new armed heavy icebreaking
+ships, an Arctic Ocean sensor system, as well as the eventual
+construction of a deepwater port in Nunavut to guard the Arctic
+waters. The message seemed to resonate with the electorate; the
+Conservatives formed the new government in 2006, but failed to win
+a majority.
+¶3. (U) Once elected, Harper hit the ground running with frosty
+rhetoric; on January 26, 2006 Harper (who was still only Prime
+Minister - designate) used his first post-election press conference
+to respond to the United States Ambassador's restatement the prior
+day of the longstanding U.S. position on the Northwest passage.
+Harper firmly declared that "...the Canadian government will defend
+our sovereignty, ...and it is the Canadian people we get our
+mandate from, not the Ambassador of the United States."
+¶4. (C/NF) PM Harper made a focus on the North a prime feature of
+the Conservative political brand again in the October 2008 general
+election. In addition, in his government's annual budgets and in
+public announcements, he has continued to accentuate the focus on
+the North. For example, in its budgets over the past four years,
+the government announced a series of significant Arctic
+expenditures, including: C$750 million for a new Polar-class ice
+breaker to replace its sole heavy icebreaker, (which is 40 years
+old and scheduled to be decommissioned in 2017); millions for
+mapping of the Extended Continental Shelf and mapping of northern
+natural resources; and, most recently, a C$250 million dollar
+economic development agency focused on Canada north of the 60th
+parallel. The culmination of the branding effort was the release of
+the government's "Northern Strategy" in the summer of 2009. A
+consolidation of previous Conservative policy pronouncements, the
+Strategy largely reflects long-standing Canadian Arctic shibboleths
+(Enhance Arctic Sovereignty; Promote Social and Economic
+Development; Protect the Environment; Improve Northern Governance
+and give greater authority to Northerners) to which previous
+Canadian governments have periodically given voice. The persistent
+high public profile which this government has accorded "Northern
+Issues" and the Arctic is, however, unprecedented and reflects the
+PM's views that "the North has never been more important to our
+country" - although one could perhaps paraphrase to state "the
+North has never been more important to our Party." (Comment: The
+opposition parties have not developed policies on Canada's role in
+the Arctic beyond generalities, defaulting "ownership" of a
+robust, rhetorical northern policy to the Conservatives that
+dovetails with party's broader priorities of rebuilding the
+Canadian Forces and enhancing Canada's international role". End
+Comment).
+¶5. (U) To underscore his government's commitment to the Arctic, the
+PM has also visited the Arctic every summer since taking office
+while holding occasional cabinet meetings in the territorial
+capitals. In the latest example: as the G8 host in 2010, Canada
+has chosen to convene the G8 Finance Ministers' meeting in Iqaluit
+on Baffin Island...in February.
+¶6. (C/NF) The government has also taken steps to amend a few key
+pieces of legislation to enhance its ability to control shipping in
+the North. In 2009, new authorities came into force that extended
+Canada's regulations for pollution violations all the way to the
+200 nautical mile EEZ limit. A second proposal that would mandate
+all ships destined for Canada's Arctic waters to report to Canadian
+authorities has not yet been finalized in regulation. To date, the
+changes to the shipping rules are the only efforts that have had an
+impact on American and other foreign interests. The results of
+Canada's submission of a claim in 2013 for an Extended Continental
+Shelf under the United Nations Convention on the Law Of the Sea
+(UNCLOS) will also have an impact on Canada's neighbors. But, at
+this juncture, for Canada to advance its "sovereignty" interests
+there is a need to focus on bilateral and multilateral partnerships
+with its Arctic neighbors.
+Canada's Arctic Foreign Policy
+¶7. (U) According to Foreign Minister Cannon, "our foreign policy is
+a reflection of our domestic policy." To that end, "through the
+international dimension of our Northern Strategy-our Arctic foreign
+policy-we will protect our environmental heritage, promote economic
+and social development, exercise our sovereignty in this vital
+region and encourage more effective international governance".
+Moreover, in March 2009, when FM Cannon unveiled Canada's Arctic
+Foreign Policy in the Yukon, he declared that his "utmost priority"
+is to further strengthen Canada's bilateral engagement with Arctic
+states. He stated that "The United States is our premier partner in
+the Arctic," that "we have many shared interests and common
+purposes-in environmental stewardship, search and rescue, safety,
+security and sustainable resource development," and that he was
+looking forward to a more enhanced level of cooperation on Arctic
+issues with the United States. He noted that this would include
+exploring "ways to pursue a common agenda," starting in 2013, as
+Canada and subsequently the United States chair the Arctic Council.
+He delivered the same speech in April 2009 at the Center for
+Strategic and International Studies in Washington DC, further
+adding in his speech that he had discussed opportunities for
+enhanced cooperation on shared Arctic interests when he had met
+with Secretary Clinton earlier that day. In November 2009, during a
+speech in Toronto to the Economic Club of Canada, the Foreign
+Minister exclaimed that "Canada, with allies like the United
+States, is well-placed to take a leadership position in the face of
+the new challenges and opportunities in the Arctic." Interestingly,
+while taking questions after the speech, FM Cannon refused to be
+drawn into any discussion of difference with the United States over
+the Northwest Passage even when pressed, and instead chose to
+emphasize Arctic cooperation with the U.S.
+¶8. (C/NF) Comment: Canada places great import on its Arctic
+partnership with the United States and at this juncture the
+Conservatives in particular see special value in enhancing that
+partnership. Not only is that partnership materially significant
+for Canada, which benefits greatly from American resources invested
+in Arctic science and in defense infrastructure , but also Canada
+has much to gain from leveraging the stature and standing of the
+United States. Among the Arctic coastal states (and perhaps among
+all countries) Canada and the United States typically have the most
+closely aligned policy interests and generally share a common
+viewpoint on international law and common objectives in
+multilateral fora (such as the Arctic Council). From Canada's point
+of view, if the two countries can find bilateral common-ground on
+Arctic issues, the chance for Canadian success is much greater than
+going it alone against the interests of other countries or groups
+of countries.
+¶9. (C/NF) Comment Continued: Numerous observers of the Canadian
+political scene caution, however, that while Arctic sovereignty is
+tried and tested as an election issue, the promises made are seldom
+implemented (the armed ice-breakers and ocean sensors that
+candidate Harper promised in the 2006 election have been forgotten
+; what will be the fate of the three-quarter billion dollar
+ice-breaker?). That the PM's public stance on the Arctic may not
+reflect his private, perhaps more pragmatic, priorities, however,
+was evident in the fact that during several hours together with
+Ambassador Jacobson on January 7 and 8, which featured long and
+wide-ranging conversations, the PM did not once mention the Arctic.
+End Comment.
+JACOBSON

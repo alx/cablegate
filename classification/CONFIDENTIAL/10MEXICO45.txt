@@ -1,0 +1,520 @@
+10MEXICO45
+Tijuana Bilateral Assessment
+Tue Jan 12 00:00:00 +0100 2010
+CONFIDENTIAL
+Embassy Mexico
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHME #0045/01 0122235
+ZNY CCCCC ZZH
+R 122235Z JAN 10
+FM AMEMBASSY MEXICO
+TO RUEHC/SECSTATE WASHDC 0028
+INFO ALL US CONSULATES IN MEXICO COLLECTIVE
+RHEFHLC/DEPT OF HOMELAND SECURITY WASHINGTON DC
+RHEHNSC/WHITE HOUSE NATIONAL SECURITY COUNCIL WASHINGTON DC
+RHMFISS/CDR USNORTHCOM PETERSON AFB CO
+RHMFISS/CDR USSOUTHCOM MIAMI FL
+RHMFISS/DEPT OF JUSTICE WASHINGTON DC
+RUCNFB/FBI WASHINGTON DC
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEABND/DEA HQS WASHINGTON DC243326
+2010-01-12 22:35:00
+10MEXICO45
+Embassy Mexico
+CONFIDENTIAL
+10MEXICO3468|10TIJUANA1275
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHME #0045/01 0122235
+ZNY CCCCC ZZH
+R 122235Z JAN 10
+FM AMEMBASSY MEXICO
+TO RUEHC/SECSTATE WASHDC 0028
+INFO ALL US CONSULATES IN MEXICO COLLECTIVE
+RHEFHLC/DEPT OF HOMELAND SECURITY WASHINGTON DC
+RHEHNSC/WHITE HOUSE NATIONAL SECURITY COUNCIL WASHINGTON DC
+RHMFISS/CDR USNORTHCOM PETERSON AFB CO
+RHMFISS/CDR USSOUTHCOM MIAMI FL
+RHMFISS/DEPT OF JUSTICE WASHINGTON DC
+RUCNFB/FBI WASHINGTON DC
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEABND/DEA HQS WASHINGTON DC
+
+TAGS: PREL PGOV PHUM SNAR ECON KCRM MX
+C O N F I D E N T I A L MEXICO 000045 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 2020/01/12 
+TAGS: PREL PGOV PHUM SNAR ECON KCRM MX
+SUBJECT: Tijuana Bilateral Assessment 
+ REF: TIJUANA 1275; MEXICO 3468 
+ 
+CLASSIFIED BY: Carlos Pascual, Ambassador, DOS, EXEC; REASON: 1.4(B), 
+(D) 
+ 
+¶1. (SBU) SUMMARY AND NEXT STEPS: One of the early fruits of the new 
+security policy coordination mechanism with Mexico has been an 
+agreement to focus our joint efforts on the border cities where the 
+most violence occurs and where the DTOs have carved out the 
+greatest operating space. As part of this effort an unprecedented 
+joint team representing all U.S. and Mexican law enforcement 
+agencies traveled to Tijuana and San Diego to conduct an assessment 
+of security and review opportunities for increased bilateral 
+cooperation. In its two-day visit the team came away with the 
+following key judgments: 
+ 
+ 
+ 
+-- Presidential focus: The joint assessment and increased 
+cooperation on the border is greatly helped by the express support 
+of President Calderon. 
+ 
+ 
+ 
+-- Mexican interagency coordination is improving both in Tijuana 
+and the DF, yet it is still too tied to personalities and 
+under-institutionalized. 
+ 
+ 
+ 
+-- Judicial prosecutions lagging: Frustration in Tijuana is rising 
+over the inability of the federal judiciary to produce convictions. 
+ 
+ 
+ 
+-- Social fabric strained: The recession, ineffective schools, and 
+the transient nature of Tijuana's population work in the DTOs' 
+favor. The GOM is not certain how to integrate Pillar IV (Build 
+Strong and Resilient Communities) into its broader drug strategy 
+and is still uncomfortable with NGOs. 
+ 
+ 
+ 
+-- Assistance requests modest: Mexican interlocutors identified 
+discrete areas where they believe the USG can help: some 
+technology, lots of intelligence sharing, limited equipment 
+(armored cars, ballistic vests), training (aimed at managing police 
+forces rather than how to do operations), and support to vetting 
+processes. 
+ 
+ 
+ 
+-- State and local forces are critical (and weak): State and local 
+law enforcement know their beat better than federal counterparts 
+and must be included in the equation if public security is to 
+improve. They are rich in manpower, institutionally weak, and 
+easily corrupted; they must be made more effective. 
+ 
+ 
+ 
+-- Task force model: The San Diego meeting drove home the utility 
+of the task force approach to investigations. The GOM will be 
+receptive to exchanges and visits on this key model -- and perhaps 
+also to detail more staff to task forces stateside. 
+ 
+ 
+ 
+-- Centrality of Control de Confianza: The importance of vetting 
+and internal controls was made clear by U.S. entities and GOM 
+officials accepted this premise. 
+ 
+ 
+ 
+-- Strategic communications: Both sides agreed that there is a 
+crying need to change the perception of the outside world with 
+regards to Tijuana, and to change the perception of the citizens of 
+Tijuana about law and order. Public diplomacy efforts have been 
+weak to date and must be a key part of any program. 
+ 
+¶2. (SBU) NEXT STEPS: We will wait to see what comes out of the 
+assessment of Ciudad Juarez/El Paso and then develop an interim 
+program to support the needs of the GOM in taking back the Tijuana 
+and Juarez DTO corridors. We will have a preliminary joint plan to 
+present to the Policy Coordination Group in late January and a more 
+focused plan to present to the High Level Group in February. NAS 
+and AID will conduct more detailed assessments by Training, 
+Judicial, Civil Society, IT, and Control de Confianza program 
+coordinators once the Juarez/El Paso assessment is completed, and 
+begin to look at specific programs which could be quickly 
+implemented. A critical first step will be to place a full-time 
+program coordinator in each city to manage the emerging programs. 
+END SUMMARY. 
+ 
+ 
+ 
+BILATERAL TEAM CONCEPT 
+ 
+---------------------- 
+ 
+ 
+ 
+¶3. (SBU) High-level bilateral discussions over the past several 
+months have produced agreement to focus on targeted cooperation in 
+frontline Mexican border cities. We have agreed to pilot new 
+cooperative strategies initially in Tijuana/San Diego and Ciudad 
+Juarez/El Paso. Our joint objective is to demonstrably degrade drug 
+trafficking organizations (DTOs), decrease violence, recognize and 
+disseminate current best practices, and build models readily 
+applicable elsewhere in Mexico. The GOM has insisted that we 
+approach the assessments in a balanced fashion with issues on both 
+sides of the border acknowledged and factored in as we develop new 
+programs. 
+ 
+ 
+ 
+¶4. (SBU) A GOM-USG bilateral assessment team, chaired by the 
+Ambassador and CISEN Director General Valdes, traveled to Tijuana 
+December 3 and San Diego December 4. The Mexican delegation was 
+comprised of high-ranking representatives from CISEN, PGR, SEMAR, 
+SEDENA, SRE, Hacienda, and SSP. The U.S. delegation included USAID, 
+DHS, ICE, CBP, OPAD, DAO, ODC, FBI, State, NSC, and ConGen Tijuana. 
+In both locations we focused on law enforcement in the morning and 
+civil society in the afternoon. In setting the scene for the team, 
+the Ambassador asked for particular focus on sharing best practice, 
+relationships between the military and the three levels of 
+government, and seeking ways to better use real-time intelligence 
+to guide operations. Valdes emphasized co-responsibility in 
+confronting a transnational threat running from Colombia to the 
+U.S., noted the southbound flow of arms and cash, and underscored 
+the direct interest of President Calderon in the endeavor. 
+ 
+ 
+ 
+TIJUANA SECURITY IMPROVING BUT FRAGILE 
+ 
+-------------------------------------- 
+ 
+ 
+ 
+¶5. (SBU) Baja California Norte Governor Jose Osuna Millan  hosted 
+the bilateral team December 3 in Tijuana.  SEDENA and SEMAR 
+regional commanders, state SSP, state PGR, Tijuana Public Security 
+Secretary Julian Leyzaola, and representatives from the Governor's 
+office participated in the discussions. The Governor's technical 
+secretary led with a briefing on the situation on the ground. Baja 
+California Norte beats the Mexican average on education, employment 
+and GDP per capita but as a migrant entry point and an industrial 
+city of working parents, its social fabric is strained. The 
+proximate cause of the spike in violence was Mexican success 
+against leaders of the Arellano Felix Organization (AFO), which 
+splintered and saw Sinaloan rivals move in, sparking a fight to 
+control border crossing routes. After a terrible 2008, violence in 
+Baja California Norte state subsided somewhat in 2009, with 
+Tijuana's share of Mexico's total killings dropping from 11% to 4%. 
+High impact crimes including kidnapping, car theft, and homicide 
+are down significantly. Yet the turnaround is not complete, and 40 
+police had died statewide through early November, close to the 49 
+officers lost in 2008. NOTE: Just after the bilateral team visit, a 
+ 
+truce between elements of the AFO disintegrated, unleashing a new 
+wave of killings (ref A). END NOTE. 
+ 
+ 
+ 
+¶6. (SBU) Governor Osuna said Mexican forces had launched an 
+offensive against the DTOs via the Baja California Coordination 
+Group (state and federal SSP, state preventative police (PEP), 
+CISEN, SEDENA, SEMAR, state and federal PGR). He said his main 
+effort was building up state government institutions.  Control de 
+confianza measures coupled with firings of corrupt cops were 
+cleaning up the police corporations, with 83% of state and local 
+operational police forces now vetted. DTOs, he said, still 
+infiltrate the forces, but with a continuous review process, there 
+is less room for impunity and responsive performance over time is 
+gaining public confidence. 
+ 
+ 
+ 
+¶7. (SBU) A single academy, Osuna said, now trains state and local 
+police. 7,000 applicants applied in the last year but only 10% 
+gained entrance. If police reform efforts were beginning to bear 
+fruit, the governor said the next focus would need to be on 
+deficiencies in the judicial system ("I want to put a judge in 
+jail," he said, to demonstrate that judicial corruption was not 
+beyond the law.) The Governor thanked USAID for support to the 
+state's justice reforms and noted that he had signed cooperation 
+agreements with 14 U.S. state attorneys general under a 
+USAID-funded program to increase cooperation between Mexican and 
+U.S. states. Baja California Norte, he said, will begin the 
+transition from inquisitorial to accusatory trials in 2010 in the 
+Mexicali judicial district. Other districts will follow after the 
+appropriate training. 
+ 
+ 
+ 
+¶8. (SBU) Further briefings were offered by the State Security 
+Director, Municipal Security Chief Leyzaola, and SEDENA General 
+Alfonso Duarte who oversees overall interagency coordination 
+between the military and federal, state, and local forces. The GOM 
+shifted a planned meeting away from the Unidad de Inteligencia 
+Tactica Operativa (UNITO), a fusion center concept the GOM is 
+implementing in multiple regions, either because the center is not 
+yet up and running or for simple lack of space. There did not seem 
+to be a central location where coordination takes place but rather 
+a virtual system that was largely personality driven. 
+ 
+ 
+ 
+REQUIREMENTS AND REQUESTS 
+ 
+------------------------- 
+ 
+ 
+ 
+¶9. (SBU) State-level SSP presented proposals to improve the 
+performance of Mexican forces: better coordination of operations 
+and information-sharing between Mexican agencies and cross-border, 
+a more robust security force presence and better equipment for all 
+forces, more drug treatment centers on both sides of the border, 
+advance warning of repatriation to Mexico of prisoners freed from 
+U.S. prisons, and U.S. notification of border incidents to the 
+Mexican C4 (Command, Control, Communications, and Coordination) 
+system in time for the Mexicans to react. The key ask from 
+Municipal Dirctor Leyzaola was for equipment (primarily vests and 
+armored cars), and training in professionalism and leadership. 
+ 
+ 
+ 
+¶10. (SBU) The Governor made limited appeals for USG assistance. He 
+noted he had asked California Governor Schwarzenegger in an October 
+meeting to share biometric data of prisoners being released and 
+repatriated to Mexico, and for coordination at the point of 
+repatriation on the border. He suggested a road along the southern 
+side of the border fence to facilitate patrols and positive control 
+of the borderline. He spoke positively of a "culture of legality" 
+in the U.S. and noted that the drug fight is not just about 
+confronting the cartels but must include programs to prevent 
+addiction in schools. Finally, he asked for help turning around 
+ 
+Mexico and Tijuana's perception problem, stating that Brazil is 
+more violent than Mexico, Detroit is more violent than Tijuana, and 
+California plays more narcocorridos than Mexican radio stations. He 
+asserted that USG travel alerts that warn U.S. citizens not to 
+visit Baja California severely damage tourism and the economy.  A 
+weak economy creates a fertile recruiting ground for the cartels. 
+He asked for our help in turning around the image of Tijuana as a 
+violent and unapproachable place. 
+ 
+ 
+ 
+C-4 CENTER A GLORIFIED CALL CENTER 
+ 
+---------------------------------- 
+ 
+ 
+ 
+¶11. (SBU) The team visited Tijuana's C-4 center later in the day. 
+The C-4 is primarily a call center for emergency calls and does not 
+have a strong analytical component. It handles city 911 calls 
+(5,200 per day), and includes federal police and military liaison 
+officers with links to the SSP's countrywide Plataforma Mexico data 
+base. A filtering overlay has reduced hoax calls from 50% to 30% of 
+total volume and a center in Mexicali fields state-wide anonymous 
+tip (denuncia) calls. The 911 and denuncia numbers both receive 
+calls regularly from U.S.-based callers, which as of mid-2009 can 
+be made from the U.S. toll-free. An SMS/text message-based add-on 
+interface is planned for 2010. 
+ 
+ 
+ 
+SAN DIEGO LAW ENFORCEMENT SESSION 
+ 
+--------------------------------- 
+ 
+ 
+ 
+¶12. (SBU) Acting U.S. Attorney Kevin Kelly hosted the December 4 
+meeting in San Diego, with participation by San Diego-based ICE, 
+FBI, CBP/Border Patrol, DEA, ATF, San Diego Police Department 
+(SDPD), Chula Vista Police Department, San Diego Sheriff's 
+Department, Los Angeles Sheriff's Department (LASD), Joint Task 
+Force-North, and the Mexican Consulate. The meeting moved 
+thematically from U.S. federal interagency coordination to state 
+and local law enforcement cross-border coordination, intelligence 
+architecture and cross-border information sharing, cross border 
+investigations, and ICE's Border Enforcement Security Task Force 
+(BEST). DG Valdes remarked he had never seen such a profusion of 
+USG partners for Mexican efforts, nor a cross-border law 
+enforcement gathering on this scale. 
+ 
+ 
+ 
+U.S. Federal Interagency Coordination 
+ 
+ 
+ 
+¶13. (SBU) Kelly began with an outline of the Southern California 
+region he represents: 141 miles of border, 6 Ports of Entry with 
+many interstate transportation links, 7% of the U.S.-Mexico border 
+but fully 60% of the border population. Drug caseloads Kelly said, 
+are up 60% in fiscal year 2009 and the district sees more drug 
+cases than California's three other districts combined. A 
+well-situated crossroads for trade, the San Diego area is also 
+suffering cartel creep, as pressure in Mexico pushes DTO leaders 
+and operations north across the border. In response, agencies in 
+the area have created numerous task forces to facilitate the 
+collection, analysis, and dissemination of information across 
+jurisdictions, agencies, and borders. 
+ 
+ 
+ 
+¶14. (SBU) Agencies also assign officers as border liaisons to work 
+with Mexican counterparts. CBP briefed on a prime example of a 
+tunnel discovered using tunnel detection equipment made available 
+by NORTHCOM's Joint Task Force-North to identify a seismic anomaly 
+one kilometer west of the Otay Mesa port of entry. CBP's sharing of 
+this information with Mexican counterparts led to a USG and GOM 
+operation to take down the tunnel simultaneously at both ends 
+ 
+before the smugglers could finish construction. 
+ 
+ 
+ 
+State and Local Law Enforcement Cross-Border Coordination 
+ 
+ 
+ 
+¶15. (SBU) SDPD briefed on programs to train local police in 
+Tijuana, Rosarito, and Ensenada using a train-the-trainer approach. 
+This kind of training on culture of lawfulness, community policing, 
+and intel-led operations creates channels for information-sharing 
+between SDPD and Mexican counterpart forces. SDPD reps also attend 
+the funerals of slain Tijuana police to build trust and show 
+support for their colleagues. The Los Angeles Police Department 
+(LAPD) runs one of the largest international police training sites 
+in the U.S. In addition to the skills imparted, these programs too 
+are a huge boost to trust and inter-operability. 
+ 
+ 
+ 
+Intelligence Architecture and Cross-Border Intel Sharing 
+ 
+ 
+ 
+¶16. (C) OPAD stressed the critical role of vetting to give agencies 
+the confidence to share information. Participants agreed that often 
+cross-border liaison is built around a relationship between 
+counterparts and is not institutionalized in the positions 
+themselves. DEA stressed the burden assumed by Mexican officials 
+receiving information from the USG, saying that they have lost 
+Mexican colleagues because of information they shared. GOM 
+interlocutors throughout the assessment stressed the need for 
+greater intel sharing to guide operations south of the border. U.S. 
+participants agreed this is key, but added a note of caution that 
+intelligence alone will not turn things around. Intelligence is an 
+input -- it does not direct operations and it does not reform 
+institutions. 
+ 
+ 
+ 
+Cross-Border Investigations 
+ 
+ 
+ 
+¶17. (SBU) The FBI field office described its approach to 
+cross-border violence cases (primarily kidnappings). Critical 
+elements include border liaison officers, proactive 
+information-sharing, and a multi-agency task force focused tightly 
+on kidnappings and extortion (and not straying into gang/DTO 
+territory). When asked whether drug and other violence could really 
+be disaggregated, the FBI rep agreed that complete separation of 
+related crimes was not possible, but said steps such as co-locating 
+task forces help integrate the law enforcement community while 
+maintaining the discrete focus of individual task forces. The 
+briefer offered a recent example where a dual-national was 
+kidnapped on the Mexican side. Her family notified the FBI, which 
+collected information from an informant who knew of a kidnapping 
+crew operating in Mexico. FBI disseminated the lead to Mexican 
+counterparts through its border liaison and Mexican police 
+apprehended the crew and freed the hostage. 
+ 
+ 
+ 
+¶18. (SBU) Border Enforcement Security Task Force: The Mexican 
+delegation specifically requested a briefing on ICE's Border 
+Enforcement Security Task Force (BEST). BEST is the only task force 
+in San Diego with an embedded Mexican official, a promising 
+approach also in use at EPIC. 
+ 
+ 
+ 
+Closing Comments 
+ 
+ 
+ 
+¶19. (C) The Ambassador closed by drawing out a few key lessons. To 
+address these law enforcement challenges requires multiple agencies 
+with multiple talents. Task forces, as cross-cutting entities, 
+ 
+bridge jurisdictions and build trust. Intelligence and information 
+collection function on several levels. In a rough cut, he laid out 
+a continuum: community tips and information drawn from beat cops; 
+tactical information derived from, for example, humint and judicial 
+wiretaps; information on high value targets; and both intelligence 
+and analysis on the operations of DTOs.  Establishing such a 
+framework on intelligence could also inform the architecture for 
+sharing intelligence.  Different aspects of intelligence sharing 
+would require different protocols for sharing, disseminating and 
+protecting information. He underscored that the issues covered in 
+the day's discussion would only bear fruit when brought back to 
+specific cases. The imperative to solve a case drives USG and the 
+GOM to cooperate across the border and successful case establishes 
+goodwill, durable communications channels, and an example for use 
+in subsequent actions. 
+ 
+ 
+ 
+CIVIL SOCIETY SESSIONS OPEN A DOOR 
+ 
+---------------------------------- 
+ 
+ 
+ 
+¶20. (SBU) The team met with academics and non-governmental 
+organizations (NGOs) in separate meetings at the Autonomous 
+University of Baja California (UABC) and the University of 
+California-San Diego (UCSD). In Tijuana, the GOM organizers did not 
+seem to understand the focus of Pillar IV.  They brought in three 
+academics working on immigration issues, who stressed that 
+deportees are cannon fodder for the cartels and described GOM 
+support to deportees. They said that unemployment in the state has 
+tripled from two percent to seven percent in the economic downturn 
+and is providing a boon to DTO recruiters, but did not have 
+suggestions on how to turn the situation around. 
+ 
+ 
+ 
+¶21. (SBU) Former U.S. Ambassador to Mexico Jeffrey Davidow presided 
+at the UCSD session, which was a much more varied and comprehensive 
+exchange with NGO, business, and academic leaders. California NGOs 
+and non-profits described their activities south of the border and 
+speakers urged the GOM to strengthen NGOs rather than mistrust 
+them. DG Valdes remarked that in the late 1990s, he was tasked with 
+analyzing the "threat" from NGOs and came away with a strong 
+appreciation for their ability to strengthen civil society. The 
+Chamber of Commerce explained their efforts for several years have 
+been on the Tijuana-San Diego metro area as one economic block. 
+Chamber members include business people from both sides of the 
+border, and their investment/trade promotion trips also represent 
+both cities. 
+ 
+ 
+ 
+¶22. (SBU) COMMENT: This part of our evolving strategy has been the 
+most uncomfortable for the GOM. Civil society organizations are 
+often vocal in their criticism of the federal government, including 
+the security strategy. What the GOM saw in San Diego was a strong 
+and uniform support for Mexico. Academics, business, city and civil 
+society leaders all echoed their interest in expanding cooperation 
+in all sectors to the benefit of both sides. The message was "do 
+not fear us, but let us be part of the solution to our common 
+problems." END COMMENT. 
+ 
+ 
+ 
+PASCUAL 
+PASCUAL

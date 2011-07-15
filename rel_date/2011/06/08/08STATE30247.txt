@@ -1,0 +1,131 @@
+08STATE30247
+
+Mon Mar 24 00:00:00 +0100 2008
+SECRET
+Secretary of State
+VZCZCXRO2968
+OO RUEHBC RUEHDE RUEHDIR RUEHKUK
+DE RUEHC #0247/01 0841552
+ZNY SSSSS ZZH
+O R 241546Z MAR 08
+FM SECSTATE WASHDC
+TO RUEHLO/AMEMBASSY LONDON IMMEDIATE 5871
+RUEHUL/AMEMBASSY SEOUL IMMEDIATE 6722
+RUEHTV/AMEMBASSY TEL AVIV IMMEDIATE 3495
+INFO IRAN COLLECTIVE
+RUEATRS/TREASURY DEPT WASHINGTON DC 9346S E C R E T SECTION 01 OF 04 STATE 030247
+
+SIPDIS
+
+SIPDIS
+
+E.O. 12958: DECL: 03/24/2018 TAGS: ECON EFIN ETRD KNNP PARM PGOV PREL EINV MNUC IR
+
+REF: A. A. STATE 109506 B. B. SEOUL 2547 C. C. SEOUL 3459 D. D. SEOUL 3583 E. E. STATE 29096 F. F. STATE 29098
+
+Classified By: ISN Acting A/S Mary Alice Hayward for reasons 1.4 (b) and (d).
+
+¶1. (U) This is an action request. Please see paragraph 6.
+
+---------- BACKGROUND ----------
+
+¶2. (S) On March 3, 2008, the U.N. Security Council adopted Resolution 1803, imposing further Chapter VII sanctions on Iran in response to its failure to comply with its obligations in UN Security Council resolutions (UNSCRs) 1737 and 1747, including the obligation to suspend its uranium enrichment-related, reprocessing, and heavy water-related activities (REF E). UNSCR 1803 also includes a specific provision on Iranian financial activities.
+
+¶3. (S) The U.S. recently shared information on implementation of the financial provisions of UNSCR 1803 (REF E) and additional information on the activities of Bank Melli, Bank Mellat, and Bank Saderat (REF F). The U.S would now like to share additional information with London, Seoul, and Tel Aviv on Irans Use of Bank Mellat Seoul for Proliferation Activities.
+
+¶4. (S) Background for Seoul: In August 2007, the U.S. urged the ROKG to exercise heightened scrutiny of all Iran-related transactions to ensure that Iran could not evade UNSC sanctions (REF A). The U.S. also asked the ROKG to investigate the activities of Bank Mellat Seoul to look for proliferation-related transactions. ROKG initiated an investigation of Bank Sepah and Bank Mellat and provided a 46-page document for U.S. review (REF B). A U.S. review of the ROKG document found no suspicious or proliferation-related transactions.
+
+¶5. (S) In December, the ROKG reported that following Treasury U/S Leveys trip to Seoul (REF C) it continued the investigation of Bank Mellat Seouls transactions (REF D). In addition, other South Korean banks are aware of the ROKG investigation of Bank Mellat Seoul and have begun to curtail their interactions with Bank Mellat.
+
+------------------------- OBJECTIVES/ACTION REQUEST -------------------------
+
+¶6. (S) Washington requests all action addressees deliver the non-paper in paragraph 6 to appropriate host government officials in the foreign affairs and finance ministries. Posts should pursue the following objectives:
+
+FOR EMBASSY SEOUL:
+
+-- Thank Seoul for its continuing investigation of Bank Mellats activities in its financial jurisdiction.
+
+-- Provide additional information to Seoul on Bank Mellats involvement in Iranian proliferation activities.
+
+-- Inform Seoul that the U.S. views Bank Mellats Seoul branch as a key node for facilitation of proliferation-related activities.
+
+-- Note that South Korea should continue its investigation into the potential proliferation-related activities of Bank Mellat/Seoul and ensure that the branch does not continue to facilitate proliferation-sensitive payments in violation of UNSCRs.
+
+FOR EMBASSY LONDON:
+
+-- Provide additional information to the UK on the involvement in Iranian proliferation activities of Bank Mellats branch in Seoul, South Korea.
+
+STATE 00030247 002 OF 004
+
+-- Confirm the UK has taken steps to prevent Bank Mellis branch in London from being able to conduct transactions in support of Irans nuclear programs or proliferation.
+
+FOR EMBASSY TEL AVIV:
+
+-- Provide nonpaper in paragraph 7 to Israel for informational purposes only.
+
+------------------------------- NONPAPER FOR UK, ROK and ISRAEL -------------------------------
+
+¶7. (SECRET//REL UK, ROK, ISRAEL)
+
+BEGIN NON-PAPER FOR UK, ROK AND ISRAEL:
+
+-- In the spirit of our close nonproliferation partnership we would like to provide you with additional information on the proliferation-related activity of Bank Mellats Seoul branch.
+
+-- The U.S., on October 25, 2007, designated additional Iranian entities and individuals under domestic authority Executive Order 13382 for their involvement in proliferation-related activity, including the Islamic Revolutionary Guard Corps (IRGC), the Ministry of Defense and Armed Forces Logistics (MODAFL), and state-owned Bank Melli and Bank Mellat. Bank Melli provides banking services to entities involved in Irans nuclear and missile programs, and Bank Mellat provides banking services in support of Irans nuclear, missile and Defense Industries Organization (DIO)- and MODAFL-related entities.
+
+-- In April 2007, Iran Communication Industries (ICI) advised Taiwan Soltech Industry Company that Iran Electronics Industries (IEI) would make a Euro payment via the Tehran branch of Bank Mellat to the Seoul branch of Bank Mellat, and then to Taishin International Bank in Taipei.
+
+-- Iran Communications Industries is a subsidiary of Iran Electronics Industries, and Iran Electronics Industries is subordinate to the Ministry of Defense and Armed Forces Logistics.
+
+-- In May 2007, Samamicro, an Iranian firm that has procured on behalf of Iranian missile, defense, and biotechnology organizations, sought to open a letter of credit covering the import of sonography equipment from a South Korean firm through the Sharjah branch of Bank Saderat. The letter of credit was to be payable to Bank Mellat/Seoul.
+
+-- Bank Mellats Head Office in Tehran has provided financial services to other entities tied to Irans nuclear program, including Novin Energy Company, meaning that Mellats branch in Seoul - as a correspondent for Bank Mellat/Tehran - may facilitate some international payments on behalf of these entities. Novin Energy Company was designated under U.S. Executive Order 13382 on January 4, 2006, and subsequently sanctioned under UNSCR 1747.
+
+-- In July 2007, Bank Mellat/Seoul served as an intermediary bank for two probably missile-related euro payments from Doostan International, a Tehran-based broker for Iranian missile entities, to Chinas Shanghai Technical By-Products International. The payments originated at Doostans account at Bank Mellat in Tehran which, during 2007, received several payments from front companies for Shahid Hemmat Industries Group (SHIG) and Sanam Industrial Group (SIG).
+
+-- In late August 2007, Irans MODAFL-subordinate the State Purchasing Organization (SPO), and China National Precision Machinery Import/Export Corporation (CPMIEC) agreed to the terms of a letter of credit issued by Irans Bank Refah and advised by Bank Mellat/Seoul to cover Iranian purchases related to a surface-to-air missile system.
+
+-- CPMIEC has been sanctioned under a number of U.S. sanctions laws including pursuant to the Iran, North Korea and Syria Nonproliferation Act (INKSNA) for transferring equipment and technology to Iran that was either controlled under multilateral export control lists or which had the potential to make a material contribution to Irans WMD and missile programs. CPMIEC was also designated under U.S. Executive Order 13382 for providing support to Irans missile program.
+
+-- In early October 2007, South Korean firm Just International Corp. requested an official from Irans Taksa
+Company, which is related to Defense Industries Organization-subordinate Iran Electronics Industries (IEI), amend a letter of credit to reflect Bank Mellat/Seoul as the negotiating bank.
+
+-- In early November 2007, Hong Kong Electronics, almost certainly a front company for Tanchon Commercial Bank (North Koreas primary weapons trade bank), made two euro payments worth a total of about $1.5 million from its account at Parsian Bank/Kish Island to Bank Mellat/Seoul for ultimate credit to accounts in China and Russia.
+
+-- As you know, Tanchon Commercial Bank is the main North Korean financial agent for weapons sales. Tanchon is also the financial arm of the Korea Mining Development Trading Corporation (KOMID), which is North Koreas primary weapons trading firm. Tanchon Commercial Bank and KOMID were both designated under U.S. Executive Order 13382.
+
+-- In early November 2007, Singapore firm Falcon International Aviation received euro payments from Iran Aircraft Industries, which were processed via transfer from Bank Refah/Tehran to Bank Mellat/Seoul.
+
+-- Iran Aircraft Industries is subordinate to Irans Ministry of Defense and Armed Forces Logistics (MODAFL).
+
+-- In mid-November 2007, Hong Kong Electronics transferred nearly $1 million in Euros from its account with Irans Parsian Bank to Bank Mellat/Seoul, probably as part of effort to repatriate weapons sales earnings from Iran.
+
+-- In mid-November 2007, Shahid Bakeri Industries Group (SBIG), Irans solid-propellant ballistic missile developer, may have used Bank Mellat/Seoul to send payment to Chinas Dalian Sunny Industries (DSI) - also known as LIMMT Economic and Trade Company. A DSI official recommended to SBIGs commercial manager that SBIG route an upcoming payment via Mellat/Seoul, indicating that DSI had successfully received funds via Mellat from an unspecified Iranian entity the previous week.
+
+-- LIMMT was designated under U.S. Executive Order 13382 on June 13, 2006, for continuing to supply or attempt to supply Irans military and missile organizations with controlled items.
+
+-- In November 2007, the Aviation Department of Irans SPO - subordinate to Irans MODAFL - authorized a euro payment worth nearly $5 million via Bank Mellat/Seoul to China Precision Machinery Import/Export Corporation (CPMIEC) for costs related to a surface-to-air missile system.
+
+FOR UK ONLY:
+
+-- (S//REL UK) With regard to the nonpaper on activities of Bank Mellat Seoul, note that it is the U.S. view that closing or tightly restricting operations of Bank Mellat/Seoul would disrupt some Iranian procurement-related payments in East Asia, but Tehran and its foreign partners would retain several options for completing transactions, including using cooperative foreign banks or possibly banks outside the region.
+
+-- (S//REL UK) Note also that, in particular, the Bank Mellat Seoul branchs closure could push more activity to the Hong Kong branch of Iranian State-owned Melli Bank PLC -- the only other Iranian bank branch in East Asia. Similar to Bank Mellat/Seoul, Melli Bank PLC Hong Kong has served an intermediary role in some of Tehrans proliferation-related purchases from Asia.
+
+-- (S//REL UK) Note that Melli Bank PLC Hong Kong is a branch of the London-based Melli Bank PLC and is subject to UK jurisdiction. We would be interested in learning what measures the UK has taken or will take to ensure Melli Bank PLC Hong Kong does not support Irans procurement of proliferation sensitive technology.
+
+END S//REL UK POINTS.
+
+END SECRET//REL UK, ROK, ISRAEL NON-PAPER.
+
+------------------ REPORTING DEADLINE ------------------
+
+¶8. (U) Post should report results within one week of receipt of this cable. Please slug replies for ISN, T,
+TREASURY, IO/PSC and NEA. Please include SIPDIS in all replies.
+
+---------------- POINT OF CONTACT ----------------
+
+¶9. (U) Washington point of contact for follow-up information is Michelle New, ISN/CPI, (202) 647-0186, , or Jennifer Chalmers, ISN/CPI, (202) 647-9715, .
+
+¶9. (U) Department thanks Posts for their assistance.
+RICE

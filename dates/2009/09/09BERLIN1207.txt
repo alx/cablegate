@@ -1,0 +1,63 @@
+09BERLIN1207
+
+Wed Sep 30 00:00:00 +0200 2009
+CONFIDENTIAL
+Embassy Berlin
+VZCZCXRO7631
+PP RUEHDH RUEHHM RUEHPB RUEHSL RUEHSR RUEHTM RUEHTRO
+DE RUEHRL #1207/01 2730644
+ZNY CCCCC ZZH
+P 300644Z SEP 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 5336
+INFO RUEHXP/ALL NATO POST COLLECTIVE
+RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+RUEHZG/NATO EU COLLECTIVE
+RUEHFR/AMEMBASSY PARIS 0796
+RUEHBS/USEU BRUSSELS
+RUCXONI/ONI WASHINGTON DC
+RHEHNSC/NSC WASHINGTON DC
+RUETIAA/NSACSS FORT GEORGE G MEADE MD
+RUEHNO/USMISSION USNATO 1329
+RUEKJCS/HQ USEUCOM LO WASHINGTON DC
+RUEKJCS/SECDEF WASHINGTON DC
+RUEHRL/USDAO BERLIN GE
+RUCUSTR/USSTRATCOM OFFUTT AFB NEC O N F I D E N T I A L SECTION 01 OF 02 BERLIN 001207
+
+SIPDIS STATE FOR ISN/MDSP DICK BUENNEKE NSC FOR PETER MARQUEZ
+
+E.O. 12958: DECL: 09/30/2034 TAGS: ETTC PGOV PINR MCAP PREL TSPA GM
+
+REF: A. BERLIN 1116 B. BERLIN 1080 C. BERLIN 1049 D. BERLIN 765 E. BERLIN 601 F. BERLIN 561 G. BERLIN 181 H. 08 BERLIN 1575
+
+Classified By: Global Affairs Unit Chief Don L. Brown for reasons 1.4 (b) and (d).
+
+¶1. (U) THIS IS AN ACTION REQUEST. PLEASE SEE PARA 9.
+
+¶2. (C) SUMMARY: Officials from the German Space Agency (DLR) informally requested feedback regarding USG support for a US/German commercial partnership on Germanys High Resolution Optical Satellite (HiROS) imaging reconnaissance system. Assuming funding for HiROS will be approved this November, DLR is planning to begin construction of three HiROS satellites in January. DLR, a strong advocate for a HiROS partnership with US industry, said it could add an X-band transceiver dedicated for a US customer (ensuring secure and private tasking). However, DLR noted that Germany first needs some kind of near-term indication of support from the USG. They said that if provisions for an X-band antenna are not made within the next couple of months, this option would likely not be possible due to the systems aggressive project development plan. END SUMMARY
+
+¶3. (C) On September 23, ISN/MDSP Deputy Director for Space Policy and EconOff met with DLR Program Director for Space, Dr. Hubert Reile, and Dr. Andreas Eckardt, Head of Optical Sensors and Electronics, to discuss opportunities for US/German cooperation on satellite programs. The meeting was organized by officials from the Friedrichshafen branch of EADS Astrium and DLR. DLRs two primary objectives for this meeting were to float the idea of combining the military aspects of the GPS and Galileo Position, Navigation and Timing (PNT) systems under the framework of NATO (reporting SEPTEL) and to solicit USG support for cooperation on HiROS.
+
+GERMAN ELECTION RESULTS A GOOD SIGN FOR HIROS ---------------------------------------------
+
+¶4. (C) Eckardt anticipated that an official decision by the German government to fund HiROS would be made by mid-November and that its "primary customer" is adamant that construction begin in January 2010 with a planned deployment in 2013. (COMMENT: With the German general elections now in the rear view mirror, the new CDU/CSU coalition with the Free Democratic Party (FDP) will likely solidify political support for HiROS. The "primary customer" referred to by Eckardt is the German intelligence service (BND). END COMMENT) Eckardt predicted that the only thing that could derail HiROS at this point is if the German government is unable to finance the project due to constraints imposed by the financial crisis, adding his opinion that this is not likely.
+
+DLRS VIEW OF HOW HIROS COOPERATION WOULD WORK --------------------------------------------- -
+
+¶5. (C) Eckardt hoped that US and German interests would each purchase a set of three HiROS satellites, creating a combined six-satellite constellation. Each party would have primary tasking on its own set, and that excess capacity would be made available to the other party. Astrium plans on selling unused capacity in the German set commercially via its data provider InfoTerra. Eckardt said the BND only anticipates needing about 30 percent of the German systems capacity and explained that the remaining 70 percent could be available for US customers. With a six-satellite constellation, Eckardt estimated the revisit time would be about every 5-8
+hours, depending on the constellation geometry and the location of the imaged area.
+
+DLR TO THE USG - DONT LET THIS OPPORTUNITY PASS YOU BY --------------------------------------------- ----------
+
+¶6. (C) Eckardt emphasized the importance of early feedback from the USG regarding its interest in commercial cooperation on HiROS if DLR is to incorporate the specialized tasking/downlink hooks that would be needed for US customers. Germany will use a separate L-band receiver to accommodate its own needs. Eckardt said DLR is not inclined to invest resources into an X-band capability unless assurance of support is given by the USG.
+
+¶7. (C) Eckardt noted the memorandum of understanding (MOU) on HiROS that DLR has with Digital Globe (DG) and that DLR would sign an MOU with Lockheed Martin on September 30. He downplayed any conflict of interest working with two US firms concurrently, noting that DG is focused on the optical capabilities of HiROS, while Lockheed Martin is primarily interested in HiROSs infrared capabilities.
+
+BUT WAIT, THERES MORE -- REAL TIME 3D DATA PROCESSING --------------------------------------------- ---------
+
+¶8. (C) Eckardt said that DLR is making considerable progress in processing optical satellite data into three-dimensional (3D) models, with a goal of doing this in real time (RT) within the next 3-5 years. He described DLR,s rapid technical progress in reducing processing time, from about an hour six-months ago to 30 minutes today. According to Eckardt, the next steps will be to create RT-3D models using radar, infrared and multi-spectral data sources. Once this is mastered, DLR will seek to fuse all imagery data together into one master 3D model.
+
+ACTION REQUEST --------------
+
+¶9. (SBU) Post requests Department guidance in responding to the German request in paragraph 6

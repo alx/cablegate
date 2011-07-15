@@ -1,0 +1,210 @@
+05BRASILIA1978
+July 12 U.S.-Brazil IPR Technical Cooperation
+Fri Jul 22 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Brasilia
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 BRASILIA 001978 
+ 
+SIPDIS 
+ 
+STATE PASS USTR -- YANG 
+NSC FOR CRONIN 
+AID FOR LAC/SA 
+TREASURY FOR OASIA - DAS LEE AND FPARODI 
+USDOC FOR 4332/ITA/MAC/WH/OLAC/JANDERSEN/ADRISCOLL/MWAR D 
+USDOC FOR 3134/ITA/USCS/OIO/WH/RD/DDEVITO/DANDERSON/EOL SON 
+JUSTICE FOR CCIPS 
+DHS FOR ICE CYBER CRIMES CENTER 
+ 
+E.O. 12958: N/A 
+TAGS: KIPR ETRD IPR
+SUBJECT: July 12 U.S.-Brazil IPR Technical Cooperation 
+Meeting 
+ 
+Refs:  A) Brasilia 487 (Notal)  B) Brasilia 599 
+ 
+¶1.   Summary and Introduction.  On July 12, a team from 
+USDOJ's Computer Crime and Intellectual Property Section 
+(CCIPS), the Department of Homeland Security's Immigration 
+and Customs Enforcement (ICE) Unit, and USTR met with 
+counterparts from the Ministry of Justice, Federal Police, 
+Receita Federal and Foreign Ministry for the first meeting 
+under an informal technical cooperation initiative on IPR 
+enforcement.  The technical cooperation initiative is a by- 
+product of discussions with the GoB over the last year 
+regarding the possible withdrawal of Brazil's trade benefits 
+under the Generalized System of Preferences (GSP) due to 
+ineffective copyright protection (ref A).  On April 4, the 
+GSP Review was extended until September 30, 2005.  While the 
+threat of the GSP Review has remained in place, the USG has 
+also sought since April to foster a bilateral exchange 
+between law enforcement and customs agencies specifically to 
+support a timely implementation of Brazil's recently 
+formulated national anti-piracy plan (ref B).  End Summary 
+and Introduction. 
+ 
+¶2.  The U.S. delegation was led by Christopher Merriam, 
+International Coordinator for CCIPS and included Jason Gull, 
+a trial attorney with CCIPS; Elizabeth Perino, Section Chief 
+of the ICE Cyber Crimes Center; and Leslie Yang, USTR 
+Director for Mercosul; representatives from AmEmbassy 
+Brasilia Econ, DHS, Legatt, and FCS also attended.  Heading 
+up the Brazilian Delegation was Marcio Costa de Menezes e 
+Goncalves, Executive Secretary of Brazil's National Anti- 
+Piracy Council (CNCP).  He was joined by Valquiria Teixeira 
+and Adauto Martins of the Federal Police; Mauro Brito, head 
+of a specialized enforcement section within Receita 
+Federal's customs unit; Lilian Pinho, of the Public 
+Prosecutor's office in the state of Rio de Janeiro; and 
+Otavio Brandelli and Joao Storti of the Foreign Ministry. 
+ 
+¶3.  The discussions focused on three subject areas 
+identified during a June 1 bilateral digital video 
+conference: risk analysis relating to customs, cybercrime, 
+and legislative initiatives. 
+ 
+Risk Analysis - Customs 
+----------------------- 
+ 
+¶4.   Brito noted an interest in working with other countries 
+to obtain information that would enhance Brazilian customs' 
+ability to evaluate the risk associated with particular 
+importers and exporters.  Yang noted that some countries 
+have set up a registry to identify legitimate importers of 
+blank CDs.  Goncalves said the CNCP was considering 
+establishing one central office for registration of 
+copyright titleholders to enable better coordination between 
+right-holders and law enforcement.  Brito also said customs 
+would like to work more closely with the United States and 
+other countries to address under-invoicing.  The Deputy DHS 
+Attache encouraged Brito to use a bilateral cooperation 
+agreement between Brazilian customs and DHS as a vehicle for 
+seeking information that would be useful in their efforts. 
+It was agreed that the subject of risk analysis would be 
+taken up in greater detail during subsequent discussions. 
+ 
+¶5.   Brito also outlined Receita Federal's customs 
+modernization plan, including plans to improve 
+infrastructure and increase the use of technology, such as 
+scanners and optical character reading cameras, to enhance 
+customs' ability to regulate the entry of products.  In 
+March 2005, Brazilian customs established a special 
+coordination unit for inspection oversight, establishing 
+five separate sections to deal with: international trade 
+related duties, enforcement (smuggling), classification of 
+goods, risk analysis, and security.  According to Brito, the 
+special enforcement unit is slated to grow from 200 to 1,000 
+officers within two years, and by the end of three years it 
+should be sufficiently large to deploy throughout the entire 
+country.  In addition to using scanners, the unit will have 
+an aviation team outfitted with planes, helicopters and 
+speedboats.  Brazilian customs has also been exploring tax 
+evasion control measures, such as the application of seals 
+or serial numbers for CDs and DVDs, but is still discussing 
+the issue with domestic industry which has not yet supported 
+the approach. 
+ 
+Cybercrime 
+---------- 
+ 
+¶6.  The Brazilian delegation displayed an intense interest 
+in discussing an array of issues related to the protection 
+of intellectual property and the internet.  Teixeira of the 
+Federal Police said that although formally a new unit within 
+the Federal Police to combat cybercrime has not been formed, 
+it is functioning in practice and she requested that an 
+informal channel of communication be established between 
+Brazilian and U.S. authorities to enable quick communication 
+for time sensitive inquiries.  The U.S. delegation welcomed 
+direct inquiries to CCIPS and ICE from Brazilian 
+authorities, but noted that inquiries directed through 
+either the DHS or Legatt offices at post would probably be 
+the most expeditious approach, particularly given language 
+differences. 
+ 
+¶7.  During the meeting, information was exchanged regarding 
+internet service provider (ISP) liability within the U.S. 
+and Brazilian legal systems, legal processes and mechanisms 
+for securing evidence, difficulties and potential options 
+for determining domain name ownership, and problems with the 
+improper use of trademarks within worldwide web domain 
+names.  The Brazilian delegation requested copies of 
+pertinent U.S. legislation for reference as further changes 
+in Brazilian laws are contemplated; they described current 
+legislation as not very advanced. 
+ 
+¶8.  Goncalves explained that Brazilian sellers of 
+illegitimate products over the internet are increasingly 
+acquiring domain names abroad to avoid penalties within 
+Brazil.  Merriam noted that a substantial portion of 
+enforcement in the United States is as a result of civil 
+action.  The difficulty of monitoring service providers and 
+auction sites for the sale of counterfeit goods was 
+discussed, but the U.S. delegation also pointed out that 
+auction sites are a resource for information useful for law 
+enforcement.  In general, the U.S. delegation described the 
+benefits of working in partnership with the large service 
+providers and auction sites, which have a self-interest in 
+denying access to purveyors of pirated goods, and U.S. law 
+enforcement's focus on smaller providers who may be actual 
+collaborators in criminal activity.  The U.S. delegation 
+explained that U.S. law distinguishes between an attempt by 
+a domain name holder to extort a trademark owner, which is 
+illegal, and the legal use of trademarks in domain names if 
+for the purpose of education or comparison. 
+ 
+¶9.  Both sides conveyed an interest in continuing the 
+discussion in this area.  Merriam encouraged the Brazilian 
+delegation to forward any questions they have in writing in 
+order to keep the dialog going and to increase the 
+productivity of a future meeting. 
+ 
+Legislative Initiatives 
+----------------------- 
+ 
+¶10.  Brandelli provided an overview of changes to Brazilian 
+IPR law in recent years, including the ability to hold 
+owners of buses used to transport counterfeit goods as 
+liable and the elimination of customs-free transit for blank 
+CDs through Brazil to Paraguay.  Another change has enabled 
+a copyright association to be considered an "associated 
+party" within legal proceedings.  Pinho claimed that 
+copyright enforcement problems stem not so much from a need 
+to change legislation, but from a lack of consistent 
+application of the existing law.  One change being 
+considered to Brazilian law would enable law enforcement to 
+retain only a sample of counterfeit products seized, either 
+destroying or donating the remainder.  In response to a 
+question from the Brazilian side, the U.S. delegation 
+explained that by working closely with right-holders, U.S. 
+law enforcement typically is able to determine definitively 
+before seizure that the products are in fact counterfeit. 
+The quantity and monetary damage thresholds of the U.S. 
+criminal copyright law were also explained. 
+ 
+¶11.  Although not directly related to legislation, Pinho 
+described how state level prosecutors have organized to 
+standardize operations, procedures and penalties to address 
+organized crime and her efforts to apply this same model for 
+organizing state prosecutors to combat piracy.  Pinho said 
+she is drafting a handbook for use by civil, military, 
+highway, state, and federal police as well as customs agents 
+to explain techniques for recognition, surveillance, and 
+intelligence gathering related to piracy. 
+ 
+Next Steps 
+---------- 
+ 
+¶12.  At the conclusion of the meeting, both sides described 
+the discussion as very useful and expressed an interest in 
+continuing the dialog, although no date was set for a future 
+meeting.  Post continues to believe that this type of 
+exchange provides the USG with a useful mechanism for 
+engaging the GoB in a productive way on its efforts to 
+combat piracy and to potentially make a positive impact on 
+implementation of the GoB's national anti-piracy action 
+plan. 
+ 
+¶13.  This cable was cleared by the U.S. delegation. 
+ 
+Manganiello

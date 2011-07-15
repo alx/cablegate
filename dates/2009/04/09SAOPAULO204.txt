@@ -1,0 +1,243 @@
+09SAOPAULO204
+THE FINANCIAL CRISIS AND BRAZIL'S ELECTRICITY SECTOR
+Fri Apr 03 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Sao Paulo
+VZCZCXRO8922
+RR RUEHRG
+DE RUEHSO #0204/01 0931302
+ZNR UUUUU ZZH
+R 031302Z APR 09
+FM AMCONSUL SAO PAULO
+TO RUEHC/SECSTATE WASHDC 9089
+INFO RUEHBR/AMEMBASSY BRASILIA 0234
+RUEHRG/AMCONSUL RECIFE 4338
+RUEHRI/AMCONSUL RIO DE JANEIRO 9096
+RUEHBU/AMEMBASSY BUENOS AIRES 3464
+RUEHAC/AMEMBASSY ASUNCION 3711
+RUEHMN/AMEMBASSY MONTEVIDEO 2885
+RUEHSG/AMEMBASSY SANTIAGO 2711
+RUEHLP/AMEMBASSY LA PAZ 4089
+RUCPDOC/USDOC WASHDC 3257
+RUEATRS/DEPT OF TREASURY WASHDC
+RHEHNSC/NATIONAL SECURITY COUNCIL WASHDCUNCLAS SECTION 01 OF 03 SAO PAULO 000204 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+STATE PASS USTR FOR KDUCKWORTH 
+STATE PASS EXIMBANK 
+STATE PASS OPIC FOR DMORONSE, NRIVERA, CMERVENNE 
+STATE PASS NSC FOR ROSSELLO 
+DEPT OF TREASURY FOR LINDQUIST 
+DOE FOR CGAY, RDAVIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ENRG EFIN EINV BR
+SUBJECT: THE FINANCIAL CRISIS AND BRAZIL'S ELECTRICITY SECTOR 
+ 
+REF: A. 08 Sao Paulo 260; B. 08 Sao Paulo 392; C. Sao Paulo 92 
+ 
+SENSITIVE BUT UNCLASSIFIED--PLEASE PROTECT ACCORDINGLY 
+ 
+¶1.  (SBU) Summary:  Brazil's electricity demand generally follows 
+economic growth and recent data confirms a big dip in consumption, 
+particularly from the industrial sector.  The electricity sector 
+itself should suffer minimal impacts as most companies are 
+well-capitalized and were financially sound leading up to the 
+crisis.  Tighter financing is likely to lead to fewer new projects; 
+and those will be much less leveraged than before.  The crisis has 
+opened a window of opportunity for long-term planning, but given the 
+financial strength of the sector, the GOB is unlikely to undertake 
+any strategic planning, and instead focus on other sectors to boost 
+economic growth.  End Summary. 
+ 
+Electricity Demand Measure of Economic Activity 
+--------------------------------------------- -- 
+ 
+¶2.  (SBU) After starting last year with concerns of an energy 
+shortage (Ref A), Brazil closed out 2008 with electricity to spare. 
+Generally speaking, Brazil's electricity demand has tracked with 
+economic growth, increasing at nearly the same margins.  In 2008, 
+however, economic growth outpaced that of electricity consumption, 
+5.1 percent versus 3.8 percent, respectively.  Primarily due to the 
+impacts of the financial crisis on the industrial sector, 
+electricity consumption in the last quarter of 2008 declined by 1.4 
+percent compared to the fourth quarter of 2007.  Statistics from the 
+government-owned Energy Research Company (EPE) show that in December 
+alone electricity consumption declined by 1.8 percent over December 
+¶2007.  This marked the first decline in electricity consumption in 
+Brazil since the GOB implemented an electricity rationing program in 
+¶2001. 
+ 
+¶3.  (SBU) In a recent conference on the electricity sector and the 
+financial crisis hosted by the Sao Paulo Association of Cogeneration 
+of Energy (COGEN-SP), Professor Nivalde Jose de Castro from the 
+Federal University of Rio de Janeiro's (UFRJ) Electricity Sector 
+Research Group (GESEL) explained that the financial crisis has hit 
+energy intensive industrial sectors harder than other sector.  The 
+spot price for electricity reflected the ecline in the demand - 
+rices fell from R$ 190 per megawatt/hour (MW/h) inOctober to R$ 
+120MW/h overnight.  The most pronounced example of the impac of the 
+financial crisis on electricity demand ws the 14.9 percent decline 
+in electricity demand for Brazil's industrial sctor in January of 
+this year compared to January 2008.  This decline is in line with 
+the 17.2 percent drop in industrial production observed during the 
+same month.  According to Marcelo Parodi, President of energy 
+trading company COMERC, 45 percent of Brazil's electricity demand is 
+from industrial consumers (about 25,000 MW).  Parodi told Econoff he 
+estimates electricity consumption growth would be flat or slightly 
+negative, in line with current consensus for Brazilian economic 
+growth at 0.01 percent this year. 
+ 
+Impacts on the Sector 
+--------------------- 
+ 
+¶4.  (SBU) Roberto Brandao from UFRJ underlined the impact of the 
+financial crisis on companies in the electricity sector:  less 
+available credit, banks had limited companies' ability to extend 
+loan maturities, increased banking spreads, and delays in IPOs and 
+stock offerings.  As a result, he expected fewer new electricity 
+projects, and noted that highly leveraged companies would have a 
+clear disadvantage because developers would need to put more equity 
+into projects.  He also anticipated fewer business opportunities for 
+generators.  As with other sectors facing the financial crisis, 
+Brandao expects to see an increase in mergers and acquisitions. 
+ 
+The Numbers Do Not Explain the Whole Picture 
+-------------------------------------------- 
+ 
+¶5.  (SBU) Following on the declines in electricity consumption at 
+the end of 2008, early estimates for the first quarter of 2009 which 
+show increased electricity consumption when compared to those of 
+ 
+SAO PAULO 00000204  002 OF 003 
+ 
+ 
+2008 are somewhat surprising at first glance.  For example, February 
+and March showed 1.1 and two percent increases, respectively, 
+although electricity demand in January was down 2.6 percent over 
+¶2008.  However, several factors make it difficult to draw any 
+conclusions based on a comparison of electrical demand between the 
+first quarters of 2008 and 2009.  Fausto Pinheiro Mendezes, from the 
+National Electricity System Operator (ONS) Office of Forecasting and 
+Demand, cautioned that many other factors influenced electricity 
+demand in the first quarter of 2008.  By and large, the first months 
+in 2009 have been warmer than the same months in 2008, requiring 
+more electricity to cool residences.  The spot price for electricity 
+reached record highs at the start of 2008 because of a drought (Ref 
+A), driving down demand in some industries sensitive to price. 
+Mendezes noted that demand in 2008 was also mitigated by an increase 
+in cogeneration across the manufacturing sector over previous years. 
+ He also pointed to the Brazilian Customs strike in March 2008, 
+which slowed production and electricity consumption.  Finally, 
+because of the greater reliance on gas-fired generators, especially 
+in the first part of 2008, Brazil had lower technical losses in the 
+transmission grid because the gas-fired generators are closer to 
+industrial consumers. 
+ 
+Brazil's Electricity Model to Withstand Crisis 
+--------------------------------------------- - 
+ 
+¶6.  (SBU) According to Castro, Brazil's electricity business model 
+will withstand the global financial crisis.  Castro explained that 
+most of the large distributors and generators went into the crisis 
+with a good financial position due to several profitable years 
+following the blackouts and rationing in 2001.  Fifty of the 
+companies that UFRJ reviewed in a recent report had an average 
+growth in profits of 57 percent in 2007.  Similarly, Professor 
+Roberto Brandao from UFRJ noted that prior to the crisis, the sector 
+had access to long-term structured financing in local currency 
+through Brazil's National Development Bank (BNDES), minimal demand 
+for external financing, and access to bridge loans from commercial 
+banks.  Despite the fact that BNDES previously delayed and decreased 
+opportunities for bridge loans and some projects had suffered 
+funding problems, Brandao noted that financing for new projects has 
+been adjusted to resolve these issues. 
+ 
+¶7.  (SBU) In addition, Castro touted the structure of the 
+electricity sector as an instrument against the crisis.  Castro 
+stated that the solid regulatory framework protects distributors 
+because the GOB guarantees payment.  As a result of the financial 
+crisis, he identified industrial consumers as those with the 
+greatest risks of non-payment (particularly in the state of Espiritu 
+Santo) and residential and commercial consumers as those with the 
+lowest risks (mostly located in the SE/South and N/NE), though 
+losses to the distributors would be minimal due to government 
+guarantees.  Duke Energy, one of the two U.S. companies operating in 
+the electricity sector in Sao Paulo, told Econoff that despite the 
+decrease in energy consumption in the first quarter of 2009 versus 
+the forecasted demand, none of their clients requested a reduction 
+in volume or termination of any existing energy supply contracts. 
+In general, vertical holding companies are active in generation, 
+distribution, and commercialization.  According to Castro, the 
+system of electricity auctions facilitates expansion of electricity 
+generation, supply and demand readjustments, and incorporates 
+long-term inflation indexed contracts.  In response to the crisis, 
+large energy consumers that were part of the free market sold off 
+1,400 MW of excess electricity to distributors on the regulated 
+market in an electricity auction in February. 
+ 
+Over the Long-Term: Plan and Invest 
+----------------------------------- 
+ 
+¶8.  (SBU) Growth in electricity demand will likely see more 
+increases when industrial production recovers.  Over the long-term, 
+the EPE estimates that Brazil will need to invest another R$ 181 
+billion (R$ 142 billion in generation and R$ 39 billion in 
+transmission, approximately USD 65 billion and 17.7 billion, 
+respectively) to meet their demand projections from 2008 through 
+¶2017.  UFRJ's Castro stressed that Brazil lost an opportunity for 
+ 
+SAO PAULO 00000204  003 OF 003 
+ 
+ 
+strategic long-term planning and investment following the 2001 
+electricity rationing.  In his view, the current financial crisis 
+opened another window of opportunity to think strategically about 
+electricity supply.  In October 2008, demand for electricity 
+averaged 54,088 MW, compared with 49,991 MW in January 2009.  This 
+matches the consumption levels of September 2007.  According to 
+Castro, Brazil's electricity consumption will continue to decline 
+and it could be another three to four years before consumption 
+returns to October 2008 levels. 
+ 
+¶9.  (SBU) On a more positive note, Brandao expects that the GOB will 
+consider more dedicated opportunities for alternative energy 
+projects because there is less pressure to meet electricity demand. 
+Alternative energy projects still face regulatory and financial 
+hurdles, and would require incentives to compete with natural gas 
+and fuel oil projects because of the lower costs involved.  Laine 
+Powell of Duke Energy Brazil told Econoff that the lack of available 
+credit is affecting the development of alternative energy projects 
+such as biomass and wind power.  However, the GOB has in place 
+initiatives for these types of projects, which should in time offset 
+the lack of available credit through other sources. 
+ 
+Comment 
+------- 
+ 
+¶10.  (SBU) Although there is a clear link between economic activity 
+and electricity consumption, comparing consumption data to last year 
+to evaluate a potential economic recovery is unlikely to provide an 
+accurate picture.  Financially, the structure of the sector is solid 
+and should have no problem withstanding the current global financial 
+crisis.  However, the crisis in the short-term has impacted 
+development of some alternative energy projects in Brazil; many of 
+Brazil's sugar mills are facing financial difficulty due to the lack 
+of credit and have delayed expansion plans for electricity 
+generation capacity (see Refs B and C for more on bioelectricity). 
+The fact that, until recently, the sector's capacity to meet demand 
+was stretched to the limit is alleviated by lower demand as a result 
+of the financial crisis; however, under normal conditions Brazil 
+would not be generating enough electricity to meet demand. 
+Unfortunately, the GOB may be preoccupied with combating the crisis 
+and facing budget shortfalls due to the economic slowdown in Brazil, 
+and could miss another opportunity to address capacity deficiencies 
+through long-term planning in the electricity sector.  End Comment. 
+ 
+ 
+¶11.  (U) This cable was coordinated/cleared by Embassy Brasilia and 
+Consulate Rio de Janeiro. 
+ 
+WHITE

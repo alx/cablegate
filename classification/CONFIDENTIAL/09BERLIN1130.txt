@@ -1,0 +1,76 @@
+09BERLIN1130
+
+Fri Sep 11 00:00:00 +0200 2009
+CONFIDENTIAL
+Embassy Berlin
+VZCZCXRO3711
+PP RUEHDH RUEHHM RUEHPB RUEHSL RUEHTM RUEHTRO
+DE RUEHRL #1130/01 2541621
+ZNY CCCCC ZZH
+P 111621Z SEP 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 5176
+INFO RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+RUEHFR/AMEMBASSY PARIS 0734
+RUEHRO/AMEMBASSY ROME 2259
+RUEHUL/AMEMBASSY SEOUL 0583
+RUEHNO/USMISSION USNATO 1265
+RUEKJCS/HQ USEUCOM LO WASHINGTON DC
+RUEKJCS/SECDEF WASHINGTON DC
+RUEHRL/USDAO BERLIN GE
+RUEHBS/USEU BRUSSELS
+RUCUSTR/USSTRATCOM OFFUTT AFB NEC O N F I D E N T I A L SECTION 01 OF 03 BERLIN 001130
+
+SIPDIS STATE FOR EUR/CE PETER SCHROEDER STATE FOR ISN/MDSP DICK BUENNEKE
+
+E.O. 12958: DECL: 09/11/2034 TAGS: ETTC PGOV PINR MCAP PREL TSPA IT KS FR GM
+
+REF: A. BERLIN 1116 B. BERLIN 1080 C. BERLIN 1049 D. BERLIN 765 E. BERLIN 601 F. BERLIN 561 G. BERLIN 181 H. 08 BERLIN 1575
+
+Classified By: Global Affairs Unit Chief Don L. Brown for reasons 1.4 (b) and (d).
+
+¶1. (C) SUMMARY: The German Space Agency (DLR) is continuing on its aggressive path to fly a High Resolution Optical Satellite (HiROS) imaging system by 2013, despite an uncertain funding future and an apparent lack of political consensus in the current Grand-Coalition government. If the CDU/CSU Union can forge a new coalition with the Free Democratic Party (FDP) this September, support for HiROS will likely solidify. In the meantime, DLR is taking prudent steps to ensure HiROS technical requirements have been met. END SUMMARY
+¶2. (SBU) EconOff accompanied NGA representatives to meet with DLR representatives at their Adlershof facility in Berlin to discuss the future of the German HiROS program. DLR was represented by Dr. Andreas Eckardt, Adlershof Head of Optical Sensors and Electronics, and Mr. Frank Lehmann, Head of Sensor Concepts and Applications at the Institute of Robotics and Mechatronics.
+
+DLR STILL LOOKING FOR HIROS FUNDING
+-----------------------------------
+
+¶3. (C) Eckardt opened the meeting saying, "We are currently looking for financial support from Germany on HiROS." He said that, in order for HiROS to proceed to Phase C and start the procurement process, they will need secured funding; until then, &in reality HiROS is not even an official project.8 Eckardt said DLR is hopeful that upon demonstrating technical feasibility and pending the outcome of the German general elections this September, HiROS will glide into Phases C and D in 2010 and be deployable in 2013. (COMMENT: Concurrent with this meeting, Eckardt was briefing "German officials" in another room on the HiROS Phase B progress - presumably in an effort to secure government funding/support. END COMMENT)
+
+DLR IS CONFIDENT ABOUT THEIR EO TECHNOLOGY
+------------------------------------------
+
+¶4. (C) DLRs plans for HiROS go beyond establishing a remote sensing competency to complement their Synthetic-Aperture-Radar (SAR) programs. They plan to become world leaders in commercial space-based Electro-Optical (EO) imagery, while incorporating infra-red imaging capabilities. Eckardt said although the planned Ground Resolved Distance (GRD) for HiROS is 50 cm, DLR believes they have the technology in hand to go down to 25-40 cm. The decision to go with a 50 cm GRD is motivated by the desire to export HiROS data while avoiding export control restrictions.
+
+¶5. (C) Eckardt said HiROS will incorporate two thermal sensors: one 5-6 meter GRD long-wave sensor, and a 4-5 meter GRD mid-wave sensor. Eckardt admitted that DLR is conducting classified research into the possibility of building a three-meter aperture telescope mirror that would not be made of silicon carbide, but of a "brand new material" (NFI). (COMMENT: Eckardt seemed to suggest that HiROS is part of a larger, long-term German plan to secure technical dominance in the worldwide space-based EO arena. END COMMENT)
+
+¶6. (C) Eckardt described DLRs responsibilities for the HiROS proposal as constructing the HiROS instruments, sensors, and focal plane as well as the ground segment. In addition, DLR would develop mission software and image processing algorithms. German industry would be responsible
+for building the spacecraft bus and other mission segments, where both Astrium (Friedrichshafen) and OHB-System would have roles. Eckardt said Jena Optronik would provide new star-tracking cameras for HiROS for improved control and accuracy.
+
+DLR CONCERNED ABOUT ITAR RESTRICTIONS WITH US COMPONENTS
+--------------------------------------------- -----------
+
+¶7. (C) Eckardt said DLR would like to procure US-origin control motion gyroscopes (CMGs) and radiation-hardened integrated circuits (ICs) from US vendors, but is concerned that ITAR restrictions would inject too much procurement risk into the HiROS proposal. Eckardt mentioned the US companies Northrop Grumman (CMGs) and Fairchild Semiconductor (ICs) specifically as desirable sources of HiROS components. Eckardt said if ITAR restrictions appear too problematic, they would likely turn to French suppliers. Eckardt emphasized that this was not his preference because, "as a scientist, I just want the best components."
+
+DLRS KOREAN CONNECTION FUELING HIROS R&D
+-----------------------------------------
+
+¶8. (C) DLRs motivation to develop HiROS emerged from a 2006 partnership with the Korean Aerospace Research Institute (KARI), where DLR provided sensors, collection instruments, and other mission critical equipment (effectively everything except for the satellite bus) for KARIs KOMPSAT-3 a high-resolution lightweight earth observation satellite. This partnership, in cooperation with German industry at Astrium in Friedrichshafen and Jena Optronik, essentially funded DLRs HiROS research and development. Eckardt said DLR is already working on instruments for the next generation KARI earth-observation satellites, KOMPSAT-6 and -7, with a planned EO GRD of 25 cm.
+
+DLR CALLS KARI A GOOD FRIEND, BUT WARY OF TECHNOLOGY LEAKS
+--------------------------------------------- -------------
+
+¶9. (C) Eckardt spoke glowingly of DLRs cooperation with KARI and called the director of KARIs Satellite Office, Joo-Jin Lee, "a good friend." Eckardt said DLRs cooperation with KARI has progressed to the point where scientific exchange is under way with two KARI scientists working full-time at DLRs Berlin-Adlershof facility. Eckardt, pausing for a moment while describing this relationship, emphasized that DLR considers the area where KARI officials are working to be "older technology" and would not pose an "unauthorized technology transfer risk." He added, "we are being careful to keep all the cutting edge technologies to ourselves."
+
+DIGITAL GLOBE TAKING A WAIT-AND-SEE APPROACH WITH HIROS
+--------------------------------------------- ----------
+
+¶10. (C) Digital Globe (DG) CEO, Dr. Walter Scott, confirmed DGs participation in DLRs Phase B technical feasibility study, but further participation in HiROS is contingent on obstacles that DLR must overcome. The technical questions Scott said DG needs answered are: (1) will HiROS have suitable technical performance for DGs needs and (2) what will the HiROS concept of operations look like in terms of the licensing regime. Scott also said DLR would need to demonstrate adequate financial/political support from the German government for HiROS. Scott said if DLR can alleviate these concerns, the next step would be negotiations on the economic terms under which DG would acquire capacity in the HiROS system.
+
+¶11. (C) Scott sees DG involvement with HiROS as a win/win situation for DLR and DG, as well as for the German and US governments. Scott said DG would primarily gain imaging capacity and revisit rate, while Germany would potentially gain access to the US market, a funding partner, and an
+additional means of technical risk reduction. Scott feels from the USG remote sensing perspective, HiROS would mitigate risk against having yet another capable foreign competitor emerge.
+
+COMMENT
+-------
+¶12. (C) With the German general election approaching quickly, HiROSs prospects will likely appear clearer by the end of the year. While technical considerations do not appear problematic, political/financial concerns seem to be the main hurdle ahead for HiROS viability. In 2006, France and Germany merged their space programs with a gentlemans agreement not to step on each other,s turf--the Germans would handle SAR and the French EO. However, the French have since then partnered with the Italians, who have their own indigenous space-based SAR -- COSMOS-SKYMED, and are leveraging this relationship to market their EO commercial system packaged with COSMOS-SKYMED to worldwide governments. These moves do not sit well with either German commercial space-radar vendors or DLR. HiROS could offer them an offsetting opportunity. Murphy

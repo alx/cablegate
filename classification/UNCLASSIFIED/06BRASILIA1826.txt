@@ -1,0 +1,178 @@
+06BRASILIA1826
+EMBASSY BRASILIA B1, B1/B2, B2 VALIDATION STUDY CY2004
+Thu Aug 31 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Brasilia
+VZCZCXRO0128
+RR RUEHRG
+DE RUEHBR #1826/01 2430957
+ZNR UUUUU ZZH
+R 310957Z AUG 06
+FM AMEMBASSY BRASILIA
+TO RUEHC/SECSTATE WASHDC 6526
+INFO RUEHSO/AMCONSUL SAO PAULO 7893
+RUEHRI/AMCONSUL RIO DE JANEIRO 2774
+RUEHRG/AMCONSUL RECIFE 5371UNCLAS SECTION 01 OF 02 BRASILIA 001826 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPT FOR CA/VO/F/P, CA/FPP, CA/EX 
+ 
+E.O. 12958: N/A 
+TAGS: KFRD CVIS CMGT BR
+SUBJECT: EMBASSY BRASILIA B1, B1/B2, B2 VALIDATION STUDY CY2004 
+ 
+ 
+¶1. Summary: In August 2006, the Consular Section of Embassy Brasilia 
+concluded a validation study of the 6,620 B1, B1/B2 and B2 Visas 
+issued by the section in calendar year 2004. Results showed that 
+83.4% returned, 12.2% did not return, 4.1% never traveled, and data 
+was inconclusive on 0.2%. The initial survey was carried out by 
+telephone and had an initial inconclusive rate of 13.6%. Embassy DHS 
+then used TECS to check our inconclusive cases, providing conclusive 
+data on all but a few cases, greatly increasing the accuracy of our 
+study. End summary. 
+ 
+Definitions 
+ 
+¶2. Post classified the study results into four categories: 1) 
+Confirmed Return or Current Legal Stay in the U.S. - those cases for 
+which Post was able to contact the visa holder and determine a 
+return from the United States and/or travelers still legally present 
+in the U.S.; 2) Confirmed Overstay - those travelers who are still 
+in the United States or who stayed for more than the six months of 
+stay CBP typically authorizes and who did not file for extension; 3) 
+Never Traveled - individuals who have not used their visas and 4) 
+Inconclusive - cases which remain unclear even after obtaining DHS 
+data. 
+ 
+Data Analysis General Observations 
+ 
+¶3. Post determined that 83.4% of all B1, B1/B2 and B2 visa holders 
+who were interviewed by Embassy Brasilia in 2004 left the United 
+States after a temporary visit or were in the U.S. for less than six 
+months. Post confirmed that 12.2% of the travelers failed to return 
+from the United States or misused their visas by remaining in the 
+U.S. for more than six months. 4.1% never traveled, while we were 
+unable to determine the whereabouts of 0.2% of travelers. 
+ 
+¶4. Post noticed that 80.2% of all confirmed overstay cases were 
+issued between August and December 2004. Post attributes this to two 
+factors: 1) a significant decrease in the refusal rate in B1, B1/B2 
+and B2 issuances, from 57% in January 2004 to 30% in December 2004; 
+and 2) a gradual slide in the dollar - real exchange rate from the 
+highest of 3.1 reals to one dollar in May to 2.7 in December 2004. 
+The stronger Brazilian currency improved the purchasing power of 
+applicants and, therefore, increased their income in USD terms.  The 
+strong Brazilian real also made U.S. travel affordable for segments 
+of Brazilian society who previously would never have considered 
+travel to the U.S. 
+ 
+Confirmed Overstay Cases Analysis 
+ 
+¶5. Analyzing the confirmed overstay cases by age revealed that age 
+group most likely to overstay are 21 to 35 year-olds (40.6%), 
+followed by individuals under 14 (20.8%). 
+ 
+¶6. Of the group studied, men are slightly more likely to abuse visas 
+than women (51.5% vs.48.5%). 
+ 
+¶7. Although the majority of B1, B1/B2 and B2 visas in 2004 were 
+issued to the residents of the Federal District, followed by the 
+applicants from the State of Goias (37% compared to 29%); 66.3% of 
+the confirmed overstay cases resided in Goias, and only 19.8% were 
+from the Federal District. 
+ 
+¶8. Interestingly enough, only 2% of all overstays were overcome 
+cases, and only 5.9% had their visas previously denied, whereas 
+12.9% were limited validity visas. 
+ 
+Methodology 
+ 
+¶9. Utilizing FPP guidelines,  principally based on the following 
+cables, 04 STATE 172283 SOP 74: Updated Guidance on Conducting 
+Validation Studies, 00 STATE 63463 Validation Studies - Report on 
+Pilot Project and Recommendations; Validation Studies Handbook 
+(1999); and 99 STATE 43495 - Validation Studies for Anti-Fraud Work 
+- A Simplified Approach, the Consular Section chose a sample of 800 
+successful visa applicants. Post contacted each and every applicant 
+by phone and then determined the percentage of visa recipients in 
+this particular category who returned to Brazil after a temporary 
+visit to the United States. 
+ 
+¶10. Using CCD data post generated an Excel file of all 6,620 B1, 
+B1/B2 and B2 visas granted in 2004. Next, we organized the 
+spreadsheet according to the following categories: Random Number, 
+Sample Frequency, Gender, DOB, Nationality, phone number, alternate 
+phone number, date to call, first call date, second call date (if 
+missed on the first), third and final call date (if missed on first 
+two) and six result columns: confirmed overstay, confirmed return, 
+probable overstay, inconclusive, and never traveled. 
+ 
+¶11. Subsequently, post generated a random sample of 827 cases, using 
+the Random Number Generator program in Excel, and sorted the 
+spreadsheet by the Random Number Column. After creating a list of 
+ 
+BRASILIA 00001826  002 OF 002 
+ 
+ 
+cases to call, post simplified the call back procedure by organizing 
+the spreadsheet by the Visa Printed Date and creating separate 
+worksheets, one for each month in 2004. 
+ 
+Call-Back Process General Observations 
+ 
+¶12. Originally, Post decided that only the Consular Section's FSNs 
+were to make phone calls to the randomly selected visa holders. The 
+premise for the decision was the idea that it would be easier to 
+establish the current whereabouts of the selected visa holders by 
+not divulging the caller's identity, which is an easier task for a 
+native Portuguese speaker. The section created several scenarios for 
+phone calls such as credit card company data verification, a call 
+from an old friend from school/college, etc. While this strategy 
+proved to be successful in a number of cases, a lot of families were 
+reluctant to give out personal information. However, when U.S. 
+members of the Consular Section made the calls, respondents were 
+much more likely to provide personal information about the 
+whereabouts of the visa holder. 
+ 
+¶13. Soon after commencing, Post discovered that the majority of 
+phone numbers and addresses of the visa holders have changed and 
+that it was difficult to locate the B1, B1/B2 and B2 travelers. 
+Using application forms DS-156 and DS-157 helped determine the 
+location of some of the visa holders with the help of family 
+members, U.S. or work contacts. Often times the Consular staff had 
+to obtain telephone numbers through the Brazilian directory 
+assistance, which considerably slowed down the validation study, but 
+at the same time reduced the number of inconclusive cases. 
+ 
+Using DHS Data 
+ 
+¶14. After completing Stage 1 of the study, Post was unable to 
+determine the whereabouts of 13.6% of all the cases examined. The 
+Embassy's DHS office, however, provided us with the entry/exit data 
+of the 126 inconclusive cases through TECS queries. Having access to 
+the information was a tremendous help in completing the study. 
+ 
+Conclusion 
+ 
+¶15. While we are pleased with the results of the validation study, 
+we managed to identify two problem groups of applicants who tend to 
+breach the terms of their visas: 1) under-14-year-olds, and 2) 
+applicants from the State of Goias. Post is also advising 
+pre-screeners to improve data entry and verify the accuracy of the 
+information visa candidates provide on their application forms. 
+ 
+¶16. Additionally, the Post's validation study proved to be a 
+successful exercise in cooperation between the Consular Section and 
+DHS. Entry/exit data obtained from Post's DHS team was invaluable to 
+the success of the study and helped us to practically eliminate the 
+number of inconclusive cases, thus making the results of the study 
+far more accurate. The exercise was a vivid reminder of how much 
+consular officers could benefit from direct access to U.S. 
+entry/exit records either through TECS and/or inclusion of such data 
+into the CCD. 
+ 
+Chicola

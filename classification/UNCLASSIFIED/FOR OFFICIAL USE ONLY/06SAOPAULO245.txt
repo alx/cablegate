@@ -1,0 +1,208 @@
+06SAOPAULO245
+BRAZIL CRAWLS TOWARD DIGITAL TV
+Mon Mar 06 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Sao Paulo
+VZCZCXRO9796
+RR RUEHRG
+DE RUEHSO #0245/01 0651939
+ZNR UUUUU ZZH
+R 061939Z MAR 06
+FM AMCONSUL SAO PAULO
+TO RUEHC/SECSTATE WASHDC 4612
+INFO RUEHBR/AMEMBASSY BRASILIA 5770
+RHEHNSC/NSC WASHDC
+RUCPDOC/USDOC WASHDC 2293
+RUEHMN/AMEMBASSY MONTEVIDEO 1833
+RUEHKO/AMEMBASSY TOKYO 0390
+RUEHBS/USEU BRUSSELS
+RUEHBU/AMEMBASSY BUENOS AIRES 2066
+RUEHAC/AMEMBASSY ASUNCION 2417
+RUEHSG/AMEMBASSY SANTIAGO 1580
+RUEHLP/AMEMBASSY LA PAZ 2612
+RUEHRG/AMCONSUL RECIFE 2735
+RUEHRI/AMCONSUL RIO DE JANEIRO 6863UNCLAS SECTION 01 OF 03 SAO PAULO 000245 
+ 
+SIPDIS 
+ 
+DEPT FOR WHA/BSC AND EB/CIP 
+STATE PASS TO USTR FOR MSULLIVAN 
+NSC FOR SUE CRONIN 
+USDOC FOR 4332/ITA/MAC/OLAC/DRISCOLL,BASTIAN 
+USDOC FOR 3134/USFCS/OIO/MKESHISHIAN 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O.  12958: N/A 
+TAGS: ECPS ECON PGOV ETRD BEXP BR
+SUBJECT: BRAZIL CRAWLS TOWARD DIGITAL TV 
+ 
+ 
+¶1.  (SBU) SUMMARY.  With the nominal March deadline set for the 
+adoption of a digital television (DTV) standard, Brazilian officials 
+remain divided on the issue, and the recent entry of the Brazilian 
+Congress into the process will likely delay a final decision. 
+Brazil is currently choosing a digital TV standard from among three 
+competing consortia: ATSC (embraced by the United States, Canada, 
+Mexico, and South Korea), DVB (the European standard), and ISDB-T 
+(Japan's choice).  While the Japanese standard is favored by 
+Minister of Communications Helio Costa, it has become clear that the 
+President's office will be making the ultimate call on this.  U.S. 
+Mission is working with the ATSC Forum and ATSC-related companies to 
+showcase the merits of that standard.  END SUMMARY. 
+ 
+--------------------------------------- 
+DIGITAL TV DECISION STILL UP IN THE AIR 
+--------------------------------------- 
+ 
+¶2.  (SBU)  Brazil's interagency community is in the midst of a 
+complicated process to select the standard for the country's digital 
+TV system.  While Minister of Communications Helio Costa, a 
+proponent of the Japanese standard, has led much of the Government's 
+preparatory efforts, responsibility for presenting the options to 
+President Lula has now shifted to the president's Chief of Staff: 
+Dilma Rousseff.  Based upon Mission's contacts with Rousseff, she 
+appears determined at all costs to avoid a repeat of the debacle 
+surrounding Brazil's choice of its PAL-M analog standard - which 
+ended up being embraced by only Brazil and Laos (the latter hardly a 
+major world player).  According to Rousseff and Minister of Trade 
+Luiz Fernando Furlan, Brazil's decision should be based on the needs 
+of Brazilian manufacturers and the country's potential export 
+markets.  Minister of Culture Gilberto Gil has chimed in as well, 
+noting that all three standards equally meet Brazil's technological 
+requirements and that the choice will be based on business and 
+regulatory concerns. 
+ 
+¶3.  (SBU)  While Minister Costa announced recently that Lula has all 
+the information he needs to make a decision, this statement appears 
+to be a bit premature.  The various ministries involved have until 
+March 10 to submit their views to the President's office (the 
+Planalto).  Thereafter, it is unclear when a decision would be made. 
+ One industry contact Emboff spoke to thought that given the desire 
+on the part of some GOB staffers to convene another round of 
+meetings between high-level officials and consortia reps, no 
+decision would be forthcoming until May or June. 
+ 
+¶4. (SBU)  Meanwhile, Federal Deputy Walter Pinheiro (PT-Bahia) has 
+presented a bill to Congress that would suspend the March 10 
+deadline and allow more time to discuss the issue within the 
+Brazilian government.  While Pinheiro's bill stands little chance of 
+passage, it has served notice to the executive branch that Congress 
+would like input into the ultimate decision, thus throwing another 
+wild card into the deck.  A recent editorial in the influential 
+newspaper "O Estado de Sao Paulo" notes that Congress' decision to 
+enter the debate comes late in the process and will only deepen the 
+differences within the GOB, adding pointedly, "this is a billion 
+dollar business.  The changeover from analog to digital will cost 
+about USD 45 billion dollars over four years...  Depending on the 
+standard selected, Brazil stands to export digital TV sets, and not 
+just to South American countries." 
+ 
+--------------------------------------------- ------- 
+JAPANESE DIGITAL TV STANDARD COSTS THE CONSUMER MORE 
+--------------------------------------------- ------- 
+ 
+¶5.  (U)  According to a report by the GoB's Technological Research 
+and Development Foundation Center (CPqD), the Japanese digital 
+television standard would be the most expensive for the consumer 
+among the systems being considered for adoption in Brazil.  Reports 
+say the leaking of the report's conclusions displeased Minister 
+Costa, who labeled the data as "inconsistent".  The report states 
+that, of the three consortia, the European standard would have the 
+lowest broadcasting cost to Brazil.  The study also recommends that 
+selection not be based on technological considerations alone. 
+ 
+ 
+SAO PAULO 00000245  002 OF 003 
+ 
+ 
+-------------------------------- 
+GOB SEEKING FINANCIAL INCENTIVES 
+-------------------------------- 
+ 
+¶6.  (SBU)  In recent days, it has become clear that the GOB is 
+placing a great deal of emphasis on the financial incentives that 
+each consortia can offer.  We know that Trade Ministry staffers have 
+approached one ATSC manufacturer seeking a commitment to invest in 
+local production of television sets and/or semi-conductors.  Other 
+key factors for the Brazilians will likely be exemptions from 
+royalty requirements, cut-rate financing and/or loan guarantees, 
+opportunities for both technology transfer and Brazilian 
+participation in the development of "middleware," and the potential 
+for duty-free access by Brazilian manufacturers of receivers to 
+developed country markets.  We were told by one industry contact 
+that the GOB thought that if it were accorded duty-free access to 
+the U.S. market, DTVs manufactured in the south of Brazil could get 
+to the U.S. market as cheaply as those made in Mexico.  Meanwhile, 
+the Europeans are already moving to sweeten their often.  Siemens 
+has announced that it will create a DTV Development Center in 
+Manaus.  Once operational, the USD 5.5 million facility would be 
+capable of exporting 2.5 million Euros annually in software and 
+set-top boxes. 
+ 
+¶7.  (SBU)  According to the ATSC Forum, there are at least eight 
+equipment manufacturers competing to provide ATSC transmission 
+equipment (compared to only two for the Japanese system).  In the 
+U.S., Harris Corporation is the leading provider in this highly 
+competitive market.  Harris played a leading role in preparing U.S. 
+broadcasters for the introduction of DTV, and, if Brazil were to 
+adopt the ATSC standard, Harris would be prepared to: 
+ 
+--  Conduct up to three, week-long, intensive ATSC Convergence 
+Seminars, 
+ 
+--  Following ATSC adoption, for any transmitter sold, train up to 
+three technicians about the transmitter, and 
+ 
+--  Open a factory in Brazil for the final assembly of transmitters 
+and exciters. 
+ 
+¶8.  (SBU)  Meanwhile, the ATSC Forum also reports that, again if 
+Brazil were to adopt the ATSC Standard, Zenith Electronics and its 
+parent company, LG Electronics, would be prepared to support the 
+transition to DTV broadcasting through: 
+ 
+--  Direct contributions to a Brazilian DTV development fund, 
+ 
+--  Transfer of receiver reference designs to Brazilian 
+manufacturers, 
+ 
+--  Transfer of ATSC modulator reference designs to Brazilian 
+manufacturers, and 
+ 
+--  Expanded manufacturing investments in Brazil. 
+ 
+The timing and amounts of these investments and contributions would 
+depend on the pace of the DTV transition in Brazil. 
+ 
+--------------- 
+MISSION EFFORTS 
+--------------- 
+ 
+¶9.  (SBU)  Over the past month, FCS and State have worked closely 
+with the ATSC Forum to highlight the advantages associated with the 
+ATSC system.  Now that the competition is reaching the end-game 
+stage, we are intensifying our 
+efforts.   Charge has co-signed a letter with the Canadian and South 
+Korean Ambassadors (the Mexican Ambassador couldn't get 
+authorization from his capital to sign) emphasizing the degree to 
+which the ATSC standard would 
+promote the GOB's goal of digital inclusion. In addition, we are 
+pushing forward on the public diplomacy front and keeping in touch 
+with ATSC manufacturers - who are conducting their own lobbying 
+ 
+SAO PAULO 00000245  003 OF 003 
+ 
+ 
+campaign.  Specifically, both Embassy and Consulate will note to our 
+interlocutors here 
+that the GOB can easily gain duty-free access to the U.S. market for 
+Brazilian-manufactured digital televisions by simply signing on to 
+the WTO Information Technology Agreement.  Overall, Mission shall 
+continue to report 
+on the DTV issue as the situation develops. 
+ 
+¶10.  (U) This cable was coordinated with Embassy Brasilia. 
+ 
+McMullen

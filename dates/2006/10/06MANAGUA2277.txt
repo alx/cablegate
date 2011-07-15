@@ -1,0 +1,337 @@
+06MANAGUA2277
+DETAILS ON THE PROCESS OF THE ELECTRONIC
+Fri Oct 13 00:00:00 +0200 2006
+CONFIDENTIAL
+Embassy Managua
+VZCZCXYZ0008
+PP RUEHWEB
+
+DE RUEHMU #2277/01 2862130
+ZNY CCCCC ZZH
+P 132130Z OCT 06
+FM AMEMBASSY MANAGUA
+TO RUEHC/SECSTATE WASHDC PRIORITY 7891
+INFO RUEHZA/WHA CENTRAL AMERICAN COLLECTIVE
+RUEAIIA/CIA WASHDC
+RHEFDIA/DIA WASHINGTON DC
+RHEHNSC/NSC WASHINGTON DCC O N F I D E N T I A L MANAGUA 002277 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 10/05/2026 
+TAGS: KDEM NU PGOV PINR
+SUBJECT: DETAILS ON THE PROCESS OF THE ELECTRONIC 
+TRANSMISSION OF VOTE RESULTS 
+ 
+¶1.  (C) SUMMARY:  POL TDYer recently met with officials from 
+the local phone company (Enitel) and the Supreme Electoral 
+Council (CSE) to seek clarification on the process whereby 
+the vote tallies will be electronically submitted to the CSE 
+on election day.  Each of Nicaragua's 158 municiaplities will 
+host a Municipal Counting Center (CCM) staffed by Enitel 
+technicians who will electronically scan the official tally 
+sheets and send the results to a central CSE processing 
+center in Managua.  Enitel is closely collaborating with the 
+CSE and will mobilize over 80% of its workforce to ensure a 
+smooth process.  In addition to allowing many of its branch 
+offices to serve as CCMs, Enitel will also field teams of 
+technicians across the country who can be called in to help 
+solve any technical problems that might arise.  Both Enitel 
+and the CSE are confident that sufficient checks and balances 
+within the system will minimize the chances of manipulation 
+of the vote during this component of the process.  END 
+SUMMARY. 
+ 
+¶2.  (C) POL TDYer met with a member of the Supreme Electoral 
+Council (CSE) and executives with the local telephone 
+company, Enitel, to better understand the process by which 
+the final election tallies from each voting table (JRV) will 
+be electronically transmitted to the CSE on election day. 
+This critical component of the electoral process has not 
+received much attention in the press, although local 
+editorialists and other pundits appear skeptical on the 
+transparency of the process.  A few contacts have warned 
+Emboffs that this process is vulnerable to disruption either 
+intentionally (i.e. via sabotage or partisan manipulation) or 
+accidentally (i.e. power outages).  To shed some light on 
+these issues POL TDYer met with Enitel's Chief Country 
+Executive David Ibarra (on 2 October), Enitel Director of 
+Operations Luis Perey (3 October), and with CSE Chief of 
+Staff Rodrigo Barreto (4 October). 
+ 
+ 
+A WORD ON GENERAL CSE PREPARATIONS 
+- - - - - - - - - - - - - - - - - - 
+ 
+¶3.  (SBU) Barreto provided an overview of the CSE's 
+preparations for transporting electoral materials and 
+personnel on election day.  He confirmed that there will be a 
+total of 11,274 voting tables (JRVs) in 4,296 voting centers 
+around the country.  Barreto reported that the number of JRVs 
+is high because the CSE has worked to ensure that no 
+Nicaraguan will have to travel more than 5 kilometers from 
+home to cast their vote.  He noted that this coverage has 
+been difficult and expensive to manage, but that the CSE has 
+been largely successful in coordinating, in conjunction with 
+the military, a wide transportation network to support the 
+process.  According to a statistical chart provided by 
+Barreto, the huge vehicle fleet includes 665 large trucks, 
+785 light trucks, 645 buses, and 112 mini-buses.  To ensure 
+that materials can be adequately delivered to hard-to-reach 
+locales, the CSE reported that it will employ 33 helicopters, 
+107 canoes, and 1,991 beasts of burden (i.e. mules). 
+(COMMENT: It is unclear how the CSE will employ 33 
+helicopters when, according to to DAO and RSO, respectively, 
+the Nicaraguan military has approximately 24 helicopters of 
+which only 40-50% are operational and the police have no 
+helicopters.  END COMMENT.) The CSE will begin packaging 
+election materials between 16 and 22 October, and distributed 
+using the various transportation means between 27 and 30 
+October.  While the results from each JRV will be 
+electronically sent to the CSE, the vehicles will also be 
+responsible for transporting the hardcopy ballots and 
+associated paperwork back to the CSE. 
+ 
+ 
+PREPARING RESULTS FOR ELECTRONIC TRANSMISSION 
+- - - - - - - - - - - - - - - - - - - - - - - 
+ 
+¶4.  (SBU) Upon the completion of the voting process, each JRV 
+will begin counting the results.  A step-by-step guide (Paso 
+a Paso) of JRV procedures published by the CSE establishes 
+clear guidelines for how the final tallies are registered and 
+transmitted to the central CSE processing center in Managua. 
+According to the guide, once all the ballots have been 
+counted by the JRV, the valid, annulled, and unused ballots 
+are packaged separately, sealed, and labeled.  These are then 
+placed in a bag marked "electoral packet," which is in turn 
+sealed.  On the outside of the bag is affixed a copy of the 
+official tally sheet (or acta).  Once the ballots have been 
+sealed, the JRV president is responsible for personally 
+delivering the official acta to the Municipal Computing 
+Center (CCM) where it will be scanned and electronically 
+transmitted to the CSE.  While Post was originally told by an 
+OAS contact that only the ballots for the presidential 
+ 
+election were to undergo this process, Barreto and Perey 
+reported that all the final tallies from each of the four 
+races (president, national-level National Assembly 
+candidates, regional Assembly candidates, and members of the 
+Central American Parliament) will be submitted this way. 
+ 
+¶5.  (SBU) Barreto explained that the JRV President will be 
+accompanied to the CCM by the other members of the JRV and 
+the fiscales.  Barreto and the Enitel officials commented 
+wryly that this is often a humorous sight as all of these 
+officials - seven or eight of them - typically insist on 
+riding in the same vehicle.  Once at the CCM, however, only 
+the JRV President will be allowed inside.  He will then turn 
+the acta over to an Enitel technician who will then, in the 
+presence of the JRV President, scan the document and transmit 
+it to the CSE.  Ibarra and Perey noted that admittance to the 
+office (which in most cases will be one of Enitel's regional 
+offices) is restricted to the JRV leader in order to ensure 
+that order is maintained. 
+ 
+¶6.  (C) POL TDYer queried both Barreto and Perey whether it 
+would be possible for the JRV president to swap out the 
+official acta for a manipulated one while temporarily out of 
+sight from the rest of the JRV.  Both officials thought this 
+unlikely and Barreto explained that there is a control in 
+place to prevent this from happening.  He noted that after 
+sending the acta over the wire, the technician will print and 
+give to the JRV President a confirmation copy of the document 
+that was sent.  The other JRV members and fiscales will be 
+able to demand to see this once the JRV president leaves the 
+CCM.  These officials will be able to check to make sure the 
+numbers and signatures match up to the original sheet. 
+ 
+ 
+MUNICIPAL COMPUTING CENTERS 
+- - - - - - - - - - - - - - 
+ 
+¶7.  (SBU) Each of the country's 158 municipalities will have 
+a CCM.  Most are located in the local Enitel office, with the 
+exception of some 60 municipalities where Enitel has no 
+presence.  In these locations, the transmission hardware 
+(i.e. computers, scanners, or faxes) will be installed in one 
+of the local voting centers.  Enitel technicians will be on 
+hand at all 158 centers and will be responsible for scanning 
+and submitting the results.  Ibarra and Perey assured POL 
+TDYer that their personnel will be equipped to deal with any 
+equipment problems that may arise.  In addition, those CCMs 
+located in Enitel offices will have independent sources of 
+electricity (i.e. generators) that will enable them to send 
+the information in the event of a power outage.  Perey noted 
+that the phone connection at all of the CCMs has already been 
+tested three times to ensure they are functioning, and that 
+the sites will be retested a couple days before the election. 
+ 
+¶8.  (SBU) Most of the actas will be scanned and then sent via 
+encrypted channels to the CSE where they will be un-encoded 
+and processed.  Perey noted, however, that a few of the CCMs 
+will use a fax instead because logistical challenges 
+associated with operating the more complicated scanning 
+hardware in some areas.  Perey enthusiastically claimed that 
+use of the scanners in the majority of the locations will 
+improve the overall electoral process.  He noted that in 
+previous elections the primary means of transmission was via 
+fax, which can occasionally be problematic because some 
+documents inevitably arrive with smudges or formatting 
+irregularities.  A scanned document on the other hand, 
+provides a clean and clear image - which will prove useful by 
+those scrutinizing the process (i.e. checking signatures and 
+reading handwritten numbers). 
+ 
+ 
+THE ACTA 
+- - - - - 
+ 
+¶9.  (U) Barreto gave POL TDYer a copy of the actas that will 
+be scanned and transmitted on election day.  It is a 
+single-sided sheet on paper slightly larger than a legal pad. 
+ There are four separate tables for each of the four races on 
+the page.  Each of these charts allot spaces to record the 
+number of votes received by the political parties.  There is 
+also a specified area to register how many votes from each 
+party were annulled or challenged.  At the bottom of the page 
+are spaces for the three JRV members and five fiscales (one 
+from each party) to print their names, identification 
+(cedula) numbers, and signatures.  By signing the document 
+these members signify their agreement with the results. 
+ 
+ 
+ENITEL MOBILIZING PERSONNEL, MATERIALS TO SUPPORT ELECTION 
+ 
+- - - - - - - - - - - - - - - - - - 
+ 
+¶10.  (SBU) Perey noted that Enitel is mobilizing 600 
+employees around the country to help with the elections - 
+some 80% of the total Enitel workforce.  In addition, the 
+company will have mobile technical teams around the country 
+that will be able to handle technical or mechanical problems 
+beyond the means of the CCM Enitel technicians.  These teams 
+can provide backup generators or shore up missing telephone 
+wires.  In the event that telephone wires are missing (i.e. 
+stolen) or damaged, these teams will be able to install new 
+wire, or create a temporary patch that would enable the 
+connection to be made.  Ibarra said these teams should be 
+able to respond to calls in a matter of hours. 
+ 
+¶11.  (SBU) Some contacts have speculated to Emboffs that the 
+election could be disrupted by the theft of telephone wires, 
+but it appears that Enitel and the CSE are aware of this 
+problem and taking steps to head it off.  Ibarra acknowledged 
+that cable theft has spiked in the last few months because 
+international copper prices have increased by over 300% -- 
+thieves are cutting down telephone wires and removing the 
+copper elements for sale on the black market.  He expressed 
+frustration that the judicial sector was not imposing 
+sufficiently stiff penalties for the crime and noted that in 
+August there were 500 cases of wire theft; while 300 suspects 
+were apprehended, they are all back on the street.  Enitel 
+has asked the government to talk judges into holding cable 
+thieves at least until after the election.  Barreto reported 
+that police and/or military officials will be providing 
+security in the areas around the CCMs, which could help to 
+decrease the likelihood of these thefts impacting the CCM. 
+ 
+ 
+ELECTRICITY ISSUES STILL A CHALLENGE 
+- - - - - - - - - - - - - - - - - - 
+ 
+¶12.  (C) While many of the CCMs will be able to function in 
+the event of a power outage thanks to backup generators, 
+Barreto said he is still concerned that a lack of electricity 
+could still complicate matters.  Those CCMs not located in 
+Enitel offices may not have generators to send in the 
+results, not to mention guaranteed lighting.  Barreto 
+strongly criticized President Enrique Bolanos whom he said 
+had told him in a recent meeting that he (the President) 
+could not guarantee continuous power on election day. 
+Barreto said that the CSE is doing its utmost to offset this 
+potential problem, including providing candles or lanterns to 
+some centers. 
+ 
+ 
+MANAGUA STADIUM PLAN DRAWING COMPLAINTS FROM ALN 
+- - - - - - - - - - - - - - - - - 
+ 
+¶13.  (C) The CSE has announced that the National stadium 
+located in Managua will be used as a CCM for JRVs in the city 
+that do not have capabilities to send the data on their own. 
+Perey noted that thirty computers will be set up in the 
+stadium and said the process will look much the same as it 
+does elsewhere, with JRV presidents arriving to send the 
+final actas.  The ALN, however, has expressed concern that 
+because there are over 4,000 JRVs in Managua, use of the 
+stadium as a focal point for so many voting tables could 
+result in disorder, which, in turn, could lead to errors or 
+other problems. 
+ 
+ 
+CSE TO STICK TO THE LETTER OF THE LAW 
+- - - - - - - - - - - - - - - - 
+ 
+¶14.  (C) Barreto expressed frustration that the CSE is put in 
+a difficult position of having to follow an electoral code 
+that is admittedly deficient and partisan.  He is tired, 
+however, of the CSE being made out by the press as 
+incompetent, or worse, corrupt.  Barreto argued that the CSE 
+is often criticized for backing the stronger political 
+parties (i.e. the PLC or FSLN), but that in reality the CSE 
+has no choice but to enforce the laws and rules, many of 
+which were established by those very parties.  For instance, 
+he characterized as unfounded recent MRS claims that the CSE 
+was acting illegally by not distributing the third member of 
+the JRV positions equally among the remaining political 
+parties (the top two slots go to the parties that led the 
+previous elections).  He asserted that the law does not state 
+that the distribution has to be even (COMMENT: It does not 
+stipulate that it should be uneven, either. END COMMENT.). 
+ 
+¶15.  (C) Barreto made no attempt to justify the existing 
+rules and admitted that some are unfair.  That said, he 
+ 
+criticized the MRS for being too "weak" and said that parties 
+that are unable to field observers or fiscales to all of the 
+voting sites have no right to complain about potential fraud. 
+ He pointed out that the MRS was only able to nominate 
+candidates for about 50% of the slots open to political 
+parties (i.e. fiscales, JRV members, and suplentes). 
+Interestingly, he added that this was the first election in 
+which the PLC has been unable to field members in all of the 
+positions available to them.  Barreto characterized the FSLN 
+as the most prepared and organized of the political parties. 
+ 
+ 
+FSLN TO RELY ON DIRTY BUT LEGAL TACTICS 
+- - - - - - - - - - - - - - - - - - - - 
+ 
+¶16.  (C) Barreto was confident that the CSE has constructed a 
+very tight procedure that makes fraud difficult.  That said, 
+he noted that the better prepared political parties - he 
+referred specifically to the FSLN - would be able to take 
+advantage of deficiencies or loopholes within the law to 
+manipulate a favorable outcome.  He said the Sandinistas know 
+the legalities of the code inside and out because they have 
+used their influence in the electoral council to create the 
+laws.  He claimed the Sandinistas already have teams of 
+lawyers ready to jump into action immediately after the vote 
+to influence the challenge-resolution process, as evidenced 
+by the FSLN's ability to win Granada in the 2004 municipal 
+elections.  Barreto noted that the Sandinistas have succeeded 
+with this strategy in the past and he expects the FSLN will 
+employ these tactics in November.  Thus, his concern was not 
+that the FSLN would 'steal' the election, but that it could 
+manipulate the results in its favor using entirely legal 
+means. 
+ 
+ 
+¶17.  (C) COMMENT:  While these meetings did not yield 
+definitive proof that the electronic transmission process 
+will be free of manipulation, it appears that there are 
+several checks and balances in place. END COMMENT. 
+TRIVELLI

@@ -1,0 +1,71 @@
+08STATE105132
+
+Wed Oct 01 00:00:00 +0200 2008
+SECRET
+Secretary of State
+VZCZCXYZ0010
+PP RUEHWEB
+
+DE RUEHC #5132 2752207
+ZNY SSSSS ZZH
+P 012202Z OCT 08
+FM SECSTATE WASHDC
+TO RUEHBY/AMEMBASSY CANBERRA PRIORITY 0000
+RUEHLO/AMEMBASSY LONDON PRIORITY 0000
+RUEHFR/AMEMBASSY PARIS PRIORITY 0000
+INFO MISSILE TECHNOLOGY CONTROL REGIME COLLECTIVE PRIORITYS E C R E T STATE 105132
+
+SIPDIS PARIS FOR EST: HELEN SMITH LONDON FOR CHRIS PALMER CANBERRA FOR CAROL HANLON
+
+E.O. 12958: DECL: 10/01/2033 TAGS: MTCRE ETTC KSCA MNUC PARM TSPA FR UK AS CH
+
+Classified By: ISN/MTR Director Pam Durham. Reasons: 1.4 (B), (D), (H).
+
+¶1. (U) This is an action request. Please see paragraph 2.
+
+¶2. (S) ACTION REQUEST: Department requests Embassy Paris provide the interagency cleared paper "Chinas Record on Controlling Missile-Related Exports" in paragraph 3 below to the French Missile Technology Control Regime (MTCR) Point of Contact (POC) for distribution to all Partners. Department also requests Embassy London provide paper to the MTCR Information Exchange (IE) Co-Chair (John Andrews), and Embassy Canberra provide paper to the Australian MTCR Plenary Chair for 2008/2009 and/or appropriate staff. Info addressees also may provide to host government officials as appropriate. In delivering paper, posts should indicate that the U.S. is sharing this paper as part of our preparation for the Information Exchange that will be held in conjunction with the MTCR Plenary in Canberra (November 3-7). NOTE: Additional IE papers will be provided via septels. END NOTE.
+
+¶3. (S) BEGIN TEXT OF PAPER:
+
+(SECRET REL MTCR)
+
+Chinas Record on Controlling Missile-Related Exports
+
+China in recent years has taken some positive steps to curb ballistic missile-related proliferation, and we have seen some limited improvements continue over the past year, particularly in regard to sales by some state-owned enterprises to Iran. Despite indicators that Chinese authorities are gradually adopting more responsible export control policies, Chinese firms over the past year have sold ballistic missile-related items - mostly metals and other raw materials - to Iran, Pakistan, and to a lesser extent, North Korea, and marketed sub-MTCR-class ballistic missile systems and technology to a growing range of customers. Such activities are indicative of Chinas uneven track record in enforcing its missile-related export controls.
+
+Increased Export Control Efforts by China
+
+Over the past year, Beijing appears to have increased its efforts to have Chinas defense trade firms move away from WMD- and ballistic missile-related sales to Tehran. This decision is most likely partially attributable to the international scrutiny on Irans nuclear program, including the numerous UN Security Council Resolutions which also limit missile-related trade, and Chinas calculation that such sales had the potential to tarnish Chinas image in the run-up to the August 2008 Olympics in Beijing. Whatever the motivations of Chinese authorities, we assess that several of Chinas state-owned enterprises - including entities such as China North Industries Corporation (NORINCO), China Precision Machinery Import/Export Corporation (CPMIEC), China Xinshidai Company, and China Great Wall Industry Corporation (CGWIC), have curtailed ballistic missile-related sales to Iran. However, it is unclear how long Chinas commitment to curbing some sales to Iran will last. Debate within China about whether Chinese firms should resume their earlier level of trade in sensitive military and dual-use technologies with Iran most likely is ongoing. It remains to be seen whether Chinese authorities resolve to curtail such transfers will weaken following the conclusion of the Olympics.
+
+Another positive indicator is that Beijing over the past year has engaged in a bilateral nonproliferation dialogue with the U.S. and Chinese enforcement authorities have worked with U.S. officials to begin to close gaps in Chinas export control system. China also has accepted U.S. offers of export-control-related training. For example, Chinese export control officials participated in a January 2008 U.S.-China industry-government relations forum designed to encourage industry to comply with national export control regulations. Over 40 Chinese officials representing six ministries attended the workshop. Additionally, in a new development designed to complement our bilateral nonproliferation dialogue, the United States proposed and China agreed in late 2007 to allow U.S. officials to engage in nonproliferation discussions directly with some state-owned enterprises, such as NORINCO and CGWIC.
+
+Enforcement Efforts Incomplete
+
+Chinas efforts to enforce its export controls, while improving in some areas, remain incomplete. Several entities, including both state-owned and private firms, have continued to sell items to Irans missile programs, in some cases even after being the subject of investigations by Chinese authorities. Such cases suggest that Beijing has not imposed adequate measures to deter future sales that pose missile proliferation concerns.
+
+One such example involves the Chinese firm LIMMT. The U.S. has discussed this firms missile-related exports to Iran extensively with Chinese authorities over the last several years. In response to these approaches, China has stopped several proliferation-related transfers by LIMMT to Iran. However, in 2007 and 2008, LIMMT, operating under the name Dalian Sunny Industry, supplied a range of raw materials to Irans solid-propellant missile organization Shahid Bakeri Industries Group (SBIG). China has indicated its enforcement agencies are working to find a legal basis to curtail this firms cooperation with Irans missile program and last year Chinas Ministry of Commerce reportedly decided to take punitive action against the company. However, the company appealed the measures and its proliferant activities have continued. Our information indicates that LIMMTs main representative is a former government official who has been using his government connections to conduct business and possibly protect himsel f from Beijings enforcement actions. More broadly, Chinas ability to successfully resolve this case may be further complicated by Chinas national-level officials tendency to relinquish some control of investigations to the provincial level. Leads on impending proliferation-related transactions reportedly are passed to relevant regional offices for investigation. Although these offices have the freedom to act independently to stop a shipment once being referred a case, a lack of national-level oversight probably allows local level officials to continue to shield firms in their economic zones.
+
+In another example, the U.S. has obtained information in recent years that Chinese firms have made several shipments of sodium perchlorate to Irans Parchin Chemical Industries. Sodium perchlorate can be used to manufacture the MTCR-controlled oxidizer ammonium perchlorate (AP), which Iran uses in its solid propellant ballistic missiles. In one case involving sodium perchlorate, a Chinese firm likely used what we assess to be a cover company to ship sodium perchlorate to Iran. Additionally, we assess other Chinese firms over the past year have supplied Iranian ballistic missile organizations with graphite, metals, and the solid-propellant fuel aluminum powder. In many cases, they have used front company names.
+
+China has continued to act as a key supplier of technical assistance, raw materials, and other items to missile programs in Pakistan, although Islamabads reliance on Chinese ballistic missile-related assistance has decreased as its ballistic missile programs have matured. Over the past year China has supplied truck chassis to Pakistan that we assess are for conversion into missile transporter-erector-launchers and ground support equipment for Pakistans ballistic missile force. Additionally, Pakistans Space and Upper Atmosphere Research Commission (SUPARCO), which historically has been responsible for the Abdali solid-propellant SRBM program as well as Pakistans space program, procured MTCR-controlled unsymmetrical dimethylhydrazine (UDMH) from China Xinshidai Company in late 2007. This material can be used as a fuel in liquid-propellant ballistic missiles and space launch vehicles.
+
+While not reaching the levels of support provided to Iran and Pakistan, Chinese firms continue to provide North Korea with sporadic shipments of military and dual-use items with potential ballistic missile applications. These are typically sent by ground, often through Dandong. For example, over the past year, a Chinese firm sold Pyongyang types of steel that can be used in the production of SCUD-type ballistic missiles, including steel that we assess is controlled under the MTCR.
+
+China also continues to market the new P12 SRBM to a growing range of customers in the Middle East, Africa, and South Asia. The P12 SRBM is advertised as a 150-km-range, solid-propellant system carrying a 450 kg warhead, using a dual launcher, with an accuracy of 30-50 meters. Although the system falls below MTCR Category I range and payload thresholds, we remain concerned that a P12 sale might also include access to related production technology that could help advance the buyers domestic ballistic missile production capabilities.
+
+Shortfalls Limit Progress
+
+We have identified several practices and conditions that hinder the effectiveness of Chinas export control enforcement. These include a reluctance to invoke catch-all controls to prevent proliferation-related sales, and lax expectations regarding a firms responsibility to know the bona fides of the end-users for their products.
+
+In many cases involving the transfer of proliferation sensitive cargo to programs of concern, Beijing has shown a reluctance to prohibit the export of an item unless it is specifically listed on Chinas missile-related export control list or the MTCR Annex. Beijing has also demonstrated an unwillingness to hold Chinese firms accountable for fully evaluating end users of a Chinese-origin item. Ensuring that firms are performing due diligence with respect to their customers is particularly critical in deals with Iran, where front companies are often used to mask the ultimate end-users.
+
+We have also raised with the Chinese government our concerns that Chinese seaport facilities and international airports are transit and transshipment points for governments and entities that wish to ship sensitive materials to programs of proliferation concern.
+
+Conclusion
+
+China has made export control progress in recent years. In addition to taking some steps to limit sales of military and dual-use items by Chinese entities that pose proliferation risks, China has engaged in a productive dialogue with the U.S. on export control and nonproliferation issues, including allowing the U.S. to participate in outreach activities to select Chinese companies. However, these positive steps have been offset by some Chinese firms continued support to missile programs in Iran, North Korea, and Pakistan and by Chinas unwillingness to actively utilize its catch-all controls authorities. Chinas lack of consistency in its regulation of exports of missile-related goods and technology will continue to be an impediment to the overall effectiveness of its export controls.
+
+END TEXT OF PAPER.
+
+¶4. (U) Please slug any reporting on this or other MTCR issues for ISN/MTR. A word version of this document will be posted at .
+RICE

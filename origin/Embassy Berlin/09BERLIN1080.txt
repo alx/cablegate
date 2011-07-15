@@ -1,0 +1,43 @@
+09BERLIN1080
+
+Thu Sep 03 00:00:00 +0200 2009
+CONFIDENTIAL
+Embassy Berlin
+VZCZCXRO7874
+PP RUEHDH RUEHHM RUEHPB RUEHSL RUEHTM RUEHTRO
+DE RUEHRL #1080/01 2461334
+ZNY CCCCC ZZH
+P 031334Z SEP 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 5084
+INFO RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+RUEHTA/AMEMBASSY ASTANA 0171
+RUEHFR/AMEMBASSY PARIS 0707
+RUEHNO/USMISSION USNATO 1237
+RUEKJCS/HQ USEUCOM LO WASHINGTON DC
+RUEKJCS/SECDEF WASHINGTON DC
+RUEHRL/USDAO BERLIN GE
+RUEHBS/USEU BRUSSELS
+RUCUSTR/USSTRATCOM OFFUTT AFB NEC O N F I D E N T I A L SECTION 01 OF 02 BERLIN 001080
+SIPDIS STATE FOR EUR/CE PETER SCHROEDER STATE FOR ISN/MDSP DICK BUENNEKE
+E.O. 12958: DECL: 09/03/2033 TAGS: ETTC PGOV PINR MCAP PREL TSPA IT RS CH GM
+REF: A. BERLIN 1049 B. BERLIN 765 C. BERLIN 601 D. BERLIN 561 E. BERLIN 181 F. 08 BERLIN 1575
+Classified By: Global Affairs Unit Chief Don L. Brown for reasons 1.4 (b) and (d).
+
+¶1. (C) SUMMARY: The German Space Agency (DLR) is taking steps to repel French interference in Germanys electro-optical (EO) imagery satellite development by forming strategic partnerships with satellite makers OHB-System AG and the German portion of Astrium in Friedrichshafen. The DLR is concerned that French influence in Astrium is steering Astrium-Friedrichshafen in ways favoring the French commercial space industry and not in DLRs best interest. As an example, Astrium recently transferred management of its subsidiary responsible for commercial satellite imagery marketing/distribution, InfoTerra Ltd, away from Astrium-Friedrichshafen to Astrium- SPOT Image S.A. in Toulouse, France. To counter this trend, DLR plans to make Astriums industry rival, OHB-System, the prime on some future contracts, thereby minimizing French influence (and delighting OHB-System shareholders). According to an Astrium employee, DLRs CEO recently sent a letter to the President of EADS Astrium Transportation, informing him of DLRs intentions to not/not include French-Astrium on a future commercial satellite bid in Kazakhstan. END SUMMARY
+
+¶2. (C) Astrium Friedrichshafen official and DLR consultant, Tom Walati (please strictly protect) described Germanys plans for a High Resolution Optical Satellite (HiROS) and efforts to find US partners. (COMMENT: While Walatis information is clearly intended to influence as well as inform, we have seen no instances to date that his information was not credible. END COMMENT) Walati described French efforts to halt DLRs HiROS proposal as "fierce and persistent due to its potential competition with French industry." In addition to using OHB-System as a prime on future contracts, Walati said DLR and Astrium Friedrichshafen see a strategic partnership with US interests as the key element to shield German satellite programs from French influence.
+
+DLR MESSAGE TO ASTRIUM: STAY OUT OF GERMAN SATELLITE AFFAIRS
+--------------------------------------------- ---------------
+
+¶3. (C) Walati said that on August 11, DLR CEO Dr. Johann-Dietrich Woerner sent a letter to Evert Dudok, President of EADS Astrium Space Transportation, informing Astrium of DLRs intention to bid on a project in Kazakhstan offering a HiROS system, a hyper-spectral imagery satellite system, and training. According to Walati, DLR made it clear in the letter that the German firm OHB System would be listed as the prime contractor, with Astrium Friedrichshafen listed as a subcontractor. In addition, the letter reportedly conveyed DLRs assertion that there would be absolutely no French involvement in this project proposal. (COMMENT: We assess that the DLR letter has more to do with Germany sending a message to France to quit meddling its their satellite business than it does with the Germans competing with France on a satellite package bid to Kazakhstan. END COMMENT.)
+
+FRANCE ALREADY MOVING GERMAN CHESS PIECES WITHIN ASTRIUM
+--------------------------------------------- -----------
+
+¶4. (C) According to Walati, InfoTerra GmbH, a German daughter company of Astrium Satellites which is responsible for distributing Astrium geospatial products and services, is a recent victim of French-induced "restructuring." He said Astrium recently transferred management of InfoTerra away from Astrium-Friedrichshafen to Astrium- SPOT Image S.A. in Toulouse, France. As part of this reorganization, Astrium demoted InfoTerra Managing Director, Joerg Herrmann and replaced him with Mr. Vark Helfritz. Walati said the reason Astrium gave for the reorganization was dissatisfaction with
+InfoTerras progress.
+
+¶5. (C) When InfoTerra was spun-off from Astrium Services to be the official distributor of Astrium geospatial data, Astrium reportedly gave Herrmann about three years to generate enough revenue selling data to fund research and development for future satellite systems. He indicated Astrium management has been seeking ways to wrestle InfoTerra away from Astrium-Friedrichshafen and that the "dissatisfaction" with InfoTerras progress is simply an excuse for something they had already been planning. (COMMENT: Herrmann told EconOff earlier this year his company turned a modest profit in 2008 and expected this trend to continue in 2009. END COMMENT) Murphy

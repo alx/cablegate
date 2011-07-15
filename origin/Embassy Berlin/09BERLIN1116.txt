@@ -1,0 +1,88 @@
+09BERLIN1116
+
+Thu Sep 10 00:00:00 +0200 2009
+SECRET
+Embassy Berlin
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHRL #1116/01 2531546
+ZNY SSSSS ZZH
+P 101546Z SEP 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 5153
+INFO RUCNFRG/FRG COLLECTIVE
+RUEHAD/AMEMBASSY ABU DHABI 0182
+RUEHLO/AMEMBASSY LONDON 0205
+RUEHFR/AMEMBASSY PARIS 0726
+RUEHKO/AMEMBASSY TOKYO 1625
+RUEHNO/USMISSION USNATO 1257
+RUEKJCS/HQ USEUCOM LO WASHINGTON DC
+RUEKJCS/SECDEF WASHINGTON DC
+RUEHRL/USDAO BERLIN GE
+RUEHBS/USEU BRUSSELS
+RUCUSTR/USSTRATCOM OFFUTT AFB NES E C R E T BERLIN 001116
+
+SIPDIS STATE FOR EUR/CE PETER SCHROEDER STATE FOR ISN/MDSP DICK BUENNEKE
+
+E.O. 12958: DECL: 09/10/2034 TAGS: ETTC PGOV PINR MCAP PREL TSPAM JP FR SP UK
+REF: A. BERLIN 1080 B. BERLIN 1049 C. BERLIN 765 D. BERLIN 601 E. BERLIN 561 F. BERLIN 181 G. 08 BERLIN 1575
+
+Classified By: Global Affairs Unit Chief Don L. Brown for reasons 1.4 (b) and (d).
+
+¶1. (S//NF) SUMMARY: The German Intelligence Service (BND) expressed confidence that Germanys proposal for a High Resolution Optical System (HiROS) reconnaissance satellite program "will be realized regardless of the outcome of the German general elections this month" and is advocating for a US partnership on HiROS. The BND is adamant that HiROS include infrared imaging capabilities and that they have priority tasking on at least three HiROS satellites. In a related development, the German Space Agency (DLR) is planning on signing a Memorandum Of Understanding (MOU) with Lockheed Martin for cooperation on HiROS on September 30 in Denver, CO.
+¶2. (S//NF) On September 2, EconOff was provided with the notes of a meeting between Astrium Vice President for Earth Observation, Navigation on Science, Dr. Reinhold Lutz, and BND Vice President for Military Affairs, Major General Armin Hasenpusch, in which they discussed the future of the HiROS proposal. These notes contained Lutzs summary of the meeting and were sent as an email to Astrium-Satellites CEO Evert Dudok and Astrium-Services CEO Eric Beranger. (COMMENT: Astrium-Satellites Director for External Business Opportunities and DLR consultant, Tom Walati, was ccd on the email and forwarded it to EconOff (strictly protect). Walati is very motivated to promote German-U.S. cooperation on HiROS and was likely not given permission by Astrium to forward this email to a USG employee. END COMMENT) END SUMMARY
+
+BND/ASTRIUM HIROS MEETING NOTES
+-------------------------------
+
+¶3. (S//NF) Begin text of informal Embassy translation of German-language meeting notes taken by Astrium Vice President for Earth Observation, Navigation and Science, Dr. Reinhold Lutz, with the subject "HiROS for the BND":
+The visit of BND General Hasenpusch, his IMINT-liaison Officer, COL J.K. Trenker, and addition team members to Astrium produced the following results:
+
+1) The BND is the official consumer for HiROS - this is politically uncontested.
+
+2) The BND (Trenker) has concluded a complete market analysis (of HiROS) with cost/use accounting and submitted the results to the appropriate Germany agency for review.
+
+3) The BND asked us not to act further politically (on HiROS). The decision can only be made by the next German government. (COMMENT: In reference to the post-September 27 German general elections. END COMMENT)
+
+4) The BND is certain that HiROS will be realized - independent of the election outcome.
+
+5) HiROS (with three satellites) by design an open system. Additional capacity (beyond BNDs needs) shall be commercially marketed. (COMMENT: "open system" in this context implies that the HiROS system architecture, as a joint government/commercial system, will be open to industry, research institutions and academia. END COMMENT)
+
+6) Medium-wavelength infrared (MIR) and thermal-infrared (TIR) channels are essential (possibly not on every satellite). (COMMENT: the IR channels in this case refer to the 3-5 micron thermal spectrum useful for detecting various
+missile burns. END COMMENT)
+
+7) In addition to MIR and TIR, a particular unique feature of real-time three dimensional (3D) image processing is being considered with a combined system ability for five look angles per over flight. The 3D real-time software would be developed by Professor Hirzinger from the German Space Agency (DLR).
+
+8) The BND requires HiROS tasking priority (hidden) for their own three satellites.
+
+9) Additions to the HiROS constellation (e.g. additional satellites) through international partnership, for example with the USA, would be viewed positively so long as the condition in point (8) is preserved.
+
+10) A partnership with an US operator would fit well within the German political landscape (this was stressed multiple times).
+
+11) The BND is aware of the situation that South Korea has already paid the development costs that are being used for their goals. (COMMENT: The South Korean "goals" in this case refers to a partnership between DLR and the Korean Aerospace Research Institution (KARI) to develop the optical sensor capability for KOMPSAT-3 and earlier systems. The KOMPSAT-3 sensor is the base design for the sensor that would be used on HiROS. END COMMENT)
+
+12) The BND does not share the German Ministry of Defenses (BMVg) position that the German decision to support MUSIS (and with it the concentration of BMVg competency with Synthetic Aperture Radar (SAR)) is not viewed as competition but rather as a desired complement. (COMMENT: The Multinational Space-based Imaging System (MUSIS) is a proposed EU consortium composed of France, Germany, Italy, Greece, Spain, Poland, and the Netherlands that would allow its members to transparently task/share space-based remote sensing assets/data to meet intelligence requirements. Under the proposal, France would be the primary contributor of optical data and Germany the primary provider of synthetic aperture radar (SAR) data. END COMMENT)
+
+13) The Astrium subsidiary InfoTerra Ltd will market HiROSs commercial capacity.
+(Dr. Lutz also noted the following)
+
+In conclusion, this confident customer (the BND) has done its homework. I see the realization of HiROS as very probable.
+It is important that a well coordinated action in the direction of the USA that fits well into the above be undertaken. The bigger the constellation becomes, all the more attractive the commercial potential is.
+We should also discuss this with Japan. The Japanese firm PASCO has already spoken to Astrium about HiROS.
+End text of informal Embassy translation.
+
+DLR TO SIGN HIROS MOU WITH LOCKHEED ON SEPTEMBER 30
+--------------------------------------------- ------
+
+¶4. (S//NF) Walati said DLR is planning on sending high level representatives headed by Dr. Hubert Reile, DLR Program Director for Space, to Denver, CO on September 30 to sign a DLR/Lockheed Martin MOU on HiROS. According to Walati, Astrium-Germany and DLR, in potential partnership with OHB-System and Lockheed Martin, are offering to the UAE a HiROS system with a Ground Resolution Distance (GRD) of 50 cm. Walati said he has already received "verbal commitments" of support from the German government on this endeavor provided that OHB is involved. Walati said Lockheed is interested in building the ground segment for this system and is also interested in constructing the satellite busses.
+
+COMMENT
+-------
+
+¶5. (S//NF) The BND has come to the conclusion that having complementary optical imagery along side Germanys SAR-Lupe data is essential and is actively promoting HiROS. BND advocates a HiROS partnership with the US as a way to share costs/risk and well as provide some political cover from the French. The French see HiROS as a serious threat to their commercial space ambitions and are likely working German political channels to forge support for MUSIS, thus keeping Germany dependent on France for electro-optical imagery (EO) and preventing political support for an indigenous German EO capability. Being uncomfortable relying on France for EO, this is exactly the situation the BND wants to avoid.
+
+¶6. (S//NF) Lutz, a fairly high ranking Astrium official, has accepted that HiROS is likely going to happen and communicated this sentiment in his email to the French side of Astrium. It is unclear how this opinion will be received within French Astrium or how exactly they will respond to the BNDs statements. Both Lockheed and the BND emphasized the necessity of adding infra-red imaging capabilities to HiROS and DLR views this capability to be of particular interest to potential USG customers. If an MOU is signed with Lockheed Martin later this month as expected, this will represent a significant step towards HiROS becoming a bona fide program.
+
+¶7. (SBU) For further information, please contact Shane M. Petersen, Email: ; SIPRNET: .
+Delawie

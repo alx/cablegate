@@ -1,0 +1,77 @@
+09STATE25689
+
+Wed Mar 18 00:00:00 +0100 2009
+SECRET
+Secretary of State
+VZCZCXYZ0008
+PP RUEHWEB
+
+DE RUEHC #5689 0771338
+ZNY SSSSS ZZH
+P R 181320Z MAR 09
+FM SECSTATE WASHDC
+TO AMEMBASSY BEIJING PRIORITY 0000
+INFO MISSILE TECHNOLOGY CONTROL REGIME COLLECTIVES E C R E T STATE 025689
+
+SIPDIS
+
+E.O. 12958: DECL: 03/18/2034 TAGS: PARM MTCRE PREL ETTC CH IR
+
+REF: A. 2008 BEIJING 189 AND PREVIOUS B. 2008 STATE 14066 C. 2008 BEIJING 481 D. 2008 BEIJING 609 E. 2008 BEIJING 716 F. 2008 BEIJING 886 G. U.S.-PROVIDED NON-PAPER 06-05-08 H. 2008 BEIJING 2322 I. 2008 STATE 64254 J. 2008 BEIJING 2391 K. 2008 BEIJING 2550 L. 2008 STATE 111597 M. 2008 BEIJING 4064 N. 2008 STATE 118099 O. 2008 BEIJING 4227 P. STATE 4887 Q. BEIJING 154 R. BEIJING 207
+
+Classified By: ISN/MTR DIRECTOR PAM DURHAM FOR REASONS 1.4 (B), (D), AND (H).
+
+¶1. (U) This is an action request. Embassy Beijing, please see paragraph 6.
+
+¶2. (S) Background: Since February 2006, we have repeatedly shared with China our concerns regarding the proliferation-related trading activities of the Chinese firm Dalian Sunny Industries, also known as LIMMT (Refs). LIMMTs activity has included supplying Irans solid-propellant ballistic missile developer Shahid Bakeri Industrial Group (SBIG) with graphite cylinders and tungsten powder likely controlled by the Missile Technology Control Regime (MTCR) and Chinas missile- related items export control list. LIMMT has also supplied SBIG with tungsten copper alloy ingots that could be used to produce missile jet vanes.
+
+¶3. (S) In November 2008 we advised the PRC that Karl Lee, the commercial manager of LIMMT, was planning a late October 2008 delivery of accelerometers and gyroscopes to the Beijing office of Irans Ministry of Defense and Armed Forces Logistics (MODAFL) (Ref N). We also told Chinese officials that additional monthly shipments would be prepared for delivery to MODAFL, and that as of September 2008, arrangements were being made to ship consignments of tungsten copper, graphite, and possibly aluminum to SBIG. We further advised Beijing that LIMMT and SBIG were discussing the possible purchase of a computer numerical controlled (CNC) cold flow forming machine, which would likely be controlled by the MTCR.
+
+¶4. (S) We now have additional information to share with Chinese officials regarding this matter. Specifically, we understand that as of late December 2008, LIMMT continued to supply SBIG with tungsten copper, graphite, and aluminum, and that Karl Lee offered SBIG a model 3GFF-700 cold flow forming machine. Such a machine is capable of manufacturing re-entry vehicle shells and solid rocket motor cases, and is controlled by the MTCR, the Nuclear Suppliers Group, and the Wassenaar Arrangement. We also understand that as of late December 2008, LIMMT had provided a quantity of gyroscopes and accelerometers to Irans MODAFL representative in Beijing for onward shipment to SBIG. The MODAFL representative likely also had plans to send another shipment of gyroscopes and accelerometers to SBIG in early January 2009 by having a visiting Iranian delegation carry them in travel bags on their return to Iran.
+
+¶5. (S) Objectives: We want to share this information with Chinese officials to make clear to them that LIMMTs procurement activities on behalf of SBIG continue, and to emphasize that under the provisions of United Nations Security Council Resolutions, China should be taking steps to prevent LIMMTs ongoing proliferation to SBIG. We also want to point out that it was due to such activity that the United States imposed sanctions on LIMMT on February 2, 2009 (Ref P).
+
+¶6. (U) Action Request: Request Embassy Beijing approach appropriate host government officials to deliver talking points in paragraph 7 and report response. Talking points may also be left as a non-paper.
+
+¶7. (S) Begin talking points/non-paper:
+
+(SECRET//REL CHINA)
+
+-- On many occasions since February 2006, we have discussed with you our serious concerns regarding the proliferation-related trading activities of the Chinese firm Dalian Sunny Industries (also known as LIMMT (Dalian) Metallurgy and Minerals Co. Ltd or LIMMT (Dalian FTZ) Economic and Trade Organization).
+
+-- In November 2008 we advised you that Karl Lee, the commercial manager of LIMMT, was planning a late October 2008 delivery of accelerometers and gyroscopes to the Beijing office of Irans Ministry of Defense and Armed Forces Logistics (MODAFL).
+
+-- We also informed you that additional monthly shipments would be prepared for delivery to MODAFL, and that as of September 2008, arrangements were being made to ship consignments of tungsten copper, graphite, and possibly aluminum to Irans Shahid Bakeri Industrial Group (SBIG), Irans primary developer of solid-fueled ballistic missiles.
+
+-- We further advised you that LIMMT and SBIG were discussing the possible purchase of a computer numerical controlled (CNC) cold flow forming machine, which would likely be controlled by the Missile Technology Control Regime (MTCR).
+
+-- We now have additional information to share with you regarding this matter.
+
+-- Specifically, we understand that as of late December 2008, SBIG continued to receive consignments of tungsten copper, graphite and aluminum from Karl Lee.
+
+-- In addition, Karl Lee provided SBIG a quotation for a model 3GFF-700 cold flow forming machine.
+
+-- This machine is capable of producing ballistic missile components such as re-entry vehicle shells and solid rocket motor cases, and is controlled by the MTCR, as well as by the Nuclear Suppliers Group (NSG) and Wassenaar Arrangement.
+
+-- We also understand that as of late December 2008, LIMMT had supplied a quantity of gyroscopes and accelerometers to SBIG via Irans Ministry of Defense and Armed Forces Logistics office in Beijing.
+
+-- The MODAFL office likely had plans to send another shipment of gyroscopes and accelerometers to SBIG in early January 2009 by having a visiting Iranian delegation carry them in travel bags on their return to Iran.
+
+-- We note in this context the requirement (per OP 6 of UNSCR 1737) that States shall take the necessary measures to prevent Iran from receiving technical assistance with its nuclear weapon delivery system capabilities and the more specific requirement to prevent the transfer of sensitive, missile-related technology to Iran per OP 3 of UNSCR 1737.
+
+-- We wanted to share this information with you to emphasize that LIMMTs procurement activities on behalf of SBIG continue. It was due to such proliferation that the United States imposed sanctions on LIMMT on February 2, 2009.
+
+-- UNSCRs 1737, 1747, and 1803 require states to take the necessary measures to prevent the supply of certain MTCR- and NSG-controlled items to Iran.
+
+-- In addition, OP 4 of UNSCR 1737 requires States to prevent the transfer to Iran of any item that State determines would contribute to the development of a nuclear weapon delivery system.
+
+-- We strongly urge you to investigate these activities immediately and to take steps to curtail LIMMTs operations, especially with UNSCR-designated entities such as SBIG.
+
+-- We look forward to future cooperation on nonproliferation issues and to hearing of the actions your government takes in response to this information.
+
+End talking points/non-paper.
+
+¶8. (U) Department POC is ISN/MTR John Paul Herrmann (Phone: 202-647-1430). Please slug any reporting on this issue for ISN and EAP.
+
+¶9. (U) A word version of this document will be posted at .
+CLINTON

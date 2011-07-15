@@ -1,0 +1,222 @@
+08RIYADH1114
+CRITICAL INFRASTRUCTURE WORK PROGRESSES IN RIYADH
+Sat Jul 19 00:00:00 +0200 2008
+SECRET
+Embassy Riyadh
+VZCZCXRO1560
+PP RUEHDE RUEHDIR
+DE RUEHRH #1114/01 2010943
+ZNY SSSSS ZZH
+P 190943Z JUL 08
+FM AMEMBASSY RIYADH
+TO RUEHC/SECSTATE WASHDC PRIORITY 8818
+RHEBAAA/DEPT OF ENERGY WASHINGTON DC PRIORITY
+INFO RUEHZM/GULF COOPERATION COUNCIL COLLECTIVE PRIORITY
+RUEHHH/OPEC COLLECTIVE PRIORITY
+RUEAHLC/HOMELAND SECURITY CENTER WASHINGTON DC PRIORITY 0229
+RUEATRS/DEPT OF TREASURY WASHDC PRIORITY
+RHRMAKS/COMUSNAVCENT  PRIORITY
+RUEAWJA/DEPT OF JUSTICE WASHDC PRIORITY
+RHMFISS/HQ USCENTCOM MACDILL AFB FL PRIORITY
+RUEKDIA/DIA WASHINGTON DC PRIORITY
+RUCPDOC/DEPT OF COMMERCE WASHDC PRIORITY
+RUEAIIA/CIA WASHDC PRIORITY
+RHEHNSC/NSC WASHDC PRIORITY
+RUEKJCS/SECDEF WASHDC PRIORITYS E C R E T SECTION 01 OF 03 RIYADH 001114 
+ 
+SIPDIS 
+ 
+P FOR U/S WBURNS 
+NEA FOR DAS GGRAY 
+DEPT OF ENERGY PASS TO A/S KKOLEVAR, MWILLIAMSON, GPERSON, 
+AND JHART 
+S/CT FOR GFEIERSTEIN, SUSAN BURK, GAIL ROBERTSON, AND 
+BAVERILL 
+DS/ATA FOR KMALOY 
+TREASURY PASS TO A/S CLOWERY 
+DHS PASS TO TWARRICK AND DGRANT 
+CIA PASS TO TCOYNE 
+ 
+E.O. 12958: DECL: 07/19/2018 
+TAGS: KCIP EPET ENERG PTER ASEC SA
+SUBJECT: CRITICAL INFRASTRUCTURE WORK PROGRESSES IN RIYADH 
+ 
+REF: SECSTATE 70793 
+ 
+Classified By: DCM Michael Gfoeller for 
+reasons 1.4 (b) (c) and (d). 
+ 
+¶1.  (U)  This cable has been cleared by 
+DOE A/S Kevin Kolevar. 
+ 
+¶2.  (S)  During a July 8 visit to Riyadh, DOE A/S Kevin 
+Kolevar met with Ministry of Interior representatives 
+Joint Working Group (JWG) on Critical Infrastructure 
+Protection (CIP) Co-Chair Dr. Saud A-Semari and Dr. 
+Khalid Al-Ageel, Manager, High Commission on Industrial 
+Security.  The U.S. JWG Co-Chair Economic Counselor 
+Robert Murphy participated, as did a delegation from 
+DOE and the Embassy.  Major  outcomes of the 
+discussions included: 
+ 
+--------------------------------- 
+Abqaiq Assessment to Move Forward 
+---------------------------------- 
+ 
+¶3.  (S)  Dr. Al-Semari told us the Saudis are 
+now ready to move forward with a complete 
+Vulnerability Assessment (VA) of Saudi Aramco's 
+Abqaiq Plants.  We are scheduling a visit by DOE 
+and Sandia Lab personnel for early August to 
+conduct the VA.  This is a key win for the Joint 
+Working Group.  DOE's Office of Electricity 
+Delivery and Energy Reliability is able to finance 
+the VA, as we meanwhile work to finalize procedures 
+for future Saudi financing of bilateral CIP efforts 
+under the May 2008 Technical Cooperation Agreement 
+signed by Secretary Rice. 
+ 
+--Background to Abqaiq Plants:  Abqaiq is the 
+world's single largest petroleum processing 
+and de-sulphurization facility.  About 70% of 
+Saudi crude production passes through Abqaiq 
+for processing.  The facility is critical to 
+the world's petroleum markets. It has a through 
+-put capacity of 7 million-plus barrel per day 
+(bpd) capacity, of which 6.3 mbpd are routinely 
+utilized. 
+ 
+--The VA is an in-depth, technical review of 
+the facility's operational and security systems. 
+The VA includes a 2-week on-site data collection 
+and discussion period, followed by a month-long 
+data analysis period.  A Sandia National Labs 
+team will analyze Abqaiq data utilizing its VA 
+computer models.  The Saudi MOI would receive VA 
+results and recommendations within about one month 
+after completion of the on-site data collection. 
+JWG members regard successful completion of the VA 
+as one of our highest priorities, and a template 
+for facility-based work in the future. 
+ 
+--We are particularly concerned to identify Abqaiq 
+components which were custom-manufactured several 
+decades ago, in the 1970s, and for which Saudi 
+Aramco may have no replacements or spare parts. 
+Such single-point failures would be of grave concern. 
+Saudi Aramco personnel have not been able to provide 
+a clear picture of these vulnerabilities during past 
+short visits to Abqaiq by JWG personnel.  An in-depth 
+analysis of Abqaiq's engineering plans and drawings, 
+along with extended access to and discussion with 
+key technical personnel, are required to better 
+understand the plant's specific vulnerabilities. 
+ 
+--The VA also will help us to better advise the 
+MOI and Saudi Aramco on how to design security 
+systems to protect Abqaiq, and for contingency 
+planning to prepare for any possible attack on 
+the facility.  Such planning would allow Saudi 
+Aramco and the MOI to better mitigate long-term 
+damage, ensure maximum possible continuity of 
+operations, and respond and recover as 
+swiftly as possible. 
+ 
+--------------------------------------------- - 
+MOI Requests Threat Warning System Assistance 
+--------------------------------------------- - 
+ 
+¶4.  (C)  The MOI had expressed an interest in 
+adopting a national threat warning system, and 
+had requested a briefing on systems in use in 
+the U.S.  During the July 8 meeting, DOE 
+Infrastructure System Analyst VanderMey therefore 
+presented on U.S. threat warning systems, 
+including DHS's Homeland Security Advisory 
+System and the U.S. Coast Guard Maritime Security 
+System (MARSEC).  Our MOI interlocutors were 
+particularly impressed to learn how the USG works 
+with industry in implementing the threat warning 
+system, sharing information on an as-needed basis, 
+and even sponsoring some industry personnel for 
+security clearances so that information could be 
+better shared.  The group also discussed the 
+utility of restricting a specific threat warning 
+to a given region, city, or industrial sector. 
+ 
+¶5.  (C)  Dr. Saud-Al Semari requested the USG make 
+available one employee who is familiar with the U.S. 
+threat warning systems for a 6-12 month period to 
+assist the MOI in implementing a  similar system 
+for Saudi Arabia.  A/S Kolevar stated that he 
+believed he could work with DHS or DOE 
+to make such a person available, although 
+perhaps for a shorter, more focused period 
+of time. 
+ 
+-------------------------------------- 
+MOI Proposes Intelligence Liaison 
+Offices with Key Sectoral Ministries 
+-------------------------------------- 
+ 
+¶6.  (S)  Dr. Al Semari then steered the 
+discussion towards how the USG structured 
+its intelligence-sharing and liaison 
+functions for agencies such as DHS and 
+DOE.  A/S Kolevar explained that the Department 
+of Energy had its own intelligence division, 
+but that it largely played a liaison role with 
+the larger intelligence services.  He, Economic 
+Counselor Murphy, and Energy Analyst Burke also 
+explored the frequent practice of seconding 
+personnel between departments, offices, and 
+functions to allow for better intelligence sharing. 
+ 
+¶7.  (S)  Dr. Al-Semari stated it would be useful 
+for the MOI to establish a liaison office within 
+MOI to better communicate with key sectoral ministries 
+such as the Ministry of Petroleum (MinPet) and 
+Transportation,or alternately, seek to establish 
+liaison offices within these  ministries.  He noted 
+that while the High Commission on Industrial Security 
+(which oversees security and safety issues at 
+parastatals such as Saudi Aramco and SABIC) had 
+deepened ties with industry, the MOI still has no 
+clear mechanism for working easily with other 
+ministries.  Dr. Al Semari concurred with Econ Off 
+that having liaison personnel imbedded in 
+a ministry would establish a more effective, on-going 
+relationship, which could help ensure key counterpart 
+ministers address security issues with appropriate 
+understanding and seriousness. 
+ 
+¶8.  (SBU)  Regarding reftel A, Economic Counselor 
+Robert Murphy hand-delivered the letter from 
+U/S Burns to HRH Assistant Minister of Interior 
+for Security Affairs Prince Mohammed bin Nayif 
+on July 7.  2 
+ 
+-------- 
+Comment 
+-------- 
+ 
+¶9.  (C)  The Mission was pleased -- on two levels 
+-- to hear Dr. Al-Semari initiate the idea of 
+establishing an MOI intelligence liaison to improve 
+communication with other ministries.  First, it will 
+help the MOI function and communicate better with 
+other key ministries who require security 
+information to address their sector's challenges. 
+Additionally, this is the first time within the JWG 
+that the MOI has proposed a systemic change to 
+improve its communication with other organizations. 
+We have spent the last two years working closely with 
+the MOI, encouraging them to coordinate and communicate 
+with other parts of the government and industry on 
+security issues.  The MOI now appears to be thinking 
+deeply and independently about how to apply these 
+lessons to its own environment in a manner appropriate 
+to Saudi norms.  This is a small but we hope 
+significant harbinger of progress to come. 
+ 
+FRAKER

@@ -12,13 +12,13 @@ FM AMEMBASSY KABUL
 TO RUEHC/SECSTATE WASHDC IMMEDIATE 4178
 INFO RUCNAFG/AFGHANISTAN COLLECTIVE IMMEDIATE
 RHEHAAA/NSC WASHDC IMMEDIATE
-RUEAIIA/CIA WASHINGTON DC IMMEDIATEC O N F I D E N T I A L SECTION 01 OF 05 KABUL 004070 
+RUEAIIA/CIA WASHINGTON DC IMMEDIATEC O N F I D E N T I A L SECTION 01 OF 05 KABUL 004070
 
-SIPDIS 
+SIPDIS
 
-EO 12958 DECL: 12/19/2019 
-TAGS PGOV, PREL, AF 
-SUBJECT: THE NEW CABINET: BETTER BUT NOT BEST 
+EO 12958 DECL: 12/19/2019
+TAGS PGOV, PREL, AF
+SUBJECT: THE NEW CABINET: BETTER BUT NOT BEST
 
 Classified By: Ambassador Ricciardone reasons 1.4 (b) and (d).
 
@@ -31,16 +31,16 @@ REPLACEMENTS:
 NOT ANNOUNCED:
 --Foreign Affairs --NDS --Urban Development
 
-------------------------------- 
+-------------------------------
 Analysis: We Can Work With Most
-------------------------------- 
+-------------------------------
 
 ¶3. (C) The following list includes some background information on each of the selections, to include which political powerbroker supported the candidate, third-country influence (if any), or party affiliation.
+
 REMAINING:
 --Defense - Gen. Abdul Rahim Wardak (Pashtun). He was a mujahadeen commander during the Soviet occupation, and later spent over two decades in the Washington, D.C. area. He has political connections to Pir Sayed Ahmad Gailani. Although some say his family has profited from defense contracts, he is considered competent and cooperative with U.S. interests.
 --Interior - Mohammad Hanif Atmar (Pashtun). He earned his Master’s degree in International Relations and Post-war Development from York University in the UK. He is allegedly a British citizen, and may renounce his citizenship if pressed by the Parliament. He was a loyalist to the Soviet Union-backed government, and his leg was severely injured in an anti-government mujahadeen attack. Many Karzai-supporters do not trust him, particularly the former Northern Alliance. He maintains some political connections with former Interior Minister Jalali and Ashraf Ghani. Karzai told us in early December that “Atmar was hanging on by a thread” because many powerful former mujahadeen like Sayyaf and Ismail Khan did not trust him. The British joined us in supporting him. He is one of the intellectual stars of the cabinet.
 --Finance - Mohammad Omer Zakhiwal (Pashtun). He has Canadian citizenship, and most think he is willing to renounce his citizenship if the Afghan Parliament insists. He is associated with Hezb-e-Islami, although not the
-KABUL 00004070 002 OF 005
 Arghandewal branch. He is close to President Karzai and raised funds for him during the campaign, at times using methods that are not illegal here but not in concert with Western standards. We consider him a skilled technocrat who effectively promotes the economic development of Afghanistan; he is the closest of the “technocrats” to Karzai.
 --Communication - Engineer Amirzai Sangin (Pashtun). He earned his Bachelor’s degree in Electronics and Communications from the Southern London University. He belongs to the Afghan Millat party and is known to enjoy a close relationship with the Karzai family. He has a well-deserved reputation for competence.
 --Justice - Sarwar Danish (Hazara). He is a prolific writer and has published fifteen books on Islamic Jurisprudence, and other legal issues. He is from Daikundi Province, and was born into a pious and religious family. He studied in numerous countries to include Iraq, Syria and Iran. The Wahdat party has told us he is the candidate of Second Vice President Khalili. We have found him approachable, competent, and relatively dedicated to rule of law and human rights.
@@ -51,8 +51,8 @@ Arghandewal branch. He is close to President Karzai and raised funds for him dur
 --Agriculture - Asif Rahimi (Tajik). We find him articulate and competent, but that he does not always deliver on his ambitious goals. He oversaw one of the most successful Afghan Government development initiatives, the National Solidarity Program. He is rumored to be associated with Sayyaf, but is close to Zakhilwal.
 --Parliamentary Affairs - Mohammad Anwar Jekdalek (Pashtun). He obtained this position due to his close personal relationship with President Karzai and has proven a valuable Embassy contact. He is a mediocre minister and relatively unknown. He was a former mujahadeen and former chairman of the Afghan Olympic Committee. He survived the Serena Hotel terrorist attach by reportedly dodging a bullet by leaping into a locker in the hotel’s gym. He is associated with Fahim Khan.
 --Counternarcotics - Gen. Khodaidad (Hazara) will remain for now, although Presidential Chief of Staff Omer Daudzai told Deputy Ambassador Ricciardone December 17 that this ministry would later be dissolved into the Agricultural and Interior
-KABUL 00004070 003 OF 005
 ministries. He holds graduate degrees from the Indian National Defense Academy. He has been a very good partner for U.S. counternarcotics efforts.
+
 REPLACEMENTS:
 --Economy - Dr. Anwari Al-Haq Ahadi (Pashtun). He was the Finance Minister and remains the head of the pro-Pashtun Afghan Millat party. He married Fatima Gailani, the daughter of Pir Sayed Ahmad Gailani, the influential Afghan spiritual leader. He received degrees from the American University of Beirut, and later a doctorate in political science from Northwestern University. He resigned to pursue a presidential bid, but then pulled out shortly after his powerful father-in-law decided to support President Karzai instead. His run as Finance Minister received mixed reviews.  He studied in Iran in the 1970s and now professes hostility to the current Iranian regime.
 --Culture - Sayed Makhdum Raheen (Tajik). His family is associated with Zahir Shah. Many MPs claim he is too liberal after he was caught on television attending a dance party. He has little support, and may not receive the approval of the conservatives in the Parliament.
@@ -69,9 +69,9 @@ REPLACEMENTS:
 KABUL 00004070 004 OF 005
 Province and studied law and political science at the Kabul University. He was a respected civil servant and is viewed as relatively apolitical; he served in the Najibullah, Rabbani, Taliban, and the post-Bonn interim governments. He was the first Minister of Refugee Affairs from 2002-3. His nomination was supported by Fahim Khan.
 
-------------- 
+-------------
 NOT ANNOUNCED
-------------- 
+-------------
 
 ¶4. (C) President Karzai has made no announcement about his advisors, his Chief of Staff, the Foreign Affairs Minister, NDS, the OAA, the Independent Directorate for Local Governance (IDLG), the National Security Advisor, and the Minister for Urban Development. Presidential Chief of Staff Omer Daudzai told Deputy Ambassador Ricciardone on December 17 that FM Spanta would stay on until after the January 28 London conference; he implied that the current NSA Rassoul will likely take his place. Spanta would have a difficult time obtaining Parliamentary approval due to his dual (German) citizenship, his name on the list of corrupt officials given to the Parliament by the Deputy Attorney General on December 16, and because Spanta received a vote of no confidence in the Parliament in the past. NSA and IDLG were not announced today because those positions do not require Parliament’s approval. Daudzai said the IDLG Ministry would remain with Jelani Popal (Pashtun), who is considered to be a technocrat.
 
@@ -79,12 +79,11 @@ NOT ANNOUNCED
 
 ¶6. (C) The Parliament debated extensively whether or not President Karzai had the right to divide, add, or change Ministries without their approval. Lower House Speaker Yunus Qanooni and former presidential candidate Bashardost noted in the plenary on December 19 that the approval of one-third of the Parliament was required to reorganize ministerial functions according to the constitution, although after he received a call from the Presidential Palace during the plenary Qanooni said splitting ministries was acceptable. Taj Ali Saber, Karzai’s nomination for the new Ministry of Martyrs and Disabled, was not allowed to be presented to the Parliament for this reason (this used to be part of the Labor and Social Affairs Ministry).
 
--------------------------------------- 
+--------------------------------------
 Analysis: Political Debts and Balance
--------------------------------------- 
+--------------------------------------
 
 ¶7. (C) Of the selections announced to date, 13 of the 24 are holdovers. Former President Rabbani was engaged in intensive negotiations with Karzai for weeks but got none of his supporters a ministry - which may lead to a stronger opposition if he rejoins Abdullah’s movement. One UNAMA analyst noted that Rabbani’s faction had tried hardest for the two security ministries (Defense and Interior) but that Karzai had shown “strength” in keeping the two ministers in place. Karzai did not feel himself bound to a “coalition” or powersharing arrangement with Rabbani, who clearly overshot in his post-election negotiations.
 
 ¶8. (C) The biggest initial winners include first Vice President Fahim, who delivered significant numbers of Tajik voters and according to our estimates received five seats for his supporters. Dostum, whose Uzbek supporters pushed Karzai’s victory, comes in second with three positions. Other winners include Mohaqqeq (Karzai split the Hazara vote with Bashardost) with two; the prestigious Gailani family - 2.5 (Ahadi, Hamed Gailani’s brother in law, is “half Gailani, half Afghan Millat”); Afghan Millat - 1.5; Khalili - 1; Ismail Khan - 1; Mojaddedi - .5 (Fatimie is considered “half Mojaddedi, half the former King Shah family”); Shah Family - 1.5; Hezb-e-Islami - 2; and Sayyaf - 1. Atmar, Rahimi, Shahrani and Khodaidad were not considered to be any particular groups’ candidate, although all receive some international support.
-KABUL 00004070 005 OF 005
 EIKENBERRY

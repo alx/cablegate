@@ -1,0 +1,253 @@
+08BRASILIA593
+HOW BRAZIL IS WIRED - ELECTRICITY SERIES #1
+Mon May 05 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Brasilia
+VZCZCXRO5497
+RR RUEHRG
+DE RUEHBR #0593/01 1261424
+ZNR UUUUU ZZH
+R 051424Z MAY 08
+FM AMEMBASSY BRASILIA
+TO RUEHC/SECSTATE WASHDC 1555
+INFO RUEHSO/AMCONSUL SAO PAULO 1980
+RUEHRG/AMCONSUL RECIFE 7982
+RUEHRI/AMCONSUL RIO DE JANEIRO 6100
+RUEHBU/AMEMBASSY BUENOS AIRES 5464
+RUEHAC/AMEMBASSY ASUNCION 6743
+RUEHMN/AMEMBASSY MONTEVIDEO 7335
+RUEHSG/AMEMBASSY SANTIAGO 0288
+RUEHLP/AMEMBASSY LA PAZ 6137
+RUEHSG/AMEMBASSY SANTIAGO 0289
+RUCPDOC/USDOC WASHDC
+RUEATRS/DEPT OF TREASURY WASHDC
+RHEHNSC/WHITE HOUSE NATIONAL SECURITY COUNCIL WASHDC
+RHEBAAA/DEPT OF ENERGY WASHDCUNCLAS SECTION 01 OF 03 BRASILIA 000593 
+ 
+STATE PASS USTR FOR KDUCKWORTH 
+STATE PASS EXIMBANK 
+STATE PASS OPIC FOR DMORONSE, NRIVERA, CMERVENNE 
+DEPT OF TREASURY FOR JHOEK 
+DEPT OF ENERGY FOR CGAY, RDAVIS 
+DOC FOR ADRISCOLL ITA/OLC 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG ECON EINV BR
+SUBJECT: HOW BRAZIL IS WIRED - ELECTRICITY SERIES #1 
+ 
+ 
+SENSITIVE BUT UNCLASSIFED--PLEASE PROTECT ACCORDINGLY 
+ 
+REF: A: Sao Paulo 0031; B: La Paz 0462; C: 06 Sao Paulo 1059 
+ 
+¶1.  SUMMARY: (U) This year will mark ten years since the 
+denationalization of Brazil's electrical sector after fifty years of 
+state control.  The sector has undergone many changes during this 
+period: from the days of former president Fernando Henrique 
+Cardoso's ambitious drive to privatize the entire sector beginning 
+in 1995; to the national energy crisis of 2001 which led to 
+rationing; to the stalling of privatization efforts under the Lula 
+administration; to the current situation with a fully subscribed 
+system straining the limits of its infrastructure.  As Brazil seeks 
+to maintain and even improve upon its recent 5.4% GDP growth, 
+electrical supply will present a continuing challenge and perhaps 
+limitation.  Mission Brazil will examine this sector in a series of 
+cables to include the threat of a pending energy crisis, the effect 
+of regional and international relations on the Brazilian energy 
+sector, and the future of electrical generation and supply in 
+Brazil.  This first report focuses on the overall structure of the 
+sector and serves as a reference resource for septels. END SUMMARY. 
+ 
+ 
+------------------------------- 
+Policy and Regulatory Structure 
+------------------------------- 
+ 
+¶2. (U) Although much of the electrical sector has been privatized in 
+the past ten years, the GOB still retains a central and leading role 
+throughout the system.  Policy is directed from a ministerial 
+committee called the National Council for Energy Policy (CNPE).  The 
+CNPE leads energy policy and provides guidance to the Ministry of 
+Mines and Energy (MME) which sets electrical policy.  MME's two arms 
+which carry out this policy guidance are the Committee for 
+Electrical Sector Monitoring (CMSE), tasked with assuring the 
+security of electrical supply, and the Corporation for Energy 
+Research (EPE), responsible for planning energy sector expansion. 
+ 
+¶3. (U) The regulatory agency, ANEEL, is nominally independent, but 
+in fact reports to the Minister of Mines and Energy.  ANEEL is 
+charged with running the auctions for new contracts for electrical 
+generation and regulating the prices of transmission and 
+distribution.  ANEEL calculates tariffs annually based on the 
+investments and costs incurred by electricity providers during the 
+delivery of services.  Using these figures, they follow the 
+concession contracts that are issued by the National Destatization 
+Council (which was responsible for setting the terms of private 
+sector involvement in the process of privatizing the state-owned 
+resources) to determine tariffs.  ANEEL General Director Jerson 
+Kelman told Econoff that the process rewards concessionaires' 
+efficiency in maximizing use of their investments for higher 
+productivity.  ANEEL also factors in an index of customer 
+satisfaction, allowing the better performing companies to retain a 
+higher share of profits. 
+ 
+¶4. (U) At the time of ANEEL's creation in 1996, the average 
+Brazilian consumer experienced interruptions in energy supply an 
+average of 21 times per year, for a total of over 26 hours.  Now, 
+ANEEL proudly notes that it receives less than a quarter of the 
+amount of service complaints that it received at its inception and 
+consumers now experience 11.7 interruptions with a loss of 
+approximately 16 hours; averages that have remained relatively 
+consistent since 2002. 
+ 
+¶5. (U) Brazil's central operating system is run by the National 
+Operator for the Electric system (ONS).  ONS is responsible for the 
+integration of the system and insuring the continuous generation, 
+transmission, and distribution of electricity throughout the 
+country.  The final institution involved in the Brazilian electrical 
+structure is the arm of the government responsible for the 
+commercialization of electricity, the Chamber of Commercialization 
+of Electrical Energy (CCEE).  Much of the electrical system is owned 
+ 
+BRASILIA 00000593  002 OF 003 
+ 
+ 
+by the state electric company, Eletrobras. 
+ 
+¶6. (SBU) At the top of this labyrinthine system is the new head of 
+MME, Minister Edison Lobco, a former journalist and politician with 
+no particular energy expertise.  He has pledged to surround himself 
+by subject matter experts (appointments so far bear this out) and 
+most sector observers tell us that since the position requires 
+political skills more than subject matter expertise, they are 
+comfortable with this.  In a recent meeting with the Brazil-U.S. 
+Business Council and separately with El Paso Energy, he avowed 
+himself to be a friend to industry and in favor of power sector 
+privatization.  He also stressed the importance he places on 
+transparency in Ministry decision-making.  In a recent Seminar in 
+Rio, Minister Lobco emphasized that the MME has to be obsessive 
+towards honoring contracts to avoid investor's skepticism (Note: In 
+a courtesy call with the Ambassador, Lobco also struck us as 
+straightforward and positively inclined towards the U.S.  End 
+Note.) 
+ 
+ 
+------------------------- 
+Generation Capacity 
+------------------------- 
+ 
+¶7.  (U) Brazil's 172 power plants (hydroelectric and thermal, 
+including two nuclear plants) are operated by 80 different agents, 
+public and private.  In planning for the next five years, ONS 
+predicts only moderate shifts in sources of generation. 
+Conventional thermo power will rise from 11,600 MW (12%) of 
+installed capacity to 17,000 MW (16%) whereas hydroelectric power 
+which currently represents 83% of installed capacity at 81,500 MW, 
+will decrease to just under 80% of the share, projected to be 85,000 
+MW in 2011.  Because hydroelectric power is much cheaper to produce, 
+hydro made up 93% of the amount of electricity actually generated 
+for 2007.  Nuclear capacity will remain the same for the short term 
+contributing just 2% to the electrical supply.  The sugar cane 
+industry association (UNICA) also indicates that they will increase 
+the production of electricity through bagasse.  (Specifics on 
+electrical generation and future plans will be reported septels.) 
+ 
+----------------------------- 
+Transmission - SIN and Chavez 
+----------------------------- 
+ 
+¶8. (U) The transmission of electricity in Brazil is handled by 52 
+different agents with over 81,000 kilometers of transmission lines, 
+731 circuits, and 367 substations.  The vast majority of the country 
+is covered by the integrated transmission system (SIN) operated by 
+ONS.  Any lines that transmit over 230 kilovolts must be made 
+available to ONS as part of the SIN.  Only a small portion of the 
+population is outside of the grid currently.  A substantial part of 
+the unintegrated areas will be brought into the system this year. 
+The linkage of the northwestern states of Acre and Rondtnia to Mato 
+Grosso is expected to be completed by 2010, with more areas in 
+Manaus and Amapa in the north of Brazil being incorporated by 2012. 
+This will complet the integration plan but will leave the remote 
+brder state of Roraima out of the integrated system  Roraima will 
+continue to be dependent on Venezela as its source of power. 
+ 
+¶9.  (U) This integrted transmission system means that even though 
+rgions such as the Northeast do not receive sufficiet rains to 
+generate their own electricity, they re able to get 40% of their 
+electricity from themore abundant hydropower of the southeastern 
+poplation centers.  The transmission system permits oficials to 
+compensate for rainfall shortages in sme areas, by directing energy 
+from others.  It aso means that a significant portion of the 
+Braziian population is vulnerable to energy loss from beaks in the 
+transmission lines.  Brazil's two lagest cities are dependent on 
+the transmission lin from the Itaipu dam.  "If something happens to 
+he Itaipu line," energy consultant Hector Morreno old Econoff, 
+"Rio and Sao Paulo would go black."In Morreno's estimation, "Brazil 
+still has a lon way to go" in improving transmission. 
+ 
+BRASILIA 00000593  003 OF 003 
+ 
+ 
+ 
+¶10. (U) As the GOB is looking at ways to diversify its sources of 
+electrical energy, the transmission system will be critical in 
+facilitating that change.  Currently, the main impediment to 
+incorporating bioelectricity produced from ethanol plants into the 
+grid is that the sugar mills in Mato Grosso do Sul and Sao Paulo 
+states are not integrated into the transmission lines.  To address 
+this limitation, the GOB is in discussions with state governments 
+and producers to determine how to fund new transmission lines. 
+ 
+ 
+---------------- 
+Distribution 
+---------------- 
+ 
+¶11.  (U) The distribution system is dominated by private industry 
+with 106 different distributors involved.  Of the actual cost passed 
+on to consumers, a portion goes to taxes which include the cost of 
+programs such as "Luz para todos," a government program similar to 
+rural electrification, and another assistance program that 
+subsidizes electricity for poor families.  (Note:  "Luz para todos" 
+or Light for All is a program sponsored in part by USAID.  End 
+Note.) 
+ 
+¶12. (SBU) ABRACEEL's Pedrosa believes that some of this year's 
+concern over a possible energy shortage (which experts now agree 
+will not happen this year), could have been alleviated if free 
+market forces were brought to bear.  He told Econoff that the demand 
+level could have self-corrected if changes in the electrical supply, 
+such as the Argentina's inability to fulfill its contract to sell 
+6,000 MW of electricity to Brazil, had been passed along to 
+consumers allowing the price to fluctuate in a market-driven way. 
+Pedrosa notes that the cost will eventually be passed along in later 
+years through higher direct energy costs or more expensive national 
+products.  Alexandre Innecco, CFO of AES Electropaulo in Sao Paulo, 
+shared Pedrosa's view of market distortion, telling Econoff that, 
+because of the pricing structure, consumers have no price signal to 
+reduce consumption. 
+ 
+¶13.  (SBU) COMMENT: As the GOB seeks to expand its electrical supply 
+capabilities with diverse sources, it will face numerous challenges. 
+ One issue the GOB will have to decide is whether to continue 
+privatization efforts or consolidate.  The recently approved "Super 
+Eletrobras" bill, which removes the requirement that the state owned 
+electric company not own more than 49.19% of energy consortiums, 
+gives rise to speculation about the prospects for further 
+privatization.  Meanwhile, Brazil must begin to diversify their 
+sources, as the current hydro-heavy matrix is highly vulnerable to 
+drought, with the specter of rationing or blackouts looming during 
+less than sufficient rainy seasons.  Energy security is a growing 
+concern throughout the Southern Cone region and, accordingly, 
+geo-politics also figures heavily in Brazil's ability to meet its 
+electricity needs.  Each of these issues will be addressed in future 
+cables in this series.  The next cable will focus on the generation 
+capacity of the Brazilian electrical sector.  END COMMENT 
+ 
+¶14.  (U) This cable was jointly produced by Embassy Brasilia, 
+Consulate Sao Paulo and coordinated throughout the mission. 
+ 
+SOBEL

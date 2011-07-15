@@ -1,5 +1,5 @@
 09BRASILIA35
-BRAZIL,S DEFENSE STRATEGY -- MILITARY CONSIDERATIONS
+BRAZIL,S DEFENSE STRATEGY -- MILITARY
 Fri Jan 09 00:00:00 +0100 2009
 CONFIDENTIAL
 Embassy Brasilia
@@ -18,40 +18,193 @@ RUEKDIA/DIA WASHDC
 RUEKJCS/JOINT STAFF WASHDC
 RHEHNSC/NSC WASHDC
 RHMFISS/CDR USSOUTHCOM MIAMI FLC O N F I D E N T I A L SECTION 01 OF 03 BRASILIA 000035 
-
+ 
 SIPDIS 
-
+ 
 DEPARTMENT FOR WHA/BSC AND PM/RSAT 
-
+ 
 E.O. 12958: DECL: 01/08/2019 
 TAGS: BR PREL MARR
-SUBJECT: BRAZIL,S DEFENSE STRATEGY -- MILITARY CONSIDERATIONS 
-
-REF: A. BRASILIA 34 B. 08 BRASILIA 93 
-Classified By: Ambassador Clifford Sobel. Reason: 1.5 (d) 
-
-¶1. (C) SUMMARY. Ref a reported on the strategic aspects of Brazil,s new Defense Strategy document, signed by President Lula on December 18. While the main purpose of the strategy as written by the Minister for Strategic Planning, was to place Brazil,s military and defense sector in the framework of a broader vision of national development (reported in ref a), the document also contains policy guidance for the Defense Ministry and the three services that give a clearer view of how Defense Minister Jobim and senior military leaders see these institutions developing over the next generation -- into a more flexible, modern force with joint operational capabilities. The restructuring of the Brazilian military can be seen as a compromise between setting conditions for a its role in a broader plan for national development and the goal of having a modern, effective military. After more than twenty years outside the political mainstream, and twenty years of minimal resources, the Brazilian military is now making a case for its modernization. As it does so, opportunities will exist for improving the U.S.-Brazil security partnership. END SUMMARY. 
-
-MINISTRY OF DEFENSE ------------------- 
-
-¶2. (SBU) In its nine-year history, the Brazilian Ministry of Defense has been under resourced and has had difficulty in providing effective civilian control over the armed forces. The Defense Strategy seeks to ameliorate this situation by calling for the employment of better-prepared civilian Ministry officials in place of some of the military personnel who now predominate. The Ministry will have the lead on developing implementing arrangements for the Defense Strategy and is tasked with issuing instructions for the activities of the Armed Forces during peacetime. The Strategy also recognizes the importance of the Armed Forces becoming more "joint" in their operational capabilities and tasks the Ministry with encouraging more inter-service cooperation. As noted in ref a, sources in the Defense Ministry and Ministry for External Affairs told Embassy personnel that a principal reason for the delay in final approval of the strategy was to ensure inclusion of the services, comments. As the section on each service differs markedly in terms of focus and style from the others, it is likely that the interagency agreement reached to allow the strategy document to go forward was to add in services, submissions to the document. The chapters on the services all seek to make a case for increased resources and modernized equipment but are not always successful at spelling out the strategic vision for the potential security threats or contingencies to which many of the desired upgrades would respond. 
-
-NAVY ---- 
-
-¶3. (C) The Navy is tasked with control of the seas and rivers and denying their use to potential adversaries. Its main tasks will be defense of oil facilities and ports and assistance against transnational criminals. COMMENT: There is, however, no information as to what possible threats to oil facilities the Navy may be asked to counter, making it difficult, for example to evaluate the strategy,s assertion that a nuclear submarine would be necessary to meet the goal of protecting such facilities. END COMMENT. The strategy does recommend increased Navy capabilities in two key areas: control of the rivers and power projection in support of peacekeeping. Noting that lack of effective control of the Amazon and Parana river systems undermines stability, the Navy will seek more brown water assets, including patrol vessels and better reconnaissance capability. While Brazil,s current peacekeeping effort is focused on Haiti, there is an acknowledgement that Brazil will have to take a great share of the global burden and should be able to deploy and support peacekeepers out of its immediate region. 
-
-¶4. (C) The Navy,s wish list for equipment includes the expected nuclear powered submarines. (See ref b for discussion.) The Navy also seeks patrol craft and air patrol capabilities that will be important to effective monitoring of coasts and river systems. Naval aviation is set to BRASILIA 00000035 002 OF 003 improve through acquisition of aircraft and aircraft carriers, although the strategy specifies that any naval aircraft should be produced in Brazil. Finally, the Navy is charged with improving its search and rescue capabilities, including the potential for international cooperation. 
-
-ARMY ---- 
-
-¶5. (C) The Army,s strategic instructions focus on restructuring to make the force more mobile and able to engage in non-traditional conflicts. To this end, the Army plans to shift to a brigade model in order to have more deployable units available. These "rapid action forces" are intended to give commanders the ability to react to crises in remote areas with a flexible set of capabilities that can be tailored to the situation. In support of such missions, the Army,s acquisition priorities will be improved reconnaissance and communications, helicopters, night vision and fire control technology. 6. (C) While mentioned prominently elsewhere in the Defense Strategy, the Army chapter does not, unlike the other services, raise the possibility of additional peacekeeping operations as a future mission, possibly a reflection of the Army,s frustration with the lack of an exit strategy in Haiti. The Army,s planning is also silent on the major new task it will have in training up to three million potential reservists per year should the strategy,s national service provisions be fully implemented. 
-
-AIR FORCE --------- 
-
-¶7. (C) Apart from the highly prescriptive section on fighter procurement discussed in ref a, the Air Force chapter focuses on how to meet challenges in joint operations, reconnaissance and communications. The Air Force,s highest priority, aside from new fighters, will be on acquiring more airlift capability so that one of the Army,s new brigades can be deployed rapidly at any time. Other priorities include UAVs and improved satellite capability, particularly through indigenous space launch. These priorities are underlined by a clear directive to favor domestic industry where possible. The capability to build aircraft (including UAVs and space launch vehicles) in Brazil is considered "so important as to transcend discussions of equipment," a policy of sacrificing capability in favor of domestic production.
-
- COMMENTS -------- 
-
-¶8. (C) As with the rest of the Defense Strategy, the sections on restructuring of the Brazilian military are a compromise between setting conditions for a military role in a broader plan for national development and the goal of having a modern, effective military. After more than twenty years outside the political mainstream, and twenty years of minimal resources, the Brazilian military is now making a case for its modernization. Making the case, however, means that the Defense Strategy must observe the conventional wisdom of Brazilian politics. There is no threat, for example, to Brazil,s maritime oil deposits, but Brazilian leaders and media have routinely cited oil discoveries off the coast as an urgent reason for better maritime security. This concern has been merged with Brazil,s twenty year quest to develop a nuclear submarine to give new impetus to research on a small reactor for naval propulsion. While the Army chapter of the strategy includes the seemingly mandatory caution about being prepared to protect Brazil,s sovereignty against a country or group of countries acting "on pretext of the supposed interests of humanity," it remains primarily focused on more realistic security challenges. The political preoccupation with imagined threats to sovereignty in the Amazon, however, serves the practical purpose of tasking the military with developing greater capabilities to project power into the region most likely to be affected by instability in neighboring countries. 
-
-¶9. (C) A Brazilian military that is more capable and deployable can support U.S. interests by exporting stability in Latin America and be available for peacekeeping elsewhere. The plans by the Brazilian services, as evidenced in those parts of the defense strategy likely contributed by the services, are consistent with this interest, and, if  implemented, will lead to Brazil becoming a more effective security partner. There are however, serious questions as to how much of these plans will see follow through, particularly with other supposed strategic priorities, including national service, nuclear submarines and government support to non-competitive defense industries, providing black holes to suck in all available resources. SOBEL
+SUBJECT: BRAZIL,S DEFENSE STRATEGY -- MILITARY 
+CONSIDERATIONS 
+ 
+REF: A. BRASILIA 34 
+     ¶B. 08 BRASILIA 93 
+ 
+Classified By: Ambassador Clifford Sobel.  Reason: 1.5 (d) 
+ 
+¶1.  (C)  SUMMARY.  Ref a reported on the strategic aspects of 
+Brazil,s new Defense Strategy document, signed by President 
+Lula on December 18.  While the main purpose of the strategy 
+as written by the Minister for Strategic Planning, was to 
+place Brazil,s military and defense sector in the framework 
+of a broader vision of national development (reported in ref 
+a), the document also contains policy guidance for the 
+Defense Ministry and the three services that give a clearer 
+view of how Defense Minister Jobim and senior military 
+leaders see these institutions developing over the next 
+generation -- into a more flexible, modern force with joint 
+operational capabilities.  The restructuring of the Brazilian 
+military can be seen as a compromise between setting 
+conditions for a its role in a broader plan for national 
+development and the goal of having a modern, effective 
+military.  After more than twenty years outside the political 
+mainstream, and twenty years of minimal resources, the 
+Brazilian military is now making a case for its 
+modernization.  As it does so, opportunities will exist for 
+improving the U.S.-Brazil security partnership.  END SUMMARY. 
+ 
+MINISTRY OF DEFENSE 
+------------------- 
+¶2.  (SBU)  In its nine-year history, the Brazilian Ministry 
+of Defense has been under resourced and has had difficulty in 
+providing effective civilian control over the armed forces. 
+The Defense Strategy seeks to ameliorate this situation by 
+calling for the employment of better-prepared civilian 
+Ministry officials in place of some of the military personnel 
+who now predominate.  The Ministry will have the lead on 
+developing implementing arrangements for the Defense Strategy 
+and is tasked with issuing instructions for the activities of 
+the Armed Forces during peacetime.  The Strategy also 
+recognizes the importance of the Armed Forces becoming more 
+"joint" in their operational capabilities and tasks the 
+Ministry with encouraging more inter-service cooperation.  As 
+noted in ref a, sources in the Defense Ministry and Ministry 
+for External Affairs told Embassy personnel that a principal 
+reason for the delay in final approval of the strategy was to 
+ensure inclusion of the services, comments.  As the section 
+on each service differs markedly in terms of focus and style 
+from the others, it is likely that the interagency agreement 
+reached to allow the strategy document to go forward was to 
+add in services, submissions to the document.  The chapters 
+on the services all seek to make a case for increased 
+resources and modernized equipment but are not always 
+successful at spelling out the strategic vision for the 
+potential security threats or contingencies to which many of 
+the desired upgrades would respond. 
+ 
+NAVY 
+---- 
+¶3.  (C)  The Navy is tasked with control of the seas and 
+rivers and denying their use to potential adversaries.  Its 
+main tasks will be defense of oil facilities and ports and 
+assistance against transnational criminals.  COMMENT:  There 
+is, however, no information as to what possible threats to 
+oil facilities the Navy may be asked to counter, making it 
+difficult, for example to evaluate the strategy,s assertion 
+that a nuclear submarine would be necessary to meet the goal 
+of protecting such facilities.  END COMMENT.  The strategy 
+does recommend increased Navy capabilities in two key areas: 
+control of the rivers and power projection in support of 
+peacekeeping.  Noting that lack of effective control of the 
+Amazon and Parana river systems undermines stability, the 
+Navy will seek more brown water assets, including patrol 
+vessels and better reconnaissance capability.  While 
+Brazil,s current peacekeeping effort is focused on Haiti, 
+there is an acknowledgement that Brazil will have to take a 
+great share of the global burden and should be able to deploy 
+and support peacekeepers out of its immediate region. 
+ 
+¶4.  (C)  The Navy,s wish list for equipment includes the 
+expected nuclear powered submarines.  (See ref b for 
+discussion.)  The Navy also seeks patrol craft and air patrol 
+capabilities that will be important to effective monitoring 
+of coasts and river systems.  Naval aviation is set to 
+ 
+BRASILIA 00000035  002 OF 003 
+ 
+ 
+improve through acquisition of aircraft and aircraft 
+carriers, although the strategy specifies that any naval 
+aircraft should be produced in Brazil.  Finally, the Navy is 
+charged with improving its search and rescue capabilities, 
+including the potential for international cooperation. 
+ 
+ARMY 
+---- 
+¶5.  (C)  The Army,s strategic instructions focus on 
+restructuring to make the force more mobile and able to 
+engage in non-traditional conflicts.  To this end, the Army 
+plans to shift to a brigade model in order to have more 
+deployable units available.  These "rapid action forces" are 
+intended to give commanders the ability to react to crises in 
+remote areas with a flexible set of capabilities that can be 
+tailored to the situation.  In support of such missions, the 
+Army,s acquisition priorities will be improved 
+reconnaissance and communications, helicopters, night vision 
+and fire control technology. 
+ 
+¶6.  (C)  While mentioned prominently elsewhere in the Defense 
+Strategy, the Army chapter does not, unlike the other 
+services, raise the possibility of additional peacekeeping 
+operations as a future mission, possibly a reflection of the 
+Army,s frustration with the lack of an exit strategy in 
+Haiti.  The Army,s planning is also silent on the major new 
+task it will have in training up to three million potential 
+reservists per year should the strategy,s national service 
+provisions be fully implemented. 
+ 
+AIR FORCE 
+--------- 
+¶7.  (C)  Apart from the highly prescriptive section on 
+fighter procurement discussed in ref a, the Air Force chapter 
+focuses on how to meet challenges in joint operations, 
+reconnaissance and communications.  The Air Force,s highest 
+priority, aside from new fighters, will be on acquiring more 
+airlift capability so that one of the Army,s new brigades 
+can be deployed rapidly at any time.  Other priorities 
+include UAVs and improved satellite capability, particularly 
+through indigenous space launch.  These priorities are 
+underlined by a clear directive to favor domestic industry 
+where possible.  The capability to build aircraft (including 
+UAVs and space launch vehicles) in Brazil is considered "so 
+important as to transcend discussions of equipment," a policy 
+of sacrificing capability in favor of domestic production. 
+ 
+COMMENTS 
+-------- 
+¶8.  (C)  As with the rest of the Defense Strategy, the 
+sections on restructuring of the Brazilian military are a 
+compromise between setting conditions for a military role in 
+a broader plan for national development and the goal of 
+having a modern, effective military.  After more than twenty 
+years outside the political mainstream, and twenty years of 
+minimal resources, the Brazilian military is now making a 
+case for its modernization.  Making the case, however, means 
+that the Defense Strategy must observe the conventional 
+wisdom of Brazilian politics.  There is no threat, for 
+example, to Brazil,s maritime oil deposits, but Brazilian 
+leaders and media have routinely cited oil discoveries off 
+the coast as an urgent reason for better maritime security. 
+This concern has been merged with Brazil,s twenty year quest 
+to develop a nuclear submarine to give new impetus to 
+research on a small reactor for naval propulsion.  While the 
+Army chapter of the strategy includes the seemingly mandatory 
+caution about being prepared to protect Brazil,s sovereignty 
+against a country or group of countries acting "on pretext of 
+the supposed interests of humanity," it remains primarily 
+focused on more realistic security challenges.  The political 
+preoccupation with imagined threats to sovereignty in the 
+Amazon, however, serves the practical purpose of tasking the 
+military with developing greater capabilities to project 
+power into the region most likely to be affected by 
+instability in neighboring countries. 
+ 
+¶9.  (C)  A Brazilian military that is more capable and 
+deployable can support U.S. interests by exporting stability 
+in Latin America and be available for peacekeeping elsewhere. 
+ The plans by the Brazilian services, as evidenced in those 
+parts of the defense strategy likely contributed by the 
+services, are consistent with this interest, and, if 
+ 
+BRASILIA 00000035  003 OF 003 
+ 
+ 
+implemented, will lead to Brazil becoming a more effective 
+security partner.  There are however, serious questions as to 
+how much of these plans will see follow through, particularly 
+with other supposed strategic priorities, including national 
+service, nuclear submarines and government support to 
+non-competitive defense industries, providing black holes to 
+suck in all available resources. 
+SOBEL

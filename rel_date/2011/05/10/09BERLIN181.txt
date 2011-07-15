@@ -1,0 +1,64 @@
+09BERLIN181
+
+Thu Feb 12 00:00:00 +0100 2009
+SECRET//NOFORN
+Embassy Berlin
+VZCZCXYZ0003
+PP RUEHWEB
+
+DE RUEHRL #0181/01 0431716
+ZNY SSSSS ZZH (CCY AD2D4106 MSI0530-695)
+P 121716Z FEB 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 3298
+INFO RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+RUEHBS/AMEMBASSY BRUSSELS 0983
+RUEHMD/AMEMBASSY MADRID 0667
+RUEHFR/AMEMBASSY PARIS 0148
+RUEHRO/AMEMBASSY ROME 1713
+RUEKJCS/SECDEF WASHINGTON DC
+RUEHRL/USDAO BERLIN GE
+RUEHBS/USEU BRUSSELS
+RUCUSTR/USSTRATCOM OFFUTT AFB NES E C R E T BERLIN 000181
+NOFORN SIPDIS STATE FOR ISN/MDSP DICK BUENNEKE STATE FOR EUR/CE PETER SCHROEDER
+C O R R E C T E D COPY CAPTION E.O. 12958: DECL: 02/12/2034 TAGS: ETTC PGOV PINR MCAP PREL TSPA FR GM
+REF: A. 08 BERLIN 1537 B. 08 BERLIN 1575
+
+Classified By: Global Affairs Unit Chief Don L. Brown for reasons 1.4 (b) and (d).
+
+¶1. (C) SUMMARY: The German element of EADS Astrium GmbH and the German Space Agency (DLR) are in the advanced stages of programmatic development of a High-Resolution Optical System (HiROS) satellite constellation. They are also in discussions with the U.S. firm DigitalGlobe (DG) about partnering to share costs, speed up program development, and enter the U.S. market. Germany believes that HiROS is a logical, low-risk, next step to expand its national space reconnaissance architecture. Germany already flies space-based Synthetic Aperture Radar (SAR) and multi-spectral systems, soon expanding its suite to include a hyper-spectral platform. We note that Germany,s plan exclude any reliance on other EU members (i.e. France) and reflects Germanys desire to build this competency independent of EU interest.
+
+¶2. (C) Since 2007, Germany has been producing, processing, and analyzing high quality space-based SAR data from its Ministry of Defense (MOD)-run SAR Lupe program (a 5-satellite constellation that is built and operated by OHB Systems AG) and the Astrium/DLR-run commercial TerraSAR-X program. During this interval, Germany has made impressive strides in its abilities to collect, process, and analyze SAR data, but concluded that, Electro-Optical (EO) data supplementing SAR data makes interpretation and analysis much easier. Presently, Germany is wholly dependent upon foreign sources of high resolution EO imagery. Germany would very much like to remedy this and DLR believes it now has the knowledge, skill, and ability to field an operating 0.5 meter resolution HiROS constellation within three years (2012) at a price tag of about 200 million euro. END SUMMARY
+
+GERMANY,S HiROS DEVELOPMENT PLAN
+--------------------------------
+
+¶3. (C) On January 23, Dr. Cornelia Riess, DLR Head of International Cooperation, and Dr. Andreas Eckardt, DLR Head of Optical Sensors and Electronics, told us that DLR and Astrium are ready to "deliver the technical components and ground segment competence" and are only waiting for financing to be finalized to "start bending metal." Both Eckardt and Riess expressed confidence that DLR/Astrium could achieve this aggressive 3-year plan by leveraging available German instrument technology and past Public Private Partnership (PPP) experiences successfully building, launching, and operating satellite systems. Eckardt said that DLR would use a similar, but improved, version of the instrument technology they built for the KOMPSAT 3 program - a German partnership with the South Korean Aerospace Institute (KARI), scheduled for launch in 2010. Astrium would likely build the satellite buses and assemble the instruments. DLR stated that they plan on using Russian launchers for access to orbit.
+
+DLR MOTIVATION: COMPLEMENTING SAR WITH EO
+-----------------------------------------
+
+¶4. (S//NF) DLR cooperates with the German MOD to create algorithms for SAR data image processing and DLR researchers are clearly aware of the significant benefit of fusing EO and SAR imagery for analysis. Specifically, DLR said that the German government has realized that it needed an EO satellite reconnaissance capability "to make maximum use" of their radar capabilities. Eckardt said the DLRs latest techniques are sufficiently advanced to permit the generation of fused radar and EO product. He said that while these techniques currently require "hours" of processing, DLR is working on technology to make this processing "near real-time" or in "milliseconds."
+
+¶5. (C) In addition, DLR indicated that the aggressive schedule on their HiROS program was also driven in part by a desire to incorporate HiROS data within the operational lifetimes of their TerraSAR-X and TanDEM-X programs.
+https:// (COMMENT: The TanDEM-X mission is scheduled to launch in 2009
+to perform SAR imaging of the entire earth in "tandem" with TerraSAR-X. END COMMENT) With the end of life for the TerraSAR-X mission anticipated in late 2012 and the HiROS potentially available at the beginning of 2012, DLR realizes there is a unique, if limited, opportunity to simultaneously collect data from the HiROS, TerraSAR-X, and TanDEM-X missions.
+
+ASTRIUMS MOTIVATION: SAR COMPETITIVENESS
+-----------------------------------------
+
+¶6. (C) Astrium representatives suggested that the HiROS would represent the type of technology they would propose as part of a future SAR-Lupe follow-on proposal and have already begun working on the communications architecture. In 2005, Astrium was apparently blind-sided when they lost the MODs SAR-Lupe contract to OHB Systems. Since then, Astrium has continued advancing its SAR technology for the commercial sector with DLR and, as Infoterra (a subsidiary of Astrium Friedrichshafen) CEO Joerg Herrmann explained, "Infoterra will not lose out to OHB again" on the next SAR-Lupe contract. Although confident of their SAR technology, Infoterra realizes that the ability to incorporate HiROS into their SAR-Lupe proposal could give them the decisive technical edge over OHB.
+
+DLR/ASTRIUMS INTEREST IN DG
+----------------------------
+
+¶7. (C) DLR is interested in partnering with DG to accelerate the HiROS development cycle, share costs, and establish inside access to the U.S. market. In addition, Astrium views DG as a potential customer for two or more HiROS-type satellites. Representatives from DLR have already engaged DG in consultations and, according to a DG representative, his company is preparing a Technical Assistance Agreement (TAA) application to enable them to discuss and share regulated technical data with DLR. Eckardt said that DLR explored various scenarios for international partnerships, but in the end came to the conclusion that a U.S. partnership (DG) made the most "business sense."
+
+GERMANY CAUTIOUSLY LOOKING FOR BILATERAL COOPERATION
+--------------------------------------------- -------
+
+¶8. (C) Although Germany is very eager to partner with the U.S. on the HiROS project, they anticipate legal hurdles with intellectual property rights (IPR) issues and view the associated exchange of sensitive technologies with the USG as potentially problematic. Dr. Riess confided that with the new U.S. Administration in place, DLR is very motivated to step up scientific cooperation with the USG, and see the HiROS program as an excellent prospective opportunity for future bilateral cooperation.
+
+¶9. (C) HiROS implementation appears a sensible next step for Germany, both from a national security standpoint and with associated business opportunities. Germany has created a niche in the international Earth observation arena by carefully controlling system costs while maintaining focus on core/unique technical capabilities. This approach has yielded sophisticated and reliable satellite systems that provide an extraordinary amount of product for their investment, while also creating an opportunity for significant commercial exploitation. Should DLRs partnership with DG materialize, DLR indicated that the National Geospatial Intelligence Agency (NGA) would be the "prime customer identified", with DG serving as the U.S. market entry point.
+Koenig

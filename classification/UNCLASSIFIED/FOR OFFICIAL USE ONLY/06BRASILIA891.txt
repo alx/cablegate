@@ -1,0 +1,169 @@
+06BRASILIA891
+CHOICE OF DIGITAL TELEVISION STANDARD STILL ON HOLD
+Mon May 08 00:00:00 +0200 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Brasilia
+VZCZCXRO7435
+PP RUEHRG
+DE RUEHBR #0891/01 1281853
+ZNR UUUUU ZZH
+P 081853Z MAY 06
+FM AMEMBASSY BRASILIA
+TO RUEHC/SECSTATE WASHDC PRIORITY 5315
+INFO RUEHSO/AMCONSUL SAO PAULO 6895
+RUEHRI/AMCONSUL RIO DE JANEIRO 2017
+RUEHRG/AMCONSUL RECIFE 4722
+RUEHMN/AMEMBASSY MONTEVIDEO 6219
+RUEHBU/AMEMBASSY BUENOS AIRES 3985
+RUEHAC/AMEMBASSY ASUNCION 5401
+RUEHSG/AMEMBASSY SANTIAGO 5475
+RUEATRS/DEPT OF TREASURY WASHINGTON DC
+RHEHNSC/NSC WASHDC
+RUCPDO/USDOC WASHDCUNCLAS SECTION 01 OF 02 BRASILIA 000891 
+ 
+SIPDIS 
+ 
+NSC FOR CRONIN 
+STATE PASS USTR FOR MSULLIVAN 
+TREASURY FOR OASIA - DAS LEE AND FPARODI 
+USDOC FOR 4332/ITA/MAC/WH/OLAC/JANDERSEN/ADRISCOLL/MWAR D 
+USDOC FOR 3134/ITA/USCS/OIO/WH/RD/DDEVITO/DANDERSON/EOL SON 
+AID/W FOR LAC/SA 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS EIND BR
+SUBJECT:  CHOICE OF DIGITAL TELEVISION STANDARD STILL ON HOLD 
+ 
+REF: Brasilia 587 and previous 
+ 
+¶1.  (U) During recent weeks the issue of which standard the 
+Brazilian government will embrace for digital television (DTV) has 
+faded from public view as President Lula has (so far) declined to 
+endorse the recent MOU signed with the Japanese.  Meanwhile, 
+continued technical progress by industry on the ATSC standard has 
+caught the notice of at least one GOB policymaker.  In a May 7 
+interview with "O Estado de Sao Paulo" columnist Sonia Racy, 
+Minister of Trade Luiz Furlan described his view of the state of 
+play on DTV.  Informal translation of the article is set forth in 
+paragraph 2. 
+ 
+¶2.  (U)  BEGIN TEXT OF INFORMAL TRANSLATION 
+ 
+DIGITAL TV - SEARCHING FOR THE BEST LONG-TERM MODEL 
+ 
+Minister Luiz Furlan has avoided talking more explicitly about 
+digital TV.  In this interview, he agreed for the first time to 
+clarify some points before traveling to Europe where among others, 
+he will meet with investors interested in digital TV in Vienna. 
+ 
+President Lula, taking advantage of his participation in the 
+European Community-Mercosul seminar taking place in Vienna, will 
+participate in meetings to discuss proposals on the table regarding 
+the process. 
+ 
+Furlan clearly stated that contrary to press reports, he was never 
+in favor of any model.  He also stated that there is no agreement 
+with the Japanese, other than a memorandum of understanding that is 
+non-binding and depends on decisions to be made by the Brazilian 
+government. 
+ 
+And, he reiterated that the interest in building a semiconductor 
+factory is linked to fiscal incentives under study. 
+ 
+Here are excerpts from his interview: 
+ 
+Q: You defended the European digital TV model.  What happened? 
+ 
+A: I never defended any of the models.  My position from the 
+beginning has been that we should take advantage of this moment when 
+we have to choose new technology to attract new investments to 
+Brazil, deepening the electro-electronic productive chain, one of 
+the pillars of industrial policy, which we have not been able to 
+consolidate to date.  In the choice of the model, we can learn and 
+dominate the new HDTV technology, which is very important. 
+ 
+Q: Why is this important? 
+ 
+A: It enables Brazilian research institutions and universities to 
+adapt and perfect the Brazilian system of digital TV, based on 
+foreign technology, but with improvements and development completed 
+by around 30 domestic institutions, which conduct experiments in 
+this area today.  My position is to negotiate the one that is best 
+for Brazil looking forward 20 years, not just make the best deal 
+now. 
+ 
+Q: Several ministers went on this trip to Japan.  Who was it that 
+negotiated the digital TV agreement? 
+ 
+A: The trip was set up by President Lula, who decided that the 
+contacts with the government would be made by Ambassador Celso 
+Amorim.  And that media contacts would be coordinated by me.  That 
+is what happened. 
+ 
+Q: Didn't the Brazilian government choose the Japanese model? 
+ 
+A:  No.  The choice will eventually be made by President Lula. 
+There was a technical analysis showing that at this time the 
+Japanese model is technically superior, because it is the latest. 
+The Americans are modifying their model, which is older, and this 
+could upgrade it beyond the Japanese model.  Technically, all three 
+existing models, over time, will have a certain equivalency.  There 
+are other factors like the size of the market.  While the Japanese 
+ 
+BRASILIA 00000891  002 OF 002 
+ 
+ 
+model exists only in Japan, the American model is in North America 
+and Korea, and the European model is used in 56 countries. 
+ 
+Q: Are the Japanese going to build a semiconductor factory in 
+Brazil? 
+ 
+A: Through a proposal of ours, one of the companies expressed an 
+interest.  But whether this kind of factory goes ahead will depend 
+on a set of economic incentives provided by the Brazilian 
+government.  This indication was given by the Finance Ministry, and 
+by President Lula himself in meetings held over time. 
+ 
+Q: Why is it so important for the country to have this kind of 
+factory? 
+ 
+A:  I can give an example.  When the binational Brazil-Italy Embraer 
+project for manufacture of the AMX jet went forward, one of the 
+conditions imposed was that we would open the electronic systems 
+source codes.  That is why it was possible to manufacture a series 
+of these military jets in Brazil and Italy, but what was learned 
+with absorption of technology enabled Embraer to evolve and apply 
+this technology to commercial jets.  The same would happen with the 
+absorption of digital TV technology. 
+ 
+Q: Is it possible to separate the choice of the digital TV model 
+from the factory construction? 
+ 
+A:  Construction of the factory is interdependent on the size of the 
+market and export capacity.  No one builds a factory for just the 
+domestic market.  What is being discussed is the system that will be 
+adopted by the TV broadcasters, for content generation and signal 
+emission.  When we were in Japan, the Japanese industries informed 
+us that they are producing TV sets using three technologies, that 
+is, manufacturing for the United States, Europe and Japan.  They 
+showed us the insides of a flat screen demo TV, and truthfully, 
+there are two plates that are taken out and substituted from one 
+model to another.  There is no difficulty in producing these sets. 
+Now the factory is a condition.  President Lula's guidance is that 
+we will only close the deal when we have a guarantee of investment. 
+ 
+END TEXT OF INFORMAL TRANSLATION 
+ 
+¶3. (SBU) Comment.  Furlan's comments are a counterpoint to Minister 
+of Communications Helio Costa's repeated endorsement (indeed 
+advocacy) of the Japanese standard.  As post has noted previously 
+(reftel), the longer the GoB decision process, the better for the 
+ATSC standard. The soft-pedaling on the semiconductor issue may be 
+an admission that the deal is not as cut and dry as previously 
+portrayed by the GoB.  Time will tell on this one. 
+ 
+Chicola

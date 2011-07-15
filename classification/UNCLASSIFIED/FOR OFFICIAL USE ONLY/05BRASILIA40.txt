@@ -1,0 +1,270 @@
+05BRASILIA40
+FIRST TEST OF BRAZIL'S NEW ENERGY REGULATORY MODEL
+Wed Jan 05 00:00:00 +0100 2005
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Brasilia
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 04 BRASILIA 000040 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+NSC FOR RENIGAR, DEMPSEY 
+TREASURY FOR OASIA - DAS LEE AND FPARODI 
+STATE PASS TO FED BOARD OF GOVERNORS FOR ROBITAILLE 
+USDOC FOR 4332/ITA/MAC/WH/OLAC/JANDERSEN/ADRISCOLL/MWAR D 
+USDOC FOR 3134/ITA/USCS/OIO/WH/RD/DDEVITO/DANDERSON/EOL SON 
+DOE FOR SLADISLAW 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG EINV ECON PGOV BR
+SUBJECT: FIRST TEST OF BRAZIL'S NEW ENERGY REGULATORY MODEL 
+GENERATES CONCERN 
+ 
+REFS:  A) 04 BRASILIA 2834 NOTAL 
+ 
+       B) 04 RIO DE JANEIRO 518 
+       C) 04 SAO PAULO 591 
+ 
+¶1.  (U) This cable reflects input from Consulates General 
+Sao Paulo and Rio de Janeiro. 
+ 
+¶2. (SBU) SUMMARY.  The GoB took a long-awaited first step 
+towards implementing its new energy regulatory model with a 
+December 7 auction of electricity supply futures.  The 
+Ministry of Mines and Energy (MME) trumpeted the auction as 
+an unqualified success, but analysts, investors and 
+regulators have criticized both the conduct and results of 
+the auction, which resulted in unexpectedly low energy 
+prices.  While some observers see the results simply as a 
+function of current excess supply and other market factors, 
+many analysts are concerned that the low prices will 
+decapitalize existing power producers and fail to generate 
+sufficient investments to match future energy needs. 
+Although the auction was the first real test of the GoB's 
+new energy regime (reftels), additional auctions to be held 
+in early 2005 should more clearly indicate the new model's 
+fate.  END SUMMARY. 
+ 
+BACKGROUND: FINALLY A NEW ENERGY MODEL 
+-------------------------------------- 
+ 
+¶3. (U) Since 1995, GoB energy policy has acknowledged the 
+need for reliance, to some degree, on market forces and 
+private sector involvement, including some privatization of 
+the sector.  Upon taking office in 2002, however, the Lula 
+administration was determined to establish a new model for 
+the sector (reftels).  While the Lula administration did 
+not want to pursue further privatization of existing power 
+companies, which are primarily parastatal, it recognized 
+that it still needed to bring in new private investment 
+into the sector.  The result was a new hybrid model, 
+enacted in March 2004, designed to stabilize the energy 
+sector by increasing state control while maintaining 
+aspects of market competition. 
+ 
+¶4. (U) To account for the differences in cost structures 
+among older, already-amortized power plants and new 
+investment, the complicated new model divides power 
+generators into two competition groups: "old energy" 
+(generators that came on-line before January 1, 2000) and 
+"new energy" (future generators and those that came on-line 
+after January 1, 2000).  (Note: existing generators whose 
+projects came on-line after the cut-off date for "old 
+energy" are sometimes referred to as "Energia de Botox" - 
+i.e., old energy, but with a new face.  End Note.) 
+ 
+THE FIRST TEST OF THE NEW MODEL 
+-------------------------------- 
+ 
+¶5. (U) The December 7 "old energy mega-auction," run by the 
+newly-created Electrical Energy Commercialization Chamber 
+(CCEE), was widely seen as the first real test of the new 
+GoB energy model.  The 17,000-megawatt auction was for the 
+"captive" consumers -- primarily households and small 
+businesses -- who represent a little over 60% of current 
+power demand, and who purchase energy through the large 
+distributors.  (Note: Large industrial and commercial power 
+consumers may negotiate power-supply contracts directly 
+with the energy producers, including some private companies 
+who did not sell their energy at the auction, through the 
+Free Contract Market (ACL).  End Note.) 
+ 
+¶6. (U) Brazilian Minister of Mines and Energy Dilma 
+Rousseff publicly called the auction a "success," and 
+declared it would bring stability to the energy sector 
+through longer-term contracts and lower consumer prices. 
+The national average price for energy at the time of the 
+auction was R$61/MWh.  For the 8-year contracts auctioned, 
+the average results were as follows: 
+ 
+     Year        Price        %-of-Demand Contracted 
+     ----      --------       ---------------------- 
+     2005     R$57.51/MWh          98.9% 
+     2006     R$67.33/MWH          91.7% 
+     2007     R$75.46/MWh          100% 
+ 
+¶7. (U) Although there is currently a surplus of energy -- 
+in part because recent rains have replenished the country's 
+hydro reservoirs -- the auction resulted in even lower 
+prices than either analysts or the GoB expected.  Investors 
+and analysts responded negatively immediately after the 
+auction and stock prices for many energy companies plunged; 
+in the three days after the auction, the stock of 
+Eletrobras (a parastatal and also the country's largest 
+electricity generator) fell 21.5% and the electric power 
+index on the Bovespa stock exchange fell 7.9%.  Many 
+analysts expressed concern that the prices were too low for 
+the state-owned companies to invest in future generating 
+capacity and that the low prices would not attract private 
+sector investment.  Other analysts believe, however, that 
+the Bovespa's quick return to pre-auction levels indicates 
+that the market initially over-reacted to the results. 
+They note that the prices were still substantially higher 
+than the current spot price (Reais 18.59), and that, when 
+adjusted for inflation, 2007 prices approach the lower 
+bounds of the system's marginal cost of expansion (at 
+current exchange rates). 
+ 
+TWEAKING THE AUCTION RULES 
+-------------------------- 
+ 
+¶8. (SBU) One of the Directors of ANEEL (the Brazilian 
+Electricity Regulatory Agency), Isaac Averbuch, told 
+Brasilia EconOff the low prices were the result of GoB 
+rules for the auction.  Averbuch does not consider it to 
+have been a true auction since the rules created a 
+"permanent imbalance" between supply offered by generators 
+and demand.  Indeed, by separating the auction of "old 
+energy" from "new energy", the initial auction benefited 
+the primarily state-owned companies whose debts were 
+amortized and could thus offer lower prices. 
+ 
+¶9. (U) The state-owned companies also did not face the same 
+pressure as private companies in terms of bottom-lines and 
+investment returns.  During the auction itself, 6 of the 18 
+participating producers reportedly dropped out after the 
+first round of bids.  We are not aware of any state-owned 
+companies that withdrew from the pool even as the prices 
+continued to drop.  To the contrary, Eletrobras 
+subsidiaries were reportedly responsible for 65% of the 
+energy auctioned.  Although the GoB plays a central role in 
+the auction, the distributors ultimately sign contracts 
+directly with the generators. 
+ 
+¶10. (SBU) During the auction, when the prices dropped below 
+a certain level, the energy companies participating could 
+withdraw their energy offer from the auction.  Under more 
+traditional rules, supply would have been below demand, 
+forcing the price to rise again until enough power was 
+offered to meet the demand.  However, the GoB created a 
+mechanism that allowed it to keep forcing prices down. 
+According to Averbuch, the GoB could adjust the demand to 
+keep demand less than the supply so that prices would 
+continue to drop.  The energy demand removed from the 
+auction would then be met with power sold on the spot 
+market rather than the long-term contract auction. 
+PRIVATE SECTOR PERSPECTIVE 
+--------------------------- 
+ 
+¶11. (SBU) U.S.-owned energy firms Duke Energy and AES told 
+Sao Paulo EconOff they believe the GoB conducted the 
+auction in a manner that favored state-owned generators and 
+distributors.  Duke Energy Director for Regulatory Affairs 
+Paulo Born lends support to Averbuch's assertion of GoB 
+manipulation of the auction rules.  Born said that, in the 
+second phase of the auction, the GoB lowered forecasted 
+demand while state-owned generating firms offered a 
+consistent supply.  This resulted in a downward pressure on 
+bid prices that private companies found difficult to match. 
+(Note: Although it is not clear how much of the energy 
+demand was removed from the auction through this method, 
+many companies withdrew their energy supplies from the 
+auction as the prices dropped and not all of the demand was 
+met for contracts beginning in 2005 and 2006. End Note.) 
+Born described the auction as a GoB play for political 
+advantage and "popular support" by holding energy prices 
+down.  AES Vice President for Business Development Ricardo 
+Lima told us that, although the auction resulted in lower 
+than anticipated prices, the outlook for energy 
+distributors has improved, citing guarantees provided for 
+distribution companies under the new energy model.  He said 
+the prospects for energy generation firms were still 
+worrisome, and that it will likely be several years before 
+the country will be able to attract new investment. 
+ 
+SHORT-TERM VS. MID-TERM PROGNOSIS 
+----------------------------------- 
+ 
+¶12. (SBU) The Minister of Mines and Energy has publicly 
+stated that the auction results will mean lower prices for 
+the consumer.  Many reporters have repeated the same 
+prediction, at least for the short-term.  Lima from AES 
+predicts that prices may drop 2.5%.  Averbuch, however, 
+says the prices will probably not go down so much as they 
+may just not rise as quickly. 
+ 
+¶13. (SBU) Averbuch, Born, Lima and other energy analysts 
+predict that Brazil faces a possible shortage of energy in 
+the short-term (2008-2009) similar to the crisis the 
+country suffered in 2001.  This may be the case given the 
+approximately 4 years a new hydroelectric plant -- the 
+GoB's preferred type of power plant -- takes to progress 
+from concession to operation, especially if a future 
+drought leads to water shortages at the main reservoirs. 
+The GoB did not solicit bids for the construction of new 
+power plants during 2003 and 2004, and the press reports 
+that of the 45 hydroelectric plant concessions auctioned 
+between 1997 - 2002, only 21 have begun construction.  Many 
+projects are delayed because of environmental licensing 
+problems.  While a new thermal power plant can be built in 
+2 to 3 years, the GoB policy views thermal power primarily 
+as emergency back-up. 
+ 
+¶14. (SBU) In the medium-term (2010-2012), however, Averbuch 
+predicts precisely the opposite problem, because in the new 
+model the GoB has reserved for itself the role of 
+predicting how much new generation capacity is needed. 
+These predictions will be made by a newly formed and 
+purportedly independent Energy Research Enterprise (EPE). 
+The GoB plans to auction concessions for new power plants 
+to supply energy based on the EPE energy consumption 
+projections.  Averbuch fears that because the GoB will 
+likely over-estimate the energy needs based on overly 
+optimistic economic growth projections, Brazil may have an 
+energy surplus by 2010 that will lead to a ballooning bill 
+for contracted energy. 
+ 
+UPCOMING "NEW ENERGY" AUCTION 
+------------------------------ 
+ 
+¶15. (U) Although there is considerable concern over the 
+results of the December auction, investors are watching the 
+upcoming auction of "new energy" even more closely.  The 
+"new energy" auction is expected in March or April for 
+contracts beginning in 2008 and 2009, and the GoB will 
+conduct up to four additional auctions during 2005 for 
+contracts to supply estimated new future demand.  Wary of 
+the timeframe to bring new generation capacity on-line, in 
+the new auction the GoB will only solicit bids from 
+companies with already-approved environmental licenses. 
+However, according to news sources, even among companies 
+with approved licenses, such as Tractebel, the decision 
+whether to construct the new plants is pending the results 
+of the next auction. 
+ 
+COMMENT 
+------- 
+ 
+¶16. (SBU) While the results of the December "old energy" 
+auction were less than encouraging, existing generators had 
+little option but to minimize their losses and make their 
+peace with the new model.  Beyond the lower than expected 
+prices, of perhaps greater concern is the apparent GoB 
+manipulation of the auction rules and the influence of the 
+large, state-owned energy producers.  That said, the 
+outlook for private investment hinges more on the results 
+of the "new energy" auction, which should show starkly how 
+much confidence private investors have in the new model. 
+ 
+DANILOVICH

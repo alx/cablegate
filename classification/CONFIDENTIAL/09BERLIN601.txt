@@ -1,0 +1,61 @@
+09BERLIN601
+
+Wed May 20 00:00:00 +0200 2009
+CONFIDENTIAL
+Embassy Berlin
+VZCZCXRO9284
+PP RUEHDH RUEHHM RUEHPB RUEHTM RUEHTRO
+DE RUEHRL #0601/01 1401650
+ZNY CCCCC ZZH
+P 201650Z MAY 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 4158
+INFO RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+RUEHBS/AMEMBASSY BRUSSELS 1240
+RUEHMD/AMEMBASSY MADRID 0680
+RUEHFR/AMEMBASSY PARIS 0419
+RUEHRO/AMEMBASSY ROME 1970
+RUEKJCS/SECDEF WASHINGTON DC
+RUEHRL/USDAO BERLIN GE
+RUEHBS/USEU BRUSSELS
+RUCUSTR/USSTRATCOM OFFUTT AFB NEC O N F I D E N T I A L SECTION 01 OF 03 BERLIN 000601
+SIPDIS STATE FOR EUR/CE PETER SCHROEDER STATE FOR ISN/MDSP DICK BUENNEKE
+E.O. 12958: DECL: 05/20/2034 TAGS: ETTC PGOV PINR MCAP PREL TSPA FR KZ AE TU GM
+REF: A. BERLIN 181 B. BERLIN 561 C. 08 BERLIN 1575 D. 08 BERLIN 1537
+
+Classified By: Global Affairs Unit Chief Don L. Brown for reasons 1.4 (b) and (d).
+
+¶1. (C) SUMMARY: Germanys plans to develop a space-based High Resolution Optical System (HiROS) capability by 2013 stand to challenge Frances dominance of European space-based electro-optical (EO) collection. The German portion of EADS Astrium (Friedrichshafen), in a Public Private Partnership (PPP) with the German Space Agency (DLR), is co-developing HiROS and sees an opportunity to market HiROS, as well as space-based Synthetic Aperture Radar (SAR) products, to the US market. According to an Astrium-Friedrichshafen official, the Government of France (GoF) will use its influence in Astrium -- as the majority share holder -- to halt development of HiROS in order to protect French commercial EO ambitions. Astrium-Friedrichshafen/DLR are actively courting USG support for HiROS as a potential counter to French HiROS opposition and are proposing a June meeting in Washington with USG officials for further discussion. END SUMMARY
+
+GERMANY DEVELOPING HIROS DESPITE FRENCH OPPOSITION --------------------------------------------- -----
+
+¶2. (C) On 28 January 2009, Dr. Andreas Eckardt, DLR Head of Optical Sensors and Electronics, told EconOff that absolutely no cooperation with France nor any other EU country is planned for the HiROS project, but that he saw cooperation with the US firm Digital Globe (DG) as a real possibility. According to Eckardt, Germany has wanted to embark on European Space Agency (ESA) projects in the past to help develop an indigenous high-resolution EO competency, but were always outmaneuvered by the French (Thales Alenia/Astrium-Toulouse) in the bidding process, citing "financial subsidies from the French government." In addition, Eckardt insinuated that Astrium-Toulouse and Thales Alenia have taken pains to ensure that sensitive EO technology stays in France. For these reasons, as Eckardt explained, Germany has been pushed into a corner by France and left little choice but to "go it alone within the EU" if they wish to break from foreign dependence on EO imagery - an apparent priority for the German government.
+
+¶3. (C) Thomas Walati, Astrium-Friedrichshafen sales associate and DLR consultant, echoed Eckardts sentiments in an Embassy meeting on May 5, adding that Paris has directly instructed Astrium-Friedrichshafen to stop the HiROS program. Walati said that the French see HiROS as a direct competitor with Pleiades, a French/Italian combination EO/radar commercial satellite system scheduled for launch at the beginning of 2010. Walati said &the French are using all available means8 to kill HiROS, speculating that their main weapon may be an existing Memorandum of Understanding (MOU) between France Thales and Astrium, establishing Thales as the prime contractor for EO satellite payloads. In addition, Walati said that the French-influenced Astrium firing/reassignment of Astrium-Friedrichshafen employees is a common tactic the GoF uses to ensure certain technologies stay within France.
+
+FENDING OFF THE FRENCH ----------------------
+
+¶4. (C) Without going into details, Walati claimed that a German/US cooperative agreement on HiROS would fend off the French opposition. He stressed that the French seek to monopolize the world market for commercial EO imagery and that a German/American alliance on HiROS would be vital to ward off a French EO commercial takeover.
+
+FRANCE SWEETENS THE DEAL ------------------------
+
+¶5. (C) Walati said Paris continues to "subsidize" French firms, bids to sell French imagery and/or complete satellite systems and are offering prospective customers "incentive packages." As an example, Walati claimed that the French are poised to win a bid to sell the United Arab Emirates (UAE) two 50-centimeter resolution EO satellites, beating out a US contractor bid with a complex "sweetened deal" that would involve deploying 1,000 French troops to the UAE. According to Walati, the French troops would carry with them "defense equipment" that they would simply "leave behind in the UAE" when they return to France (NFI). Walati added that the French recently won a bid to supply Kazakhstan firm, Kazakhstan Gharysh Sapary, with two "earth-observation satellites" to be built by Astrium-Toulouse/Thales) and are working on a similar deal with the government of Turkey. He said the French are targeting the US market next. Walati opined that Frances recent re-engagement with NATO was part of a strategy to gain increased market access for French satellite equipment and derived data.
+
+EFFECT ON THE EU DEFENSE SATELLITE CONSORTIUM "MUSIS" --------------------------------------------- --------
+
+¶6. (C) Germany,s development of an autonomous HiROS system could reduce their need to participate in the Multinational Space-Based Imaging System (MUSIS). In Walatis words, "if HiROS goes though, the significance of MUSIS will vanish." (COMMENT: MUSIS is an EU consortium including Germany, France, Italy, Belgium, and Spain that is designed to share costs of space assets and to combine space imagery competencies through an imagery sharing agreement. END COMMENT) On the other hand, Walati said that the French are huge supporters of MUSIS, as it would further establish France as the primary supplier of EO imagery to the EU. When asked how the French would view HiROS development and its implications on MUSIS, Eckardt said "As you know, the French already have a SAR system developed, they just need to launch it."
+
+DLR/ASTRIUM LOOKING TO THE US FOR POSSIBLE PARTNERSHIP --------------------------------------------- ---------
+
+¶7. (C) Eckardt and Dr. Cornelia Riess, DLR Head of International Cooperation, said that DLR is pressing forward in Phase B of the HiROS project and is looking toward US industry as a potential partner. Eckardt and Walati said that the US is seen as the only viable international partner for HiROS and underscored their trust in the US, respect for Intellectual Property Rights (IPR) as the deciding factor. According to a DG official, DG is also interested in collaborative research with DLR on HiROS product development, particularly in the area of three-dimensional (3D) visualization. They envision this as a way to augment DGs current and future generations of EO constellations, WorldView-1 and WorldView-2. (COMMENT: 3D visualization is a unique capability that DLR is developing, processing three simultaneous look-angles from HiROS at the same geographic location to create three dimensional images. END COMMENT)
+
+ASTRIUMS SALES PITCH TO THE U.S. ---------------------------------
+
+¶8. (C) If German/American cooperation can be worked out on HiROS, Walati envisions that Astrium-Friedrichshafen/DLR would build three satellites with a US company such as DG, purchasing an additional three satellites with a price tag of about 100 million euro per satellite - to be delivered on orbit. Walati then offered the possibility of combining these systems to form a co-financed six-satellite constellation (to achieve higher revisit rate), in which both countries would task their own satellites but the imagery could be shared. Walati extended this idea to include a similar German/American collaboration procuring Infoterra (an Astrium-Friedrichshafen subsidiary)- sourced SAR satellites. Walati said that any satellite system the US would purchase from Germany would need to be manufactured in Germany and emphasized that, unlike France, Germany is open to using US
+components and not/not aiming for an International Traffic in Arms Regulations (ITAR)-free design. Walati expressed a desire to organize a meeting between DLR and USG officials in Washington in June 2009 to discuss US equities/interest in: A) Astrium SAR X- and L-band satellites, B) HiROS, and C) German 3D hardware/software products for use with EO and/or radar data.
+
+COMMENT ---------
+
+¶9. (C) Although HiROS is not yet a funded program, Astrium-Friedrichshafen and DLR are aggressively marketing it with the goal of a completed system by 2013 for two primary reasons: to compete commercially with the French and to take advantage of a one year overlap with Germanys TanDEM-X radar mission (SEE REF A). Astrium and DLR realize that the 2013 schedule is ambitious and see a partnership with DG as a logical, risk-mitigating step to speed development, control cost, and secure financing. It is also notable that, although many counties were considered for collaboration on HiROS, DLR only felt comfortable reaching out to the US.
+Koenig

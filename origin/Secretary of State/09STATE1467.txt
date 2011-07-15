@@ -1,0 +1,138 @@
+09STATE1467
+NOTIFICATION OF TREASURY DESIGNATION OF MUHAMMAD
+Wed Jan 07 00:00:00 +0100 2009
+SECRET//NOFORN
+Secretary of State
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHC #1467 0071816
+ZNY SSSSS ZZH
+R 071802Z JAN 09
+FM SECSTATE WASHDC
+TO RUEHOT/AMEMBASSY OTTAWA 0000
+INFO RUEHDM/AMEMBASSY DAMASCUS 0000Sid: 186106
+date: 1/7/2009 18:02
+refid: 09STATE1467
+origin: Secretary of State
+classification: SECRET//NOFORN
+destination: 09DAMASCUS126|09DAMASCUS146|09DAMASCUS149|09DAMASCUS177|09DAMASCUS438|09OTTAWA1398|09STATE95077
+header:
+VZCZCXYZ0003
+RR RUEHWEB
+DE RUEHC #1467 0071816
+ZNY SSSSS ZZH
+R 071802Z JAN 09
+FM SECSTATE WASHDC
+TO RUEHOT/AMEMBASSY OTTAWA 0000
+INFO RUEHDM/AMEMBASSY DAMASCUS 0000
+----------------- header ends ----------------
+S E C R E T STATE 001467
+NOFORN
+SIPDIS
+E.O. 12958: DECL: 01/05/2019
+TAGS: EFIN KTFN CA SY
+SUBJECT: NOTIFICATION OF TREASURY DESIGNATION OF MUHAMMAD
+HAMSHU
+REF: A. A. STATE 95077
+¶B. B. DAMASCUS 126
+¶C. C. DAMASCUS 438
+¶D. D. DAMASCUS 177
+¶E. E. DAMASCUS 149
+¶F. F. DAMASCUS 146
+¶G. G. OTTAWA 1398
+Classified By: NEA/ELA Acting Director S.Newhouse, reasons 1.4 b and d
+¶1. (U) THIS IS AN ACTION REQUEST. PLEASE SEE PARAGRAPH 4.
+¶2. (S//NF) SUMMARY. The United States Government intends to
+designate Muhammad Hamshu pursuant to Executive Order (E.O.)
+13460 as early as January 12, 2009, but no later than January
+16, 2009, for engaging in and facilitating public corruption
+by senior officials within the Government of Syria.
+Previously, the Department asked Embassy Ottawa to ask
+appropriate Canadian authorities to confirm Hamshu's Canadian
+citizenship (REF. A). A Canadian DFAIT official informed
+Embassy Ottawa that Canadian privacy laws prevent the
+government of Canada from disclosing information regarding
+Muhammad Hamshu's legal status in Canada, including whether
+he is a Canadian citizen (REF G). DFAIT and the Canadian
+Department of Justice advised Embassy Ottawa to request this
+information through Canadian law enforcement channels under
+the terms of the mutual legal assistance treaty (MLAT). DFAIT
+and DOJ jointly recommended the request be referred to the
+Canadian Foreign Central Authority for their consideration.
+END SUMMARY.
+---------
+OBJECTIVE
+---------
+¶3. (S//NF) Treasury Department requests that Embassy Ottawa
+notify appropriate authorities in the Government of Canada of
+the United States Government's intention to designate
+Muhammad Hamshu pursuant to E.O. 13460 during the week of
+January 12-16, 2009, for engaging in and facilitating public
+corruption by senior officials within the Government of
+Syria. Hamshu is a corrupt business figure and member of the
+Syrian parliament with close ties to senior Syrian regime
+officials. Treasury welcomes any information the Government
+of Canada (GOC) can provide on Muhammad Hamshu, specifically
+confirming Muhammad Hamshu's Canadian citizenship, prior to
+designation. If the GOC is not able to advise the USG of
+Hamshu's Canadian legal status before January 12, the USG
+would not/not publicly release at the time of Hamshu's
+designation any reference to possible Canadian legal status.
+--------------
+ACTION REQUEST
+--------------
+¶4. (S) Please use the following points in meetings with
+Canadian Officials:
+BEGIN TEXT APPROVED FOR RELEASE TO CANADIAN OFFICIALS
+--(S//REL to USA, CAN) The United States intends to designate
+Muhammad Hamshu under Executive Order 13460 for being
+responsible for, having engaged in, having facilitated, or
+having secured improper advantage as a result of, public
+corruption by senior officials within the Government of Syria.
+--(S//REL to USA, CAN) The United States Government has
+reason to believe that Muhammad Hamshu may have legal status
+within Canada and requests that the Canadian Government
+determine his status, if any. If Muhammad Hamshu is in fact a
+Canadian citizen or resident alien, the USG requests a copy
+of any supporting documentation.
+--(S//REL to USA, CAN) If the Canadian Government confirms
+that Hamshu has legal status within Canada, then unless the
+Canadian Government objects, the United States Government
+will make public Muhammad Hamshu's Canadian citizenship at
+the time of designation for accurate identification in the
+event of a blocking action by financial institutions.
+--(S//REL to USA, CAN) Additionally, the United States
+Government would appreciate any information the Canadian
+Government can provide on Muhammad Hamshu's commercial
+interests or financial business holdings.
+--(U) To assist the Canadian Government in this
+determination, the following identifying information is
+provided:
+(U) Aliases:
+--(U) Muhammad Sabir Hamshu
+--(U) Muhammed Saber Hamsho
+--(U) Muhammad Hamsho
+--(U) Mohammed Hamshou
+(U) DOB: 1966
+(U) POB: Damascus, Syria
+(U) Businesses Owned:
+--(U) Hamsho Group International
+--(U) Middle East Marketing Organization
+(U) THIS INFORMATION IS FURNISHED WITH THE UNDERSTANDING THAT
+IT WILL NOT BE DISCLOSED OR KNOWLEDGE OF ITS POSSESSION
+REVEALED TO ANY OTHER NATION OR PARTY WITHOUT SPECIFIC
+AUTHORITY FROM THE GOVERNMENT OF THE UNITED STATES OF AMERICA
+AND THAT IT WILL BE PROVIDED SUBSTANTIALLY THE SAME DEGREE OF
+SECURITY PROTECTION AFFORDED TO IT BY THE GOVERNMENT OF THE
+UNITED STATES.
+END TEXT APPROVED FOR RELEASE TO CANADIAN OFFICIALS
+------------------
+REPORTING DEADLINE
+------------------
+¶5. (U) Embassy should report results of efforts by cable to
+State Deputy Director for Canadian Affairs Gary Sheaffer at
+SheafferGL@state.sgov.gov and Treasury TFFC Policy Advisor
+Hagar Hajjar at hajjarh@treasury.tsdn.sgov.gov.
+RICE
+=======================CABLE ENDS======================

@@ -1,0 +1,56 @@
+09STATE113762
+
+Wed Nov 04 00:00:00 +0100 2009
+SECRET
+Secretary of State
+VZCZCXYZ0028
+PP RUEHWEB
+
+DE RUEHC #3762 3081455
+ZNY SSSSS ZZH
+P 041451Z NOV 09
+FM SECSTATE WASHDC
+TO RUEHPG/AMEMBASSY PRAGUE PRIORITY 1245
+INFO MISSILE TECHNOLOGY CONTROL REGIME COLLECTIVE PRIORITY
+RUEHIT/AMCONSUL ISTANBUL PRIORITY 3390S E C R E T STATE 113762
+
+SIPDIS
+
+E.O. 12958: DECL: 11/04/2034 TAGS: PARM MTCRE PREL IR TU CZ
+
+Classified By: ISN/MTR ACTING DIRECTOR RALPH PALMIERO; REASONS 1.4 (B), (C) AND (D).
+
+¶1. (U) This is an action request. Embassy Prague, please see paragraph 4.
+
+¶2. (S) Background/Purpose/Objective: We want to alert Czech Republic officials to a possible effort by the Turkish firm Ak Makina to circumvent the Czech Republics export control laws. Ak Makina has previously worked to procure machine tools on behalf of entities affiliated with Irans liquid propellant ballistic missile developer and we are concerned that any export of machine tools to Ak Makina poses potential missile proliferation risks.
+
+¶3. (S) Specifically, the United States has information that in September 2009, Ak Makina was working to procure a five-axis computer numerically controlled (CNC) machine tool manufactured by the Czech Republic-based firm Kovosit MAS and controlled by the Wassenaar Arrangement and the Nuclear Suppliers Group. Our information indicates that Ak Makina may be trying to conceal from Kovosit MAS that the end-user for this equipment is Irans Kara Gostar Engineering Company. In light of Ak Makinas previous cooperation with ballistic missile-related entities in Iran, we want to ask Czech Republic authorities to investigate this activity and urge them to use all available measures to prevent Ak Makina from evading the Czech Republics export controls to supply machine tools to Iran.
+
+¶4. (S) Action Request: Request Embassy Prague approach appropriate host government authorities to deliver talking points/non-paper in paragraph 5 below and report response. Talking points also may be provided as a non-paper.
+
+¶5. (S) Begin talking points/non-paper:
+
+(SECRET/REL CZECH REPUBLIC)
+
+-- We would like to raise with you an issue of proliferation concern and request your governments assistance in investigating this activity.
+
+--The United States has information that in September 2009, the Turkish company Ak Makina was working to procure a computer numerically controlled (CNC) machine tool manufactured by the Czech Republic-based firm Kovosit MAS.
+
+-- Ak Makina has previously worked to procure machine tools on behalf of entities affiliated with Irans liquid propellant ballistic missile developer Shahid Hemmat Industrial Group (SHIG), and we are concerned that any export of machine tools to Ak Makina poses potential missile proliferation risks.
+
+-- We understand that the machine sought by Ak Makina from Kovosit MAS is likely a five-axis CNC milling machine controlled by the Wassenaar Arrangement and the Nuclear Suppliers Group.
+
+-- Our information indicates that Ak Makina may be trying to conceal from Kovosit MAS that the end-user for this equipment is Irans Kara Gostar Engineering Company.
+
+-- We hope you will use this information to investigate this activity and take all available measures to prevent Ak Makina from evading the Czech Republics export controls to supply machine tools to Iran.
+
+-- We have also brought this information to the attention of Turkish authorities.
+
+-- We look forward to continued cooperation on export control and nonproliferation issues and to hearing of any actions you take in response to this information at the earliest possible time.
+
+End talking points/non-paper
+
+¶6. (U) Washington POC is ISN/MTR James Mayes (Phone: 202-647-3185). Please slug any reporting on this issue for ISN/MTR.
+
+¶7. (U) A word version file of this document will be posted at .
+CLINTON

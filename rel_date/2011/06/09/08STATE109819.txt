@@ -1,0 +1,67 @@
+08STATE109819
+
+Tue Oct 14 00:00:00 +0200 2008
+SECRET
+Secretary of State
+VZCZCXYZ0014
+PP RUEHWEB
+
+DE RUEHC #9819 2881923
+ZNY SSSSS ZZH
+P R 141918Z OCT 08
+FM SECSTATE WASHDC
+TO AMEMBASSY PRETORIA PRIORITY 0000
+INFO MISSILE TECHNOLOGY CONTROL REGIME COLLECTIVES E C R E T STATE 109819
+
+SIPDIS
+
+E.O. 12958: DECL: 10/14/2033 TAGS: PARM MTCRE PREL SF IR
+
+REF: A. STATE 53303 B. PRETORIA 1122
+
+Classified By: ISN/MTR DIRECTOR PAM DURHAM FOR REASONS 1.4 (B), (C), AND (D).
+
+¶1. (U) This is an action request. Embassy Pretoria, please see paragraph 5.
+
+¶2. (S) Background: In May 2008, the USG shared with the SAG information indicating that as of mid- February 2008, a representative of the Iran-based firm M.S. Company provided Irans Sabalan Company with technical specifications for a VGT-1200-1200 high temperature vacuum furnace manufactured by the South African firm Prestige Thermal Equipment Pty. Ltd. (Ref A). Sabalan is affiliated with the Shahid Hemmat Industrial Group (SHIG), Irans primary developer of liquid-fueled ballistic missiles. South African Deputy Director for Nuclear Disarmament and Non-Proliferation Michiel Combrink agreed to act "immediately" on the information we provided and to provide informal feedback on this matter if at all possible (Ref B). (Note: We have not yet received any such update. End note.) While vacuum furnaces are not controlled by the Missile Technology Control Regime (MTCR) and are used in many commercial applications, the VGT-1200-1200 would be very well- suited to annealing and brazing processes in a missile production facility. Paragraph 4 of UN Security Council Resolution 1737 requires UN Member States to take measures to prevent the transfer to Iran of any item that the State determines would contribute to the development of nuclear weapon delivery systems. This transfer would be inconsistent with this provision of UNSCR 1737.
+
+¶3. (S) We now have information indicating that as of July 2008, Irans ballistic missile program continued to seek a vacuum furnace from Prestige Thermal Equipment Pty. Ltd. Specifically, the Iranian intermediary Mehrfam Sepahan Company (likely the same firm as the "M.S. Company" previously discussed with the SAG in May) received a quotation for a horizontal vacuum heat treating and brazing furnace (model HG 8812-2G) manufactured by Prestige. As in the case we raised in May, the Mehrfam Sepahan Company sought this equipment on behalf of SHIG. Like the VGT-1200- 1200, this vacuum furnace is not controlled by the MTCR. However, it is well-suited to producing combustion chambers for liquid rocket engines.
+
+¶4. (S) Objective: We want to raise this matter with South African authorities and urge them to investigate this information with a view towards ensuring that South African firms are not involved in the supply of sensitive technologies to SHIG or other Iranian ballistic missile entities, even inadvertently.
+
+¶5. (S) Action Request: Request Embassy Pretoria approach appropriate host government officials to deliver talking points in paragraph 6 below and report response. Talking points also may be provided as a non-paper.
+
+¶6. (S) Begin talking points/non-paper:
+
+(SECRET//REL SOUTH AFRICA)
+
+-- In the spirit of our nonproliferation cooperation, we would like to alert you to a matter of potential proliferation concern and request your assistance in investigating this activity.
+
+-- In May 2008, we shared with your government information indicating that as of mid-February 2008, Dr. Shokrola Masihpour of Irans M.S. Company provided to the Sabalan Company technical specifications for a VGT-1200-1200 high temperature vacuum furnace.
+
+-- As we noted then, the Sabalan Company is affiliated with the Shahid Hemmat Industrial Group (SHIG), Irans primary developer of liquid-fueled ballistic missiles and an entity designated as subject to targeted sanctions under UN Security Council Resolution 1737.
+
+-- The M.S. Company advised Sabalan to establish a letter of credit for the South African company Prestige Thermal Equipment Pty Ltd. at the First National Bank, Wadeville branch, South Africa.
+
+-- We now have additional information indicating that as of July 2008, Irans ballistic missile program continued to seek a vacuum furnace from Prestige Thermal Equipment.
+
+-- Specifically, we understand that the Iranian intermediary Mehrfam Sepahan Company (likely the same firm as the "M.S. Company" we discussed with you in May) received a quotation for a horizontal vacuum heat treating and brazing furnace (model HG 8812-2G) manufactured by Prestige Thermal Equipment.
+
+-- As in the case we raised with you in May, the Mehrfam Sepahan Company sought this equipment on behalf of SHIG.
+
+-- While this vacuum furnace is not controlled by the Missile Technology Control Regime (MTCR), it is well- suited to producing combustion chambers for liquid rocket engines.
+
+-- As such, in our view, transfer of this vacuum furnace to Iran would be inconsistent with UNSCR 1737, which requires UN Member States to take measures to prevent the transfer to Iran of any items that the State determines would contribute to the development of nuclear weapon delivery systems.
+
+-- We do not know if Prestige Thermal Equipment is aware that the end-user in this potential sale is affiliated with Irans ballistic missile program.
+
+-- We ask that you investigate this information and take all appropriate measures to ensure that Prestige Thermal Equipment is not acting - even unwittingly - as a source of supply to SHIG (an entity designated by UN Security Council Resolution 1737 for its involvement in Irans ballistic missile program) or any other entity associated with Irans ballistic missile program.
+
+-- We look forward to continued cooperation with your government on nonproliferation and export control matters, and would appreciate hearing the results of any actions you take in response to this information.
+
+End talking points/non-paper
+
+¶7. (U) Washington POC is ISN/MTR John Paul Herrmann (Phone: 202-647-1430). Please slug any reporting on this issue for ISN/MTR.
+
+¶8. (U) A word version file of this document will be posted at .
+RICE

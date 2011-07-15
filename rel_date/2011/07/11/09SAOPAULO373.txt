@@ -1,0 +1,213 @@
+09SAOPAULO373
+WHY IS BRAZIL'S COST OF CREDIT SO HIGH?
+Tue Jun 30 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Sao Paulo
+VZCZCXRO2564
+RR RUEHRG
+DE RUEHSO #0373/01 1811447
+ZNR UUUUU ZZH
+R 301447Z JUN 09
+FM AMCONSUL SAO PAULO
+TO RUEHC/SECSTATE WASHDC 9303
+INFO RUEHBR/AMEMBASSY BRASILIA 0457
+RUEHRG/AMCONSUL RECIFE 4389
+RUEHRI/AMCONSUL RIO DE JANEIRO 9181
+RUEHBU/AMEMBASSY BUENOS AIRES 3540
+RUEHAC/AMEMBASSY ASUNCION 3787
+RUEHMN/AMEMBASSY MONTEVIDEO 2931
+RUEHSG/AMEMBASSY SANTIAGO 2787
+RUEHLP/AMEMBASSY LA PAZ 4125
+RUCPDOC/USDOC WASHDC 3279
+RUEATRS/DEPT OF TREASURY WASHDC
+RHEHNSC/NATIONAL SECURITY COUNCIL WASHDCUNCLAS SECTION 01 OF 03 SAO PAULO 000373 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+STATE PASS USTR FOR KDUCKWORTH 
+STATE PASS EXIMBANK 
+STATE PASS OPIC FOR DMORONSE, NRIVERA, CMERVENNE 
+STATE PASS NSC FOR ROSSELLO 
+DEPT OF TREASURY FOR LINDQUIST 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN EINV ETRD BR
+SUBJECT:  WHY IS BRAZIL'S COST OF CREDIT SO HIGH? 
+ 
+REF: Sao Paulo 280 
+ 
+SENSITIVE BUT UNCLASSIFIED--PLEASE PROTECT ACCORDINGLY 
+ 
+¶1.  (SBU) Summary:  Consumers and businesses pay more for loans in 
+Brazil than they do in almost any other country, with average 
+interest rates on credit cards of 200 percent and some of the 
+highest banking spreads in the world.  While the GOB blames banks 
+(and vice-versa) for the high real interest rates, both parties 
+share responsibility.  Analysts believe that to reduce high interest 
+rates, banks should first centralize consumer credit history data, 
+and thus reward clients with a good credit history with lower rates. 
+ End Summary. 
+ 
+--------------- 
+200 Percent APR 
+--------------- 
+ 
+¶2.  (SBU) At 35 percent, Brazil has the highest commercial banking 
+spread in the world (i.e., the difference between the interest rate 
+banks pay depositors and what the banks charge businesses and 
+consumers), according to a March report from the Institute for 
+Industrial Development, a lobby group.  Despite the BCB's relatively 
+low overnight lending rate (known as the  SELIC rate) of 9.25 
+percent, consumers pay an average interest rate of over 200 percent 
+on credit cards, according to Fernando Valim, President of 
+Experian/Serasa, the only significant credit rating agency in 
+Brazil.  Secured loans fair somewhat better-- consumers paid an 
+average of 132 percent per year and businesses paid 63 percent, 
+according to a May report from the National Association of Finance, 
+Business, and Accounting Executives (ANEFAC).  Depositors by law 
+currently receive 0.55 percent per month on their savings account 
+deposits, minus a substantial bank fee, which varies by bank. 
+ 
+¶3.  (SBU) Some economic sectors, such as farmers and small 
+businesses, receive loans sharply discounted by government mandate. 
+Private bank sources say, however, that banks pass on the cost of 
+these government-mandated, lower interest rate loans to their other 
+clients.  Consumers can also receive discounted loans for real 
+estate purchases through the GoB-owned Caixa Economica. 
+ 
+¶4.  (SBU) In a competitive market, if one bank offered a loan for 
+less than another, other banks would be forced to lower their 
+interest rates.  Brazilian credit, however, does operate in a 
+sufficiently competitive market to allow for this.  Because positive 
+credit history is not centralized, clients must build a relationship 
+with just one bank, usually the one that focuses most on their 
+individual needs.  For example, government-owned Banco do Brasil has 
+previously concentrated on agricultural loans, so construction 
+companies have historically looked to other banks for their own 
+financing.  If a company or individual were to try to take advantage 
+of a lower interest rate offered by another bank, they would have to 
+answer questions about why they have left their old bank, filling 
+out myriad forms, and ultimately receive a smaller loan than they 
+would have gotten from their original bank.  Since banks effectively 
+lock in their customers, price differences for loans from one bank 
+to another do not create a strong downward pressure on the spread. 
+ 
+ 
+¶5.  (SBU) Another obstacle to lowering the spread, according to 
+Valim, is the inability of creditors to enforce contracts when 
+consumers default on their debts.  Consumer protection laws make 
+repossession so cumbersome that most banks prefer to write off their 
+losses in the event of default.  A 2007 Brazil Central Bank (BCB) 
+study detailing the costs of the spread supports Valim's assertion. 
+The high default rate is responsible for 37.4 percent of cost of the 
+spread.  The bank's margin ranks second at 26.9 percent of the 
+spread.  And government taxes are third with 18.3 percent. 
+ 
+¶6.  (SBU) Brazil's high interest rates increase the risk of default, 
+according to Yoshiaki Nakano, Director of the Economics Department 
+at the Getulio Vargas Foundation.  Companies choose to invest in a 
+project only if it will earn more than government-backed securities 
+plus a risk premium.  Since interest rates in Brazil are so high 
+(currently at 9.25 percent, actually an historic low), an investment 
+ 
+SAO PAULO 00000373  002 OF 003 
+ 
+ 
+project will need to earn a very high rate of return to make it 
+worthwhile.  It will also carry with it a correspondingly high risk 
+of failure.  Banks thus charge an even higher rate to compensate for 
+increased risk.  The inverse is also true--with interest rates in 
+Brazil falling, Nakano believes the spread will fall at an even 
+faster rate. 
+ 
+---------------------- 
+A Solution to Default... 
+---------------------- 
+ 
+¶7.  (SBU) The high default rate is primarily a result of weak 
+contract law, according to former BCB Deputy Governor Luiz Fernando 
+Figueiredo.  To help lower the interest rates for good consumers, 
+Figueiredo introduced conditional sales contracts to Brazil 
+("alienacao fiduciaria") during his tenure at the BCB.  Under a 
+conditional sale, a consumer buying on credit can take possession of 
+a good, but the actual title remains with the bank until the item is 
+fully paid (similar to car loans in the United States).  Buyers who 
+default are required to return the purchased item to the bank or 
+face prison.  The fact that banks can repossess leads to lower risks 
+for banks and thus lower interest rates for consumers.  It has 
+helped significantly to lower the interest rate for loans in the 
+real estate sector, for example. 
+ 
+------------------------------------ 
+...Undermined by Judicial Intervention 
+------------------------------------ 
+ 
+¶8.  (SBU) The courts have invalidated conditional sales contracts in 
+some sectors by blocking banks from repossessing goods.  In the 
+state of Mato Grosso, for example, farmers who could not make 
+payments for their agricultural equipment took their case to court 
+and won the right to keep their goods, despite being in default. 
+Consequently, banks no longer offer conditional sales contracts for 
+agricultural equipment.  The future of this innovative system is in 
+jeopardy, as well, according to Figuerido.  Since Brazilian courts 
+follow Roman law-based judicial norms, judicial precedent does not 
+bind judges' decisions.  They reinterpret the law in every case, and 
+a capricious judge could decide to end conditional sales contracts 
+in any sector he or she chose. 
+ 
+---------------------- 
+A Credit Score of Zero 
+---------------------- 
+ 
+¶9.  (SBU) Boosting positive data flow to the credit markets, i.e., 
+undertaking a scoring system similar to the United States, would 
+also help lower the spread, according to Valim.  The banks 
+themselves constitute the principal barrier to such a system.  Flush 
+with cash from their 26.9 percent profit margin, banks would prefer 
+to lock in customers rather than lose them to other banks, so they 
+closely guard data on their costumers' lending history.  If they 
+shared this information, well-informed consumers could arbitrage the 
+difference in rates, force down the spread, and cut into the banks' 
+high profit margins. 
+ 
+¶10.  (SBU) The lower house of the Brazilian Congress approved 
+legislation on May 19 that would create a centralized system to 
+track positive credit, i.e., a positive credit bureau.  The Senate 
+still needs to approve the law.  Director-General of the Brazilian 
+Banking Association (Febraban) Wilson Levorato called the lower 
+house's passage "an historic moment" in a press interview.  He said 
+that 95 percent of consumers pay for the five percent who default 
+and that this legislation is the first step to addressing this 
+disparity.  Consumers who opt-into this new voluntary system would 
+have their credit payments tracked.  Those who prove good credit 
+history eventually would pay lower interest rates on loans, though 
+it would take some years to build their credit score.  Valim 
+actually opposes the legislation, telling EconOff that it has been 
+so heavily amended that it would actually impede credit expansion. 
+(Note:  If the Senate passes this legislation and President Lula 
+eventually signs it, there would be no need for Experian/ Serasa to 
+continue operations.  End note.) 
+ 
+ 
+SAO PAULO 00000373  003 OF 003 
+ 
+ 
+¶11.  (SBU) Comment:  While Brazil's untapped credit market has held 
+back growth, it has also has been the country's greatest defense 
+against the ongoing financial crisis.  Banks have not had to dabble 
+in higher risk activities, such as mortgage-backed securities and 
+other toxic assets, because straightforward loan portfolios are so 
+profitable.  This profit margin has infuriated President Lula and 
+led him to publicly attack private banks.  His self-described 
+"obsession" with lowering the spread may have led Lula to try to 
+force the state-owned Banco do Brasil to lower banks' profit margins 
+on loans (reftel), but a more effective, though politically more 
+challenging, approach to  pushing down the cost of credit would be 
+to lower taxes on banks, which could then pass those savings along 
+to consumers and businesses.  End Comment. 
+ 
+¶12.  (U) This cable was coordinated with and cleared by the Treasury 
+Financial Attache and Embassy Brasilia. 
+ 
+WHITE

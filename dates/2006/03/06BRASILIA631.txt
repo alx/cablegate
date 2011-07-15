@@ -17,46 +17,171 @@ RUCPDO/USDOC WASHDC
 RUEHRI/AMCONSUL RIO DE JANEIRO 1786
 RUEHSO/AMCONSUL SAO PAULO 6651
 RUEHRG/AMCONSUL RECIFE 4533UNCLAS SECTION 01 OF 02 BRASILIA 000631 
-
+ 
 SIPDIS 
-
+ 
 SENSITIVE 
 SIPDIS 
-
+ 
 EB/TRA FOR JEFF HORWITZ 
 USDOC FOR 4332/ITA/MAC/WH/OLAC 
 USDOC FOR 3134/ITA/USCS/OIO/WH/RD 
-
+ 
 E.O. 12958: N/A 
 TAGS: EAIR EINV ECON CASC BR
 SUBJECT: BRAZIL'S NEW AIR REGULATORY AGENCY FACES CHALLENGES 
-
-Ref: Brasilia 146 This cable contains business-sensitive information, please treat accordingly. 
-
-¶1. (SBU) Summary. The National Civil Aviation Agency (ANAC) was formally inaugurated in a March 20 ceremony in Brasilia. Emboffs met with ANAC officials March 16 to discuss the agency's plans for the airline industry. Settled are issues like where the agency will be headquartered -- Brasilia -- and the powers it will wield, those which were once the domain of several Ministry of Defense agencies, including the ministry's soon-to-be defunct Civil Aviation Department (DAC). Unsettled are issues regarding funding, how it will interact with related government agencies and what to do with Brazil's ailing flagship airline VARIG, which is operating under bankruptcy-law protection. ANAC is closely examining the VARIG problem and hopes it can be settled soon. Other GoB entities worry that ANAC might poach on their turf. Leaders at INFRAERO, the parastatal that manages Brazil's airports, expressed concern about ANAC diverting both funding and political power from the organization. Ministry of Development, Industry and External Trade (MDIC) officials expressed concern about how ANAC could change the face of air regulation in Brazil. For their part, ANAC representatives plan to visit Washington to meet with FAA officials in April/May 2006 and post supports these efforts. End Summary. 
-
-ANAC is Born ------------ 
-
-¶2. (SBU) The first new regulatory agency created under the Lula Administration, the National Civil Aviation Agency (ANAC) is now up and running. Its directors assumed office on March 20, 2006 when President Lula signed the agency's mandate in a public ceremony. At the ceremony, the President thanked the Department of Civil Aviation (DAC) for its role in bringing Brazilian civil aviation to this point, and directed ANAC to move it forward. Emboffs met with ANAC directors Leur Lomanto and Denise Abreu on March 16 at their temporary headquarters at the Brasilia International airport. Our interlocutors noted that full ANAC operations will not begin until 2007. They said that DAC personnel, the majority of whom are military officers and enlisted men, will initially be subsumed into ANAC but then incrementally replaced with civilians; ANAC should be a completely civilian-staffed agency by 2012, barring delays. ANAC directors are planning a trip to Washington to visit the FAA in April/May 2006 to discuss regulatory and technical issues. 
-
-The Trouble with VARIG ---------------------- 
-
-¶3. (SBU) The first and most troublesome item on the ANAC agenda is VARIG, the ailing Brazilian airline plagued by serious debt issues (USD 3 billion). ANAC views VARIG as a potential target for some "readjustments," according to Denise Abreu, and the agency plans to assign an expert to study VARIG's situation and then make recommendations to an ANAC review board. During the March 16 meeting, Abreu pointedly asked Ambassador Alexander Watson, a consultant for Boeing, if ANAC were to "reassign" VARIG routes to other Brazilian airlines, whether Boeing would transfer the aircraft currently under lease to VARIG to these airlines. She implied that Boeing is at least partially responsible for many of VARIG's current financial woes, including the legal actions in U.S. courts seeking seizure of the carrier's leased aircraft. Ambassador Watson responded that he could not speak for Boeing, but that he could pose the question to Boeing management. 
-
-Safety Issues ------------- 
-
-¶4. (U) Three recent incidents under investigation by DAC and INFRAERO show how much work ANAC faces. On February 13, just after takeoff from Sao Paulo Guarulhos Airport, a 5 inch by 7 inch, two pound piece of a VARIG Boeing 737 engine fell into an elderly couple's kitchen. Luckily, no one was hurt and authorities do not believe that Boeing holds any liability for the incident. The incident occurred after VARIG began implementing a restructuring plan to free up funding to bring back into service some planes previously out of commission due to safety reasons. 
-
-¶5. (U) On March 22, at Sao Paulo Congonhas Airport, Brazil's busiest, a BRA Transportes (a small domestic carrier) plane skidded off the runway onto the taxiway during rainy weather after the pilot BRASILIA 00000631 002 OF 002 turned sharply to avoid heading down an embankment and onto the busy road below. This incident occurred less than a week after the new head of INFRAERO disclosed that financial shortfalls would limit the organization's ability to upgrade airport facilities in Brazil. INFRAERO officials announced March 28 that Congonhas traffic will be cut 50% to allow for further upgrades, such as rubber and oil removal from the runways and runway expansion. Sao Paulo's Guarulhos airport will receive two-thirds of the diverted traffic and Campinas Viracopos airport, about 90 minutes away from Sao Paulo's center, will receive one-third. The same night of the announcement, officials diverted a TAM Airbus plane with a hail-damaged nose cone from its planned landing at Congonhas to Guarulhos, citing the longer runway and better conditions in inclement weather. All of the incidents are still under investigation. 
-
-Sometimes Hostile Colleagues ---------------------------- 
-
-¶6. (SBU) ANAC also faces financial challenges. The DAC, most of whose functions ANAC is assuming, was funded out of the Ministry of Defense budget, but ANAC will not be. Proposals to fund ANAC out of airport taxes and landing fees have drawn opposition from INFRAERO, the manager and operator of Brazilian airports, and itself primarily a military entity. INFRAERO convinced members of the Brazilian congress that ceding 50 percent of the international flight airport taxes it currently keeps (the other half goes into the general GoB coffers) to ANAC would overburden INFRAERO and got this provision deleted from the legislation creating ANAC prior to passage. The new head of INFRAERO, Brigadier Jose Carlos Pereira, has opined publicly that ANAC will compete with INFRAERO for GoB attention and funding. 
-
-¶7. (SBU) Meanwhile, a Ministry of Development, Industry and External trade representative (MDIC) told emboffs that ANAC will "cause trouble" with the agency's new regulatory efforts to liberalize the airline industry, but was unspecific as to how ANAC might prove problematic. Finally, DAC officers at the Ministry of Defense told emboffs that the creation of ANAC has been its priority of late. The reassignment of profitable routes, of great interest to international and national carriers, and a priority prior to the ANAC legislation, has now taken a back seat. The Ministry's future role will focus on policy and air-traffic control while regulations, authorizations, registrations will fall under ANAC's purview. ANAC will also take over the duties of certifying aircraft, currently performed by the Aerospace Technical Center (CTA) in the Airforce Command. 
-
-Comment ------- 
-
-¶8. (SBU) ANAC has gotten off to a bumpy start. Although the fifth and final director has not yet been named, at least the 5-year period for completing the transition to civilian personnel seems to have satisfied the requirements of Brazilian law and concerned DAC officials. While ANAC's permanent headquarters will be located in Brasilia - meaning that any diplomatic or official contact between the USG and that agency will have to take place in Brasilia -- the agency's final structure has not yet been decided. Resolution of its funding situation will determine how much bite will accompany its bark and could settle how well it will relate to its peer agencies. Whether transfer of VARIG routes and Boeing planes to other operators can really occur is an open question. In any event, pressing agenda items such as increased traffic, market efficiency and safety concerns, mean that ANAC will have little time to make adjustments. Post reiterates its support for building this relationship and encourages FAA, TSA and others to reach out to ANAC during this critical phase of its development. End Comment. 
-
+ 
+Ref: Brasilia 146 
+ 
+This cable contains business-sensitive information, please treat 
+accordingly. 
+ 
+¶1. (SBU) Summary. The National Civil Aviation Agency (ANAC) was 
+formally inaugurated in a March 20 ceremony in Brasilia. Emboffs met 
+with ANAC officials March 16 to discuss the agency's plans for the 
+airline industry. Settled are issues like where the agency will be 
+headquartered -- Brasilia -- and the powers it will wield, those 
+which were once the domain of several Ministry of Defense agencies, 
+including the ministry's soon-to-be defunct Civil Aviation 
+Department (DAC). Unsettled are issues regarding funding, how it 
+will interact with related government agencies and what to do with 
+Brazil's ailing flagship airline VARIG, which is operating under 
+bankruptcy-law protection. ANAC is closely examining the VARIG 
+problem and hopes it can be settled soon. Other GoB entities worry 
+that ANAC might poach on their turf. Leaders at INFRAERO, the 
+parastatal that manages Brazil's airports, expressed concern about 
+ANAC diverting both funding and political power from the 
+organization. Ministry of Development, Industry and External Trade 
+(MDIC) officials expressed concern about how ANAC could change the 
+face of air regulation in Brazil. For their part, ANAC 
+representatives plan to visit Washington to meet with FAA officials 
+in April/May 2006 and post supports these efforts. End Summary. 
+ 
+ANAC is Born 
+------------ 
+ 
+¶2. (SBU) The first new regulatory agency created under the Lula 
+Administration, the National Civil Aviation Agency (ANAC) is now up 
+and running. Its directors assumed office on March 20, 2006 when 
+President Lula signed the agency's mandate in a public ceremony. At 
+the ceremony, the President thanked the Department of Civil Aviation 
+(DAC) for its role in bringing Brazilian civil aviation to this 
+point, and directed ANAC to move it forward.  Emboffs met with ANAC 
+directors Leur Lomanto and Denise Abreu on March 16 at their 
+temporary headquarters at the Brasilia International airport. Our 
+interlocutors noted that full ANAC operations will not begin until 
+¶2007.  They said that DAC personnel, the majority of whom are 
+military officers and enlisted men, will initially be subsumed into 
+ANAC but then incrementally replaced with civilians; ANAC should be 
+a completely civilian-staffed agency by 2012, barring delays. ANAC 
+directors are planning a trip to Washington to visit the FAA in 
+April/May 2006 to discuss regulatory and technical issues. 
+ 
+The Trouble with VARIG 
+---------------------- 
+ 
+¶3. (SBU) The first and most troublesome item on the ANAC agenda is 
+VARIG, the ailing Brazilian airline plagued by serious debt issues 
+(USD 3 billion). ANAC views VARIG as a potential target for some 
+"readjustments," according to Denise Abreu, and the agency plans to 
+assign an expert to study VARIG's situation and then make 
+recommendations to an ANAC review board.  During the March 16 
+meeting, Abreu pointedly asked Ambassador Alexander Watson, a 
+consultant for Boeing, if ANAC were to "reassign" VARIG routes to 
+other Brazilian airlines, whether Boeing would transfer the aircraft 
+currently under lease to VARIG to these airlines.  She implied that 
+Boeing is at least partially responsible for many of VARIG's current 
+financial woes, including the legal actions in U.S. courts seeking 
+seizure of the carrier's leased aircraft. Ambassador Watson 
+responded that he could not speak for Boeing, but that he could pose 
+the question to Boeing management. 
+ 
+Safety Issues 
+------------- 
+ 
+¶4. (U) Three recent incidents under investigation by DAC and 
+INFRAERO show how much work ANAC faces. On February 13, just after 
+takeoff from Sao Paulo Guarulhos Airport, a 5 inch by 7 inch, two 
+pound piece of a VARIG Boeing 737 engine fell into an elderly 
+couple's kitchen. Luckily, no one was hurt and authorities do not 
+believe that Boeing holds any liability for the incident. The 
+incident occurred after VARIG began implementing a restructuring 
+plan to free up funding to bring back into service some planes 
+previously out of commission due to safety reasons. 
+ 
+¶5. (U) On March 22, at Sao Paulo Congonhas Airport, Brazil's 
+busiest, a BRA Transportes (a small domestic carrier) plane skidded 
+off the runway onto the taxiway during rainy weather after the pilot 
+ 
+BRASILIA 00000631  002 OF 002 
+ 
+ 
+turned sharply to avoid heading down an embankment and onto the busy 
+road below. This incident occurred less than a week after the new 
+head of INFRAERO disclosed that financial shortfalls would limit the 
+organization's ability to upgrade airport facilities in Brazil. 
+INFRAERO officials announced March 28 that Congonhas traffic will be 
+cut 50% to allow for further upgrades, such as rubber and oil 
+removal from the runways and runway expansion. Sao Paulo's Guarulhos 
+airport will receive two-thirds of the diverted traffic and Campinas 
+Viracopos airport, about 90 minutes away from Sao Paulo's center, 
+will receive one-third.  The same night of the announcement, 
+officials diverted a TAM Airbus plane with a hail-damaged nose cone 
+from its planned landing at Congonhas to Guarulhos, citing the 
+longer runway and better conditions in inclement weather. All of the 
+incidents are still under investigation. 
+ 
+Sometimes Hostile Colleagues 
+---------------------------- 
+ 
+¶6. (SBU) ANAC also faces financial challenges.  The DAC, most of 
+whose functions ANAC is assuming, was funded out of the Ministry of 
+Defense budget, but ANAC will not be.  Proposals to fund ANAC out of 
+airport taxes and landing fees have drawn opposition from INFRAERO, 
+the manager and operator of Brazilian airports, and itself primarily 
+a military entity.  INFRAERO convinced members of the Brazilian 
+congress that ceding 50 percent of the international flight airport 
+taxes it currently keeps (the other half goes into the general GoB 
+coffers) to ANAC would overburden INFRAERO and got this provision 
+deleted from the legislation creating ANAC prior to passage.  The 
+new head of INFRAERO, Brigadier Jose Carlos Pereira, has opined 
+publicly that ANAC will compete with INFRAERO for GoB attention and 
+funding. 
+ 
+¶7. (SBU) Meanwhile, a Ministry of Development, Industry and External 
+trade representative (MDIC) told emboffs that ANAC will "cause 
+trouble" with the agency's new regulatory efforts to liberalize the 
+airline industry, but was unspecific as to how ANAC might prove 
+problematic. Finally, DAC officers at the Ministry of Defense told 
+emboffs that the creation of ANAC has been its priority of late. 
+The reassignment of profitable routes, of great interest to 
+international and national carriers, and a priority prior to the 
+ANAC legislation, has now taken a back seat. The Ministry's future 
+role will focus on policy and air-traffic control while regulations, 
+authorizations, registrations will fall under ANAC's purview. ANAC 
+will also take over the duties of certifying aircraft, currently 
+performed by the Aerospace Technical Center (CTA) in the Airforce 
+Command. 
+ 
+Comment 
+------- 
+ 
+¶8. (SBU) ANAC has gotten off to a bumpy start.   Although the fifth 
+and final director has not yet been named, at least the 5-year 
+period for completing the transition to civilian personnel seems to 
+have satisfied the requirements of Brazilian law and concerned DAC 
+officials.   While ANAC's permanent headquarters will be located in 
+Brasilia - meaning that any diplomatic or official contact between 
+the USG and that agency will have to take place in Brasilia -- the 
+agency's final structure has not yet been decided.  Resolution of 
+its funding situation will determine how much bite will accompany 
+its bark and could settle how well it will relate to its peer 
+agencies. Whether transfer of VARIG routes and Boeing planes to 
+other operators can really occur is an open question.  In any event, 
+pressing agenda items such as increased traffic, market efficiency 
+and safety concerns, mean that ANAC will have little time to make 
+adjustments.  Post reiterates its support for building this 
+relationship and encourages FAA, TSA and others to reach out to ANAC 
+during this critical phase of its development.  End Comment. 
+ 
 Linehan

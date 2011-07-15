@@ -1,0 +1,120 @@
+09BRASILIA131
+TELECOMMUNICATION TRADE AGREEMENTS 2009: BRAZIL'S 3.4-3.6
+Tue Feb 03 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Brasilia
+VZCZCXRO1902
+RR RUEHRG
+DE RUEHBR #0131/01 0341416
+ZNR UUUUU ZZH
+R 031416Z FEB 09
+FM AMEMBASSY BRASILIA
+TO RUEHC/SECSTATE WASHDC 3448
+INFO RUEHRI/AMCONSUL RIO DE JANEIRO 7213
+RUEHSO/AMCONSUL SAO PAULO 3466
+RUEHRG/AMCONSUL RECIFE 9028
+RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS SECTION 01 OF 02 BRASILIA 000131 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+STATE FOR WHA/BSC, WHA/EPSC, EEB/CIP 
+DEPT PASS USTR FOR CATHERINE HINCKLEY 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON EINT ETRD ETTC TINT BR
+SUBJECT:  TELECOMMUNICATION TRADE AGREEMENTS 2009: BRAZIL'S 3.4-3.6 
+GHz SPECTRUM AUCTION 
+ 
+SENSITIVE BUT UNCLASSIFIED 
+ 
+REF: STATE 4730 
+ 
+¶1. (SBU) Summary:  Brazil's telecommunications regulatory agency, 
+ANATEL, will be auctioning spectrum in the 3.5 GHz frequency band 
+once a determination is made whether to allow for full mobility 
+within the designated spectrum and whether to place additional 
+obligations on 3.5 GHz licensees.  Jeferson Fued Nacif, ANATEL's 
+Manager of the Office of International Affairs, explained that 
+ANATEL is currently evaluating statements received during the public 
+comment period and that the ANATEL board would make a decision on 
+full mobility in February, prior to March's planned auction.  Nacif 
+confirmed ANATEL's advocacy for a technologically neutral approach 
+to spectrum use and that ANATEL supports both Time Division 
+Duplexing (TDD) and Frequency Division Duplexing (FDD) methods in 
+the 3.5 GHz band. ANATEL has received public comments on the subject 
+and will make a final decision soon. ANATEL's General Manager of 
+Certification and Spectrum Engineering, Maximiliano Martinhao, 
+verified that ANATEL's decisions to place domestic sourcing 
+requirements on client devices or network equipment used by 3.5 GHz 
+licensees as well as imposing obligations on 3.5 GHz licensees to 
+contribute to research and development projects in the area of 
+telecommunications conducted in Brazil, will be determined after 
+public hearings on these issues are held in February.   End 
+Summary. 
+ 
+A QUESTION OF COMPETITION 
+------------------------- 
+ 
+¶2.  (SBU) Nacif highlighting ANATEL's internal debate over whether 
+to permit full mobility within the 3.5 GHz frequency by pointing to 
+concerns related to the mobile sector's participation in the auction 
+and a resulting decrease in competition within the spectrum. Nacif 
+argued that the mobile sector's deep pockets would allow them to 
+purchase a majority of the spectrum by paying top dollar in an 
+auction format, limiting the number of participating companies in 
+the spectrum, potentially leading to an unintended monopoly. Nacif 
+added that the mobile companies would then be forced to charge 
+elevated user fees for the spectrum in order to recover their 
+initial investment.  Another argument for restricting mobile 
+participation and controlling the pricing in the 3.5GHz band is that 
+it would minimize the devaluation effect on the 2.1GHz spectrum 
+purchases made during an auction that was held in December 2007. The 
+internal debate between maximizing revenues and increasing 
+competition is currently being waged between ANATEL and Brazil's 
+Ministry of Communications (MOC), with MOC favoring the former 
+approach.  ANATEL is studying Japan's spectrum pricing policy that 
+favors a cap pricing, pro competition approach and the EU's pro 
+revenue approach to see which model best serve's Brazil's interests. 
+Nacif noted that should a pro revenue approach be adopted, ANATEL 
+would then consider an auction model that fosters increased 
+participation by capping licensee's maximum spectrum allotment. One 
+idea offered by Nacif would be to sell the auction's 200MHz in lots 
+of 5MHz and cap total individual purchases at 20-30MHz. 
+ 
+TECHNICAL ASPECTS 
+----------------- 
+¶3.  (SBU) In response to the concerns of ANATEL adopting 
+technologically restrictive policies for the 3.5 spectrum, Nacif 
+confirmed that ANATEL has always adopted technologically neutral 
+positions in the past and that both TDD and FDD methods would be 
+promoted by ANATEL. However, Nacif and Martinhao emphasized that 
+ANATEL is currently analyzing public comments on the subject and 
+that a final decision will be made after ANATEL has properly 
+assessed the commercial impact of opening the spectrum to both 
+systems. Martinhco explained that increased foreign competition and 
+its products caused by opening the sector to complete broadband 
+mobility has compelled ANATAL to consider local content requirements 
+as well as obligating 3.5 GHz licensees to invest in Brazilian 
+telecommunications projects.  Martinhao stressed ANATEL's position 
+of promoting fair competition and stated that ANATEL and the MOC do 
+not want to be perceived as adopting protectionist measures; 
+nonetheless, ANATEL will decide on this matter by means of internal 
+debates and public comments that will be received in February. 
+ 
+¶4. (SBU) Comment: Brazil's auction of the 3.5 GHz spectrum has been 
+delayed for over 3 years, a delay that has seen ANATEL and the MOC 
+address issues ranging from spectrum pricing policies to full 
+mobility participation. In the current internal debate, Brazil is 
+considering potential local content requirements and licensee 
+obligations to invest in local telecommunication projects as it 
+determines its approach to the 3.5 GHz license auction. These 
+additional delays to the already three year debate continue to 
+deprive subscribers and service providers of much needed 
+ 
+BRASILIA 00000131  002 OF 002 
+ 
+ 
+differentiated services. End Comment. 
+ 
+SOBEL

@@ -1,0 +1,167 @@
+09BERLIN788
+GERMAN SATELLITE START-UP RAPIDEYE GATHERING
+Wed Jul 01 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXRO3104
+PP RUEHAG RUEHAST RUEHDF RUEHDH RUEHHM RUEHLN RUEHLZ RUEHMA RUEHPB
+RUEHPOD RUEHSL RUEHTM RUEHTRO
+DE RUEHRL #0788/01 1820725
+ZNR UUUUU ZZH
+P 010725Z JUL 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 4489
+INFO RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+RUEHBJ/AMEMBASSY BEIJING 1032
+RUEHBR/AMEMBASSY BRASILIA 0310
+RUEHFR/AMEMBASSY PARIS 0531
+RUEHVL/AMEMBASSY VILNIUS 0238
+RUEHRC/DEPT OF AGRICULTURE USD FAS WASHINGTON DC 0127
+RUEKJCS/SECDEF WASHINGTON DC
+RUEHRL/USDAO BERLIN GE
+RUEHBS/USEU BRUSSELS
+RUCUSTR/USSTRATCOM OFFUTT AFB NEUNCLAS SECTION 01 OF 02 BERLIN 000788 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+STATE FOR EUR/CE PETER SCHROEDER 
+STATE FOR ISN/MDSP DICK BUENNEKE 
+ 
+E.O. 12958: N/A 
+TAGS: TSPA EINV ETRD PGOV PREL PINR CH BR FR LH GM
+SUBJECT: GERMAN SATELLITE START-UP RAPIDEYE GATHERING 
+CUSTOMERS; EMPHASIS ON CHINESE AND USG MARKETS 
+ 
+REF: 08 BERLIN 1537 
+ 
+¶1.  (SBU) SUMMARY:  German satellite imagery provider 
+RapidEye AG, which began selling its imagery products in 
+January of this year (see ref A), has established its first 
+contracts with France and Lithuania.  In the next few years, 
+RapidEye is confident that its customer base will expand by 
+ten, with an eye toward markets in China, the US, and Brazil. 
+ Although the firm originally sought to become a niche 
+provider of value-added imagery products and analysis, it is 
+finding that its customers are only interested in raw imagery 
+data.  This has caused RapidEye to re-focus its business 
+model to be a provider of data that offers direct satellite 
+downlink services.  Please see ref A for previous reporting 
+on RapidEye AG.  END SUMMARY 
+ 
+ 
+FRANCE AND LITHUANIA ARE RAPIDEYE'S FIRST CUSTOMERS 
+--------------------------------------------- ------ 
+ 
+¶2.  (SBU) On June 15, 2009, Econoff and NGAoff met with 
+RapidEye CEO Wolfgang Biedermann and discussed RapidEye's 
+current and future business developments.  Biedermann said 
+that RapidEye had contracts with its first customers, France 
+and Lithuania, totaling one million euros.  Biedermann 
+boasted that RapidEye had beat the competing French 
+commercial satellite imagery system, SPOT, on a crop 
+monitoring project in France.  (COMMENT:  SPOT is a 
+high-resolution, optical imaging satellite system run by Spot 
+Image in Toulouse, France.  The SPOT system has been 
+operational since 1986 with its most recent launch in 2002. 
+END COMMENT)  Biedermann explained that the main reason why 
+RapidEye won over SPOT was that RapidEye has a superior 
+imagery revisit rate, a feature valued by the French customer. 
+ 
+ 
+CUSTOMERS IN THE FOLD: CHINA, BRAZIL AND THE US LEAD THE PACK 
+--------------------------------------------- ---------------- 
+ 
+¶3.  (SBU) Biedermann said RapidEye has 10 more customers in 
+its sights, led by China, Brazil, and the United States.  He 
+estimated these would bring RapidEye's revenue up to around 
+10 million euro.  He emphasized that the customers would be 
+"operational" and not simply "pilot users."  RapidEye views 
+the sale of land cover data (including purchases by NGA) to 
+US defense and intelligence agencies to be a key component of 
+business success in the US market.  To support this goal, 
+RapidEye plans to set up a small office in Northern Virginia 
+to serve as a liaison to USG customers.  RapidEye views 
+Brazil as a large scale potential customer due to its size, 
+rapid development, and well-organized national use of remote 
+sensing data. 
+ 
+ 
+CHINA MAY HAVE THE MOST POTENTIAL FOR RAPIDEYE 
+--------------------------------------------- - 
+ 
+¶4.  (SBU) China appears to be the focal point of RapidEye's 
+current marketing strategy, with principal target areas 
+identified as the Chinese Ministry of Land Management (MLM) 
+and the Ministry of Agriculture (MOA).  Biedermann said 
+"other" Chinese ministries might require similar coverage, 
+but that RapidEye will approach each sale independently. 
+Noting that some Chinese ministries do not coordinate well 
+with each other, RapidEye envisions selling change-detection 
+data products to MLM on a nation-wide basis.  Biedermann said 
+China has three tiered priority areas related to acquiring 
+remote sensing data for land management: 1) China's rapidly 
+developing coastal region, 2) Central China, and 3) the 
+desert and semi-desert terrain of Western China.  For these 
+areas, Biedermann estimated the average cost per square 
+kilometer would be between 0.70 and 0.90 euro. 
+ 
+¶5.  (SBU) RapidEye's primary competition in the Chinese 
+market is the French SPOT satellite system. Biedermann is 
+eager to demonstrate the superiority of RapidEye's products 
+and services to the Chinese customer.  Simply put, RapidEye's 
+ 
+BERLIN 00000788  002 OF 002 
+ 
+ 
+goal is to supplant SPOT as the vendor of choice in the 
+Chinese market. 
+ 
+ 
+RAPID EYE PLUGGED INTO WORLD MARKETS; WAITING FOR CUSTOMERS 
+--------------------------------------------- -------------- 
+ 
+¶6.  (SBU) As RapidEye strives to expand its worldwide 
+customer base, it has already established distribution 
+contracts covering the US, China, Russia/Eastern Europe, and 
+Mexico/Central America.  In January 2009, RapidEye announced 
+an agreement with China's Beijing Earth Observation, Inc. 
+(BEO) (a subsidiary of Eastdawn Group Inc.) as its Chinese 
+distributor.  Eastdawn Group CEO, Mr. Bing Sun said RapidEye 
+has great potential in the Chinese market, especially in the 
+agricultural, environmental, insurance, and government 
+sectors.  In February 2009, RapidEye announced an agreement 
+with the Mexican company Bufete de Ingenieria en 
+Telecomunicaciones y Sistemas (B.I.T.S.) to be RapidEye's 
+sole distributor in Mexico and Central America.  In April 
+2009, RapidEye announced an agreement with the Moscow-based 
+company Sovzond as its sole distributor for markets in 
+Russia, Belarus, Armenia, Azerbaijan, Georgia, the Republic 
+of Kazakhstan, Tajikistan, Uzbekistan, Krygystan, and 
+Turkmenistan. 
+ 
+¶7.  (SBU) Also in April, RapidEye announced an agreement with 
+the US company MakaLani LLC of Honolulu, Hawaii as its sole 
+distributor to the US market.  MakaLani LLC, a Native 
+Hawaiian Organization (NHO), will focus on distribution to 
+the US Government market, particularly defense, the 
+intelligence community, and homeland security.  (COMMENT: 
+RapidEye may have chosen MakaLani LLC based on an earlier USG 
+recommendation to establish US distribution ties with a 
+minority-owned or disadvantaged US company in order to be 
+better positioned to compete for US Government contracts. 
+END COMMENT) 
+ 
+ 
+RAPID EYE TO OFFER DIRECT DOWNLINK SERVICES 
+------------------------------------------- 
+ 
+¶8.  (SBU) RapidEye signed a contract with the Canadian firm, 
+MacDonald, Dettwiler and Associates Ltd. (MDA), in April 
+2009, designating MDA as the sole supplier of direct downlink 
+solutions for RapidEye's international customers seeking 
+ground segments.  The contract allows international ground 
+station customers the ability to task, acquire, and process 
+RapidEye imagery in near real-time. 
+Koenig

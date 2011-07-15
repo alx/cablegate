@@ -1,0 +1,54 @@
+09STATE2430
+
+Fri Jan 09 00:00:00 +0100 2009
+SECRET
+Secretary of State
+VZCZCXYZ0025
+PP RUEHWEB
+
+DE RUEHC #2430 0092035
+ZNY SSSSS ZZH
+P R 092022Z JAN 09
+FM SECSTATE WASHDC
+TO AMEMBASSY BERLIN PRIORITY 0000
+INFO MISSILE TECHNOLOGY CONTROL REGIME COLLECTIVES E C R E T STATE 002430
+
+SIPDIS
+
+E.O. 12958: DECL: 01/09/2034 TAGS: PARM PREL ETTC MTCRE KSCA GM IR
+
+Classified By: ISN/MTR DIRECTOR PAM DURHAM FOR REASONS 1.4 (B), (D).
+
+¶1. (U) This is an action request. Please see paragraph 4.
+
+¶2. (S) We want to share with German officials information indicating that in November 2008, a representative of the Iranian firm Texofin expressed interest in acquiring a computer numerical control (CNC) system manufactured by the German firm Siemens. The Texofin representative sought the system, a SINUMERIK 810 or 802, for use with a six-axis filament winding machine. Such a filament winding machine could be used in a missile program to produce rocket motor cases and pressure vessels, or in nuclear fuel enrichment applications for manufacturing components of centrifuge assemblies. Filament winding machines having three or more axes are controlled by the Missile Technology Control Regime (MTCR), Nuclear Suppliers Group (NSG), and Wassenaar Arrangement. The control systems used with them - including the Siemens SINUMERIK 810 and 802 - are controlled by the NSG.
+
+¶3. (S) Objectives: Given the missile- and nuclear- related potential uses of this equipment, we want to urge German officials to investigate this information and apply appropriate scrutiny to any applications to export this type of equipment to Iran.
+
+¶4. (U) Action Request: Department requests Embassy Berlin approach appropriate host government officials to deliver talking points in paragraph 5. Talking points can be left as a non-paper. This information is also being shared with French officials.
+
+¶5. (S) Begin talking points/non-paper:
+
+(SECRET//REL GERMANY)
+
+-- We would like to raise with you a matter of proliferation concern and request your governments assistance in investigating this activity.
+
+-- We have information indicating that in November 2008, A. Mashadi of the Iranian firm Texofin was interested in acquiring a complete computer numerical control (CNC) system for use with a six-axis filament winding machine, which Texofin purported to have designed.
+
+-- Mashadi was specifically interested in the Siemens SINUMERIK 810 or 802 control systems.
+
+-- A representative of the German firm Siemens AG, Mr. Fahimi, provided Mashadi with the name of the Siemens representative authorized to provide the CNC system to Iran. This individuals name is [Text removed by Aftenposten].
+
+-- Filament winding machines with the specifications described by Mashadi are controlled by the Missile Technology Control Regime (MTCR), as well as by the Nuclear Suppliers Group (NSG) and the Wassenaar Arrangement.
+
+-- Filament winding machines can be used in missile programs to fabricate rocket motor cases and pressure vessels. They can also be used in nuclear fuel enrichment for manufacturing components of centrifuge assemblies.
+
+-- The control systems and software used with filament winding machines - such as the Siemens SINUMERIK 810 or 802 - are controlled by the NSG.
+
+-- Given the missile- and nuclear-related utility of this equipment, we urge you to investigate this activity to ensure that any applications to export this type of equipment to Iran are appropriately scrutinized by your export control authorities.
+
+-- We look forward to continuing cooperation with your government on nonproliferation issues and would appreciate hearing the results of your inquiries.
+
+End talking points/non-paper
+
+¶6. (U) Please contact ISN/MTRs John Paul Herrmann with any questions or follow-up related to this case (202-647-1430 - or ) and slug reporting on this issue for ISN/MTR, EUR/CE, and EUR/PRA.

@@ -24,23 +24,163 @@ STATE FOR WHA/BSC, PM/RSAT
 E.O. 12958: DECL: 05/07/2019 
 TAGS: PREL ETTC BR
 SUBJECT: LAAD ,09 -- DEFENSE MODERNIZATION MEANS BUSINESS 
-
-Classified By: DCM Lisa Kubiske. Reason: 1.4 (d) 
-
-¶1. (C) SUMMARY. The April 14-17 Latin America Aerospace and Defense (LAAD) show in Rio de Janeiro provided evidence that despite the downturns in the economies of Brazil and its neighbors, defense manufacturers still see opportunities for business. As a result of Brazil's recently published a new defense strategy committing the government to modernization of the armed forces, notably through a multi-billion dollar purchase of fighter aircraft, LAAD 09 featured almost fifty percent more exhibitors than the ,07 version and received attention from Brazil,s leaders, including President Lula. In addition to foreign vendors, LAAD ,09 included displays from a large number of Brazilian manufacturers, and Lula and Defense Minister Jobim devoted significant portions of their visits to the show to promoting Brazilian business. U.S. firms participating in the show expressed concern that the USG overcome GOB perceptions that the U.S. is reluctant to transfer technology and showed appreciation for USG support to U.S. exports. The competition for Brazil,s next generation fighter (known locally as the FX2) was the big story of the show, with Boeing receiving positive coverage for its offer of the F18 Super Hornet, although doubts remained about USG commitment to the program. Its competitors, France,s Dassault and Sweden,s Saab, made energetic efforts to promote their aircraft. The French (incorrectly) hyped their entry,s "one hundred per cent" French content as an advantage of their entry. END SUMMARY. 
-
-¶2. (SBU) LAAD ,09 featured over 100 exhibitors showcasing aerospace, defense and security products. While much of the focus was on big ticket items such as aircraft and naval systems, there was also considerable interest in police equipment, firearms and surveillance systems. Organizers estimated that the show was fifty percent larger than that of two years ago. The major reason for the increased interest was the perception that Brazil, the region,s largest economy, will be increasing defense spending as it modernizes its armed forces. Brazilian exhibitors occupied approximately twenty percent of the exhibit space, promoting sales of vehicles, aircraft, weapons and ammunition. Both President Lula and Defense Minister Jobim made it a priority of their visits to LAAD to highlight the Brazilian exhibitors. The highlight of the show for the Brazilian press was that Jobim signed an agreement with Embraer for the eventual purchase of C390 transport aircraft, ostensibly to replace Brazil,s C130 fleet. This focus on Brazilian business was consistent with the recommendations of the December 2008 Defense Strategy Document which stated that Brazilian procurement should be from Brazilian manufacturers and that purchase of military items from foreign sources would only be justified to obtain technology that would allow for eventual domestic production. 
-
-¶3. (SBU) Despite the hype for products made in Brazil, much of the real attention at the show was on U.S. and European products. Exhibitors from Italy, Russia and the UK made a splash with impressive displays (and free espresso from the Italians) as did an extensive Israeli area. U.S. participants included Lockheed Martin, Boeing, Northrup Grumman, Hughes, Raytheon and many smaller firms. Mission Brazil officers spent much of the four day show meeting with the U.S. participants to discuss doing business with Brazil. The most common concern of the U.S. forms was whether the slowdown in Brazil,s economy would affect defense modernization plans. Most believed that while the scope of some projects might be reduced, overall there would be significantly more funding for defense projects than in the past. U.S. businesses also echoed Brazilian concerns that restrictive USG export control policies could put them at a disadvantage to foreign competitors. Mission members pointed out that there were no specific export restrictions toward Brazil and recent approvals of technology for the FX2 competition could provide skeptical Brazilians an example that U.S. export controls, though rigorous, will not block business with our partners. Several U.S. exhibitors also commented that they had heard from Brazilian partners that Brazil is predisposed to purchase French products because of the personal friendship between Presidents Lula and Sarkozy. The presence of Mission personnel from FCS, MLO, DAO and State elicited a strongly positive response from U.S. participants, as did Ambassador Sobel,s remarks at the Foreign Commercial Service's April 14 breakfast for U.S. businesses. 
-
-OPPORTUNITIES FOR U.S. BUSINESS --------------------------------------------- ----- 
-
-BRASILIA 00000613 002 OF 002 
-
-¶4. (C) U.S. firms saw several strong opportunities to make sales to Brazil. As noted in paragraph 2, the Brazilian Air Force made a splash by announcing a deal with Embraer for transport aircraft. Lockheed representatives, however, were quick to point out that developing a cost effective replacement for the C130 has not been easy, citing EADS, difficulties. Furthermore, the proposed Embraer transport will have difficulty operating on some of Brazil,s more remote airfields, requiring either large expenditures for upgrades or the retention of the more versatile C130. Raytheon saw the potential for providing electronics systems to the Brazilian navy as part of a deal with Korean shipbuilders to construct new coastal patrol vessels in Brazil. Hughes conducted discussions with the Brazilian army on a field communications system that will enhance security and reliability, while allowing for interoperability with allied forces. Lockheed also saw potential for sales of electronic equipment to Brazil as part of its purchase of four French-made submarines. 
-
-¶5. (C) The most important single upcoming purchase for Brazil will be the next generation fighter. The centerpiece of Boeing,s exhibit was a simulator for the Super Hornet that allowed Brazilian pilots and aviation fans some hands on experience of operating the aircraft. Boeing Vice President Robert Gower and SOUTHCOM Deputy Commander Lt. Gen. Glenn Spears held a joint press conference in which Gower underlined the industrial partnership Boeing hopes told build in Brazil, and Spears confirmed that the U.S. has approved relevant transfers of technology. While the press conference produced a good response, the perception among Brazilian remains that the Super Hornet trails in the competition, in part because Boeing is relying on the plane,s superior capabilities to sell itself and in part because of the lower level of U.S. government engagement when compared to its competitors, particularly France. This has made USG efforts to assure the Brazilian Air Force that tech transfers will be made more difficult. 
-
-¶6. (SBU) The other FX2 finalists, Dassault and Saab, pulled out all the stops to sell their aircraft. The Swedish case rested on the fact that they are submitting a new version of the Gripen, giving Brazilian firms the opportunity to participate in almost all areas of production from the beginning. Saab also focused on the positive capabilities of its entry, including the ability to use short runways as a selling point, overlooking the Gripen,s overall less capable performance. The Swedes have also begun an advertising campaign touting Sweden as the "independent choice," seeking to appeal to Brazilian aspirations to be a military power free from reliance on allied militaries. The French display was among the largest at the show, but unlike Boeing and Saab, focused on a single product: the Rafale fighter. Glossy displays on the aircraft,s capabilities surrounded a model of the Rafale that was bigger than some of the UAVs on display in other exhibits. Brazilian Air Force members attending and at least two journalists speaking with Mission members reported that the French were portraying the Rafale as Brazil,s safest choice because it had 100 per cent French content (and therefore would be presumably free of meddlesome U.S. export controls). According to Mission information, this is untrue and all three competitors will be subject to the ITAR. Russia also presented a display on the SU35, for which Russian officials have appealed to MOD Jobim for reinstatement into the FX2 competition. There was no indication, however, from the Brazilian Air Force that the Russians would be reconsidered. 
-
+ 
+Classified By: DCM Lisa Kubiske.  Reason: 1.4 (d) 
+ 
+¶1.  (C)  SUMMARY.  The April 14-17 Latin America Aerospace 
+and Defense (LAAD) show in Rio de Janeiro provided evidence 
+that despite the downturns in the economies of Brazil and its 
+neighbors, defense manufacturers still see opportunities for 
+business.  As a result of Brazil's recently published a new 
+defense strategy committing the government to modernization 
+of the armed forces, notably through a multi-billion dollar 
+purchase of fighter aircraft, LAAD 09 featured almost fifty 
+percent more exhibitors than the ,07 version and received 
+attention from Brazil,s leaders, including President Lula. 
+In addition to foreign vendors, LAAD ,09 included displays 
+from a large number of Brazilian manufacturers, and Lula and 
+Defense Minister Jobim devoted significant portions of their 
+visits to the show to promoting Brazilian business.  U.S. 
+firms participating in the show expressed concern that the 
+USG overcome GOB perceptions that the U.S. is reluctant to 
+transfer technology and showed appreciation for USG support 
+to U.S. exports.  The competition for Brazil,s next 
+generation fighter (known locally as the FX2) was the big 
+story of the show, with Boeing receiving positive coverage 
+for its offer of the F18 Super Hornet, although doubts 
+remained about USG commitment to the program.  Its 
+competitors, France,s Dassault and Sweden,s Saab, made 
+energetic efforts to promote their aircraft.  The French 
+(incorrectly) hyped their entry,s "one hundred per cent" 
+French content as an advantage of their entry.  END SUMMARY. 
+ 
+¶2.  (SBU)  LAAD ,09 featured over 100 exhibitors showcasing 
+aerospace, defense and security products.  While much of the 
+focus was on big ticket items such as aircraft and naval 
+systems, there was also considerable interest in police 
+equipment, firearms and surveillance systems.  Organizers 
+estimated that the show was fifty percent larger than that of 
+two years ago.  The major reason for the increased interest 
+was the perception that Brazil, the region,s largest 
+economy, will be increasing defense spending as it modernizes 
+its armed forces.  Brazilian exhibitors occupied 
+approximately twenty percent of the exhibit space, promoting 
+sales of vehicles, aircraft, weapons and ammunition.  Both 
+President Lula and Defense Minister Jobim made it a priority 
+of their visits to LAAD to highlight the Brazilian 
+exhibitors.  The highlight of the show for the Brazilian 
+press was that Jobim signed an agreement with Embraer for the 
+eventual purchase of C390 transport aircraft, ostensibly to 
+replace Brazil,s C130 fleet.  This focus on Brazilian 
+business was consistent with the recommendations of the 
+December 2008 Defense Strategy Document which stated that 
+Brazilian procurement should be from Brazilian manufacturers 
+and that purchase of military items from foreign sources 
+would only be justified to obtain technology that would allow 
+for eventual domestic production. 
+ 
+¶3.  (SBU)  Despite the hype for products made in Brazil, much 
+of the real attention at the show was on U.S. and European 
+products.  Exhibitors from Italy, Russia and the UK made a 
+splash with impressive displays (and free espresso from the 
+Italians) as did an extensive Israeli area.  U.S. 
+participants included Lockheed Martin, Boeing, Northrup 
+Grumman, Hughes, Raytheon and many smaller firms.  Mission 
+Brazil officers spent much of the four day show meeting with 
+the U.S. participants to discuss doing business with Brazil. 
+The most common concern of the U.S. forms was whether the 
+slowdown in Brazil,s economy would affect defense 
+modernization plans.  Most believed that while the scope of 
+some projects might be reduced, overall there would be 
+significantly more funding for defense projects than in the 
+past.  U.S. businesses also echoed Brazilian concerns that 
+restrictive USG export control policies could put them at a 
+disadvantage to foreign competitors.  Mission members pointed 
+out that there were no specific export restrictions toward 
+Brazil and recent approvals of technology for the FX2 
+competition could provide skeptical Brazilians an example 
+that U.S. export controls, though rigorous, will not block 
+business with our partners.  Several U.S. exhibitors also 
+commented that they had heard from Brazilian partners that 
+Brazil is predisposed to purchase French products because of 
+the personal friendship between Presidents Lula and Sarkozy. 
+The presence of Mission personnel from FCS, MLO, DAO and 
+State elicited a strongly positive response from U.S. 
+participants, as did Ambassador Sobel,s remarks at the 
+Foreign Commercial Service's April 14 breakfast for U.S. 
+businesses. 
+ 
+OPPORTUNITIES FOR U.S. BUSINESS 
+--------------------------------------------- ----- 
+ 
+BRASILIA 00000613  002 OF 002 
+ 
+ 
+¶4.  (C)  U.S. firms saw several strong opportunities to make 
+sales to Brazil.  As noted in paragraph 2, the Brazilian Air 
+Force made a splash by announcing a deal with Embraer for 
+transport aircraft.  Lockheed representatives, however, were 
+quick to point out that developing a cost effective 
+replacement for the C130 has not been easy, citing EADS, 
+difficulties.  Furthermore, the proposed Embraer transport 
+will have difficulty operating on some of Brazil,s more 
+remote airfields, requiring either large expenditures for 
+upgrades or the retention of the more versatile C130. 
+Raytheon saw the potential for providing electronics systems 
+to the Brazilian navy as part of a deal with Korean 
+shipbuilders to construct new coastal patrol vessels in 
+Brazil.  Hughes conducted discussions with the Brazilian army 
+on a field communications system that will enhance security 
+and reliability, while allowing for interoperability with 
+allied forces.  Lockheed also saw potential for sales of 
+electronic equipment to Brazil as part of its purchase of 
+four French-made submarines. 
+ 
+¶5.  (C)  The most important single upcoming purchase for 
+Brazil will be the next generation fighter.  The centerpiece 
+of Boeing,s exhibit was a simulator for the Super Hornet 
+that allowed Brazilian pilots and aviation fans some hands on 
+experience of operating the aircraft.  Boeing Vice President 
+Robert Gower and SOUTHCOM Deputy Commander Lt. Gen. Glenn 
+Spears held a joint press conference in which Gower 
+underlined the industrial partnership Boeing hopes told build 
+in Brazil, and Spears confirmed that the U.S. has approved 
+relevant transfers of technology.  While the press conference 
+produced a good response, the perception among Brazilian 
+remains that the Super Hornet trails in the competition, in 
+part because Boeing is relying on the plane,s superior 
+capabilities to sell itself and in part because of the lower 
+level of U.S. government engagement when compared to its 
+competitors, particularly France.  This has made USG efforts 
+to assure the Brazilian Air Force that tech transfers will be 
+made more difficult. 
+ 
+¶6.  (SBU)  The other FX2 finalists, Dassault and Saab, pulled 
+out all the stops to sell their aircraft.  The Swedish case 
+rested on the fact that they are submitting a new version of 
+the Gripen, giving Brazilian firms the opportunity to 
+participate in almost all areas of production from the 
+beginning.  Saab also focused on the positive capabilities of 
+its entry, including the ability to use short runways as a 
+selling point, overlooking the Gripen,s overall less capable 
+performance.  The Swedes have also begun an advertising 
+campaign touting Sweden as the "independent choice," seeking 
+to appeal to Brazilian aspirations to be a military power 
+free from reliance on allied militaries.  The French display 
+was among the largest at the show, but unlike Boeing and 
+Saab, focused on a single product: the Rafale fighter. 
+Glossy displays on the aircraft,s capabilities surrounded a 
+model of the Rafale that was bigger than some of the UAVs on 
+display in other exhibits.  Brazilian Air Force members 
+attending and at least two journalists speaking with Mission 
+members reported that the French were portraying the Rafale 
+as Brazil,s safest choice because it had 100 per cent French 
+content (and therefore would be presumably free of meddlesome 
+U.S. export controls).  According to Mission information, 
+this is untrue and all three competitors will be subject to 
+the ITAR.  Russia also presented a display on the SU35, for 
+which Russian officials have appealed to MOD Jobim for 
+reinstatement into the FX2 competition.  There was no 
+indication, however, from the Brazilian Air Force that the 
+Russians would be reconsidered. 
 SOBEL
