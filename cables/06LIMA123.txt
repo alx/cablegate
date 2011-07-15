@@ -1,0 +1,345 @@
+06LIMA123
+RECORD 24 PRESIDENTIAL CANDIDATES REGISTERED;
+Thu Jan 12 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Lima
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHPE #0123/01 0121404
+ZNR UUUUU ZZH
+P 121404Z JAN 06
+FM AMEMBASSY LIMA
+TO RUEHC/SECSTATE WASHDC PRIORITY 8033
+INFO RUEHBO/AMEMBASSY BOGOTA 2829
+RUEHBR/AMEMBASSY BRASILIA 6426
+RUEHCV/AMEMBASSY CARACAS 8880
+RUEHLP/AMEMBASSY LA PAZ JAN QUITO 9901
+RUEHSG/AMEMBASSY SANTIAGO 0052
+RUEHGL/AMCONSUL GUAYAQUIL 4069
+RUEAIIA/CIA WASHDC
+RHMFIUU/CDR USSOUTHCOM MIAMI FL
+RHEFDIA/DIA WASHDCUNCLAS LIMA 000123 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PGOV PINR PE
+SUBJECT: RECORD 24 PRESIDENTIAL CANDIDATES REGISTERED; 
+FUJIMORI'S CANDIDACY REJECTED 
+ 
+REF: A. LIMA 5396 (05) 
+     ¶B. LIMA 5332 (05) 
+ 
+Sensitive but Uncl...
+
+id: 49611
+date: 1/12/2006 14:04
+refid: 06LIMA123
+origin: Embassy Lima
+classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
+destination: 06LIMA5332|06LIMA5396
+header:
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHPE #0123/01 0121404
+ZNR UUUUU ZZH
+P 121404Z JAN 06
+FM AMEMBASSY LIMA
+TO RUEHC/SECSTATE WASHDC PRIORITY 8033
+INFO RUEHBO/AMEMBASSY BOGOTA 2829
+RUEHBR/AMEMBASSY BRASILIA 6426
+RUEHCV/AMEMBASSY CARACAS 8880
+RUEHLP/AMEMBASSY LA PAZ JAN QUITO 9901
+RUEHSG/AMEMBASSY SANTIAGO 0052
+RUEHGL/AMCONSUL GUAYAQUIL 4069
+RUEAIIA/CIA WASHDC
+RHMFIUU/CDR USSOUTHCOM MIAMI FL
+RHEFDIA/DIA WASHDC
+
+
+----------------- header ends ----------------
+
+UNCLAS LIMA 000123 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PGOV PINR PE
+SUBJECT: RECORD 24 PRESIDENTIAL CANDIDATES REGISTERED; 
+FUJIMORI'S CANDIDACY REJECTED 
+ 
+REF: A. LIMA 5396 (05) 
+     ¶B. LIMA 5332 (05) 
+ 
+Sensitive but Unclassified.  Please protect accordingly. 
+ 
+---------- 
+SUMMARY 
+---------- 
+ 
+¶1. (U)  A record 24 parties/alliances met the 1/9 deadline to 
+apply to register their presidential tickets for the April 
+election.  Ex-President Alberto Fujimori's bid to head the Si 
+Cumple party ticket was rejected by the Lima Special 
+Electoral Board, but is being appealed to the National 
+Electoral Board (JNE), which is expected to render a decision 
+by the end of the week.  End Summary. 
+ 
+------------------------------------- 
+TWENTY-FOUR CANDIDATES TO CHOOSE FROM 
+------------------------------------- 
+ 
+¶2. (U) Twenty-four parties/alliances applied to register 
+their presidential candidates with the Lima Special Electoral 
+Board (JEE) by the 1/9 filing deadline for the 4/9 elections. 
+This is the largest number of presidential candidates in 
+Peru's history.  The previous high was 18 in 1980; in 2001 
+there were only eight.  The JEE is in the process of 
+reviewing the registration applications, publishing an 
+announcement of each application that meets the legal 
+requirements in the Legal Norms official gazette.  Following 
+publication, members of the public have two days in which to 
+submit challenges to a an application. 
+ 
+¶3. (SBU) Alberto Fujimori's party, Si Cumple (He Delivers), 
+sought to register Fujimori as its presidential candidate. 
+The JEE rejected this, in a resolution published on 1/10, 
+which concluded that the 2001 vote by Congress disqualifying 
+Fujimori from holding public office for 10 years also 
+precluded him from running for public office.  Si Cumple's 
+leadership vowed to appeal this decision to the National 
+Electoral Board (JNE) and threatened to stage massive public 
+protests.  Meanwhile, Alianza por el Futuro (the alliance of 
+pro-Fujimori parties Cambio 90 and Nuevo Mayoria) submitted 
+Congresswoman Martha Chavez as its presidential candidate. 
+Chavez made it clear that she is running as Fujimori's proxy. 
+ (COMMENT:  This two pronged Fujimorista approach of 
+attempting to run Fujimori on the Si Cumple ticket, while 
+preparing a fall-back candidacy on the Alianza por el Futuro 
+slate has been planned by the Fujimoristas for some time (Ref 
+B).  END COMMENT.) 
+ 
+¶5. (SBU) The presidential tickets that have submitted their 
+registration requests are: 
+ 
+THE MAJOR CANDIDATES 
+-------------------- 
+ 
+-- Unidad Nacional (National Unity) alliance, headed by 
+Lourdes FLORES Nano. Flores was a Congresswoman in 1990 and 
+1995 and ran for President in 2001, finishing in third place. 
+ The First Vice President candidate is Arturo WOODSMAN 
+Pollit, a businessman and engineer with a long history of 
+public service, most recently heading Peru's successful 
+hosting of the FIFA Under 17 Soccer World Championship.  The 
+Second Vice President candidate is Luis Enrique CARPOI 
+Ascuna, Dean of the Catholic University in Arequipa.  Unidad 
+Nacional is considered center-right in its political 
+orientation. 
+ 
+-- Frente del Centro (Centrist Front) alliance, headed by 
+Valentin PANIAGUA Corazao.  Paniagua was the transition 
+President after Fujimori resigned in 2000. He has a long 
+history of public service under other administrations as 
+Minister of Justice and Education and as a former 
+Congressman.  The First Vice President candidate is Alberto 
+ANDRADE Carmona, former Mayor of Lima.  The Second Vice 
+President candidate is Gonzalo German AGUIRRE Arriz, 
+businessman and Secretary General of the Independent National 
+Coordinating party.  The Frente del Centro is considered to 
+be center-left in orientation. 
+ 
+-- Partido Aprista Peruano (APRA) headed by Alan GARCIA 
+Perez.  Garcia served as President from 1985-90 and ran for 
+President in 2001, finishing second.  The First Vice 
+President candidate is Luis GIAMPETRI Rojas, a retired 
+Vice-Admiral. The Second Vice President candidate is Lourdes 
+MENDOZA del Solar the Deputy Mayor of Arequipa.  APRA has no 
+easy ideological characterization, being populist in rhetoric 
+but capable of adjusting its policies to the requirements of 
+the moment. 
+ 
+-- Partido Nacionalista Uniendo al Peru (Nationalist Party 
+Uniting Peru), formerly Union por el Peru (Union for Peru), 
+headed by Ollanta HUMALA Tasso. (Note: The party registered 
+with the JEE as "Union por el Peru" but subsequently voted to 
+change its name. End Note.)  Ollanta Humala is a retired Army 
+Lieutenant Colonel.  He is running as an ultra-nationalist, 
+anti-system candidate aligned with Venezuela's Hugo Chavez 
+and Bolivia's Evo Morales.  He, along with his brother 
+Antauro (currently on trial for leading the January 2005 
+rebellion in Andahuaylas that resulted in five deaths), led a 
+small military rebellion against the Fujimori regime in 2000. 
+ After spending some time in jail, he was pardoned by the 
+Paniagua interim government, reinstated in the Army, and 
+served under the Toledo Administration as a military attache 
+in Paris and South Korea before being retired in December 
+¶2004.  The First Vice President candidate is Gonzalo Raul 
+GARCIA Nunez, an engineer on the Board of the Central Reserve 
+Bank.  The Second Vice President candidate is Carlos Alberto 
+TORRES Caro, a lawyer for the Humala family, who previously 
+served as a prosecutor under, and reportedly had close ties 
+with, pro-Fujimori Attorney General Blanca Nelida Colan. 
+ 
+THE MINOR CANDIDATES 
+-------------------- 
+ 
+-- Alianza para el Progreso (Alliance for Progress):  Natale 
+Juan AMPRIMO Pla. Amprimo is a Congressman representing Lima. 
+ Formerly with Alberto Andrade's (of the Centrist Front) 
+Somos Peru party, Amprimo renounced that tie in 2005, then 
+failed in efforts to create a new congressional bloc composed 
+of young legislators.  He is considered center-left. 
+ 
+-- Alianza por el Futuro (Alliance for the Future), Martha 
+CHAVEZ Cossio. Chavez is a long-time Fujimori supporter who 
+recently was absolved of corruption charges and resumed her 
+seat in Congress following a four-year suspension.  Her First 
+Vice President running-mate is Santiago FUJIMORI, the 
+ex-President's brother. 
+ 
+-- Avanza Pais (Country Advances), Ulises HUMALA Tasso. 
+Ultra-nationalist Ulises Humala is the older brother of 
+Ollanta and Antauro.  He is a professor at the National 
+Engineering University.  His First Vice Presidential running 
+mate is party founder Pedro CENAS Casamayor. 
+ 
+-- Con Fuerza Peru (Peru with Force), Peter KOECHLIN. 
+Koechlin is a businessman and President of Wayra Peru, a new 
+Peruvian airline that has yet to get off the ground. 
+ 
+-- Concertacion Descentralista (Decentralized Agreement), 
+Susana Maria del Carmen VILLARAN de la Puente.  Villaran is 
+leader of the Social Democracy Party and was Minister of 
+Women's Affairs during the 2000 transition government.  She 
+is considered center-left. 
+ 
+-- Frente Amplio de Izquierda (Broad Front of the Left), 
+Alberto MORENO Rojas del Rio.  This party was formerly the 
+Movimiento Nuevo Izquierda (New Left Movement).  Moreno is 
+the founder and Secretary General of the Communist Party of 
+Peru Red Fatherland.  His First Vice President candidate is 
+Juan Jose Gorriti Valle, Secretary General of the Workers 
+Confederation of Peru (CGTP). 
+ 
+-- Frente Independiente Moralizador party (FIM - Independent 
+Moralizing Front), Fernando OLIVERA Vega.  Olivera is leader 
+and founder of the party.  He was a Congressman in the 1990's 
+and served under the Toledo Administration as Minister of 
+Justice and Ambassador to Spain.  In August 2005, Toledo 
+appointed the un-popular Olivera as Foreign Minister sparking 
+the resignation of his Prime Minister and a cabinet crisis 
+resolved when Olivera was asked to resign after one day in 
+ 
+office.  Olivera ran for President in 2001 and placed forth 
+with just under 10% of the vote.  He is considered 
+center-left. 
+ 
+-- Fuerza Democratica (Democratic Force), Alberto Alfonso 
+BOREA Odria.  Borea was previously Peru's Ambassador to the 
+Organization of American States and headed the Democractic 
+Forum, an organization that opposed the authoritarian 
+Fujimori regime.  He is considered center-left. 
+ 
+-- Justicia Nacional (National Justice), Jaime Eduardo 
+SALINAS Lopez-Torres.  Salinas is a U.S.-educated businessman 
+who unsuccessfully ran for Mayor of Lima in 2002. He and his 
+father, Gen. (R) Jaime Salinas, were detained for attempting 
+a coup against the Fujimori regime.  He is considered 
+center-right. 
+ 
+-- Partido Socialista (Socialist Party), Javier Diez CANSECO 
+Cisneros. Canseco is a congressman for Lima and leader of the 
+Socialist Party.  He is considered to be a pro-Castro 
+Marxist. 
+ 
+-- Peru Ahora (Peru Now), Luis GUERRERO Figueroa.  Guerrero 
+is a pro-coca congressman from Cajamarca, where he twice 
+served as provincial mayor. He is considered to be a leftist. 
+ 
+-- Peru Posible (Peru Possible), Rafael Luis BELAUNDE Aubry. 
+Belaunde is an engineer and the son of former President 
+Fernando Belaunde. He formerly served as a Senator with the 
+Accion Popular (Popular Action) party.  His First Vice 
+President candidate is Carlos BRUCE Montes de Oca, former 
+Minister of the Presidency and Minister of Housing under 
+President Toledo.  His Second Vice Presidential candidate is 
+Romulo MUCHO Mamani who previously served as Vice-Minister of 
+Energy and Mines and recently became a Congressman 
+representing Puno.  Belaunde is a political maverick, and 
+Peru Posible, although President Toledo's party, has not been 
+known for its ideological consistency. 
+ 
+-- Progresemos Peru (Peru Let's Progress), Javier ESPINOZA 
+Ayaipoma.  Little is known of Espinoza or his party. 
+ 
+-- Proyecto Pais (Country Project), Marco Antonio 
+ARRUNATEGUI. Arrunategui ran for President in 2001, but 
+placed seventh garnering less than 1% of the vote.  He 
+currently is charged with pedophilia and pimping, but asserts 
+his innocence. 
+ 
+-- Reconstrucion Democratica (Democratic Reconstruction), 
+Jose Guillermo Juan CARDO Guarderas.  Cardo is a sociologist 
+who has taught for 20 years in Mexico.  He failed to register 
+another party, Insurgencia Renovadora (Renewing Insurgence). 
+ 
+-- Renacamiento Andino (Andean Rebirth), Ciro Alfredo GALVEZ 
+Herrera.  Galvez is a lawyer and the party's founder.  He ran 
+for President under the same party in 2001 placing sixth with 
+less than 1% of the votes. 
+ 
+-- Restauracion Nacional (National Restoration), Humberto LAY 
+Sun.  Lay is an evangelical pastor and former member of the 
+Truth and Reconciliation Commission.  His First Vice 
+President candidate is Maximo San Roman, who served as 
+Alberto Fujimori's First Vice President but split with 
+Fujimori over the 1992 auto-coup. 
+ 
+-- Resurgimiento Peruano (Peruvian Resurgence), Antero ASTO 
+Flores - Asto is a lawyer and the party's founder.  He 
+unsuccessfully ran for President in 2001. 
+ 
+-- Si Cumple (He Delivers), Alberto FUJIMORI Fujimori.  Si 
+Cumple, as noted, sought to register former President Alberto 
+Fujimori as its candidate.  Should the JNE uphold the JEE's 
+rejection of Fujimori's candidacy, then the party will 
+not/not at this stage be entitled to replace him with another 
+candidate and will not/not run a presidential ticket. 
+ 
+-- Y se Llama Peru (And It is Called Peru). Ricardo WONG. 
+Wong is the party founder and a businessman who imports 
+fireworks.  He was linked to the fireworks that led to the 
+Mesa Redonda fire that resulted in the death of over 200 
+people. 
+ 
+ 
+---------- 
+COMMENT 
+---------- 
+ 
+¶5. (SBU)  The plethora of presidential candidates has 
+generated criticism from politicians and commentators alike, 
+who note that it reflects the disunity of the political 
+class, as well as the disorganization and lack of 
+representativeness of the traditional political parties. 
+Given that parties must obtain at least four percent of the 
+legislative vote in order to maintain their registration, it 
+is expected that most of the smaller parties will disappear 
+after the 4/9 election.  The electoral prospects for the 
+registered candidates should become clearer after publication 
+of the next nationwide APOYO poll on 1/15.  Additional 
+biographic data on some of these candidates is available on 
+Post's SIPRNET site 
+http://www.state.sgov.gov/p/wha/lima/index.cf m . END COMMENT. 
+STRUBLE 
+
+=======================CABLE ENDS============================

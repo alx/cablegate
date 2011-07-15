@@ -1,0 +1,310 @@
+08SAOPAULO260
+BRAZIL'S ELECTRICITY SUPPLY IN PRECARIOUS EQUILIBRIUM
+Wed May 28 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Sao Paulo
+VZCZCXRO5186
+RR RUEHRG
+DE RUEHSO #0260/01 1491424
+ZNR UUUUU ZZH
+R 281424Z MAY 08
+FM AMCONSUL SAO PAULO
+TO RUEHC/SECSTATE WASHDC 8243
+INFO RUEHBR/AMEMBASSY BRASILIA 9370
+RUEHRG/AMCONSUL RECIFE 4109
+RUEHRI/AMCONSUL RIO DE JANEIRO 8724
+RUEHBU/AMEMBASSY BUENOS AIRES 3150
+RUEHAC/AMEMBASSY ASUNCION 3398
+RUEHMN/AMEMBASSY MONTEVIDEO 2702
+RUEHSG/AMEMBASSY SANTIAGO 2398
+RUEHLP/AMEMBASSY LA PAZ 3809
+RUCPDOC/USDOC WASHDC 3089
+RUEATRS/DEPT OF TREASURY WASHDC
+RHEHNSC/NATIONAL SECURITY COUNCIL WASHDCUNCLAS SECTION 01 OF 04 SAO PAULO 000260 
+ 
+STATE PASS USTR FOR KDUCKWORTH 
+STATE PASS EXIMBANK 
+STATE PASS OPIC FOR DMORONSE, NRIVERA, CMERVENNE 
+DEPT OF TREASURY FOR JHOEK 
+DEPT OF ENERGY 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG ECON ENV PREL BR
+SUBJECT: BRAZIL'S ELECTRICITY SUPPLY IN PRECARIOUS EQUILIBRIUM 
+ 
+ 
+SENSITIVE BUT UNCLASSIFED--PLEASE PROTECT ACCORDINGLY 
+ 
+REF: A: Brasilia 0593; B: Brasilia 672; C: Sao Paulo 0031; D: La Paz 
+0462; E: 06 Sao Paulo 1059 
+ 
+¶1.  (U) SUMMARY:  Brazil's 2008 electricity supply will just cover 
+demand, leaving the county in a state of precarious equilibrium. 
+President Lula is lucky that it has been raining sufficiently over 
+the last six years to feed Brazil's hydroelectric reservoirs (which 
+account for approximately 80 percent of Brazil's electricity 
+production), but he may not be as lucky next year.  In addition, the 
+GOB's improvements to the electrical system since 2001 have not 
+overcome the fundamental problems of lagging investment in 
+electricity production and an energy matrix that is heavily skewed 
+towards this one source of power.  Government investment to expand 
+the electricity supply has been insignificant compared to growth in 
+electricity demand, and prospects for private sector investment 
+appear limited given the regulatory framework.  Political 
+uncertainties in neighboring Bolivia and Paraguay also may limit 
+Brazil's supply of electricity.  In addition, several large domestic 
+hydroelectric generation projects are years from becoming 
+operational.  In short, Brazil's static energy balance shows a very 
+tight picture between supply and demand through 2012 when new gas 
+and oil discoveries could potentially come on-line.  Brazil's 
+options for strengthening the electricity balance in the near term 
+are biomass generation, securing reliable sources of natural gas, 
+conservation, and better energy efficiency.  In the meantime, Brazil 
+should expect higher electricity tariffs until it can develop a 
+consistent supply of natural gas and get several large generation 
+projects off the ground.  END SUMMARY. 
+ 
+Current Dynamics 
+---------------- 
+ 
+¶2.  (U) The Brazilian government appears to have averted an 
+electricity crisis due in large part to pure luck.  Because 
+approximately 80 percent of Brazil's electricity supply is from 
+hydroelectric power, rainfall is the most important determinant in 
+avoiding an electricity shortage.  (Note: See Ref A for more 
+detailed look at breakdown of Brazil's generation capacity.  End 
+Note.)  In December 2007, industry insiders were preparing for 
+shortages because rainfall was 50 percent below normal; however, 
+heavy rains in early 2008 have saved the GOB from the potential 
+crisis in the short-term.  The medium-term threat of an electricity 
+crisis, however, is far from over. 
+ 
+¶3.  (U) According to statistics from Brazil's National Agency for 
+Electric Energy (Aneel) from March, Brazil had an installed capacity 
+for electric power generation of 100,700 megawatts (MW), an increase 
+of 3,400 MW over 2007.  Although generating capacity vastly exceeds 
+the demand of 64,000 MW (Ref B), it is theoretical because many 
+gas-fired generators do not have adequate supplies of natural gas, 
+and hydroelectric capacity is dependent on rainfall to fill 
+reservoirs.  Shortages in Brazil's natural gas supply (Ref C) 
+limited gas-fired plants to producing only 35 percent of their 
+11,600 MW capacity in 2007.  On the demand side, electricity demand 
+growth tracks well with economic growth.  According to the Energy 
+Research Company (EPE), electricity consumption was up 5.7 percent 
+in 2007 (GDP growth was 5.4 percent), the largest increase since the 
+electricity rationing of 2001.  Consumption was up across the 
+various consumers: commercial consumption was up 6.6 percent, 
+residential consumption up six percent, and industrial consumption 
+up five percent. 
+ 
+¶4.  (SBU) Government investment to expand the electricity supply has 
+been lagging growth in electricity demand and prospects for private 
+sector investment appear limited.  The largest state-owned 
+electricity company Electrobras' investment was down by seven 
+percent last year in real terms from 2006 despite the GOB's promises 
+for increased investment in the sector.  Total public investment in 
+the sector reached R$ 3.11 billion in 2007 (approximately USD 1.83 
+billion).  David Waltenberg, an expert in legal and regulatory 
+energy issues, told Econoff that distortions within the distribution 
+system discourage investment and skew the electricity pricing 
+structure.  The President of AES Brasil, Britaldo Soares, told 
+ 
+SAO PAULO 00000260  002 OF 004 
+ 
+ 
+Econoffs that new firms are unwilling to invest without more stable 
+investment rules, availability of financing instruments, clearer 
+environmental licensing procedures, and better pricing terms.  AES 
+Electropaulo's CFO Alexandre Innecco underscored this point by 
+noting that from his point of view, only existing foreign companies 
+who have established themselves in Brazil are liable to increase 
+investments in electricity generation in the short-term.  (Note: 
+While acknowledging the significant problems in the sector, private 
+industry group representatives Luiz Fernando Leone Vianna of the 
+Independent Energy Producers Association (APINE), and Paulo Pederosa 
+of the Brazilian Association of Commercial Agents of Electrical 
+Energy, both feel the positives outweigh the negatives, and believe 
+there are some good opportunities for investment in this sector in 
+Brazil.  End Note.) 
+ 
+Better System than 2001 but Not Enough 
+-------------------------------------- 
+ 
+¶5.  (SBU) The GOB's improvements to the electricity system since 
+2001, primarily increasing installed electricity generation capacity 
+and interconnecting regional electricity transmission lines, have 
+not solved Brazil's fundamental electricity problems and have not 
+been enough to assuage the fears of renewed crises.  For example on 
+interconnectivity, AES's Innecco pointed out to Econoff that 
+reservoirs have different generation capacities that limit the 
+effectiveness of the interconnectivity of the grid.  He noted that 
+in some cases reservoirs in one region cannot substitute for a lack 
+of water in another.  Despite this imperfect substitution, Dilton da 
+Conti Oliveira, President of the San Francisco River Hydroelectric 
+Company (CHESF), told the Principal Officer in Recife that he was 
+not worried about electricity shortages in the Northeast despite the 
+lack of rain because CHESF was already "importing" electricity from 
+other parts of the country thanks to the interconnected grid. 
+(Comment:  This comment by the head of CHESF illustrates the lack of 
+understanding of imperfect substitution.  Interconnectivity alone 
+will not resolve electrical shortages.  End Comment.) 
+ 
+Supply Uncertainties Abound 
+--------------------------- 
+ 
+¶6.  (U) According to GOB figures, the static energy balance 
+(assuming five percent growth in demand and a guaranteed natural gas 
+supply) shows a very tight picture between supply and demand through 
+¶2012.  On the supply side, the uncertainties are enormous.  To 
+increase the installed generation capacity by 4.5 percent per year, 
+Brazil needs to make investments of R$ 18 billion per year 
+(approximately USD 10.6 billion), according to the Federation of 
+Industries of Sao Paulo (FIESP).  New electricity generation 
+projects such as the auction of the Rio Madeira mega-project Santo 
+Antonio in December 2007 are an important step for the GOB, but are 
+a far cry from solving the country's energy problems, and would not 
+alleviate the intrinsic uncertainty of hydroelectric generation to 
+meet future demand.  Brazil would need to build one mega-complex per 
+year from 2012 to 2016 to sustain five percent GDP growth. 
+Furthermore, project delays are certain to occur due to 
+environmental licensing concerns and financing.  Currently, the 
+Brazilian law requires multiple environmental impact assessments and 
+the Brazilian Environmental Agency (IBAMA) employees are held 
+personally liable for mistakes.  The GOB initiated studies six years 
+ago on the Rio Madeira projects and it will take a minimum of seven 
+years to reach full operating capacity.  Even privatizing existing 
+generation facilities has been difficult in recent months.  The Sao 
+Paulo state government canceled its third attempt to auction 
+Brazil's third largest generation companies Companhia Electrica de 
+Sao Paulo (CESP) on March 26 because potential bidders balked when 
+the GOB was unwilling to consider an extension of its generation 
+contracts, which would have been the largest electricity 
+privatization ever in Brazil. 
+ 
+¶7.  (U) International pressures also could contribute to possible 
+electricity shortages.  The ongoing discussions between Bolivia, 
+Argentina, and Brazil (Ref D) to divide up Bolivian natural gas 
+production will probably limit Brazil's supply of Bolivian natural 
+gas to power its gas-fired plants.  Another of Brazil's power 
+suppliers, its neighbor Paraguay, is also threatening Brazil's 
+ 
+SAO PAULO 00000260  003 OF 004 
+ 
+ 
+electricity supply in the coming months.  President-elect Fernando 
+Lugo wants to raise the tariff on electricity Paraguay sells to 
+Brazil from the Itaipu Dam by 700 percent.  Itaipu is the world's 
+largest hydropower plant (14,000 MW), from which Brazil gets 20 
+percent of its energy supply. 
+ 
+Biomass, Conservation, and Efficiency to the Rescue 
+--------------------------------------------- ------ 
+ 
+¶8.  (SBU) The timeframe for large projects and for further 
+development of Brazil's natural gas resources provide opportunities 
+for biomass generation to fill some of the gap.  Most experts point 
+to biomass electricity generation via bagasse, the biomass remaining 
+after sugarcane stalks are crushed to extract their juice for 
+ethanol and sugar production.  The Director of the National 
+Operating System (ONS) Hermes Chipp told Econoff that biomass 
+projects and small hydro plants are fundamental for guaranteeing 
+Brazil's energy needs through 2012.  Separately, ABRACEEL's Pederosa 
+also cited these as the two areas with the most growth potential for 
+the Brazilian energy matrix in the near term. 
+ 
+¶9.  (SBU) According to the Brazilian Sugar Cane Industry Association 
+(UNICA), Brazil's sugar/ethanol facilities have an installed 
+capacity of 1,800 MW, of which 780 MW was sold to the grid during 
+sugar cane harvest last year.  With increased use of biomass from 
+sugarcane and the implementation of high pressure boilers, UNICA 
+estimates biomass could produce up to 15 percent (11,500 MW) of 
+Brazil's energy needs by 2015.  Cogeneration can be as inexpensive 
+as the incremental cost of installing a more efficient boiler up to 
+an investment-intensive technology overhaul to maximize electricity 
+generation.  General Electric (GE) Regional Manager Guillermo Brooks 
+told Econoff that GE and others are interested in developing better 
+technology to improve efficiency, but that sugar/ethanol facilities 
+would need economies of scale in order for the investments to be 
+economically viable.  Cogeneration is a complimentary power source 
+to hydroelectric generation (wet vs. dry seasons), the construction 
+time for a cogeneration plant is about two years (five years for 
+hydro), and provides a natural hedge for sugar/ethanol production. 
+(Note: In order for bagasse plants to supply electricity to the 
+grid, either the state or federal government will need to ensure 
+access from these plants to the grid either through building the 
+transmission lines or providing economic incentives for the 
+companies to do so.  End Note.) 
+ 
+¶10.  (U) Another short-term option is energy conservation and 
+efficiency.  Because conservation was so successful in 2001, 
+however, Innecco told Econoff that rationing would be less effective 
+because many consumers have maintained their conservation efforts. 
+Brazil would unlikely see a comparable drop if residential rationing 
+measures were instituted again; instead, he said that the savings 
+would have to come from industry, which would result in a larger 
+economic impact.  Despite Innecco's skepticism, the National Program 
+of Electricity Conservation (Procel) estimated that if consumers 
+reduced consumption by five percent, Brazil would conserve about 
+2,500 MW.  Brazil has an estimated USD 2.5 billion in untapped 
+energy efficiency improvements every year despite having had an 
+energy efficiency program since 1985.  A recent World Bank study 
+showed that Brazil is a difficult place to promote energy efficiency 
+because of the lack of available financing for energy efficiency 
+projects and high interest rates.  The main source of funding 
+instead comes from a federally mandated fee charged to utility 
+companies for efficiency measures.  Although the fee encourages some 
+efficiency projects, Brazil needs to create other incentives to fund 
+energy-saving projects. 
+ 
+¶11.  (SBU) Illegal connections to the electricity grid cost 
+distributors approximately R$ 5 billion (USD three billion) per year 
+and Brazil's average commercial losses exceed five percent of 
+generated electricity, compared with the worldwide average of one 
+percent.   AES started a program in June 2005 to formalize illicit 
+electricity connections in Sao Paulo.  In 2007, AES Electropaulo 
+estimated more than 300,000 illegal connections in its operating 
+area.  These consumers abuse the system and have no incentives to 
+reduce their consumption.  AES' pilot program working with USAID to 
+formalize illegal connections showed a 30 percent consumption 
+ 
+SAO PAULO 00000260  004 OF 004 
+ 
+ 
+reduction (Ref E) by bringing participants into the formal system 
+and educating them how to conserve and to be accountable for their 
+electricity consumption. 
+ 
+COMMENT 
+------- 
+ 
+¶12.  (SBU) The tight supply and demand picture for electricity 
+undoubtedly means higher electricity tariffs for residential and 
+industrial consumers until bigger projects come online in 2012. 
+Financial interlocutors point to higher energy costs as one of the 
+major inflationary concerns in the Brazilian economy in 2008. 
+Although generators will initially bear the brunt of some of the 
+up-front costs of higher generation costs, eventually they will pass 
+them on to consumers.  Brazil's electricity generation capacity in 
+2008 depends on a number of external factors largely out of the 
+control of the government such as weather, the results of Paraguay's 
+attempts to renegotiate the Itaipu contract, and supplies of natural 
+gas from Bolivia and Argentina.  Brazil needs to start advancing 
+innovative ideas to bridge the gap and increase electricity supply. 
+The GOB is beginning to recognize biomass as a viable alternative 
+and the private sector is beginning to finance these ventures.  As 
+the 10th largest energy consumer in the world, the World Bank 
+expects Brazil to double its energy usage by 2030, but without the 
+right government incentives for production, conservation, and/or 
+efficiency, Brazil will have a hard time doing this.  Barring much 
+larger investments in the energy sector, the Brazilian economy could 
+face a significant constraint on its growth.  The next cable in this 
+series will focus on regional influences on Brazil's energy sector. 
+END COMMENT. 
+ 
+¶13.  (U) This cable was coordinated and cleared by Embassy 
+Brasilia. 
+ 
+WHITE

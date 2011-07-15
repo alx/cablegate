@@ -1,0 +1,61 @@
+09STATE29395
+
+Thu Mar 26 00:00:00 +0100 2009
+SECRET
+Secretary of State
+VZCZCXYZ0006
+PP RUEHWEB
+
+DE RUEHC #9395 0852103
+ZNY SSSSS ZZH
+P 262046Z MAR 09
+FM SECSTATE WASHDC
+TO AMEMBASSY MADRID PRIORITY 0000
+INFO MISSILE TECHNOLOGY CONTROL REGIME COLLECTIVE PRIORITYS E C R E T STATE 029395
+
+SIPDIS
+
+E.O. 12958: DECL: 03/26/2034 TAGS: PARM MTCRE PREL TW IR SP
+
+REF: A. MADRID 000088 B. 08 MADRID 000979 C. 08 STATE 081940 AND PREVIOUS
+
+Classified By: ISN/MTR DIRECTOR PAM DURHAM REASONS 1.4 (B), (C) AND (D).
+
+¶1. (U) This is an action request. Embassy Madrid, please see paragraph 4.
+
+¶2. (S) Background/Purpose/Objective: On several occasions since October 2005, the United States has discussed with Spain our concerns regarding sales by the Spanish company Maquinaria CME, S.A. of machine tools that posed potential proliferation concerns (Reftels). Most recently, in September 2008, we advised Spanish officials of an Iranian attempt to purchase a five-axis milling machine controlled by the Nuclear Suppliers Group and Wassenaar Arrangement from Maquinaria CME (Ref C). In January 2009, Spain informed us that its investigation into this activity determined that Maquinaria CME had not exported any machine tools to Iran since early 2006 and that a license for a similar milling machine had been denied by Spanish authorities in January 2007 (Ref A).
+
+¶3. (S) We now want to provide the GOS with information indicating that in late 2008 and early 2009, a Turkish intermediary was working to supply Irans Ardalan Machineries Company with a five-axis milling machine produced by Maquinaria CME. Ardalan Machineries is a front company associated with Irans liquid propellant ballistic missile developer Shahid Hemmat Industrial Group (SHIG). The milling machine sought by Ardalan Machineries is controlled by the Wassenaar Arrangement and the Nuclear Suppliers Group and could be used by SHIG to support its production of liquid rocket engine components. We want to alert Spanish authorities to this activity in support of their ongoing export control efforts and ask that they use all available measures to prevent missile-related entities in Iran from procuring Spanish-origin machine tools.
+
+¶4. (S) Action Request: Request Embassy Madrid approach appropriate host government authorities to deliver talking points/non-paper in paragraph 5 below and report response. Talking points also may be provided as a non-paper.
+
+¶5. (S) Begin talking points/non-paper:
+
+(SECRET REL SPAIN)
+
+-- You will recall that on several occasions since October 2005, we have raised with you our concerns regarding sales by the Spanish company Maquinaria CME, S.A. of machine tools that posed potential proliferation concerns.
+
+-- Most recently, in July 2008, we alerted you to efforts by Iran to purchase a five-axis milling machine controlled by the Nuclear Suppliers Group and Wassenaar Arrangement from Maquinaria CME.
+
+-- In January 2009, you informed us that your investigation had determined that Maquinaria CME had not exported any machine tools to Iran since early 2006 and that a license for a similar milling machine had been denied in January 2007.
+
+-- We appreciate your efforts to investigate this case and now would like to provide you with information regarding recent efforts by Irans ballistic missile program to procure machine tools from Maquinaria CME.
+
+-- Specifically, we understand that in late 2008 and early 2009, the Turkish-based intermediary Ak Makina was working to supply Irans Ardalan Machineries Company with a model FS-1 milling machine produced by Maquinaria CME.
+
+-- Ardalan Machineries is associated with Irans liquid propellant ballistic missile developer Shahid Hemmat Industrial Group (SHIG) and is acting as a false end-user in its dealings with Ak Makina to circumvent your export controls.
+
+-- We believe the machine sought by Ardalan Machineries is capable of performing five-axis machining operations and would be controlled by the Wassenaar Arrangement and the Nuclear Suppliers Group. As you know, such a machine would be prohibited under United Nations Security Council Resolution (UNSCR) 1803 for export to Iran.
+
+-- Such a machine could be used by SHIG to machine turbopump rotors, aerofoils, fuel control devices, and guidance components for Irans ballistic missiles.
+
+-- We hope this information is useful in supporting your export control efforts to prevent missile entities in Iran from procuring Spanish-origin machine tools.
+
+-- We look forward to continued cooperation on nonproliferation issues and would appreciate hearing of the actions you take in response to this information at the earliest possible time.
+
+End talking points/non-paper
+
+¶6. (U) Washington POC is ISN/MTR James Mayes (Phone: 202-647-3185). Please slug any reporting on this issue for ISN/MTR.
+
+¶7. (U) A word version file of this document will be posted at .
+CLINTON

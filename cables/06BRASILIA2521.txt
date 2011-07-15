@@ -30,54 +30,172 @@ RUEHLP/AMEMBASSY LA PAZ 5023
 RUEHQT/AMEMBASSY QUITO 2060
 RUEHPO/AMEMBASSY PARAMARIBO 1194
 RUCPDO/USDOC WASHDCUNCLAS SECTION 01 OF 03 BRASILIA 002521 
-
+ 
 SIPDIS 
-
+ 
 SENSITIVE 
 SIPDIS 
-
+ 
 TSA FOR VICKI REEDER, SUSAN HASMAN 
+ 
 SIPDIS 
 AMEMBASSY BUENOS AIRES PASS TSA ATTACHE JOCHOA 
 FAA FOR C. TERE FRANCESCHI 
 CA FOR OVERSEAS CITIZENS SERVICES 
-DOD FOR OSD NTSB FOR JOHN CLARK, BOB MACINTOSH 
-
-E.O. 12958: N/A TAGS: EAIR OTRA CASC ECON BR
-
-SUBJECT: BRAZILIANS BEGIN TO SPEAK OF AIR TRAFFIC CONTROL "CRISIS" 
+DOD FOR OSD 
+NTSB FOR JOHN CLARK, BOB MACINTOSH 
+ 
+E.O. 12958: N/A 
+TAGS: EAIR OTRA CASC ECON BR
+SUBJECT:  BRAZILIANS BEGIN TO SPEAK OF AIR TRAFFIC CONTROL "CRISIS" 
+ 
 REF: BRASILIA 2315 
-
-¶1. (SBU) SUMMARY: Brazilian Air Traffic Controllers' continued "work to rule" operation, which reduces the number of aircraft each controller handles to the maximum allowed by International Civil Aviation Organization standards (14), has made flight delays routine in Brazil: on November 27, according to the press, almost a quarter of all flights nationwide were delayed by at least 30 minutes. The situation was worse over recent holidays, when the great majority of flights faced delays. The press also has reported the existence of radar blind spots and communication gaps in the area where Brazil's worst aviation disaster occurred: the September 29 mid-air collision between a U.S.-registered ExcelAire executive jet and a Gol Airlines Boeing 737 over Eastern Matto Grosso state. The commander of the Brazilian Air Force, which is responsible for Air Traffic Control (ATC), and the Defense Minister were forced to acknowledge during a Congressional hearing that ATC errors may have been contributing factors in the September 29 tragedy. In addition, the press has made sensational new revelations about four near-misses between aircraft in flight since May 2006, two of which occurred since September 29, which easily could have resulted in collisions and fatalities. All this has created a palpable public sense that Brazil's air traffic control system is in "crisis." Air Force General Paulo Roberto Vilarinho was relieved as Director of the Department of Airspace Control due to the ongoing problems. END SUMMARY. 
-
-¶2. (U) Flight delays have become the rule in Brazil over the last two months as air traffic controllers have instituted a "work-to-rule" operation in the workplace, reducing the number of flights each controller handles. The Brazilian press has started reporting on flight delays along with traffic congestion reports in the morning. According to one source, a quarter of all flights in Brazil were delayed by at least 30 minutes on November 27. The work-to-rule operation was instituted primarily in response to the September 29 mid-air collision and controllers' longstanding complaints that they were over-worked (reftel). That tragedy, along with subsequent troubles, has resulted in at least one bureaucratic victim. On November 26, GOB spokespersons confirmed that Air Force General Paulo Roberto Vilarinho, the head of Brazil's Air Traffic Control, has been reassigned from his post as Director of the Department of Airspace Control. 
-
-Equipment Failures and Limitations ---------------------------------- 
-
-¶2. (U) Air traffic controllers have been voicing their complaints vociferously in the press, recently stating that equipment failures are quite normal. They have stated that all problems are reported to their commanders. Reportedly, one of the controllers on duty on September 29 and who was tracking the ExcelAire Legacy's flight from Brasilia said that his computer screen was showing the jet's altitude to be at 36 thousand feet when it really was flying at 37 thousand feet. The controller then passed the incorrect information to his replacement on the next shift. Both Brasilia and Sao Jose dos Campos air traffic controllers have rejected the possibility of human error. 
-
-¶3. (U) Controllers unanimously pointed out that there are blind spots and communication failures in the area where the September 29 accident occurred. In this case, equipment for the Center for Air Defense and Airspace Control-1 (CINDACTA-1), which controls air traffic in Brazil's central-east region, where the crash occurred, 
-
-BRASILIA 00002521 002 OF 003 
-
-very often indicates incorrect aircraft positions, and communication gaps also are frequent. In contrast, the Air Force commander and the National Agency of Civil Aviation, ANAC, denied any gaps in Brazilian radar systems. 
-
-¶4. (U) The flight controllers reportedly said that they had problems communicating that same day with two other planes that were flying the same route as the Legacy jet, one from Spanish airline "Iberia" and the other from Brazilian airline, Tam. However, after receiving a distress signal from the Legacy's transponder after the collision, an American airplane from Polar Air helped relay communications between air traffic control and the Legacy, directing it to its ultimately safe landing at Serra do Cachimbo Air Force Base. The Polar Air aircraft was also flying in the same region as the other flights, but at an altitude of 32 thousand feet.
-
- Four Previously Un-reported Near-Misses 
-
---------------------------------------- 5. (U) 22 in-flight "incidents" in Brazilian airspace between from January to June 2006, (as compared to 80 such incidents for all of 2005 and 82 for all of 2004). Other accounts note that there have been four in-flight near misses between aircraft since May 2006. One occurred two weeks after the September 29 crash near Rio de Janeiro. The press reported, based on interviews with air traffic controllers, that on October 15, Gol flight 1805 was approaching Tom Jobim International Airport in Rio at the same time that Tam's flight 3831 was taking off with a destination in the region of Sao Paulo. The planes, flying in opposite directions, almost collided, passing within 60 meters' distance of each other. (International regulations reportedly mandate that 300 meters be the minimum distance between planes.) Rio de Janeiro and Sao Paulo are both within the CINDACTA-1 area of responsibility. 
-
-¶6. (U) On May 19, a Gol Boeing 737 received permission from the air traffic control at Curitiba airport to descend to a lower altitude. Unfortunately, a small plane was doing parachute exercises in the same place and the aircraft almost collided. This was considered a high-risk event by Brazilian authorities. Another episode related by the Brazilian magazine "Epoca," involved a Varig aircraft flying in the area of Manaus. After the pilot completed a right turn, the Manaus air traffic control tower advised him to keep his flight level. Seconds later, another plane's shadow crossed the Varig aircraft's windshield, startling everyone. The other plane passed within 50 meters of the Varig flight, according to these accounts. 
-
-INVESTMENT IN FLIGHT SECURITY AND EQUIPMENT ------------------------------------------- 
-
-¶7. (U) Lack of resources has been a contributing factor to the current crisis. During the past four years, a period over which Brazilian air space saw a marked increase in flights, the Lula Administration reduced the budget for airspace management and air traffic security by 25%. Between 2003 and 2005, the Brazilian government invested 460.9 million reais (approximately 223 million US dollars) annually in aviation. This was a significant reduction from the 2000 to 2002 period, when the average amount spent on aviation each year was 612.5 million reais. The non-governmental organization Contas Abertas ("Open Accounts") has also criticized the government for failing to invest the full amounts authorized for aviation in the budget. The draft 2007 budget for aviation, which already had been sent to Congress before the present crisis started, calls for an eight percent reduction in resources allotted to the sector. The passenger volume, however, has been growing between 15 
-
-BRASILIA 00002521 003 OF 003 
-
+ 
+¶1. (SBU) SUMMARY: Brazilian Air Traffic Controllers' continued "work 
+to rule" operation, which reduces the number of aircraft each 
+controller handles to the maximum allowed by International Civil 
+Aviation Organization standards (14), has made flight delays routine 
+in Brazil: on November 27, according to the press, almost a quarter 
+of all flights nationwide were delayed by at least 30 minutes.  The 
+situation was worse over recent holidays, when the great majority of 
+flights faced delays.  The press also has reported the existence of 
+radar blind spots and communication gaps in the area where Brazil's 
+worst aviation disaster occurred: the September 29 mid-air collision 
+between a U.S.-registered ExcelAire executive jet and a Gol Airlines 
+Boeing 737 over Eastern Matto Grosso state.  The commander of the 
+Brazilian Air Force, which is responsible for Air Traffic Control 
+(ATC), and the Defense Minister were forced to acknowledge during a 
+Congressional hearing that ATC errors may have been contributing 
+factors in the September 29 tragedy.  In addition, the press has 
+made sensational new revelations about four near-misses between 
+aircraft in flight since May 2006, two of which occurred since 
+September 29, which easily could have resulted in collisions and 
+fatalities.  All this has created a palpable public sense that 
+Brazil's air traffic control system is in "crisis."  Air Force 
+General Paulo Roberto Vilarinho was relieved as Director of the 
+Department of Airspace Control due to the ongoing problems.  END 
+SUMMARY. 
+ 
+¶2. (U) Flight delays have become the rule in Brazil over the last 
+two months as air traffic controllers have instituted a 
+"work-to-rule" operation in the workplace, reducing the number of 
+flights each controller handles.  The Brazilian press has started 
+reporting on flight delays along with traffic congestion reports in 
+the morning.  According to one source, a quarter of all flights in 
+Brazil were delayed by at least 30 minutes on November 27.  The 
+work-to-rule operation was instituted primarily in response to the 
+September 29 mid-air collision and controllers' longstanding 
+complaints that they were over-worked (reftel).  That tragedy, along 
+with subsequent troubles, has resulted in at least one bureaucratic 
+victim.  On November 26, GOB spokespersons confirmed that Air Force 
+General Paulo Roberto Vilarinho, the head of Brazil's Air Traffic 
+Control, has been reassigned from his post as Director of the 
+Department of Airspace Control. 
+ 
+Equipment Failures and Limitations 
+---------------------------------- 
+ 
+¶2. (U) Air traffic controllers have been voicing their complaints 
+vociferously in the press, recently stating that equipment failures 
+are quite normal. They have stated that all problems are reported to 
+their commanders.  Reportedly, one of the controllers on duty on 
+September 29 and who was tracking the ExcelAire Legacy's flight from 
+Brasilia said that his computer screen was showing the jet's 
+altitude to be at 36 thousand feet when it really was flying at 37 
+thousand feet. The controller then passed the incorrect information 
+to his replacement on the next shift. Both Brasilia and Sao Jose dos 
+Campos air traffic controllers have rejected the possibility of 
+human error. 
+ 
+¶3. (U) Controllers unanimously pointed out that there are blind 
+spots and communication failures in the area where the September 29 
+accident occurred.  In this case, equipment for the Center for Air 
+Defense and Airspace Control-1 (CINDACTA-1), which controls air 
+traffic in Brazil's central-east region, where the crash occurred, 
+ 
+BRASILIA 00002521  002 OF 003 
+ 
+ 
+very often indicates incorrect aircraft positions, and communication 
+gaps also are frequent.  In contrast, the Air Force commander and 
+the National Agency of Civil Aviation, ANAC, denied any gaps in 
+Brazilian radar systems. 
+ 
+¶4. (U) The flight controllers reportedly said that they had problems 
+communicating that same day with two other planes that were flying 
+the same route as the Legacy jet, one from Spanish airline "Iberia" 
+and the other from Brazilian airline, Tam.  However, after receiving 
+a distress signal from the Legacy's transponder after the collision, 
+an American airplane from Polar Air helped relay communications 
+between air traffic control and the Legacy, directing it to its 
+ultimately safe landing at Serra do Cachimbo Air Force Base. The 
+Polar Air aircraft was also flying in the same region as the other 
+flights, but at an altitude of 32 thousand feet. 
+ 
+Four Previously Un-reported Near-Misses 
+--------------------------------------- 
+ 
+¶5. (U) 22 in-flight "incidents" in Brazilian airspace between from 
+January to June 2006, (as compared to 80 such incidents for all of 
+2005 and 82 for all of 2004).  Other accounts note that there have 
+been four in-flight near misses between aircraft since May 2006. 
+One occurred two weeks after the September 29 crash near Rio de 
+Janeiro.  The press reported, based on interviews with air traffic 
+controllers, that on October 15, Gol flight 1805 was approaching Tom 
+Jobim International Airport in Rio at the same time that Tam's 
+flight 3831 was taking off with a destination in the region of Sao 
+Paulo.  The planes, flying in opposite directions, almost collided, 
+passing within 60 meters' distance of each other.  (International 
+regulations reportedly mandate that 300 meters be the minimum 
+distance between planes.)  Rio de Janeiro and Sao Paulo are both 
+within the CINDACTA-1 area of responsibility. 
+ 
+¶6.  (U) On May 19, a Gol Boeing 737 received permission from the air 
+traffic control at Curitiba airport to descend to a lower altitude. 
+Unfortunately, a small plane was doing parachute exercises in the 
+same place and the aircraft almost collided.  This was considered a 
+high-risk event by Brazilian authorities.  Another episode related 
+by the Brazilian magazine "Epoca," involved a Varig aircraft flying 
+in the area of Manaus.  After the pilot completed a right turn, the 
+Manaus air traffic control tower advised him to keep his flight 
+level.  Seconds later, another plane's shadow crossed the Varig 
+aircraft's windshield, startling everyone.  The other plane passed 
+within 50 meters of the Varig flight, according to these accounts. 
+ 
+INVESTMENT IN FLIGHT SECURITY AND EQUIPMENT 
+------------------------------------------- 
+ 
+¶7. (U) Lack of resources has been a contributing factor to the 
+current crisis.  During the past four years, a period over which 
+Brazilian air space saw a marked increase in flights, the Lula 
+Administration reduced the budget for airspace management and air 
+traffic security by 25%.  Between 2003 and 2005, the Brazilian 
+government invested 460.9 million reais (approximately 223 million 
+US dollars) annually in aviation.  This was a significant reduction 
+from the 2000 to 2002 period, when the average amount spent on 
+aviation each year was 612.5 million reais.  The non-governmental 
+organization Contas Abertas ("Open Accounts") has also criticized 
+the government for failing to invest the full amounts authorized for 
+aviation in the budget.  The draft 2007 budget for aviation, which 
+already had been sent to Congress before the present crisis started, 
+calls for an eight percent reduction in resources allotted to the 
+sector.  The passenger volume, however, has been growing between 15 
+ 
+BRASILIA 00002521  003 OF 003 
+ 
+ 
 and 20 percent per year over the last two years. 
-
-¶8. (SBU) COMMENT: Despite several initiatives announced to address the crisis, including the emergency hiring of new air traffic controllers, the recalling of retired air traffic controllers to serve on an interim basis, and making air traffic control a civilian rather than military profession (once implemented, this would allow higher pay), this is a problem that will take a long time to resolve. It would also appear that the Air Force will in time lose its control over the ATC system. Meanwhile, passengers in Brazilian airports will need to exercise a great degree of patience and all travelers, including our USG colleagues, should be prepared for delays. 
-
+ 
+¶8. (SBU) COMMENT: Despite several initiatives announced to address 
+the crisis, including the emergency hiring of new air traffic 
+controllers, the recalling of retired air traffic controllers to 
+serve on an interim basis, and making air traffic control a civilian 
+rather than military profession (once implemented, this would allow 
+higher pay), this is a problem that will take a long time to 
+resolve.  It would also appear that the Air Force will in time lose 
+its control over the ATC system.  Meanwhile, passengers in Brazilian 
+airports will need to exercise a great degree of patience and all 
+travelers, including our USG colleagues, should be prepared for 
+delays. 
+ 
 SOBEL

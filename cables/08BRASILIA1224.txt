@@ -1,5 +1,5 @@
 08BRASILIA1224
-Bolivian Gas in Brazil: Stable But Waiting For The Shoe To Drop
+Bolivian Gas in Brazil: Stable But Waiting For The Shoe To
 Fri Sep 12 00:00:00 +0200 2008
 CONFIDENTIAL
 Embassy Brasilia
@@ -28,31 +28,187 @@ RUEAIIA/CIA WASHINGTON DC
 RHEBAAA/DOE WASHDC
 RUMIAAA/USCINCSO MIAMI FL
 RUEKJCS/JOINT STAFF WASHDCC O N F I D E N T I A L BRASILIA 001224 
-
+ 
 SIPDIS 
-
+ 
 E.O. 12958: DECL: 09/10/2018 
 TAGS: PREL ENRG ECON EPET EINV BR BL
-SUBJECT: Bolivian Gas in Brazil: Stable But Waiting For The Shoe To Drop 
-
-REFTELS: A) Brasilia 1215, B)Sao Paulo 0031, C) La Paz 0462, D) Brasilia 0593, E) Brasilia 0672, F) La Paz 1905 G) Sao Paulo 0392 H)La Paz 1941, I) Sao Paulo 0260 Classified By: DCM Lisa Kubiske for reasons 1.4 (b) and (d). 
-
-¶1. (C) SUMMARY: As of September 12, Brazil's gas supply had stabilized following first a minor (10 percent) and then major (50 percent) disruption in Brazilian imports of Bolivian natural gas during the preceding two days as the result of a domestic political struggle in Bolivia. Flow remains down almost ten percent from the previous normal flow of 30 million cubic meters per day (Mm3/d) but is generally sufficient for maintaining normal operations. Government sources report that the current situation is sustainable for the near term and no contingency measures are being taken by the government to compensate for the loss at this time. Petrobras has removed one Sao Paulo thermoelectric power plant from the electric grid but otherwise operations in Brazil are continuing normally. In Bolivia, officials have been able to make some repairs, restoring the majority of the flow, but the situation remains very tense. Industry associations in Brazil say that they are concerned about the possible ramifications for industrial production but feel more confident about the prospects for avoiding a major electricity crisis in the face of a prolonged disruption due to the contingency plans in place and the overall electricity picture which has improved in the last year. END SUMMARY 
-
-¶2. (C) As of the morning of September 12, the gas supply situation in Brazil was stable despite a 10 percent cut in supply from Bolivia, which provides approximately 50 percent of Brazil's natural gas. In a public statement at a press conference in the evening of September 11 Energy Minister Edison Lobao confirmed that though there was a temporary reduction of fifty percent of gas flow, the flow had returned to approximately 90 percent of the normal level. He said that there was no need at this time for Brazil to put into place any of the contingency measures envisioned by the government for a major disruption in supply. Petrobras disconnected one Sao Paulo thermoelectric power plant from the electricity grid, but so far have not suspended any oil production which involves natural gas re-injection. Braz Campanholo Filho, Executive Director of ONS, Brazil's system operator for the integrated national electronic grid, told Brasilia Econoff that although there is a lot of concern over the developments in Bolivia, no special processes have been put in place due to the minimal disruption experienced thus far. According to Campanholo Filho, September 11 was a very stressful day as Brazil experienced a 50 percent reduction in Bolivian gas supply for seven to eight hours. However, the limited duration of the 50 percent shortage meant that Brazil was able to continue operating its plants normally and the situation had no effect on Brazil's energy supply. He said that Brazil could continue operating with the 10 percent reduction for the short term. He was hopeful that the situation would remain stable over the weekend but noted that current conditions in Bolivia were notably unstable so ONS will be watching carefully. In the meantime the well-stocked reservoirs for hydroelectric power generation will help to compensate for the loss. In case the disruption becomes more severe or is protracted, Campanholo Filho confirmed that the industrial sector would be the primary victim but the electricity consumer would also suffer higher electricity prices as some plants would be forced to switch to more expensive fuels. 
-
-¶3. (C) Rio Econoff spoke with a contact from Britain's BG Group which operates in Bolivia who confirmed what energy analysts are telling Rio as well-- that their counterparts in Bolivia report that the situation there is very tense. The extent of pipeline damage is still being assessed and could take from a few days to a few weeks to repair. The main issue is whether protesters will give access to the site for repairs, Rio-based energy analysts say. AmEmbassy LaPaz reports that as of 4:00 Bolivia time, September 11, the damaged valve on the Transierra line (export to Brazil) had been fixed. Exports to Brazil had fallen by half (from 30 million cubic meters, Mm3/d, to 14Mm3/d), but following the repairs are now back up to 28Mm3/d, vice 31Mm3/d prior to the disruption. 
-
-¶4. (C) Marcel Biato, chief of staff to President Lula's foreign policy advisor Marco Aurelio Garcia, told the DCM on September 11 that the current situation is worrisome but not grave for Brazil. Brazil can continue for some time (many weeks) with the 10 percent shortfall in Bolivian supply of natural gas to Brazil through a variety of contingency plans (see Reftel A), including use of alternative fuel sources. In his public statements on September 11, Minister Lobao noted that possible contingency plans would begin with switching fuels for Petrobras and Eletrobras thermal plants (all thermal plants nationally use 12 Mm3/d), then suspending the re-injection of gas in the oil extraction process. In addition, he confirmed that other industries could be asked to switch fuels, possibly to oil or diesel, if the need arises. Lobao said a last resort would be to reduce the supply of vehicular natural gas, a fuel that gasoline powered vehicles can be converted to use or can be used by some types of flex fuel vehicles as an alternative to gasoline or ethanol (which in July accounted for the consumption of 6.5 Mm3/d). Biato told the DCM that though the current situation is manageable, a prolonged shortfall of 50 percent in Bolivian supply of natural gas to Brazil would be serious; at that level of shortfall, the main cost for Brazil would be economic - higher energy costs raising prices more broadly in the economy. 
-
-¶5. (C) Mauricio Correa, Director Institutional relations at the Brazilian Association for Electrical Commercialization (ABRACEEL) confirms that the private sector electricity providers that belong to his organization are concerned. Correa told Brasilia Econoff that he thought GOB contingency planning in case of a significant disruption would include prohibiting use of natural gas for vehicular fuel, mandating that gasoline be used instead, as well as requiring that thermal electrical plants begin using more expensive, and more environmentally degrading, oil in place of natural gas. In doing so, the electricity producers would pass the cost increase directly to the consumer. As noted in Reftel A, Correa said that the industrial base would suffer the most from a major disruption. Although a few of the industrial plants that use natural gas are capable of fuel switching, he estimated that up to 80 percent of industry could not, recalling that much of Brazil's industrial base switched to natural gas at the instigation of the government, in response to an incentive program. 
-
-¶6. (C) The Federation of Industries of Sao Paulo's (FIESP) natural gas specialist Leonardo Caio told Sao Paulo Econoff that FIESP is concerned about possible interruptions for their industrial members. He noted that contingency plans had already been established following shortages from October of last year (Reftels A and B) and that Brazil is in a much better position to address any shortage now than last year. The rainy season will begin in October, reservoirs are relatively full, and Brazil is less dependent on gas-fired power plants for electricity right now. Caio cited as possible contingency measures: interrupting natural gas sent to thermal electrical plants (as Petrobras has already done in Sao Paulo) to guarantee more supply available for industry; powering refineries by oil instead of natural gas; converting to other fuels oils, as some ceramic, glass, and chemicals companies have flexible systems that would allow them to do so if necessary. Caio noted that this conversion process would be time consuming and expensive and would likely require a GOB incentive or subsidy to permit industry to make these changes while still remaining competitive, as well as maintaining their production pace. While Brazil should benefit in this situation from recent efforts to diversify its gas supply, having just inaugurated a new LNG terminal in Pecem (Reftel A) which in theory can supplement Brazil's natural gas supply by about 7mm3/d, Caio says that to his knowledge the new terminal has not been entirely connected to the rest of the system and would be used in emergency only. He said the price is closer to 12 usd per million BTU for that gas, versus 6-9 usd for the imports from Bolivia. 
-
-¶7. (C) More broadly, Correa speculated that if Brazil were to experience a significant, protracted decrease in gas flow from Bolivia which resulted in damage to the industrial sector, the Lula Administration could see some backlash to its candidates in upcoming municipal elections, particularly in the bid by possible 2010 presidential candidate Marta Suplicy to become mayor of Sao Paulo. He added that these developments would likely intensify the dissatisfaction of many in the business sector with current foreign policy which they believe places other interests (Note: Some would say regional interests, others ideological) ahead of Brazil's national interest. 
-
-¶8. (C) COMMENT: Brazilian interlocutors agree that current conditions are manageable but they are watching anxiously to see what happens next. The situation is fluid and sources worry that a major or long-term disruption would have a significant economic impact with possible political ramifications as well. If these are the only pipeline disruptions, then Brazil can manage in terms of short-term supply. Analysts note violence seems to be escalating in Bolivia so if a political solution is not reached then we may see more attacks, triggering a longer-term emergency. Post notes that experience the world over demonstrates that pipelines are notoriously vulnerable and if Bolivia's opposition perceives this to be a successful strategy, it is possible to envision this as an ongoing scenario, adding urgency to Brazil's continued drive to expand its energy matrix. END COMMENT. 
-
-¶9. (C) This cable has been coordinated with U.S. Embassy La Paz, Congen Sao Paulo, and Congen Rio. 
-
+SUBJECT: Bolivian Gas in Brazil: Stable But Waiting For The Shoe To 
+Drop 
+ 
+REFTELS: A) Brasilia 1215, B)Sao Paulo 0031, C) La Paz 0462, D) 
+Brasilia 0593, E) Brasilia 0672, F) La Paz 1905 G) Sao Paulo 0392 
+H)La Paz 1941, I) Sao Paulo 0260 
+ 
+Classified By: DCM Lisa Kubiske for reasons 1.4 (b) and (d). 
+ 
+¶1. (C) SUMMARY: As of September 12, Brazil's gas supply had 
+stabilized following first a minor (10 percent) and then major (50 
+percent) disruption in Brazilian imports of Bolivian natural gas 
+during the preceding two days as the result of a domestic political 
+struggle in Bolivia.  Flow remains down almost ten percent from the 
+previous normal flow of 30 million cubic meters per day (Mm3/d) but 
+is generally sufficient for maintaining normal operations. 
+Government sources report that the current situation is sustainable 
+for the near term and no contingency measures are being taken by the 
+government to compensate for the loss at this time.  Petrobras has 
+removed one Sao Paulo thermoelectric power plant from the electric 
+grid but otherwise operations in Brazil are continuing normally. In 
+Bolivia, officials have been able to make some repairs, restoring the 
+majority of the flow, but the situation remains very tense. Industry 
+associations in Brazil say that they are concerned about the possible 
+ramifications for industrial production but feel more confident about 
+the prospects for avoiding a major electricity crisis in the face of 
+a prolonged disruption due to the contingency plans in place and the 
+overall electricity picture which has improved in the last year.  END 
+SUMMARY 
+ 
+¶2.  (C) As of the morning of September 12, the gas supply situation 
+in Brazil was stable despite a 10 percent cut in supply from Bolivia, 
+which provides approximately 50 percent of Brazil's natural gas. In a 
+public statement at a press conference in the evening of September 11 
+Energy Minister Edison Lobao confirmed that though there was a 
+temporary reduction of fifty percent of gas flow, the flow had 
+returned to approximately 90 percent of the normal level.  He said 
+that there was no need at this time for Brazil to put into place any 
+of the contingency measures envisioned by the government for a major 
+disruption in supply.  Petrobras disconnected one Sao Paulo 
+thermoelectric power plant from the electricity grid, but so far have 
+not suspended any oil production which involves natural gas 
+re-injection. Braz Campanholo Filho, Executive Director of ONS, 
+Brazil's system operator for the integrated national electronic grid, 
+told Brasilia Econoff that although there is a lot of concern over 
+the developments in Bolivia, no special processes have been put in 
+place due to the minimal disruption experienced thus far.  According 
+to Campanholo Filho, September 11 was a very stressful day as Brazil 
+experienced a 50 percent reduction in Bolivian gas supply for seven 
+to eight hours.  However, the limited duration of the 50 percent 
+shortage meant that Brazil was able to continue operating its plants 
+normally and the situation had no effect on Brazil's energy supply. 
+He said that Brazil could continue operating with the 10 percent 
+reduction for the short term.  He was hopeful that the situation 
+would remain stable over the weekend but noted that current 
+conditions in Bolivia were notably unstable so ONS will be watching 
+carefully.  In the meantime the well-stocked reservoirs for 
+hydroelectric power generation will help to compensate for the loss. 
+In case the disruption becomes more severe or is protracted, 
+Campanholo Filho confirmed that the industrial sector would be the 
+primary victim but the electricity consumer would also suffer higher 
+electricity prices as some plants would be forced to switch to more 
+expensive fuels. 
+ 
+¶3.  (C) Rio Econoff spoke with a contact from Britain's BG Group 
+which operates in Bolivia who confirmed what energy analysts are 
+telling Rio as well-- that their counterparts in Bolivia report that 
+the situation there is very tense.  The extent of pipeline damage is 
+still being assessed and could take from a few days to a few weeks to 
+repair.  The main issue is whether protesters will give access to the 
+site for repairs, Rio-based energy analysts say.  AmEmbassy LaPaz 
+reports that as of 4:00 Bolivia time, September 11, the damaged valve 
+on the Transierra line (export to Brazil) had been fixed.  Exports to 
+Brazil had fallen by half (from 30 million cubic meters, Mm3/d, to 
+14Mm3/d), but following the repairs are now back up to 28Mm3/d, vice 
+31Mm3/d prior to the disruption. 
+ 
+ 
+¶4.  (C) Marcel Biato, chief of staff to President Lula's foreign 
+policy advisor Marco Aurelio Garcia, told the DCM on September 11 
+that the current situation is worrisome but not grave for Brazil. 
+Brazil can continue for some time (many weeks) with the 10 percent 
+shortfall in Bolivian supply of natural gas to Brazil through a 
+variety of contingency plans (see Reftel A), including use of 
+alternative fuel sources.  In his public statements on September 11, 
+Minister Lobao noted that possible contingency plans would begin with 
+switching fuels for Petrobras and Eletrobras thermal plants (all 
+thermal plants nationally use 12 Mm3/d), then suspending the 
+re-injection of gas in the oil extraction process.  In addition, he 
+confirmed that other industries could be asked to switch fuels, 
+possibly to oil or diesel, if the need arises.  Lobao said a last 
+resort would be to reduce the supply of vehicular natural gas, a fuel 
+that gasoline powered vehicles can be converted to use or can be used 
+by some types of flex fuel vehicles as an alternative to gasoline or 
+ethanol (which in July accounted for the consumption of 6.5 Mm3/d). 
+Biato told the DCM that though the current situation is manageable, a 
+prolonged shortfall of 50 percent in Bolivian supply of natural gas 
+to Brazil would be serious; at that level of shortfall, the main cost 
+for Brazil would be economic - higher energy costs raising prices 
+more broadly in the economy. 
+ 
+¶5.  (C) Mauricio Correa, Director Institutional relations at the 
+Brazilian Association for Electrical Commercialization (ABRACEEL) 
+confirms that the private sector electricity providers that belong to 
+his organization are concerned.  Correa told Brasilia Econoff that he 
+thought GOB contingency planning in case of a significant disruption 
+would include prohibiting use of natural gas for vehicular fuel, 
+mandating that gasoline be used instead, as well as requiring that 
+thermal electrical plants begin using more expensive, and more 
+environmentally degrading, oil in place of natural gas.  In doing so, 
+the electricity producers would pass the cost increase directly to 
+the consumer.  As noted in Reftel A, Correa said that the industrial 
+base would suffer the most from a major disruption. Although a few of 
+the industrial plants that use natural gas are capable of fuel 
+switching, he estimated that up to 80 percent of industry could not, 
+recalling that much of Brazil's industrial base switched to natural 
+gas at the instigation of the government, in response to an incentive 
+program. 
+ 
+¶6.  (C) The Federation of Industries of Sao Paulo's (FIESP) natural 
+gas specialist Leonardo Caio told Sao Paulo Econoff that FIESP is 
+concerned about possible interruptions for their industrial members. 
+He noted that contingency plans had already been established 
+following shortages from October of last year (Reftels A and B) and 
+that Brazil is in a much better position to address any shortage now 
+than last year.  The rainy season will begin in October, reservoirs 
+are relatively full, and Brazil is less dependent on gas-fired power 
+plants for electricity right now.  Caio cited as possible contingency 
+measures: interrupting natural gas sent to thermal electrical plants 
+(as Petrobras has already done in Sao Paulo) to guarantee more supply 
+available for industry; powering refineries by oil instead of natural 
+gas; converting to other fuels oils, as some ceramic, glass, and 
+chemicals companies have flexible systems that would allow them to do 
+so if necessary.  Caio noted that this conversion process would be 
+time consuming and expensive and would likely require a GOB incentive 
+or subsidy to permit industry to make these changes while still 
+remaining competitive, as well as maintaining their production pace. 
+While Brazil should benefit in this situation from recent efforts to 
+diversify its gas supply, having just inaugurated a new LNG terminal 
+in Pecem (Reftel A) which in theory can supplement Brazil's natural 
+gas supply by about 7mm3/d, Caio says that to his knowledge the new 
+terminal has not been entirely connected to the rest of the system 
+and would be used in emergency only.  He said the price is closer to 
+12 usd per million BTU for that gas, versus 6-9 usd for the imports 
+from Bolivia. 
+ 
+¶7.  (C) More broadly, Correa speculated that if Brazil were to 
+experience a significant, protracted decrease in gas flow from 
+Bolivia which resulted in damage to the industrial sector, the Lula 
+Administration could see some backlash to its candidates in upcoming 
+ 
+ 
+municipal elections, particularly in the bid by possible 2010 
+presidential candidate Marta Suplicy to become mayor of Sao Paulo. 
+He added that these developments would likely intensify the 
+dissatisfaction of many in the business sector with current foreign 
+policy which they believe places other interests (Note: Some would 
+say regional interests, others ideological) ahead of Brazil's 
+national interest. 
+ 
+¶8.  (C) COMMENT: Brazilian interlocutors agree that current 
+conditions are manageable but they are watching anxiously to see what 
+happens next.  The situation is fluid and sources worry that a major 
+or long-term disruption would have a significant economic impact with 
+possible political ramifications as well.  If these are the only 
+pipeline disruptions, then Brazil can manage in terms of short-term 
+supply.  Analysts note violence seems to be escalating in Bolivia so 
+if a political solution is not reached then we may see more attacks, 
+triggering a longer-term emergency.  Post notes that experience the 
+world over demonstrates that pipelines are notoriously vulnerable and 
+if Bolivia's opposition perceives this to be a successful strategy, 
+it is possible to envision this as an ongoing scenario, adding 
+urgency to Brazil's continued drive to expand its energy matrix.  END 
+COMMENT. 
+ 
+¶9.  (C) This cable has been coordinated with U.S. Embassy La Paz, 
+Congen Sao Paulo, and Congen Rio. 
+ 
 SOBEL

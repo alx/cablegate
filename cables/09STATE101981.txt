@@ -1,0 +1,125 @@
+09STATE101981
+
+Wed Sep 30 00:00:00 +0200 2009
+SECRET
+Secretary of State
+VZCZCXYZ0017
+PP RUEHWEB
+
+DE RUEHC #1981 2732143
+ZNY SSSSS ZZH
+P R 302123Z SEP 09
+FM SECSTATE WASHDC
+TO RUEHSW/AMEMBASSY BERN PRIORITY 0000
+INFO RUEHSM/AMEMBASSY STOCKHOLM 0000
+RUEHUNV/USMISSION UNVIE VIENNA 0000S E C R E T STATE 101981
+
+SIPDIS
+
+E.O. 12958: DECL: 09/30/2034 TAGS: IR MNUC PARM
+
+REF: A. BERN 000268 B. BERN 000273 C. STATE 064514
+
+Classified By: EUR/PRA: Kathleen Morenski, reasons 1.4(b) and (d)
+
+¶1. (U) Information only, no action.
+
+¶2. (S) On 15 September 2009, Erwin Bollinger Head of Export Control Policy and Sanctions (SECO) met with Acting ISN DAS Tony Foley to discuss Colenco on the margins of broader export control talks with the United States.
+
+¶3. (S) Acting DAS Foley began the meeting by delivering the key points of the script containing IC-cleared non-paper (see paragraph 7). The Swiss head of delegation, Erwin Bollinger, responded with a brief recitation of U.S.-Swiss exchanges on Colenco. Bollinger noted the following key points: 1.) Switzerland has been in close contact with Colenco for many years, but did not see any wrongdoing, only received &hints8 that technology provided by Colenco could be misused by the Iranians. 2.) Switzerland could not have accomplished its goals of stopping Colenco under current Swiss export control laws. 3.) The Swiss were contacted by their Swedish colleagues who indicated that the transactions would not be allowed under EU law.
+
+¶4. (S) Bollinger indicated that Colenco had been very cooperative and provided thousands of pages to the Swiss Government in response to the requests for more information on the contracts. The documents were then sent to the Swiss Federal Nuclear Safety Inspectorate (ENSI) for technical evaluation, and the Swiss nuclear safety experts agreed that the information provided to Iran from Colenco was in the public domain. Bollinger further stated that the decision was made to deny the export based on the catch-all clause from the Nuclear Suppliers Group (NSG) export control regulations and using U.S.-origin information. The loss of income to Colenco would be approximately 40 million dollars. 
+
+¶5. (S) Bollinger stated that exports to Iran have decreased in recent years, and Switzerland is 4th on the list of countries denying exports to Iran. There is a new revision to the export control law currently in the Upper House of Parliament to allow the Swiss government the ability to deny an export based on the NSG &catch-all8 caveat. Previously, export denials had to be associated with an international sanction or explicitly stated by an international export control regime. In years past, Swiss Government and industrial leaders went through military service together and developed personal relationships. Senior government officials used their network to resolve an export control issue before the Government issued a denial. This personal network between government and industrial officials is becoming decreasingly less prevalent. Legitimate areas of business are suffering and the Swiss Government is having an increasingly difficult time imposing export controls on the industry.
+
+¶6. (S) Bollinger welcomed our cooperation on this matter and said that the GOS would keep us informed of any further developments, including any requests for additional U.S. information or questions resulting from this latest non-paper.
+
+¶7. (S//REL SWITZERLAND) BEGIN U.S. NONPAPER (which Embassy Bern is welcome to convey to other Swiss officials if necessary during the course of its ongoing consultations on this issue).
+
+We applaud Switzerlands decision to suspend Colencos support for Irans nuclear program and welcome the opportunity to provide you with additional information regarding the nature of this support.
+
+Specifically, Switzerland has requested the following information:
+
+Details regarding whether Colenco assistance exceeded that which could be credibly considered "public domain";
+
+The nature and role of Iranian firms MASNA, Ofogh, and ESNICO; and,
+
+"Proof" of diversion from Colencos assistance to the Arak heavy water research reactor.
+
+Public Domain
+
+During our technical experts discussion in Budapest in June 2009, Swiss officials noted that Colenco contends its support did not exceed information available in the public domain. This view was reflected in the non-paper provided to Secretary Clinton on 31 July.
+
+The Nuclear Suppliers Group (NSG) definition of "public domain" is "technology that has been made available without restrictions upon its further dissemination."
+
+We have information that Colenco provided Iran information which would not be permitted under this definition.
+
+Colenco was contracted by Iran to provide custom design and engineering support for the reactor project at Darkhovin.
+
+To do this, Colenco used published reactor design and probabilistic risk assessment methodologies. Those original, published methodologies would be considered "public domain."
+
+However, the application of those published methodologies by Colenco through its analysis is not. Further, the results were conveyed to Iran as a commercial, proprietary, and confidential product.
+
+This "value-added" response by Colenco likely constituted the heart of what Iran was intending to purchase when it contracted with Colenco.
+
+As noted previously, Colencos assistance involved primarily design support and at a very detailed level.
+
+At least one of the documents provided by Colenco in this regard was marked "highly confidential data," indicating assistance above the level of information in the public domain.
+
+This document contained detailed reactor core design specifications derived from output of a Dutch computer code.
+
+Colenco also trained MASNA personnel in Switzerland on probabilistic safety analysis and may have provided technical consultations on specific Darkhovin reactor design issues.
+
+Discussion of specific design issues with the Darkhovin reactor (the design of which is not public) would go well beyond a credible definition of "public domain."
+
+Nature and role of Iranian firms MASNA, Ofogh, and ESNICO
+
+We have information that links each of these firms to Irans nuclear program, the Atomic Energy Organization of Iran (AEOI) and the Darkhovin reactor project.
+
+Management Company for Nuclear Power Plant Construction (MASNA)
+
+MASNA was established in 2006 by the AEOI to manage future nuclear power plant construction. It is an AEOI-owned firm.
+
+AEOI is a UNSCR 1737-designated entity.
+
+The firm was tasked to provide engineering work and support in the areas of fuel, dosimetry, and neutronic calculations on the IR-40 Arak Heavy Water Research Reactor (HWRR) and the future nuclear reactor located near Qazvin, which we assess is probably the IR-360 reactor at Darkhovin.
+
+We have information that, as of fall 2008, MASNA was responsible for conceptual planning, design, and project engineering for the Darkhovin reactor.
+
+Ofogh Consulting Engineers (OCE)
+
+We have information that OCE is a subcontractor to MASNA on the Darkhovin reactor that has conducted site selection, design, and building layout services for the reactor.
+
+Ofogh was established during a reorganization of AEOIs Nuclear Power Plant Division in 2000 to provide the AEOI with technical and engineering services.
+
+Equipment Supplier for Nuclear Industries Corporation (ESNICO)
+
+We have information that ESNICO is responsible for procurement for the Darkhovin reactor project.
+
+ESNICO has also been previously affiliated with procurement for MITEC, the firm responsible for the construction of the HWRR.
+
+Proof of diversion
+
+The United States does not have proof of diversion from the Darkhovin reactor to the Arak reactor, nor do we believe that such proof is necessary to demonstrate a proliferation risk.
+
+We have already informed you that we have information that Iran has intentionally concealed work related to its Arak reactor by instead associating it with the Bushehr Nuclear Power Plant.
+
+Further, as we have demonstrated above, the firms responsible for the Darkhovin reactor project are owned or controlled by the AEOI, which has management responsibilities over both the Arak and Darkhovin reactor projects.
+
+One example of this is the involvement of Seyed Hossein Hosseini, designated in UNSCR 1803 for his involvement at a managerial level in the Arak reactor project, in Colencos dealings with Iran.
+
+We have also demonstrated that assistance that could be useful for Darkhovin could be applied in the Arak reactor. Areas in which such diversion is possible include: design and analysis assistance; balance-of-plant equipment; and, application of computer codes and other computational tools. Colenco could even be mislead by Iran into helping to design sub-systems specifically for the Arak reactor.
+
+AEOIs involvement, as well as the involvement of firms with direct association to both projects, lends credence to our view that it would be impossible for Colenco to put in sufficient protection mechanisms to ensure non-diversion and thereby assistance being provided to proscribed activities in Iran.
+
+Further, the absence of any clear information demonstrating past diversion should not be considered an indicator that such diversion has not taken place or that it will not take place.
+
+Summary
+
+We look forward to continued collaboration on this issue as well as others of mutual, nonproliferation concern.
+
+END U.S. NONPAPER
+
+¶8. (U) Any substantive questions can be addressed to Richard Nephew (ISN/RA, 202-647-7680, ) or Judee Allen-Close (ISN/RA, 202-647-8366, ).
+
+CLINTON

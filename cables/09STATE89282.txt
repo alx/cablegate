@@ -1,0 +1,123 @@
+09STATE89282
+BLUE LANTERN LEVEL 3: POST-LICENSE/PRE-SHIPMENT
+Wed Aug 26 00:00:00 +0200 2009
+SECRET
+Secretary of State
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHC #9282 2382142
+ZNY SSSSS ZZH
+R 262126Z AUG 09
+FM SECSTATE WASHDC
+TO RUEHPG/AMEMBASSY PRAGUE 0000
+RUEHNY/AMEMBASSY OSLO 0000
+INFO RUEHSF/AMEMBASSY SOFIA 0000
+RUEHRL/AMEMBASSY BERLIN 0000
+RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUEAIIA/CIA WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000S E C R E T STATE 089282
+NOFORN
+SENSITIVE
+SIPDIS
+PRAGUE FOR AMY CARNIE
+OSLO FOR GEORGE NOLL
+
+
+E.O. 12958: DECL: 07/23/2033
+TAGS: BU ETTC GM KOMC NO CZ
+SUBJECT: BLUE LANTERN LEVEL 3: POST-LICENSE/PRE-SHIPMENT
+END-USE CHECK ON LICENSE XXXXXXXXXXXX
+REF: TD-314/053428-08 OF 23 JULY 2008
+Classified By: Daniel J. Buzby, for reasons 1.4(a), (b), and (d)
+
+¶1. (U) This is an Action Request. See paragraphs 4 - 5.
+
+¶2. (U) The Department´s Office of Defense Trade Controls Compliance (PM/DTCC) requests Post´s assistance in conducting a post-license/pre-shipment check on license XXXXXXXXXXXX for the export of firearms, components, and ammunition to Bulgaria. Post is requested to complete this Blue Lantern check within 30 days. Lack of response to a Blue Lantern check will affect pending and future licenses involving parties to this license.
+
+¶3. (S//NF) Reason for request: Information provided by the British Secret Intelligence Services (BSIS) suggests that foreign intermediate consignee Kingfisher S.R.O. of the Czech Republic has been involved in questionable arms shipments; the Director of the company, Martin Hoza, has been described as a "shady character." In addition, Norwegian company Reidar Ostby is listed as "Broker" on the license. This check is to establish the bona fides of both companies.
+
+¶4. (SBU) Action Prague: Post is requested to establish the bona fides of Kingfisher S.R.O. by making inquiries to representatives of the company and appropriate host government officials. Post is also requested to provide an assessment of the company´s suitability as a consignee of U.S. Munitions Listed defense articles. The following points are included for guidance:
+(To Kingfisher S.R.O.)
+--When was your company established and who are its principals? Does your company have offices located in other countries?
+--What products and services does your company provide? Who are your regular customers and where do they reside?
+--Will your company ever have physical possession of the defense articles listed on this export license? If so, what inventory procedures are in place to assure the proper security and safe delivery of these firearms?
+--From whom will you receive the defense articles and to whom will you ship them? Please provide a brief chain of custody for these defense articles.
+--Are you familiar with the regulations governing the import of U.S.-origin defense articles, including restrictions on re-transfer or re-export?
+(To Czech Government)
+--Is Kingfisher S.R.O. properly authorized to import and/or assist in the shipment of firearms?
+--Does the company have proper authorizations to engage in this transaction for the shipment of firearms to Bulgaria?
+--Do you have any information on Kingfisher S.R.O. that would question their reliability as a consignee of U.S. defense articles?
+
+In its reply, Post is encouraged to comment on any information pertinent to this transaction such as security of facilities, end-use, and concerns about the entities involved.
+
+¶5. (SBU) Action Oslo: Post is requested to establish the bona fides of Reidar Ostby and clarify its role in this transaction by making inquiries to representatives of the company and appropriate host government officials. The following points are included for guidance:
+(To Reidar Ostby)
+--When was your company established and who are its principals? Does your company have offices located in other countries?
+--What products and services does your company provide? Who are your regular customers and where do they reside?
+--Please describe the role your company will play in this transaction. What specific services will your company be providing? What fees or commissions is your company receiving for these services and whom is paying them?
+--Will your company ever have physical possession of the firearms listed on this export license? If so, what inventory procedures are in place to assure the proper security and safe delivery of these firearms?
+--Are you familiar with the regulations governing the brokering of U.S.-origin defense articles, including the requirement for all brokers of U.S.-origin defense articles, regardless of nationality, to register with the U.S. Department of State?
+
+(To Norwegian Government)
+--Is Reidar Ostby properly authorized by the Government of Norway to import, export, or broker firearms?
+--Do you have any information on Reidar Ostby that would question their reliability as a broker of U.S. defense articles?
+
+In its reply, Post is encouraged to comment on any information pertinent to this transaction such as security of facilities, end-use, and concerns about the entities involved.
+
+¶6. (U) Details of license applications:
+DTC Case: XXXXXXXXXXXX
+QUANTITY/COMMODITY:
+20 Model 770 Rifles, .30-06 Caliber
+3 Model 770 Rifles, .300 Caliber
+1 Model 700 Rifle, .300 Caliber
+81,300 Rounds of Centerfire Ammunition, .17-.458 Calibers
+204,000 Rounds of Rimfire Ammunition, .22 Caliber
+50 Assorted Rifle Parts (e.g. stocks, extractors, receivers)
+50 Magazine Clips
+License Value: USD $48,206
+SELLER:
+Remington Arms Company
+870 Remington Drive
+PO Box 700
+Madison, NC 27025
+FOREIGN INTERMEDIATE CONSIGNEES:
+Kingfisher S.R.O.
+Nam Kinskych 76/7
+150 00 Prah 5
+Czech Republic
+Listed Role: Foreign Freight Forwarder
+Reidar Ostby
+Stemmen 9
+N-4820 Froland
+Norway
+Listed Role: Broker
+Schober International
+Speditions und Logistik GMBH Heidenkampsweg 66
+Hamburg
+Germany
+Listed Role: Foreign Freight Forwarder
+FOREIGN END-USER:
+Special Tactical Supplies LTD
+46 Shipenski Prohod Blvd, Bl. 43, Entr B, Fl. 3
+1574 Sofia
+Bulgaria
+Tel: 359 2 971 2257
+Email: sts@guns.bg
+PURPOSE:
+For commercial resale in Bulgaria
+
+¶7. (U) Submitted in support of the license application were the following documents (PM/DTCC will fax documentation to Posts upon request):
+
+Two signed DSP-83 Nontransfer and Use Certificate signed by Shirley Conner (Remington) dated 08/06/2009 and Kalin Andreev
+(Special Tactical Services) dated 07/28/2009
+License to Import Arms No. XXXXXXXXXXXX (Identification
+Number XXXXXXXXXXXX) issued 09/07/2009
+Purchase Order issued by Special Tactical Supplies signed by Kalin Andreev dated 07/28/2009
+
+¶8. (U) Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR and include the words "Blue Lantern" and the case number in the subject line. POC is XXXXXXXXXXXX, Phone: XXXXXXXXXXXX; Email: XXXXXXXXXXXX; SIPRNET: XXXXXXXXXXXX. The Blue Lantern Guidebook (ref) is available as a PDF file on Intellipedia: http://www.intelink.gov/wiki/ Blue Lantern End-Use Monitoring Program
+
+¶9. (U) Department is grateful for Post´s assistance in this matter.
+CLINTON

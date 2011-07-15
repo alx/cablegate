@@ -3,20 +3,7 @@ PARAGUAY: UPDATE ON CUBAS KIDNAPPING INVESTIGATION
 Wed May 18 00:00:00 +0200 2005
 SECRET
 Embassy Asuncion
-This record is a partial extract of the original cable. The full text of the original cable is not available.id: 32876
-date: 5/18/2005 20:43
-refid: 05ASUNCION668
-origin: Embassy Asuncion
-classification: SECRET
-destination: 05ASUNCION589
-header:
-This record is a partial extract of the original cable. The full text of the original cable is not available.
-
-
-
------------------ header ends ----------------
-
-S E C R E T SECTION 01 OF 03 ASUNCION 000668 
+This record is a partial extract of the original cable. The full text of the original cable is not available.S E C R E T SECTION 01 OF 03 ASUNCION 000668 
  
 SIPDIS 
  
@@ -220,6 +207,4 @@ well-known physician" by a group that reportedly included a
 Colombian national named Jose Raul Castro Fernandez. 
 Paraguayan authorities reportedly told the press that Castro 
 "could be a member of the FARC." 
-KEANE 
-
-=======================CABLE ENDS============================
+KEANE

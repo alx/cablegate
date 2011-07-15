@@ -1,0 +1,96 @@
+06BRASILIA1707
+BRAZIL ANNOUNCES PLAN TO MONITOR SELECTIVE LOGGING
+Thu Aug 17 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Brasilia
+VZCZCXRO2969
+PP RUEHAO RUEHCD RUEHGA RUEHGD RUEHGR RUEHHA RUEHHO RUEHMC RUEHNG
+RUEHNL RUEHQU RUEHRD RUEHRG RUEHRS RUEHTM RUEHVC
+DE RUEHBR #1707 2291055
+ZNR UUUUU ZZH
+P 171055Z AUG 06
+FM AMEMBASSY BRASILIA
+TO RUEHC/SECSTATE WASHDC PRIORITY 6394
+INFO RUEHRI/AMCONSUL RIO DE JANEIRO 2697
+RUEHSO/AMCONSUL SAO PAULO 7767
+RUEHRG/AMCONSUL RECIFE 5305
+RUEHWH/WESTERN HEMISPHERIC AFFAIRS DIPL POSTSUNCLAS BRASILIA 001707 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: SENV TBIO KSCA BR
+SUBJECT: BRAZIL ANNOUNCES PLAN TO MONITOR SELECTIVE LOGGING 
+ 
+REF: A) BRASILIA 265 
+ 
+ B) BRASILIA 1657 
+ 
+¶1. Summary: Brazil intends to invest US$ 640,000 to develop a system 
+that will monitor selective logging in the Amazon.  The GoB hopes 
+that the program will provide another weapon to combat deforestation 
+and shore up enforcement mechanisms for the recently passed Forest 
+Concessions Law.(ref A)  INPE (The National Institute of Space 
+Studies) an arm of the Ministry of Science and Technology (MCT) will 
+coordinate the program while the NGO, IMAZON, is responsible for 
+executing the project.  Meanwhile, the Ministry of the Environment 
+(MMA) should finance US$ 450,000 of the project.  An additional US$ 
+190,000 will come from a multi-use fund that supports a variety of 
+integrated Amazon research activities from the LBA (Large Scale 
+Biosphere-Atmosphere Project in the Amazon) to the Ministry of 
+Agriculture. End Summary 
+ 
+¶2. The project will begin with a planning workshop (to develop a 
+data collection model and a timeline) whenever the contract between 
+INPE, IMAZON and the MMA closes.  IMAZON's Carlos Souza speculates 
+this should occur around the end of 2006.  Once a model is 
+established, IMAZON will spend 3 months testing and calibrating the 
+process along the new BR-163 sustainable forest district.(ref B) 
+The project will then expand to chart selective logging in other 
+regions of the Amazon.  The ultimate goals are to create a map of 
+locales where selective logging is occurring and, more importantly, 
+to demonstrate the viability of the system for future use. 
+ 
+¶3. The project will test a methodology for monitoring selective 
+logging developed by IMAZON's Carlos Souza Jr.  Current monitoring 
+systems are not attuned to map areas with intact vegetation and can 
+only reveal logging in wide open areas.  Souza's method can pinpoint 
+logged areas where a significant amount of forest cover remains. 
+One challenge the project faces is to decide from where to obtain 
+the necessary satellite imagery for the project.  While CBERS 
+(China), Landsat (NASA) and Spot (France) are all viable options, 
+Spot records the most accurate images.  It is also the most costly. 
+A Spot image with a resolution of up to 10 meters costs US$1,600 
+while a resolution of 30 meters costs US$1200.  INPE's Dalton 
+Valeriano surmises that using Spot to monitor just the Arc of 
+Deforestation (approximately one-third of the Amazon) would require 
+an outlay of US$ 2.3 million.  Valeriano added, however, that he 
+hoped Landsat 8 would increase access to quality images, although it 
+is not scheduled to be in orbit until 2009. 
+ 
+¶4. Valeriano hopes the undertaking will create a new tool with which 
+to aid deforestation enforcement activities similar to the DETER 
+satellite satellite monitoring system which provides deforestation 
+statistics every two weeks, or the Prodes satellite monitoring 
+system that supplies information on forest fire activities.  He 
+recently stated that the system will help to control logging 
+activities and enforce a more rational exploitation and management 
+of National Forests.  Satellite monitoring reveals logged areas 
+which can then be cross-referenced with areas where timber-licenses 
+are issued, to reveal illegal deforestation. Moreover this program 
+should also provide a measure of the intensity of exploitation in 
+the Amazon. 
+ 
+¶5. Comment: While the first US$ 450000 from the MMA is all but 
+guaranteed, the additional funding is still in question.  Moreover, 
+this is a pilot program designed to demonstrate viability.  Whether 
+or not it is successful, the GoB will need to find funding sources 
+in coming years to make the system a reality.  That said, the GoB 
+and the MMA have a long history of utilizing satellite technology to 
+monitor various attributes and aspects of the Amazon.  If Souza's 
+method proves a success, the MMA is likely to make the system 
+permanent. End Comment 
+ 
+SOBEL

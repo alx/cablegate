@@ -22,38 +22,7 @@ RUEAIIA/CIA WASHDC PRIORITY
 RHEHNSC/NSC WASHDC PRIORITY
 RUEAWJA/DEPT OF JUSTICE WASHDC PRIORITY
 RHMFIUU/FBI WASHINGTON DC PRIORITY
-RHMFISS/CDR USSOUTHCOM MIAMI FL PRIORITYid: 177430
-date: 11/7/2008 20:13
-refid: 08BOGOTA4036
-origin: Embassy Bogota
-classification: SECRET
-destination: 08STATE64659
-header:
-VZCZCXYZ0000
-PP RUEHWEB
-
-DE RUEHBO #4036/01 3122013
-ZNY SSSSS ZZH
-P 072013Z NOV 08
-FM AMEMBASSY BOGOTA
-TO RUEHC/SECSTATE WASHDC PRIORITY 5421
-INFO RUEHBR/AMEMBASSY BRASILIA PRIORITY 8480
-RUEHCV/AMEMBASSY CARACAS PRIORITY 1294
-RUEHPE/AMEMBASSY LIMA PRIORITY 6714
-RUEHZP/AMEMBASSY PANAMA PRIORITY 2621
-RUEHQT/AMEMBASSY QUITO PRIORITY 7412
-RUEHTV/AMEMBASSY TEL AVIV PRIORITY 0542
-RUEKJCS/SECDEF WASHDC PRIORITY
-RUEAIIA/CIA WASHDC PRIORITY
-RHEHNSC/NSC WASHDC PRIORITY
-RUEAWJA/DEPT OF JUSTICE WASHDC PRIORITY
-RHMFIUU/FBI WASHINGTON DC PRIORITY
-RHMFISS/CDR USSOUTHCOM MIAMI FL PRIORITY
-
-
------------------ header ends ----------------
-
-S E C R E T BOGOTA 004036 
+RHMFISS/CDR USSOUTHCOM MIAMI FL PRIORITYS E C R E T BOGOTA 004036 
  
 SIPDIS 
  
@@ -68,6 +37,7 @@ Reasons 1.4 (b and d)
  
 SUMMARY 
 -------- 
+
 ¶1. (C) The Government of Colombia (GOC) maintains positive 
 relations with Israel, particularly in the defense sector 
 through private Israeli defense contractors.  Key areas of 
@@ -81,6 +51,7 @@ members.  End Summary.
  
 MILITARY COOPERATION 
 -------------------- 
+
 ¶2. (S/NF) Colombia's defense cooperation with Israel cooled 
 during the 1980s and 1990s, when some Israeli mercenaries 
 reportedly helped train paramilitary forces in Colombia. 
@@ -110,6 +81,7 @@ restructure Colombia's intelligence services.
  
 THE "STRATEGIC LEAP" 
 -------------------- 
+
 ¶4. (S/NF) Colombia's Ministry of Defense (MOD) has also 
 engaged an Israeli company, Global Comprehensive Security 
 Transformation (Global CST), to help the Colombian government 
@@ -126,6 +98,7 @@ it the "Salto Estrategico" (Strategic Leap).
  
 ARMS SALES 
 ---------- 
+
 ¶5. (C) In February 2008, the GOC signed a deal with the 
 Israeli government to update 24 Kfir C7s to the C10 version. 
 The GOC is negotiating a possible USD 160 million avionics 
@@ -146,6 +119,7 @@ Israeli positions at the United Nations.
  
 COLOMBIA'S JEWISH COMMUNITY 
 --------------------------- 
+
 ¶6. (C) The Jewish community in Colombia is concentrated in 
 Bogota, with smaller communities in Cali, Barranquilla and 
 Medellin.  The Confederation of Associations of Bogota 
@@ -161,6 +135,7 @@ community.
  
 ECONOMIC RELATIONS 
 ------------------ 
+
 ¶7. (C) Israel's economic relations with Colombia remain 
 relatively limited.  Colombian exports to Israel fell 17 
 percent from 2005 to 2007, dropping from USD 197 million to 
@@ -180,6 +155,4 @@ a significant source of FDI in Colombia in recent years.
 ¶8. (S) A previous, comprehensive report prepared by DIA on 
 relations between Israel and Colombia is being sent to INR 
 via e-mail. 
-BROWNFIELD 
-
-=======================CABLE ENDS============================
+BROWNFIELD

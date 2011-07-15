@@ -1,0 +1,118 @@
+07USNATO408
+REPORT OF SENIOR RESOURCE BOARD PLENARY MEETING JUN 28 & 29, 2007
+Mon Jul 09 00:00:00 +0200 2007
+CONFIDENTIAL
+Mission USNATO
+VZCZCXYZ0010
+RR RUEHWEB
+
+DE RUEHNO #0408/01 1900657
+ZNY CCCCC ZZH
+R 090657Z JUL 07
+FM USMISSION USNATO
+TO RUEHC/SECSTATE WASHDC 1029
+RUEKJCS/SECDEF WASHDC
+INFO RUEHXP/ALL NATO POST COLLECTIVE
+RUEHNO/USDELMC BRUSSELS BE
+RUEKJCS/JOINT STAFF WASHDC//J-4/J-5/J-6//
+RHMFISS/CDR USJFCOM NORFOLK VA//J4//
+RHMFISS/CDR USEUCOM VAIHINGEN GE//EC-J4//
+RHMFISS/DISA WASHINGTON DC//NC3LO//
+RHMFISS/HQ USCENTCOM MACDILL AFB FL//J4-E//C O N F I D E N T I A L USNATO 000408
+SIPDIS
+SIPDIS
+STATE FOR EUR-RPM (MONAHAN);
+DEFENSE FOR OASD/ISA (EURO-NATO); USDAT&L/DUSD-IE (VAUGHT);
+OASD/NII (HANSEN);
+EUCOM FOR J4-EN ENGINEER DIV (MC) (CAPT JACKSON);
+CENTCOM-J4-E (COL FLANAGAN);
+JOINT STAFF-J-4 (MR. MACKIE) J-5 (LTC SEAMON)
+E.O. 12958: DECL: 01/01/2011
+TAGS: AORC MARR NATO
+SUBJECT: REPORT OF SENIOR RESOURCE BOARD PLENARY MEETING JUN 28 & 29, 2007
+REF: A. USNATO 00383 DTG 221423Z JUN 07
+¶B. SECSTATE 90005 DTG 272156Z JUL 07
+¶C. SRB-N(2007)0040
+¶D. PO(2005)0098
+¶E. AC/281-N(2007)0062
+¶F. SRB-N(2007)0041
+¶G. SRB-WP(2007)0001-REV6
+
+Classified By: ACTING DEFAD JAMES ENGLE. REASON 1.4.(B/D)
+
+¶1. (U) SUMMARY: The Senior Resource Board (SRB), meeting on June 28 and 29, endorsed the Capability Package (CP) for Vital Security Projects for NATO Command Facilities and agreed on plans of action for a variety of resource issues. The following topics were considered: CP for Deployable Ground Based Sensors for Air Surveillance and Identification; the Afghanistan, Iraq, and Kosovo operations resources; the 2008 to 2012 medium term resource plan (MTRP); Missile Defense affordability assessment; funding arrangements for NATO assistance to humanitarian operations; NATO Command Structure Peacetime Establishment (PE) Review; short notice deployment of the NATO Response Force (NRF); Air Command and Control System (ACCS) implementation; the economic benefits to nations aspect of burdensharing; the Combined Air Operations Center (CAOC) transition plan; cyber defense; the NATO Security Investment Program (NSIP) implementation; and the funding policy for Pakistani personnel participation in NATO courses. The Board received status reports on the resource aspects of the current operations in Afghanistan, Iraq, the Balkans, and Sudan. The Board also received briefings on the ongoing NATO resource reform activities and the Allied Command Transformation (ACT) Research and Technology activities. END SUMMARY.
+
+¶2. (C) Details of the SRB deliberations follows:
+RESOURCE PLANNING AND POLICY ISSUES
+ITEM I. CRISIS RESPONSE OPERATIONS (CROs) AND MISSIONS
+RESOURCE UPDATES.
+
+¶A. International Security Assistance Force (ISAF): Allied Command Operations (ACO) briefed the Board on the status of their ongoing campaign to counter insurgents, and reported that the NATO Maintenance and Supply Agency (NAMSA) had awarded all real life support contracts for Kandahar Airfield (KAF); however, most contracts will not be fully operational until September 6, 2007. Noting that the U.S. is scheduled to turn over operations on June 30, 2007, ACO is coordinating with U.S. military authorities to bridge the gap in services. NAMSA has exercised options to the support contracts, thus increasing the cost, due to the apparent non-availability of some U.S. infrastructure foreseen to be transferred to NATO. The Communications Information System (CIS) and air traffic control (ATC) contracts are significantly delayed; the CIS backbone is now scheduled to be operational in February 2009, and the ATC services will transition to NATO in August 2009. ACO has put Combined Joint Task Force (CJTF) assets in place to mitigate the CIS shortfalls, and is coordinating with the U.S. to extend their provision of ATC services for two years. ACO also reported that the KAF footprint is nearing capacity and may not be able to accommodate any new missions. The Government of Afghanistan approved NATO use of additional adjacent real estate, and ISAF will expand the fence line in the winter.
+
+ACO reported that the recent force generation conference had fulfilled between 90 and 100 percent of the Minimum Military Requirement (MMR) for the Intelligence, Surveillance, and Reconnaissance (ISR) collection and full motion video exploitation capability through offers from Italy, the UK, and the U.S. However, only 10 percent of the theater-wide dissemination capability and 5 percent of the archival and storage capability are fulfilled. ACO will submit an assessment of the ISR capability gap to the Military Committee (MC) for further deliberations. MISSION NOTE: The U.S. offer of two Predator sorties per day under national operational control (OPCON) will not be eligible for common funding reimbursement, as they do not fulfill the Theater Capability Statement of Requirement (TCSOR) of being OPCON to COMISAF. END MISSION NOTE.
+
+The Infrastructure Committee (IC) Chairman reported that authorizations for ISAF to date are 440.4 million Euro (MEuro), and expenditures for 2007 are approaching 100 MEuro. The Military Budget Committee (MBC) Chairman reported that ACO submitted a pre-mid-year ISAF budget update that does not require a budget supplement at this time. The MBC agreed to unfreeze 14.5 MEuro in credits carried forward from 2006 for the additional ISAF requirements, and will consider any further ISAF requirements as part of the mid-year budget review in September.
+
+¶B. BALKANS: ACO will provide an operational update for the Balkans in November in lieu of an autumn periodic mission review. The KFOR portion will focus on operations and possible future tasks to build up the Kosovo Security Force. ACO continues prudent planning for the implementation of the Kosovo settlement proposal presently before the United Nations (UN) Security Council and foresees for KFOR a reduction in maneuver units, greater emphasis on out-of-theater reserves, and a consolidation of footprint and support functions to increase the tooth to tail ratios.
+
+ACO and the European Union (EU) reviewed the Camp Butmir, Bosnia, cost share principles and agreed to retain them; however, the NATO cost share will be reduced by deleting the NATO personnel located in downtown Sarajevo from the calculation.
+As a consequence of the KFOR Camp Nothing Hill audit which notes that construction commenced prior to IC project authorization, ACO reported that they are now conducting pre-deployment common funding (NSIP and Military Budget) training. ACO will submit a report to the Board outlining the lessons learned and further action taken, upon receipt of the final audit report on the incident.
+
+¶C. NATO TRAINING MISSION IRAQ (NTM-I): ACO reported that on June 11, the NAC approved the NATO provision of Gendarmerie-type training with Italy as the lead nation using their Carabinieri forces as a model. The training will commence on September 1, 2007, for a two-year period, and will consist of eight sessions, each twelve weeks long, and with each session training a cadre of 450 Iraqi personnel. The US will fund and construct, at no cost to NATO, the infrastructure and force protection requirements, to include contract guard services, for the Gendarmarie-type training facilities at Camp Dublin.
+
+France, supported by Belgium and Spain, insisted that the NTM-I long-term resource development plan (LTRDP), briefed in a previous preparatory session, should be revised to reflect trust funding for the proposed mentors and advisors. The US, the UK, and Italy all supported ACO,s assessment that the mentors and advisors were part of the crisis establishment headquarters and thus eligible for common funding. The Board agreed to further discussions on this issue at an early preparatory session.
+
+The IS reported that 27 nations (including Switzerland) had pledged trust fund contributions that fully covered the 2007 requirements and most of the 2008 requirements. The total estimated costs for NTM-I trust fund training from 2005 through the end of 2007 (including gendarmerie training) is 9.0 MEuro. 13.1 MEuro having been pledged to date, there is a surplus of 4.1 MEuro that can be used for 2008 requirements. The Board, noting the surplus, agreed that the trust funds could also be used to fill gaps in transportation for equipment donations.
+
+¶D. NATO LOGISTICAL SUPPORT TO THE AFRICAN UNION (AU) MISSION IN SUDAN (AMIS). ACO reported that since NATO had undertaken the AMIS mission in June 2005, NATO nations have supported four rotation cycles and have moved over 22,000 AU troops at a cost of 12.4 MEuro. ACO is monitoring the progress of the UN activities for their three-phased plan for Darfur. The light support package, consisting of technical and communication support, is already in place. The heavy support package entails approximately 3700 personnel, and was approved by President Bashir in April. The hybrid operation was unconditionally agreed on June 17. UN/AU implementation planning for the heavy support package is ongoing and includes contracting for camp expansions scheduled to be ready in 6 to 7 months. The AMIS mandate, and thus NATOs support to AMIS, ended on June 30. On June 19, the AU agreed to extend the AMIS mandate, and a written request from the AU to extend the NATO support is anticipated shortly.
+
+On June 7, the NAC approved the provision of NATO airlift support for the AU Mission in Somalia (AMISOM). The Burundi battalion will likely be ready to deploy in four to five weeks; however, no formal request for NATO airlift has been made by the AU.
+
+ITEM II. REPORTING ISSUES WITH CURRENT AND FUTURE RESOURCE IMPLICATIONS.
+
+¶A. Short Notice Deployment of the NRF. The MC continues to discuss the definition of short notice deployment and is considering limiting common funding to a 20 to 30-day timeline and to the transportation of key enablers for the initial operational capability of the NRF. Consensus is building around common funding for all forms of transportation (air, sea, and land). The Board met in informal session prior to the plenary: noting the 30-day timeline to complete the task directed by Ministers; agreed to proceed with developing funding arrangements despite there being no MC agreement on the definition of short notice deployments; and tasked the IS to prepare a non-paper for discussions at a July informal session.
+
+¶B. Funding Implications of NATO participation in Humanitarian Operations. Some nations expressed initial views on the IS non-paper issued June 27 (Ref C) which advocated a limited number of amendments to the agreed common funding for non-article V operations (Ref D). While most that spoke supported the IS approach, Germany and Belgium advocated no changes to the agreed common funding eligibility for operation until assessment on the impact on force generation could be made. The Board, noting the late distribution of the paper, agreed to consider the IS non-paper at an early preparatory session.
+
+¶C. NATO Command Structure (NCS) Peacetime Establishment Review. The IMS reported that nations are unable to agree to the latest proposal to change the command structure, citing issues with the number of component commands and the geographical distribution. MISSION NOTE: During a June 29 EWG meeting, nations generally agreed to complete Phase I before moving to Phase II and that work would proceed on the basis of the current command structure and geographical distribution and the non-contentious Phase I proposals. The IS will issue a strawman paper this week and the EWG will discuss the issue again on July 9. END MISSION NOTE.
+
+¶D. CAOC Transition Plan. The MC has yet to agree the flags to post for the NCS to include the CAOCs, thus adding to the overall shortfalls in manning the CAOCs. ACO intends to revise the ACCS Foundation Capability CP to include the interim CAOC structure.
+
+¶E. Protection Against Cyber Attacks. At the Riga Summit, Heads of State and Government agreed to pursue cyber defense within NATO and tasked the EWG to consider the implementation of NATO cyber defense. MISSION NOTE: On June 29, the EWG held initial discussions on an IS paper (Ref E) which outlined possible definitions of information systems of critical importance to the Alliance, responsibilities in the protection of these key information systems, and possible measures for improving NATOs cyber defenses, the latter of which may involve additional common funded resources. The EWG will consider definitions, responsibilities, and possible measures of defense at a further meeting on July 13. END MISSION NOTE. The Board agreed to return to the issue when warranted.
+
+¶F. Missile Defense. The IS reported that they recently completed their preliminary assessment on the funding of a NATO missile defense capability (Ref F). The cost of a NATO Missile Defense System would be between 8 to 27 Billion Euro and thus, using exclusively the NSIP and the Military Budget, was unaffordable within current common funded ceilings. The IS noted that this assessment did not take into consideration the proposed U.S. missile defense system which should substantially reduce the costs. The NMAs will develop an addendum to the Missile Defense Feasibility Study stand alone project to consider the implications of the proposed U.S. missile defense system for early consideration by the nations. The Board agreed to discuss the IS paper at an early preparatory session.
+
+¶G. ACCS. The IS reported that 1.7 billion Euro is programmed for NSIP investment to support the ACCS; however, the program is currently three years behind schedule, and thus NACMA has sent a letter of default to the contractor. Not included in the current programming are 105 MEuro for required software upgrades. The factory system test is scheduled for mid-2008 and, if acceptable, is planned to trigger the approval to proceed with replication at the remaining sites. The IS anticipates that the factory system test will likely be delayed by another 6 months and does not recommend proceeding with any replication until the factory system test is undertaken and deemed acceptable. An NSIP funded project is under contract to study alternative solutions in the event that the current contractor defaults. The IS anticipates that the ACCS contractor will eventually deliver a working system, but the final cost and the time of delivery remain a concern.
+
+¶H. Funding for Defense Against Terrorism (DAT). The MC agreed advice to the NAC on the program for defense against terrorism. The IS will evaluate the MC advice and develop a non-paper for further consideration which will also include ongoing DAT activities throughout NATO.
+
+ITEM III. BURDEN-SHARING DISCUSSIONS ECONOMIC BENEFIT.
+
+Canada expressed disappointment that, despite several informal discussions, no measurable progress had been made by the Board on the burdensharing discussion for the economic benefit to nations of hosting NATO headquarters and infrastructure. Canada indicated that, while they have no intention of revisiting the cost sharing agreement, they will not be in a position to move to Phase II of the cost share adjustment (i.e. increasing their cost shares), scheduled for January, 2008, without marked progress on the evaluation of economic benefits to host nations. The UK, supported by several nations, noted that some national positions are completely incompatible on this issue and offered as an alternative to consider greater participation by nations in the NATO Airborne Early Warning Capability (i.e., by all of the new member nations) and putting in place agreements to increase host nation support to NATO headquarters throughout the command structure. The Board agreed to continue informal discussions.
+
+ITEM IV. NATO HEADQUARTERS RESOURCE REFORM.
+
+Peltier (US), Director of the NATO Office of Resources (NOR), updated the Board on the progress of establishing the NOR. Office relocations to collocate the resource committee Chairman and the NOR Director and staff are complete. The final operating capability of the NOR is scheduled for September 1, 2007. Currently, the NOR is expending approximately 30 percent of their effort supporting the crisis response operations and approximately 50 percent of their workload maintaining NATO capabilities. The Director holds monthly meetings with the new ACO Capabilities Management Division and plans to hold similar monthly coordination meeting with ACTs new Integrated Resource Management Division.
+
+The Chairman offered an interim solution to handle the urgent PE changes to implement the results of the Spearhead Study in which the Board, upon MBC confirmation that the necessary budgetary arrangements are in place, would advise the Secretary General that nothing now prevents him from SIPDIS submitting the PE changes to the Council for approval. Germany, supported by Spain, stated that any solution should not set a precedent nor add additional steps in the approval process, and therefore were unable to agree. The U.S. rep insisted that the agreed MBC terms of reference be adhered to. The MBC reports to the SRB. Therefore, the MBC should not submit documents directly to the NAC unless so directed by the SRB. The board agreed to further discussions in an early informal meeting.
+
+ITEM V. ACT TRANSFORMATION UPDATE.
+
+ACT briefed the board on their ongoing future capabilities, research, and technology development activities to include: the NATO live, virtual, constructive simulation for training; effect-based approach to operations; improvements to force protection and chemical, biological, radiological, and nuclear (CBRN) capabilities; and a capability development support and synthesis (CDSS) tool. ACT intends to establish an integrated resource management division upon conclusion of the PE review and will brief the Board on the new structure at the October plenary meeting.
+
+ITEM VI. NSIP IMPLEMENTATION. The IS briefed the Board on their analysis of the slow NSIP implementation rate, highlighting that SHAPE and the agencies will execute approximately 50 percent of the NSIP in the coming years, and historically they have had low execution rates. Some structural issues identified include insufficient use of architectural and engineering firms by the agencies, impassive implementation system with no accountability mechanism, and that host nations take on commitments beyond their capacity to deliver. The IS will develop an action plan to improve NSIP implementation which the Board will consider at a future preparatory session, with the ultimate goal of producing a report for the NAC.
+
+ITEM VII. 2008-2012 MEDIUM TERM RESOURCE PLAN (MTRP). Consensus appears to be reached per guidance on the 2008 NSIP, pensions, AWACS operations and maintenance (O&M), and CRO O&M budget ceiling figures. On the military headquarters O&M budget ceilings, the Chairman conducted a tour de table in which four nations (UK, CA, DK and PL) supported a figure of 528 MEuro, two nations (BE, GE) were willing to support a figure of 536 MEuro, 15 nations were able to support a figure 546.1 MEuro, and two nations (U.S. and TU) supported a figure of 550.4 MEuro. The Chairman, noting the majority able to support the 546.1 MEuro figure, placed the MTRP under silence procedure approval, expiring July 6, recommending this figure for the headquarters O&M budget (Ref G, e-mailed to Washington agencies).
+
+ITEM VIII. FUNDING POLICY FOR PARTICIPATION OF PAKISTANI PERSONNEL IN NATO TRAINING COURSES. France insisted on maintaining a distinction between Partner nations (PfP and Mediterranean Dialogue) and Contact nations for NATO operations, and to use trust funding for the latter. The US, the UK, Denmark, The Netherlands, Turkey, and Italy all advocated common funding, noting that Pakistan is a primary contact country for ISAF, and ISAF is the Alliances highest priority. Thus Pakistans participation in NATO courses should not be dependent on trust funding. Several nations made pleas for flexibility from France and offered compromise language. The IS will revise the proposed language to indicate that agreement is on a non-precedent setting basis, noting the unusual circumstances surrounding the issue, and the Board will consider the revised paper at an early preparatory session.
+
+ALLOCATION OF RESOURCES CAPABILITY PACKAGE AND STAND-ALONE
+PROJECTS.
+
+ITEM IX.A. I.S./IMS CAPABILITY PACKAGE OVERVIEW.
+The IMS briefed the status of new CPs. At nations request in the MC, the SCs will validate the projects in the revised Logistics Replenishment and Supply CP against the Defense Requirements Review 2007 (DRR07). Three CPs are under joint staff screening: Electronic Warfare, the Southern Region Bulk Fuel Assets, and an addendum to the Maritime Shore-Based Communications CP. The IMS noted that nations deferred consideration of the four ACO headquarters CPs, pending the outcome of the PE review. Six CPs are expected to be submitted by December 2007: Offensive and Defensive Air Assets, Command and Control Services for Operations, Satellite and Wireless Communication Transmission Services, and Core Information Processing Services. The Air Transport, the Air to Air Refueling, and Communication Systems for the NRF CPs are delayed until the second quarter of 2008; and the Northern Region Bulk Fuel Assets is deferred pending the outcome of the DRR07.
+
+ITEM IX.B. SACT CAPABILITY PACKAGE 9A0202 DEPLOYABLE GROUND BASED SENSORS FOR AIR C2 SURVEILLANCE AND IDENTIFICATION. The IMS reported that The Netherlands extended silence in the MC until July 6. ACO noted the ongoing negotiation between SHAPE and the Spanish Ministry of Defense to change the location of the planned garrison site for NATOs southern based deployable ACCS entities from Moron Air Base to Torrejon Air Base, and the IS confirmed that such a relocation would be cost neutral and any changes in location will be subject to MC agreement. France confirmed their participation in this CP. The board agreed to consider endorsement of the CP upon MC endorsement.
+
+ITEM IX.C. SHAPE RECOMMENDED CAPABILITY PACKAGE 5A0150 VITAL SECURITY PROJECTS FOR NATO COMMAND FACILITIES. The IMS reported that the MC endorsed the CP on June 25. The CP will be funded by 25 nations as France confirmed that they will not participate. The Board endorsed the CP and agreed it should be forwarded to the Defense Planning Committee for final approval.
+NULAND

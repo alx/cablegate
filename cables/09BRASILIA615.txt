@@ -1,0 +1,257 @@
+09BRASILIA615
+Brazil's Broad Band Initiatives
+Fri May 15 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Brasilia
+VZCZCXRO5767
+RR RUEHRG
+DE RUEHBR #0615/01 1351734
+ZNR UUUUU ZZH
+R 151734Z MAY 09
+FM AMEMBASSY BRASILIA
+TO RUEHC/SECSTATE WASHDC 4302
+RUCPDOC/DEPT OF COMMERCE WASHDC
+RUEAFCC/FCC WASHDC
+INFO RUEHRI/AMCONSUL RIO DE JANEIRO 7731
+RUEHSO/AMCONSUL SAO PAULO 4042
+RUEHRG/AMCONSUL RECIFE 9534UNCLAS SECTION 01 OF 03 BRASILIA 000615 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+STATE FOR EEB/CIP/BA TFINTON 
+STATE PASS USTDA FOR GMANDEL 
+FCC FOR RTANNER 
+DOC/ITA/OTEC FOR ABENNETT 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ECPS EINT TINT BR
+SUBJECT:  Brazil's Broad Band Initiatives 
+ 
+SENSITIVE BUT UNCLASSIFIED 
+ 
+REF:  08 BRASILIA 1332 
+ 
+¶1. (SBU) Summary:  Internet broadband use in Brazil has soared 
+dramatically over the past year, reflecting an increased interest in 
+navigating sites that require greater connectivity speed such as 
+socialization sites (facebook, myspace etc.), entertainment sites 
+for streaming videos and music, business application websites, 
+surveillance functions, and voice over internet protocol(VOIP) use. 
+Brazil's Ministry of Communications (MOC) estimates that broadband 
+use in Brazil for February 2009 increased by almost 25% over 
+February 2008 to over 21 million users, presenting the MOC with 
+unique challenges in dealing with what is expected to be even 
+greater growth rates in the future.  Officials from the Ministry of 
+Development, Industry, and Commerce (MDIC), MOC, and Brazil's 
+telecommunications regulator (ANATEL) discussed various 
+public/private partnership approaches with Mission, aimed at 
+addressing this demand.  Options range from an expansion of current 
+fiber optic networks and enhanced mobile technology, to powerline 
+communications systems (PLC) that transmit internet broadband 
+service and digital cable TV through existing electric powerline 
+infrastructure.  Broadband over powerline technology (BPL) may 
+represent the most promising option in addressing future demand and 
+fulfilling MOC's goal of universal access to the internet.  End 
+Summary. 
+ 
+ 
+BRAZIL'S BROAD BAND USE GROWING 
+------------------------------- 
+ 
+¶2.  (SBU) Henrique Badaro, MOC's director of international affairs 
+told Econoff that almost 64 million Brazilians have internet access, 
+either at home, at work, or at public facilities such as libraries; 
+yet only 38% or 24.8 million are active users.  Of the active users, 
+21.5 million or 87% utilized broad band services, an important 
+factor that the MOC will consider when implementing its universal 
+access plan that prioritizes internet access for all Brazilians, 
+especially those in rural, underdeveloped areas.  Badaro commented 
+that increased demand for broadband services was a direct result of 
+users wanting greater access speeds to preferred internet sites and 
+for use of VOIP services.  In highlighting the infrastructure 
+challenge of installing fixed lines in remote areas of Brazil, 
+Bandaro stressed the importance of GoB's continued development and 
+regulation of PLC and wireless technologies, and of focusing the 
+plan's expansion in this direction. 
+ 
+ 
+MOC BROAD BAND INITIATIVES 
+-------------------------- 
+ 
+¶3.  (SBU) As part of MOC's universal access plan, Badaro highlighted 
+the expansion of GoB-financed information technology centers (ITC) 
+throughout Brazil.  MOC installed 6,000 ITCs in 2008, and plans to 
+open an additional 6,000 ITCs in 2009 and 3,000 in 2010.  Each ITC 
+has 10 desktop computers with broadband access, headphones and 
+microphones for VOIP use, a central printer and fax, and a systems 
+manager.  The plan targets rural areas with no internet or computer 
+access and, due to the difficulties of installing fixed lines into 
+remotes areas of Brazil, relies on wireless broadband technologies. 
+By offering a high speed, efficient internet access option, Badaro 
+reasoned that public-use ITCs could cater to a greater part of the 
+population by reducing their navigation times and freeing up 
+existing resources for use by more members of the community.  In 
+highlighting another important initiative, Badaro commented that 
+Brazil's census results from 2010 are expected to confirm that only 
+70,000 of the 150,000 schools in Brazil have broadband access 
+available for their students, something that the MOC will be working 
+with State governors to address through public/private partnerships 
+that expand existing fiber optic infrastructure and examine wireless 
+connectivity options. 
+ 
+ 
+ACRE STATEWIDE BROADBAND PROJECT 
+-------------------------------- 
+¶4.  (SBU) Trade analyst Jose Vieira from the Secretariat of 
+Production Development within MDIC described the Acre statewide 
+broadband project initiative as a perfect example of a 
+private/public partnership in the IT field.  The State of Acre is 
+located in the northwest Amazon region of Brazil and it is estimated 
+that less than ten percent of the homes located there have a 
+computer with access to the internet.  Vieira told Econoff that Acre 
+state officials are committed to the development of a statewide 
+ 
+BRASILIA 00000615  002 OF 003 
+ 
+ 
+broadband project that links its capital city Rio Branco with its 
+second largest city, Cruzeiro do Sul, via high-speed internet to 
+eliminate redundancies and reduce overall operating costs in 
+government communications. Vieira mentioned that the state also 
+wants to place broadband public internet access points in schools 
+and health posts and to provide connections to the general public as 
+a public service. A fourth objective of the project is to provide 
+commercial high-speed internet access for businesses and homes 
+seeking higher bandwidth.  The State of Acre, working through MDIC, 
+was awarded a USTDA US$573K grant to fund a feasibility study of the 
+project and develop its organizational structure, functional 
+specifications, and infrastructure.  The study will also include a 
+review of legal and regulatory issues related to public-private 
+partnerships and assess the project's environmental impact. 
+ 
+INTERNET MOBILITY GROWTH 
+------------------------ 
+ 
+¶5.  (SBU) With the introduction of 3G wireless internet connectivity 
+in Brazil in 2008, Brazilian mobile telephone operators are 
+scrambling to position themselves to cater to an expected steep 
+increase in demand.  In a recent article in Brazil's leading 
+economic newspaper Valor, Joao Cox, president of mobile operator 
+Claro, stated that the introduction of 3G connectivity will have the 
+same effect on wireless broadband demand as the introduction of 
+pre-paid cellular phone cards in 1998 had on cellular phone demand, 
+where the industry experienced unprecedented growth rates.  MOC's 
+Badaro confirmed that Claro is currently negotiating with several 
+Brazilian state governors to obtain a value added tax (ICMS) 
+exemption on personal broadband accounts and on the purchase of 
+broadband modems. Currently, user accounts under R$30 are exempt 
+from the ICMS and modem purchases are not exempt from the ICMS. 
+ 
+ 
+BROADBAND OVER POWERLINE TECHNOLOGY (BPL)/POWERLINE COMMUNICATIONS 
+SYSTEMS (PLC) 
+--------------------------------------------- ------ 
+ 
+¶6.  (SBU) Perhaps the most promising initiative in Brazil aimed at 
+providing universal broadband service to its citizens is BPL 
+technology that delivers high-speed internet service through PLC 
+systems.  PLC provides high-speed data transmission over medium and 
+low voltage electric lines to end users' homes and businesses by 
+transmitting data within specifically established power line 
+frequencies without interfering with normal electric transmissions. 
+A specialized modem is then plugged into an electrical outlet and an 
+Ethernet cable links the modem to the user's computer for broadband 
+internet access, or to a TV for digital cable access.  Wireless 
+modem versions are also available for broadband use.  Given that 
+Brazil's electronic transmission system integrates 98% of the 
+country into one electronic grid and that the remaining two percent 
+are expected to be integrated into the grid within the next year and 
+a half, Jeferson Nacif, Director of International Affairs at 
+Brazil's telecommunications regulation agency (ANATEL), in a recent 
+meeting with Econoff, commented that BPL represents possibly the 
+best option to service remote areas of Brazil without incurring 
+significant infrastructure costs associated with laying cable. 
+Nacif expects broadband delivery speeds of 200 megabits through BPL 
+technology.  Nacif stated that Japanese electronics company 
+Panasonic partnered with Brazil's Telecommunications Systems and 
+Infrastructure Business Association (APTEL) in Barreirinhas, a 
+remote city located in northern Brazil, in late 2008 to test BPL's 
+data transmission technology by providing digital TV services to 50 
+of the city's users.  ANATEL provided technical oversight during the 
+test and concluded that the trial was successful and that ANATEL's 
+initial concerns of data transmission interference with 
+electromagnetic transmissions operating in the same frequency range 
+were addressed through the installation of frequency mitigation 
+equipment that diminished BPL's interference capacities. 
+ 
+ 
+BPL REGULATION DETAILS 
+---------------------- 
+ 
+¶7.  (SBU) ANATEL published resolution 527 on April 8, 2009 outlining 
+the technical criteria by which data transmission will be delivered 
+through Brazil's electricity grid.  The resolution authorizes PLC 
+within radio frequencies 1.705MHz to 50MHz and requires that the 
+service providers register their company, equipment details, 
+operational frequency, and start-up date with ANATEL at least 30 
+days prior to initiating service.  This database should be amendable 
+and available to ANATEL for periodic reviews.  Nacif explained that 
+ANATEL will be able to issue PLC licenses under resolution 527 once 
+ 
+BRASILIA 00000615  003 OF 003 
+ 
+ 
+ANEEL, Brazil's National Electricity Agency, publishes its own 
+regulation governing data transmissions over their powerlines. 
+Andre Nobrega, ANEEL's Advisor to the Board of Directors, advised 
+that ANEEL completed their public comment period on May 11 and held 
+a public audience on May 13, per regulatory transparency 
+requirements, to discus the findings and incorporate them into the 
+resolution's final draft.  Nobrega estimated that ANEEL would 
+publish a final resolution by the end of June and does not expect 
+any delays or significant alterations to the original draft based on 
+the public comments received and the technical nature of the 
+subject. 
+ 
+ 
+U.S. BASED BPL ONE OF THE FIRST ON LINE 
+--------------------------------------- 
+ 
+¶8.  (SBU) BPL Global, a Pittsburgh-based smart grid technology 
+company announced in September 2008 that the company had signed a 
+contract with Brazilian energy company COPEL Telecommunications to 
+implement phase one of a pilot program using BPL technology in Santo 
+Antonio da Platina, located in the southern Brazilian state of 
+Parana.  Badaro hailed this development as an important step in 
+realizing MOC's universal access goal.  Phase one of the pilot 
+project, whose 6 month trial period began in March 2009, provides 
+broadband services to 300 of COPEL's end users and includes 
+deployment, full testing, and operation of BPL equipment and PLC 
+systems.  The project also plans to offer its customers access to 
+VoIP, video surveillance, and smart grid management capabilities 
+that consolidate multiple domestic or commercial functions under a 
+single network.  Badaro believes that COPEL plans to serve their 
+entire customer base through a multi-phase approach.  Once the first 
+phase is completed, a second, citywide deployment is expected that 
+would service 3,000 to 10,000 COPEL customers.  COPEL then would 
+decide on a large scale deployment that would provide full coverage 
+to the company's 3.5 million customers. 
+ 
+¶9.  (SBU) Comment:  As the demand for connectivity in the Brazilian 
+IT market increases and new technologies are introduced, 
+infrastructural challenges associated with expanding Brazil's fiber 
+optic infrastructure and pressures on its regulatory oversight to 
+embrace new technologies aimed at accelerating universal access, 
+also increase.  The goal of connecting the rural areas of Brazil and 
+incorporating them into mainstream Brazilian society is an important 
+GoB objective.  Although recent introductions of the iPhone and 3G 
+wireless connectivity are transforming Brazilian society, these 
+innovations have yet to reach all segments of Brazil's society. 
+Broadband access and digital TV transmission through PLC, however, 
+do present real opportunities to connect rural areas of Brazilian 
+society without prohibitive infrastructure costs and significant 
+implementation delays, offering consumers an affordable and 
+realistic option. End comment. 
+ 
+SOBEL

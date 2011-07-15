@@ -1,0 +1,767 @@
+06BRASILIA2150
+SOUTH AMERICA ESTH NEWS, NUMBER 82
+Wed Oct 11 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Brasilia
+VZCZCXRO5903
+RR RUEHRG
+DE RUEHBR #2150/01 2841405
+ZNR UUUUU ZZH
+R 111405Z OCT 06
+FM AMEMBASSY BRASILIA
+TO RUEHC/SECSTATE WASHDC 6969
+INFO RUEHBU/AMEMBASSY BUENOS AIRES 4335
+RUEHSG/AMEMBASSY SANTIAGO 5858
+RUEHLP/AMEMBASSY LA PAZ 4918
+RUEHPE/AMEMBASSY LIMA 3199
+RUEHQT/AMEMBASSY QUITO 1995
+RUEHBO/AMEMBASSY BOGOTA 3961
+RUEHAC/AMEMBASSY ASUNCION 5719
+RUEHGE/AMEMBASSY GEORGETOWN 1143
+RUEHMN/AMEMBASSY MONTEVIDEO 6528
+RUEHPO/AMEMBASSY PARAMARIBO 1160
+RUEHCV/AMEMBASSY CARACAS 3462
+RUEHRG/AMCONSUL RECIFE 5651
+RUEHSO/AMCONSUL SAO PAULO 8333
+RUEHRI/AMCONSUL RIO DE JANEIRO 3100
+RUEATRS/DEPT OF TREASURY WASHDC
+RHEBAAA/DOE WASHDC
+RUEHC/DOI WASHDC
+RUEAWJA/DOJ WASHDC
+RUEAEPA/HQ EPA WASHDC
+RUEANAT/NASA HQ WASHDC
+RUCPDC/NOAA WASHDC
+RUMIAAA/USCINCSO MIAMI FL
+RUEHRC/USDA WASHDC
+RUCPDO/USDOC WASHDCUNCLAS SECTION 01 OF 12 BRASILIA 002150 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPT PASS USAID TO LAC/RSD, LAC/SAM, G/ENV, PPC/ENV 
+TREASURY FOR USED IBRD AND IDB AND INTL/MDB 
+USDA FOR FOREST SERVICE: LIZ MAHEW 
+INTERIOR FOR DIR INT AFFAIRS: K WASHBURN 
+INTERIOR FOR FWS: TOM RILEY 
+INTERIOR PASS USGS FOR INTERNATIONAL: J WEAVER 
+JUSTICE FOR ENVIRONMENT AND NATURAL RESOURCES: JWEBB 
+EPA FOR INTERNATIONAL: CAM HILL-MACON 
+USDA FOR ARS/INTERNATIONAL RESEARCH: G FLANLEY 
+NSF FOR INTERNATIONAL: HAROLD STOLBERG 
+ 
+E.O. 12958: N/A 
+TAGS: SENV EAGR EAID TBIO ECON SOCI XR BR
+SUBJECT: SOUTH AMERICA ESTH NEWS, NUMBER 82 
+ 
+¶1.  The following is the eighty-second in a series of newsletters, 
+published by the Brasilia Regional Environmental Hub, covering 
+environment, science and technology, and health news in South 
+America.  The information below was gathered from news sources from 
+across the region, and the views expressed do not necessarily 
+reflect those of the Hub office or our constituent posts. 
+Addressees who would like to receive a user-friendly email version 
+of this newsletter should contact Larissa Stoner at 
+stonerla@state.gov.  The e-mail version also contains a calendar of 
+upcoming ESTH events in the region. 
+ 
+¶2. Table of Contents 
+ 
+Agriculture 
+--(3)Crops Responsible for Deforestation in Brazil 
+ 
+Water Issues 
+--(4)Brazil: Flood Insurance Measured 
+--(5)Colombia Gets Serious About Desertification 
+ 
+Forests 
+--(6)Brazil: New Trees to Reclaim Amazon Lands 
+--(7)Long-Delayed Native Forest Bill Is Back On Track in Chile 
+ 
+Wildlife 
+--(8)Guyana: NGO Accessing Wai Wai Land for Biodiversity Protection 
+--(9)NGO and Bus Company Team Up Against Wildlife Trafficking 
+--(10)Uruguay: The Return of the Aguara-Guazu Wolf 
+ 
+Protected Areas 
+--(11)First Aerial Spraying In Park Roils Colombia 
+ 
+Science & Technology 
+--(12)New Body to Boost Science for Development in South 
+--(13)Scientists Set Sights on 'Green' Chemistry 
+ 
+Waste Management & Pollution 
+--(14)Brazil: Aluminum Can Recycling Record Remains Firm 
+--(15)Venezuela: Volunteers Clean Up 300 Beaches 
+--(16)Argentina: Scavengers Export Scrap 
+--(17)Chile: Indians Fight Garbage Dumps 
+--(18)Will Santiago's Air Goals go Up in Smoke? 
+ 
+Climate Change 
+--(19)Bolivian Glaciers Receding Rapidly 
+--(20)Schwarzenegger Signs Landmark Greenhouse Gas Law 
+--(21)USD 3 Billion Pledged To Fight Climate Change 
+--(22)Brazil: Pesky El Nino Returns 
+ 
+Energy 
+--(23)Peru Liquefied Natural Gas: Progress and Challenges 
+--(24)Chile Promotes Energy Investment to North American Electric 
+Companies 
+--(25)Biofuel Boom Sparks Environmental Fears 
+--(26)Argentina to Add Reactors in Energy-Supply Push 
+ 
+ 
+BRASILIA 00002150  002 OF 012 
+ 
+ 
+General 
+--(27)Brazil Greens See Tensions If President Lula Wins Second Term 
+--(28)Peru: Fossils Reveal Ancient Biodiversity 
+--(29)Canada Faces Pressure to Promote Sustainable Mining in Latin 
+America 
+--(30)Crude-oil Spill in Ecuador's Amazon Termed Intentional 
+--(31)Colombia: Dredging to Prevent Floods 
+ 
+----------- 
+Agriculture 
+----------- 
+ 
+¶3. Crops Responsible for Deforestation in Brazil 
+ 
+SEPT. 05, 2006 - The Brazilian Amazon is increasingly being cleared 
+to grow crops rather than for grazing cattle, making the process 
+even more harmful to the environment, say researchers.  Over the 
+course of a three-year study led by Ruth DeFries of the University 
+of Maryland in the United States, clearing for cropland accounted 
+for nearly one fifth of deforestation in one state of the Brazilian 
+Amazon.  The results were published by Proceedings of the National 
+Academy of Sciences.  Using deforestation maps, field surveys and 
+satellite data to follow what happened to large pieces of land 
+cleared of rainforest in the state of Mato Grosso, the team found 
+that an area over one third the size of Jordan - about 36,000 square 
+kilometers - was cleared between 2001 and 2004 for large-scale 
+mechanized agriculture.  Their findings define a "new paradigm of 
+forest loss in Amazonia", although cattle pasture still remains the 
+dominant land use, say the researchers. 
+ 
+Source - SciDev 
+ 
+------------ 
+Water Issues 
+------------ 
+ 
+¶4. Brazil: Flood Insurance Measured 
+ 
+SAO PAULO, Sep 25 - Researchers from the University of Sao Paulo 
+have developed a method to estimate insurance costs for urban 
+flooding, saying claims could eat up as much as 12 percent of the 
+gross domestic product.  The new calculation technique combines data 
+on rains, water flow and economic analyses of water basins to 
+estimate the impact of these phenomena and optimize the management 
+of resources invested in insurance.  "We are not out to compete with 
+U.S. and European methodologies; we just want to establish excellent 
+human resources in Brazil and the Americas, to adequately address 
+the needs of society," Eduardo Mario Mendiondo, the study's 
+coordinator, told Tierramerica.  The methodology has already been 
+tested in an experimental urban watershed, and is currently being 
+studied in similar basins in Sao Paulo and the northeast region of 
+Brazil. 
+ 
+Source - Tierramerica 
+ 
+¶5. Colombia Gets Serious About Desertification 
+ 
+BRASILIA 00002150  003 OF 012 
+ 
+ 
+ 
+SEPT. 2006 - The Colombian municipalities of Alpujarra and Dolores 
+are slowly turning into desert.  Rainwater-when it comes-races 
+through crevices down the foothills of the eastern Andean range, 
+lost to human use.  Temperatures above 95 degrees Fahrenheit (35 
+degrees Celsius) bake a hard-crusted earth stripped of its tropical 
+dry forests years ago by slash-and-burn agriculture.  Conditions for 
+many of the 5,000 peasant farmers of the two municipalities, which 
+are located in the central department of Tolima, are so dire that 
+crop cultivation is impossible.  Impoverished, they subsist instead 
+on livestock in a bleak landscape of cactus and thorn forest.  When 
+Colombia's government decided last year to develop pilot projects to 
+address desertification, one of them was earmarked for Alpujarra and 
+Dolores.  Dozens of families in the area have received training and 
+resources to practice agro-forestry, silvopastoral production and 
+reservoir construction.  The hope is that the pilot project, which 
+ends in November, will prompt more extensive efforts in the coming 
+years, says Consuelo Carvajal, coordinator of the project for 
+Cortolima, Tolima Department's environmental authority. 
+ 
+Source - EcoAmericas (please contact Larissa Stoner for complete 
+article) 
+ 
+------- 
+Forests 
+------- 
+ 
+¶6. Brazil: New Trees to Reclaim Amazon Lands 
+ 
+SEPT. 27, 2006 - A Brazilian state intends to make cattle ranchers 
+reforest land which they have cleared for grazing.  The government 
+of Acre in the Amazon has established a nursery growing seedlings of 
+species such as mahogany which they will issue to ranchers. 
+Ranchers may be made to reforest up to 30 percent of their land. 
+The government sees this as a vital component of its long-term aim 
+to develop sustainable forestry as a key income generator for the 
+state.  Until a decade ago, private landowners were allowed to 
+deforest 50 percent of their land. Now legislation has amended the 
+figure to 80 percent; but many ranchers have not replanted at all. 
+ 
+Source - BBC 
+ 
+¶7. Long-Delayed Native Forest Bill Is Back On Track in Chile 
+ 
+SEPT. 2006 - The Chilean Agriculture Ministry has reached agreement 
+on a native-forest conservation bill with the timber lobby, 
+environmental groups and other forestland stakeholders.  The 
+administration of new Chilean President Michelle Bachelet has 
+re-introduced the legislation, called the Native Forest Recovery and 
+Forest Development Law, in Congress amid signs the measure will win 
+passage this year.  The bill reflects core ideas on which the 
+various stakeholders could agree.  Among these is that Chile must 
+encourage-through subsidies and other means-sustainable 
+native-forest management among small- and medium-sized landowners. 
+Controversial issues that have derailed previous iterations of the 
+native-forest bill were sidelined from the talks and will be taken 
+ 
+BRASILIA 00002150  004 OF 012 
+ 
+ 
+up in separate bills.  These include the replacement of native 
+forest with tree plantations, making an independent park service and 
+the use of legal loopholes to log certain tree species that have 
+been declared national monuments. 
+ 
+Source - EcoAmericas (please contact Larissa Stoner for complete 
+article) 
+ 
+-------- 
+Wildlife 
+-------- 
+ 
+¶8. Guyana: NGO Accessing Wai Wai Land for Biodiversity Protection 
+ 
+OCT. 03, 2006 - Conservation International will lead a scientific 
+expedition into unexplored areas in southern Guyana beginning Oct. 
+03 to accesses the value of the area for biodiversity protection. 
+For a month, the team headed by Dr Piotr Naskrecki, and including 
+Smithsonian Institute scientists and three residents of the Wai Wai 
+community, which owns the land, will set up camp in the area and 
+closely follow the species living there. 
+ 
+Source - Stabroek News 
+ 
+¶9. Uruguay: The Return of the Aguara-Guazu Wolf 
+ 
+SEPT. 18, 2006 - The reappearance in Uruguay of an "aguara-guazu", 
+or maned wolf (Chrysocyon brachyurus), the first one sighted here in 
+16 years, could help finance a study of this species.  The animal, 
+which is more closely related to foxes than to wolves, was killed by 
+hunters in the eastern department of Cerro Largo, and taken in 
+mid-September to the Museum of Natural History and Anthropology in 
+Montevideo, where it was being prepared for study.  Museum director 
+Arturo Toscano told Tierramerica that efforts are being made, 
+alongside the Ministry of Agriculture, to obtain financing for 
+research, which would include a search for more maned wolves in 
+Cerro Largo.  In Uruguay, the last aguara-guazu, which can weigh 40 
+kilograms and inhabits several South American countries, was seen in 
+1990 in the western department of Rio Negro. 
+ 
+Source - Tierramerica 
+ 
+¶10. NGO and Bus Company Team Up Against Wildlife Trafficking 
+ 
+AUG. 03, 2006 - Brazilian NGO RENCTAS and Bus Company Itapemirim 
+have launched the second phase of an educational campaign to stop 
+illegal wildlife trafficking, which will last until the end of 2006. 
+ Using the slogan "Wildlife Trafficking: don't fall into this trap", 
+the campaign hopes to reach the population in general as well as 
+Itapemirim's 16,000 employees.  Several posters will be hung near 
+Itapemirim ticket booths and will be published in a monthly magazine 
+produced by the bus company - 300,000 copies a month.  The magazine 
+will also carry games such as puzzles and memory games, which were 
+designed to reach the children as well. 
+ 
+Source - RENCTAS 
+ 
+BRASILIA 00002150  005 OF 012 
+ 
+ 
+ 
+--------------- 
+Protected Areas 
+--------------- 
+ 
+¶11. First Aerial Spraying In Park Roils Colombia 
+ 
+SEPT. 2006 - After a guerrilla land mine last month killed six 
+laborers working to manually uproot coca plants in Sierra de la 
+Macarena National Park, Colombian and U.S. spray planes swept over 
+the park, destroying 4,400 acres (1,800 has) of coca in five days 
+and infuriating environmentalists and media commentators alike.  The 
+spraying operation, which used a potent herbicide mixture sold by 
+Monsanto, made Colombia the first nation in the world to aerially 
+spray drug crops in a national park.  Critics say such spraying 
+threatens the park system's immense biodiversity.  The decision to 
+begin chemically spraying the 1.56-million-acre (630,000-ha) 
+Macarena National Park came after an eight-month attempt at manual 
+eradication that destroyed nearly 75 percent  of the coca in the 
+Macarena, but left 35 eradicators, police and army soldiers dead 
+from guerrilla land mines.  Juan Lozano, Colombia's minister of 
+environment, housing and territorial development, has tried to calm 
+the uproar over the Macarena spraying by telling the press that the 
+decision to spray in the Macarena was "exceptional." He has 
+indicated that there are no plans to spray in other parks. 
+ 
+Source - EcoAmericas (please contact Larissa Stoner for complete 
+article) 
+ 
+-------------------- 
+Science & Technology 
+-------------------- 
+ 
+¶12. New Body to Boost Science for Development in South 
+ 
+SEPT. 27, 2006 - The foreign ministers of 131 developing nations 
+have backed plans to transform a network of science ministries, 
+academies and research councils into a new body to promote 
+science-based development.  The Consortium on Science, Technology 
+and Innovation for the South (COSTIS) will replace the existing 
+Third World Network of Scientific Organizations (TWNSO).  The 
+decision was made 22 September in New York City, United States, at 
+the annual meeting of foreign ministers of the 131 member states of 
+the so-called Group of 77 (G-77).  The move is intended to put 
+science and technology closer to the heart of economic-development 
+policy.  COSTIS will focus on organizing South-South forums on 
+developing appropriate and affordable technologies in sectors such 
+as energy and water. COSTIS will seek funding from governments in 
+the North and South, as well as international donors and 
+foundations. It is set to be fully operational by January 2007. 
+ 
+Source - SciDev 
+ 
+¶13. Scientists Set Sights on 'Green' Chemistry 
+ 
+SEPT. 23, 2006 - A green chemical revolution is underway that 
+ 
+BRASILIA 00002150  006 OF 012 
+ 
+ 
+promises to be environmentally sustainable and profitable while 
+reducing the risks of industrial disasters like the Bhopal, India 
+gas leak in 1984.  "Green chemistry" has already turned maize into 
+biodegradable plastics, developed non-toxic solvents and 
+dramatically reduced the toxic byproducts from the manufacture of 
+popular pharmaceuticals like ibuprofen.  It is vital to the 
+production of Toyota's new electric cars, made in part from kenaf, 
+an annual grass plant.  "Green chemistry is about developing new 
+products and processes which actually fit the 'triple' bottom line 
+of environmental, economic and social sustainability," said Robin 
+Rogers, a researcher and director of the University of Alabama's 
+Center for Green Manufacturing. 
+ 
+Source - Tierramerica 
+ 
+---------------------------- 
+Waste Management & Pollution 
+---------------------------- 
+ 
+¶14. Brazil: Aluminum Can Recycling Record Remains Firm 
+ 
+Sept. 25, 2006 - In 2005 Brazil recycled 96.2 percent of its used 
+aluminum cans, making it the world's leader in this activity for the 
+fifth year in a row, according to the Brazilian Aluminum Association 
+(ABAL).  Japan followed with 91.7 percent, while the United States 
+and the European Union trailed with can recycling levels of only 52 
+percent, said ABAL during an international seminar in the 
+southeastern state of Sao Paulo. "Organizing the market at all 
+points of the chain in the early 1990s was key to Brazil's success," 
+ABAL's Recycling Coordinator, Jose Roberto Giosa, told Tierramerica. 
+ The collection system also has a large social impact, providing a 
+source of income for 520,000 informal collectors and street garbage 
+vendors. 
+ 
+Source - Tierramerica 
+ 
+¶15. Venezuela: Volunteers Clean Up 300 Beaches 
+ 
+SEPT. 18, 2006 - Some 20,000 volunteers took part in a beach 
+clean-up Sep. 16 in Venezuela, targeting 300 areas along the 
+Caribbean, as well as around lakes and riverbanks, coinciding with 
+the end of school vacation.  "We also classify and inventory the 
+garbage we collect.  The experiences of recent years indicate that 
+the waste associated with tourism, especially plastics, are the main 
+pollutants of our beaches," Maury Marcano, spokesman for the 
+initiative, organized by the Foundations for the Defense of Nature, 
+told Tierramerica ahead of the clean-up.  Last year, thousands of 
+volunteers on 179 beaches collected 755,000 kilos of waste in 13,400 
+garbage bags.  The annual beach clean-up is financed by big 
+Venezuelan private companies. 
+ 
+Source - Tierramerica 
+ 
+¶16. Argentina: Scavengers Export Scrap 
+ 
+SEPT. 25 - By the end of the September, the Argentine ecological 
+ 
+BRASILIA 00002150  007 OF 012 
+ 
+ 
+cooperative Reciclando Suenos (Recycling Dreams) will have sent 
+another two shipments to Spain, each containing 25,000 kilograms of 
+scrap iron.  The cooperative, made up of southern zone "cartoneros" 
+(informal scrap collectors) and some of Buenos Aires's poorest 
+residents, is a pioneer in exporting scrap for recycling.  In April 
+the co-op sent its first shipment of 25 tons of scrap to the 
+Interrecicla steel mill, which manufactures tools in the Spanish 
+city Bilbao.  The collectors receive approximately 130 dollars per 
+exported ton, on which they have to pay a tax of almost 40 percent 
+to the Argentine government. 
+ 
+Source - Tierramerica 
+ 
+¶17. Chile: Indians Fight Garbage Dumps 
+ 
+SEPT. 18 - A dozen representatives of indigenous Mapuche communities 
+in Chile's Araucania region charged that they are the target of 
+racism and discrimination by the authorities who set up 19 garbage 
+dumps less than one kilometer from their homes.  The Mapuche Indians 
+say the foul odors and the smoke from burning garbage have caused 
+respiratory problems.  Furthermore, the dumps have attracted packs 
+of dogs, and led to the appearance of larvae in livestock, 
+particularly hogs, that causes trichinosis in humans.  The Mapuche 
+leaders gathered in the city of Temuco to draw up strategies for 
+getting rid of the dumps.  Alejandra Parra, of the non-governmental 
+Action Network for Environmental Rights, told Tierramerica that a 
+prompt solution is unlikely, which is why they will file a complaint 
+of racism before an international organization, yet to be 
+determined. 
+ 
+Source - Tierramerica 
+ 
+¶18. Will Santiago's Air Goals go Up in Smoke? 
+ 
+SEPT. 2006 - Six years ago, Chile's National Environment Commission 
+(Conama) hailed the progress being made against air pollution in the 
+Chilean capital.  Thanks to the implementation of stricter standards 
+in key areas including vehicle fuels and industrial emissions, 
+air-quality indicators had improved markedly.  Conama stated 
+confidently that by 2005, Santiago would no longer have to face 
+extraordinary steps such as mandatory bad-air-day curbs on 
+automobile circulation, industrial activity and school sports.  The 
+forecast, however, proved wrong.  Last year, metropolitan Santiago's 
+regional government was forced to declare two "environmental 
+pre-emergency" days on account of elevated airborne particulate 
+concentrations.  And on Aug. 2, authorities announced this year's 
+third pre-emergency, after concentrations of PM10-particulates of up 
+to 10 microns in diameter-had reached "critical" levels.  As part of 
+the pre-emergency, officials prohibited more than 130,000 cars from 
+circulating on Santiago roads, designated seven major city avenues 
+for the exclusive use of public transport, temporarily banned 
+emissions at 552 industrial sites, prohibited the use of residential 
+chimneys and redoubled efforts to scrub particulate matter from 
+Santiago streets.  And throughout the city, schools halted 
+physical-education classes and canceled sporting events.  Such 
+experiences underscore an unfortunate fact: despite its early 
+ 
+BRASILIA 00002150  008 OF 012 
+ 
+ 
+success in improving air quality, Santiago has made little anti-smog 
+headway since 2000.  The World Health Organization still ranks it as 
+one of the globe's 10 most polluted cities.  When asked why this is 
+so, air-quality experts, government officials and environmentalists 
+cite many factors.  Among the most important, they say, are timid 
+and poorly funded air-quality efforts in recent years, the region's 
+continued growth and the dictates of geography. 
+ 
+Source - EcoAmericas (please contact Larissa Stoner for complete 
+article) 
+ 
+-------------- 
+Climate Change 
+-------------- 
+ 
+¶19. Bolivian Glaciers Receding Rapidly 
+ 
+OCT. 03, 2006 - Bolivian glaciers are receding so rapidly, say 
+scientists, that most could disappear within the next ten to 15 
+years, with alarming implications for potable water and 
+hydroelectric energy supplies.  Scientists tie the last two decades' 
+acceleration in glacial melt to the greater intensity and frequency 
+of El Nino events, which in turn are linked to gradually rising 
+global temperatures.  GOB officials are aware of the glaciers' 
+recession but appear ill-equipped to cope with what may be serious 
+consequences. 
+ 
+Source - LA PAZ   00002674 
+ 
+¶20. Schwarzenegger Signs Landmark Greenhouse Gas Law 
+ 
+SEPT. 27, 2006 - In a move backers hope will change the U.S. 
+approach to the problem of global warming, California Gov. Arnold 
+Schwarzenegger signed a law aimed at reducing the state's greenhouse 
+gas emissions.  "We have begun a bold new era of environmental 
+protection here in California that will change the course of 
+history," the Republican governor said.  The measure passed by the 
+Democratic- led Legislature last month caps the state's man-made 
+greenhouse gas emissions.  The most populous U.S. state seeks to 
+reduce its emissions to 1990 levels by 2020, a cut of about 25 
+percent. 
+ 
+Source - Washington Post 
+ 
+¶21. USD 3 Billion Pledged To Fight Climate Change 
+ 
+SEPT. 22, 2006 - British entrepreneur Richard Branson has committed 
+what could amount to USD 3 billion to research into renewable 
+energies in possibly the largest-ever personal donation to fight 
+climate change.  He made the announcement 21 September at the 
+Clinton Global Initiative, a three-day meeting of philanthropists in 
+New York, United States.  Branson will invest all the personal gains 
+he makes from his airline and train companies over the next 10 years 
+into finding non-polluting sources of energy, an amount which he 
+estimated could come to USD 3 billion.  Earlier this month, on 10 
+September, Branson's company Virgin announced the launch of a new 
+ 
+BRASILIA 00002150  009 OF 012 
+ 
+ 
+subsidiary company, Virgin Fuels, which will invest up to USD 400 
+million in renewable energy initiatives over the next three years. 
+ 
+Source - SciDev 
+ 
+¶22. Brazil: Pesky El Nino Returns 
+ 
+SEPT. 18, 2006 - The cyclical climate phenomenon known as El Nino 
+will return at the end of the year, but will lack the strong 
+intensity if had in 1997-1998, when it triggered droughts and 
+devastating fires in Brazil, say meteorologists.  It will tend to be 
+"moderate" in comparison because the surface waters of the 
+equatorial Pacific Ocean will be two to four degrees warmer than 
+average, Epedito Gomes Rebello, a researcher at the National 
+Institute of Meteorology, told Tierramerica.  This is predictable 
+because the water currents at a depth of 100 meters are already four 
+degrees warmer, he said.  As a result of the ocean's interaction 
+with the atmosphere there will be drought in the northern Amazon and 
+in northeast Brazil while there will be heavier rains in the south. 
+ 
+ 
+Source - Tierramerica 
+ 
+------ 
+Energy 
+------ 
+ 
+¶23. Peru Liquefied Natural Gas: Progress and Challenges 
+ 
+SEPT. 29, 2006 - The Peru Liquefied Natural Gas (LNG) project is 
+proceeding apace, bringing gas from the Camisea gas fields through 
+to pipeline to LNG plant and marine terminal on Peru's coastline.  A 
+2010 export target should deliver USD   200 million in GOP revenues 
+and community projects per year, with annual exports of four million 
+metric tons of liquefied natural gas, potentially worth a billion 
+dollars.  President Alan Garcia has publicly expressed full support 
+for this project, in which U.S. company Hunt Oil is the operator 
+with a 50 percent share.  There is little Peruvian opposition to the 
+LNG project but continuing complaints about Camisea.  At a September 
+27 Inter-American Development Bank (IDB) public forum, civil society 
+and GOP speakers noted the economic importance of Peru LNG.  There 
+were no concerns raised about Paracas Bay.  NGO critics focused on 
+rupture risks of the Camisea liquids pipeline (which will also carry 
+Peru LNG liquids) and social impacts on the indigenous residents 
+near the gas fields and pipeline.  Project implementers said they 
+are addressing these concerns by working to ensure the pipeline's 
+integrity and improve their work with indigenous communities. 
+ 
+Source - LIMA 00003896 
+ 
+¶24. Chile Promotes Energy Investment to North American Electric 
+Companies 
+ 
+Sept. 22, 2006 - With pressures mounting to address Chile's looming 
+energy crisis, both the government and Chilean energy distributors 
+have set their sights on North American electric companies.  Chile's 
+ 
+BRASILIA 00002150  010 OF 012 
+ 
+ 
+first energy "road show" began Sept. 20 in New York City, where 
+President Michelle Bachelet and Energy and Mining Minister Karen 
+Poniachik met with Wall Street analysts and industry leaders from 
+Chile and the United States.  The seminar, called "Business and 
+Investment Opportunities in Chile's Energy Sector," aimed to show 
+North American electric companies that "Chile is a great place to 
+invest in," said Bachelet.  The bait is no less than USD 10 billion 
+in energy deals to supply the country with 5,000 MW, a plan 
+authorized by the national Energy Security Policy (PSE) and destined 
+to make the country energy independent by 2008. 
+ 
+Source - Santiago Times (no link) 
+ 
+¶25. Biofuel Boom Sparks Environmental Fears 
+ 
+SEPT. 18, 2006 - The use of biofuels is on the rise in Latin America 
+and is feeding dreams of abundance in countries like Argentina and 
+Colombia.  But the experience of Brazil, a pioneer in this 
+alternative energy, raises questions about their potential negative 
+environmental consequences.  With ethanol and biodiesel as a 
+springboard, Brazil's President Luiz Inacio Lula da Silva aims to 
+turn his country into an energy superpower -- in contrast to the 
+1970s when the Brazilian economy was thrashed by its dependence on 
+oil imports and its dramatic price hikes.  But environmentalists 
+warn that although biofuels reduce emissions of greenhouse gases 
+(which lead to global climate change), they could also trigger a 
+massive expansion of the biofuel crops, pushing the agricultural 
+frontier deeper into the forests, destroying habitat and 
+biodiversity. 
+ 
+Source - Tierramerica 
+ 
+¶26. Argentina to Add Reactors in Energy-Supply Push 
+ 
+SEPT. 2006 - Argentina's oil and natural gas supplies are not 
+keeping pace with the country's 8 percent annual growth, leading 
+some experts here to predict a national energy crisis next year or 
+the following.  Worried about the prospect, the government has 
+launched a series of initiatives aimed at increasing power 
+generation-in the process creating a welter of environmental 
+tradeoffs.  The most controversial such step was President Nestor 
+Kirchner's announcement in August of a USD 3.5 billion, eight-year 
+investment to boost Argentina's nuclear-power capacity.  Kirchner 
+says the funds would be used to complete construction of the 
+country's long-delayed third atomic power station, begin feasibility 
+studies on a fourth nuclear plant and resume enriched-uranium 
+production, which was suspended two decades ago.  The two atomic 
+power stations in operation-Atucha I and Embalse-have an installed 
+capacity of 1,000 megawatts (MW).  The third plant, Atucha II, would 
+bring the total nuclear-power capacity to 1,745 MW, the government 
+says.  Many environmentalists oppose an expanded nuclear sector, but 
+their warnings have been all but drowned out amid widespread concern 
+about power shortages.  [Meanwhile] some who might be assumed to 
+oppose nuclear power support Kirchner's plan. 
+ 
+Source - EcoAmericas (for complete article please contact Larissa 
+ 
+BRASILIA 00002150  011 OF 012 
+ 
+ 
+Stoner) 
+ 
+------- 
+General 
+------- 
+ 
+¶27. Brazil Greens See Tensions If President Lula Wins Second Term 
+ 
+SEPT. 29, 2006 - With his leftist credentials and background as a 
+factory worker in polluted Sao Paulo, environmentalists had high 
+hopes of Brazilian President Luiz Inacio Lula da Silva when he took 
+office in 2003.  But the results are mixed.  Plans for controversial 
+hydroelectric damns in the Amazon to feed power-hungry cities and 
+continued deforestation contrast with the creation of 
+state-protected reserves now covering 10 percent of the rainforest. 
+A World Wildlife Fund study found Brazil could meet its electricity 
+needs through 2020 with renewable resources and conservation -- and 
+save 33 billion reais (USD   15 billion). "Brazil needs to stop 
+looking at the environment as a problem and start seeing it as a 
+solution," said Denise Hamu, secretary general of the World Wildlife 
+Fund in Brazil.  "I have some good things to say, but it's mixed 
+with frustration. There's a lot of work to be done," said Ana 
+Cristina Barros, who heads the Nature Conservancy in Brazil. 
+ 
+Source - Washington Post 
+ 
+¶28. Peru: Fossils Reveal Ancient Biodiversity 
+ 
+SEPT. 23, 2006 - The discovery of an amber deposit formed in the 
+Peruvian Amazon during the Miocene era proves that the region's rich 
+biological diversity dates back some 16 million years.  The insects 
+found fossilized in the amber -- wasps, weevils, flies, tiny mites 
+and even a spider caught in its own web -- belong to 13 different 
+families, compelling evidence of the region's rich biodiversity 
+during the middle Miocene.  In contrast, today's average garden 
+hosts insects from a mere three families.  This discovery disproves 
+the theory that the Amazon's biodiversity developed only after the 
+Miocene period, following the last ice age (approximately 10 million 
+years ago).  The discovery also suggests that biological evolution 
+in what is now modern-day South America occurred separately from 
+similar processes in North America, given that during the middle 
+Miocene the current subcontinent was an isolated land mass.  The 
+Central American isthmus has bridged the two hemispheres only for 
+the last three million years. 
+ 
+Source - Tierramerica 
+ 
+¶29. Canada Faces Pressure to Promote Sustainable Mining in Latin 
+America 
+ 
+SEPT. 23, 2006 - Civil society activists want the Canadian 
+government to impose mandatory human rights and environmental 
+standards on Canadian mining and oil companies operating in Latin 
+America and other developing regions.  In the past decade Canada has 
+been the world's biggest investor in the hunt for valuable metals 
+and minerals in Latin America, Jamie Kneen of Mining Watch told 
+ 
+BRASILIA 00002150  012 OF 012 
+ 
+ 
+Tierramerica.  Canadian miners are responsible for environmental 
+contamination and human rights violations all over Latin America, he 
+says.   Canada has nearly 60 percent of the mining and exploration 
+companies in the world; they generate more than 40 billion dollars 
+annually, representing about four percent of Canada's GDP. 
+ 
+Source - Tierramerica 
+ 
+¶30. Crude-oil Spill in Ecuador's Amazon Termed Intentional 
+ 
+SEPT. 2006 - A 500-barrel oil spill last month in the Cuyabeno 
+Wildlife Reserve, located in the Ecuadorian Amazon, is being 
+described by authorities as the result of a deliberate attack on a 
+well operated by Petroecuador, the state oil company.  The Aug. 18 
+spill occurred following the rupture of a secondary pipeline that 
+routes crude from the Petroecuador well, called Cuyabeno 8, to a 
+production station.  Officials say the break was not an accident, 
+and they are conducting an investigation to determine who is 
+responsible for it.  Under Ecuador law, government-sanctioned mining 
+and oil-development activity can be conducted in protected areas. 
+The Cuyabeno reserve, created in 1979, covers more than 1.5 million 
+acres (600,000 has) in the provinces of Sucumbios and Orellana.  One 
+of 27 protected areas in Ecuador, it is home to 493 bird species, 
+165 mammalian species, 91 varieties of reptile, 96 amphibian species 
+and 475 types of fish.  Human inhabitants include members of the 
+Siona, Secoya, Cofan, Quichua, Shuar and Achuar indigenous groups. 
+Late last month, Environment Ministry personnel inspected five of 
+the reserve's interconnected lakes and confirmed that the spilled 
+oil had reached all of them after entering the Cuyabeno Chico 
+River. 
+ 
+Source - EcoAmericas (please contact Larissa Stoner for complete 
+article) 
+ 
+¶31. Colombia: Dredging to Prevent Floods 
+ 
+AUG. 26, 2006 - Authorities from the town of Monteria, in the 
+northern Colombian department of Cordoba, will begin dredging and 
+rehabilitation work in September on La Caimanera channel.  The 
+initiative is part of a 4.2 million-dollar project to mitigate the 
+effects of flooding from the Sinu River, which in 2005 left more 
+than 3,000 families homeless.  The secretary of municipal 
+infrastructure, Juan Carlos Mendez, told Tierramerica that the last 
+legal steps are being carried out to begin work, which includes 
+reforestation of both banks of the channel.  According to Carlos 
+Martinez, of the Farmers' Association of Cordoba, the efforts begun 
+in 2005 have produced immediate results. 
+ 
+Source - Tierramerica 
+ 
+SOBEL

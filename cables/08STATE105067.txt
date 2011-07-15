@@ -1,0 +1,59 @@
+08STATE105067
+
+Wed Oct 01 00:00:00 +0200 2008
+SECRET
+Secretary of State
+P 012058Z OCT 08
+FM SECSTATE WASHDC
+TO AMEMBASSY STOCKHOLM PRIORITY 
+INFO AMEMBASSY BERN PRIORITYS E C R E T STATE 105067
+
+E.O. 12958: DECL: 08/04/2033 TAGS: IR MNUC PARM
+
+REF: (A) 06 STATE 194734 (B) 06 BERN 2151 (C) 07 STATE 115392 (D) 07 BERN 783 (E) 07 BERN 913 (F) BERN 464
+
+Classified By: EUR/PRA: Anita Friedt, reasons 1.4(b) and (d)
+
+¶1. (U) This is an action request. Please see paragraph 5.
+
+¶2. (S) OBJECTIVE: To persuade the Swedish Government to take the necessary steps to discourage the Sweden-owned and Switzerland-based firm, Colenco Power Engineering, Ltd., from continuing its relationship with Iran on designing or assisting in the design and construction of light water reactors (LWR).
+
+¶3. (S//NF) BACKGROUND: Per reftels, in December 2006, the United States demarched the Swiss Government in response to information in our possession indicating ties between Colenco and Novin Energy, an Iranian firm linked to Iran,s nuclear program (Novin had been designated by the United States for proliferation reasons in January 2006 and the UN Security Council (UNSC) designated Novin Energy in UNSC Resolution 1747 in March 2007). At the time, Switzerland pledged to investigate the matter. In March 2007, during an intelligence liaison exchange, the Swiss Internal Security Service (Dienst Fuer Analyze und Praevention, DAP) informed the United States that although it had uncovered no connection between Colenco and Novin, Colenco was engaged in an ongoing business relationship with the AEOI in the design of a new, 360 MW(e) light water power reactor for Iran. The DAP noted that the project had been approved by Swiss export control authorities. In August 2007, the United States again approached Switzerland to register our significant concerns with such a relationship, particularly because such a relationship is inappropriate given Irans failure to resolve concerns regarding the nature of its nuclear program and there is a risk of technology diversion from light water reactors to UNSC-proscribed heavy water research reactors (REF C). Per REF E, Switzerland acknowledged the relationship in diplomatic channels, but maintained that it is permitted cooperation under UNSCRs 1737 and 1747; that similar cooperation on heavy water research reactors was declined by Colenco for fear of contributing to proliferation; and, that the Government of Switzerland would ensure that the risk of technology diversion is appropriately managed. Discussions with Switzerland since that time have resulted in no change their position. (Note: In August 2007, Colenco was purchased by a Swedish firm, AB ANGPANNEFORENINGEN (now called AF AB), though remains Switzerland-based.) In the September 2007 nonpaper, the Swiss reiterated arguments on Colencos dealings with the Iranian nuclear program. Information regarding Colencos dealings with Iran have involved interaction with an individual (Seyed Hossein Hosseini) who was designated in UNSCR 1803 for his involvement at a managerial level in the Arak Heavy Water Research Reactor project, was provided to the Swiss interlocutors (REF F). The Swiss stated that this information was new and took note of the name. 
+
+¶4. (S) BACKGROUND CONT: The United States views involvement in any new nuclear project in Iran, even a LWR-related project, as sending the wrong signal to Tehran at a very sensitive time for international diplomacy. Any relationship with Iran on new nuclear projects risks compromising broad, multilateral efforts to increase the pressure on the Iranian regime to comply fully with its NPT, UNSC, and IAEA obligations. Moreover, the United States continues to believe that the risk of technology diversion to proscribed nuclear activities is significant.
+
+¶5. (S) ACTION REQUEST: Post is requested to deliver the points in paragraph 6 to host government interlocutors at the highest possible levels, which include noted IC-cleared language that must be delivered verbatim. Post should stress that the United States takes this issue very seriously, especially in light of Iran,s ongoing defiance of the international community. Post should encourage host government to approach the Swiss Government to encourage it to reconsider its authorization for such cooperation. Post also should request feedback on Host Governments ability to effect change in Swedish-owned companies nonproliferation behavior in foreign nations. Post may leave the points in paragraph 6 with host government interlocutor as a SECRET//REL non-paper, also requesting that an approach to the Swiss Government be scheduled in several weeks thereby allowing it to receive and absorb the information.
+
+¶6. (S//REL SWEDEN) BEGIN APPROVED LANGUAGE:
+
+-- The United States has information that indicates a Sweden-owned and Switzerland-based firm - Colenco Power Engineering Limited (also known as simply Colenco) - is engaged with Iran in the design of a new LWR for Iran. Through this cooperation, the firm is engaging in transactions with the AEOI and through Novin Energy.
+
+-- We have information from August 2007 that Colenco was purchased by a Swedish firm AB ANGPANNEFORENINGEN (now called AF AB), though it remains Switzerland-based.
+
+-- The United States has engaged with the Government of Switzerland on this issue on several occasions to highlight our concerns that the relationship between Colenco and the AEOI presents a risk of contributing to Irans proliferation sensitive nuclear activities. The Swiss Government has acknowledged Colencos relationship with Iran, but is of the view that since the relationship has -- to date -- focused on light water power reactors, it is of reduced proliferation concern.
+
+-- The Swiss noted further that Colenco declined a previous opportunity to work with Iran on a heavy water research reactor in light of its sensitivity to proliferation concerns.
+
+-- While the UNSCRs do not specifically prohibit cooperation on LWRs, we continue to believe that though Colenco may not intend to assist Iran with its proliferation sensitive activities, especially its Arak heavy water research reactor project, any assistance given to Iranian entities that have been designed under UNSCRs carries an inherent risk of contributing to Iranian proliferation, and such nuclear cooperation at this time defeats the spirit of the UN Security Council resolutions.
+
+-- This is particularly the case in light of the fact that Colencos dealings with Iran have involved interaction with a UNSC-designated individual, Seyed Hossein Hosseini. This individual was designated in UNSCR 1803 for his involvement at a managerial level in the Arak Heavy Water Research Reactor (HWRR) project. This interaction continued after his designation in March 2008.
+
+-- In addition, this activity has involved Novin Energy, which had been designated by the United States for proliferation reasons in January 2006 and the UN Security Council (UNSC) designated Novin Energy in UNSC Resolution 1747 in March 2007.
+
+-- We also have information that Iran has suggested creating a new company to create separation between this project and the Atomic Energy Organization of Iran and associated entities. Such a new corporation would, in Irans view, permit Colenco to operate without restrictions placed upon it by the Swiss Government.
+
+-- In doing so, Iran is demonstrating once again its proclivity to create front companies to obscure its involvement in nuclear-related projects.
+
+-- The United States continues to have serious concerns regarding Colenco,s relationship with Iran, particularly in light of the fact that it involves cooperation with the Atomic Energy Organization of Iran.
+
+-- Moreover, Colencos involvement in such a nuclear project in Iran sends precisely the wrong signal to Tehran at a very sensitive time for international diplomacy and risks compromising broad, multilateral efforts to increase the pressure on the regime to comply fully with its NPT, UNSC, and IAEA obligations.
+
+-- We are providing this information to highlight our concerns that the relationship between Colenco and the AEOI presents a risk of contributing to Iran,s Proliferation sensitive nuclear activities.
+
+-- We hope you share our concerns, and urge your government to take whatever measures you can to halt this cooperation. We also urge you to inform the Swiss Government that you are aware of the relationship between Colenco and the AEOI, and that this activity must be stopped. Due to the sensitivity of this information, we request that you not inform the Swiss as to the details we have presented to you today or to disclose the fact of our Governments engagement on this issue.
+
+END APPROVED LANGUAGE
+
+¶7. (U) Post is requested to relay the Swedish Governments reactions and any substantive replies within one week of receipt of the demarche. Judee Allen-Close (ISN/RA, 202-736-4686, ) is the Department,s POC for this activity. Please slug any replies on this issue to EUR/CE, EUR/PRA, and ISN/RA.
+
+RICE

@@ -1,0 +1,90 @@
+09STATE50260
+
+Fri May 15 00:00:00 +0200 2009
+SECRET
+Secretary of State
+VZCZCXYZ0009
+PP RUEHWEB
+
+DE RUEHC #0260 1352219
+ZNY SSSSS ZZH
+P 152206Z MAY 09
+FM SECSTATE WASHDC
+TO AMEMBASSY SEOUL PRIORITY 0000
+INFO MISSILE TECHNOLOGY CONTROL REGIME COLLECTIVE PRIORITYS E C R E T STATE 050260
+
+SIPDIS
+
+E.O. 12958: DECL: 05/15/2034 TAGS: PARM MTCRE PREL IR TU KS
+
+REF: A. STATE 028283 B. SEOUL 000504 C. SEOUL 000677
+
+Classified By: ISN/MTR Director Pam Durham; REASONS 1.4 (B), (C) AND (D).
+
+¶1. (U) This is an action request. Embassy Seoul, please see paragraph 5.
+
+¶2. (S) Background/Purpose/Objective: In March 2009, the United States advised the ROK that Turkey-based intermediary Ak Makina was working to supply Irans Ardalan Machineries Company with a variety of computer numerically controlled (CNC) machine tools produced by the South Korea firm Hyundai-Kia (Ref A). We brought this matter to the attention of ROK authorities because Ardalan Machineries is associated with Irans liquid propellant ballistic missile developer Shahid Hemmat Industrial Group (SHIG) and appeared to be acting as a false end-user to circumvent South Koreas export controls. Although not controlled by any of the multilateral export control regimes, the machine tools sought by Ardalan Machineries could be used by SHIG to support its production of liquid rocket engine components.
+
+¶3. (S) In April 2009, South Korea responded that it was unable to corroborate the U.S. information and that its investigation did not find any irregularities with this export (Ref C). While the ROK determined that the transaction raised by the United States occurred in December 2008, it reported that Hyundai-Kia did not apply for an export license because the machine tools were not controlled under any of the multilateral export control regimes or by the ROKs export regulations. ROK officials added that neither Hyundia-Kia nor Ak Makina is on a "watch list" and, because Ak Makina is located in Turkey, which is a member of the multilateral export control regimes, there was no basis for the ROKG to question the efficacy of Turkeys nonproliferation efforts. Finally, the ROKG indicated that it could only intervene in export control cases that involve one of the following circumstances: the purchaser is the subject of a denial by the Missile Technology Control Regime (MTCR) or Nuclear Suppliers Group (NSG); the item being exported is controlled; the seller or buyer has made false declarations to obtain an export license; or the purchasing firm is located in a country that is not a member of any of the multilateral control regimes.
+
+¶4. (S) We want to follow-up with the ROKG on this case to stress that this transaction involved an Iranian firm acting as a false end-user in order to acquire South Korean-origin machine tools on behalf of Irans SHIG. As ROK authorities are aware from numerous MTCR Information Exchange presentations, Irans missile program routinely uses front companies and false end-users to procure items it cannot acquire directly due to export control restrictions. SHIG is the lead agency for Irans liquid propellant missile program and an entity of significant proliferation concern. It has been sanctioned repeatedly, most recently in February 2009, by the United States for its missile-related trading activities and has been designated under United Nations Security Council Resolution (UNSCR) 1737. Because Irans SHIG was the ultimate end-user in this transaction and used a false intermediary to acquire South Korean-origin machine tools, we believe this transaction meets the criteria specified by the ROK that would ju stify its intervention to prevent such an export. Based on the proliferation risks associated with this transaction, we want to ask the ROK to closely monitor any future dealings between South Korean firms and Turkeys Ak Makina to ensure that South Korean-origin technology is not being diverted to Iran to support its ballistic missile development efforts. We also want to note that taking such actions would be consistent with UNSCR 1737 and our shared missile nonproliferation goals.
+
+¶5. (S) Action Request: Request Embassy Seoul approach appropriate host government authorities to deliver talking points/non-paper in paragraph 6 below and report response. Talking points also may be provided as a non-paper.
+
+¶6. (S) Begin talking points/non-paper:
+
+(SECRET REL SOUTH KOREA)
+
+-- In March 2009, the United States advised your government that the Turkey-based intermediary Ak Makina was working to supply Irans Ardalan Machineries Company with a variety of South Korean-origin computer numerically controlled (CNC) machine tools.
+
+-- We brought this information to your attention because
+
+Ardalan Machineries is associated with Irans liquid propellant ballistic missile developer Shahid Hemmat Industrial Group (SHIG).
+
+-- We believe Ardalan Machineries is acting as a false end-user in its dealings with Ak Makina to circumvent export controls restrictions in both Turkey and South Korea.
+
+-- Recently, you informed us that your investigation of this activity did not uncover any evidence confirming our information or find any irregularities with this transaction.
+
+-- You noted that the sale raised by the United States occurred in December 2008 and that the South Korean exporter, Hyundai-Kia, has maintained a business relationship with Ak Makina for over ten years.
+
+-- You also indicated that Hyundai-Kia did not apply for an export license in this case because the machine tools were not controlled under any of the multilateral export control regimes or your national control lists.
+
+-- In addition, you stated that neither Hyundai-Kia nor Ak Makina is on a "watch list" and, because Ak Makina is located in Turkey, a member of the multilateral export control regimes, there was no basis to question the efficacy of Turkeys nonproliferation efforts.
+
+-- Finally, your response indicated that your government can only intervene to prevent such an export in one of the following circumstances:
+
+- the purchaser is subject to a denial by the Missile Technology Control Regime (MTCR) or Nuclear Suppliers Group (NSG);
+
+- the item being exported is controlled;
+
+- the seller or buyer has made false declarations to obtain an export license; or
+
+- the purchasing firm is located in a country that is not a member of any of the multilateral export control regimes.
+
+-- We appreciate your efforts to investigate this transaction and your determining that the export raised by the United States has already occurred.
+
+-- However, we also believe this transaction raises clear missile proliferation concerns and that there is sufficient justification for your government to act in future such cases involving these firms.
+
+-- In particular, we note that this transaction involved the Iranian firm Ardalan Machineries, which was acting as an end-user in order to acquire South Korean-origin machine tools on behalf of Irans SHIG.
+
+-- As you are aware from numerous MTCR Information Exchange presentations, Irans missile program routinely uses front companies and false end-users to procure items it cannot acquire directly due to export control restrictions.
+
+-- This is exactly the role Ardalan Machineries was playing in this transaction.
+
+-- In addition, as the lead agency for Irans liquid propellant ballistic missile program, SHIG is an entity of significant proliferation concern that has been sanctioned repeatedly by the United States for its missile-related trading activities, most recently in February 2009.
+
+-- SHIG also is an entity designated under United Nations Security Council Resolution (UNSCR) 1737.
+
+-- Given that Ardalan Machineries was procuring these machine tools for SHIG, we believe they were likely intended to support Irans ballistic missile development efforts and therefore subject to your catch-all control authorities.
+
+-- The use of your catch-all controls in such a case would be consistent with the MTCR Partners 2009 agreement to consider potential missile-related applications of machine tools in their risk assessment of export licenses and to use catch-all controls where applicable to prevent machine tools transfers to missile programs of concern.
+
+-- Because Irans SHIG was the ultimate end-user in this transaction and used a false intermediary to acquire South Korean-origin machine tools, we believe this transaction meets the criteria you cited as a basis for your government intervening in a case.
+
+-- Recognizing that this particular transfer has already taken place, we ask that you closely monitor any future dealings between South Korean firms and Ak Makina to ensure that South Korean-origin technology is not being diverted to Iran to support its ballistic missile development efforts.
+
+-- Such action should include the use of pre-license checks to verify the bona fides of an end-user and post-shipment verifications to confirm that an item authorized for export arrived at the stated destination.
+
+-- We believe such actions would be consistent with UNSCR 1737 and our shared missile nonproliferation goals.
+
+-- We look forward to future cooperation on nonproliferation issues and to hearing of any measures you plan to take in response to this information.

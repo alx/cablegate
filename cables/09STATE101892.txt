@@ -1,0 +1,192 @@
+09STATE101892
+UPDATE CONCERNING CONVERSION OF SPACE LAUNCH
+Wed Sep 30 00:00:00 +0200 2009
+SECRET
+Secretary of State
+VZCZCXYZ0011
+PP RUEHWEB
+
+DE RUEHC #1892 2731958
+ZNY SSSSS ZZH
+P 301938Z SEP 09
+FM SECSTATE WASHDC
+TO AMEMBASSY PARIS PRIORITY 0000
+MISSILE TECHNOLOGY CONTROL REGIME COLLECTIVES E C R E T STATE 101892 
+ 
+SIPDIS 
+PARIS FOR POL: NOAH HARDIE 
+BRASILIA FOR POL: JOHN ERATH 
+ 
+E.O. 12958: DECL: 09/30/2034 
+TAGS: MTCRE ETTC KSCA MNUC PARM TSPA FR BR
+SUBJECT: UPDATE CONCERNING CONVERSION OF SPACE LAUNCH 
+VEHICLES TO BALLISTIC MISSILES 
+ 
+Classified By: ISN/MTR Director Pam Durham. 
+Reasons:  1.4 (B), (D), (H). 
+ 
+¶1. (U)  This is an action request.  Please see paragraph 2. 
+ 
+¶2. (C)  ACTION REQUEST:  Department requests Embassy Paris 
+provide the interagency cleared paper "Update Concerning 
+Conversion of Space Launch Vehicles to Ballistic Missiles" in 
+paragraph 3 below to the French Missile Technology Control 
+Regime (MTCR) Point of Contact (POC) for distribution to all 
+Partners.  Info addressees also may provide to host government 
+officials as appropriate.  In delivering paper, posts should 
+indicate that the U.S. is sharing this paper as part of our 
+preparation for the Information Exchange that will be held in 
+conjunction with the MTCR Plenary in Rio, November 9-13, 2009. 
+NOTE:  Additional IE papers will be provided via septels. 
+END 
+NOTE. 
+ 
+¶3. BEGIN TEXT OF PAPER: 
+ 
+(SECRET REL MTCR) 
+ 
+Update Concerning Conversion of Space Launch Vehicles to 
+Ballistic Missiles 
+ 
+Introduction 
+ 
+      The MTCR has consistently recognized proliferation 
+concerns associated with the shared technology and 
+interchangeable components of Space Launch Vehicles (SLVs) and 
+ballistic missiles.  Nearly identical fabrication methods and 
+common subsystems result in development and production efforts 
+that are essentially indistinguishable from one another.  The 
+previous several decades are replete with examples of 
+ballistic missile conversions to SLVs, such as the Atlas or 
+Soyuz, and ballistic missile capability resulting from SLV 
+development, such as India,s Agni missile.  In 2009, Iran and 
+North Korea both conducted launches that - although portrayed 
+as 
+peaceful space launches - indicate these countries are making 
+progress in their ability to develop long-range ballistic 
+missiles. 
+ 
+      The fundamental technologies used in SLVs are the same 
+as 
+the technologies used in ballistic missiles.  Historically, 
+countries have developed long-range missiles and SLVs nearly 
+simultaneously in order to capitalize on their investment in 
+these interchangeable technologies.  The use of existing 
+ballistic missile hardware to develop major components of an 
+SLV is typical.  This is especially true for major subsystems, 
+such as propulsion, thrust vector controls, and guidance and 
+navigation.  Not only does this provide for an added level of 
+reliability in newly-designed systems, it provides a testing 
+ground to further refine and advance the existing ballistic 
+missile technologies.  Additionally, new technologies and 
+components that are integral to ballistic missile programs can 
+be developed and tested in an SLV program.  Of particular 
+concern are the development and testing of technologies 
+associated with staging, upper-stage engine development, post- 
+boost control systems, and advanced guidance, navigation, and 
+control systems.  This combination of refining existing 
+technologies and developing new capabilities under the 
+auspices of an SLV program provides a direct opportunity to 
+transfer components and knowledge into a viable long-range 
+ballistic missile program. 
+ 
+Iran 
+ 
+      On February 2, 2009, Iran successfully used the Safir 
+SLV, in only its second launch of this system, to place the 
+Omid satellite into orbit.  Like its historic predecessors, 
+the Safir program was the beneficiary of Iran,s longstanding 
+ballistic missile development.  Its successful launch almost 
+certainly advanced Tehran,s ability to develop longer-range 
+ballistic missiles.  Based on the significant details made 
+public concerning the Safir, including photographs of the 
+complete vehicle and various components, Iran has clearly 
+capitalized on existing ballistic missile hardware in 
+designing and building its SLV. 
+ 
+      It is apparent from the photos that the first stage of 
+the Safir is based on Iran,s Shahab-3 medium-range ballistic 
+missile (MRBM).  Furthermore, the second-stage of the Safir 
+utilizes steering engines that are almost certainly derived 
+from the Soviet-era SS-N-6 (Soviet designation: R-27 or RSM- 
+25) submarine-launched ballistic missile.  Iran could have 
+acquired this technology from North Korea,s probable transfer 
+of the BM-25 MRBM, which is a variant of Pyongyang,s SS-N-6- 
+derived Musudan IRBM.  In addition to the successful staging 
+of these two main boosters, it is likely that Iran made 
+progress with the use of high performance hypergolic (self- 
+igniting) propellants in the SS-N-6-derived second stage.  The 
+adaptation of this propellant technology to missile systems 
+could significantly enhance Tehran,s ability to develop a new 
+generation of more-advanced ballistic missiles. Finally, the 
+Safir successfully demonstrated the use of two-axis gimbaled 
+engines for steering in the second stage.  All of these 
+technologies, demonstrated in the Safir SLV, are critical to 
+the development of long-range ballistic missiles and highlight 
+the possibility of Iran using the Safir as a platform to 
+further its ballistic missile development. 
+ 
+North Korea 
+ 
+      On April 5, 2009, North Korea conducted its second 
+attempted launch of the Taepo Dong 2 (TD-2).  Although the TD- 
+2 failed to place a satellite into orbit, it demonstrated that 
+North Korea is making progress in developing technology that 
+can directly contribute to the production of long-range 
+ballistic missiles.  From the video of the TD-2 launch 
+publicly released by North Korea, it is apparent that the TD-2 
+first stage makes use of hydrocarbon-based propellants.  The 
+system likely uses a first stage that incorporates a 
+clustered-engine design of main engines and steering (vernier) 
+engines. 
+ 
+      The linkage of short-range ballistic missile technology 
+adaptation to long-range ballistic missiles is evident in 
+North Korea,s TD-2 program.  The mass of the TD-2 and the 
+relatively low thrust of Scud engines make it likely that the 
+TD-2,s first stage was comprised of more than Scud-based 
+engines.  North Korea,s No Dong missiles, derived from Scud-B 
+technologies, almost certainly utilize the same mix of 
+hydrocarbon-based propellants as the original Soviet Scud-B. 
+It therefore appears logical that the TD-2,s first-stage 
+would 
+have been comprised of a clustered set of the higher- 
+performing No Dong engines.  While the details of the exact 
+TD-2 launch configuration are unclear, it is logical to 
+presume North Korea is following the time-tested concept of 
+incorporating proven systems with newly developed technology 
+to mitigate risk and speed development of longer-range 
+systems. 
+ 
+      While systems such as the Safir and TD-2 provide fertile 
+ground for the development and testing of long-range ballistic 
+missile technologies, there are still significant hurdles to 
+overcome.  In addition to more precise guidance and 
+navigation, advanced thrust vector control systems, and 
+sophisticated staging and separation systems, reentry systems 
+pose unique challenges.  The design and manufacture of 
+warheads able to survive ICBM-range reentries is non-trivial 
+and would require testing to validate the design and 
+production process. 
+ 
+      There should be no doubt that both the Safir and the 
+TD-2 
+programs have advanced each country,s ballistic missile 
+capabilities.  While major technological hurdles still exist, 
+the development times for long-range ballistic missiles can be 
+greatly reduced by leveraging the technological advancements 
+achieved with these two systems.  These events of 2009 
+underscore the importance of continuing to recognize the fact 
+that any rocket capable of putting a satellite into orbit is 
+inherently capable of delivering weapons of mass destruction 
+against surface targets.  This recognition, coupled with the 
+virtually identical and interchangeable technologies of SLVs 
+and ballistic missiles, confirms the imperative for rigorous 
+MTCR nonproliferation efforts. 
+ 
+END TEXT OF PAPER. 
+ 
+¶4.  (U)  Please slug any reporting on this or other MTCR 
+issues for ISN/MTR.   A word version of this document will be 
+posted at www.state.sgov.gov/demarche. 
+CLINTON

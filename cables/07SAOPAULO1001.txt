@@ -1,0 +1,112 @@
+07SAOPAULO1001
+MICROSOFT SEES GOB ATTACKS AGAINST IPR
+Fri Dec 21 00:00:00 +0100 2007
+CONFIDENTIAL
+Consulate Sao Paulo
+VZCZCXYZ0026
+OO RUEHWEB
+
+DE RUEHSO #1001 3551359
+ZNY CCCCC ZZH (CCY ADDED CAPTION AD04181F2 MSI3697 508)
+O 211359Z DEC 07
+FM AMCONSUL SAO PAULO
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 7773
+INFO RUEHBR/AMEMBASSY BRASILIA IMMEDIATE 8916
+RUEAWJF/DEPT OF JUSTICE WASHDC IMMEDIATE
+RUEATRS/DEPT OF TREASURY WASHDC IMMEDIATE
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC IMMEDIATEC O N F I D E N T I A L SAO PAULO 001001 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+(C O R R E C T E D   C O P Y: ADDED SIPDIS CAPTION) 
+ 
+E.O. 12958: DECL: 12/20/2017 
+TAGS: ECON ETRD ECIN PREL
+SUBJECT: MICROSOFT SEES GOB ATTACKS AGAINST IPR 
+ 
+ 
+Classified By: Econ/Pol Chief James Story for reasons 1.5 b and d. 
+ 
+¶1.  (C) SUMMARY:  In a December 20 meeting in Sao Paulo with 
+Ambassador Sobel, Microsoft Brazil President Michel Levy 
+stated that current GOB policies are antagonistic towards 
+Intellectual Property Rights (IPR).  According to Levy, the 
+GOB through the Foreign Ministry (Itamaraty) has mounted an 
+international campaign to discredit Microsoft's proprietary 
+XML format and is pushing for countries to adopt the ODF 
+(Open Document Format) at the expense of XML at the March 
+meeting of the International Standards Organization in 
+Geneva.  Levy sees both ideological issues as well as 
+commercial interests at work in the GOB position.  END 
+SUMMARY. 
+ 
+¶2.  (C) Microsoft Brazil President Michel Levy requested a 
+meeting with Ambassador Sobel on December 20 to discuss ways 
+forward on working with what he characterized as an 
+antagonistic GOB.  According to Levy, Itamaraty has pressured 
+the purportedly independent Brazilian Technical Standards 
+Agency, ABNT to adopt a more aggressive posture against using 
+XML as one of two possible standards, along with ODF, in 
+Brazil.  In addition, Levy stated that he is in the 
+possession of unsigned letters from Itamaraty to various 
+foreign governments requesting that the governments work 
+together to support only the open source ODF as the 
+international standard. 
+ 
+¶3.  (C) Levy believes that this issue has turned ideological 
+and is a manifestation of anti-Americanism within Itamaraty. 
+He cited President Lula's Chief of Staff Dilma Rousseff as 
+well as high-ranking advisor Celso Alvarez as being the chief 
+architects of an anti-IPR, anti-royalties strategy within the 
+GOB.  According to Levy, these advisors have convinced 
+President Lula that there is no difference between ODF and 
+proprietary XML software.  His main concern is that the GOB 
+will use the ABNT to adopt an ODF only standard by decree 
+rather than going through Congress where Microsoft would at 
+least have an opportunity to explain the differences between 
+the software systems.  Levy used as an example that all of 
+Embraer's designs are created through XML and that the 
+current ODF software simply can't do the same job.  If ODF is 
+the only standard, Levy argued, there could be economic 
+ramifications for Brazil. 
+ 
+¶4.  (C)  Levy then pointed out that commercially Microsoft 
+faces an uneven playing field in Brazil.  He stated that in 
+addition to several bills in the Brazilian Congress that 
+would deny the GOB the ability to buy proprietary software, 
+there are reports that many recent bids that went to tender 
+had specific, if unwritten, instructions that disallowed any 
+Microsoft bids.  He further stated that the issue of 
+cross-retaliation on IPR from the cotton subsidies case is 
+alive and well and could potentially come to pass in 2008. 
+ 
+¶5.  (C)  While Levy made it clear that Microsoft is not 
+asking for any USG advocacy at this point, and in fact 
+requested that our communication be kept strictly 
+confidential, Ambassador Sobel did offer advice on various 
+ 
+SIPDIS 
+approaches Microsoft could take in generating support for 
+standards that would have room for both ODF and XML software. 
+ Specifically, the Ambassador thought Mircosoft should work 
+through various trade groups to begin a discussion with the 
+GOB on this issue.  The Ambassador also indicated that 
+Microsoft should get Brazilian companies to put this issue 
+high on the agenda of the CEO Forum meetings to take place 
+with Department of Commerce Secretary Gutierrez early next 
+year. 
+ 
+¶6.  (C)  COMMENT:  The debate among various international 
+standards (GPS, telecommunications, etc.) is not new in 
+Brazil, and Levy's concerns about an anti-American ideology 
+in the Brazilian Foreign Ministry are not only Microsoft's 
+concern.  Microsoft's concerns that the GOB is seeking to 
+adopt one standard that does not allow for proprietary 
+softwear, bears watching.  A multi-industry push for a 
+strategy that allows for Congressional debate over the 
+relative merits of the software systems will certainly yield 
+better results than Microsoft fighting this issue alone.  END 
+COMMENT. 
+WHITE
