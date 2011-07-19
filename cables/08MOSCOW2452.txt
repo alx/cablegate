@@ -14,16 +14,20 @@ INFO RUCNCIS/CIS COLLECTIVE PRIORITY
 RUEHZL/EUROPEAN POLITICAL COLLECTIVE PRIORITY
 RUEHXD/MOSCOW POLITICAL COLLECTIVE PRIORITY
 RHEHNSC/NSC WASHDC PRIORITY
-RHMFISS/DEPT OF ENERGY WASHINGTON DC PRIORITYC O N F I D E N T I A L SECTION 01 OF 02 MOSCOW 002452 
- 
-SIPDIS 
- 
-DEPT FOR EUR/RUS, FOR EEB/ESC/IEC GALLOGLY AND WRIGHT 
-EUR/CARC, SCA (GALLAGHER, SUMAR) 
-DOE FOR FREDRIKSEN, HEGBORG, EKIMOFF 
- 
-E.O. 12958: DECL: 08/18/2018 
+RHMFISS/DEPT OF ENERGY WASHINGTON DC PRIORITYC O N F I D E N T I A L SECTION 01 OF 02 MOSCOW 002452
+
+SIPDIS
+
+DEPT FOR EUR/RUS, FOR EEB/ESC/IEC GALLOGLY AND WRIGHT
+EUR/CARC, SCA (GALLAGHER, SUMAR)
+DOE FOR FREDRIKSEN, HEGBORG, EKIMOFF
+
+E.O. 12958: DECL: 08/18/2018
 TAGS: EPET ENRG ECON PGOV RS
+
+Classified By: ECON MC Eric T. Schultz for Reasons 1.4 (b/d)
+
+------- SUMMARY -------
 
 1.(C) A Moscow court suspended TNK-BP CEO Bob Dudley from his post on August 14 due to labor code violations in what BP's chief lawyer in Russia, Michael Drew (strictly protect), described to us as a sham proceeding. Drew maintained that the varied and sustained attacks on Dudley and BP indicated Kremlin complicity. Still, he expressed optimism that an agreement ending the dispute could be reached by year's end to avoid permanent damage to the company. The case is the latest in the string of attacks against BP's interests in TNK-BP -- attacks that will end only with an agreement between the shareholders, probably at GOR instigation, on the future of the company. End summary.
 
@@ -45,8 +49,10 @@ TAGS: EPET ENRG ECON PGOV RS
 
 7.(C) Drew said he believes the attacks against TNK-BP will continue until BP and AAR (and perhaps the GOR) come to an agreement about the future of the company. Drew thinks such an agreement could be reached by the end of the year, if only because the company's operations are being hampered by uncertainty and the departure of key foreign and Russian staff (ref A). In a separate conversation on August 15, TNK-BP's chief of strategy and business development, Kris Sliger, lamented the "blunt instruments" used by AAR, but suggested these types of attacks would continue until AAR believes there is a "greater cost to their actions than the perceived benefit."
 
-8.(C) With regard to a new CEO, Drew said the shareholders agreement stipulates that BP has the right to nominate a new CEO, but that AAR would likely reject BP's choice, leaving the company without a CEO until an overall agreement is reached. He suggested things would get worse for the company in the interval as it would not be clear who would be "calling the shots." He said one "disastrous" possibility would be AAR partner German xxxxxxxxxxxx attempting to direct the operations of the company himself.
+8.(C) With regard to a new CEO, Drew said the shareholders agreement stipulates that BP has the right to nominate a new CEO, but that AAR would likely reject BP's choice, leaving the company without a CEO until an overall agreement is reached. He suggested things would get worse for the company in the interval as it would not be clear who would be "calling the shots." He said one "disastrous" possibility would be AAR partner German XXXXXXXXXXXX attempting to direct the operations of the company himself.
 
 ------- COMMENT -------
 
-9.(C) The court's decision was expected (ref A). It does not significantly alter the prospects for the company or for resolution of the shareholder dispute, both of which remain shaky. We had expected and continue to expect that Dudley will not return to Moscow. If Drew is right about a deal being struck before year-end, we would expect it to result from some intervention by the GOR -- intervention that so far has been lacking. While there are no signs of imminent GOR action, Medvedev insider Igor Yurgens recently told us with respect to TNK-BP that there are a couple of "oligarchs whose wings need clipping." End comment. BEYRLE
+9.(C) The court's decision was expected (ref A). It does not significantly alter the prospects for the company or for resolution of the shareholder dispute, both of which remain shaky. We had expected and continue to expect that Dudley will not return to Moscow. If Drew is right about a deal being struck before year-end, we would expect it to result from some intervention by the GOR -- intervention that so far has been lacking. While there are no signs of imminent GOR action, Medvedev insider Igor Yurgens recently told us with respect to TNK-BP that there are a couple of "oligarchs whose wings need clipping." End comment.
+
+BEYRLE
