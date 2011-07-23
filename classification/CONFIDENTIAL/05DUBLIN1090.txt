@@ -1,0 +1,236 @@
+05DUBLIN1090
+CODEL BOUCHER WRAP-UP: IRELAND'S DEBATE ON
+Fri Sep 02 00:00:00 +0200 2005
+CONFIDENTIAL
+Embassy Dublin
+This record is a partial extract of the original cable. The full text of the original cable is not available.C O N F I D E N T I A L SECTION 01 OF 03 DUBLIN 001090 
+ 
+SIPDIS 
+ 
+E.O. 12958: DECL: 01/31/2015 
+TAGS: PREL TINT SENV TRGY EINV ENRG
+SUBJECT: CODEL BOUCHER WRAP-UP: IRELAND'S DEBATE ON 
+TELECOMS COMPETITION AND ENERGY GOALS 
+ 
+REF: DUBLIN 1030 
+ 
+Classified By: Political-Economic Counselor Mary E. Daly; Reasons 1.4 ( 
+B) and (D). 
+ 
+¶1.  (C) Summary: The August 22-23 visit of Congressman Rick 
+Boucher (D-VA), which focused on information technology (IT) 
+and energy, exposed conflicting views on the level of 
+competition in Ireland's telecoms sector, as well as concerns 
+about Ireland's ability to meet Kyoto commitments.  Irish 
+Government officials described Eircom, the national phone 
+company, as "luddite," resisting competition and advances in 
+telecommunications for its own benefit.  Representatives of 
+Eircom and mobile operator Meteor, however, dismissed the 
+need for Government regulatory actions to make the telecoms 
+market, particularly the internet, more competitive.  Despite 
+the debate on competition, U.S. IT firms said that Ireland 
+was an ideal location for their European hubs, due mainly to 
+the quality of the Irish work force.  Regarding energy, 
+Government officials told Congressman Boucher that Ireland 
+would be hard-pressed to meet Kyoto targets, even as the 
+country sought greater reliance on renewable energy sources, 
+especially wind.  A representative of GE separately briefed 
+Boucher on Ireland's first offshore wind farm, which could 
+meet energy needs for several thousand Irish homes.  GOI 
+comments on difficulties with Kyoto commitments point up the 
+irony in Irish public criticism of the U.S. decision to 
+remain outside the Kyoto regime.  End summary. 
+ 
+Visit Overview 
+-------------- 
+ 
+¶2.  (U) On August 22-23, Congressman Rick Boucher (D-VA) met 
+with U.S. subsidiary firms and Irish Government officials to 
+discuss information technology (IT) and energy. 
+(Representative Boucher is a member of the House Energy and 
+Commerce Committee, serving on the 
+Telecommunications/Internet and Energy/Air Quality 
+Subcommittees; he is also the co-founder of the House 
+Internet Caucus.)  The wide-ranging discussions focused on 
+competition in telecoms and Ireland's attractiveness to IT 
+firms, on one hand, and Ireland's Kyoto targets and wind 
+energy initiatives, on the other. 
+ 
+--------------- 
+IT and Telecoms 
+--------------- 
+ 
+The GOI: Eircom is Resistant to Change 
+-------------------------------------- 
+ 
+¶3.  (C) Eircom's leadership is "luddite," resisting rather 
+than embracing advances in the telecoms industry, 
+particularly the internet, according to Eamon Malloy, 
+Assistant Secretary for Telecommunications in the Department 
+of Communications, Marine and Natural Resources, and John 
+Doherty, Chairman of the Commission for Communications 
+Regulation (ComReg).  They told Congressman Boucher that 
+Eircom, facing little competition in the late 1990s, had 
+charged prices that were five times the EU average and had 
+slowed broadband's roll-out rather than cannibalize its own 
+56k dial-up service.  The Government's efforts to introduce 
+competition had lowered prices and improved services, and 
+ComReg intended to compel Eircom to finalize local loop 
+unbundling (LLU) by year's end through action in the Irish 
+courts (reftel).  Malloy said that such measures reflected a 
+Government strategy to make Ireland a knowledge-based, 
+technologically savvy economy, in which cutting-edge telecoms 
+services played an integral part.  In contrast to Eircom's 
+emphasis on fixed-line broadband, Malloy cited the 
+Government's focus on wireless technologies both for 
+hard-to-reach rural communities and for urban Irish, 
+especially as the latter "were socially disinclined to sit at 
+home with a computer." 
+ 
+Eircom: Complaints about Lack of Competition Unfounded 
+--------------------------------------------- --------- 
+ 
+¶4.  (C) Eircom CEO Philip Nolan took exception to criticism 
+that Eircom had stifled competition in the telecoms sector, 
+resisted LLU, and impeded the development of broadband in 
+Ireland.  He explained to Congressman Boucher that Eircom had 
+overseen the fastest digital subscriber line (DSL) broadband 
+roll-out in Europe since 2003, with 90 percent of the country 
+likely to have broadband access by March 2006.  He added that 
+the remaining 10 percent were rural areas to which Eircom 
+could not extend broadband service in an economically 
+feasible way.  Nolan rebuffed complaints about the pace of 
+LLU, pointing out that the United States was moving away from 
+unbundling requirements in order to give fiber-optic network 
+builders, like Verizon, more incentives to expand service. 
+He also attributed Ireland's low ranking in Europe for 
+broadband penetration to lack of consumer demand, noting that 
+nearly half of Eircom's new household broadband customers had 
+canceled their subscriptions in favor of cheaper charges 
+through 56k dial-up.  Nolan predicted that the on-line gaming 
+industry would drive demand for fixed-line broadband service 
+in Ireland, especially as wireless technologies could not 
+provide comparable gaming experiences. 
+ 
+Meteor: Competition Level Is Just Fine for Mobile Operators 
+--------------------------------------------- -------------- 
+ 
+¶5.  (C) Whereas Eircom dominates the internet market, mobile 
+phone operators work in a competitive environment, 
+Representative Boucher was told by Robert Mourik, Regulatory 
+and Public Affairs Manager for Meteor, a Western Wireless 
+subsidiary that has operated since 2001.  Mourik explained 
+that Vodafone, O2, and Meteor controlled 50, 40, and 10 
+percent, respectively, of Ireland's market (boasting nearly 4 
+million cell phones), with Hutchison's "3" having launched 3G 
+services in July.  Eircom departed the mobile market in 2001 
+after selling its mobile operations to Vodafone, but had made 
+a euro 420 million offer in August to buy Meteor, a bid that 
+requires approval from the Competition Authority.  Hourik 
+pointed out that Meteor opposed measures proposed this year 
+by ComReg and endorsed by the European Commission to 
+introduce more competition by requiring Vodafone and O2 to 
+open their networks to Mobile Virtual Network Operators 
+(MVNOs) (which would hurt Meteor, given its already small 
+market share).  Hourik said that Meteor was pleased with the 
+level of competition among mobile operators, and he argued 
+that ComReg's action was an attempt to secure a regulatory 
+foothold in a largely unregulated market. 
+ 
+Ireland's Key for IT: Human Capital 
+----------------------------------- 
+ 
+¶6.  (SBU) Despite debate on IT competition, representatives 
+for Google, Yahoo, PayPal, and Dell told Representative 
+Boucher that Ireland was an ideal location for their 
+respective European headquarters, due mainly to the quality 
+of the country's human capital.  The Irish work force was 
+young (with a national average age of 35), well-educated 
+(with virtually free college education), IT-literate, mobile, 
+and culturally hip.  Google and Yahoo also highlighted the 
+ease of recruiting multilingual staff for their 
+Europe-focused services from the large pool of European 
+immigrants (100,000 since mid-2004) and from Irish who had 
+worked abroad during Ireland's economic troubles in the 
+1980s.  Dell cautioned, however, that the Irish education 
+system was not producing enough graduates with technological, 
+science, and engineering skills to enable Irish IT firms to 
+move up the value chain in the face of rising labor costs. 
+To reverse this trend, Dell recommended that the Irish 
+Government create incentives to make those fields more 
+attractive to top students, who typically compete to enter 
+sectors with "guaranteed" high-salary potential, such as 
+medicine and law. 
+ 
+------ 
+Energy 
+------ 
+ 
+Kyoto: Challenges with Targets 
+------------------------------ 
+ 
+¶7.  (C) Ireland will be challenged to meet its Kyoto 
+commitment to cap greenhouse gas emissions at 13 percent 
+above 1990 levels by 2012, Martin Brennan, Director General 
+for Energy in the Department of Communications, the Marine 
+and Natural Resources, told Congressman Boucher.  Brennan 
+noted that Ireland's emissions were falling, but still 25 
+percent above 1990 levels, and he commented that Irish 
+participants in the Kyoto negotiations had not sufficiently 
+considered the impact of Ireland's "Celtic Tiger" economic 
+growth on emissions trends.  To achieve the 2012 target, 
+Ireland aimed to reduce current emissions by an average of 
+9.2 million tons per year through more efficient energy use 
+and less dependence on carbon-intensive fuels.  One specific 
+goal was to increase the contribution of renewable energy to 
+gross electricity consumption from 6 percent currently to 12 
+percent by 2012.  To that end, the Irish Government was 
+hoping to exploit the potential of wind energy, as Ireland 
+was Europe's windiest country. 
+ 
+Wind: An Offshore Success 
+------------------------- 
+ 
+¶8.  (SBU) The Arklow Offshore Wind Park, jointly launched in 
+May by GE and Airtricity, an Irish firm, demonstrates the 
+value of wind as a renewable energy source for Ireland, 
+Congressman Boucher was told by Dan Pearson, GE Commercial 
+Operations Leader for Offshore Europe.  The Arklow Park, 
+Ireland's first offshore wind facility, is located five miles 
+off Ireland's east coast and consists of seven 3.6 megawatt 
+turbines, featuring the world's largest off-shore rotors 
+(roughly twice a jumbo jet's wingspan).  Pearson noted that 
+the Wind Park's predicted output of 85 gigawatt hours/annum 
+was sufficient to power 16,000 Irish homes.  GE also has 
+planning permission to construct more turbines at the site; 
+the only hurdle, according to Pearson, is Ireland's power 
+grid, which requires upgrades to accommodate additional power 
+generation.  Pearson said that the Irish Government could not 
+consider privatizing the state-owned grid without such 
+upgrades and that the failure to pursue upgrades might lead 
+GE to consider linking the Wind Park to the UK grid, only 40 
+miles across the Irish Sea. 
+ 
+Comment: Ironic Environmental Views 
+----------------------------------- 
+ 
+¶9.  (C) The views expressed by Irish energy/environmental 
+officials point up the irony in Irish public/media criticism 
+of the U.S. decision to remain outside the Kyoto Protocol. 
+Irish public opinion, as in other European countries, 
+characterizes that decision as an example of American 
+unilateralism that accounts for failures in global greenhouse 
+gas reduction efforts -- even as GOI officials concede 
+difficulties in Ireland's attempt to meet its own Kyoto 
+targets, and as the United States makes strides in overall 
+emissions reductions.  Just as ironically, the Arklow Wind 
+Park is precisely the sort of new environmental technology 
+that the USG has advocated as an essential complement to the 
+European emphasis on emissions trading schemes and regulatory 
+emissions limits. 
+ 
+¶10.  (U) Congressman Boucher did not have an opportunity to 
+clear this cable. 
+ 
+ 
+KENNY
