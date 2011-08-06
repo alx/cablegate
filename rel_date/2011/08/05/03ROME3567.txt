@@ -1,0 +1,311 @@
+03ROME3567
+GALILEO: AMBASSADOR ARAGONA ADVOCATES ADDITIONAL
+Wed Aug 06 00:00:00 +0200 2003
+CONFIDENTIAL
+Embassy Rome
+This record is a partial extract of the original cable. The full text of the original cable is not available.C O N F I D E N T I A L  ROME 003567 
+ 
+SIPDIS 
+ 
+ 
+STATE FOR OES/SAT (BRAIBANTI, KARNER) 
+DEFENSE FOR OASD/NII (STENBIT MANNO WORMSER SWIDER CHESKY) 
+DEFENSE ALSO FOR OSD/P (TOWNSEND, NOVAK) 
+JOINT STAFF FOR J5/J6 
+ 
+E.O. 12958: DECL: 08/06/2013 
+T...
+
+SUBJECT: GALILEO: AMBASSADOR ARAGONA ADVOCATES ADDITIONAL 
+TECHNICAL TALKS TO RESOLVE M-CODE OVERLAY ISSUE 
+ 
+REF: USNATO 00777 
+ 
+Classified By: A/ECMIN David W. Mulenex; reasons 1.5 B and D. 
+
+¶1.  (C)  Summary:  Italian MFA Political Director Gianfranco 
+Aragona informed a U.S. delegation on July 16 that he still 
+believes technical solutions exist to the U.S.-EU dispute 
+over the Galileo Public Regulated Service (PRS) signal 
+overlay of the M-code.  Aragona recognized US security 
+concerns regarding the overlay, but repeatedly insisted the 
+EU must safeguard the "Integrity and operability" of Galileo. 
+ The U.S. delegation insisted that an overlay would harm U.S. 
+and NATO NAVWAR capabilities and put lives at risk in the 
+event of warfare.  Aragona did not completely reject the 
+delegation's point that a political solution was necessary to 
+avoid this outcome but made it clear he does not believe the 
+dispute is ripe for high level political intervention. 
+Aragona did agree that the delegation's suggestion to merge 
+unclassified technical talks and plenary negotiations was a 
+good idea and promised to convey the idea to the Commission. 
+Aragona stated firmly that NATO would not be an acceptable 
+venue for classified discussions.  He suggested they could 
+take place at the US Mission to NATO, but insisted that he 
+participants must be limited to the U.S. and the EC.  See 
+Embassy comment para 16. End Summary. 
+
+¶2.  (U)  On July 16 a U.S. delegation met with Italian MFA 
+Political Director Gianfranco Aragona to discuss the US-EC 
+dispute over the Galileo Public Regulated Service (PRS) 
+signal overlay of the GPS M-code.  The U.S. delegation was 
+led by Ralph Braibanti, Director, Space and Advanced 
+Technology, State Department Bureau of Oceans and 
+International Environmental and Technical Affairs and 
+included Mel Flack, Director, Communications Electronic 
+Division, US Mission to NATO; Richard McKinney, Deputy 
+Director Space Acquisition, US Air Force; Todd Wilson, EST 
+Officer, US Mission to the EU; Marja Verloop EUR/ERA; and 
+representatives from the political and science sections of 
+Embassy Rome.  Those joining Aragona included Giovanni 
+Brauzzi, Director, Office of NATO Affairs, MFA; Sandro 
+Bernardin, European Correspondent, MFA; Mario Caporale, 
+Navigation Office, Italian Space Agency; and Umberto 
+Cantielli, Chief, Navigation Identification Office, Defense 
+General Staff, Ministry of Defense. 
+ 
+U.S. Delegation Insists Political Solution is needed 
+
+¶3.  (C)  Braibanti told Aragona that the U.S. believes it is 
+important to hold informal consultations with key EU member 
+States to advance U.S.-EC differences over Galileo towards a 
+decision.  He recalled that the President raised M-Code 
+overlay at the last U.S.- EU Summit.  In reviewing the USG 
+position on Galileo, Braibanti explained that the U.S. 
+accepts the EU satellite system as a reality, but the 
+security implications of having the Galileo Public Regulated 
+Service (PRS) overlay the GPS M-Code are unacceptable to both 
+the U.S. and NATO.  so far, the U.S. has fought a defensive 
+battle with the European Commission (EC).  Braibanti allowed 
+that some progress has been made in convincing European 
+officials that direct overlay of M-Code by the PRS is a bad 
+idea.  However, consideration being given by the EC to use 
+BOC 2.2 for Open Service (OS) also involves a partial overlay 
+of M-Code, and damages navigational warfare capabilities. 
+The U.S. will be unable to accept this outcome. 
+ 
+¶4.  (C)  Braibanti assured Aragona that the USG is committed 
+to finding a solution, but cautioned that without some 
+flexibility and compromise from the EC, progress will be 
+difficult.  The U.S. has proposed several technical options 
+for Galileo PRS and OS that our experts believe meet all 
+stated technical and performance requirements for Galileo 
+services.  Braibanti underscored that, given the EC's 
+timetable for making design decisions on Galileo, member 
+states may find that the Commission has locked in technical 
+solutions that threaten U.S. and NATO capabilities to conduct 
+navigational warfare.  To avoid this eventuality, which could 
+put allied lives at risk, member states need to give clear 
+political guidance now to the EC that the Galileo signal 
+structure cannot undermine NAVWAR operations. 
+ 
+But Aragona Puts Faith in Further Technical Talks 
+
+¶5.  (C)  Aragona, signaling his reluctance to take on U.S. 
+concerns vis-a-vis Italy's EU partners, underscored that 
+Galileo negotiations had been entrusted to the EC.  He 
+assured the U.S. team that Italy recognized the security 
+issues at stake.  "Given our NATO membership it would be 
+crazy for us not to be sensitive to U.S. arguments," Aragona 
+declared.  These concerns are shared by the EC, he claimed, 
+but any solution must also safeguard the "integrity and 
+operability of Galileo for it to be a commercially viable and 
+reliable system (Note: Aragona came back repeatedly 
+throughout the course of the consultations to this theme. End 
+Note). 
+
+¶6.  (C)  Aragona pressed claims by EC experts that technical 
+negotiations could lead to a solution to both protect the 
+integrity and operability of Galileo and address US security 
+concerns.  Referencing the U.S.-EU Summit, Aragona asserted 
+that, as an "agreement" had been reached to proceed with 
+technical talks, the pace of negotiations to try to reach a 
+"technical solution" to the overlay conundrum should be 
+intensified.   Italy and the EC are ready to take into 
+account U.S. and NATO security concerns and believe that 
+technical solutions, which protect them, are available. 
+
+¶7.  (C)  Aragona wanted to know when the U.S. would be ready 
+to discuss the most recent EC proposals, which he understood 
+included a certain "inventiveness" and were "not so stuck in 
+the prejudices of the past."  The EC was ready to sit and 
+discuss a mutually agreeable technical solution.  As for 
+political input, Aragona said once more that the Commission 
+is well aware that U.S. security concerns must be addressed 
+while taking into account the "integrity" of the Galileo 
+system. 
+
+¶8.  (C)  Braibanti countered that, with regard to EC 
+technical proposals, he was aware of only two to which a 
+formal reply had not been given: using filtering to mitigate 
+the navigation warfare problems posed by overlaying BOC 2.2, 
+and having the U.S. change the frequency for its military GPS 
+signals.  In the spirit of cooperation, the U.S. had not 
+rejected these ideas out of hand, but instead asked its 
+technical experts to analyze them carefully.  Now that he had 
+seen the results of this analysis, Braibanti could say with 
+some certainty that it is highly unlikely that either of 
+these options will work.  Summing up this portion of the 
+discussion, Braibanti framed the state of play for Aragona: 
+We may well reach a situation in September where we will have 
+analyzed the EC's proposals and decided they can not provide 
+a solution which protects U.S. and NATO capabilities to 
+conduct NAVWAR.  Our concern is that if EC technical experts 
+continue to operate within their current frame of reference, 
+we will arrive at a technical impasse.  To avoid this 
+impasse, the EC team needs clear political direction from 
+member States that they should focus on options that do not 
+negatively impact NAVWAR.  (Note: on the margins of the 
+meeting, Braibanti told Aragona that the USG worries the EC 
+negotiators may be positioning themselves to argue to the EU 
+member states that they had made a good faith effort to reach 
+a compromise, but the U.S. would not meet them halfway, so 
+Galileo must move ahead without an agreement to cooperate 
+with the U.S.  Aragona discounted this possibility, 
+suggesting that the EC recognizes the need for Galileo-GPS 
+interoperability.  (End Note) 
+ 
+NATO a Non-Starter for Classified Talks 
+ 
+¶9.  (C)  Aragona said the U.S. and EU face a practical 
+problem over where to hold classified discussions and that 
+this problem should be easily resolvable.  Italy expects the 
+U.S. to provide a formal answer to the letter EC negotiator 
+Heinz Hillbrecht sent to Braibanti on July 2 (reftel). 
+Aragona maintained that the EC wants further discussions in a 
+classified setting, but that setting can not be NATO.  He 
+underscored this point in uncharacteristically blunt 
+language.  Aragona said holding the talks at the US Mission 
+to NATO was perfectly acceptable as long as they were U.S.-EC 
+rather than NATO-EC discussions.  The issue under discussion 
+is between the U.S. and the EC, Aragona argued, and, 
+moreover, there are several non-EU members of NATO. 
+Braibanti took Aragona's points and assured him that the USG 
+was considering the issue of additional classified 
+discussions, including the modalities for such meetings. 
+ 
+Some Agreement on Procedure, but.... 
+
+¶10.  (C)  Braibanti, moving the discussion to how and when to 
+hold the next plenary negotiating session, said the U.S. will 
+work with the Commission on dates for a September meeting to 
+review technical and trade issues  He suggested folding the 
+technical discussions into the plenary negotiating session. 
+This could help to ensure transparency and avoid 
+misunderstanding among the political negotiators about the 
+available technical options.  Aragona acknowledged that 
+Braibanti's idea had merit and committed to "see what could 
+be done" to make a political recommendation to the EC to 
+proceed along these lines. 
+ 
+Still Talking Past Each Other on substance 
+
+¶11.  (C)  The U.S. delegation raised concerns that France 
+might be driving the EC toward a decision counter to the 
+interests of other EU member states, the U.S. and NATO.  Mel 
+Flack said it was difficult not to arrive at the conclusion 
+that France was interested in an M-Code overlay so it could 
+guarantee reliability for precision guided weaponry it might 
+seek to sell to third countries. 
+ 
+¶12.  (C)  "I have objected to Europeans who say that U.S. 
+actions demonstrate an intent to undermine Galileo," Aragona 
+told the delegation.  "Likewise," he said, "I do not believe 
+that there is any maliciousness on the part of a particular 
+country or the EC."  Above all, he maintained, Galileo is a 
+commercial undertaking; the system's signal structure was 
+selected according to well established criteria based on the 
+belief that it provided the most robust, reliable service. 
+"I accept your arguments about the need to jam adversaries in 
+a NAVWAR context," he said, but the U.S. "needs to keep in 
+mind that Galileo service must be sold.  The problem of 
+selective jamming is not just political; commercial aspects 
+are also involved."  When Aragona stated it would not be 
+acceptable to expect the EU to settle for alternate, less 
+robust, signals, Braibanti countered it would be unacceptable 
+for the U.S. and its allies to risk the lives of soldiers in 
+order to allow the EU to have more robust signals for 
+Galileo. 
+
+¶13.  (C)  Aragona acknowledged the point in passing, but 
+moved quickly to close and summarize the conversation.  He 
+suggested the next step would be to find a suitable venue to 
+hold classified discussions.  He claimed there is flexibility 
+and that the EU is aware of the need for a solution amenable 
+to both sides.  Braibanti emphasized that after the September 
+discussions the USG would like to hold another set of 
+bilateral consultations with Italy.  Aragona was 
+noncommittal, offering to share thoughts after the September 
+plenary session and then decide on a way forward.  In terms 
+of U.S.-Italian engagement, he said he hoped that discussions 
+would not lead to the "extreme" situation in which the U.S. 
+and EU would be negotiating on exclusively U.S. terms, by 
+which he meant asking the EU to accept moving PRS to another 
+frequency band and to only then negotiate a solution.  He 
+noted in closing that Italy had its own technological and 
+industrial interests to defend. 
+ 
+Better Signals, Less Political Clout from Other GOI Ministries 
+
+¶14.  (C)  Braibanti, Flack and EST Couns met with Vice 
+Minister for Research Guido Possa on July 15.  Possa is 
+responsible for the Italian Space Agency and through it for 
+Italian participation in ESA.  After a brief explanation of 
+the overlay problem and its implications for NAVWAR, Possa 
+immediately understood that a political, and not a technical 
+approach was needed to resolve outstanding problems.  Possa 
+suggested that the U.S. should work closely with the Germans, 
+and in Italy with Minister of Defense Martino, whose 
+commitment to NATO and to close cooperation with the U.S. 
+were well known.  On the margins of a July 28 
+representational event,  ESTCOUNS and A/POLMINCOUNS raised 
+briefly the overlay problem with MINDEF Martino.  Martino 
+said that, from his point of view, Galileo was unnecessary 
+and a huge waste of money -- one GPS system was enough.  He 
+was unaware that the USG now supported Galileo in principle. 
+Martino was sensitive to our arguments on the security 
+implications of the overlay, but observed that he was 
+perceived within the GOI as too pro-American to be of much 
+assistance.  He suggested that the Embassy's best bet for 
+moving the GOI closer to the USG position would be to 
+approach U/S to the PM Gianni Letta, who, we note, is PM 
+Berlusconi's closest political advisor. 
+ 
+¶15.  (C)  ESTCOUNS, ECONCOUNS, AND USEU ECONCOUNS met July 18 
+with Ministry of Transport Diplomatic Advisor Maraini to 
+discuss the Aragona meetings and to seek the perspective of 
+the Ministry on the decisions to be taken concerning Galileo 
+at the December Transport Council.  Maraini told us that he 
+believed that Galileo was now principally a political 
+problem, and a problem beyond the competency of the Transport 
+Ministry and Transport Council.  In a candid appraisal of 
+Hillbrecht-whom Maraini admitted he did not know well--the 
+Diplomatic Advisor said that the decision to be taken was 
+beyond the competency of Hillbrecht's technical committee. 
+Maraini understood and agreed with our assessment that very 
+little time and scope remained for technical solutions, and 
+that an impasse requiring a major political decision by the 
+EU was likely.  Maraini is worried about the outcome.  He 
+undertook to prepare a note for Minister Lunardi to be sent 
+to the Prive Minister before the PM's departure for Crawford. 
+
+¶16.  (C)  Embassy Comment:  The U.S. delegation made the trip 
+to Rome to follow up on indications from Aragona, made during 
+his recent trip to Washington, that he may have been willing 
+to carry some water for us with the EC and member states.  We 
+were left with the impression that Italy's PolDir had instead 
+decided to keep his EU hat firmly in place and stick to the 
+script of the EC briefing book on Galileo.  Despite 
+understanding within the functional ministries of the GOI, 
+peeling Aragona, the MFA, and Italy away from the EC position 
+will be difficult, judging from Aragona's assessment that 
+"technical solutions" still offer a way forward.  He threw us 
+a quarter of a bone by offering to help give political top 
+cover to the expert level technical discussions.  However, 
+Aragona's implicit insistence that Galileo's commercial 
+viability may depend on at least a partial M-Code overlay to 
+"guarantee" service is troubling for its resemblance to 
+French arguments. 
+ 
+¶17.  (U)  This message has been cleared by OES/SAT Braibanti. 
+Sembler
