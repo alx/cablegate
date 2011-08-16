@@ -24,16 +24,11 @@ E.O. 12958: DECL: 09/14/2024
 TAGS: PGOV PHUM PREL KDEM VE
 SUBJECT: GLOBOVISION TV PLAYS WITH FIRE; BURNED A 6TH TIME
 
-REF: A. CARACAS 1174
-¶B. CARACAS 1180
-¶C. CARACAS 1013
-¶D. CARACAS 1187
+REF: A. CARACAS 1174 B. CARACAS 1180 C. CARACAS 1013 D. CARACAS 1187
 
 CARACAS 00001201 001.2 OF 002
 
-
-Classified By: POLITICAL COUNSELOR ROBIN D. MEYER
-REASON 1.4 (D)
+Classified By: POLITICAL COUNSELOR ROBIN D. MEYER REASON 1.4 (D)
 
 ¶1. (C) Summary: On September 7, CONATEL, the Venezuelan
 government's telecommunications regulatory commission, opened
@@ -114,10 +109,6 @@ allegations.
 
 ¶4. (SBU) At the request of CONATEL's President, Diosdado
 Cabello, who is also the Minister of Public Works and
-
-CARACAS 00001201 002.2 OF 002
-
-
 Housing, Caracas Metropolitan Public Prosecutor Rosa Bueno
 Monsalvo initiated a simultaneous criminal investigation
 against Globovision for allegedly inciting disrespect of the
