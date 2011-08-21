@@ -1,0 +1,125 @@
+07MANAGUA1432
+NICARAGUA GEOGRAPHICAL ASSISTANCE DISTRIBUTION PROJECT
+Tue Jun 05 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Managua
+VZCZCXRO6418
+RR RUEHLMC
+DE RUEHMU #1432/01 1562316
+ZNR UUUUU ZZH
+R 052316Z JUN 07
+FM AMEMBASSY MANAGUA
+TO RUEHC/SECSTATE WASHDC 0441
+INFO RUEHMU/WESTERN HEMISPHERIC AFFAIRS DIPL POSTS
+RUMIAAA/CDR USSOUTHCOM MIAMI FL
+RUEAIIA/CIA WASHDC
+RUEATRS/DEPT OF TREASURY WASHINGTON DC
+RHEFDIA/DIA WASHINGTON DC
+RUEHLMC/MILLENNIUM CHALLENGE CORP WASHDC
+RHEHNSC/NSC WASHINGTON DCUNCLAS SECTION 01 OF 02 MANAGUA 001432 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPT FOR WHA/CEN 
+ 
+E.O. 12958: N/A 
+TAGS: EAID AINT MASS PGOV PINR SOCI NU
+SUBJECT: NICARAGUA GEOGRAPHICAL ASSISTANCE DISTRIBUTION PROJECT
+ 
+¶1. (U) Summary: At the Ambassador's request, post has 
+developed an online application that graphically displays 
+all USG assistance projects directed at specific localities 
+from 2000-2003 to the present.  The Geographical Assistance 
+Distribution (GAD) Project also shows the geo-political 
+breakdown of Nicaragua's departmental representatives and 
+local governments.  The GAD Project is available on the 
+Department of State OpenNet network under Embassy Managua's 
+Intranet web page and may be accessed by clicking on "Other 
+Links," then "GAD Project."  The direct OpenNet address is: 
+webmanagua.managua.state.gov/DisplayContent.a sp?PAG_ID=37. 
+End Summary. 
+ 
+¶2. (U) The Nicaraguan GAD Project contains over 4,000 data 
+points on about 200 maps displayed on the national, 
+departmental, and municipal level.  The municipal maps 
+illustrate projects from a full range of USG agencies, 
+including: State, Agriculture, Defense, USAID, OPIC, Peace 
+Corps, and MCC.  All of the maps are Adobe Acrobat files 
+that can be downloaded or printed. 
+ 
+National Level 
+- - - - - - - - 
+ 
+¶3. (U)  The national-level maps display results from the 
+November 2006 national elections.  One map shows the 70 
+departmental deputies who were elected by party, and 
+another file displays the 20 national deputies chosen 
+proportionately from party lists.  A third map reveals the 
+relative geographic strengths of the different parties by 
+showing the presidential vote totals by department (first 
+and second place parties). 
+ 
+Departmental Level 
+- - - - - - - - - - 
+ 
+¶4. (U) Departmental maps may be accessed from the GAD home 
+page by clicking on the name of the department.  These maps 
+display the departmental population and the political 
+affiliation of the municipal mayors, as well as offering a 
+bird's-eye view (via icons) of the different agencies with 
+projects in that department.  Each departmental map also 
+contains a corresponding link (by clicking on the 
+department's name) to the Nicaraguan Municipal Association 
+(AMUNIC) web site.  The AMUNIC web site offers political, 
+historical, geographic, demographic, and infrastructure 
+information on each municipality.  (Note: The AMUNIC 
+population figures are based on outdated estimates.  The 
+GAD maps contain information from the last official 
+census.  End Note.) 
+ 
+¶5. (SBU) On the departmental and municipal maps, certain 
+municipalities are marked with a check icon.  Though not 
+explained in the GAD, the check indicates that more 
+information on the municipality is available in a 
+classified database maintained by the Political Section. 
+Post is planning a mirror site on the SIPRnet that will 
+include direct links to the database. 
+ 
+Municipal Level 
+- - - - - - - - 
+ 
+¶6. (U) The municipal maps, reached by clicking on the 
+municipality's name on the departmental map, display the 
+mayor and councilors coded by party affiliation, the 
+population, and short descriptions of USG projects 
+undertaken in that locale.  Where the information is 
+available, we have indicated the specific neighborhood or 
+village where the projects are located. 
+ 
+Planned Upgrades 
+- - - - - - - - - 
+ 
+¶7. (U) The following are planned upgrades to increase the 
+utility of the GAD Project: 
+ 
+-- The project information on the current municipal maps is 
+very brief due to space constraints.  We plan to develop a 
+database on all of the projects that will contain much more 
+detailed information (e.g., funding, time period, NGO 
+partners, etc.) and link to the maps.  
+ 
+-- Post agencies have formed a committee to review 
+unsolicited project proposals from mayors, NGOs, and other 
+sources.  We plan to include links on the municipal maps to 
+these proposals to more easily match ongoing activities 
+with solicited requests. 
+ 
+-- The Adobe Acrobat platform that we are using is 
+limited.  We intend to identify and upgrade to a suitable 
+geographical information systems (GIS) platform in the 
+future that will allow a variety of users to input data and 
+access a much wider range of information. 
+TRIVELLI
