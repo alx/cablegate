@@ -1,0 +1,740 @@
+09MANAGUA308
+NICARAGUA: PANDEMIC AND AVIAN INFLUENZA TRIPWIRES
+Mon Mar 23 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Managua
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHMU #0308/01 0821317
+ZNR UUUUU ZZH
+R 231317Z MAR 09
+FM AMEMBASSY MANAGUA
+TO RUEHC/SECSTATE WASHDC 3916
+INFO RUEHZA/WHA CENTRAL AMERICAN COLLECTIVEUNCLAS MANAGUA 000308 
+ 
+SIPDIS 
+ 
+DEPT FOR S/ES-O/CMS EPARRA 
+ 
+E.O. 12958: N/A 
+TAGS: AMED AMGT ASEC KSAF KSEO SENV TBIO KFLU NU
+SUBJECT: NICARAGUA: PANDEMIC AND AVIAN INFLUENZA TRIPWIRES 
+AND MISSION RESPONSE PLAN 
+ 
+REF: A. SECSTATE 006306 
+     ¶B. MANAGUA 0275 
+ 
+¶1. (U) Summary and Introduction:  With no cases of the 
+virulent H5N1 Avian Influenza (AI) strain existing yet in the 
+Americas, the Emergency Action Committee  reviewed and 
+approved the Mission Response Plan and Tripwires for Pandemic 
+and Avian Influenza.  The plan recognizes Nicaragua,s 
+current incapacity to identify an avian or human H5N1 
+infection.  Following is the text of the plan.  End Summary 
+and Introduction. 
+ 
+Begin text: 
+ 
+Overview 
+-------- 
+¶2. (U) Nicaragua has no in-depth planning to handle Pandemic 
+Influenza or Avian Influenza.  There is nominal surveillance 
+and minimal stockpiling of medical supplies, but no 
+stockpiles of antiviral drugs, no educational programs, and 
+no integrated management in place.  Nicaragua,s Ministry of 
+Health has a written plan for Avian Influenza Pandemic 
+Preparedness and Response, but it has not been distributed to 
+hospitals at the local level and so is unlikely to be 
+effective.  Nicaragua also does not have the capability to 
+identify an avian or human H5N1 infection.  The symptoms of 
+AI are not distinguishable from other types of influenza 
+without the availability of specialized testing.  Specimens 
+will need to be sent to laboratories in the United States 
+(the Centers for Disease Control (CDC), or the National 
+Veterinary Laboratory in Ames, Iowa).  Nicaragua does not 
+have the medical resources to treat more than a handful of 
+patients infected with Avian or Pandemic Influenza. 
+Medication and equipment are severely limited.  There are 
+only a handful of ventilators nationwide.  There is no plan 
+to handle overflow of patients at alternate sites.  Nicaragua 
+will not, therefore, be able to treat large numbers of 
+infected patients effectively, nor to accept patients with AI 
+or Pandemic Influenza from neighboring countries.  Nicaragua 
+does not have the public health resources to manage mass 
+fatalities. 
+ 
+¶3. (U) The persistence of the H5Nl AI since its appearance in 
+Hong Kong in 1997 indicates that it is unlikely to disappear 
+from the environment.  Moreover, it has evolved gradually, 
+increasing its lethality and broadening the range of species 
+that it can infect and kill.  Since December 2003 there has 
+been sporadic and increasing animal-to-human transmission. 
+As of the week of March 2, 2009, the World Health 
+Organization (WHO) reports 409 confirmed human cases of AI 
+Influenza with a mortality rate of 62.6%.  The majority of 
+cases are in children and adults under the age of 40 years 
+old.  The highest mortality is in the 10 to 19 year old age 
+group.  The incidence among poultry workers has been minimal, 
+suggesting that, at this time, AI is not easily transmitted 
+to humans.  Human-to-human transmission has not been 
+documented (though it was suspected in a handful of cases). 
+There has never been a human epidemic with an H5 influenza 
+strain.  Thus, people of all ages are presumed to be highly 
+susceptible.  After widespread use of anti-influenza drugs 
+amantadine and rimantidine in China, the H5N1 influenza A 
+virus has become resistant to these drugs.  The 
+neuroaminidase inhibitors oseltamivir (Tamiflu) and zanamivir 
+(Relenza) are still effective most of the time, but 
+resistance to Tamiflu has been documented. 
+ 
+¶4. (U) Should sustained human-to-human transmission of a 
+highly pathogenic H5N1 influenza begin, worldwide spread is 
+expected in days to weeks, despite efforts to contain the 
+virus by closing borders and quarantining ill persons.  The 
+short incubation period, the spread of virus by infected 
+persons 2-3 days before they become ill, and the highly 
+infectious nature of the virus will accelerate the 
+development of a pandemic.  The pandemic could devastate the 
+world like a &global tsunami.8 
+ 
+¶5. (U) There have as yet been no cases of H5N1 AI of any type 
+in the Americas.  Other variant AI strains have been recorded 
+throughout the Americas in recent years, including a recently 
+confirmed occurrence of the low pathogenic H5N2 virus in the 
+Dominican Republic on December 21, 2007. 
+ 
+¶6. (U) In response to the small number of cases of documented 
+animal-to-human avian infection transmission, human and 
+animal health organizations have taken the following steps: 
+ 
+    a. Monitoring wild and domesticated bird populations for 
+H5N1; 
+ 
+    b. Analyzing genetic changes in the virus; 
+ 
+ 
+    c. Culling affected domestic bird populations and 
+isolating human cases; 
+ 
+    d. Sharply increasing the production and storage of 
+oseltamivir (Tamiflu) and zanamivir (Relenza); 
+ 
+    e. Accelerating the process of vaccine production. 
+ 
+¶7. (U) In the region of Mexico and Central America, Mexico, 
+Panama, and El Salvador may be at greatest risk for entry of 
+Pandemic Influenza due to their larger populations, and human 
+migration and cargo traffic patterns.  In Panama, daily cargo 
+traffic includes a large number of ships from Asia.  Also, 
+Mexico and the countries of Central America are on the flight 
+path of numerous migrating birds.  It is quite possible that 
+AI could spread from Siberia to Alaska and southward to 
+Western Hemispheric countries. 
+ 
+Assumptions 
+----------- 
+ 
+¶8. (U) When formulating tripwires, the following facts and 
+assumptions were considered: 
+ 
+    a. The H5N1 highly pathogenic AI does not yet exist in 
+the Western Hemisphere. 
+ 
+    b. H5N1 does not yet efficiently infect humans. 
+ 
+    c. It is highly probable that Pandemic Influenza, 
+resulting from sustained human-to-human transmission of AI 
+will begin in East Asia because of the number of birds 
+infected there, the proximity of people to birds and, 
+historically, the widespread presence of a variety of 
+influenza viruses in that region. 
+ 
+    d. Once sustained human-to-human transmission of a 
+pandemic influenza starts, it is very likely to appear in 
+multiple sites, and quickly spread to distant countries. 
+Therefore, the local decision to evacuate dependents and 
+non-essential personnel to the United States must occur when 
+sustained human-to-human transmission has been documented 
+anywhere in the world (most likely Asia).  By the time 
+sustained human-to-human transmission appears in the Western 
+Hemisphere, with the probable closing of national frontiers 
+and suspension of air traffic, it will most likely be too 
+late for any type of evacuation other than in-site quarantine 
+and sheltering-in-place. 
+ 
+    e. In view of the much greater air travel to the United 
+States, Pandemic Influenza is more likely to appear in the 
+United States before Nicaragua. 
+ 
+    f. The presence of Pandemic Influenza in any neighboring 
+Central American country should be considered equivalent to 
+the presence of Pandemic Influenza in Managua, Nicaragua. 
+ 
+    g. All cross border traffic by land, sea, and air will 
+very likely be blocked as soon a human-to-human transmission 
+of Pandemic Influenza is suspected in Nicaragua or its 
+neighboring countries. 
+ 
+    h. Vaccine development may take four months after the 
+onset of a human pandemic.  Distribution of the vaccine is 
+most likely to occur in the &first-world8 countries first, 
+and then, because of the likely closure of borders during a 
+pandemic, distribution would be prevented from reaching other 
+countries. 
+ 
+    i. A human pandemic will cause a catastrophic disruption 
+of the host nation,s economy and security organizations. 
+ 
+Nicaragua Tripwires - Introduction 
+---------------------------------- 
+ 
+¶9. (U) The most critical tripwire is the appearance of 
+sustained human-to-human transmission anywhere in the world 
+(most likely outside of the Western Hemisphere).  At this 
+point, U.S. Embassy Managua will have to take immediate steps 
+to evacuate dependents and non-essential personnel to the 
+United States.  The appearance of human-to-human contagious 
+Pandemic Influenza in the Western Hemisphere and anywhere in 
+the Americas would be the final tripwire, requiring final 
+preparations for sheltering in the Embassy compound of 
+essential Embassy personnel, long)term quarantine, and 
+decisions about when to initiate prophylactic treatment with 
+oseltamivir (Tamiflu) and/or zanamivir (Relenza).  Once a 
+Pandemic Influenza epidemic appears in the Western 
+Hemisphere, the probable closing of national frontiers and 
+ 
+suspension of air traffic will foreclose any other evacuation 
+options. 
+ 
+¶10. (U) The Emergency Action Committee (EAC), will be 
+required to meet each time a tripwire is crossed in order to 
+confirm that the criteria for that tripwire has been met and 
+to initiate specific actions.  When each tripwire is met, the 
+Consular Section will need to issue a warden message to all 
+Americans living within Nicaragua.  The EAC will need to 
+determine what public announcements and travel warnings 
+should be sent to the Department of State for approval and 
+final publishing on the Embassy Website and distribution 
+through the Consular Warden System.  Advice should be 
+obtained from Washington about press announcements. 
+ 
+¶11. (U) The U.S. Department of Health and Human Services 
+stockpiles a vaccine against H5N1 Avian Influenza in order to 
+provide some protection for critical personnel in the early 
+stages of a pandemic.  In a pandemic, however, it is expected 
+to take several months to develop and produce a vaccine 
+matched to the new pandemic influenza strain.  Once a vaccine 
+has been developed and deployed, the primary objective will 
+be to vaccinate as many as possible and as quickly as 
+possible.  However, because of the improbability of any 
+developed vaccine reaching a pandemic country before 
+frontiers have closed, the following tripwires assume that 
+the pandemic begins before there is an adequate supply of 
+protective vaccine. 
+ 
+US Embassy Managua Tripwires for Pandemic Influenza 
+--------------------------------------------- ------ 
+ 
+¶12. (U) Tripwire One: only animal-to-animal and sporadic 
+animal-to-human transmission (Federal Government Response 
+Stage 0, WHO Phase 3). 
+ 
+    a. Stage One: no AI in the Western Hemisphere (present 
+situation). 
+ 
+        i. Post shows vigilance in reviewing reports from 
+international monitoring groups and international news. 
+        ii. Informational updates are provided to the Mission 
+from the FSHP and RMO. 
+        iii. MED strongly recommends yearly influenza 
+vaccinations for all personnel (these do not protect against 
+AI). 
+        iv. Personal protective equipment (PPE):  gloves, 
+goggles, N95 masks, and reusable respirators for healthcare 
+workers, Tyvek suits, are stockpiled as needed for the 
+mission size; a stockpile of antibiotics might be considered 
+in order to treat secondary bacteria pneumonias that commonly 
+occur with influenza. 
+        v. Tamiflu (oseltamivir) and Relenza (zanamivir) 
+stores are in a temperature-controlled, highly secure 
+environment. 
+        vi. As appropriate, advise individuals including 
+American citizens, to purchase prescriptions of Tamiflu 
+through their insurance company pharmacy plan. 
+        vii. Review administrative leave plans; staff should 
+prepare to perform as much work at home as possible should 
+the situation worsen. 
+        viii. Review the Mission minimal staffing list of 
+personnel; review Embassy supplies of food, water, 
+antivirals, and other medication and equipment; review 
+security conditions for employees and families at residences 
+and in public venues; review/test emergency preparations, 
+communications procedures; review/update warden system and 
+F-77 Report. 
+        ix. The Hospital Militar is the designated SARS 
+hospital and is also the designated hospital to treat victims 
+of Avian or Pandemic Influenza, according to SINAPRED,s 
+Nicaraguan National Avian Influenza Plan. 
+        x. Consular Section continues outreach for private 
+American citizens (Amcits) on AI preparedness, including food 
+and water storage.  The Embassy Internet home page features 
+information on Avian Influenza preparedness: 
+http://nicaragua.usembassy.gov/emergency services2.html. 
+        xi. Consular, Economic and RSO sections will canvass 
+American companies and organizations to determine whether 
+they have their own contingency plans in the event of a 
+pandemic. 
+        xii. Economic section will query airlines that 
+provide direct flights between Nicaragua and the United 
+States to determine if they have contingency plans in the 
+event of a pandemic.  Of particular importance is whether 
+these companies would increase flights prior to an epidemic 
+reaching the Western Hemisphere and whether they have 
+received information from the host nation discussing criteria 
+that would halt flights if human-to-human transmission 
+started in the Western Hemisphere. 
+ 
+ 
+    b. Stage Two: appearance of AI in the Western Hemisphere, 
+countries bordering Nicaragua 
+ 
+        i. The EAC meets to review, revise, if necessary, 
+tripwires, and implement required actions. 
+        ii. Heighten vigilance; contact host nation agencies 
+monitoring bird populations; contact public health services 
+surveying hospitals for the occurrence of human disease; 
+inform the host government of the Embassy,s intention to 
+release a statement regarding Avian and Pandemic Influenza. 
+        iii. U.S. Embassy issues a MGT notice, announcement 
+in the Embassy bulletin (Tiscapa), and Consular Warden 
+Messages (CWM) advising avoidance of all birds and hand 
+washing after handling uncooked poultry products.  The 
+Embassy adds the text of the CWM to the AI link on the 
+Mission,s webpage. 
+        iv. The EAC reviews whether travel in the region 
+should remain unrestricted. 
+        v. The Mission advises all employees and their 
+dependents to remain home if they develop respiratory illness 
+and fever.  Health Unit personnel decide whether they need to 
+implement the use of personal protective equipment (PPE) and 
+respirators when evaluating persons with respiratory illness. 
+ In a Consular Warden Message (CWM), Amcits are advised to 
+seek physician consultation should they develop respiratory 
+illness with fever. 
+        vi. Consular and Embassy press officers have 
+available Avian and Pandemic Influenza talking points for use 
+in appearances on local radio and television programs, and 
+Internet chat rooms. 
+        vii. Human Resources (HR) prepares travel orders for 
+non-essential personnel and dependents, who would very likely 
+be evacuated when human-to-human transmission begins. 
+        viii. Section chiefs advise LES (FSN) employees that 
+they should keep their U.S. visas current.  U.S. personnel 
+are advised to submit B referrals for nannies who might 
+accompany their families back to the United States. 
+        ix. Embassy Public Affairs Section releases a 
+statement describing the Embassy,s increased vigilance and 
+offers advice about personal protective measures.  The 
+Consular Section releases a CWM advising all Amcits of 
+precautions the U.S. Embassy is taking for its personnel. 
+        x. The Consular Section considers decreasing visa 
+appointments to focus more resources on American Citizens 
+Services and decrease risk of unnecessary exposure. 
+ 
+    c. Stage Three: documentation of animal-to-human 
+transmission of AI in Nicaragua. 
+ 
+        i. The EAC meets to assess situation and initiate 
+actions defined by established tripwires. 
+        ii. Both American and FSN personnel with fever and/or 
+respiratory illness are told to remain at home (on 
+administrative leave) until 10 days after recovery. American 
+personnel will be advised to impose the same restrictions on 
+their domestic employees. 
+        iii. The Health Unit staff uses PPE and infectious 
+disease precautions when evaluating persons with fever and 
+respiratory illness.  Possibly consider setting up a triage 
+area in the Employee Parking Lot to contain the spread of 
+infection. 
+        iv. The Health Unit staff will use non-expired 
+influenza quick test kit to test all ill individuals with 
+symptoms suspicious of influenza for influenza A and B. 
+        v. Health Unit staff monitors the human cases closely 
+through communication with local health providers and, 
+possibly, visits to the hospitals.  If the victim is a 
+private American citizen, a Consular Officer will be assigned 
+to monitor the situation with the Health Unit staff, in order 
+to communicate with family members. 
+        vi. The Health Unit staff in collaboration with the 
+RMO and State MED review use of PPE, decontamination 
+procedures, and conditions that require use of Tamiflu and/or 
+Relenza. 
+        vii. The Embassy holds Town Hall meetings for the 
+Embassy community and private American citizens.  The Mission 
+strongly advises avoiding contact with live birds and 
+thoroughly washing hands after handling chicken and other 
+previously butchered poultry in the kitchen. 
+        viii. Consular Warden Message communicates the advice 
+provided at the Town Hall meeting and additional information 
+is placed in the Embassy,s Webpage on AI. 
+        ix. The Public Affairs Section will assume 
+responsibility for &risk communication,8 creating public 
+messages to both the Mission community and the host nation. 
+        x. Embassy officials should meet with school 
+officials to discuss tripwires for school closure. 
+        xi. Based upon the number of reported cases, the EAC 
+reviews the need for voluntary departure of dependents. 
+ 
+        xii. The EAC assesses whether travel should be 
+restricted in some areas of the region. 
+        xiii. The Mission begins use of a database to 
+register all official and private citizen Americans infected 
+with AI. 
+        xiv. The Mission will train a group of individuals to 
+screen visitors to the Embassy compound, using a 
+questionnaire, noting travel, contact with others who have 
+traveled to an epidemic region, contact with live poultry, 
+and clinical symptoms of respiratory disease and fever. 
+        xv. The Consular Section limits visa applicants to 
+emergency cases only. 
+ 
+    d. Stage Four: apparent increase in animal-to-human 
+transmission of AI in Nicaragua or neighboring countries. 
+ 
+        i. The EAC meets to review information, assess 
+whether this new tripwire has been crossed, and initiate 
+additional actions. 
+        ii. The EAC restricts travel to regions reporting 
+increased animal-to-human transmission of AI. 
+        iii. The Health Unit and USAID AI working groups will 
+communicate frequently with officials of the WHO, CDC, and 
+Government of Nicaragua (GON) investigating avian and human 
+infections (SINAPRED and MINSA).  The EAC will be provided 
+frequent updates, and the EAC will meet when necessary to 
+assess new events information. 
+        iv. Mission personnel and their dependents will be 
+advised to stockpile enough food and water for at least two 
+weeks and keep travel documents and personal items ready for 
+rapid evacuation to the U.S., should it become necessary. 
+        v. Consular Section updates warden messages and 
+Embassy webpage as new information appears and new decisions 
+are made. 
+ 
+¶13. (U) Tripwire Two: confirmed human-to-human AI cases 
+outside of the Western Hemisphere (Federal Government 
+Response Stage 2), AI affecting entire families, increased 
+infection among health care workers, or transmission, 
+anywhere in the world (WHO Phase 4 or 5, depending upon the 
+degree of human-to-human transmission). 
+ 
+    a. Stage One: case clusters occurring, but not in the 
+Western Hemisphere. 
+ 
+        i. The EAC, in consultation with the Operations 
+Center,s Crisis Management Staff (S/ES-O/CMS) and, if 
+applicable, the State Department Task Force, confirms that 
+tripwire has been crossed.  The EAC meets frequently to 
+follow developments, review actions, and assess the 
+possibility that sustained human-to-human transmission has 
+started. 
+        ii. The Embassy prohibits Mission personnel from 
+traveling to the region where AI clusters have been 
+discovered. 
+        iii. Non-essential staff and dependents are advised 
+to prepare luggage and travel documents and to be on stand-by 
+for authorized departure. 
+        iv. The Mission continues with full staffing. 
+        v. Personnel should increase stockpiles of water and 
+food, in order to survive a quarantine of 12 weeks, or longer. 
+        vi. Consular Warden Message and Embassy Webpage are 
+updated to reflect guidance provided to Embassy personnel. 
+        vii. The Consular Section limits visa applicants to 
+emergency cases only. 
+        viii. The Mission provides a back-up duty officer to 
+assist in answering phone calls and inquiries from concerned 
+U.S. Citizens after hours. 
+ 
+    b. Stage Two: sustained human-to-human transmission, 
+resulting in Pandemic Influenza epidemic confined to regions 
+outside the Western Hemisphere. 
+ 
+        i. The EAC meets frequently to analyze new 
+information and implement new decisions. 
+        ii. Mission requests AUTHORIZED DEPARTURE for all 
+dependents and non essential personnel to return to the U.S. 
+        iii. Increase frequency of Mission and Consular 
+Warden Messages to update the Mission and Amcits on Embassy 
+actions. 
+        iv. The EAC reviews plans for the evaluation and 
+treatment of infected persons and the means of transport of 
+ill persons to local hospitals. 
+        v. The Embassy prohibits travel to regions with 
+human- to-human transmission. 
+        vi. Mission personnel may continue to travel within 
+the Western Hemisphere, with the understanding that freedom 
+of travel may become quickly restricted everywhere.  Travel 
+restrictions need to be reviewed day-to-day. 
+        vii. Consular Section re-emphasizes advice to 
+ 
+American citizens in country to stockpile additional water 
+and food in preparation for possible prolonged home 
+quarantine. 
+        viii. Mission considers moving all essential Embassy 
+personnel into Embassy compound for the duration of the 
+pandemic. 
+        ix. The Mission reviews its plans to stockpile water 
+and food, considering that the remaining Mission personnel 
+may have to move to the Embassy compound for security reasons. 
+        x. Mission screens all individuals entering the 
+compound. 
+        xi. The Consular Section continues to limit visa 
+applicants to emergency cases only. 
+ 
+¶14. (U) Tripwire Three: documented human-to-human 
+transmission of Avian or Pandemic Influenza in the Western 
+Hemisphere (Federal Government Response Stage 2 or 3, and WHO 
+Phase 5 or 6, depending upon the degree of human-to-human 
+transmission:  significant, or  efficient and sustained,). 
+ 
+    a. Stage One: case clusters occurring in the Western 
+Hemisphere, in Central America, or in Nicaragua. 
+ 
+        i. The EAC, in consultation with the Operations 
+Center,s Crisis Management Staff (S/ES-O/CMS) and, if 
+applicable, the State Department Task Force, confirms that 
+tripwire has been crossed.  The EAC meets frequently to 
+follow developments, review actions, and respond quickly in 
+initiating new actions. 
+        ii. The Embassy prohibits travel to countries (and 
+perhaps adjacent countries) except the U.S., where only the 
+affected states should be avoided. 
+        iii. The Mission stops hosting public events and 
+advises personnel to avoid public gatherings. 
+        iv. Consular section sends warden messages announcing 
+authorized departure of dependents and suggesting that 
+private Amcits consider returning to the US.  Travel 
+restrictions for official personnel and the new policy of 
+social avoidance are also publicized. 
+        v. Health Unit personnel set up outdoor or 
+alternative patient evaluation site (staff parking area). 
+American Employees with fever and respiratory illness are 
+placed into Embassy compound building designated for pandemic 
+victims.  Persons who have returned recently from the country 
+with case clusters will be housed in a designated Embassy 
+compound building and will be required to remain in the 
+building for quarantine for ten (10) days.  Persons that 
+become ill during the time of quarantine will be transferred 
+to the designated Embassy compound building. Persons without 
+symptoms after the 10 day quarantine period will be released 
+to the NEC building for housing purposes. 
+        vi. The Consular section informs the State Department 
+that it has suspended service to persons with respiratory 
+illness or fever.  Consular section meets with Health Unit 
+staff to discuss precautions in meeting with visa applicants. 
+        vii. The Consular Section, with assistance from other 
+units within the Embassy, Consular Affairs (CA), and 
+S/ES/CMS, sets up a 24-hour telephone and email task force to 
+manage the deluge of inquiries coming from U.S. Citizens. 
+The Consular Crisis Management System is used to track 
+inquiries. 
+        viii. The Marine Security Guard will be divided into 
+two groups, which live separately (in order to try to avoid 
+loss of all MSG personnel to illness simultaneously).  Also 
+consider augmenting the security force with MILGP/DAO 
+personnel as needed.  The Mission will ensure that controlled 
+and classified documents have been reduced to less than 
+one-hour destruction time. 
+ 
+    b. Stage Two: sustained human-to-human Pandemic Influenza 
+spreads to the Western Hemisphere, including the U.S., 
+Mexico, neighboring Central or South American countries, or 
+Nicaragua itself.  (All regional and other international 
+travel is likely to be restricted; the host nation,s borders 
+will very likely be closed, medical evacuations will not be 
+allowed, nor is it likely that they will be possible.) 
+ 
+        i. The EAC meets to review, revise, and initiate new 
+actions. 
+        ii. Health Unit staff will provide medical care to 
+ill persons housed in the designated Embassy compound 
+building, reporting to the Consular Section, who will report 
+to families and others. 
+        iii. The Consular Section closes to the public (in 
+consultation with CA). 
+        iv. The Consular Section drafts a travel warning and 
+requests State Department approval and dissemination.  The 
+travel warning is disseminated to the local American 
+community, and private Amcits are strongly advised to avoid 
+travel to Nicaragua.  All incoming official travel is 
+ 
+prohibited, unless the persons are needed to investigate and 
+combat the AI or Pandemic Influenza. 
+        v. Mission informs the State Department that persons 
+in neighboring countries infected with Avian or Pandemic 
+Influenza cannot be transferred to Nicaragua, due to 
+inadequate medical facilities. 
+        vi. Mission and Consular Warden Messages are 
+disseminated frequently, updating official Americans and 
+private Amcits about Embassy advice and actions.  The Embassy 
+Webpage is updated day-to-day. 
+        vii. The Mission records details of all Americans, 
+Mission personnel and private citizens who become sick, 
+quarantined, or hospitalized with Avian or Pandemic Influenza 
+in the established database.  The CMS database is used to 
+track cases of private U.S. Citizens infected with AI or 
+pandemic flu. 
+        viii. The mission initiates plan to distribute 
+Tamiflu/Relenza to Health Care workers and other Embassy 
+personnel, as advised by State MED and CDC. 
+        ix. The Mission ascertains from Nicaraguan public 
+health officials morgue location and procedures to transfer 
+the dead to the morgue.  The Consular section is informed in 
+order to record information and notify families. 
+        x. Water and food supplies will be consolidated at 
+the Embassy compound. 
+ 
+¶15. (U) Tripwire Four: the pandemic situation results in 
+civil unrest (Federal Government Response Stage 3, and WHO 
+Phase 6). 
+ 
+    a. Stage One: the pandemic situation is such that random 
+acts of violence or an increase in threats are occurring. 
+ 
+        i. As soon as Tripwire Four is crossed, front office 
+calls State Department Ops Center to report on the developing 
+situation. EAC, in consultation with the Operations Center's 
+Crisis Management Staff (S/ES-O/CMS) and the State Department 
+Task Force, confirms that tripwire has been crossed. 
+        ii. Request an update to the Travel Alert or a Travel 
+Warning to reflect current circumstances and post actions. 
+If the Department issues a revised Travel Alert or Travel 
+Warning, posts should promptly disseminate it to the local 
+American community. 
+ 
+    b. Stage Two: The pandemic situation is such that the 
+local government cannot contain civil unrest, much of which 
+is directed against the U.S. Embassy and Americans, who may 
+be perceived as having food, water and medications, and 
+refusing to share same.  American homes may be broken into by 
+mobs seeking medications and food, and numbers of Americans 
+may be seeking refuge at the Embassy. 
+ 
+        i. Request conference call via State Operations 
+Center with CMS (Crisis Management Support), CA/OCS, and the 
+regional bureau's EX office to discuss requesting ordered 
+departure. 
+        ii. Request Ordered Departure status from the 
+Department, and provide post's assessment of the current 
+situation.  Include information about potential numbers of 
+private Americans departing, and about transportation 
+availability. 
+        iii. If Ordered Departure status is granted, the 
+following actions will become necessary: 
+ 
+-- If more transportation is needed than is available,
+request Department assistance. A/LM is responsible for
+arranging increases in regularly scheduled flights to post,
+charters, etc.
+-- If departure will not be possible via regularly-scheduled
+commercial flights or chartered commercial aircraft, CMS and
+the regional Bureau will discuss request for DOD assistance.
+Ambassador should brief the relevant combatant command on the
+situation at hand.
+-- Depending on departure option(s) selected, identify
+preferred options for internal movement, staging points,
+routes, assembly areas, embarkation points, etc.  Also,
+consider transportation, timing, and size of group movements.
+-- If potential transportation includes stopovers at a
+location where there is a U.S. diplomatic post, include
+transit post(s) as info addressee on all related cable
+traffic.  Provide guidance to transit post on services
+required for those departing, such as special medical needs,
+diapers, etc.
+-- Inform other foreign missions of drawdown status.
+-- Disseminate the Travel Warning (issued by the Department
+when Ordered Departure is granted) to the American community
+via post's warden system and Internet website.  The
+communication to the private American community should
+strongly urge private Americans to review their individual
+circumstances and consider whether they should relocate to
+
+the United States at this point.  It should note that those
+who do not depart should be prepared to remain in country,
+and that embassy services may soon become unavailable to
+those who stay.  Note that warden system and website updates
+may also become unavailable, and that Americans who stay
+should monitor the State Department website, and,
+specifically, http://travel.state.gov.
+-- Consult with M/FLO for services to personnel who depart
+post.
+-- Request that the Department impose Minimize status.
+-- Ensure the guidelines in 4 FAH-3 H-830 "Emergency
+Evacuation Fiscal Policy" are followed by all agencies at
+post.
+-- Contact the regional bureau to replenish post operating
+funds to sustain post operations, and also contact K Fund
+Manager, RM/CFO, for special K funds for evacuation related
+operations and evacuee travel.  Charter aircraft will be
+funded at the Department level.
+-- Confirm travel orders are prepared for departing post
+personnel. Consider actions that must be accomplished in the
+event all employees depart post and operations are suspended.
+Be ready to initiate document destruction plan.
+-- Arrange administrative control of residences and personal
+property of departing U.S. Government personnel.
+-- Designate liaison officers, arranging at high level to
+ensure acceptance by host government and ensuring
+communication capability.
+-- Consider disposition of pets. (State Department policy
+precludes evacuating pets via chartered or military aircraft
+or ships, and they therefore require alternate
+accommodations. Working animals, such as guide dogs, are not
+considered pets and will be accommodated if possible.)
+-- Consider assigning officers at the main ports of departure
+to offer routine consular services, assist in liaison with
+local authorities, and track private Americans leaving the
+country via the Consular Task Force application.  Assign
+personnel only after consultation with post's Regional
+Medical Officer or Foreign Service Health Practitioner in
+case additional protective measures are advised.
+-- Update personnel lists on WebPASS Post Personnel System
+(PS), making sure that TDY personnel have been included, and
+that the Emergency Management System module is current in its
+tracking of travels and destinations.  If computers are not
+functioning, transmit up-to-date staffing pattern to
+S/ES-O/CMS, CA and post's regional bureau, including
+breakdown of employees and family members by agency and names
+of TDY personnel, and indicating who is out of country and
+their status (TDY, annual leave, home leave, R&R).
+
+        iv. At the discretion of the Chief of Mission, in
+coordination with the Department, assistance may be extended
+to other foreign nationals when humanitarian or U.S. national
+security interests dictate. Post must obtain prior approval
+from the Department before offering departure assistance.
+Points to cover in such local discussions may include:
+
+-- The U.S. Government will consider assisting third-country
+nationals (TCNs) and host-country nationals in departure on a
+case-by-case, space available, and reimbursable basis when
+doing so serves U.S. interests and the passenger(s) has
+appropriate travel documents, including a valid visa for
+entry to the United States.
+-- Priorities of movement and how they will be integrated
+into departure plans.
+-- Reimbursement for departure assistance to third-country
+nationals is billed directly from the U.S. Government to the
+government of the individual (except where the national is a
+family member of a U.S. citizen in which case the national
+becomes part of the U.S. citizen's individual promissory
+note).
+-- Advance travel documentation.
+-- Sharing of personnel assignments, communications and other
+management considerations for the departure process.
+-- Screening procedures at assembly and embarkation areas.
+-- Responsibilities at safe haven, transit points or final
+destination.
+End Text.
+
+SANDERS

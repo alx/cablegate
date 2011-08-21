@@ -1,0 +1,83 @@
+10MANAGUA37
+NASA HYTHIRM PROJECT: Nicaragua National Assembly Approves Overflight Permission for first six month of 2010
+Mon Jan 25 00:00:00 +0100 2010
+UNCLASSIFIED
+Embassy Managua
+VZCZCXRO7089
+RR RUEHAO RUEHCD RUEHHO RUEHNG RUEHNL RUEHRD RUEHRS
+DE RUEHMU #0037/01 0251523
+ZNR UUUUU ZZH
+R 251523Z JAN 10
+FM AMEMBASSY MANAGUA
+TO RUEANAT/NASA WASHINGTON DC
+RUEHC/SECSTATE WASHDC 0572
+INFO WESTERN HEMISPHERIC AFFAIRS DIPL POSTS
+RHEFDIA/DIA WASHINGTON DC
+RHEHAAA/NATIONAL SECURITY COUNCIL WASHINGTON DC
+RHMFISS/HQ USSOUTHCOM MIAMI FL
+RHMFISS/JOINT STAFF WASHINGTON DC
+RUEAIIA/CIA WASHINGTON DC
+RUEHC/USAID WASHDC 0008
+RUEHUNV/USMISSION UNVIE VIENNA 0001
+RUEKJCS/OSD WASHINGTON DCUNCLAS SECTION 01 OF 02 MANAGUA 000037
+
+SIPDIS
+
+E.O. 12958: N/A
+TAGS: TSPA TSPL MOPS PREL NU
+SUBJECT: NASA HYTHIRM PROJECT: Nicaragua National Assembly Approves Overflight Permission for first six month of 2010
+
+REF: A) 2010 JAN 14 - GROSS TO NYCE EMAIL; B) 2010 STATE 3837 C) 2009 MANAGUA 868; D) 2009 STATE 77073
+
+¶1. (U) On December 3, the publication "La Gaceta" (Nicaragua's "Federal Register" equivalent) contained the text of a decree in which the Nicaraguan National Assembly approved the USG request to allow US Navy P-3 aircraft to overfly Nicaragua in support of certain NASA project missions. This formal USG request for permission for these flights, which would support NASA's Hypersonic Thermodynamic Infared Measurements (HYTHIRM) project, came after the Government of Nicaragua's (GON) denied an earlier request (REF C). The National Assembly approval was granted for missions only during the first six months of 2010. We anticipate that a second request covering the final six months of 2010 will be approved by the Assembly during a later session. We will monitor and report via separate telegram (SEPTEL).
+
+¶2. (U) This vote complies with Nicaragua's constitutional requirement that all foreign military craft and personnel entering Nicaragua have prior approval from the National Assembly before entering Nicaraguan territory or airspace; however, it does not constitute diplomatic flight clearance for any specific mission. NASA/US Navy still must provide the Embassy with dates and flight information for each specific mission so that a diplomatic aircraft clearance can be requested from the GON, in accordance with established procedures and timelines.
+
+Requesting Diplomatic Aircraft Clearance
+
+¶3. (U) To request Diplomatic Aircraft Clearance for a specific NASA HYTHIRM mission, the operators of the P-3 must submit the following information to Embassy Managua's Defense AttachC) Office either via email (to the addresses indicated below) or, if available, through the online Aircraft and Personnel Automated Clearance System (APACS):
+
+B7         Type of aircraft
+
+B7         Call Sign
+
+B7         Tail number (and any alternates that may be used in case
+of substitutions)
+
+B7         Country in which aircraft originates (takes off from) and
+returns to (for entry / exit flights)
+
+B7         Type of cargo
+
+B7         Airspace entry data: date, time, and grid of entry
+
+B7         Airspace exit data: date, time, and grid of exit
+
+B7         Purpose of trip
+
+B7         Number of crew
+
+NOTE: DAO Office would also need flight data for recurring sorties as a separate entry (times of daily flights, if applicable, with grid coordinate data. END NOTE.
+
+If sending information via email, it should be directed to USDAO Managua Ops NCO SFC Dori Pelley at (NIPR: pelleydl@state.gov; SIPR: dipeldx@dia.smil.mil) with a 'cc' copy to the DAO Managua Inbox
+
+(NIPR: DAOManagua@state.gov; SIPR: DAOManagua@dia.smil.mil)
+
+Embassy Points of Contact
+
+¶4. (U) Please direct any questions regarding this issue or process to the following Embassy Points of Contact.
+
+For Political-Military Issues: Pol-Mil Officer, Jesse Curtis
+(OpenNet/NIPR: CurtisJS@state.gov; SIPR: CurtisJS@state.sgov.gov;
+Tel: +505-2252-7128).
+
+For Diplomatic Aircraft Clearance:  DAO OpsNCO SFC Dori Pelley
+(NIPR: pelleydl@state.gov; SIPR: dipeldx@dia.smil.mil; TEL:
++505-2252-7735)
+
+For Science and Technology Issues, including Space Affairs and
+non-Military aircraft clearances: EST Officer Christopher Nyce
+(OpenNet: NyceC@state.gov; SIPR: NyceC@state.sgov.gov; TEL:
++505-2252-7619)
+
+CALLAHAN
