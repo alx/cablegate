@@ -1,0 +1,69 @@
+09MOSCOW1941
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: MERCURY
+Thu Jul 30 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0010
+PP RUEHWEB
+
+DE RUEHMO #1941 2110425
+ZNR UUUUU ZZH
+P 300425Z JUL 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 4384
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001941 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: MERCURY 
+ELECTRONICS, MOSCOW, RUSSIA. 
+ 
+REFTELS: REQUEST #4210002; DATED 4/9/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Mercury Electronics, 
+Moscow, Russia. The company is listed on BIS license applications: 
+CIV as the foreign purchaser of ninety six electronic integrated 
+circuits and electronic devices and components. These items are 
+controlled for national security, missile technology, nuclear 
+non-proliferation and anti-terrorism reasons under ECCN 3A001. The 
+licensee is Actel Corporation, 2061 Stierlin CT, Mountain View, CA. 
+ 
+¶3. The contact information provided in reftel was for Advanced 
+Electronics, the intermediate consignee.  LES Natalia Shipitsina 
+telephoned Advanced Electronics, the official distributor of Actel 
+Corporation in Russia, on May 18, 2009 and was provided with contact 
+information for Mercury Electronics, the ultimate consignee of the 
+reftel commodities. On May 20, 2009 LES Natalia Shipitsina spoke 
+with Mr. Volkov of Mercury Electronics, advising him of the 
+requested end use check for the commodities Mercury Electronics 
+purchased from Actel Corporation. Mr. Volkov stated that he was too 
+busy to discuss the matter and advised LES Shipitsina that he would 
+call the Moscow export control team on May 28, 2009 to schedule the 
+end use check. However, Mr. Volkov never called the Moscow export 
+control team.  LES Shipitsina made several attempts to reach Mr. 
+Volkov over the past several weeks to no avail. 
+ 
+¶4. Mercury Electronics is aware of the Bureau of Industry and 
+SecurityQs request to conduct an end use check of the commodities 
+its company purchased from Actel Corporation and has not responded 
+to the request in a timely manner. The Moscow export control team 
+has made repeated efforts to contact Mercury Electronics which 
+appear to be ignored. 
+ 
+¶5. Recommendations: Post does not/not recommend Mercury Electronics, 
+Moscow, Russia, as a reliable recipient of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+AGNEW

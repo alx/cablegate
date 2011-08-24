@@ -1,0 +1,113 @@
+07PARIS1472
+France's New DRM Authority
+Thu Apr 12 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXRO2924
+RR RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHFR #1472 1021529
+ZNR UUUUU ZZH
+R 121529Z APR 07
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 6444
+RUEAFCC/FCC WASHDC
+RUCPDOC/DEPARTMENT OF COMMERCE WASHDC
+INFO RUCNMEM/EU MEMBER STATES COLLECTIVEUNCLAS PARIS 001472 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD ECON ECPS KIPR FR
+SUBJECT: France's New DRM Authority 
+NOT FOR INTERNET DISTRIBUTION 
+Summary 
+------- 
+¶1.  (SBU) French Culture Minister Renaud Donnedieu de Vabres 
+announced on April 6 the establishment of the Technical Measures 
+Regulation Authority (TMRA), which will decide on issues of 
+ 
+interoperability of digital rights management (DRM) systems, as well 
+as rights to copy original works for private use.  Both principles 
+stem from the controversial French digital copyright law adopted on 
+August 1, 2006.  Donnedieu de Vabres also unveiled the names of the 
+new authority's six members, all well-seasoned copyright attorneys 
+or new technology professionals.  Coming 10 days before the first 
+round of France's presidential elections -- but announced just 
+before the long Easter week-end -- the decree indicates the 
+government's determination to take credit for opening the way to 
+interoperability while seeking to minimize public scrutiny. 
+Although presented as a "fait accompli," it is not clear whether 
+this new institution will survive a likely legal challenge to its 
+authority by "freeware" associations, or presidential elections in 
+which all contenders have vowed to review the digital copyright law. 
+ End of Summary. 
+ 
+The Easter surprise: a new authority 
+------------------------------------ 
+¶2.  (SBU)  The draft decree establishing a Technical Measures 
+Regulation Authority (TMRA) had disappeared from public view for two 
+months, while it was reviewed by France's highest administrative 
+court, the State Council.  It could have been discreetly buried 
+there, to be revived or not after the Presidential elections. 
+Instead, French Culture Minister Donnedieu de Vabres followed 
+through on his commitment to install a new regulator to ensure that 
+the copyright law's provisions on interoperability will be applied. 
+Under the decree, as provided for by the law passed last year, 
+consumers are permitted to make an as yet undetermined number of 
+copies of original copyrighted works for private use. 
+ 
+¶3.  (SBU)  Donnedieu de Vabres noted that reported discussions 
+between Apple and EMI on offering the EMI music catalog DRM-free on 
+iTunes did not obviate the need for a DRM authority in France.  This 
+possible agreement did not mean the end of all DRM systems, he said, 
+pointing out they had existed for a long time, and would likely 
+continue to exist in some form for the foreseeable future. 
+ 
+Introducing the members of the new authority 
+-------------------------------------------- 
+¶4.  (U)  Donnedieu de Vabres made his announcement surrounded by the 
+six members of the TMRA.  The new members are appointed by the 
+organizations they represent for six year terms.  They are: Jean 
+Musitelli, member of the State Council, whom the Culture Minister 
+presented as the drafter of the UNESCO Convention on the Protection 
+and the Promotion of the Diversity of Cultural Expressions (which 
+the U.S. strongly opposed); Marie-Francoise Marais, member of 
+France's highest Civil Court "Cour de Cassation," and a specialist 
+of literary and artistic copyright; Patrick Bouquet, member of the 
+Accounting Court (akin to the GAO in the U.S.) and an economic and 
+new technology expert; Pierre Sirinelli, member of the High Council 
+for literary and artistic copyright as well as Professor of 
+copyright in the digital environment at the Sorbonne; Christian 
+Saguez, President of the Commission on Information Technology and 
+Communication of the French Academy of Technologies as well as 
+Professor at "Ecole Centrale"; and Tristan d'Albis, president of the 
+Commission on Private Copy. 
+ 
+¶5.  (U)  Donnedieu de Vabres closed his speech by recalling some of 
+the powers of the new authority.  They include the ability to issue 
+injunctions to require companies to communicate to competitors 
+essential information necessary for interoperability following "just 
+and prior" compensation, as called for by the August 2006 French 
+Constitutional Council amendment to the digital copyright law.  The 
+Constitutional Council also gave the TMRA the power to punish 
+illegal downloading with penalties of up to five years imprisonment 
+and a 500,000 euro fine. 
+ 
+Will the new authority survive unchanged? 
+----------------------------------------- 
+¶6.  (U)  Presidential contenders Nicolas Sarkozy (leading 
+Center-right UMP Party), Segolene Royal (Socialist Party) and 
+Francois Bayrou (Center) have all pledged to take another look at 
+France's implementation of the May 2001 EU Copyright Directive. 
+They all dislike aspects of the current law, but it is not clear 
+whether they would do away with the new authority, maintain it as 
+is, blend it into another regulatory body or just give it different 
+powers.  Sarkozy thinks there are too many regulators in new 
+technologies, while advisors to Royal appear strongly sympathetic to 
+the open source movement and may be disposed towards regulations 
+that encourage movement in that direction. 
+ 
+Stapleton

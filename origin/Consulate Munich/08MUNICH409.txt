@@ -1,0 +1,137 @@
+08MUNICH409
+EU/GALILEO/GPS: POLITICAL CAVEATS FOR AMERICAN
+Fri Dec 19 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Munich
+VZCZCXRO0761
+PP RUEHAG RUEHAST RUEHDF RUEHHM RUEHLN RUEHLZ RUEHMA RUEHPB RUEHPOD
+RUEHTM
+DE RUEHMZ #0409/01 3541044
+ZNR UUUUU ZZH
+P 191044Z DEC 08
+FM AMCONSUL MUNICH
+TO RUEHC/SECSTATE WASHDC PRIORITY 4608
+INFO RUCNFRG/FRG COLLECTIVE PRIORITY
+RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUEHBS/USEU BRUSSELS
+RUCNMEU/EU INTEREST COLLECTIVE
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEKJCS/SECDEF WASHDC
+RUEHUNV/USMISSION UNVIE VIENNA 0006UNCLAS SECTION 01 OF 02 MUNICH 000409 
+ 
+SIPDIS 
+DEPT PLEASE PASS NASA 
+OES/SAT FOR RAYMOND CLORE AND DAVID TURNER 
+ 
+E.O. 12958: N/A 
+TAGS: EAIR ECON EINV ETRD PGOV PREL TSPA GM
+SUBJECT:  EU/GALILEO/GPS: POLITICAL CAVEATS FOR AMERICAN 
+CONTRACTORS 
+ 
+SENSITIVE BUT UNCLASSIFIED.  PLEASE PROTECT ACCORDINGLY. 
+ 
+¶1.  (U) SUMMARY:  American subcontractors could be well-placed to 
+partner with primary EU contractors as the EU presses on with its 
+aggressive schedule to attain an operational 30-satellite Galileo 
+constellation by 2013.  Successful bidders will have to keep in mind 
+that Galileo projects have technical and especially political 
+components that could shift up to the final bidding moment in summer 
+¶2009.  EU political considerations will present special challenges, 
+not only because there will be pressure to keep design honors at 
+home but also because there will be a push to protect EU jobs from 
+going to the Americans in these financially uncertain times.  END 
+SUMMARY. 
+ 
+¶2.  (SBU) On December 16, Munich Consulate PolOff and Economic 
+Specialist met with officials from EADS Astrium Germany (Munich) to 
+discuss the company's role in the Galileo project, Astrium's 
+prospects in the bidding process, and where American firms could fit 
+in.  Astrium officials highlighted how their proposal to build 26 of 
+the 30 satellites, valued at 3.4 billion euro and the Galileo 
+contractual crown jewel, will be superior to their only competitor, 
+OHB Technologies of Bremen.  They stated their desire to partner 
+with U.S. contractors to strengthen the technical aspects of their 
+proposal. 
+ 
+GALILEO CONTRACTS TAKING SHAPE AGAINST AGGRESSIVE SCHEDULE 
+ 
+¶3.  (U) The EU has stipulated that all Galileo primary contractors 
+be of EU origin, stemming from a decision to limit bidders to EU 
+member states because Galileo is a matter of EU security.  However, 
+this does not legally preclude EU primary contractors from 
+partnering with U.S. firms on a sub-contractual basis. 
+ 
+¶4.  (SBU) Astrium officials explained that the European Space Agency 
+(ESA) is currently reviewing preliminary offers from primary bidders 
+and in March 2009 bidders will specify their supply chain, which is 
+where U.S. sub-contractors (if any) will be officially named.  After 
+a series of "dialogues and refinements," our contacts explained that 
+the ESA plan is to award final contracts by June 2009 with 
+construction to begin immediately thereafter.  (COMMENT: This last 
+statement was delivered with laughter as our Astrium contacts 
+admitted that this construction plan is very ambitious.  END 
+COMMENT) 
+ 
+ASTRIUM CITES MANUFACTURING ABILITY AND EXPERIENCE AS EDGE 
+ 
+¶5.  (SBU) Astrium, bidding against OHB Technologies to build 26 of 
+the 30 Galileo satellites, believes that their experience 
+constructing the first four Galileo satellites coupled with their 
+superior manufacturing capacity will ultimately lead to their 
+landing the contract.  Astrium officials said that the EU's current 
+plan to manufacture 26 satellites in three years would demand 
+sophisticated high-volume manufacturing capabilities and precise 
+control of supply chains.  Astrium officials argued that OHB 
+Technologies was the much smaller bidder and that it is unclear 
+whether or not they have the production know-how or capacity to 
+fulfill the contract. 
+ 
+U.S. INVOLVEMENT IN GALILEO CONTRACTS A DICEY SITUATION 
+ 
+¶6.  (SBU)  On the technical side, Astrium's representatives pointed 
+out that American contractors could have an advantage up front if 
+they had appropriate components on the shelf or have components that 
+they could modify easily for Galileo.  They pointed out, however, 
+that the American GPS system is a more robust, hardened design 
+compared to the smaller, more streamlined Astrium design for 
+Galileo.  Because of this, they thought American contractors might 
+be challenged to adapt their larger or heavier products to fit on 
+the smaller Galileo platform. 
+ 
+¶7. (SBU) More importantly, on the political side, Astrium officials 
+made it clear that their bidding war with OHB would likely lead to 
+EU political interference regarding the presence of U.S. 
+subcontractors and the amplitude of the U.S. role.  Additionally, 
+Astrium officials noted EU aspirations to distribute adequately an 
+appropriate piece of the Galileo pie to each of the major EU Galileo 
+contributor nations.  This could crowd contract distributions, 
+reducing the political attractiveness of non-EU subcontractors. 
+However, Astrium said that although the political gamesmanship in 
+awarding supply contracts would "create challenges" for American 
+suppliers, it would "not cut them out" by any means. In addition to 
+from the United States, Astrium expected to see contractor bids from 
+companies in France, Germany, Great Britain, and Italy, and maybe 
+ 
+MUNICH 00000409  002 OF 002 
+ 
+ 
+aspirants from other EU countries. 
+ 
+COMMENT 
+------- 
+ 
+¶8.  (SBU) The confidence that Astrium conveyed in securing the 
+contract to build 26 Galileo satellites may be a little premature 
+considering that OHB beat Astrium on the bid to build the SAR-Lupe 
+(space radar imaging system) constellation for the German Ministry 
+of Defense.  Further, Astrium cannot count on the German Government 
+to lobby for them since both bidders are German already.  In 
+addition, OHB has quietly strengthened its own position by 
+purchasing in April 2008 UK based Surrey Satellites Technology 
+Limited (SSTL) - builder of the first Galileo In-Orbit Element 
+(GIOVE-A).  Given that Galileo is now EU tax-payer funded, the 
+presence of potential significant participation of U.S. 
+sub-contractors may raise political sensitivities of EU pride and 
+job loss, and that in very financially uncertain times. 
+ 
+NELSON

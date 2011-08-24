@@ -1,0 +1,399 @@
+05PARIS4199
+FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR TWO
+Wed Jun 15 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+150930Z Jun 05UNCLAS SECTION 01 OF 05 PARIS 004199 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR; KIM 
+HAVENNER); EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR TWO 
+PRINCIPAL CANDIDATES FOR EURP - COMBATING INTERNATIONAL CRIME 
+(SEPTEMBER 25 - OCTOBER 13, 2006) 
+ 
+REF: STATE 004520 
+ 
+POST WOULD LIKE TO NOMINATE TWO PRINCIPAL CANDIDATES FOR 
+SUBJECT PROGRAM: MR. ERIC RUELLE; MRS. ISABELLE ARNAL. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 275 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - EURP Combating International Crime 
+START MEMO PROJ-DESC: 
+This project is designed for law enforcement officers, 
+political leaders and criminal law experts.  The visitors will 
+examine the broad range of policies, operational strategies, 
+and the complex network of federal and private-sector 
+institutions working to combat international crime and secure 
+U.S. borders.  The program will address money laundering and 
+other financial crimes; trafficking in drugs, persons and 
+arms; cyber-crime; smuggling; and the nexus between 
+international crime and terrorism.  Participants will learn 
+about cooperative efforts that strengthen international 
+partnerships to combat cross-border criminal activity. 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Regional 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 09/23/2006 
+SESSION-DATE: 09/25/2006 
+RETURN-POST: 10/14/2006 
+NO-OF-PART: 2 
+RANK-ORDER: 6 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: RP 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Peace & Security 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Eric 
+M-NAME: 
+L-NAME: Ruelle 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Ministere de la Justice 
+M-ADDR2: Place Vendome 
+M-ADDR3: 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75001 
+M-ZIP: 
+M-PHONE: + (33) 1.44.86.14.29 
+M-FAX: + (33) 1.44.86.14.69 
+M-EMAIL: eric.ruelle@justice.gouv.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 07/11/1963 
+MAR-STAT: S 
+BIRTH-CITY: Senlis 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Section Chief, International Criminal Law Negotiations, French 
+Ministry of Justice, since 2002 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1999-2002 - Deputy Chief, International Criminal Law 
+Negotiations, French Ministry of Justice 
+1997-1999 - Secondment to the Ministry of Defense 
+1995-1997 - Public Prosecutor, Rennes 
+1989-1995 - Public Prosecutor, Nancy 
+1987-1989 - National School for Magistrate 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Washington D.C., professional travels, mostly relating to G8, 
+on several occasions since 2002 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+- Several countries (Canada, Argentina, Indonesia, EU members 
+states, Turkey), for professional trips since 1999 
+- Canada, Turkey, EU countries for vacation. 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1985 - MA in Private Law 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START OTHER-LANGS: 
+OTHER-LANG: Spanish 
+OTHER-LANG-ID: QB 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Mr. Ruelle can exercise legal and policy influence on key U.S. 
+law enforcement objectives, both in bilateral negotiations, 
+and in a broad range of multilateral fora in which the US is 
+pursuing a wide range of law enforcement initiatives relating 
+to terrorism, organized crime, corruption, computer crime and 
+other issues. Thus, he could assist in implementation of the 
+counter-terrorism and global affairs MPP goals and objectives. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Kenneth Harris 
+START MEMO NOMINATING-JUSTIFICATION: 
+Mr. Ruelle is director of the French component that is 
+responsible for law enforcement negotiations between France 
+and the U.S. Both he personally, and his staff also attend law 
+enforcement negotiations in the G8, UN, Council of Europe and 
+EU that may, directly or indirectly, significantly affect U.S. 
+law enforcement interests. Enhanced understanding of the U.S. 
+system would be useful to ensuring French Ministry of Justice 
+receptivity to U.S. law enforcement negotiating positions in 
+important negotiations. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: Justice Attache, U.S. Embassy Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 545 
+PERSON-ID: 444 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Ms. 
+F-NAME: Isabelle 
+M-NAME: 
+L-NAME: Arnal 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: 34 quai des Orfevres 
+M-ADDR2: 
+M-ADDR3: 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75059 Louvres RPSP 
+M-ZIP: 
+M-PHONE: + (33) 1.44.32.53.36 
+M-FAX: + (33) 1.44.32.77.66 
+M-EMAIL: Isabelle.Arnal@justice.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: F 
+DOB: 10/23/1964 
+MAR-STAT: S 
+BIRTH-CITY: Toulouse 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Vice-Prosecutor, Office of Prosecution, Paris - since November 
+2003 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+2003 - Senior Legal Advisor, Eurojust, The Hague, The 
+Netherlands 
+2001-2003 - National Expert detached to the Directorate for 
+Justice and Home Affairs (JAI) of the Secretariat, Council of 
+the European Union, Brussels 
+1998-2001 - Technical Advisor within the Legal Department in 
+the General Secretariat, Interpol, Lyon 
+1995-1998 - Assistant Prosecutor, Prosecutor's Office, Court 
+in Grasse 
+1993-1995 - Assistant Prosecutor, Prosecutor General's Office, 
+Court of Appeal in Caen 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+January, April, November 2004 - Washington D.C., U.S. 
+presidency of G8 
+1998-2000 - New York City, various trips to UN Headquarters 
+1991 - New York City and Los Angeles, 4 weeks vacation 
+ 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+- The Hague, NL - work at Eurojust March - October 2003 
+- Brussels - work at Council of the European Union April 2001 
+- February 2003 
+- Austria, Uzbekistan, Bulgaria - missions with Interpol and 
+with the EU 
+- Italy, Spain, Canada, Bahamas, Guatemala, Morocco, Tunisia, 
+Mexico, Caribbean, Island - vacation 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1987 - MA Law (Private), Faculty of Law, Toulouse, France 
+1986 - Under Erasmus Exchange Program, 3 months at the 
+University of Brighton Sussex, UK 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 3 
+ENGL-SPEAK: 3 
+ENGL-COMP: 3 
+START OTHER-LANGS: 
+OTHER-LANG: Spanish 
+OTHER-LANG-ID: QB 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Isabel Arnal has long worked with the Prosecutor General of 
+Paris, M. Yves Bot, who until recently was the Prosecutor of 
+Paris.  She works with M. Bot and with his successor, M. Jean- 
+Claude Marin (who was promoted to that post from his prior 
+position as Director of the Criminal Division of the French 
+Justice Ministry).  These two prosecutors head the most 
+powerful prosecutor offices in France, in that the great 
+majority of organized crime, financial crime and virtually all 
+terrorism prosecutions go through these offices.  So, Ms. 
+Arnal works closely with key leaders in the French judicial 
+system, where she advises them on international policy and 
+participates in significant international law enforcement 
+undertakings, such as the G8 Lyon-Roma Group (where she chairs 
+the Criminal-Legal Affairs Subgroup) and Eurojust (the EU 
+mechanism for integrating prosecution efforts at the EU 
+level).  As a result, she can play a role in influencing 
+French law enforcement policies, and given her close 
+relationship with Bot and Marin, her future advancement in the 
+policy structure seems likely. 
+In terms of what she would do in the U.S., I would 
+particularly want her to see the workings of federal law 
+enforcement agencies like FBI and ICE, US Attorney Offices, 
+and federal courts, as it will facilitate her understanding of 
+how our law enforcement agencies work and therefore how her 
+offices can best cooperate with us.  These kinds of visits w 
+ill be very useful given that the Paris PG and Prosecutor's 
+offices are operational units working on real life organized 
+crime, terrorism, drug and financial crime cases. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Kenneth Harris 
+START MEMO NOMINATING-JUSTIFICATION: 
+Ms. Arnal is the advisor on international matters to the 
+Prosecutor of Paris, the key prosecution service in France. In 
+this position, and as the chairperson of the G8 Lyon and Rana 
+Group's subgroup on criminal and legal affairs, she has the 
+ability to influence a wide variety of French law enforcement 
+officials. It is believed her participation in the IVP would 
+promote a favorable view of the U.S. government and the U.S. 
+legal system. 
+Ms. Arnal can influence key components in the French law 
+enforcement establishment with respect to counter-terrorism 
+cooperation and combating of international crime. Thus, she 
+could assist in implementation of the counter-terrorism and 
+global affairs MPP goals and objectives. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: Justice Attache - U.S. Embassy Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 546 
+PERSON-ID: 445 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

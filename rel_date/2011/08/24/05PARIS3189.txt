@@ -1,0 +1,406 @@
+05PARIS3189
+FY 2006 IVLP - NOMINATION AND PART I BIODATA ONE
+Wed May 11 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+111348Z May 05UNCLAS SECTION 01 OF 05 PARIS 003189 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR); 
+EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP - NOMINATION AND PART I BIODATA ONE 
+PRINCIPAL CANDIDATE AND ONE ALTERNATE FOR AN INDIVIDUAL 
+PROGRAM "JOURNALIST ON FOREIGN POLICY AND THE U.S. SOCIETY". 
+ 
+REF: 
+ 
+POST WOULD LIKE TO NOMINATE ONE PRINCIPAL CANDIDATE FOR 
+SUBJECT PROGRAM: MR. LUCAS MENGET. ONE ALTERNATE IS NOMINATED 
+FOR SUBJECT: MR. ERWAN GUEHO. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 282 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - INDIVIDUAL Program for Journalist on 
+Foreign Policy and the U.S. Society 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 2 
+RANK-ORDER: 10 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Foreign Policy 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Lucas 
+M-NAME: 
+L-NAME: Menget 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Radio France Internationale 
+M-ADDR2: 116, avenue du President Kennedy 
+M-ADDR3: 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75016 
+M-ZIP: 
+M-PHONE: + (33) 1.56.40.52.23 
+M-FAX: + (33) 1.56.40.44.61 
+M-EMAIL: lucas.menget@rfi.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 12/24/1974 
+MAR-STAT: M 
+BIRTH-CITY: Chambray-les-Tours 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Foreign Reporter, Radio France Internationale - RFI, since 
+1999 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Secretary General of the association "Lire dans le noir" (read 
+ 
+SIPDIS 
+in the dark) 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1997-1998 - Night reporter at France-Info Radio and France 2 
+Television 
+1996 - Reporter for France-Inter Radio 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+New York City - September 11, 2001 - a couple of weeks 
+reporting 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+- Kosovo - 1999 reporting 
+- Albania - 2001 reporting 
+- Kuwait - 2003 reporting 
+- Jordan, Iraq, Israel - 2003-2004 reporting 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1998 - Graduated from Paris School of Journalism 
+1995 - University degree in History 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 3 
+ENGL-SPEAK: 3 
+ENGL-COMP: 3 
+START MEMO NOM-POST-OBJ: 
+The editorial line of widely listened to Radio France 
+Internationale is sometimes critical of the United States on a 
+range of foreign policy issues.  Criticism includes US 
+policies in the broader Middle East.  Lucas Menget, who has 
+spent time in Iraq, as well as other countries in the region, 
+reports often on Middle Eastern issues, and it would be useful 
+to have him meet US experts and officials who could explain 
+U.S. initiatives and interests in the area.  It would also be 
+useful for him to learn about Muslim Americans and their 
+integration into American life.  Beyond the Middle East, 
+Menget also reports on other foreign policy issues that often 
+touch upon the United States.  He should better know the 
+"players" who influence to some degree U.S. policy 
+considerations.  He is interested, for example, in demographic 
+issues such as our expanding Hispanic population and how they 
+broadly affect US policy considerations.  He is also 
+interested in American volunteerism and civic and humanitarian- 
+minded efforts.  He would like to better understand small town 
+America's interests and concerns, given that population's 
+broad support for President Bush in the 2004 election. 
+An individual IV program that focused on his areas of interest 
+and allowed him access to federal, state and local officials, 
+members of congressional committees, academics and analysts, 
+as well as community leaders would enhance his understanding 
+of the many considerations and influences that go into the 
+formulation of US foreign policy.   His enhanced understanding 
+would, we believe, eventually be reflected in more nuanced and 
+informed reporting on issues pertaining to the United States 
+for RFI's huge international and domestic audience. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Michele Carteron 
+START MEMO NOMINATING-JUSTIFICATION: 
+Lucas Menget is a young foreign affairs journalist with a 
+promising future as a foreign editor and/or the U.S.-based 
+correspondent for Radio France Internationale, France's 
+equivalent to the VOA or BBC.  RFI is seen as a reliable 
+source of information worldwide, broadcasting in many 
+languages other than French.  Listernship is estimated to be 
+some 30 million people, with an important audience in Africa 
+and the Middle East.  Menget's reports, often but not 
+exclusively on Middle Eastern topics, are aired in the key 
+news programs on a regular basis. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: PA - U.S. Embassy Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: NONE 
+NOMINEE-ID: 568 
+PERSON-ID: 467 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: N 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Erwan 
+M-NAME: 
+L-NAME: Gueho 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: No 
+M-ADDR1: Nord-Eclair 
+M-ADDR2: 42, rue du General Darrail 
+M-ADDR3: 
+M-CITY: Roubaix 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 59100 
+M-ZIP: 
+M-PHONE: + (33) 3.20.25.62.77 
+M-FAX: + (33) 3.20.25.62.83 
+M-EMAIL: erwan.gueho@nord-eclair.com 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 01/20/1973 
+MAR-STAT: S 
+BIRTH-CITY: Lorient 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Head of News, regional daily "Nord-Eclair", since 2001 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1998-2001 - Journalist at Nord-Eclair 
+1997 - Intern at the French Navy's journal "Cols Bleus" 
+1996 - temporary at France 3 Auvergne (regional television) 
+July 1996 - temporary at "Les Echos" (written press) 
+August 1995 - temporary at "Ouest France" (written press) 
+1995 - temporary at France 2 (national television) 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+- Poland (Warsaw, Cracow) - May and October 2004, professional 
+trip 
+- Germany (Berlin) - October 2004, professional trip 
+- Spain - Summer 2004, personal trip 
+- Norway - Winter 2002, professional trip 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1994-1996 - Post Graduate in Journalism at CELSA (Studies of 
+Information Sciences and Communication, Paris University of La 
+Sorbonne) 
+1991-1994 - Graduate from the Institute of Political Studies 
+of Rennes 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Vice-President of the "Nord-Eclair" association of journalists 
+Co-founder of the European association of journalists 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+Numerous newspaper articles 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 2 
+ENGL-SPEAK: 2 
+ENGL-COMP: 2 
+START OTHER-LANGS: 
+OTHER-LANG: German 
+OTHER-LANG-ID: GM 
+READ: 3 
+SPEAK: 2 
+COMP: 3 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+An International Visitor Program (IVP) for Erwan Gueho would 
+address the MPP Strategic Goal of Public Diplomacy and Public 
+Affairs, Strategy 1 ("A Mission-wide, integrated, 
+comprehensive network of outreach to audiences - directly, 
+through the media, and via the Internet - supported and 
+enhanced by relationships created through personal contact, 
+exchanges, and other cooperative programs.") Through the IVP, 
+¶M. Gueho would learn directly from responsible officials about 
+the U.S. government's perceptions of various aspects of its 
+foreign policy, allowing him to broaden his understanding of 
+policies and actions that are frequently misunderstood in 
+France. This would provide the basis for more perceptive 
+analyses in his writing. His experiences in the United States 
+could also provide material for "human interest" stories about 
+Americans which would help put a "human face" on America. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Erwan Gueho would be an ideal participant in a group program 
+for journalists in French focused on foreign policy issues of 
+concern to Europe and the U.S., including counter terrorism 
+and security issues, the future of trans-Atlantic relations, 
+the changing roles of international organizations such as NATO 
+and the United Nations, and global trade. Post also recommends 
+the inclusion of visits to major U.S. museums and 
+participation in cultural and sports activities to provide the 
+broadest possible experience of life in the United States and 
+to counter persistent perceptions of the U.S. as a "cultural 
+wasteland". 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Richard Huckaby 
+START MEMO NOMINATING-JUSTIFICATION: 
+Erwan Gueho is a serious and dedicated young reporter for the 
+regional daily Nord Eclair. One of his continuing 
+responsibilities is the "World" section of the paper. During 
+the run-up to the 2004 U.S. presidential election, he created 
+an accurate and widely read series of articles on the 
+electoral process, as well as details concerning the positions 
+of the major candidates. The fact that he contacted the APP 
+and the IRC in Paris for information indicates the seriousness 
+and dedication with which he approaches his work, as does the 
+fact that he is almost always present at seminars and 
+conferences involving international topics. Since he writes 
+for Nord Eclair, the second largest regional daily in the 
+North, his work reaches a large audience over a wide 
+geographical region. In a recent conversation, the Editor-in- 
+Chief of the paper indicated his confidence that M. Gueho 
+would be a leader in the field. For this reason, it is 
+important that the U.S. government build on the positive 
+relationship already established with this rising young 
+reporter by providing him the opportunity to gain firsthand 
+knowledge of the United States, which he has never visited, 
+and to discuss foreign policy issues with officials in 
+Washington. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Lille, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: INTERPRETER 
+NOMINEE-ID: 569 
+PERSON-ID: 468 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: I 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

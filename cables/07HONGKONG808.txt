@@ -1,0 +1,160 @@
+07HONGKONG808
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Wed Mar 21 00:00:00 +0100 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #0808/01 0800931
+ZNR UUUUU ZZH
+R 210931Z MAR 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 1024
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000808 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+ADVANCE TECH INTERNATIONAL 
+ 
+REF: A) USDOC 00993 
+ 
+1.Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of 
+the Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO), accompanied by Commercial 
+Assistant, Sandy Lai, conducted a post shipment 
+verification (PSV) at Advance Tech International Ltd. 
+(Advance Tech), 16/F, 200 Gloucester Rd., Wanchai, 
+Hong Kong. The items in question are 21 monolithic 
+integrated circuits valued at USD 4,410.  The export 
+control classification number (ECCN) for these items 
+is listed on the applicable DHL Air Waybill for the 
+shipment as 3A001.b2b.  Items properly classified as 
+3A001.b2b generally do not require a license for 
+export to Hong Kong but may require a license for 
+export/reexport to mainland China.  The exporter is 
+TLC Precision Wafer Technology of Minneapolis, 
+Minnesota (TLC). 
+ 
+¶3.  According to the Hong Kong Companies Registry, 
+Advance Tech has been in existence since 1992. 
+According to the Companies Registry, Fullmark 
+(Corporate Services) Nominees Limited is the sole 
+director of the company.  The CompanyQs authorized 
+and paid-up capital is the equivalent of 
+approximately USD 1,200. Rixomax (HK) Limited is 
+collocated at the same address and shares the same 
+director.  According to that companyQs web site 
+(www.ricomax.com), Ricomax is a global product 
+trading company specialized in the trade of various 
+consumer goods.  A Hong Kong Trade Development 
+Council profile on both companies lists Mr. Miron 
+Yakuel as director in both companies. 
+ 
+¶4.  The ECO, accompanied by Commercial Assistant 
+Sandy Lai, visited Advance Tech at the address 
+referenced above on February 16, 2007 and met with 
+Michael Cheung and Jose Lam.  Messrs Cheung and Lam 
+provided background on Advance Tech and its business 
+and the proposed end-use of the items.  They stated 
+that their manager had hoped to meet but was out 
+sick.  They stated that Advance Tech is involved in 
+data communications R&D projects including work on 
+wireless modems.  Advance Tech has 8-10 employees in 
+Hong Kong, primarily working on accounting and 
+procurement related matters.  They stated that there 
+is no relationship between the activities of Ricomax 
+and Advance Tech except that they share office spaceand an internet domain (their business cards use te 
+Qricomax.comQ domain).  By follow-up e-mail, M.Cheung clarified that Anat Yakuel is the Qmajo 
+shareholderQ of both Ricomax and Advance Tech. 
+¶5.  When asked about the proposed use of the item, 
+Mr. Cheung provide the ECO a document entiled QLast 
+MileQ.  That document (without any corporate 
+identification or logo of any kind) states that the 
+Qgoal of this start-up is to provide a fixed wireless 
+V&VoIP (voice and video over IP) connectivity from 
+rural towns to dense populated metropolitan areas. 
+Mr. Cheung stated that Advance Tech is in the R&D 
+phase of this project and uses one engineer stationed 
+in Mainland China as well as freelance engineers in 
+mainland China to complete the R&D on an Qas-needed 
+basis.  It has no production or other operation in 
+mainland China although one Advance Tech engineer is 
+based in the mainland.  Advance TechQs practice is to 
+hand carry components to the mainland to provide to 
+the engineers for their R&D work.  If the R&D project 
+is successful, the company intends to sell the 
+project to investors.  Mr. Cheung stated that Advance 
+Tech is only working on this project for now. 
+Previously, the company worked on another R&D project 
+that failed and was discontinued.  As to this 
+project, they are still ordering components for the 
+project in order to finalize it. 
+ 
+¶6.  Mr. Cheung showed the ECO what appeared to be the 
+circuits (there were 50 in total) in a small box.  In 
+addition, Mr. Cheung subsequently provided the ECO 
+(by e-mail attachment), two DHL Air Waybills (No. 759 
+8065 812 and 7598065801 dated August 11, 2006 and 
+ 
+ 
+September 8, 2006 respectively).  By that same e- 
+mail, he also provided a copy of an invoice from TLC 
+indicating that a total of 50 of the items had been 
+sold to Advance Tech.  It appears this PSV was 
+requested only on the September 8, 2006 shipment. 
+ 
+¶7.  The QLast MileQ document provided by Advance Tech 
+lists the most important components for the project. 
+ Those components include the items that are subject 
+of this check. They also include 50 Agilent HMMC-3040 
+mixers, 100 Triqunit TGA-1073A pre-amplifiers, 100 
+Triqunit TGA-1141 amplifiers, 50 Alpha ATN 3580-20 
+attenuators, 100 Hittete HMC329 mixers, 100 UMS CHA- 
+2098b amplifiers and 50 UMS CHA-2095a amplifiers. 
+All of these items, except the UMS items, are listed 
+as being supplied from the United States.  Mr. Cheung 
+stated that Advance Tech had already received 
+virtually all of the items in question. The ECO 
+recommends that commodity classifications of these 
+items be obtained to ascertain whether licenses were 
+required to export these items to Advance Tech. A 
+TriQunit data sheet on the TGA 1141 states that one 
+of the primary applications of this item is use in 
+military radar systems. 
+ 
+¶8. The ECO provided Messrs Cheung and Lam with 
+information about U.S. export controls and further 
+recommended that the company research further whether 
+Hong Kong export control laws may be implicated by 
+the import and export of these items (the ECO 
+believes they likely are).  The ECO stressed that it 
+is important that the company understand U.S. export 
+control requirements and provided contact information 
+both in Hong Kong and at BIS headquarters where such 
+information could be obtained.  It did not appear 
+that the company was aware of U.S. export control 
+requirements prior to the ECOQs visit. 
+ 
+¶9.  While Advance Tech cooperated with the PSV and 
+provided the requested information concerning the 
+final disposition of the items, based on the totality 
+of the facts referenced above, the ECO recommends 
+that this PSV be classified as Unfavorable. 
+Cunningham

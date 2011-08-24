@@ -1,0 +1,213 @@
+05PARIS2910
+France: Telecom and Information Technology Update
+Fri Apr 29 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 PARIS 002910 
+ 
+SIPDIS 
+ 
+STATE FOR EB/CIP AND INR/B 
+USDOC FOR NTIA AND ITA 
+FCC FOR INTERNATIONAL 
+STATE PLEASE PASS TO USTR 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD FR
+SUBJECT: France: Telecom and Information Technology Update 
+ 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+¶1. This is another in a series of periodic updates on the 
+French telecommunications and information technology 
+sectors, including internet and e-commerce. 
+ 
+Contents: 
+-- France Telecom's debt on the rise (para 2) 
+-- GOF technology and information society office merged with 
+regional and small business administration (para 3) 
+-- France's antitrust watchdog wants more open mobile market 
+(para 4) 
+-- Tele2 France to launch mobile offering (para 5) 
+-- FT's Orange EDGEs way to business community (para 6) 
+-- Cegetel resumes merger talks with Neuf Telecom (para 7) 
+-- Alcatel tests WiMax in France (para 8) 
+-- ART launches public consultations on professional mobile 
+networks (para 9) 
+-- FT to select single global advertising firm (para 10) 
+-- French resistance to (what they see as a) "hyperpuissant" 
+(over-dominant) Google (para 11) 
+ 
+¶2.  France Telecom's debt on the rise:  France Telecom (FT) 
+has seen its debt rise by 6 billion Euros to 49.9 billion 
+Euros (one euro equals 0.77 dollars), as it conforms to new 
+International Financial Reporting Standards (IFRS) 
+accounting rules.  The aim of the new rules is to harmonize 
+the global presentation of financial results, making it 
+easier to compare companies across borders.  Under the new 
+IFRS rules, FT's 2004 operating profit has been reduced to 
+9.3 billion Euros from 10.8 billion Euros previously.  FT 
+said the move to International Financial Reporting Standards 
+would not impact its ongoing operating performance.  FT is 
+in the third and final year of a recovery plan to reduce its 
+debts to less than 40 billion Euros by 2006.  The firm built 
+up its vast debts due to an ambitious expansion plan in the 
+late 1990s.  Its debt peaked at nearly 70 billion euros in 
+¶2002. 
+ 
+¶3.  GOF technology and information society office merged 
+with regional and small business administration:  A 
+Government order published earlier this year provided 
+details on the on-going reorganization of the French 
+Ministry of Economy, Finance and Industry.  As part of that 
+effort, the familiar DIGITIP ("Direction General de 
+l'Industrie des Technologies de l'Information et des Posts") 
+and its Office of Technology and Information Society 
+("Service des Technologies et de la Societe de 
+l'Information" - STSI) have been merged with the office for 
+regional business and small and medium-sized industrial 
+enterprises.  Since the merger, the new entity is called the 
+General Enterprise Directorate ("Direction General des 
+Entreprises") in charge of business policy, information and 
+advocacy of innovation and entrepreneurship.  STSI is still 
+responsible for electronic components, electronics, computer 
+and audiovisual equipment, electronic communications, 
+information society and space.  Also, the organization of 
+STSI remains the same with four separate bureaus or "sub- 
+directorates": 1) networks, multimedia and on-line 
+communications; 2) components, software and professional 
+electronics; 3) regulation of electronic communications and 
+forecast and analysis; 4) institutional relations.  STSI is 
+not located within the main Ministerial offices, but as 
+before in a close by annex. 
+ 
+¶4.  France's antitrust watchdog wants more open mobile 
+market:  Arguing that France's mobile phone market remained 
+dominated by three companies (France Telecom's Orange, 
+SFR/Cegetel, and Bouygues Telecom), France's competition 
+watchdog, the Competition Council, in early April called on 
+French telecoms regulator ART to intervene.  The Competition 
+Council reportedly sees elements of collusion by the three 
+mobile phone operators, particularly in the wholesale 
+market.  In an effort to break this collective dominant 
+position, ART has examined giving more space to mobile 
+virtual network operators (MVNOs). These operators have no 
+mobile networks of their own, but they rent minutes 
+wholesale from the network operators and sell them to 
+consumers at a lower cost, undercutting the incumbents' 
+offer on the market.  This opens up the possibility of 
+further liberalization of the French mobile phone market, 
+lowering costs for consumers but eroding the profit margin 
+of operators. 
+ 
+¶5.  Tele2 France to launch mobile telephony offering: 
+Telephone operator Tele2 France announced in early April 
+that it had signed a mobile virtual network operator 
+agreement of the enhanced service provider type with Orange 
+France.  No financial details were disclosed.  Tele2 France 
+will launch the mobile telephony offering before the end of 
+¶2005. 
+ 
+¶6.  FT's Orange EDGEs way to business community:  France 
+Telecom subsidiary Orange will invest 200 million Euros in 
+France to shift its lower quality, mobile network 
+capabilities to high-speed data technology known as EDGE 
+(Enhanced Data for Global Evolution).  The two-year 
+investment plan, which makes Orange the first French mobile 
+operator to sell EDGE technology, is aimed at expanding 
+Orange's offering of high-speed data services, such as 
+Internet access and television programming via internet, to 
+90% of businesses with over 50 employees, and 85% of 
+individual subscribers.  EDGE does not carry as much data as 
+third generation, or 3G, technology can, but it costs 
+operators less and provides data at a speed close to that of 
+3G quality.  The launch of EDGE will reduce Orange's 
+dependency on 3G mobile technology.  It also brings the 
+number of Orange customers using Orange high-speed services 
+(via EDGE, 3G and WiFi technologies) to a total of two 
+million. 
+ 
+¶7.  Cegetel resumes merger talks with Neuf Telecom:  French 
+fixed telecom operator Cegetel, has resumed merger 
+negotiations with rival Neuf Telecom.  Talks originally fell 
+through last year over price and management issues.  (See 
+our April 2004 edition for more details.)  If successful, 
+the merger would signal further consolidation in the French 
+telecoms market, as telecom operators seek to boost their 
+broadband offerings.  In mid-April 2005, Italian incumbent 
+Telecom Italia acquired Tiscali's French internet subsidiary 
+Liberty Surf, which exceeds both Cegetel and Neuf Telecom in 
+its number of ADSL subscribers.  The merged company would 
+become the largest broadband internet provider after the 
+market leader, France Telecom's Wanadoo.  With a high demand 
+for broadband services, competition for new customers has 
+been intense and operators have been slashing prices. 
+ 
+¶8.  Alcatel tests WiMax in France:  In early April, French 
+telecoms equipment manufacturer Alcatel signed a partnership 
+agreement with Paris airports service provider ADP Telecom 
+for a trial of WiMAX technology.  ADP is to manage the pilot 
+networks, which will be deployed across a number of airports 
+in France.  ADP said it would use the fixed and nomadic 
+aspects of WiMAX as a complementary technology to its 
+existing WiFi offerings, and as a method of delivering 
+mobile applications across a greater distance.  The news 
+follows an announcement last month that French telecoms 
+regulator ART has been preparing the means of allocating new 
+frequencies in the 3.4-3.8GHz band for the deployment of WLL 
+networks to allow for the development of WiMAX technologies. 
+The regulator said that the auctioning of such spectrum was 
+one possible option, although the authority has not yet set 
+a date for the tender of the licenses. 
+ 
+¶9.  ART launches public consultations on professional mobile 
+networks:  On April 12, France's telecoms regulator ART 
+launched consultations on the introduction of broadband 
+terrestrial mobile service networks, with specific features, 
+such as independent Private Mobile Radio or PMR networks, 
+which include alternating voice services (push to talk), 
+group calls, voice and data services in packet mode; and 
+Public Access Mobile Radio or PAMR networks, which are open 
+to the public and carry PMR functions.  This consultation is 
+part of the move to shift mobility to high speeds.  Although 
+it covers both independent PMR and  PAMR networks, the 
+question of whether to introduce open to the public PAMR 
+networks (in the 450-470 MHz band) is the primary subject of 
+the consultations.  Based on responses, ART will be able to 
+establish the method and means of allocating available 
+frequencies for broadband PMR/PAMR networks in autumn 2005, 
+and launch an allocation procedure by wintertime. 
+ 
+¶10.  FT to select single global advertising firm:  France 
+Telecom will soon appoint a single advertising agency to 
+globally market all of its communications brands, including 
+Orange and Wanadoo.  Company executives have said that they 
+will meet with some 30 contenders in Paris, and the winner 
+will be announced this summer.  The successful agency will 
+develop a global ad strategy that sources have described as 
+"France Telecom's grand plan" and could involve a 
+rebranding.  There is ongoing speculation that Orange and 
+Wanadoo are considering merging their businesses in the UK 
+following talks that began in 2004. 
+ 
+¶11.  French resistance to (what they see as a ) 
+"hyperpuissant" (over-dominant) Google:  In a replay of his 
+stillborn efforts two years ago to create a French version 
+of CNN, President Chirac called on his Culture Minister and 
+on the Head of France's National Library to create a 
+homegrown effort to scan and digitize French texts so that 
+they can be viewed on the Internet.  This move follows 
+Google's announcement last December to scan millions of 
+books and periodicals into its search engine over the next 
+few years.  In an unrelated development, Google recently met 
+with another type of French resistance, this time from two 
+travel companies, Luteciel and Viaticum.  The two companies 
+successfully challenged Google's practice of selling 
+Internet advertising from rivals designed to appear with Web 
+searches for the trademarked Web site name "Bourse des 
+Vols," or flight exchange.  In March, A French Court of 
+Appeals found Google guilty of "trade counterfeiting."  This 
+is an important precedent in a country where 15 similar 
+cases are still pending. 
+ 
+WOLFF

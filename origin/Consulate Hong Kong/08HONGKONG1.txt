@@ -1,0 +1,143 @@
+08HONGKONG1
+EXTRANCHECK: POST SHIPMENT VERIFICATION: VICTORY WAVE
+Wed Jan 02 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0004
+RR RUEHWEB
+
+DE RUEHHK #0001/01 0020323
+ZNR UUUUU ZZH
+R 020323Z JAN 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 3773
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000001 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: VICTORY WAVE 
+HOLDINGS 
+ 
+REF: A) USDOC 09765 B) HK 02563 C) HK 03094 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO), conducted 
+a post shipment verification (PSV) at Victory Wave Holdings, Unit 
+2401A Park-In Commercial Centre, 56 Dundas Street, Kowloon, Hong 
+Kong (Victory Wave). The items in question are isolators exported to 
+Victory Wave on or about September 27, 2007 and collectively valued 
+at approximately USD 9,600.  The items are likely not on the 
+Commerce Control List (EAR99) and are therefore likely only 
+controlled to restricted destinations and to restricted 
+end-users/uses.  Mica Microwave of Manteca, California was the 
+exporter. 
+ 
+¶3.  As further detailed in reftel B, Victory Wave is related to Hong 
+Kong company Centre Bright.  Centre Bright is included in the BIS 
+Unverified List of companies where the U.S. government has been 
+unable to complete a PSV or pre-license check (PLC) for reasons 
+outside of the control of the U.S. government.  Victory Wave is 
+further related to Exodus Microelectronics Company Limited, Echelon 
+Microsystems Limited and Omniway Technology Limited.  In particular, 
+Hong Kong resident, Wong, Yung Fai is a director of Victory Wave, 
+Exodus, Echelon and Omniway.  As further noted in reftel B, the 
+registered addresses of Victory Wave, Exodus, Omniway and Echelon 
+are all locations of SBC International, a business registration 
+services provider. 
+ 
+¶4.  On November 30, 2007, the ECO, accompanied by Commercial 
+Assistant Carrie Chan, met with Mr. Wong at the Victory Wave 
+registered address (which is also one of the offices of SBC 
+International). The meeting occurred in a small conference room of 
+SBC.  ECO surmises that Mr. Wong does not have an office at this 
+address but rather uses the services of SBC for corporate 
+registration purposes and to hold meetings, when a meeting space is 
+needed.  Mr. Wong stated that he did not have a business card to 
+exchange with the ECO. 
+ 
+¶5.  Mr. Wong stated that Victory Wave is a new company established 
+in 2007.  It is involved in various communications projects.  Some 
+of those projects are in Shanghai.  He stated that he has two 
+partners in this company, both of whom are located in the mainland. 
+The Hong Kong office operates only as a procurement base for the 
+projects in the mainland.  He stated that some procurement is also 
+conducted from Shanghai. Mr. Wong further stated that the SBC 
+premises are his offices and when he is in Hong Kong, he uses these 
+premises to conduct his business. 
+ 
+¶6.  With respect to this particular shipment, Mr. Wong stated that 
+Victory Wave procured these items on behalf of a Shenzhen company, 
+Shenzhen Hongdu Industry Co.  Victory Wave's Shanghai partners had 
+referred that company to him.  The items were for use in what he 
+described as a communication project.  Mr. Wong declined to provide 
+any additional information about the end use. 
+ 
+¶7.  As noted in reftel C, Mainland Chinese entity Hongtu Group is 
+the holding company for a range of companies with similar names to 
+Shenzhen Hongdu Industry Co. including Shenzhen Hongtu Hangyang 
+Technology Co. Ltd.  Those companies are involved in a range of 
+activities including the distribution of hard to find and military 
+electronic components and ICs. 
+ 
+¶8.  When asked about Centre Bright, Mr. Wong stated that he is aware 
+of the company and that it is also a sourcing company.  He stated 
+that he has no direct contact with this company.  When asked whether 
+he is familiar with Exodus, Omniway and Echelon, Mr. Wong stated 
+that he knows nothing about these companies.  He stated that Victory 
+Wave is his only company in Hong Kong.  When the ECO presented Mr. 
+Wong with Hong Kong Company Registry printouts showing that he is 
+the director of each of these companies, Mr. Wong conceded that he 
+is the director of these companies.  He stated that these companies 
+are the companies of his friends.  He further stated that they are 
+not related to Centre Bright. 
+ 
+¶9.  When asked to explain why he is the director of several 
+companies in Hong Kong, Mr. Wong stated that each of the companies 
+is set up to support different projects with different partners. 
+When asked to describe those projects, Mr. Wong would only state 
+that the projects involved system integration and refused to provide 
+further details. 
+ 
+¶10.  Mr. Wong stated that his mainland partners send customers to 
+him that he services through the Hong Kong companies.  He stated 
+that Hong Kong has a reputation for quality with mainland Chinese 
+buyers and he therefore sells product into mainland China through 
+ 
+ 
+Hong Kong.  He further stated that Victory Wave is the primary 
+vehicle for sourcing items outside of China.  With respect to the 
+additional companies, Mr. Wong stated that those companies source 
+items in mainland China for resale into mainland China.  He further 
+stated that those companies never source items from the United 
+States.  Note:  In fact, based on information provided by OEA, it is 
+clear that at least Exodus also sources various components from the 
+United States. 
+ 
+¶11.  In light of the recent registration and business practices of 
+Victory Wave, Exodus, Echelon and Omniway, ECO strongly suspects 
+that these companies have been established to circumvent the listing 
+of Centre Bright on the BIS Unverified List.  ECO recommends that 
+OEA conduct a thorough review of shipments to these companies as 
+well as shipments to the addresses of those companies.  ECO further 
+recommends that OEA consider a review of shipments to all of the 
+Hong Kong addresses of SBC International as ECO suspects that 
+additional procurement entities may be using SBC addresses as their 
+business premises (www.sbc.com.hk).  ECO also recommends that 
+Victory Wave, Exodus, Echelon and Omniway be added to the Unverified 
+List. 
+ 
+ 
+Cunningham

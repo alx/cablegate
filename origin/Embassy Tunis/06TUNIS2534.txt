@@ -1,0 +1,85 @@
+06TUNIS2534
+HACKERS BREAK THE CODE TO AL-JAZEERA SPORTS CHANNEL
+Wed Oct 11 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Tunis
+VZCZCXRO5765
+PP RUEHDE RUEHTRO
+DE RUEHTU #2534 2841352
+ZNR UUUUU ZZH
+P 111352Z OCT 06
+FM AMEMBASSY TUNIS
+TO RUEHC/SECSTATE WASHDC PRIORITY 2002
+INFO RUEHAD/AMEMBASSY ABU DHABI PRIORITY 0802
+RUEHAS/AMEMBASSY ALGIERS PRIORITY 7305
+RUEHLO/AMEMBASSY LONDON PRIORITY 1194
+RUEHFR/AMEMBASSY PARIS PRIORITY 1647
+RUEHRB/AMEMBASSY RABAT PRIORITY 8231
+RUEHTRO/AMEMBASSY TRIPOLI PRIORITY 0403
+RUEHCL/AMCONSUL CASABLANCA PRIORITY 4002
+RUEHDE/AMCONSUL DUBAI PRIORITY 0118
+RUEATRS/DEPT OF TREASURY WASHINGTON DC PRIORITY
+RUEHC/DEPT OF LABOR WASHDC PRIORITY
+RUCPDOC/USDOC WASHDC PRIORITYUNCLAS TUNIS 002534 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+NEA/MAG FOR MAYA HARRIS, EB/IPE 
+USDOC FOR ITA/MAC/ONE (ROTH) 
+CASABLANCA FOR (FCS ORTIZ) 
+LONDON, PARIS FOR NEA WATCHER 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ETRD KIPR AG FR MO TC UK TS
+SUBJECT: HACKERS BREAK THE CODE TO AL-JAZEERA SPORTS CHANNEL 
+ 
+REF: A. 04 TUNIS 2698 
+     ¶B. TUNIS 2140 
+     ¶C. TUNIS 1818 
+     ¶D. TUNIS 1741 
+     ¶E. TUNIS 1590 
+ 
+¶1. According to an As-Sabah Al-Ousboui newspaper article 
+published September 25, 2006, Tunisian hackers have been able 
+to break the encryption code for Al-Jazeera Sports Channel 
+and are now selling bootleg access cards at cut-rate prices. 
+The article tells its readers where they can go to procure 
+the bootleg access card containing the decoded access to 
+Al-Jazeera programs. 
+ 
+¶2.  Al-Jazeera Sports is a popular Arabic-language sports 
+channel launched in November 2003 by the well-known 
+Al-Jazeera news channel.  It has quickly grown to be the most 
+popular sports channel in the Middle East and has covered a 
+wide range of major international sporting events such as the 
+2006 African Cup of Nations (soccer).  It is based in Qatar 
+and started encrypting its signal in August 2005.  Legitimate 
+viewers in Tunisia purchase the Al-Jazeera Sports Channel 
+card ("Irredetto") for TD80 (US61.54) at Moncef Bey market, a 
+well-known parallel market in Tunis (ref A).  The card is 
+valid for one year.  The hackers have succeeded in decoding 
+the legitimate card and have copied the code onto a 
+"Viaccess" card.  The newspaper tells readers that if they 
+want to decode the programs on Al-Jazeera Sports Channel, all 
+they have to do is buy the decoded bootleg "Viaccess" card 
+once a year until 2010 at a cost of TD30 (US24) per year. 
+ 
+¶3.  Comment:  While the news article is not telling readers 
+how to decode the signal to the Al-Jazeera Sports Channel, it 
+is informing them about where they can go to buy the bootleg 
+"Viaaccess" card containing the Al-Jazeera Sports Channel 
+codes.  In effect, this gives bootleg card buyers access to 
+the sports channel without having to pay the higher price of 
+a legal access card or royalties associated with it.  The 
+fact that this article was openly published in a Tunisian 
+newspaper, even an "independent" one, sends a  clear signal 
+that, in spite of IPR progress on other fronts (reftels B 
+thru E), the GOT still condones the practice of pirating 
+satellite access cards.  (Note: The GOT exercises strict 
+control over all newspapers, whether government owned or 
+nominally independent.)  Hackers apparently have no fear of 
+being prosecuted for breaking and selling the codes openly. 
+End comment. 
+BALLARD

@@ -1,0 +1,215 @@
+09BEIJING1210
+TFFLU01: H1N1 INFLUENZA OUTBREAK - CHINA SITREP # 5
+Wed May 06 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Beijing
+VZCZCXRO7522
+RR RUEHCN RUEHDT RUEHGH RUEHPB RUEHVC
+DE RUEHBJ #1210/01 1261034
+ZNR UUUUU ZZH
+R 061034Z MAY 09
+FM AMEMBASSY BEIJING
+TO RUEHC/SECSTATE WASHDC 3836
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUEAUSA/DEPT OF HHS WASHINGTON DC
+RUEHRC/DEPT OF AGRICULTURE WASHDC
+RUCPDOC/DEPT OF COMMERCE WASHDC
+RUEATRS/DEPT OF TREASURY WASHINGTON DC
+RHMFIUU/DEPT OF HOMELAND SECURITY WASHINGTON DC
+RUEKJCS/SECDEF WASHDC//USDP/ISA/AP//
+RHEHNSC/NSC WASHDC
+RUCNARF/ASEAN REGIONAL FORUM COLLECTIVE
+RUEHPH/CDC ATLANTA GA
+RUEAIIA/CIA WASHDC
+RHEFDIA/DIA WASHINGTON DC
+RHMFISS/CJCS WASHINGTON DC//J2/J3/J5//
+RHMFIUU/CDR USPACOM HONOLULU HI//J00/J2/J3/J5//UNCLAS SECTION 01 OF 03 BEIJING 001210 
+ 
+HHS FOR OGHA 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: KFLU AEMR ASEC CASC KFLO TBIO KSAF KPAO PREL PINR
+AMGT, MG, EAGR, HHS, TF, CH 
+SUBJECT:  TFFLU01: H1N1 INFLUENZA OUTBREAK - CHINA SITREP # 5 
+ 
+REF: A) BEIJING 1197  B) STATE 45269  C) BEIJING 1191 
+D) BEIJING 1171   E) HONG KONG 802 
+ 
+ 
+AMERICANS IN QUARANTINE, QUARANTINE CHARGES, AND NOTIFICATION 
+--------------- ------------------------- ------------------ 
+ 
+¶1. (U) As of COB on May 6 Beijing Time, there are no confirmed cases 
+of infection of humans or livestock by the A/H1N1 influenza virus on 
+Mainland China.  One case was confirmed in Hong Kong on May 1 (REF 
+E). 
+ 
+¶2. (SBU) Two American citizens remain under quarantine. 
+ 
+--A 38 year-old female has been in quarantine in a local hospital in 
+Yiwu, Zhejiang Province (5 hour drive southwest of Shanghai) since 
+early morning hours of Friday May 1.  She has remained in contact 
+with ConGen Shanghai and reports that she is now set to be released 
+on Thursday, May 7, local time, which will be the end of a seven-day 
+quarantine period, the standard used by the Chinese. 
+ 
+--A 20 year-old male has been in quarantine in Beijing at Ditan 
+Hospital since afternoon of Saturday May 2.  Hospital officials 
+informed Post on May 6 that his quarantine period will end on Monday 
+May 11, not May 9, as he was originally told. 
+ 
+¶3. (SBU) Ditan Hospital now does not intend to release the American 
+citizen currently in quarantine there until May 11, which is past 
+the previously-understood seven-day quarantine period.  Doctors now 
+claim the seven-day period began on May 4, when the patient last 
+reportedly showed "fever symptoms," not May 2, the day he was placed 
+into quarantine upon arriving by air from the United States. 
+ 
+¶4. (SBU) The same American citizen also was asked on May 6 to 
+provide a medical insurance card and told that he will receive a 
+bill charging him for medical and incidental costs incurred during 
+his quarantine in Ditan Hospital.  Ditan Hospital officials informed 
+Beijing ACS that this reflects the policy of the Beijing Municipal 
+Government.  Beijing ACS has requested that the Ministry of Foreign 
+Affairs provide confirmation and justification of this policy in 
+writing.  (NOTE:  The Mexican Embassy reported that the Mexican 
+nationals who were released from quarantine and returned to Mexico 
+via charter flight on May 5 were not/not charged for costs incurred 
+during their quarantine.  The Shanghai Foreign Affairs Office 
+announced in a press conference on May 5 that all costs of 
+quarantine would be borne by "the government." Press reports 
+indicate Guangzhou also has a "free quarantine" policy in place. 
+END NOTE) 
+ 
+¶5. (SBU) Consular notification of American citizens being 
+transferred into quarantine remains uneven.  Foreign Affairs Offices 
+at the provincial and municipal levels have conveyed to Embassy 
+Beijing and consulates that they intend to notify foreign missions 
+of decisions to quarantine their nationals, and in some cases, have 
+provided 24-hour duty phone lines where inquiries can be directed. 
+There have been no new cases involving American citizens to test the 
+efficacy of this approach since last weekend. 
+ 
+¶6. (SBU)  A warden message to the American community was sent on May 
+6, advising residents and travelers of enhanced temperature 
+screening and possible quarantine procedures in place for passengers 
+arriving on international flights. 
+ 
+ 
+CHINESE CHARTER FLIGHT ARRIVES FROM MEXICO 
+----------------------------------------- 
+ 
+¶7. (U)  China National Radio reported that the charter flight 
+operated by China Southern Airlines carrying 97 passengers from 
+Mexico was set to arrive at 4:35 PM Wednesday May 6.  The report 
+also indicated that all passengers (excluding medical personnel and 
+crew that originally accompanied the charter flight from Guangzhou) 
+would be placed into quarantine for seven days of "medical 
+observation." 
+ 
+BEIJING 00001210  002 OF 003 
+ 
+ 
+ 
+ 
+THERMAL IMAGING EQUIPMENT AND QUARANTINE PROCEDURES 
+--------------------------------------------- ------ 
+ 
+¶8. (SBU) Outbreak-associated H1N1 test kits are in transit and were 
+set to arrive in China from U.S. CDC on afternoon of May 7 Beijing 
+Time.  U.S. CDC is scheduled to send three outbreak associated H1N1 
+viral isolates on May 6, Atlanta time. 
+ 
+¶9. (SBU) In response to REF B, the following information is 
+available: 
+ 
+a) Equipment used includes both handheld and fixed position 
+monitors. 
+ 
+--Beijing:  IR-235 DX FLIR handheld infrared camera; additional 
+fixed position monitors of unknown make/model. 
+ 
+--Guangzhou:  Two types are in use.  One is an infrared thermal 
+imaging system, which is manufactured domestically.  The other is a 
+portable, hand-held infrared thermometer, made by both domestic and 
+foreign manufacturers.  Make and model information is not 
+available. 
+ 
+--Shanghai:  German-manufactured Testo 845 and Testo 880 
+ 
+b) Thermal imaging equipment has been set up at airports, land 
+border crossings, and sea ports, as well as at some large event 
+venues like the China Import and Export Fair in Guangzhou (Canton 
+Fair). 
+ 
+c) Thermal imaging is used to monitor passengers from all incoming 
+international flights. 
+ 
+d) Temperature cut-off also varies: 
+ 
+--Beijing: If thermal imaging registers passenger's temperature as 
+over 37C, s/he will be brought to the negative pressure isolation 
+room for secondary temperature test. If the second test registers 
+over 37.5C, the passenger will be referred for potential quarantine. 
+ 
+ 
+--Guangzhou:  37.5 degrees Celsius 
+ 
+e)   Official response to "elevated temperatures" is as follows: 
+ 
+--If a passenger is found with an elevated temperature, s/he will be 
+asked to enter an isolation room at the border entry point for 
+initial clinical assessment. 
+ 
+--The passenger will be asked if s/he has been to countries or areas 
+where there has been a recent H1N1 outbreak.  If the answer is yes, 
+the passenger will be sent to a designated hospital for further 
+examination. 
+ 
+--If the passenger tests positive for the H1N1 virus, s/he will be 
+kept for further medical treatment.  A seven-day quarantine (medical 
+observation) will be imposed on other passengers on the same plane. 
+ 
+ 
+--If the passenger with the elevated temperature has been to an 
+H1N1-affected country/area recently and tests negative for the H1N1 
+virus, s/he will still be placed under medical observation in 
+quarantine place for seven days. Other passengers on the same plane 
+will not be quarantined. 
+ 
+--If the passenger states that s/he has not been to an H1N1-affected 
+country/area recently, and further medical examination finds no 
+other H1N1 symptoms such as cough, sore throat, or headache, there 
+will be no quarantine. 
+ 
+ 
+EXTENDED WAIT FOR U.S. CITIZENS APPLYING FOR CHINESE VISAS 
+ 
+BEIJING 00001210  003 OF 003 
+ 
+ 
+----------------------------- -------------------------- 
+ 
+¶10.  (U)  The Chinese Embassy in Washington posted a notice on its 
+official website on May 3, announcing that effective May 4, 
+processing time would be 6 business days for people applying in the 
+United States for visas to visit China.  It further stated that 
+express and rush services would be suspended and a "Declaration 
+Form" detailing travel for the previous two weeks would also be 
+required. 
+ 
+ 
+CANADIANS IN QUARANTINE 
+---------------------- 
+ 
+¶11. (SBU)  The Canadian Health Counselor reported on May 6 that 
+there currently are 20 Canadian citizens being isolated in a hotel 
+in Changchun, Jilin Province.  Local press had been reporting the 
+number as 25.  Two more Canadian nationals are being quarantined in 
+Shenzhen, Guangdong Province. 
+ 
+ 
+PICCUTA

@@ -1,0 +1,318 @@
+07SHANGHAI247
+CFETS UPDATE ON FX AND BOND MARKET DEVELOPMENTS
+Wed Apr 25 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Shanghai
+VZCZCXRO5950
+RR RUEHCN RUEHGH
+DE RUEHGH #0247/01 1150617
+ZNR UUUUU ZZH
+R 250617Z APR 07
+FM AMCONSUL SHANGHAI
+TO RUEHC/SECSTATE WASHDC 5749
+INFO RUEHBJ/AMEMBASSY BEIJING 1011
+RUEHSH/AMCONSUL SHENYANG 0592
+RUEHGZ/AMCONSUL GUANGZHOU 0567
+RUEHCN/AMCONSUL CHENGDU 0586
+RUEHHK/AMCONSUL HONG KONG 0693
+RUEHIN/AIT TAIPEI 0468
+RUCPDOC/USDOC WASHDC 0141
+RUEATRS/DEPT OF TREASURY WASHINGTON DC
+RHEHNSC/WHITE HOUSE NATIONAL SECURITY COUNCIL WASHINGTON DC
+RUEHGH/AMCONSUL SHANGHAI 6138UNCLAS SECTION 01 OF 04 SHANGHAI 000247 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE PASS FEDERAL RESERVE BOARD FOR JOHNSON/SCHINDLER; SAN 
+FRANCISCO FRB FOR CURRAN/GLICK/LUNG; NEW YORK FRB FOR 
+CLARK/CRYSTAL/MOSELEY 
+STATE PASS CFTC FOR OIA/GORLICK 
+CEA FOR BLOCK 
+USDOC FOR ITA DAS KASOFF, MELCHER AND OCEA/MCQUEEN 
+TREASURY FOR OASIA - DOHNER/CUSHMAN 
+TREASURY FOR IMFP - SOBEL/MOGHTADER 
+NSC FOR KURT TONG 
+ 
+E.O. 12958: N/A 
+TAGS: EFIN ECON PREL CH
+SUBJECT: CFETS UPDATE ON FX AND BOND MARKET DEVELOPMENTS 
+ 
+REF: A. A) 06 SHANGHAI 7096 
+     ¶B. B) 06 SHANGHAI 7091 
+     ¶C. C) 06 SHANGHAI 2384 
+ 
+(U) This cable is sensitive but unclassified and for official 
+use only.  Not for distribution outside of USG channels. 
+ 
+¶1. (SBU) Summary:  China Foreign Exchange Trading System (CFETS) 
+President Xie Duo told Embassy ECON M/C Robert Luke on April 19 
+that CFETS continued to carry out policies to make China's 
+foreign exchange (FX) trading system more market-based and 
+efficient, including: increasing the number of over-the-counter 
+(OTC) spot FX market makers from 15 to 22; updating the formula 
+for calculating the opening price (central parity rate) of the 
+RMB; launching a new Reuters-designed trading platform; and 
+revising CFETS' fee schedule to adhere more closely to 
+international norms.  A bank in Tianjin was being allowed to 
+hold net open positions shorting the USD on an experimental 
+basis.  The People's Bank of China (PBOC) was promoting the use 
+of Shanghai Interbank Offering Rate(SHIBOR)-based products, 
+launched in January, to develop a domestic benchmark and yield 
+curve.  The interbank bond market was now "very large for a 
+developing market," but the corporate bond market was still 
+underdeveloped. CFETS' application with the U.S. Commodity 
+Futures Trading Commission (CFTC) to offer Chicago Mercantile 
+Exchange (CME) products in China had run into regulatory 
+hurdles, making its hoped-for June 2007 launch unlikely.  End 
+summary. 
+ 
+¶2. (SBU) CFETS President Xie Duo and Vice General Manager Song 
+Jianqi told visiting Embassy ECON M/C Robert Luke on April 19 
+that, over the past year, CFETS had carried out many 
+"interesting changes" in order to meet PBOC's "simple objective" 
+of "including more market-based elements" in China's foreign 
+exchange system.  Xie said PBOC was not involved in CFETS' daily 
+operations or overtly setting the price of the RMB, but that it 
+was still able to "indirectly intervene."  The RMB appreciated 
+to a new high against the dollar on April 20, closing at 7.7165. 
+ This represented a total appreciation of 7.26 percent since 
+July 21, 2005. 
+ 
+------------------------------- 
+RMB FX Volume: Still Not Saying 
+------------------------------- 
+ 
+¶3. (SBU) As in past visits (Ref A), Xie declined to answer a 
+direct question about the total volume of FX trade through the 
+CFETS system.  The PBOC had not yet publicly announced trading 
+data since it was worried that such information could prompt 
+"misunderstandings and market speculation," he said.  According 
+to Xie, the volume of FX turnover was two times more in 2006 
+than it had been in 2005.  Xie added that more than 90 percent 
+of spot trades were OTC, and that market makers now accounted 
+for more than 80 percent of the OTC trade volume. CFETS FX 
+derivative markets had continued to develop, but swaps were now 
+more popular than forwards since they allowed investors to 
+manage both exchange rate and interest rate risk.  The forwards 
+market, introduced in August of 2005, had diminished in 
+importance and now averaged only about USD 100 million per day. 
+The swap market, introduced in April 2006, had taken off and now 
+accounted for about USD 1 billion per day (Ref A). 
+ 
+--------------------------------------------- -- 
+Market Makers Increase in Number and Importance 
+--------------------------------------------- -- 
+ 
+¶4. (SBU) There were now 22 market makers in the OTC spot market 
+(up from the original 15), with seven more banks added in 
+December 2006.  Of these, four were Chinese banks -- China 
+Minsheng Banking Corp., Hua Xia Bank Co., China Everbright Bank, 
+and China Development Bank -- and three were foreign banks -- 
+Deutsche Bank, Tokyo-Mitsubishi and Sumitomo Mitsui Banking 
+Corp.  (Note: These banks began acting as market markers on 
+December 18.  Of the 22 market makers, 13 were Chinese and nine 
+ 
+SHANGHAI 00000247  002 OF 004 
+ 
+ 
+were foreign.  See Ref B for market makers' views on FX 
+developments.  In addition to the three listed above, the other 
+foreign market makers are: HSBC, British Standard Chartered, 
+Citibank, ABN-AMRO, Credit Agricole, the Bank of Montreal.  In 
+addition to above-listed four new members, the original Chinese 
+market makers were: Industrial and Commercial Bank of China, 
+Bank of China, Agricultural Bank of China, China Construction 
+Bank, CITIC, Bank of Communications, Shanghai Pudong Development 
+Bank, China Industrial Bank, and China Merchants Bank.  End 
+note.)  Xie explained that the market maker banks engaged in 
+trading of renminbi debt (interbank repo and bond) instruments 
+differed from those involved in FX trading although there was 
+some overlap.  He noted that a few foreign banks were active in 
+this trade as well.  For example Citibank Nanjing branch was 
+active in the renminbi debt market, although not in the FX 
+market. 
+ 
+¶5. (SBU) The trading volume of foreign bank market makers, 
+particularly HSBC, Citi, ABN AMRO and Bank of Montreal, had 
+increased because they generally offered the best prices.  Xie 
+attributed this success to foreign banks having better trained 
+staff, and more skilled and highly compensated traders than at 
+Chinese banks. 
+ 
+¶6. (SBU) Xie said that CFETS methodology for calculating the 
+daily central parity price had not undergone any changes, but 
+that the weights assigned to each of the market makers (Ref C) 
+in calculating the opening trading price had changed based on 
+their respective trading volumes.  He said that the Bank of 
+China now only accounted for about 15 percent of OTC FX trades 
+and that its weight had been adjusted downwards accordingly, but 
+did not disclose any additional specifics on the "black box" in 
+which the calculation was made. 
+ 
+--------------------------------------------- ----- 
+"No Idea" How Central Bank Intervenes in FX Market 
+--------------------------------------------- ----- 
+ 
+¶7. (SBU) Xie said PBOC did intervene indirectly in the FX market 
+in order to achieve its policy objectives, but he "had no idea" 
+of the mechanism that the PBOC used to accomplish this 
+intervention.  There was, he said, "no direct link between PBOC 
+and the Bank of China."  Though PBOC was not a CFETS member, Xie 
+acknowledged that it had relationships with what he deemed 
+"premium dealers" and that it made its trades through these 
+dealers.  In addition, Xie said PBOC was still concerned with 
+excess liquidity, inflation and overheating and "was clearly 
+determined to control inflation through market measures rather 
+than administrative measures" whenever possible. 
+ 
+----------------------------- 
+New Trading Platform Launched 
+----------------------------- 
+ 
+¶8. (SBU) CFETS launched its new trading platform (ref A) in 
+March 2007 to adhere more closely to international norms and to 
+create a platform for more FX derivative products.  Xie said 
+that its cooperation with Reuters in designing the software had 
+been very successful and that the software was "running on 
+American computers."  Xie said that the new software system 
+played to the strengths of the foreign bank market makers who 
+"were very good at trading currency."  The new platform allowed 
+for spot, forward and swaps to trade on the same platform, with 
+the screen listing only the best price offered. 
+ 
+¶9. (SBU) During a tour of CFETS' operations center, Luke 
+observed CFETS employees monitoring spot and swap trading of the 
+RMB as well as the Shanghai Interbank Borrowing Rate (SHIBOR) 
+and bond trading.  Three large screens dominated the room.  One 
+screen showed the RMB-USD trading price, one showed the SHIBOR 
+rate, and the third showed the status of CFETS' computer network 
+overlaid on a map of China.  Song told Econoff that CFETS' staff 
+had grown by 60 in 2006. 
+ 
+SHANGHAI 00000247  003 OF 004 
+ 
+ 
+ 
+---------- 
+Lower Fees 
+---------- 
+ 
+¶10. (SBU) Xie noted that CFETS had implemented a new fee 
+structure on April 6.  These fees were 30 times less than it had 
+charged previously.  For example, where fees had been USD 3 for 
+every USD 10,000 exchanged, it now only cost USD 10 for every 
+USD 1 million exchanged.  Xie also said that the fees declined 
+on a sliding scale based on the maturity or size of the trade. 
+(Note: More information on the fees can be found in Chinese on 
+CFETS' webpage: 
+http://download.chinamoney.com.cn/content/onl ine2002/URLCon 
+tent/gonggao/2007_80.doc  End note.)  According to Xie, CFETS also 
+charged prices consistent with international practice for 
+hard-currency to hard-currency trades.  Volume for this type of 
+trade was only about USD 15 billion per year and represented a 
+fraction of CFETS workload.  Only small banks lacking 
+international relationships of their own needed this kind of 
+service, he said. 
+ 
+--------------------------------------------- --------- 
+Agreement "in Principle" for Additional Liberalization 
+--------------------------------------------- --------- 
+ 
+¶11.  (SBU) Xie said that PBOC and the State Administration of 
+Foreign Exchange (SAFE) had agreed "in principle" to: 1) allow 
+banks to hold net open positions shorting the dollar (or longing 
+the RMB); and 2) widen the daily USD/RMB trading band from its 
+current .3 percent limit.  This would be in alignment with its 
+stated goal of "adding more market principles."  Initially, Xie 
+said he expected this to occur in the next six months, then he 
+qualified his remarks by saying, "I don't know when or whether." 
+ He added that, given the "oversupply of USD" in the market, 
+widening the band now would "have no effect." 
+ 
+--------------------------------------------- 
+Experimenting with Two-Way Net Open Positions 
+--------------------------------------------- 
+ 
+¶12. (SBU) One bank, located in Tianjin, had been designated by 
+CFETS to experiment with two-way net open positions; i.e. 
+holding positions that either longed or shorted the dollar, to 
+allow CFETS to "gain experience and understanding" on how to 
+manage such a policy change.  Luke speculated out loud that the 
+bank selected was Bohai Bank.  Xie refused to comment.  (Note: 
+Bohai Bank is not one of CFETS market makers, but is a CFETS FX 
+trading bank.  Aside from the bank in Tianjin, all other banks 
+in China are still prohibited from holding net open positions 
+that short the dollar (or long the RMB), a policy that traders 
+says operates as a one-way constraint on China's development of 
+its FX system (Ref B).  End note.) 
+ 
+------ 
+SHIBOR 
+------ 
+ 
+¶13. (SBU) Xie said PBOC had encouraged the development of 
+financial tools and products, such as SHIBOR and the domestic 
+bond market to help develop China's banking and FX markets. 
+SHIBOR's January 2007 launch had created a domestic benchmark 
+and yield curve that would allow PBOC more ability to use 
+interest rates in carrying out macroeconomic policies and would 
+provide the necessary conditions to develop China's FX and 
+derivatives markets. (Note: During the tour of the operations 
+center, the screen displaying SHIBOR rates showed a yield curve 
+for different maturities with short-term rates exceeding 
+longer-term rates.  End note)   At an April 13 PBOC conference 
+Xie had attended in Beijing, PBOC stated its intent to gradually 
+deregulate China's lending and deposit interest rates as its 
+confidence with SHIBOR developed.  Xie said there were currently 
+16 commercial banks acting as SHIBOR market makers.  (Note: Four 
+ 
+SHANGHAI 00000247  004 OF 004 
+ 
+ 
+of the SHIBOR market maker banks are Chinese:  Industrial and 
+Commercial Bank of China, Bank of China, China Construction 
+Bank, and CITIC Bank.  The other 12 are foreign banks: Credit 
+Agricole, HSBC, Citibank, Deutsche Bank, ABN AMRO Bank, ING 
+Bank, Bank of Montreal, Royal Bank of Scotland, Standard 
+Chartered Bank, ANZ Bank, UBS Bank, and Mitsubishi Bank of 
+Tokyo.  End note.) 
+ 
+¶14. (SBU) Xie said that, in March, the interbank bond/repo 
+market turnover was RMB 9 trillion (USD 1.2 trillion), "very 
+large for a developing market."  The longest bond offered was a 
+30-year Treasury bill.  The interbank bond market had no 
+maturity restrictions and bonds were sold by public auction. 
+Other bonds included policy bank bonds, commercial bank bonds 
+and OTC bonds.  The corporate bond market, however, was very 
+small, with trading volume in March of only about RMB 100 
+million (USD 12 million.) 
+ 
+----------------- 
+Problems with CME 
+----------------- 
+ 
+¶15. (SBU) CFETS' goal of becoming a super clearing member of 
+CME, eligible to sell CME products in China, continued to await 
+CFTC approval.  As Xie understood the problem, because of its 
+structure, CFETS was unable to meet CFTC's capital requirements. 
+ While CFETS generated "lots of money" every year, this all went 
+to PBOC.  CFETS was an institutional organization (shiye danwei) 
+of PBOC and had no independent capital.  Xie expressed concern 
+that CFTC did not understand the Chinese organizational 
+structure and said, "If I make a mistake, I can be arrested or 
+even killed -- but as an institution, CFETS could never go 
+bankrupt."  Xie said that CFETS had even tried to get permission 
+from PBOC to be established as an independent company in order 
+to meet the capital requirements, but the Ministry of Finance 
+had refused.  Xie said it was unlikely that CFETS would meet its 
+previously announced deadline of June 2007 to begin offering CME 
+products. 
+ 
+¶16.  (SBU) Note:  Consulate has subsequently conveyed Xie's 
+remarks to CFTC.  CFTC understands CFETS' organizational 
+structure and the Chinese concerns and is currently considering 
+its application. 
+JARRETT

@@ -1,0 +1,95 @@
+08HONGKONG2147
+EXTRANCHECK: POST SHIPMENT VERIFICATION: SHARE HK LTD
+Wed Nov 26 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #2147 3310857
+ZNR UUUUU ZZH
+R 260857Z NOV 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 6315
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002147 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: SHARE HK LTD 
+ 
+REF: A) USDOC 06569 B) USDOC 05607 C) HK 03088 (2007) D) HK 00913 
+(2008) 
+ 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) attempted 
+to conduct a post shipment-verification (PSV) at Share Hk. Ltd., 
+Flat A, 8/F King Yip Pty Bldg, 59 King Yip Street, Kwun Tong, Hong 
+Kong (Share). The items in question are semiconductors 
+(TIS5962-9679001NXB, DM: SMQ320C32PCMM50) exported to Share on or 
+about April 5, 2008 and valued at USD 8500.  On the applicable 
+shippers export declaration (SED), these items are classified under 
+export control classification number (ECCN) 3A001 and, if properly 
+classified, would be controlled for national security (NS) reasons. 
+These appear to be items that may be shipped license-free to Hong 
+Kong but would, in virtually all circumstances, require a license 
+for shipment to mainland China.  The exporter was Rochester 
+Electronics of Newburyport, Massachusetts. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Share was 
+registered in July 2003.  Its paid in capital is the Hong Kong 
+equivalent of USD 2500.  Its directors and shareholders are listed 
+as mainland nationals Jiang, Hu (mainland passport number 
+G00909507), Xia, Qiu Min (mainland passport number G06780470) and 
+Xia, Zehghui (mainland passport number G06689017).  The corporate 
+secretary is listed as HKRTP Limited (this is the corporate 
+secretary for companies that were the subject of other unfavorable 
+PSVs including those referenced in reftels B and C). 
+ 
+¶4.  As detailed further below, Share appears to be related to Wing 
+Lee (China-Hong Kong) Trading Co. Ltd. (Wing Lee), the subject of a 
+previous unfavorable PSV described in reftel D.  Specifically, the 
+bill-to information in the Rochester transaction documentation 
+provided by OEA is Wing Lee at Wing Lee's addressed noted in reftel 
+¶D.  Additionally, the contact name for the order in that 
+documentation (Xu, Hui) corresponds to the contact name in the Wing 
+Lee transaction documentation.  As discussed further in reftel D, 
+Wing Lee is related to a range of additional Hong Kong and mainland 
+companies. 
+ 
+¶5.  The Rochester End Use/Ultimate Consignee Statement, purportedly 
+completed by the end-user of the items lists Galaxy Elec. Technic 
+Limited as the end user of the items.  The end use is listed as 
+medical devices (CT and MRI).  According to the Hong Kong Companies 
+Registry, Galaxy Elec. Technic Limited has been in existence since 
+¶1998.  Its paid up share capital is the Hong Kong equivalent of USD 
+¶1250.  Hong Kong identity card holders, Chong, Min Min (H340781(2) 
+and Tsui, Kin Chit (H340780(4) are listed as directors.  A web 
+search for this company reveals that it appears to sell DVD players. 
+ In addition, a range of companies use this same address. 
+Commercial Assistant Carrie Chan reached Mr. Tsui, a representative 
+of Galaxy, by phone.  Mr. Tsui stated that Galaxy did not order 
+these items from Share but they were told to receive the item on 
+Share's behalf.  Ultimately, according to this representative, the 
+items never arrived. 
+ 
+¶6.  Based on the information noted above, ECO believes that Share is 
+an unsuitable recipient of U.S. origin controlled technology.  ECO 
+recommends that BIS reach out to Rochester to determine what 
+information it had on hand when it shipped the items.  Further, ECO 
+requests that OEA confirm the 3A001 classification of the shipment 
+so that ECO may reach out to Hong Kong TID concerning a potential 
+violation of Hong Kong's export control rules in connection with 
+this shipment.  Finally, ECO recommends that Share be added to the 
+BIS Unverified List and/or Entities List.

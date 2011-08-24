@@ -1,0 +1,80 @@
+07HONGKONG2225
+EXTRANCHECK: POST SHIPMENT VERIFICATION: FINTEX PTE LTD
+Mon Aug 27 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHHK #2225 2390328
+ZNR UUUUU ZZH
+R 270328Z AUG 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 2722
+RHMFIUU/HQ BICE WASHINGTON DC
+RUEHGP/AMEMBASSY SINGAPORE 3638UNCLAS HONG KONG 002225 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MNICKSON-DORSEY/LLAUCIUS 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+SINGAPORE FOR FCS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP ETRD ETTC HK
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: FINTEX PTE LTD 
+ 
+REF: A) USDOC 05089 B) USDOC 05088 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Regional Export Control Officer Philip Ankel (ECO) 
+conducted two post shipment verifications (PSVs) at Fintex 
+Industries Pte Ltd., No. 24 Changi South St. 1, Singapore (Fintex). 
+Three items were the subject of the checks.  The first two items 
+(the subject of the first PSV) were two Rieve bench ovens exported 
+on or about March 24, 2007 and valued at USD 19,036.  The third item 
+(the subject of the second PSV) was a Solair 3100-C portable 
+particle counter exported on or about April 12, 2007 and valued at 
+USD 10,283.  The items were not classified for export control 
+purposes when they were exported although the exporters indicated 
+that these items could be exported NLR (no license required).  The 
+exporter for the first two items was the Rieve Corporation of Round 
+Lake, Illinois while the exporter for the third item was Lighthouse 
+Worldwide Solutions of Medford Oregon. 
+¶3.  According to the Singapore Companies Registry, Fintex has been 
+in existence since 1991.  Its paid-up share capital is the Singapore 
+equivalent of approximately USD 160,000. Singapore nationals Wong 
+Bin Fatt (49 percent shareholder), Ms. Wong Hua Li (49% shareholder) 
+and Quek King Seng and Wong Guek Ling are listed as directors.  More 
+information is located at the company's web site 
+(www.Fintex.com.sg). 
+ 
+¶4.  On June 21, 2007, the ECO met with Mr. Alex Wong B.H., Managing 
+Director of Fintex and Ms. Ivy Goh, Q.A. Engineer.  According to Mr. 
+Wong, in 1995, Fintex became involved in the cleaning and recycling 
+of components used in the semiconductor production process 
+(including Disk carriers, Sputtering systems-shields, platters, 
+shutters, chambers, planetaries etc.).  The particle counter is used 
+in this aspect of the company's business to ensure that the 
+components are free of dust particles and other trace 
+particles/metals after they have been cleaned.  The ovens are 
+likewise used in the cleaning and refurbishment of sputtering 
+systems shields. 
+ 
+¶5.  The ECO inspected the particle counters and the ovens and toured 
+the Fintex premises.  The facility appeared consistent with the use 
+of the items. 
+ 
+¶6.  At the time visited, Fintex appeared to be a suitable recipient 
+of the commodities shipped since Fintex cooperated with these PSVs, 
+provided the ECO with access to the items and operates a line of 
+business consistent with the use of the items. The ECO recommends 
+that these PSVs be classified as Favorable.

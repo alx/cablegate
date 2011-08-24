@@ -1,0 +1,101 @@
+09HONGKONG2091
+EXTRANCHECK: POST SHIPMENT VERIFICATION: WAH WAI ELECTRONIC
+Fri Nov 13 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHHK #2091 3170716
+ZNR UUUUU ZZH
+R 130716Z NOV 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 8951
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002091 
+ 
+USDOC FOR 532/OEA/ MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: WAH WAI ELECTRONIC 
+TECHNOLOGY 
+ 
+REF: A) BIS e-mail request dated October 22, 2009 (01210084) 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) at Wah Wai Electronic Technology, 
+Room 1001, 10/F Wang Yip Industrial Building, No 1 Elm Street, Tai 
+Kok Tsui, Hong Kong (Wah Wai). The items in question for this PSV 
+are monolithic integrated circuits exported to Wah Wai on or about 
+September 20, 2006.  These items are likely classified under Export 
+Control Classification Number (ECCN) 3A001 and are controlled for 
+national security (NS) reasons.  These circuits are likely eligible 
+for license exception Civil End Use (CIV) for export/reexport to 
+mainland China.  The exporter is America II Electronics of St. 
+Petersburg, Florida. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Wah Wai has been 
+in existence since March 1986.  Its paid up share capital is the 
+Hong Kong equivalent of USD 65,000.  The Hong Kong Companies 
+Registry lists Hong Kong residents Cheung, Hei Kwan (HKID 
+P243933(A), Lee, Wah Wong (HKID H389299(O) and Li, Man Har (HKID 
+K245459(9) as directors. 
+ 
+¶4.  Wah Wai does not appear to have a web site of its own although 
+it appears to advertise on B to B web sites including 
+www.diytrade.com.   On that web site, the company's business is 
+described as trade in high level electronic components at the 
+military, industrial and commercial level. 
+ 
+¶5.  On November 10, 2009, ECO and FCS Commercial Assistant Carrie 
+Chan visited the company and met with Mr. Lee, Wah Wong, director. 
+The company is located in a warehouse building and has space for 
+several desks, a reception area and a small director's office. 
+According to Mr. Lee, Wah Wai is a family business and the company 
+owns the premises. 
+ 
+¶6.  Mr. Lee stated that Wah Wai is a small trading company.  He 
+offered that the company has seen a nearly 90% drop in its business 
+this year.  Mr. Lee noted that it has become standard practice to 
+sell to mainland customers in Hong Kong on a cash basis to avoid the 
+risks associated with nonpayment by mainland customers.  Mr. Lee 
+agreed that this practice may also be useful for minimizing customs 
+formalities and duties at the Hong Kong/Shenzhen border.  Mr. Lee 
+noted that most such transactions are actually completed by use of 
+freight forwarders so as to insulate the buyer from any customs 
+related issues (in this scenario, the freight forwarder sometimes 
+also pays for the items in Hong Kong).  ECO suspects that this 
+structure also serves other purposes  including export control 
+avoidance. 
+ 
+¶7.  Mr. Lee stated that he does not sell military temperature range 
+products.  He expressed an understanding of U.S. export control 
+rules and stated his commitment to comply with them.  By separate 
+e-mail, ECO sent Mr. Lee additional information about U.S. export 
+controls. 
+¶8.  As to the particular shipment in question, Mr. Lee stated that 
+the company no longer had any of the applicable documentation.  Mr. 
+Lee stated that there are many changes in trading companies so he 
+does not keep too many records.  Mr. Lee stated that the 
+representative of the buyer, a Mr. Ching, had provided him with a 
+phone number that is apparently no longer operational.  Mr. Lee 
+stated that he did not know the final end-user or end-use for the 
+items. 
+ 
+¶9.  ECO notes that Mr. Lee was quite talkative when talking about 
+the electronics business and expressed his commitment to comply with 
+U.S. export controls.  At the same time, Mr. Lee did not provide ECO 
+with any significant information about the underlying shipment. 
+Based on a totality of the circumstances, ECO cannot recommend that 
+Wah Wai be considered a suitable recipient of U.S. origin controlled 
+technology.

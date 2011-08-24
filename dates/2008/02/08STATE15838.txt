@@ -1,0 +1,206 @@
+08STATE15838
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Fri Feb 15 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Secretary of State
+VZCZCXYZ0022
+RR RUEHWEB
+
+DE RUEHC #5838 0461606
+ZNR UUUUU ZZH
+R 151603Z FEB 08
+FM SECSTATE WASHDC
+TO RUEHMO/AMEMBASSY MOSCOW 0000
+RUEHSM/AMEMBASSY STOCKHOLM 0000
+INFO RUEHHE/AMEMBASSY HELSINKI 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DC 0000UNCLAS STATE 015838 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+MOSCOW FOR NICKOLAS KATSAKIS 
+POLMIL 
+STOCKHOLM FOR OLIVIA HILTON 
+ECON 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC RS
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON APPLICATION 050087908 
+ 
+REF: BLUE LANTERN GUIDEBOOK 2006 
+ 
+¶1. (U) This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. (U) The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post's assistance in conducting 
+a pre-license check on application 050087908 for the export 
+of infrared searchlight equipment to Russia.  Post is 
+requested to complete this Blue Lantern check within 30 days. 
+ Lack of response to a Blue Lantern check will affect pending 
+and future applications involving parties to this license. 
+ 
+¶3. (SBU) Reason for request:  foreign end-user and consignee 
+are both on PM/DTCC's Watchlist; vague and suspicious end-use 
+statement; possible involvement of an unregistered broker. 
+Foreign end-user Ulan-Ude Aviation Plant is on PM/DTCC's 
+Watchlist and has never had its bona fides verified by a Blue 
+Lantern check.  An additional cause for concern is the 
+end-use statement that the infrared searchlight equipment 
+will be installed on a helicopter owned by Ulan Ude, which 
+purportedly will be operated by the company on behalf of the 
+Russian Federal Customs Service.  In addition, foreign 
+intermediate consignee Avitronics International AB appears to 
+be acting as a broker in this proposed transaction.  However, 
+the company is not registered with the Department's 
+Directorate of Defense Trade Controls (PM/DDTC) as a broker 
+of USML parts, as required under U.S. law.  Embassy Moscow 
+should make appropriate inquiries to verify the bona fides of 
+Ulan Ude and confirm the legitimacy of the proposed 
+transaction.  Embassy Stockholm should make appropriate 
+inquiries to determine whether Avitronics is acting as a 
+broker in this proposed transaction and whether the company 
+is aware that U.S. law requires brokers of USML items to 
+register with PM/DDTC.  The following questions are provided 
+as suggested guidance: 
+ 
+For the Russian Federal Customs Service, Siberian Department, 
+Buryatia Branch: 
+ 
+--Have you hired Ulan Ude to use its helicopters to perform 
+services on behalf of your agency? 
+ 
+--If so, does Ulan Ude require an infrared searchlight?  What 
+exact services will Ulan Ude performing on behalf of the 
+Russian Federal Customs Service? 
+ 
+For Ulan Ude Aviation Plant: 
+ 
+--Does the company have proper supporting documentation, 
+including a contract from the Russian Federal Customs 
+Service, for this proposed transaction? 
+ 
+--Does the company understand the restrictions on United 
+States Munitions List (USML) items, especially the 
+prohibition against unauthorized re-transfers and re-exports? 
+ Does the company understand that USML items may be used only 
+for the specific purpose stated on the export license? 
+ 
+For Avitronics International AB: 
+ 
+--Please describe your role in this proposed transaction. 
+ 
+--If serving as a broker in this proposed transaction, are 
+you aware that U.S. law requires brokers of USML items to 
+register with the State Department and to obtain prior 
+authorization for many brokered transactions? 
+ 
+¶4. (SBU) For background, the following details of the license 
+in question are provided: 
+ 
+DTC Case: 050087908 
+ 
+QUANTITY/COMMODITY: 
+ 
+1     SX-16 in flight changeover infrared searchlight assembly 
+1     SX-16 in flight changeover infrared searchlight, gimbal 
+assembly 
+1     SX-16 in flight changeover infrared searchlight, 
+control box assembly 
+1     SX-16 in flight changeover infrared searchlight, cable 
+assembly flex 
+1     SX-16 in flight changeover infrared searchlight, cable 
+assembly external 
+1     SX-16 in flight changeover infrared searchlight, 
+operation and maintenance manual 
+ 
+License Value: USD 27,601.00 
+ 
+SELLER: 
+ 
+The Boeing Company 
+100 North Riverside 
+Chicago, IL 60606 
+Company contact: Julio Santiago, tel.: 703-4654-3650 
+ 
+Spectrolab, Inc. 
+(Wholly owned subsidiary of The Boeing Company) 
+12500 Gladstone Avenue 
+Sylmar, CA 91342 
+Company contact: Stephen P. Wallace, tel. 818-898-2831 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Varova Oy 
+East Harbour Sompasaari, Makasiini S-1 
+Helsinki 
+Finland 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Avitronics International AB 
+Box 607 
+S-175 26 Jarfalla 
+Sweden 
+ 
+FOREIGN END-USER: 
+ 
+Ulan-Ude Aviation Plant 
+1, Khorinskaya Street 
+Ulan-Ude 670009 
+Russia 
+ 
+PURPOSE: 
+ 
+Commodities for use on end user's helicopter model Mi-8/17 
+used for Russian customs purposes 
+ 
+¶5. (U) Submitted in support of the license application were 
+the following documents (PM/DTCC can fax documentation to 
+post upon request): 
+ 
+--Nontransfer and Use Certificate (Form DSP-83), signed by 
+Robert Eklund, Director, Avitronics a.b., dated 09.24.2007; 
+and signed by Leonid Belykh, General Director, Ulan Ude 
+Aviation Plant, dated 12.07.2007 
+ 
+--Product brochure including technical specifications 
+ 
+--Cover letter from Spectrolab explaining the proposed 
+transaction, signed by Stephen P. Wallace, Manager of 
+Contracts, dated January 29, 2008 
+ 
+--Supplementary statement of purpose from Ulan Ude Aviation 
+Plant, signed by E. Milischuk, 1st Deputy General Director, 
+dated February 11, 2008, stating "This is to certify that 
+SX-16 IFCO Searchlight (part number 025000-131) manufactured 
+by Spectrolab Inc. is intended to be installed on Mi-17 
+helicopter owned by Ulan Ude Aviation plant.  The helicopter 
+in question will be operated by Ulan Ude Aviation plant for 
+Russian Federal Customs Service, Siberian Department, 
+Buryatia Branch, Bld 4, Karl Marx Boulevard, 670031 Ulan Ude, 
+Buryatia Republic, Russian Federation.  Ulan Ude Aviation 
+plant has all necessary infrastructure for helicopter 
+operation such as pilots, helipads, jet fuel station, air 
+traffic control tower, etc.  Purpose of use: forestry, 
+transportation routes and border patrol to interdict illegal 
+export of timber and other natural resources." 
+ 
+¶6. (U) Please slug reply for PM/DTCC - BLUE LANTERN 
+COORDINATOR and include the words "Blue Lantern" and the case 
+number in the subject line.  POC is Judd Stitziel, PM/DTCC, 
+Phone: 202-663-3455; email: StitzielJD@state.gov; SIPRNET: 
+StitzielJD@state.sgov.gov.  The Blue Lantern Guidebook (ref) 
+is available as a PDF file in the Bunche Library's Electronic 
+Library collection on the DOS Intranet: 
+http://virtuallibrary.state.gov/ 
+BlueLanternGuidebook2006%2520 final .pdf 
+ 
+¶7. (U) Department is grateful for post's assistance in this 
+matter. 
+RICE

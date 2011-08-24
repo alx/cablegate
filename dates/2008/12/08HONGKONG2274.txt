@@ -1,0 +1,108 @@
+08HONGKONG2274
+EXTRANCHECK: POST SHIPMENT VERIFICATION: EVA HSIAO/EDOM
+Fri Dec 19 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHHK #2274 3540857
+ZNR UUUUU ZZH
+R 190857Z DEC 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 6485
+RUEAIAO/HQ ICE IAO WASHDCUNCLAS HONG KONG 002274 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: EVA HSIAO/EDOM 
+TECHNOLOGY CO 
+ 
+REF: A) USDOC 06828 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment-verification (PSV) at Eva Hsiao, Edom Technology 
+Co., 9/F, Kian Dai Industrial Bldg., 73-75 Hung To Road, Kwun Tong, 
+Kowloon (Edom). The item in question is a Neomagic Nimagin 8 Stander 
+Development Kit (NM9800MDB) exported to Edom on or about July 29, 
+2008 and valued at USD 4500.  On the applicable shippers export 
+declaration (SED), these items are classified under export control 
+classification number (ECCN) 3A001 and, if properly classified, 
+would be controlled for national security (NS) reasons.  Based on a 
+review of export documentation provided by Neomagic, ECO believes 
+this item could likely be exported or reexported to mainland China 
+pursuant to license exception CIV if destined for civil end use. 
+The exporter was Neomagic Corporation of Santa Clara, California. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Edom was 
+registered in August 2000.  According to the Companies Registry, it 
+has no paid-in capital. Its directors are listed as Cheng, Duen 
+Chian, Lin Fei Hong, Tseng, Yu I, Wang, Le Chun and Zhang, Jie with 
+the following Taiwan passport numbers:  211090898, M20117908, 
+M10232707, 210273989 and X00800892. 
+ 
+¶4.  According to the company web site (www.edom-tech.com), Edom is 
+an integrated circuits distributor with particular focus on the 
+information, communication and consumer electronics markets.  It has 
+offices in Hong Kong, Taipei, Shenzhen, Xiamen, Penang, Beijing and 
+Shanghai.  Its headquarters are in Taipei. 
+ 
+¶5.  On December 3, 2008, ECO and Commercial Assistant Carrie Chan 
+visited Edom at the address listed above and met with Stone Li, 
+Senior Sales Engineer.  He provided additional information on the 
+various types of products that Edom distributes.  These include 
+integrated circuits, microcontroller units, DRAM memory among other 
+products.  Li stated that products shipped to Hong Kong are destined 
+approximately 90 percent for mainland China and 10 percent for Hong 
+Kong.  He also stated that it is Edom's policy that China customers 
+must arrange for pickup from Edom in Hong Kong.  Edom will not ship 
+to the mainland.  Li showed ECO Edom's warehouse space.  ECO 
+estimates that the company's warehouse space totaled roughly 2000 
+square feet. The space was filled with boxes destined for delivery 
+to mainland China.  Li stated that he is the only Edom sales 
+engineer located in Hong Kong. The remaining sales engineers and 
+staff are located in the mainland or at other Edom locations.  In 
+addition, Li stated that Edom is not an electronics broker but 
+rather acts as distributor for a fixed number of manufacturers. 
+ 
+¶6.  As to the particular item in question, Li stated that it had 
+been ordered by Edom to be used as a testing unit by its customer RV 
+Technology Limited (www.rvtec.com) (RV Tech).  RV Tech was using the 
+unit to develop a smart phone. Edom lent the unit to RV Tech and Li 
+stated that Edom had obtained the unit back from its customer. ECO 
+reviewed the item and notes Serial Number MDB06120035.  Li stated 
+that loaners are used in this way to spur potential future sales of, 
+for example, Neomagic products.  Li volunteered that Neomagic is 
+doing poorly and that Edom rarely receives orders for Neomagic 
+products. 
+ 
+¶7.  ECO asked Li whether Edom applies for applicable Hong Kong 
+licenses for the products it imports and resells.  After a pause, Li 
+stated that Edom applies for all required licenses.  When asked 
+about Edom's mainland Chinese customers, Li stated that he expects 
+that they understood the need to apply for licenses, as required. 
+ECO suspects neither Edom nor its customers apply for required Hong 
+Kong licenses nor for U.S. licenses (if required). 
+ 
+¶8.  Based on the information noted above, ECO believes that Edom is 
+an unsuitable recipient of U.S. origin controlled technology. While 
+Edom might not have violated U.S. law in respect of this shipment, 
+ECO suspects that is only because the item in question did not 
+require a U.S. license in this particular instance.  ECO requests 
+that OEA confirm the 3A001 classification of the applicable item so 
+that ECO may reach out to Hong Kong TID concerning a potential 
+violation of Hong Kong's export control rules in connection with 
+this shipment.

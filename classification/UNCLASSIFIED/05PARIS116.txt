@@ -1,0 +1,189 @@
+05PARIS116
+France: Telecom and Information Technology Update
+Fri Jan 07 00:00:00 +0100 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 02 PARIS 000116 
+ 
+SIPDIS 
+ 
+STATE FOR EB/CIP 
+USDOC FOR NTIA AND ITA 
+FCC FOR INTERNATIONAL 
+STATE PLEASE PASS TO USTR 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD FR
+SUBJECT: France: Telecom and Information Technology Update 
+ 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+¶1. This is another in a series of periodic updates on the 
+French telecommunications and information technology 
+sectors, including internet and e-commerce. 
+ 
+Contents: 
+-- Phone rates in France may soon be going up (para 2) 
+-- French Telecom Regulator Board Gets New Member (para 3) 
+-- Videophone service soon to be deployed in France (para 4) 
+-- Care to purchase a (loss-making) Franco-Italian ISP? 
+(paras 5 and 6) 
+-- France Telecom signs agreement for its North American 
+optical network (para 7) 
+-- A Bit of Old News - France Telecom and SFR Cegetel fined 
+for anti-competitive pricing (para 8) 
+ 
+¶2.  Phone rates in France may soon be going up: France 
+Telecom is reportedly negotiating with the French government 
+and with telecom regulator ART to increase subscription 
+rates by 20 percent over the next three years according to 
+reports in French newspapers La Tribune and Le Figaro, AFX 
+News reported from Paris. The company is offering a five 
+percent reduction in local calls rates to offset the 
+increase, La Tribune said. 
+ 
+¶3.  French Telecom Regulator Board Gets New Member:  French 
+equivalents of FCC Commissioners are called ART college 
+members and France got a new one when Dominique Roux's term 
+expired recently.  On January 4, Edouard Bridoux was named 
+by President Chirac to become the newest ART college member. 
+Born in 1945, Bridoux has been a university full professor 
+since 1975.  He began his career in 1972 as conference 
+coordinator ("maitre des conferences") at the University of 
+Valenciennes in northeastern France, where he became 
+University President in 1978.  The following year, Bridoux 
+rejoined the office of the Minister for higher education, 
+where he became Chief of Staff for the Minister in 1980. 
+From 1986 to 1990, Bridoux was rector of the Academy of 
+Amiens, then Director of the National Superior School of 
+Engineering and Mechanical Energy of Valenciennes from 1992 
+to 1993, before becoming rector of the Academy of Reims from 
+1993 to 1995.  Bridoux was technical advisor for higher 
+education and research in the Prime Minister's office from 
+1995 to 1997 and then Director General of the National 
+Institute for Transportation Research and Security (INRETS) 
+from 1997 to 2000.  Since 2000, Bridoux has served as 
+technical advisor for higher education and research in the 
+Prime Minister's office.  ART college members serve 
+nonrenewable six-year terms.  Three of the five members are 
+named by the President; the other two are named by the 
+President of the National Assembly and the President of the 
+Senate respectively. 
+ 
+¶4.  Videophone service soon to be deployed in France:  IP 
+and video technology firm Leadtek Research and telecom 
+services provider France Telecom have unveiled what the two 
+firms describe as the world's first large scale deployment 
+of video telephony, "MaLigne visio."  Jointly developed by 
+the two companies, MaLigne visio is an IP-based videophone 
+service that lets users see each other during phone 
+conversations. The service utilizes QoS monitoring to 
+achieve real-time video chat, video messaging, video 
+streaming, and information on demand.  The service uses 
+Leadtek 8882 videophones with integrated cameras and 
+screens, which subscribers connect to a custom broadband 
+modem and a standard telephone jack.  Calls begin without 
+the video, which users activate or deactivate with the press 
+of a button.  The videophones receive calls from any type of 
+fixed or wireless phones for regular voice calls, just like 
+a standard phone.  MaLigne visio provides customers with a 
+free voice and video messaging service that allows users to 
+retrieve voice and video messages from any other location. 
+Users can also share and discuss photos and video by 
+connecting a digital camera or camcorder to the videophone. 
+According to recent press releases, at launch MaLigne visio 
+will be available to about 75% of the French population. 
+ 
+¶5.  Care to purchase a loss-making Franco-Italian ISP?: 
+Tiscali recently said it had received several takeover 
+offers for LibertySurf, its French internet service 
+provider, but the Italian group denied planning to sell the 
+company it acquired four years ago for 650 million Euros 
+($864 million).  LibertySurf had 386,000 ADSL internet 
+subscribers or 5.5% share of the French market in September. 
+It is the fourth largest operator in the French broadband 
+market, and generated nearly 200 million euros in 2003 
+revenues.  Speculation about the potential sale underlines 
+Tiscali's urgent need for cash.  Tiscali was forced to sell 
+smaller subsidiaries in Europe and South Africa to raise 
+money for the repayment of a 250 million Euro bond due in 
+July 2005.  Industry reports have said that Paris investment 
+bank Rothschild was hired by Tiscali to gauge interest among 
+European rivals for its loss-making French subsidiary, 
+valued by analysts at about 250 million Euros. A Tiscali 
+spokeswoman said: "For the last two months there have been 
+rising rumors that the refinancing Tiscali must do would 
+force it to sell one of its core operations. These rumors 
+and the dynamic growth of the French market encouraged some 
+operators to make expressions of interest for Tiscali 
+France. But Tiscali intends to maintain its presence in 
+France." 
+ 
+¶6.  Someone close to the talks reportedly said that Neuf 
+Telecom, the French internet and telecommunications group 
+controlled by the Louis Dreyfus family, submitted a bid for 
+LibertySurf last month.  Neuf Telecom has declined to 
+comment, but, tellingly, documents about Tiscali's French 
+subsidiary were reportedly sent to several of its biggest 
+competitors, including Deutsche Telecom, which owns Club 
+Internet in France, and Iliad, which owns Free, France's 
+second-biggest ADSL provider.  Interestingly, the head of 
+LibertySurf quit in August, a month before Tiscali announced 
+the resignation of Renato Soru, its founder and chairman, 
+who left to pursue a political career in his native 
+Sardinia. Any sale of LibertySurf could be complicated by a 
+30 million euro loan it extended to Tiscali in June 2003. 
+The Italian parent group said it had repaid 18 million euros 
+of the loan with rest to be repaid in the first quarter. 
+ 
+¶7.  France Telecom signs agreement for its North American 
+optical network:  The operating subsidiary of U.S.-firm 
+Level 3 Communications Inc. has signed a multi-year 
+agreement to provide transmission and co-location services 
+to France Telecom.  Under the terms of the agreement, Level 
+3 will become FT's primary provider of lit broadband 
+transport and co-location services in North America.  Level 
+3 will supply identified private-line and wavelength 
+circuits across its 19,400-mile optical network in the U.S., 
+which the FT Group will use as a platform to support its 
+customers.  "This agreement stands as proof of the strength 
+of our longstanding customer relationship with France 
+Telecom," said Level 3's president and chief operating 
+officer, Kevin O'Hara.  "We're pleased that France Telecom 
+will continue to rely on Level 3 as its principal network 
+partner in North America, and we look forward to providing 
+them with the highest quality communications services in the 
+coming years."  The new agreement replaces and terminates an 
+earlier, 20-year dark fiber contract signed by the two 
+companies in October 2000.  Under the prior agreement, FT 
+acquired a nationwide dark fiber network from Level 3, along 
+with ongoing maintenance and co-location services.  The 
+fiber strands leased to FT in the initial transaction will 
+revert to Level 3.  The transaction is expected to be 
+completed in the first quarter of 2005. 
+ 
+¶8.  A Bit of Old News - France Telecom and SFR Cegetel fined 
+for anti-competitive pricing:  In October 2004, France's 
+competition authority fined France Telecom 18 million euros 
+and its competitor SFR Cegetel 2 million euros, after 
+concluding that both groups practiced anti-competitive 
+pricing tactics toward business customers between 1999 and 
+¶2001.  The regulator found that the two telecom operators 
+took advantage of their combined mobile and fixed telephony 
+businesses to offer below-cost pricing on calls within their 
+own networks, while charging high prices for other fixed- 
+line operators to call their mobile networks. Through the 
+practice, SFR Cegetel sustained a 65% negative margin from 
+fixed-mobile calls within its own network.  For its part, 
+France Telecom sustained a negative margin of 70%, but 
+realized a profit of 244 million euros from billing other 
+fixed-line operators for calls to its mobile network, of 
+which it returned 114 million euros to its business 
+customers.  A fixed-line operator would have registered 
+trading losses of 126 million euros over the same period if 
+it had offered the same prices to customers, said the 
+regulator.  France Telecom has responded that wholesale 
+prices were fixed by regulator ART and that it plans to file 
+an appeal against the fine. 
+ 
+LEACH

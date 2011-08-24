@@ -1,0 +1,143 @@
+05PARIS3104
+France is Europe's leader in broadband internet
+Fri May 06 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 02 PARIS 003104 
+ 
+SIPDIS 
+ 
+STATE FOR EB/CIP 
+USDOC FOR NTIA AND ITA 
+FCC FOR INTERNATIONAL 
+STATE PLEASE PASS TO USTR 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD FR
+SUBJECT: France is Europe's leader in broadband internet 
+ 
+¶1.  Summary: In 2005, France became the biggest broadband 
+market in Europe, largely on the back of surging demand and 
+strong pro-competitive action from the regulator.  France is 
+also one of Europe's most competitive markets, with prices 
+about half those in other countries, including Britain. 
+Rarely has France been so successful in promoting vigorous 
+free-market competition.  End Summary. 
+ 
+France's broadband market: the largest in Europe 
+--------------------------------------------- --- 
+¶2.  France looks set to be the first country in Europe to 
+break through the seven million broadband user mark, 
+according to European Competitive Telecom provider 
+Association ECTA.  In March 2005, France became the leading 
+broadband market in Europe with some 6.1 million ADSL lines 
+and over 24,848,000 Internet users, representing 41.2% of 
+the population.  One household in four has high-speed 
+Internet access, 10.5% use mobile devices, and 5% have a 
+wireless connection (WiFi). 
+ 
+¶3.  France has experienced a boom in broadband growth since 
+the middle of 2003.  Broadband penetration increased from 4% 
+to 7% in the space of twelve months.  Growth has centered on 
+the extension of DSL services, spurred by local loop 
+unbundling under the aegis of France's telecoms regulator 
+ART (Autorite de Regulation des Telecommunications).  Today, 
+France has the second largest number of unbundled local 
+loops in Europe.  In a recent study on behalf of the Prime 
+Minister's IT policy office (CSTI - Conseil Strategique des 
+Technologies de l'Information), consulting firm Analysys 
+pointed out that local loop unbundling had been "an 
+essential catalyst for innovation in the broadband market," 
+especially in France where competition from alternative 
+infrastructure such as cable is limited.  As a result, a 
+variety of Internet Service Providers (ISPs) have emerged 
+with differentiated offers, encouraging innovation and 
+competition. 
+ 
+France's major broadband players 
+-------------------------------- 
+¶4.  The champion of France's broadband boom in the retail 
+market is Iliad, a young telecoms firm that offers some of 
+the most advanced services in Europe.  Under the "Free" 
+brand name, the company proposes a bundled triple play of 
+telephony, 100 channels of digital television and broadband 
+access for less than 30 euros a month.  Free had 17.4% of 
+the ADSL market in France as of December 31, 2004.  Free, 
+along with ISP market leader, France Telecom's Wanadoo, 
+plans a large scale roll out of ADSL 2 Plus with complete 
+coverage across France by the end of 2005. 
+ 
+¶5.  Italian incumbent, Telecom Italia, the latest newcomer 
+on the French broadband market, recently acquired Tiscali's 
+French internet subsidiary, Tiscali France (formerly Liberty 
+Surf), poised to become the third largest broadband internet 
+provider in France.  Tiscali's French business counts 
+344,000 high-speed Internet service customers. 
+ 
+¶6.  To boost its base of 310,000 subscribers, France's loss- 
+making fixed line operator Cegetel launched a new high-speed 
+Internet connection and voice-over-internet service.  The 
+company, which is reportedly losing 15 million euros a 
+month, plans to offer customers up to 20 megabits of 
+bandwidth, about 40 times faster than the entry-level 
+broadband offer -- matching offers from Wanadoo and Free. 
+Subscribers to the service, which will cost 14.90 euros a 
+month, will be offered unlimited local and national calls to 
+fixed-line numbers for another 10 euros a month using voice- 
+over-internet protocol (VoIP) technology. 
+¶7.  Cegetel further intends to enter the market for triple- 
+play services -- pay-TV, Internet and VoIP -- in the fall, 
+with the launch of its new multi-media C-Box.  Analysts say 
+pay-TV over the Internet is the new driver of revenues and 
+profits for high-speed Internet service providers. 
+According to statements made by Vivendi, one of the owners 
+of Cegetel, to French brokerage firm Kepler last week, they 
+hope this new strategy will to boost Cegetel's subscriber 
+base to put the company back on a solid profit-making path. 
+¶8.  Bouygues Telecom, France's third mobile operator and the 
+rebel of the French Telecom market, is taking an alternative 
+approach to the explosive broadband market.  CEO Martin 
+Bouygues recently said recently that it did not make 
+financial sense for his company to take part in the 
+consolidation of the ADSL market, because there are already 
+eight major Internet service providers in France.  Instead, 
+Bouygues, which has more than seven million mobile 
+subscribers, is talking to a number of broadband service 
+providers about offering a fixed/mobile service combination. 
+The ambitious triple-play service provider Neuf Telecom, is 
+allegedly the favorite to hook up with Bouygues.  Neuf 
+Telecom is in talks to become a mobile virtual network 
+operator (MVNO) on Bouygues's network, and such a deal could 
+see Bouygues resell Neuf's broadband services to its 
+customers. 
+ 
+¶9.  As for the wholesale market, French regulator ART has 
+just launched a public consultation on both the wholesale 
+market for unbundled access and the wholesale market for 
+broadband access at the national level, which was notified 
+to the European Commission on April 13. 
+ 
+Comment 
+------- 
+¶10.  With French ISP rates dropping to half of those in many 
+other European countries, French broadband consumers are 
+seeing the fruits of infrastructure investment combined with 
+successful regulatory unbundling and line sharing policies. 
+Rarely does France produce such a clear example of 
+flourishing economic growth from the promotion of free- 
+market competition.  But the picture is not rosey from all 
+vantage points.  France Telecom is clearly concerned about 
+losing market share to new entrants which can often be more 
+innovative and flexible than the old behemoth incumbent. 
+Some companies like Cegetel have been willing to absorb 
+losses to stay in the game, but cannot brush off concerns 
+from investors about being in the red year after year.  And, 
+policymakers and politicians are concerned that growth and 
+competition in broadband are thriving in metropolitan areas 
+but leaving rural communities behind.  So, two major 
+delegations of French regulators (December 2004) and local 
+government leaders (April 2005) recently visited the U.S. to 
+look for lessons and best practices to ensure that broadband 
+deployment reaches all communities, including rural and 
+isolated areas.  End comment. 
+ROSENBLATT

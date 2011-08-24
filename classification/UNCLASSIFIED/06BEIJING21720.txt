@@ -1,0 +1,375 @@
+06BEIJING21720
+DESIGNING A SYSTEM CREATING A BANKRUPTCY
+Fri Oct 13 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Beijing
+VZCZCXRO8215
+PP RUEHCN RUEHGH
+DE RUEHBJ #1720/01 2860911
+ZNR UUUUU ZZH
+P 130911Z OCT 06
+FM AMEMBASSY BEIJING
+TO RUEHC/SECSTATE WASHDC PRIORITY 9648
+RUEATRS/DEPT OF TREASURY WASHDC
+RUCPDOC/USDOC WASHDC
+INFO RUEHSH/AMCONSUL SHENYANG 6989
+RUEHGH/AMCONSUL SHANGHAI 6105
+RUEHCN/AMCONSUL CHENGDU 7338
+RUEHGZ/AMCONSUL GUANGZHOU 1638
+RUEHIN/AIT TAIPEI 5980
+RUEHHK/AMCONSUL HONG KONG 8276UNCLAS SECTION 01 OF 05 BEIJING 021720 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPT PASS USTR 
+USTR FOR STRATFORD, WINTER, ALTBACH, KARESH, ROSENBERG 
+TREAS FOR OASIA/ISA-CUSHMAN 
+USDOC FOR 4420/ITA/MAC/MCQUEEN, IA/LORENTZEN, HSU 
+GENEVA FOR CHAMBERLIN 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN EINV PGOV CH
+SUBJECT:  DESIGNING A SYSTEM CREATING A BANKRUPTCY 
+MECHANISM FOR FINANCIAL INSTITUTIONS 
+ 
+REF:  BEIJING 19482 
+ 
+¶1.  Reftel reported on Embassy discussions with 
+Professor Li Shuguang on September 6 about China's new 
+Law on Enterprise Bankruptcy.  As Director of the 
+Bankruptcy Law and Restructuring Research Center at 
+the China University of Politics and Law, as well as a 
+member of the National People's Congress drafting 
+group which prepared the new law, Li is a leading 
+expert on China's bankruptcy regime.  During the 
+September 6 meeting, Li told Emboff that China would 
+need new regulations to apply the new law to financial 
+institutions.  On September 18, Li published an 
+article in "Caijing" (Finance) Magazine laying out 
+nine areas where he believes regulatory clarification 
+is necessary.  An unofficial Embassy translation of 
+the article appears below.  The original Chinese text 
+is available at 
+http://caijing.hexun.com/text.aspx?sl=2324&id =1832111. 
+ 
+¶2.  Begin unofficial Embassy translation of text of 
+Professor Li?s 18 September Caijing article: 
+ 
+Designing a Bankruptcy System for Financial 
+Institutions 
+by Li Shuguang 
+ 
+On August 27 of this year, the new "PRC Law on 
+Enterprise Bankruptcy" was passed by the National 
+People's Congress, and it will go into effect on June 
+1, 2007. 
+ 
+Article 134 in the supplementary provisions of this 
+law sets forth special regulations specifically for 
+the problem of bankruptcy of financial institutions. 
+In the nine months between the new "Bankruptcy Law's" 
+passage and when it goes into effect, the new law 
+gives the Central Government power to establish 
+procedures for financial institution bankruptcies.  In 
+my view, any "implementation measures (or regulations) 
+on carrying out financial institution bankruptcy 
+proceedings" should emphasize resolving the nine major 
+problems listed below. 
+ 
+¶1.  The definition and scope of "financial 
+institution." 
+ 
+At present, there is no law that provides a precise 
+definition for "financial institution."  Generally, 
+institutions overseen by the three main supervisory 
+bodies, the China Bank Regulatory Commission (CBRC), 
+the China Securities Regulatory Commission (CSRC) and 
+the China Insurance Regulatory Commission (CIRC) are 
+regarded as financial institutions.  Strictly 
+speaking, this is not an accurate definition. 
+ 
+Such a definition overlooks other, more important 
+supervisory bodies -- the Central Bank and the State 
+Administration for Foreign Exchange (SAFE).  The term 
+"financial institution" should cover institutions 
+subject to the supervision of these agencies. 
+ 
+Some types of businesses supervised by financial 
+supervisory agencies are not considered financial 
+sector businesses.  For example, the futures industry, 
+regulated by the CSRC, is considered part of the food 
+and beverage industry.  However, the new draft "Law on 
+the Management of Futures Trading" has, in practice, 
+already classified futures trading as a financial 
+sector industry.  So "financial institutions" already 
+includes the futures and derivatives trading industry. 
+ 
+Some institutions with financial assets supervised by 
+government finance agencies, such as financial groups 
+like CITIC Group and China Everbright Group, etc., or 
+financial asset management companies such as Huarong 
+Asset Management Co. and Cinda Asset Management Co., 
+should be included in the category "financial 
+ 
+BEIJING 00021720  002 OF 005 
+ 
+ 
+institutions." 
+ 
+In addition, financial organizations sponsored by the 
+Ministry of Agriculture, such as rural financial 
+markets and agricultural credit cooperatives, should 
+also fall within the definition of "financial 
+institution." 
+ 
+¶2.  Who files for financial institution bankruptcy? 
+ 
+Article 134 of the new Bankruptcy Law provides that 
+"when financial institutions, such as commercial 
+banks, securities firms, or insurance companies, are 
+in the situation described in Article 2 of this law, 
+State Council financial supervisory agencies may apply 
+to the People's Court to reorganize or liquidate the 
+financial institution in question."  This raises the 
+question of whether the financial institutions 
+themselves can file for bankruptcy, and whether 
+creditors can file for bankruptcy proceedings against 
+them. 
+ 
+Two considerations went into drafting this article. 
+The first consideration was that non-state-owned 
+financial institution bankruptcy cases need not 
+necessarily go through the State Council.  The second 
+was that in the current "Commercial Bank Law," 
+"Insurance Law," and "Securities Law," bankruptcies of 
+commercial banks, insurance companies and securities 
+firms must receive authorization from the State 
+Council as a prerequisite, companies which are not 
+commercial banks, insurance companies or securities 
+firms do not necessarily need to. 
+ 
+The regulations do not prescribe financial 
+institutions from voluntarily filing for bankruptcy. 
+Implementation measures (or regulations) should be 
+drafted so as to clarify which types of financial 
+institutions must report to or receive approval from 
+the State Council in filing for bankruptcy, and which 
+do not. 
+ 
+3)  Prerequisites for Financial Institution Bankruptcy 
+Filings. 
+ 
+The "implementing measures (or regulations)" can 
+continue existing rules on prerequisites for financial 
+institution bankruptcies, and at the same time expand 
+their scope to include bankruptcy filings for futures 
+trading companies, large trust companies, and large 
+financial holding companies, requiring that the State 
+Council approve their filings as well.  Bankruptcy 
+proceedings for other small- and medium-sized 
+financial institutions can be treated in the same way 
+as corporate bankruptcies. 
+ 
+4)  Administrating Bankruptcy Proceedings for 
+Financial Institutions. 
+ 
+Because of the special nature of bankruptcies of 
+financial institutions, commercial administrating 
+bodies or administrators do not necessarily have any 
+special qualifications for taking control of the 
+assets of bankrupt financial institutions or 
+administering their affairs through bankruptcy 
+proceedings.  They also lack experience in managing 
+financial risks or financial crises.  A system should 
+be considered in which liquidation groups, or 
+administrating bodies are set up jointly by financial 
+regulators in cooperation with commercial specialists, 
+and in which individuals given responsibility for 
+administering bankruptcies would be drawn from the 
+ranks of experienced financial specialists.  So, 
+"implementation measures" should specifically set 
+forth the qualifications, method of selection, 
+professional responsibilities and supervisory 
+conditions for administrators of financial institution 
+bankruptcy cases. 
+ 
+BEIJING 00021720  003 OF 005 
+ 
+ 
+ 
+5)  Reporting of Claims against Bankrupt Financial 
+Institutions. 
+ 
+Because China is in a particular phase of economic 
+transition, commercial credit transactions tend to be 
+relatively chaotic, and in the disorderly use of legal 
+concepts, property rights, shareholders' rights, 
+creditors' rights and renters' rights tend to get 
+tangled together.  It is not clear what really can be 
+considered debt.  For example, when a commercial bank 
+goes bankrupt, is there a debtor-creditor relationship 
+between the bank and its account holders?  If a 
+securities firm misappropriates its customers' down- 
+payments, is the customer whose funds were used in 
+such a manner a simple creditor or a secured creditor? 
+In terms of fundamental principles, these questions 
+are debatable and it is sometimes hard to make clear 
+distinctions. 
+ 
+As another example, after the Central Bank, the CSRC 
+and other agencies jointly issued the "Notice 
+regarding the questions related to individual claims 
+and customers' security trading settlement funds of 
+securities companies," quite a few investors have 
+different ideas.  There is no question that individual 
+bank deposits, all types of financial bonds issued by 
+financial institutions and held by residents, and 
+settlement funds from customers' securities trades 
+fall within the category of debt instruments.  As for 
+property entrusted by residents to financial 
+institutions for trading, and residents' negotiable 
+securities deposited in relevant accounts, but 
+misappropriated by financial institutions, different 
+opinions exist about whether they should be considered 
+as individual claims. 
+ 
+In line with the development of China's financial 
+markets and economy, new kinds of financial bonds will 
+continually emerge.  I recommend that any 
+"implementation measures" clearly delineate personal 
+and institutional debts, but also give judicial 
+institutions room to make precedent-setting rulings 
+regarding the delineation of various types of 
+financial bonds. 
+ 
+¶6.  Reorganizing Bankrupt Financial Institutions. 
+ 
+Because the social repercussions of the bankruptcy of 
+financial institutions are relatively great, all 
+countries encourage financial institutions to choose 
+the option of reorganization when they go bankrupt, 
+unless there is no other possible choice.  This 
+process generally involves the government injecting 
+capital, taking over the institution, placing it in 
+the care of a trustee, refinancing through the Central 
+Bank, or some similar method.  Of course, 
+reorganization can also be left to the market. 
+ 
+I recommend that any "implementation measures (or 
+regulations" require that:  1) During the period of 
+reorganization, the debtor must not manage its own 
+assets, but rather should be taken over by the 
+government, placed under the care of a trustee, or 
+assigned to a specially designated administrator, in 
+order that the government can guide the reorganization 
+process.  2) The period of time to prepare a 
+reorganization plan for a financial institution should 
+be longer than for other enterprises.  I recommend 360 
+days.  3)  Financial institutions' creditors should be 
+divided into different kinds of categories than in 
+ordinary bankruptcy cases.  In general, individual 
+creditor?s rights should be separated from financial 
+claims.  The particular characteristics of creditors 
+and shareholders, such as depositors, holders of 
+securities, holders of futures, and holders of 
+insurance policies should be given consideration, and 
+at the same time, the problem of protecting the rights 
+ 
+BEIJING 00021720  004 OF 005 
+ 
+ 
+of claims of employees of financial institutions 
+should be given appropriate consideration.  The 
+implementation and supervision of the reorganization 
+plan should receive close attention after its passage. 
+ 
+7)  Monetization of Assets of Financial Institutions. 
+ 
+In financial institution bankruptcy cases, there are 
+essentially two types of assets -- tangible and 
+intangible -- which need to be monetized.  The 
+intangible assets of financial institutions mainly 
+include their operating license trading rights, as 
+well as their so-called "license plate" (their brand 
+name), their marketing network and marketing 
+operation.  These are a financial institution's main 
+assets, and their value is considerable. 
+ 
+In order to better carry out the monetization of the 
+assets of financial institutions, any "implementation 
+measures" should set forth that:  1)  The value of 
+intangible assets must be assessed, not just tangible 
+assets.  2)  The monetization of a financial 
+institution's assets, the disposition of its operating 
+license, its brand name, and the settlement of the 
+entitlements of its employees should be considered all 
+together, and listed in the conversion plan of 
+insolvent assets.  3)  The assets of a financial 
+institution should be monetized openly, through the 
+mechanism of an auction based on the principle of 
+competition. 
+ 
+8)  The Special Nature of Allocation of Assets in 
+Financial Institution Bankruptcy Cases. 
+ 
+In financial institution bankruptcy cases, Western 
+countries have established a principle of "limited 
+repayment," also known as "creditor's discount."  This 
+means that when a financial institution goes bankrupt, 
+a limit is set on individual claims, below which the 
+creditor is repaid in full, but above which the 
+creditor only receives a set proportion of their 
+claim.  In setting a ceiling, one must consider such 
+factors as this country's phase of economic 
+development, the investment capacity of investors, and 
+society's ability to bear the burden.  In the past two 
+years, in dealing with the troubled securities firms 
+Dapeng Securities and China Southern Securities?and 
+the D?Long Group crisis, the People's Bank of China 
+and others used rules and methods based on purchasing 
+individual?s claims at a discount, in an effort to 
+appropriately solve the problem of the who gets 
+priority in repayment among individual creditors, and 
+treated all non-secured institutional creditors as 
+regular creditors.  This type of principle can be 
+rolled into any "implementing measures (or 
+regulations)." 
+ 
+9)  Guaranty Funds for Investors in Financial 
+Institutions. 
+ 
+According to the existing regulatory framework, three 
+major types of guaranty funds should be prepared for 
+the bankruptcy of financial institutions:  a 
+depositor's insurance fund, an insurance holder's 
+guarantee fund, and a security investor's guaranty 
+fund.  I believe that the first two will be set up and 
+designed in the same way as the already existing 
+protection fund for securities investors.  But the 
+problem is that these three funds do not provide 
+protection for all bankrupt financial institutions. 
+As a result, in preparing "implementation measures" it 
+is worth considering whether the three funds should be 
+combined into a single Financial Institution Investors 
+Guaranty Fund, or as separate guaranty funds. 
+ 
+I believe, since each fund collects contributions in a 
+different way, and from different sources, the 
+principles and purpose of payment may vary, the 
+ 
+BEIJING 00021720  005 OF 005 
+ 
+ 
+establishment of such funds should be handled in a 
+flexible way.  We could create three large funds, or 
+establish different funds for futures investors and 
+other types of investors, and set clear regulations on 
+the source of funding, coverage, function, 
+supervision, etc., and gradually increase the overall 
+scale and reserve ratio of each fund over time. 
+ 
+END UNOFFICIAL EMBASSY TRANSLATION TEXT. 
+ 
+RANDT

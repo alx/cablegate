@@ -1,0 +1,145 @@
+08TAIPEI1039
+TAIWAN IPR: 301 WATCH LIST OCR PROCESS UPDATE TWO
+Tue Jul 15 00:00:00 +0200 2008
+UNCLASSIFIED
+American Institute Taiwan, Taipei
+VZCZCXRO7688
+PP RUEHCN RUEHGH RUEHVC
+DE RUEHIN #1039/01 1972222
+ZNR UUUUU ZZH
+P 152222Z JUL 08
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC PRIORITY 9510
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUEHBK/AMEMBASSY BANGKOK 4288
+RUEHBY/AMEMBASSY CANBERRA 4964
+RUEHML/AMEMBASSY MANILA 0550
+RUEHGP/AMEMBASSY SINGAPORE 7372
+RUEHKO/AMEMBASSY TOKYO 0082
+RUEHWL/AMEMBASSY WELLINGTON 2179
+RUEHCHI/AMCONSUL CHIANG MAI 0455
+RUEHHM/AMCONSUL HO CHI MINH CITY 0297
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RHMFIUU/DEPT OF JUSTICE WASHINGTON DCUNCLAS SECTION 01 OF 02 TAIPEI 001039 
+ 
+SIPDIS 
+ 
+STATE FOR EAP/TC 
+STATE PASS USTR FOR KATZ AND RAGLAND, COMMERCE FOR 
+4431/ITA/MAC/AP/OPB/TAIWAN, COMMERCE ALSO FOR ITA/MAC/OIPR, 
+COMMERCE PASS TO USPTO GIN, BROWNING,AND LOC STEPP,USDOJ 
+FOR JOHN ZACHARIA 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ETRD KIPR PREL PGOV TW
+SUBJECT: TAIWAN IPR: 301 WATCH LIST OCR PROCESS UPDATE TWO 
+ 
+REF: A. SECSTATE 43143 
+     ¶B. TAIPEI 950 
+     ¶C. TAIPEI 745 
+ 
+TAIPEI 00001039  001.2 OF 002 
+ 
+ 
+¶1. (SBU) Summary: Due in part to a recent compromise between 
+local rights-holder groups and the Taiwan Intellectual 
+Property Office (TIPO) on draft language for internet service 
+provider (ISP) amendments to Taiwan's Copyright Act, Taiwan 
+is now making progress on all three areas outlined in May's 
+Special 301 Watch List submission for Taiwan (ref A). TIPO 
+continues to predict that it will pass the final draft of the 
+amendment to the Executive Yuan (EY) in August at the 
+earliest, though September is now a possibility. The Ministry 
+of Education (MOE) continues to engage with rights-holder 
+groups, and may consider their request that the MOE allow the 
+Taiwan authorities to treat the Ministry's island-wide TANet 
+system as an ISP under the Taiwan Copyright Act.  As reported 
+in reftel B, the Intellectual Property (IP) Court opened as 
+scheduled on July 1. End summary. 
+ 
+------------------------------ 
+Compromise Reached on ISP Bill 
+------------------------------ 
+ 
+¶2. (SBU) The original version of the draft ISP amendment 
+included language in Article 88 explicitly stating that ISP 
+operators could be subject to secondary liability for hosting 
+IP-infringing material.  Rights-holder groups were happy with 
+this language, which they saw as necessary to give the 
+proposed legislation teeth, but ISP operators had objected, 
+and their objections were delaying progress on finalizing the 
+draft amendment (ref C).  In response to a May 26 request by 
+the Ministry of Economic Affairs (MOEA), on July 4, the 
+Ministry of Justice (MOJ) formally submitted a written 
+opinion stating that ISP operators are subject to secondary 
+liability ("contributory infringement") under Article 185 of 
+the Taiwan Civil Code, and that language related to secondary 
+liability in Article 88 was therefore not necessary. As 
+expected, TIPO used the MOJ opinion to justify deleting the 
+concept of secondary liability from Article 88. 
+ 
+¶3. (SBU) On July 7, TIPO Copyright Department Director Chang 
+Yu-ying met with ISP operators, rights-owner groups, and 
+other experts to hear their opinions about this new version 
+of proposed ISP-related amendments to the Copyright Act.  At 
+the meeting--and despite earlier rights-holder opposition to 
+ISP attempts to remove Article 88 from the 
+draft--rights-holder groups did not object to the new 
+language.  According to our local rights-holder contacts, 
+they dropped their opposition after an earlier, private 
+meeting with TIPO Deputy Director Margaret Chen, during which 
+the groups agreed to accept the new version in exchange for 
+several other changes favorable to rights-holders.  These 
+changes include stricter notification requirements, as well 
+as language requesting ISPs to use rights-holder-provided 
+content-filtering mechanisms.  According to Robin Lee, CEO of 
+the recording-industry rights-holder group IFPI, 
+rights-holder groups are also confident that after TIPO 
+submits the bill to the LY, KMT Legislator Hseih Kuo-liang 
+will add language related to secondary liability back into 
+the amendment. 
+ 
+-------------------------------- 
+MOE Campus Action Plan Continues 
+-------------------------------- 
+ 
+¶4. (SBU) During a July 10 meeting with Economic Chief, 
+Ministry of Education Computer Center Director Yang 
+Cheng-hong noted that his office met in the spring with 
+eleven representatives of the Taiwan Intellectual Property 
+Association (TIPA) and promised to review their suspected 
+copyright infringement cases regarding the Taiwan Academic 
+Network (TAnet), for which the Computer Center is 
+responsible.  Yang added that later this month his office 
+will counsel ten universities that have recorded increasing 
+numbers of TAnet infringements. 
+ 
+TAIPEI 00001039  002.2 OF 002 
+ 
+ 
+ 
+¶5. (SBU) During the same meeting, Vice Minister of Education 
+Lu Mu-lin reported that implementation of the Campus Action 
+Plan is going well, and that the MOE will share updated 
+enforcement statistics with AIT in the near future.  Lu 
+mentioned that MOE will soon strengthen the standard IP 
+questionnaire students must complete before initial access to 
+TAnet. In response to rights-holder requests and AIT advocacy 
+in favor of including TAnet in draft ISP legislation, Lu said 
+the MOE is now preparing draft language for interagency 
+discussion that would clarify that TANet should be covered 
+under the proposed ISP amendments, though he acknowledged 
+opposition within the MOE may derail such a change. 
+ 
+¶6. (SBU) Comment: In anticipation of an eventual out-of-cycle 
+review, we assess that Taiwan has made measurable progress on 
+the three key areas outlined by the U.S. in this year's 
+Special 301 Watch List submission for Taiwan.  We will be 
+watching to see how effectively the new IP Court handles 
+cases, and we will continue to monitor Taiwan's 
+implementation of its Campus IP Action Plan. The main issue 
+will now be Taiwan's progress toward passing an acceptable 
+version of the ISP amendment, and though rights-holders 
+appear satisfied with the current language, we will continue 
+to follow its progress from TIPO to the EY and LY. 
+YOUNG

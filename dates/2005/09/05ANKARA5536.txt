@@ -1,0 +1,126 @@
+05ANKARA5536
+TURKEY AND TURK TELEKOM: EMBASSY ASSISTS AT&T
+Fri Sep 23 00:00:00 +0200 2005
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ankara
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+231353Z Sep 05UNCLAS SECTION 01 OF 02 ANKARA 005536 
+ 
+SIPDIS 
+ 
+USDOC FOR 4212/ITA/MAC/CPD/CRUSNAK 
+FCC FOR A THOMAS 
+ 
+SENSITIVE 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS EINV BEXP TU
+SUBJECT:  TURKEY AND TURK TELEKOM: EMBASSY ASSISTS AT&T 
+ 
+REF: A) ANKARA 4226 
+ 
+     B) ANKARA 2072 
+ 
+CORRECTED COPY 
+Sensitive But Unclassified.  Please handle accordingly. 
+ 
+¶1. (SBU) Summary: Embassy helped AT&T obtain GOT regulatory 
+approval for its merger with SBC and with researching timely 
+resolution of problems with downed leased lines in Turkey. 
+The Turk Telekom privatization has been delayed due to some 
+legal attacks launched by labor unions, but all parties are 
+optimistic that it will reach closure.  Embassy seeks to 
+build on the Telecom Regulatory Authority's interest in 
+cooperating with the FCC. 
+ 
+Embassy Provides Assistance to AT&T 
+----------------------------------- 
+ 
+¶2.  (SBU) Embassy recently provided two instances of 
+assistance to AT&T in Turkey, where it provides AT&T Global 
+Network Node connectivity to multinational clients.  At 
+AT&T's request, the Embassy interceded with the Turkish 
+Telecom Authority in July to facilitate and gain timely 
+approval without conditions for the AT&T - SBC merger 
+(consistent with approvals around the world). 
+ 
+¶3.  (SBU) Responding to a second request in August, Embassy 
+researched with Turk Telekom on how to assure timely 
+response to domestic leased line circuits going down.  Turk 
+Telekom's Assistant General Manager Celalettin Dincer gave 
+EconOff and Econ Assistant good news and bad news.   The 
+good news was that TT is putting in place a new IT enhanced 
+call center system ("error-management" system; web- or 
+telephone-based) wherein complaints would be given ticket 
+numbers for tracking and timely resolution.  (Dincer 
+admitted that a parallel marketing system for problem 
+resolution by wholesale customer reps had been put on hold 
+pending the privatization of TT.)  The bad-news was that the 
+system is targeted to be completed by the end of the year, 
+and in the meantime, there is limited centralized control 
+and no "national champion" for domestic local circuit 
+management.  Rather, Dincer said, ISPs and other wholesale 
+customers employ local contracts to monitor and facilitate 
+resolution of downed circuits.  Subsequently, they asked 
+Embassy to follow up again seeking an interim national 
+"champion" and offering to provide TT with lessons learned 
+world-wide. 
+ 
+Suits against Turk Telekom Privatization 
+---------------------------------------- 
+ 
+¶3.  (SBU) Dincer admitted that the mood at Turk Telekom was 
+morose, as the company waited for resolution of suits filed 
+against the privatization tender won by a consortium led by 
+Saudi Oger Telecom (partnered by Telecom Italia and advised 
+by BT Consulting) (Ref A).  While the privatization 
+contemplated placing some 30,000 employees elsewhere in the 
+government bureaucracy, there was still uncertainty and 
+stress over to whom the new management might make employment 
+offers.  Dincer commented that Oger Telcom lacked a local 
+partner and adequate human resources and technical staff, so 
+it might benefit the new management to keep more current TT 
+employees.  Of course, pending resolution of the suits and 
+until the first payment is made, the new potential 
+management cannot be directly involved with Turk Telekom. 
+Dincer noted that the recent successful tender offering for 
+the Turkish oil refinery company TUPRAS (in an amount over 
+three-fold greater than the tender cancelled last year) 
+might give detractors of the TT tender ammunition to argue 
+for canceling and repeating (dialing for hoped for greater 
+dollars). 
+ 
+¶4.  (SBU) On the other hand, Privatization Administration 
+officials are convinced that the TT privatization will move 
+forward, citing new legislation aimed to reduce technical 
+problems, which provided the grounds for the Danistay's 
+(Council of State) ruling canceling the TT privatization 
+last time.  In a press conference held on September 15, 
+Finance Minister Unakitan, who is also the Minister for 
+privatization, said the GOT did not expect any negative 
+Court ruling to stop the TT privatization.  Moreover, the 
+Minister said the concession agreement draft had been 
+initialed by Turk Telecom and the Telecom Authority, and 
+while the Danistay could offer its view, it would not have 
+grounds to kill the deal. 
+ 
+¶5.  (SBU) Comment: The Privatization Administration and we 
+are still optimistic that the Turk Telekom privatization 
+will move to fruition, but opposition from labor unions and 
+the judiciary can still delay the process, exacerbating 
+delays in liberalizing the key sector.  We are eager to 
+pursue contacts between FCC and the Telecom Authority (Ref 
+B).  The Turk Telekom Assistant Director thought such 
+contacts could be useful, but pointed out that the Turkish 
+market is quite unique, and now more appropriately targeting 
+the European model because of prospective EU accession. 
+However, private long distance service providers and ISP's 
+continue to complain about the Telecom Authority not taking 
+sufficient action against Turk Telekom's high 
+interconnection prices.  Some are losing money and may close 
+down.  FCC's advice and cooperation with the Telecom 
+Authority may be an opportunity to provide ideas to counter 
+these and other problems. 
+ 
+McEldowney

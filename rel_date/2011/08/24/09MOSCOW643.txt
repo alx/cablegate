@@ -1,0 +1,85 @@
+09MOSCOW643
+EXTRANCHECK: PRE-LICENSE CHECK: ALTONIKA LTD, MOSCOW,
+Tue Mar 17 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0010
+PP RUEHWEB
+
+DE RUEHMO #0643 0761015
+ZNR UUUUU ZZH
+P 171015Z MAR 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2419
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000643 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/M.HAMES/L.RITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: ALTONIKA LTD, MOSCOW, 
+RUSSIA, LICENSE NO. D411660 
+ 
+REFTEL: USDOC 0336 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a pre-license check to determine the legitimacy 
+and reliability of the end-user, Altonika Ltd., Moscow, Russia. The 
+company is listed on BIS license application D411660 as the ultimate 
+consignee of a 14-BIT 40 MSPS analog to digital converter. This item 
+is controlled for national security and nuclear non-proliferation 
+reasons under ECCN 3A001. The licensee is Analog Devices, Inc., 3 
+Technology Way, Norwood, MA 02062. 
+ 
+¶3. On March 2, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested pre-license check at the 
+offices of Altonika Ltd., 42 Varshavskoya Shosse, Building 7, 
+Moscow, Russia. The export control team met with Anna Shevtsova, 
+Head of Purchasing Department. 
+ 
+¶4.  Altonika Ltd was founded in 1987 as a security alarm system 
+company.  Altonika Ltd employs more than 700 people and produces 
+radio networks for various ministries in Russia.  Their radio 
+network systems are in use by the railroads, fire rescue, police, 
+and in security alarm systems for buildings and automobiles. 
+Altonika Ltd also produces radio frequency medical devices. Altonika 
+Ltd does no military contract work and sells their systems only 
+within the CIS countries. 
+ 
+¶5.  Anna Shevtsova advised the Export Control Team that the 
+commodity in reftel will be used as a part in a base radio channel 
+station for the purpose of transmitting fire-security alarms.  The 
+transmitting devices will be installed at various structural 
+facilities, not vehicles as indicated in reftel.  Signals from these 
+devices are transferred to the base station via radio channel.  The 
+base station analyzes the signals using the 433.92 MHz frequency 
+range for which Altonika Ltd is fully licensed. 
+ 
+¶6. Anna Shevtsova further advised that the base station uses a 
+service band of 2X200 kHz.  The analog-to-digital converter usage 
+will be in the frequency range of 0 MHz to 32 MHz. Altonika Ltd 
+plans to install 3 micro circuits AD6644AST-65 into the main base 
+station.  Sales of the base stations are expected to be 
+approximately 200 pieces per year. 
+ 
+¶7.  Altonika Ltd has the commercial sophistication for the reftel 
+commodity and a legitimate need and end use.  POC Shevtsova was not 
+evasive in her answers to the Export Control Team, and she provided 
+the team with a tour of the Altonika Ltd facilities. 
+ 
+¶8. Recommendations: Post recommends Altonika Ltd, Moscow, Russia, as 
+reliable recipients of sensitive U.S. origin commodities. It is 
+requested that post be notified of final disposition of the 
+application. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

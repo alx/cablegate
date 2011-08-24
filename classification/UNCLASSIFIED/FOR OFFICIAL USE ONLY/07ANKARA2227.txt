@@ -1,0 +1,84 @@
+07ANKARA2227
+BLUE LANTERN END USE CHECK ON LICENSE 05-050022026
+Wed Aug 29 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ankara
+VZCZCXYZ0008
+RR RUEHWEB
+
+DE RUEHAK #2227 2411224
+ZNR UUUUU ZZH
+R 291224Z AUG 07
+FM AMEMBASSY ANKARA
+TO RUEHC/SECSTATE WASHDC 3574
+INFO RUEHBJ/AMEMBASSY BEIJING 0345
+RUEHNE/AMEMBASSY NEW DELHI 0469
+RUEHUL/AMEMBASSY SEOUL 0215
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHDC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS ANKARA 002227 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPARTMENT FOR PM/DTCC - BLUE LANTERN COORDINATOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC KS TU
+SUBJECT: BLUE LANTERN END USE CHECK ON LICENSE 05-050022026 
+AND 05-050044473 
+ 
+REF: STATE 116264 
+ 
+¶1.  (SBU) We met with Tubitak Uzay Director Ugur Murat 
+Leloglu on August 28 to discuss reftel Blue Lantern cases 
+associated with Tubitak Uzay's RASAT Remote Sensing Satellite 
+Project.  Leloglu was forthcoming and eager to cooperate with 
+our inquiry.  We confirmed that Tubitak Uzay has received the 
+couplers (Case Number 05-050022026), but has nQyet received 
+tQRadiation Tolerant Field Programmable Gate Arrays (Case 
+Number 05-050044473), as it is part of the remote sensing 
+camera that Tubitak Uzay had ordered, but not yet received, 
+from its South Korean partner, SATREC.  Upon our request, 
+Leloglu produced a list of major components for the camera. 
+The list included "Radiation Tolerant Field Programmable Gate 
+Arrays."  The model number listed was identical to the one 
+listed in reftel, except the model number ended with an "E, 
+whereas the model number listed in reftel ended with a "B." 
+According to Leloglu, Tubitak Uzay is expecting delivery of 
+the camera from South Korea later this month.  Leloglu has 
+pledged to inform us when the camera arrives. 
+ 
+¶2.  (SBU) Regarding the launch site for the satellite, 
+Leloglu noted that his institution had been in negotiations 
+with Kazakh satellite launch company Baikonur until very 
+recently, but those negotiations broke down due to concerns 
+over cost and timing.  Subsequent to the collapse of talks 
+with Baikonur, Tubitak Uzay had sent a message in early 
+August to all companies capable of launching satellites to 
+determine which company can meet its launch window of late 
+2008 to early 2009.  Tubitak Uzay has received a positive 
+response only from French aero-space firm Arianespace, with 
+which Tubitak Uzay has begun negotiations.  However, Leloglu 
+noted that the Indian firm Antrix had also responded to 
+Tubitak Uzay's inquiry by requesting additional technical 
+details on the satellite. 
+ 
+¶3.  (SBU) We reminded Leloglu about ITAR regulations 
+prohibiting the re-transfer or re-export of USML components 
+without express USG authorization, as well as standing USG 
+policy prohibiting the launch of satellites containing USML 
+components from India or China.  Leloglu indicated that 
+Tubitak Uzay plans to use Arianespace to launch the 
+satellite, but asked whether there is a process to seek U.S. 
+authorization to launch the satellite from India should all 
+other options fail.  We reiterated USG policy and discouraged 
+Leloglu from exploring the possibility of an exemption. 
+ 
+ 
+Visit Ankara's Classified Web Site at 
+http://www.state.sgov.gov/p/eur/ankara/ 
+ 
+WILSON

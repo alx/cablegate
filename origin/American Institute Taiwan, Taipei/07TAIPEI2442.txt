@@ -1,0 +1,161 @@
+07TAIPEI2442
+Taiwan IPR: Some Progress on Compulsory Licensing
+Mon Nov 05 00:00:00 +0100 2007
+UNCLASSIFIED
+American Institute Taiwan, Taipei
+VZCZCXRO8441
+PP RUEHCN RUEHGH RUEHVC
+DE RUEHIN #2442/01 3092235
+ZNR UUUUU ZZH
+P 052235Z NOV 07
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC PRIORITY 7297
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUEHBS/USEU BRUSSELSUNCLAS SECTION 01 OF 02 TAIPEI 002442 
+ 
+SIPDIS 
+ 
+STATE PLEASE PASS TO AIT/W AND EAP/RSP/TC 
+STATE PASS USTR/DAVID KATZ AND CHRIS WILSON 
+USDOC FOR 4430/ITA/MAC 
+USDOC FOR USPTO GIN, BROWNING, AND SNYDOR 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+ 
+TAGS: ECON ETRD KIPR TW
+SUBJECT:  Taiwan IPR: Some Progress on Compulsory Licensing 
+ 
+REFTEL: TAIPEI 638 
+ 
+Summary 
+------- 
+ 
+¶1. (SBU) Responding in part to U.S. concerns, Taiwan has shown some 
+progress on compulsory licensing, a practice whereby one company can 
+request that the authorities force a rights-holder to grant the 
+company a license for its patented product, often at a below-market 
+rate.  In one promising development, the Legislative Yuan (LY) has 
+suspended debate on a proposed amendment to Article 76 of the Patent 
+Act that would have allowed Taiwan authorities a broader use of 
+compulsory licensing for pharmaceuticals and other patented products 
+for domestic use and export.  In a separate positive development, as 
+part of a widely-watched test case on the use of compulsory licenses 
+in Taiwan, the Dutch company Philips reached a payment settlement 
+with a private Taiwan company for the company's past production of 
+CD-Rs and CD-RWs under such a license. This case is far from wrapped 
+up, however, with a decision still pending from the Taiwan High 
+Court and an impending report from the EU's Trade Barriers 
+Regulation (TBR) investigation into Taiwan's compulsory license 
+scheme.  End summary. 
+ 
+Background 
+---------- 
+ 
+¶2. (SBU) Amending Article 76 the Patent Act was first mooted in 2006 
+by Chen Min-jen, an American citizen and member from the ruling 
+Democratic Progressive Party (DPP) who serves as an "overseas 
+representative" to the LY (reftel). In December 2006, the 
+Legislative Yuan (LY) Economics and Energy Committee passed the 
+current version of the draft amendment, which would allow Taiwan 
+authorities to grant compulsory licensing of pharmaceuticals and 
+other patented products if the rights-holder has "misuse[d] patent 
+rights as determined by ... a court or a disposition made by the 
+Fair Trade Commission of the Executive Yuan." This change would 
+significantly relax the legal requirements for a local firm to 
+obtain a compulsory license.  It would allow a license to be issued 
+even while an appeal from the rights-holder was pending, for 
+example.  The amendment also says that such compulsory licenses do 
+not have to be "predominantly for the supply of the domestic 
+market." This provision appears to go beyond the scope allowed by 
+the 2001 Doha Declaration on the TRIPS Agreement and Public Health. 
+The United States expressed concern on several occasions to the 
+Taiwan side about both of these proposed changes under our ongoing 
+IPR dialogue (reftel). 
+ 
+LY Won't Act on Bill, Sponsor Won't Seek Re-election 
+--------------------------------------------- ------- 
+ 
+¶3. (SBU) Taiwan Intellectual Property Office (TIPO) Secretary 
+General Margaret Chen recently told econoff that the LY has 
+suspended discussion of the current Article 76 amendment.  Chen said 
+TIPO is drafting a new version of the bill that will take into 
+account US objections and will follow more closely to the language 
+of the 2001 Doha Declaration, and that TIPO will pass the new draft 
+proposal to us by the end of November for comment. [Note: We have 
+not seen a copy of this draft, nor do we know if it will reflect all 
+U.S. concerns.  End note.]  Since the new version will have to gain 
+EY approval and then start LY draft-law procedures again, she does 
+not think that the LY will have time to consider the new version 
+before the current legislative session ends December 31.  [Note: 
+Even if the EY got the new bill to the LY this session, the 
+amendment would not be a priority issue for legislators and would 
+almost certainly expire with the end of the session.] 
+ 
+¶4. (SBU) In addition, the amendment's sponsor in the legislature, 
+Chen Min-jen, will not be re-elected to his at-large, overseas DPP 
+seat.  Although the DPP has not yet made public its short-list of 
+at-large candidates for the upcoming LY elections, under the DPP's 
+charter, an at-large legislator cannot serve two consecutive terms 
+in the LY. Since Chen will not return to the LY next session, the 
+language he proposed this session to give the Taiwan authorities a 
+broad mandate to grant compulsory licenses is less likely find its 
+way into subsequent versions of the Patent Act amendment. 
+ 
+Philips Reaches Settlement 
+-------------------------- 
+ 
+¶5. (SBU) Philips Taiwan General Manager for IP and Standards James 
+Li told econoffs on October 31 that on October 30 Philips and 
+Taiwan's Gigabyte Storage Company reached a formal financial 
+settlement of compensation to Philips for Gigastorage's past 
+production of CD-Rs (Compact Disc-Recordable, a variation of the CD 
+invented by Philips and Sony) and CD-RWs (Compact Disc Re-Writable) 
+under a compulsory license granted by the Taiwan authorities in 
+¶2004.  [Note: Although Philips is a Dutch company, it has extensive 
+ 
+TAIPEI 00002442  002 OF 002 
+ 
+ 
+assets in the United States, and this case is a bellwether for the 
+use of compulsory licenses in Taiwan.  End note.]  This is a 
+worldwide settlement and ends all lawsuits brought by Philips 
+against Gigastorage.  In May 2007, after the EU initiated a Trade 
+Barriers Regulation (TBR) investigation of the case, Gigastorage 
+requested that TIPO nullify its original license approval, and the 
+company stopped production of CD-Rs and CD-RWs in Taiwan on 
+September 23.  Gigastorage, however, had balked until now at paying 
+licensing fees in full for the production run.  Li would not reveal 
+the size of the settlement, but he told us that it is a "real 
+settlement" for a "substantial sum" to be paid in installments. 
+ 
+¶6. (SBU) Philips has also appealed Taiwan's original decision to 
+compel the company to grant Gigastorage's license request, and 
+expects that the Taipei High Administrative Court will hand down its 
+ruling on this case by the end of the year. This is Philips' second 
+and final appeal, and Li told us that despite the Gigastorage 
+settlement, the company is continuing its appeal because Philips 
+wants legal vindication that the original decision to grant a 
+compulsory license was wrong. 
+ 
+¶7.  (SBU) Philips believes that the pressure of the EU investigation 
+is what changed attitudes at Gigastorage.  Through the 
+investigation, the EU will make a determination of whether or not 
+Taiwan's granting of compulsory licenses for CD-Rs and CD-RWs is 
+consistent with WTO commitments.  Philips expects the Commission to 
+issue its decision in mid-November.  According to Philips, the 
+Commission's options are to decide that satisfactory steps are being 
+taken by Taiwan to eliminate the barrier to trade, or to seek a 
+solution with Taiwan, or to initiate international dispute 
+settlement proceedings in the WTO against Taiwan. 
+ 
+Comment 
+------- 
+ 
+¶7. (SBU) The LY's failure to pass the current version of the 
+amendment to Article 76 is a small victory for rights-holders in 
+Taiwan, as is the progress in the Philips case.  We will continue to 
+engage TIPO to ensure Taiwan takes U.S. concerns into account before 
+finalizing the latest Patent Law amendment.  No action on the 
+amendment at all would be a positive outcome as well.  End comment.

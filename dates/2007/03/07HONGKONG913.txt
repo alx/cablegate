@@ -1,0 +1,129 @@
+07HONGKONG913
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Fri Mar 30 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0017
+RR RUEHWEB
+
+DE RUEHHK #0913/01 0890518
+ZNR UUUUU ZZH
+R 300518Z MAR 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 1147
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000913 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR 
+WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+TEGENT TECHNOLOGY LTD. 
+ 
+REF: A) USDOC 02348 
+ 
+1.Unauthorized disclosure of the information 
+provided below is prohibited by Section 12C of the 
+Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of 
+the Office of Enforcement Analysis (OEA) of the 
+USDOC Bureau of Industry and Security (BIS), 
+Export Control Officer Philip Ankel (ECO), 
+accompanied by Commercial Assistant Sandy Lai, 
+conducted a post shipment verification (PSV) at 
+Tegent Technology Ltd. (Tegent), Room 2103-05, 
+Westin Center, 26 Hung To Rd., Kwun Tong, Hong 
+Kong.  The items in question are a gas 
+chromatograph and an electrical mass spectrometer 
+exported to Tegent on or about December 18, 2006 
+with a combined value of approximately USD 30,000. 
+On the applicable shippers export declaration 
+(SED), these items are classified as 3A999.  Items 
+properly classified as 3A999 may be 
+exported/reexported license free to virtually all 
+destinations and end-users worldwide, except 
+certain terrorist sponsoring countries (including, 
+in particular, North Korea).  The exporter was 
+Agilent Technologies of New Castle, Delaware 
+(Agilent). 
+ 
+¶3.  According to the Hong Kong Companies Registry, 
+Tegent has been in existence since 1993.  It has 
+registered share capital of HKD one million 
+(approximately USD 125,000).  Directors are Hong 
+Kong identity card holders Hon Ching Cheung, Yan 
+Chiu Yu and Yan Oi Yu.  According to Tegent's web 
+site (www.tegent.com.hk), the company is a leading 
+provider of high technology testing instruments to 
+customers in mainland China.  Tegent lists typical 
+customers as laboratories involved in 
+environmental monitoring, food analysis, R&D and 
+petroleum product testing. 
+ 
+¶4.  The ECO and Commercial Assistant Sandy Lai 
+visited Tegent at the address referenced above on 
+March 27, 2007 and met with Mr. Andrew Cheung, 
+General Manager.  Mr. Cheung provided background 
+on Tegent. Consistent with the information noted 
+above, Mr. Cheung stated that Tegent has been in 
+business since approximately 1993.  It sells 
+primarily U.S. and European-made instruments to 
+the Hong Kong and mainland China markets with 
+approximately USD 30 million in annual turnover. 
+It has approximately 150 staff in Hong Kong and 
+mainland China.  Agilent is a major supplier to 
+Tegent of lab instruments and chemical analysis 
+machines.  According to Mr. Cheung, typical uses 
+for these instruments include testing for 
+pesticide and antibiotics residue in foodstuffs as 
+well as pollution testing. 
+ 
+¶5.  Mr. Cheung was familiar with export controls 
+noting that his company encounters the export 
+control requirements of the United States, Hong 
+Kong and Japan (for certain Agilent products 
+sourced from Japan).  As to U.S. export controls, 
+Mr. Cheung stated that he relies primarily on 
+Agilent to take care of these formalities as it is 
+quite familiar with U.S. export control rules. 
+The ECO provided Mr. Cheung with information on 
+U.S. reexport controls (BIS publication 'Guidance 
+on the Department of Commerce's Reexport 
+Controls'). 
+ 
+¶6.  With respect to the shipment that was the 
+subject of the PSV, Mr. Cheung provided an 
+original purchase order reflecting that the items 
+were sold to Yunnan Tea Garden Group of Kunming, 
+China.  Mr. Cheung stated that the items had not 
+yet been shipped to the customer and were 
+available for ECO's inspection in the company's 
+warehouse in the same building.  Mr. Cheung 
+subsequently corrected himself and stated that the 
+items were located at another location awaiting 
+shipment.  He offered to have them delivered from 
+the offsite location to the company for 
+inspection.  On March 29, 2007, ECO and Commercial 
+Assistant Lai visited Tegent and were able to 
+inspect Agilent shipping boxes with the units 
+ 
+ 
+inside. 
+ 
+¶7. At the time visited, Tegent appeared to be a 
+suitable recipient of the commodities shipped (as 
+reseller) since Tegent cooperated with the PSV and 
+provided all requested information concerning the 
+final disposition of the applicable items.  The 
+ECO recommends that this PSV be classified as 
+Favorable. 
+Cunningham

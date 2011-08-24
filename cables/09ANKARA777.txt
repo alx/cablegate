@@ -1,0 +1,269 @@
+09ANKARA777
+TURKEY: UPDATED INFORMATION ON HOST GOVERNMENT
+Tue Jun 02 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ankara
+VZCZCXYZ0016
+OO RUEHWEB
+
+DE RUEHAK #0777/01 1531237
+ZNR UUUUU ZZH
+O 021237Z JUN 09
+FM AMEMBASSY ANKARA
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 9798
+INFO RUEILB/NCTC WASHINGTON DC PRIORITY
+RUEAIIA/CIA WASHDC PRIORITY
+RUEAHLC/HOMELAND SECURITY CENTER WASHDC PRIORITYUNCLAS ANKARA 000777 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+S/CT FOR HILLARY BETJER JOHNSON, PAUL SCHULTZ 
+ 
+E.O. 12958: N/A 
+TAGS: PTER ASEC KVPR PREL PGOV CVIS KHLS TU
+SUBJECT: TURKEY: UPDATED INFORMATION ON HOST GOVERNMENT 
+PRACTICES: INFORMATION COLLECTION, SCREENING AND SHARING 
+ 
+REF: A. STATE 32287 
+     ¶B. 07 ANKARA 2848 
+ 
+¶1. This message is sensitive but unclassified.  Please handle 
+accordingly.  Post's responses are keyed to Ref A questions. 
+As instructed, only updates are provided.  Unless otherwise 
+stated, information provided Ref B remains valid.  New 
+information is provided in CAPITAL LETTERS. 
+ 
+¶A. (SBU) Immigration Data Bases and Traveler Information 
+Collection: 
+ 
+-- What computerized immigration databases are used to track 
+entries and exits?  See REF B.  A COMPUTERIZED IMMIGRATION 
+DATABASE IS COLLECTED AND MAINTAINED BY THE TURKISH NATIONAL 
+POLICE (TNP) FOREIGNERS' POLICE. 
+ -- Is the computerized immigration database available at all 
+ports of entry (POEs)? YES. 
+If immigration databases are available at some POEs, but not 
+all, how does the host government decide which POEs will 
+receive the tool? 
+-- What problems, if any, limit the effectiveness of the 
+systems?  For example, limited training, power brownouts, 
+budgetary restraints, corruption, etc.? THE DATA ENTRY SYSTEM 
+APPEARS TO BE EFFECTIVE AND RELIABLE. 
+-- How often are national immigration databases updated? 
+DAILY.  NOTE:  THE TNP USED TO HOLD EXIT-ENTRY RECORDS ONLY 
+FOR THE PREVIOUS TEN YEARS.  RECORDS ARE NOW KEPT 
+INDEFINITELY, ALTHOUGH POST BELIEVES TNP BEGAN KEEPING 
+RECORDS ONLY IN THE EARLY 1990S. 
+ALSO, BOTH TURKISH CITIZENS AND FOREIGN TRAVELERS MAY NOW OPT 
+NOT/NOT TO HAVE THEIR PASSPORTS STAMPED WITH ENTRY AND EXIT 
+STAMPS.  NONETHELESS, AN ELECTRONIC RECORD IS KEPT OF THE 
+EXIT OR ENTRY. 
+-- What are the country's policies (legislation, mandates, 
+etc.) on collecting information from travelers arriving in 
+the country?  IT IS MANDATORY FOR THE TNP TO COLLECT EXIT AND 
+ENTRY INFORMATION ON ALL TRAVELERS. (THE SOLE EXCEPTION IS 
+THE POPE.) 
+-- Are there different policies for entry and exit at air, 
+sea, and land POEs and for domestic flights? NO. 
+-- What agency oversees the collection of traveler 
+information?  THE TURKISH NATIONAL POLICE, WHICH IS UNDER THE 
+MINISTRY OF INTERIOR. 
+-- What are the policies of the collecting agency to share 
+that information with foreign governments? TURKEY CURRENTLY 
+DOES NOT HAVE BILATERAL AGREEMENTS WITH FOREIGN GOVERNMENTS, 
+BUT DOES HAVE ARRANGEMENTS WITH INTERPOL AND EUROPOL. 
+-- Does the host government collect Passenger Name Record 
+(PNR) data on incoming commercial flights or vessels?  NO. 
+ Is this data used for intelligence or law enforcement 
+purposes to screen travelers in a systematic way?  Does host 
+government have any existing treaties to share PNR data? 
+-- If applicable, have advance passenger information systems 
+(APIS), interactive advanced passenger information systems 
+(IAPIS), or electronic travel authority systems been 
+effective at detecting other national security threats, such 
+as wanted criminals? N/A 
+ 
+¶B. (SBU) Watchlisting:    SEE REF B. 
+ 
+Is there a name-based watchlist system used to screen 
+travelers at POEs? 
+-- What domestic sources of information populate the 
+name-based watchlist, i.e. names of deported persons, 
+terrorist lookouts, criminal wants/warrants?  If host 
+government maintains a watchlist, how many records does the 
+watchlist contain, and how many are terrorist-related? 
+-- Which ministry or office maintains the watchlist? 
+-- What international watchlists do the host government use 
+for screening individuals, e.g. Interpol or TSA No Fly lists, 
+UN, etc.? 
+-- What bilateral/multilateral watchlist agreements exist 
+between host government and its neighbors? 
+ 
+¶C. (SBU) Biometrics:   SEE REF B. 
+ 
+-- Are biometric systems in place at ports of entry (air, 
+land, sea)?  If no, does host government have plans to 
+install such a system?  If biometric systems are available at 
+some POEs, but not all, how does the host government decide 
+what POEs will receive the tool? 
+-- What biometric technologies, if any, does the host 
+government use, i.e. fingerprint identification, facial 
+recognition, iris recognition, hand geometry, retinal 
+identification, DNA-based identification, keystroke dynamics, 
+gait analysis?  Are the systems ICAO compliant? 
+ 
+ 
+IN JANUARY 2009, TURKEY BEGAN TO COLLECT BIOMETRIC DATA 
+(FINGERPRINTS ONLY) ON TURKISH CITIZENS APPLYING FOR A NEW 
+TURKISH PASSPORT.  SEE PASSPORT SECTION, BELOW. 
+ 
+-- Are biometric systems integrated for all active POEs? 
+What are the systems and models used?  Are all passengers 
+screened for the biometric or does the host government target 
+a specific population for collection (i.e., host country 
+nationals)?  Do the biometric collection systems look for a 
+one-to-one comparison (ensure the biometric presented matches 
+the one stored on the e-Passport) or one to many comparisons 
+(checking the biometric presented against a database of known 
+biometrics)? 
+-- If biometric systems are in place, does the host 
+government know of any countermeasures that have been used or 
+attempted to defeat biometric checkpoints? 
+-- What are the host government's policies on collecting the 
+fingerprints of travelers coming into the country? 
+-- Which agency is responsible for the host government's 
+fingerprint system? 
+-- Are the fingerprint programs in place NIST, INT-I, EFTS, 
+UK1 or RTID compliant? 
+-- Are the fingerprints collected as flats or rolled? 
+Which agency collects the fingerprints? 
+ 
+¶D. (SBU) Border Control and Screening:  SEE REF B. 
+ 
+-- Does the host government employ software to screen 
+travelers of security interest? 
+-- Are all travelers tracked electronically, or only 
+non-host- country nationals?  What is the frequency of 
+travelers being "waived through" because they hold up what 
+appears to be an appropriate document, but whose information 
+is not actually recorded electronically?  What is the 
+estimated percentage of non-recorded crossings, entries and 
+exits? 
+-- Do host government border control officials have the 
+authority to use other criminal data when making decisions on 
+who can enter the country?  If so, please describe this 
+authority (legislation, mandates, etc). 
+-- What are the host government's policies on questioning, 
+detaining and denying entry to individuals presenting 
+themselves at a point of entry into the country?  Which 
+agency would question, detain, or deny entry? 
+-- How well does information sharing function within the host 
+government, i.e., if there is a determination that someone 
+with a valid host-government visa is later identified with 
+terrorism, how is this communicated and resolved internally? 
+ 
+¶E. (SBU) Passports:  SEE REF B. 
+ 
+-- Does the host government issue a machine-readable passport 
+containing biometric information?  If so, what biometric 
+information is included on the document, i.e. fingerprint, 
+iris, facial recognition, etc.?  If not, does host government 
+plan to issue a biometric document in the future?  When?  THE 
+TURKISH GOVERNMENT ANNOUNCED PLANS IN 2007 TO ISSUE A MACHINE 
+READABLE PASSPORT.  BY MAY 2009, THE TURKISH GOVERNMENT HAD 
+BEGUN COLLECTING FINGERPRINTS BUT NO OTHER BIOMETRIC DATA. 
+THE NEW MACHINE-READABLE PASSPORTS MAY BE ISSUED AS EARLY AS 
+LATE 2009, BUT 2010 IS A MORE REALISTIC TIMEFRAME.  THERE ARE 
+ALSO REPORTS THAT TURKEY WILL USE FACIAL RECOGNITION AS WELL. 
+ 
+ 
+-- If the host government issues a machine-readable passport 
+containing biometric information, does the host government 
+share the public key required to read the biometric 
+information with any other governments?  If so, which 
+governments?  Does the host government issue replacement 
+passports for full or limited validity (i.e. the time 
+remaining on the original passports, fixed validity for a 
+replacement, etc.)? 
+-- Does the host government have special 
+regulations/procedures for dealing with "habitual" losers of 
+passports or bearers who have reported their passports stolen 
+multiple times? 
+-- Are replacement passports of the same or different 
+appearance and page length as regular passports (do they have 
+something along the lines of our emergency partial duration 
+passports)? 
+-- Do emergency replacement passports contain the same or 
+fewer biometric fields as regular-issue passports? 
+-- Where applicable, has Post noticed any increase in the 
+number of replacement or "clean" (i.e. no evidence of prior 
+travel) passports used to apply for U.S. visas? 
+-- Are replacement passports assigned a characteristic number 
+series or otherwise identified? 
+ 
+ 
+¶F. (SBU) Fraud Detection:  SEE REF B. 
+ 
+-- How robust is fraud detection and how actively are 
+instances of fraud involving documents followed up? 
+-- How are potentially fraudulently issued documents taken 
+out of circulation, or made harder to use? 
+ 
+¶G. (SBU) Privacy and Data Security:  SEE REF B. 
+ 
+-- What are the country's policies on records related to the 
+questioning, detention or removal of individuals encountered 
+at points of entry into the country?  How are those records 
+stored, and for how long? 
+-- What are the country's restrictions on the collection or 
+use of sensitive data? 
+-- What are the requirements to provide notice to the public 
+on the implementation of new databases of records? 
+-- Are there any laws relating to security features for 
+government computer systems that hold personally identifying 
+information? 
+-- What are the rules on an individual's ability to access 
+data that homeland security agencies hold about them? 
+-- Are there different rules for raw data (name, date of 
+birth, etc.) versus case files (for example, records about 
+enforcement actions)? 
+-- Does a non-citizen/resident have the right to sue the 
+government to obtain these types of data? 
+ 
+¶H. (SBU) Identifying Appropriate Partners:  SEE REF B. 
+ 
+Department would appreciate post's in-house assessment of 
+whether host government would be an appropriate partner in 
+data sharing.  Considerations include whether host government 
+watchlists may include political dissidents (as opposed or in 
+addition to terrorists), and whether host governments would 
+share or use U.S. watchlist data inappropriately, etc. 
+ 
+OVER THE PAST 18 MONTHS, THE U.S. GOVERNMENT HAS PRESENTED 
+THE GOVERNMENT OF TURKEY WITH OPPORTUNITIES TO PARTICIPATE IN 
+SEVERAL DATA-SHARING INITIATIVES.  THESE INCLUDE AN FBI 
+INITIATIVE TO SHARE BIOMETRICS; HSPD-6; API/PNR AND 
+TIP/PISCES.  DESPITE REPEATED PRESENTATIONS IN ANKARA AND 
+WASHINGTON, ANKARA REMAINS UNDECIDED.  WE BELIEVE HIGHER 
+LEVEL POLITICAL INVOLVEMENT ON BOTH SIDES WOULD HELP 
+FACILITATE THE PROCESS. 
+ 
+-- Are there political realities which would preclude a 
+country from entering into a formal data-sharing agreement 
+with the U.S.? 
+-- Is the host country's legal system sufficiently developed 
+to adequately provide safeguards for the protection and 
+nondisclosure of information? 
+-- How much information sharing does the host country do 
+internally?  Is there a single consolidated database, for 
+example?  If not, do different ministries share information 
+amongst themselves? 
+-- How does the country define terrorism? Are there legal 
+statutes that do so? 
+ 
+ 
+Visit Ankara's Classified Web Site at 
+http://www.intelink.sgov.gov/wiki/Portal:Turk ey 
+ 
+SILLIMAN

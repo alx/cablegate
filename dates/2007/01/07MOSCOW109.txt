@@ -1,0 +1,123 @@
+07MOSCOW109
+EXTRANCHECK: PRE-LICENSE CHECK: ITRC "MIR",
+Tue Jan 16 00:00:00 +0100 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0016
+PP RUEHWEB
+
+DE RUEHMO #0109/01 0160900
+ZNR UUUUU ZZH
+P 160900Z JAN 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 6356
+RUEAORC/USCBP WASHDCUNCLAS MOSCOW 000109 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTA 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: ITRC "MIR", 
+MOSCOW, RUSSIA, LICENSE NO. D365307 
+ 
+REFTEL: USDOC 02863 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, ITRC 
+"MIR", Moscow, Russia. The company is listed on BIS 
+license application D365307 as the ultimate consignee 
+of a traveling wave tube, model: VTU6125C4. These 
+items are controlled for national security, nuclear 
+non-proliferation reasons under ECCN 3A001. The 
+licensee is Communications and Power Industries, 811 
+Hansen Way, Palo Alto, CA 94304. 
+ 
+¶3. On December 15, 2006, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested pre-license check at the offices of 
+Intergovernmental TV and Radio Company "Mir" (ITRC 
+Mir), 44, Krasnobogatyrskaya St., Moscow, Russia. The 
+export control team met with Aleksey Ikonnikov, Vice 
+President. 
+ 
+¶4. ITRC Mir was founded in 1993 by a multilateral 
+decree of the governments of Russia, Tajikistan, 
+Belarus, Georgia, Moldova, Armenia, Kazakhstan, 
+Kyrgyzstan, and Azerbaijan after the dissolution of 
+the Soviet Union.  The company was formed to provide 
+satellite uplink/downlink services for media and 
+private organizations. The shareholders of the company 
+are the heads of government of each member country, 
+and the company is 100% owned by these governments. 
+The company has an office in each country, and three 
+in Russia located in Moscow, St. Petersburg, and 
+Vladikhavkaz.  The headquarters of the organization is 
+at the Moscow location, which employs 300. 
+ 
+¶5. The primary use of the satellite network is for 
+television program transmission and electronic 
+newsgathering.  The satellite network went live in 
+1996, and currently broadcasts 18 hours of news and 
+public affairs / public interest programming from the 
+Moscow office daily.  The equipment utilized in the 
+Moscow center is all of U.S. origin, and was installed 
+in 1998.  ITRC Mir also leases satellite time to 
+private organizations and other government users.  The 
+company hopes to expand its Russian operations, and is 
+exploring options to obtain more bandwidth to support 
+additional programming.  Mr. Ikonnikov believes the 
+demilitarization of certain satellite band frequencies 
+will allow for additional band segments for ITRC Mir. 
+The company is increasing the budget for replacement 
+of equipment to 12,000,000 USD, up from 8,000,000 USD 
+last year. 
+ 
+¶6. The Traveling Wave Tube (TWT) in reftel will 
+replace a damaged TWT utilized in a mobile satellite 
+ground station.  The mobile ground station system, 
+known as a "flyaway," allows ITRC Mir to establish 
+ground stations in the field for electronic 
+newsgathering operations, and for establishing a 
+temporary satellite connection at a client facility. 
+The TWT, which contains a glass tube, was broken in 
+the field. The team was shown a CPI VTU-6395M2 TWT, 
+serial number 98D013-accept date 9821.  Digital 
+photographs of the TWT were taken and are available 
+from post upon request.  ITRC Mir has contracted to 
+replace the damaged goods through Communications and 
+Power Industries (CPI) regional office in Cham, 
+Switzerland.  The Russian distributor, NPO 
+Svyazproyekt, is listed as an intermediate consignee, 
+and is handling customs formalities. 
+ 
+¶7. When not in use, the TWT is stored at the ITRC Mir 
+office in Moscow.  The office has a 24x7 security 
+presence, as satellite centers are officially 
+considered to be sensitive sites under Russian law. 
+Each flyaway has two engineers and two operators who 
+are responsible for use, maintenance and security of 
+the unit when in the field.  The storage facility at 
+the Moscow office is a locked room with limited 
+access. 
+ 
+¶8. Recommendations: Post recommends ITRC Mir, Moscow, 
+Russia, as reliable recipients of sensitive U.S. 
+origin commodities. It is requested that post be 
+ 
+notified of final disposition of the application, and 
+of any shipments for this organization in order to 
+conduct appropriate FCS follow-up and statistical 
+reporting. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

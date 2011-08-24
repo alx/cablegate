@@ -1,0 +1,280 @@
+06KIEV386
+UKRAINE: Gas Pipeline Technical Capabilities
+Mon Jan 30 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Kyiv
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 KIEV 000386 
+ 
+SIPDIS 
+ 
+DOE FOR LEKIMOFF, CCALIENDO 
+ 
+SENSITIVE 
+ 
+E.O. 12958: DECL: NA 
+TAGS: EPET ENRG RS UP
+SUBJECT: UKRAINE: Gas Pipeline Technical Capabilities 
+ 
+Sensitive But Unclassified.  Not for Internet Distribution. 
+ 
+¶1. (SBU) Summary.  Post met with Ukrainian technical experts 
+at Naftohaz and UkrTransGaz following the January 1-3 gas 
+shut-off to learn operational aspects of the gas crisis. 
+Interlocutors provided background on the gas system's 
+capabilities and parameters, and in detail described on 
+which lines gas was cut January 1 and how Ukraine worked 
+through the crisis by distributing the pressure decrease 
+throughout its system.  According to the experts, the 
+January 4 agreement's price basket of $95/tcm and 
+1.60/tcm/100km was not economically justified, even if the 
+transit rate now was supposed to cover the purchase of 
+technical gas.  All interlocutors stated Ukraine's gas 
+transit system was not damaged by January events. End 
+Summary. 
+ 
+¶2. (SBU) Econ Officers on January 6 met with Valery 
+Panasiuk, Chief of Naftohaz's Oil and Gas Measurement 
+Department, Feliks Sakadinets, Deputy Chief of Naftohaz's 
+Oil and Gas Transport Department, and Igor Ponomarenko, 
+UkrTransGaz Director of Foreign Relations.  Panasiuk led a 
+wide-ranging discussion on Ukraine's gas transit system 
+technical capabilities and on events during the January 1-3 
+gas shut-off.  Econ Officer, along with Staffdel Tillemann, 
+then met separately on January 18 with UkrTransGaz 
+representatives Myroslav Khymko, Director of the United 
+Dispatch Department, Valentyn Kolomieiev, First Vice 
+Chairman of the Board and Production Director, and 
+Kostiantyn Yefymenko, Member of the Board of Directors.  Mr 
+Ponomarenko also attended the January 18 meeting.  (Note: 
+UkrTransGaz is a wholly-owned subsidiary of state-owner oil 
+and gas monopoly Naftohaz.  The subsidiary's operations 
+include natural gas transit, storage, and delivery in 
+Ukraine.) 
+ 
+General Characteristics 
+----------------------- 
+ 
+¶3. (U) Ukraine's gas transportation system consists of 
+36,500 km of gas pipelines with 11 inputs points to Ukraine, 
+4 outlet points to Europe, 71 gas pumping stations with 
+total capacity of 5.4 million kW, 12 underground storage 
+facilities with 34 bcm available storage capacity (total 
+capacity is about 50 bcm, but 16 bcm is required for 
+maintaining necessary pressure levels), 1,405 gas 
+distributing stations, and a network of gas metering 
+stations. 
+ 
+¶4. (SBU) Originally built exclusively for transit purposes, 
+the pipeline system over time has become cluttered with 
+small branch lines that connect the system's main pipelines 
+with surrounding towns and villages.  This now makes it 
+impossible to separate domestic gas supplies from transit 
+resources, the Naftohaz officials explained.  To ensure that 
+correct amounts of gas transit to Europe, Naftohaz 
+'balances' its flow of incoming and outgoing transit gas by 
+using stored gas from underground facilities at Ukraine's 
+western border to add to export amounts and make up for 
+volumes taken out within the Ukrainian territory.  The 
+system technically can maintain hourly balances of transit 
+volumes, but the minimum commercial period Naftohaz uses for 
+its accounting purposes is 24 hours.  According to contracts 
+and technical agreements signed by Naftohaz and Gazprom, a 
+one-day accounting period runs from 0900 to 0900 the 
+following day, Kiev time, or from 1000 to 1000, Moscow time. 
+This time accounting explained why Gazprom chose 1000 
+January 1 to stop delivering Ukraine's gas supply, said 
+Naftohaz's Panasiuk; 1000 on January 1 corresponded to the 
+start of the new accounting year. 
+ 
+Technical, Fuel, and Pressure Gas 
+--------------------------------- 
+ 
+ 
+¶5. (SBU) Technical gas consisted of several components, 
+Panasiuk continued, the largest of which was fuel gas.  Of 
+Ukraine's 6.5 bcm of technical gas, about 5.2 bcm was fuel 
+gas, which is used for fueling compressors at Ukraine's 71 
+gas pumping stations.   Another one bcm of technical gas 
+remained in the system at all times to maintain pressure. 
+Most of the equipment installed at pumping stations was old 
+and ineffective. The maximum efficiency rate of the 
+stations' gas-fueled turbine engines was a woeful 40%. If 
+replaced with electric-powered engines, in addition to 
+saving fuel gas and reducing gas emissions to the 
+atmosphere, the minimum efficiency rate of engines could 
+reach 90%, the experts said.  (Note: on January 18 Prime 
+Minister Yekhanurov noted that Ukraine used 7.8 bcm of gas 
+for production and technical purposes.  He said this was "an 
+extremely large amount" [more than 10% of Ukraine's yearly 
+demand] and ordered Minister of Fuels and Energy within a 
+week to draw up plans to conserve at least 10% of the 
+amount, and to gradually convert Ukraine's transit system to 
+electricity-powered compressors.) 
+ 
+¶6. (U) Under Addendum Four from 9 August 2004, Panasiuk 
+explained, Russia paid Ukraine $1.0935/tcm/100km for 
+transit, and Ukraine at its own expense covered the purchase 
+of technical gas.  The new transit fee of $1.60/tcm/100km, 
+fixed in the January 4 agreement for five years, was set at 
+a level to include payments for purchasing 6.5 bcm of 
+technical gas. 
+ 
+New Transit Rate is Not Justified Economically 
+--------------------------------------------- - 
+ 
+¶7. (SBU) Naftohaz's experts said the transit rate of 
+$1.60/tcm/100km was a political decision and not a rate 
+justified by costs.  In the past, the price of gas supplies 
+for Ukraine and the fee for transit across the country had 
+been proportional to one another.  The price of $50/tcm 
+corresponded to $1.09/tcm/100km transit fee, while the price 
+of $80/tcm, which was used before 1999, had corresponded to 
+the $1.75/tcm/100km rate (Note: the proportion, in both 
+cases, was approximately 46:1).  The experts added that the 
+purported $50/tcm price was thus misleading, as the 
+Ukrainian side had only cared about the relation of gas to 
+transit prices.  They added that it was Gazprom who 
+initiated the drop from $80/tcm to $50/tcm in 1999, 
+apparently to reduce its Russian taxes.  Based on this 
+proportion, which had not included the cost of technical 
+gas, the Naftohaz experts thought the correlation (59:1) 
+between $95 price and $1.6 seemed illogical. 
+ 
+¶8. (SBU) According to Panasiuk, Ukraine never truly had paid 
+$50 for Russian gas.  Given the additional cost of technical 
+gas, which was paid for by Naftohaz, the real cost of gas 
+for Ukraine had been closer to $80 when the transit fee was 
+$1.09/tcm/100km.  $50 was, however, the benchmark used for 
+calculating how much Russian gas Ukraine would receive as in- 
+kind transit payment according to the following equation: 
+110 bcm (transit amount) x 1200 km (weighted average 
+distance of transportation) x 1.09/tcm/100km (transit rate) 
+/ $50/tcm.  (Note: the 1200 km weighted average pipeline 
+distance quoted by Panasiuk is significantly different from 
+the Deutsche Bank estimate of 879 km, which has been used in 
+some Washington analyses) 
+ 
+Ukraine's System Continued to 
+Operate after Pressure was Reduced 
+---------------------------------- 
+ 
+¶9. (SBU) The successful operation of Ukraine's gas pipeline 
+system, explained Feliks Sakadinets, Deputy Chief of 
+Naftohaz's Oil and Gas Transport Department, required a 
+certain baseline pressure throughout.  If pressure decreased 
+to a critical level, compressors at gas pumping stations 
+either consumed all the gas to continue the compressor's own 
+operations or "fell apart", i.e. broke down.  This would not 
+only have meant no gas supply for Ukraine, but also no gas 
+exports moving through the Ukrainian system to Europe. 
+According to Panasiuk, when Russia stopped fuel supplies to 
+Belarus in 2004, the Belarusian system `fell apart' very 
+quickly, within one day.  Panasiuk and Sakadinets estimated 
+that if Russia stopped supplies to Ukraine, the Ukrainian 
+system could keep transit gas flowing for about 2 days. 
+Panasiuk said Ukraine on January 1-3 had been able to 
+continue operations even at lower pressure and keep 
+servicing transit volumes because of the pipeline system's 
+interconnected pipelines that cross one another at multiple 
+points.  When Russia shut off supplies to certain pipelines 
+January 1, Ukraine opened connections between crossing 
+pipelines, and this allowed Ukraine to equalize the pressure 
+in pipelines throughout the system, which alleviated the 
+pressure fall in the Russian-targeted pipelines and kept 
+pressure in these pipelines from reaching a critical level. 
+However, several pumping stations located along pipelines 
+near the affected Russian input points had to be stopped to 
+prevent breaking equipment.  This was done, Panasiuk said, 
+in a methodical manner because Naftohaz had been ready and 
+planned for it.  Panasiuk added Ukraine had compensated for 
+gas it had to withdraw from the system for its own 
+consumption by adding gas from storage facilities near its 
+western borders to export lines.  The Naftohaz officials 
+expressed skepticism about some reports of gas delivery 
+drops in Western Europe.  For example, they said Italy was 
+reporting drops of 14 percent in deliveries on January 1, 
+but added, "our gas would still have taken four days to get 
+there." 
+ 
+¶10.  (SBU) In a separate meeting January 18 with UkrTransGaz 
+officials, Myroslav Khymko, Director of the United 
+Dispatching Department, said Gazprom on January 1 reduced 
+its delivery volumes to Ukraine by 25%.  Gazprom reduced 
+volumes to Ukraine's Donetsk/Luhansk line first, followed by 
+the Transdniepr line, and then the Central-Kiev line in the 
+amounts of 45 mcm/day, 45 mcm/day, and 30 mcm/day, 
+respectively.  These three lines were located farthest from 
+Ukraine's western border with Europe and as such carried 
+little Europe-bound transit gas.  The gas these lines did 
+transport was primarily for Ukraine's industrial centers -- 
+Donetsk, Luhansk, Dnieprpetrovsk and Zaporizhya. 
+UkrTransGaz officials could not say if Gazprom intentionally 
+chose to reduce gas to Ukraine's industrial regions to 
+induce maximum economic harm, or if Gazprom had wanted 
+specifically to cut gas intended for Ukraine's domestic use, 
+which these lines provided. 
+ 
+¶11. (SBU) In contrast to Panasiuk, UkrTransGaz's Khymko 
+reported that during the shut-off, 24 pump stations had been 
+stopped and 96 compressors, equal to half the system's 
+power, had been taken off-line.  The system, however, was 
+not damaged as a result of this shut-down.  Ukraine had used 
+its own gas production and stored gas to gradually reduce 
+outflows to Europe, in spite of Russia's immediate 25% 
+reduction January 1 -3.  (Note: Our interlocutors, as policy 
+implementers and not policy makers, did not discuss why 
+Ukraine made the decision to cut, albeit gradually, Russia's 
+Europe-bound gas.) 
+ 
+¶12. (SBU) According to the Naftohaz experts, Ukraine and 
+Russia had already reached agreement on how to make up 
+amounts under-supplied in the first days of January and 
+ensure the full January balance.   Gazprom would do this by 
+supplying small additional amounts beginning January 3, 
+Panasiuk said. 
+ 
+Gas Metering at the Russian Border 
+---------------------------------- 
+ 
+¶13. (SBU) When Ukraine's gas transport system was built, gas 
+metering stations for export gas were placed at the Soviet 
+Union's western borders with Hungary and Poland, but nothing 
+monitored flows between the Ukrainian and Russian republics. 
+After the break-up of the Soviet Union, Russia built 
+metering station on its territory, and Ukraine now had 
+permanent representatives at each Russian export station who 
+daily verified and signed documents on shipment volumes, 
+Naftohaz's Panasiuk explained.  The information was sent via 
+an on-line system to Kiev and Moscow.  There was some 
+metering equipment at gas pumping stations on Ukrainian 
+side, but it was not as sophisticated as at metering 
+stations, Panasiuk continued.  Russia in the past had 
+accused Ukraine of `playing' with its meters to distort the 
+real amounts of transported gas. 
+ 
+¶14. (SBU) UkrTransGaz's First-Vice Chairman of the Board and 
+Production Director Valentyn Kolomieiev argued that the in- 
+place Ukrainian representatives were sufficient for 
+verifying volumes received and dispatched.  In addition to 
+its representatives in Russia, Kolomieiev noted that 
+Gazprom's subsidiary GazExport and the various importing 
+countries had in-place representatives at Ukraine's western 
+gas metering stations.  Sharing representatives and 
+equipment was actually preferable, Kolomieiev explained, 
+since gas measuring equipment was extremely sensitive and an 
+error or even 0.1% would be extremely costly and time 
+consuming.  Better, he said, to agree on the amounts with 
+one set of instruments. 
+ 
+¶15. (SBU) Separately, and somewhat contradictorily, 
+Naftohaz's Panasiuk said Naftohaz had plans to build six 
+metering stations as close to the Russian border pumping 
+stations as possible to better measure and control volumes 
+shipped by Russia.  In addition, Panasiuk praised Ukraine's 
+new Regional Metering Center, which would be commissioned 
+on/around March 10 and was built with support from the EU. 
+The facility would improve gas metering technologies in 
+Ukraine and help Ukraine improve its metering system to meet 
+internationally recognized standards. 
+ 
+Herbst

@@ -1,0 +1,130 @@
+08HONGKONG1087
+EXTRANCHECK: POST SHIPMENT VERIFICATION: WINSUNY TECH HK
+Mon Jun 16 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #1087/01 1680845
+ZNR UUUUU ZZH
+R 160845Z JUN 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 5100
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001087 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: WINSUNY TECH HK 
+LTD 
+ 
+REF: A) USDOC 03398 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment-verification (PSV) at Winsuny HK Ltd., Rm. 145A 
+Chung Kiu Commercial Building, 47-51 Shantung Street, Hong Kong 
+(Winsuny). The items in question are semiconductors exported to 
+Winsuny on or about April 5, 2008 and valued at USD 3,296.  On the 
+applicable shippers export declaration (SED), these items are 
+classified under export control classification number (ECCN) 3A001 
+and, if properly classified, would be controlled for national 
+security (NS) reasons.  The exporter was Rochester Electronics of 
+Newburyport, Massachusetts. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Winsuny has been 
+in existence since 2001.  Its paid up share capital is the Hong Kong 
+equivalent of USD 500,000.  Mainland China national Chen Long 
+(mainland ID 320626197603301439/DOB March 30,1976) is listed as the 
+sole director and shareholder.  Chen Long acquired the shares of the 
+company in November 2006 from Huang Hong Wei.  Neither individual 
+appears to be a director in any other company in Hong Kong. 
+ 
+¶4.  A search of Winsuny's web page (www.winsuny.com) reveals that 
+the company is a electronics distributor.  The site further states 
+that the company has additional offices in Shenzhen, Shanghai, 
+Beijing, Chengdu and Xian.  It claims a staff of over 30 engineers 
+providing service to customers in Chinese telecom, industry, 
+military and aerospace markets.  It claims military and space 
+customers including CASC and CETC, among others.  It claims also to 
+represent a number of semiconductor and other electronics companies 
+including Intersil, Xilinx, TI and others.  The company's Hong Kong 
+address listed on its web site is the location of a wide range of 
+companies, many unrelated to electronics. 
+ 
+¶5.  Commercial Assistant Carrie Chan attempted for some time to 
+arrange a time to conduct the PSV.  The Hong Kong number provided 
+for the company rolled to a mainland China number. Eventually, Ms. 
+Chan was able to establish with a Hong Kong contact, namely Jenney 
+who agreed to meet at the company's headquarters in Hong Kong. She 
+stated that the general manager of the company was on business 
+travel and would not be able to meet. 
+ 
+¶6.  On June 5, 2008, ECO and Commercial Assistant Carrie Lam visited 
+Winsuny and met with Jenney (no last name or business card given), 
+purchasing manager (buyer) for the company. The meeting occurred at 
+the offices of a company secretarial service in a 25 square foot 
+room apparently used by Winsuny (Winsuny apparently rents a second, 
+similar size room in the same office complex).  Jenney provided 
+background on Winsuny stating that it is a small electronics trading 
+company.  She further stated that most of its business is in the 
+commercial and consumer fields.  She noted that sometimes mil-spec 
+semiconductors (such as the items in question) are used in medical 
+equipment and oil field equipment.  The company has sales agents in 
+Hong Kong and mainland China.  She stated that when Winsuny orders 
+from Rochester, it does so from the Shanghai office of the company 
+rather than from Hong Kong Rochester distributors because the 
+Shanghai Rochester office provides better pricing terms. 
+ 
+¶7.  As to the specific items in question, Jenney stated that she had 
+no purchase order to provide to the ECO because Winsuny had 
+purchased the items on behalf of a customer without a purchase 
+order. She stated that Winsuny had expected to receive an order but 
+that had not materialized.  When ECO expressed skepticism about this 
+approach, Jenney stated that this was a long-standing customer and 
+that it is often necessary to act quickly to secure orders.  Jenney 
+stated that no order ever actually materialized and, as a result, 
+she was able to show the ECO the items (marked as MG80C196KB-12/R 
+and Made in Malaysia).  ECO doesn't know how it came to pass that 
+Winsuny still had the items in hand but does not believe that 
+Winsuny did not have a purchase order for these items. 
+ 
+¶8.  When asked about the purported end-user listed on the end-use 
+certificate provided to Rochester (by Winsuny), Jenney stated she 
+had been told by the salesperson to enter the name (Cam-IC).  ECO 
+was able to find a web site for a Cam-IC (www.cam-ic.com).  The web 
+site includes a claim that the company manufactures full industry 
+and aerospace, rugged, commercial-off-the-shelf industrial control 
+boards.  That site is a hodgepodge of language apparently lifted 
+from other web sites including the web site for CM Computer 
+(Cmcomputer.com), a military contractor and EG&G (www.urscorp.com), 
+another provider of various military and homeland security services 
+to the U.S. government.  When asked whether she knew anything about 
+Cam-IC, Jenney stated that she did not.  When asked why her name was 
+included as a contact for Cam-ic of that company's web site, Jenney 
+stated that the companies might be related but that she was unsure 
+as to why her name would be included as a contact for this company. 
+ 
+ 
+¶9.  Winsuny is an entirely unsuitable recipient of U.S. origin 
+technology. ECO did not find the answers of Jenney to be credible. 
+In fact, ECO expects that all shipments to Winsuny are immediately 
+diverted to mainland China. ECO recommends a thorough review of all 
+shipments to Winsuny and its address. ECO also recommends that BIS 
+reach out to Rochester to determine what information it had on hand 
+when it shipped the items.  Further, ECO requests that OEA confirm 
+the 3A001 classification of the shipment so that ECO may reach out 
+to Hong Kong TID concerning a potential violation of Hong Kong's 
+export control rules in connection with this shipment.  Finally, ECO 
+recommends that Winsuny be added to the BIS Unverified List.

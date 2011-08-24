@@ -1,0 +1,454 @@
+07SANAA1423
+PART TWO OF FOUR: RESULTS OF FINANCIAL SYSTEMS
+Tue Jul 24 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Sanaa
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHYN #1423/01 2050908
+ZNR UUUUU ZZH
+R 240908Z JUL 07
+FM AMEMBASSY SANAA
+TO RUEHC/SECSTATE WASHDC 7661
+INFO RUEAWJA/DEPT OF JUSTICE WASHDC
+RHEFHLC/DEPT OF HOMELAND SECURITY WASHINGTON DC
+RUEATRS/DEPT OF TREASURY WASHDC
+RHMCSUU/FBI WASHINGTON DC
+RHEHNSC/NSC WASHINGTON DCUNCLAS SANAA 001423 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE FOR S/CT (NOVIS/GALER), INL (BRANDOLINO/RINDLER), 
+NEA/ARP 
+ 
+E.O. 12958: N/A 
+TAGS: KTFN KCRM PREL PTER SNAR EFIN YM
+SUBJECT: PART TWO OF FOUR: RESULTS OF FINANCIAL SYSTEMS 
+ASSESSMENT TEAM VISIT TO YEMEN MAR 1-7, 2007 
+ 
+REF: SANAA 1418 
+ 
+¶1.  Summary.  A multi-agency Financial Systems Assessment 
+Team (FSAT) conducted a week-long, in-country evaluation of 
+Yemen,s capacity to combat money laundering and terrorist 
+financing, in order to determine its most critical training 
+and technical assistance needs on March 1-7, 2007. This 
+second section of the FSAT Team's report focuses on the 
+ROYG's Anti-Money Laundering Information Unit, the 
+development of Yemen's financial sector, and the Central Bank 
+of Yemen.  End summary 
+ 
+-------------------------------------- 
+ANTI-MONEY LAUNDERING INFORMATION UNIT 
+-------------------------------------- 
+ 
+¶2.  Law No. 35/2003 created the Anti-Money Laundering 
+Information Unit  (AMLIU) as Yemen,s financial intelligence 
+unit (FIU).  The AMLIU consists of three members:  a 
+chairman, a legal expert and a technical expert for 
+verifications. 
+ 
+¶3.  The AMLIU is housed within the Central Bank of Yemen 
+(CBY), and provides the CBY with both financial and 
+administrative support, including legal and regulatory 
+personnel.  However, the AMLIU claims that it is technically 
+independent from the Central Bank since it is not required to 
+report to the CBY.  According to its organizational 
+structure, the AMLIU can share information with, but does not 
+necessarily report to, the following three entities:  the 
+Central Bank Governor, the National Anti-Money Laundering 
+Committee (NAMLC), and the Deputy Governor for Banks. 
+ 
+¶4.  The AMLIU receives suspicious transaction reports (STRs) 
+from banks, money exchangers, insurance companies, stocks and 
+bonds companies, and financial real estate leasing companies. 
+ STRs are delivered to the AMLIU by a courier, with an 
+authorized signature required upon receipt.  There is no 
+specified time limit for filing STRs to the AMLIU. 
+ 
+¶5.  The AMLIU received two STRs from financial institutions 
+in 2005, and three STRs in 2006.  In 2007, the AMLIU has so 
+far forwarded one suspicious case to the Office of Public 
+Prosecution for suspected money laundering.  Once the AMLIU 
+receives the STR, it reviews all the information and 
+supporting documentation contained within the report.  If 
+there are any missing data from the STR or supporting 
+documents, the AMLIU may request additional information 
+directly from the bank or conduct an onsite visit.  The AMLIU 
+then determines whether the case is of a criminal nature. 
+The AMLIU forwards criminal cases to the Office of Public 
+Prosecution for further investigation.  The AMLIU itself does 
+not have an investigative capacity.  The AMLIU has one member 
+with investigative experience, but needs additional 
+capacity-building training. 
+ 
+¶6.  The AMLIU is divided into three separate divisions: 
+investigations, analysis and legal monitoring, and 
+information technology.  The investigations division serves 
+more as a verification function, rather than an investigative 
+function, and conducts field visits to financial 
+institutions.  The analysis and legal monitoring division 
+receives and analyzes the STRs, and reports those cases to 
+the Office of Public Prosecution.  The information technology 
+division collects and compiles all data received into an 
+electronic database, and shares information with other 
+government agencies. 
+ 
+¶7.  The AMLIU faces several challenges with its efforts to 
+combat money laundering and terrorist financing.  The general 
+lack of AML/CTF awareness, as well as formal training in 
+AML/CTF detection, are its foremost challenges, for which the 
+AMLIU has requested immediate assistance.  Other challenges 
+that impede the AMLIU,s efforts include:  (1) the corruption 
+and embezzlement of public funds, which they claim are 
+rampant throughout the country; and (2) terrorist acts 
+conducted by highly skilled terrorist groups.  Another 
+challenge to the effectiveness of Yemen,s AML/CTF regime is 
+the high degree of cash being circulated in the informal 
+banking sector (approximately 60-80% of total funds). 
+ 
+¶8.  The AMLIU is in need of fundamental training and 
+technical assistance in the following areas:  (1) detecting 
+suspicious activity in financial transactions; (2) analyzing 
+suspicious transaction reports once they are received; and 
+ 
+(3) creating an electronic database of all STRs and related 
+information within the AMLIU in order to conduct future link 
+analysis.  As a first step, an analytic exchange with FinCEN 
+is recommended in the near future in order to provide the 
+Yemenis with a better understanding of a fully functional 
+AMLIU, as well as a general overview of AMLIU operations in 
+each of these specified areas. 
+ 
+----------------------------------- 
+DEVELOPMENT OF THE FINANCIAL SECTOR 
+----------------------------------- 
+ 
+¶9.  Yemen,s financial sector is rudimentary as Yemen is 
+predominantly a cash-based society.  Officials insist that 
+the financial sector is not conducive to money laundering due 
+to the poor economic factors and the limited capital of 
+Yemeni banks.  However, officials also reported a 35% growth 
+rate in domestic bank deposits in 2006 compared to a 28.5% 
+growth rate by Arab and foreign banks operating in country. 
+Also, reports indicate that Yemen banks, revenues were 360 
+billion Yemeni Riyals (USD 1.8 billion) in 2006; and deposits 
+reached 214 Yemeni Riyals (USD 1.1 billion), with capital of 
+854 Yemeni Riyals (USD 4.3 billion) by year-end 2006. 
+ 
+¶10.  Officials indicated that several initiatives have been 
+planned in order to attract more of the population into the 
+formal financial system:  deposit insurance on accounts; 
+direct deposit of ROYG payroll into bank accounts; expansion 
+of the ATM network; and the offering of Treasury Bills.  On 
+03/06/2007, members of the team accepted an invitation from 
+the Chairman of the Cooperative & Agricultural Credit Bank 
+(CAC Bank) to view its state-of-the-art Visa Card operations 
+facility at the main branch in Sana,a.  The bank,s 
+initiative to expand services to the non-banking community 
+and promote trust and reliance in electronic payments systems 
+indicates a degree of financial sophistication and progress. 
+All of these trends indicate increased penetration by the 
+financial sector into the cash economy as the banks and 
+others begin to pursue the non-bank market.  It is therefore 
+critical that anti-money laundering regulations and controls 
+be implemented at a similar pace to avoid the risk of an 
+unregulated sector. 
+ 
+Regulatory Framework 
+-------------------- 
+ 
+¶11.  The current AML law established a number of institutions 
+such as the AMLIU and the National AML Committee, and listed 
+various money laundering offenses, which do not include 
+terrorist financing or tax evasion.  The AML law levies a 
+number of regulatory and other requirements on financial 
+institutions (i.e. banks; money exchanges; and companies - 
+funding, insurance, securities, financial leasing, and real 
+estate) although the CBY,s supervision is limited to banks 
+and money exchanges.  Financial institutions are required to 
+develop formal procedures that address the following: 
+ 
+--  A formal compliance program that includes training, 
+testing for compliance, and the designation of an experienced 
+individual responsible for ensuring compliance (i.e., the 
+Compliance Officer). 
+ 
+--  Customer identification.  Financial institutions are 
+required to record, verify, and retain customer 
+identification/basic information in order to determine the 
+true beneficiary.  The required form of identification to 
+open a bank account and apply for other social benefits is 
+the National Identification Card.  It contains a person,s 
+photograph and fingerprint, and reportedly is difficult to 
+duplicate.  Accounts include deposit/transaction accounts, 
+loan and credit accounts, and safe deposit boxes.  Customers 
+include individuals, legal persons, public companies, and 
+non-profit organizations (e.g., NGOs). 
+ 
+--  Prohibitions on opening anonymous accounts and foreign 
+correspondence accounts for any person prior to ratification 
+of the signature from the correspondent bank in the country 
+at which said person resides. 
+ 
+--  Payable upon proper identification (PUPID). 
+Non-customers or PUPIDs initiating or receiving funds 
+transfers exceeding USD 10,000 or its equivalent in any other 
+currency are required to provide proper identification, 
+address, occupation, and information on the true beneficiary. 
+ 
+--  Retention of certain financial records for five years. 
+ 
+--------------------------- 
+CENTRAL BANK OF YEMEN (CBY) 
+--------------------------- 
+ 
+¶12.  The CBY was established in 1971 and merged with the Bank 
+of Yemen when the north and south united in 1990.  Its main 
+functions include monetary policy; currency issues; 
+management of the official reserves; serving as the bankers, 
+bank and bank to the ROYG; and supervision of the banking 
+system.  It supervises 17 commercial banks in the country, 
+four of which are Islamic.  Staffing includes 20 examiners. 
+In addition, the CBY has authority over the 448 money 
+exchanges that reportedly consist of 20 major exchanges. 
+However, the supervision of money exchanges is limited to 
+off-site reviews of financial and compliance records provided 
+by the money exchanges to the CBY.  Typically, CBY examiner 
+on-site reviews are limited to banks. 
+ 
+¶13.  The banks are examined at least once annually and 
+reports are issued after each examination.  Technically, the 
+CBY has the authority to implement enforcement action, but in 
+practice, it provides training to improve inadequacies noted. 
+ CBY admitted that banks/money exchanges still need time to 
+implement compliance requirements.  A meeting with a group of 
+private bankers indicated that compliance with the AML laws 
+has been a slow process.  Compliance programs have been 
+developed and implemented one at a time such as the "Know 
+Your Customer" programs, which are designed to ensure 
+customer identification and basic information is recorded, 
+verified and retained.  The bankers admitted that developing 
+effective suspicious activity programs and procedures has 
+been difficult as more training is needed to better 
+understand the concept of suspicious activity.  In addition, 
+the bankers indicated that the Bankers Association has done 
+little to assist with AML compliance issues to date. 
+ 
+¶14.  The formal examination procedures used to test the 
+bank,s compliance with the AML laws are too limited to be 
+effective.  The procedures consist of approximately 12 
+questions relating to the existence of a compliance program, 
+compliance officers, training programs, and reports of cash 
+transactions over USD 10,000.  The procedures are not 
+comprehensive and do not provide for an assessment of the 
+aforementioned elements and transaction testing to quantify 
+the level of compliance. 
+ 
+UNSCR 1267 Compliance 
+--------------------- 
+ 
+¶15.  In response to UNSCR 1267 in September 2003 and the 
+Yemen,s Council of Ministers, directives, the CBY has 
+issued a number of circulars (most notably 75304 and 75305) 
+to all banks operating in Yemen, directing them to freeze the 
+accounts of 144 persons, companies and organizations on the 
+1267 consolidated list, and to report any findings to the 
+CBY.  The CBY has issued updated circulars to banks after 
+updated 1267 information is passed from the Yemeni Embassy in 
+Washington or Consulate in New York through the Ministry of 
+Foreign Affairs and is voted on by the Cabinet.  However, it 
+takes approximately one month for the list to be distributed 
+by the Yemeni Embassy in Washington, D.C., reviewed by 
+various ministries in Yemen, and received by the CBY.  The 
+CBY hand delivers the list to its financial institutions.  To 
+date, only one report on a blocked account has been filed, 
+which was hand delivered by the bank to the CBY.  In 
+addition, Yemen has yet to take any action against or freeze 
+the assets of Sheikh Abdul Majid Zindani, despite his 
+February 2004 addition to the 1267 list. 
+ 
+------------------------------------ 
+CBY,S CHALLENGES AND VULNERABILITIES 
+------------------------------------ 
+ 
+¶16.  The primary challenge affecting the CBY,s ability to 
+ensure compliance with AML laws is the lack of adequate 
+technical training.  The CBY indicated that it provides bank 
+and money exchange training in an attempt to improve 
+compliance and in lieu of implementing enforcement action for 
+non-compliance.  However, it is alarming that the individuals 
+providing the training are not adequately trained and do not 
+appear to have sufficient expertise to conduct the training. 
+In addition, the current AML laws are not comprehensive, and 
+the implementation of existing AML laws and minimum 
+ 
+international standards on AML/CTF (i.e., FATF 
+recommendations and UNSC resolutions) are ineffective.  Banks 
+are still in the process of implementing and understanding 
+AML issues.  The CBY lacks proven enforcement authority, and 
+the level of non-compliance with AML laws has not been 
+quantified. 
+ 
+¶17.  The financial sector appears vulnerable to exposure to 
+ML/TF schemes from certain persons and entities of heightened 
+risk and through the use of certain products/services, 
+specifically funds transfers.  There are no requirements to 
+declare currency and its equivalent at border crossings or to 
+report large currency transactions, and no safe-harbor 
+provision exists relative to the filing of STRs. 
+ 
+¶18.  The CBY indicated it is vulnerable to corruption and 
+terrorism.  The embezzlement of public funds is rampant, and 
+terrorist groups have a myriad of ways to smuggle funds 
+across the country,s porous land and sea borders. 
+Enforcement of the AML laws is questionable based on the 
+level of corruption. 
+ 
+¶19.  Other identified weaknesses include the following: 
+ 
+¶20.  The AML laws are not comprehensive and do not address 
+international minimum standards.  For example, the AML laws 
+do not incorporate the following: 
+a)  All provisions of Recommendation 5 from the Financial 
+Action Task Force on Money Laundering's List of 
+Recommendations, specifically conducting on-going due 
+diligence on business account relationships and scrutiny of 
+transactions to ensure that the transactions are consistent 
+with the customer,s known risk profile. 
+b)  Recommendation 6 relating to Politically Exposed Persons 
+(PEPs). 
+c)  Recommendation 7 relating to correspondent bank 
+relationships. 
+d)  Recommendation 14 relating to confidentiality of STRs. 
+Although the AML laws address the recommendation, in practice 
+the STR form allows for the subject,s signature in 
+contravention of the AML laws. 
+e)  Recommendation 15 relating to compliance programs to 
+combat terrorist financing. 
+f)  Recommendation 18 relating to the prohibition of shell 
+banks. 
+ 
+¶21.  There are no CTF laws.  According to the Committee, a 
+law has been drafted and needs to be vetted by several 
+ministries before it is presented to Parliament.  The 
+Committee recognizes the proposed CTF law will not be 
+approved before the mutual evaluation in July 2007, and 
+indicated it would not likely be approved for another six 
+months after that.  Although there is some indication that 
+Yemen has provided for international cooperation and review 
+of non-profit organizations to some degree, the FATF Special 
+Recommendations on Terrorist Financing have not been 
+implemented.  In addition, UNSCRs 1267 and 1373 are not 
+addressed in statute, although the CBY did issue a circular 
+relative to UNSC resolution 1267.  However, the procedure in 
+place does not appear to satisfy the "freeze without delay" 
+provisions, due to delays in notification.  Abdo Hezam Saif, 
+Head of the Central Bank's AMLIU, told AMEMB Yemen on July 
+22, 2007 that a joint technical committee (which was formed 
+from the National Anti-Money Laundering Committee and the 
+Central Bank's AMLIU) completed the draft CTF law, is making 
+minor amendments to it, and will forward it to the Cabinet by 
+mid-August 2007, which will later forward it to Parliament 
+when Parliament reconvenes in mid-October 2007 at the 
+earliest. 
+ 
+¶22.  The training provided has not been effective.  Two CBY 
+members attended the International AML/CTF Training in 
+Arlington, VA in September 2006.  Conversations with the CBY 
+confirmed that these individuals did not subsequently train 
+other CBY personnel and the banking and money exchange 
+communities.  However, CBY indicated that at least one of the 
+individuals will serve as a training instructor at the Yemen 
+Bankers Association.  One of the individuals works in the 
+AMLIU and the other works in Supervision.  CBY indicated that 
+the individuals were overwhelmed by the scope and complexity 
+of the training course, and also expressed difficulty in 
+comprehending the materials in English. 
+ 
+¶23.  Money exchanges are largely unregulated.  Although they 
+are required to be licensed by the CBY, the level of 
+ 
+ 
+supervision is nominal.  The money exchanges are not subject 
+to the same examination process as banks. 
+ 
+¶24.  There are no reporting requirements for currency 
+transactions, currency exchanges, monetary instruments, and 
+funds transfers that are conducted by customers of the 
+financial institutions. 
+ 
+¶25.  Suspicious activity and reporting thresholds are not 
+defined. 
+ 
+¶26.  The number of STRs filed is not commensurate with the 
+perceived AML risks.  Since the inception of the AML laws, 
+the financial institutions have filed only six STRS:  two in 
+2005; three in 2006; and one year-to-date.  Although the 
+latter STR is in the process of review, the other STRs were 
+not referred to the Public Prosecutor and none were filed by 
+the money exchanges. 
+ 
+¶27.  Customer due diligence is limited to identification 
+procedures.  There are no requirements to record and 
+understand the customer,s source of funds and expected 
+transactions, which would enable the financial institution to 
+detect patterns and trends of suspicious activity. 
+ 
+¶28.  Potentially high-risk persons/entities and 
+products/services are not addressed.  The identification, 
+enhanced due diligence, and on-going monitoring of certain 
+customers (e.g., Politically Exposed Persons, Professional 
+Service Providers, cash-intensive businesses) and 
+products/services (e.g., private banking accounts, funds 
+transfers) would better enable the financial institutions to 
+detect patterns and trends of suspicious activity. 
+ 
+--------------------------------------------- 
+RECOMMENDED TRAINING AND TECHNICAL ASSISTANCE 
+--------------------------------------------- 
+ 
+Training 
+-------- 
+ 
+¶29.  Basic AML/CTF training is required.  Training should be 
+provided to CBY examiners, AMLIU employees, and perhaps to 
+representatives of the National AML Committee and Yemen 
+Bankers Association.  The training should be disseminated to 
+the financial community to ensure they are aware of AML/CTF 
+efforts and best practices. 
+ 
+¶30.  CBY indicated its two primary training needs relate to 
+cyber crimes and terrorist financing detection and techniques 
+used by groups.  The Committee indicated its two primary 
+training needs relate to investigating and tracking funds and 
+AMLIU systems development. 
+ 
+¶31.  The content of the STRs was discussed with the CBY in a 
+follow-up meeting held on 03/06/2007.  AMEMB Yemen provided 
+the CBY with a copy of FinCEN,s Suspicious Activity Report 
+form and instructions in an attempt to assist in developing a 
+new enhanced STR form.  In addition, a copy of the Federal 
+Financial Institutions Examination Council,s Bank Secrecy 
+Act/AML Examination Manual was provided to illustrate the 
+extent to which examination procedures should be developed 
+and implemented. 
+ 
+¶32.  An offer should be extended to review the CBY,s AML/CTF 
+examination compliance program (i.e., procedures and 
+workpapers) to ensure it is comprehensive and effectively 
+implemented through analyses, assessments, transaction 
+testing, and sampling techniques. 
+ 
+¶33.  The AML Committee was interested in having the newly 
+drafted AML/CTF decree reviewed before it is presented to 
+Parliament.  Upon translation and study, the USG should 
+provide comments with respect to how well the legislation 
+comports with international standards, as well as 
+recommendations to bring legislation into compliance with 
+international standards. 
+ 
+BRYAN

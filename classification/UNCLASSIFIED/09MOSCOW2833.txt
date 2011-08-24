@@ -1,0 +1,69 @@
+09MOSCOW2833
+EXTRANCHECK: PRE-LICENSE CHECK: LASER SYSTEMS LTD, SAINT
+Fri Nov 20 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0014
+PP RUEHWEB
+
+DE RUEHMO #2833 3241316
+ZNR UUUUU ZZH
+P 201316Z NOV 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 5453
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 002833 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: LASER SYSTEMS LTD, SAINT 
+PETERSBURG, RUSSIA, LICENSE NO. D421291 
+ 
+REFTEL: REQUEST #6110040; DATED 24/09/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a pre-license check to determine the legitimacy 
+and reliability of the end-user, Laser Systems Ltd., Saint 
+Petersburg, Russia.  The organization is listed on BIS license 
+application D421291 as the ultimate consignee of one ADS6144 14-BIT 
+analog/digital converter with a sampling frequency of 105MSPS. This 
+item is controlled for national security, missile technology, 
+nuclear nonproliferation and anti-terrorism reasons under ECCN 
+3A001.  The licensee is Texas Instruments, 7800 Banner Drive, M/S 
+3935, Dallas, TX 75251. 
+ 
+¶3. On November 16, 2009, Commercial Attach Katja Kravetsky and LES 
+Natalya Shipitsina conducted the requested pre-license check at the 
+offices of Laser Systems Ltd., 1, 1-ya Krasnoarmeyskaya Street, 
+Saint Petersburg, Russia. The export control team met with Alexey 
+Boreysho, General Director, Dmitry Vasilyev, Technical Director and 
+Oleg Smirnov, Head of Electronic Systems Department. 
+ 
+¶4. Laser Systems, Ltd. was founded in 1990 as a manufacturer of 
+equipment using laser technologies.  It is a privately held limited 
+liability company and has a staff of 120 employees, the majority 
+engineers.  Laser Systems is currently working on a prototype for 
+the QAlcolaser,Q which it developed to detect alcohol vapors inside 
+a moving car.  The analog/digital converter is a component of the 
+Alcolaser.  According to the company officials, the current 
+prototype, which the export control team viewed, already includes a 
+converter not subject to export control regulations, but it does not 
+deliver sufficiently precise results. Laser Systems intends 
+initially to purchase 10 converters at a unit price of approximately 
+USD 50.  The export control team found that Laser Systems, Ltd. has 
+a legitimate need and a legitimate end use for the reftel commodity. 
+ 
+¶5. Recommendations: Post recommends Laser Systems Ltd., Saint 
+Petersburg, Russia, as a reliable recipient of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/ JMARKS/KKRAVETSKY) 
+BEYRLE

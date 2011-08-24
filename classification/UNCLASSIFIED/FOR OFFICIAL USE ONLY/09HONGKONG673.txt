@@ -1,0 +1,115 @@
+09HONGKONG673
+HKTID LETTER EMPHASIZES EXPORT CONTROL REQUIREMENTS
+Thu Apr 09 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Hong Kong
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHHK #0673/01 0991031
+ZNR UUUUU ZZH
+R 091031Z APR 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+RUEHC/SECSTATE WASHDC 7380
+RHMFIUU/HQ BICE WASHINGTON DC
+INFO RUEHBJ/AMEMBASSY BEIJING 3082
+RUEHIN/AIT TAIPEI 0264UNCLAS HONG KONG 000673 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EAP/CM 
+STATE FOR ISN 
+USDOC FOR 532/OEA/LHINES ADYSON 
+USDOC FOR 3132/FOR FCS/OIO SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC PARM HK
+SUBJECT: HKTID LETTER EMPHASIZES EXPORT CONTROL REQUIREMENTS 
+ 
+¶1.  (SBU) Hong Kong Trade and Industry Department (HKTID) 
+told us on April 2 that they have begun including with every 
+import license for certain controlled electronic components 
+(US 3A001) a letter that explains the  control requirements. 
+ The licensee (importer) will be required to pass the letter 
+to the recipient of the goods in Hong Kong.  The letter, in 
+English and Chinese, explicitly states that the license only 
+authorizes the import of the licensed goods into Hong Kong. 
+Subsequent re-export of the goods to a destination outside of 
+Hong Kong must be covered by a Hong Kong export license 
+issued by HKTID.   The letter explains that U.S. origin 
+strategic commodities (in this case - electronic components) 
+may be imported into Hong Kong without a U.S. export license, 
+but require a U.S. export license if exported to other 
+destinations (i.e. mainlanQChina).  We believe that HKTID,s 
+action is in response to recent BIS end-use checks and 
+related cases involving diversion of U.S. origin electronics 
+through Hong Kong to mainland China where higher licensing 
+requirements apply.  While the direct impact on diversions of 
+electronic components from Hong Kong to mainland China may be 
+limited (the diverters are probably aware they are violating 
+export control regulations and this letter will not stop 
+them), the letter may make the eventual prosecution of 
+diverters by the Hong Kong government more straight forward 
+as it undermines the &ignorance of the licensing 
+requirement8 defense. 
+ 
+¶2.  Begin Text of HKTID Letter: 
+ 
+Important Note on Import and Re-Export of Strategic 
+Commodities of US Origin 
+ 
+Import Licence No. 
+ 
+This note should be read carefully by all recipients in Hong 
+Kong of the consignment (or any part of the consignment) 
+covered by the above Import Licence.  It should be passed to 
+the new recipient of the goods whenever the goods are 
+transferred in Hong Kong. 
+ 
+(1) The above Import Licence only authorises the import of 
+the goods.  Subsequent re-export of the goods to a 
+destination outside Hong Kong must be covered by an export 
+licence issued by the Director-General of Trade and Industry. 
+ 
+(2)  Under the US export control regulations, US origin 
+strategic commodities authorised to be exported to Hong Kong 
+under U.S. licence exception may be subject to US individual 
+licences when they are further re-exported to other 
+destinations.  In some other cases, U.S. origin strategic 
+commodities authorised to be exported to Hong Kong under US 
+individual licences are not permitted to be re-exported to 
+other destinations. 
+ 
+(3)  Before arranging further re-export of strategic 
+commodities which are originally authorised by the US 
+authorities for export to Hong Kong for local consumption 
+only, the relevant trader should ensure that there is an 
+applicable licence exception or should seek re-export 
+authorisation from the US authorities. 
+ 
+(4) For enquiries on the application for strategic 
+commodities licences in Hong Kong, please approach: 
+Strategic Trade Control Branch of the Trade and Industry 
+Department 
+Tel:               2398 5575 
+Email:            stc@tid.gov.hk 
+Address:       Room 516B, 5F, Trade and Industry Department 
+               Tower, 700 Nathan Road, Mongkok 
+Website:       www.stc.tid.gov.hk 
+ 
+For more details on the requirements for the import and 
+export of strategic commodities of US origin, please refer to 
+Strategic Trade Controls Circular No. 3/2009 available at the 
+above website. 
+ 
+(5)  For enquiries on the export control regulations of the 
+US, please visit the website of the Bureau of Industry and 
+Security (BIS) of the US Department of Commerce 
+(www.bis.doc.gov). 
+ 
+Strategic Trade Controls Branch 
+Trade and Industry Department 
+DONOVAN

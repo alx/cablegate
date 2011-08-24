@@ -1,0 +1,77 @@
+09MOSCOW1946
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: AKNIIPO ANO,
+Thu Jul 30 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0007
+PP RUEHWEB
+
+DE RUEHMO #1946 2110639
+ZNR UUUUU ZZH
+P 300639Z JUL 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 4389
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001946 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: AKNIIPO ANO, 
+MOSCOW, RUSSIA. 
+ 
+REFTELS: REQUEST FORM #04210017; DATED 6/04/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, AKNIIPO ANO, Moscow, 
+Russia. The company is listed on BIS license applications: NLR as 
+the ultimate consignee of forty eight electronic integrated circuits 
+and micro assemblies, digital field programmable gate arrays, 
+product no:APA450-PQ2081. These items are controlled for national 
+security, missile technology, nuclear non-proliferation and 
+anti-terrorism reasons under ECCN 3A001. The licensee is Actel 
+Corporation, 2061 Stierlin CT, Mountain View, CA. 
+ 
+¶3. On July 29, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of AKNIIPO ANO (Aerospace Scientific and 
+Research Test Industrial Company, Automated Non-Commercial 
+Organization), 5, Aviatsionny Pereulok, Moscow, Russia. The export 
+control team met with Dmitry Kholomkin, General Director and Pavel 
+Turikin, Department Head. 
+ 
+¶4. AKNIIPO ANO was created in 2001, when three companies, 
+Rocket-Space Corporation Energy, Holding Company Aviapribor and 
+Russian Scientific Research Institute Electrostandart, joined 
+together.  It has 60 full time employees and approximately 300 under 
+various contracts for special projects. 
+ 
+¶5. AKNIIPO ANO is licensed by the Russian government to produce and 
+develop various finished components for space exploration projects. 
+ 
+¶6. The commodities in reftel were purchased by AKNIIPO ANO for use 
+in a joint space exploration project with NASA involving the 
+Fobos-Grunt mission.  The missionQs objectives are to collect soil 
+samples from Fobos, a moon of mars and to bring the samples back to 
+Earth for comprehensive scientific research into Fobos, Mars and 
+Martian space. 
+ 
+¶7. The commodities in reftel were not located in the consigneeQs 
+facility because they have already been placed onboard the Russian 
+launch vehicle that is scheduled for an October launch. The 
+commodities do appear to be being used for the end use for which 
+they were licensed. There were no indications of impropriety and the 
+consigneeQs answers were not evasive. 
+¶8. Recommendations: Post recommends AKNIIPO ANO, Moscow, Russia, as 
+a reliable recipient of sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+AGNEW

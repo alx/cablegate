@@ -1,0 +1,89 @@
+07MOSCOW4957
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Thu Oct 11 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0017
+PP RUEHWEB
+
+DE RUEHMO #4957 2841210
+ZNR UUUUU ZZH
+P 111210Z OCT 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 4545
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 004957 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+KALUGA BREWER COMPANY, KALUGA, RUSSIA, LICENSE NO. NLR 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Kaluga Brewer Company (Russian abbreviation 
+KPK), Kaluga, Russia. The company is listed on BIS 
+license application: NLR as the ultimate consignee of 
+a 5200 trivector analyzer system and accessories. ECCN 
+EAR 99. The exporter is Computation Systems, Inc., 835 
+Innovation Drive, Knoxville, TN 37932. 
+ 
+¶3. On September 19, 2007, Export Control Attaches 
+Donald Pearce, Peter Liston and FSN Natalya Shipitsina 
+conducted the requested post-shipment verification 
+with Kaluga Brewer Company, Kaluga, Russia. The export 
+control team met with Sergey Burykin, Chief Engineer. 
+ 
+¶4. KPK was founded in 1998 from assets of a Soviet era 
+brewery acquired by SAB Miller PLC, a multinational 
+group headquartered in the U.S. The brewery is SAB 
+Miller's third largest, and last year was honored by 
+the holding company as having the most efficient 
+brewing operations outside of the United States.  KPK 
+produces around 300,000,000 litres of beer annually. 
+KPK employs around 1000 at the brewery, located in 
+Kaluga, a town approximately 200km southwest of 
+Moscow. 
+ 
+¶5. The commodities in reftel are used by the 
+Engineering Service of KPK to analyze oils used in the 
+brewery machine equipment.  Oil samples are taken from 
+various mechanical devices, and tested for 
+preventative maintenance purposes.  In conjunction 
+with vibration analysis, the engineers can determine 
+the projected lifespan of the device, potential 
+problems or malfunctions, and prevent damage from oil 
+contamination.  It also allows the company to ensure 
+that oils and lubricants procured for use are suitable 
+and in good condition prior to use. 
+ 
+¶6. The team was shown a CSI model B520000 tri-vector 
+analyzer with model 52DV viscometer, serial number 
+¶00125175.  Three engineers have routine access to the 
+device, which is stored in a locked trailer on the 
+grounds of the factory.  In addition, the manager of 
+the Engineering Service has access to the trailer, 
+along with a janitor. The factory runs on a 24 hour 
+basis, and has its own security service which is on 
+duty at all times.  There is a video security system, 
+and doors are routinely checked by security patrols 
+during nighttime hours. 
+ 
+¶7. Recommendations: Post recommends Kaluga Brewer 
+Company, Kaluga, Russia as reliable recipients of 
+sensitive U.S. origin commodities. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

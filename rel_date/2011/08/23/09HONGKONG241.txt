@@ -1,0 +1,85 @@
+09HONGKONG241
+EXTRANCHECK: PRE LICENSE CHECK: BIT BY BIT LIMITED
+Mon Feb 09 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0007
+RR RUEHWEB
+
+DE RUEHHK #0241 0400218
+ZNR UUUUU ZZH
+R 090218Z FEB 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 6845
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000241 
+ 
+USDOC FOR 532/OEA/MNICKSON/ADYSON/TWILLIS/EHOLLAND 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE LICENSE CHECK: BIT BY BIT LIMITED 
+ 
+REF: A) D410390 B) USDOC 00132 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. At the direction of the Office of Enforcement Analysis (OEA) of 
+the USDOC Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO) conducted a pre-license check (PLC) at 
+Bit by Bit Limited, Unit A1-05, 6/F Hang Fung Industrial Building, 
+Phase 1, 2G Hok Yuen Street, Hong Kong (Bit by Bit). The item in 
+question is an ISO layer 7 load balancing router for internet 
+servers.  This item is classified under export control 
+classification number (ECCN) 5A002 and is controlled for national 
+security (NS) reasons. The license applicant is Coyote Point 
+Systems, Inc. of Millerton, NY. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Bit by Bit (was 
+registered in November 2007.  Its directors are Hong Kong residents 
+Chiu, Wai Chung, Choy, Kam Cheong, and Li, Man Tat.  Its paid up 
+share capital is the Hong Kong equivalent of USD 12. 
+ 
+¶4.  According to the company web site (www.bitbybit.com.hk) Bit by 
+Bit is an IT distribution company.  It represents a range of U.S. 
+and other international IT hardware manufacturers such as the 
+license applicant, Coyote Systems. 
+ 
+¶5.  On February 2, 2009, ECO and Commercial Assistant Carrie Chan 
+visited Bit by Bit and met with Mark Li, General Manager.  The 
+meeting occurred at the offices of On-Time Technology, 907B, Shui 
+Hing Center, 13 Sheung Yuet Road, Kowloon.  When asked why the 
+meeting was held at this address, Mr. Li stated that On-Time 
+Technology is related to Bit by Bit and acts as a solutions provider 
+using Bit by Bit procured products.  Mr. Li stated that the 
+companies are kept separate so that other solutions providers will 
+not avoid Bit by Bit because of the affiliation.  Mr. Li provided 
+background on Bit by Bit and stated that it focuses on the provision 
+of hardware for various internet and other IT applications. 
+ 
+¶6.  As to the specific transaction in question, Mr. Li stated that 
+the customer is Myweather LLC and he provided a copy of a quotation 
+provided to the company.  When asked for a Purchase Order to review, 
+Mr. Li stated that Bit by Bit had never received a final purchase 
+order from this company but had received payment and, for his 
+purposes, this was enough to proceed.  Mr. Li further clarified 
+that, in fact, it appeared the final customer/end user will be My 
+Weather & Traffic Technology (Beijing) Ltd.  A review of the 
+Myweather.net web site confirms that this order is likely destined 
+to this end user for support of Myweather.net's expansion of its 
+service into China. 
+ 
+¶7.  ECO separately provided Mr. Li with links to the Commerce 
+Control List and other know your customer guidance.  Mr. Li stated 
+that he would review such information closely. 
+ 
+¶8.  Based on the information noted above, ECO believes that Bit by 
+Bit is a suitable recipient of U.S. origin controlled technology, as 
+reseller. ECO can make no determination about the end-user aside 
+from the comments stated herein.

@@ -1,0 +1,179 @@
+09BEIJING1945
+EMBASSY AIR QUALITY TWEETS SAID TO "CONFUSE" CHINESE
+Fri Jul 10 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Beijing
+VZCZCXRO3869
+PP RUEHAST RUEHCN RUEHDH RUEHGH RUEHHM RUEHLN RUEHMA RUEHPB RUEHPOD
+RUEHSL RUEHTM RUEHTRO RUEHVC
+DE RUEHBJ #1945/01 1910734
+ZNR UUUUU ZZH
+P 100734Z JUL 09
+FM AMEMBASSY BEIJING
+TO RUEHC/SECSTATE WASHDC PRIORITY 5111
+INFO RUEAEPA/HQ EPA WASHDC
+RUEHOO/CHINA POSTS COLLECTIVE
+RHMFIUU/DEPT OF ENERGY WASHINGTON DC
+RUEAUSA/DEPT OF HHS WASHINGTON DC
+RUCPDOC/DEPT OF COMMERCE WASHDC
+RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVEUNCLAS SECTION 01 OF 02 BEIJING 001945 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: SENV CASC KGHG TRGY ENRG PREL CH
+SUBJECT: EMBASSY AIR QUALITY TWEETS SAID TO "CONFUSE" CHINESE 
+PUBLIC 
+ 
+SUMMARY AND BACKGROUND 
+---------------------- 
+ 
+¶1.  (SBU) SUMMARY.  At the request of the Ministry of Foreign 
+Affairs (MFA), ESTH Off and MED Off met on July 7 with Mr. WANG 
+Shuai of MFA's Office of U.S. Affairs to respond to MFA's concerns 
+about recent publicity in international and local press surrounding 
+an air quality monitor installed on the Embassy compound.  MFA 
+registered complaints on behalf of the Beijing Environmental 
+Protection Bureau (EPB) and the Chinese Ministry of Environmental 
+Protection (MEP), saying that making this data (which in their view 
+"conflicts" with "official" data posted by the Beijing EPB) 
+available to the general public through an Embassy-operated Twitter 
+site has caused "confusion" and undesirable "social consequences" 
+among the Chinese public.  MFA asked Post to consider either 
+limiting access to the air quality data only to American citizens, 
+or otherwise identify a suitable compromise.  END SUMMARY. 
+ 
+¶2.  (SBU) BACKGROUND:  In February 2008, Post purchased and 
+installed a MetOne BAM 1020 continuous particulate monitor at the 
+former Embassy compound to measure the concentration of particulate 
+matter (PM) 2.5 in the area.  In August 2008 the Embassy began 
+posting corresponding "real time" air quality index (AQI) numbers, 
+which are generated according to definitions set by the U.S. 
+Environmental Protection Agency (EPA), to an Embassy-managed Twitter 
+site (http://twitter.com/beijingair) on an hourly basis.  While the 
+initiative originally was primarily geared toward informing the 
+Embassy community about levels of pollution in immediate proximity 
+to the compound, consular "no double standard" requirements prompted 
+Post to create the Twitter site as a user-friendly platform so that 
+private American citizens residing and traveling in Beijing are also 
+able to access the data.  (NOTE: Particulates less than 2.5 
+micrometers in diameter (PM 2.5) are referred to as "fine" 
+particulates and are widely-accepted to pose the largest risk to 
+human health.  Beijing EPB currently has the capacity to collect PM 
+2.5 data, but the agency only chooses to make available to the 
+public data on PM 10 (10 micrometers in diameter), and links the PM 
+10 data to Beijing EPB's own "Air Pollution Index (API)" 
+definitions.  Beijing EPB only publishes one daily average to 
+describe the previous 24-hour period and then offers a "forecast" 
+for the day to come.  From a public health perspective, air quality 
+data posted after the fact offers non-actionable information of 
+little value to area residents, who want guidance on appropriate 
+levels of outdoor physical activity on a given day.  END NOTE) 
+ 
+¶2.  (SBU) While the existence of the Embassy's air quality Twitter 
+site had become increasingly known to the American expatriate 
+population living in Beijing throughout the spring, local and 
+international press coverage spiked after Time Magazine published a 
+story online about the Embassy's air monitor on June 19.  Since June 
+19, the site's number of "followers" has increased from 
+approximately 400 to the current total of 2500+, with at least 75 
+percent of the new followers being Chinese (judging from the screen 
+names used).  Additional press articles have appeared in the South 
+China Morning Post, China Daily, and other outlets, with major local 
+online forums like Sina.com ablaze with Chinese "netizens" 
+commenting on this issue.  (NOTE:  The increased number of 
+registered followers probably only partially reflects the new 
+interest that exists among internet users in Twitter site's 
+measurements.  Since the site is open also to unregistered users, or 
+"non-followers," a great many more likely access the site without 
+first registering as a follower. END NOTE) END BACKGROUND 
+ 
+TWITTER'S ACCESSIBILITY MAY CAUSE "SOCIAL CONSEQUENCES" 
+--------------------------------------------- -------- 
+ 
+¶3.  (SBU) It was in this context that EmbOffs were summoned to MFA 
+on July 7 to listen to the Chinese government's list of complaints 
+about the existence, function, and reach of the Embassy's air 
+quality Twitter site.  Interlocutors appeared willing to accept the 
+Embassy's stated rationale that the monitor is needed for mission 
+community health purposes.  WANG Shuai of MFA's U.S. Affairs Office 
+stated that MFA, nevertheless, remains unhappy that the Embassy 
+decided to make the data available also to the general public via 
+the Twitter site.  EmbOff explained the United States' consular "no 
+double standard" regulations, which require the Embassy to share 
+with American citizens any available information related to security 
+and health. 
+ 
+¶4.  (SBU) Wang then wondered, if the target audience included only 
+Embassy personnel, family members, and American citizens in the 
+area, why the information needed to be broadcast to the general 
+public and made accessible to the Chinese public as well.  He stated 
+that the Embassy Twitter site had been causing unwanted "press 
+fuss," and "confusion" among the Chinese public, which might lead to 
+ 
+BEIJING 00001945  002 OF 002 
+ 
+ 
+"social consequences."  Wang further commented that air quality data 
+should not follow a "market-based" approach, which has resulted in 
+the Chinese public now questioning "unnecessarily" the validity of 
+Beijing EPB's data.  In MFA's view, Beijing EPB should be the sole 
+authoritative voice for making pronouncements on Beijing's air 
+quality.  He then requested that the Embassy explore ways to limit 
+access to data collected from the Embassy's machine to only mission 
+members and American citizens. 
+ 
+COMPETING AIR QUALITY DATA:  "NOT FAIR" TO EPB 
+--------------------------------------------- - 
+ 
+¶5.  (SBU) According to Wang, the existence of the machine and the 
+openness of the Twitter site are "not fair" to the Beijing EPB.  He 
+cited that the Twitter site's consistent characterization in recent 
+days of Beijing air quality as "unhealthy" or "very unhealthy" takes 
+credit away from "all the progress" Beijing EPB has made in recent 
+years in improving the city's air quality.  Wang added that the fact 
+that the Embassy's air quality data is not based on the 
+Chinese-approved standards for measuring air pollution is not only 
+confusing but also insulting, citing that the U.S. government would 
+be similarly incensed if the Chinese Embassy in Washington were to 
+do the same.  Wang concluded by again urging that if data could not 
+be limited to Americans only, the Embassy should identify a 
+"compromise."  Ultimately, MFA would "hate to see" the bilateral 
+environmental cooperation or even the overall relationship 
+negatively "affected by this issue." 
+ 
+¶6.  (SBU) EmbOff emphasized to MFA interlocutors that the Embassy's 
+primary interest is to make the information collected by the air 
+monitor as easily-accessible by Mission personnel, family members, 
+and Americans residing and traveling in Beijing as possible. 
+Therefore, the Embassy has no position on non-American citizens also 
+having access to the data, nor is the Embassy concerned with how 
+others choose to interpret the information found on the Twitter 
+site.  The Embassy does, however, have a strong interest in "setting 
+the record straight," and ensuring that the public understands that 
+mission health has always been and remains the primary motivation 
+for the program.  Furthermore, because the Embassy's monitor only 
+collects data in one location, it cannot replace or negate the 
+information provided by the Beijing EPB.  Finally, since the Embassy 
+collects data on PM 2.5 and Beijing EPB on PM 10, and each is 
+indexed differently, the two indices cannot and should not be 
+compared.  Therefore, until the Beijing EPB begins publishing PM 2.5 
+data (which they already have the equipment to collect) on a real 
+time basis, the Embassy is not able to discontinue its program for 
+monitoring PM 2.5 onsite. 
+ 
+COMMENT 
+------- 
+ 
+¶7.  (SBU) Although the exchanges at the meeting became heated at 
+times, EmbOffs perceived that the interlocutors were likely only 
+dutifully registering disapproval on behalf of national and city 
+environmental protection authorities.  EmbOffs promised to relay 
+MFA's concerns to relevant sections of the Embassy to see if a 
+compromise could be identified, however, Post does not feel at this 
+time that MFA presented any compelling arguments to warrant drastic 
+changes in or discontinuation of the Embassy's PM 2.5 monitoring 
+program. 
+ 
+GOLDBERG

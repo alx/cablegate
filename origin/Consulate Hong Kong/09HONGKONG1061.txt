@@ -1,0 +1,77 @@
+09HONGKONG1061
+EXTRANCHECK: POST SHIPMENT VERIFICATION: FLEX-IN
+Thu Jun 11 00:00:00 +0200 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #1061 1620858
+ZNR UUUUU ZZH
+R 110858Z JUN 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 7818
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001061 
+ 
+USDOC FOR 532/OEA/MHAMES/MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: FLEX-IN 
+ELECTRONICS LIMITED 
+ 
+REF: A) BIS e-mail request dated May 15, 2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post-shipment verification (PSV) at Flex-In Electronics Limited, 
+Flat 204-205, 2F, Laford Centre, 838 Lai Chi Kok Road, Hong Kong 
+(Flex-In). The items in question for this PSV are three shipments of 
+logic arrays and integrated circuits exported to Flex-In on or about 
+May 24, 2008 (shipment one), November 18, 2008 (shipment 2), March 
+10, 2009 (shipment 3).  These items are classified under export 
+control classification number (ECCN) 3A001 and are controlled for 
+national security (NS) reasons.  The exporter was Lattice 
+Semiconductor of Hillsboro, Oregon. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Flex-In was 
+registered in 2001 and has the Hong Kong equivalent of USD 1300 in 
+paid up share capital.  Flex-In's directors are listed as Hong Kong 
+residents Chong, Man Sui (HK ID C368535(5)) and Shen, Hing Steven 
+(HK ID E781805(1)). 
+ 
+¶4.  Web based research reveals that Flex-In 
+(www.fe-electronics.com)is part of the Dragon Group of companies. 
+The Dragon Group of companies is owned and controlled by ASTI 
+Holdings Limited (www.astigp.com), a Singapore stock exchange listed 
+company.  ASTI's companies include electronics distribution 
+companies (including those in the Dragon Group) as well as 
+semiconductor equipment manufacturing companies.  The group employs 
+over 2900 employees worldwide. 
+ 
+¶5.  On June 4, 2009, ECO and Commercial Assistant Carrie Chan 
+visited the company and met with Dragon Technology Distribution (HK) 
+Limited's Finance Manager, Ms. Shirley Kam.  She provided an 
+overview of the corporate structure of the various ASTI and Dragon 
+companies.  She further clarified that Flex-In serves primarily 
+Korean customers.  Flex-In's customers are primarily manufacturers 
+in the mobile telecom market and Flex-In rarely sells to other 
+resellers.  Ms. Kam was familiar with Hong Kong and U.S. export 
+licensing rules. 
+ 
+¶6.  Ms. Kam was open and forthcoming and provided documentation 
+confirming the final disposition of all three shipments.  Each of 
+those shipments was reexported by Flex-In to Samsung Electronics for 
+use in mobile phone production. 
+ 
+¶7.  Based on the information noted above, ECO believes Flex-In to be 
+a suitable recipient of controlled U.S. origin technology.

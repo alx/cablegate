@@ -1,0 +1,134 @@
+07TELAVIV2661
+RESULTS OF BLUE LANTERN LEVEL 3 POST SHIPMENT
+Tue Sep 04 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Tel Aviv
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHTV #2661/01 2470941
+ZNR UUUUU ZZH
+P 040941Z SEP 07
+FM AMEMBASSY TEL AVIV
+TO RUEHC/SECSTATE WASHDC PRIORITY 3098
+INFO RUEHNE/AMEMBASSY NEW DELHI 0351
+RUCPDOC/USDOC WASHDC
+RUEKJCS/SECDEF WASHDC
+RHMFIUU/HQ BICE INTEL WASHINGTON DCUNCLAS TEL AVIV 002661 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR PM/DTCC (BLUE LANTERN COORDINATOR) 
+STATE FOR NEA/IPA (PECCIA) 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC IN IS
+SUBJECT: RESULTS OF BLUE LANTERN LEVEL 3 POST SHIPMENT 
+END-USE CHECK ON LICENSE 050008627 
+ 
+REF: A. STATE 98010 
+     ¶B. JOUBERT-LIN-KEAYS E-MAIL OF 8/30/07 
+ 
+¶1. (SBU) Acting on instructions in ref A, Embassy Tel Aviv 
+Blue Lantern Officer conducted a site visit to IAI Elta 
+Systems, Limited's office in Ashdod on August 6 to determine 
+the status of 20 cable assemblies delivered to Israel.  Blue 
+Lantern Officer determined that IAI Elta Systems received the 
+20 cable assemblies, and that they are being used for the 
+purpose stated on the license.  Specific details follow. 
+ 
+¶A. Blue Lantern Officer met with the following Elta Systems 
+employees: 
+ 
+-- Yacob Saraf, Deputy General Manager, Elta IMINT and Radar 
+Division 
+ 
+-- Orly Araza, Head of Security Department 
+ 
+-- Shlomo Meshulam, Deputy Security Director and Information 
+Security Manager 
+ 
+Colonel Kobi Fogelman from the Israeli MOD's Directorate for 
+Security (MALMAB/DSDE) was also on site and played a 
+significant role in organizing the site visit. 
+ 
+¶B. During the site visit, Blue Lantern Officer: 
+ 
+-- was shown a DSP-5 License dated June 30, 2006 and signed 
+by Timothy J. Ruthemeyer.  The country of destination listed 
+on the document is India, and the Foreign End User listed is 
+the Indian Navy.  The license value listed was USD 34,068.00. 
+ 
+-- was told that the 20 cable assemblies were received from 
+the U.S. in six different shipments.  The cable assemblies 
+are being incorporated into Type EL/M-2032 Airborne Radar 
+Systems which constitute the fire control radar for the 
+Indian Navy's Sea Harrier.  The cable assemblies work as 
+high-voltage connectors for tubes that provide power to the 
+radar system's transmitter. 
+ 
+-- was shown the original letter from the Indian Navy 
+concerning the four Type EL/M-2032 Airborne Radar Systems 
+(including four of the cable assemblies) that it had already 
+received.  (NOTE:  These have the Elta serial numbers IN104, 
+IN204, IN102 and IN201.  END NOTE.) 
+ 
+-- was shown seventeen (17) of the cable assemblies in 
+various configurations.  Of these, Blue Lantern Officer was 
+informed that three (3) were currently assigned to the 
+assembly line.  Two (2) of the cable assemblies had already 
+been fitted into tubes (with Elta serial numbers IN205 and 
+IN206) and were ready for shipment.  One of the assemblies 
+had been fitted into a replaceable part of the transmitter 
+(known as an SRU).  Two (2) others remain at the first stage 
+of the assembly process. 
+ 
+-- was informed that four (4) of the assemblies had already 
+been delivered to the Indian Navy.  One (1) was returned for 
+repairs, so Elta is now in possession of seventeen (17) of 
+the assemblies.  (NOTE:  The one assembly returned for 
+repairs was already fitted into a complete transmitter unit. 
+The Elta serial number on it is IN201.  END NOTE.) 
+ 
+-- was shown the eight (8) remaining cable assemblies in 
+storage, with end-user stickers on them that indicated that 
+they are only to be used for the EL/M-2032 project.  The 
+stickers noted that they are controlled items. 
+ 
+-- was told that two of the assemblies, and the repaired 
+assembly, would be sent to India in August.  It would take 
+some time for the remaining assemblies to be fitted into 
+their final components and shipped to India.  Blue Lantern 
+Officer was told that it takes six months to manufacture an 
+entire component. 
+ 
+¶2. (SBU) Blue Lantern Officer has sent by FAX to PM/DTCC (FAX 
+number 202-261-8198) ten pages of documentation, including a 
+copy of the DSP-5, a copy of the letter from the Indian Navy, 
+and a chart showing the disposition of the 20 cable 
+assemblies. 
+ 
+¶3. (SBU) Blue Lantern Officer received a general briefing on 
+Elta Systems, Ltd.  The company is owned by Israel Aircraft 
+Industries (IAI).  Its president is Mr. Nissim Hadas.  Elta 
+ 
+Systems, Ltd. is comprised of several divisions, including 
+IMINT and Radar, SIGINT, Airborne Early Warning (AEW), 
+Technologies, and Integrated Micro-Systems.  It is carrying 
+out several projects for the U.S. Air Force, and supplies 
+Northrup Grumman with antennas for the F-16 (as part of the 
+F-16I offset).  It is also working with Lockheed Martin on a 
+marine patrol radar for the U.S. Coast Guard.  There are 
+3,000 workers at Elta Systems, Ltd.'s complex in Ashdod. 
+ 
+********************************************* ******************** 
+Visit Embassy Tel Aviv's Classified Website: 
+http://www.state.sgov.gov/p/nea/telaviv 
+ 
+You can also access this site through the State Department's 
+Classified SIPRNET website. 
+********************************************* ******************** 
+JONES

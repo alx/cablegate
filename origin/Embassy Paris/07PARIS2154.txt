@@ -1,0 +1,269 @@
+07PARIS2154
+France: Telecom and Information Technology Update
+Thu May 24 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXRO5742
+RR RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHFR #2154/01 1441354
+ZNR UUUUU ZZH
+R 241354Z MAY 07
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 7579
+INFO RUCPDOC/USDOC WASHDC
+RUEAFCC/FCC WASHDC
+RUCNMEM/EU MEMBER STATESUNCLAS SECTION 01 OF 03 PARIS 002154 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EB/CIP, EUR/WE, AND EUR/ERA 
+DEPT PLEASE PASS TO USTR JMCHALE, KSCHAGRIN, AND CHINKLEY 
+FCC FOR TWEISLER 
+COMMERCE FOR NTIA CSPECK AND ITA JBURTON 
+JUSTICE FOR KWILLNER 
+BRUSSELS FOR USEU JUNDERWOOD 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD FR
+SUBJECT: France: Telecom and Information Technology Update 
+ 
+REF: Paris 2027 
+ 
+¶1. (U) This update covers recent news in the French 
+telecommunications and information technology sectors, including 
+internet and e-commerce. 
+ 
+Contents: 
+-- Telecom Policy Gets a New Home (para 2) 
+-- Fourth Mobile License (para 3) 
+-- High Speed Internet Success in France (para 4) 
+-- Alcatel-Lucent's Lower Profits (para 5) 
+-- Protests over Alcatel-Lucent job cuts (para 6) 
+-- Alcatel Promotes Chinese 3G standard (para 7) 
+-- Verizon and Alcatel-Lucent Announce Lucrative Contract (para 8) 
+-- Deutsche Telekom Sells French Internet Subsidiary 
+(para 9) 
+-- France Telecom Announces Revenue Increase (para 10) 
+-- Orange gets new Boss (para 11) 
+-- Orange Video-On-Demand (VOD) becomes Paramount (para 12) 
+-- Orange Experiences Rapid Growth in Egypt (para 13) 
+-- Mobile Phones As Credit Cards (para 14) 
+ 
+Telecom Policy and Sarkozy's Ministerial Restructuring 
+---------------------------------- 
+ 
+¶2. (SBU) President Nicolas Sarkozy has split the former Ministry of 
+Economy, Finance and Industry into two separate ministries -- a 
+Ministry of Budget, Public Accounts and Civil Service, and a 
+Ministry of Economy, Finance and Employment.  Telecommunications 
+policy should remain within the purview of the latter, though 
+whether it will remain the domain of a Directorate for Information 
+Technology is not yet clear.  The new Minister of Economy, Finance 
+and Employment, Jean-Louis Borloo, previously served in the Raffarin 
+and Villepin governments as Minister for Employment, Labor, and 
+Social Cohesion during 2004-2007, and Junior Minister for Towns and 
+Urban Renewal from 2002-2004 (reftel). The change in government will 
+not affect the telecommunications regulator, Paul Champsaur, who was 
+appointed in 2003 and should remain in place until 2009.  President 
+Sarkozy supports Champsaur's project to encourage investment in 
+fiber to French homes. 
+ 
+Fourth Mobile License 
+--------------------- 
+ 
+¶3. (U) Telecom regulator ARCEP has invited bids for France's fourth 
+third generation (3G) wireless license, due on July 31.  The license 
+will be awarded by a "beauty contest" against a set of criteria 
+specified on ARCEP's website (www.arcep.fr).  The application 
+procedure is similar to that used in issuing the previous three 3G 
+licenses. Rumors in the market indicate that the Iliad Group, in 
+conjunction with a partner, and Neuf Cegetel are likely bidders. 
+ 
+New ARCEP Figures Attest to High Speed Internet Success in France 
+---------------------------------- 
+ 
+¶4. (U) According to ARCEP's recent data, France counts 12.7 million 
+high-speed internet subscribers. In 2006, Internet providers 
+attracted 3.2 million new subscribers, a 34 percent increase over 
+the previous year. 
+ 
+Alcatel-Lucent's Lower Profits 
+------------------------------ 
+ 
+¶5. (U) Alcatel-Lucent, the world's largest supplier of 
+telecommunications equipment, said that 2007 first-quarter adjusted 
+profit fell 35 percent (year-on-year), hurt by restructuring costs 
+and a twelve percent decline in sales.  Profits fell to 199 million 
+euros (USD 268 million), down from 306 million euros (USD 413 
+million) a year earlier.  To May 10 Alcatel-Lucent stock had fallen 
+by 11 percent.  Alcatel-Lucent's wireless business is particularly 
+vulnerable, with wireless revenue having fallen 15 percent from a 
+year earlier.  CEO Patricia Russo blamed the drop on deferred sales 
+in anticipation of Alcatel-Lucent's launch of newer product lines. 
+Russo has said that restructuring and integration plans are on track 
+and that the company should save 600 million euros (USD 810 million) 
+this year.  Investors apparently like what they see and the stock 
+has enjoyed a partial rebound in the last week. 
+ 
+Alcatel-Lucent Labor Issues 
+--------------------------- 
+ 
+¶6. (SBU) Alcatel-Lucent restructuring plans include 12,500 job cuts 
+over three years to help reduce costs, and the company had achieved 
+ 
+PARIS 00002154  002 OF 003 
+ 
+ 
+15 percent of its target by the end of the first quarter.  In the 
+largest demonstration against these plans so far, an estimated 3,000 
+to 5,000 workers marched on the company's headquarters in Paris on 
+March 15 against the 1,500 planned cuts in France.  "Alcatel-Lucent 
+is a global company with its base in Europe and this is a French and 
+European problem affecting the future of high-tech industries," said 
+Confederation Francaise Democratique du Travail (CFDT) union 
+Secretary General Francois Chereque.  French employees took part 
+ 
+SIPDIS 
+alongside workers from Belgium, Germany, Italy, the Netherlands and 
+Spain.  Affected regional governments are also taking action against 
+Alcatel-Lucent.  In response to Alcatel-Lucent's plans to close a 
+research center and lay off 200 local employees, the Brittany 
+regional government blocked a 1.8 million euro (USD 2.39 million) 
+regional aid grant to a "competitiveness cluster" in which 
+Alcatel-Lucent participates. 
+ 
+Alcatel Promotes Chinese 3G standard 
+------------------------------------ 
+ 
+¶7. (U) Alcatel-Lucent's Chinese affiliate, Alcatel Shanghai Bell, 
+and China's Datang Mobile will provide the Chinese TD-SCDMA third 
+generation (3G) mobile phone standard used in a trial by China 
+Mobile.  China Mobile will use the 3G standard in a trial network 
+expansion in Shanghai and Guangzhou.  The TD-SCDMA technology allows 
+for voice and high-speed data services, such as internet access, 
+video streaming, and remote access to software applications. 
+Chinese carriers reportedly have been reluctant to use TD-SCDMA, 
+preferring to use the better known cdma2000 and W-CDMA standards. 
+ 
+Verizon and Alcatel-Lucent Announce a USD 6 Billion Contract 
+---------------------------------- 
+ 
+¶8. (U) Verizon Wireless and Alcatel-Lucent announced in late March a 
+three-year agreement worth an expected USD 6 billion for 
+Alcatel-Lucent to supply a wide variety of network equipment, 
+software and services supporting Verizon Wireless' ongoing network 
+expansion and continuous improvements.  With this agreement 
+Alcatel-Lucent continues to be Verizon Wireless' primary network 
+infrastructure supplier and will continue to help grow Verizon 
+Wireless' multimedia and data services.  Under the agreement, 
+Alcatel-Lucent will provide infrastructure solutions to transition 
+Verizon Wireless to an all-internet protocol network. 
+ 
+Deutsche Telekom Sells French Internet Subsidiary 
+---------------------------------- 
+ 
+¶9. (U) Telecom operator Neuf Cegetel won a tender for French 
+Internet operator Club Internet, an ISP sold by Deutsche Telekom. 
+Neuf Cegetel's bid, between 430 and 460 million euros (USD 560-600 
+million), topped that of rival operator Free, owned by the Iliad 
+Group.  Club Internet, which has 600,000 subscribers to its high 
+speed internet service, made a 2006 operating loss of about 100 
+million euros (on sales of more than 200 million euros) as a result 
+of heavy investment to encourage client growth.  With this 
+acquisition, Neuf Cegetel has the second largest number of 
+subscribers to its Internet service in France, overtaking close 
+rival Free.  France Telecom remains the market leader, with 49.2 
+percent of the market.  Rumors are floating that Telecom Italia's 
+French Internet unit, Alice, may be the next company up for sale.  A 
+recent magazine rated Alice's customer service the worst in a market 
+not known for its customer friendliness. 
+ 
+France Telecom Announces Revenue Increase on Mobile Gains 
+---------------------------------- 
+ 
+¶10. (SBU) France Telecom (FT), Europe's second largest phone 
+company, said first-quarter sales unexpectedly rose 1.8 percent, 
+lifted by revenues from mobile services in emerging markets and 
+Internet services in France.  Sales increased to 12.84 billion euros 
+(USD 17.52 billion) from 12.81 billion euros a year earlier.  FT 
+executives told us that value-added Internet services would make up 
+for declines in traditional voice calls by the end of 2007.  FT also 
+expected growth by expanding its wireless business in emerging 
+African and Central European markets, which are growing rapidly. 
+Analysts had expected a mild sales decline prior to the release of 
+first quarter results.  Operating profits rose 1.5 percent to 4.66 
+billion euros (USD 6 billion) in contrast to the 1.5 percent decline 
+that analysts had predicted.  FT shares rose by 3 percent to 21.59 
+euros (USD 28) on the news. 
+ 
+Orange Gets a New Boss 
+---------------------- 
+ 
+ 
+PARIS 00002154  003 OF 003 
+ 
+ 
+¶11. (U) In the preamble to the announcement of its quarterly 
+earnings, France Telecom announced the departure of mobile telephony 
+subsidiary Orange's Director-General Sajiv Ahuja.  Ahuja has led 
+Orange since 2003, and is leaving at a time when profits are 
+rebounding.  Profits in the first quarter grew by 1.8 percent, with 
+revenues growing by 1.5 percent.  Management of the business unit 
+will pass to Olaf Swantee, who is moving over from Hewlett Packard. 
+ 
+ 
+Orange Offers New Video On Demand Services 
+---------------------------------- 
+ 
+¶12. (U) Orange has signed an agreement that will allow its broadband 
+digital TV and high-speed Internet subscribers access to new video 
+on demand (VOD) content from Paramount and DreamWorks Studios. 
+Orange's VOD package, 24/24 Video, rotates its film offer each week 
+from a catalogue of over 2,500 films. They include back catalogue 
+titles from major studios and independent French and international 
+productions.  Rental starts at 3 euros for 24 hours and includes 
+unlimited viewing, pause functions and fast forward and rewind. 
+Films are offered in French or original language versions with 
+subtitles. 
+ 
+Orange Experiences Rapid Growth in Egypt 
+---------------------------------- 
+ 
+¶13. (U) France Telecom's growth strategy in Egypt is emblematic of 
+growth in emerging telecom markets.  FT owns 71.25 percent of 
+Egyptian mobile operator Mobinil, which recently reached 10 million 
+subscribers and has a 52 percent market share in the country.  FT is 
+seeking to use Mobinil as a springboard for further investment in 
+the Africa and Middle East region.  FT plans to create 400 new jobs 
+at France Telecom's Orange Business Services (formerly Equant) 
+centre in Cairo, bringing the total number of employees there to 
+1,500.  Orange Business Services -- a global leader in communication 
+solutions for multinational companies worldwide -- has its largest 
+center in Cairo. 
+ 
+Mobile Phones as Credit Cards 
+----------------------------- 
+ 
+¶14. (U) French wireless telecoms groups Bouygues Telecom, Orange and 
+SFR agreed with French train company SNCF, Paris metro firm RATP, 
+and private firms Keolis, Transdev, and Veolia to allow travelers to 
+use cell phones as contactless credit cards.  The companies set up a 
+working group on April 13 to implement the accord.  The working 
+group, which is part of the Secure Electronic Transaction 
+"competitiveness cluster" located in Caen, Normandy, intends to 
+provide a common standard for "transportation cards on mobile 
+phones" by next fall.  To pay for a ride, users will need only wave 
+their cell phones past readers to be installed throughout France. 
+This system has already been tested by Bouygues Telecom on Paris's 
+public transportation system RATP since March 2006.  French rail 
+company SNCF also has a mobile phone ticketing service, under 
+experimentation since July 2006, and which requires an 
+Internet-capable phone. Users pay for the ticket over a secure 
+payment system and receive a multimedia message to their phone that 
+includes a bar code.  The message serves as a ticket that can be 
+shown to ticket collectors on the train. 
+ 
+STAPLETON

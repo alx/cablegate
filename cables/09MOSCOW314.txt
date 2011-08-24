@@ -1,0 +1,86 @@
+09MOSCOW314
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: AUTOMATED CONTROL
+Tue Feb 10 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0004
+PP RUEHWEB
+
+DE RUEHMO #0314 0411141
+ZNR UUUUU ZZH
+P 101141Z FEB 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1846
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000314 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: AUTOMATED CONTROL 
+SYSTEMS (ACS), MOSCOW, RUSSIA. 
+ 
+REFTELS: 1) USDOC 7191 2) USDOC 0160; 3) USDOC 7193 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftels requested Post-shipment verifications to determine the 
+legitimacy and reliability of the end-user, Automated Control 
+Systems, Shosse Entuziatov 64, Moscow, Russia. The company is listed 
+on three (3) BIS license applications, all NLR: as the ultimate 
+consignee of (reftel 7191) one electronic computer, assemblies and 
+related equipment.  (reftel 0160) One ADP machine part and 
+electronic devices and components.  Two ADP machine parts and 
+electronic devices and components, and three ADP machine parts, 
+electronic computers, assemblies and related equipment.  (reftel 
+7193) One ADP machine part and electronic computer assemblies and 
+related equipment.  Two ADP plug-in board and electronic devices and 
+components, and three Labview Pro software for windows and four ADP 
+plug-in board GPIB-USB-HS control or adapter unit for ADP machines. 
+These items are controlled for anti-terrorism reasons under ECCN 
+3A992, 4A994. The licensee is National Instruments, 11500 N Mopac 
+Exp., Austin, TX 78759. 
+ 
+¶3. On February 2, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verifications with Automated Control Systems, Shosse Entuziatov 64, 
+Moscow, Russia The export control team met with Sergey Krasnishov, 
+Director. 
+ 
+¶4. Automated Control Systems was founded in 1997 as a power 
+energy/test measurement and equipment company.  Automated Control 
+Systems has 10 employees, including administrative staff, engineers 
+and lab technicians.  Automated Control Systems is involved in 
+industrial automation projects with Russian power line companies 
+being their main customers. The equipment that Automation Control 
+Systems has purchased from National Instruments has been used to 
+measure current, voltage and power line stability.  Automated 
+Control Systems has already installed 13 units of National 
+Instruments technology at the Russian energy company Electrozavod. 
+ 
+¶5. Some of the commodities in subject reftels have been placed into 
+Automated Control Systems components and installed at local Russian 
+energy companies.  The export control team was able to see several 
+Automated Control Systems components in the process of being 
+constructed that contained National Instruments parts.  The export 
+control team obtained the serial numbers of two such components that 
+are from the subject reftels, V08X04DDE and 1372853. 
+ 
+¶6.  The export control team found no inconsistencies or evasiveness 
+on the part of Sergey Krasnikov.  The reftel commodities are 
+consistent with the operations of Automated Control Systems, which 
+has a long history of doing business with National Instruments of 
+Austin, TX. 
+ 
+¶7. Recommendations: Post recommends Automated Control Systems, 
+Moscow, Russia as a reliable recipient of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

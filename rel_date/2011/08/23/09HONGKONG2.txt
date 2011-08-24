@@ -1,0 +1,127 @@
+09HONGKONG2
+EXTRANCHECK: PRE LICENSE CHECK: QWARE TECHNOLOGY (HK) LTD.
+Fri Jan 02 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #0002/01 0020303
+ZNR UUUUU ZZH
+R 020303Z JAN 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 6551
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000002 
+ 
+USDOC FOR 532/OEA/MHAMES/ADYSON/TWILLIS/EHOLLAND 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE LICENSE CHECK: QWARE TECHNOLOGY (HK) LTD. 
+ 
+REF: A) D409520 B) BIS E-mail dated December 25, 2008 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. At the direction of the Office of Enforcement Analysis (OEA) of 
+the USDOC Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO) conducted a pre-license check (PLC) at 
+Qware Technology (HK) Ltd., Room 1116-1119 Sun Hung Kai Centre, 30 
+Harbour Road, Wanchai, Hong Kong (Qware HK). The items in question 
+are various Cisco routers and servers.  These items are classified 
+under export control classification number (ECCN) 5D002 and are 
+controlled for national security (NS) reasons. The license applicant 
+is Cisco Systems, Inc. of San Jose, California. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Qware Technology 
+(HK) Limited was registered in October 2000.  Its directors are Hong 
+Kong residents Zhao, Jian and Zhao, Yingxue with Hong Kong identity 
+card numbers P965619(0) and P090752(2), respectively.  Zhao, Jian is 
+also a director in Insigma International Holdings Limited.  A second 
+Qware company, namely Qware Technology Limited was registered in 
+December 2007 (Qware Technology).  Its directors are mainland 
+nationals Jiang, Yi and Yu, Qiang (no passport or identity numbers 
+are listed by the Hong Kong Companies Registry).  Both companies 
+have their registered address at the Qware HK address listed above. 
+ 
+ 
+¶4.  According to the company web site (www.Qware.com.cn), Qware HK 
+is a IT system integration and service solution provider.  It is a 
+part of the Insigma Group (www.insigma.com.cn), which is a listed 
+company on the Shanghai stock exchange. 
+ 
+¶5.  On December 30, 2008, ECO and Commercial Assistant Carrie Chan 
+visited Qware at the address listed above and met with Jenny Wei, 
+Vice Manager. She provided further background on Qware HK and the 
+transaction in question.  The office address of the company is 
+located in a relatively high end office building in Hong Kong and it 
+appears that the office is also the registered office of at least 
+seven other companies.  According to Ms. Wei, these other companies 
+are all parts of the Insigma Group of companies and the office 
+serves as all of their registered offices in Hong Kong.  Ms. Wei 
+also stated that as part of a corporate reorganization, Qware 
+Technology Limited was formed and would eventually replace Qware 
+Technology (HK) Limited in early 2009.  For reasons that are still 
+not entirely clear to the ECO, it appears that a decision was made 
+to create a new company rather than simply change the name of the 
+existing company.  Ms. Wei stated that Qware HK is the Hong Kong 
+subsidiary of the Insigma group and that all business operations are 
+run out of the Hangzhou headquarters of the Insigma Group.  The Hong 
+Kong operation only provides logistics related support and does not 
+generate any orders (nor are any customers located in Hong Kong). 
+ 
+¶6.  Ms. Wei provided ECO with a series of documents related to this 
+transaction including copies of Hong Kong TID import licenses for 
+the applicable items.  She also provided a copy of the contract 
+between Qware and Guangdong Post relating to the purchase of the 
+items.  ECO inquired why the contract was not signed and Ms. Wei 
+stated that while the contact had been agreed, it was still in the 
+finalization process.  Ms. Wei stated that Qware HK expects to 
+receive a finalized contract in the coming days.  Ms. Wei stated 
+that the items would be used by Guangdong Post in the banking 
+portion of its operations (it also accepts deposits).  Customers are 
+all located in mainland China and include representatives from both 
+the government and private sectors. 
+ 
+¶7.  In reviewing the documentation, ECO noted two apparent 
+discrepancies between the items that are the subject of the license 
+application and those items listed in the TID licenses and on the 
+purchase contract.  In particular, Ms. Wei stated that the S382SPSK9 
+(included in the U.S. license application but not in the contract or 
+Hong Kong license) was included in the Cisco3825-V/K9 (included in 
+the U.S. license application, Hong Kong license and the contract). 
+She also stated that the S384SPSK9-12311T (included in the U.S. 
+license application but not in the contract or Hong Kong license) 
+was actually part of the Cisco3845-V/K9 (included in the Hong Kong 
+License, U.S. license application and the contract).  ECO found her 
+answers to ECO's questions to be straightforward and not evasive, 
+but ECO is not in a position to determine whether they are factually 
+correct. 
+ 
+¶8.  ECO notes that the Hong Kong TID import license makes reference 
+to U.S. license exception ENC as the foreign authorization for 
+shipment to Hong Kong from the United States.  ECO believes that 
+license exception is available for exports of this class of items to 
+non-governmental end-users. In this instance, Guangdong Post is an 
+affiliate of China Post which is a corporate entity wholly owned by 
+the mainland government.  To the degree that BIS believes that 
+government-owned corporate entities are government end-users, it may 
+ 
+wish to inform Hong Kong TID of that interpretation to ensure that 
+Hong Kong TID properly interprets U.S. regulations when it considers 
+the foreign country's licensing treatment of items. 
+ 
+¶9.  Based on the information noted above, ECO believes that Qware HK 
+is a suitable recipient of U.S. origin controlled technology, as 
+logistics support provider.  ECO can make no determination about the 
+end-user or about Qware HK's mainland counterparts and affiliates. 
+ECO recommends close review of the contact and the items requested 
+in the license and also that BIS consider whether it wishes to see a 
+signed contract before approving the license.

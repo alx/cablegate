@@ -1,0 +1,417 @@
+08STATE49721
+BLUE LANTERN POST-SHIPMENT END USE CHECK ON
+Fri May 09 00:00:00 +0200 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0009
+PP RUEHWEB
+
+DE RUEHC #9721 1302013
+ZNR UUUUU ZZH
+P R 092006Z MAY 08
+FM SECSTATE WASHDC
+TO RUEHFR/AMEMBASSY PARIS PRIORITY 0000
+INFO RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 049721 
+ 
+SIPDIS 
+FOR ECON ERIC J. REUTER 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC FR KOMC
+SUBJECT: BLUE LANTERN POST-SHIPMENT END USE CHECK ON 
+SATELLITE COMPONENTS 
+ 
+REF: A. SPACE NEWS 21 JUNE 2004: U.S. EXPORT 
+        RESTRICTIONS HELP ALCATEL WIN CHINASAT9 
+        HTTP://WWW.SPACE.COM/SPACENEWS/ 
+     ¶B. SPACE NEWS 13 JUNE 2005: EUROPEAN SATELLITE 
+        COMPONENT MAKER SAYS IT IS DROPPING U.S. 
+        COMPONENTS BECAUSE OF ITAR 
+     ¶C. SPACE NEWS 06 JULY 2007: CHINA LAUNCHES NEW 
+        COMMUNICATIONS SATELLITE 
+     ¶D. EUROPEAN SPACE AGENCY ITAR FREE SPACEBUS 4000B2 
+        HTTP://TELECOM.ESA.INT/TELECOM/ 
+     ¶E. WIKIPEDIA PAGE ON SPACEBUS 
+        HTTP://EN.WIKIPEDIA.ORG/WIKI/SPACEBUS 
+     ¶F. GUNTER'S SPACE PAGE HTTP://SPACE.SKYROCKET.DE/ 
+ 
+¶1.  This is an action message.  See paragraphs 2-7. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post assistance in conducting a 
+post-shipment check regarding the export and use of satellite 
+components.  Post is requested to complete this Blue Lantern 
+check within 45 days.  Lack of response to a Blue Lantern 
+check will affect pending and future licenses involving 
+parties to this license. 
+ 
+¶3.  Reason for request: the Directorate of Defense Trade 
+Controls (DDTC), in accordance with the Arms Export Control 
+Act (AECA) and the International Traffic in Arms Regulations 
+(ITAR), is charged with controlling the export of defense 
+articles and defense services covered by the United States 
+Munitions List (USML).  U.S.-origin commercial satellites, 
+and military-grade satellite components, are ITAR-controlled 
+and require a DDTC license for export.  USML commodities 
+exported to one country cannot be transferred to another 
+party or re-exported without express USG authorization.  The 
+export of all USML commodities is prohibited to certain 
+countries, such as Cuba, Iran, and North Korea.  This policy 
+of export denial for ITAR-controlled items also applies to 
+China. 
+ 
+¶4.  Recent press reporting indicates that some European 
+aerospace firms who do business with China feel unduly 
+constrained by USG export restrictions on ITAR-controlled 
+satellite components.  Commercial satellites that contain any 
+ITAR-controlled components cannot be sold to China, nor can 
+they be launched by China for other countries.  Consequently, 
+certain European firms are advertising that they can now 
+produce "ITAR-free" satellites, thereby eliminating USG 
+export and re-transfer restrictions (Ref. A-D). 
+ 
+¶5.  Three satellites built for China and declared ITAR-free 
+are APStar 6 (launched 12 April 2005), ChinaSat 6B (launched 
+05 July 2007), and ChinaSat 9 (expected launch May-June 
+2008).  All three were built by primary contractor Thales 
+Alenia Space, based on the Spacebus 4000C2 platform.  Within 
+the 4000 series are also found classes B2, B3, C1, C3, and 
+C4.  (Note: "Spacebus" is a trade name for a standardized 
+satellite platform that originated with the French company 
+Aerospatiale.  Aerospatiale eventually became Alcatel Space, 
+then Alcatel Space merged with Alenia Spazio to form Alcatel 
+Alenia Space in 2005.  Alcatel Alenia Space merged with 
+Thales in 2007, thereby establishing Thales Alenia Space. 
+Thales S.A., partly owned by the French government, is the 
+parent company of Thales Alenia Space.  See Ref. E-F for 
+further information about the Spacebus platform and specific 
+commercial satellites that have utilized the successive 
+Spacebus series.) 
+ 
+¶6.  A search for "spacebus" in DDTC's licensing database 
+found 56 approved licenses and Technical Assistance 
+Agreements (TAA) dating from 1999 to 2008.  Listed below are 
+most of the licenses which specified the Spacebus 4000 
+series.  Only a few of these cases further identified a 
+particular Spacebus 4000 class, namely, 4000B3, 4000C1, 
+4000C3, and 4000C4 (see cases B, G, H, and K below).  In 
+addition, several licenses approved during 2007 are for 
+thousands of ITAR-controlled components for Spacebus 4000 
+future programs which do not specify class or an end-user of 
+the satellite.  Thus in light of these data, the Thales 
+Alenia Space claim that the Spacebus 4000C2 platform utilized 
+for the China satellites were actually ITAR-free will need to 
+be substantiated for DDTC. 
+ 
+¶7.  ACTION: Please visit the Foreign End User/Primary 
+Contractor Thales Alenia Space.  Request that Thales Alenia 
+Space provide post with copies of relevant documents 
+regarding construction and launch of the APStar6, ChinaSat 
+6B, and ChinaSat 9 satellites.  These documents should 
+include technical specs; parts list including name, stock 
+number, manufacturer, source, and country of origin.  Thales 
+Alenia Space should be able to substantiate that the China 
+satellites had no ITAR (see list of licenses and components 
+in para 8), and should be able to identify which platforms do 
+use ITAR components, and to which countries these have been 
+exported.  END ACTION. 
+ 
+FOREIGN END USER/PRIMARY CONTRACTOR: 
+ 
+Thales Alenia Space 
+45 rue de Villiers 
+Neuilly-sur-Seine 
+Cedex, Paris 92526 
+FRANCE 
+ 
+¶8.  License Information: 
+ 
+A)  DDTC Case Number 05-801131 
+ 
+APPROVED: 10/2000 
+ 
+QUANTITY/COMMODITY: 
+ 
+22       Rad Hard Components for SMU Calculator 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program. 
+ 
+B)  DDTC Case Number 05-811379 
+ 
+APPROVED: 01/2001 
+ 
+QUANTITY/COMMODITY: 
+ 
+04       Non Return Moog Values for Propulsion System 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000C3 program. 
+ 
+C)  DDTC Case Number 05-814283 
+ 
+APPROVED: 03/2001 
+ 
+QUANTITY/COMMODITY: 
+ 
+400      Rad Hard MOSFETs 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program. 
+ 
+D)  DDTC Case Number 05-815542 
+ 
+APPROVED: 03/2001 
+ 
+QUANTITY/COMMODITY: 
+ 
+176      Rad Hard Integrated Circuits 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program. 
+ 
+E)  DDTC Case Number 05-818566 
+ 
+APPROVED: 06/2001 
+ 
+QUANTITY/COMMODITY: 
+ 
+01       Lot Tech Data for Xenon Propulsion System 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program. 
+ 
+F)  DDTC Case Number 05-842740 
+ 
+APPROVED: 03/2002 
+ 
+QUANTITY/COMMODITY: 
+ 
+09       IRES-NE Sensors 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program. 
+ 
+G)  DDTC Case Number 05-843356 
+ 
+APPROVED: 02/2002 
+ 
+QUANTITY/COMMODITY: 
+ 
+02       Coarse Sun Sensors for Attitude System 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000B3 program. 
+ 
+H)  DDTC Case Number 05-910432 
+ 
+APPROVED: 02/2004 
+ 
+QUANTITY/COMMODITY: 
+ 
+936      Rad Hard MOSFETs 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000C1 and 4000C3 programs. 
+ 
+I)  DDTC Case Number 05-1001956 
+ 
+APPROVED: 08/2006 
+ 
+QUANTITY/COMMODITY: 
+ 
+250      GPO Connectors for Channel Amplifier 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program. 
+ 
+J)  DDTC Case Number 05-050014567 
+ 
+APPROVED: 09/2006 
+ 
+QUANTITY/COMMODITY: 
+ 
+08       Dow Corning Space Grade Encapsulant Kit 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program. 
+ 
+K)  DDTC Case Number 05-050034825 
+ 
+APPROVED: 03/2007 
+ 
+QUANTITY/COMMODITY: 
+ 
+05       Helium Series Redundant Pressure Regulators 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000C4 program. 
+ 
+L)  DDTC Case Number 05-050047951 
+ 
+APPROVED: 06/2007 
+ 
+QUANTITY/COMMODITY: 
+ 
+300      Hermetic Connectors for Power Supply Equipment 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program (future platforms). 
+ 
+M)  DDTC Case Number 05-050047970 
+ 
+APPROVED: 06/2007 
+ 
+QUANTITY/COMMODITY: 
+ 
+290      Hermetic Connectors for Hybrid Sub-Assemblies 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program (future platforms). 
+ 
+N)  DDTC Case Number 05-050049432 
+ 
+APPROVED: 06/2007 
+ 
+QUANTITY/COMMODITY: 
+ 
+5,800    N-Channel Power MOSFETs for Power Control Units 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program (future platforms). 
+ 
+O)  DDTC Case Number 05-050051930 
+ 
+APPROVED: 06/2007 
+ 
+QUANTITY/COMMODITY: 
+ 
+1,235    Current Limiting Fuses 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program (future platforms). 
+ 
+P)  DDTC Case Number 05-050055463 
+ 
+APPROVED: 08/2007 
+ 
+QUANTITY/COMMODITY: 
+ 
+1,000    N-Channel MOSFETs for Power Control Units 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program (future platforms). 
+ 
+Q)  DDTC Case Number 05-050067032 
+ 
+APPROVED: 10/2007 
+ 
+QUANTITY/COMMODITY: 
+ 
+700      N-Channel MOSFETs for Power Control Units 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program (future platforms). 
+ 
+R)  DDTC Case Number TAA 2660-07 
+ 
+APPROVED: 11/2007 
+ 
+COMMODITY: 
+ 
+Technical Assistance Agreement for Testing of Nickel Hydrogen 
+Batteries 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program. 
+ 
+S)  DDTC Case Number 05-050075053 
+ 
+APPROVED: 11/2007 
+ 
+QUANTITY/COMMODITY: 
+ 
+105      High Reliability MOSFETs for DC/DC Converter Hybrids 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program. 
+ 
+T)  DDTC Case Number 05-050079133 
+ 
+APPROVED: 12/2007 
+ 
+QUANTITY/COMMODITY: 
+ 
+55       Connectors for Hybrid Sub-Assemblies 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program (future platforms). 
+ 
+U)  DDTC Case Number 05-050080467 
+ 
+APPROVED: 01/2008 
+ 
+QUANTITY/COMMODITY: 
+ 
+4,100    N-Channel Power MOSFETs for Power Control Units 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program (future platforms). 
+ 
+V)  DDTC Case Number 05-050091534 
+ 
+APPROVED: 03/2008 
+ 
+QUANTITY/COMMODITY: 
+ 
+05       Helium Pressure Regulators 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program. 
+ 
+W)  DDTC Case Number 05-050093091 
+ 
+APPROVED: 03/2008 
+ 
+QUANTITY/COMMODITY: 
+ 
+10       FreeFlyer Software for Analysis of Orbital Dynamics 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Spacebus 4000 program. 
+ 
+¶9.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" in the subject line. 
+POC on this case is Peter Sabatini, PM/DTCC, phone: 
+202-663-2819; ClassNet email: sabtinipj@state.sgov.gov; 
+OpenNet email: sabatinipj@state.gov.  The 2006 Blue Lantern 
+Guide Book is available on OpenNet at 
+http://fsi.state.gov/fsi/spas/default.asp?ID= 1588 
+Department thanks Post for its assistance in this matter. 
+RICE

@@ -1,0 +1,144 @@
+08HONGKONG843
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Thu May 08 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHHK #0843/01 1290837
+ZNR UUUUU ZZH
+R 080837Z MAY 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 4826
+RHMFIUU/HQ BICE WASHINGTON DC
+RUEHGP/AMEMBASSY SINGAPORE 3850UNCLAS HONG KONG 000843 
+ 
+USDOC FOR 532/OEA/MNICKSON-DORSEY /LLAUCIUS 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+SINGAPORE FOR FCS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP ETRD ETTC HK
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+TECNOMIC PROCESSORS PTE LTD 
+REF: A) USDOC 01397  B) USDOC 02727 C) HK 03094 (2007) D) USDOC 
+ 
+05482 (2005) 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Regional Export Control Officer Philip Ankel (ECO) 
+conducted a post shipment-verification (PSV) at Tecnomic Processors 
+Pte. Ltd., 138 Cecil Street, No. 10-01 Cecil Court, Singapore 
+(Tecnomic). The items in question are six field programmable gate 
+arrays exported to Tecnomic on or about September 7, 2007.  The 
+items are classified under Export Control Classification Number 
+(ECCN) 3A001A.2.C and are controlled for national security (NS) 
+reasons.  The exporter was Actel Corporation of Mountain View, 
+California. 
+ 
+¶3.  According to the Singapore companies registry, Tecnomic was 
+registered in 1988 and its registered share capital is the Singapore 
+dollar equivalent of approximately USD 650,000.  Its directors are 
+Indian National Mr. Suresh Kumar Saradadevi Krishna Pillai, 
+Singapore Permanent Resident Mr. Rajan Natrajann and Singapore 
+Permanent Resident Mr. Ravi Krishnamoorthy.  The sole shareholder is 
+Metchem Engineering S.A. of Zurich, Switzerland. 
+ 
+¶4.  A review of the company's web site (www.tecnomic.com) reveals 
+that the company markets itself as a value-added distributor for 
+electronic components, telecom building blocks and IT & 
+infrastructure related products in the Indian sub-continent, South 
+East Asia and South Korea.  The company shares a telephone number in 
+Singapore with Dexcel Electronics Designs Pte. Ltd, its affiliate 
+located at a different address (www.dexceldesigns.com). 
+ 
+¶5.  On April 23, 2008, the ECO, accompanied by a representative of 
+Singapore Customs visited the company and met with Mr. Suresh Kumar, 
+Director of Business Development, Mr. Rajan Natrajan, Director and 
+Ms. Lee, Meng Huey, Head of Logistics.  Mr. Kumar provided an 
+overview of the Tecnomic's activities, which are broken into three 
+primary areas, namely electronic components distribution, telecom 
+platform sales and system integration.  The business is evenly 
+divided between these three business lines.  The company has staff 
+in several ASEAN countries and a total headcount of approximately 
+¶70.  It is a distributor of Intel and Avergo and others.  Typically 
+new customers come to the company through various promotion 
+activities although the company does receive some Internet generated 
+orders. 
+ 
+¶6.  The company is collocated with another company called Fuyo 
+Capital.  According to Mr. Natrajan, Fuyo Capital and Tecnomic share 
+common owners but are engaged in unrelated businesses. 
+ 
+¶7.   As to the particular items in question, Mr. Natrajan stated 
+that those items had been shipped to Free Components Co. Ltd., Rm 
+1702, Grand City Plaza, Nos. 1 Sai Lau Kok Road, Tsuen Wan, Hong 
+Kong.  The Bill To address on the invoice provided by Mr. Natrajan 
+included an additional address for Free Components, namely Unit 
+2401A, 24/F, Park-In Commercial Center, 56 Dundas Street, Mongkok, 
+Hong Kong.  The Ship To address on the original Purchase Order 
+provided by Mr. Natrajan stated that the items should be shipped to 
+Xing Hang Yuan Limited, at the 1702 Grand City Plaza address noted 
+above.  Free Components is the subject of a pending PSV referenced 
+in Reftel B.  Free Components is also linked to two additional 
+unfavorable PSVs referenced in Reftels C and D as well as a pending 
+administrative enforcement action relating to unauthorized reexports 
+from Taiwan to Xing Hang Yuan.  Ms. Lee provided a FedEx airway bill 
+showing shipment to Free Components on September 13, 2007. 
+ 
+¶8.  As the conversation turned to a more in-depth discussion of the 
+shipment in question, Messrs. Natrajan and Kumar asked, on several 
+occasions, whether the reexport to Hong Kong was a problem.  They 
+referred to the applicable ECCN entries in the EAR they had printed 
+from the BIS web site and noted that the items could ship NLR to 
+Hong Kong. They appeared well versed in the requirements of the EAR 
+(although the ECO cannot say whether they were familiar with the EAR 
+prior to ECO's request for a meeting or became familiar thereafter). 
+ 
+ 
+¶9.  The company stated that it had done business with Free 
+Components two to three times per year in the past.  They understood 
+that this company was a consolidator for other customers.  In a 
+previous instance, Tecnomic representatives understood that the 
+customer was located in India. As a result, they assumed that future 
+shipments were also destined for India.  Therefore, in the Purchase 
+Order to Actel, they stated that the country of destination for the 
+parts was India.  When the ECO pointed out that the contact phone 
+ 
+ 
+ 
+numbers for Free Components and Xing Hang Yan Limited were mainland 
+China numbers, Tecnomics representatives had no specific response 
+beyond the fact that the items had been shipped to Hong Kong.  Note 
+that these items (if properly classified by the exporter) may 
+generally be exported and reexported to Singapore, India and Hong 
+Kong license free but likely require a license to mainland China. 
+By separate e-mail, the company forwarded three additional orders 
+for the identical items it had filled for Free Components and Xing 
+Hang Yuan for a total of 32 items. ECO will forward these documents 
+by separate e-mail to OEA. 
+ 
+¶10.  At the time visited, Tecnomic did not appear to be a suitable 
+recipient of the commodities shipped since those items had most 
+likely been diverted from Singapore to end-users in Mainland China 
+in probable violation of the EAR.  Tecnomic's actions in relation to 
+the applicable items illustrate either a lack of understanding of 
+U.S. export controls or the intent to circumvent U.S. export 
+controls (or some combination of the two). ECO recommends a thorough 
+review of all shipments to Tecnomic and Free Components (and its 
+addresses note above) to determine whether additional shipments are 
+worthy of scrutiny.  Additionally, ECO recommends that the BIS 
+Office of Export Enforcement conduct an outreach to the U.S. 
+exporter to determine what information the exporter had in hand when 
+it completed the underlying export to Tecnomic (and to determine 
+whether it has made shipments directly to Free Components or Xing 
+Hang Yuan Limited or received inquiries from those companies).

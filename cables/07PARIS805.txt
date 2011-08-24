@@ -1,0 +1,308 @@
+07PARIS805
+France: Telecom and Information Technology Update
+Fri Mar 02 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+null
+Lucia A Keegan  03/05/2007 09:56:53 AM  From  DB/Inbox:  Lucia A Keegan
+
+Cable 
+Text:                                                                      
+                                                                           
+      
+UNCLAS    SENSITIVE     PARIS 00805
+
+SIPDIS
+cxparis:
+    ACTION: ECON
+    INFO:   LABO DCM ECNO UNESCO ECSO SCI ENGO SCIO TRDO
+            ESCI FCS POL ORA AMB AGR
+
+DISSEMINATION: ECONOUT /1
+CHARGE: PROG
+
+APPROVED: ECON:SDWYER
+DRAFTED: ECON:KHERMANN/HSULLI
+CLEARED: NONE
+
+VZCZCFRI380
+RR RUEHC RUCPDOC RUEAFCC RUEAWJA RUCNMEM
+DE RUEHFR #0805/01 0611256
+ZNR UUUUU ZZH
+R 021256Z MAR 07
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 5285
+INFO RUCPDOC/USDOC WASHDC
+RUEAFCC/FCC WASHDC
+RUEAWJA/DEPT OF JUSTICE WASHINGTON DC
+RUCNMEM/EU MEMBER STATESUNCLAS SECTION 01 OF 04 PARIS 000805 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+STATE FOR EB/CIP, EUR/WE, AND EUR/ERA 
+DEPT PLEASE PASS TO USTR JMCHALE, KSCHAGRIN, AND CHINKLEY 
+FCC FOR TWEISLER 
+COMMERCE FOR NTIA CSPECK AND ITA JBURTON 
+JUSTICE FOR KWILLNER 
+BRUSSELS FOR USEU JUNDERWOOD 
+ 
+TAGS: ECPS ETRD FR
+SUBJECT: France: Telecom and Information Technology Update 
+ 
+¶1.  This update covers recent news in the French telecommunications 
+and information technology sectors, including internet and 
+e-commerce. 
+ 
+Contents: 
+-- Personnel Changes in ARCEP (paras 2-3), Ministry of Foreign 
+Affairs (para 4) 
+-- ARCEP President Says No to CSA-ARCEP Merger (para 5) 
+-- Fourth 3G License (para 6) 
+-- France Telecom Launches Fiber Network (para 7) 
+-- FT sales boosted by emerging markets (para 8) 
+-- France Telecom (FT) still looking for volunteers for job cut plan 
+(para 9) 
+-- European Court confirms abuse of position by FT (para 10) 
+-- Apple and France's Orange introduce MacBook rental program (para 
+11) 
+-- Neuf Cegetel launches the "Neuf Box" (para 12) 
+-- Neuf Cegetel sub wins bid to construct optic network (para 13) 
+-- Free Telecom Second Place in ADSL Market (para 14) 
+-- Virtual Mobile Operator Transatel Projected to Grow 50 Percent in 
+2007 (para 15) 
+-- Alcatel-Lucent announces French job cuts and disappointing 2006 
+results (para 16) 
+-- Internet Advertising Up (para 17) 
+-- My Space Expanding Rapidly (para 18) 
+ 
+Personnel Changes 
+----------------- 
+ 
+¶2. (U) France's telecommunications regulator, Autorite de 
+Regulation des Communications Electroniques et des Postes 
+or ARCEP, appointed two new members of the executive board. 
+President Chirac appointed Patrick Raude to replace Michel Feneyrol, 
+whose mandate had expired.  Raude worked at the General Directorate 
+of Post and Telecommunications at the Ministry of Industry and 
+Telecommunications, heading the mobile communications office from 
+1992 to 1995 and the fixed and multimedia communications office from 
+1995 to 1996.  In 1997, he joined the ARCEP (then known as ART) as 
+assistant to the Licenses and Interconnection Department Head.  He 
+then rotated to the Secretary of State office and the Prime 
+Minister's office as an advisor on media and cinema before joining 
+the ARCEP Board. 
+ 
+¶3. (U) The President of the Senate appointed Denis Rapone to replace 
+Jacques Douffiagues, whose term expired.  Rapone, educated as a 
+lawyer, spent his career in a variety of positions as legal advisor 
+in the French government.  Between 2002 and 2004, he was Councilor 
+for Justice at the Prime Minister's Office under Jean-Pierre Raffin. 
+ Since 2004 he has served as Director General of France's 
+audiovisual body, the Conseil Superieur de l'audiovisuel (CSA). 
+ 
+¶4. (U) The Ministry of Foreign Affairs DAS-level official in charge 
+of transportation and energy, Nicole Taillefer, is transferring to 
+Edinburgh as Consul General.  Former Ministry of Economy, Finance, 
+and Industry (MINEFI) General Directorate for Energy and Raw 
+Materials International Strategy Head Jean Lamy is taking her place. 
+ Lamy speaks excellent English. 
+ 
+ARCEP President Says No to CSA-ARCEP Merger 
+------------------------------------------- 
+ 
+¶5. (U) ARCEP President Paul Champsaur made a speech stating that a 
+merger of CSA and ARCEP "would be an error." His rationale was that 
+the CSA is a regulator of content while ARCEP is a regulator of 
+networks. 
+ 
+Fourth 3G License 
+----------------- 
+ 
+¶6. (SBU) On November 23, ARCEP announced that it was considering the 
+provision of a fourth third generation (3G) telecom license.  On 
+February 8, an ARCEP contact told us that ARCEP was still 
+considering when to formally begin the application process, but was 
+likely to do so in March.  Firms have 120 days from the announcement 
+to submit their applications.  If no firm bids or meets the minimum 
+conditions, ARCEP will provide the available spectrum to the three 
+3G incumbents.  Iliad subsidiary Free Telecom has announced in the 
+press that it will apply for the fourth license. 
+ 
+France Telecom Launches Fiber Network 
+------------------------------------- 
+ 
+¶7. (U) France Telecom (FT) announced that it would begin offering 
+triple play broadband, internet telephony, and television from March 
+1 in certain districts in Paris, its suburbs, Lyon, Marseille, 
+Toulouse, Lille, and Poitiers.  The service will cost 49 euros (USD 
+64).  FT plans to invest 279 million euros (USD 363 million) over 
+ten years in its fiber network.  Its objective is to gain more than 
+a million clients in that period.  Free Telecom had earlier 
+announced that it would invest one billion euros (USD 1.3 billion) 
+in the next five years to construct a similar fiber network. 
+ 
+FT's Revenues Increase 
+---------------------- 
+ 
+¶8. (SBU) France Telecom (FT) reported earlier this month a 7.5 
+percent gain in sales last year, powered by its mobile phone unit 
+and a strong performance in emerging markets.  Revenues rose to 51.7 
+billion euros (USD 67.3 billion), though net income declined.  FT 
+said that gains in emerging market countries and the company's 
+mobile phone unit, where revenue was up 5.0 percent, drove sales 
+growth.  FT added that 2006 net earnings would fall in a range of 
+4.0 to 4.2 billion euros (USD 5.2-5.5 billion), compared to 5.7 
+billion euros (USD 7.4 billion) in 2005.  FT will issue consolidated 
+annual statements for 2006, including precise profit figures, on 
+March 6. 
+ 
+While Jobs Decrease... 
+---------------------- 
+ 
+¶9.  Only 9,400 employees signed up for FT's voluntary redundancy 
+plan.  The firm still needs to find an additional 12,600 candidates 
+in order to meet its target of 22,000 departures between 2006 and 
+2008, according to a report in French daily La Tribune.  The report 
+said the company's labor unions do not believe management will reach 
+its target without proposing additional benefits to potential 
+retirees.  FT has been finding government administration jobs for 
+employees who maintain civil servant status from the time when the 
+French Government fully owned FT.  It has also been providing 
+financial assistance to employees who leave to start up their own 
+companies. 
+ 
+Court Decides FT's Internet Subsidiary Wanadoo Engages in Predatory 
+Pricing 
+--------------------------------------------- --- 
+ 
+¶10. (U) The European Lower Court on January 30 upheld a 2003 ruling 
+that FT abused its dominant position in the French Internet access 
+market.  The Court confirmed the original ruling by the European 
+Commission, which in July 2003, imposed a 10.35 million-euro (USD 
+13.4 million) fine on Wanadoo, FT's Internet offshoot.  Wanadoo has 
+since merged with the Orange brand, which FT used for its 
+international mobile telephony operations.  The Court said in its 
+ruling that "predatory pricing, which does not allow either variable 
+or full costs to be recovered, as part of a plan to pre-empt the 
+market for high-speed Internet access, constitutes an abuse of a 
+dominant position."  It pointed to Wanadoo's "very high market share 
+during the period at issue," with eight times the number of ADSL 
+subscribers than its number one competitor, and its link-up with 
+France Telecom, the incumbent telecommunications operator in France, 
+which gave it advantages over competitors.  FT may appeal the court 
+ruling to the EU upper Court of Justice. 
+ 
+Apple and FT Mobile Brand Orange Offer MacBooks 
+--------------------------------------------- -- 
+ 
+¶11. (U) Apple and Orange, FT's flagship brand, announced in 
+mid-December a joint offer to rent MacBooks with high speed internet 
+for 60 euros per month. This offer includes Apple technical 
+assistance. The internet connection can be upgraded to eight 
+megabits for five euros. The subscription was available on the 
+Orange website and through 12 commercial agencies in France until 
+January 17. 
+ 
+Neuf Cegetel Offers Technologically Superior Triple Play 
+--------------------------------------------- -- 
+ 
+¶12. (U) Telecom operator Neuf Cegetel announced the launch of its 
+new Neuf Box, which offers internet telephony, broadband internet 
+services, and television.  The new box improves on its previous box 
+in that it functions on wireless technology and is compatible with 
+fiber optic networks that are being installed in major French 
+cities.  Neuf Cegetel's director Michel Paulin considers its 
+introduction a considerable competitive advantage since, unlike its 
+competitors, the company will not have to reinstall new boxes when 
+the fiber optic-based high speed broadband arrives. The Neuf Box 
+will be offered free to new subscribers and will be offered to 
+current subscribers at a cost of 49 euros (USD 64). 
+ 
+Neuf Cegetel Unrolls Fiber Network 
+---------------------------------- 
+¶13. (U) Neuf Cegetel subsidiary LDCollectivits won the bid to 
+construct a fiber network in 13 towns on the periphery of Paris, 
+comprising a half million inhabitants. The company will use "le 
+rseau optique passif," or passive optic network, which will be 
+rented to access operators. The contract is in keeping with Neuf 
+Cegetel's development of fiber to the home (FTTH), including the 
+construction of the Iris network and the purchase of Mediafibre, a 
+service provider for the city of Pau. 
+ 
+Free Telecom Second Place in ADSL Market 
+---------------------------------------- 
+ 
+¶14. (U) Free Telecom attracted 202,000 new ADSL clients in 2006's 
+fourth quarter, representing 23.3 percent of new customers.  FT 
+garnered 44 percent of new ADSL customers, while Neuf Cegetel won 
+19.6 percent.  Free's total ADSL client base is 2.28 million, 19 
+percent of the total French market.  FT accounts for 49.8 percent of 
+the market, and Neuf Cegetel has 18 percent.  The traditional fixed 
+line market shrunk by 26 percent during the fourth quarter of 2006, 
+measured year-on-year. 
+ 
+ 
+Virtual Mobile Operator Transatel Projected to Grow 50 Percent in 
+2007 
+--------------------------------------------- -- 
+ 
+¶15.  Virtual mobile operator Transatel, which leased capacity from 
+Bouygues Telecom in France, projected 50 percent growth in its 
+revenues in 2007.  Transatel had revenues of 10 million euros (USD 
+13 million) for 2006 and envisioned 15 million euros (USD 19.5 
+million) for the end of 2007.  Transatel, provider of "low-cost" 
+services, counted 70,000 subscribers in France and the Benelux 
+countries.  In 2007, the firm plans to expand into Germany, the UK, 
+Switzerland, and Austria. 
+ 
+Alcatel-Lucent Cuts Jobs 
+------------------------ 
+ 
+¶16.  The French telecommunications equipment maker Alcatel-Lucent 
+announced disappointing results for 2006, with a fourth quarter USD 
+800 million profit loss and declining revenues. The company broke 
+even on its operations during the quarter, but the company wrote off 
+USD 750 million in restructuring costs resulting from the firms' 
+December 1 merger. In an effort to improve its financial 
+performance, the company has announced that it will slash 12,500 
+jobs, or 16 percent of its workforce.  This cut is 3,500 employees 
+more than the 9,000 workers it had originally planned to shed after 
+the merger.  The combined company had about 80,000 employees at the 
+end of 2006.  Alcatel-Lucent plans to cut its French workforce by 12 
+percent, impacting 1,468 positions by the end of 2008.  The firm 
+announced that it will make these cuts through early retirement and 
+support for the creation of small business by former employees. 
+Alcatel-Lucent's French unions called a strike on February 15 to 
+protest the workforce reductions. 
+ 
+Internet Advertising Expanding 
+------------------------------ 
+ 
+¶17. (U) Internet advertising in France generated 48 percent more 
+revenue in 2006, totaling 1.7 billion euros in revenue (USD 2.2 
+billion), than a year earlier, according to TNNS Media Intelligence. 
+ This advertising is aimed at France's 30 million Internet 
+subscribers, 20 million which have broadband connections in their 
+home. 
+ 
+My Space Growing Quickly in Europe 
+---------------------------------- 
+ 
+¶18. (SBU) My Space, an e-mail forum for blogs, chat groups, music 
+videos, forums, games, and events, recently told us that it is 
+expanding rapidly in France and the UK.  The firm plans soon to 
+expand into Germany, Spain, the Netherlands, Sweden, and Italy.  My 
+Space already has a Paris-based office, and is in the process of 
+hiring a Safety and Security Manager that will liaise with French 
+law enforcement agencies.  Pedophiles in the U.S. have preyed on 
+young My Space users, according to its executives.  While it has yet 
+to experience such cases in Europe, My Space says it is committing 
+significant resources to ensure that its site remains safe. 
+One-third of My Space employees focus on child safety.  My Space has 
+established a toll-free number and e-mail site for law enforcement 
+officials that need information on suspected criminals.  It also 
+plans courses for schools on how to use My Space safely and for law 
+enforcements officials on how they can work with the firm. 
+ROSENBLATT

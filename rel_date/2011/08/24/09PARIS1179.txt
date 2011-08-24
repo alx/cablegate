@@ -1,0 +1,55 @@
+09PARIS1179
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK ON
+Fri Aug 28 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Paris
+VZCZCXYZ0012
+RR RUEHWEB
+
+DE RUEHFR #1179 2401243
+ZNR UUUUU ZZH
+R 281243Z AUG 09
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 7047
+INFO RUEAIIA/CIA WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC
+RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUCPDOC/USDOC WASHINGTON DC
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS PARIS 001179 
+ 
+SIPDIS 
+ 
+STATE FOR PM/DTCC - BLUE LANTERN COORDINATOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC FR
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK ON 
+LICENSE 050096393 
+ 
+REF:  A) 09 STATE 086582   B) 09 STATE 59724 
+ 
+¶1. (U) On August 26, the SIMMAD Procurement Office responded to 
+post's queries regarding the status of shipment requested in 
+reftels: 
+ 
+TEXT OF SIMMAD RESPONSE: 
+ 
+(Unofficial Embassy translation from French) 
+ 
+The 6 electronic components which were the object of the order cited 
+in your fax (attached) were purchase by the company THALES SYSTEMES 
+AEROPORTES from the company ELEXO via THALES order number 439438 for 
+the requirements of procurement number 02 82 086 "Maintenance of 
+THALES equipment in operational condition."  We confirm that these 
+components were used for the repair of electronic systems aboard the 
+Mirage 2000 belonging to the French Government. 
+ 
+LtCol Antoine Moine, Fleet Logistics Contracts Office 
+ 
+Cdt Jean-Louis Bohly, Deputy Office Chief, Logistics Contracts of 
+SIMMAD 
+ 
+End of Response Text. 
+ 
+RIVKIN

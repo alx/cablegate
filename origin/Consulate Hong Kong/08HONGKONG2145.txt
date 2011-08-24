@@ -1,0 +1,124 @@
+08HONGKONG2145
+EXTRANCHECK: POST SHIPMENT VERIFICATION: JSD BROAD
+Wed Nov 26 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHHK #2145/01 3310545
+ZNR UUUUU ZZH
+R 260545Z NOV 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 6312
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002145 
+ 
+USDOC FOR 532/OEA/LHINES/JSALCIDO 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: JSD BROAD 
+ELECTRONIC (HK) CO. LTD. 
+ 
+REF: A) USDOC 05607 B) HK 03088 (2007) C) USDOC 06569 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO), attempted 
+to conduct a post shipment verification (PSV) at JSD Broad 
+Electronic (HK) Co. Ltd., Lot 89, Ping Ha Road, Fau Shan, Yuen Long, 
+New Territories, Hong Kong (JSD Broad (HK)). The item in question is 
+a 20T4G18A microwave amplifier exported to JSD Broad (HK) on or 
+about December 24, 2007 and valued at approximately USD 42,000.  The 
+item is classified under Export Control Classification Number (ECCN) 
+3A001 and is controlled for national security (NS) reasons.  Telecom 
+Associates of Saratoga, California was the exporter. 
+ 
+¶3.  A review of the Hong Kong Companies Registry reveals that JSD 
+Broad (HK) has been in existence since May 2006.  Its paid-up share 
+capital is the Hong Kong equivalent of USD 1250. Its sole director 
+and shareholder is Chinese mainland national, Xie, Jin.  The 
+Registry lists Xie, Jin's mainland identification card number as 
+510102196610187526 (with resulting birth date of October 18, 1966). 
+Xie, Jin is not a director in any other company listed in the Hong 
+Kong Companies Registry.  The company's registered address is Room 
+1007, 10/F Ho King Ctr. No 2-16 Fa Yuen St, Mongkok, Hong Kong. 
+ 
+¶4.  This same registered address is the registered address of a 
+corporate secretarial services company named HKRTP Limited.  That 
+secretarial services company has offices in Hong Kong and in a range 
+of cities in mainland China. When Commercial Assistant Carrie Chan 
+called HKRTP, the company claimed that it had no record of JSD Broad 
+(HK). 
+ 
+¶5.  The registered address of HKRTP and JSD Broad (HK) is also the 
+registered address of Mingxin Technology, a company that was the 
+subject of a previous unfavorable PLC referenced in reftel B as well 
+as a pending PSV referenced in reftel C. The PLC in reftel B 
+involved pumps controlled for chemical and biological weapons 
+reasons.  As described further in reftel B, this address is located 
+in an older office building.  At the time the ECO visited this 
+location, it was vacant. 
+ 
+¶6.  Internet based background research reveals that JSD Broad (HK) 
+is listed as the Asia sales representative of a company called GCP 
+Microwave Technology Co. Ltd. (www.gcpmicrowave.com).  A further 
+review of the www.gcpmicrowave.com web site reveals that the company 
+apparently has additional sales offices in Beijing (JSD Technology 
+Co. Ltd.), Shanghai (JSD Technology Co. Ltd.), Canada (Amery 
+Technology Ltd.) and the United States (JC Pacific Techology (sic.) 
+Ltd.). Further internet research reveals that a JSD Technology Co. 
+Ltd. is registered in Beijing as well. An additional company in 
+Shanghai (Shanghai YQF Trading Co., Ltd.) is listed on Alibaba as 
+selling microwave components, waveguide and other products.  Its 
+contact details are the same as those of JSD Technology in Shanghai 
+(www.alibaba.com/member/siahairen/contactinfo .html) 
+ 
+¶7.  An internet domain search reveals that the domain 
+gcpmicrowave.com is registered by a Sunny Zhang of JSD Technology 
+Ltd. Co., Room 207, The 4 West Building No. 83, Fuxing Rd, HaiDian 
+District, Beijing.  The registrant phone number is listed as +86 
+01051606950 and the registrant e-mail is listed as 
+jesda@vip.sina.com. 
+ 
+¶8.  FCS Commercial Assistant Carrie Chan attempted, on several 
+occasions, to schedule the PSV.  Often, the phone rang without 
+answer.  Eventually, a person answered the phone but declared that 
+she knew nothing of JSD Broad (HK). She declined to give her name as 
+well as the name of her company although she did confirm that the 
+phone number provided in reftel A is located at the ship-to address 
+for the shipment that is the subject of this PSV. 
+ 
+¶9.  On September 5, 2008, ECO, ICE representative Stan Seto and 
+Commercial Assistant Carrie Chan attempted to visit the address 
+listed in reftel A. The address does not exist. A review of Shippers 
+Export Declarations (SEDs) reveals that other shipments (from Radar 
+Systems Technology in Mountain View California) have gone to 
+companies named JSD Broad and JSD Broadband at another address in 
+Hong Kong(ITN 20080108000269, ITN 20080225032474 and ITN 
+20080507019674), namely Flat B, 38/F, Tower 1, Banyan Garden, 863 
+Lai Chi Kok Rd., Kowloon, Hong Kong.  This address is in a 
+residential neighborhood.  With shipping documents for these 
+additional shipments, ECO may attempt to schedule an EUC at the 
+Banyan Garden address. 
+ 
+¶10.  ECO requested Hong Kong government assistance in finding and 
+making contact with the company but, to date, Hong Kong Customs has 
+been unable to do so.  ECO will provide updated information when he 
+ 
+ 
+receives it. 
+ 
+¶11.  In light of the facts noted above, ECO does not believe the JSD 
+Broad is a suitable recipient of U.S. origin technology. 
+ 
+ 
+Donovan

@@ -1,0 +1,132 @@
+06PARIS7290
+HAL - FRANCE'S PORTAL FOR SCIENTIFIC PUBLICATIONS
+Wed Nov 08 00:00:00 +0100 2006
+UNCLASSIFIED
+Embassy Paris
+null
+Lucia A Keegan  11/14/2006 10:11:41 AM  From  DB/Inbox:  Lucia A Keegan
+
+Cable 
+Text:                                                                      
+                                                                           
+      
+UNCLAS        PARIS 07290
+
+SIPDIS
+cxparis:
+    ACTION: SCI
+    INFO:   AGR UNESCO AMBO SCIO LABO ENGO ECSO DCM AMB POL
+            ECON ESCI
+
+DISSEMINATION: SCIX
+CHARGE: PROG
+
+APPROVED: SCI:RDRY (EST COMMON
+DRAFTED: SCI:MHMASSING
+CLEARED: CLEARED:NONE
+
+VZCZCFRI866
+RR RUEHC RHEHAAA RHEBAAA RUEHMRE RUEHSR RUEHZN
+DE RUEHFR #7290 3121316
+ZNR UUUUU ZZH
+R 081316Z NOV 06
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 2950
+INFO RHEHAAA/WHITE HOUSE WASHDC
+RHEBAAA/USDOE WASHDC
+RUEHMRE/AMCONSUL MARSEILLE 1429
+RUEHSR/AMCONSUL STRASBOURG 0243
+RUEHZN/EST COLLECTIVEUNCLAS PARIS 007290 
+ 
+SIPDIS 
+ 
+DEPT FOR OES, EUR/WE 
+WHITE HOUSE FOR OSTP 
+DOE FOR OFFICE OF SCIENCE 
+STATE PASS NSF/INT 
+ 
+E.O. 12958: N/A 
+TAGS: TINT TNGD FR
+SUBJECT: HAL - FRANCE'S PORTAL FOR SCIENTIFIC PUBLICATIONS 
+¶1.  All major French research organizations, the conference of 
+university presidents (CPU), the conference of 'Grandes Ecoles' 
+(France's elite universities), and the Pasteur Institute recently 
+ 
+signed a Joint Draft Agreement defining a coordinated approach, at 
+the national level, for open-access self-archiving of French 
+research output.  The French network of open-access archives is 
+known as Hyper Article on Line or, simply, HAL.  Initially created 
+by the National Center for Scientific Research (CNRS) in 2000, and 
+developed by the Center for Direct Scientific Communication (CCSD), 
+it will ensure direct scientific communication between academics, 
+and long term preservation of deposited documents. 
+ 
+¶2.  The HAL project is in line with the arXive site created in 1991 
+by Paul Ginsparg, an e-print service in the fields of physics, 
+mathematics, non-linear science, computer science, and quantitative 
+biology, owned, operated and funded by Cornell University and partly 
+funded by the National Science Foundation. HAL, on the other hand, 
+is now open to all scientific disciplines without restriction. 
+Approximately 1200 documents are reportedly archived every month, 
+which represents roughly 15 percent of French scientific publication 
+output. 
+ 
+------------------------------- 
+Technically superior to arXive? 
+------------------------------- 
+ 
+¶3.  According to HAL's creator, CCSD Director Franck Laloe, HAL 
+provides an extensive set of tools and services beneficial to French 
+researchers, and "technically superior to arXive," e.g.: 
+ 
+- Automatic document submission with link to an international open 
+archive that increases visibility and impact; 
+ 
+- Simplified submission process for scientists (a single submission 
+can cover all the researcher's work, evaluation procedures, activity 
+reports, and replies to requests for quotations); 
+ 
+- Advanced search engine, classification and searches using multiple 
+criteria; 
+ 
+- Automatic online extraction of all works by author, lab, or 
+organization, with possible links to the organization's local web 
+site; 
+ 
+- Creation of "collections" via buffers for authentication of a 
+lab's publications, the articles in a journal, etc.; 
+ 
+- Alert and watchdog system that can be customized with user-defined 
+profiles; 
+ 
+- Hal is designed to facilitate the creation of configurable 
+interfaces for organizations to create their own environments. 
+ 
+¶4.  The joint draft agreement is considered an important advance in 
+the implementation of French national policy in support of open 
+access institutional archives.  According to the French CNRS 
+Director of Scientific Communication, "the single archive will 
+significantly improve the visibility, dissemination, and the 
+international impact of French scientific research, as data will be 
+indexed by major research engines, such as Google."  Furthermore, 
+HAL communicates with other major international archive systems and 
+includes a protocol of agreement about metadata to enrich the 
+articles. 
+ 
+------------------- 
+Benefits and risks? 
+------------------- 
+ 
+¶5. According to media, some French scientists do not 
+favor HAL out of concern that some scientists might release on the 
+network data without peer review.  HAL's organizers, on the other 
+hand, argue that articles consulted by other scientists, will 
+receive critical review and potential errors will be quickly 
+notified. Furthermore, posting an article on the site does not 
+prevent its submission for publication to scientific journals with 
+peer review.  HAL's promoters now hope that other countries, notably 
+within the EU, will join the project, giving France a leading role 
+in a large system of international direct scientific communication. 
+ 
+ 
+STAPLETON

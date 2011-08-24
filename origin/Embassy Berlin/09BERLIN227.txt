@@ -1,0 +1,182 @@
+09BERLIN227
+UNITED STATES AND GERMANY IN GENERAL AGREEMENT ON
+Tue Feb 24 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Berlin
+VZCZCXYZ0028
+OO RUEHWEB
+
+DE RUEHRL #0227/01 0551643
+ZNR UUUUU ZZH
+O 241643Z FEB 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 3390
+INFO RUEHLO/AMEMBASSY LONDON PRIORITY 9607
+RUEHFR/AMEMBASSY PARIS PRIORITY 0179
+RUEHTC/AMEMBASSY THE HAGUE PRIORITY 1181
+RUEHGV/USMISSION GENEVA PRIORITY 1440
+RUCNDT/USMISSION USUN NEW YORK PRIORITY 0684UNCLAS BERLIN 000227 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PARM PREL GM BWC
+SUBJECT: UNITED STATES AND GERMANY IN GENERAL AGREEMENT ON 
+OVERSIGHT OF THE DNA SYNTHESIS INDUSTRY 
+ 
+REF: A. 08STATE 127980 
+     ¶B. STATE 4627 
+ 
+¶1. Summary: The German government is approaching oversight of 
+the DNA synthesis industry by relying on the Industry 
+Association for Synthetic Biology (IASB) to develop and 
+promote voluntary self-regulation.  The proposed IASB 
+oversight mechanisms are very much in line with the USG 
+policy framework on this issue.  While Germany has not 
+specifically regulated the DNA synthesis industry, existing 
+German genetic engineering regulations effectively require 
+many of the screening and record keeping components of the 
+proposed USG framework and IASB recommendations.  Germany 
+also has regulations that provide additional oversight 
+mechanisms not present in the United States, especially in 
+the area of personnel reliability.  The U.S., Germany, and 
+IASB also have similar views on the scientific and software 
+challenges that need to be resolved for effective technical 
+screening.  Law enforcement in Germany, however, is largely 
+implemented by the Laender (states), providing challenges for 
+international law enforcement cooperation. 
+ 
+¶2. The United States and Germany agreed to meet again in 
+person in three or four months, and possibly earlier via 
+teleconference.  Future meetings will be to share future USG 
+developments on technical and customer screening, record 
+keeping, and communication between law enforcement and DNA 
+synthesis providers.  The United States and Germany agreed to 
+work together to promote a screening framework in the 
+international community, utilizing various multilateral fora, 
+as a screening will only be effective if harmonized 
+internationally. End Summary. 
+ 
+¶3. Based on recommendations from the National Science 
+Advisory Board for Biosecurity (NSABB), the USG is currently 
+developing a framework for screening of commercial orders for 
+gene synthesis.  The United States and Germany are the two 
+most active countries in this new and fast growing field of 
+DNA synthesis, but many other countries are involved.  As the 
+USG begins to work out the parameters of these guidelines, it 
+seeks to coordinate efforts with other important players to 
+ensure consistent international practices. 
+ 
+¶4. The USG requested a meeting with the German government 
+(Ref. A) to bring together representatives of the relevant 
+federal agencies in both countries to share current policy 
+views and practices in this area.  The proposed agenda is 
+contained in Ref. B. 
+ 
+¶5. The first round of discussion took place on Feb. 23, 2009, 
+in Berlin.  Six USG representatives from the Departments of 
+State (ISN/CB), Commerce (BIS), Homeland Security (S&T), 
+Health and Human Services (ASPR), and Justice (FBI) attended. 
+ German attendees included representatives from counterpart 
+agencies in the German government as well as the Ministry of 
+Education and Research, and representatives of the Industry 
+Association for Synthetic Biology (IASB; soon to be renamed 
+the International Association for Synthetic Biology), the 
+major industry consortium of DNA synthesis providers. 
+ 
+¶6. The USG representatives provided presentations on an 
+overview of USG activities with respect to dual-use life 
+science research, a summary of the USG policy framework for 
+addressing government oversight of DNA synthesis orders, and 
+a review of the dialogue between the FBI and major DNA 
+synthesis providers.  German representatives presented 
+existing German and EU laws and regulations that provide 
+mechanisms that effectively provide oversight of dual-use 
+biological research.  IASB representatives presented an 
+industry perspective on DNA screening of synthesis providers. 
+Discussion focused on understanding the legal and regulatory 
+frameworks in each country and identifying commonalities in 
+approaches and issues for future collaboration. 
+ 
+¶7. Risk and Technological Change: The Germans do not see a 
+high-level or near-term risk, but agree that DNA synthesis 
+requires oversight.  In response to the suggestion by one 
+industry representative that consideration be given to 
+registering high throughput DNA synthesizers, there was some 
+inconclusive discussion about whether or not monitoring 
+synthesizers was useful.  Both sides agreed that regulatory 
+frameworks need to be adaptive in light of the rapid rate of 
+increase in DNA synthesis capability by both gene foundries 
+and desktop synthesizers. 
+ 
+¶8. Extant German Legal Frameworks: Germany has several 
+regulatory mechanisms that implicitly provide oversight of 
+the DNA synthesis industry.  The relevant regulations include 
+genetic engineering regulations, codes of conduct affecting 
+grant proposal preparation and review, personnel reliability 
+practices for working in BSL-3/4 laboratories, and licensing 
+of life scientists working with specific pathogens.  Current 
+German research funding practices, however, do not allow 
+funding to be tied to a requirement to buy only from 
+companies that screen orders. 
+ 
+¶9. Law Enforcement: Germany is very interested in U.S. 
+efforts to provide guidance to industry on reporting 
+suspicious orders and would like followup information as 
+policies evolve.  Personnel reliability is enforced through 
+multiple mechanisms: life scientists are licensed for working 
+with specific pathogens and BSL-3/4 workers require security 
+clearances.  Items checked include criminal history, 
+financial history, mental health status, and personal 
+interviews.  Germany has challenges in providing a single 
+point of contact for suspicious orders because of the 
+dominant role of the Laender in law enforcement.  Germany 
+does not appear to have considered how to handle company 
+concerns regarding suspicious orders.  Also, there currently 
+does not appear to be a mechanism to allow the United States 
+to alert Germany about suspicious orders. 
+ 
+¶10. Technical Challenges to Be Resolved: The German 
+government, German industry representatives, and the USG have 
+common views on the technical challenges for implementing a 
+screening framework, particularly on an international basis. 
+These issues include database content and annotation of 
+sequences for both pathogenicity and housekeeping, access 
+control for both modifying and using content, and whether or 
+not a database should be centralized or distributed. 
+Responsible parties for maintenance and curation need  to be 
+designated. 
+ 
+¶11. Strategy for International Engagement: The United States 
+and Germany agree that broad international adoption requires 
+early engagement of key developing countries in addition to 
+key developed countries.  Promoting global adoption of 
+screening will also require engaging multiple multilateral 
+fora including OECD, WHO, BWC, Australia Group, and other 
+nonproliferation venues.  The IASB can also play a pivotal 
+role in reaching out to gene foundries in developing 
+countries.  It is critical that the developing countries not 
+perceive this effort as being pushed on them by the developed 
+countries, but buy into it as industry "best-practice." 
+ 
+¶12. Future Discussions: German government and industry 
+representatives readily agreed to the US suggestion to hold 
+another face-to-face meeting once US studies of technical 
+aspects of order screenings were better-developed.  US also 
+suggested that a video conference in April might be useful. 
+US and German representatives agreed to jointly brief other 
+close allies at a planned meeting in Paris on March 4, 2009. 
+ 
+¶13. Comment: IASB representatives were much more engaged in 
+the discussions than those from the German government (apart 
+from Foreign Ministry technical expert Volker Beck). 
+Clearly, the German government is generally content to let 
+industry take the lead.  While Germany will be supportive, 
+they are not inclined to be particularly energetic in seeking 
+adoption by other governments.  The industry association, on 
+the other hand, may be a very active partner.  In future 
+bilateral discussions, participation of German industry 
+should be continued.  End Comment. 
+ 
+¶14. Members of the U.S. delegation have cleared on this cable. 
+Koenig

@@ -1,0 +1,83 @@
+09MOSCOW784
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: PRIST, MOSCOW,
+Mon Mar 30 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHMO #0784 0890825
+ZNR UUUUU ZZH
+P 300825Z MAR 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2608
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000784 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: PRIST, MOSCOW, 
+RUSSIA. 
+ 
+REFTELS: USDOC 0268 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Prist, Moscow, Russia. 
+The company is listed on BIS license applications: NLR as the 
+ultimate consignee of one c/w microwave counter with remote sensors 
+and general purpose electronic equipment. These items are controlled 
+for national security and anti-terrorism reasons under ECCN 3A002. 
+The licensee is Matrix, Inc., 109 Bonaventura Drive, San Jose, CA 
+¶95134. 
+ 
+¶3. On March 25, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of Prist, 8/9, Ordjonikidze Street, 
+Moscow, Russia. The export control team met with Alexander 
+Dedyukhin, General Director and Victoria Dedyukhina, Chief of the 
+Import Department. 
+ 
+¶4. Prist is a closed joint stock company founded in 1994, 
+specializing in test and measurement instruments.  Prist employs 72 
+people at its Moscow facility.  Prist is one of the top 5 companies 
+in its field in Russia and regularly attends trade shows to gain 
+exposure and broaden its customer base.  Prist is in partnership 
+with several U.S. companies in its field, including Fluke, Le Croy, 
+Agilent Technology and Matrix.  Prist has brochures from all of 
+these companies on display in its office. 
+ 
+¶5. Alexander Dedyukhin, General Director for Prist told the export 
+control team that Prist has purchased 4 to 5 microwave counters 
+(Dedyukhin calls them frequency counters) from Matrix over the 
+years, but he claims that the reftel commodity was not purchased by 
+Prist.  A few days prior to this meeting, LES Shipitsina provided 
+Prist with the reftel Matrix sales order (S.O.) no. SO08090053, when 
+setting up the end use check.  Prist contacted Matrix to inquire 
+about the S.O. and was told that that particular S.O., no. 
+SO08090053, was not a Prist order at all.  Matrix informed Prist 
+that the S.O. in reftel was actually for Northrop Grumman in the 
+United States.  Dedyukhin provided the export control team with the 
+email correspondence between Prist and Matrix regarding the reftel 
+sales order that went to Northrop Grumman for the ECO files. 
+ 
+¶6. Alexander Dedyukhin, General Director of Prist gave the export 
+control team a tour of the Prist facilities where the export control 
+team did see Matrix microwave counters and other U.S. origin 
+technology being used in their testing and research lab. The export 
+control team found no indications of impropriety at Prist, and 
+DedyukhinQs answers were not evasive. 
+ 
+¶7. Recommendations: Post recommends Prist, Moscow, Russia, as a 
+reliable recipient of sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

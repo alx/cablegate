@@ -1,0 +1,115 @@
+09HONGKONG1046
+EXTRANCHECK: POST SHIPMEN VERIFICATION: IMAX TECHNICS
+Wed Jun 10 00:00:00 +0200 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0004
+RR RUEHWEB
+
+DE RUEHHK #1046 1610924
+ZNR UUUUU ZZH
+R 100924Z JUN 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 7798
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001046 
+ 
+USDOC FOR 532/OEA/MHAMES/MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMEN VERIFICATION: IMAX TECHNICS 
+LIMITED (HK) 
+ 
+REF: A) BIS e-mail request dated May 15, 2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) at Imax Technics Limited, Room 
+902, Koon Fork Center, No. 9 Knutsford Terrace Street, Hong Kong 
+(Imax). The items in question for this PSV are various integrated 
+circuits exported to Imax on or about April 5, 2008.  On the 
+applicable shippers export declaration (SED) the items are 
+classified under export control classification number (ECCN) 3A001 
+and, if properly classified, would be controlled for national 
+security (NS) reasons.  Based on documentation provided by the 
+exporter, it appears that these items are of the class that may be 
+exported license free to Hong Kong, but would require a license for 
+export or reexport to mainland China because of their ability to 
+function at extreme temperatures (ECCN 3A001a2c). The exporter was 
+Avnet of Chandler Arizona. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Imax has been in 
+existence since 2001.  The company's paid up share capital is the 
+Hong Kong equivalent of USD 1300. The Hong Kong Companies Registry 
+lists Ms. Leung, Tor Mui (HK ID number G502057(2)) and Leung, Yuk 
+Yung (HK ID number G612734(6)) as directors. 
+ 
+¶4.  Web based research revealed that Imax appears to have a 
+relatively limited web presence.  Its web page 
+(www.imaxtechnics.com) does not appear to be operational.  The Hong 
+Kong Trade and Development Council web site includes a reference to 
+the company, noting that it is an exporter of electronic parts. 
+ 
+¶5.  On June 1, 2009, ECO and Commercial Assistant Carrie Chan 
+visited the company and met with Ms. Leung Tor Mui.  She provided 
+background on Imax, in particular that it is a small electronics 
+trading company that has been in operation for some time.  In fact, 
+the company is located in a small, one room, office with space for 
+two staff. 
+ 
+¶6.  As to the items in question, Ms. Leung showed the ECO a purchase 
+order listing For Shing Co. Ltd. as buyer for the items.  The 
+purchase order was nearly all hand written with what appeared to be 
+a stamped address at the top.  For Shing's address is listed as Rm. 
+C, 4/F Lucky Horse Industrial Building, 64 Tong Mi Road, Hong Kong 
+with telephone number 2375 5225 and fax number 2375 7229.  Mr. Wong 
+is listed as the contact person.  Ms. Leung stated that For Shing is 
+a usual customer&Z#QigQkxt\t that Imax had received no 
+new orders from For Shing for the past six months.  When asked 
+whether Imax had applied for an Hong Kong strategic commodities 
+import license for this shipment, Ms. Leung stated that she did not 
+recall. When apprised of U.S. export control rules in respect of 
+these items, Ms. Leung indicated that she was not aware of those 
+rules.  When asked whether she knew the end use/user of the items, 
+Ms. Leung stated that she does not ask that of her customers unless 
+her supplier (in this case Avnet) requires it. 
+ 
+¶7.  ECO did not find Ms. Leung's answers to be credible.  ECO is 
+aware that Imax has, in the past, applied for Hong Kong strategic 
+commodities import licenses and confirmation of such licenses are 
+typically kept with the underlying order documentation.  The fact 
+that such documentation was not available suggests that Imax never 
+obtained a license.  ECO likewise suspects that Imax is well aware 
+of U.S. export control rules.  ECO sent links to relevant BIS 
+information from the BIS web site to Ms. Leung. 
+ 
+¶8.  According to the Hong Kong Companies Registry, For Shing Company 
+Limited has been in existence since 1984.  Its paid up share capital 
+is the Hong Kong equivalent of USD 1300.  Its directors are listed 
+as Pok, Yu Ying (HK ID H371359(A)) and Wong, Hei Min (HK ID 
+H359451).  For Shing's web presence is also quite limited.  A local 
+SME web site lists the company as being located at Flat C, 5th 
+Floor, Hanley Building, No. 68-80 Canton Road, Hong Kong. 
+ 
+¶9.  Commercial Assistance Carrie Chan attempted to arrange a meeting 
+with For Shing.  A Mr. Wong answered the phone and initially claimed 
+that For Shing had returned the items to Imax (Imax denied this). 
+Mr. Wong further stated that he had no documents available to 
+confirm that statement.  During a subsequent call, Mr. Wong stated 
+that the person responsible for the order had left the company and 
+that he did not have any documents to share.  When asked for a 
+meeting, Mr. Wong hung up the phone. 
+ 
+¶10.  Based on the information noted above, ECO believes that Imax 
+and For Shing are not reliable recipients of U.S. origin technology. 
+ ECO recommends a thorough review of all shipments to Imax, For 
+Shing and their respective addresses.

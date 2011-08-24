@@ -1,0 +1,182 @@
+07WARSAW1493
+Polish consumer e-commerce: Considerations for new
+Thu Jun 28 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Warsaw
+VZCZCXRO8488
+RR RUEHAG RUEHAST RUEHDA RUEHDBU RUEHDF RUEHFL RUEHIK RUEHKW RUEHLA
+RUEHLN RUEHLZ RUEHPOD RUEHROV RUEHSR RUEHVK RUEHYG
+DE RUEHWR #1493/01 1791440
+ZNR UUUUU ZZH
+R 281440Z JUN 07
+FM AMEMBASSY WARSAW
+TO RUEHC/SECSTATE WASHDC 4698
+INFO RUEHKW/AMCONSUL KRAKOW 1761
+RUEHZL/EUROPEAN POLITICAL COLLECTIVE
+RUCPDOC/DEPT OF COMMERCE WASHDC
+RUEATRS/DEPT OF TREASURY WASHDCUNCLAS SECTION 01 OF 02 WARSAW 001493 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPARTMENT FOR EUR/NCE, EUR/ERA, EEB/CIP 
+EUR/NCE FOR DKOSTELANCIK, BPUTNEY 
+USDOC FOR 4232/ITA/MAC/EUR/JBURGESS, JKIMBALL, MROGERS 
+TREASURY FOR MGAERTNER 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON EINT EINV PL
+SUBJECT: Polish consumer e-commerce: Considerations for new 
+entrants. 
+ 
+REF:  A) Warsaw 00735, B) Warsaw 01117 
+ 
+WARSAW 00001493  001.2 OF 002 
+ 
+ 
+------- 
+Summary 
+------- 
+ 
+¶1.  Leading Polish internet players have a recipe for success in the 
+Polish and other central European internet markets.  New entrants 
+following the lead of these players should consider online 
+infrastructure, logistics, consumer market characteristics and 
+online consumer behavior when making the decision to invest.  End 
+Summary. 
+ 
+--------------------------- 
+Who Are the Market Leaders? 
+--------------------------- 
+ 
+¶2.  As mentioned in ref A, the Polish online consumer market is 
+expected to grow to 16 billion zloty ($5.4 billion) by 2010. 
+Stepping up to serve Polish online consumers are internet auction 
+houses and regular online stores.  The most successful auction house 
+is Allegro.pl, with 2.5 billion ($950,000) zloty in sales for 2006, 
+7 million monthly users, and almost 2 million active auctions at any 
+time.  With one eighth the active auctions, rival Swistak comes in 
+at second place, followed closely by ebay.pl.  Among online stores, 
+Merlin leads with a little more than 60 million Zloty ($19 million) 
+in sales and 1.65 million monthly users, followed by wysylkowa.pl 
+and empik.com.  American giant Amazon.com comes in fourth with 
+615,000 monthly users. 
+ 
+----------------------------------- 
+What Are their Recipes for Success? 
+----------------------------------- 
+ 
+¶3.  The recipe for success of Allegro, Merlin, and other Polish 
+internet players includes being the first to market and having an 
+understanding of the Polish marketplace.  These factors perhaps 
+explain why American giants ebay and Amazon are still far behind in 
+monthly customer visits.  Polish internet players are now using this 
+recipe to expand into other central and eastern European markets 
+where competitors are few and market preferences similar.  Allegro 
+already has a majority share in Hungarian and Czech markets, and 
+instant messenger player Gadu-Gadu has successfully established a 
+presence in the Baltic States.  For many, the next target is 
+Ukraine, which has been described as "Poland circa 2000". 
+ 
+¶4.  It is clear that being the first major player to market is a key 
+advantage over subsequent rivals.  Both Allegro and Gadu-Gadu 
+established a strong domestic presence before the arrival of eBay 
+and Skype and maintain number-one positions in their respective 
+markets. 
+ 
+¶5.  While it may be a matter of time and additional experience 
+before newer entrants can overcome the first-to-market advantage of 
+the current leaders, an understanding of the Polish market is also 
+important to success.  Specifically, what challenges and market 
+peculiarities should new entrants be aware of.  Our discussions with 
+a public relationship specialist for Merlin identified the 
+following: online infrastructure, logistics, consumer price 
+sensitivity, and internet behavior. 
+ 
+------------------------ 
+What are the Challenges? 
+------------------------ 
+ 
+¶6.  One major challenge is the volume of Polish business 
+interactions that are still conducted on paper, which means that new 
+entrants may face supply chains that are not yet "internet ready" 
+when setting up their businesses.  In Merlin's case, there was no 
+comprehensive electronic registry of Polish publications, a critical 
+component for an online bookstore.  In the end, Merlin created its 
+own registry - an intensive and painstaking process.  There has been 
+one advantage - Merlin created a competitive advantage for itself 
+and is now able to sell access rights to its publications database 
+to other interested partiesinthe Polish publishing industry. 
+ 
+¶7.  Another challenge is fulfilling customer orders.  The lower 
+volume of orders and relatively poorer transport infrastructure in 
+Poland made timely, cost effective deliveries to rural areas 
+difficult.  Merlin experienced standard delivery times of three to 
+four weeks, and damaged deliveries are a consistent problem. 
+Package tracking availability and reliability is inconsistent. 
+Although such delivery services are technically outside of Merlin's 
+control, they are an important consideration and will become more so 
+ 
+WARSAW 00001493  002.2 OF 002 
+ 
+ 
+as Polish consumer demands for delivery reliability and information 
+mature. 
+ 
+----------------- 
+Consumer Behavior 
+----------------- 
+ 
+¶8.  Besides some challenges associated with setting up an online 
+business, Polish online consumer characteristics are important to 
+product mix, website design, and payment type.  Merlin's continued 
+focus on lowest price offerings indicates that even with the growth 
+and diversification of the Polish consumer market, the Polish 
+consumer continues to be price sensitive.  As mentioned in ref B, 
+this sensitivity to price is reflected by the popularity of price 
+comparison websites such as ceneo.pl, and by the relatively low 
+market share of more expensive "lifestyle" products such as apple's 
+iPod, which comprises only 3% of the Polish mp3 player market. 
+ 
+¶9.  Additionally, the Polish online consumer spends more time per 
+online session than others, and is not yet comfortable with finding 
+online solutions to questions - an overwhelming majority of 
+consumers still prefer to call the helpdesk.  Only 2% of Merlin 
+customers use online tools to determine the status of their order. 
+This suggests that user-friendly websites can generate additional 
+purchases while reducing customer support expenses. 
+ 
+¶10.  Another interesting characteristic is that Polish online 
+consumers avoid credit card payments.  Cash on delivery and 
+electronic funds transfers each account for 35% of purchases; 
+pre-payments into Merlin customer accounts at the post office, a 
+further 5%.  Credit cards account for only 25%, making other payment 
+methods vital to the success of any new entrant in the Polish 
+marketplace. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶11.  The Polish internet market, while potentially lucrative, still 
+encounters infrastructure and logistical challenges.  In addition, 
+Polish consumers' online behavior and payment preferences suggest 
+that while the average online user can browse the internet, there is 
+a lower level of expertise and comfort when it comes to locating, 
+ordering, requesting help, and paying for products and services 
+online.  Despite this, Polish market leaders have been successful in 
+Poland and are using their experience to expand into surrounding 
+countries. 
+ 
+¶12.  In order to maximize the chance of success, there are two 
+strategies new entrants to the Polish market may wish to consider. 
+One strategy is partnering with a local firm that can help new 
+entrants understand the local market, its peculiarities, set up 
+considerations, and any supply chain and infrastructure challenges. 
+A second strategy is focusing on a product or service that is 
+appropriate for the current level of online market development, 
+delivery capability, and online consumer price sensitivity, 
+behavior, and maturity. 
+ 
+ASHE

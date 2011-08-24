@@ -1,0 +1,102 @@
+06TAIPEI2387
+Bank of America Questioned about FX Manipulation
+Fri Jul 14 00:00:00 +0200 2006
+UNCLASSIFIED
+American Institute Taiwan, Taipei
+VZCZCXRO8717
+RR RUEHGH
+DE RUEHIN #2387 1950628
+ZNR UUUUU ZZH
+R 140628Z JUL 06
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC 1102
+RUEATRS/DEPT OF TREASURY WASHDC
+INFO RUCPDOC/USDOC WASHDC
+RUEHBK/AMEMBASSY BANGKOK 3332
+RUEHBJ/AMEMBASSY BEIJING 5412
+RUEHUL/AMEMBASSY SEOUL 7927
+RUEHGP/AMEMBASSY SINGAPORE 6505
+RUEHKO/AMEMBASSY TOKYO 7823
+RUEHML/AMEMBASSY MANILA 9755
+RUEHJA/AMEMBASSY JAKARTA 3884
+RUEHKL/AMEMBASSY KUALA LUMPUR 3523
+RUEHHI/AMEMBASSY HANOI 3093
+RUEHBY/AMEMBASSY CANBERRA 4241
+RUEHWL/AMEMBASSY WELLINGTON 1525
+RUEHHK/AMCONSUL HONG KONG 6618
+RUEHGH/AMCONSUL SHANGHAI 0232
+RUEHGZ/AMCONSUL GUANGZHOU 9413UNCLAS TAIPEI 002387 
+ 
+SIPDIS 
+ 
+SIPDIS 
+SENSITIVE BUT UNCLASSIFIED 
+ 
+STATE PLEASE PASS USTR 
+STATE FOR EAP/RSP/TC, EAP/EP 
+USTR FOR ALTBACH 
+USDOC FOR 3132/USFCS/OIO/EAP/WZARIT 
+TREASURY FOR OASIA/LMOGHTADER 
+TREASURY PLEASE PASS TO OCC/AMCMAHON 
+ 
+E.O. 12958: N/A 
+TAGS: EINV EFIN ECON TW
+SUBJECT: Bank of America Questioned about FX Manipulation 
+ 
+ 
+¶1.  (SBU) Summary:  Taiwan's Central Bank of China (CBC) is 
+currently questioning the Bank of America (BOA) branch in Taiwan 
+about its dumping of U.S. dollars to manipulate the NTD:USD exchange 
+rate on the morning of July 13.  CBC has decided it will penalize 
+BOA, but has not announced the penalties.  End summary. 
+ 
+Manipulating Exchange Rates by Dumping USD 
+------------------------------------------ 
+ 
+¶2.  (SBU) Just before 11:00 a.m. (Taipei time) on Thursday July 13, 
+BOA dumped 175 million US dollars in a shallow market in Taipei, 
+instantly driving the foreign exchange (FX) rate from NT$32.547 per 
+USD to NT$32.451 per USD.  Soon afterward, BOA bought back some USD 
+on the inter-bank market to drive the FX rate back to NT$32.55 
+levels.  According to Deputy Director General Hsu Chung-I of the CBC 
+Foreign Exchange Department (FED), BOA benefited from the sudden 
+change in the exchange rate by settling its non-physical delivery 
+forward (NDF) contracts at exactly 11:00 a.m., while the NT$32.451 
+per USD rate was in effect.  Our BOA contact confessed to AIT/T that 
+BOA profited from the transaction and that some other banks suffered 
+losses.  (Note.  According to the practice in Taipei, settlement of 
+NDF and other financial derivative contracts is based on the FX rate 
+at 11:00 a.m.  End note.) 
+ 
+Disturbing FX Market 
+-------------------- 
+ 
+¶3.  (SBU) The fluctuation in the NTD:USD exchange rate at 11:00 a.m. 
+on July 13 surprised not only FX traders in the Taipei inter-bank 
+market, but bank officers and bank customers in the FX retail 
+market.  Several banks in Taiwan and Hong Kong suffered losses and 
+complained to the CBC.  Some traders indicated that they were unable 
+to trade in USD at the NT$32.451/USD level because BOA quickly drove 
+the rate back to NT$32.54/USD level.  In the retail market, some 
+customers complained to banks that they found that the NTD:USD 
+exchange rate changed in the few minutes while they filled out 
+transaction forms. 
+ 
+Penalties 
+--------- 
+ 
+¶4.  (SBU) CBC Hsu criticized the BOA actions as unethical and said 
+he suspected that BOA did not exercise proper internal controls. 
+According to Hsu, regulatory authorities in the United States and 
+Japan would have quickly imposed severe fines on BOA if this 
+incident had taken place in either of those two countries. 
+ 
+¶5.  (SBU) CBC FED Director General George Chou summoned BOA (Taipei) 
+President Lin Ching-chong to his office on the afternoon of July 13 
+and questioned Lin about the incident.  According to Hsu, Lin must 
+report the CBC's questioning to U.S. regulators.  Although details 
+are not available, additional penalties could include a request for 
+BOA to improve its internal controls, a censure, or suspension of 
+BOA privileges to do some FX business, according to Hsu. 
+ 
+YOUNG

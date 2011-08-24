@@ -1,0 +1,264 @@
+07GUANGZHOU562
+Guangzhou's Software Industry:  Perspectives from a
+Tue May 15 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Guangzhou
+VZCZCXRO5289
+RR RUEHCN RUEHGH RUEHVC
+DE RUEHGZ #0562/01 1350859
+ZNR UUUUU ZZH
+R 150859Z MAY 07
+FM AMCONSUL GUANGZHOU
+TO RUEHC/SECSTATE WASHDC 6057
+INFO RUEHC/DEPT OF LABOR WASHDC
+RUEATRS/DEPT OF TREASURY WASHDC
+RUCPDOC/USDOC WASHDC
+RUEHOO/CHINA POSTS COLLECTIVE
+RUEHGV/USMISSION GENEVA 0445
+RUEAIIA/CIA WASHDC
+RUEKJCS/DIA WASHDC
+RHHMUNA/HQ USPACOM HONOLULU HIUNCLAS SECTION 01 OF 03 GUANGZHOU 000562 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USPACOM FOR FPA 
+STATE FOR EAP/CM, EA/CIP, AND EB/CBA 
+STATE PASS USTR FOR STRATFORD, WINTER 
+USDOC FOR 4420/ITA/MAC/MCQUEEN 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ETRD EINT TSPL CH
+SUBJECT:  Guangzhou's Software Industry:  Perspectives from a 
+Software Park and a Software College 
+ 
+¶1. (U) Summary:  The development of Guangdong Province's software 
+industry has been a key priority in recent years for China's 
+Ministries of Commerce, Information Industry, and Education, among 
+others.  Guangzhou has emerged as a focal point for the 
+establishment of the province's leading software parks and schools 
+of software engineering.  Tianhe Software Park, Guangzhou's first 
+and largest, boasts 1,203 enterprises and was recently designated by 
+the Ministry of Science and Technology as a "Software Industry 
+Export and Innovation Base" with a mandate to boost China's 
+participation in the international software export and out-sourcing 
+markets.  The South China University of Technology School of 
+Software Engineering ranks 15th out of China's 36 software schools, 
+and is one of only two such schools in Guangdong.  Both the Software 
+Park and the SCUT Software School maintain extensive ties to leading 
+Chinese companies as well as multinational companies.  End Summary. 
+ 
+ 
+Overview of the Software Industry in China 
+- - - - - - - - - - - - - - - - - - - - - 
+ 
+¶2. (U)  According to Zhan Yanzun, Vice President of the China 
+Software Industry Base, Administrative Commission of Guangzhou, 
+Tianhe Software Park, the value of the domestic Chinese software 
+market is between RMB 100 billion to 150 billion (USD 13 - 19.5 
+billion) per year.  Currently, Beijing, Guangdong, and Shanghai are 
+the top three locations in the country in terms of the size of the 
+software industry.  China's 11th Five-Year Plan (2006-2011) calls 
+for the development of embedded software, open source software, and 
+middleware which are key focal points for Guangdong.  Zhan also 
+noted China's interest in pursuing overseas markets.  The National 
+Development and Reform Commission (NDRC) and the Ministry of 
+Commerce (MOFCOM) encourage domestic software companies to compete 
+in the international marketplace.  The Ministry of Science and 
+Technology (MOST) and MOFCOM have both recently sent delegations to 
+North America on market exploration trips.  According to Zhan, the 
+delegation's biggest target market is North America, followed by 
+Europe, and then Southeast Asia.  In the North American market, 
+Chinese government officials hope to set up representative offices 
+in San Francisco and New Jersey; they will be responsible for 
+collecting market information and carrying out marketing functions. 
+ 
+The Making of Guangzhou's Top Software Park 
+- - - - - - - - - - - - - - - - - - - - - - 
+ 
+¶3. (U)  Guangzhou Municipality boasts four software parks: the 
+Guangzhou Software Park, the Guangzhou Tianhe Software Park, the 
+Nansha District Software Park and the Huanghuagang Information Park. 
+ The Tianhe Software Park is the largest of the four in terms of 
+size (it is the largest among all 11 national-level software parks 
+in China, with a planned area of 12.25 square kilometers) and output 
+(70 percent of software output in Guangzhou).  Established in 1991, 
+it is also the oldest of the four.  In the last 16 years, Tianhe 
+Software Park has been named "National Hi-tech Zone" by the National 
+Commission of Science and Technology (or MOST), a "Software Industry 
+Export and Innovation Base" and "National Industry Base for Online 
+Games" by the NDRC and the Ministry of Information Industry (MII). 
+The Tianhe Software Park has 19 branch parks. 
+ 
+¶4. (U)  By the end of 2006, according to Qiao Xizhong, Director of 
+Service Industries at Tianhe Software Park, there were 1,203 
+enterprises (290 were foreign-invested and the rest were domestic, 
+largely Guangdong local enterprises) in Tianhe Software Park, 
+employing about 50,000 persons, with a total annual output of RMB 
+25.3 billion (USD 3.3 billion).  Forty percent of the park's output 
+came from the telecom and value-added services, 25 percent from 
+financial services and the remainder from office automation (OA) and 
+business intelligence (BI). 
+-- The top three domestic enterprises in the park are Netease, which 
+had revenues of RMB 2.6 billion (USD 338 million) in 2006, 
+Digitalchina and Sinobest. 
+-- Other key enterprises, which have an annual output above RMB 120 
+million (USD 15.6 million), include ChinaWeal, Excellence, Asinfo, 
+Chuangxiang, and Keyou. 
+-- The top three foreign-invested enterprises are Ericsson from 
+Sweden, and two Hong Kong enterprises. 
+-- Other key foreign-invested enterprises include Trans Cosmos from 
+Japan and the RIB Group from Germany, both of which are engaged in 
+software outsourcing. 
+ 
+ 
+GUANGZHOU 00000562  002 OF 003 
+ 
+ 
+¶5. (U) Projects currently underway in the Park include: 
+-- the Internet Digital Center (IDC), which will house more than 
+3,000 servers. 
+-- the Southern R&D Center of China Mobile, which will cost RMB 1.7 
+billion (USD 221 million) in the first phase with a 490,000 square 
+meter work area, 
+-- a four-star hotel and apartment buildings for foreign staff, 
+namely project managers and technicians from countries such as 
+India, the United States, Germany, Japan, and Holland. 
+A road is also being built and this will cut travel time to ten 
+minutes between the software park and the Eastern Railway Station by 
+the end of this year. 
+ 
+Encouraging the Growth of the Software Park and Industry 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+¶6. (U) Software Park Vice President Zhan noted that MOFCOM granted 
+the title "Software Exports and Innovation Base" to Guangzhou, 
+Nanjing, Hangzhou, Jinan and Chengdu in December 2006 to boost 
+China's participation in the international software market, 
+especially in software exports and outsourcing.  Zhan said 35 
+enterprises in the park are engaged in software outsourcing, and 
+that all are members of the park's Software Outsourcing 
+Association. 
+ 
+¶7. (U) The Guangzhou Municipal Government released "No. 44 document" 
+in 2006 to attract investors to the software industry.  Incentives 
+offered to enterprises to settle in the park include house rental 
+subsidies, post-doctoral study subsidies, and income tax 
+preferential policies for top management members. 
+ 
+Software Park Officials address IPR issues 
+- - - - - - - - - - - - - - - - - - - - - 
+ 
+¶8. (U)  Zhan said that IPR protection has been a focus of both the 
+Guangzhou and Tianhe District governments alike.  He also noted that 
+the Tianhe Software Park is a member of the Guangzhou IPR Protection 
+Team, which is headed by Vice Mayor Wang Xiaoling.  The Software 
+Park is involved in drafting and implementing the team's action 
+plans on IPR protection. 
+ 
+The Human Resources Component of the Park 
+- - - - - - - - - - - - - - - - - - - - - 
+ 
+¶9. (U)  Zhan said Guangzhou's goal is to have 200,000 professionals 
+in the software and cartoon/animation industries by 2010.  Zhan 
+believed that there is a current shortage of high-end software 
+professionals in Guangzhou.  Enterprises in the park recruit both 
+new graduates and experienced workers, but company-specific training 
+is provided to both before they begin work.  Most enterprises 
+conduct training on their own, but Zhan said that enterprises will 
+likely utilize on on-site training center after completion. 
+Enterprises in the park last year recruited roughly 1,200 college 
+gradates from across China, with most coming from Guangdong. 
+According to Zhan, Sun Yat-sen University and the South China 
+University of Technology (SCUT) have excellent software schools so 
+they do not need to look far to recruit qualified graduates. 
+ 
+South China University of Technology 
+- - - - - - - - - - - - - - - - - - 
+ 
+¶10. (U) South China University of Technology (SCUT) was established 
+in 1952.  In 2003, SCUT ranked the 20th among the 570 universities 
+in China.  SCUT has been named a key university of China by the 
+Ministry of Education. The university is famous for engineering and 
+has 29 schools, 67 undergraduate programs, 177 master programs, and 
+75 doctoral programs.  SCUT has a state key laboratory, two national 
+engineering research centers, one "National Class A" architecture 
+design and research institute, and four key labs certified by the 
+Ministry of Education.  In 2005, SCUT professors published 2,326 
+papers in academic journals; in 2006, SCUT applied for and received 
+207 patents.  In 2006, SCUT won more than USD 43 million in funding 
+from the central and provincial governments. 
+ 
+The Software Engineering College at SCUT 
+- - - - - - - - - - - - - - - - - - - - 
+ 
+¶11. (U) China currently has 36 software engineering schools.  The 
+software school at SCUT was established in 2001 by MOE and the 
+ 
+GUANGZHOU 00000562  003 OF 003 
+ 
+ 
+Economy Development Planning Committee; it ranks 15th in China.  It 
+has been named one of the "National Pilot Schools for Software 
+Engineering".  The school includes master's programs for computer 
+software, theory, and software engineering, and also has an 
+undergraduate program in software engineering.  In 2006, the school 
+carried out 44 research projects and received RMB 7.78 million (USD 
+1 million) in government funding.  The school was awarded five 
+patents and registered 18 types of IPR in software.  According to 
+Deng Huifang, dean of the software school, MOE periodically 
+evaluates the schools' academic and research achievements and 
+decides if they measure up to established criteria.  At present, 
+Guangdong Province has only two national pilot schools of software 
+engineering, the other one at Sun Yat-Sen University.  With the 
+pilot school designation, SCUT can charge high tuition fees, which 
+are about 60 percent higher than other schools. 
+ 
+¶12. (U) SCUT's School of Software Engineering currently has 30 
+full-time teachers and 46 part-time teachers.  Fifteen of the 
+teachers are from foreign countries.  Of the school's 1,475 students 
+are 1,132 undergraduate and 343 postgraduates.  Most of the students 
+are from Guangdong Province, the ratio of male students to female 
+students is 6:1.  Each year, the school graduates 300 with bachelor 
+degrees and 200 with a master's degree.  Most of the graduates 
+currently work in IT-related fields.  More than 70 per cent of the 
+graduates are working in private enterprises, and about two percent 
+are self employed.  About 96 percent of SCUT graduates found 
+employment rate in 2005 and 2006. 
+ 
+Collaborating with Foreign Companies and Institutions 
+- - - - - - - - -   - - - - - - - - - - - - - - - - - 
+ 
+¶13. (U) The School of Software Engineering of SCUT cooperates 
+extensively with multinational IT companies such as IBM China Ltd., 
+Microsoft Asia Research Center, HP China Ltd., Intel China Ltd., 
+Oracle Beijing, BEA, CISCO, and SUN.  The school currently has an 
+IBM mainframe education center, a Linux education training center, 
+eight labs which work jointly with the companies, three student 
+innovation studios and one student industrial practice center. 
+Companies like IBM and Microsoft not only provide funding and 
+equipment to the research centers, but also work with the centers to 
+design courses for the students.  To keep up with the development of 
+international software, the school also incorporates courses from 
+universities like North West University from U.S., York University 
+from U.K., SAP from Germany, and IIT from India. 
+ 
+Guangdong's Software Exports 
+- - - - - - - - - - - - - - 
+ 
+¶14. (U)  According to Deng, Guangdong's exports of software products 
+amounted to USD 1.9 billion in 2005, or 50 percent of the country's 
+total software industry exports, which stood at USD 3.8 billion. 
+Shenzhen, Guangzhou and Zhuhai are the top three cities in the 
+province in terms of software exports.  The major overseas markets 
+for Guangdong are Hong Kong, Japan, Southeast Asia, Taiwan, Europe, 
+and the U.S.  Guangdong currently has 1,181 software companies. 
+Guangdong has 14 of the top 100 software companies of China; six are 
+headquartered in Guangzhou, seven in Shenzhen, and one in Zhuhai. 
+These companies include Guangzhou GaoKe Communications Technology 
+Co., Ltd., Sinobest, Guangzhou Haige Communications Industry Group 
+Co. Ltd., and Guangzhou Ziguang North America Science and Technology 
+Ltd. 
+ 
+GOLDBERG

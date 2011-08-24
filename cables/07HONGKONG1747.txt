@@ -1,0 +1,97 @@
+07HONGKONG1747
+EXTRANCHECK: PRE LICENSE CHECK:  SOITEC
+Thu Jun 28 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0004
+RR RUEHWEB
+
+DE RUEHHK #1747 1790947
+ZNR UUUUU ZZH
+R 280947Z JUN 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 2144
+RHMFIUU/HQ BICE WASHINGTON DC
+RUEHGP/AMEMBASSY SINGAPORE 3565UNCLAS HONG KONG 001747 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LLAUCIUS 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR 
+WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+SINGAPORE FOR FCS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP ETRD ETTC HK
+SUBJECT: EXTRANCHECK: PRE LICENSE CHECK:  SOITEC 
+SINGAPORE PTE LTD. 
+ 
+REF: A) USDOC 05664 B) D377621 
+ 
+1.Unauthorized disclosure of the information 
+provided below is prohibited by Section 12C of the 
+Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of 
+the Office of Enforcement Analysis (OEA) of the 
+USDOC Bureau of Industry and Security (BIS), 
+Regional Export Control Officer Philip Ankel (ECO) 
+conducted a pre-license check (PLC) at Soitec 
+Singapore Pte Ltd., BL Pasir Ris Industrial Drive 
+1, Singapore (Soitec).  The item in question is an 
+inductively coupled plasma mass spectrometer 
+valued at USD 140,000.  The item is classified 
+under Export Control Classification Number (ECCN) 
+3A233 and controlled for nuclear nonproliferation 
+(NP) reasons.  The license applicant is 
+Perkinelmer Las., Inc. of Shelton, Connecticut. 
+ 
+ 
+¶3.  According to the Singapore companies registry, 
+Soitec has been in existence since 2006.  Its 
+paid-up share capital is the Singapore equivalent 
+of USD 1.  Singapore national, Ms Anne Choo and 
+French nationals Maurice Maxima Mauberger Pascal 
+and Andre Jacques Herve are listed as directors. 
+The company registry lists the French company, 
+SOITEC Silicon On Insulator Technologies S.A., as 
+the sole shareholder. 
+ 
+¶4.  On June 21, 2007, the ECO, accompanied by 
+Singapore Customs representative Kevin Boo, met 
+with Daniel Nogueira, Purchasing Director and 
+Elaine Toh, Purchasing Manager.  Mr. Nogueira 
+provided a short overview of Soitec, which is a 
+French multinational producer of advanced 
+substrates for use in various computer 
+applications.  One of its main customers is AMD, 
+which uses Soitec wafers in its computers.  Soitec 
+is presently constructing a new Fab in Singapore 
+due to begin operation in September 2007.  More 
+information about Soitec and the new Singapore Fab 
+can be found at www.soitec.com. 
+ 
+¶5.  As to the specific item in question, Mr. 
+Nogueira stated that it would be used in 
+production of wafers to test against metal 
+contamination on wafers and in chemicals used 
+during the production process.  The ECO explained 
+that the item is controlled for export and 
+reexport and provided additional background 
+information and documentation on the U.S. export 
+controls associated with the item. 
+ 
+¶6.  At the time visited, Soitec appeared to be a 
+suitable recipient of the item in question since 
+Soitec operates a line of business that is 
+consistent with the item's potential use and 
+understands its responsibilities under the export 
+administration regulations for its potential use 
+of the controlled item.  The ECO recommends that 
+this PLC be classified as Favorable. 
+ 
+Cunningham

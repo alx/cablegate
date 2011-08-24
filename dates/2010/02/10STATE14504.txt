@@ -1,0 +1,122 @@
+10STATE14504
+BLUE LANTERN POST-SHIPMENT END USE CHECK ON
+Thu Feb 18 00:00:00 +0100 2010
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0008
+RR RUEHWEB
+
+DE RUEHC #4504 0491516
+ZNR UUUUU ZZH
+R 181514Z FEB 10
+FM SECSTATE WASHDC
+TO RUEHJA/AMEMBASSY JAKARTA 0000
+INFO RUEHLO/AMEMBASSY LONDON 0000
+RUEHGP/AMEMBASSY SINGAPORE 0000
+RUEAIIA/CIA WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DC 0000UNCLAS STATE 014504 
+ 
+SIPDIS 
+FOR ECON ELIZABETH L. PERRY 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC ID KOMC SN UK
+SUBJECT: BLUE LANTERN POST-SHIPMENT END USE CHECK ON 
+LICENSE 050137188 
+ 
+¶1.  This is an action message.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post assistance in conducting a 
+post-shipment check for the export of F-16 aircraft brake 
+parts to Indonesia via the United Kingdom.  Post is requested 
+to complete this Blue Lantern check within 45 days.  Lack of 
+response to a Blue Lantern check will affect pending and 
+future licenses involving parties to this license. 
+ 
+¶3.  Reason for request: the original license application 
+listed a Singapore company as a Foreign Intermediate 
+Consignee.  This company was removed from the license before 
+approval due to concerns about possible diversion of the 
+commodity.  The Department now wishes to conduct a 
+post-shipment check to confirm receipt of the commodity by 
+the Foreign End User. 
+ 
+¶4.  ACTION: Please contact the Foreign End User, Indonesian 
+Air Force, and confirm its receipt of the exact quantity and 
+specific type of the commodities listed below.  Please also 
+confirm intended use of the commodity.  END ACTION. 
+ 
+¶5.  License Information: 
+ 
+DDTC Case Number 050137188 
+ 
+QUANTITY/COMMODITY: 
+ 
+50       Packing, P/N 5003551 
+ 
+100      Spring, P/N 5003195 
+ 
+50       Grip Pin, P/N 5003723 
+ 
+LICENSE VALUE: USD 18,600.00 
+ 
+APPLICANT: 
+ 
+Meggitt USA Inc. 
+1955 North Surveyor Avenue 
+Simi Valley, California 93063 USA 
+ 
+SOURCE: 
+ 
+Meggitt Aircraft Braking Systems Corporation 
+1204 Massillon Road 
+Akron, Ohio 44306 USA 
+ 
+FOREIGN CONSIGNEES: 
+ 
+Saywell International 
+Aviation Centre, Downlands Business Park 
+Worthing, West Sussex, BN14 9LA 
+UK 
+ 
+PT Dasakarsa Mustika Manunggal 
+Jl. Nelanpoli No. 46 
+Jakarta 11540 
+INDONESIA 
+ 
+FOREIGN END USER: 
+ 
+Indonesian Air Force 
+ 
+STATEMENT OF PURPOSE: 
+ 
+For use on Indonesian Air Force F-16 aircraft brakes. 
+ 
+¶6.  Additional documentation submitted in support of the 
+license application: 
+ 
+A)  Saywell International purchase order number 101156CW, 
+dated 16 OCT 2008, citing Indonesian Air Force Contract No. 
+048/1125/OA/OR/2008/AU. 
+ 
+B)  PT Dasakarsa Mustika Manunggal purchase order number 
+PO-P18002-SWL, dated 10 September 2008. 
+ 
+C)  Indonesian Air Force Non-Transfer and End User 
+Certificate number B/6797/IX/2008/Disadaau, signed by Anggoro 
+(dated September 24, 2008), Air First Marshal, Chief Of The 
+Procurement Service. 
+ 
+¶7.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the DDTC Case Number 
+in the subject line.  POC on this case is Peter Sabatini, 
+PM/DTCC, phone: 202-663-2819; email: sabatinipj@state.gov, 
+sabtinipj@state.sgov.gov, psabatini@state.ic.gov.  The most 
+current Blue Lantern Guide Book is available at 
+http://fsi.state.gov/fsi/spas/default.asp?ID= 1588. 
+Department thanks Post for its assistance in this matter. 
+CLINTON

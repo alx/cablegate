@@ -1,0 +1,154 @@
+09STATE5792
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE  CHECK
+Thu Jan 22 00:00:00 +0100 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0016
+RR RUEHWEB
+
+DE RUEHC #5792 0221758
+ZNR UUUUU ZZH
+R 221750Z JAN 09
+FM SECSTATE WASHDC
+TO RUEHKB/AMEMBASSY BAKU 0000
+RUEHTV/AMEMBASSY TEL AVIV 0000
+INFO RUETIAA/DIRNSA FT GEORGE G MEADE MD 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 005792 
+ 
+SIPDIS 
+BAKU FOR ROBERT J. GAVERICK 
+POL-ECON CHIEF 
+TEL AVIV FOR BENJAMIN COOPER 
+POL 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC AJ IS
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE  CHECK 
+ON APPLICATION 050139416 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1.  This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade 
+Controls Compliance (PM/DTCC)requests Posts' 
+assistance in conducting a pre-license check 
+on application 050139416 for the export of 
+electronic components and spare parts to 
+Azerbaijan. Posts are requested to complete 
+this Blue Lantern check within 30 days. 
+Lack of response to Blue Lantern inquiries will 
+affect pending and future licenses involving parties 
+to this license. 
+ 
+¶3. Reason for Request:  Confirm bona fides of 
+transaction; diversion concerns. 
+ 
+¶4. Action Tel Aviv:   Department requests that Post 
+contact Foreign Consignee Elbit Systems, Tadiran to 
+confirm its role in the proposed transaction, and 
+determine whether or not it has proper supporting 
+documentation, including purchase orders from the 
+Azerbaijan MOD.  Ask Elbit Systems-Tadiran if it is 
+one of Azerbaijan MOD's regular suppliers/contractors, 
+and obtain the specifics of any other contracts 
+this entity currently holds with the MOD.  Emphasize 
+that the unauthorized re-export or retransfer of 
+United States Munitions List (USML) items is strictly 
+prohibited. 
+ 
+Action Baku:  Confirm that the Azerbaijan MOD ordered 
+the exact type and quantity of USML items listed on the 
+license application for the specific purpose from Elbit 
+Systems-Tadiran.  Verify the foreign consignee's specific 
+role in this transaction, and determine how long the 
+Azerbaijan MOD has done business with this entity.  Ask 
+the Azerbaijan MOD if Elbit Systems is one of its regular 
+suppliers/contractors, and obtain the specifics of any other 
+contracts this entity currently holds with the MOD. 
+ 
+ 
+End Action Request. 
+ 
+¶5. Details of license application: 
+ 
+DTC Case: 050139416 
+ 
+QUANTITY/COMMODITY: 
+ 
+716 12V/24V DC Converters; ABP-12V/UP/24V/25A-TAD 
+ 
+ 
+License Value: USD $1,034,620. 
+ 
+SELLER: 
+ 
+Automated Business Power, Inc. 
+Attn:  Dominic D'Angella 
+7611-J Rickenbacker Drive 
+Gaithersburg, MD  20879 
+301-977-5570 
+ 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Elbit Systems Land and C4I-Tadiran, Ltd. 
+Yaron Elnir, Senior Director of Purchasing 
+26 Hashoftim Street 
+P.O.Box 267 
+Holon 
+58102 Israel 
+Tel: 972 3 5574342 or 972 3 5574345 
+Fax: 972 3 5575301 or 972 3 5574301 
+Email: yaron@elbitsystems.com 
+Website: www.elbitsystems.com/landc4i-tadiran 
+ 
+ 
+END-USER: 
+ 
+Major Arif Hasanov Hasan 
+Fazil Ashumov, 555 Unit Commander 
+Ministry of Defense 
+Republic of Azerbaijan 
+City of Baku 
+3 Parliament Avenue 
+AZ1073 Azerbaijan 
+Tel: 99412-4395904 
+Fax: 99412-4386156 
+ 
+ 
+PURPOSE: 
+ 
+To be integrated into vehicle-based radio systems installed 
+on military vehicles operated by the Azerbaijan Ministry of 
+Defense.  Equipment will supply 24V power to VHF CNR-9000 
+radios to be installed by Tadiran on command cars. 
+ 
+¶6. Submitted in support of the license application were the 
+following documents 
+(PM/DTCC will fax documentation to Posts upon request): 
+ 
+-- DSP-83 Nontransfer and Use Certificate dated 
+November 2008; 
+ 
+-- Tadiran Communications Ltd. Purchase Order No. 750894 
+dated June 2008. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Rachael-Therese S. Joubert-Lin, 
+Phone: 202-663-2950; Email: JoubertLinRS@state.gov; 
+SIPRNET:  JoubertLinRS@state.sgov.gov. 
+The Blue Lantern Guidebook (ref) is available as a PDF file 
+in the Bunche Library's E-Book Collection on the DOS 
+Intranet: 
+http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶8. Department is grateful for Posts' assistance in this 
+matter. 
+CLINTON

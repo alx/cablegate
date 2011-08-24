@@ -1,0 +1,167 @@
+09THESSALONIKI12
+THESSALONIKI:  INVITATION TO TRANSBORDER COOPERATION
+Mon Mar 16 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Thessaloniki
+VZCZCXRO0935
+PP RUEHIK RUEHPOD
+DE RUEHIK #0012/01 0751956
+ZNR UUUUU ZZH
+P R 161956Z MAR 09
+FM AMCONSUL THESSALONIKI
+TO RUEHAK/AMEMBASSY ANKARA PRIORITY 0031
+RUEHBM/AMEMBASSY BUCHAREST PRIORITY 0014
+RUEHSF/AMEMBASSY SOFIA PRIORITY 0020
+RUEHSQ/AMEMBASSY SKOPJE PRIORITY 0027
+RUEHBW/AMEMBASSY BELGRADE PRIORITY 0013
+RUEHTI/AMEMBASSY TIRANA PRIORITY 0021
+RUEHPOD/AMEMBASSY PODGORICA PRIORITY 0003
+INFO RUEHC/SECSTATE WASHDC 0427
+RHMFIUU/FBI WASHINGTON DC
+RUEHTH/AMEMBASSY ATHENS 0316
+RUEHIK/AMCONSUL THESSALONIKI 0470UNCLAS SECTION 01 OF 02 THESSALONIKI 000012 
+ 
+SIPDIS 
+ 
+DEPT. FOR EUR/SE 
+ 
+E.O. 12958: N/A 
+TAGS: PGOV PHUM PREL ECON ECPS SMIG SNAR SOCI GR TU
+RO, AL, MK, BU, YI, MW 
+SUBJECT: THESSALONIKI:  INVITATION TO TRANSBORDER COOPERATION 
+CONFERENCE ON CYBER CRIME, JUNE 1-4 
+ 
+¶1.  ConGen Thessaloniki is pleased to announce a training 
+seminar for southeast European police officers and prosecutors 
+on "Trans-border Law Enforcement Cooperation to Combat Cyber 
+Crime" in the northern Greek border city of Drama on June 1-4, 
+¶2009.  ConGen Thessaloniki is organizing the seminar in 
+cooperation with the U.S. Federal Bureau of Investigation and 
+the Southeast Europe Cooperation Initiative (SECI).   This will 
+be the fourth consecutive year Post has held a regional seminar 
+on trans-border cooperation, with previous topics including 
+trafficking in persons, narcotics trafficking, illegal 
+immigration and weapons smuggling.  As in previous years, FBI 
+will cover the cost of foreign participants' transportation, 
+lodging and per diem during the seminar.  Please see para 6 
+below for a draft program of the seminar.  Posts that wish to 
+send participants are asked to respond by March 26, and to 
+provide a list of participants by April 2. 
+ 
+¶2.  The primary aim of the training seminar is to build capacity 
+in cyber forensics and promote practical cooperation among 
+operational level police and prosecutors from countries of 
+southeast Europe.  We can accommodate up to three (3) 
+participants from each country (two police and one prosecutor), 
+and invite Embassies Ankara, Sofia, Skopje, Belgrade, Tirana, 
+Podgorica and Bucharest each to identify, vet and nominate three 
+participants.  (There will also be three participants from 
+Greece.)  We request that Posts nominate English-speaking 
+participants, in order to facilitate discussion and to reduce 
+conference translation costs.   Posts that are unable to find 
+English-speaking participants should contact us to discuss 
+alternative arrangements. 
+ 
+¶3.  The seminar will develop cyber forensic investigative 
+skills:  the use of computers and information technology to 
+investigate a wide variety of crimes that at some point in their 
+planning or execution involved the use of computers (or smart 
+phones).   Such crimes include, for example, credit card fraud, 
+bank fraud, identity theft, robbery, child pornography, rape, 
+kidnapping, murder and terrorism.  The seminar will focus on 
+hands-on training on techniques, recent successes and how 
+cooperation led to success, case studies and the American 
+experience in fighting cyber crime (almost any crime involving 
+the use of computers).  The seminar is designed for participants 
+who have responsibility for investigating or prosecuting cyber 
+crime but are not yet experts.  Discussion will include best 
+practices in investigation and prevention, including exchange of 
+information and other cooperation among neighboring countries. 
+The seminar will take place in a classroom-type setting with 
+audiovisual equipment and a laptop for each participant. 
+Participants should be able to use a laptop with Windows 
+operating system and a standard English keyboard, and have at 
+least basic knowledge of how to use the internet.  FBI and other 
+USG experts will provide instruction and lead discussions in 
+English. 
+ 
+¶4.  The city of Drama is approximately 150 km from Thessaloniki 
+and 50 km from the Bulgarian border.  Drama hosts an annual 
+international film festival and is headquarters for some of 
+Greece's finest red wine producers.  The seminar will be held at 
+the "Kouros" Hotel.  Participants will stay at the "Kouros" 
+hotel, 3 km outside of town, towards the neighboring city of 
+Kavala. 
+ 
+¶5.  Fund cites and other practical details will be provided in a 
+separate message.  We are aware that in previous years a few 
+participants have encountered difficulties with visas and other 
+travel arrangements.  We are working closely with Greek 
+authorities and conference organizers to avoid such difficulties 
+this year.   For information, questions or to inform us of your 
+post's interest in participating, please contact George 
+Pelargidis at PelargidisG@state.gov or phone:  +30 2310 242 905 
+X3113. 
+ 
+¶6.  Seminar schedule: 
+ 
+Monday, June 1, 2009 
+ 
+PM              Arrival and Registration of Participants 
+19:00           Reception and Welcoming Remarks 
+ 
+Tuesday, June 2, 2009 
+ 
+THESSALONI 00000012  002 OF 002 
+ 
+ 
+ 
+        09:00 -09:15    Opening - Introductions 
+        09:15 -10:45    Review and Identification of Various 
+Types of Digital Evidence 
+        10:45-11:00     Break 
+        11:00-12:30     Continuation of the Review of Various Types of 
+Digital Evidence 
+        12:30-13:30     Lunch - discussion of national challenges, 
+practices 
+                13:30-15:00     Online Reconnaissance - The Study of Who 
+Has Been Where on the Computer 
+                15:00-15:15     Break 
+                15:15-16:30     Volatile Data Discussion- The Study of 
+Monitoring Cyber Activity While It Is Occurring (as compared to 
+exploitation of seized information) 
+                16:30-1730      Discussion, question and answer 
+ 
+Wednesday, June 3, 2009 
+ 
+        09:00 -10:30    Forensic Imaging - The Copying of Hard 
+Drives 
+        10:30-10:45     Break 
+        10:45-12:30     Introduction to the Forensic Tool Kit & Case 
+Setup 
+        12:30-13:30     Lunch - discussion of national challenges, 
+practices 
+                13:30-15:00     Forensic Analysis "Hands On"-Exploiting 
+the Computer with Key Word Searches 
+                15:00-15:15     Break 
+                15:15-16:00     Forensic Analysis-"Hands On" Case Study- 
+Graphic Analysis 
+                16:00-17:00     Forensic Analysis-"Hands On" Segment on 
+Recovering and Analyzing 
+                        Forensic Data 
+                17:00-17:30     Discussion, question and answer 
+ 
+Thursday, June 4, 2009 
+ 
+        09:00-11:00     Forensic Analysis-"Hands On" Case 
+Study-Practical Problem 
+        11:00-11:15     Break 
+        11:15-12:30     Forensic Analysis-"Hands On" Case 
+Study-Practical Problem 
+        12:30-13:30     Lunch - discussion of regional cooperation 
+        13:30-14:30     Vista Forensics-The Study of Cyber Forensics 
+on Systems Using Vista 
+        14:30-14:45     Break 
+        14:45-15:15     Closing Ceremony 
+        15:35           Departure 
+YEE

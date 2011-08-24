@@ -1,0 +1,75 @@
+05ANKARA395
+TURKEY'S TELECOM INFRASTRUCTURE AND CONNECTIVITY
+Tue Jan 25 00:00:00 +0100 2005
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ankara
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS ANKARA 000395 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+STATE FOR EUR/SE, EB/IFD, AND EB/CIP 
+USDOC FOR 4212/ITA/MAC/OEURA/CPD/DDEFALCO 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS EINV TU
+SUBJECT: TURKEY'S TELECOM INFRASTRUCTURE AND CONNECTIVITY 
+WEAK, BUT IMPROVING 
+ 
+REF: A. 04 ANKARA 6484 
+     ¶B. 04 ANKARA 6673 
+ 
+SENSITIVE BUT UNCLASSIFIED.  PLEASE HANDLE ACCORDINGLY. 
+ 
+¶1.  (SBU)  Summary: The severing of a key fiber optic cable 
+link with Europe shows continued weakness in Turkey's telecom 
+infrastructure and connectivity.  Turk Telekom's progress in 
+building up alternative links appears to have lessened the 
+impact of this outage, but the system remains vulnerable and 
+lacking in back-up capacity.  End Summary. 
+ 
+¶2.  (SBU)  A key fiber optic cable passing under the Sea of 
+Marmara to Europe was severed about two weeks ago, negatively 
+affecting Turkey's international telephone and internet 
+service from the state owned monopoly Turk Telekom. 
+According to various sources, service capacity had been 
+reduced 30-40 %.  The cause of the cable break was unknown, 
+but may have been caused by earthquake activity.  One major 
+Istanbul-based corporate user told EconOff that their 
+internet connectivity had been down for a full day, and they 
+still were not comfortable with reliable connectivity for 
+their offshore IT functions.  This user said they would keep 
+their satellite connection as a back-up.  Turk Telecom has 
+been unable to tell users when repairs would be complete. 
+ 
+¶3.  (SBU)  This is not Turkey's first wake-up call for the 
+need for greater alternative links to assure connectivity for 
+international telecom users.  Turk Telecom appears to have 
+suffered less loss of service this time compared to the 
+outage last year when an earthquake in Algeria disrupted 
+internet access for nine days, including access blackouts for 
+several days throughout Turkey.  Turk Telecom has been 
+investing in increased back-up capacity, but at the same time 
+faces increasing demand.  One Turk Telekom employee told 
+EconOff that despite fears that high-speed ADSL users would 
+face problems, in fact these users were experiencing minimal 
+negative impact.  He asserted that Turk Telekom was making 
+needed improvements.  He also claimed that - like in the U.S. 
+- realization of full liberalization and competition would 
+take time. 
+ 
+¶4.  (SBU)  Comment: The absence of reliable, affordable 
+international telecommunications is one of the many 
+impediments to increasing foreign investment and more fully 
+integrating Turkey into the global economy.  Increasing 
+liberalization and competition, albeit slower than expected, 
+in combination with potential privatization, is providing 
+incentive for Turk Telekom to become more customer service 
+oriented.  A few companies are starting to compete with Turk 
+Telekom for long distance and international service, but they 
+rely on inter-connection to the Turk Telekom grid.  Satellite 
+service provides back-up for corporate users, but individual 
+consumers must still rely on the monopoly infrastructure. 
+End Comment. 
+EDELMAN

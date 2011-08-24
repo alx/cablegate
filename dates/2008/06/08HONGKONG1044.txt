@@ -1,0 +1,156 @@
+08HONGKONG1044
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Thu Jun 12 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHHK #1044/01 1640142
+ZNR UUUUU ZZH
+R 120142Z JUN 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 5055
+RHMFIUU/HQ BICE WASHINGTON DC
+RUEHGP/AMEMBASSY SINGAPORE 3874UNCLAS HONG KONG 001044 
+ 
+USDOC FOR 532/OEA/MNICKSON-DORSEY /GCARDAK 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+SINGAPORE FOR FCS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP ETRD ETTC HK
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+ACE PRESSUREWELD INTL 
+ 
+REF: A) USDOC 01398 B) USDOC 01399 C) USDOC 01340 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Regional Export Control Officer Philip Ankel (ECO) 
+conducted three post shipment-verifications (PSVs) at Ace 
+Pressureweld Intl., 31 Senoko Loop, Singapore (ACE). The items in 
+question are as follows: one three inch CP 5000 valve, 50 Leybold 
+Dip 3000, 30 Diff-Therm Platen Htr., 30 Diff-Therm Platen Htr, 20 
+studs, 25 shafts, 720 O rings, 20 diodes, 100 latches and 60 
+modules.  The items were sent in three shipments on October 25, 
+2007, August 15, 2007 and September 6, 2007.  The items are most 
+likely not listed on the Commerce Control List (CCL) and are 
+therefore likely classified as EAR99 meaning that they may be 
+exported/reexported to virtually all destinations, end-users/uses 
+except sanctioned countries and proliferation or prohibited 
+end-uses/users. The exporters were Dalton Electric Heating of 
+Ipswich, Massachusetts, World Bridge Corporation of Gardena, 
+California and Maxon Corporation of Muncie, Indiana. 
+ 
+¶3.  According to the Singapore companies registry, ACE was 
+registered in 1973 and its registered share capital is the Singapore 
+dollar equivalent of approximately USD 1.7 million.  Its directors 
+are listed as Singapore citizens, Rocque Kaw Jit Khim (with 
+Singapore ID S0234983C), Kwan Kai Phang Willy (with Singapore ID 
+S0428041E) and Ong Moi Moi (with Singapore ID S1553451F).  Messirs 
+Rocque Kaw Jit Khim and Kwan Kai Phang Willy are also the company's 
+sole shareholders. 
+ 
+¶4.  A review of the company's promotional materials on EC21 (a 
+global B2B marketplace web site) reveals that the company markets 
+itself has a leading engineering company that has diversified to 
+become a distributor and trading house.  It offers EDM wires, metal 
+plates, flanges, tubes, valves, drilling equipment, among others 
+(http://aceweld.en.ec21.com).  The web information further states 
+that the company has been supplying customers in Myanmar, Kuwait, 
+India, Vietnam, Indonesia and Malaysia. 
+ 
+¶5.  On April 22, 2008, the ECO, accompanied by a representative of 
+Singapore Customs, visited the company and met with Ms. Jane Ang, 
+Senior Manager, Ms. Nancy Ong, Executive Director and Mr. Willy 
+Kwan, Chairman. Mr. Kwan provided an overview of the ACE's 
+activities.  He stated that the company was established in 1973 as a 
+engineering and machine shop for the oil and gas sector.  In the 
+1980s, the company diversified and became a trading/sourcing 
+company.  At the present time, the majority of its business is 
+related to importing and exporting various spare parts for the oil 
+and gas sector as well as for locomotive upgrades.  Its customers 
+are in Myanmar, Indonesia, Australia, Europe, India and Vietnam.  It 
+is also active in the pharmaceutical, paper and textiles sectors. 
+The Singapore office represents primarily the back room operations 
+of the company while sales are done overseas (ECO Note:  the meeting 
+took place in a warehouse building under renovation in which there 
+are roughly 20 desks staffed with ACE employees). 
+ 
+¶6.  Mr. Kwan also described the ACE's joint venture with U.K. 
+Company Romic Group (www.romic.co.uk).  The back of Mr. Kwan's 
+business card lists the joint venture as Romic-Ace International 
+Pte. Ltd.  Romic is involved in the refurbishment of railway 
+locomotives on behalf of the Iranian national railway company.  A 
+Mr. Hugo from Canada overseas the supervision of the overhaul work 
+while a Mr. Robert Coleman of Romic signs the applicable agreements 
+with Iran on behalf of Romic-Ace International Pte. Ltd.  In 
+addition, Romic-Ace also supplies certain oil and gas parts to Iran 
+although Mr. Kwan stated that the company does not receive many of 
+these types of requests. 
+ 
+¶7. ACE representatives provided information concerning the three 
+shipments that are the subject of the PSVs.  As to the first 
+shipment (exported on or about September 6, 2007), Mr. Kwan stated 
+that these items (oil and gas equipment) has been shipped to 
+Polyacryl Iran Corp. in Holland (apparent web site 
+at:http://www.iran-export.com/ exporter/company/ 
+polyacril/index.htm). ECO reviewed the Purchase Order (JIRAI-20081) 
+and notes that it was signed by a Mr. Saghafian in Holland.  The 
+items were shipped to Holland on September 27, 2008.  Mr. Kwan 
+stated that an order for the items had been placed with the U.S. 
+exporter's office in Singapore (Maxon).  Maxon is an occasional 
+supplier and, according to Mr. Kwan, it did not know the final 
+destination of the items when it supplied them to ACE. 
+ 
+¶8.  As to the second shipment (from U.S. Exporter World Bridge), ACE 
+representatives stated that these items were railway parts destined 
+ 
+ 
+to Iran as part of a Romic-Ace service contract with Iranian 
+railways. By subsequent e-mail, the company provided a Bill of 
+Lading indicating shipment to consignee Bank Melli Iran, Hessabhaye 
+Dowlati Branch, Tehran.  The notify address is listed as Iranian 
+Islamic Republic Raiways, No 436, 4th Floor, Shahid, Kalantary Bldg. 
+Railway SQ. 
+ 
+¶9.  As to the third shipment (from U.S. Exporter Dalton Electric 
+Heating Co., Inc.), ACE representatives stated that the buyer was 
+Kath Associates (PVT) Ltd., 76-E Hill View Plaza, Blue Area, 
+Islamabad, Pakistan.  ACE was unaware of the end-use of the items 
+that were shipped on September 14, 2007.  ECO notes that the value 
+of the shipment is listed as FOB Singapore USD 60,000 while the 
+company apparently paid the supplier USD 11,489 for the items. 
+ 
+¶10.  Mr. Kwan also provided the ECO with a letter from Singapore 
+Customs dated July 12, 2007.  That letter makes reference to a 
+meeting between ACE and Singapore Customs and proforma invoice 
+Q7API-10229 dated April 12, 2007).  That letter states that the 
+aluminium rods referenced in the proforma invoice may be controlled 
+for export from Singapore and that an export license is likely 
+required to export these rods.  Mr. Kwan stated that the company had 
+cancelled this order.  ACE provided ECO with an Irrevocable 
+Documentary Credit No.0394-40-18796 from the National Bank of 
+Pakistan in reference of this shipment. 
+ 
+¶11.  ECO talked with ACE representatives at length about U.S. export 
+and reexport controls.  Company representatives affirmed their 
+commitment to comply with U.S. export/reexport control rules.  ECO 
+provided company representatives with extensive information about 
+U.S. controls including links to the BIS web site's information on 
+lists to check, the Commerce Control List, Know Your Customer 
+Guidance, Export Management Systems as well as information about 
+OFAC sanctions programs involving Myanmar and Iran. 
+ 
+¶12.  At the time visited, ACE did not appear to be a suitable 
+recipient of U.S. origin controlled items since it is likely that 
+such items will be diverted to Iran or other potential buyers of 
+concern.

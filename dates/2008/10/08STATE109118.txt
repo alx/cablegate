@@ -1,0 +1,126 @@
+08STATE109118
+RESPONSE TO QUESTIONS OF SEMICONDUCTOR EXPORT
+Fri Oct 10 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Secretary of State
+R 101952Z OCT 08
+FM SECSTATE WASHDC
+TO AIT TAIPEI 0000
+INFO AMEMBASSY BEIJING
+AMCONSUL CHENGDU
+AMCONSUL GUANGZHOU
+AMCONSUL HONG KONG
+AMCONSUL SHANGHAI
+AMCONSUL SHENYANG
+USDOC WASHINGTON DC 0000
+SECDEF WASHINGTON DCUNCLAS STATE 109118 
+ 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: CH ECON ETRD ETTC KSTC PARM PREL TW
+ 
+SUBJECT: RESPONSE TO QUESTIONS OF SEMICONDUCTOR EXPORT 
+CONTROLS 
+ 
+REF: TAIPEI 1305 
+ 
+¶1. (U) This cable provides answers to the questions posed by 
+Taiwan in reftel concerning the licensing of dual-use 
+semiconductor manufacturing equipment (SME) for use in China. 
+ AIT is requested to provide the following answers to the 
+questions posed by Taiwan. 
+ 
+¶2.  (U) Would the USG have any objection to Taiwan lowering 
+its minimum feature size limit to 0.13 microns (130 nm)? The 
+USG would not object to Taiwan lowering its minimum feature 
+size limit to 130 nm for Taiwan firms established in the PRC. 
+ The USG has approved license applications for SME to certain 
+FABS/foundries in the PRC with conditions at the 130 nm 
+technology node. 
+ 
+¶3. (SBU)  What are the current U.S. restrictions on 
+semiconductor manufacturing equipment sold or transferred to 
+entities in the PRC?  The USG reviews each individual license 
+application for SME to the PRC on a case-by-case basis based 
+on the end-use, end-user, and in particular, the material 
+contribution it could make to China,s military modernization. 
+ 
+¶4.  (SBU) What conditions are placed on these exports? 
+License conditions may vary depending on the consignee and 
+end-use, however, in general, an approved license for the 
+export of SME from the U.S. to the PRC would contain 
+conditions that address the following: 
+ 
+a.  Use restrictions with regard to a specific technology node 
+ 
+b.  Use restrictions for military end-users and embargoed 
+destinations 
+ 
+c.  Compliance assurances from the consignee 
+ 
+d.  Restrictions on modifications and upgrades 
+ 
+e.  Restrictions on re-export, transfer, and resale 
+ 
+f.  Use restrictions limiting the equipment for the 
+production of uncontrolled devices. 
+ 
+¶5. (U) Are U.S. restrictions under review for possible 
+further relaxation?   Revisions to SME controls must be 
+approved by all Wassenaar Arrangement participating states 
+prior to implementation of those changes by each state.  Each 
+year, the USG petitions the WA on appropriate updates to the 
+control criteria in the area of SME and integrated circuits. 
+ 
+¶6. (SBU) Could the USG provide details on what the USG 
+approved for the Intel semiconductor foundry currently under 
+construction in China?  The USG is precluded by law from 
+providing details on individual export license transactions. 
+ 
+¶7.  (U) How might U.S. export control regulations affect the 
+re-export from Taiwan to China of foundry production 
+equipment originally procured from the U.S.?  Most SME does 
+not require a license for export from the U.S. to Taiwan 
+(except certain MOCVD systems, MBE systems, and in some 
+cases, wafer handling systems), however, the re-export of SME 
+originally procured from the U.S. that meets the criteria as 
+defined in Supplement No. 1 to Part 774, Category 3B001 of 
+the Export Administration Regulations from the Taiwan to the 
+PRC would require an approved re-export license from the USG. 
+ Approved re-export licenses will be conditioned as detailed 
+in (4) above. 
+ 
+¶8. (U) Although Taiwan did not specifically request U.S. 
+feedback on this issue, please comment on the need to control 
+technology transfers as par of effectively controlling regime 
+items?  The U.S. controls technology for the development and 
+production of SME in the same manner as the actual equipment. 
+ This technology is useful in establishing an indigenous 
+production capability for SME and therefore, a concern to the 
+USG.  Technology license applications are also reviewed on a 
+case-by-case basis.  The USG has approved license 
+applications for the transfer of development and production 
+technology to companies in the PRC on a limited basis; mostly 
+to U.S. subsidiaries.  The U.S. believes that control of 
+technology is equally if not more important than the control 
+of actual items.  The U.S. would note that in some case the 
+multilateral regimes control the technology for development 
+and production of an item even when the actual item itself is 
+not controlled. 
+ 
+¶9. (U) The U.S. appreciates the chance to respond to Taiwan 
+on these issues and looks forward to continuing this 
+dialogue. 
+RICE 
+ 
+ 
+NNNN 
+ 
+
+
+
+End Cable Text

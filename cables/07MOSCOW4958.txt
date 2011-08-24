@@ -1,0 +1,115 @@
+07MOSCOW4958
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: ST.
+Thu Oct 11 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0023
+PP RUEHWEB
+
+DE RUEHMO #4958 2841211
+ZNR UUUUU ZZH
+P 111211Z OCT 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 4546
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 004958 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: ST. 
+PETERSBURG PHYSICS AND TECH CENTER FOR RESEARCH AND 
+EDUCATION, ST. PETERSBURG, RUSSIA, LICENSE NO. D371956 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, St. Petersburg Physics and Tech Center for 
+Research and Education, St. Petersburg, Russia. The 
+company is listed on BIS license application D371956 
+as the ultimate consignee of one Gen. III MBE System 
+per quote no: NPG061006 and serial no: 703, one 8200 
+cryopump compressor, one CT-8 cryopump and two 40' 
+helium lines.  These items are controlled for national 
+security and anti-terrorism reasons under ECCN 3B001. 
+The licensee is Veeco Instruments Inc., 100 Sunnyside 
+Boulevard, Woodbury, NY 11797. 
+ 
+¶3. On September 28, 2007, Export Control Attache 
+Donald Pearce and FSN Natalya Shipitsina met with 
+Anton Egorov, Chief Scientist, St. Petersburg Physics 
+and Technical Center for Research and Education of the 
+Russian Academy of Science (PTC), St. Petersburg, 
+Russia. The meeting was conducted in the lobby of the 
+Angleterre Hotel in central St. Petersburg. 
+ 
+¶4. Mr. Egorov stated that due to a visit by a 
+delegation from the Federal Security Service of the 
+Russian Federation (Russian abbreviation FSB), it was 
+impossible to utilize the center's meeting room. 
+Additionally, as the security clearance for ECO Pearce 
+had not been granted, access to the storage area where 
+the commodities are being stored was denied.  Mr. 
+Egorov offered to allow FSN Shipitsina to gain access, 
+however, due to the contract agreement the shipping 
+cartons would have to remain sealed. 
+ 
+¶5. NOTE: Prior to the scheduled meeting, FSN 
+Shipitsina was advised that applications for security 
+clearance required for access to the PTC facilities, 
+and was told the required permits would arrive in time 
+for our visit.  On September 27, after arriving in St. 
+Petersburg, we were informed that those permits were 
+not yet approved, and that the meeting facilities at 
+the center were going to be used by the FSB 
+delegation.  We agreed to meet Mr. Egorov at the hotel 
+and requested he bring documents to establish the bona 
+fides of the transaction and the organization.  END 
+NOTE. 
+ 
+¶6. The Ioffe Physical-Technical Institute of the 
+Russian Academy of Science established the PTC in 2004 
+to consolidate research projects, organize 
+conferences, and provide specialized educational 
+facilities for students of physics.  The PTC is headed 
+by Nobel laureate Zhores Alfiorov, who also serves as 
+Vice-President of the Russian Academy of Science and a 
+member of the Duma, the legislative body of the 
+Russian Federation. The center has programs for 
+students in 9th through 12th Grades as well as at the 
+University and Post-Graduate levels.  Up to 250 
+students per semester attend classes and perform 
+experiments in the centers laboratories. 
+ 
+¶7. The equipment in reftel is to be installed in the 
+semiconductor laboratory, which is located in the 
+second building of the PTC.  The laboratory currently 
+contains a Riber 49 MBE system for production of 
+epiwafers used in the fabrication of electronic, 
+optoelectronic and laser devices.  The equipment in 
+reftel will be assembled by representatives of Veeco, 
+with a target date of December, 2007 for the 
+installation.  A post-shipment verification could be 
+easily accomplished during the installation process. 
+ 
+8.Recommendations: While Post believes that the St. 
+Petersburg Physics and Tech Center for Research and 
+Education, St. Petersburg, Russia would be a reliable 
+recipient of sensitive U.S. origin commodities, the 
+findings are severely limited as no site visit was 
+allowed, the commodities are still in portable form, 
+and no verification could be conducted by the ECO. 
+ECO recommends a follow-up PSV be conducted concurrent 
+with the installation of the equipment. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

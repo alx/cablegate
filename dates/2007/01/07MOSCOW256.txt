@@ -1,0 +1,95 @@
+07MOSCOW256
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Tue Jan 23 00:00:00 +0100 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHMO #0256 0230815
+ZNR UUUUU ZZH
+P 230815Z JAN 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 6683
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000256 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/DMUSLU 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+RUSSIAN FEDERAL RESEARCH AND TECHNOLOGICAL INSTITUTE 
+OF BIOLOGICAL INDUSTRY, SCHELKOVSKY DIST, RUSSIA, 
+LICENSE NO. D368202 
+ 
+REFTEL: 1) 06 USDOC 05898, 2) 06 MOSCOW 008630 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Russian Federal Research and Technological 
+Institute of Biological Industry (Russian abbreviation 
+VNITIBP), Russia. The company is listed on BIS license 
+application D358202 as the ultimate consignee of a 
+mobile pilot plant fermenter. These items are 
+controlled for chemical or biological warfare reasons 
+under ECCN 2B352. The licensee is New Brunswick 
+Scientific Co. Inc., 44 Talmadge Road, Edison, NJ 
+¶08818. 
+ 
+¶3. VNITIBP was the subject of a pre-license check for 
+D368202 reported in reftel 2.  On August 3, 2006, 
+Export Control Attache Donald Pearce and FSN Natalya 
+Shipitsina met with Eugene Ruban, Deputy Director of 
+VNITIBP at his office at the Kashintsevo facility. 
+Mr. Ruban stated that VNITIBP would utilize the 
+fermenter for the development and production of 
+vaccines and biological materials.  Mr. Ruban stated 
+that he was familiar with U.S. export controls and 
+with the license conditions.  Mr. Ruban was informed 
+of the possibility of a post shipment verification, 
+and agreed to allow the team access to the fermenter 
+in the future should it be necessary. 
+ 
+¶4. Initial attempts to contact Mr. Ruban were 
+unsuccessful.  FSN Shipitsina called the contact 
+numbers provided by Mr. Ruban, which included both his 
+office and mobile telephone numbers, neither of which 
+were answered initially.  Another employee answered 
+the line, and stated that Mr. Ruban was not in the 
+office.  Initially, the employee would not pass a 
+message to Mr. Ruban.  During a follow-up phone call, 
+the employee advised FSN Shipitsina that Mr. Ruban had 
+been hospitalized. 
+ 
+¶5. On January 10, FSN Shipitsina contacted Mr. Ruban 
+via his mobile telephone.  Mr. Ruban refused to meet 
+with the team, stating that end-use verification was 
+not in the terms of the sales contract.  Mr. Ruban 
+referred any future contacts to the General Director, 
+and provided a telephone number. 
+ 
+¶6. On January 10, and several times thereafter, FSN 
+Shipitsina called the number provided by Mr. Ruban. 
+The line was not answered. 
+ 
+¶7. Recommendations: Post cannot repeat cannot verify 
+that the fermenter is being used in accordance with 
+the Export Administration Regulations.  Post does not 
+repeat not consider the Russian Federal Research and 
+Technological Institute of Biological Industry 
+(VNITIBP) as a reliable recipient of sensitive U.S. 
+technology. 
+ 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

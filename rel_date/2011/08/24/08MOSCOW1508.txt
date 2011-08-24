@@ -1,0 +1,131 @@
+08MOSCOW1508
+EXTRANCHECK: PRE-LICENSE CHECK: KHRUNICHEV
+Thu May 29 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0007
+PP RUEHWEB
+
+DE RUEHMO #1508/01 1501243
+ZNR UUUUU ZZH
+P 291243Z MAY 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 8283
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001508 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/JAY HATFIELD 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: KHRUNICHEV 
+STATE RESEARCHAD PROD. SPACE CENTER, MOSCOW, RUSSIA, 
+LINCENSE NO. D395924 
+ 
+REFTEL: USDOC 02822 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a pre-license check to determine 
+the legitimacy and reliability of the end-user, 
+Khrunichev State Research and Production Space Center, 
+Moscow, Russia. The company is listed on BIS license 
+application D395924 as the ultimate consignee of 
+Radiation Tolerant Field Programmable Gate Arrays. 
+These items are controlled for national security, 
+nuclear non-proliferation reasons under ECCN 3A001. 
+The licensee is Actel Corporation, 2061 Stierlin 
+Court, Mountain View, CA  94043. 
+ 
+¶3. Please note that Khrunichev State Research and 
+Production Space Center is not/not the end-user of 
+commodity in reftel.  Khrunichev will put the 
+satellite into orbit that has the reftel commodity has 
+been integrated into.  The end-user is NPP VNIIEM, All 
+Russian Scientific and Research Institute of 
+Electromechanics with Plant named after A.G. Iosifian, 
+Moscow, Russia. 
+ 
+¶4. On May 29, 2008, Export Control Attach Peter 
+Liston and LES Natalya Shipitsina conducted the 
+requested pre-license check at the offices of NPP 
+VNIIEM, the Russian Federation Federal Space Agency, 
+Federal Government Unitary Enterprise, Research and 
+Production Enterprise, 4 Khoromny Blind Alley, Moscow, 
+Russia. The export control team met with Vasily 
+Parshin, Deputy General Director; Ilya Slobodskoy, 
+Senior Project Manager for Space Systems; and Nina 
+Pestmal, Director, Commercial Space Technologies Ltd. 
+ 
+¶5.  The Khrunichev State Research and Production Space 
+Center was created by an RF presidential decree of 7 
+June 1993 on the base of the largest producers of 
+aerospace and rocket technology: the Khrunichev 
+Machine-building Plant and the Salyut Design Bureau. 
+The Khrunichev State Research and Production Space 
+Center is one of the world' s largest aerospace 
+corporations leading the international market of space 
+services. 
+ 
+¶6.  NPP VNIIEM was founded on September 1941 for the 
+development and production of military electrical 
+engineering (communication facilities, power suppliers 
+and armament).  In the mid 1960s NPP VNIIEM became a 
+parent organization in development and manufacture of 
+spacecrafts for hydrometeorology and Earth remote 
+sensing.  Since 1963 up to 1998 more than 70 
+spacecraft such as three generations of "Meteor": " 
+Meteor-Priroda", "Resours-Ol", "Electro" have been 
+developed, launched and successfully operated in 
+orbit.  The Institute takes part in development and 
+implementing of large space programs (orbital stations 
+"Salyut", "Almaz", "Mir", "MKS", heavy rockets 
+"Proton", "Soyuz" and others).  The electrical 
+equipment designed for control and protection systems 
+of PWR type nuclear reactors and information-computing 
+systems designed for RBMK type nuclear power plants 
+have been developed by NPP VNIIEM.  At present NPP 
+VNIIEM is a multi-purpose firm and is engaged in 
+meteorological research and application projects 
+studying weather and climate. 
+ 
+¶7. According to Vasily Parshin, Deputy General 
+Director, the commodity in subject reftel, Radiant 
+Tolerant Field Programmable Gate Arrays, will become 
+part of the KANAPUS satellite project.  KANAPUS is the 
+first international joint venture undertaken by NPP 
+VNIIEM, and is being produced with Surry Satellite 
+Technology Limited (SSTL) for real-time monitoring of 
+man-caused emergency conditions and natural disasters. 
+ 
+¶8. NPP VNIIEM employs approximately 2000 scientists 
+and research specialists, of those approximately 300 
+work primarily on the KANAPUS project.  NPP VNIIEM has 
+the technical and commercial sophistication and 
+resources consistent with those of which the commodity 
+in reftel was designed.  NPP VNIIEM has a legitimate 
+need for this technology and a legitimate stated and 
+demonstrated end-use for the commodity in subject 
+ 
+ 
+reftel. 
+ 
+¶9. NPP VNIIEM is under a strict timetable in the 
+KANAPUS Satellite Project. 
+ 
+¶10. Recommendations: Post recommends NPP VNIIEM, All 
+Russian Scientific and Research Institute of 
+Electromechanics with Plant named after A.G. Iosifian, 
+Moscow, Russia, as reliable recipients of sensitive 
+U.S. origin commodities. It is requested that post be 
+notified of final disposition of the application, and 
+of any shipments for this organization in order to 
+conduct appropriate FCS follow-up and statistical 
+reporting. 
+(FCS MOSCOW/SBOZEK/PLISTON) 
+RUSSELL

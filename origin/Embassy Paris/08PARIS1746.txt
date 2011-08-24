@@ -1,0 +1,91 @@
+08PARIS1746
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK ON
+Thu Sep 18 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Paris
+VZCZCXYZ0018
+RR RUEHWEB
+
+DE RUEHFR #1746 2621345
+ZNR UUUUU ZZH
+R 181345Z SEP 08
+FM AMEMBASSY PARIS
+TO SECSTATE WASHDC 4326UNCLAS PARIS 001746 
+ 
+SIPDIS 
+ 
+STATE FOR PM/DTCC - BLUE LANTERN COORDINATOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC FR
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK ON 
+LICENSE 05-050097262 
+ 
+REF:  STATE 00078036 
+ 
+¶1. (U) Embassy contacted Defontaine planning and logistics chief, 
+Pascal Boutin (Tel: +33-02 40 67 89 07; email: 
+pascal-boutin@defontaine.com) and MOD Directorate General for 
+Armements U.S. Desk officer Maj. Eng. Damien LOUISE (Tel: + 33 1 46 
+19 67 00; email: damien.louise@dga.defense.gouv.fr) for 
+clarification of subject license. 
+¶2.  Defontaine planning and logistics chief, Pascal Boutin, informed 
+us that Defontaine SA is a wholly-owned subsidiary of ThyssenKrupp, 
+with sales in the range of $150 million annually and a leading 
+sub-contractor in aeronautics, automobile & wind power industries. 
+In response to the questions proposed (reftel), he told us: 
+--Defontaine has no MOD purchase orders. Their client is SNECMA, 
+which is the supplier of the engine M88 that supplies the Rafale 
+aircraft, so Defontaine only has SNECMA's orders. 
+--Boutin is personally not familiar with these documents (relating 
+to restrictions on U.S. Munitions List articles, regarding re-export 
+and retransfer). He indicated that Gaelle COUVE, purchaser at the 
+time of this order, was aware of the restrictions.  (Note: Post 
+encouraged Boutin to familiarize Defontaine SA more broadly with 
+USML restrictions.  End note.) 
+--Defontaine's role is to machine the raw parts purchased in the 
+ 
+U.S. and deliver them to SNECMA 
+Defontaine SA's main clients are members of SAFRAN group: SNECMA, 
+TURBOMECA, TECHSPACE, and GE aviation. 
+ 
+¶3. Maj. Louise of MOD/DGA queried Snecma for a status report, on 
+behalf of the embassy.  Snecma/SAFRAN Group M88 project manager Jean 
+Dautremont (Tel: +33-1-69-87-74-91) responded as follows (informal 
+embassy translation): 
+ 
+First of all, the reference that you indicate for the raw forged 
+part is not 307-086-304-8 but 307-086-307-8; this reference 
+corresponds to the manufacturer's reference H03074951. 
+ 
+This p/n is a raw forged part intended to manufacture (sic) a 
+finished part with p/n suffix of -0 for the M88 engine (hooding of 
+the stage 3 enclosure).  The 40 parts concerned were indeed ordered 
+by the company Defontaine SA from the U.S. company JFB Firth Rixson 
+- Forged Metals on March 3, 2008. 
+ 
+On this order, Snecma has not receives the finished parts to date 
+from Defontaine.  According to our information 
+ 
+--19 parts were delivered by Firth Rixson to Defontaire and are 
+still in Defontaine's possession at 3 rue Louis Renault - BP 329 - 
+44803 SAINT-HERBLAIN CEDEX - France. 
+ 
+--21 parts are awaiting delivery by Firth Rixson in Defontaine.  It 
+is envisaged (that they be delivered) at the beginning of October 
+¶2009.  Thus the parts are probably, still at Firth Rixson - Forged 
+Metals. 
+ 
+(complimentary close) 
+ 
+END Snecma response text 
+ 
+¶4. Embassy also contacted Transports Hervouet SARL ( ZONE ARTISANALE 
+LA FORET, 44140 Le Bignon, FRANCE; Tel: +33.2.40.26.10.06; Fax: 
++33.2.40.26.12.30) and learned that it is a small international 
+transportation/freight forwarding company with some 20 employees. 
+Personnel of the company stated that they did not take control of 
+the items in question,   and had merely been subcontracted to clear 
+the parts through French customs formalities. 
+ 
+STAPLETON

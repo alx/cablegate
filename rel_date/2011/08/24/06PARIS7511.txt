@@ -1,0 +1,131 @@
+06PARIS7511
+TELECOM ATTORNEY ON FRANCE'S ICT STRENGTHS AND WEAKNESSES
+Wed Nov 22 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXRO6671
+PP RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHFR #7511/01 3261516
+ZNR UUUUU ZZH
+P 221516Z NOV 06
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC PRIORITY 3310
+INFO RUCPDOC/USDOC WASHDC PRIORITY
+RUEAFCC/FCC WASHDC PRIORITY
+RUEAWJA/DEPARTMENT OF JUSTICE WASHDC PRIORITY
+RUCNMEM/EU MEMBER STATES  PRIORITYUNCLAS SECTION 01 OF 02 PARIS 007511 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE EB/CIP AND EUR/WE 
+PLEASE PASS TO USTR JMCHALE AND KSCHAGRIN 
+FCC FOR TWEISLER 
+COMMERCE FOR NTIA 
+JUSTICE FOR KWILLNER 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON FR
+SUBJECT: TELECOM ATTORNEY ON FRANCE'S ICT STRENGTHS AND WEAKNESSES 
+ 
+ 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+¶1. (SBU) Summary.  On November 16, Hogan and Hartson Attorney (and 
+long-time observer of the French telecoms sector) Winston Maxwell 
+told us that poor consumer protection and nonpublic frequency 
+management were the two areas detracting from France's otherwise 
+robust implementation of EU directives.  The EU, with the exception 
+of Germany, was leaning toward regulating new digital fiber networks 
+and traditional copper networks in the same way to ensure a level 
+playing field and prevent market dominance.  France would not permit 
+internet providers to "wall-off" part of the internet, although they 
+would be able to charge for premium services.  A merger between 
+telecom regulator Autorite de Regulation des Communications 
+Electroniques et des Postes (ARCEP) and audiovisual regulator 
+Conseil Superieur de l'Audiovisuel (CSA) would rationalize spectrum 
+management, but the disruption involved could offset any efficiency 
+gains.  End summary. 
+ 
+¶2.  (U) On November 16, econoff met with Hogan and Hartson Attorney 
+Winston Maxwell to discuss French implementation of EU telephony and 
+information society directives, data protection, regulation of next 
+generation telephone networks, "Internet neutrality," and the 
+possibility of a merger between telecom regulator Autorite de 
+Regulation des Communications Electroniques et des Postes (ARCEP) 
+and audiovisual regulator Conseil Superieur de l'Audiovisuel (CSA). 
+Maxwell has practiced in Paris for twenty years, and has a vast 
+array of contacts throughout the French administration. 
+ 
+French Implementation of EU Directives 
+- - - - - - - - - - - - - - - - - - - - 
+ 
+¶3. (SBU)  According to Maxwell, the wide consumer choice regarding 
+long distance and Internet providers is a testimony to robust French 
+implementation of EU telephony and information society directives. 
+The two areas for improvement are consumer protection and frequency 
+management.  On consumer protection, most European communications 
+regulators have a section that receives and tracks consumer 
+complaints on various providers.  The publication of these 
+statistics themselves embarrasses market providers to minimize 
+inconveniences to customers.  The lack of such a division in ARCEP 
+has led to quite bad customer service, which has inspired a spate of 
+law suits in French courts.  On spectrum management, he said that 
+France needed to debate what to do with the spectrum that would 
+become available after the 2011 switch from analog to digital 
+television.  A bill that the Senate is considering proposes to 
+provide this spectrum back to the broadcasters.  However, Maxwell 
+believed that the broadcasters would not make full use of the 
+spectrum, and they were able to maintain control of the spectrum 
+only because of their political clout.  He was pessimistic that 
+France would encourage a public debate about spectrum use since GOF 
+officials preferred to have fewer constraints on their own decisions 
+about spectrum allocation. 
+ 
+Regulation of Next Generation Telecom Networks 
+- - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+4.(SBU)  Maxwell believed that, with the exception of Germany, the 
+EU has already come to a consensus not/not to provide a regulatory 
+holiday for next generation telecom networks, contrary to the policy 
+adopted by the U.S.    Most European countries believed that 
+regulating new digital fiber networks and copper telecom networks in 
+the same way would ensure a level playing field and prevent market 
+dominance.  Maxwell said that, in France, the ducts containing the 
+fiber networks will likely be open for competitors to lay their 
+lines, but ARCEP will not permit operators to have monopolies in 
+various buildings.  The GOF will probably require telecom firms 
+investing in fiber networks to lease their lines at a "reasonable" 
+but not "extortionate" rate.  The policy would grant ARCEP a large 
+amount of discretion to judge whether to provide access on a 
+case-by-case basis. 
+ 
+Internet Neutrality 
+- - - - - - - - - - 
+ 
+¶5. (SBU)  Europe will most likely adopt a policy consistent with 
+existing FCC orders, Maxwell predicted.  France and most other EU 
+Member States will not allow any internet service provider to "wall 
+off" or prevent access to existing free internet sites.  However, 
+internet service providers will be able to offer "premium packages" 
+that allow video on demand, video downloads, faster services, or 
+other improved services. 
+ 
+Possibility of ARCEP and CSA Merging 
+ 
+PARIS 00007511  002 OF 002 
+ 
+ 
+- - - - - - - - - - - - - - - - - - - 
+ 
+¶6. (SBU)  Although ARCEP was in charge of spectrum management, 
+Maxwell explained, CSA handled spectrum allocated to broadcasters. 
+Combining the two entities might result in a more rational 
+management of spectrum.  However, the UK's experience shows that the 
+merging of various regulators could be far more expensive and 
+troublesome than envisioned.  Political consideration could always 
+overrule these considerations, however. 
+ 
+STAPLETON

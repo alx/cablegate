@@ -1,0 +1,120 @@
+04ANKARA865
+Tracker Demonstration for GOT
+Fri Feb 13 00:00:00 +0100 2004
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ankara
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+131057Z Feb 04UNCLAS ANKARA 000865 
+ 
+SIPDIS 
+ 
+ 
+DEPT FOR NP/NDF - RSMITH AND BBAKER 
+ 
+ 
+SENSITIVE 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC PARM TU
+SUBJECT:  Tracker Demonstration for GOT 
+ 
+ 
+SENSITIVE BUT UNCLASSIFIED.  PLEASE HANDLE ACCORDINGLY. 
+ 
+ 
+¶1. (SBU) SUMMARY:  On February 11, a US team presented a 
+demonstration of the Tracker system to about fifteen Turkish 
+export control officials.  The officials expressed interest 
+in evaluating Tracker for possible use, but said they would 
+need to discuss the matter internally before replying 
+formally through the US Embassy in Ankara. END SUMMARY. 
+ 
+ 
+¶2. (SBU) A Turkish delegation led by Ali Riza Oktay, head of 
+department in the Exports General Directorate of the Foreign 
+Trade Undersecretariat, attended the October 2003 Tracker 
+Workshop in Oxford, England.  Oktay indicated at the time 
+that he would be preparing a report on the Workshop and 
+would recommend that his government further explore the 
+possibility of using Tracker as its export licensing system. 
+Follow-on contacts by Econoff led to an invitation to a US 
+team to demonstrate Tracker to a broader group of Turkish 
+export control officials. 
+ 
+ 
+¶3. (U) A three-person U.S. team visited Ankara February 11- 
+12 to provide the demonstration.  It included Raymond Smith, 
+Senior Negotiator, NP/NDF, and Russ Bailey and John Parker, 
+FGM, Inc.  Foreign Trade hosted the three-hour 
+demonstration, which was attended by officials from the 
+Undersecretariats of Foreign Trade and Customs, as well as 
+the Ministries of Foreign Affairs and National Defense. 
+Econoff also attended the demonstration and took part in the 
+discussions. 
+ 
+ 
+¶4. (U) Smith introduced the demonstration by giving an 
+overview of the Tracker program and how it fit into the 
+mission of the NDF and of U.S. efforts to limit the spread 
+of WMD.  Bailey demonstrated many of the features of the 
+system that can make it an effective tool for careful 
+analysis of questionable trade transactions.  He then 
+demonstrated its efficiency by processing a simple export 
+license application from initial data entry to printing of 
+the export license in less than ten minutes. 
+ 
+ 
+¶5. (SBU) Responding to a question on IT security, the US 
+team said that Tracker was compatible with a variety of 
+security applications, ranging from encryption to closed 
+networks.  The decision on the type of security necessary in 
+each country had deliberately been left to the countries 
+themselves.  A Ministry of Defense official asked about 
+Tracker's capability to create reports from the information 
+in its database.  Bailey demonstrated this capability. 
+ 
+ 
+¶6. (SBU) In response to a question from the Turkish 
+delegation, Smith discussed next steps in implementing 
+Tracker.  He said that there would need to be a signed 
+document, usually an MOU, between the two governments laying 
+out the objectives of the program and their individual 
+undertakings. Noting that the U.S. and Turkish Governments 
+had been negotiating a broader MOU on export control and 
+border security issues for more than a year, Smith said the 
+Tracker program could be covered through an implementing 
+document under this umbrella MOU, when completed.  He 
+pointed out that this document would not obligate the 
+Turkish government to adopt the Tracker system; rather, the 
+Turkish government would undertake to conduct a thorough 
+evaluation of the system and adopt the system if the 
+evaluation were positive.  Following signature of the 
+document, the US would send a team to Ankara to make a 
+detailed analysis of the Turkish export licensing process so 
+as to develop an effective implementation plan.  In response 
+to a question on how long this would take, Smith said that 
+the lengthiest part of the process was normally the 
+receiving government's review of the MOU or implementing 
+document, which often took six to twelve months. He added 
+that following signature of the Tracker MOU, he would expect 
+to have an evaluation team in Ankara within three months and 
+installation of and training on the system within six 
+months. 
+ 
+ 
+¶7. (SBU) In discussions among themselves around the table, 
+the Turkish officials agreed to meet further to discuss 
+whether and how to move ahead.  They discussed placement of 
+the Tracker server, a problem in that the Ministry of 
+Defense and the Foreign Trade Undersecretariat had 
+responsibilities for entirely different sets of commodities. 
+Oktay asked Smith in an aside whether two servers and two 
+networks could be set up to handle the dual-use, munitions 
+dichotomy.  Smith said that this could be considered. 
+ 
+ 
+¶8.  (U) The demonstration ended with agreement that, 
+following internal discussions, the Turkish government would 
+respond through the Embassy.  Edelman

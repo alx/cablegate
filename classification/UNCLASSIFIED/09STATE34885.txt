@@ -1,0 +1,156 @@
+09STATE34885
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Thu Apr 09 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHC #4885 0991618
+ZNR UUUUU ZZH
+R 091600Z APR 09
+FM SECSTATE WASHDC
+TO RUEHFR/AMEMBASSY PARIS 0000
+INFO RUEAIIA/CIA WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUETIAA/DIRNSA FT GEORGE G MEADE MD 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 034885 
+ 
+SIPDIS 
+PARIS FOR ERIC J. RUETER 
+ECON 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC FR KOMC
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 050094399 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a post-shipment end-use check on license number 050094399 for 
+the export of defense hardware to France.  Post is requested 
+to complete this Blue Lantern inquiry within 45 days.  Lack 
+of response to a Blue Lantern inquiry will affect pending and 
+future licenses involving parties to this license. 
+ 
+¶3. Reason for request:  To confirm bona fides of unfamiliar 
+End-user Emitech Qamas Division, and to verify final end use 
+of item. 
+ 
+¶4. Action: Department requests that Post make appropriate 
+inquiries to confirm that the End-user received the listed 
+item for the purpose stated on the license.  Conduct a site 
+visit to Emitech Qamas Division to confirm that it received 
+the exact type and quantity of items listed on the license. 
+Post should assess the end-user's business operations and 
+relationships, on-site security, and general reliability as a 
+recipient of United States Munitions List (USML) items. 
+Emphasize that the unauthorized re-export or retransfer of 
+USML items is strictly prohibited. 
+ 
+The following questions are provided as suggested guidance: 
+ 
+-- Is Emitech Qamas Division the final end user of the item? 
+Was the item integrated into a larger system? If so, 
+which system and who performed the integration? 
+ 
+-- Who are Emitech Qamas Division's customers, what is the 
+nature of their business, and where are they located? 
+ 
+-- Are you familiar with EMV SARL located in Gennevilliers? 
+If so, what was its role in the transaction? 
+ 
+-- Did you order the exact type and quantity of items listed 
+on this license from EMV SARL? 
+ 
+-- Is EMV SARL an official supplier/contractor for the end 
+user in France?  Does the end-user have any 
+other contracts with EMV SARL that involve the procurement of 
+USML? 
+ 
+-- Were there any additional foreign parties (e.g. 
+consignees, freight forwarders, etc.) involved in this 
+transaction? 
+ 
+-- Does Emitech Qamas Division understand the restrictions on 
+USML items (especially the prohibition against unauthorized 
+re-transfers, re-exports, or changes in end use)? 
+ 
+End Action Request. 
+ 
+¶5.  Details of license application: 
+ 
+DTC Case: 050094399 
+ 
+QUANTITY/COMMODITY: 
+ 
+1 High Powered Amplifier Model #500L 
+ 
+License Value: USD $72,500. 
+ 
+SELLER: 
+ 
+ETM Electromatic Inc. 
+35451 Dumbarton Court 
+Newark, CA  94544 
+Tel:(510)797-1100 ext. 102 
+ 
+FOREIGN CONSIGNEE: 
+ 
+EMV SARL 
+Attn: Bernard Bessot 
+7 Rue Du Fosse Blanc Bat D1 
+Gennevilliers 92230 
+France 
+Tel: 33 (0)1 47 91 75 30 
+Fax: 01 37 91 75 35 
+Email: emv@wanadoo.fr 
+Website: www.emv.fr 
+ 
+FOREIGN END-USER: 
+ 
+Emitech 
+Department Qamas 
+3 Rue du Coudriers 
+Ile de France 
+Montigny Le Bx 78180 
+France 
+Tel: 33 (0)1 30 57 55 55 or 33 04 67 87 11 02 
+Website: www.emitech.fr/fr/1350/Dpt Qamas 
+ 
+PURPOSE: 
+ 
+Model #500L is a high-powered amplifier to be used with a 
+milliwat signal generator and an antenna in a test system. 
+The test system, in a ground laboratory facility, shows the 
+effect of EM and RF signals on electronic equipment.  The end 
+user, Emitech, provides this testing service for their 
+customers in the construction of automotive, aerospace, and 
+satellite systems. 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC will fax documentation to Post 
+upon request): 
+ 
+ -- Purchase Order No.3898 dated 10 Jan 07 
+ -- End User Certificate L-DG-08-044 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Rachael-Therese Joubert-Lin, Phone: 
+202-663-2950; Email: JoubertLinRS@state.gov; SIPRNET: 
+JoubertLinRS@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file in the Bunche Library's 
+E-Book Collection on the DOS Intranet: 
+http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+CLINTON

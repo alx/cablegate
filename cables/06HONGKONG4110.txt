@@ -1,0 +1,93 @@
+06HONGKONG4110
+EXTRANCHECK: POST SHIPMENT VERIFICATION: THE
+Tue Oct 17 00:00:00 +0200 2006
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0007
+RR RUEHWEB
+
+DE RUEHHK #4110 2900916
+ZNR UUUUU ZZH
+R 170916Z OCT 06
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9070UNCLAS HONG KONG 004110 
+ 
+SIPDIS 
+ 
+STATE FOR US HQ BICE WASH DC 
+ 
+USDOC FOR 532/OEA/LHINES/KGAINES 
+USDOC FOR 3132/FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: THE 
+MACAU WATER SUPPLY COMPANY LIMITED 
+ 
+REF: A) USDOC 05401 B) D322567 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the Bureau of 
+Industry and Security (BIS), Export Control Officer 
+(ECO) Philip Ankel conducted a post shipment 
+verification (PSV) at The Macao Water Supply Company, 
+Limited (Macao Water), 718 Avenida Do Conselheiro 
+Borja, Macau on October 12, 2006. This PSV concerned 
+gas detection sensors exported by Quest Technologies 
+Inc., of Oconomowoc, Wisconsin, classified as 2B351 
+and valued at $384.  These gas detection sensors are 
+controlled for chemical and biological weapons reasons 
+(CB) and were exported to Macau pursuant to DOC 
+license D322567. 
+ 
+¶3. Macao Water is the sole drinking water provider for 
+the island of Macau.  It is a private company majority 
+owned by French investors (more information at 
+www.macaowater.com). 
+ 
+¶4.  The ECO met with Chao Man Sou, the Manager of the 
+Technical Support Department and Vice-Chairman of the 
+Health and Safety Committee.  The meeting occurred in 
+Mr. Sou's office at the treatment facility.  Mr. Sou 
+confirmed that Macao Water had received the gas 
+detector but that, unfortunately, as the unit was 
+acquired over two years ago, it was no longer in use 
+and had been discarded.  Given its low value, Mr. Sou 
+explained that Macao water had not kept records of the 
+disposal.  Mr. Sou explained that the sensor had been 
+replaced by a newer sensor acquired from England.  The 
+unit and its replacement are used to measure the 
+chlorine level in treatment tanks prior to workers 
+entering those tanks to perform cleaning or repair 
+work. 
+ 
+¶5. Mr. Sou was open and cooperative and provided the 
+ECO with copies of the relevant documentation 
+regarding the ordering and receipt of the item.  He 
+also gave the ECO a tour of the water treatment 
+facility. 
+ 
+¶6. Mr. Sou stated that he did not believe that Macao 
+Water had been informed of the applicable license 
+conditions of license D322567 (i.e., no resale or 
+reexport with BIS approval) as required by license 
+condition three. 
+ 
+¶7. The ECO believes Macao Water to be a very suitable 
+recipient of U.S. origin controlled technology as it 
+cooperated with the ECO, has a line of business that 
+is consistent with the item's potential use, provided 
+relevant documentation and allowed an on-site visit. 
+Nonetheless, in accordance with guidance on reporting 
+of PSVs where the items cannot be physically 
+inspected, the ECO recommends that this PSV be 
+classified as Limited. 
+Cunningham

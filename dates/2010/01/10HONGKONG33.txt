@@ -1,0 +1,104 @@
+10HONGKONG33
+EXTRANCHECK: POST SHIPMENT VERIFICATION: LEADER MUTUAL
+Wed Jan 06 00:00:00 +0100 2010
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0004
+RR RUEHWEB
+
+DE RUEHHK #0033 0060859
+ZNR UUUUU ZZH
+R 060859Z JAN 10
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9341
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000033 
+ 
+USDOC FOR 532/OEA/ MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: LEADER MUTUAL 
+FREIGHT SYSTEM 
+ 
+REF: A) BIS e-mail request dated November 19, 2009 (01210097) 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) at Leader Mutual Freight System, 
+1 Sheung Hei Street, San Po Kong, Hong Kong (Leader Mutual). The 
+items in question for this PSV are three shipments of SRAM and 
+memory cards exported to Leader Mutual on or about September 4, 2009 
+and July 23, 2009 (two shipments).  These items are likely 
+classified under Export Control Classification Number EAR99, meaning 
+that they are likely eligible to be shipped license free worldwide 
+except to sanctioned destinations and certain restricted 
+end-uses/users.  The exporter was Dane-Elec Corporation of Irvine, 
+California. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Leader Mutual has 
+been in existence since 1997.  Its paid up share capital is the Hong 
+Kong equivalent of approximately USD 650,000.  The Hong Kong 
+Companies Registry lists one Taiwanese national, one U.S. national 
+and two Hong Kong residents as directors. 
+ 
+¶4.  According to the company's web site (www.Leader-Mutual.com.hk), 
+Leader Mutual is an international freight forwarder with offices 
+throughout China and the United States. 
+ 
+¶5.  On December 22, 2009, ECO and FCS Commercial Assistant Carrie 
+Chan visited the company at the address noted above and met with Ms. 
+Karen Chu, Logistics Manager.  She provided additional background 
+about the company (consistent with information on its web site). 
+Ms. Chu stated that Leader Mutual is as a freight forwarder and also 
+acts as a type of consolidator/warehouse for companies in Hong Kong 
+or for overseas companies that don't have a physical presence in 
+Hong Kong. According to Ms. Chu, Leader Mutual ships worldwide. 
+ 
+¶6.  As to the specific shipments in question, Ms. Chu stated that 
+Leader Mutual acts as the warehouse and consolidator for the 
+exporter's Hong Kong operations (Dane-Elec Memory Asia Limited) 
+pursuant to a written agreement with Dane-Elec.  According to Ms. 
+Chu, Dane-Elec requires that Leader Mutual hold product for 
+Dane-Elec's customers (whether in Hong Kong or abroad).  Those 
+customers then come to Leader Mutual to pick up the items or direct 
+Leader Mutual to ship the items to their location in Taiwan or 
+elsewhere.  Ms. Chu stated that one reason for such an approach to 
+sales is that it makes the customer responsible for any tax or 
+similar payments when shipping to mainland China and other 
+destinations (Hong Kong, conversely, is a free port and does not 
+impose import duties, VAT or similar levies). 
+ 
+¶7.  As to the particular shipments in question, Ms. Chu stated that 
+they had been received and disbursed to various Hong Kong customers 
+at the direction of Dane-Elec.  Ms. Chu provided documentation 
+confirming delivery to Dane-Elec customers including Nexus 
+Technologies (H.K.) Ltd. and Koh Electronic Technology Pte. Ltd. 
+(www.kohelec.com).  These companies appear to be further Hong Kong 
+and Singapore based resellers of computer memory.  As the items are 
+not highly controlled and may be shipped license free to virtually 
+all destinations and consignees, ECO did not contact the resellers 
+to frther determine their eventual customers.  ECO maydo so if OEA 
+so desires. 
+ 
+¶8.  ECO provided Ms. hu with information about U.S. export controls 
+(including the BIS brochure on reexport controls).  By follow-up 
+e-mail, Ms. Chan provided additional information about BIS lists to 
+check and other export control information.  Ms. Chu promised to 
+review the information closely and share it with her colleagues. 
+ 
+¶9.  ECO believes Leader Mutual to be a suitable recipient of U.S. 
+origin technology (as freight forwarder).  Nonetheless, given what 
+appears to be relatively limited knowledge of U.S. export controls 
+at a company with a significant U.S. presence, ECO recommends that 
+BIS conduct an outreach at Leader Mutual's U.S. operations to 
+provide information about export controls to those operations as 
+well.

@@ -1,0 +1,516 @@
+05FRANKFURT2410
+New Legal Payments Framework: Monetary Integration
+Thu Mar 24 00:00:00 +0100 2005
+UNCLASSIFIED
+Consulate Frankfurt
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 07 FRANKFURT 002410 
+ 
+SIPDIS 
+ 
+SENSATIVE 
+ 
+STATE FOR EUR PDAS RIES, EB, EUR/AGS, AND EUR/ERA 
+STATE PASS FEDERAL RESERVE BOARD 
+STATE PASS NSC 
+TREASURY FOR DAS LEE 
+TREASURY ALSO FOR ICN COX, HULL 
+PARIS ALSO FOR OECD 
+TREASURY FOR OCC RUTLEDGE, MCMAHON 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN EUN
+SUBJECT: New Legal Payments Framework: Monetary Integration 
+at Retail Level 
+ 
+T-IA-F-05-016 
+ 
+This cable is sensitive but unclassified.  Not/not for 
+Internet distribution. 
+ 
+¶1.   (SBU) Summary: The European Commission (EC) intends to 
+  propose a directive for payments services in the internal 
+  market by June or September. A legally consistent framework 
+  for the EU payments market, providing for transparency of 
+  payment services contracts, competition and consumer 
+  protection, is an essential building block for a Single 
+  European Payments Area (SEPA) in which banks handle all euro 
+  area payments as "domestic," essentially superceding purely 
+  national payments systems. The EC's goal is for citizens to 
+  be able to make payments around the euro area as simply and 
+  as easily as they make payments in their home national 
+  markets today, if not more so.  This is monetary union 
+  integration at the retail level, the next big push that 
+  could help drive up efficiencies and competition to benefit 
+  EU consumers and industry. 
+ 
+¶2.   (SBU) Realizing the vision is easier said than done. 
+  The EC has been laboring over a draft directive for several 
+  years and still faces considerable difficulties.  The 
+  European banking industry, after being legislatively forced 
+  in 2001 to charge equally for domestic and cross-border 
+  payments, created the European Payments Council (EPC) to 
+  "get in front of the issue." The EPC has drawn up a roadmap 
+  on how banks would voluntarily cooperate to develop 
+  instruments, standards and infrastructure so national 
+  payments systems could migrate into a European one, creating 
+  a SEPA by 2010.  Truth be told, only a small portion of the 
+  56 billion or so annual payment transactions are cross- 
+  border. In other words, the business case for SEPA is not 
+  compelling for individual firms. The noble SEPA project has 
+  been slipping, despite the prodding of the European Central 
+  Bank (ECB). 
+ 
+¶3.   (SBU) In a surprise move, Commissioner McCreevy has 
+  threatened to include industry standards and deadlines for 
+  the SEPA into the new legal framework directive.  Member 
+  states will meet in mid-April to consider the idea.  The EPC 
+  has responded with a resolution underlying its commitment, 
+  but the Commission is looking for firm assurances.  Banks 
+  are content with the current profitable national payments 
+  systems, so they have little commercial incentive to change. 
+  EU policy officials, on the other hand, may want to 
+  accelerate the creation of a SEPA through legislation, 
+  hoping to reap its potential benefits sooner rather than 
+  later.  End Summary 
+ 
+The Vision 
+---------- 
+ 
+¶4.   (SBU) Walk into a bank in Austria, make a transfer from 
+  your home bank in Germany to pay a contractor in Spain for 
+  work on your Costa del Sol villa. Or to pay for a car 
+  directly from the manufacturer in France. Done as quickly, 
+  easily and as inexpensively as you would make such a 
+  transfer for repairing your chalet in Kitzbeul or buying a 
+  car from a Vienna dealership. That is the vision for the 
+  euro area.  Even though euros are legal tender throughout 
+  the euro area, cash is an expensive and inconvenient method 
+  of payment.  A euro area payments system would increase 
+  competition in goods and services, increasing inefficiencies 
+  to benefit consumers and industry alike. 
+ 
+¶5.   (SBU) To realize this vision requires legal certainty 
+  and standardization of forms and processes.  Legal certainty 
+  means that the users (customers) and providers of payment 
+  services (banks, card companies, money remitters) operate 
+  within the same legal framework of rights, obligations and 
+  transparency.  Standardization means that banks use common 
+  instruments, standards and infrastructure for the execution 
+  of transfers among themselves on an inter-bank basis.  The 
+  EC's new legal framework for payment services would cover 
+  the first part; an initiative by the EPC would cover the 
+  latter, creating the SEPA. 
+ 
+Legal Framework for Payment Services 
+------------------------------------ 
+ 
+¶6.   (SBU) The EC launched a consultation in December 2003 
+  for a new legal framework directive. Its overall objective 
+  is to provide a consistent legal framework for a European 
+  payments market by providing a harmonized set of rules for 
+  all payment services.  This would increase legal certainty 
+  and reduce compliance costs, allowing for economies of scale 
+  and cost and price reductions.  The EC also wants to ensure 
+  a level playing field and enhance competition between 
+  payment service providers. Banks tend to be the larger 
+  players, but payments via direct debit cards, payment cards, 
+  money transmitters, and e-payments or m-payments are other 
+  important forms of payments.  Allowing payment institutions 
+  authorized in one member state to be "passported" to operate 
+  throughout the EU would enhance competition, in the 
+  Commission's view.  The EC also wants to have a consistent 
+  level of consumer protection and improved transparency. 
+ 
+¶7.   (SBU) The EC's working draft contains general rules for 
+  payment service providers, requirements for being authorized 
+  as a payment institution, rules on payment services 
+  (transparency of conditions, provision and use of payment 
+  services, authorization of a payment service transaction, 
+  the execution of a payment transaction, fraud prevention, 
+  out-of court redress), and harmonization and mutual 
+  recognition among EU member states.  The directive would 
+  establish a Payments Committee, composed of member state 
+  authorities competent for payment systems, to help ensure 
+  national implementation measures are harmonized and enter 
+  into force at the same time.  The EC's work schedule 
+  indicates the proposal should be issued in June. 
+ 
+¶8.   (SBU) Commentators generally share the EC's overall 
+  objective.  The EC, however, has been having a difficult 
+  time committing to paper the legal obligations that would 
+  make it a reality - being consistent with the reality of how 
+  markets function and specific payments transactions take 
+  place.    The European Payments Council, an organization of 
+  European banking associations, the Payments System 
+  Government Expert Group, and the Payment System Market 
+  Expert Group have provided the EC comments on its drafts. 
+  The fifth modified working draft was issued at the end of 
+  2004 and still attracted much criticism. Two general 
+  criticisms have been that the drafts have changed 
+  substantially from one version to the next and have not 
+  reflected many of the views offered by industry. 
+ 
+Issues 
+------ 
+ 
+¶9.   (SBU) As the UK and Austria Presidencies will have the 
+  lead on directing the proposed payments services directive 
+  through the Council process, Finance Ministries and central 
+  bankers in those countries are tracking the key issues that 
+  have arisen in the drafting process.  The following are some 
+  issues largely based on conversations with these experts and 
+  well as comments from some industry experts. 
+ 
+¶10.  (SBU) Third Country Leg:  The scope of the draft 
+  directive would apply to payment services where either the 
+  payer's payment service provider or the payee's payment 
+  service provider is located in the EU, unless stated 
+  otherwise.  A payment service provider is a natural or legal 
+  person whose regular business includes the provision of 
+  payment services to payment service users.  This means that 
+  if the customer making the payment in Greece, using a Greek 
+  bank for a payment to a person in the US, the payment 
+  service in the US would be subject to the directive. Or if a 
+  US person were to use its US bank to make a transfer to the 
+  Greek person, that payment service would also be covered. 
+¶11.  (SBU) While the draft would restrict the application of 
+  obligations on fees and execution time to transactions 
+  within the EU, other obligations, such as on the 
+  availability of funds and liability for the execution of a 
+  payments transaction, could be read to apply to entities in 
+  third countries.  Apart from the extraterritoriality issue, 
+  commentators have pointed out that EU payments providers 
+  should not be held liable for transactions outside the EU 
+  where such providers are subject to different rules.  The 
+  EC's view is that the EU-based payment service provider's 
+  experience in dealing with entities in third countries 
+  should allow it to incorporate risks dealing with such 
+  entities in the provision and pricing of its services. The 
+  pricing of such risk is not a market price and would drive 
+  up costs and likely decrease service, in the view of some 
+  market experts. 
+ 
+¶12.  (SBU) Second Party Transactions: Even without the third 
+  country leg, there is a question of the extent to which a 
+  payment service provider can be held accountable for an 
+  entire transaction.  German bankers' have pointed out that a 
+  payment service provider should be obliged by its contract 
+  for the use of its services (i.e. a customer directing it to 
+  make a payment a vendor with an account in another bank), 
+  but it cannot control or be held liable for the non- 
+  performance of another service provider (i.e. whether the 
+  vendor's bank will transfer the funds to the vendor's 
+  account).  One US bank made a similar observation, noting 
+  that under the US Uniform Commercial Code, the originator's 
+  bank is not liable where there has been defective execution 
+  on the part of some intermediary banks or beneficiary banks. 
+ 
+¶13.  (SBU) Competition: The directive would allow for the 
+  authorization of payment institutions, like Western Union 
+  and other providers of money remittances. Some member 
+  states, like Germany, require money remitters to be 
+  associated with a bank.  UK officials take the view that 
+  such point-to-point remittances that do not extend credit 
+  hold very low risks and authorizes them as separate 
+  institutions.  ECB officials have expressed concern about 
+  the prudential aspects of allowing payment institutions to 
+  operate on a "lighter regime, " while banks are concerned 
+  that they will be at a competitive disadvantage and deprived 
+  of attracting customers to their local offices where they 
+  advertise and sell other consumer services.  The EC is keen 
+  on opening up competition in this area to help drive down 
+  consumer costs. 
+ 
+¶14.  (SBU) Liability: Several issues have arisen on 
+  liability.  The draft directive would limit the loss to the 
+  payment service user resulting from the lost, stolen or 
+  misappropriate payment verification instrument to euro 150. 
+  Some commentators have accepted this level, others question 
+  why consumers should bear any loss, while others suggest 
+  that the consumer should bear more financial liability. 
+ 
+¶15.  (SBU) A more problematic issue is that the recent 
+  working draft abolished the upper limit of euro 50,000 to 
+  which the provisions of the directive would apply, meaning 
+  it would apply to all transactions.  This, coupled with the 
+  liability provisions on disputed transactions or 
+  unauthorized transactions would open payment service 
+  providers to potentially large risks, including increasing 
+  the risks of fraud committed by their clients, which would 
+  lead to reducing services.  This would be particularly true 
+  in third country transactions mentioned above where the EU 
+  service provider would have a difficult time redressing 
+  potential abuses. 
+ 
+¶16.  (SBU) Calling Back Transfers:  The draft directive 
+  would accord the payer the right to refund a payment 
+  transaction which already has been executed under certain 
+  conditions, e.g. his authorization did not include the exact 
+  amount of the payment transaction at the time of its 
+  authorization or the amount of the executed transaction is 
+  contrary to the payer's "legitimate expectations," e.g. due 
+  to changes in exchange rate. The request for a refund needs 
+  to be made within six weeks of the payer being informed of 
+  the transaction and, in any case, before three months after 
+  the execution of the transaction. German bank commentators 
+  note that such a recall could be applicable to card 
+  transactions but not bank transfers.  A major US card 
+  payment company, however, points out that some charges are 
+  not knowable in advance, such as car rentals that exceed the 
+  initial contract dates, a service offered to the consumer. 
+ 
+¶17.  (SBU) Application to Card Transactions:  The draft 
+  seeks to have uniformity for all payment services, but 
+  German bankers and a US card payment company point out that 
+  many of its provisions, including the very definition of a 
+  "payment transaction" (the "deposit, withdrawal, or transfer 
+  of funds from a payer to the benefit of a payee), applies to 
+  the payment transaction from the payer to the payee. 
+  However, the scope of the obligations would apply to payment 
+  services initiated by the payee at the authorization of the 
+  payee, e.g. card transactions (credit card services would 
+  not be covered by the directive). One solution would be to 
+  re-craft provisions for different types of payment services; 
+  another solution would be not to include card transactions 
+  in the directive. 
+ 
+¶18.  (SBU) Waiver for Micro Payments: The working draft 
+  would permit member states to waive requirements for 
+  authorization and supervision of payments institutions where 
+  such institutions (a) have less than six million 
+  transactions a year and  (b) hold a vital role in micro 
+  financial intermediation, such as for underprivileged social 
+  groups whose recourse to other payment services is limited; 
+  and the waiver is in the public interest for law and order 
+  and the effective implementation of money laundering rules. 
+  This waiver would be particularly useful for the UK and 
+  other member states that have large minority social groups 
+  that rely on informal money remittance systems. 
+ 
+¶19.  (SBU) Corporate Carve Out:  The draft directive would 
+  allow payment service providers and corporate users to agree 
+  to different rules, so called service level agreements. As a 
+  UK expert pointed out, the directive would make little sense 
+  being applied between a multinational corporation and a 
+  global investment bank. Others suggest that small and medium- 
+  sized enterprises also have the leverage to strike deals 
+  with payment providers and the legal resources to make it 
+  stick, so they too should have the option not to apply the 
+  rules. 
+ 
+¶20.  (SBU) Cash:  The most recent draft unexpectedly had an 
+  expanded scope that included cash deposits and withdrawals. 
+  Industry experts observe that they have not had time to work 
+  through the implications of such a major change.  Potential 
+  effects include delaying the deposits of cash, changing the 
+  way providers handle cash deposits (including out of hours 
+  and automated arrangements), and requiring supermarkets that 
+  provide "cash back" to be authorized as a payment 
+  institution. 
+ 
+SEPA: Roadmap and Reality 
+------------------------- 
+ 
+¶21.  (SBU) Common standards for payment services would serve 
+   as the basis for inter-bank payments systems.  In June 2002 
+   the European Payments Council (EPC) was established to help 
+   put into place a Single European Payments Area (SEPA) by 
+   June 2010.  Working backwards implies that by January 2008 
+   citizens and commercial enterprises should be able to use 
+   pan-European instruments, services and standards for 
+   national payments. Initially this would mean that these pan- 
+   European activities would be in parallel with national ones. 
+   This would allow customers to make national and cross-border 
+   payments from one account. National instruments, services 
+   and standards would be gradually phased out, replaced by pan- 
+   European ones.  National infrastructures would be abolished 
+   or transformed to a pan-European infrastructure. 
+ 
+¶22.  (SBU) In December 2004 the ECB issued its third 
+  progress report towards a single European payments area in 
+  which it lamented that support for the "SEPA project and its 
+  objective had weakened." The ECB presented its expectations 
+  for the development of the necessary payments instruments, 
+  standards and infrastructure. It concluded that if banks 
+  were not able to get their acts together on a voluntary 
+  basis, then the ECB might adopt regulation.  An Austrian 
+  central bank expert confirmed that, in his assessment, the 
+  project had slipped by two years. 
+ 
+¶23.  (SBU) With respect to instruments, in November 2002 the 
+  EPC adopted the Credeuro Convention for cross-border 
+  straight through processing (STP).  STP instructions include 
+  International Bank Account Number (IBAN), the beneficiary 
+  customer, and Bank Identifier Code (BIC) of the 
+  beneficiary's banks. Crederuo covers credit transfers of up 
+  to 12,500 euros, and guarantees a bank customer charges at 
+  the level of a domestic transfer and a maximum execution 
+  time of three days. In April 2003 the EPC adopted the Inter- 
+  bank Convention on Payments (ICP) to support Credeuro and 
+  harmonize inter-bank charging practices. Four countries 
+  (Germany, France, the Netherlands and Sweden) have 
+  transposed the ICP into national banking industry 
+  agreements. The ECB would like to see Credeuro and the 
+  supporting inter-bank charging convention become the 
+  compulsory minimum standard for all retail cross-border 
+  credit transfers by January 2006. 
+ 
+¶24.  (SBU) To compete with national systems, by January 2008 
+  the ECB wants to have same day value payments at the euro 
+  area level (called "Prieuro") and Credeuro as options for 
+  national credit transfers.  Also by the same date the ECB 
+  wants to have pan-European direct debit (PEDD) as an 
+  optional standard available for all euro area customers' 
+  national direct debits.  This would help ensure that PEDD 
+  would be used on a euro-wide basis by 2010. 
+ 
+¶25.  (SBU) Uniform standards are essential to realize smooth 
+  straight through processing for payment transactions.  For 
+  credit transfers the ECB suggests that the EPC implement a 
+  common account identifier (IBAN) for both national and cross- 
+  border credit transfers and direct debits in SEPA.  The ECB 
+  also encouraged the EPC to define and implement standards 
+  for straight through processing, including a unique standard 
+  for electronic payment initiation and automated 
+  reconciliation. 
+ 
+¶26.  (SBU) On infrastructure the EPC adopted a model for the 
+  European retail infrastructure, the pan-European automated 
+  clearing house (PEACH).  The European Banking Association 
+  Clearing Company established the first and, to date, the 
+  only PEACH.  The PEACH only handles transactions up to 
+  12,500 euros, provides for 3-day execution time, and is 
+  limited to credit transfers.  This is an expensive, narrower 
+  and slower system compared to national systems that realize 
+  lower costs through economies of scale, execute transactions 
+  in one day, and cover direct debits. The ECB wants national 
+  strategies for the migration of national infrastructure 
+  systems to handle pan-European transfers.  This could entail 
+  transforming efficient national systems into PEACH compliant 
+  systems or setting up completely new infrastructure. 
+ 
+Progress on SEPA: Public Policy Choices 
+--------------------------------------- 
+ 
+¶27.  (SBU) The ECB's disappointment with the speed of banks' 
+  voluntarily working toward SEPA is understandable.  The ECB 
+  holds the vision of an integrated euro market for retail 
+  payments as an important step for consumers and industry to 
+  reap more benefits of monetary union. Bankers' lack of drive 
+  is also understandable, since the SEPA requires a commitment 
+  of time and resources whose commercial pay-off is uncertain 
+  as long as efficient national payment systems exist.  Cross 
+  border payments account for less than 5% of the 56 billion 
+  annual payment transactions.  There are little economies of 
+  scale to be realized from such business. 
+ 
+¶28.  (SBU) From a public policy perspective, the 
+  externalities of a SEPA appear to be large, promoting 
+  competition in goods and services on the European level to 
+  the benefit of consumers and industry.  Individual banks may 
+  not find the business case for setting up cross-border 
+  payments systems, but together they could all benefit by 
+  have one payment system for the euro area rather than the 
+  present 25. 
+ 
+¶29.  (SBU) According to UK officials these considerations 
+  motivated Commissioner McCreevy to get involved.  In a March 
+  10 speech McCreevy stated that banks need a "clear political 
+  signal," opining that he was convinced of "huge benefits" in 
+  making the investment for a SEPA, delivering "significant 
+  savings for banks, industry and consumers." Musing that "we 
+  cannot sit on our hands forever," McCreevy declared, "We 
+  will do what is needed to ensure that industry delivers a 
+  single payments area.  If necessary, the Commission will 
+  make some agreed industry standards mandatory and include 
+  the roadmap for the SEPA in our draft legal text."  One way 
+  that the Commission could spur faster action, in the view of 
+  UK experts, would be to require transactions be executed 
+  within one day - essentially the norm for domestic 
+  transactions. 
+ 
+¶30.  (SBU) The Commission will meet with member state 
+  experts on April 12 to discuss how to proceed.  If there is 
+  agreement to include SEPA issues in the proposed directive, 
+  the Commission is likely to delay launching the directive 
+  until September and would open up any new working draft to 
+  another round of public consultation.  Meanwhile, the EPC 
+  has adopted a resolution that underscores its resolve to 
+  create the SEPA and has explained its work with banks on 
+  plans to migrate national systems to euro area systems. 
+  Whether this and other promises are enough to dissuade 
+  Commissioner McCreevy from proceeding with  legislation on 
+  SEPA is a matter of on-going discussion. 
+ 
+Observations 
+---------------- 
+ 
+¶31.  (SBU) SEPA is an important goal for the European 
+  Monetary Union and the EU internal market.  Having a common 
+  payments framework is an essential block of the SEPA. 
+  However, including all forms of payments beyond just the 
+  banking payments that would be processed in SEPA, has 
+  complicated the EC's task.  With such an ambitious 
+  undertaking, incorporating expert comments is important to 
+  get the draft legislation close to right the first time. 
+  After a few false starts, such as with the Prospectus 
+  Directive which needed to be totally re-written, the 
+  Commission has used informal consultation to good effect. 
+  That practice should continue in the new legal framework 
+  directive on payment services. 
+ 
+¶32.  (SBU) As much as industry may resent being forced to 
+  act in an area it had promised action, experience suggests 
+  that such prodding may be necessary.  In the run up to the 
+  introduction of the cash euro, survey after survey revealed 
+  how banks had charged significantly more for cross-border 
+  transfers than domestic ones.  Time after time, banks 
+  promised to take action at the urging of the ECB, but failed 
+  to do so. Frustrated, on the eve of the introduction of the 
+  euro, Finance Ministers and the Parliament adopted a 
+  regulation requiring equal charges on cross-border transfers 
+  to those on domestic transfers.    Despite cries of anguish, 
+  banks have complied.  The EPC was created, in part, so banks 
+  wouldn't be forced to action again, allowing them to get 
+  ahead of the issue and help shape the debate.  The EPC has 
+  gotten a wake up call. 
+ 
+¶33.  (SBU) Keeping true to its own "impact assessment" 
+  approach to new regulations, the Commission should make a 
+  credible case for the externalities of proceeding with 
+  legislation for an SEPA.  No doubt it could do so, but 
+  reports from those who have seen the impact assessment are 
+  not convinced.  Avoiding being pre-empted by the ECB may 
+  also motivate the Commission to adopt legislation.  The 
+  ECB's threat of adopting regulations to spur the development 
+  of a SEPA is a direct challenge to the Commission's right of 
+  initiative for legislation.  The ECB already crossed into 
+  the Commission's territory by elaborating standards on 
+  clearing and settlement.  Proposing legislation would allow 
+  the Commission to control the issue and give a political 
+  signal that banks should get their act together. 
+ 
+¶34.  (SBU) The mismatch between SEPA, applying to the euro 
+  area, and the draft proposed directive, applying to the EU, 
+  could raise the question whether the new framework is 
+  important for those countries that have not (or may not) 
+  adopt the euro in the foreseeable future.  That is, why 
+  burden the market with standards on payment services if the 
+  market will not benefit from the efficiencies of the SEPA? 
+  The issue could be a real one as the UK will have the EU 
+  Presidency and be charged with steering the issue through 
+  the Council.  UK officials, however, believe they have more 
+  to gain if they advance issues that are in the interest of 
+  the many even if they themselves might have other views. 
+  The UK will likely push the work program giving the 
+  Austrians a good basis to continue the Council's work next 
+  year. 
+ 
+¶35.  (U) This message has been coordinated with US Embassies 
+  Berlin, London, and Vienna and USEU. 
+ 
+¶36.  (U) POC: James Wallar, Treasury Representative, e-mail 
+  wallarjg2@state.gov; tel. 49-(69)-7535-2431, fax 49-(69)- 
+  7535-2238 
+ 
+Pasi

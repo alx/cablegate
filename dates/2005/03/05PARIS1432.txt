@@ -1,0 +1,283 @@
+05PARIS1432
+FRANCE: ANNUAL SECTION 1377 REVIEW OF TELECOM TRADE
+Fri Mar 04 00:00:00 +0100 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 04 PARIS 001432 
+ 
+SIPDIS 
+ 
+STATE FOR EB/CIP FOR TIM FINTON, EUR/WE, AND EUR/ERA 
+STATE ALSO PASS TO USTR FOR K SCHAGRIN AND J MCHALE 
+USDOC FOR NTIA, ITA, AND 4212/MAC/EUR/OEURA 
+FCC FOR INTERNATIONAL 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD FR WTO
+SUBJECT: FRANCE: ANNUAL SECTION 1377 REVIEW OF TELECOM TRADE 
+AGREEMENTS 
+ 
+ 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+Ref: STATE 026652 
+ 
+------------------------- 
+Introduction and Summary 
+------------------------- 
+¶1.  On January 26, EconOff and visiting USTR telecom trade 
+specialist Ken Schagrin met with GOF Industry Ministry 
+(DIGITIP) officials as well as Telecom Regulatory Authority 
+(ART) officials to discuss concerns raised in response to the 
+reftel Federal Register Notice published on November 24, 2004. 
+The three sections that follow are based on our dialogue with 
+these officials as well as our conversations with local telecom 
+operators and industry groups throughout the year.  In response 
+to our follow-up questions, ART provided further comments 
+regarding unbundled leased lines in early March.  In sum, they 
+noted changes to French law and subsequent changes to the 
+process for negotiating the reference interconnection offering 
+and stressed their view that the strengthening of ART's 
+authority as well as the process of market analysis are 
+calculated to provide the kind of remedies that are fundamental 
+to a sound and well-functioning competitive telecom market. 
+Indeed, ART wields much more power, as was noted by DIGITIP 
+officials when they said that the EU regulatory framework's 
+implementation is totally in the hands of the regulator, i.e. 
+there is no role for the Industry Ministry in the process of 
+drafting regulatory texts.  End summary and introduction. 
+ 
+------------------------------------------- 
+EXCESSIVE FIXED TO MOBILE TERMINATION RATES 
+------------------------------------------- 
+Is there any ratio between rates charged for termination on 
+fixed networks and rates charged for termination on mobile 
+networks that reflects the disparate costs of the different 
+networks?  What would be a reasonable ratio? 
+ 
+¶2.  Our contacts have never mentioned a ratio, neither at the 
+telecom regulator (ART) nor among industry experts.  There is 
+general agreement in France that mobile termination charges are 
+too high.  However, there is also widespread acknowledgement 
+that ART has made significant and steady progress addressing 
+this issue through mandatory decreases, which are imposed upon 
+all mobile operators.  ART began regulating fixed-to-mobile 
+(F2M) termination in 1999, imposing a series of reductions (20% 
+in 1999, 20% in 2000, and 40% over three years from 2002-2004) 
+that have moved France from one of the worst offenders in 
+Europe for excessive pricing of F2M to one of the best in 
+Europe.  During our January meeting, ART officials highlighted 
+for us that they had once again just compelled all three mobile 
+operators to reduce these charges further by 36% over two 
+years.  This reduction was not required to be immediate, nor 
+was it required to affect calls originating in foreign 
+countries.  Nevertheless, mobile operators have taken quick 
+action and are including foreign-originated calls in the 
+reductions, we were told. 
+ 
+¶3.  Orange began to lower its rates beginning in January 2005, 
+with regular reduction from now until 2007 in order to allow 
+the market to progressively adapt over the course of the 
+period.  ART officials assured us that calls of foreign origin 
+will experience the same evolution.  The lowering of 
+termination charges decided upon by the ART (36% over 2 years) 
+from January 1, 2005, will -- just like the tariffs themselves 
+-- be identical for calls originating in France and in foreign 
+countries.  To address charges of cross-subsidization between 
+mobile and fixed line services, our ART contact noted that, 
+while some have charged that Orange and SFR are vertically 
+integrated companies, mobile and fixed phone services have 
+separate accounts (an obligation contained in the European 
+directives).  Moreover, mobile operators in France now include 
+MVNO (Breizh Telecom and Debitel) and competition is 
+progressing. 
+ 
+--  What is the status of your implementation of the EU 
+directive to analyze telecom submarkets and identify instances 
+of significant market power, with respect to mobile 
+termination?  If you have found SMP, what is the status of 
+implementing remedies? 
+ 
+¶4.  ART is in the process of carrying out the market analyses 
+and taking the necessary measures according to the results of 
+these analyses.  (The status of the various market analyses can 
+be found on ART's web site at:  www.art-telecom.fr)  For 
+instance, ART completed on February 1, 2005, its market 
+analysis of voice call termination on mobile networks for 
+overseas departments.  As a result, ART imposed a 49% decrease 
+in wholesale prices for call termination over three years on 
+the two main mobile operators in Reunion and in the Antilles- 
+Guyana zone, with an initial decline of 20% on April 1, 2005. 
+This measure should reduce the cost of fixed-mobile calls in 
+France's overseas departments by 38% over three years. 
+Currently for mainland France, ART is still in the process of 
+doing the market analyses and will be envisioning some 
+remedies: obligation of access, non-discrimination and 
+transparency (reference: "Bill and Keep"), separation of 
+accounting, determination of the reference costs, cost control 
+and lowering rates over several years. 
+ 
+¶5.  More generally, we found it noteworthy that DIGITIP 
+officials not only acknowledged, but highlighted for us ART's 
+increased power under the new EU regulatory framework that was 
+transposed into French law last July.  DIGITIP Deputy Director 
+for Institutional Relations Henri Breuil told us "our role was 
+to give (regulatory) power to ART (such that) ART now has the 
+same powers as the UK's Ofcom." 
+ 
+-     Does ART's decision of December 10, 2004, to decrease 
+fixed-to-mobile interconnection rates by 36% apply to calls 
+originating outside of France?   If not, why not? 
+ 
+¶6.  Our understanding of ART's explanation of their most recent 
+imposed decreases in F2M charges was that, while ART did not 
+require that these decreases be applied to calls outside of 
+France, Orange and other operators were applying the reduced 
+charges to all calls no matter what their origin.  (See para 3 
+above.) 
+ 
+------------------------------------------ 
+EXCESSIVE PRICING AND PROVISIONING DELAYS 
+FOR ACCESS TO LEASED LINES 
+------------------------------------------ 
+RATES:  Are the wholesale (carrier) rates being charged for 
+leased lines used by carriers (e.g., two megabit link between a 
+carrier's network and its customers) regulated?  If so, how are 
+the rates set?  Does the regulator benchmark them against other 
+comparable markets?  Is the process for determining rates 
+transparent?  Can interested parties challenge cost-data 
+submitted by the incumbent operator? 
+PROVISIONING:  Is the regulator aware of complaints about the 
+time it takes to receive a line?  What are the factors that 
+effect delivery?  We have heard allegations that the incumbent 
+is providing leased lines faster to their end-user customers 
+than they are providing them to requesting competitors.  Are 
+there reporting requirements to monitor this?  If not, how is 
+this monitored?   If so, are the reports public? 
+ 
+¶7.  While DIGITIP officials confirmed to us that the GOF 
+Ministry of Finance and Industry has no role or power over 
+leased lines, in response to these questions, ART officials 
+told us that the process of supplying leased lines complies 
+with the general approval process of the interconnection 
+catalogue, namely the annual approval process of wholesale 
+charges, which is identical for leased lines and for the 
+interconnection network traffic.  ART detailed for us the 
+approval process steps: 
+--Proposed offerings ("the base offer") are sent by FT mid-year 
+the year before offers are to take effect. 
+--Negotiations with ART and with new entrants via the 
+interconnection committee. 
+--Discussion of rate levels (a comparison of the charges 
+proposed by FT and those given by the CMILT Bottom Up model). 
+--Comparison between the list of services proposed by FT and 
+the needs of the new entrants to improve the base offer. 
+--Final phase of direct negotiation between ART and FT. 
+--Approval and publication by ART at the end of the year (we 
+have noted that this usually occurs in November) to enter into 
+force on January 1. 
+ 
+¶8.  ART contacts told us that this process will be modified in 
+2005 under the new law.  The new process anticipates that FT 
+will publish its base offer without ART's preliminary approval. 
+ART can then ask FT to make modifications at any time.  Article 
+¶L. 38 of the new law, which transposed the EU framework 
+directive, inter alia, specifies that "The (SMP or dominant) 
+operators ... should publish a detailed account of technical 
+and rate aspects of the interconnection or access they are 
+offering, when they are obliged to be non-discriminatory.  ART 
+can impose modifications on such an offer at any time in order 
+to make it conform to the terms of the present code. To that 
+end, the operator communicates all necessary information to 
+ART."  This portion of the new law includes an obligation to 
+make interconnection and access information publicly available. 
+ART believes that this obligation applies to all of the 
+wholesale markets on which France Telecom exerts a dominant 
+position. 
+ 
+¶9.  FT's base offer must be sufficiently detailed to guarantee 
+that the companies are not obliged to pay for resources that 
+are not necessary for the requested service.  It will include a 
+clear description of the pertinent offers for the all wholesale 
+markets of narrow band services, accompanied by the technical 
+and rate conditions and the means of provision.  Adhering to 
+the access directive, ART will be able to specify the 
+information that is to be provided, the level of detail 
+required and the mode of publication.  The base offer will 
+specify the delays in application and the cancellation 
+conditions for the entirety of the services offered.  With 
+respect to delays in modifications of the base offer, rate 
+changes must be preceded by a warning sufficient to assure ART 
+and that the entire sector will be able to reflect these 
+developments in retail prices.  As for the benchmarks, our ART 
+contacts referred us to European Commission documents that give 
+detailed information about how difference countries are 
+performing in regards to leased line pricing.  (Post emailed 
+these EC documents to EB/CIP, USTR, and EUR/WE on March 4.) 
+With respect to the leased lines base offer, they also noted 
+that the Commission is currently considering "Methodology, 
+reference configuration and data of leased lines in Member 
+States."  Finally, on provisioning, ART officials said that a 
+sensible improvement is the first step toward a new European 
+framework.  The strengthening of ART's authority, and the 
+process of market analysis, are calculated to provide remedies 
+that are relative to the anticipated delivery in the base offer 
+of leased lines, which they viewed as fundamental criteria to 
+this type of market. 
+ 
+--------------------------------------------- ----------- 
+INDEPENDENCE OF THE REGULATOR / FAVORING THE INCUMBENTS 
+--------------------------------------------- ----------- 
+How does France reconcile the continued shared oversight of 
+France Telecom between ART and the Ministry of Finance with its 
+Reference Paper commitment to have an independent regulatory 
+body? Preferential loans recently extended to France Telecom 
+underscore this appearance of favoritism.  What steps, if any, 
+in the last year has the French government undertaken to 
+rectify this situation? 
+ 
+¶10.  In response to our questions on this subject, ART pointed 
+out that, on the one hand, the GOF reduced its stake in the 
+capital of FT.  Since September 2004, the state has no longer 
+been majority shareholder in FT (GOF currently owns 42.25%). 
+On the other hand, the ART is competent to accept or refuse the 
+rates of the dominant operators, i.e., there will no longer be 
+any "homologization" by the Minister of Industry to approve 
+ART's opinion.  The new regulatory framework confers new powers 
+on the regulator and reinforces its independence.  ART, and no 
+longer the Minister as was previously the case, acts alone to 
+homologize the retail rates, if necessary. 
+ 
+¶11.  ART officials assured us that analysis of the markets 
+follows a transparent process that limits the government's 
+power of intervention.  In this context, they noted their 
+activities with respect to public consultations, consultations 
+with the Competition Council and with the opinion of France's 
+highest Administrative Court, the State Council, as well as 
+other national regulators.  We have heard nothing from our 
+industry contacts to contradict ART's assurances regarding 
+transparency and independence of this process.  On the question 
+of illegal state aid Given to FT, our ART contacts made only 
+one comment:  the European Commission concluded that, although 
+it was a clear case of state aid, it did not justify a fine or 
+a demand for reimbursement. 
+ 
+¶12.  DIGITIP officials -- beyond noting that to implement the 
+new law which transposed the EU telecom framework directive 
+their role was "to give (regulatory) power to ART" as noted 
+above -- said that their current role is similar to the U.S. 
+Commerce Department's NTIA with, although they are somewhat 
+more involved in rulemaking.  DIGITIP sits on the industry side 
+of the GOF Ministry of Finance and Industry, but DIGITIP 
+officials nonetheless pointed out the Finance Ministry has 
+delegated authority to an independent Agency of State 
+Participation (known by the French acronym APE) to act on its 
+behalf as a shareholder in France Telecom and other companies 
+in which the GOF has capital holdings.  In our view, this is 
+meant in effect not only to create a Chinese wall behind which 
+the GOF can claim that it acts as an unbiased policymaker, but 
+also to de-politicize to the extent possible management of its 
+financial interests and thereby maximize the value of its 
+assets. 
+ 
+Leach

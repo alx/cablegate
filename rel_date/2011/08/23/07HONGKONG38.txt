@@ -1,0 +1,139 @@
+07HONGKONG38
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Fri Jan 05 00:00:00 +0100 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0008
+RR RUEHWEB
+
+DE RUEHHK #0038/01 0050714
+ZNR UUUUU ZZH
+R 050714Z JAN 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 0013
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000038 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+BEIJING FOR FCS JEANETTE CHU 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+ERQIANG TECHNOLOGY (H.K.) 
+REF: A) USDOC 06595 
+ 
+1.Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO) and Commercial Assistant 
+Sandy Lai conducted a pre-license check (PLC) at 
+Erqiang Technology (H.K.) (Erqiang), Flat 1105, Block 
+B, Ching Lai Court 264 Lai King Hill Road, Kowloon, 
+Hong Kong. The item in question is five ring polyphenyl 
+ether, classified under Export Control Classification 
+Number (ECCN) 1C006 and controlled for national 
+security (NS) reasons. If properly classified, this 
+item would most likely not require a license for export 
+to Hong Kong but would require a license to mainland 
+China.  The exporter is Arch Technology Holding LLC of 
+St. Charles, Missouri. 
+ 
+¶3.  The ECO and Commercial Assistant visited Erqiang at 
+the address referenced above on December 18, 2006 and 
+met with Ms. Hoi Ping Chu, representative of Erqiang 
+responsible for this shipment.  Erqiang's office is 
+located in a small flat in a residential building.  Ms. 
+Chu was open and forthcoming during the interview.  She 
+provided background on Erqiang and its business, which 
+involves the provision of logistics and freight 
+forwarding services on behalf of mainland Chinese 
+company, Photon Technology Co., Ltd. (Photon Shenzhen), 
+the foreign purchaser noted in Reftel A.  Ms. Chu 
+stated that Photon Shenzhen is the parent company of 
+Erqiang although Erqiang is not Photon Shenzhen's sole 
+logistics provider.  During the meeting, the ECO 
+noticed several boxes marked "Photon" in the Erqiang 
+office.  Ms. Chu stated that shipments for Photon 
+Shenzhen are sent to her (modest) office and she 
+arranges for their further shipment to Shenzhen. 
+ 
+¶4.  According to the Hong Kong companies registry, 
+Erqiang has been in existence since October 2000. Its 
+directors are Yi Shun Eunice Yeung and Er Qiang Zhao. 
+According to the Hong Kong companies registry, Erqiang 
+is collocated with another company, Photon Technology 
+Company Limited, established in 2003.  Ms. Chu is a 
+director of that company as is Ms. Sau Yuen Yeung who 
+was present during the meeting with Ms. Chu.  By 
+subsequent phone call, Ms. Chu clarified that Photon 
+Technology Company Limited is a sales office for Photon 
+Shenzhen and operates separately from Erqiang.  Ms. Chu 
+claimed not to know anything about another apparently 
+related company, Neophotonics Corporation Limited, 
+established in August 2004 but located in downtown Hong 
+Kong. 
+ 
+¶5.  A review of the Photon web site 
+(www.photontec.com.cn) suggests the following likely 
+relationship between the various companies. 
+Neophotonics, Inc. of San Jose California 
+(www.neophotonics.com) is the parent of Photon 
+Shenzhen.  Neophotonics and Photon Technology Co., Ltd. 
+merged in 2005.  Photon Shenzhen is the likely parent 
+of Erqiang and Photon Technology Company Limited (the 
+Hong Kong entity).  Neophotonics Corporation Limited is 
+likely the Hong Kong affiliate of Neophotonics, Inc. of 
+San Jose. 
+ 
+¶6.  With respect to the item that is the subject of the 
+PLC, Ms. Chu provided an "End User Application 
+Statement" signed by Zie Zhang, Supplier Management 
+Engineer for Photon Shenzhen (also identified in this 
+document as Neophotonics (China) Corp.).  In that 
+statement, Mr. Zhang confirms that all products of Arch 
+Technology Holding LLC (the license applicant) will be 
+used only in the manufacturing of modules and 
+components for telecommunications applications.  Ms. 
+Chu stated that she was unaware of Photon Shenzhen's 
+customers. 
+ 
+¶7.  Almost at the outset of the meeting, Ms. Chu asked 
+the ECO whether this transaction would require a Hong 
+Kong import and export license.  The ECO stated that he 
+was not expert in Hong Kong export control regulations 
+ 
+ 
+and Ms. Chu would likely obtain a definitive answer on 
+the subject from the Trade and Industry Department of 
+the Hong Kong Government (TID).  The ECO did, however, 
+note that this particular item was likely on TID's list 
+of items subject to control and that therefore a TID 
+license might well be required.  Ms. Chu seemed 
+disappointed at the prospect of requesting a TID 
+license, stating that she had had problems applying for 
+a TID license some years ago in relation to the import 
+of some products manufactured by Phillips.  She stated 
+that she had not applied for any TID licenses since 
+then. 
+ 
+¶8.  At the time visited, ERQIANG appeared to be a 
+suitable recipient of the controlled items (as 
+logistics provider to Photon Shenzhen) since it 
+cooperated with the PLC and has a line of business 
+consistent with its role in the transaction. The ECO 
+recommends that this PSV be classified as Favorable. 
+ 
+Sakaue

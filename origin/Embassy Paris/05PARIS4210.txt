@@ -1,0 +1,251 @@
+05PARIS4210
+FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR.
+Wed Jun 15 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+150941Z Jun 05UNCLAS SECTION 01 OF 03 PARIS 004210 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR); 
+EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR. 
+ABDELHAQ NABAOUI - PRINCIPAL CANDIDATE FOR INDIVIDUAL 
+PROGRAM. 
+ 
+REF: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 284 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - INDIVIDUAL Program - Abdelhaq Nabaoui 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 12 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Immigration 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Abdelhaq 
+M-NAME: 
+L-NAME: Nabaoui 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Universite Louis Pasteur 
+M-ADDR2: UFR de Sciences Physiques 
+M-ADDR3: 3-5, rue de l'Universite 
+M-CITY: Strasbourg 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 67084 cedex 
+M-ZIP: 
+M-PHONE: + (33) 3.90.24.06.91 
+M-FAX: + (33) 3.90.24.06.69 
+M-EMAIL: 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 07/15/1964 
+MAR-STAT: M 
+BIRTH-CITY: Safi 
+BIRTH-CNTRY: Morocco 
+CITIZ-CNTRY: Morocco 
+RES-CNTRY: France 
+START MEMO POSITION: 
+President of the Regional Council of Muslim Faith of Alsace, 
+since June 2003 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Regional Representative of the Union of Muslim Organizations 
+of France 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1998-2003 - Full time professor of physics at the University 
+of Strasbourg 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+- PhD in Physical Science, University Louis Pasteur, 
+Strasbourg 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+April to October 2004 - 4 articles on the website "oumma.com" 
+- "L'Incendie d'un lieu de culte Musulman" 
+- "Profanation de 50 tombes Musulmanes a Strasbourg" 
+- "L'Islamophobie se dechaine a Strasbourg" 
+- "Inquietant climat islamophobe a Strasbourg" 
+articles written after the profanation of Muslim tombs in 
+Strasbourg, and the climate of phobia against Islam 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+No pork 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: Arabic 
+ENGL-READ: 1 
+ENGL-SPEAK: 1 
+ENGL-COMP: 1 
+START OTHER-LANGS: 
+OTHER-LANG: French 
+OTHER-LANG-ID: FR 
+READ: 5 
+SPEAK: 5 
+COMP: 5 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Outreach to the Islamic community is a major facet of 
+Mission's MPP. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+We would recommend that Abdelhaq Nabaoui meet with experts on 
+Islamic integration, such as 
+ Jack Miles, Senior Adviser to the President of the Paul 
+Getty Trust Foundation Supporting Arts and Scholarship, 
+California; 
+ Peter Mandaville, Director, Center for Global Studies, 
+George Mason University, Virginia; 
+ Catherine Cosman, Senior Policy Analyst, U.S. Commission on 
+International Religious Freedom, Washington, D.C.; 
+ Yvonne Yazbeck Haddad, Professor of History of Islam and 
+Christian-Muslim Relations, Georgetown University, Washington, 
+D.C. 
+ Amir Hussain, Department of Religious Studies, California 
+State University, Northridge; 
+ Jonathan Friedlander, Center for Near Eastern Studies, UCLA; 
+UCLA; 
+ Mustafa Ahmed, Director, Foundation for Islamic Education, 
+Villanova, Pennsylvania; 
+ Faheen Schuaibe, Imam, Oakland, California. 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Christopher Davis; Genevieve Thomassin 
+START MEMO NOMINATING-JUSTIFICATION: 
+Abdelhaq Nabaoui has the delicate task of being the first ever 
+president of the Alsace Muslim Regional Council (Conseil 
+Regional du Culte Musulman, CRCM), established in 2003. 
+Islamic tendencies in Alsace reflect those elsewhere in 
+France, with the added feature of stronger Turkish 
+representation, given the proximity to the large Turkish 
+immigrant population in Germany.  Nabaoui and his UOIF list 
+joined forces with the Turkish Milli Gorus list to win nine of 
+21 seats in the CRCM board.  Nabaoui himself emerged as the 
+strongest consensual candidate for president. 
+With such diversity, even rivalry, among tendencies obliged to 
+o 
+cohabitate in artificial constructs such as the CRCM, all is 
+not sweetness and light within the CRCM.  Nabaoui contends, 
+however, that the cooperation within the Alsace CRCM is better 
+than that at the national level (Conseil Francais du Culte 
+Musulman, CFCM). 
+In fact, Abdelhaq Nabaoui has won the respect of regional 
+officials, regional representatives of the GOF, and academics 
+for his outreach (more than 200 visits) to the Islamic 
+community in Alsace, and to local and regional authorities, 
+raising their awareness on issues facing local Muslim 
+populations.  And vice versa.  For example, Nabaoui was 
+instrumental in getting the regional Muslim community to 
+support the GOF's position on headscarf legislation during the 
+Chesnot-Malbrunot hostage crisis, from August to December 
+¶2004.  He nonetheless feels that the GOF, which created the 
+CRCMs, is not doing enough to provide office space and 
+accoutrements to them. 
+Nabaoui has assumed his responsibilities at some sacrifice, 
+taking a cut in pay in his teaching profession of about 500 
+euros per month to give himself the time for his outreach 
+activities. 
+Abdelhaq Nabaoui is now one of the prominent Islamic leaders 
+in Alsace. While it is too early to tell who will emerge as 
+president of the next CRCM after elections in June, Nabaoui 
+should continue to be an influential moderate in the Muslim 
+community. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: AmConGen Strasbourg, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: INTERPRETER 
+NOMINEE-ID: 571 
+PERSON-ID: 470 
+BIRTH-CNTRY-ID: MO 
+CITIZ-CNTRY-ID: MO 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: AR 
+E-I-TYPE-ID: I 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

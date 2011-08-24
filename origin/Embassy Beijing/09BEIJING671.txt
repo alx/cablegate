@@ -1,0 +1,218 @@
+09BEIJING671
+China's Center for Resources Satellite Data and Application
+Mon Mar 16 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Beijing
+VZCZCXRO0106
+PP RUEHCN RUEHGH RUEHVC
+DE RUEHBJ #0671/01 0750555
+ZNR UUUUU ZZH
+P 160555Z MAR 09
+FM AMEMBASSY BEIJING
+TO RUEHC/SECSTATE WASHDC PRIORITY 2892
+INFO RUCPDOC/USDOC WASHDC
+RUEHC/DEPT OF INTERIOR WASHDC 0747
+RUCPDOC/DEPT OF COMMERCE WASHDC
+RUEHRC/USDA FAS WASHDC
+RUCPDC/NOAA NMSF WASHDC
+RUEANAT/NASA WASHINGTON DC
+RHMFIUU/NSF WASHDC
+RUEKJCS/SECDEF WASHDC
+RUEHMO/AMEMBASSY MOSCOW 9241
+RUEHRL/AMEMBASSY BERLIN 1757
+RUEHNE/AMEMBASSY NEW DELHI 4776
+RUEHFR/AMEMBASSY PARIS 4508
+RUEHOT/AMEMBASSY OTTAWA 4098
+RUEHLO/AMEMBASSY LONDON 3501
+RUEHBY/AMEMBASSY CANBERRA 9671
+RUEHKO/AMEMBASSY TOKYO 2457
+RUEHUL/AMEMBASSY SEOUL 1118
+RUEHBS/USEU BRUSSELS
+RUEHVI/AMEMBASSY VIENNA 0264
+RUEHOO/CHINA POSTS COLLECTIVEUNCLAS SECTION 01 OF 03 BEIJING 000671 
+ 
+STATE FOR OES/SAT, EAP/CM, ISN/MDSP AND T 
+NASA/OFFICE OF EXTERNAL RELATIONS FOR A/A O'BRIEN 
+TOKYO FOR NASA ATTACHE TILMAN 
+INTERIOR PASS TO USGS/TIM STRYKER, BRAD REED 
+USDA/FAS FOR OGA/HOUSE 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: TSPA TSPL TPHY PREL CH
+SUBJECT: China's Center for Resources Satellite Data and Application 
+(CRESDA) Seeks Greater Collaboration 
+ 
+REFS:  A) BEIJING 668 
+        B) STATE 020889 
+ 
+Summary 
+------- 
+¶1.  (SBU) Officials from the China Center for Resources Satellite 
+Data and Application (CRESDA)--operators of the China-Brazil Earth 
+Resource Satellites (CBERS)--met with ESTHCOUNS and ESTHOFFS on 
+March 10 to discuss areas of potential cooperation with USG 
+organizations. CRESDA proposals for collaboration included 1) 
+setting up a CBERS imagery reception site in the United States; 2) 
+working with U.S. satellite operators to improve CBERS data 
+processing and archiving efficiency; 3) using sites in China and the 
+U.S. to conduct radiometric calibration of U.S. LANDSAT and CBERS 
+sensors; and 4) a remote sensing scholarly exchange.  CRESDA 
+Director Dr. GUO Jianning also emphasized that unreasonably long 
+wait times to secure visas to the U.S. are hindering scientific 
+collaboration. 
+ 
+CRESDA Must Vet International Agreements through CNSA 
+--------------------------------------------- -------- 
+¶2.  (SBU) Following a brief introduction to CRESDA operations by 
+CRESDA environmental processing expert Mr. WANG Zhigang, ESTHCOUNS 
+requested details regarding which Chinese entities are ultimately 
+responsible for negotiating and implementing international satellite 
+data exchanges and agreements.  Guo made clear that CRESDA reports 
+to not only the State Administration for Science, Technology, and 
+Industry for the National Defense (SASTIND)--the organization that 
+oversees the management of China's defense industries, and 
+ultimately to the National Development Reform Commission (NDRC)--but 
+also to the China National Space Administration (CNSA).  Guo also 
+stated that cooperation is "never easy or smooth" when it comes to 
+data exchanges and in CRESDA's case, CNSA would have the final say 
+in any agreement between CRESDA and a USG organization. 
+Nevertheless, Guo said that SASTIND Vice Minister SUN Laiyan (who 
+serves concurrently as CNSA Administrator) is eager to promote CBERS 
+imagery distribution world-wide. Guo also indicated that CRESDA has 
+more leeway to negotiate agreements when not at a 
+government-to-government level. 
+ 
+CRESDA Proposes Four Key Areas of Collaboration 
+--------------------------------------------- -- 
+¶3.  (SBU) CRESDA's most forward-leaning proposition for cooperation 
+calls for upgrading an existing U.S. ground station to receive CBERS 
+imagery directly. Guo noted that CRESDA currently has agreements 
+with South Africa, Spain, and Italy to outfit existing ground 
+stations with CRESDA-produced black boxes that downlink CBERS 
+imagery directly.  Guo said that it would be a relatively simple 
+procedure and that CRESDA would be willing to upgrade a LANDSAT 
+facility with the necessary equipment.  When asked if this imagery 
+would be freely available to users in the  United States (as it is 
+to users in China, Africa, and the Caribbean), Guo said that CRESDA 
+still would be required to charge developed countries for downloaded 
+images.  (NOTE:  Guo did not mention any designs to sell CBERS 
+imagery on a large-scale commercial basis to "developed" markets; 
+however, Post views this as a likely potential long-term goal for 
+the Chinese.  END NOTE.) 
+ 
+¶4.  (SBU) Guo directly stated that CRESDA someday hopes to have 
+access to U.S. technologies (currently denied to China) to improve 
+the performance of China's earth observation satellites.  He noted 
+that CRESDA's first ground processing system for the CBERS-1 
+satellite was built by U.S. firm Hughes Network Systems in the 
+mid-90s.  Following the imposition of U.S. technology transfer 
+ 
+BEIJING 00000671  002 OF 003 
+ 
+ 
+restrictions, CRESDA had been forced to develop its own, less 
+efficient data processing systems.  He also underscored the point by 
+noting that CBERS-3 and -4 are more than a year behind schedule 
+because Brazil has been unable to procure long-lead, charged couple 
+device (CCD) sensor components from the United States.  Brazil was 
+responsible for developing the high-resolution imaging camera for 
+these satellites and had selected the proscribed U.S. CCD 
+technology, although Guo did not comment on how Brazil intended to 
+move forward without these components.  Guo acknowledged that access 
+to U.S. aerospace technology would be unlikely in the near-term, but 
+said that he would be interested in understanding how U.S. satellite 
+operators manage tasking requirements from a multitude of users, in 
+order to improve CRESDA's own tasking process.  He specifically 
+expressed interest in meeting with U.S. Geological Survey (USGS) 
+officials to discuss how their Earth Resource Observation and 
+Science (EROS) Center does data processing and archiving. 
+ 
+¶5.  (SBU) ESTHOFF raised USGS' interest in using China's Dunhuang 
+satellite calibration site located in the Gobi Desert.  Guo said 
+that CRESDA would be interested in jointly establishing radiometric 
+calibration standards for both U.S. and Chinese earth observation 
+satellites and proposed cross-calibrating LANDSAT and CBERS 
+satellites using the ground calibration site in White Sands, New 
+Mexico and Dunhuang (in Gansu Province).  CRESDA had been working on 
+a similar program with the French space agency CNES and French 
+commercial satellite firm SPOT for the last four years to calibrate 
+SPOT sensors using the Dunhuang site, in part to increase the number 
+of SPOT imagery users in China. 
+ 
+¶6.  (SBU) Finally, Guo proposed a scholarly exchange with U.S. 
+universities or possibly U.S. government organizations that would 
+bring U.S. experts to work for some period of time at CRESDA.  Guo 
+said that CRESDA has a similar program in place with France's CNES. 
+Guo mentioned in particular a remote sensing center at the 
+University of Maryland as a top choice for establishing a formal 
+exchange program, although CRESDA seemed open to other possibilities 
+as well. 
+ 
+Visa Wait Times Continue to Hinder Cooperation 
+--------------------------------------------- - 
+¶7.  (U) CRESDA also raised the issue of lengthy visa wait times 
+throughout the discussion.  Guo said that he had tried to attend two 
+USGS-sponsored meetings in the United States in 2007 but had been 
+unable to get his visa in time.  ESTHOFF noted that the visa wait 
+time for scientists subject to administrative processing continues 
+to grow and is now at 16 weeks, making it extremely difficult to 
+plan exchanges.  On a more positive note, ESTHCOUNS informed CRESDA 
+officials of the recent decision to grant multiple entry visas with 
+one-year validity, following successful completion of administrative 
+processing, which would alleviate the need for return visitors to go 
+through the three-plus month application process again (within one 
+year)(REF B) In the event of future exchanges or meetings between 
+CRESDA and USG personnel in the United States, ESTHOFF suggested 
+CRESDA work closely with the Embassy to ensure that a letter of 
+invitation from the sponsoring USG organization be crafted with 
+meeting dates far enough out so that visa applications can be 
+processed in time. 
+ 
+CRESDA's Capabilities Set to Expand 
+----------------------------------- 
+¶8.  (SBU) In addition to the CBERS satellites, CRESDA also operates 
+the Huanjing-1A and -1B earth observation satellites.  With plans to 
+launch CBERS-3 and -4 and a third HJ satellite (HJ-1C)in the next 
+two years, CRESDA has begun construction on a new facility next to 
+ 
+BEIJING 00000671  003 OF 003 
+ 
+ 
+its existing Beijing site that will be capable of processing data 
+concurrently from five satellites, which would carry a variety of 
+imaging sensors including visible, multi-spectral, hyper-spectral, 
+and synthetic aperture radar (SAR).  CRESDA officials also noted 
+that they are planning a new data reception site in Thailand that 
+will be used to receive HJ data. 
+ 
+¶9.  (SBU) ESTH officers were given a tour of the data processing 
+facility and shown CRESDA's new "quick look" capability, developed 
+to provide near real-time high-resolution imagery from China's HJ-1A 
+and -1B satellites.  CRESDA officials said that while the HJ 
+satellites are in view of a ground site, they are able to downlink 
+the data, run basic image processing, and output the final pictures 
+to the user within ten minutes.  CRESDA engineers are now also able 
+to stitch individual images together to provide a kind of "video" 
+effect, as if the user were flying over a swath of land and looking 
+out a window.  CRESDA officials stated that this information can be 
+transmitted directly to several Chinese government entities over 
+recently-installed fiber optic lines capable of very high-data 
+throughput. 
+ 
+¶10.  (SBU) COMMENT: CRESDA officials were remarkably open regarding 
+their data processing capabilities and eager to impress visiting 
+Embassy officers.  It was evident during a tour of the ground 
+processing facility that CRESDA officials believe they are now 
+approaching capabilities comparable to the United States, with one 
+Chinese official claiming that the United States and China are the 
+only two countries with hyper-spectral satellite imaging 
+capabilities.  Moreover, as CRESDA continues to expand its sensor 
+capabilities and grow its network of data reception sites around the 
+world, CRESDA will likely become a leading supplier of free 
+satellite imagery products and earth observation data to Asia, 
+Africa, and Latin America. END COMMENT 
+ 
+WEINSTEIN

@@ -1,0 +1,99 @@
+07MOSCOW4264
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Thu Aug 30 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0018
+PP RUEHWEB
+
+DE RUEHMO #4264 2420926
+ZNR UUUUU ZZH
+P 300926Z AUG 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3431
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 004264 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/DMUSLU 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+KAMENSK-URALSKY CITY ADMINISTRATION, KAMENSK-URALSKY, 
+RUSSIA, LICENSE NO. D362161 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Kamensk-Uralsky City Administration, Kamensk- 
+Uralsky, Russia. The company is listed on BIS license 
+application D362161 as the ultimate consignee of a 
+spectrometer, Air Sentry-IMS ion mobility gas 
+analyzer.  This item is controlled for national 
+security and regional stability reasons under ECCN 
+2B351. The licensee is Particle Measuring Systems 
+Inc., 5475 Airport Blvd., Boulder, CO 80301. 
+ 
+¶3. On August 21, 2007, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested post-shipment verification with Kamensk- 
+Uralsky City Administration, Kamensk-Uralsky  and 
+Center of Ecological Monitoring and Control (CEMC), 
+Yekaterinburg, Russia. The export control team met 
+with Aleksandr Yeremin, Director of Sverdlovsk 
+Regional State Organization "Center of Ecological 
+Monitoring and Control" Yekaterinburg and Elena 
+Pshinitsina, Head of Ecology Department of Kamensk- 
+Uralsky City Administration, Kamensk-Uralsky. 
+ 
+¶4. The CEMC was founded in February, 2001 as the 
+official environmental monitoring and reporting 
+service for the region.  The organization has no 
+commercial activities, and works only on government 
+tasks.  The principal activity of CEMC is the analysis 
+of environmental conditions in the region, and annual 
+reporting of the environmental conditions and their 
+potential impact on health.  The organization employs 
+116, and is headquartered in Yekaterineburg with 
+personnel and equipment deployed throughout the 
+region. 
+ 
+¶5. The commodity in reftel is utilized to monitor the 
+level of Hydrogen Fluoride (HF) present in ambient air 
+samples in the city of Kamensk-Uralsk, a city located 
+approximately 40 km East of Yekaterineburg.  The city 
+is home to eight industrial factories and metal works. 
+ 
+¶6.  The team was shown a Molecular Analytics Air 
+Sentry IMS HF analyzer, serial number 1188AN, which is 
+rack-mounted with similar equipment in a monitoring 
+shack.  The shack is located on a hill approximately 
+2km from the city center in a small field adjacent to 
+a multi-story housing complex. Only two specialists 
+have access to the shack.  The shack has a motion- 
+sensor electronic security system that is monitored by 
+the Ministry of Internal Affairs (Russian acronym MVD) 
+Militsia, who will respond in the case of unauthorized 
+entry.  NOTE: MVD Militsia is the principal law 
+enforcement organization in the Russian Federation. 
+END NOTE. Mr. Yeremin and Ms. Pshinitsina are familiar 
+with the conditions of the license. 
+ 
+¶7. Recommendations: Post recommends Kamensk-Uralsky 
+City Administration, Kamensk-Uralsky and Sverdlovsk 
+Regional State Organization "Center of Ecological 
+monitoring and control" Yekaterinburg, Russia as 
+reliable recipients of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

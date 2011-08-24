@@ -1,0 +1,92 @@
+08HONGKONG1006
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Tue Jun 03 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0008
+RR RUEHWEB
+
+DE RUEHHK #1006 1550836
+ZNR UUUUU ZZH
+R 030836Z JUN 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 5012
+RHMFIUU/HQ BICE WASHINGTON DC
+RUEHGP/AMEMBASSY SINGAPORE 3870UNCLAS HONG KONG 001006 
+ 
+USDOC FOR 532/OEA/MNICKSON-DORSEY /LLAUCIUS 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+SINGAPORE FOR FCS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP ETRD ETTC HK
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+QIOPTIQ SINGAPORE PTE LTD 
+ 
+REF: A) USDOC 01388 B) D375449 C) USDOC 01392 D) D383909 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Regional Export Control Officer Philip Ankel (ECO) 
+conducted two post shipment-verifications (PSVs) at Qioptiq 
+Singapore Pte. Ltd., 14 Fifth Lok Yang Road, Jurong Town, Singapore 
+(Qioptiq). The items in question are two Moore Nanotechnology 
+Nanotech 2-Axis turning lathes exported to Qioptiq on or about July 
+20, 2007 and November 8, 2007.  The items are classified under 
+Export Control Classification Number (ECCN) 2B001 and are controlled 
+for national security (NS) and nuclear nonproliferation (NP) 
+reasons.  The exporter was Sachman Associates of Sudbury, 
+Massachusetts. 
+ 
+¶3.  According to the Singapore companies registry, Qioptiq was 
+registered in 2005 and its registered share capital is the Singapore 
+dollar equivalent of approximately USD 2.25 million.  Its directors 
+are Singapore citizens, Lee, Seng Gey and Chua Teow Tzing as well as 
+French citizen Benoit Bazire. 
+ 
+¶4.  A review of the company's web site (www.quioptiq.com.sg) reveals 
+that the company specializes in providing design and manufacturing 
+of precision optical components and assemblies for night vision, 
+defense, medical and commercial applications.  It has been in 
+operation (under different names) since 1974.  More information 
+about the range of the company's activities can be found on its web 
+site. 
+ 
+¶5.  On April 21, 2008, the ECO, accompanied by a representative of 
+Singapore Customs, visited the company and met with Mr. Wong, Chung 
+Cheong, Export Control Officer, Mr. Jenny Choo, Supply Chain Manager 
+and Mr. Jim McShane, Export Compliance Manager.  Mr. McShare is 
+known to the ECO and is a former senior manager in the State 
+Department's Office of Defense Trade Controls.  Mr. McShane provided 
+additional information about the company.  He stated that he had 
+been brought into the company in 2005 to enhance its overall export 
+compliance program and bring it into compliance with international 
+standards. 
+ 
+¶6.  As to the particular items in question, Mr. McShane stated that 
+they were being used in the production of defense related as well 
+civil products (but no WMD related products).  He stated that the 
+company is expanding its business and has two additional machines on 
+order and is expecting those in June 2008.  The customers for its 
+products include military buyers in the United States, Pakistan, 
+Israel, NATO and the UAE. 
+ 
+¶7. ECO verified that Qioptiq was informed of the applicable license 
+conditions (as required by the relevant licenses) and that it keeps 
+a production log as required by those licenses.  ECO verified the 
+two machines are at the company's premises (Serial # 2007-66-CPL and 
+2007-70-CPL). 
+ 
+¶8.  At the time visited, Qioptiq appeared to be a suitable recipient 
+of the commodities shipped since Qioptiq cooperated with the PSV, 
+provided ECO with access to the items and related documents and 
+operates a line of business consistent with the use of the items. 
+Also, Qioptiq is familiar with the applicable license conditions and 
+expressed its commitment to comply with them.

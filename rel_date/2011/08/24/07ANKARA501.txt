@@ -1,0 +1,181 @@
+07ANKARA501
+EXCITEMENT AND FRUSTRATION IN TURKEY'S TELECOM SECTOR
+Tue Mar 06 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ankara
+VZCZCXRO6739
+RR RUEHAG RUEHAST RUEHDA RUEHDBU RUEHDF RUEHFL RUEHIK RUEHKW RUEHLA
+RUEHLN RUEHLZ RUEHROV RUEHSR RUEHVK RUEHYG
+DE RUEHAK #0501/01 0651108
+ZNR UUUUU ZZH
+R 061108Z MAR 07
+FM AMEMBASSY ANKARA
+TO RUEHC/SECSTATE WASHDC 1219
+INFO RUCPDOC/USDOC WASHDC
+RUEHZL/EUROPEAN POLITICAL COLLECTIVE
+RUEHIT/AMCONSUL ISTANBUL 2258
+RUEHDA/AMCONSUL ADANA 1712
+RUEAFCC/FCC WASHDCUNCLAS SECTION 01 OF 02 ANKARA 000501 
+ 
+SIPDIS 
+ 
+USDOC FOR 4212/ITA/MAC/CPD/CRUSNAK 
+FCC FOR A THOMAS AND A WEINSCHENK 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS EINT EINV TU
+SUBJECT: EXCITEMENT AND FRUSTRATION IN TURKEY'S TELECOM SECTOR 
+ 
+REF: A) ANKARA 49 
+ 
+B) 06 ANKARA 6055 
+ 
+ANKARA 00000501  001.2 OF 002 
+ 
+ 
+Sensitive But Unclassified.  Please handle accordingly. 
+ 
+¶1. (SBU) Summary: Fresh from participation at the annual 3GSM World 
+Conference in Barcelona, participants at a recent telecom sector 
+conference in Istanbul were agog with new visions, technology, and 
+opportunities.  Coming back to earth, there was widespread 
+frustration with recently privatized and still dominant (in fixed 
+line) Turk Telekom continuing to seek to stifle competition, rather 
+than seek to increase market share.  Moreover, the well-intentioned 
+telecom regulatory authority is still perceived as slow in 
+implementing new licenses.  Real competition is emerging between 
+Turk Telecom and the livelier mobile sector, where penetration has 
+surpassed well over that in fixed line.  The President of the 
+Telecom Board aims to lead a delegation to meet with the FCC in 
+April.  Embassy Telecom Officer gave a speech on Internet regulation 
+at the conference.  End Summary. 
+ 
+---------------------------------------- 
+Brave New World of 3G, WIMAX, and Beyond 
+---------------------------------------- 
+ 
+¶2.  (SBU) The 6th "Steam" Telecommunications Conference in Istanbul 
+February 22-23 brought together a wide representation of Turkey's 
+public and private telecom sector participants to seek to answer the 
+question: "Is the (telecom) process meeting expectations?"  By 
+videoconference from Bodrum, Minister of Transportation and 
+Communication Binali Yildirim emphasized the government's commitment 
+to developing the newest telecom technology and services in Turkey. 
+He noted that mobile penetration had reached 73 % (53 million 
+subscribers) versus fixed line 26% (19 million).  He voiced 
+commitment to increasing broad-band penetration beyond the current 
+5% (three million). 
+ 
+¶3.  (SBU) Telecom Board President Tayfun Acarer said that the 
+regulatory body was preparing for licensing number portability, 
+E-signature, 3G, and WiMax.  The time frame is imminent for the 
+first two and six months for 3G.  WiMax is still under research. 
+Another regulator rep stressed that the board was active in moving 
+forward on value-added services.  He asserted that there would soon 
+be clarification in the three levels of long-distance service (A, B, 
+and C) and that the Board was finalizing a new basic fixed line 
+service license. 
+ 
+------------------------- 
+What is Fair Competition? 
+------------------------- 
+ 
+¶4.  (SBU) Turk Telekom General Manager Paul Doany was very defensive 
+about steady criticism of Turk Telecom for alleged unfair 
+competition.  He claimed that his company had never delayed any 
+rulings from the regulator.  Doany defended recent price changes 
+(decrease in long distance, where there is competition, and increase 
+in local service where there is still a monopoly), claiming that he 
+was clear at the time of privatization for a need to rebalance 
+tariffs.  He defended Turk Telecom as following the same business 
+approach of other former monopoly providers like Deutsche Telecom 
+and France Telecom.  Doany complained that Turk Telekom faced 
+"unfair competition" in high, unfair inter-connection fees with 
+Turkcell, the dominant mobile carrier, asserting that these charges 
+were not cost based.  He also complained that Turk Telecom's mobile 
+company AVEA had paid ten times the license fee of others in return 
+for unrealized promised services. 
+ 
+¶5.  (SBU) Representing his own company Satko and long-distance 
+operators (Telkoder), Mehmet Celebiler engaged in a lively debate 
+with Turk Telekom's number two, almost coming to fisticuffs over 
+Turk Telekom's alleged go-slow and say-no approach to competition. 
+ 
+¶6.  (SBU) Internet service provider Superonline DG Savas Unsal noted 
+there was some progress in the six years since the onset of 
+liberalization, but market participants were unsatisfied.  He said 
+his company had established many WiFi hot-spots at airports and 
+hotels and was pleased to have a WiMax testing license in 
+collaboration with Motorola and Alcatel-Lucent for 3.5 GHz operation 
+in the Asian part of Istanbul.  He called for increased public 
+awareness of WiMax potential and urged the regulatory board to move 
+more quickly on licensing.  Unsal also called for quick action from 
+the board on 3G licenses.  He said that WiMax was a revolution, not 
+evolution. 
+ 
+¶7.  (SBU) Dr. Osman Dur, DG of state-owned Turksat, which inherited 
+cable service from Turk Telecom's privatization, claimed that 
+ 
+ANKARA 00000501  002.2 OF 002 
+ 
+ 
+Turksat "is not a monopoly.  We are an infrastructure, and we are 
+ready to share."  He admitted that cable Internet service had much 
+greater potential than had been realized.  He commented that Turkish 
+private sector licensees could establish their own network, but they 
+have not pursued this.  Critics express frustration that cable could 
+have opened up greater competition, but the Competition Authority 
+required the cable business to be split from Turk Telekom to Turksat 
+ahead of the privatization. 
+ 
+--------------------------------------------- ---- 
+Stifling Competition, Rather than Building Market 
+--------------------------------------------- ---- 
+ 
+¶8.  (SBU) In a private conversation on the margins of the 
+conference, Dogan Telecom General Manager Cem Erkun painted an 
+overwhelmingly negative story of Turkey's slow liberalization.  He 
+claimed that the Telecom Authority has still not been able to 
+exercise independence and is slow to intervene or enforce rulings. 
+Erkun asserted that Turk Telekom aimed to beat up competitors, 
+rather than increase the market.  He complained that Turk Telekom 
+remains a difficult partner on interconnection, seeking to unfairly 
+use court cases to infringe Dogan's and others' use of VOIP.   Erkun 
+complained that given Turk Telekom's former government status and 
+connections, Dogan encounters obstacles at every step and place in 
+seeking right of way when they consider investing in new 
+infrastructure. 
+ 
+¶9.  (SBU) Erkun said only Dogan Telecom and Superonline have been 
+successful in re-marketing ADSL broad-band service slots from Turk 
+Telecom, because of either substantial media (national Hurriyet for 
+Dogan) or distribution assets.  Erkun noted that Dogan began 
+marketing its service with free modems and Turk Telecom then started 
+to give away modems.  He noted that Turk Telecom still exhibited 
+large differences in its approach depending on the city, meaning 
+that in some cities Dogan could not get ADSL slots or reasonable 
+follow-up.  Erkun echoed many of his peers in expressing frustration 
+in waiting for WiMax. He saw 3G as a dead and distracting 
+technology, given the lack of success in Europe (too much money paid 
+for licenses).  Erkun noted that Dogan was Skype's local partner in 
+Turkey and lauded this low margin but high volume business. 
+ 
+¶10.  (SBU) COMMENT: Effective competition is now occurring between 
+mobile (dominant Turkcell plus two other lesser operators) and fixed 
+line Turk Telekom.  Penetration is rapidly increasing in mobile 
+where there is substantial competition.  Turk Telekom continues to 
+successfully argue that it has made substantial investment in fixed 
+line infrastructure, so it has maintained its monopoly on local 
+calls and continues to exercise dominance over long distance.  The 
+wide-eyed excitement about new technology is dampened by Turk 
+Telekom's delaying tactics and a slow program and limited 
+independence on the part of the regulator.  Telecom Board President 
+Tayfun Arcarer intends to lead a delegation to Washington to meet 
+with the FCC in April.  Contact between our regulators could be very 
+useful in empowering and influencing the relatively young Turkish 
+regulator. 
+ 
+Wilson

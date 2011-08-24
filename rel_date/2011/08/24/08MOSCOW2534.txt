@@ -1,0 +1,118 @@
+08MOSCOW2534
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Mon Aug 25 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0006
+PP RUEHWEB
+
+DE RUEHMO #2534/01 2380906
+ZNR UUUUU ZZH
+P 250906Z AUG 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 9670
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 002534 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/L.RITTER/M.HAMES 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+ELVIRA PRODUCTION CO., ZHELEZNODOROZHNY, RUSSIA, 
+LICENSE NO. D390095 
+ 
+REFTEL: USDOC 04948 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Elvira Production Co., Zheleznodorozhny, Moscow 
+Region, Russia. The company is listed on BIS license 
+application D390095 as the ultimate consignee of 
+sixteen (16) model no. HMC559, GAAS MMIC PHEMT 
+distributed amplifier die which operates between DC 
+and 20 GHZ. These items are controlled for national 
+security (NS), anti-terrorism (AT), missile technology 
+(MT), and nuclear proliferation (NP) reasons under 
+ECCN 3A001. The licensee is Hittite Microwave 
+Corporation, 20 Alpha Road, Chelmsford, MA 01824. 
+ 
+¶3. On August 21, 2008, Export Control Attach Peter 
+Liston and conducted the requested post-shipment 
+verification with Elvira Production Co., 
+Zheleznodorozhny, Moscow Region, Russia. The ECO 
+Liston met with Anatoliy Belchikov, General Director, 
+and Sergey Belchikov, Sales Director at their offices 
+located at 10 Zavodsava Street, Zheleznodorozhny, 
+Moscow Region, Russia. 
+ 
+¶4. According to Sergey Belchikov, Elvira Products Co. 
+was established in 1993, and specialized at that time 
+in the development of surveillance and counter- 
+surveillance equipment for Russian law enforcement. 
+As that industry became saturated in Russia, Elvira 
+moved to entry detection equipment with critical 
+monitoring applications, primarily de-bugging 
+equipment.  The vast majority of their customers were 
+still Russian law enforcement.  However, Sergey 
+Belchikov indicated that with the growth of the 
+Russian private sector, also came the growth of 
+economic espionage and the need protect "confidential 
+information".  Elvira was able to bypass strict legal 
+restraints on the sale of their equipment to the 
+private sector by marketing their products as 
+protecting confidential information, and not 
+surveillance detection equipment.  Elvira still 
+manufactures non-linear detection equipment, or NLJD, 
+called the Lornet 24 and were clear in advising the 
+ECO that no U.S. licensable technology goes into it. 
+Elvira has approximately 110 employees all located at 
+the complex visited by the ECO.  Elvira is moving to a 
+brand new 300 square meters gated complex located 
+adjacent to their current operations that is still 
+under construction and which they will own. 
+ 
+¶5. Elvira is also in the business of manufacturing 
+Network Analyzers similar to those manufactured by 
+Agilent Technology.  Elvira's Network Analyzers will 
+accurately characterize components by measuring their 
+effect on the amplitude and phase of swept-frequency 
+and swept power test signals.  The 16 model HMC559, 
+GAAS MMIC PHEMT distributed amplifier die will be used 
+in the manufacture of the Elvira Network Analyzers. 
+Sergey Belchikov presented the 16 Hittite amplifier 
+die to the ECO for inspection, and stated that based 
+upon the delivery schedule they were not sure that 
+they would have had them in time for their last 
+manufacturing schedule and that is why they have not 
+utilized them as of yet.  Sergey Belchikov indicated 
+that Elvira makes two different model Network 
+Analyzers, one with the licensable Hittite amplifiers 
+and one without.  Their target market are the Russian 
+companies on budgets that cannot afford the higher end 
+Agilent Technology type Network Analyzers. 
+ 
+¶6.  Based upon the interview conducted by ECO Liston 
+it is believed that Elvira Production Co. LTD will be 
+utilizing the subject commodity for which it is 
+licensed.  They were open and forthwith to all 
+questions presented by the ECO and were not evasive. 
+The entire shipment was accounted for and there is no 
+indication of impropriety. 
+ 
+¶7. Recommendations: Post recommends Elvira Production 
+Co., Zheleznodorozhny, Moscow Region, Russia, Russia 
+as a reliable recipient of sensitive U.S. origin 
+commodities. 
+ 
+ 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

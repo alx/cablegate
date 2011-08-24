@@ -1,0 +1,158 @@
+09HONGKONG604
+EXTRANCHECK: POST SHIPMENT VERIFICATION: TECHWING
+Wed Apr 01 00:00:00 +0200 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0007
+RR RUEHWEB
+
+DE RUEHHK #0604/01 0910533
+ZNR UUUUU ZZH
+R 010533Z APR 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 7297
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000604 
+ 
+USDOC FOR 532/OEA/MNICKSON/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: TECHWING 
+ELECTRONICS LIMITED 
+ 
+REF: A) USDOC 00043 (2009) B) USDOC 07200 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment-verification (PSV) at Techwing Electronics Limited, 
+Units 701-703, 7/F, Shing Yip Industrial Building, 19/21 Shing Yip 
+Street, Hong Kong (Techwing). The items in question are two 
+shipments of Xilinx electronic ICs exported to Techwing on or about 
+May 20, 2008 and January 7, 2008 and valued at USD 2450 and USD 
+13,500 respectively.  On the applicable shippers export declarations 
+(SED), these items are classified under export control 
+classification number (ECCN) 3A001 and, if properly classified, 
+would be controlled for national security (NS) reasons.  The 
+exporter was America II Electronics of Saint Petersburg, Florida. 
+ 
+¶3.  Techwing does not appear to exist in any of the applicable Hong 
+Kong government corporate or tax registries. 
+ 
+¶4.  Web research revealed a web site for Techwing Electronics 
+Limited.  That web site (www.techwing.com.hk) makes reference to the 
+address to which the ICs were sent.  That site states that Techwing 
+is a leader in the design, manufacture, marketing and support of 
+high-quality, cost-effective, data communications solutions for 
+industrial and avionics applications.  The company's customer list 
+includes various mainland Chinese state-owned aviation and military 
+companies. An internet domain search reveals that this web site is 
+registered to a Hong Kong address, namely 12/F AT Tower, 100 
+Electric Rd, North Point, Hong Kong (more on this address below). 
+The contact e-mail for this registration is shiyue02@163.com. 
+ 
+¶5.  Web research reveals a nearly identical web site for a company 
+called Jointway Electronics Limited (www.jointway-elec.com.hk). 
+This company's description is essentially identical although it 
+makes reference to test, simulation and production interfaces for 
+industrial, military and aerospace applications.  According to the 
+Hong Kong Companies Registry, Jointway Electronics Limited was 
+registered in August 2007 at the Techwing address noted above. 
+Mainland Chinese national Mao, Xu Dong (passport number G16392329) 
+is the company's sole director.  The company's secretary is listed 
+as K&S Secretarial Limited.  This company is located at the 100 
+Electric Rd. address noted above that corresponds to the internet 
+domain registration address for Techwing. 
+ 
+¶6.  Mao, Xu Dong is also a director of Hong Kong company, Askey Tech 
+Limited.  This company has HKD 500,000 (USD65,000) in paid-in share 
+capital.  Askey is registered at another K&S Secretarial location 
+(namely Unit D, 11F, Seabright Plaza, 9-23 Shell St. North Point, 
+Hong Kong).  According to other information available to the ECO, 
+Askey and Jointway are both purchasers of controlled electronic 
+components controlled under ECCN 3A001a2c in 2008. 
+ 
+¶7.  It proved to be very difficult to schedule the EUC with 
+Techwing.  After multiple calls and letters, ECO and Commercial 
+Assistant Carrie Chan visited Techwing on March 23, 2009 and met 
+with Mr. Alex Tam, Director.  The offices of Techwing are also the 
+offices of company secretarial firm, Aurora.  While Techwing and 
+Jointway are not included on Aurora's nameplates, Askey is 
+included. 
+ 
+¶8.  Mr. Tam provided an overview of the operations of Jointway.  He 
+stated that Techwing does not have operations in Hong Kong but is 
+rather located in Shenzhen.  The Shenzhen operation is owned by a 
+BVI company.  Shenzhen Techwing is an original design manufacturer. 
+It produces CFC cards and FPGAs for various industrial and aviation 
+related applications. 
+ 
+¶9.  As to the specific items in question, Mr. Tam stated that they 
+were being used in the manufacture of a CFC card that will be used 
+in the production of a prototype of an industrial control computer 
+system to help analyze temperature during steel production.  Mr. Tam 
+stated that the items were hand carried from Hong Kong to Shenzhen. 
+No Hong Kong licenses were obtained for the import and subsequent 
+reexport of these items (these were likely required).  Mr. Tam 
+confirmed that Jointway has conducted work for a range of state 
+owned enterprises in the past including for the China North 
+Industries Group Corporation (CNGC).  According to the company's web 
+site (www.cngc.com.cn), this company is the largest weaponry 
+manufacturing group in China.  Mr. Tam stated that these items were 
+not destined to this end-user. 
+ 
+¶10.  When asked about Jointway, Mr. Tam initially stated that he 
+knew nothing about the company.  When presented with a copy of the 
+Jointway web site, Mr. Tam immediately noted that it was quite 
+ 
+ 
+ 
+similar to the Techwing web site.  When presented with the corporate 
+registration information for Jointway, Mr. Tam stated that he knew 
+Mao, Xu Dong.  Mr. Tam stated that he was Mr. Tam's partner in the 
+Techwing enterprise.  When ECO mentioned that Askey was also located 
+at the Techwing address, Mr. Tam was incredulous until he was showed 
+the name plate for Askey.  Later he stated that this address was 
+likely a new address for Askey. 
+ 
+¶11.  Mr. Tam stated that Askey is supposed to be the overseas 
+distributor of Techwing products.  As noted above, Askey is a 
+purchaser of controlled electronic components.  When asked about the 
+reason for the two similar companies, Mr. Tam stated that this 
+second business (Jointway) may be in place to serve different 
+markets.  When ECO suggested that Jointway was potentially 
+established to serve the military market, Mr. Tam did not object but 
+offered no clear answer.  In ECO's view, Mr. Tam was caught by 
+surprise by the existence of Jointway. 
+ 
+¶12.  Mr. Tam stated that the majority shareholder of Techwing is 
+actually named Daniel Leung and is a professor at Hong Kong City 
+University.  ECO is researching this information.  Mr. Tam and Mr. 
+Mao are both minor shareholders in Techwing. 
+ 
+¶13.  Mr. Tam claimed that he had never heard of two companies that 
+have been the subject of prior unfavorable end use checks, namely 
+Winsuny and CAM-IC.  Information independently obtained by ECO shows 
+that shipments of controlled electronic components purchased by 
+Winsuny were actually delivered to Jointway.  Winsuny is also 
+related to CAM-IC. 
+ 
+¶14.  Based on the information noted above, ECO believes that 
+Techwing is an unsuitable recipient of U.S. origin controlled 
+technology.  ECO recommends that BIS reach out to America II to 
+determine what information it had on hand when it shipped the items. 
+ Further, ECO requests that OEA confirm the 3A001 classification of 
+the shipment so that ECO may reach out to Hong Kong TID concerning 
+potential violations of Hong Kong's export control rules in 
+connection with these shipments.  ECO also recommends a thorough 
+review of all shipments to Techwing, Jointway, Askey as well as to 
+the addresses associated with those companies (noted above).

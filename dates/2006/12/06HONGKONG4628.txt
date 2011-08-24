@@ -1,0 +1,116 @@
+06HONGKONG4628
+EXTRANCHECK: POST SHIPMENT VERIFICATION: EMS-
+Mon Dec 04 00:00:00 +0100 2006
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHHK #4628 3380911
+ZNR UUUUU ZZH
+R 040911Z DEC 06
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9647
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 004628 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: EMS- 
+ITC C/O BAX HUB 
+ 
+REF: A) USDOC 05848 B) HK 01748 
+ 
+1.Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO) conducted a post shipment 
+verification (PSV) at EMS-ITC C/O BAX Global Logistics 
+Center, 38 Wang Lee Street, Yuen Long Industrial 
+Estate, Hong Kong (BAX Global).  The items in question 
+are parts for mobile phone assemblies valued at USD 
+41,200, classified under Export Control Classification 
+Number (ECCN) 5A991 and controlled for anti-terrorism 
+(AT) reasons.  If properly classified, these items may 
+be exported and reexported license-free to virtually 
+all destinations worldwide (except to restricted end- 
+users and end-uses and to designated terrorist 
+sponsoring countries). The exporter is Skyworks 
+Solutions Inc., of Calexico, California (Skyworks). 
+ 
+¶3.  The ECO visited BAX Global at the address 
+referenced above on November 28, 2006 and met with Ms. 
+Freda Ho, Customer Service Officer and assistant to Mr. 
+Jovi Liu, Operations Supervisor (Mr. Liu is the contact 
+person on the applicable invoices and export 
+documentation).  Ms. Ho provided background on BAX 
+Global and its business, which involves the provision 
+of third party supply chain management services to a 
+range of companies including Motorola, Flextronics, 
+Cisco, Nike, Liz Clayborne (more information at 
+www.baxworld.com).  In particular, BAX Global provides 
+such supply chain management services on behalf of two 
+Motorola subcontractor production facilities in 
+mainland China. According to Ms. Ho, ITC-EMS (the 
+consignee on the exporters Shippers Export Declaration) 
+stands for International Trading Center -- Electronics 
+Manufacturing Services, which is a division of Motorola 
+located in Singapore.  In other words, the items were 
+shipped to the Hong Kong logistics hub of a Motorola 
+division.  As described below, these items were 
+destined for use by a Motorola contractor in mainland 
+China. 
+ 
+¶4.  Ms. Ho stated that the shipment in question was 
+destined for Motorola subcontractor, Flextronics 
+Manufacturing HK Ltd., for use at a Flextronics 
+production facility in Doumen, mainland China (more 
+information concerning Flextronics available at 
+Flextronics.com).  This information is consistent with 
+background provided by Skyworks and forwarded to the 
+ECO by OEA.  Flextronics Manufacturing HK Ltd. was the 
+subject of a prior PSV referenced in reftel B. 
+ 
+¶5.  Ms. Ho provided documentation indicating that the 
+shipment had been received by BAX Global on September 
+3, 2006 and shipped to Flextronics, C/O DHL Logistics 
+(HK) Limited on September 5, 2006.  While the 
+documentation provided by Ms. Ho does not confirm 
+onward shipment to mainland China, it does reflect that 
+the items were shipped to Flextronics Manufacturing HK 
+Ltd, c/o DHL Logistics (HK) Limited, in Hong Kong. 
+ 
+¶6.  Ms. Ho volunteered that, from time to time, BAX 
+Global's supply chain management work involves the 
+forwarding of items on behalf of manufacturers for 
+which Hong Kong import and export licenses must be 
+obtained.  She requested more information about BIS 
+controls to better understand U.S. rules governing 
+trade in controlled commodities. 
+ 
+¶7. At the time visited, BAX Global appeared to be a 
+suitable recipient of the mobile phone assemblies (as 
+supply chain logistics provider) since BAX Global 
+cooperated with the PSV and provided all requested 
+information concerning the final disposition of the 
+items.  At the same time, the ECO was not able to 
+inspect the subject items as they had already been 
+delivered to Flextronics. Consistent with guidance on 
+reporting of PSVs where the items cannot be physically 
+inspected, the ECO recommends that this PSV be 
+classified as Limited. 
+ 
+Cunningham

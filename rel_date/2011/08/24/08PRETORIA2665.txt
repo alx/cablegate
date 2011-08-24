@@ -1,0 +1,246 @@
+08PRETORIA2665
+FIRMS INCH CLOSER TO ACQUIRING LICENSES TO DEVELOP NATIONAL
+Mon Dec 08 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Pretoria
+VZCZCXRO0755
+RR RUEHBZ RUEHDU RUEHJO RUEHMR RUEHRN
+DE RUEHSA #2665/01 3431159
+ZNR UUUUU ZZH
+R 081159Z DEC 08
+FM AMEMBASSY PRETORIA
+TO RUEHC/SECSTATE WASHDC 6668
+INFO RUCPDC/DEPT OF COMMERCE WASHDC
+RUCNSAD/SOUTHERN AF DEVELOPMENT COMMUNITY COLLECTIVEUNCLAS SECTION 01 OF 03 PRETORIA 002665 
+ 
+SENSITIVE BUT UNCLASSIFIED 
+SIPDIS 
+ 
+DEPT FOR EEB/CIP/KATHERINE TOWNSEND 
+USTR FOR CATHERINE HINCKLEY 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS EIND EINV EINT ECIP USTR SF
+SUBJECT: FIRMS INCH CLOSER TO ACQUIRING LICENSES TO DEVELOP NATIONAL 
+WIRELESS BROADBAND NETWORKS IN SOUTH AFRICA 
+ 
+REF: A. PRETORIA 271, B. PRETORIA 1976, C. PRETORIA 1278 
+ 
+¶1. (SBU) Summary.  U.S.-based DBI Broadband provided an update on 
+positive developments in the drawn-out, South African value-added 
+network services (VANS) license conversion process on November 28. 
+Minister of Communications Dr. Ivy Matsepe-Casaburri finally 
+conceded and announced that she would withdraw legal challenges to 
+the conversion process on November 21.  The decision paves the way 
+for the Independent Communications Authority of South Africa (ICASA) 
+to complete the license conversion process by January 19, as 
+required under the Electronic Communications Act (ECA).  ICASA has 
+already asked all interested VANS licensees to submit applications 
+by December 5 and is deciding on the final size (20 or 30 megahertz) 
+for the licenses.  Industry officials are concerned about the size 
+and viability of the licenses and whether ICASA will complete the 
+licensing process in time to develop national networks for the 2010 
+FIFA World Cup.  End Summary. 
+ 
+¶2. (SBU) U.S.-based and African-American owned DBI Broadband held a 
+teleconference with Commercial Counselor and State ICT Officer to 
+provide an update on progress with the South African VANS license 
+conversion process on November 28.  DBI would like to develop and 
+operate a national wireless broadband (WiMax) network in South 
+Africa.  In order to secure the spectrum to develop a WiMax network, 
+firms must first obtain an Individual Electronic Communications 
+Network Services (I-ECNS) license from ICASA.  DBI executives also 
+sought U.S. Mission advice and support for their advocacy efforts. 
+ 
+ 
+-------------------------- 
+MINISTER'S INTERFERENCE DELAYED CONVERSION PROCESS 
+AND HURT LIBERALIZATION 
+-------------------------- 
+ 
+¶3. (U) Minister Matsepe-Casaburri announced that she would not 
+continue to petition the Supreme Court of Appeal against the 
+Pretoria High Court's August judgment in favor of Altech Autopage 
+Cellular after impeding the license conversion process through legal 
+challenges for months.  The Pretoria High Court directed ICASA to 
+convert Altech's existing VANS license into an I-ECNS license 
+(Reftel B).  The judgment also applied to all other similarly 
+situated VANS licensees, who were given the right to apply for an 
+I-ECNS or an Individual Electronic Communications Services (I-ECS) 
+license. 
+ 
+¶4. (U) Matsepe-Casaburri filed a Petition for Leave to Appeal the 
+August judgment, which was denied in October.   She then sought an 
+injunction to prevent ICASA from issuing the I-ECS and I-ECNS 
+licenses.  The injunction request was also denied, and the courts 
+granted Altech's request for an order to compel ICASA to 
+specifically issue the I-ECS and I-ECNS licenses.  After losing this 
+series of legal challenges, the Department of Communications (DOC) 
+announced that she would not petition the Supreme Court of Appeal 
+"in the interest of the ICT sector". 
+ 
+¶5. (U) The DOC confirmed that if the Minister had continued with the 
+legal challenges, ICASA would have been unable to convert licenses 
+by January 19, as required under the ECA.  This would have required 
+an amendment to the ECA to extend the conversion period, which could 
+have further delayed license conversion to the end of 2010.  The 
+VANS license conversion process has already been delayed from the 
+original target of May 2008.  According to the DBI executives, 
+lengthy delays would make it impossible for new national broadband 
+Qlengthy delays would make it impossible for new national broadband 
+operators to develop networks in time for the 2010 World Cup. 
+Lengthy delays would also allow the handful of existing broadband 
+operators to solidify their market share and continue to reduce 
+competition. 
+ 
+---------------------- 
+ICASA FREE TO COMPLETE LICENSING PROCESS 
+---------------------- 
+ 
+¶6. (SBU) According to DBI conversations with major industry players 
+such as Altech and Internet Solutions, these companies were 
+confident that the DOC would keep its word and allow ICASA to 
+complete the VANS conversion process by January 19.  ICASA has 
+already asked all VANS licensees interested in license conversion to 
+submit applications by December 5, and to indicate whether their 
+network coverage would be national or provincial.  ICASA would like 
+applicants to be able to begin network roll-outs within 12-months of 
+the license being awarded. 
+ 
+------------------------- 
+VIABILITY OF NEW LICENSES 
+------------------------- 
+ 
+¶7. (SBU) ICASA has 120 megahertz worth of spectrum for the I-ECNS 
+ 
+PRETORIA 00002665  002 OF 003 
+ 
+ 
+and I-ECS licenses and is planning to award six licenses worth 20 
+megahertz each.  The goal is to allow more entrants into the ICT 
+market.  However, DBI executives asserted that 20 megahertz is 
+insufficient to develop a national network.  According to DBI, 
+additional spectrum is required to implement WiMax on a 
+national-scale with a customer base large enough to make it 
+economically viable. 
+ 
+¶8. (SBU) DBI executives explained that with 20 megahertz, a company 
+could only develop a limited provincial network, which would not 
+address the need to provide service to historically underserved 
+areas.  They thought that a lot of operators "are blowing smoke at 
+ICASA about being able to service underserved areas, which is not 
+feasible with 20 megahertz."  For example, many applications such as 
+Video on Demand are bandwidth intensive and a 20 megahertz license 
+would not be sufficient for a national network to adequately support 
+these applications. 
+ 
+ 
+¶9. (SBU) DBI executives also indicated that South Africa would not 
+be "overwhelmed by hordes of new network operators as result of the 
+license conversion process, given the high costs of building a 
+national broadband network in South Africa."  Only well-funded 
+operators with solid business plans would be able to raise the 
+capital required to develop a national network.  DBI estimated that 
+it would cost at least $200 million to build out a national wireless 
+broadband network, which is consistent with other public estimates. 
+ 
+---------------------- 
+ICASA DEBATING SIZE OF LICENSES TO BE AWARDED 
+---------------------- 
+ 
+¶10. (SBU) DBI executives said that some ICASA officials are 
+considering the alternative of awarding four licenses worth 30 
+megahertz each.  However, ICASA Chairman Paris Mashile has not 
+completely consented to this alternative proposal.  Some industry 
+leaders have made the business case to ICASA that 20 megahertz is 
+insufficient for national licenses.  For example, Sprint has 
+compiled a total of 120 megahertz in the U.S. through acquisition of 
+smaller licenses (worth 10-20 megahertz each) to build its national 
+network. 
+ 
+¶11. (SBU) DBI executives were not sure whether Mashile was being 
+indecisive because of political or technical concerns.  ICASA also 
+planned on requiring 51 percent Black Economic Empowerment (BEE) 
+equity ownership for new licenses to keep entrenched operators such 
+as government-controlled Telkom from acquiring additional spectrum. 
+Telkom already has 50 megahertz worth of spectrum that it is not 
+utilizing (Reftel A).  However, this requirement also creates 
+market-entry challenges for foreign investors, and ICASA may be 
+softening its stance on the 51 percent BEE equity requirement.  The 
+ECA made provisions for ICASA to set BEE ownership requirements for 
+new entrants at 30 percent or above, but there was no precedent for 
+a 51 percent (controlling stake) ownership requirement.  (Comment: 
+Minister Matsepe-Casaburri also threatened a 51 percent local 
+ownership requirement on the landing of the U.S.-organized SEACOM 
+fiber-optic cable that will be arriving in South Africa next June. 
+SEACOM sold an additional 25 percent of its shares to South African 
+entities to accommodate this request believing that time was of the 
+essence and that a 51 percent local ownership was better than a late 
+arrival to the market.  Reftel C.  End Comment). 
+ 
+----------------- 
+INDUSTRY CONCERNS 
+----------------- 
+Q----------------- 
+ 
+¶12. (SBU) Industry representatives are joining together to develop 
+an advocacy plan to maintain pressure on ICASA to meet commitments 
+for license conversion and WiMax spectrum allocation.  ICASA also 
+plans to complete the spectrum allocation process for WiMax by the 
+end of the first quarter of 2009.  DBI is trying to finalize its own 
+strategy to secure a license.  If ICASA decides to award four 
+licenses worth 30 megahertz each, the bidding process will become 
+more competitive.  Executives are worried that BEE issues will drive 
+the licensing process and a small group with the right political 
+connections, but without the technical capacity to develop a 
+national network will acquire the license and then flip it for a 
+profit increasing the overall cost of the final licenses. 
+ 
+¶13. (SBU) DBI is also considering options to partner with other 
+licensees to develop a national network if ICASA winds up awarding 
+six licenses worth 20 megahertz each instead.  For example, a 
+partnership between two licensees (who each receive a 20 megahertz 
+license) would result in a national network with 40 megahertz.  DBI 
+is already working with Motorola on strategies to reach underserved 
+areas, but this strategy also requires the development of a broader 
+network with an urban presence to subsidize the service to 
+ 
+PRETORIA 00002665  003 OF 003 
+ 
+ 
+underserved areas. 
+ 
+--------------------- 
+ADVOCACY AND QAINING 
+--------------------- 
+ 
+¶14. (SBU) DBI is developing a Guideline Document to raise its 
+concerns regarding spectrum allocation with ICASA before ICASA 
+finalizes its own rules.  DBI will send a draft of the document to 
+the U.S. Mission and other U.S. firms for endorsement.  DBI 
+executives also emphasized that a round of technical assistance or 
+training from FCC or other international regulatory bodies on 
+spectrum management and allocation would be useful for ICASA 
+officials.  ICASA has lost a lot of its expertise with staff 
+turnover and would benefit from a broader international perspective 
+on spectrum management and call termination pricing issues (Reftels 
+A and B). 
+ 
+¶15. (SBU) Comment.  Progress with liberalization in the South 
+African ICT sector has been slow, but pressures coming from the 
+infrastructure requirements for the 2010 FIFA World Cup have 
+provided the impetus for some policy breakthroughs.  Minister 
+Matsepe-Casaburri has consistently impeded liberalization in the 
+sector by delaying ICASA licensing processes and the launch of new 
+Africa-wide under-sea, fiber-optic cable projects with legal 
+challenges or requirements for majority local-ownership (Reftel C). 
+She appears to be relenting from her policy of "managed 
+liberalization" after a series of legal defeats and as pressure for 
+2010 preparations mount.  Industry officials hope that a change in 
+government earlyQxt year will also bring new leadership to the 
+DOC, which would allow ICASA to operate more independently.  New 
+entrants will bring much-needed competition to the South African ICT 
+sector, but DOC interference and ICASA delays will continue to 
+perpetuate high ICT costs.  End Comment. 
+ 
+BOST

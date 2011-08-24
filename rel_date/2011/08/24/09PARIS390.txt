@@ -1,0 +1,89 @@
+09PARIS390
+FRENCH EXPORT CONTROLLER ON END USE ASSURANCES
+Tue Mar 17 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXYZ0022
+OO RUEHWEB
+
+DE RUEHFR #0390 0761658
+ZNR UUUUU ZZH
+O 171658Z MAR 09
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 5787
+INFO RUEHLO/AMEMBASSY LONDON 7105
+RUEHRL/AMEMBASSY BERLIN 6976UNCLAS PARIS 000390 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR PM AND EUR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC FR
+SUBJECT:  FRENCH EXPORT CONTROLLER ON END USE ASSURANCES 
+ 
+REFS:  PM/RSAT/TUCKER Email 2/25/2009 4:57 PM 
+ 
+¶1. This is an Action Cable for PM/RSAT 
+ 
+¶2. (SBU) Summary: The GOF is prepared to provide end-use assurances 
+(EUA) for encryption products temporarily transferred to private 
+French manufacturers and service providers, in the context of the 
+NATO accord covering special treatment for encryption products.  GOF 
+reluctance to sign the required assurances has stemmed from 
+uncertainty about the scope of this requirement, e.g., whether it 
+will be requested for other ITAR items.  End Summary. 
+ 
+¶3. (SBU) ACTION REQUEST: Prompt clarification on the items for which 
+the GOF must sign an EUA is requested, as GOF will review this 
+matter March 20. 
+ 
+ENCRYPTION IS A SPECIAL CASE 
+---------------------------- 
+¶4. (SBU) On March 17, we paid a call on the French MOD Export 
+Control Coordinator, BG Patrick Fermier, to obtain background on 
+French reluctance to provide end-use assurances for the MDS chips 
+contained in UK A400M aircraft during French subcontractor work on 
+the system.  Fermier said the French MOD is prepared to provide 
+end-use assurances for encryption/encryption products transferred to 
+private French manufacturers and service providers, in the context 
+ 
+of the NATO accord covering special treatment for encryption 
+products.  It accepts its obligation under the accord and has a 
+comprehensive tracking and accountability system in place that makes 
+GOF assurances concrete and meaningful. 
+ 
+ASSURANCES ON OTHER ITAR ITEMS ONLY IF GOF IS END-USER 
+--------------------------------------------- -------- 
+¶5. (SBU) The GOF will continue to provide assurance of non-transfer 
+and use (DSP-83) for all ITAR-equipment for which it is the 
+end-user.  However, it is not prepared to provide assurances for 
+other ITAR equipment handled by private manufacturers and service 
+providers in France.  The GOF lacks the statutory and logistical 
+basis for tracking all such U.S.-controlled items, Fermier 
+explained.  In cases not pertaining to encryption, it is up to the 
+private companies to provide the end-use assurances. 
+ 
+SIDE LETTER (OR LANGUAGE) NEEDED 
+-------------------------------- 
+¶6. (SBU) Fermier acknowledged that a former French defense 
+cooperation attach in Washington had signed assurance texts, but 
+without explicit authorization of the GOF.  Signatures of EUAs were 
+suspended, he said, when Paris became aware of this "new formality" 
+because its scope was unclear to the GOF.  Fermier stated that if 
+there were a side letter or other mechanism to clarify that the EUA 
+document was signed in the context of the NATO encryption agreement, 
+under which NATO countries agreed to track controlled encryption 
+items on their territory regardless of their use, the GOF would be 
+able to sign the EUA.  It would be "illegal" to sign such assurances 
+for other ITAR items where the GOF was not the end-user, he said. 
+ 
+¶7. (SBU) Fermier informed us that the General Secretariat for 
+National Defense, at the Prime Minister's Office, would be reviewing 
+this matter in a meeting on Friday, March 20.  He asked that we seek 
+clarification of the scope of application of the EUA requirement. 
+He said he wants a resolution to this matter and, if necessary, is 
+ready to come to Washington to discuss it. 
+ 
+PEKALA

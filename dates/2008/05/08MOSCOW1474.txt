@@ -1,0 +1,82 @@
+08MOSCOW1474
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Fri May 23 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0010
+PP RUEHWEB
+
+DE RUEHMO #1474 1441323
+ZNR UUUUU ZZH
+P 231323Z MAY 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 8238
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001474 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/DMUSLU 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+MONITORING LTD., ST.PETERSBURG, RUSSIA, LICENSE NO. 
+D375665 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Monitoring Ltd., St. Petersburg, Russia. The 
+company is listed on BIS license application: D376556 
+as the ultimate consignee of a contamination analyzer. 
+This item is controlled for chemical and biological 
+weapons reasons under ECCN 2B351. The licensee is 
+Particle Measuring Systems Inc., 5475 Airport 
+Boulevard, Boulder, CO 80301. 
+ 
+¶3. On May 15, 2008, Export Control Attache Peter 
+Liston and LES Natalya Shipitsina conducted the 
+requested post-shipment verification with Monitoring 
+Ltd., 74 Moskovsky Prospect, St. Petersburg, Russia. 
+The export control team met with Yevgeny Time, Chief 
+Development Manager and Nina Shor, Chief Research 
+Officer. 
+ 
+¶4. Monitoring Ltd was founded in 1990 and employs 300 
+people, mostly scientists, chemists and engineers. 
+Monitoring Ltd operates in a secure private location 
+with controlled access.  Monitoring Ltd conducts gas 
+analysis and they have a small production facility 
+where they produce gas analyzers and generators. 
+Monitoring Ltd produces certifications of their 
+analysis through the Mendeleev All Russian Scientific 
+Research Institute for Metrology, a Russian government 
+entity.  All Certifications become the sole property 
+of the Russian government.  Monitoring Ltd's clients 
+are all Russian corporations and their Certifications 
+are recognized worldwide. 
+ 
+¶5. The subject commodity in reftel, a Contamination 
+Analyzer configured to analyze for HF contamination 
+was inspected by the Export Control Team and found it 
+in a secure locked laboratory with limited access. 
+The HF Analyzer was found to have the serial number 
+1235AN.  The Export Control Team also inspected a CI2 
+Analyzer and found it to contain the serial number 
+1236AN. 
+ 
+¶6. The subject commodity is functioning properly and 
+being used in a manner consistent with the location 
+and purpose for which it was licensed. 
+ 
+¶7. Recommendations: Post recommends Monitoring Ltd., 
+St. Petersburg, Russia as a reliable recipient of 
+sensitive U.S. origin commodities. 
+(FCS MOSCOW/SBOZEK/PLISTON) 
+RUSSELL

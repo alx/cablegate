@@ -1,0 +1,113 @@
+08CHENGDU210
+CHENGDU MANIPULATING AIR QUALITY DATA?
+Mon Sep 29 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Chengdu
+VZCZCXRO6721
+RR RUEHGH RUEHVC
+DE RUEHCN #0210 2730949
+ZNR UUUUU ZZH
+R 290949Z SEP 08 ZDK
+FM AMCONSUL CHENGDU
+TO RUEHC/SECSTATE WASHDC 2944
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RHMFIUU/DEPT OF ENERGY WASHINGTON DC
+RUEAEPA/HQ EPA WASHINGTON DC
+RUEHCN/AMCONSUL CHENGDU 3586UNCLAS CHENGDU 000210 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EAP/CM/SECOR AND HABJAN 
+STATE FOR OES/WATSON, TALLEY AND THOMPSON STATE PASS TO CEQ CONNAUGHTON DOE FOR INTERNATIONAL/FREDRIKSEN AND BALLOU EPA FOR INTE 
+ 
+E.O. 12958: N/A 
+TAGS: SENV ENRG ECON PREL CH
+SUBJECT: CHENGDU MANIPULATING AIR QUALITY DATA? 
+ 
+REF: A. 2007 BEIJING 07110      B. 2008 BEIJING 00037 
+ 
+¶1. (SBU)  This cable contains sensitive but unclassified 
+information - not for distribution on the Internet. 
+ 
+ 
+ 
+¶2. (SBU) Summary:  Official data published on the Ministry of 
+Environmental Protection website strongly suggests that Chengdu 
+air quality data is being manipulated to appear cleaner than it 
+is, despite official claims that the data from local air quality 
+monitors is aggregated and sent to Beijing automatically.  Both 
+the Sichuan provincial-level Environmental Protection Bureau and 
+the Chengdu Environmental Protection Bureau claim air quality in 
+Chengdu to be gradually improving, but already in general "very 
+good."  Apparent manipulation going back to at least 2001 makes 
+it difficult to verify this claim.  End Summary. 
+ 
+ 
+ 
+What Officials Say about the Air 
+ 
+------------------------------------------ 
+ 
+ 
+ 
+¶3. (SBU) The Director of Science and Technology and 
+International Cooperation at Sichuan's provincial-level 
+Environmental Protection Bureau, Zhao Lechen, told Congenoff 
+recently that Chengdu's air quality data is gathered by eight 
+air quality monitors spread throughout the city.  He said that 
+the monitors are generally placed on top of buildings and 
+reported data automatically to back to a regional control center 
+in Chengdu.  The data is then passed automatically to Beijing, 
+where it is posted on the Ministry of Environmental Protection's 
+website.  Zhao asserted that the city's air quality is improving 
+gradually over time. 
+ 
+ 
+ 
+¶4. (SBU) The Deputy Director at Chengdu's Environmental 
+Protection Bureau, Shen Shaoji, also claimed that data from 
+local air quality monitoring stations is transmitted 
+automatically to Beijing.  Shen said that moves to reduce 
+pollution, such as banning coal burning inside the city's third 
+ring road, restrictions on the use of government vehicles by one 
+day per week, and encouraging residents who lived less than 1.2 
+miles from work to avoid driving to work has contributed to the 
+claimed increase in air quality in the city.  Both Shen and Zhao 
+said that while Chengdu could further improve its air quality, 
+air quality is in general far better than in cities like Beijing. 
+ 
+ 
+ 
+Comments 
+ 
+--------------- 
+ 
+ 
+ 
+¶5. (SBU) Both Shen and Zhao were very optimistic about Sichuan 
+and Chengdu's environmental conditions and outlook, and neither 
+told Congenoff that the city faced any significant challenges. 
+China defines excellent and good air quality as a day having an 
+air pollution index (API) value between 0 - 100.  Analysis of 
+Chengdu's air quality data between 1 January 2001 and 15 
+September 2008 shows that during those years there were many 
+days on which air pollution exceeded an API of 100, but  were 
+recorded as being lower than 100.  This year, from 1 January to 
+15 September, Chengdu recorded 62 days with an API 91-100, but 
+only 2 days with a value of 101-110.  This is consistent with 
+air quality data manipulation techniques discussed in reftel. 
+ 
+ 
+ 
+¶6. (SBU) In a normal distribution of data, one would expect to 
+see approximately 23 more days with an API 101-110. The same 
+pattern of data manipulation holds true for previous years.  In 
+2007 Chengdu recorded 77 days between API 91-100, and only 6 
+between 101-110. For the entire data set from 2001-2008, Chengdu 
+reported 620 days between API 91-100, about 80 percent more than 
+would be expected in this random set of pollution data.  Days 
+between 101-110 were less than half of their normal distribution 
+for a data set. 
+BOUGHNER

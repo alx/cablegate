@@ -15,42 +15,110 @@ RUEHGV/USMISSION GENEVA 2513
 RUCPDOC/DEPT OF COMMERCE WASHDC
 RUCNDT/USMISSION USUN NEW YORK 2173
 RHEHNSC/NSC WASHDCUNCLAS SECTION 01 OF 02 BEIJING 001957 
-
+ 
 SENSITIVE 
 SIPDIS 
-
+ 
 STATE FOR EAP/CM - SFLATT, JHABJAN 
 STATE EEB/CIP - SFLYNN, FSAEED 
 USTR FOR AWINTER, JMCHALE, TWINELAND 
 COMMERCE FOR MAC 
 COMMERCE FOR ITA - NMELCHER 
 NSC FOR JLOI 
-
-EO 12958 N/A 
-TAGS ETRD, PHUM, PGOV, ECON, CH 
-
+ 
+E.O. 12958: N/A 
+TAGS: ETRD PHUM PGOV ECON CH
 SUBJECT: GOOGLE CLAIMS HARRASSMENT BY CHINESE GOVERNMENT 
-
-¶1. (SBU) Summary. XXXXXXXXXXXXX  claim the company’s services have been blocked by the Chinese government periodically over the past three years. After users reported on June 18 that Google.cm search engine was not filtering returns for pornographic sites, the government on June 24 again blocked the company’s services for 24 hours resulting in the loss of 20 percent of its traffic that day.XXXXXXXXXXXXX believe the real reason for the government’s wrath is the company’s refusal to remove a link to google.com from the google.cn website. They argue doing so would be in violation of a commitment the company made with Congress. End Summary.
-
-¶2. (SBU) In conversations XXXXXXXXXXXXX told ADCM and EconOff that the Chinese government has been blocking several of Google’s Internet sites periodically for the past three years. They said the blocking and other harassment had intensified in June 2009, purportedly because of the search engine’s failure to filter some inappropriate or illicit content found on the web.
-
-¶3. (SBU)XXXXXXXXXXXXX  said that XXXXXXXXXXXXX a group of Chinese Internet users reported that Google.cn was not effectively filtering pornographic sites. XXXXXXXXXXXXX said Google China representatives were called to a meeting co-hosted by the State Council Information Office (SCIO, responsible for controlling Internet content), the Ministry of Industry and Information Technology (MIIT, responsible for Internet technology and policy), and the Ministry of Public Security (MPS, responsible for Internet crime). The Ministries demanded Google provide better filtering on its Google.cn search engine and temporarily stop indexing sites outside of China. XXXXXXXXXXXXX The company refused this request.
-
-¶4. (SBU) Google then experienced a wave of “attacks” in the media reporting that pornographic material could be found through the Google search engine. (Note: In the nine days following the June 18 incident, an incomplete list of reporting in the Chinese press contains 57 separate articles attacking Google. End Note). On June 24 servers in China were virally infected, causing them to redirect computers attempting to reach Google pages to an unknown web site. These attacks made Google services unavailable to many Chinese users for approximately 24 hours, and caused the company to lose 20% of its traffic on that day.
-
-Lose the Google.com
+ 
+¶1. (SBU) Summary.  Google China representatives claim the company's 
+services have been blocked by the Chinese government periodically 
+over the past three years.   After users reported on June 18 that 
+Google.cm search engine was not filtering returns for pornographic 
+sites, the government on June 24 again blocked the company's 
+services for 24 hours resulting in the loss of 20 percent of its 
+traffic that day.  Google representatives believe the real reason 
+for the government's wrath is the company's refusal to remove a link 
+to google.com from the google.cn website.  They argue doing so would 
+be in violation of a commitment the company made with Congress. 
+End Summary. 
+ 
+¶2. (SBU) In conversations over the last several weeks Google China 
+President Lee Kai-Fu and Senior Counsel Shawn Zhao told ADCM and 
+EconOff that the Chinese government has been blocking several of 
+Google's Internet sites periodically for the past three years.  They 
+said the blocking and other harassment had intensified in June 2009, 
+purportedly because of the search engine's failure to filter some 
+inappropriate or illicit content found on the web. 
+ 
+¶3. (SBU) Zhao said that on June 18 a group of Chinese Internet users 
+reported that Google.cn was not effectively filtering pornographic 
+sites.  That day, Lee said Google China representatives were called 
+to a meeting co-hosted by the State Council Information Office 
+(SCIO, responsible for controlling Internet content), the Ministry 
+of Industry and Information Technology (MIIT, responsible for 
+Internet technology and policy), and the Ministry of Public Security 
+(MPS, responsible for Internet crime).  The Ministries demanded 
+Google provide better filtering on its Google.cn search engine and 
+temporarily stop indexing sites outside of China. (Note: According 
+to Zhao, most of the illicit content is hosted on offshore servers. 
+End note.) The company refused this request. 
+ 
+¶4. (SBU) Google then experienced a wave of "attacks" in the media 
+reporting that pornographic material could be found through the 
+Google search engine.  (Note:  In the nine days following the June 
+18 incident, an incomplete list of reporting in the Chinese press 
+contains 57 separate articles attacking Google.  End Note).  On June 
+24 servers in China were virally infected, causing them to redirect 
+computers attempting to reach Google pages to an unknown web site. 
+These attacks made Google services unavailable to many Chinese users 
+for approximately 24 hours, and caused the company to lose 20% of 
+its traffic on that day. 
+ 
+Lose the Google.com 
 ------------------- 
-
-¶5. (SBU) BothXXXXXXXXXXXXX believe the real reason for the government’s wrath is Google’s refusal to remove the link to Google.com from the Google.cn website.XXXXXXXXXXXXX explained that, when the company decided to enter the Chinese market, it testified before Congress that it would agree to censor its search results in China as required by Chinese law based on three principles. First, the company would not store private user information so as to avoid persecution of individuals based on their use of Google’s services.  Second, the company would disclose to users when a search result had been censored. Third, Google would maintain a link from the Google.cn homepage to Google.com.
-
-¶6. (SBU) According to XXXXXXXXXXXXX, from 2007 through 2009 Google received numerous informal inquiries from the Chinese government as to the possibility of removing the Google.com link. The company repeatedly explained that it could not, based on its promise to Congress. XXXXXXXXXXXXX  said the government, for the first time, verbally requested the company remove the link. Google China explained removing the link was not required under Chinese law and reiterated that doing so would violate the company’s commitment. This was the first time the company had explicitly denied a government request, XXXXXXXXXXXXX stated.
-
-Pulling Out an Option
+ 
+¶5. (SBU) Both Zhao and Lee believe the real reason for the 
+government's wrath is Google's refusal to remove the link to 
+Google.com from the Google.cn website.  Lee explained that, when the 
+company decided to enter the Chinese market, it testified before 
+Congress that it would agree to censor its search results in China 
+as required by Chinese law based on three principles.  First, the 
+company would not store private user information so as to avoid 
+persecution of individuals based on their use of Google's services. 
+ Second, the company would disclose to users when a search result 
+had been censored.  Third, Google would maintain a link from the 
+Google.cn homepage to Google.com. 
+ 
+¶6. (SBU) According to Lee, from 2007 through 2009 Google received 
+numerous informal inquiries from the Chinese government as to the 
+possibility of removing the Google.com link.  The company repeatedly 
+explained that it could not, based on its promise to Congress.  In 
+April 2009, Lee said the government, for the first time, verbally 
+requested the company remove the link.  Google China explained 
+removing the link was not required under Chinese law and reiterated 
+that doing so would violate the company's commitment.  This was the 
+first time the company had explicitly denied a government request, 
+Lee stated. 
+ 
+Pulling Out an Option 
 --------------------- 
-
-¶7. (SBU) XXXXXXXXXXXXX said the June 24 blocking of Google’s services is only the most recent of a three year history of blockings. He noted the company’s You Tube service has been entirely blocked since March 24.  He believes the company is being harassed. XXXXXXXXXXXXX  said the negative press coverage and service outages have caused the company to lose market share. XXXXXXXXXXXXXsays the company is regularly audited by tax authorities, and XXXXXXXXXXXXX. XXXXXXXXXXXXX said that, faced with the continual
-BEIJING 00001957 002 OF 002
-difficulties of doing business in China, the company may even consider pulling out of the market.
-
-¶8. (SBU) Comment. Google is the only international search engine still doing business in China. It is an important symbol. If Google were forced to withdraw from the market, the move could attract heavy international attention. End Comment.
+ 
+¶7. (SBU) Lee said the June 24 blocking of Google's services is only 
+the most recent of a three year history of blockings.  He noted the 
+company's You Tube service has been entirely blocked since March 24. 
+ He believes the company is being harassed.  Lee said the negative 
+press coverage and service outages have caused the company to lose 
+market share.  Lee says the company is regularly audited by tax 
+authorities, and Lee was the subject of a highly-publicized tax 
+audit several years ago.  Zhao said that, faced with the continual 
+ 
+BEIJING 00001957  002 OF 002 
+ 
+ 
+difficulties of doing business in China, the company may even 
+consider pulling out of the market. 
+ 
+¶8. (SBU) Comment.  Google is the only international search engine 
+still doing business in China.  It is an important symbol.  If 
+Google were forced to withdraw from the market, the move could 
+attract heavy international attention.  End Comment.

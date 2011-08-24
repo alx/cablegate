@@ -1,0 +1,75 @@
+09MOSCOW2262
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: OJSC RPE KVANT,
+Wed Sep 02 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0014
+PP RUEHWEB
+
+DE RUEHMO #2262 2450549
+ZNR UUUUU ZZH
+P 020549Z SEP 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 4699
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 002262 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: OJSC RPE KVANT, 
+MOSCOW, RUSSIA. 
+ 
+REFTEL: REQUEST #4210016; DATED 5/28/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, OJSC RPE Kvant, Moscow, 
+Russia. The company is listed on BIS license application D383270 as 
+the ultimate consignee of one chemical vapor model E450LDM (MOCVD 
+system) engineered for the high-volume production of compound 
+semiconductor material. This item is controlled for national 
+security and anti-terrorism reasons under ECCN 3B001. The licensee 
+is Veeco Instruments, 100 Sunnyside Boulevard, Woodbury, NY 11797. 
+ 
+¶3. On August 27, 2009, Commercial Attach Katja Kravetsky and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the office of OJSC RPE Kvant, 3-rd Mytischinskaya 
+street, 16, Moscow, Russia. The export control team met with Prof. 
+Marlen Kagan, Head of Photovoltaics Department, and Sergey Sharov, 
+Chief Technologist. 
+ 
+¶4. OJSC (Joint Stock Company) RPE Kvant is a state-owned enterprise 
+(under the Russian Federal Space Agency), established in 2007 as a 
+successor to RPE Kvant, founded in 1919; it currently employs a 
+staff of over 1000.  RPE Kvant is a leading organization in Russia 
+in the field of development and production of solar cells and solar 
+batteries. Its products have both space and terrestrial 
+applications. RPE Kvant participates in national and international 
+conferences and exhibitions - most recently the Moscow Aerospace 
+Show. The main commercial application for its production is in 
+telecommunications. 
+ 
+¶5. RPE Kvant provided documentation that supported the shipment 
+reported in reftel. The export control team was able to identify and 
+view the E450LDM MOCVD system at the RPE Kvant facilities. A Veeco 
+Instruments representative worked with RPE Kvant to install the 
+MOCVD system. It is currently functioning, but production will not 
+commence until the end of the year. 
+ 
+¶6.  The export control team found that the MOCVD system will be used 
+for the end use for which it was licensed, there are no indications 
+of impropriety, and the consigneeQs answers were not evasive. 
+ 
+¶5. Recommendations: Post recommends OJSC RPE Kvant, Moscow, Russia, 
+as a reliable recipient of sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/KKRAVETSKY) 
+BEYRLE

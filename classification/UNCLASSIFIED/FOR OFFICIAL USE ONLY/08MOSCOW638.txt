@@ -1,0 +1,152 @@
+08MOSCOW638
+RUSSIA'S GLONASS: LOST IN SPACE
+Thu Mar 06 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Moscow
+VZCZCXYZ5530
+PP RUEHWEB
+
+DE RUEHMO #0638/01 0661455
+ZNR UUUUU ZZH
+P 061455Z MAR 08
+FM AMEMBASSY MOSCOW
+TO SECSTATE WASHDC PRIORITY 7049UNCLAS MOSCOW 000638 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+ 
+E.O. 12958:  N/A 
+TAGS: KSCA PREL PARM TSPA RS
+SUBJECT: RUSSIA'S GLONASS: LOST IN SPACE 
+ 
+REF: (A) STATE 19459 
+(B) MOSCOW 01637 
+ 
+------- 
+Summary 
+------- 
+ 
+¶1. (SBU) In late 2007, First Deputy Prime Minister Ivanov trumpeted 
+the launch of three new satellites that were to complete the GLONASS 
+system's coverage of Russia and challenge GPS in the commercial 
+navigation market.  Soon after, however, news reports revealed that 
+the system had serious flaws, and that commercialization was still 
+months or years away.  Ivanov was quick to point blame at Anatoly 
+Perminov, Head of the Russian Federal Space Agency (Roscosmos), and 
+publicly ordered that ambitious space projects be put on the back 
+burner until GLONASS is operational.  Since then, Roscosmos has been 
+scrambling to get GLONASS on track, but faces major impediments, 
+including making its 18 satellites fully operational, and spurring 
+the production of parts and equipment needed to commercialize the 
+system.  End summary. 
+ 
+----------------------- 
+Short-Lived Celebration 
+----------------------- 
+ 
+¶2. (U) In December 2007, Russia launched three new satellites as 
+part of its Global Navigation Satellite System (GLONASS).  First 
+Deputy Prime Minister Sergey Ivanov proclaimed that the launches 
+enlarged the GLONASS satellite fleet to 18, the number required to 
+provide commercial navigation services covering all of Russia.  The 
+announcement appeared to fulfill his pledge to President Putin to 
+have GLONASS operational and commercially available in Russia by 
+¶2008.  At the time of the announcement, Ivanov predicted that the 
+GLONASS system which requires 24 satellites would be available 
+worldwide by 2010.  Roscosmos Head Anatoly Perminov predicted at the 
+time that "...the sellers of GPS services will lose their monopoly." 
+ 
+ 
+¶3. (U) The euphoric mood was short-lived, however, as Russian 
+newspapers reported that only 13 of the 18 satellites in the fleet 
+were actually operational.  The others had been withdrawn from orbit 
+for maintenance or had not successfully joined the network.  The 13 
+functioning satellites covered only 50 percent of Russia's 
+territory, and even that coverage was sporadic.  Russian daily 
+Nezavisimaya Gazeta commented that "what we are witnessing is not 
+the success of GLONASS, but a revival of the Soviet tradition of 
+over-committing, claiming to exceed targets, and then engaging in 
+window dressing." 
+ 
+¶4. (U) On January 23 Ivanov publicly criticized Perminov for 
+Roscosmos' failure to have GLONASS ready, and ordered that the 
+Agency's space exploration programs be put on the back burner until 
+GLONASS is working.  Ivanov charged that "Working on such 
+large-scale and correspondingly wasteful projects (such as missions 
+to the moon or Mars) purely to satisfy our own ambitions or to 
+achieve some kind of fantastic goal is something we have no right to 
+do."  Perminov blamed a lack of funding for the delays, and pledged 
+to shift priorities in 2008.  There has been widespread speculation 
+that Perminov could be dismissed over the issue. 
+ 
+--------------- 
+Roscosmos' View 
+--------------- 
+ 
+¶5. (SBU) In a recent meeting, Roscosmos officials told us that there 
+are currently 16 satellites in orbit.  Only 14 are currently 
+operating, but the Agency hopes that the remaining two will be 
+functional "soon."  Once that occurs, coverage within Russian 
+territory should reach at least 81 percent, and global coverage 
+should be at least 65 percent. 
+ 
+¶6. (SBU) Roscosmos also told us that it is working on the 
+commercialization of GLONASS, but is hampered by a number of issues. 
+ First, a system operator has not been selected.  This means that 
+while Roscosmos works to get sufficient satellites in place, there 
+is no group in charge of developing commercial applications on the 
+ground.  Second, the Federal Agency on Industry (Rosprom), which 
+reports to the Ministry of Industry and Energy, was originally 
+responsible for manufacturing commercial navigation equipment with 
+federal funds.  However, Rosprom told Roscosmos that it would not be 
+ready to produce GLONASS receiving equipment until 2010.  Perminov 
+therefore ordered his own Agency's Scientific Research Institute 
+(SRI), which normally produces space devices to produce the 
+equipment. 
+ 
+¶7. (SBU) SRI has designed one navigation device that uses both GPS 
+and GLONASS.  Roscosmos explained to us that SRI manufactured 1000 
+of these devices, which reportedly sold out immediately, and that 
+they have committed to producing 1500 - 2000 of the units each 
+month.  However, we have yet to see these devices on store shelves. 
+Roscosmos noted that they have an agreement to sell integrated 
+GPS/GLOSNASS devices through the Russian chain of electronics stores 
+called "ION."  Roscosmos hesitated to predict to us when 
+GLONASS-only receivers would be commercially available, but offered 
+the possibility of 2011 "if all goes well." 
+ 
+--------------------- 
+Private Sector Adapts 
+--------------------- 
+ 
+¶8. (U) GLONASS' problems have not impacted Russian drivers and other 
+users of navigation technology -- they are simply purchasing 
+foreign-produced GPS devices.  Although work to digitize Russian 
+maps has just begun here, maps digitized outside Russia are 
+available for download on the internet.  Meanwhile, Russia's private 
+sector navigation equipment producers face hurdles.  One company, 
+the JJ Group, reports that a shortage of chipsets (microchips that 
+decode satellite signals and calculate coordinates) is stalling its 
+production of dual-band GPS/GLONASS receivers.  The company notes 
+that as soon as its suppliers can provide more chipsets, they are 
+ready to produce the navigators. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶9. (SBU) The failure thus far to develop GLONASS into a commercially 
+viable system bodes ill for Roscosmos.  It also foreshadows the 
+hurdles to be faced by other "State Corporations" that the GOR has 
+either created, such as Rosnanotech in an attempt to transform 
+Russia's scientific agencies into economically profitable ventures. 
+The GOR's attempts to serve in roles that are often filled by the 
+private sector in the U.S., such as supplying capital and developing 
+commercial applications, have in the case of GLONASS in any case, so 
+far failed to provide the flexibility and market responsiveness 
+necessary in the fast-moving world of information technology. 
+ 
+BURNS

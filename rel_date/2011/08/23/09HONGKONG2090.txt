@@ -1,0 +1,78 @@
+09HONGKONG2090
+EXTRANCHECK: PRE-LICENSE CHECK: HIGH TECH INTERNATIONAL
+Fri Nov 13 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0009
+RR RUEHWEB
+
+DE RUEHHK #2090 3170716
+ZNR UUUUU ZZH
+R 130716Z NOV 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 8950
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002090 
+ 
+USDOC FOR 532/OEA/PLUDD 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: HIGH TECH INTERNATIONAL 
+ 
+REF: A) BIS e-mail PLC request dated October 23, 2009 - 01110086 B) 
+D425476 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO), attempted 
+to conduct a pre-license check at High Tech International Holdings 
+Limited, Tower A, New Trade Plaza, 6 On Ping Street, Shatin, Hong 
+Kong (High Tech). The purpose of the visit was to determine the 
+suitability of High Tech to be the ultimate consignee and end user 
+of a Tracklink 5000MA USBL tracking system that is the subject of 
+license application D425476.  The item (ECCN 6A001) is controlled 
+for national security (NS) reasons. The license applicant is 
+Linkquest Inc., of San Diego, California. 
+ 
+¶3.  A search of the Hong Kong Companies Registry reveals that High 
+Tech has been in existence since 2006. Its registered capital is the 
+Hong Kong equivalent of USD 1.  Its sole director is listed as Ng, 
+Ching Yu (with Hong Kong Identification number G482478(3).  Internet 
+research reveals that High Tech's address also appears to be the 
+address of a range Russian companies with offices in Hong Kong 
+including Advonics (www.advonicsgroup.com) which is a supplier of 
+electronic components with offices in Hong Kong, Shenzhen and 
+Saint-Petersburg.  ECO does not believe that High Tech maintains a 
+physical office in Hong Kong. 
+ 
+¶4. High Tech does not appear to have a web site.  Correspondence 
+with the representative of High Tech (namely Mr. Alik Nemchinov) was 
+received from a gmail account. 
+ 
+¶5.  Mr. Nemchinov stated in his e-mail correspondence that he works 
+for High Tech as its regional manager and will not be in Hong Kong 
+for some time.  He further stated that the item would be used by the 
+Russian Far Eastern National University (consistent with the 
+information in the underlying license application).  When ECO 
+requested an in-person meeting in Hong Kong with the director of the 
+company, namely Ng, Ching Yu (the signatory on the end-user 
+statement supporting the license application), Mr. Nemchikov 
+responded that this was his company's first experience receiving so 
+many questions about what he described as a absolutely normal deal. 
+He then stated that he believed that High Tech should not proceed 
+with the transaction and would inform the client of this fact.  On 
+November 13, 2009, Mr. Nemchikov informed ECO that he had spoken 
+with the client and they had decided to cancel this order. 
+ 
+¶6.  Based on the information detailed herein, ECO does not believe 
+High Tech to be a suitable recipient of controlled U.S. origin 
+technology. 
+ 
+MARUT

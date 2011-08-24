@@ -1,0 +1,239 @@
+05PARIS4216
+FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR.
+Wed Jun 15 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+151008Z Jun 05UNCLAS SECTION 01 OF 03 PARIS 004216 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR); 
+EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR. 
+ERIC BERNIGOLLE - ALTERNATE CANDIDATE FOR INDIVIDUAL PROGRAM. 
+ 
+REF: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 289 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - INDIVIDUAL Program - Eric Bernigolle 
+(Alternate) 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 17 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Peace & Security 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Eric 
+M-NAME: 
+L-NAME: Bernigolle 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: No 
+M-ADDR1: Senat 
+M-ADDR2: 15, rue Vaugirard 
+M-ADDR3: 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75006 
+M-ZIP: 
+M-PHONE: + (33) 1.42.34.23.26 
+M-FAX: 
+M-EMAIL: e.bernigolle@senat.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 06/22/1966 
+MAR-STAT: S 
+BIRTH-CITY: Toulouse 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Adviser for European and International Affairs for the UMP 
+party Senate Group, since January 2003 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1996-2002 - Adviser for Legal and European Affairs for the 
+Centrist Union Party 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Morocco, the UK, Spain, Italy, Poland - vacation over the last 
+10 years 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+- 1995 - Graduate level degree in EU law, University of 
+Toulouse 
+- 1993 - Graduate degree in EU public law and EU affairs, 
+University of Toulouse 
+- 1992 - Graduated from the Institute of International Studies 
+and Developing Countries, University of Toulouse 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 3 
+ENGL-SPEAK: 3 
+ENGL-COMP: 3 
+START OTHER-LANGS: 
+OTHER-LANG: Spanish 
+OTHER-LANG-ID: QB 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Given these changes in the role of the French Senators and 
+their personal staffers, and given the Senate's growing focus 
+on EU Affairs, Foreign Affairs and Security issues, in which 
+it acts as the "unofficial" GOF think tank, we would think it 
+timely to nominate Mr. Bernigolle either for a European 
+program on Defense and Security issues or for a program on 
+U.S. policies. 
+If dates would turn out to be a problem, we would like to 
+suggest that Mr. Bernigolle be nominated for a single program 
+focusing on U.S. institutions in general, and on the U.S. 
+Senate in particular.  French Parliament used to have an 
+exchange program with its U.S. sister institutions, whereby a 
+staffer of the French Senate or National Assembly would go on 
+a one-year internship in the U.S. Senate.  That program has 
+been discontinued by the French at a time when the need for 
+such exchanges had become key for French Parliamentarians. 
+Both houses look to the U.S. as an example of the kind of role 
+they would like to play in French politics. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Florence Radovic 
+START MEMO NOMINATING-JUSTIFICATION: 
+We first met Mr. Bernigolle during a visit to the French 
+Senate by Robert Zoellick, USTR, in 2004.  Mr. Bernigolle 
+caught the political and public service bug early and spent 
+five years (including 3 at the post graduate level) studying 
+political science, international affairs and EU public and 
+private law.  Upon graduation, he was asked to join the 
+centrist party of the Senate to be their political adviser on 
+EU affairs.  When the party merged with the larger center- 
+right RPR Party to become the UMP, he became the political 
+adviser on EU and Security affairs for a party whose 
+membership equals half of the 331 Senators. 
+Mr. Bernignolle is one of a handful of UMP advisers who are 
+"political" appointees rather than permanent staffers.  His 
+role is therefore broader in scope than that of a more 
+technical permanent staffer.  More specifically, he makes 
+complicated issues simple and understandable to all.  Mr. 
+Bernigolle acts as personal adviser on EU, foreign affairs and 
+security issues to the Chairman of the UMP Senate Group, 
+Josselin de Rohan.  The closeness of their working 
+relationship is key to our nomination since Mr. de Rohan has 
+slated his adviser for a much broader role in the EU Council 
+in a "political" capacity in the years to come.  In the 
+meantime, Mr. Bernigolle would like to find out as much as he 
+can about Congressional control in the U.S. particularly 
+regarding the budget.  The French parliament has attempted to 
+come on its own over the past five years by exercising its 
+full budgetary powers, but the process has been slow in 
+coming.  The role and workload of French Senate has also 
+changed of late, leading them to set up teams of personal 
+staffers U.S.-style, something that would have been totally 
+unthinkable a few years ago. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ECON - U.S. Embassy Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 576 
+PERSON-ID: 475 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

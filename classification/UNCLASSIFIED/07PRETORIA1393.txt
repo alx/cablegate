@@ -1,0 +1,100 @@
+07PRETORIA1393
+SOUTH AFRICA GOVERNMENT AND REGULATOR WEIGH IN ON
+Mon Apr 23 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Pretoria
+VZCZCXYZ0007
+RR RUEHWEB
+
+DE RUEHSA #1393 1130912
+ZNR UUUUU ZZH
+R 230912Z APR 07
+FM AMEMBASSY PRETORIA
+TO RUEHC/SECSTATE WASHDC 9283
+INFO RUEHNR/AMEMBASSY NAIROBI 6375
+RUCPDC/DEPT OF COMMERCE WASHDC
+RHDIFCC/FCC WASHDCUNCLAS PRETORIA 001393 
+ 
+SIPDIS 
+ 
+SENSITIVE BUT UNCLASSIFIED 
+SIPDIS 
+ 
+FCC WASHDC FOR PBOATENG, DEPT FOR EB/CIB TCARNEGIE 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ECPS SF
+SUBJECT: SOUTH AFRICA GOVERNMENT AND REGULATOR WEIGH IN ON 
+UNDERSEA TELECOM CABLE 
+ 
+REF: 06 PRETORIA 02711 
+ 
+¶1. (SBU) Summary.  The South African Department of 
+Communications (DOC) and the New Partnership for South 
+Africa's Development (NEPAD) may build an undersea 
+telecommunications cable to replicate the planned East Africa 
+Submarine System (EASSy) cable.  A decision by the CEO of 
+monopoly telecom operator Telkom to invest in the EASSy 
+cable, in opposition to the government's position, is 
+believed to have led to his resignation.  South Africa 
+telecom regulator, Independent Communications Authority of 
+South Africa (ICASA), is considering declaring the planned 
+undersea cables and the existing SAT-3 cable as essential 
+facilities and therefore subject to ICASA price regulation. 
+End Summary. 
+ 
+¶2. (SBU) South Africa DOC Director-General Lyndall 
+Shope-Mafole confirmed April 3 that DOC, together with NEPAD, 
+may lead an effort to build an undersea telecommunications 
+cable to rival the planned R300 million ($43 million) EASSy 
+cable according to press reports.  (Note.  The EASSy 
+consortium is comprised of private investors who want to 
+build an undersea telecommunications cable with terrestrial 
+landing points in countries along Africa's east coast to help 
+meet high bandwidth demand.  End Note.)  Shope-Mafole claims 
+that EASSy consortium investors are more interested in 
+profits than providing affordable bandwidth and is looking 
+for investors in the competing cable which has been dubbed 
+the NEPAD Network.  The competing system would combine an 
+undersea cable with a terrestrial network to cover landlocked 
+countries. 
+ 
+¶3. (SBU) NEPAD's e-Africa Commission Executive Deputy 
+Chairperson Henry Chasia told ICT officer in December 2006 
+that it was conducting feasibility studies to build two 
+terrestrial loops to connect with an undersea east-coast 
+cable that would feature connection points for countries not 
+currently participating in the NEPAD initiative, most notably 
+Kenya.  South Africa and NEPAD want pricing for the undersea 
+cable to be set so that users will pay the same price for 
+bandwidth access as the companies that invested in the 
+infrastructure. 
+ 
+¶4. (SBU) NEPAD's pricing scheme would prevent cable investors 
+from charging exorbitant rates for bandwidth access like 
+those charged by SA parastatal telecom monopoly Telkom for 
+use of its west coast SAT-3 cable.  Telkom CEO Papi Molotsane 
+signed an agreement to invest in the EASSy cable, saying his 
+company wants to make a decent return.  President Mbeki, in 
+an interview with the Financial Times, said that Telkom was 
+"profiteering" from charges on the SAT-3 cable that are 
+"absolutely phenomenal".  Industry analysts claim that 
+Molotsane's signature on the EASSy cable deal and his 
+opposition to the government's position on pricing led to his 
+unexpected resignation on April 5. 
+ 
+¶5. (SBU) ICASA Councilor Tracy Cohen told ICT officer April 
+19 that the regulator is considering declaring both the SAT-3 
+and future undersea cables as essential facilities.  This 
+would place pricing of the cables under ICASA regulation. 
+Cohen said the council expects to release a document for 
+public comment on the topic of cable regulation within the 
+next four months. 
+ 
+¶6. (SBU) Comment.  ICASA's ability to deal with undersea 
+cable regulation and other matters has improved slightly 
+because its council is now fully staffed.  The regulator had 
+struggled since last year to implement a new Electronic 
+Communications Act with half of its council positions vacant. 
+(See reftel for additional background).  End Comment. 
+BOST

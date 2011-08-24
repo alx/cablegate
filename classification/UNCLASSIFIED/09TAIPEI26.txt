@@ -1,0 +1,331 @@
+09TAIPEI26
+2008 IPR Wrap-up: Progress Continues, Trouble Spots
+Thu Jan 08 00:00:00 +0100 2009
+UNCLASSIFIED
+American Institute Taiwan, Taipei
+VZCZCXRO1966
+PP RUEHCN RUEHGH RUEHVC
+DE RUEHIN #0026/01 0080821
+ZNR UUUUU ZZH
+P 080821Z JAN 09
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC PRIORITY 0669
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS SECTION 01 OF 04 TAIPEI 000026 
+ 
+SENSITIVE BUT UNCLASSIFIED 
+ 
+STATE PLEASE PASS USTR 
+STATE FOR EAP/RSP/TC, EAP/EP 
+USTR FOR RAGLAND AND ALATBACH 
+USDOC FOR 4430/ITA/MAC/AP/OPB/TAIWAN 
+USDOC FOR USPTO GIN, BROWNING, AND SNYDOR 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECON KIPR ETRD PGOV TW
+SUBJECT:  2008 IPR Wrap-up: Progress Continues, Trouble Spots 
+Remain 
+ 
+REFTEL: 
+ 
+A) Taipei 950 
+B) Taipei 1318 
+C) Taipei 49 
+D) Taipei 8 
+E) Taipei 1655 
+F) Taipei 1 
+G) 2001 Taipei 1681 
+ 
+Summary 
+------- 
+ 
+¶1. (SBU) The Taiwan authorities continued combating intellectual 
+property rights (IPR) violations over the past 12 months. The 
+long-awaited specialized IP Court started accepting cases in July 
+2008, and by year's end had a caseload of over 700 cases.  The 
+Taiwan Intellectual Property Office (TIPO) finalized ISP-related 
+amendments to the Copyright Law, but the 2008 Legislative Yuan (LY) 
+session is likely to end before the bill can pass a third reading 
+and becomelaw. TIPO also took steps to address EU concerns about 
+Taiwan's use of compulsory licenses, but did not submit an amended 
+Patent Act to the LY before the end of the 2008 session.  Physical 
+copying of movies and music continued a decade-long fall, but 
+digital piracy of music, movies, and software continues to be a 
+problem. Taiwan's Ministry of Education (MOE) increased efforts to 
+reduce electronic piracy and textbook copying on university 
+campuses, and schools are more closely tracking and punishing 
+violations.  Rights-holders continue to complain that Taiwan Customs 
+remains the weak link in Taiwan's improving efforts against piracy. 
+End summary. 
+ 
+IP Court Opens 
+--------------- 
+ 
+¶2. (SBU) The long-awaited specialized IP Court started accepting 
+cases in July 2008 (ref A), and by year's end had over 700 cases. 
+BSA and other rights-holder groups, while encouraged by the court's 
+establishment, are pessimistic that the IP Court will noticeably 
+improve IPR-related prosecutions since it will only have about 10 
+specialized IP judges and the same number of prosecutors. 
+ 
+¶3. (SBU) Jeff Harris, Chairman of the Taipei American Chamber of 
+Commerce (AmCham) IPR Committee, told econoff on December 31 that 
+one of his contacts in the Taipei Prosecutors Office sees the Court 
+as an additional, burdensome layer of bureaucracy, rather than a 
+positive development in IP-related prosecutions.  According to 
+Harris, some prosecutors would have preferred to have more and 
+better IP experts available for courts around Taiwan, instead of one 
+centralized IP Court. 
+ 
+¶4. (SBU) Harris, however, noted many of his contacts think the 
+Court's experts are knowledgeable and have been a great help to 
+prosecutions. Harris said the IP Court is handling cases faster than 
+non-specialized courts, and that, unlike in many of Taiwan's 
+district courts, there have been no major delays on any of the cases 
+the IP Court is handling. 
+ 
+ISP Amendment Still Not Over Finish Line 
+---------------------------------------- 
+ 
+¶5. (SBU) In September 2008, the Taiwan Intellectual Property Office 
+(TIPO) finalized a proposed amendment to the Copyright Law that 
+would limit an ISP's liability if the provider quickly removed 
+IPR-infringing material (ref B).  In September, the EY approved the 
+draft amendments, and forwarded the draft to the LY for approval. 
+The LY completed a first reading and reviewed the bill further on 
+January 5, but decided to hold a public hearing on the bill before 
+considering it for passage, and the 2008 session will end before the 
+amendment can pass a third reading and become law.  TIPO plans to 
+hold the hearing as soon as possible after the Chinese New Year in 
+early February, and re-introduce the proposed amendment during the 
+first session of 2009. 
+ 
+¶6. (SBU) Although the final version incorporated many U.S. 
+suggestions, TIPO did not include U.S.-suggested language included 
+in Article 88 of previous versions that specifically referred to 
+secondary (or contributory) liability for ISPs that knowingly host 
+copyright-infringing material.  Local rights-holder groups continue 
+to tell us they would have preferred to have a clear reference to 
+secondary liability in the bill, but will push for passage of the 
+amendment nonetheless. 
+ 
+ 
+TAIPEI 00000026  002 OF 004 
+ 
+ 
+EU Prompts Compulsory Licensing Changes 
+--------------------------------------- 
+ 
+¶7. (U) In January 2008, the EU completed a Trade Barriers Regulation 
+(TBR) investigation into Taiwan's 2006 decision to issue a 
+compulsory license to local company Gigastorage to produce CDs using 
+Philips' licensed technology (ref C).  The EU report concluded 
+Taiwan's Patent Law is inconsistent with WTO rules on intellectual 
+property, and recommended that the European Commission start WTO 
+proceedings if Taiwan did not take concrete steps to amend its 
+Patent Law within two months. 
+ 
+¶8. (SBU) In response, TIPO began drafting amendments to the Patent 
+Act.  Although the changes would address some of the EU's concerns, 
+Philips is worried about several other changes the bill would bring 
+to the compulsory license regime.  Under the new version, TIPO would 
+be able to grant a compulsory license to a local company if the 
+Taiwan Fair Trade Commission (TFTC) finds that a patent-holder is 
+practicing anti-competitive behavior by "abusing" its patent. 
+However, Taiwan law--in the Patent Act or elsewhere--does not define 
+the term "abuse," and Philips is wary of how the judicial system may 
+define abuse in future cases. 
+ 
+¶9. (SBU) In addition, if a patent-holder is found by the TFTC to be 
+practicing anti-competitive behavior, the amended Act would allow 
+the local maker granted the compulsory license to use the license 
+for export as well. Under the current act, if the Taiwan authorities 
+declare a national emergency and grant a local company the right to 
+produce a patented product, the patent-holder has the right to file 
+a defense to challenge the authorities' right to use their patent. 
+The new version, however, would allow the drug to be produced 
+immediately after the patent-holder is notified by the authorities, 
+challenge or no challenge. 
+ 
+¶10. (SBU) TIPO told us in November they wanted to finalize the 
+amendments by December, and forward them to the LY for approval 
+before the end of 2008, which would have left very little time for 
+industry to understand and make comments on the changes. 
+Fortunately, however, TIPO will not be able to complete the text 
+before the 2008 LY session ends on January 13, 2009.  We will 
+continue to track the proposed amendments, and will seek to ensure 
+TIPO gives industry adequate time to make suggestions. 
+ 
+Physical Piracy Still Falling 
+----------------------------- 
+ 
+¶11. (SBU) According to Robin Lee, CEO of Recording Industry Taiwan 
+(RIT, which represents the international recording industry in 
+Taiwan as was formerly known as IFPI), the percentage of pirated CDs 
+in Taiwan fell from 36 percent of all copies sold in 2004 to 22 
+percent in 2006, and remains roughly at the same rate.  On January 
+5, Lee told econoff the number of physical outlets for pirated CDs 
+in Taiwan is now under 20--down from 250 a decade ago--and that such 
+"night market" piracy appears to be under control.   Police records 
+reflect this fall: in 2006, there were 227 prosecutions of 
+music-related physical piracy cases in Taiwan, about 150 in 2007, 
+and only 82 by the end of November 2008. 
+ 
+¶12. (SBU) Spencer Yang, the head of the Taiwan Federation Against 
+Copyright Theft (TFACT, formerly known as the Motion Picture 
+Association - Taiwan), agrees with Lee that domestic physical piracy 
+is under control.  Yang recently told econoff that TFACT estimates 
+Taiwan's physical piracy rate for DVDs continued to decline in 2008. 
+ According to Yang, most domestic counterfeiting is now individuals 
+burning counterfeit DVDs on home computers, but that the majority of 
+fake DVDs now come from PRC and other Internet mail-order sites that 
+deliver physical copies by international mail. 
+ 
+Digital Piracy Shows Hopeful Signs 
+---------------------------------- 
+ 
+¶13. (SBU) Digital piracy of music and movies--the number one worry 
+for TFACT and IFPI--may have dropped in 2008.  According to police 
+figures, in 2007, the police made 265 raids on companies hosting 
+websites and blogs offering unauthorized music and movie downloads, 
+which was a 60-percent increase in raids compared to 2006 (ref C). 
+By December 2008, however, the police had only made 114 such raids, 
+which IFPI's Lee attributes to increased vigilance by rights-holder 
+groups and a series of educational campaigns by TIPO. 
+ 
+Software Piracy Better, but Still Bad 
+------------------------------------- 
+ 
+ 
+TAIPEI 00000026  003 OF 004 
+ 
+ 
+¶14. (SBU) Digital piracy is not restricted to just music and movies: 
+ according to surveys done by the Business Software Alliance (BSA), 
+40 percent of member-company software used in Taiwan in 2007 was 
+unauthorized.  This is a one percentage-point drop from the 2006 
+figure, and places Taiwan third-best in Asia--behind only Japan and 
+Singapore--and 23rd worldwide. 
+ 
+¶15. (SBU) The true picture of software piracy in Taiwan, however, is 
+likely worse.  In a recent meeting, BSA's Taiwan office head told 
+econoff that BSA's survey methodology undercounts the level of 
+unauthorized use, including illegal copies, expired licenses, and 
+under-reporting of licensed users, and software company 
+representatives privately estimate to us that 70 to 90 percent of 
+business software in Taiwan is unauthorized. 
+ 
+TANet Enforcement Continues to Improve 
+--------------------------------------- 
+ 
+¶16. (SBU) In October 2007, the Taiwan Ministry of Education (MOE) 
+launched a Campus IP Action Plan (ref D).  The Plan's main focus has 
+been on combating IPR violations on the Taiwan Academic Network 
+(TANet), the MOE's island-wide high-school and university intranet. 
+Over 2008, the MOE issues increasingly strict guidance to 
+universities, including new rules forbidding all Peer-to-peer (P2P) 
+software use except with explicit permission, requiring daily 
+bandwidth limits, and monitoring download volume per student. 
+ 
+¶17. (SBU) Each school administrator econoff has spoken with during 
+the second six months of the IP Action Plan said his university is 
+more aggressively monitoring illegal downloads on TANet, shutting 
+down campus access to the most notorious P2P websites, and 
+increasing IP-protection coordination across departments.  The MOE 
+has pushed schools to take punitive actions ranging from removing 
+infringing material, freezing the student's TANet account, and, in 
+rare cases, terminating the account (ref E). 
+ 
+Textbook Piracy Down, Not Out 
+----------------------------- 
+ 
+¶18. (SBU) The Action Plan also targets illegal textbook copying, and 
+university administrators tell us on-campus copying of textbooks is 
+less rampant and less visible in Taiwan year over year, especially 
+at on-campus copy shops. They also report off-campus copy shops are 
+either more reluctant to copy textbooks in whole or in part, or have 
+begun to refuse to copy more than a few pages of any one book (ref 
+E).  Many schools have also taken active measures to curb piracy, 
+including expanding used-book sections in campus bookstores, 
+establishing online used-book exchange platforms, or, in some cases, 
+switching to cheaper Chinese textbooks (ref F). 
+ 
+¶19. (SBU) The Taiwan Book Publishers' Association (TBPA), however, 
+complains that the problem has merely gone underground, and has 
+collected strong, though indirect, evidence to bolster their claims 
+of continuing copyright violations on Taiwan's campuses.  TBPA 
+believes shops still take orders through representatives on campus 
+and standing student relationships, then deliver books directly to 
+customers. 
+ 
+Rights Holders Want More Police Action on Campuses 
+--------------------------------------------- ----- 
+ 
+¶20. (SBU) Although rights-holder groups in Taiwan tell us 
+enforcement of TANet violations and on-campus textbook copying has 
+improved (ref E), rights holders continue to express frustration 
+that police are not willing to enforce copyright laws on campuses. 
+Rights holders attribute this reluctance to both a traditional 
+Taiwan deference toward academic independence, and blowback from a 
+2001 attempt by the Tainan authorities to prosecute students at 
+National Chengkung University for sharing MP3 files that set off a 
+strong reaction from administrators, students, and the Taiwan public 
+(ref G). 
+ 
+¶21. (SBU) AmCham officials, however, believe the police will respond 
+to campus IP violations if the rights holder provides compelling 
+evidence.  According to Jeff Harris, Chair of the AmCham IPR 
+Committee, member companies report the police will take action 
+against campus violators if the affected company provides concrete 
+evidence of wrongdoing.  Harris blames rights-holder groups for 
+failing to gather sufficient evidence in many cases, and for not 
+trying hard enough to identify and work with the "friendlier" police 
+precincts in each city. 
+ 
+Customs: Still the Weak Link in Enforcement 
+ 
+TAIPEI 00000026  004 OF 004 
+ 
+ 
+--------------------------------------------- 
+ 
+¶22. (SBU) Although pharmaceutical companies note a steady decrease 
+in the prevalence of counterfeit drugs in Taiwan (ref A), they 
+continue to complain that Taiwan Customs is a weak link in Taiwan's 
+relatively good efforts against pharmaceutical piracy.  Other rights 
+holders echo this, and complain small batches of pharmaceuticals, 
+music, and movies are commonly smuggled into Taiwan by mail-order, 
+usually from China, but also from South East Asia. 
+ 
+¶23. (SBU) Pharmaceutical, movie, and music industry representatives 
+tell econoff Customs officials do not seem willing to spend time 
+seizing smaller quantities of counterfeits, which they attribute to 
+the officers wanting to avoid the large amount of paper work 
+required for even relatively small seizures, as well as a lack of 
+manpower available for follow-up investigations. 
+ 
+¶24. (SBU) AmCham's Harris, who is the local trademark enforcer for a 
+number of international luxury brands, agrees with the rights 
+holders' assessment of Customs problems, and recently told econoff 
+"every single one" of his clients identifies Customs as a weak link 
+in Taiwan's IPR enforcement. 
+ 
+Comment 
+------- 
+ 
+¶25. (SBU) Customs enforcement is spotty; digital music, movie, and 
+software piracy remain high; and the LY failed to pass Internet 
+service provider (ISP) amendments to the Copyright Act in 2008. 
+Taiwan authorities, however, opened the IP Court as promised on July 
+1, and also made clear improvements in campus IPR enforcement, both 
+key problems listed in the 2008 Special 301 IPR Watch List citation. 
+In addition, preliminary statistics show digital piracy--or, at 
+least, the number of domestic websites offering unauthorized 
+downloads of music and movies--may be decreasing. We will continue 
+to press Taiwan over the coming year to pass the ISP amendments, and 
+will work with universities and the MOE to get digital piracy and 
+textbook copying under control.  End comment. 
+ 
+YOUNG

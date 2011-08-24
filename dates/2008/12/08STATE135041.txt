@@ -1,0 +1,108 @@
+08STATE135041
+BLUE LANTERN POST-SHIPMENT END USE CHECK ON
+Tue Dec 30 00:00:00 +0100 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0024
+RR RUEHWEB
+
+DE RUEHC #5041 3651424
+ZNR UUUUU ZZH
+R 301412Z DEC 08
+FM SECSTATE WASHDC
+TO RUEHFR/AMEMBASSY PARIS 2337
+INFO RHMCSUU/FBI WASHINGTON DC 2491
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 4797
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 135041 
+ 
+SIPDIS 
+FOR ECON ERIC J. RUETER 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC FR KOMC
+SUBJECT: BLUE LANTERN POST-SHIPMENT END USE CHECK ON 
+LICENSE 050102478 
+ 
+¶1.  This is an action message.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post assistance in conducting a 
+post-shipment check for the export of AWACS aircraft spare 
+parts to France.  Post is requested to complete this Blue 
+Lantern check within 45 days.  Lack of response to a Blue 
+Lantern check will affect pending and future licenses 
+involving parties to this license. 
+ 
+¶3.  Reason for request: Jane's and other open source Order of 
+Battle information shows that the French Air Force operates 
+four U.S.-origin E-3F Sentry AWACS aircraft.  However, the 
+purchase order from the Foreign Intermediate Consignee, 
+Satori, states that the Foreign End User of the spare parts 
+is the French Army. 
+ 
+¶4.  ACTION: Please contact the French Ministry of Defense and 
+verify its request for the quantity and type of the 
+commodities listed below.  Please also confirm intended use. 
+END ACTION. 
+ 
+¶5.  License Information: 
+ 
+DDTC Case Number 050102478 
+ 
+QUANTITY/COMMODITY: 
+ 
+02       Solenoid Assembly, P/N 25323-1 
+ 
+02       Seat Pilot Valve, P/N 1650-01-033-4564 
+ 
+Note: DHS shipment data indicates that the two solenoid 
+pieces were exported on 11/12/2008. 
+ 
+LICENSE VALUE: USD 29,980.00 
+ 
+APPLICANT: 
+ 
+Prime Industries Inc. 
+406 Dividend Drive 
+Peachtree City, Georgia 30269 USA 
+ 
+SOURCE: 
+ 
+Eaton Aerospace/Sterer Engineering 
+3020 West Empire Avenue 
+Los Angeles, California 90039 USA 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Satori 
+Zone Sud, 185 rue de Rome, BP 151 
+93352 Le Bourget Cedex 
+FRANCE 
+ 
+FOREIGN CONSIGNEE/FOREIGN END USER: 
+ 
+French Army 
+MIBC 
+Le Bourget 
+FRANCE 
+ 
+STATEMENT OF PURPOSE: 
+ 
+For repair and maintenance of AWACS E-3F for the French Army. 
+ 
+¶6.  Additional documentation submitted in support of license 
+application: 
+ 
+Satori Purchase Order Number A084978, dated 30/04/2008 
+ 
+¶7.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the DDTC Case Number 
+in the subject line.  POC on this case is Peter Sabatini, 
+PM/DTCC, phone: 202-663-2819; ClassNet email: 
+sabtinipj@state.sgov.gov; OpenNet email: 
+sabatinipj@state.gov.  The 2006 Blue Lantern Guide Book is 
+available on OpenNet at 
+http://fsi.state.gov/fsi/spas/default.asp?ID= 1588 
+Department thanks Post for its assistance in this matter. 
+RICE

@@ -1,0 +1,434 @@
+08STATE80984
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Mon Jul 28 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Secretary of State
+VZCZCXYZ0023
+RR RUEHWEB
+
+DE RUEHC #0984 2101505
+ZNR UUUUU ZZH
+R 281459Z JUL 08
+FM SECSTATE WASHDC
+TO RUEHGP/AMEMBASSY SINGAPORE 0000
+RUEHIN/AIT TAIPEI 0000
+INFO RUEHKO/AMEMBASSY TOKYO 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 080984 
+ 
+SENSITIVE 
+SIPDIS 
+AIT TAIPEI FOR MATTHEW O'CONNOR 
+ECON 
+AIT TAIPEI FOR MI-YONG KIM 
+AIT TAIPEI FOR REBECCA HESTER 
+SINGAPORE FOR ELIZABETH CROSSON 
+ECON 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC SN TW
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSES 050068901, 050071121, 050081551, AND 050082501 
+ 
+REF: A. SINGAPORE 427 
+     ¶B. BLUE LANTERN GUIDEBOOK 2006 
+ 
+¶1. (U) This is an Action Request.  See paragraphs 2-5. 
+ 
+¶2. (U) The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post's assistance in conducting 
+a post-shipment check on licenses 050068901, 050071121, 
+050081551, and 050082501 for the export of zinc selenide to 
+Taiwan.  AIT Taipei and Embassy Singapore are requested to 
+complete this Blue Lantern check within 45 days.  Lack of 
+response to a Blue Lantern check will affect pending and 
+future licenses involving parties to this license. 
+ 
+¶3. (SBU) Reason for request:  follow-on check due to previous 
+unfavorable Blue Lantern check on application 050093417, 
+which found that foreign consignee Wavelength Technology 
+Singapore Pte. Ltd. sends all raw materials it receives to 
+its facility in China for manufacturing (ref A).  China is a 
+proscribed destination for United States Munitions List 
+(USML) commodities, such as the ones exported under subject 
+licenses, under Section 126.1 of the U.S. International 
+Traffic in Arms Regulations (ITAR).  Wavelength is on 
+PM/DTCC's Watch List.  AIT Taipei and Embassy Singapore 
+should make appropriate inquiries to determine if foreign 
+end-user Legend Laser in Taiwan has received the zinc 
+selenide listed on these licenses or if Legend Laser received 
+components manufactured using the zinc selenide.  AIT Taipei 
+and Embassy Singapore should also determine if the zinc 
+selenide was re-exported to China for manufacturing, and if 
+so, what manufacturing processes were employed.  Department 
+requests that AIT Taipei conduct a site visit to Legend Laser 
+in order to provide Department with an assessment of its 
+business operations and on-site security.  If a site visit is 
+not possible, please inform PM/DTCC case officer.  Since 
+Embassy Singapore has already conducted a site visit to 
+Wavelength Technology, Department defers to post's judgment 
+on the need or desirability of one in connection with this 
+check.  The following questions are offered as guidance for 
+AIT Taipei and Embassy Singapore. 
+ 
+¶4. (U) Questions for AIT Taipei to ask Legend Laser: 
+ 
+--Did the company receive from Wavelength Technology all of 
+the zinc selenide listed on these four licenses?  Or did the 
+firm instead receive from Wavelength Technology finished or 
+partially finished components that were manufactured using 
+the zinc selenide? 
+ 
+--Did the company receive the units of zinc selenide?  Or did 
+the company receive components containing zinc selenide that 
+were manufactured by Wavelength Technology?  If so, were the 
+components shipped to the company from Wavelength 
+Technology's facilities in Singapore or its facilities in 
+China? 
+ 
+--Did Legend Laser order from Wavelength Technology the exact 
+type and quantity of items listed on this application?  Did 
+Legend Laser order anything else from Wavelength, either 
+currently or in the past? 
+ 
+--What did Legend Laser do with the materials or devices that 
+it received from Wavelength?  If Legend Laser stored the 
+items listed on the application, does it have secure 
+facilities and proper accounting and security procedures for 
+handling these sensitive USML items? 
+ 
+--When was the company established and who are its principals? 
+ 
+--What is the nature of its business -- what types of items 
+does it handle, does it serve as a broker? 
+ 
+--What types of organizations are among its typical customers 
+and where are the customers located?  Are any of its 
+customers located in China? 
+ 
+--Does the company understand the restrictions on United 
+States Munitions List (USML) items, especially the 
+prohibition against unauthorized re-transfers and re-exports? 
+ 
+¶5. (U) Questions for Embassy Singapore to ask Wavelength 
+Technology: 
+ 
+--Was the zinc selenide listed on these four licenses 
+re-exported to one or both of the company's facilities in 
+China for manufacturing? 
+ 
+--Who exactly in China manufactured or modified the 
+materials?  (COMMENT:  If possible, please obtain exact 
+contact information, including names, addresses, phone 
+numbers, fax numbers, and e-mail addresses.  END COMMENT.) 
+ 
+--Are all materials that the company sends to China returned 
+to Wavelength's office in Singapore?  Or are some sent 
+directly to other customers in China and other countries?  If 
+so, what other countries and what other firms? 
+ 
+--What other customers in China does Wavelength Technology 
+have? 
+ 
+--Is Wavelength Technology involved in any joint business 
+partnerships or ventures with other businesses, especially in 
+China? 
+ 
+--What is the use for the zinc selenide (ZnSe) devices? 
+Light emitting diodes or diode lasers? 
+ 
+--During the manufacturing process, are the devices doped 
+with chromium (ZnSe:Cr) or tellurium (ZnSe:Te)? 
+ 
+--Does the company understand the restrictions on United 
+States Munitions List (USML) items, especially the 
+prohibition against unauthorized re-transfers and re-exports? 
+ Does the company understand that China is a proscribed 
+destination for USML items under U.S. laws and regulations? 
+ 
+END ACTION. 
+ 
+¶6. (SBU) For background, the following details of the 
+application in question are provided: 
+ 
+¶A. 
+ 
+DDTC Case: 050068901 
+ 
+QUANTITY/COMMODITY: 
+ 
+15    Zinc Selenide (ZnSe) sufficient material to yield 179 
+mm diameter x 14 mm thick (lenses) 
+ 
+License Value: USD 78,105.00 
+ 
+(COMMENT: Ten of the 15 ZnSe units were exported to Singapore 
+on 11/30/2007.  No further units have been exported.  END 
+COMMENT.) 
+ 
+SELLER: 
+ 
+Rohm and Haas Company CVD Incorporated 
+dba Advanced Materials 
+185 New Boston Street 
+Woburn, MA 01801 
+Company contact: Jeff Hobart, tel. 781-933-9243 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Wavelength Technology Singapore Pte Ltd 
+Blk 2 Bukit Batok St 24, #06-03 
+Skytech Bldg, 659480 
+Singapore 
+Tel: 65-6564 9624 
+Fax: 65-6564 3862 
+E-mail: info@wavelength-tech.com 
+Co. Business No. 200206988D 
+ 
+FOREIGN END-USER: 
+ 
+Legend Laser Inc. 
+8F-11, No. 3 Wucheng Rd. Shin-Chuang 
+Taipei Hsien 248 
+Taiwan 
+ 
+PURPOSE: 
+ 
+This ZnSe material will be used to construct scan lenses for 
+CO2 laser systems.  This is a commercial (non-military) 
+application.  The material is controlled due to its diameter 
+exceeding 5 inches per commodity jurisdiction DDTC case DJ 
+060-07. 
+ 
+¶B. 
+ 
+DDTC Case: 050071121 
+ 
+QUANTITY/COMMODITY: 
+ 
+6     Zinc Selenide (ZnSe) sufficient material to yield 124.5 
+mm diameter x 14.5 mm thick (lenses) 
+ 
+License Value: USD 16,620.00 
+ 
+(COMMENT: All six ZnSe units were exported to Singapore on 
+11/30/2007.  END COMMENT.) 
+ 
+SELLER: 
+ 
+Rohm and Haas Company CVD Incorporated 
+dba Advanced Materials 
+185 New Boston Street 
+Woburn, MA 01801 
+Company contact: Jeff Hobart, tel. 781-933-9243 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Rohm and Haas EM, K.K. 
+Sanbancho UF Bldg Chiyodo-Ku, 6-3 Sanbancho 
+Tokyo 102-0075 
+Japan 
+Asia sales office of applicant 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Wavelength Technology Singapore Pte Ltd 
+Blk 2 Bukit Batok St 24, #06-03 
+Skytech Bldg, 659480 
+Singapore 
+Tel: 65-6564 9624 
+Fax: 65-6564 3862 
+E-mail: info@wavelength-tech.com 
+Co. Business No. 200206988D 
+ 
+FOREIGN END-USER: 
+ 
+Legend Laser Inc. 
+8F-11, No. 3 Wucheng Rd. Shin-Chuang 
+Taipei Hsien 248 
+Taiwan 
+ 
+PURPOSE: 
+ 
+This ZnSe material will be used to construct scan lenses for 
+CO2 laser systems.  This is a commercial (non-military) 
+application.  The material is controlled due to its diameter 
+exceeding 5 inches per commodity jurisdiction DDTC case DJ 
+060-07. 
+ 
+¶C. 
+ 
+DDTC Case: 050081551 
+ 
+QUANTITY/COMMODITY: 
+ 
+30    Zinc Selenide (ZnSe) sufficient material to yield 179 
+mm diameter x 14 mm thick (lenses) 
+5     Zinc Selenide (ZnSe) sufficient material to yield 125.5 
+mm diameter x 14.5 mm thick (lenses) 
+ 
+License Value: USD 161,750.00 
+ 
+(COMMENT: A total of 32 ZnSe units were exported to Singapore 
+in three shipments on 1/17/2008, 1/24/2008, and 3/1/2008, 
+respectively.  No further units have been exported.  END 
+COMMENT.) 
+ 
+SELLER: 
+ 
+Rohm and Haas Company CVD Incorporated 
+dba Advanced Materials 
+185 New Boston Street 
+Woburn, MA 01801 
+Company contact: Jeff Hobart, tel. 781-933-9243 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Rohm and Haas EM, K.K. 
+Sanbancho UF Bldg Chiyodo-Ku, 6-3 Sanbancho 
+Tokyo 102-0075 
+Japan 
+Asia sales office of applicant 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Wavelength Technology Singapore Pte Ltd 
+Blk 2 Bukit Batok St 24, #06-03 
+Skytech Bldg, 659480 
+Singapore 
+Tel: 65-6564 9624 
+Fax: 65-6564 3862 
+E-mail: info@wavelength-tech.com 
+Co. Business No. 200206988D 
+ 
+FOREIGN END-USER: 
+ 
+Legend Laser Inc. 
+8F-11, No. 3 Wucheng Rd. Shin-Chuang 
+Taipei Hsien 248 
+Taiwan 
+ 
+PURPOSE: 
+ 
+This ZnSe material will be used to construct scan lenses for 
+CO2 laser systems.  This is a commercial (non-military) 
+application.  The material is controlled due to its diameter 
+exceeding 5 inches per commodity jurisdiction DDTC case DJ 
+060-07. 
+ 
+¶D. 
+ 
+DDTC Case: 050082501 
+ 
+QUANTITY/COMMODITY: 
+ 
+3     Cleartran(TM) Zinc Sulfide (ZnS) sufficient material to 
+yield 212 mm diameter x 149 mm x 14 mm thick (lenses) 
+ 
+License Value: USD 13,080.00 
+ 
+(COMMENT: All three ZnSe units were exported to Singapore on 
+3/28/2008.  END COMMENT.) 
+ 
+SELLER: 
+ 
+Rohm and Haas Company CVD Incorporated 
+dba Advanced Materials 
+185 New Boston Street 
+Woburn, MA 01801 
+Company contact: Jeff Hobart, tel. 781-933-9243 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Rohm and Haas EM, K.K. 
+Sanbancho UF Bldg Chiyodo-Ku, 6-3 Sanbancho 
+Tokyo 102-0075 
+Japan 
+Asia sales office of applicant 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Wavelength Technology Singapore Pte Ltd 
+Blk 2 Bukit Batok St 24, #06-03 
+Skytech Bldg, 659480 
+Singapore 
+Tel: 65-6564 9624 
+Fax: 65-6564 3862 
+E-mail: info@wavelength-tech.com 
+Co. Business No. 200206988D 
+ 
+FOREIGN END-USER: 
+ 
+Legend Laser Inc. 
+8F-11, No. 3 Wucheng 1 Rd. Shin Chuang 
+Taipei Hsien 248 
+Taiwan 
+ 
+PURPOSE: 
+ 
+This Cleartran(TM) multi-spectral ZnS material will be used 
+to construct scan lenses for CO2 laser systems.  This is a 
+commercial (non-military) application.  The material is 
+controlled due to its diameter exceeding 5 inches per 
+commodity jurisdiction DDTC case CJ 060-07A. 
+ 
+¶7. (U) Submitted in support of the license application were 
+the following documents (PM/DTCC can fax documentation to 
+post upon request): 
+ 
+¶A. 
+ 
+--End-User/End-Use Statement from Wavelength Technology, 
+signed by Jenny Zhu, Director, dated 13/09/07 
+ 
+--Purchase order no. PO-1927 from Wavelength Technology to 
+Rohm and Haas, Advanced Materials, unsigned, dated 23/07/07 
+ 
+--Product brochure, including technical specifications 
+ 
+¶B. 
+ 
+--End-User/End-Use Statement from Wavelength Technology, 
+signed by Jenny Zhu, Director, dated 06/09/07 
+ 
+--Purchase order no. PO-2108 from Wavelength Technology to 
+Rohm and Haas, Advanced Materials, unsigned, 07/09/07 
+ 
+--Product brochure, including technical specifications 
+ 
+¶C. 
+ 
+--End-User/End-Use Statement from Wavelength Technology, 
+signed by Jenny Zhu, Director, dated 27/12/07 
+ 
+--Purchase order no. PO-2462 from Wavelength Technology to 
+Rohm and Haas, Advanced Materials, unsigned, 24/12/07 
+ 
+--Product brochure, including technical specifications 
+ 
+¶D. 
+ 
+--End-User/End-Use Statement from Wavelength Technology, 
+signed by Jenny Zhu, Director, dated 04/01/08 
+ 
+--Purchase order no. PO-2467 from Wavelength Technology to 
+Rohm and Haas, Advanced Materials, unsigned, 28/12/07 
+ 
+--Product brochure, including technical specifications 
+ 
+¶8. (U) Please slug reply for PM/DTCC - BLUE LANTERN 
+COORDINATOR and include the words "Blue Lantern" and the case 
+number in the subject line.  POC is Judd Stitziel, PM/DTCC, 
+Phone: 202-663-3455; email: StitzielJD@state.gov; SIPRNET: 
+StitzielJD@state.sgov.gov.  The Blue Lantern Guidebook (ref 
+B) is available as a PDF file in the Bunche Library's 
+Electronic Library collection on the DOS Intranet: 
+http://virtuallibrary.state.gov/ 
+BlueLanternGuidebook2006%2520 final .pdf 
+ 
+¶9. (U) The Department appreciates post's assistance in this 
+matter. 
+RICE

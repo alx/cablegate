@@ -1,0 +1,150 @@
+06BEIJING15110
+3G: NO LICENCES IN SIGHT BUT PLENTY OF ENTHUSIAM
+Thu Jul 20 00:00:00 +0200 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Beijing
+VZCZCXRO5811
+RR RUEHCN RUEHGH
+DE RUEHBJ #5110/01 2010603
+ZNR UUUUU ZZH
+R 200603Z JUL 06
+FM AMEMBASSY BEIJING
+TO RUEHC/SECSTATE WASHDC 2009
+RUCPDOC/USDOC WASHDC
+INFO RUEHCN/AMCONSUL CHENGDU 6800
+RUEHGZ/AMCONSUL GUANGZHOU 1094
+RUEHHK/AMCONSUL HONG KONG 7842
+RUEHGH/AMCONSUL SHANGHAI 5313
+RUEHSH/AMCONSUL SHENYANG 6571
+RUEHIN/AIT TAIPEI 5823
+RUEATRS/DEPT OF TREASURY WASHDC
+RUEHGV/USMISSION GENEVA 1230UNCLAS SECTION 01 OF 02 BEIJING 015110 
+ 
+SIPDIS 
+ 
+USDOC FOR DAS LEVINE AND 4420/ITA/MAC/CEA/MCQUEEN 
+STATE PASS USTR 
+USTR FOR STRATFORD/WINTER/MCCARTIN/GRIER 
+USTR FOR MCHALE/WINELAND 
+TREASURY FOR OFFICE OF INTERNATIONAL INVESTMENT 
+TREASURY FOR OASIA/ISA-DOHNER AND KOEPKE 
+GENEVA PASS USTR 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD EINV ECPS PGOV ASEC WTRO CH
+SUBJECT: 3G: NO LICENCES IN SIGHT BUT PLENTY OF ENTHUSIAM 
+ 
+¶1. (SBU) Summary:  A recent conference in Beijing brought 
+together an enthusiastic international group of academics 
+and software and hardware vendors who agree that China is 
+ready for 3G, although it is still unclear what the "killer 
+application" will be.  The key challenge the industry faces 
+is uncertainty about when Ministry of Information Industry 
+(MII) will issue 3G licenses.  End Summary. 
+ 
+The Conference 
+-------------- 
+ 
+¶2. (U) Organized by the Hong Kong based beacon Events Ltd, 
+the July 6-7 "3G Mobile China International Summit and 
+Exhibition" in Beijing was supported by the Chinese 
+Government and included senior officials from MII and the 
+Chinese Research Institute of Communication, as well 
+Chinese business representatives from China Telecom, 
+Unicom, Netcom, Huawei and International companies such as 
+Motorola, Nokia, Vodaphone, Qualcomm, Siemens, Alcatel and 
+Cisco. In contrast to many other 3G conferences in China, 
+this one focused on what 3G had to offer to the consumer 
+rather than touting the advantages of the homegrown TD- 
+SCDMA standard.  More than 400 registered attendees 
+representing a swath of business ventures from 
+semiconductor companies to cell phone content providers to 
+mobile phone software and hardware producers attended the 
+conference.  However, the organizers admitted that this 
+year many major sponsors registered extremely late due to 
+the uncertainty surrounding 3G licensing. 
+ 
+¶3. (SBU) Nokia's Vice-President for Marketing and Sales of 
+Radio Networks Mr. Robin Lindahl stated that his company 
+had had 5 years of experience in rolling out 3G around the 
+world. In China, Nokia is focusing on the transition from 
+2G to 3G.  He underlined the importance of having a strong 
+2G network available throughout China to backup any new 3G 
+network, and the importance of the smooth transition to and 
+evolution of that network. He went on to say that most of 
+China's 3G networks will be built on already existing 
+topologies and that the market winner will be decided by 
+whichever company can launch its 3G networks the quickest. 
+Currently, Nokia has 2G/GSM base-stations that can be 
+upgraded to 3G by just adding a module. Nokia plans on 
+using the W-CDMA standard. 
+ 
+The Killer Application 
+---------------------- 
+ 
+¶4. (SBU) The success of any new tech product depends on the 
+"Killer Application" that will make that service attractive 
+to consumers.  In China's 3G case this is as yet unclear. 
+Asked why China even needs 3G while the existing 2G 
+networks have yet to be fully deployed, a technical 
+consultant with Siemens' 3G division said that for most 
+young Chinese the cell phone will be their first and main 
+means of accessing the Internet.  He argued that cell 
+phones are far cheaper than laptops or even home computers 
+and combine a variety of services and applications 
+(Internet access, music downloads, picture and video 
+taking, personal organizer and gaming) that potentially means a 
+whole generation of young people will be using them to 
+manage their lives as opposed to PCs.  In order for such 
+phones to provide such services, a 3G network and the 
+associated increase in bandwidth will be vital.  Charles 
+Yu, Vice General Manager of Unicom-Brew,  said that his 
+company was betting on music and TV services as the killer 
+applications that will make 3G viable in China (Note: Since 
+Qualcomm and China Unicom jointly established Unicom-BREW 
+Telecommunication Technologies Ltd. in 2003, over 2 million 
+users have utilized Qualcomm's BREW platform for a total of 
+over 25 million downloads. End Note). 
+ 
+The Challenges 
+---------- 
+ 
+ 
+BEIJING 00015110  002 OF 002 
+ 
+ 
+¶5. (SBU) The key challenge for the industry remains the 
+issuance of 3G licenses.  MII remains vague about the 
+timeframe, yet many industry analysts believe that MII will 
+only issue licenses when TD-SCDMA is mature enough to 
+compete with W-CDMA and CDMA2000.  Xie Feibo, Deputy 
+Director General of the MII Bureau of Radio Regulation, 
+meanwhile pointed out that radio frequencies for 3G had 
+actually been assigned back in 2002 and that an extra 100 
+Mhz of frequency had been set aside solely for 3G.  Mr. 
+Michael Stork of the German electronics company Rohde & 
+Schwarz said that success in testing mobile networks was 
+another challenge for new 3G terminals. Today's cell phones 
+not only bundle more and more features, products, 
+standards, multi-bands and wireless applications, but also 
+utilize much more powerful chips than previous models.  Mr. 
+Stork said unless companies can provide good customer 
+service with well priced phones that are easy to use, 
+interest in 3G will wane swiftly. 
+ 
+Comment 
+------- 
+ 
+¶6. (SBU) Many of the attendeesat the conferene agree that 
+China is ready fr 3G and that the convenience of features 
+such TV, video, fast Internet access, and gaming will be 
+the killer applications that will spark consumer interest. 
+However, as evidenced by the last minute registrations to 
+this conference, MII procrastination over licenses has left 
+this multi-billion dollar industry in limbo. 
+ 
+ 
+Randt

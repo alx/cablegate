@@ -1,0 +1,131 @@
+09TAIPEI876
+Taiwan IPR: Taiwan to Target Indirect Patent Infringement
+Wed Jul 22 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+American Institute Taiwan, Taipei
+VZCZCXRO3200
+PP RUEHCN RUEHGH RUEHVC
+DE RUEHIN #0876/01 2030737
+ZNR UUUUU ZZH
+P 220737Z JUL 09
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC PRIORITY 1973
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUCPDOC/USDOC WASHINGTON DCUNCLAS SECTION 01 OF 02 TAIPEI 000876 
+ 
+SENSITIVE 
+ 
+STATE FOR EAP/RSP/TC, EAP/EP 
+STATE PLEASE PASS USTR 
+USTR FOR RAGLAND AND ALTBACH 
+USDOC FOR 4430/ITA/MAC/AP/OPB/TAIWAN 
+USDOC ALSO FOR ITA/MAC/OIPR 
+USDOC FOR USPTO GIN, BROWNING, AND SNYDOR 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ETRD KIPR TW
+SUBJECT: Taiwan IPR: Taiwan to Target Indirect Patent Infringement 
+ 
+Reftel: Taipei 580 
+ 
+Summary 
+------- 
+ 
+¶1. (SBU) The Taiwan Intellectual Property Office (TIPO) recently 
+announced preliminary plans to amend the Patent Law to protect 
+against indirect patent infringement. The changes would allow 
+patent-holders to bring suit against upstream and middle-stream 
+component suppliers who abet downstream production of counterfeit 
+goods if those goods are sold in Taiwan.  Taiwan's powerful IT 
+industry is wary of costs and legal hassles the proposed changes 
+could create, and TIPO says the proposal is far from final. End 
+summary. 
+ 
+¶2. (U) On July 19, Wang Mei-hua, Director General of the Taiwan 
+Intellectual Property Office (TIPO), announced that TIPO intends to 
+amend Article 100 of the Patent Law to allow prosecution of 
+companies and individuals for indirect patent infringement.  The 
+proposed amendment would allow a patent holder to bring suit against 
+a Taiwan component or parts company that knowingly supplied 
+legitimate components used to manufacture infringing goods sold in 
+Taiwan. 
+ 
+¶3. (SBU) On June 20, TIPO Patent Office Specialist Wu Shin-lin told 
+us TIPO is following the example of countries such as Japan, 
+Germany, U.K., and the U.S., each of which has laws targeting 
+indirect patent infringement. Wu said TIPO will draft the revised 
+law to protect companies that hold the patent on a component 
+eventually used in a downstream counterfeit product sold in Taiwan, 
+as well as companies whose products are used without the Taiwan 
+company's knowledge and permission.  Wu emphasized TIPO will seek 
+broad input from the public and industry before finalizing the 
+proposed amendments.  He said MOEA plans to submit the final Patent 
+Law amendment draft to the Executive Yuan in September or October. 
+ 
+TIPO DG: Media Overstates Proposal's Effect 
+------------------------------------------- 
+ 
+¶4. (SBU) On July 21, Director General Wang told AIT that, contrary 
+to media reports, an amendment would not offer patent-holders a 
+significant increase in protection, since plaintiffs would have to 
+show direct patent infringement took place in Taiwan before being 
+able to win an indirect infringement case. Although media reports 
+implied TIPO's aim is to punish Taiwan companies supplying 
+components for PRC-made counterfeit electronics, often called 
+"shanzhaiji," Wang told us because Taiwan does not allow the sale of 
+such PRC-made knock-offs, proving direct patent infringement took 
+place in Taiwan will be difficult in most cases. [Note: shanzhaiji 
+("mountaintop fortress machines") are PRC-made IT goods such as cell 
+phones and laptops that copy the appearance of popular brands, but 
+sell for far less because some or all of their components are 
+unlicensed or pirated. Because Taiwan is the world's biggest 
+producer of 15 IT products, including 99 percent of the world's 
+motherboards and 76 percent of LCD monitors and screens (reftel), 
+Taiwan companies operating in Taiwan or the PRC produce a 
+disproportionate amount of the components that go into shanzhaiji. 
+End note.] 
+ 
+Producers: Law Would be Burdensome, Costly 
+------------------------------------------ 
+ 
+¶5. (SBU) Despite Wang's assurances, Taiwan's IT component producers 
+fear the proposed law could burden companies with unnecessary costs 
+and legal hassles.  On July 21, Su wen-tang, Taiwan Semiconductor 
+Manufacturing Company (TSMC) Advanced Technology Department 
+Director, told us the proposed amendment would not likely ensnare 
+many Taiwan companies, because it will be difficult in most cases to 
+prove that direct infringement took place in Taiwan, and that a 
+company knew its components would be used in an infringing product. 
+However, Su worries the law would force Taiwan companies to devote 
+extra time and resources to investigating downstream distributors 
+and producers, as well as to defending themselves against spurious 
+lawsuits. 
+ 
+¶6. (SBU) W. F. Hsu, Legal Affairs Director for MediaTek 
+Incorporated, echoed Su's concerns.  Hsu thinks Taiwan ought to 
+eventually adopt the concept of indirect patent infringement in 
+order to harmonize the island's legal code with those of its 
+advanced trading partners.  However, Hsu opposes doing so now 
+because Taiwan's still-evolving legal infrastructure for 
+intellectual property rights is simply "not good enough" to handle 
+fairly and efficiently complex indirect infringement cases. 
+ 
+TAIPEI 00000876  002 OF 002 
+ 
+ 
+ 
+Comment 
+------- 
+ 
+¶7. (SBU) The proposed amendments could help U.S. companies such as 
+Apple by choking off or increasing the cost of Taiwan-made parts for 
+products such as counterfeit iPhones.  The changes would also give 
+foreign companies another legal weapon to enforce their IPR in 
+Taiwan.  However, given the proposed law's limited scope and 
+industry's wariness about the proposal, the final law will likely 
+not be as comprehensive as initial media reports suggest. End 
+comment. 
+ 
+WANG

@@ -1,0 +1,202 @@
+09STATE90771
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Mon Aug 31 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHC #0771 2432101
+ZNR UUUUU ZZH
+R 312043Z AUG 09
+FM SECSTATE WASHDC
+TO RUEHDK/AMEMBASSY DAKAR 0000
+INFO RUEHUJA/AMEMBASSY ABUJA 0000
+RUEHTV/AMEMBASSY TEL AVIV 0000
+RUEAIIA/CIA WASHINGTON DC
+RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RHMCSUU/FBI WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DCUNCLAS STATE 090771 
+ 
+SIPDIS 
+DAKAR FOR WALLACE BAIN 
+ECON 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC SG NI IS
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+TO SENEGAL ON LICENSE GC 0997-09 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a pre-license inquiry on a request (DDTC case GC 0997-07) for 
+the re-export of three (3) C-130H aircraft from Nigeria to 
+Senegal.  The aircraft are defense articles controlled under 
+the International Traffic in Arms Regulations (ITAR) 
+administered by PM/DDTC.  Post is requested to complete this 
+Blue Lantern inquiry within 30 days.  Lack of response to a 
+Blue Lantern inquiry will affect pending and future license 
+requests involving parties to this license. 
+ 
+¶3. Reason for request: 
+ 
+--Brokering of aircraft by private entity A.D. Consultants 
+(ADCON), Israel on behalf of government of Nigeria and 
+Senegal without prior approval from DDTC.  In addition, ADCON 
+was not registered as a broker with DDTC as required under 
+the ITAR.  ADCON subsequently registered under parent company 
+Oforid Holdings, Ltd., Israel. 
+ 
+--Re-titling of C-130H aircraft from Government of Nigeria 
+(Ministry of Defense) to ADCON without prior approval from 
+DDTC. 
+ 
+--Sole documentation establishing relationship between ADCON 
+and Government of Senegal is limited to an end-user 
+certification stating that the C-130H aircraft were "ordered 
+through" ADCON.  No documentation or contract between ADCON 
+and GoS detailing the terms and conditions of the sale. 
+ 
+--No documentation on the source, type, and amount of any 
+fees, payments, or other consideration paid to ADCON for 
+brokering the transaction. 
+ 
+--No documentation from GoS indicating the end-use of the 
+aircraft. 
+ 
+--Verification that all parties to the transaction have been 
+identified. 
+ 
+¶4. ACTION: The Department requests that Post contact the 
+Government of Senegal to determine the bona fides of 
+re-export transaction. 
+ 
+The following points are included for guidance: 
+ 
+--Would the GoS provide contractual or other documentation 
+identifying the role of all parties to the transaction and 
+the full terms of purchase? 
+ 
+--To date, has any money been exchanged for the aircraft? 
+ 
+--Would GoS confirm the specific end-use of the aircraft 
+(i.e. military transport, border security, humanitarian aid, 
+other missions, etc.)? 
+ 
+--Will the aircraft be serviced or refurbished in a third 
+country before arrival in Senegal? 
+(**NOTE: GC 0997-07 states that the aircraft will be 
+transferred to Denel (Pty) Ltd. in South Africa for 
+refurbishing before final delivery to Senegal. DDTC would 
+like to inquire if Senegal is aware of the transaction and 
+Denel's participation.**) 
+ 
+--Where will the aircraft be located in Senegal upon 
+delivery? 
+ 
+--Does the GoS understand the restrictions on USML items, 
+especially the prohibition against unauthorized re-transfer 
+and re-export? 
+ 
+END ACTION. 
+ 
+¶5. Details of license application: 
+ 
+DTC CASE:  GC 0997-09 
+ 
+QUANTITY/COMMODITY: 
+ 
+3 - C-130H Aircraft 
+ 
+Aircraft No. NAF 914, Serial No. 4649 
+Aircraft No. NAF 915, Serial No. 4650 
+Aircraft No. NAF 916, Serial No. 4962 
+ 
+License Value: $6,100,000 USD 
+ 
+SELLER: 
+ 
+Nigerian Ministry of Defense 
+Office of the Permanent Secretary 
+Ship House 
+Olusegun Obasanjo Way 
+Area 10, P.M.B. 196, Garki, Abuja 
+Nigeria 
+Tel: 09-2348970 
+Fax: 09-2340708 
+ 
+FOREIGN CONSIGNEE: 
+ 
+ADCON 
+7, Golda Meir St. Science Park 
+Nes-Ziona 74036 
+Israel 
+POC: Mr. Gabriel Pereiz, President & CEO 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Denel (Pty) Ltd. 
+Nellmapius Drive, Irene 
+P.O. Box 8322, Centurion, 0446 
+South Africa 
+Tel:  27 (0)11 9272895 
+Mobile:  27 (0)83 628 1679 
+POC: Mr. Albert van Oldenmark 
+ 
+*Denel is or will be contracted by ADCON to service and 
+refurbish the aircraft to ensure their sky-worthiness.* 
+*Value of Denel services: $32,729,765.* 
+ 
+FOREIGN END-USER: 
+ 
+Ministry of Armed Forces of the Republic of Senegal 
+Building de Direction Administrative 1, 8ieme etage 
+Dakar, Senegal 
+POC: Mr. Becaye Diop, Minister of Armed Forces of the 
+Republic of Senegal 
+ 
+PURPOSE: 
+ 
+Transport of cargo and troops inside Senegal, and for UN 
+missions outside Senegal. 
+ 
+¶6. Submitted in support of license application GC 0997-09 
+were the following documents (PM/DTCC will fax documentation 
+to Post upon request): 
+ 
+--General Correspondence Transmittal Letter, signed by Bukar 
+Goni Aji, Permanent Secretary for the Minister of Defense of 
+Nigeria, dated 28 April 2009. 
+ 
+--Bill of Sale for 3 C-130 aircraft from GoN to ADCON, signed 
+by D.A. Muhammed, dated 22 May 2007. 
+ 
+--End-User Certificate signed by Mr. Becaye Diop, Minister of 
+Armed Forces, Senegal, dated 2 May 2009. 
+ 
+--DSP-83 Non-Transfer and Use Certificate signed by Mr. Bukar 
+Goni Aji, Ministry of Defense Nigeria, dated 20 March 2009, 
+and Mr. Becaye Diop, Minister of Armed Forces, Senegal, dated 
+23 March 2009. 
+ 
+--Denel's "Proposal for the Recovery, Relocation, and Service 
+of the ADC C-130H Aircraft 914, 915, 916" dated 28 November 
+¶2008. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Meredith Sundlof. Phone: 
+202-663-3455; Email: SundlofME@state.gov; SIPRNET: 
+SundlofME@state.sgov.gov.  The Blue Lantern Guidebook (ref) 
+is available as a PDF file at 
+http://www.intelink.sgov.gov/wiki/Blue Lantern End-Use 
+Monitoring Program. 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+CLINTON

@@ -1,0 +1,143 @@
+07PARIS530
+GOOGLE WARNS OF GROWING DATA PRIVACY CONCERNS IN FRANCE AND
+Fri Feb 09 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXRO3376
+PP RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHFR #0530/01 0401424
+ZNR UUUUU ZZH
+P 091424Z FEB 07
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC PRIORITY 4838
+RUEAFCC/FCC WASHDC PRIORITY
+RUCPDOC/DEPARTMENT OF COMMERCE WASHDC PRIORITY
+RUEAWJA/DEPARTMENT OF JUSTICE WASHDC PRIORITY
+INFO RUCNMEM/EU MEMBER STATES COLLECTIVE PRIORITYUNCLAS SECTION 01 OF 02 PARIS 000530 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EB/CIP, EUR/WE, AND EUR/ERA 
+DEPT PLEASE PASS TO USTR JMCHALE, KSCHAGRIN, AND CHINKLEY 
+FCC FOR TWEISLER 
+COMMERCE FOR NTIA CSPECK AND ITA JBURTON 
+JUSTICE FOR KWILLNER, JHORVATH, TBURROWS 
+DEPT PLEASE PASS TO FTC FOR HSTEVENSON 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD ECON KIPR FR
+SUBJECT: GOOGLE WARNS OF GROWING DATA PRIVACY CONCERNS IN FRANCE AND 
+IN THE EU 
+Summary 
+------- 
+ 
+¶1.  (SBU) Google tells us that it faces several liability and public 
+relations issues because its customers' data are stored in the U.S. 
+Potential business customers are nervous about storing data on 
+U.S.-based servers where U.S. law enforcement officials can easily 
+gain access and where tougher European privacy laws would not 
+protect against its wide distribution.  In Europe, Google faces an 
+increasing number of demands from law enforcement to provide data on 
+customers that have data on its U.S. servers, even though this 
+information is not stored in France.  Google is afraid of resulting 
+liability issues and says that the U.S. and EU need to agree on how 
+to handle such law enforcement requests.  End Summary. 
+ 
+Google's expansion in France and in Europe 
+------------------------------------------ 
+ 
+¶2.  (SBU) On February 6, 2007, Econoff met three officials from 
+Google's Paris office: Europe Privacy Counsel Peter Fleischer, 
+Corporate Development Manager Olivier Esper, and France Legal 
+Counsel Yoram Elkaim.  They were upbeat about Google's recent 
+expansion in France, where their Paris office staff doubled from 60 
+to 120 in 2006.  Fleischer said their office would double again to 
+240 in 2007.  Google would soon launch its web-based e-mail service 
+(gmail) in France, making it available to everyone, rather than to 
+those introduced by members. 
+ 
+Dealing with the "grey zone" 
+---------------------------- 
+ 
+¶3. (SBU) According to Fleischer, Google offers two primary services: 
+ its search engine acts as a portal and index to the World Wide Web, 
+and its data centers act as a host for content, such as blogs or 
+videos.  As content host, the most profitable area was the corporate 
+business sector, in which Google presented a package of services, 
+software, and storage facilities for data needs.  At present, Google 
+stores such data on U.S. servers, which presented public relations 
+challenges.  Potential commercial customers were concerned about the 
+integrity of data since U.S. law enforcement requests were usually 
+less specific than European requests.  Additionally, European 
+customers thought that the U.S. legal system did not protect the 
+data to the same extent as in Europe.  Fleischer (an American) 
+thought it essential that the U.S. and EU reach agreement on law 
+enforcement data sharing.  He said that lack of such agreement was 
+redounding on U.S. industry, as negative perceptions about how the 
+USG treated data worsened. 
+ 
+¶4. (SBU) Elkaim continued that Google, as all other Internet 
+Providers, did not control content, merely infrastructure (except 
+for those services which are licensed or owned by Google, such as 
+Google Earth, which hosts satellite photos).  Yet, French law 
+enforcement officials often asked Google for the identities of those 
+who host specific content or the identities of specific e-mail 
+users.  In both cases, the local police and Google were frustrated 
+because the firm's European offices had to request the information 
+from its Palo Alto headquarters, which took time. 
+ 
+¶5. (SBU) Fleisher noted that the U.S. and EU needed to agree on what 
+law enforcement requests were appropriate and how to field such 
+requests.  Otherwise, U.S. Internet firms in Europe could face 
+liability issues.  The present law enforcement exchange mechanisms - 
+letters rogatory, information exchange through Mutual Legal 
+Assistance Treaties (MLATs), and other government-to-government 
+communication - were too slow to address Internet-related law 
+enforcement issues since websites and blogs could be removed 
+overnight.  "We need to come out of the grey zone," Peter Fleischer 
+said, "and out of the old system."  Google fears that as it markets 
+a broader range of services to French and other European firms, 
+including hosting spreadsheets and business proprietary information 
+all stored in the U.S., the confidentiality issue will become more 
+important. 
+ 
+¶6. (SBU) Google said that it was facing a European "misperception" 
+of new U.S. law enforcement legislation.  A proposal to retain data 
+for two years was likely to feed into fears about data misuse.  To 
+deal with EU sensitivities about data, Google would eventually 
+increase the number of data centers in Europe so that European data 
+did not need to reside in the U.S. if these issues remained 
+unresolved.  However, Google believed this investment would only 
+need to take place if there was a continuing lack of consensus on 
+how law enforcement should treat data.   This would be "a weird 
+ 
+PARIS 00000530  002 OF 002 
+ 
+ 
+solution to a problem that needed to be solved in a different way." 
+Google asserted that there was a need for international 
+understanding on how web hosts should cooperate with local 
+authorities, and which legal regimes should apply.  In its view only 
+laws where data was hosted should apply; otherwise, Google and 
+others would be liable to provide any government that wanted 
+information on an individual anywhere in the world. 
+ 
+A Cultural Challenge 
+-------------------- 
+ 
+¶7. (SBU) Google also raised the French concern about the 
+omnipresence of U.S. culture in French society, citing President 
+Jacques Chirac's support of the creation of an online digital 
+library to rival one planned by Google.  The officials also noted 
+another decision in 2005 to help fund "Quaero," a new European 
+internet search engine to rival Google and Yahoo.  At the time, 
+Chirac argued, "We're engaged in a global competition for 
+technological supremacy.  In France, in Europe, it's our power 
+that's at stake."  Google's public relations challenge, Fleischer 
+noted, was to show the French that Google was enhancing access to 
+French culture, for instance, by making out-of-print French books 
+available on a worldwide basis. 
+WHITE

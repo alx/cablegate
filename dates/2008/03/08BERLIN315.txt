@@ -1,0 +1,62 @@
+08BERLIN315
+BLUE LANTERN: POST-SHIPMENT END-USE CHECK ON
+Wed Mar 12 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXRO2997
+RR RUEHAG RUEHDF RUEHLZ
+DE RUEHRL #0315 0721649
+ZNR UUUUU ZZH
+R 121649Z MAR 08
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC 0669
+INFO RUCNFRG/FRG COLLECTIVE
+RUCPDOC/USDOC WASHINGTON DC
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS BERLIN 000315 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+STATE FOR EUR/AGS, EUR/PRA, AND PM/DTCC - BLUE LANTERN 
+COORDINATOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC SZ GM
+SUBJECT: BLUE LANTERN: POST-SHIPMENT END-USE CHECK ON 
+LICENSE 05-050080456 
+ 
+REF: A. SECSTATE 14399 
+     ¶B. PETERSEN-SABATINI E-MAIL 3/12/2008 
+ 
+ ¶1. (SBU) Ref A requested Embassy assistance in conducting a 
+post-shipment check on license 05-050080456 for export of 
+unclassified pizoresistive accelerometers to IABG mbH in 
+ 
+SIPDIS 
+Lichtenau, Germany.  Ref requested that post contact the 
+foreign end user and confirm receipt of the item, exact 
+quantity, specific type and intended use.  The reason for 
+this end-use check is these articles represent a sensitive 
+commodity with potential for diversion.  The stated 
+application for these articles is to measure the shock 
+environment during blast experiments simulating terrorist and 
+crime attacks against civilian armored vehicles  intended for 
+use by non-military government and business administration 
+personnel and cash transports. 
+ 
+¶2. (SBU) Post received an e-mail March 12 from IABG with an 
+attached bill of delivery confirming that three 
+accelerometers model 7270A-60KM6 arrived in Lichtenau on 
+February 4, 2008.  The e-mail from IABG listed the individual 
+identification numbers for the three accelerometers as 
+F24083, F30828 and F30913.  IABG's e-mail stated that the 
+company has no intention to redistribute the items to a third 
+party after completion of testing.  Global Affairs officer 
+confirmed in a February 14 telcon with IABG that the testing 
+scenario is as described in paragraph one and ref A.  Post 
+forwarded the IABG e-mail March 12 to PM/DTCC Blue Lantern 
+Coordinator (ref B). 
+TIMKEN JR

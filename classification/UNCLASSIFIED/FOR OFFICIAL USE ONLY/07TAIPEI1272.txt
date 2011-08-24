@@ -1,0 +1,229 @@
+07TAIPEI1272
+SOLAR CELL MANUFACTURING - NEW ENGINE FOR
+Thu Jun 07 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+American Institute Taiwan, Taipei
+VZCZCXRO7942
+RR RUEHCN RUEHGH RUEHVC
+DE RUEHIN #1272/01 1580308
+ZNR UUUUU ZZH
+R 070308Z JUN 07
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC 5535
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUEAIIA/CIA WASHDC
+RHEFDIA/DIA WASHINGTON DC
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEATRS/DEPT OF TREASURY WASHINGTON DCUNCLAS SECTION 01 OF 03 TAIPEI 001272 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE PASS USTR 
+STATE FOR EAP/TC 
+COMMERCE FOR 3132/USFCS/OIO/EAP/WZARIT 
+COMMERCE FOR 4431/ITA/MAC/AP/OPB/TAIWAN/MCHOI 
+TREASURY FOR OASIA/LMOGHTADER 
+USTR FOR STRATFORD, ALTBACH 
+ 
+E.O. 12958: N/A 
+TAGS: EIND ECON ETRD ENRG SENV TW
+SUBJECT: SOLAR CELL MANUFACTURING - NEW ENGINE FOR 
+TAIWAN'S ECONOMY? 
+ 
+ 
+¶1. (U) Summary: Taiwan's solar cell manufacturing 
+industry will triple in capacity this year after nearly 
+doubling in 2006.  Although manufacturing of solar cells 
+is booming, Taiwan is less competitive in other segments 
+of the industry's supply chain.  Taiwan's solar cell 
+makers face two major constraints to growth: a shortage 
+of polysilicon supply and demand that is dependent on 
+government subsidies.  Nevertheless, the outlook for the 
+industry is good, and some insiders believe it could be 
+an important engine for Taiwan's future economic growth. 
+End summary. 
+ 
+Tripling Capacity in 2007 
+------------------------- 
+ 
+¶2. (SBU) Taiwan's solar cell manufacturing industry has 
+grown at a remarkable pace.  According to the Industrial 
+Technology Research Institute (ITRI), the total 
+manufacturing capacity of Taiwan's solar cell makers as 
+measured by the total megawatt (MW) capacity of cells 
+produced was just 128.4 MW in 2005.  It increased to 
+237.1 MW in 2006 and is projected to reach 743.6 MW for 
+¶2007.  ITRI predicts the industry's capacity will top 
+1,250 MW in 2008.  Lan Chung-wen, the General Director of 
+ITRI's Photovoltaics Technology Center told us the value 
+of Taiwan's solar cell output was NT$23 billion (US$700 
+million) in 2006 but was projected to reach NT$80 billion 
+(US$2.4 billion) by 2010. 
+ 
+¶3. (SBU) Motech is Taiwan's largest solar cell 
+manufacturer.  It was founded in 1981 and manufactures 
+various kinds of power supply equipment.  It didn't start 
+making solar cells until 2000.  By 2005, its capacity had 
+reached 60 MW and has grown to 280 MW this year.  Jacy 
+Chen, the Special Assistant to Motech's Chairman, told us 
+the firm projects its capacity will reach 400 MW in 2008 
+and 1000 MW (or 1 gigawatt - GW) in 2012.  He said the 
+firm's revenue from solar cells had grown by 
+approximately 100 percent each year since 2004.  During a 
+January visit to Motech's manufacturing facility in the 
+Southern Taiwan Science Park in Tainan, we were shown 
+state-of-the-art facilities relying largely on automated 
+equipment for the manufacturing process.  Today 95 
+percent of Motech's revenue comes from solar cell sales. 
+It is now the world's seventh largest solar cell 
+manufacturer.  ITRI's Lan predicted it could become the 
+fifth largest by the end of this year. 
+ 
+¶4. (SBU) DelSolar is another fast-growing Taiwan solar 
+cell manufacturer.  It is a unit of Delta electronics, 
+another Taiwan power supply equipment maker.  DelSolar 
+was founded less than three years ago starting with a 
+team of approximately 15 photovoltaic researchers hired 
+from ITRI.  Its capacity has doubled each year starting 
+from 25 MW in 2005 and projected to reach 100 MW this 
+year.  CEO R.C. Liang told us that the firm had total 
+revenue of US$87 million in 2006. 
+ 
+Taiwan's Midstream Advantage 
+---------------------------- 
+ 
+¶5. (SBU) Taiwan's strength in the solar energy industry 
+lies in solar cell manufacturing -- the midstream segment 
+of photovoltaic manufacturing.  Taiwan currently has 12 
+solar cell makers, like Motech and DelSolar.  Taiwan 
+firms are competitive in this market because the 
+technology has some similarities with semiconductor and 
+thin-film-transistor liquid crystal display (TFT-LCD) 
+manufacturing.  It is technology intensive but with low 
+barriers to entry.  According to Lan, a firm can set up a 
+production line with an annual capacity of 30 MW for just 
+US$10 million. 
+ 
+¶6. (SBU) Taiwan is less competitive in the upstream and 
+downstream segments of the manufacturing process.  Solar 
+cell makers use polysilicon wafers to manufacture the 
+cells.  Taiwan has three wafer manufacturers and no 
+producers of raw polysilicon.  Downstream, solar cell 
+makers sell their output to solar cell module assemblers 
+that turn the basic cell into the final product.  Taiwan 
+ 
+TAIPEI 00001272  002 OF 003 
+ 
+ 
+has only 4 module assemblers.  ITRI's Lan explained that 
+that module makers must be certified by international 
+laboratories, most of which are located in Europe and 
+North America.  Only one of Taiwan's module assemblers 
+has international certification.  In addition, the module 
+manufacturing process is more labor intensive.  Because 
+of these factors, Taiwan exports approximately 90 percent 
+of its solar cells to module makers in China, Europe and 
+elsewhere. 
+ 
+Constraints to Growth - Supply... 
+--------------------------------- 
+ 
+¶7. (SBU) Growth of the solar cell manufacturing industry 
+faces two major constraints.  On the supply side, the 
+industry is currently facing a global polysilicon 
+shortage.  DelSolar's Liang noted that polysilicon prices 
+have risen six-fold in the last few years since the 
+shortage began.  He said that polysilicon currently 
+accounts for nearly 40 percent of DelSolar's production 
+costs.  Motech's Chen explained that polysilicon 
+manufacturers expanded rapidly during the dot-com boom of 
+the late 1990s, causing excess supply prior to 2005.  In 
+response, the polysilicon producers stopped expansion. 
+Because it takes some time to get a new polysilicon 
+production line up and running, they have not yet been 
+able to address the shortage that emerged in 2006 with 
+rapid growth in the solar cell industry.  ITRI's Lan 
+pointed out that the polysilicon industry is controlled 
+by an oligopoly of six firms based in Germany, Japan, and 
+the United States.  He surmised that with the shortage 
+driving up prices they have been slow to expand 
+production.  Senior Vice President Charlie Han of 
+NexPower, another solar cell maker, estimated that 
+polysilicon producers currently have profit margins of 
+nearly 70 percent. 
+ 
+¶8. (SBU) Liang speculated that with output expansion 
+underway, the polysilicon shortage should be less severe 
+within two to three years.  Lan also cited reports that 
+the shortage would begin to disappear in 2009.  However, 
+he expressed skepticism that the situation would improve 
+that quickly.  In the meantime, Taiwan firms have taken 
+other steps to ensure a steady supply.  DelSolar and 
+Motech have both signed long-term agreement with 
+polysilicon suppliers.  Motech has gone a step further by 
+purchasing a 10 percent stake in AE Polysilicon, a 
+Pennsylvania-based polysilicon producer. 
+ 
+...and Demand 
+------------- 
+ 
+¶9. (SBU) Solar cell makers face another major constraint 
+on the demand side.  Electricity generated by solar cells 
+is still much more expensive than power from fossil 
+fuels.  According to ITRI, it can cost 10 times the price 
+of retail electricity prices and the market only exists 
+because of government subsidies.  Lan highlighted Germany 
+as one of the primary markets thanks to government 
+programs, including 20-year low interest loans.  Motech's 
+Chen argued that because subsidies play such an essential 
+role in the market, governments are more inclined to 
+protect domestic producers from imports.  This places 
+Taiwan firms at a disadvantage, he said, because Taiwan 
+has no significant subsidy programs and a negligible 
+domestic solar cell market.  In the meantime, Motech is 
+addressing this problem by forming partnerships with 
+module makers in subsidized markets. 
+ 
+¶10. (SBU) Lan commented that solar energy costs have 
+fallen by dramatically over the last 20 years and will 
+continue to fall.  However, he does not believe they will 
+fall enough in the short to medium term to make solar 
+cells competitive with fossil fuels without subsidies. 
+Relief of the polysilicon shortage will help, but there 
+are limits to how far the technology can be improved. 
+The maximum theoretical conversion rate for the kinds of 
+solar cells currently produced by most Taiwan firms is 
+only about 25 percent.  Taiwan's most advanced cells in 
+production have a conversion rate of 17 percent.  Taiwan 
+ 
+TAIPEI 00001272  003 OF 003 
+ 
+ 
+firms have only modest expectations of being able to 
+improve the efficiency of their solar cells.  Motech 
+hopes to reach a conversion rate of 20 percent in the 
+near future.  DelSolar is targeting a conversion rate of 
+19 percent by 2009. 
+ 
+Comment - The Next Trillion NT$ Industry? 
+----------------------------------------- 
+ 
+¶11. (U) In recent months, the solar cell manufacturing 
+industry has attracted a lot of attention from investors 
+in Taiwan.  As concerns about global warming grow and oil 
+prices increase, solar energy will become a more 
+attractive alternative.  Taiwan manufacturing firms have 
+an impressive track record at bringing down the 
+manufacturing costs for high-tech components.  More than 
+one industry executive we spoke with expressed optimism 
+that the solar cell industry could become a key driver 
+for Taiwan's economy, even going as far as saying it 
+could become another NT$1 Trillion (US$30 billion) 
+industry like semiconductors and flat-panel displays. 
+The constraints the industry faces are formidable. 
+However, solar cell manufacturing is an industry that 
+bears watching in the months and years ahead. 
+YOUNG

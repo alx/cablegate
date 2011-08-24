@@ -1,0 +1,82 @@
+08MOSCOW3157
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Tue Oct 28 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0014
+PP RUEHWEB
+
+DE RUEHMO #3157 3021228
+ZNR UUUUU ZZH
+P 281228Z OCT 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 0531
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 003157 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/M.HAMES/L.RITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+LIMACO INC, TULA, RUSSIA, LICENSE NO. NLR 
+ 
+REFTEL: USDOC 05463 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, LIMACO Inc., Boldina St., 94, Tula, Russia. The 
+company is listed on BIS license application: NLR as 
+the ultimate consignee of Five hundred (500) I.C. 2BIT 
+digital attenuator SOT 26, thirty (30) I.C. SPDT 
+switch, one thousand (1000) I.C. SOT26 SPDT switch DC, 
+fifty (50) I.C. DIV 2 prescaler, five hundred (500) 
+I.C. MSOP switch, fifty (50) I.C. VCO.  ECCN 0A000. 
+The exporter is Hittite Microwave Corporation, 20 
+Alpha Road, Chelmsford, MA  01284. 
+ 
+¶3. On October 24, 2008, Export Control Attach Peter 
+Liston and LES Boris Karasyov conducted the requested 
+post-shipment verification with LIMACO Inc., Boldina 
+Street 94, Tula, Russia. The export control team met 
+with Vladimir Liberman, General Director and Alexey 
+Liberman, Deputy General Director. 
+ 
+¶4. LIMACO Inc., was established in 1992 as a private 
+enterprise.  The company has three owners, all 
+Russian.  General Director Vladimir Liberman is one of 
+the partners and has a 55% share of the company. 
+LIMACO is one of the first companies on the market to 
+have developed and begin mass production of microwave 
+measuring devices operating at the 90+ GHz frequency 
+band.  LIMACO products are fully certified under 
+requirements of the Russian Federation and are 
+produced for civil use.  LIMACO's customers include 
+the Russian energy giant Gazprom and several beer 
+breweries.  LIMACO does not export their product. 
+ 
+¶5. ECO Liston was given a tour of LIMACO's facilities 
+and was also shown several of the subject commodities 
+that are awaiting assembly into their line of leveling 
+meters and measuring devices. 
+ 
+¶6. The subject commodity is consistent with the 
+subject's business.  There are no indications of 
+impropriety and the commodity is being used for the 
+end-use that it was licensed.  There are no 
+indications that the subject company is involved in 
+any chemical, biological, nuclear or missile programs. 
+ 
+¶7. Recommendations: Post recommends LIMACO Inc., Tula, 
+Russia as reliable recipients of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

@@ -1,0 +1,122 @@
+06MOSCOW11988
+EXTRANCHECK: PRE-LICENSE CHECK: MOSCOW
+Wed Oct 25 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0021
+PP RUEHWEB
+
+DE RUEHMO #1988/01 2981403
+ZNR UUUUU ZZH
+P 251403Z OCT 06
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 4516
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 011988 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/DMUSLU 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: MOSCOW 
+INSTITUTE OF RADIO-TECHNIQUE, MOSCOW, RUSSIA, LICENSE 
+NO. D361270 
+ 
+REFTEL: USDOC 04243 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, Moscow 
+Institute of Radio-Technique Electronics and 
+Automation (MIREA), Moscow, Russia. The company is 
+listed on BIS license application D361270 as the 
+ultimate consignee of microwave vector network 
+analyzer, these items are controlled for national 
+security reasons under ECCN 3A002, configurable test 
+set, these items are controlled for missile 
+technology, anti-terrorism reasons under ECCN 3A992, 
+ISO 17025 compliant calibration, these items are 
+controlled for missile technology, anti-terrorism 
+reasons under ECCN 3E991, rack mount kit for 
+installation without handles, these items are 
+controlled for missile technology reasons under ECCN 
+EAR99, standard memory, these items are controlled for 
+missile technology reasons under ECCN 3A992, combo 
+items for configurable test set deck and extended 
+power range, these items are controlled for national 
+security reasons under ECCN 3A002, extended power 
+range with bias tee, these items are controlled for 
+missile technology reasons under ECCN EAR99, 1.85 
+ecal module 10 mhz to 67 ghz, these items are 
+controlled for national security reasons under ECCN 
+3A002, both 1.85 mm connectors are female on module, 
+these items are controlled for missile technology 
+reasons under ECCN EAR99. The licensee is Agilent 
+Technologies, Inc., 1666 K street N.W., suite 420, 
+Washington, DC 20006. 
+ 
+¶3. On October 5, 2006, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested pre-license check at the offices of Moscow 
+Institute of Radio-Technique, Electronics and 
+Automation (MIREA), 78 Prospect Vernadskogo, D-415, 
+Moscow, Russia. The export control team met with 
+Sergey Filatov, Deputy rector, Head of International 
+Relations, Alexander Zaitsev, Deputy Director of 
+Educational-Scientific Association "Electronics," Ivan 
+Vasilyevsky, Senior Researcher and Anton Lisitsky, 
+Senior Researcher. 
+ 
+¶4. MIREA was founded in 1968 to prepare specialists in 
+the radio electronics field.  The Institute has 16,000 
+students in 11 faculties and over 100 departments. 
+The staff consists of 16 full members, 300 higher 
+doctoral degree holders, and 1000 PhD-level 
+instructors.  The Department for Study of Physical- 
+Electrical Properties in Nanostructures was founded 
+two years ago to focus on research and education 
+relating to semiconductors and nanotechnology. 
+ 
+¶5. The commodities in reftel will be utilized by the 
+Department to study the behavior of nanostructures. 
+Projects relating to the speed of electron flow in 
+short lengths and ballistic electron flight.  Data 
+collected will also be analyzed in the mathematical 
+and theoretical departments, and shared with the 
+Zelenograd based Nanotechnology Center of the Moscow 
+Institute of Electronic Techniques.  Mr. Vasilyevsky 
+and Mr. Lisitsky will be the principal researchers 
+utilizing the equipment.  Access will be limited to 5- 
+10 students or less depending on the needs of the 
+research. 
+ 
+¶6. The devices will be stored in a limited access area 
+of the laboratory.  The laboratory is secured with 
+cipher locks and an electronic alarm system, and all 
+exterior windows are barred.  As the laboratory 
+contains very expensive equipment, the area is given a 
+priority for security patrols and is limited to access 
+by authorized students and faculty only.  The 
+Department has no weapons of mass destruction or 
+missile technology research programs. 
+ 
+¶7. Recommendations: Post recommends Moscow Institute 
+of Radio-Technique, Electronics and Automation 
+(MIREA), Moscow, Russia, as reliable recipients of 
+sensitive U.S. origin commodities. It is requested 
+that post be notified of final disposition of the 
+application, and of any shipments for this 
+ 
+ 
+organization in order to conduct appropriate FCS 
+follow-up and statistical reporting. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

@@ -1,0 +1,112 @@
+08MOSCOW658
+EXTRANCHECK: PRE-LICENSE CHECK: IKI RAN SPACE
+Fri Mar 07 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0494
+PP RUEHWEB
+
+DE RUEHMO #0658 0671251
+ZNR UUUUU ZZH
+P 071251Z MAR 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 7069
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000658 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/JHOWARD 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: IKI RAN SPACE 
+RESEARCH INSTITUTE, MOSCOW, RUSSIA, LICENSE NO. 
+D389605 
+ 
+REFTEL: USDOC 00820 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, 
+Russian Academy of Sciences (RAS) Space Research 
+Institute, Moscow, Russia. The company is listed on 
+BIS license application D389605 as the ultimate 
+consignee of eight AD7821 high speed, up-compatible, 
+cmos, 8-bit sampling adc. These items are controlled 
+for national security and nuclear proliferation 
+reasons under ECCN 3A001. The licensee is Analog 
+Devices, Inc., 3 Technology way, Norwood, MA 02062. 
+ 
+¶3. On February 28, 2008, Export Control Attache Peter 
+Liston and LES Natalya Shipitsina conducted the 
+requested pre-license check at the offices of (RAS) 
+Space Research Institute, 84/32 Profsoyuznaya st., 
+Moscow, Russia. The export control team met with Igor 
+Mitrofanov, Doctor of Sciences, Ph.D, , Head of 
+Laboratory of space gamma-ray spectroscopy. 
+ 
+¶4. The Russian Academy of Science (RAS), Space 
+Research Institute is one of the leading organizations 
+in the field of investigations of Outer Space, Solar 
+System planets and other objects of the Universe.  The 
+Space Research Institute (IKI) is primarily in charge 
+of long-range planning and elaboration of space 
+research programs, of which a considerable part is 
+performed within the framework of international space 
+research cooperation.  The Space Research Institute 
+takes part in the Federal Space Program that is being 
+formed by the RAS Space Council and by the appropriate 
+sections of this Council together with the Federal 
+Space Agency (Roscosmos). The Space Research Institute 
+of the Russian Academy of Science has cooperated in 
+projects with Russia's Federal Space Agency (FSA), 
+NASA and European Space Agency (ESA). 
+ 
+¶5.  Igor Mitrofanov, Doctor of Sciences, Ph.D, , Head 
+of Laboratory of space gamma-ray spectroscopy, is the 
+research specialist in charge of the Dynamic Albedo of 
+Neutrons (DAN) project.  Igor Mitrofanov when on to 
+explain that the DAN project is intended to detect 
+subsurface water on Mars.  One way to look for water 
+on Mars is to look for neutrons escaping from the 
+planet's surface. Cosmic rays from space constantly 
+bombard the surface of Mars, knocking neutrons in 
+soils and rocks out of their atomic orbits. If liquid 
+or frozen water happens to be present, hydrogen atoms 
+slow the neutrons down. In this way, some of the 
+neutrons escaping into space have less energy and move 
+more slowly. These slower particles can be measured 
+with a neutron detector. 
+ 
+¶6.  Igor Mitrofanov, Doctor of Sciences, Ph.D, , Head 
+of Laboratory of space gamma-ray spectroscopy 
+described the intended use of the (8) AD7821 high 
+speed, up compatible, CMOS, 8-bit as a means to 
+convert analog readings to digital during the DAN 
+project.  Igor Mitrofanov was familiar with the 
+products performance and characteristics, and stated 
+that in his lab, he makes every attempt to obtain the 
+highest quality products available in the open market. 
+ 
+¶7.  The Export Control Team Moscow did not ditect any 
+possible connect with State sponsored terrorism, and 
+the lab is not involved in any chemical, biological, 
+nuclear or missile programs. 
+ 
+¶8. Recommendations: Post recommends Russian Academy of 
+Sciences (RAS) Space Research Institute, Moscow, 
+Russia, as reliable recipients of sensitive U.S. 
+origin commodities. It is requested that post be 
+notified of final disposition of the application, and 
+of any shipments for this organization in order to 
+conduct appropriate FCS follow-up and statistical 
+reporting. 
+(FCS MOSCOW/MOGRADY/PLISTON) 
+BURNS

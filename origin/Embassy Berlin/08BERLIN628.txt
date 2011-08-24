@@ -1,0 +1,246 @@
+08BERLIN628
+RESPONDING TO NUCLEAR TERRORISM AND RADIOLOGICAL
+Tue May 13 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXRO3141
+PP RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHRL #0628/01 1341513
+ZNR UUUUU ZZH
+P 131513Z MAY 08
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 1199
+RHMFIUU/DEPT OF ENERGY WASHINGTON DC PRIORITY
+RUEFHLC/HOMELAND SECURITY CENTER WASHINGTON DC PRIORITY
+INFO RUCNFRG/FRG COLLECTIVE
+RUCNMEM/EU MEMBER STATES COLLECTIVE
+RUEHUNV/USMISSION UNVIE VIENNA 0334
+RHMCSUU/FBI WASHINGTON DCUNCLAS SECTION 01 OF 03 BERLIN 000628 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR ISN, PM, INR, DS, S/CT, INL, EUR 
+DOE FOR NNSA - KROL AND WILBER 
+ 
+E.O. 12958: N/A 
+TAGS: MNUC KNNP PTER ASEC KCRM ENRG PREL KGIC GM
+SUBJECT:  RESPONDING TO NUCLEAR TERRORISM AND RADIOLOGICAL 
+INCIDENTS - GERMANY'S TASK FORCE APPROACH 
+ 
+REF: A. 07 STATE 162091 
+     ¶B. 05 BERLIN 3617 
+     ¶C. 05 HAMBURG 93 
+     ¶D. 06 HAMBURG 85 
+ 
+¶1. (SBU) SUMMARY:  German officials from the Federal 
+Environment Ministry and the Federal Office of Radiation 
+Protection (BfS) briefed NNSA Associate Administrator for 
+Emergency Operations Admiral Krol on Germany's task force 
+approach to respond to incidents of nuclear terrorism and 
+other radiological incidents.  In case of such an incident, 
+the Federal Office of Criminal Investigation, the Federal 
+Police, and BfS officials would stand up the federal 
+Central Support Group (ZUB) to provide analysis, technical 
+assistance, and recommendations to emergency response 
+personnel in German states, which have the lead for 
+detection and response under Germany's Constitution. 
+Admiral Krol described the emergency response structure and 
+capabilities of NNSA's Office of Emergency Operations.  END 
+SUMMARY. 
+ 
+¶2. (U) U.S. Department of Energy National Nuclear Safety 
+Administration Associate Administrator for Emergency 
+Operations Admiral Joseph J. Krol and NNSA Office of 
+Emergency Response Director Deborah Wilber visited Berlin 
+May 7-8 for consultations with the German Federal Office of 
+Radiation Protection (Bundesamt fuer Strahlenschutz, or 
+BfS), a semi-autonomous implementation agency of the 
+Federal Environment Ministry (BMU).  Interlocutors included 
+BfS Director General for Radiation Protection and 
+Environment Gerald Kirchner; BfS Defense against Nuclear 
+Hazards Task Force Director Michael Hoffmann; BfS physicist 
+Emily Alice Kroeger; and Mechthild Caspers of the BMU's 
+Office of Radiological Protection. 
+ 
+¶3. (SBU) Krol and Wilber described the emergency response 
+structure and capabilities of NNSA's Office of Emergency 
+Operations, which provides technical advice from the DOE 
+Complex in response to threats or acts of nuclear 
+terrorism, radiological accidents, lost or stolen 
+radioactive materials, nuclear weapon accidents, and 
+malevolent threats or acts.  Wilber highlighted NNSA's 
+International Reach Back services, including: 
+ 
+-- TRIAGE:  a 24/7 on-call support service for first 
+responder teams for analysis of nuclear data; 
+-- International Exchange Program (IXP):  a 24/7 service 
+that provides support for radiological plume and dispersal 
+modeling; and 
+-- Radiation Emergency Assistance Center/Training Site 
+(REAC/TS):  a 24/7 on-call service for medical support for 
+radiation injuries. 
+ 
+¶4. (SBU) Krol and Wilber also described NNSA's radiological 
+search and identification capabilities and provided an 
+overview of NNSA efforts to address the challenges of 
+maritime search operations.  Wilber presented a case study 
+based on an October 2005 operation to locate 17 suspect 
+containers that had been shipped from Sri Lanka via several 
+vessels to ports around the world.  Scanning data analyzed 
+post-departure showed a neutron signature from one of the 
+containers.  At the time, NNSA officials worked closely 
+with officials in the port of Hamburg to exclude the three 
+containers that had been shipped to Germany.  None of the 
+three containers that arrived in Hamburg was found to be 
+contaminated (refs B and C). 
+ 
+GERMANY'S STATE/FEDERAL DIVISION OF LABOR POSES CHALLENGES 
+ 
+¶5. (SBU) The German Constitution divides responsibilities 
+for prevention between the federal and state governments. 
+Under the Atomic Energy Act and the Radiation Protection 
+Ordinance, the federal government has responsibility for 
+developing security regulations, implementing and 
+maintaining safeguards, and compliance with international 
+conventions.  Germany's 16 states have the lead for 
+detection and response but can request federal assistance 
+in cases of emergency.  Although states can request federal 
+assistance in case of emergency, the states are required to 
+bear the cost -- even when the federal government becomes 
+involved. 
+ 
+ 
+BERLIN 00000628  002 OF 003 
+ 
+ 
+¶6. (SBU) According to Hoffmann, the lack of standardization 
+at the state level in terms of equipment and response 
+scenarios often creates difficulties for federal 
+authorities.  As Caspers noted, "there are no minimum legal 
+standards."  States with a large number of nuclear power 
+plants have considerably more experience than states 
+without.  Authorities in different states also demonstrate 
+varying levels of commitment, threat awareness, and 
+interest in developing response capabilities.  Caspers 
+noted that the discovery of traces of Polonium-210 in 
+Hamburg in December 2006 following the death of former KGB 
+official Alexander Litvinenko the month before (see ref D) 
+was a "wake-up call" for federal authorities.  Hoffmann 
+later presented a case study describing the Hamburg 
+Polonium-210 incident, which highlighted the need to 
+improve coordination with state authorities and 
+communication with the public. 
+ 
+¶7. (SBU) In terms of emergency response, the federal 
+government's role is limited to providing technical 
+expertise, analysis, and recommendations.  The federal 
+government cannot provide funding and cannot take over 
+emergency response.  In case of emergency, the federal 
+government's role would be to coordinate and to provide 
+information and recommendations to state authorities. 
+ 
+FEDERAL LAW ENFORCEMENT LEADS ON CRIMINAL INVESTIGATIONS 
+ 
+¶8. (SBU) Although the states have the lead for emergency 
+response and post-incident radiation protection, federal 
+law enforcement assumes responsibility for any related 
+criminal investigation.  Because of the high likelihood of 
+a terrorist link in most cases, the Federal Prosecutor 
+General's standard procedure would be to order the Federal 
+Office for Criminal Investigation (Bundeskriminalamt, or 
+BKA) to launch an investigation.  (NOTE:  The BKA can also 
+take over the case without permission from the Federal 
+Prosecutor General if more than one state is involved.  END 
+NOTE.) 
+ 
+THE GERMAN TASK FORCE APPROACH 
+ 
+¶9. (SBU) In the event of a nuclear or radiological 
+incident, federal provision of technical assistance would 
+occur via the deployment of the Central Support Group 
+(ZUB), a federal task force composed of officials from the 
+BfS, the BKA, and the Federal Police (Bundespolizei) -- the 
+uniformed successor force to the German border guards.  The 
+Federal Police continues to patrol border areas with 
+vehicles and air assets, including helicopters and fixed 
+wing aircraft).  In cases of incidents involving small and 
+medium-size sealed sources, states would generally handle 
+response independently.  The ZUB, first established in 
+2003, responds in cases involving larger sealed sources and 
+open sources.  Under German law, ZUB can only become 
+involved in cases where there is the loss or discovery of 
+radioactive materials; serious danger to life, health, or 
+property; and at the request of the state authorities when 
+the state cannot undertake the required tasks itself. 
+ 
+¶10. (SBU) During the period of deployment, the ZUB is 
+overseen by a joint crisis management staff composed of 
+representatives from the BMU and the Interior Ministry 
+(BMI) -- the federal ministry charged with oversight of the 
+BKA and the Federal Police.  According to Hoffmann, ZUB 
+personnel can generally deploy within two hours of an 
+incident and by deploying from four offices scattered 
+around Germany, can be at the scene of an incident within 
+another two hours. 
+ 
+¶11. (SBU) Federal Police and BKA units deployed as part of 
+ZUB include a specialized bomb squad, forensics experts, 
+SWAT teams, covert surveillance, and Federal Police air 
+assets.  In an emergency situation, BfS is charged with 
+assessing criticality and risks, evaluating recovered 
+materials, and estimating dispersal, radioactivity, and 
+consequences.  ZUB has 75 staff members on call on a 
+rotating basis.  An additional 700 experts are available to 
+provide analysis in specialized areas.  The task force has 
+four specialized measurement teams with mobile equipment to 
+analyze food supply, detect improvised nuclear devices and 
+dirty bombs, to work with local authorities to set up ad 
+ 
+BERLIN 00000628  003 OF 003 
+ 
+ 
+hoc measurement and detection teams, and to calculate 
+airborne contamination. 
+ 
+¶12. (SBU) In cases of emergency, ZUB personnel work closely 
+with the crisis management structures of the affected 
+state(s).  The ZUB was designed to facilitate close 
+interaction among scientists, crisis management 
+professionals, and law enforcement.  As a result, BfS and 
+the BKA have focused on developing crisis management 
+expertise and response procedures.  ZUB personnel 
+participate in frequent small-scale, focused exercises and 
+conduct larger, more comprehensive exercises two or three 
+times per year.  According to Hoffmann, frequent exercising 
+helps scientists and police build personal rapport and 
+dissolves "cultural" barriers between the two groups.  The 
+current focus of exercises is improving internal and 
+external communication. 
+ 
+OVERVIEW OF FEDERAL OFFICE OF RADIATION PROTECTION 
+ 
+¶13. (SBU) BfS has an annual budget of 220 million euros, of 
+which 140 million euros is devoted to maintaining three 
+mines used for the disposal of radioactive waste.  The 
+remaining 80 million euros puts the BfS budget on par with 
+that of an average German research institution.  BfS is 
+responsible for all elements of transportation of nuclear 
+fuel in Germany, as well as disposal and intermediate 
+storage, oversight of non-NPP nuclear technology, licensing 
+of nuclear-related medical equipment, and public 
+information campaigns regarding protection measures.  BfS 
+is also responsible for protection and regulation of other 
+forms of radiation, including electromagnetic and optical 
+radiation.  In non-emergency situations, BfS provides 
+technical assistance, evaluation, estimation, and advice 
+for the states in the area of detection and measurement. 
+BfS is responsible for implementing the EU directive on 
+registration of larger radiological sources and for 
+maintenance of Germany's 2200 measurement points, which 
+provide full coverage of German territory. 
+ 
+¶14. (U) This message was coordinated with ConGen Hamburg 
+and has been cleared by Admiral Krol. 
+ 
+TIMKEN JR.

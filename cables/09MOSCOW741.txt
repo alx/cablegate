@@ -1,0 +1,87 @@
+09MOSCOW741
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: NOVATEST, MOSCOW,
+Wed Mar 25 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHMO #0741 0840940
+ZNR UUUUU ZZH
+P 250940Z MAR 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2537
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000741 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: NOVATEST, MOSCOW, 
+RUSSIA. 
+ 
+REFTEL: E-MAIL #207003 DATED 3/13/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Novatest, Moscow, 
+Russia. The company is listed on BIS license applications: NLR as 
+the ultimate consignee of two optical instruments, appliances, 
+electronic devices and components, two electrical machines and 
+apparatus, and other navigation direction finding equipment, 
+airborne communication equipment, all aircraft inertial navigation 
+systems. These items are controlled for national security, 
+anti-terrorism, missile technology, nuclear non-proliferation and 
+regional stability reasons under ECCN 3A001, 3A992 and 7A994. The 
+licensee is Lansmont Corporation, 17 Mandeville Court, Monterey, CA 
+¶93940. 
+ 
+¶3. On March 23, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of Novatest, 7A, Staropetrovsky proezd, 
+Moscow, Russia. The export control team met with Gennady Levkovsky, 
+General Director. 
+ 
+¶4. Novatest was founded in 2005 from a former division of the ASM 
+Test and Measurement company.  Mr. Levkovsky is the sole owner of 
+Novatest, and had worked for ASM for 12 years prior to the creation 
+of Novatest.  The company provides testing and measurement equipment 
+to various end users throughout Russia and the CIS countries. 
+Novatest employs 50 people in four office locations: Moscow, St. 
+Petersburg, Yekaterinburg and Ukraine. The principal end users for 
+this equipment are in the metallurgical field. Novatest carries 
+equipment from several manufacturers, most notably Instron, LDS 
+vibration testing devises and Rotodata Telemetry Systems for turbine 
+engines. Novatest was the subject of a previous positive end use 
+check on March 2, 2006. 
+ 
+¶5. The commodities in reftel were imported by Novatest as parts of a 
+transportation vibration recorder system, also called a shaker, with 
+GPS options. All shakers less than 4 tons come under export control. 
+Novatest imports approximately 20 shaker systems a year. The end 
+user of the reftel commodities, Scientific-Production Association of 
+Applied Mechanics, is a producer of telecommunication satellites 
+located in Krasnoyarsk, Russia. The satellites are transported to 
+the Russian launch facility in Kazakhstan by railroad. During 
+transport, the reftel commodity will record, and transmit back to 
+Krasnoyarsk, any shock or serious vibration to the satellite. 
+ 
+¶6. The export control team was provided a copy of the sale contract 
+and shipping records for the reftel commodities, thereby accounting 
+for the entire shipment. The equipment was used for the end use for 
+which it was licensed. There were no indications of impropriety and 
+Gennady LevkovskyQs answers were not evasive to the export control 
+team. 
+ 
+¶7. Recommendations: Post recommends Novatest, Moscow, Russia, as a 
+reliable recipient of sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

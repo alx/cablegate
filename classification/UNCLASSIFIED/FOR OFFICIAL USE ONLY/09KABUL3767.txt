@@ -1,0 +1,121 @@
+09KABUL3767
+AFGHANISTAN'S FIBER-OPTIC CABLE: PROBLEMS AND PROSPECTS
+Tue Nov 24 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Kabul
+VZCZCXRO7247
+PP RUEHDBU RUEHPW RUEHSL
+DE RUEHBUL #3767/01 3281522
+ZNR UUUUU ZZH
+P 241522Z NOV 09
+FM AMEMBASSY KABUL
+TO RUEHC/SECSTATE WASHDC PRIORITY 3385
+RUEHDBU/AMEMBASSY DUSHANBE 0139
+RUEHNT/AMEMBASSY TASHKENT 0029
+RUEHIL/AMEMBASSY ISLAMABAD 8121
+RUEKJCS/SECDEF WASHINGTON DC
+INFO RUCNAFG/AFGHANISTAN COLLECTIVEUNCLAS SECTION 01 OF 02 KABUL 003767 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPT FOR SCA/FO, SRAP, SCA/RA, EEB/CIP AND SCA/A 
+DEPT PASS AID/ANE 
+DEPT PASS OPIC FOR MORRIS 
+ 
+E.O. 12958 N/A 
+TAGS: ECPS EINV PREL AF
+SUBJECT: AFGHANISTAN'S FIBER-OPTIC CABLE: PROBLEMS AND PROSPECTS 
+ 
+Ref: KABUL 2920 
+ 
+KABUL 00003767  001.2 OF 002 
+ 
+ 
+¶1.  (SBU) Summary: Afghan officials have reported for months that a 
+fiber-optic cable would soon link Afghanistan's population centers 
+and neighboring countries, but they now admit the cable is far from 
+complete and international connections rarely function.  Uzbekistan 
+and Tajikistan continue to charge exorbitant prices for traffic, 
+resulting in a wholesale price per gigabyte at least 50,000 times 
+(sic) greater than in some developed countries, according to 
+Minister of Communications and Information Technology Amir Sangin. 
+Security concerns have also prevented cable construction in the 
+South.  Afghan officials and private sector leaders recognize the 
+value of the cable and broadband Internet service but will need USG 
+help to market this valuable product and to conclude agreements with 
+Afghanistan's neighbors.  End Summary. 
+ 
+Fiber-Optic Cable Construction: Domestic Delays 
+- - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+¶2.  (SBU) The ongoing fiber-optic cable project connecting 
+Afghanistan with its neighbors is critically needed to lower the 
+cost of Internet service.  The Ministry of Communications and 
+Information Technology (MCIT) has issued licenses to 20 Internet 
+service providers, but reliance on expensive satellite links has 
+kept broadband Internet out of reach for most Afghans.  MCIT 
+Minister Amir Sangin reported November 21 that the cable extends 
+from Kabul to Herat and into some eastern provinces, but 
+construction south of Kabul has stopped indefinitely due to security 
+along the route.  The Kabul-Jalalabad portion of the cable is 
+especially important because it connects to Pakistan, one of few 
+international routes for Internet traffic.  Road construction has 
+accidentally cut the cable between Kabul and Jalalabad several times 
+(reftel), but USAID contractors have repaired cuts that are their 
+responsibility.  Sangin said the Ministry of Public Works-sponsored 
+rebuilding of the Saracha Bridge on the Kabul-Jalalabad route cut 
+the cable yet again, but workers quickly repaired it and he expects 
+the cable to resume operation shortly. 
+ 
+Greedy Neighboring Countries 
+- - - - - - - - - - - - - - - 
+ 
+¶3.  (SBU) State-owned Afghan Telecom, the cable's owner, has 
+negotiated with Tajikistan and Uzbekistan for months to arrange 
+alternative international service via their cables.  Sangin said 
+Uzbekistan committed to provide service in late summer, but then 
+doubled its price, delaying service until November 22, when traffic 
+began flowing.  Tajik authorities signed an agreement to connect 
+their cable with Afghanistan's and are receiving payment, but are 
+not actually providing service.  Sangin said he was shocked on a 
+recent trip to Hong Kong to hear broadband service there costs $13 
+per gigabyte per month.  Pakistan, the cheapest bandwidth provider 
+for the Afghan cable, charges $650,000 (sic) per gigabyte per month, 
+while Uzbekistan and Tajikistan charge $950,000 and $1 million (sic) 
+per gigabyte per month, respectively.  He concluded that this 
+explains why it is unlikely Internet will ever achieve the same 
+penetration in Afghanistan as in nearby countries. 
+ 
+Plenty of Customers, Not Enough Salespeople 
+- - - - - - - - - - - - - - - - - - - - - - 
+ 
+¶4.  (SBU) The cable's largest customers are currently military 
+entities, which previously relied on expensive satellite service to 
+send data to headquarters in Europe and the Middle East.  U.S. 
+Forces Afghanistan (USFOR-A) is now connected to Germany via the 
+Uzbek link.  Despite the cable's revenue potential, Afghan Telecom 
+has struggled to lease space on the cable to commercial customers 
+due to its low managerial capacity.  The World Bank previously 
+supported salaries for experienced, expatriate managers, but that 
+assistance expired in October. 
+ 
+Comment: The Way Forward 
+- - - - - - - - - - - - - 
+ 
+¶5.  (SBU) Minister Sangin has indicated that concluding 
+international agreements for cable traffic is his top priority and 
+requested assistance through USAID's Economic Growth and Governance 
+Initiative (EGGI) program.  EGGI advisors will assist Afghan Telecom 
+in preparing a business plan and advancing optical fiber agreements 
+with neighboring countries.  Additionally, USFOR-A is considering 
+supporting an advisor to Afghan Telecom to build its technological 
+and business capacity.  Properly managed, the cable is Afghan 
+Telecom's most valuable asset and therefore more attractive 
+potential target for privatization in the future.  End Comment. 
+ 
+ 
+KABUL 00003767  002.2 OF 002 
+ 
+ 
+EIKENBERRY

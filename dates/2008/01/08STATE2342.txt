@@ -1,0 +1,134 @@
+08STATE2342
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Wed Jan 09 00:00:00 +0100 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0042
+RR RUEHWEB
+
+DE RUEHC #2342 0091356
+ZNR UUUUU ZZH
+R 091355Z JAN 08
+FM SECSTATE WASHDC
+TO RUEHFR/AMEMBASSY PARIS 0000
+INFO RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DC 0000UNCLAS STATE 002342 
+ 
+SIPDIS 
+ 
+SIPDIS 
+PARIS FOR ERIC J. REUTER 
+ECON 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC FR
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON APPLICATION 05-050079910 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+1.This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a pre-license check on application 05-050079910 for the 
+export of defense hardware to France.  Post is requested to 
+complete this Blue Lantern inquiry within 30 days.  Lack of 
+response to a Blue Lantern inquiry will affect pending and 
+future licenses involving parties to this license. 
+ 
+¶3. Reason for request:  Foreign Consignee INEO Defense ELG 
+and End-User Centre d'Electronique de L'armement (CELAR) are 
+unfamiliar foreign parties. 
+ 
+¶4. Action Request:   Department requests that Post review 
+documentation and conduct a site visit to establish the bona 
+fides of INEO Defense ELG as a responsible recipient of 
+United States Munitions List (USML) items.  Emphasize that 
+the unauthorized re-export or retransfer of USML items is 
+strictly prohibited.  Department further requests that Post 
+seek further information about the specific end-user(s) and 
+end-use of the exported items (e.g., government or 
+commercial) and clarify the type of research that is being 
+conducted. 
+ 
+End Action Request. 
+ 
+¶5. Details of license application: 
+ 
+DTC Case: 05-050079910 
+ 
+QUANTITY/COMMODITY: 
+ 
+2 DS-1432 Synthesizer 8.5-15.5 GHz 
+ 
+  Unclassified Technical Data 
+ 
+License Value: USD $151,100. 
+ 
+SELLER: 
+ 
+Herley-CTI, Inc. 
+9 Whippany Road 
+Whippany, NJ  07981 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+UPS Espace Express 
+34 Boulevard Malesherbes 
+75008 Paris 
+France 
+ 
+FOREIGN CONSIGNEES: 
+ 
+INEO Defense ELG 
+90 Traverse Des Messugues 
+Sophia, Antipolis 
+06560 Valbonne 
+France 
+Tel: 33(0)4 92 96 28 28 
+Fax: 33(0)4 93 65 27 90 
+Website: www.elg.fr 
+ 
+ 
+Elexience 
+c/o Anita Squedin 
+9 Rue Des Petit-Ruisseaux BP 61 
+91371 Verrieres Le Buisson Cedex 
+France 
+ 
+END-USER: 
+ 
+Centre d'Electronique de L'armement (CELAR) 
+La Roche Marguerite 35174 Bruz 
+Cedex 
+France 
+ 
+PURPOSE: 
+ 
+For use in the COBRA NG (radar generator and simulator) 
+program in a test bench.  The unit will be integrated in a 19 
+inch cabinet at CELAR for use in a lab. 
+ 
+¶6. Submitted in support of the license application was the 
+following document (PM/DTCC will fax documentation to Post 
+upon request): 
+ 
+-- End-Use/End-User Statement from INEO Defense ELG dated 18 
+November 2007 which references Elexience Purchase Order No. 
+A20702209 for Radar Signals Generator and Simulator. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Rachael-Therese S. Joubert-Lin, 
+Phone: 202-663-2950; Email: JoubertLinRS@state.gov; SIPRNET: 
+JoubertLinRS@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file in the Bunche Library's 
+E-Book Collection on the DOS Intranet: 
+http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+RICE

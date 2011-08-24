@@ -1,0 +1,140 @@
+06PRETORIA618
+SOUTH AFRICA: KOEBERG POWER PLANT EXPERIENCING
+Mon Feb 13 00:00:00 +0100 2006
+UNCLASSIFIED
+Embassy Pretoria
+VZCZCXYZ0009
+RR RUEHWEB
+
+DE RUEHSA #0618/01 0441324
+ZNR UUUUU ZZH
+R 131324Z FEB 06
+FM AMEMBASSY PRETORIA
+TO RUEHC/SECSTATE WASHDC 1537
+INFO RUEHBU/AMEMBASSY BUENOS AIRES 0179
+RHEBAAA/DEPT OF ENERGY WASHINGTON DCUNCLAS PRETORIA 000618 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPT FOR AF/S, NP/RA/CMARTIN AND WHAMMACK 
+ENERGY FOR NE-2.4, AND 
+NNSA/NA-243/MMANNING, NA-241, NA-21/ABIENIAWSKI 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG TRGY SF
+SUBJECT: SOUTH AFRICA: KOEBERG POWER PLANT EXPERIENCING 
+PROBLEMS 
+ 
+¶1. (U) Summary.  Eskom is racing against the clock to repair 
+the generator connected to one of two nuclear reactors at its 
+Koeberg power plant located north of Cape Town.  Eskom shut 
+down the Koeberg 1 reactor following damage to its dedicated 
+generator reportedly caused when a maintenance team 
+inadvertently left a three-inch bolt inside.  The problem is 
+that spare parts are not kept in inventory, and used ones are 
+difficult to find.  Eskom has its fingers crossed that 
+Koeberg 2 stays in operation long enough for the damaged 
+generator to be repaired.  Koeberg 2 is scheduled for 
+refueling in March, but this perhaps can be stretched to 
+April or the beginning of May.  In the meantime, any major 
+power surge on the 900-mile transmission lines from 
+Mpumalanga could trip Koeberg 2 and blackout the Cape.  The 
+incident, which occurred on Christmas Day, followed a spate 
+of power interruptions in the Cape during the month of 
+November.  End Summary. 
+ 
+¶2. (U) Eskom is racing against the clock to repair the 
+generator connected to one of two nuclear reactors at its 
+Koeberg power plant located north of Cape Town.  Koeberg 
+reactors 1 and 2 are responsible for supplying the Cape with 
+1800 MW of power, and are crucial to stabilizing additional 
+power transmitted over 900 miles of high voltage transmission 
+lines from coal-fired stations in Mpumalaga Province, east of 
+Johannesburg.  The loss of Koeberg 1 means that the stability 
+of these long distance lines rests primarily with Koeberg 2. 
+If Koeberg 2 were to shut down, Cape Town would experience 
+chronic blackouts. 
+ 
+¶3. (U) When one of the Koeberg reactors shuts down, Eskom 
+normally switches on the 60 MW Acacia gas turbine in the 
+Western Cape and the Port Rex gas turbine in the Eastern 
+Cape.  In this case, Eskom has also activated its pumped 
+storage power station at Palmiet and its hydroelectric 
+station at Van der Kloof.  But these plants together do not 
+generate nearly enough base power to run the Cape.  As a 
+consequence, Eskom has taken urgent steps to put the 
+mothballed Athlone and Steenberg power stations back into 
+operation.  Prior to this incident, Eskom had already 
+tendered for the construction of two combined cycle 
+generation plants in Atlantis and Mossel Bay, to be completed 
+by the end of 2007.  In addition, Eskom was in the middle of 
+a $200 million project to upgrade its high voltage 
+transmission lines from Mpumalanga. 
+ 
+¶4. (U) The immediate problem for Koeberg 1 is that spare 
+parts needed for the French built generator (Alstom) are not 
+kept in inventory, and used ones are difficult to find.  To 
+order and import a new generator would take a year.  Given 
+these options, Eskom had little choice but to truck the 
+massive generator parts to Rotek Engineering, its subsidiary 
+in Johannesburg, for repair.  Ideally, Rotek should complete 
+the task before Koeberg 2 shuts down for refueling in March. 
+Howver, refueling could be stretched until the end of April 
+or the beginning of May, if sanctioned by the National 
+Nuclear Regulator.  In the meantime, Eskom must keep its 
+fingers crossed that nothing else goes wrong.  Any major 
+power surge on the Mpumalanga transmission lines could cause 
+Koeberg 2 to trip, leading to a blackout for most of the Cape. 
+ 
+¶5. (U) The problem with the generator for Koeberg 1 is not an 
+isolated incident.  It follows a spate of power interruptions 
+in the Cape during the month of November.  On November 11, a 
+black out was caused by a mechanical failure in the 
+transmission lines in Koeberg's switching gear.  On November 
+16, a fire under transmission lines caused a power cut that 
+led to a controlled shut down at Koeberg.  On November 23, 
+Koeberg instigated another controlled shutdown (this time 
+without power interruption) after routine checks found that 
+the chemical concentration in its safety injection system was 
+below specification.  Throughout, the situation was 
+complicated by the fact that Koeberg 1 was already down for 
+refueling -- in winter when the voltage from Mpumalanga is 
+low.  When Koeberg 1 was brought back on-line on December 25, 
+its generator soon faulted, thus tripping another controlled 
+shutdown. 
+ 
+¶6. (U) The culprit appears to have been a member of the 
+maintenance team who reportedly has assumed responsibility 
+for inadvertently leaving a three-inch bolt inside the 
+generator for Koeberg 1.  When the generator was activated, 
+the bolt ripped through both the rotor and the stator, a 
+sophisticated series of thick electric cables.  The bolt 
+damaged the insulation surrounding the generator bars of the 
+stator, causing an electrical fault and forcing the 
+controlled shutdown of Koeberg 1. 
+ 
+ 
+¶7. (U) Cape Town was already feeling a power pinch when all 
+of these outages happened.  City Council Public Lighting 
+Manager Charles Kadalie had warned that controlled power 
+interruptions could plague the city during the next three to 
+nine months, in line with the project to upgrade the 
+transmission lines.  He wanted to shut off streetlights that 
+burned during the day to prevent cable theft, but first he 
+would have to bury the cables in cement.  He also wanted to 
+turn off the nightly illumination of Table Mountain and 
+advised Cape residents to conserve electricity. 
+ 
+¶8. (U) The power interruptions and controlled shutdowns in 
+November have attracted the attention of the National Energy 
+Regulator (NER), which has asked Eskom to investigate the 
+underlying causes.  NER had also commissioned the first 
+independent technical audit of Eskom's transmission business. 
+ Some have speculated that the 20-year old power plant at 
+Koeberg may need an overhaul.  Others have speculated that 
+the loss of experienced staff, including Koeberg's 
+long-serving Power Station Manager, may be the source of 
+future problems at Koeberg. 
+TEITELBAUM

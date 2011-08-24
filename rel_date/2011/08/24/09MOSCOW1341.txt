@@ -1,0 +1,98 @@
+09MOSCOW1341
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: OPTICAL ELECTRONIC
+Tue May 26 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0003
+PP RUEHWEB
+
+DE RUEHMO #1341 1460703
+ZNR UUUUU ZZH
+P 260703Z MAY 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3444
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001341 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: OPTICAL ELECTRONIC 
+TECHNOLOGIES, MOSCOW, RUSSIA. 
+ 
+REFTELS: REQUEST #207004; DATED 3/17/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Optical Electronic 
+Technologies, Moscow, Russia. The company is listed on BIS license 
+application: D362048 as the ultimate consignee of one Bittworks 
+Bundle, which includes DSP21K-SF-32-01, DSP21K-SF-RC-01, 
+VDSP-SF-Target, TS LIBS full toolkits.  These items are controlled 
+for national security and anti-terrorism reasons under ECCN 3D001. 
+The licensee is Kazakis/Bittware, 97 Hillcrest Road, Litchfield, NH 
+¶03052. 
+ 
+¶3. On May 21, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification of the reftel commodities purchased by Optical 
+Electronic Technologies at the offices of Defense Services, 29, 
+Vereyskaya Street, Moscow, Russia.  Defense Services is located in a 
+building adjacent to that of Optical Electronic Technologies. The 
+export control team met with Vyacheslav Shirnin, General Director 
+and Chief Engineer, and Mikhail Shkuruk, Deputy General Director of 
+the company Defense Services. 
+ 
+¶4. The export control team was met at the entrance to the offices of 
+Defense Systems by Shirnin and Shkuruk, and escorted to a conference 
+room.  Along the hallway and inside the conference room were 
+pictures and hardware displays of Russian military equipment. 
+Inside the conference room, Shirnin advised the export control team 
+that the meeting had to take place in Defense Systems offices 
+because of access restrictions for foreigners at the offices of 
+Optical Electronic Technologies.  When ECO Liston asked Shirnin and 
+Shkuruk for business cards, both answered that they do not have any. 
+ Neither made any attempt to find one. 
+ 
+¶5. Once inside the conference room, the export control team was 
+presented with 6 integrated circuit board platforms with Agilent 
+Technologies circuits and Bittworks logo on control/serial numbers. 
+They are as follows: 127634, 127627, 127633, 127632, 127626 and 
+¶127631.  Shirnin was quick to point out to the export control team 
+that Optical Electronic Technologies intends to follow all of the 
+end user restrictions placed on the Bittworks products that the 
+company had purchased.  Shirnin stated that they are only being used 
+for research in its laboratory in the nearby building. 
+ 
+¶6. Shirnin advised the export control team that Optical Electronic 
+Technologies and Defense Systems were both created by 
+Rosoboronexport.  Rosoboronexport is RussiaQs only arms export 
+company.   When asked when the company was created Shirnin was vague 
+and said around the year 2000. When asked how many are employed at 
+Optical Electronic Technologies, Shirnin stated that he cannot 
+answer because it is a confidential matter.  When asked what 
+products Optical Electronic Technologies makes for the commercial 
+market, Shirnin stated Qoptical surveillanceQ systems, without being 
+specific or presenting brochures or sample items. 
+ 
+¶7. The export control team can account for the reftel commodities; 
+however, there was no way to verify that they were being used for 
+the end use for which they were licensed.  There are indications of 
+impropriety, from the presence of Shkuruk in the meeting; the 
+meeting taking place in the offices of Defense Systems and not that 
+of Optica4wQFrstQrt control team that Shirnin was 
+being evasive in his answers to the team. 
+ 
+¶8. Recommendations: Post does not/not recommend Optical Electronic 
+Technologies, Moscow, Russia, as a reliable recipient of sensitive 
+U.S. origin commodities. 
+(FCS MOSCOW/BBLECHER/PLISTON) 
+BEYRLE

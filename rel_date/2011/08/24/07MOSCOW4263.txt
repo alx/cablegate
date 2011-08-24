@@ -1,0 +1,93 @@
+07MOSCOW4263
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: JSC
+Thu Aug 30 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0013
+PP RUEHWEB
+
+DE RUEHMO #4263 2420925
+ZNR UUUUU ZZH
+P 300925Z AUG 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3430
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 004263 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/DMUSLU 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: JSC 
+INSTITUTE ENGINEERING SCIENCE URAL BRANCH RAS, 
+YEKATERINBURG, RUSSIA, LICENSE NO. D352204 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, JSC Institute Engineering Science Ural Branch 
+RAS, Yekaterinburg, Russia. The company is listed on 
+BIS license application D352204 as the ultimate 
+consignee of a thermal imager, model: TH9100.  This 
+item is controlled for national security and regional 
+stability reasons under ECCN 6A003. The licensee is 
+Mikron Infrared Inc., 16 Thornton Road, Oakland, NJ, 
+¶07436. 
+ 
+¶3. On August 21, 2007, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested post-shipment verification with Joint Stock 
+Company Institute Engineering Science Ural Branch, 
+Russian Academy of Science, 34 Komsomolskaya St., 
+Yekaterinburg, Russia. The export control team met 
+with Sergey Smirnov, Deputy Director. 
+ 
+¶4. The Institute was founded in 1986 as a division of 
+the Urals branch of the Russian Academy of Science 
+(RAS).  The institute focuses on fundamental research 
+in topics such as mechanical engineering, machine 
+construction, transportation, and information 
+technology systems.  The Joint Stock Company conducts 
+research and development for private clients wishing 
+to utilize the design and mechanical experience of the 
+faculty of the Institute.  Funding for the Institute 
+is provided by RAS and from the profits of the JSC. 
+The Institute employs 180, including 80 researchers 
+and professors on staff. 
+ 
+¶5. The commodity in reftel is used in the study of 
+machine and mechanical systems.  The camera allows 
+researchers to precisely map thermal stress and 
+friction points in a machine or device, and allows for 
+a careful examination of the failure of devices to 
+improve design and fabrication of parts.  The camera 
+allows the researcher to observe the destruction of 
+parts, in real time, while noting the dynamics of the 
+failing device. The purchase of the camera was funded 
+by a government grant to RAS. 
+ 
+¶6. The team was shown an NEC Thermo-Tracer TH 9100WL, 
+serial number 6021101.  When not in use the camera is 
+stored in a safe located on the fifth floor.  Mr. 
+Smirnov is personally responsible for the camera, 
+issuing it to the operators when required.  Along with 
+Mr. Smirnov, there are two other operators who are 
+trained and authorized to use the camera.  Mr. Smirnov 
+is familiar with the conditions of the license. 
+ 
+¶7. Recommendations: Post recommends JSC Institute 
+Engineering Science Ural Branch RAS, Yekaterinburg, 
+Russia as reliable recipients of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

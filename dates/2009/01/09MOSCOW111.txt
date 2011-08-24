@@ -1,0 +1,91 @@
+09MOSCOW111
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: NEXEL ENTERPRISES
+Tue Jan 20 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0005
+PP RUEHWEB
+
+DE RUEHMO #0111 0201244
+ZNR UUUUU ZZH
+P 201244Z JAN 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1542
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000111 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: NEXEL ENTERPRISES 
+INC. 
+ 
+REFTEL: USDOC 06940 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a Post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Nexel Enterprises Inc., 
+doing business with in cooperation with Ulyanovsk Instrument 
+Manufacturing Design Bureau (UIMDB), Krymov St., 10A, Ulyanovsk, 
+Russia. The company is listed on BIS license application: NLR as the 
+ultimate consignee of one monitor automatic data processing, 
+navigation direction finding equipment, airborne communication 
+equipment, aircraft inertial navigation systems. These items are 
+controlled for anti-terrorism and regional stability reasons under 
+ECCN 7A994. The licensee is Korry Electronics, 810 Dexter Ave., 
+North Seattle, WA 98109. 
+ 
+¶3. On January 14, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification with UIMDB, Krymov St., 10A, Ulyanovsk, Russia. The 
+export control team met with Nikolay Makarov, General Director, 
+Viktor Budkevich, Head of business connections department and Viktor 
+Kozhevnikov, Deputy General Director.  The export control team was 
+given a complete tour of the UIMDB facility and manufacturing 
+plant. 
+ 
+¶4. Ulyanovsk Instrument Manufacturing Design Bureau (UIMDB) was 
+founded in 1954 as a State owned enterprise.  In 1980 UIMDB began to 
+specialize in electronic display units and warning systems for the 
+avionic industry.  In 1993 UIMDB became a subsidiary of Aviapribor 
+of Moscow, Russia, a privately held joint stock holding company. 
+UIMDB still specializes in electronic display units for the aviation 
+industry with a small department involved in producing electronics 
+for Hydro Turbine plants.  UIMDB has five divisions within their 
+operational structure; an aircraft management systems division; an 
+air data measuring equipment & electrical engineering division; an 
+avionics and IMS components division; a hydro turbine management 
+systems and power station division; and a helicopter information 
+control systems division. 
+ 
+¶5.  UIMDB is located within a secure guarded facility that requires 
+identification card access.  Viktor Budkevich, Head of business 
+connections department and Viktor Kozhevnikov, Deputy General 
+Director toured the facility with the export control team, where the 
+export control team was shown secure, locked locations within the 
+facility where UIMDB stores the NLR items received from Korry 
+Electronics before they are placed in electronic display units. 
+ 
+¶6.  The subject commodity in reftel was already placed inside an 
+electronic display unit and going through additional testing at the 
+UIMDB facility prior to being sold commercially in the Russian 
+market.  UIMDB showed the export control team an inventory control 
+file that detailed every movement of the subject commodity in 
+reftel, from its purchase, its arrival in country and customs 
+clearance, its testing at the facility, its placement in storage, to 
+its placement in a display unit for testing. 
+ 
+¶7. Recommendations: Post recommends Nexel Enterprises Inc., doing 
+business with in cooperation with Ulyanovsk Instrument Manufacturing 
+Design Bureau (UIMDB), Ulyanovsk, Russia as a reliable recipient of 
+sensitive U.S. origin commodities. 
+(FCS MOSCOW/BBLECHER/PLISTON) 
+RUBIN

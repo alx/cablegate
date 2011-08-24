@@ -1,0 +1,748 @@
+06CARACAS704
+VENEZUELA MACROECONOMIC UPDATE
+Thu Mar 16 00:00:00 +0100 2006
+UNCLASSIFIED
+Embassy Caracas
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHCV #0704/01 0751203
+ZNR UUUUU ZZH
+R 161203Z MAR 06
+FM AMEMBASSY CARACAS
+TO RUEHC/SECSTATE WASHDC 3575
+INFO RUEHBO/AMEMBASSY BOGOTA 6141
+RUEHBU/AMEMBASSY BUENOS AIRES 1068
+RUEHLP/AMEMBASSY LA PAZ MAR LIMA 9977
+RUEHQT/AMEMBASSY QUITO 1843
+RUEHSG/AMEMBASSY SANTIAGO 3331
+RUEHGL/AMCONSUL GUAYAQUIL 0354
+RUCPDOC/DEPT OF COMMERCE
+RUEHC/DEPT OF LABOR
+RUEATRS/DEPT OF TREASURY
+RHEHNSC/NSC WASHDC
+RUMIAAA/HQ USSOUTHCOM MIAMI FLUNCLAS CARACAS 000704 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE FOR WHA/AND, WHA/EPSC, EB 
+TREASURY FOR OASIA - GIANLUCA SIGNORELLI 
+USCINCSO FOR POLAD 
+BUENOS AIRES FOR TREASURY - MHAARSAGER 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN PGOV VE
+SUBJECT: VENEZUELA MACROECONOMIC UPDATE 
+ 
+REF: A. CARACAS 00485 
+ 
+     ¶B. CARACAS 00512 
+     ¶C. CARACAS 03601 
+     ¶D. CARACAS 03782 
+     ¶E. CARACAS 00632 
+     ¶F. CARACAS 00208 
+ 
+SENSITIVE BUT UNCLASSIFIED.  NOT FOR INTERNET DISTRIBUTION. 
+ 
+-------- 
+OVERVIEW 
+-------- 
+ 
+¶1.  (SBU) Venezuela,s strong economic growth performance 
+will most certainly continue through 2006 given the continued 
+high oil price scenario and profligate BRV spending this 
+election year, which is fueling a consumption boom.    We 
+also expect the state to continue to consolidate its role in 
+the nation,s economic life.   The quality of economic growth 
+remains poor with low net new job creation, private sector 
+direct investment remains anemic given the uncertain 
+political environment, and the high levels of monetary 
+liquidity are creating their own set of difficulties for the 
+Central Bank.  For now, the high levels of BRV spending, 
+which could reach 40 percent of GDP this year, will continue 
+to mask a multitude of economic distortions and structural 
+weaknesses that have been created through Bolivarian economic 
+mismanagement. 
+ 
+--------------- 
+ECONOMIC GROWTH 
+--------------- 
+ 
+¶2. (U) Real GDP grew by 9.3 percent in 2005.  The 2004 
+economic recovery continued in 2005, driven largely by a huge 
+increase in government expenditures as a result of the 
+continued oil bonanza (see table).  Importantly, the non-oil 
+sector has led the economic growth in 2005: mining (1.7 
+percent), manufacturing (8.7 percent), electricity and water 
+(8 percent), commerce and repair services (19.9 percent), 
+construction (20.1 percent), transportation and storage (13.9 
+percent), communications (15.9 percent), and finance and 
+insurance (27.2 percent).   The oil sector has only 
+registered 1.7 percent growth due to low PDVSA investment to 
+support increased production.  The increase in economic 
+growth in the oil sector is mainly due to the high oil 
+prices.  In 2006, we expect the economy to grow around 6 to 7 
+percent, assuming continued high oil prices and anticipated 
+aggressive BRV election year spending (at least 30.5 percent 
+of GDP, with potential off-budget spending of up to 10 
+percent of GDP). 
+ 
+                     REAL GDP GROWTH RATE 
+                         (PERCENTAGE) 
+                     -------------------- 
+ 
+                       OIL      NON-OIL     TOTAL 
+ 
+1999                  -3.8       -6.9       -6.0 
+2000                   2.3        4.2        3.7 
+2001                  -0.9        4.0        3.4 
+2002                 -14.2       -6.0       -8.9 
+2003                  -1.9       -7.5       -7.7 
+2004                  11.6       17.8       17.9 
+2005 (1)               1.7       10.3        9.3 
+2006 (2)               3.0        7.4        6.7 
+ 
+(1) Preliminary figures. 
+(2) Projections. 
+ 
+SOURCE:  Central Bank of Venezuela and Metroeconomica 
+ 
+------------ 
+UNEMPLOYMENT 
+------------ 
+ 
+¶3. (U) Second semester 2005 figures from the National 
+Institute of Statistics (INE) show an average unemployment 
+rate of 11.4 percent, the lowest in seven years. However, 
+workforce shifts from unemployed to inactive, rather than 
+substantial new job creation, have helped to lower the 
+unemployment rates. The inactive category includes all 
+persons 15 years or older who are not seeking employment. 
+This includes students, homemakers, retirees, those 
+physically unable to work, and those that work for less than 
+15 hours a week without pay for other family members. The 
+informal sector of the economy accounted for 48 percent of 
+the occupied working labor force. 
+ 
+¶4. (U) Despite 2005,s impressive economic growth rate of 9.3 
+percent, the number of private sector jobs decreased by 
+230,890 (2.5 percent) and public sector jobs increased by 
+47,914 (2.8 percent), from December 2004 to September 2005. 
+Some analysts suggest that private firms are producing more 
+with the same number of employees because of the high costs 
+to hire an additional employee. Under current Venezuelan 
+labor laws, large companies in the formal economy pay on 
+average the equivalent of 24 months of salary per employee 
+per year. The increase in unemployment to 12.9 percent for 
+January 2006 is normal for the first month of the year, after 
+an adjustment for seasonal increases in employment for the 
+Christmas holidays. 
+ 
+    UNEMPLOYMENT (percentage in second semester) 
+   --------------------------------------------- 
+ 
+1999                              14.5 
+2000                              13.2 
+2001                              12.8 
+2002                              16.2 
+2003                              16.8 
+2004                              13.9 
+2005                              11.4 
+ 
+2006 
+JAN                               12.9 
+ 
+SOURCE:  BRV National Institute of Statistics (INE). 
+ 
+---------------------- 
+INTERNATIONAL RESERVES 
+---------------------- 
+ 
+¶5. (U) The Central Bank (BCV)-held international reserves 
+increased to USD 30.4 billion at the end of 2005 because of 
+higher than expected oil export revenue (approximately USD 
+48.1 billion).  This level of reserves covers approximately 
+15 months of imports.  The reserves would have been higher, 
+but the BCV transferred USD 6 billion to the National 
+Development Fund (FONDEN) during the last quarter 2005, as 
+required by the Central Bank Law (passed in July 2005). The 
+level of international reserves is expected to decrease 
+during 2006 because the Central Bank Law established that 
+PDVSA will only transfer foreign exchange earnings needed for 
+its domestic expenses, taxes, royalties, and dividends to the 
+BCV, and the rest to FONDEN. (Note:  Currently, FONDEN has 
+USD 8.425 billion, including direct transfers from PDVSA. End 
+Note.) In February 2006, Chavez called for the transfer of 
+USD 4.0 billion from the BCV to FONDEN. The Central Bank Law 
+also directed the BCV to determine the adequate level of 
+reserves, which we anticipate will be USD 25 billion, based 
+on prior Chavez, statements (reftel A). 
+ 
+¶6. (U) The results below include the Macroeconomic 
+Stabilization Fund (FEM), which was originally established in 
+1998 as a savings fund to reduce the impact of oil income 
+fluctuations on the fiscal, foreign exchange and monetary 
+balances (a rainy day fund). The maximum level reached by 
+this Fund was USD 7,116 million on December 12, 2001.  In 
+2002 and 2003, the Venezuelan government used the funds to 
+cover the fiscal deficit and in a widely publicized scandal 
+suspended transfers of USD 3.2 billion to the FEM.  The 
+balance was USD 737 million on March 1, 2006. 
+ 
+           INTERNATIONAL RESERVES (USD MILLIONS) 
+          --------------------------------------- 
+                      BCV       FEM        TOTAL 
+ 
+1999 DEC            15,164       215       15,379 
+2000 DEC            15,883     4,588       20,471 
+2001 DEC            12,296     6,227       18,523 
+2002 DEC            12,003     2,857       14,860 
+2003 DEC            20,666       700       21,366 
+2004 DEC            23,498       710       24,208 
+2005 DEC            29,636       732       30,368 
+ 
+2006 
+JAN                 27,888       734       28,622 
+FEB                 28,603       736       29,339 
+ 
+SOURCE:  Central Bank of Venezuela. 
+ 
+--------------- 
+MONEY SUPPLY/M2 
+--------------- 
+ 
+¶7. (U) Monetary liquidity or money supply grew 52.7 percent 
+during 2005, largely as a result of foreign exchange controls 
+and increased government expenditures (reftel B).  This is 
+the third annual consecutive huge increase, which implies 
+potential higher inflation rates in the medium-term.  Most of 
+the excess liquidity accumulated in the economy during these 
+months has been withdrawn by the Central Bank (BCV) issuing 
+short-term certificates of deposits, mostly to domestic 
+banks. The net balance in circulation of certificates of 
+deposit was 30.10 trillion Bolivars (approximately USD 14.0 
+billion) at the end of January 2006, or 42.7 percent of the 
+total money supply. 
+ 
+¶8.  (U) The Finance Ministry also issued USD 3.0 billion in 
+dollar-denominated bonds, purchasable in local currency 
+(reftel C). This alleviated some of the excess liquidity, 
+which if left unchecked, would cause inflationary pressures. 
+The BRV also purchased USD 2.8 billion and resold 
+approximately USD 1.1 billion in dollar-denominated Argentine 
+bonds to local investors(reftel D).  In both cases, local 
+investors could sell the bonds overseas, obtaining dollars, 
+and reducing the supply of Bolivars. We anticipate that the 
+BRV will complete similar issuances in 2006. 
+ 
+           MONEY SUPPLY/M2 (3)     MONETARY BASE 
+          --------------------   ------------------- 
+ 
+End of: (million Bs.) Pct.Chg. (million Bs.) Pct.Chg. 
+ 
+1999     12,740,836     20.0      4,909,822    32.1 
+2000     16,284,578     27.8      5,790,841    17.9 
+2001     16,976,364      4.2      6,478,295    11.9 
+2002     19,573,369     15.3      7,701,120    18.9 
+2003     30,835,975     57.5     11,274,439    46.4 
+2004     46,363,672     50.4     16,524,461    46.6 
+2005     70,794,342     52.7     23,086,512    39.7 
+ 
+2006 (4) 
+JAN      70,434,577    (0.5)     22,042,400    (4.5) 
+ 
+(3) M2 includes currency, demand deposits, savings, 
+    and certificates of deposit. 
+(4) Preliminary figures. 
+ 
+SOURCE:  Central Bank of Venezuela (BCV). 
+ 
+----------------------------------- 
+EXCHANGE RATES AND BCV LIQUIDATIONS 
+----------------------------------- 
+ 
+¶9.  (U) The National Exchange Control Administration 
+(CADIVI), created in February 2003, oversees authorized 
+foreign exchange transactions.  Currently, approximately 95 
+percent of the private foreign exchange is processed through 
+CADIVI and approximately 5 percent is processed by the 
+parallel market. Public sector entities can acquire foreign 
+currency directly from the Central Bank for public sector 
+imports, debt payments, and other expenses abroad.  In 2005, 
+CADIVI authorized on average USD 83.2 million a day, and the 
+BCV liquidated on average USD 78.6 million a day in exchange 
+transactions. The parallel market exchange rate was 2,616 
+Bolivars per dollar as of March 1, 2006.  BRV officials have 
+promised no devaluation for this year.  At 2,150 Bolivars per 
+dollar, we estimate that the Bolivar is approximately 20 
+percent overvalued. Economic sources anticipate a devaluation 
+in early 2007. 
+ 
+                 END OF PERIOD EXCHANGE RATES (Bs./USD) 
+                        AND BCV LIQUIDATIONS 
+--------------------------------------------- -------------- 
+                                      OFFICIAL FOREX 
+      OFFICIAL MARKET  PARALLEL MARKET LIQUIDATIONS 
+                                      (MILLIONS USD) 
+--------------------------------------------- -------------- 
+ 
+1999        648.25 
+2000        699.75 
+2001        763.00 
+2002      1,401.25 
+2003      1,600.00     2,875.00         4,594.52 
+2004      1,920.00     2,673.41        14,780.80 
+2005      2,150.00     2,586.08        19,430.50 
+ 
+2006 
+JAN       2,150.00     2,643.80         1,867.20 
+ 
+SOURCE:  Central Bank of Venezuela, and Metroeconomica. 
+ 
+ 
+-------------------- 
+CONSUMER PRICE INDEX 
+-------------------- 
+ 
+¶10.  (U) The BCV reported that consumer prices for the 
+Caracas metropolitan area rose 12.5 percent from February 
+2005 to February 2006. This is the lowest annual inflation 
+rate of the last 50 months.  However, around 50 percent of 
+all consumable goods have been under a price control regime 
+since February 11, 2003. Core inflation removes the most 
+volatile categories from the CPI. Both indicators increased 
+at similar rates during the last two years. Effective 
+February 1, 2006, the government increased the minimum wage 
+by 15 percent to 465,750 Bolivars (USD 216.6) per month. This 
+is expected to have a limited effect on 2006 inflation, which 
+could be higher than 2005. For 2006, the BRV has an inflation 
+target of 10 percent (Dec-Dec). 
+ 
+ CONSUMER PRICE INDEX (1997 AVG = 100) and CORE INFLATION 
+--------------------------------------------- ------------- 
+              CPI          CPI     CORE INFLATION 
+          END OF PERIOD  (% change)   (% change) 
+ 
+1999         181.6            20.0           N/A 
+2000         206.0            13.4          12.8 
+2001         231.3            12.3          11.3 
+2002         303.5            31.2          31.2 
+2003         385.7            27.1          37.9 
+2004         459.7            19.2          21.1 
+2005         525.7            14.4          14.6 
+ 
+SOURCE:  Central Bank of Venezuela. 
+ 
+------------------- 
+BALANCE OF PAYMENTS 
+------------------- 
+ 
+¶11.  (U) The overall balance of payments may show a deficit 
+during 2006 for the first time in the last four years because 
+of the expected continued capital flight, including PDVSA,s 
+depositing funds abroad. This deficit is the equivalent to a 
+decrease in the international reserves.  During the period 
+2003-2005, with exchange controls in force, private sector 
+capital flight increased by around USD 15.7 billion. 
+Additionally, public sector assets abroad also increased 
+during those years by USD 18.9 billion. One of the main 
+reasons for the large public sector deposits abroad for 2005 
+is the reform of the Central Bank Law in July 2005 by which 
+the BCV transferred USD 6 billion to the National Development 
+Fund (FONDEN). Currently, FONDEN holds an estimated USD 8.425 
+billion, including transfers from PDVSA. With additional 
+transfers from PDVSA and an additional USD 4 billion transfer 
+from the international reserves, FONDEN could have USD 18 
+billion by year,s end. 
+ 
+ 
+                      BALANCE OF PAYMENTS SUMMARY 
+                             (USD BILLION) 
+            --------------------------------------------- - 
+ 
+                         2002  2003  2004  2005 2006 
+                                          (1)  (2) 
+ 
+ 
+CURRENT ACCOUNT (A)      7.6  11.4  13.8   25.4   13.7 
+  EXPORTS, FOB          26.8  27.2  38.7   55.5   55.4 
+  IMPORTS, FOB         -13.4 -10.7 -17.3  -24.0  -31.8 
+    TRADE BALANCE       13.4  16.5  21.4   31.5   23.6 
+  NET SERVICES AND RENT -5.6  -5.0  -7.5   -6.0   -9.8 
+  NET TRANSFERS         -0.2  -0.1  -0.1   -0.1   -0.1 
+CAPITAL AND FINANCIAL 
+ACCOUNT (B)             -9.2  -5.0  -9.0  -16.1  -11.9 
+  DIRECT INVESTMENT     -0.2   1.3   1.9    1.5    3.2 
+  PORTFOLIO INVESTMENT  -2.3  -1.0  -2.0    2.7    3.1 
+  OTHER INVESTMENT      -6.7  -5.3  -8.9  -20.4  -18.2 
+NET ERRORS AND 
+OMISSIONS (C)           -2.8  -1.0  -2.9   -3.8   -3.4 
+OVERALL BALANCE 
+(A) (B) (C)             -4.4   5.4   1.9    5.5   -1.6 
+ 
+(1) Preliminary figures. 
+(2) Projections. 
+ 
+SOURCE:  Central Bank of Venezuela, and Metroeconomica. 
+ 
+----------- 
+OIL EXPORTS 
+----------- 
+ 
+¶12. (U) Total value of the oil exports reached USD 48.059 
+billion during 2005 with an average export price for the 
+Venezuelan oil basket of USD 45.4 per barrel. Venezuela,s 
+current OPEC production quota is 3.22 million barrels. 
+However, Venezuela,s oil production remains below the quota, 
+according to OPEC figures. According to OPEC,s Monthly Oil 
+Report for February 2006, Venezuela,s oil production was 
+2.54 million barrels per day. The average oil price per 
+barrel was USD 53.0 as of February 24, 2006. 
+ 
+ 
+                  OIL EXPORTS (THOUSAND B/D) 
+          ----------------------------------------- 
+                            AVERAGE 
+             EXPORTS (1)  EXPORT PRICE    EXPORTS 
+           (THOUSAND B/D)   (USD/B)    (USD MILLION) 
+ 
+1999          2,785          16.0          16,735 
+2000          2,791          25.9          27,874 
+2001          2,711          20.2          21,745 
+2002          2,681          22.0          21,532 
+2003 (2)      2,339          25.8          22,029 
+2004 (2)      2,635          33.1          31,917 
+2005 (2)(3)   2,900          45.4          48,059 
+ 
+(1) Includes crude oil and oil products. 
+(2) Figures for 2003 onward appear to include orimulsion and 
+production from Strategic Associations. 
+(3) Preliminary figures. 
+ 
+SOURCES: Central Bank of Venezuela, Ministry of Energy and 
+Petroleum, OPEC, and Embassy,s estimates. 
+ 
+------------------------- 
+MERCHANDISE TRADE BALANCE 
+------------------------- 
+ 
+¶13. (U) Total imports increased 38.7 percent during 2005 
+compared to 2004, largely due to the economic recovery, and 
+increased approvals and liquidations of foreign exchange 
+requests by CADIVI.  With continued exchange controls, we 
+believe the Bolivar, valued at 2,150 per dollar, is 
+overvalued by approximately 20 percent, acting as a subsidy 
+for imports to Venezuela.  According to the National 
+Statistics Institute (INE), the United States was the largest 
+exporter to Venezuela (30.4 percent), followed by Colombia 
+(11.0 percent), Brazil (9.2 percent), Mexico (7.2 percent), 
+Japan (3.8 percent), and China (3.7 percent). For 2006, we 
+expect a continued high merchandise trade surplus due to a 
+stable oil price outlook. 
+ 
+             MERCHANDISE TRADE BALANCE (USD BILLION) 
+            ------------------------------------------ 
+ 
+ 
+                     2002  2003  2004  2005(1) 2006(2) 
+ 
+OIL EXPORTS (A)     21.5   22.0   31.9    48.1    47.1 
+ 
+NON-OIL EXPORTS (B)  5.3    5.2    6.8     7.4     8.3 
+ 
+TOTAL EXPORTS (C)   26.8   27.2   38.7    55.5    55.4 
+ 
+TOTAL IMPORTS (D)  -13.4  -10.7 - 17.3   -24.0   -31.8 
+ 
+MERCHANDISE TRADE 
+BALANCE (C)-(D)     13.4   16.5   21.4    31.5    23.6 
+ 
+(1) Preliminary figures 
+(2) Projections. 
+ 
+SOURCE:  Central Bank of Venezuela, and Metroeconomica. 
+ 
+------------------------- 
+FOREIGN DIRECT INVESTMENT 
+------------------------- 
+ 
+¶14. (U) Foreign direct investment showed an inflow of USD 
+1,497 million during 2005. Foreign oil companies operating in 
+Venezuela reinvested USD 1,519 million of earnings, and 
+non-oil companies in Venezuela made new foreign direct 
+investments of USD 990 million. On the other hand, the 
+Venezuelan oil sector increased investments abroad for an 
+amount of USD 1,332 million, including reinvestment of 
+earnings. Foreign direct investment in Venezuela has been 
+relatively low since 2002 because of the uncertain political 
+environment, increased government intervention in the 
+economy, and BRV support for expropriations and seizures of 
+land and property. 
+ 
+         Abroad      In the country       Net flow 
+ 
+1997          -557           6,202          5,645 
+1998        -1,043           4,985          3,942 
+1999          -872           2,890          2,018 
+2000          -521           4,701          4,180 
+2001          -204           3,683          3,479 
+2002        -1,026             782           -244 
+2003        -1,318           2,643          1,325 
+2004           348           1,492          1,840 
+2005 (1)    -1,460           2,957          1,497 
+ 
+(1) Preliminary figures 
+ 
+Source: Central Bank of Venezuela. 
+ 
+---------------------------- 
+CARACAS STOCK EXCHANGE INDEX 
+---------------------------- 
+ 
+¶15.  (U) The Caracas Stock Exchange (CSE) index recovered 
+during the first two months of 2006 after declining 31.9 
+percent in 2005. This recovery could be explained by the 
+excess liquidity in the market, the decreasing interest rates 
+in the Venezuelan banking system, the government controls on 
+the capital movements, and the lack of options to invest. 
+According to the CSE President Nelson Ortiz, 2006 could be a 
+good year for the Venezuelan capital market. As an indicator 
+of the current strong market, local media report that in 
+three years the price of a trading desk at the Caracas Stock 
+Exchange increased from USD 14,000 to USD 465,000. 
+ 
+          CARACAS STOCK EXCHANGE CAPITALIZATION INDEX 
+                     (DECEMBER 1993 = 1,000) 
+          ------------------------------------------- 
+ 
+                    2004        2005        2006 
+ 
+JANUARY          27,956.14   29,303.14   25,119.59 
+FEBRUARY         27,484.76   30,388.61   28,260.50 
+MARCH            26,579.69   28,977.07 
+APRIL            25,879.34   25,089.14 
+MAY              25,405.73   22,493.91 
+JUNE             25,285.17   21,595.64 
+JULY             25,611.18   20,561.79 
+AUGUST           27,263.38   19,702.21 
+SEPTEMBER        30,111.62   20,769.36 
+OCTOBER          29,618.87   19,651.74 
+NOVEMBER         29,306.54   19,992.69 
+DECEMBER         29,952.18   20,394.83 
+ 
+ 
+SOURCE:  Caracas Stock Exchange, Banco Mercantil, and 
+         Metroeconomica. 
+ 
+------------------------------------ 
+CENTRAL GOVERNMENT FINANCIAL RESULTS 
+------------------------------------ 
+ 
+¶16. (U) Total central government ordinary expenditures 
+increased to 27.4 percent of GDP. This increase in public 
+spending was initiated in mid-2003, and has been possible 
+because of stronger oil prices, as well as higher internal 
+tax collection, especially sales tax and import duties. The 
+Venezuelan Tax Authority (SENIAT) has increased tax 
+collection 106 percent from USD 8.66 billion in 2003 to USD 
+17.85 billion in 2005. Although the 2005 central government 
+financial results show a fiscal surplus (2.1 percent of GDP), 
+total government off-budget expenditures could have reached 
+USD 5 billion.  During the first two months of 2006, the 
+National Assembly approved 8 trillion Bolivars (USD 3.7 
+billion) in additional credits to be spent by the government. 
+This is in addition to the already approved 2006 National 
+Budget (USD 40.5 billion).  We anticipate that at government 
+expenditures to be at least 30.5 percent of GDP, with 
+potential off-budget spending of up to 10 percent of GDP in 
+¶2006. 
+ 
+             CENTRAL GOVERNMENT FINANCIAL RESULTS 
+                  (Percentage of GDP)(1) 
+            -------------------------------------- 
+ 
+ 
+                                2004(2)    2005(2) 
+ 
+TOTAL REVENUES                   23.9        29.5 
+   Oil income                    11.5        14.6 
+   Non-oil income                12.5        14.9 
+ 
+TOTAL EXPENDITURES               26.3        27.4 
+ 
+OVERALL FISCAL SURPLUS/DEFICIT(-)-2.4         2.1 
+ 
+(1) Including FONDEN 
+(2) Preliminary figures 
+ 
+Source:  Central Bank of Venezuela. 
+ 
+------------------ 
+PUBLIC SECTOR DEBT 
+------------------ 
+ 
+¶17. (U) The government has been actively refinancing its 
+domestic and external debts since 2003. In late February, the 
+Finance Minister announced that the BRV will reduce debt by 
+27.4 percent by the end of 2007.  The BRV plans to prepay 
+some of its most expensive external debt and improve the 
+maturity profile of domestic debt (reftel E). During November 
+2005, the Ministry of Finance allocated bonds for the 
+equivalent of USD 3.0 billion (reftel C). These dollar 
+denominated bonds, which mature in the years 2016 and 2020, 
+were bought by local investors in local currency.  Domestic 
+debt increased substantially (295 percent in current US 
+dollars) during Chavez, administration, from USD 4.1 billion 
+at the end of 1998 to USD 15.5 billion at the end of 2005. 
+ 
+                   END OF PERIOD PUBLIC SECTOR DEBT 
+                             (USD BILLION) 
+       --------------------------------------------- ------- 
+ 
+                                           2003    2004 
+2005(1) 
+ 
+CENTRAL GOVERNMENT              38.6    42.0    46.0 
+ 
+   FOREIGN DEBT                 23.7    26.6    30.5 
+ 
+    RESTRUCTURED DEBT            5.8     4.8     4.4 
+    NON-RESTRUCTURED DEBT       17.9    21.8    26.1 
+ 
+   DOMESTIC DEBT                14.9    15.4    15.5 
+ 
+AGENCIES                         1.1     0.9     0.6 
+                                 -----   -----   ----- 
+PUBLIC SECTOR DEBT  (2)         39.7    42.9    46.6 
+ 
+ 
+(1)  Preliminary figures. 
+(2) It does not include PDVSA,s nor Central Bank,s debts. 
+ 
+SOURCES:  Ministry of Finance, and Santander Investment. 
+ 
+-------------- 
+BANKING SYSTEM 
+-------------- 
+ 
+¶18. (U)  Profits (net financial margin) decreased during 2005 
+because around 32 percent of the total loans given by the 
+banks must be allocated by law to specific economic sectors 
+at preferential interest rates, including housing (10 
+percent), agriculture (16 percent), micro-busines (3 
+percent), and tourism (2.5 percent) (reftel F). However, 
+loans for consumption increased 91 percent during 2005. This 
+increase can be attributed to the strong economic growth (9.3 
+percent) prompted by increased BRV spending, relatively low 
+interest rates, and probably a desire to buy now before an 
+expected devaluation in early 2007.  The car loans increased 
+180 percent during 2005, while the mortgage loans increased 
+by 146 percent. A new government-owned bank (Treasury Bank) 
+started operations during 2005, but it is not fully 
+operative. The BRV created the Treasury Bank in August 12, 
+2005 to act as the BRV financial agent, to pay the debt 
+service for domestic and external debt, conduct foreign trade 
+operations, receive income taxes, and serve as the BRV 
+cashier.  The new Treasury Bank will also hold accounts for 
+FONDEN and FIEM (Now FEM). 
+ 
+                    BANKING SYSTEM KEY INDICATORS 
+                             (percentages) 
+                -------------------------------------- 
+ 
+                           DEC 04    JUL 05    DEC 05 
+Past due loans/ 
+gross loans                  1.65      1.47      1.08 
+ 
+Credit portfolio allowance/ 
+past due loans             224.45    205.99    251.34 
+ 
+Equity/total assets         12.57     12.03     11.12 
+ 
+Net financial margin/ 
+average asset                5.89      3.57      3.66 
+ 
+Net financial margin/ 
+average equity              45.21     30.86     32.49 
+ 
+Net loans/ 
+total deposits              48.04     47.75     54.86 
+ 
+Source:  SUDEBAN 
+ 
+-------------- 
+INTEREST RATES 
+-------------- 
+ 
+¶19. (U) The BCV started to apply interest rate regulations at 
+the end of April 2005, by which a maximum and a minimum 
+levels were set for the banking system lending (28 percent) 
+and deposit (6.5 percent) interest rates. On January 31, 
+2006, the BCV issued a resolution keeping the same maximum 
+and minimum interest rates, but reducing the interest rates 
+that the BCV pays on the certificate of deposit issued by the 
+monetary authority (28 days) from 11.5 percent to 10.0 
+percent (reftel B). 
+ 
+            AVERAGE INTEREST RATES OF THE SIX MOST IMPORTANT 
+                   COMMERCIAL AND UNIVERSAL BANKS 
+--------------------------------------------- --- 
+                   Loans            Deposits 
+                  -------      ------------------- 
+                                Savings   90 days 
+ 
+1999               31.89          7.05     18.90 
+2000               23.91          3.35     14.80 
+2001               25.64          2.40     14.13 
+2002               37.08          3.90     28.29 
+2003               24.05          6.15     17.58 
+2004               17.06          4.52     12.93 
+2005               15.36          6.64     11.74 
+ 
+2006 
+JAN                14.93          7.39     10.48 
+ 
+SOURCE:  Central Bank of Venezuela. 
+ 
+------------------ 
+INTERNET RESOURCES 
+------------------ 
+ 
+¶19.  INTERNET RESOURCES: 
+ 
+AMEMBASSY CARACAS WEBSITE:  www.embajadausa.org.ve 
+- 
+EXCHANGE RATES AND INTERNATIONAL RESERVES:  www.bcv.org.ve 
+- 
+STOCK EXCHANGE:  www.caracasstock.com 
+- 
+TRADE AND LABOR FORCE STATISTICS:  www.ine.gov.ve 
+- 
+BUSINESS INFORMATION:  www.venamcham.org 
+- 
+INVESTMENT OPPORTUNITIES:  www.conapri.org 
+- 
+PETROLEUM INFORMATION:  www.pdvsa.com, 
+www.mem.gov.ve 
+- 
+PUBLIC FINANCE INFORMATION: www.mf.gov.ve 
+- 
+FINANCIAL INDICATORS:  www.sudeban.gov.ve 
+- 
+ECONOMIC PUBLICATIONS:  www.metroeconomica.com.ve, 
+www.veneconomy.com, www.bancomercantil.com, www.provincial.com 
+- 
+NEWSPAPERS:  www.eluniversal.com, 
+www.el-nacional.com 
+- 
+LEGAL PUBLICATIONS:  www.datalegis.com.ve, 
+www.bpmaw.com, www.traviesoevans.com, 
+www.tpa.com.ve, www.drba.com.ve 
+- 
+VENEZUELAN GOVERNMENT: www.venezuela.gov.ve, 
+www.platino.gov.ve 
+ 
+ 
+BROWNFIELD

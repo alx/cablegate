@@ -1,0 +1,333 @@
+09HONGKONG1074
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Fri Jun 12 00:00:00 +0200 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0018
+RR RUEHWEB
+
+DE RUEHHK #1074/01 1630801
+ZNR UUUUU ZZH
+R 120801Z JUN 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 7830
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001074 
+ 
+USDOC FOR 532/OEA/MCANNER/MHAMES 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+ADDCOM SOLUTIONS LIMITED 
+ 
+REF: A) BIS EUC request e-mail dated May 15, 2009; B) HK 01982 
+(2007) Concord Carnival/Addcom; C) HK 00966 Free Components(2008) 
+D)HK 02289 (2007) Hope Sea 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment-verification (PSV) Addcom Solution Ltd., Unit B7, 
+7/F, Shatin Industrial Building, 22-28 Wo Shui Street, Fo Tan, Hong 
+Kong (Addcom).  The PSV concerned twelve exports to Addcom from U.S. 
+exporter Austin Semiconductor of Austin, Texas as well as two 
+proposed exports that are the subject of pending BIS license 
+applications.  The items in question include multiple shipments of 
+integrated microcircuits and other electronic components.  On the 
+applicable order documentation, most of the items are classified 
+under export control classification number (ECCN) 3A001 and, if 
+properly classified, would be controlled for national security (NS) 
+reasons.  Based on documentation provided by the exporters, in some 
+instances, it appears that the applicable items are of the class 
+that may be exported license free to Hong Kong, but would require a 
+license for export or reexport to mainland China because of their 
+ability to function at extreme temperatures (ECCN 3A001a2c). Since 
+all of the items in the various shipments were resold to different 
+buyers, those buyers (and related consignees) are described below. 
+ 
+¶3.  Addcom was the proposed intermediate consignee in a previous 
+unfavorable pre license check (PLC) of Hong Kong buyer Concord 
+Carnival.  That PLC is described in reftel B. 
+ 
+¶4.  BACKGROUND OF ADDCOM:  Addcom is a Singapore based electronics 
+distributor with offices in Singapore, Hong Kong, Shenzhen, 
+Malaysia, Thailand, and the Philippines.  The company does not 
+appear to have a web site.  According to the Hong Kong Companies 
+Registry, Addcom was registered in Hong Kong in 2004.  It has the 
+Hong Kong equivalent of USD 6500 in share capital.  Its directors 
+are Singapore nationals Tan, Lee Kim Alison (S6811627I) and Tan, Yew 
+Mui Calvin (S1619129I).  The company's facility in Hong Kong is 
+comprised of a one room office located in a converted warehouse 
+building.  ECO met with Addcom representatives Ailey So, and Anthony 
+Chan, Account Manager, on two occasions (May 29, 2009 and June 8, 
+2009). Ms. So provided documentation about the particular orders 
+while Mr. Chan provided greater background detail on the buyers and 
+his interaction with them.  It is worth noting that for all 
+transactions involving items subject to Hong Kong strategic 
+commodities licensing requirements, Ms. So obtained and provided to 
+ECO Hong Kong licenses for the import into Hong Kong of those items. 
+ In addition, Ms. So provided declarations from the Hong Kong buyers 
+in which they state that they will not reexport the items from Hong 
+Kong.  Mr. Chan is the account manager for all of the transactions 
+described below. 
+ 
+¶5.  FREE COMPONENTS:  Some of the shipments in question were 
+destined for Free Components in Hong Kong.  Free Components and a 
+series of related companies including Xing Hang Yuan, Surlink, CTC 
+International, Hongtu Hangyuan and others are of particular 
+diversion concern as more fully detailed in reftel C. 
+ 
+¶6.  FREE COMPONENTS TRANSACTIONS:  Three transactions are at issue 
+here and are grouped under Addcom purchase order numbers: 
+ADS312131, ADS316690, and ADS317158.  According to documentation 
+made available to ECO by Addcom, ADS316690 was delivered to Free 
+Components at its 1702 Grand City Plaza address.  The order 
+documentation lists Hazel Liu as the contact person at contact 
+numbers 86 755 882 65085 and 8675588265080 and email address 
+hazel@xhy-ic.com (www.xhy-ic.com is the web domain of Xing Hang 
+Yuan, a company of diversion concern referenced above).  Order 
+ADS317158 was likewise delivered to the Grand City Plaza address but 
+contact numbers are now listed as 852 3426 2188 and 852 3426 4778. 
+According to the Free Components purchase order for this 
+transaction, the confirmation fax number is listed as mainland 
+number 86 755 882 65080.  Order ADS 312131 lists a ship-to address 
+as the Grand City Plaza address noted above.  The contact person is 
+listed as Hazel and the e-mail address for Hazel is listed as 
+Hazel@xhy-ic.com. 
+ 
+¶7.  FREE COMPONENTS CONCLUSIONS:  Despite repeated attempts, 
+Commercial Assistant Carrie Chan was unable to arrange a meeting 
+with Free Components. When asked, Addcom's Anthony Chan stated that 
+he was aware that Xing Hang Yuan (XHY) is related to Free Components 
+(as indicated by Hazel's e-mail address).  Chan also stressed that 
+his orders from Free Components were always received from the Hong 
+Kong company although he conceded that he had never visited the Hong 
+Kong address.  Ms. So stated that at the time of an order, if the 
+purchaser states that the item is for Hong Kong use, then she is 
+ 
+prepared to accept that assertion.  If the buyer (subsequently) 
+intends to reexport the items, Ms. So asserted that she informs 
+those buyers that they must obtain a Hong Kong export license.  It 
+is clear to ECO that Addcom is aware that its customers are not 
+using products they purchase from Addcom in Hong Kong.  However, 
+Addcom is prepared to fulfill orders on the buyer's mere assertion 
+that they are for use in Hong Kong.  Mr. Chan stated that he does 
+not inform the exporter (Austin Semiconductor) that the items will 
+almost certainly be reexported to mainland China.  One of these 
+shipments destined for Free Components appears to include items that 
+may be shipped BIS license free to Hong Kong but would, in almost 
+all circumstances, require a license for export/reexport to mainland 
+China. 
+ 
+¶8.  PROGRESS STEP INTERNATIONAL:  As detailed below, Progress Step 
+appears to be the latest iteration of the Xing Hang Yuan and Free 
+Components group of companies in Hong Kong.  According to the Hong 
+Kong Companies Registry, Progress Step International was registered 
+in November 2006 and has the Hong Kong equivalent of USD 1300 in 
+paid up share capital.  Its sole director (appointed in September 
+2008) is mainland Chinese national Zhang Haiyun (with mainland ID 
+number 412823196208057270 suggesting a birth date of August 5, 
+1962).  The company is located at the offices of SBC International, 
+a company secretarial service that has been used by a range of 
+companies that have been the subject of unfavorable end use checks. 
+The SBC address in this case is 21/F, New World Tower 1, 18 Queens 
+Road Central, Hong Kong. 
+ 
+¶9.  PROGRESS STEP TRANSACTIONS:  Three shipments to Addcom were 
+destined for Progress Step International (Addcom purchase orders 
+ADS318582, ADS319195 and ADS321379).  At least two of these 
+shipments appear to include items that may be shipped BIS license 
+free to Hong Kong but would, in almost all circumstances, require a 
+license for export/reexport to mainland China.  As to ADS319195 and 
+ADS318582, order documentation shows Hazel Liu as a contact person 
+(vice Hazel Lau on the end user statement provided to Austin).  In 
+these cases, Hazel's e-mail address is listed as Buyer1@ctc-ic.com 
+(www.ctc-ic.com is the web domain of mainland company of diversion 
+concern CTC International which is referenced above).  As to order 
+ADS321379, Hazel is again listed as the contact person.  According 
+to Addcom's Anthony Chan and Austin Semiconductor, this order is now 
+the subject of an Austin export license pending before BIS. 
+ 
+¶10.  PROGRESS STEP CONCLUSIONS:  Repeated attempts to set up an 
+appointment with Progress Step in Hong Kong were unsuccessful.  It 
+is apparent that Progress Step is simply another iteration of Free 
+Components.  ECO surmised that Hazel Liu (apparently her real name) 
+signed Progress Step end user statements as Hazel Lau to give the 
+appearance (to Austin Semiconductor) that Free Components and 
+Progress Step are distinct.  Mr. Chan stated that he simply knows 
+this individual as Hazel and he did not focus on the signatures on 
+the forms.  When asked by ECO whether he had visited Progress Step, 
+ 
+Mr. Chan replied that he had visited Progress Step's offices in 
+Shenzhen (but not Hong Kong).  He stated that those offices were 
+quite large.  When asked whether payment for these orders was made 
+from mainland China, Mr. Chan insisted that payment had been made 
+from Hong Kong, consistent with the fact that this was a Hong Kong 
+sale.  ECO did not find Mr. Chan and Ms. So's answers to questions 
+regarding these transactions to be credible, in particular, 
+statements about whether they were aware that the items were 
+destined for mainland China.  It is clear to ECO that the 
+transactions described in this cable are structured in attempt to 
+allow Addcom to plausibly assert that it is only selling to Hong 
+Kong customers. 
+ 
+¶11.  BRILLIANCE TECHNOLOGY LIMITED:  According to the Hong Kong 
+Companies Registry, Brilliance was registered in 2006 and has the 
+Hong Kong equivalent of USD 12 in share capital.  Its sole director 
+is Chinese mainland national Wang, Xuanhui (with mainland ID number 
+513031197502236072 suggesting a birth date of February 23, 1975). 
+Two addresses are available for this company, namely Rm 110A, 6/F, 
+Grosvenor Mansion, 110 Austin Rd, Hong Kong (the registered address) 
+and Flat A, 8/F, Adolfo Mansion, 114-116 Austin Road, Hong Kong (the 
+address listed on the applicable end user statements provided by 
+Addcom). 
+ 
+¶12.  BRILLIANCE TRANSACTIONS:  Five Addcom orders involved 
+Brilliance, namely ADS318360, ADS321559, ADS320784, ADS320108 and 
+ADS318856.  In all cases, Brilliance contact persons were listed as 
+Derek Chiu and Mr. Wang (with various phone and fax contact numbers 
+such as 852 6876 5919, 852 3020 6598, 852 9012 4193 and 852 2155 
+0335).  Mr. Wang's contact e-mail is listed as 
+jasonw@brilliance.net.cn.  In each case, Addcom's Ailey So provided 
+Brilliance declarations that it would not reexport the items from 
+Hong Kong.  Except for ADS318360/ADS318856 (which are mirror 
+transactions involving a returned shipment to the U.S., and 
+ADS321559 (which is the subject of a pending license applications) 
+ 
+all of the items were shipped to Brilliance in Hong Kong.  Items 
+actually shipped to Brilliance are of the category of items that may 
+be shipped BIS license free to Hong Kong but would, in virtually all 
+circumstances, require a BIS license for shipment to mainland China. 
+ According to Ms. So, Brilliance is not related to Free 
+Components/Progress Step. 
+ 
+¶13.  BRILLIANCE CONCLUSIONS:  When Commercial Assistant Carrie Chan 
+attempted to call Brilliance to set up a meeting, the phone number 
+(6876 5919) appeared to roll to a mainland phone.  The person who 
+answered the phone stated that the phone number was the Brilliance 
+phone number (although he would not identify himself as a Brilliance 
+representative).  This individual stated that all relevant 
+information is located in Hong Kong and asked Ms. Chan to call Derek 
+Chiu (9012 4193) in Hong Kong (referenced above).  Mr. Chiu stated 
+that Brilliance does not have an office in Hong Kong but only a 
+warehouse.  He further stated that the items had been reexported to 
+mainland China.  When Ms. Chan asked for a meeting, Mr. Chiu stated 
+that the documents were not available for review in Hong Kong and 
+that he would check with the Brilliance office in China.  When 
+subsequently asked again for a meeting, Mr. Chiu requested 
+additional time.  ECO does not expect that Mr. Chiu will be 
+available to meet in the foreseeable future.  ECO surmises that the 
+items shipped to Brilliance in Hong Kong have been reexported to 
+mainland China. 
+ 
+¶14.  MAXDRAGON (HONG KONG) LIMITED:  According to the Hong Kong 
+Companies Registry, Maxdragon was registered in 2006.  Hong Kong 
+Resident Hong, Nga Song (HKID H449217(1)) is listed as director. 
+The company's registered (and operating) address is Flat A, 13/F, 
+Excellente Commercial Building, 456-458 Jaffe Road, Hong Kong.  As 
+noted below, an additional company associated with this order, 
+namely Citic Technology Company, is located at Rm D, 3/F, Thomson 
+Commercial Building, 8 Thomson Road, Hong Kong.  Ms. Hong, Nga Song 
+also owns this company (a sole proprietorship). 
+ 
+¶15.  MAXDRAGON TRANSACTION:  Addcom order ADS318712 was destined for 
+Maxdragon.  The items in question may be shipped BIS license free to 
+Hong Kong but would, in virtually all circumstances, require a 
+license to mainland China.  Maxdragon representative Candy Hong 
+signed a declaration (provided to ECO by Addcom) stating that 
+Maxdragon would not reexport the items. 
+ 
+¶16.  MAXDRAGON CONCLUSIONS:  ECO was eventually able to meet Ms. 
+Candy Hong of Maxdragon at the company's Excellente Commercial 
+Building address on June 2, 2009.  The offices are no more than 300 
+square feet in size and are located in a small older office 
+building.  Ms. Hong stated that she had acquired the items and then 
+had reexported them to mainland China using another company she 
+owns, namely Citic Technology (referenced above). When asked whether 
+she had applied for a Hong Kong export license, Ms. Hong stated that 
+she could not recall (ECO expects that she did not).  Ms. Hong 
+stated that she had shipped the items to her affiliate in Guangzhou, 
+namely Maxdragon (S.Z.) Biochem Ltd., Rm. 30513 Guangxinguan Bldg, 
+number 18, 20th st. South Siyou, Yozxiuzongz, Guangzhou (telephone 
+number 20-87383772).  Ms. Hong stated that the items would be used 
+as part of a new venture to manufacture cameras for cars.  When 
+asked why such a project would require high temperature range 
+electronic components, Ms. Hong stated that it is quite cold in the 
+north of China in the winter so high temperature range products are 
+required.  Web research reveals that the purported partner for 
+Maxdragon is Lantuo Electronics Co, Ltd. which bills itself on its 
+web site as a distributor of electronic components (more information 
+at www.szlantuo.com). 
+ 
+¶17.  CHITRON ELECTRONICS COMPANY LIMITED:  According to the Hong 
+Kong Companies Registry, Chitron was registered in 2005 and has the 
+Hong Kong equivalent of USD 6.5 million in share capital.  Directors 
+include mainland Chinese nationals, Ni, Hai Nan (passport number 
+610125680301121), Wu, Zhen Zhou (ID 110104196403173111 with 
+corresponding birth date of March 17, 1964), Zha, Jun (ID 
+352102197803240019 with corresponding birth date of March 24, 2978) 
+and Hong Kong resident Zhang, Zing (wit HKID R249769).  Wu, Zhen 
+Zhou was arrested in te United States in December 2008 for export 
+contrl violations related to the activities of a Chitro affiliate 
+(Chitron-U.S.). 
+ 
+¶18.  CHITRON TRANSCTION:  Addcom order ADS318213 was destined for 
+Chitron and subsequently for Hengsai Electronics Ltd. in Hefei city, 
+Anhui Province.  These items appear to be classified as EAR99, 
+meaning that they may be shipped to virtually all destinations, end 
+users/uses worldwide.  The Chitron purchase order lists the bill to 
+address as Room 06, 26/F, Modern Warehouse, No 6 Shing Yip Street 
+and the contact person as Ms. Linda Liu (86 755 82116111 and 86 755 
+8211 6462) with e-mail address linda@chitron.com.  The shipping 
+address is the same but the contact person is listed as Roc Jiang 
+(852 31060791 and 852 31060792) with e-mail address 
+ 
+ 
+jiangpeng@chitron.com.  The purchase order header address is listed 
+as 2127 Sungang East Road, Suite 1916, Shenzhen 518001 (86 755 8211 
+6111 and 86 755 8211 5452). 
+ 
+¶19.  CHITRON CONCLUSIONS:  As these items are EAR99, no apparent 
+export control violation has occurred in respect of this shipment. 
+ 
+¶20.  XIAN RIRONIC/HOPE SEA IMPORT AND EXPORT:  Xian Rironic is a 
+mainland company that was the intermediate consignee listed in BIS 
+export license D408497.  Delivery in this transaction was made to 
+Hope Sea Import and Export in Hong Kong.  Hope Sea was the subject 
+of an unfavorable end use check detailed in reftel D. 
+ 
+¶21.  XIAN RIRONIC/HOPE SEA IMPORT AND EXPORT TRANSACTIONS:  Addcom 
+order ADS 319752 was destined for Xian Rironic.  ECO reviewed the 
+underlying Xian Rironic purchase order for this transaction.  It is 
+not on letterhead and includes only the name "Ferry" as the contact 
+person.  Separate documentation provided by Addcom shows that Xian 
+Rironic certified that it would not reexport the items from Hong 
+Kong.  Addcom obtained a Hong Kong export license listing as end 
+user, China Petroleum Logging Company Ltd.  Delivery was made to 
+Hope Sea Import & Export, Unit 12-16, 20F, No 1 Hung To Rd (attn. 
+Ms. Yeung). 
+ 
+¶22.  XIAN RIRONIC/HOPE SEA IMPORT AND EXPORT CONCLUSIONS:  As noted 
+earlier, Hope Sea was the subject of a prior unfavorable PSV in 
+¶2007.  ECO assumes that all of this information as available to BIS 
+licensing officers as well as additional information Addcom's 
+Anthony Chan claimed to have presented to Austin Semiconductor 
+during the BIS licensing process.  Nonetheless, the Purchase Order's 
+style and the involvement of Hope Sea is of concern to ECO. 
+ 
+¶23.  A range of consignees listed herein (including Addcom, 
+Maxdragon, Progress Step, Brilliance, Chitron and Hopesea) are 
+unsuitable recipients of U.S. origin controlled technology.  ECO 
+recommends that BIS conduct a thorough review of all shipments 
+listing any of these consignees. ECO also recommends that BIS have 
+further discussions with the exporter, Austin Semiconductor, to 
+better understand whether it knew about the true final destination 
+of these shipments.

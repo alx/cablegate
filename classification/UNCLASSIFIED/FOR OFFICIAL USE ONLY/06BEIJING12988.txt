@@ -1,0 +1,190 @@
+06BEIJING12988
+VOIP IN CHINA - NOT UNTIL CHINA's TELECOM
+Tue Jun 20 00:00:00 +0200 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Beijing
+VZCZCXRO4130
+RR RUEHCN RUEHGH
+DE RUEHBJ #2988/01 1710339
+ZNR UUUUU ZZH
+R 200339Z JUN 06
+FM AMEMBASSY BEIJING
+TO RUEHC/SECSTATE WASHDC 9634
+RUCPDOC/USDOC WASHDC
+INFO RUEHCN/AMCONSUL CHENGDU 6579
+RUEHGZ/AMCONSUL GUANGZHOU 0854
+RUEHHK/AMCONSUL HONG KONG 7679
+RUEHGH/AMCONSUL SHANGHAI 4993
+RUEHSH/AMCONSUL SHENYANG 6387
+RUEHIN/AIT TAIPEI 5733
+RUEATRS/DEPT OF TREASURY WASHDC
+RUEHGV/USMISSION GENEVA 1185UNCLAS SECTION 01 OF 02 BEIJING 012988 
+ 
+SIPDIS 
+ 
+USDOC FOR DAS LEVINE AND 4420/ITA/MAC/CEA/MCQUEEN 
+STATE PASS USTR 
+USTR FOR STRATFORD/WINTER/MCCARTIN/GRIER 
+USTR FOR MCHALE/WINELAND 
+TREASURY FOR OFFICE OF INTERNATIONAL INVESTMENT 
+TREASURY FOR OASIA/ISA-DOHNER AND KOEPKE 
+GENEVA PASS USTR 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD EINV ECPS PGOV ASEC WTRO CH
+SUBJECT: VOIP IN CHINA - NOT UNTIL CHINA's TELECOM 
+COMPANIES ARE READY 
+ 
+¶1. (SBU) Summary:  Enthusiasm in China for Voice Over 
+Internet Protocol (VoIP) was evidenced by over 1,400 
+registered attendees at a June 14-16 China VoIP Conference 
+& Expo in Beijing.  While VoIP technology is mature and 
+software like Skype is but a download away, China's VoIP 
+companies are faced with not only regulatory, security and 
+legal obstacles but also by the fact that China Telecom is 
+exerting massive pressure on the Chinese Government to rein 
+in VoIP. End Summary. 
+ 
+The Conference 
+-------------- 
+ 
+¶2. (U) Organized by the Hong Kong based InfoEx World 
+Services, the June 14-16 China VoIP Conference & Expo in 
+Beijing included Chinese Government officials such as 
+senior officials from the Ministry of Information Industry 
+(MII) and from the Chinese Academy of Telecommunications 
+Research, as well business representatives such as senior 
+managers from China Telecom, Unicom, Netcom and hardware 
+producers such as Intel, IBM, Avaya, ZTE and UTStarcom. 
+Most strikingly, the organizer of the conference confirmed 
+that many of the attendees were in their twenties or 
+thirties with most running their own small (around ten 
+people) niche companies. 
+ 
+VoIP: A History and Why It Scares the Chinese Government 
+--------------------------------------------- ----------- 
+ 
+¶3. (U) VoIP is the routing of voice conversations over the 
+Internet.  The concept of VoIP has been around since the 
+early 70's and today's version is the commercialization of 
+a Network Voice Protocol created for the Department of 
+Defense's ARPANET in 1973.  VoIP uses packet switching 
+technology where data is cut up into small packages, sent 
+over several machines and then reconstituted when the data 
+reaches its destination.  This is in contrast to circuit 
+based technology where a single dedicated line is used for 
+the duration of a call.  It is the nature of packet 
+switching technology that is the major concern for the 
+Chinese Government, regulators and watchdogs. 
+ 
+The Problems 
+------------ 
+ 
+¶4. (SBU) Mr. Xu Heyuan, Senior Engineer at the Research 
+Institute of Telecommunications Research of MII, admitted 
+to Econoff that, despite a ban, VoIP is widely available 
+and in use in China but that issues of security and 
+emergency calling still have to be resolved.  Mr Xu did not 
+elaborate as to what kind of security problems need to be 
+resolved but indicated that content was a factor.  In 
+contrast to security issues he underlined how emergency 
+calling is the key problem.  (Note:  Since VoIP uses the 
+Internet to route calls there is no fixed physical location 
+for emergencies responders to track calls unless the caller 
+states an address.  End Note.)  However the Vice President 
+(VP) of Germany based semiconductor company Infineon stated 
+that because packet switching involves the breaking down of 
+data into tiny unrecognizable pieces of information it is 
+extremely difficult and astronomically expensive to set up 
+a system to track and monitor the content of PC to PC 
+calls.  The only way a government can prevent PC to PC 
+calls is to block users from downloading the software or by 
+imposing and enforcing strict penalties.  China has already 
+blocked companies like Skype from offering PC to Phone 
+services by not allowing them to set up gateways in China 
+and postponing the issuance of operating licenses until at 
+least 2008.  A further obstacle for VoIP is that in order 
+for it to function effectively a broadband or DSL 
+connection is optimal.  However, outside of China's larger 
+cities broadband is not widely available leading to quality 
+of service issues. 
+ 
+ 
+BEIJING 00012988  002 OF 002 
+ 
+ 
+Stacking the Deck 
+----------------- 
+ 
+¶5. (SBU) The Infineon VP and the Asia Pacific VP for Intel 
+both stated that the Chinese Government has purposely yet 
+to offer any clear guidance, either legal or regulatory, 
+concerning the deployment of VoIP service in China. 
+Financially, it is much cheaper to maintain a VoIP network 
+but companies like China Telecom are stalling VoIP from 
+becoming a mass market product for two reasons.  First, 
+they have to recoup the massive investments they made to 
+build up a traditional circuit based telephony 
+infrastructure in China.  Second, the government is giving 
+domestic telcos time to build up the necessary 
+technological and marketing know-how before launching their 
+own VoIP services.  The Intel VP said that allowingthe 
+liberalization of the market at this timewould create the 
+legal platform for foreign cmpanies like Skype to press 
+the government for equal market access before the domestic 
+tecos are ready t enter the fray.  As a result, China 
+Telecom, backed by the State-owned Asset Supervision and 
+Administration Commission (SASAC) has pushed MII to block 
+PC to Phone services in China but also made sure that this 
+edict is not enforced for domestic companies.  Thus, this 
+opaque equation means that the VoIP market in China can 
+thrive "illegally" with the charge being led by the five 
+domestic telecom companies - China Telecom, China Netcom, 
+China Unicom, China Mobile and China Railcom. 
+ 
+The Real Deal 
+------------- 
+ 
+¶6. (SBU) According to the Chief Technology Officer of U.S. 
+media gateway company Cantata, there are over 4,000 
+underground VoIP operators in China not including the major 
+telcos that offer their own tiered calling services.  He 
+explained that these underground VoIP sellers go to 
+companies and sell them the technology and hardware to 
+allow companies or individuals to access existing telecom 
+lines via the VoIP route.  Meanwhile, China Telecom has 
+also begun running VoIP trials, but in order to make sure 
+that its bottom line is not affected, these trials are 
+being conducted in rival China Netcom's operating 
+territories.  Furthermore, the domestic telcos are fooling 
+their customers by pitching traditional telephony services 
+in the guise of VoIP services.  (Note:  Accessing this VoIP 
+service is done by buying an access card available at many 
+retail stores in Chinese cities.  End Note).  However, the 
+quality of this service is deliberately poor allowing the 
+telcos to both pitch their more expensive premium services 
+and to also dampen the enthusiasm for VoIP until they are 
+ready to launch it themselves as such.  And launch it 
+themselves they will. 
+ 
+The Future of VoIP 
+------------------ 
+ 
+¶7. (SBU) The Asia Pacific VP for Intel believes that VoIP 
+has a bright future in China.  The technology has already 
+been deployed in many countries around the world and VoIP 
+offers Chinese telecom companies a clear path to reduce 
+their operating costs and to create a stream of cheap Value 
+Added Services.  He went on to say that as broadband in 
+China becomes more widely available customers will benefit 
+from the lower cost per call that VoIP offers.  He predicts 
+that when they are ready the telcos will tell their 
+customers that the technology has now improved and will 
+present high quality VoIP as either part of triple or quad 
+play media packages or a single service such as Vonnage and 
+Skype now offer in the United States. 
+ 
+Randt

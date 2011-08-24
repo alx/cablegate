@@ -1,0 +1,58 @@
+09HONGKONG159
+TELECOM TRADE AGREEMENTS 2009 REVIEW
+Fri Jan 23 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXRO3253
+RR RUEHCN RUEHGH RUEHVC
+DE RUEHHK #0159 0230727
+ZNR UUUUU ZZH
+R 230727Z JAN 09
+FM AMCONSUL HONG KONG
+TO RUEHC/SECSTATE WASHDC 6749
+INFO RUEHOO/CHINA POSTS COLLECTIVEUNCLAS HONG KONG 000159 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD USTR HK
+SUBJECT: TELECOM TRADE AGREEMENTS 2009 REVIEW 
+ 
+REF: STATE 4730 
+ 
+¶1. This cable responds to the action request in reftel: "What 
+are the conditions under which a foreign-affiliated company 
+(i.e. a 50-50 joint venture with a Chinese partner) could 
+claim a benefit under the CEPA to offer services such as 
+IP-VPN in China, as a value-added service supplier?" 
+ 
+¶2. 2007 amendments to the Closer Economic Partnership 
+Arrangement (CEPA) between the PRC and Hong Kong give Hong 
+Kong-based Internet Protocol - Virtual Private Network 
+(IP-VPN) operators national treatment.  The CEPA imposes no 
+geographic restrictions on the operators; they can establish 
+joint ventures with Mainland Chinese partners in any province 
+or city in the PRC.  The Hong Kong IP-VPN's shareholding 
+should not exceed 50 percent.  The operator is allowed to 
+either set up a new joint venture in China, or form a joint 
+venture through merging or acquiring the shares of existing 
+Mainland telecommunications service providers. 
+ 
+¶3. In order to enjoy national treatment granted under CEPA, 
+the IP-VPN operator should be either a registered legal 
+entity in Hong Kong (defined as a business duly constituted 
+or otherwise organized under the applicable laws of Hong 
+Kong, and which has engaged in substantitve IP-VPN operations 
+in Hong Kong for three to five years), or a "natural person" 
+of Hong Kong (defined as a Hong Kong permanent resident). 
+Permanent residents of Hong Kong who obtain CEPA treatment as 
+a "natural person" are not required to present a Certificate 
+of Hong Kong Service Supplier (HKSS), but must provide to PRC 
+authorities proof of permanent residence status in Hong Kong, 
+and must also provide a Home Visit Permit (if a Chinese 
+citizen) or a HKSAR passport.  An IP-VPN registered as a 
+legal entity should apply to the Hong Kong Trade and Industry 
+Department for a Certificate of HKSS, before applying to the 
+relevant Mainland authorities to receive preferential 
+treatment under CEPA. 
+DONOVAN

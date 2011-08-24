@@ -1,0 +1,153 @@
+06PARIS7119
+FRENCH TELECOM DEVELOPMENTS FROM ENTERPRISE DIRECTORATE
+Mon Oct 30 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+null
+Lucia A Keegan  11/08/2006 02:46:19 PM  From  DB/Inbox:  Lucia A Keegan
+
+Cable 
+Text:                                                                      
+                                                                           
+      
+UNCLAS    SENSITIVE     PARIS 07119
+
+SIPDIS
+cxparis:
+    ACTION: ECON
+    INFO:   SCIO TRDO ESCI FCS POL ORA AMB AGR LABO DCM
+            ECNO ENGO UNESCO ECSO SCI
+
+DISSEMINATION: ECONOUT /1
+CHARGE: PROG
+
+APPROVED: ECON:SDWYER
+DRAFTED: ECON:HSULLIVAN
+CLEARED: NONE
+
+VZCZCFRI127
+RR RUEHC RUCPDOC RUEAFCC RUEAWJA RUCNMEM
+DE RUEHFR #7119/01 3031718
+ZNR UUUUU ZZH
+R 301718Z OCT 06
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 2692
+INFO RUCPDOC/USDOC WASHDC
+RUEAFCC/FCC WASHDC
+RUEAWJA/DEPARTMENT OF JUSTICE WASHDC
+RUCNMEM/EU MEMBER STATES COLLECTIVEUNCLAS SECTION 01 OF 02 PARIS 007119 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+STATE EB/CIP AND EUR/WE 
+PLEASE PASS TO USTR JMCHALE AND KSCHAGRIN 
+FCC FOR TWEISLER 
+COMMERCE FOR NTIA 
+JUSTICE FOR KWILLNER 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON FR
+SUBJECT: FRENCH TELECOM DEVELOPMENTS FROM ENTERPRISE DIRECTORATE 
+PERSPECTIVE 
+ 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+REF: PARIS 6811 
+ 
+¶1. (SBU) Summary:  GOF Ministry of Economy, Finance and Industry 
+Information and Communications Technologies Director Emmanuel Gabla 
+told us on October 19 that he was discussing with EU counterparts 
+whether to regulate next generation fiber networks used for 
+broadband and cable TV.  Gabla admitted the U.S. had encouraged 
+investment in building such networks by announcing that it would not 
+force operators to provide access to competitors.  Gabla informed us 
+that the Senate will debate a bill on November 20-22 that would 
+foster television over mobile phone networks, introduce high 
+definition television (HDTV), and replace analog TV with digital TV 
+by 2011.  Gabla said the GOF is united in its support for provisions 
+in the new copyright legislation that mandate interoperability 
+between different digital music players.  End summary. 
+ 
+¶2. (SBU) On October 19, Econoff discussed next generation 
+telecommunication networks, Internet neutrality, the possible merger 
+of France's telecommunications and television regulators, changes in 
+France's ICANN representative, and copyright legislation with 
+Information and Communication Technologies Director Emmanuel Gabla. 
+ 
+Next Generation Networks 
+------------------------ 
+¶3. (SBU) According to Gabla, the EU is discussing whether and how to 
+regulate new fiber-optic broadband infrastructure.  Gabla noted that 
+U.S. investment in such infrastructure was more advanced because USG 
+made an early, public commitment not to regulate this area.  While 
+Europe has taken note of this approach, most argue that the services 
+provided over such networks are essentially the same as telephony 
+and should be regulated as such.  Gabla said the decision will 
+ultimately be made at the European, not member-state level.  The EU 
+is also debating the implications this decision would have for 
+universal service. 
+ 
+Net Neutrality 
+-------------- 
+¶4. (SBU) Gabla said that French telecommunication firms are 
+observing the debate in the U.S. regarding net neutrality with 
+interest.  Europe is beginning to debate the issue as well, Gabla 
+said.  He thought that companies arguing in favor of net neutrality, 
+such as Google and Yahoo, made the more compelling arguments. 
+ 
+CSA/ARCEP Merger 
+---------------- 
+¶5. (SBU) Gabla said an oft-discussed merger between French 
+telecommunications regulator Autorite de Regulation des 
+Communications Electroniques et des Postes (ARCEP) and Conseil 
+Superieur de l'Audiovisuel (CSA) would not take place over the next 
+year.  Such a change would require legislation. 
+ 
+¶6. (SBU) Parliament is now considering a bill that would foster 
+television broadcasting over mobile phones, allow for the 
+introduction of high definition television (HDTV), and envision the 
+replacement of analog television by digital TV in 2011.  Advisors in 
+both the Prime Minister's and President's Offices had suggested the 
+bill might also provide for the merger of the two organizations for 
+better frequency management.  The CSA and ARCEP oppose such 
+provisions, however, and the proposal does not appear in the current 
+text of the bill.  Nor does Gabla think such a clause will be added, 
+since the bill needs to be rushed through by February when the 
+campaign for 2007 elections will begin in earnest.  Should the 
+Socialists win, he thought, they may reconsider the merger since CSA 
+leadership had been nominated by the right-of-center Union for a 
+Popular Movement (UMP).  A merger might be a way of getting rid of 
+the UMP nominees. 
+ 
+ICANN 
+----- 
+¶7. (SBU) The GOF has chosen Bertrand de la Chapelle (former advisor 
+to the French Minister for European Affairs and an organizer of the 
+OpenWSIS Initiative) as its Internet Corporation for Assigned Names 
+and Numbers (ICANN) Government Advisory Committee (GAC) 
+representative.  Despite the change of representative, French 
+priorities remain the same.  The GOF thinks the role of the GAC 
+should be strengthened beyond that of an advisory body, and ICANN 
+needs to internationalize.  The private and public sectors of all 
+regions should participate in ICANN.  While the U.S. argues that 
+ICANN should not be under the control of governments, Gabla said, 
+the USG enjoys a disproportionate amount of influence on the body. 
+Gabla said the EU was coordinating policy on this issue.  He said 
+the French would continue to work productively with the U.S., as it 
+has in the past, while continuing to lobby for change in a low-key 
+way. 
+Copyright Legislation 
+--------------------- 
+¶8. (SBU) Gabla said that while the Ministry of Culture has the lead 
+in drafting technical measures in support of new copyright 
+legislation (reftel), support for the principle of interoperability 
+enjoys interagency support.  "We cannot accept fragmentation of the 
+market.  You should not have to pay for the same music twice to play 
+it on two different machines."  Gabla believes the present 
+"fragmentation" encourages illegal downloading.  But Gabla said he 
+understood U.S. concern over the negative implications of mandated 
+interoperability for the intellectual property of affected firms. 
+ 
+HOFMANN

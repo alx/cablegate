@@ -1,0 +1,53 @@
+09AITTAIPEI1256
+TAIWAN: RESULTS OF BLUE LANTERN PRE-LICENSE CHECK
+Fri Oct 23 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+American Institute Taiwan, Taipei
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHIN #1256 2960602
+ZNR UUUUU ZZH
+R 230602Z OCT 09
+FM AIT TAIPEI
+TO SECSTATE WASHDC 2529UNCLAS AIT TAIPEI 001256 
+ 
+SENSITIVE 
+SIPDIS 
+STATE FOR EAP/TC, PM/DTCC AND ISN/MTR 
+PM/DTCC FOR BLUE LANTERN COORDINATOR TIM MAZZARELLI 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC TW
+SUBJECT: TAIWAN: RESULTS OF BLUE LANTERN PRE-LICENSE CHECK 
+050192019 
+ 
+REF: A) STATE 102860, B) TAIPEI 463, C) 10/7/2009 
+Mazzarelli-O'Connor email 
+ 
+¶1. (SBU) Summary: Chung Shan Institute of Science and Technology 
+(CSIST) confirmed reftel order from Eugenix Systems through 
+consignee Pegasus Hi-Tek Co. Pegasus President William Mar also 
+provided copies of the order for 20 rate gyros. End summary. 
+ 
+¶2. (SBU) Ref A requested that AIT/T confirm the subject business 
+transaction with the end user, CSIST, and visit the consignee, 
+Pegasus, to determine its reliability.  Because AIT Econoff visited 
+Pegasus in April, 2009 (ref B), the Department agreed that AIT  did 
+not need to conduct another site visit (ref C). 
+ 
+¶3. (SBU) AIT/T contacted CSIST Procurement Officer Mr. Liao Wei-yao 
+and received his responses that (1) CSIST did place the order of 20 
+rate gyros (P/N: RG02-0103-1) to Pegasus Hi-Tek Co., and (2) CSIST 
+will use these gyros from manufacturer Eugenix Systems as rotary 
+axis rate sensors for the CS/MPQ-561N shipboard tracking radar 
+antenna pedestal under development by the Institute. 
+ 
+¶4. (SBU) Pegasus Hi-Tek President William Mar provided AIT/T a copy 
+of the Pegasus-CSIST contract numbered XU98E80P.   The contract was 
+signed on August 28, 2009, and was for the procurement of 20 rate 
+gyros.  Please note that Pegasus' address should be 6F-9, No. 270, 
+Zhongxiao E. Rd., Sec. 5, Taipei.  The company moved from the ref A 
+address in early 2008. 
+ 
+Stanton

@@ -1,0 +1,129 @@
+09STATE83278
+BLUE LANTERN POST-SHIPMENT END USE CHECK ON
+Tue Aug 11 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXRO9720
+RR RUEHTRO
+DE RUEHC #3278/01 2231525
+ZNR UUUUU ZZH
+R 111507Z AUG 09
+FM SECSTATE WASHDC
+TO RUEHTRO/AMEMBASSY TRIPOLI 8998
+INFO RUEHVT/AMEMBASSY VALLETTA 7400
+RUEAIIA/CIA WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC 5344
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 5409
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS SECTION 01 OF 02 STATE 083278 
+ 
+SIPDIS 
+FOR POL/ECON NATALIE A. BAKER 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC LY MT
+SUBJECT: BLUE LANTERN POST-SHIPMENT END USE CHECK ON 
+LICENSE 050145157 
+ 
+¶1.  This is an action message.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post assistance in conducting a 
+post-shipment check for the export of UAV autopilots to 
+Libya.  Post is requested to complete this Blue Lantern check 
+within 45 days.  Lack of response to a Blue Lantern check 
+will affect pending and future licenses involving parties to 
+this license. 
+ 
+¶3.  Reason for request: the Foreign End User has no licensing 
+history with our office. 
+ 
+¶4.  ACTION: Please contact the Foreign End User, Central 
+Organization for Research and Manufacturing (CORM), and 
+confirm its receipt of the specific type and quantity of the 
+commodities listed below.  Request that CORM explain its use 
+of the received commodity in contrast to the license 
+Statement of Purpose provided below.  Make inquiries with 
+CORM to ascertain program status.  END ACTION. 
+ 
+¶5.  License Information: 
+ 
+DDTC Case Number 050145157 
+ 
+QUANTITY/COMMODITY: 
+ 
+12       MicroPilot 2028g AutoPilot 
+ 
+02       MicroPilot 2028g Xtender Development Software Package 
+ 
+02       MicroPilot LRC Ground Control Station 
+ 
+NOTE: shipment data indicates that all items were exported 
+during May 2009. 
+ 
+LICENSE VALUE: USD 113,072.00 
+ 
+APPLICANT: 
+ 
+IntelliTech Microsystems Inc. 
+4931 Telsa Drive 
+Bowie, Maryland 20715  USA 
+ 
+SOURCE: 
+ 
+MicroPilot Inc. 
+72067 Toad 8 E, Sturgeon Road 
+Stony Mountain 
+Manitoba, ROC 3A0 
+CANADA 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+ASC&S International Ltd. 
+Advanced Telecommunications Systems Ltd. 
+Tumas Fenech Street 
+Birkirkara BKR 03 
+MALTA 
+ 
+FOREIGN CONSIGNEE/FOREIGN END USER: 
+ 
+Central Organization for Research and Manufacturing 
+Jumhurita St. # 86, Tripoli 
+LIBYA 
+ 
+STATEMENT OF PURPOSE: 
+ 
+The Central Organization for Research and Manufacturing will 
+use the requested items in a developmental border 
+surveillance program.  Libya has a problem with illegal 
+immigrants and insurgents crossing their borders and they 
+have a need for automated border patrol.  Once on station, 
+the aircraft will fly a surveillance pattern and transmit 
+live video of the patrol region back to the ground station. 
+The video transmission will be received and displayed on a TV 
+screen where it will be monitored for illegal activity. 
+ 
+¶6.  Additional documentation submitted in support of license 
+application: 
+ 
+ 
+STATE 00083278  002 OF 002 
+ 
+ 
+A)  ASC&S International purchase order No. 
+ASCS/EAEMC/002-08L, dated 13 February 2009, signed by Charles 
+¶E. Agius, Chairman. 
+ 
+B) U.S. Department of State DDTC Non-Transfer and Use 
+Certificate, signed by Mr. Abdullhmida Zaid, Central 
+Organization for Research and Manufacturing. 
+ 
+¶7.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the DDTC Case Number 
+in the subject line.  POC on this case is Peter Sabatini, 
+PM/DTCC, phone: 202-663-2819; ClassNet email: 
+sabtinipj@state.sgov.gov; OpenNet email: sabatinipj@state.gov 
+The most current Blue Lantern Guide Book is available on 
+OpenNet at http://fsi.state.gov/fsi/spas/default.asp?ID= 1588 
+Department thanks Post for its assistance in this matter. 
+CLINTON

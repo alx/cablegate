@@ -1,0 +1,258 @@
+05PARIS4206
+FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR.
+Wed Jun 15 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+150936Z Jun 05UNCLAS SECTION 01 OF 03 PARIS 004206 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR); 
+EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR. 
+DENIS BRUNEL - PRINCIPAL CANDIDATE FOR INDIVIDUAL PROGRAM. 
+ 
+REF: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 288 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - INDIVIDUAL Program - Denis Brunel 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 16 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Energy 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Denis 
+M-NAME: 
+L-NAME: Brunel 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Commission Superieure Nationale du 
+M-ADDR2: personnel des Industries Electriques et 
+M-ADDR3: Gazieres - 53, rue de la Boetie 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75008 
+M-ZIP: 
+M-PHONE: + (33) 1.42.25.53.45 
+M-FAX: + (33) 1.42.25.12.70 
+M-EMAIL: denis.brunel@sgeieg.asso.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 01/25/1963 
+MAR-STAT: M 
+BIRTH-CITY: Tournon 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Secretary General of the Human Resources Committee, French 
+ 
+SIPDIS 
+Association of Electricity and Gas Producers, since 2002 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+General Delegate of the French Center for Electricity 
+(lobbying association of electric companies), since 2002 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+- 2000-2002 - In charge of socio-professional relations in the 
+Public Affairs Department of "Electricite de France" (EDF - 
+the main producer of electricity in France) 
+- 1997-1999 - Electric and gas trade section manager, EDF-GDF 
+Bourgogne 
+- 1995-1997 - Real estate and legal issues section manager, 
+EDF-GDF Bourgogne 
+- 1991-1995 - Personnel Officer, EDF-GDF Bourgogne 
+- 1980-1984 - Non-commissioned officer in the French Air Force 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+New York, and Philadelphia - 2 weeks in 1999 for tourism 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Argentina and several European countries 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1999 - Management and Business School of Lyon, sales force 
+management section 
+1991 - Institute of Political Studies of Grenoble (economics 
+and finance section) 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Member of PanEurope France Executive Committee 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 2 
+ENGL-SPEAK: 2 
+ENGL-COMP: 2 
+START OTHER-LANGS: 
+OTHER-LANG: Spanish 
+OTHER-LANG-ID: QB 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: German 
+OTHER-LANG-ID: GM 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Denis Brunel's participation in the IV program would help him 
+better understand U.S. policies on electricity and gas as well 
+as stress to him the importance of Europe's cooperating with 
+America on such issues for their mutual advancement. The 
+project will sharpen Mr. Brunel's knowledge of American 
+perspectives on current and future energy issues, develop a 
+range of contacts, and help ensure a balanced view of the U.S. 
+in someone of future influence on the politics of energy in 
+France and Europe. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Sylvie Vacheret 
+START MEMO NOMINATING-JUSTIFICATION: 
+Two factors make Denis Brunel, a hardworking and driven 
+professional, an indispensable candidate for an IV program: 
+his professional focus on energy issues and his involvement in 
+politics. These factors have been part of his life since his 
+time as a university student. 
+After completing his university studies in Management and in 
+Politics, where he specialized in Human Resources Management 
+while at the same time holding down a job, he became an expert 
+in professional relations at Electricite de France. This 
+adeptness later led him to a position at the French 
+Association of Electricity and Gas Producers where he now 
+holds the title of Secretary General of the Human Resources 
+Committee. On top of this, Mr. Brunel is also a General 
+Delegate of the French Center for Electricity, a lobbying 
+association made up of various electric companies. 
+Throughout his life, Denis Brunel has been deeply involved in 
+politics. At a young age he joined Chirac's party, the 
+Rassemblement pour la Republique (RPR), and eventually worked 
+his way up to vice-president of the RPR's youth movement; a 
+position he held from 1985 till 1993. He later translated this 
+experience into a successful run for the city Counselor of 
+Valence. Always looking to the future, he next invested his 
+energies in the Association PanEurope France, which is the 
+French branch of the Union Paneuropeenne Internationale. This 
+organization is dedicated to the promotion of European ideals 
+and goals through debates and publications, and focuses 
+especially in the important and expanding domain of science 
+and technology. This is very important to U.S. interests 
+because securing the technological frontier is an important 
+aspect of the United States' national security. Furthermore, 
+it is desirable that an individual who heads up the French 
+branch of an organization encouraging European unity also 
+comprehend U.S. policy as fully as possible. 
+Denis Brunel is now approaching a turning point in his career 
+and is exploring advancement opportunities at EDF. His future 
+could also be influenced by the fact that he has close ties to 
+Nicolas Sarkozy, the new head of the UMP and possible future 
+President of France. As someone who has been in, and will 
+likely again be included in, political committees to devise 
+strategies for French energy issues, he is also in a position 
+to be considered for a future cabinet counselor. 
+Clearly, it would be advantageous to give a person with 
+political leadership experience, technological understanding, 
+and ties to the French and European political establishment a 
+chance to participate in a program that could further his 
+positive views of the U.S. and pass what he learns on to the 
+UMP, France, and Europe at large. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: PA - U.S. Embassy Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: INTERPRETER 
+NOMINEE-ID: 575 
+PERSON-ID: 474 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: I 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

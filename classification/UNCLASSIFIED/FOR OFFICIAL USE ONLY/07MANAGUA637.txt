@@ -51,7 +51,6 @@ on an unsigned copy of this agreement obtained by the Embassy.
  
 Preambular Language 
 ------------------- 
-
 ¶3. (SBU) Preambular language speaks to the desire to forge 
 closer cooperation in the fight against poverty and 
 inequality through coordinating bilateral and international 
@@ -63,7 +62,6 @@ of health.
  
 Article 1: Cooperation 
 ---------------------- 
-
 ¶4. (SBU) The parties pledge to promote and intensify 
 cooperation in the area of health through a mutually 
 collaborative relationship directed toward education and 
@@ -75,7 +73,6 @@ what is envisioned by this agreement.
  
 Article II: Activities 
 ---------------------- 
-
 ¶5. (SBU) The parties agree that said cooperation will 
 comprise the following areas: 
  
@@ -123,13 +120,11 @@ comprise the following areas:
  
 Article 3: Responsible Authorities 
 ---------------------------------- 
-
 ¶6. (SBU) Responsible entities are the Nicaraguan Ministry of 
 Health and the Venezuelan Ministry of Health. 
  
 Article 4: Programs of Action 
 ----------------------------- 
-
 ¶7. (SBU) The parities will jointly elaborate specific 
 programs of action, containing activities and projects to be 
 developed, with a description of objectives, an 
@@ -143,7 +138,6 @@ improve the execution of programs.
  
 Articles 5-7: Oversight 
 ----------------------- 
-
 ¶8. (SBU) The parties will joint create an oversight 
 commission, staffed by representatives from the ministries of 
 health in both countries.  Members shall be nominated within 
@@ -159,10 +153,10 @@ conducting the meetings.
  
 Article 8: Intellectual Property 
 -------------------------------- 
-
 ¶9. (SBU) The activities mentioned in the current agreement 
 will be subject to judicial requirements in both countries, 
 especially activities in reference to the transfer of 
+ 
 technology or products that involve patent or intellectual 
 property rights.  The parties will take precautions that they 
 consider convenient with the purpose of preserving genetic 
@@ -173,20 +167,17 @@ judge necessary, restrictions for their diffusion.
  
 Article 9: Disputes 
 ------------------- 
-
 ¶10. (SBU) Disputes will be resolved through direct diplomatic 
 negotiations between the parties. 
  
 Article 10: Amendments 
 ---------------------- 
-
 ¶11. (SBU) Agreement may be modified by mutual consent. 
 Modifications will enter into effect via Article IX 
 negotiations. 
  
 Article 11: Entry Into Force, Duration, Renewal 
 --------------------------------------------- -- 
-
 ¶12. (SBU) This agreement enters into force upon the last 
 communication between the parties notifying the fulfillment 
 of all constitutional and internal legal requirements.  The 

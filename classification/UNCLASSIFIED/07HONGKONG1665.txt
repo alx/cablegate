@@ -1,0 +1,113 @@
+07HONGKONG1665
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Thu Jun 21 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0013
+RR RUEHWEB
+
+DE RUEHHK #1665 1720726
+ZNR UUUUU ZZH
+R 210726Z JUN 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 2038
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001665 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR 
+WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+BEIJING FOR FCS JEANETTE CHU 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+SHINGING LAND TECHNOLOGY 
+ 
+REF: A) USDOC 03922 
+ 
+1.Unauthorized disclosure of the information 
+provided below is prohibited by Section 12C of the 
+Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of 
+the Office of Enforcement Analysis (OEA) of the 
+USDOC Bureau of Industry and Security (BIS), 
+Export Control Officer Philip Ankel (ECO) 
+attempted to conduct a post-shipment verification 
+of a shipment bound for Shining Land Technology 
+(Hong Kong) Co. Ltd, MSH 3179, Room 1007, 10F, Ho 
+King Ctr., No 2-16 Fa Yuen Street, Mongkok, Hong 
+Kong (Shining Land). The item in question is one 
+gas chromatograph valued at USD 16,311.  On the 
+applicable shippers export declaration (SED), the 
+item is classified as 3A999.  Items properly 
+classified as 3A999 may be exported/reexported to 
+virtually all destinations and end-users 
+worldwide, license free, except for certain 
+designated state sponsors of terrorism (including 
+North Korea).  The exporter was Agilent 
+Technologies Inc. of New Castle, Delaware. 
+ 
+¶3.  According to the Hong Kong Companies Registry, 
+Shining Land has been in existence since June 
+¶2006.  It has the equivalent of USD 100 authorized 
+capital but no paid-up capital.  Mainland Chinese 
+nationals Chuanjian Lu and Xiaochun Qian are 
+listed as directors.  No further information about 
+the company (including its phone number) could be 
+located in the Hong Kong Trade Development Council 
+web site, the Yellow Pages or other typical 
+places.  The contact number for Shining Land 
+referenced in reftel A is a Shanghai number.  An 
+Internet check of the phone number reveals that 
+this number is apparently also the phone number of 
+Shanghai company, Shanghai Hushi Chemical Reagent 
+& Analysis Instrument Company Limited 
+(www.shhushi.com) and its subsidiary companies 
+Shanghai Experimental Equipment Company Limited 
+and Tianchang Qianqiu Glass Instrument Company 
+Limited.  The address of these companies listed on 
+the web site is the same as the address listed for 
+the mainland Chinese directors of Shining Land. 
+The phone number for Shining Land listed in reftel 
+A also corresponds to the phone number listed on 
+the web sites for these companies. As part of end- 
+use checks in Hong Kong and at the direction of 
+BIS headquarters, the ECO's practice is not to 
+call or otherwise reach out to mainland Chinese 
+companies involved in Hong Kong related checks. 
+ 
+¶4.  The offices of Shining Land are located in a 
+low-end shopping area.  Ho King Center is on top 
+of a street market and is a run-down office 
+building.  On the building directory, Room 1007 is 
+listed as "Bright Sun Shipping Company".  However, 
+nothing is listed for this office number on the 
+10th floor directory nor is there any name listed 
+on the Room 1007 office door.  Offices on the 10th 
+floor appear to be quite small, perhaps 100-150 
+square feet (enough for two desks).  Commercial 
+Assistant Florence Tam attempted to visit the 
+office on June 11, 2007 but no one was in the 
+office.  Mail and other correspondence were left 
+stacked at the entrance of the company. 
+ 
+¶5.  Given the facts referenced above, Shining Land 
+does not appear to be a suitable recipient of 
+controlled U.S. origin items.  Nonetheless, a 
+close review of publicly available documentation 
+concerning Shining Land and other companies 
+suggests that the item most likely ended up in 
+mainland China at Shanghai Hushi Chemical Reagent 
+& Analysis Instrument Company Limited or one of 
+its affiliates.  Given that the item can be 
+exported license-free to mainland China (with very 
+limited exceptions), the ECO recommends that this 
+PSV be classifid as Limited.

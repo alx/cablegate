@@ -1,0 +1,104 @@
+04DJIBOUTI785
+IBB SIGNAL INTERFERES WITH FRENCH RADIO OPERATIONS
+Tue Jun 08 00:00:00 +0200 2004
+UNCLASSIFIED
+Embassy Djibouti
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS DJIBOUTI 000785 
+ 
+SIPDIS 
+ 
+RABAT /CASABLANCA PASS TO DARREL DUCKWORTH IBB TANGIER 
+BBG PASS TO WALTER BORYS AND WILFRED COOPER 
+ 
+E.O. 12958: N/A 
+TAGS: PREL MARR KPAO FR DJ BBG
+SUBJECT: IBB SIGNAL INTERFERES WITH FRENCH RADIO OPERATIONS 
+ 
+ 
+¶1.   (U) SUMMARY: The Commander of French Forces in Djibouti 
+  told the Ambassador that signals from the International 
+  Board of Broadcasters (IBB) Radio Sawa tower at PK12 were 
+  interfering with French radio operations in Djibouti. Tests 
+  by IBB imply that the problem rests in structural 
+  deficiencies in the French HF towers as IBB signals are well 
+  within normal and legal range. END SUMMARY. 
+ 
+¶2.   (U) During a regularly scheduled meeting at the end of 
+  March, The Commander of French Forces in Djibouti, General 
+  Gerard Pons, told Ambassador Ragsdale that signals from 
+  IBB's Radio Sawa tower at PK12 were interfering with French 
+  radio operations in Djibouti. He requested the Ambassador's 
+  assistance in resolving the interference. 
+ 
+¶3.   (U) PAO contacted technical experts at IBB and was 
+  informed that the signals were well within acceptable 
+  strength range and were being broadcast on a licensed 
+  frequency. IBB hypothesized that the interference was likely 
+  due to grounding problems with the French HF towers and 
+  suggested the French buy filters and/or reground the towers. 
+ 
+¶4.   (U) On April 8, IBB contacted the French Air Base 
+  (`FAB') in Djibouti about the continued problem and offered 
+  to test the signal strength. However, as it was necessary 
+  for the French to grant access to the problem towers to 
+  conduct the tests, FAB declined. (NOTE: IBB technical 
+  experts speculate that the French towers may be sensitive, 
+  which might explain FAB's reluctance to grant access to the 
+  problem equipment for testing. END NOTE). 
+ 
+¶5.   (U) On April 28, a representative from IBB, the PAO and 
+  a French technical contractor working at PK12 (`USG Team') 
+  met with several representatives of FAB. FAB informed IBB 
+  that it was picking up Radio Sawa on HF towers used for 
+  receiving signals. FAB also informed USG Team that the 
+  interference problems had stopped after the extensive 
+  flooding in Djibouti on April 13. 
+ 
+¶6.   (U) The USG Team concluded that the sudden lack of 
+  interference after ground saturation proved IBB's initial 
+  grounding hypothesis and said that the problem appeared to 
+  lie with structural deficiencies (grounding) with the French 
+  towers. IBB stated that the problem would likely return 
+  after the earth dried and offered to test the towers for 
+  signal problems to confirm this hypothesis. FAB declined. 
+  (see para 4). USG Team also offered FAB general advice for 
+  resolving grounding problems. 
+ 
+¶7.   (U) On May 16, FAB again contacted IBB about 
+  interference and requested resolution, stating its belief 
+  that the problem rested with the IBB signal strength. IBB 
+  was granted access that same day to the problem towers and 
+  used its own materials and experts to test signal strength 
+  in conjunction with FAB. Testing proved that the IBB PK12 
+  emissions were well within the International 
+  Telecommunication Union standards for high-power broadcast 
+  transmitters. Harmonic levels were measured at -80 (ITU 
+  minimum is -70). 
+ 
+¶8.   (U) Testing also determined that there should be no 
+  interference, despite any HF grounding problems, as long as 
+  the Radio Sawa signal remained in "directional" 
+  transmission, the normal transmission mode. Although IBB has 
+  licensed authority to transmit a non-directional signal, it 
+  told Post it would only do so in cases of emergency or 
+  extreme technical difficulty. 
+ 
+¶9.   FAB witnessed the testing and acknowledged that the 
+  procedures, process and measurement results were correct and 
+  accurate. Post notes, however, that IBB observed FAB's HF 
+  antenna system was below minimum accepted industry standards 
+  for receiving antennas (the antenna grounding system was 
+  absent in some places and eroded in others). IBB prepared 
+  and delivered a technical report detailing necessary repairs 
+  for the FAB HF receiving antenna system. 
+ 
+¶10.  (SBU) COMMENT: IBB and AMEMBASSY Djibouti have made 
+  every effort to be accommodating and helpful to the French 
+  on this issue. General Pons seemed satisfied with the 
+  outcome during a recent meeting with the Ambassador. Radio 
+  interference problems currently being experienced by the 
+  French are likely do to structural deficiencies with the 
+  French HF towers. Post now considers this matter closed. END 
+  COMMENT. 
+ 
+RAGSDALE

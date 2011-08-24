@@ -1,0 +1,151 @@
+09STATE96308
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Wed Sep 16 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHC #6308 2591802
+ZNR UUUUU ZZH
+R 161743Z SEP 09
+FM SECSTATE WASHDC
+TO RUEHIN/AIT TAIPEI 0000
+INFO RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUEAIIA/CIA WASHINGTON DCUNCLAS STATE 096308 
+ 
+SIPDIS 
+AIT TAIPEI FOR MATTHEW O'CONNOR 
+ECON 
+MI-YONG KIM 
+REBECCA HESTER 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC TW
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON LICENSE 050189204 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a pre-license check on license 050189204 for the export of 
+International Traffic in Arms (ITAR)-controlled AH-1 
+helicopter parts to Taiwan.  Post is requested to complete 
+this Blue Lantern inquiry within 30 days.  Lack of response 
+to a Blue Lantern inquiry will affect pending and future 
+licenses involving parties to this license. 
+ 
+¶3. Reason for request: Unfamiliar consignee, Gao Jun Co. Ltd; 
+commodities are parts sought by proscribed entities; no 
+documentation from foreign end-user, Taiwan Land Force (TLF). 
+ 
+¶4. ACTION: The Department requests that Post confirm that the 
+TLF ordered the items listed for the purpose stated on the 
+license application.  In addition, the Department requests 
+that Post make inquiries with appropriate officials to 
+establish the bona fides of Gao Jun in the transaction and 
+conduct a site visit to assess the company's reliability as 
+recipients of United States Munitions List (USML) articles as 
+well as an assessment of the company's on-site security and 
+operations.  If a site visit is not possible, please inform 
+the PM/DTCC case officer. 
+ 
+The following points are included for guidance: 
+ 
+--Can Gao Jun provide documentation that verifies the end-use 
+of the helicopter parts, such as a contract or purchase order? 
+ 
+--When was Gao Jun established and who are its principals? 
+ 
+--What is the nature of the company's businesses -- what type 
+of items 
+do they handle?  Does the company serve as a broker? 
+ 
+--What type of organizations are among its typical customers 
+and where are they located? 
+ 
+--Does the company understand the restrictions on USML items, 
+especially the 
+prohibition against unauthorized re-transfer and re-export? 
+ 
+END ACTION. 
+ 
+¶5. Details of license applications: 
+ 
+DTC CASE:  050189204 
+ 
+QUANTITY/COMMODITY: 
+ 
+12 - Filter, Part No.WF334786, NSN:2915011439982 
+3 - Link, Part No.204-011-762-011, NSN:3040001575087 
+1 - Bearing, Part. No.214-010-434-1, NSN:31110005244569 
+5 - Valve, Part No. 1-300-194-04, NSN:4810000686712 
+4 - Pin, Part No. PM22271, NSN:5315010802313 
+5 - Hinge, Part No. 209-032-253-1, NSN:5340011636085 
+5 - Clamp, Part No. 580-0016-1568, NSN:5342014372676 
+12 - Connector, Part No. MS3112E20-39P, NSN:5935007254446 
+ 
+License Value: 10,310 USD 
+ 
+SELLER: 
+ 
+Space Coast IC Inc. 
+1221 Admiralty Boulevard 
+Rockledge, FL 32955 
+Tel: 321-574-0488 
+POC: Klaus Negele 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Gao Jun Co., Ltd. 
+No. 178 Zhongcheng Street, Gangshan Town 
+Kaohsiung County 82065 
+Taiwan 
+Tel: 886-7-6219998 
+Fax: 886-7-6219939 
+POC: Luo Bin, Purchasing Manager 
+ 
+FOREIGN END-USER: 
+ 
+Taiwan Land Force 
+PO Box 90788 Guiren Township 
+Tainan County 
+Taiwan 
+ 
+PURPOSE: 
+ 
+All items are to be installed in the AH-1W Advanced Attack 
+Helicopter, owned by the Taiwan Land Forces in Tainan, Taiwan. 
+ 
+¶6. Submitted in support of license application 050189204 were 
+the following documents (PM/DTCC will fax documentation to 
+Post upon request): 
+ 
+--Purchase Order No.2009081203 submitted by Gao Jun to Space 
+Coast IC, Inc., dated 12 August 2009, signed by Luo Bin. 
+ 
+--End User Statement submitted by Gao Jun, dated 27 August 
+2009, signed by Luo Bin. 
+ 
+--Department of State License for Permanent Export of 
+Unclassified Defense Articles and Related Unclassified 
+Technical Data, signed 10 September 2009. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Meredith Sundlof. Phone: 
+202-663-3455; Email: SundlofME@state.gov; SIPRNET: 
+SundlofME@state.sgov.gov.  The Blue Lantern Guidebook (ref) 
+is available as a PDF file at 
+http://www.intelink.sgov.gov/wiki/Blue Lantern End-Use 
+Monitoring Program. 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+CLINTON

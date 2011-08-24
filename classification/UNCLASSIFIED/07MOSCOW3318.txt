@@ -1,0 +1,125 @@
+07MOSCOW3318
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Mon Jul 09 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHMO #3318/01 1900355
+ZNR UUUUU ZZH
+P 090355Z JUL 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1891
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 003318 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+RUSSIAN FEDERAL NUCLEAR CENTER (VNIITF), INSTITUTE OF 
+TECHNICAL PHYSICS, SNEZHINSK, RUSSIA, LICENSE NO: 
+D279875 
+ 
+REFTEL:  1. 04 USDOC 01963 
+  ¶2. 05 MOSCOW 14902 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Russian Federal Nuclear Center (VNIITF), 
+Institute of Technical Physics, Snezhinsk, Russia. The 
+company was listed on BIS license number:  D279875 as 
+the ultimate consignee of 1 optima 2000DV inductively 
+coupled plasma optical emission spectrometer system 
+and accessories, ECCN: 4A994. These items are 
+controlled for anti-terrorism reasons. The licensee is 
+Perkin-Elmer, Inc, 761 Main Ave., Mail Stop 52, 
+Norwalk, CT 06859. Reftel 2 is an unfavorable 
+recommendation citing the refusal of the GOR to grant 
+access to the facility in order for ECO Moscow to 
+conduct the end use check. 
+ 
+¶3. NOTE: The Russian Federal Nuclear Center (VNIITF), 
+Institute of Technical Physics, Snezhinsk conducts 
+research on nuclear fuel cycle technologies and 
+fissile material processing.  The Government of Russia 
+(GOR) Ministry of Atomic Energy (Russian acronym 
+MINATOM) still classifies VNIITF as a "closed 
+facility."  Foreigners are generally not granted 
+access to closed facilities, however, a bilateral 
+agreement between the US Department of Energy (DOE) 
+and MINATOM allows for site visits by DOE personnel 
+for information exchange and audit purposes. DOE and 
+VNIITF have been working on collaborative projects 
+since 1992.  END NOTE. 
+ 
+¶4. On June 14, 2007 ECO Pearce participated in a DOE 
+teleconference with Maegon E. Barlow, Deputy Office 
+Director - Office of Weapons Material Protection, 
+National Nuclear Security Administration. Ms. Barlow 
+and her team were scheduled to visit the VNIITF 
+facilities as part of a DOE Threat Reduction and 
+Safeguards project assessment. ECO Pearce gave Ms. 
+Barlow a briefing on conducting BIS end use checks, 
+and the specific commodities to be verified, including 
+descriptions of the devices and the locations of 
+number plates.  Ms. Barlow stated that she would be 
+conducting the check on June 29, 2007. 
+ 
+¶5. On July 3, 2007 ECO Pearce received the following 
+email from Ms. Barlow. 
+ 
+Subject:  Post Shipment Verification of the Perkin 
+Elmer Optima 2000DV Inductively Coupled Plasma Optical 
+Emissions Spectrometer at VNIITF. Summary:  Maegon 
+Barlow conducted a post-shipment verification of the 
+ICP Spectrometer Optima 2000DV provided to VNIITF 
+under export control license #D279875 per the request 
+of the US Department of Commerce on June 29th, 2007. 
+The spectrometer was brought to the International 
+Business Center (ICB) in Snezhinsk where Ms. Barlow 
+was able to see the spectrometer.  Ms. Barlow 
+confirmed that it was in fact a Perkin Elmer Optima 
+2000DV Inductively Coupled Plasma Optical Emissions 
+Spectrometer - serial number # 080N1061301.  Ms. 
+Barlow inquired about the operability and purpose of 
+the spectrometer.  The VNIITF personnel that operate 
+the Spectrometer reported this it was fully 
+operational and informed Ms. Barlow that the primary 
+purpose of the equipment was to assist with the 
+scientific research on alternate power generation (ie 
+looking at fuel cells).  The spectrometer is also 
+being used by geologists to conduct pollution analysis 
+(i.e looking at rain water, industrial pollutants). 
+Ms. Barlow was informed that the spectrometer was not 
+being used for any nuclear related activities. 
+The VNIITF personnel responsible for the equipment 
+were forthcoming with information and access to the 
+equipment.  Ms. Barlow was able to get pictures of the 
+spectrometer.  The post-shipment verification was 
+recorded in the signed Protocol of Meeting.  End 
+quote. 
+ 
+¶8. Recommendations: Post recommends Bochvar All- 
+Russian Scientific Research Institute For Inorganic 
+Materials (VNIINM) as a reliable recipient of 
+ 
+ 
+ 
+ 
+ 
+sensitive U.S. origin commodities. 
+ (FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

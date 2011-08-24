@@ -1,0 +1,492 @@
+10PRETORIA160
+QUARTERLY REVIEW OF THE SOUTH AFRICAN ECONOMY WITH KEY
+Tue Jan 26 00:00:00 +0100 2010
+UNCLASSIFIED
+Embassy Pretoria
+VZCZCXRO7909
+RR RUEHBZ RUEHDU RUEHJO RUEHMR RUEHRN
+DE RUEHSA #0160/01 0261109
+ZNR UUUUU ZZH
+R 261109Z JAN 10
+FM AMEMBASSY PRETORIA
+TO RUEHC/SECSTATE WASHDC 1009
+RUCPCIM/CIMS NTDB WASHDC
+INFO RUCNSAD/SOUTHERN AF DEVELOPMENT COMMUNITY COLLECTIVE
+RUCPDC/DEPT OF COMMERCE WASHINGTON DC
+RUEATRS/DEPARTMENT OF TREASURY WASHDCUNCLAS SECTION 01 OF 06 PRETORIA 000160 
+ 
+DEPT FOR AF/S; AF/EPS; EB/TPP 
+USDOC FOR 4510/ITA/IEP/ANESA/OA/JDIEMOND 
+TREASURY FOR DAN PETERS 
+DEPT PASS USTR FOR WILLIAM JACKSON 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN EINV EMIN ENRG ETRD BEXP KTDB SF
+SUBJECT: QUARTERLY REVIEW OF THE SOUTH AFRICAN ECONOMY WITH KEY 
+ECONOMIC STATISTICS 
+ 
+¶1. (U) Summary:  Following three consecutive quarters of 
+contraction, South Africa's GDP resumed positive growth in the third 
+quarter of 2009.  South African exports edged higher in the second 
+half of 2009, following an improvement in the global economy. As a 
+result, the deficit on the current account narrowed to 3.2 percent 
+of GDP in the third quarter of 2009.  This deficit was financed 
+through substantial capital inflows on the financial account, which 
+added to the increase in foreign reserves and resulted in a strong 
+rand appreciation.  The stronger rand together with an economy 
+operating below capacity forced price inflation back to within the 3 
+- 6 percent target range.  The response to the cumulative 500 basis 
+points interest rate reduction between December 2008 and August 2009 
+was still in the pipeline, outweighed by stricter lending standards 
+of commercial banks, and deleveraging of balance sheets by 
+households and companies.  The continued deceleration in the growth 
+of the money supply (M3) and negative growth in domestic credit 
+extension to the private sector, illustrated the continued financial 
+pressure on households and companies.  Almost 1 million jobs were 
+lost during the first three quarters of 2009. End Summary. 
+ 
+The sources for the following tables are from the South African 
+Reserve Bank (SARB), Statistics SA, and the Customs Department of 
+the South African Revenue Service.  Some figures from previous 
+months may have changed as the result of statistical revisions. 
+ 
+------------------ 
+¶I. MONTHLY FIGURES 
+------------------ 
+ 
+¶2.  EXCHANGE RATES 
+Rand/US Dollar Exchange Rate (monthly average) 
+--------------------------------------------- -------- 
+2008           2009 
+--------------------------------------------- -------- 
+Sep  8.05      Jan  9.90      May 8.37      Sep 7.52 
+Oct  9.67      Feb 10.01      Jun 8.05      Oct 7.48 
+Nov 10.12      Mar 10.00      Jul 7.95      Nov 7.52 
+Dec  9.95      Apr  9.02      Aug 7.94      Dec 7.50 
+ 
+Trade-Weighted Rand (monthly average; 2000 = 100) 
+--------------------------------------------- ------- 
+2008          2009 
+--------------------------------------------- ------- 
+Sep 66.11     Jan 57.07     May 66.49     Sep 70.83 
+Oct 57.32     Feb 57.66     Jun 67.84     Oct 70.45 
+Nov 56.61     Mar 57.81     Jul 68.48     Nov 69.63 
+Dec 56.38     Apr 63.36     Aug 68.52     Dec 69.68 
+ 
+Comment:  In 2009, the rand regained most of its 2008 losses and 
+appreciated by 27 percent against the dollar and 24 percent against 
+the trade-weighted average exchange rate of the rand.  The sharp 
+improvement in the exchange rate is largely attributable to the 
+improvement in South Africa's current account deficit, an increase 
+in the risk appetite of international investors and the subsequent 
+acquisition of domestic securities, a surge in commodity prices, and 
+the weakness of the U.S. dollar.  The strengthening of the rand will 
+constrain the competitiveness of South African exporters in 
+international markets.  Analysts believe the rand would remain 
+strong in the early part of 2010, due to a combination of dollar 
+weakness as well as an inflow of foreign currency in the run up to 
+the 2010 FIFA World Cup.  End Comment. 
+ 
+¶3.  INFLATION (year-on-year) 
+---------------------------- 
+         2009 
+          Jul     Aug      Sep     Oct     Nov 
+Q          Jul     Aug      Sep     Oct     Nov 
+--------------------------------------------- -- 
+CPI       6.7     6.4      6.1     5.9     5.8 
+PPI      -3.8    -4.0     -3.7    -3.3    -1.2 
+ 
+Comment:  Inflation slowed against the background of an economy 
+operating below capacity and a significant appreciation of the rand. 
+ In October 2009, consumer price inflation fell within the 3-6 
+percent target range for the first time in 30 months.  Producer 
+price deflation contributed to the containment of consumer price 
+inflation.  Analysts expect inflation to rise above six percent in 
+December 2009 due to base effects.  The Monetary Policy Committee's 
+(MPC's) most recent central inflation forecast projects that 
+inflation will return to the 3-6 percent inflation target range, on 
+a sustained basis, by the second quarter of 2010.  Inflation is 
+expected to average 5.7 percent and 5.8 percent in 2010 and 2011, 
+respectively.  End Comment. 
+ 
+¶4. MONEY AGGREGATES (percentage change year-on-year) 
+ 
+PRETORIA 00000160  002 OF 006 
+ 
+ 
+--------------------------------------------- ------ 
+         2009 
+         Jul      Aug      Sep      Oct      Nov 
+--------------------------------------------- ---- 
+M1       3.82     4.86     1.15     1.53     2.52 
+M2       3.75     4.82     2.48     0.87    -1.04 
+M3       5.70     5.49     4.00     2.67     0.58 
+ 
+Comment: The slowdown in broadly defined money supply (M3) growth 
+continued to reflect the subdued level of aggregate income, the 
+relative low return on M3 deposits, lower inflation, and the 
+deterioration in corporate and household balance sheets.  End 
+Comment. 
+ 
+¶5.  DOMESTIC CREDIT EXTENSION TO THE PRIVATE SECTOR (percentage 
+change year-on-year) 
+--------------------------------------------- ------ 
+     2009 
+     Jul       Aug       Sep       Oct        Nov 
+--------------------------------------------- ------ 
+    3.31      2.34      1.49     -0.42      -1.59 
+ 
+Comment: During the third quarter of 2009, growth in banks' total 
+loans and advances extended to the private sector turned negative, 
+an occurrence last seen in the 1960s.  Because of monetary lag, 
+lower interest rates have yet to have their full impact on credit 
+extension.  Meanwhile, commercial banks are imposing stricter 
+lending standards, and households and companies continue to 
+deleverage.  End Comment. 
+ 
+¶6.  KEY INTEREST RATES (at end of month) 
+--------------------------------------- 
+                  2009 
+                  Aug    Sep     Oct     Nov    Dec 
+--------------------------------------------- --------- 
+SARB Repo Rate    7.00    7.00    7.00   7.00    7.00 
+Prime Overdraft  10.50   10.50   10.50  10.50   10.50 
+Rate 
+ 
+Comment:  The South African Reserve Bank's Monetary Policy Committee 
+(MPC) started reducing the repo rate in December 2008.  By mid-2009, 
+it had reduced the policy rate by a cumulative total of 450 basis 
+points.  In August 2009, the MPC, mindful of the large output gap, 
+reduced the repurchase rate by a further 50 basis points to 7 
+percent, the same level seen at the trough of the previous interest 
+rate cycle.  The MPC left  interest rates unchanged at its 
+September, October, and November meetings, based on its view that 
+the domestic economic growth should improve in the coming quarters, 
+while inflation continue its downward trend.  Analysts expect 
+interest rates to remain unchanged until early 2011. End Comment. 
+ 
+¶7.  MERCHANDISE TRADE ACCOUNT (R millions) 
+----------------------------------------- 
+2009        EXPORTS       IMPORTS      TRADE BALANCE 
+Jan         36,251.7      53,631.5      -17,379.7 
+Feb         44,061.8      44,632.4         -570.7 
+Mar         51,966.3      52,478.2         -511.9 
+Apr         40,656.3      42,112.4       -1,456.1 
+May         41,456.8      39,437.2        2,019.6 
+Jun         43,039.2      39,817.5        3,221.7 
+Jul         44,461.9      44,015.1          446.8 
+Aug         40,380.6      42,361.9       -1,981.2 
+Sep         45,535.4      41,664.3        3,871.1 
+Oct         44,088.9      50,797.6       -6,708.7 
+Nov         45,855.9      48,330.4       -2,474.6 
+TOTAL (1)  470,366.6     499,546.1      -29,179.4 
+ 
+ 
+JAN - NOV 2008 
+TOTAL (1)  614,558.7     677,455.4      -62,896.7 
+ 
+(1) Total After Adjustments (year-to-date) 
+ 
+Comment:  With the global economy showing signs of recovery, South 
+African export volumes edged higher while the upward trend in the 
+QAfrican export volumes edged higher while the upward trend in the 
+international prices of gold, platinum and other export commodities 
+gave further support to export revenues in the second half of 2009. 
+At the same time, the volume of merchandise imports declined 
+slightly as real GDP inched lower.  While a substantially lower 
+volume of crude oil was imported in the third quarter, this was 
+partially offset by increases in other imports, including the 
+acquisition of military aircraft by the government. Analysts expect 
+export growth to exceed import growth in the first quarter of 2010, 
+as the global economy and commodity prices continue to recover, 
+ 
+PRETORIA 00000160  003 OF 006 
+ 
+ 
+while weak household spending and falling fixed investment activity 
+will cut into import demand.  End Comment. 
+ 
+¶8. FOREIGN RESERVES ($ billions) 
+------------------------------- 
+                      2009 
+                      Jul    Aug    Sep    Oct    Nov 
+--------------------------------------------- --------- 
+SARB Gross Gold and 
+Foreign Reserves      35.7   38.0   39.1   39.8   40.5 
+SARB Net Open Forward 
+Position              34.7   36.9   37.9   38.8   39.6 
+ 
+Comment:  South Africa's gross gold and foreign reserves continued 
+to rise, boosted mainly by the general allocation of Special Drawing 
+Rights (SDRs) by the International Monetary Fund (IMF) to its member 
+countries.  The one-off SDR allocations made in August 2009 amounted 
+to $2.4 billion.  [Note: The SDR is an international reserve asset 
+first created by the IMF in 1969 to supplement existing reserve 
+assets of IMF member countries.  SDRs are mainly held by the 
+monetary authorities of the IMF member countries, and represent an 
+unconditional right of a member country to obtain foreign exchange 
+or other reserve assets from other IMF members in order to deal with 
+situations involving inadequate international liquidity. End Note]. 
+The narrowing of the current account deficit alongside increasing 
+capital inflows also added to the increase in foreign reserves.  End 
+Comment. 
+ 
+--------------------- 
+II. QUARTERLY FIGURES 
+--------------------- 
+ 
+¶9. REAL GROSS DOMESTIC PRODUCT (percent change, seasonally adjusted 
+and annualized) 
+--------------------------------------------- --- 
+                     2008     2009 
+                      Q4      Q1      Q2      Q3 
+--------------------------------------------- ---- 
+PRIMARY SECTOR       1.7    -23.4     6.0    -7.0 
+Agriculture          5.6     -3.7   -13.1    -9.8 
+Mining               0.1    -30.7    15.8    -5.8 
+ 
+SECONDARY SECTOR    -12.9   -19.4    -6.9     7.0 
+Manufacturing       -17.4   -25.5   -11.1     7.6 
+Electricity          -0.1    -8.1     1.9     4.2 
+Construction          6.3    10.7     8.7     6.1 
+ 
+TERTIARY SECTOR       4.2    -0.9    -1.7     0.8 
+Trade & catering     -0.3    -2.4    -5.9    -1.1 
+Transport & Comm.     1.6    -2.1    -1.0     1.2 
+Finance               7.5    -2.3    -3.8    -1.5 
+Government            6.2     2.1     3.1     4.9 
+--------------------------------------------- ---- 
+TOTAL                -0.7    -7.4    -2.8     0.9 
+--------------------------------------------- ---- 
+ 
+Comment: Following three consecutive quarters of contraction, South 
+Africa's GDP resumed positive growth in the third quarter of 2009. 
+This improvement was attributable to a decisive recovery in the 
+secondary sector and a less prominent turnaround in the tertiary 
+sector.  Output in the primary sector declined over the period, but 
+it was more than offset by the expansion in the other two main 
+sectors. Analysts expect economic conditions to improve further in 
+the final quarter of 2009 and throughout 2010. 
+ 
+Primary sector:  Agricultural production declined further in the 
+third quarter, reflecting somewhat smaller field crops, while mining 
+output also receded as the production of platinum and gold 
+contracted.  Platinum production was strongly affected by strikes 
+and mine accidents.  Apart from the strengthening of the rand, which 
+Qand mine accidents.  Apart from the strengthening of the rand, which 
+adversely affected the mining sector in general, the gold-mining 
+sector was also affected by an increase in intermediate expenditure 
+which more than neutralized the potential benefits of the higher 
+dollar-dominated gold price.  Mining output, however, benefited from 
+increased output of coal and iron ore in the third quarter.  Growing 
+demand from Eskom contributed to the increase in the production of 
+coal, while the production of iron ore was largely underpinned by 
+strong demand from China. 
+ 
+Secondary sector:  The turnaround in the secondary sector was led by 
+improved performance of the manufacturing sector.  This was mainly 
+driven by higher production of basic iron and steel products, motor 
+vehicles, food, chemicals, and plastic products.  Despite the growth 
+in manufacturing production in the third quarter, output levels 
+ 
+PRETORIA 00000160  004 OF 006 
+ 
+ 
+remained repressed and production capacity utilization registered an 
+average of 77.8 percent in the first three quarters of 2009, having 
+averaged 83.8 percent in 2008.  The increase in electricity, gas and 
+water production reflected the recovery in the production activities 
+of electricity intensive mining and manufacturing industries.  The 
+construction sector remained buoyant in the third quarter, 
+benefiting from the upgrading of existing infrastructure and large 
+projects such as the Gautrain, power stations, roads, sport stadiums 
+and related infrastructure developments in preparation for the 2010 
+FIFA World Cup. 
+ 
+Tertiary sector:  The turnaround in the tertiary sector can mainly 
+be attributed to increased value added in the transport and 
+communication and general government subsectors.  Output in the 
+transport sector edged higher, consistent with the higher volume of 
+exports during the third quarter, while output in the communication 
+sector increased moderately.  The increase in general government 
+output was due to rising employment levels as part of 
+countercyclical efforts alongside structural efforts to improve 
+service delivery.  Consistent with the lower disposable income of 
+households, output of the trade sector remained subdued.  The 
+continued weak levels of credit extension to the private sector and 
+the residential property market were symptomatic of the weak output 
+performance in the financial service sector.  End Comment. 
+ 
+¶10. BALANCE ON CURRENT ACCOUNT (R millions) 
+--------------------------------------------- ------- 
+                    2008      2009 
+                     Q4       Q1       Q2       Q3 
+--------------------------------------------- ------- 
+Merchandise Exp.  166,501  130,149  120,311  122,426 
+ 
+Net Gold Exports   12,790   12,744   11,871   13,355 
+ 
+Merchandise Imp.  185,341  153,485  124,539  132,126 
+ 
+Income Payments    26,775   24,425   22,209   23,571 
+ 
+Service payment    34,820   31,121   31,443   30,840 
+--------------------------------------------- ------- 
+Current Account   -30,827  -33,068  -20,824  -24,238 
+--------------------------------------------- ------- 
+Current Account 
+Deficit/GDP        -5.4     -6.7     -3.4      -3.2 
+(percentage) 
+ 
+Comment: The moderate pick-up in international trade following 
+strong contractions since the final quarter of 2008 led to an 
+increase in the value of merchandise exports and had a positive 
+impact on South Africa's trade account.  However, the larger trade 
+surplus was partly neutralized by an increase in service, income and 
+current transfer payments to the rest of the world, causing the 
+deficit on the current account as a percentage of GDP to narrow only 
+slightly from 3.4 percent in the second quarter to 3.2 percent in 
+the third quarter.  The current account deficit is now at   its 
+lowest level since the second quarter of 2005.   The smaller 
+shortfall on the current account makes South Africa less dependent 
+on capital inflows and reduces the rand's vulnerability to swings in 
+global risk appetite.  Analysts foresee the current account to stay 
+at its current levels in the near future. Although the current 
+account deficit might deteriorate lightly from the second quarter of 
+2010 as imports start to pick up on the back of a domestic spending 
+recovery, increased service receipts from the influx of tourists 
+Qrecovery, increased service receipts from the influx of tourists 
+related to 2010 FIFA World Cup should help to limit the damage.  End 
+Comment. 
+ 
+¶11. BALANCE ON FINANCIAL ACCOUNT (R millions) 
+--------------------------------------------- --------- 
+                      2008      2009 
+                       Q4       Q1       Q2       Q3 
+--------------------------------------------- --------- 
+Direct Investment     45,941  13,642   21,222    4,785 
+ 
+Portfolio Investment-111,675   9,054   29,259   22,644 
+ 
+Other Investment      60,881  -9,044  -22,930   13,280 
+--------------------------------------------- --------- 
+Financial Account    -4,853  13,652   27,551    40,709 
+ 
+ 
+--------------------------------------------- --------- 
+ 
+Comment:  The deficit on the current account was financed through 
+increased capital inflows on the financial account of the balance of 
+ 
+PRETORIA 00000160  005 OF 006 
+ 
+ 
+payments.  The surplus on the financial account was mainly due to a 
+significant raise in portfolio investor's holdings of South African 
+equities due to improved international appetite for investment in 
+emerging-market economies.  The cumulative inflow of portfolio 
+investment during the first three quarters of 2009 was R66.0 
+billion, compared with an outflow of R71.5 billion recorded in 2008 
+as a whole.  End Comment. 
+ 
+¶12.  KEY LABOR MARKET VARIABLES (thousand) 
+--------------------------------------------- -------- 
+                     2008     2009 
+                     Q4       Q1       Q2       Q3 
+--------------------------------------------- -------- 
+Employed           13,844   13,636   13,369   12,885 
+Unemployed          3,873    4,184    4,125    4,192 
+Total Labor Force  17,718   17,820   17,495   17,077 
+Not Econ. Active   13,176   13,166   13,585   14,095 
+Population 15-64   30,894   30,987   31,080   31,172 
+--------------------------------------------- -------- 
+Unemployment rate   21.9     23.5     23.6     24.5 
+(percentage) 
+ 
+Absorption rate     44.8     44.0     43.0     41.3 
+(Employed/population ratio) 
+ 
+Comment: The unemployment rate in South Africa increased from 23.6 
+percent in the second quarter of 2009 to 24.5 percent in the third 
+quarter of 2009.  The number of jobs lost in the first three 
+quarters of 2009 totals 959,000.  Job losses were broad-based and 
+occurred in both the formal and the informal sectors of the economy. 
+ Analysts expect more job shedding until the first quarter of 2010. 
+ End Comment. 
+ 
+------------------- 
+III. ANNUAL FIGURES 
+------------------- 
+ 
+¶13.  NATIONAL BUDGET (R billions) 
+--------------------------------- 
+Fiscal Year Ending 31 March: 
+                        2006     2007   2008    2009 
+--------------------------------------------- ------- 
+Total Revenue          411.2   482.7   559.8   608.8 
+Total Expenditure      416.8   470.2   541.4   635.8 
+Budget Balance          -5.6    12.5    18.3   -27.0 
+--------------------------------------------- ------- 
+ 
+Budget Balance/GDP     -0.3     0.7     0.9    -1.2 
+ 
+Comment:  The impact of weak domestic demand and the global economic 
+crisis on tax revenues is primarily to blame for the change in 
+fiscal stance in FY2009.  Analysts expect corporate tax payments to 
+deteriorate further in FY2010, especially since sectors such as 
+manufacturing and mining, which have been savaged by the global 
+downturn, loom large in the corporate tax take.  Analysts expect the 
+fiscal deficit to increase to about 8.0 percent of GDP in FY2010. 
+End Comment. 
+ 
+¶14.  GOVERNMENT DEBT (R billions) 
+--------------------------------- 
+Fiscal Year Ending 31 March: 
+                     2006     2007      2008     2009 
+--------------------------------------------- -------- 
+Total Debt           528.5    551.9    571.7    616.4 
+  of Which: 
+   -- Domestic       461.2    469.0    475.2    518.9 
+   -- Foreign         66.8     82.6     96.2     97.3 
+   -- Other debt       0.4      0.3      0.2      0.2 
+ 
+Debt Service Cost     50.9     52.2     52.8     54.3 
+--------------------------------------------- -------- 
+Government Debt/GDP   32.6     28.6     24.0     22.4 
+(percentage) 
+ 
+Debt Service Cost/GDP  3.2      2.8      2.5      2.3 
+(percentage) 
+ 
+Comment: The SAG continued to finance its borrowing needs mostly 
+QComment: The SAG continued to finance its borrowing needs mostly 
+from domestic sources.  The decline in government debt as a 
+percentage of GDP can be attributed to the rapid growth of the 
+economy and the creation of fiscal surpluses in FY2007 and FY2008. 
+However, total debt is set to increase to 41.0 percent of GDP in 
+FY2013 to finance the projected budget deficits over the next three 
+years.  Debt service costs have shown a steadily declining trend 
+ 
+PRETORIA 00000160  006 OF 006 
+ 
+ 
+since peaking at 5.6 percent of GDP in the 1999 fiscal year.  The 
+decline in debt service costs has created the necessary "fiscal 
+space" to run a large deficit in FY2010 and maintain infrastructure 
+spending to counteract the effects of the economic crisis.  National 
+Treasury expects debt service cost to increase from R54 billion (2.3 
+percent of GDP) in FY2009 to almost R100 billion (3.2 percent of 
+GDP) in FY2013.  End Comment. 
+ 
+--------------------------------------------- -------- 
+ 
+For additional information please consult the following websites: 
+ 
+South African Reserve Bank  
+South African Revenue Service  
+Statistics South Africa  
+National Treasury  
+ 
+GIPS

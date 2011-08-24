@@ -1,0 +1,183 @@
+09STATE117765
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Sat Nov 14 00:00:00 +0100 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHC #7765 3181848
+ZNR UUUUU ZZH
+R 141844Z NOV 09
+FM SECSTATE WASHDC
+TO RUEHIN/AIT TAIPEI 0000
+INFO RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEAIIA/CIA WASHINGTON DCUNCLAS STATE 117765 
+ 
+SIPDIS 
+AIT-TAIPEI FOR MATTHEW O'CONNOR & MI-YONG KIM 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC TW
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON APPLICATIONS 050197967  AND 050198220 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+1.This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests AIT Taipei's assistance in 
+conducting a pre-license, end-use check on applications 
+050197967 and 050198220 for the export of International 
+Traffic in Arms (ITAR)-controlled datalink equipment to 
+Taiwan.  AIT Taipei is requested to complete this Blue 
+Lantern inquiry within 30 days.  Lack of response to a Blue 
+Lantern inquiry will affect pending and future licenses 
+involving parties to this license. 
+ 
+¶3. Reason for request:  Foreign Consignee Carbon-Based 
+Technology, Inc. has never appeared on a license; sensitive 
+ITAR equipment. 
+ 
+¶4. Action:   Department requests that AIT Taipei make 
+inquiries to establish the bona fides of the foreign 
+consignee in the proposed transactions.  If possible, conduct 
+a site visit to assess the company's reliability as a 
+recipient of United States Munitions List (USML) items as 
+well as its operations and on-site security. Emphasize that 
+the unauthorized re-export or retransfer of USML items is 
+strictly prohibited.  Confirm with the end-user that it 
+placed the orders for the items listed below for the purpose 
+stated on the applications.  Determine whether any other 
+Taiwan-based firms are involved in the procurement of the 
+items. Remind the end-user that the unauthorized re-export or 
+retransfer of United States Munitions List (USML) items is 
+strictly prohibited. 
+ 
+The following questions provide guidance: 
+ 
+-  Please confirm orders for the items listed on licenses 
+050197967 and 050198220. 
+ 
+-  Does Carbon-Based Technology understand the restrictions 
+against the unauthorized re-export or retransfer of 
+U.S.-origin defense articles? 
+ 
+-  Does Carbon-Based Technology serve as a broker of USML 
+articles with any countries besides Taiwan? If so, where?  If 
+your company has offices abroad, where are they located? Has 
+this company ever used any other names? 
+ 
+- How long has your company been in the business of importing 
+and selling defense articles? 
+ 
+-  What other products are sold by this company? 
+ 
+-  How long has Carbon-Based Technology, Inc. been involved 
+in business operations with End-User Chung Shan Institute of 
+Science and Technology? 
+ 
+-  What business relationship, if any, does your company have 
+with the Government of Taiwan? 
+ 
+End Action Request. 
+ 
+¶5. Details of license applications: 
+ 
+DTC CASE: 050197967 
+ 
+QUANTITY/COMMODITY: 
+ 
+1 Lot Components, parts and accessories for Datalink System 
+for Chung Shyang II UAV Ground Station: 
+      BMU85-4ADSS Upconverter x 2, BMR120-4AT Tracking 
+Receiver x 2, Feed Antenna x 1 
+      P/N 761363107 x 1, MU-100 Modulator x 2, Control Box 
+P/N 800600428 x 2 and TBM-400S Modem x 2, 
+      with manuals. 
+ 
+License Value: USD $210,453. 
+ 
+DTC CASE: 050198220 
+ 
+QUANTITY/COMMODITY: 
+ 
+1 Unit Video Transmitter Model BMT85-4A 
+ 
+License Value: USD $2600. 
+ 
+SELLER: 
+ 
+Broadcast Microwave Services, Inc. 
+Attn:  Ann Chen 
+12367 Crosthwaite Circle 
+Poway, CA  92064 
+(858)842-4720 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Wen-Long Chung 
+Carbon-Based Technology, Inc. 
+1099-5, Sec. 3 
+Song Chiu Road 
+Taichung City (406) 
+Taiwan 
+Republic of China 
+Tel: 886 4 2426 7288 
+Fax: 886 4 2426 7289 
+ 
+END USER: 
+ 
+Yuan-Hwang Lian 
+Chief, Remote Control Section 
+Information & Communication Research Division 
+Chung Shan Institute of Science & Technology 
+No. 481 Chia An Sec 
+Chung-Cheng Road 
+Chia-An Village 
+Lung-Tan, Taoyuan 
+Taiwan 
+Republic of China 
+ 
+PURPOSE: 
+ 
+Datalink System supports surveillance, coastal patrol and 
+typhoon damage investigations involving the Chung-Shyang II 
+UAV.  Components and spare parts are for its ground station 
+with less than 200 kilometer maximum range.  The UAV has a 25 
+kilogram EO payload. The BMT85-4A is a component of Datalink 
+System and is used for transmission of video and other data 
+between Chung-Shyang II UAV and its ground station. 
+ 
+¶6. Submitted in support of the license applications were the 
+following documents 
+ (PM/DTCC will fax documentation to AIT Taipei upon request): 
+ 
+-- Chung Shan Institute of Science and Technology End-Use 
+Statement dated 7 September 2009 which references CSIST Order 
+No. XC98Q20P; 
+ 
+-- U.S. Department of State Non-Transfer and Use Certificate 
+dated September 2009; 
+ 
+-- Carbon-Based Technology, Inc. Purchase Order No. 
+PO-98PO408-1. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the 
+words "Blue Lantern" and the case number in the subject line. 
+POC is Rachael-Therese S. Joubert-Lin, Phone: 202-663-2950; 
+Email: 
+JoubertLinRS@state.gov; SIPRNET: JoubertLinRS@ The Blue 
+Lantern Guidebook 
+ (ref) is available at 
+http://www.intelink.sgov.gov/wiki/Department of 
+ State%27s Blue Lantern End-Use Monitoring Program 
+ 
+¶8. (U) Department is grateful for AIT Taipei's assistance in 
+this matter. 
+CLINTON

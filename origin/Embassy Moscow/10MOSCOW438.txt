@@ -1,0 +1,315 @@
+10MOSCOW438
+CERTIFICATION OF CONSULAR MANAGEMENT CONTROLS
+Sat Feb 27 00:00:00 +0100 2010
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHMO #0438/01 0581919
+ZNR UUUUU ZZH
+R 271919Z FEB 10
+FM AMEMBASSY MOSCOW
+TO SECSTATE WASHDC 6619UNCLAS MOSCOW 000438 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: CMGT CVIS CASC KFRD RU
+SUBJECT:  CERTIFICATION OF CONSULAR MANAGEMENT CONTROLS 
+ 
+Ref:   State 12136 
+ 
+¶1.  In accordance with reftel, the Consular Section at U.S. Embassy 
+Moscow completed its review of consular management controls on 25 
+February 2010.  Richard Beer, FE-OC, Consul General, certifies that 
+the management review was successfully completed and that we are in 
+compliance with the Department guidelines with the exception of two 
+items:  line-of-sight for IV printing and physical access to the 
+Section by non-consular employees.  Both of these issues will be 
+corrected in the coming months. 
+ 
+¶2.  Below is a narrative of our review of consular management 
+controls: 
+ 
+¶A. Inventory Count and Reconciliation of Accountable Items: Post has 
+conducted inventories of accountable consular supplies in the NIV, 
+IV and ACS sections.  Post always uses the AI module to manage visa 
+foils, CRBAs, passport books and foils; all other accountable items 
+are tracked through a spreadsheet system maintained by the ACO.  The 
+physical inventory reconciles with the AI and ACO-file inventory 
+records.  The following officers participated in the inventories: 
+Richard Beer, Consul General; Julie Stufft, overall section ACO and 
+ACS ACO; Doug Johnston, NIV ACO, and Jessica Wolf-Hudson, IV ACO. 
+ 
+¶B. Guidance: 
+-  All consular officers have access to 7 and 9 FAM, 7 FAH and CA 
+web on their desktops as Qfavorites.Q  Moscow officers have access 
+to classified references (including CAWeb) and are encouraged to 
+read classified traffic at least bi-monthly (classified access is 
+located in another building).  Consular supervisors routinely stress 
+that only official Department guidance should be consulted. No one 
+should be using training materials or outdated SOPs as references. 
+-  All consular officers in Moscow have access to classified systems 
+located in another building.  Consular officers from the St. 
+Petersburg and Yekaterinburg consulates travel to Moscow quarterly 
+in order to read classified material.  MoscowQs Consular Section 
+facilitates their travel, lodging and classified access. For reasons 
+of cost and travel convenience, the lone consular officer at 
+Consulate Vladivostok travels to Embassy Seoul for quarterly access 
+to the classified system.  The Consular Chief checks the classified 
+system daily and, in his absence, the acting Consular Chief does the 
+same.  Other supervisory officers check the classified system on at 
+least a weekly basis. 
+ 
+¶C.  Consular Shared Tables (CST) Management:  Post has reviewed its 
+CST tables and verifies it is in full compliance; CST roles are 
+checked by the FPM on a monthly basis to ensure that they are 
+accurate in the system.   RSO staff has non-consular roles in INK, 
+NIV and CCD.  All parser roles have been disabled in CST.  All 
+adjudicatory and management roles are limited to American consular 
+officers.  ACOs for fees have separate user IDs for ACRS and ACOs 
+were advised to set different passwords for ACRS.  LES consular 
+cashiers have been set up with different user IDs and passwords in 
+ACRS as well.  Systems passwords are periodically reset (when the 
+system prompts a change) and are self selected by the individuals. 
+Only the individual user has access to their individual passwords 
+and passwords are never shared. 
+ 
+¶D. Physical Access: 
+-  Regular access is limited to consular section employees and those 
+whose responsibilities require access.  Currently two employees of 
+our courier service, Pony Express, also have a door combination 
+which allows access during business hours for passport pick-up and 
+delivery.  We recognize this is a vulnerability and have requested 
+construction of an entrance with access remotely controlled by an 
+MSG or local guard.  Pending construction of that access, we are 
+installing a buzzer and changing the door combination.  When 
+complete, Pony Express employees will have to press the buzzer for 
+access.  These contract employees, due to the nature of their work, 
+require frequent access. 
+- LES personnel are not present outside of office hours unless a 
+cleared American is present.  During working hours, controlled items 
+are secured if an American consular officer is not present. 
+ 
+¶E. Access to PII: Post confirms that collection of PII is kept to a 
+minimum.  Access to consular systems containing PII is controlled 
+and limited to consular section employees or those with a legitimate 
+need to see this information; PII is properly secured after business 
+hours.  Post has not had any incidents of disclosure of PII. 
+ 
+¶F. Control/Reconciliation/Destruction of Accountable Items: Post 
+confirms that accountable consular items are controlled, handled, 
+destroyed and accounted for in accordance with 7 FAH-1 H-600.  The 
+AI module is being used for reconciling daily usage of accountable 
+consular supplies.  Post has not had any instance of a missing 
+controlled item in the last twelve months, but reported the loss of 
+two missing passport-application barcodes in January 2010, after the 
+barcodes lost adhesion and fell from the roll.  Post is properly 
+destroying spoiled consular accountable items and recording their 
+witnessed destruction in AI when applicable.  Post recently sent two 
+cables (09 Moscow 2612 and Moscow 3156) including serial numbers of 
+presumed-destroyed items, dating back to 2002, which were still 
+listed in AI as not destroyed; ACO destroyed these in the AI system 
+per Department guidance. 
+ 
+ 
+¶G. Cash Accountability:  Post confirms that the Accountable Consular 
+Officer, alternates, and consular sub-cashiers, have been designated 
+using the model letters found on the CA web.  The ACO and alternates 
+have completed PC-417, and all consular cashiers and alternates have 
+successfully completed PC-419.  The ACO has on file the Daily 
+Accounting sheets for the last twelve months signed by both the FMO 
+and ACO, noting no discrepancies between cash count and ACRS 
+records. 
+ 
+¶H. Periodic Comparison of MRV fees and NIV applications:  Post 
+confirms the regular and robust periodic comparison of MRV fees and 
+applications on a weekly basis.  When postQs ACO receives deposit 
+reports from the off-site fee collection agency, she verifies these 
+against OF-158 receipts issued by postQs Class B cashier, and 
+creates a weekly report comparing the number of NIV applications and 
+the fees registered for that month. Post is using the DS-160. Under 
+current arrangements with our offsite collection agency, it produces 
+one copy of the MRV receipt, which is attached to the passport and 
+initialed by the officer at the time of visa adjudication, to 
+prevent its re-use. At present the offisite collection agency is 
+unable to generate a second copy of the MRV receipt for retention by 
+us. Given these new reconciliation procedures, we will request that 
+the agency do this. 
+ 
+¶I. Referral System: Post certifies it is in full compliance with the 
+Worldwide Referral Policy. All Mission officers are required to 
+attend a referral briefing and submit a signed compliance agreement 
+before they can submit referrals. Only officers under COM authority 
+are permitted to submit referrals and all referral data is captured 
+in the NIV system. The section chief personally reviews every 
+referral (A and B) upon submission and before data entry, to confirm 
+that it meets referral criteria, and returns to the referring 
+officer with an explanation those that do not meet criteria. 
+Referrals are reviewed for fraud trends. Only tenured officers 
+adjudicate Class B referrals. The section chief adjudicates all 
+Class A referrals. Referrals from within the Consular section and 
+from all other sections and agencies are handled in an identical 
+manner. 
+ 
+¶J. Training: 
+-  All American and locally employed staff are adequately trained 
+for their responsibilities, including awareness of fraud in visa 
+applications and other benefits. 
+-  All cashiers have completed PC-419.  All officers and some 
+locally employed staff have completed PC 441;  those who have not 
+yet taken the course are currently registered and in the process of 
+completing the on-line class. 
+-  All ACOs have completed PC-400 and PC-417, as appropriate. 
+ 
+¶K.  Standards of Employee Conduct:  We reviewed the DepartmentQs 
+Standards of Ethical Conduct for Employees of the Executive Branch 
+during one of our regularly scheduled training days and provided 
+each officer with a copy of those standards.  The Consul General 
+made particular application of these standards to our local context. 
+ There are no influences brought to bear on either the visa or 
+passport process that would lead to any perception of impropriety. 
+Officers are instructed to recuse themselves from cases where there 
+may be a real or perceived conflict of interest.  The Consular 
+Section is in compliance with the Department standards on gift 
+giving and receiving.  The Consul General makes a practice of 
+reminding/reinforcing these standards regularly during weekly staff 
+meetings and our monthly Consular training days.  We have reminded 
+all members of the Consular Section of the reporting requirements 
+and options for reporting possible unethical or malfeasant 
+behavior. 
+ 
+ ¶L.  Namecheck and Clearance Reviews:  All consular officers are 
+aware of and comply with VLA requirements.  Officers understand that 
+if a there is insufficient biographical data to exclude a hit or if 
+the hit is a close match, that it should be treated as if it were a 
+match. 
+ 
+¶M.  Visa Lookout Accountability (VLA):  Consular supervisors review 
+a random sampling of issuances to verify that adjudicating officers 
+comply with VLA procedures.  In addition, bimonthly the FPM pulls 
+the CCD generated report that deals with QIssuances over CAT 1 hits 
+to ensure that officers are compliant with the guidelines. Over the 
+past year, we have held two training sessions on VLA procedures and 
+guidelines.  When new officers arrive at Post, VLA responsibilities 
+are explained in detail. 
+ 
+¶N.  Intake, Interview, and Screening :  The NIV and IV Units are in 
+full compliance with Department instructions regarding intake, 
+interview and screening.  LESs data enter, screen for completeness 
+of documentation and take fingerprints.  They do not ask further 
+questions or make notes.  LESs do not turn away anyone who has paid 
+the MRV fee.  If an application is incomplete, an officer refuses 
+221(g).  IV applicants are interviewed by an officer and refused 
+221(g) if they are missing any required documents. 
+ 
+¶O.  Oversight of processing: 
+- Adequate supervision of processing is exercised by American 
+officers. 
+-  The layout of the antiquated annex building which houses the 
+Consular section makes it difficult to co-locate cleared Americans 
+with local staff in every case.  However, we have improved 
+co-location during the past year.  A new Immigrant Visa furniture 
+configuration, when completed, will improve line of site in that 
+unit. 
+- The NIV Unit moved its visa printing operation to improve line of 
+site supervision.  Due to the physical layout of the IV Unit, there 
+is currently not line of sight of visa printing stations in IV, 
+although a planned reconfiguration of the IV Unit in the coming 
+months will provide direct officer line-of-sight over all printers 
+in the IV Unit. 
+- The IV Unit Chief exercises oversight of the panel physicians 
+located in Moscow, including occasional unannounced visits.  The 
+most recent unannounced visit occurred in January and February 2010. 
+ The Consul in Vladivostok exercises direct oversight of the panel 
+physicians located in Vladivostok and visited the clinic last year. 
+At that time, he found all procedures to be in accordance with FAM 
+guidance.  The Vladivostok-based panel physician divides her time 
+between a local hospital and the clinic where IV medical 
+examinations are conducted, making it difficult to conduct an 
+unannounced visit, but the Consul in Vladivostok plans to complete 
+an unannounced visit in mid-March. 
+ 
+¶P.  Biometric collection:  The Consular Section is in compliance 
+with Bio/Visa Enrollment policy and procedures found in 9 FAM 
+Appendix L.  LES collect fingerprints and American Officers verify 
+them.  Where fingerprint quality is too low for verification, an EFM 
+collects fingerprints. 
+ 
+¶Q.  Photo Standards:  Post rigorously applies the photo standards of 
+the Department.  Fortunately, most of our applicants visit a Pony 
+Express contractor site prior to submission of application.  Pony 
+Express advises applicants to replace unacceptable photos with 
+proper photos before applicants visit us or before they send their 
+applications to us, in the case of interview waiver candidates.  If 
+a photo is dated, we refuse the case 221(g) and request a new 
+photo. 
+ 
+¶R.  Visa Adjudication Oversight: 
+-  NIV refusals and issuances are reviewed electronically daily by 
+the appropriate supervisors in the chain of command.  If a 
+supervisory officer determines that an error was made during initial 
+adjudication, the supervisory officer re-interviews the applicant 
+and speaks with the adjudicating officer prior to adjudicating the 
+case under his/her own login. In these rare cases, the supervisory 
+officer enters a thorough explanation in the system.  Per 
+DepartmentQs guidance, all of visa applicants for whom a personal 
+appearance is required are being interviewed. 
+-  The Fraud Prevention Unit (FPU) regularly reviews issuance 
+patterns to third country nationals and reports trends to the Consul 
+General and to all adjudicating officers.  Russian posts are 
+authorized to adjudicate Belarusian visa applicants (they are not 
+considered to be applying out-of-district) due to understaffing in 
+Minsk.  FPU regularly conducts validation studies of these 
+applicants and reports its findings. 
+-  We do not have a written re-application process.  Applicants may 
+apply at a time of their choosing through  normal visa application 
+procedures. 
+ 
+¶S.  Files:  Post confirms that it is compliant with the records 
+disposition schedule in 9 FAM Appendix F.  In December 2009, we 
+began using the on-line CEAC application for all NIV applicants and 
+therefore, we no longer keep paper records after the NIV case is 
+closed.  Additionally, all consular employees, officers, LES and 
+EFMs, understand and abide by INA 222(F). 
+ 
+¶T. Passports and CRBAs: Post confirms that procedures are in place 
+to ensure the accuracy and integrity of the U.S. passport and CRBA 
+functions.  Post conducts namechecks for all 
+passport services, including extra visa pages.  The ACS Unit Chief 
+audits passport cases adjudicated at post for accuracy, 
+completeness, and fraud detection purposes. 
+ 
+ 
+¶U.  Fraud Prevention Programs: Post confirms that there is active 
+oversight of the Fraud Prevention Unit by a tenured, mid-level 
+consular officer.  All consular officers use the electronic system 
+to refer cases to the FPU for investigation.  These cases are first 
+reviewed by the Fraud Prevention Manager (FPM) and then the notes 
+are inserted into the case instructing what action is required by 
+the LES.  To ensure that the reports are unbiased and accurate and 
+that no further action is required all investigation reports are 
+reviewed by the FPM prior to processing the results in the system. 
+The FPM randomly selects one to two cases a month to verify the 
+results.  We have not conducted a field investigation over the past 
+year, but in the event that a field investigation was required, a 
+consular officer would accompany the LES. 
+ 
+¶V.  Wilberforce Act:  The Consular Section conducted Wilberforce 
+training on one of its regularly scheduled training days.  The same 
+information was conveyed to constituent posts during one of our 
+monthly digital video conferences.  Moscow designated an officer to 
+ensure compliance with the Wilberforce Act.  Moscow has sufficient 
+copies of the brochures on hand and officers ensure that every 
+affected applicant reads and understands the brochure. 
+ 
+¶W.  Oversight of Applicant Service Centers (ASCs):  Not applicable. 
+ 
+¶X.  Consular Agents:  A new Consular Agent was recently designated 
+for Yuzhno-Sakhalinsk, in the Russian Far East. He is under the 
+supervision of Consulate Vladivostok, although Embassy Moscow is 
+handling matters relating to his accreditation by the Russian 
+government. 
+ 
+BEYRLE

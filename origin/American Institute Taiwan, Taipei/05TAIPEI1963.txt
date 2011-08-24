@@ -1,0 +1,183 @@
+05TAIPEI1963
+TAIWAN'S RFID INDUSTRY - LOTS OF HYPE, LIMITED
+Fri Apr 29 00:00:00 +0200 2005
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+American Institute Taiwan, Taipei
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 TAIPEI 001963 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+DEPT FOR EAP/TC 
+DEPT PLEASE PASS AIT/W 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EIND AA TW CH
+SUBJECT: TAIWAN'S RFID INDUSTRY - LOTS OF HYPE, LIMITED 
+POTENTIAL 
+ 
+ 
+Summary 
+------- 
+ 
+¶1. (SBU) Taiwan industry and government is seriously 
+interested in the economic potential of radio frequency 
+identification technology.  Much of the focus is on 
+logistics/supply chain management systems that would 
+require a universal standard and inexpensive tag 
+manufacturing.  Taiwan observers believe that the EPCglobal 
+standard, favored by U.S. industry, will become dominant 
+globally.  They are little concerned about PRC efforts to 
+develop a unique proprietary standard.  Predictions vary 
+about how soon tag prices will drop to levels that make 
+widespread RFID supply chain management feasible.  Taiwan 
+currently has an advantage in the manufacturing of tags and 
+possibly the readers also.  However, Taiwan industry and 
+policy makers should also seek to develop the island's 
+potential to produce integrated RFID supply chain 
+management systems, if the RFID industry is to become a new 
+source of sustained economic growth.  End summary. 
+ 
+The Hype 
+-------- 
+ 
+¶2. (U) Wal-Mart's requirement that its top suppliers attach 
+radio frequency identification (RFID) tags to certain 
+products has dramatically increased expectations about the 
+growth of the RFID industry and its potential to spur 
+economic growth in Taiwan.  Many Taiwan firms are preparing 
+to take advantage of the expected boom in the RFID 
+industry.  Major multi-nationals including HP and Microsoft 
+have established research facilities in Taiwan to develop 
+RFID hardware and applications.  The Taiwan government's 
+Industrial Development Bureau offers subsidies for firms 
+developing RFID technology, and the quasi-government 
+Industrial Technology Research Institute (ITRI) has 
+established the "RFID Research and Industrial Application 
+Alliance" with private sector partners.  Nevertheless, the 
+real economic potential of RFID is still not clear. 
+ 
+Options for Taiwan Business - Two Systems... 
+-------------------------------------------- 
+ 
+¶3. (SBU) There are numerous potential applications for RFID 
+technology.  Many Taiwan entrepreneurs break down potential 
+business opportunities into two types of systems -- open and 
+closed.  Open systems include the type of broad 
+logistics/supply chain management systems that are required 
+to implement Wal-Mart's new mandates.  This kind of system 
+has two crucial features.  First, the system must have 
+universal standards so that many different firms can access 
+information recorded on RFID tags.  This has caused some 
+international concern, particularly about PRC moves to 
+establish its own proprietary standards.  However, Taiwan 
+RFID industry executives and analysts express few concerns 
+about PRC efforts to develop unique standards.  Most 
+believe that the EPCglobal standard, favored by U.S. 
+industry, will become the dominant standard for supply 
+chain management globally.  Taiwan's ITRI is a member of 
+the EPCglobal Inc., the industry organization that 
+developed the standard.  (Note: EPC stands for electronic 
+produce code.  End note.) 
+ 
+¶4. (SBU) In addition, an effective logistics/supply chain 
+management system will require low-cost, mass-produced 
+tags.  Otherwise the savings offered by more efficient 
+supply chain management will be eaten up by the cost of 
+implementing the system.  Industry insiders frequently cite 
+a cost of USD 0.05 per tag or less as the break even point 
+for an overall cost savings system.  David Wang, the 
+Chairman of Avisotech and a businessman who is active in 
+Taiwan government and industry association efforts develop 
+the RFID industry in Taiwan, doubts the cost of materials 
+will permit production of economically efficient RFID tags 
+in the near future.  However, Huang Chi-fang, an 
+engineering professor at Taiwan's Tatung University, who 
+works on the development of RFID tag antennas, told AIT/T 
+that the costs have already dropped below USD 0.25 per tag 
+and would fall to USD 0.05 within two years. 
+ 
+¶5. (U) Closed systems, on the other hand, can operate with 
+unique standards and less concern about the tag costs. 
+This kind of system includes medical records and supply 
+management in hospitals and other healthcare facilities; 
+security systems, such as port container security programs; 
+mobile payment systems for toll roads, public 
+transportation and similar services.  Tags can frequently 
+be reused in these types of closed systems and are 
+generally used in more limited quantities.  Because the 
+costs of the tags are less important, some Taiwan firms are 
+already making money by providing components for this kind 
+of system. 
+ 
+...and Three Products 
+--------------------- 
+ 
+¶6. (U) Any kind of RFID system has three basic components 
+-- tags, readers and systems.  Taiwan firms have already 
+identified the manufacture of tags and to a lesser extent 
+readers as the areas where they can compete 
+internationally.  Because the tags basically consist of a 
+chip attached to an antenna, Taiwan's powerful 
+semiconductor manufacturing industry gives it an advantage 
+in that area.  However, Taiwan firms have all but abandoned 
+ambitions to provide integrated systems.  Although Taiwan 
+firms might manufacture the computers and servers that are 
+key components, they assume that firms like IBM, Microsoft 
+and HP will dominate the industry in designing and 
+marketing integrated systems. 
+ 
+Future Potential 
+---------------- 
+ 
+¶7. (U) Taiwan already has a good start in the RFID tag 
+market.  ITRI predicted last year that 2004 production of 
+tags and readers by Taiwan firms would reach NT$ 5 billion 
+(over USD 150 million).  According to a study by the 
+International Data Corporation, the annual growth rate for 
+the RFID industry will reach 73 percent for the next four 
+years.  In 2008, the global market for tags would reach USD 
+5.6 billion with as much as half produced by Taiwan firms. 
+The study predicts the market for readers will total USD 
+4.8 billion and USD 9.6 billion for integrated systems. 
+However, Taiwan firms are likely to claim only one percent 
+of the systems market. 
+ 
+¶8. (SBU) Taiwan's lack of competitiveness in the systems 
+market is already apparent in the domestic market.  The key 
+players in the emerging RFID systems market are local firms 
+acting as the agents for U.S. companies.  Fortune 
+Information Systems Co., which claims a customer base with 
+more than NT$ 100 billion (USD 3.2 billion) in sales, 
+provides systems produced by SSA Global, a U.S. firm. 
+Ascent Technology is an agent of the U.S. firm Savi 
+Technology Inc., which provides port security RFID 
+technology to Kaohsiung Harbor. 
+ 
+Comment - Moving Beyond Tags 
+---------------------------- 
+ 
+¶9. (SBU) Taiwan firms are well placed to capture a large 
+share of the global RFID tag market and will probably also 
+be quite competitive in reader production as the RFID 
+industry expands.  The island's expertise in using original 
+equipment manufacturing (OEM) and original design 
+manufacturing (ODM) manufacturing models to reduce costs as 
+well as its strong foundation in information technology, 
+communications equipment, and semiconductor manufacturing 
+will be a key advantage.  However, tag and reader 
+manufacturing may not offer Taiwan much in stimulating 
+sustained economic growth.  Price pressures will keep RFID 
+tag manufacturing margins razor thin.  This is exactly the 
+kind of low margin production that is already moving 
+wholesale to Mainland China causing fears of "hollowing- 
+out" and "marginalization" of the Taiwan economy.  Taiwan 
+businesses and economic policy makers should seek to expand 
+Taiwan's potential to capture more of the systems 
+integration market for the RFID industry.  This is the kind 
+of "knowledge-based" industry that Taiwan seeks to 
+encourage and that will allow it to advance economically as 
+manufacturing moves increasingly to low wage countries like 
+the PRC.  End comment. 
+PAAL

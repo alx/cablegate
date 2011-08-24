@@ -31,12 +31,94 @@ TAGS: PGOV SOCI AMED SMIG LY
 SUBJECT: HIV INFECTION RATES IN LIBYA MAY BE SIGNIFICANTLY HIGHER 
 THAN PREVIOUSLY ESTIMATED 
  
-¶1. (SBU) Summary: In a recent televised interview, Libya's leading HIV/AIDS prevention official said the number of Libyans infected with HIV could be as high as 70,000 individuals, representing some 1.13 percent of the total population. Previous estimates had put the number at .6 percent (about 37,000 people) to one percent (about 61,000 people). Intravenous drug use and risky sexual behavior constitute the most prevalent disease vectors.  Given the difficulty of obtaining reliable statistics in Libya, the estimate of 70,000 cases of HIV-positive cases is useful, although the presence of a large migrant population from sub-Saharan Africa and lack of clarity about the extent of intravenous drug use and risky sexual behavior suggest that the real figure of HIV-positive cases could be still higher.  End summary.  
-
-¶2.  (SBU)  On the occasion of World AIDS Day on December 1, Dr. Muhammad Sammud, Director of Libya's HIV/AIDS prevention program at the National Center for Infectious Diseases was interviewed on state-owned television about the country's efforts to track and prevent the spread of the disease in Libya.  The interview also appeared on satellite channel al-Jazeera.  Dr. Sammud said the government had recently tested some 70,000 people for HIV in an effort to obtain a valid statistical sample that would help determine HIV infection rates in Libya.  He said there were 10,600 known cases of Libyans infected with HIV in the country; however, he pointed out that epidemiologists typically multiply the number of known cases by a factor of six in developing countries since testing protocols and concerns among infected individuals about stigmatization often lead to a dramatic under-representation of the actual number of cases.  Using this approach, he said the number of Libyans who are HIV-positive could be as high as 70,000. (Note: It was not clear whether the 70,000 individuals tested included members of the Libya's large migrant community, many of whom are from sub-Saharan Africa. Some estimates put that population at about two million people. End note.)  
-
-¶3.  (SBU)  In a recent meeting sponsored by the EU's HIV/AIDS Action Plan for Benghazi, an HIV-positive rate of 0.6 percent among Libyans was given.  Using the 2007 CIA World Factbook's total population figure of 6,173,579, that represents about 37,000 people.  But some studies, including ones undertaken by the Government of Libya (GOL), UNAIDS and the U.K., suggest that the prevalence of HIV among Libyans engaged in risky behavior approaches one percent (about 61,000 people out of the total population).  The figure of 70,000 individuals cited by Dr. Sammud would represent about 1.13 percent, significantly larger than previous estimates.  
-
-¶4. (SBU) The first cases of HIV infection in Libya were detected in 1985 among hemophiliacs, who contracted HIV from Factor VIII imported from Europe.  National AIDS Programme (NAP) figures showed that since 1998 there has been an alarming increase in the number of HIV-positive cases, a period that coincided with the infection of some 429 children at the Benghazi Children's Hospital.  (Note: The GOL claimed those infections had been deliberately perpetrated by a group including five Bulgarian nurses and a Palestinian doctor, who allegedly injected the children with the virus.  End note.)  UNAIDS and NAP estimate that 90 percent of adult infections in Libya result from intravenous drug use.  Although the NAP has promulgated a multi-pronged awareness campaign since 2002, HIV/AIDS remains a heavily stigmatized illness because of its associations with drug abuse and extra-marital sexual relations.  The head administrator of a leading medical center in Tripoli told us earlier this year that Libyan health officials were also increasingly concerned about the large number of Libyan men, married and unmarried, who frequent prostitutes but do not use protection, representing another potentially significant vector for the disease.  
-
-¶5.  (SBU)  Comment: The recent television interview of the country's leading authority on HIV/AIDS represented a rare bit of public candor from Libya's health officials.  More typical is a reluctance to say anything to the public, as in the case of a recent outbreak of "bluemouth disease" among sheep.  The outbreak occurred on the eve of the Eid al-Adha holiday, which families typically celebrate by eating mutton.  This year, rumors about the extent of the bluemouth outbreak and the impact of the disease on humans prompted many Libyans to celebrate Eid  TRIPOLI 00000970  002 OF 002   al-Adha with chicken.  Given the difficulty of obtaining reliable statistics in Libya, the estimate of 70,000 cases of HIV-positive cases is useful, although the large migrant population and lack of clarity about the extent of intravenous drug use and risky sexual behavior suggest that the real figure of HIV-positive cases could be still higher.  End comment. GODFREY
+¶1. (SBU) Summary: In a recent televised interview, Libya's 
+leading HIV/AIDS prevention official said the number of Libyans 
+infected with HIV could be as high as 70,000 individuals, 
+representing some 1.13 percent of the total population. 
+Previous estimates had put the number at .6 percent (about 
+37,000 people) to one percent (about 61,000 people). 
+Intravenous drug use and risky sexual behavior constitute the 
+most prevalent disease vectors.  Given the difficulty of 
+obtaining reliable statistics in Libya, the estimate of 70,000 
+cases of HIV-positive cases is useful, although the presence of 
+a large migrant population from sub-Saharan Africa and lack of 
+clarity about the extent of intravenous drug use and risky 
+sexual behavior suggest that the real figure of HIV-positive 
+cases could be still higher.  End summary. 
+ 
+¶2.  (SBU)  On the occasion of World AIDS Day on December 1, Dr. 
+Muhammad Sammud, Director of Libya's HIV/AIDS prevention program 
+at the National Center for Infectious Diseases was interviewed 
+on state-owned television about the country's efforts to track 
+and prevent the spread of the disease in Libya.  The interview 
+also appeared on satellite channel al-Jazeera.  Dr. Sammud said 
+the government had recently tested some 70,000 people for HIV in 
+an effort to obtain a valid statistical sample that would help 
+determine HIV infection rates in Libya.  He said there were 
+10,600 known cases of Libyans infected with HIV in the country; 
+however, he pointed out that epidemiologists typically multiply 
+the number of known cases by a factor of six in developing 
+countries since testing protocols and concerns among infected 
+individuals about stigmatization often lead to a dramatic 
+under-representation of the actual number of cases.  Using this 
+approach, he said the number of Libyans who are HIV-positive 
+could be as high as 70,000. (Note: It was not clear whether the 
+70,000 individuals tested included members of the Libya's large 
+migrant community, many of whom are from sub-Saharan Africa. 
+Some estimates put that population at about two million people. 
+End note.) 
+ 
+¶3.  (SBU)  In a recent meeting sponsored by the EU's HIV/AIDS 
+Action Plan for Benghazi, an HIV-positive rate of 0.6 percent 
+among Libyans was given.  Using the 2007 CIA World Factbook's 
+total population figure of 6,173,579, that represents about 
+37,000 people.  But some studies, including ones undertaken by 
+the Government of Libya (GOL), UNAIDS and the U.K., suggest that 
+the prevalence of HIV among Libyans engaged in risky behavior 
+approaches one percent (about 61,000 people out of the total 
+population).  The figure of 70,000 individuals cited by Dr. 
+Sammud would represent about 1.13 percent, significantly larger 
+than previous estimates. 
+ 
+¶4. (SBU) The first cases of HIV infection in Libya were detected 
+in 1985 among hemophiliacs, who contracted HIV from Factor VIII 
+imported from Europe.  National AIDS Programme (NAP) figures 
+showed that since 1998 there has been an alarming increase in 
+the number of HIV-positive cases, a period that coincided with 
+the infection of some 429 children at the Benghazi Children's 
+Hospital.  (Note: The GOL claimed those infections had been 
+deliberately perpetrated by a group including five Bulgarian 
+nurses and a Palestinian doctor, who allegedly injected the 
+children with the virus.  End note.)  UNAIDS and NAP estimate 
+that 90 percent of adult infections in Libya result from 
+intravenous drug use.  Although the NAP has promulgated a 
+multi-pronged awareness campaign since 2002, HIV/AIDS remains a 
+heavily stigmatized illness because of its associations with 
+drug abuse and extra-marital sexual relations.  The head 
+administrator of a leading medical center in Tripoli told us 
+earlier this year that Libyan health officials were also 
+increasingly concerned about the large number of Libyan men, 
+married and unmarried, who frequent prostitutes but do not use 
+protection, representing another potentially significant vector 
+for the disease. 
+ 
+¶5.  (SBU)  Comment: The recent television interview of the 
+country's leading authority on HIV/AIDS represented a rare bit 
+of public candor from Libya's health officials.  More typical is 
+a reluctance to say anything to the public, as in the case of a 
+recent outbreak of "bluemouth disease" among sheep.  The 
+outbreak occurred on the eve of the Eid al-Adha holiday, which 
+families typically celebrate by eating mutton.  This year, 
+rumors about the extent of the bluemouth outbreak and the impact 
+of the disease on humans prompted many Libyans to celebrate Eid 
+ 
+TRIPOLI 00000970  002 OF 002 
+ 
+ 
+al-Adha with chicken.  Given the difficulty of obtaining 
+reliable statistics in Libya, the estimate of 70,000 cases of 
+HIV-positive cases is useful, although the large migrant 
+population and lack of clarity about the extent of intravenous 
+drug use and risky sexual behavior suggest that the real figure 
+of HIV-positive cases could be still higher.  End comment. 
+GODFREY

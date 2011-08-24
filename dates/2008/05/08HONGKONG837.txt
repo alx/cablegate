@@ -1,0 +1,104 @@
+08HONGKONG837
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: FABRICATORS
+Thu May 08 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHHK #0837 1290107
+ZNR UUUUU ZZH
+R 080107Z MAY 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 4820
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000837 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: FABRICATORS 
+INTERNATIONAL LIMITED 
+ 
+REF: A) USDOC 01527 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) was 
+requested to conduct a post-shipment verification (PSV) at 
+Fabricators International Limited (Fabricators), Unit 2509, 
+Metropole Square, 2 On Yiu, Shatin, Hong Kong (Fabricators).  The 
+items in question are 4000 un-mounted chips exported to Fabricators 
+on or about August 23, 2007 and valued at approximately USD 2,900. 
+The items are classified under Export Control Classification Number 
+(ECCN) 3A001.  This ECCN is controlled for National Security (NS) 
+and Anti-Terrorism (AT) reasons. The exporter was Global Access 
+Unlimited, Inc. of Largo, Florida. 
+ 
+¶3. A review of Hong Kong Companies Registry reveals that Fabricators 
+was registered in 1976 and has registered capital of the Hong Kong 
+equivalent of USD 40,000.  Its directors are U.S. nationals James L. 
+Gaza, Stephen Morris McClure, Stuard Burr Oakes, John Paul Petrillo 
+and Hong Kong resident Wong, Wai Man. 
+ 
+¶4.  Fabricators is part of the International Components Corporation 
+group of companies.  International Components Corporation (ICC) 
+designs and manufactures power supplies, battery solutions and 
+chargers (more information on the company may be found at 
+www.iccus.com). Elpac Power Systems (Elpac) (the bill-to company on 
+the Global Access Unlimited invoice provided to ECO by OEA) is also 
+a subsidiary of International Components Corporation.  In sum, all 
+of the parties to the transaction that is the subject of this PSV 
+are corporate affiliates of each other. 
+ 
+¶5.  On April 28, 2008, ECO and Commercial Assistant Carrie Chan 
+visited Fabricators and met with Mr. Ice L.K. Chan, Assistant 
+Administrator and Personnel Officer.  She stated that Fabricators in 
+Hong Kong has no manufacturing capacity but acts merely as a 
+shipping logistics center for the mainland China production 
+facilities of International Components Corporation (including 
+Elpac).  She further stated that neither Fabricators nor Elpac sell 
+any of the components they receive, as components.  Rather, they act 
+as contract manufacturers.  It is typically the contracting company 
+that designates the input suppliers for the company's end products. 
+She further stated that Fabricators will likely reduce its presence 
+in Hong Kong and only retain its warehouse there.  She is due to be 
+laid off shortly. 
+ 
+¶6.  When asked about the shipment in question, Ms. Chan stated that 
+she was unable to locate the shipment based on the information 
+provided by the ECO (including an invoice and information about the 
+date of shipment).  She showed the ECO documentation from other 
+similar shipments that included the airway bill.  ECO was informed 
+by OEA that the exporter was unable to locate the applicable airway 
+bill and therefore could not provide that information to the ECO. 
+As a result, ECO was unable to verify the shipment.  Based on a 
+totality of the circumstances, ECO believes these items most likely 
+ended up at Fabricators's mainland production affiliate. 
+ 
+¶7.  Ms. Chan conceded that Fabricators does not obtain Hong Kong 
+import and export licenses for the applicable items. If classified 
+correctly by the exporter, these items would likely require a 
+license for import into and reexport from Hong Kong.  ECO requests 
+that OEA conduct a commodity classification of the items to 
+determine whether the exporter classified these items properly.  If 
+so, ECO may reach out to Hong Kong authorities regarding this 
+apparent violation of Hong Kong law. 
+ 
+¶8.  In addition, ECO recommends that the BIS Office of Export 
+Enforcement conduct an outreach to the exporter to determine why it 
+failed to retain the appropriate records of the export as required 
+by the Export Administration Regulations. Also, ECO recommends that 
+OEA determine whether the items qualify for license free shipment to 
+mainland China since some subparagraphs of ECCN 3A001 would require 
+such a license if exported to mainland China in this way. 
+ 
+Cunningham

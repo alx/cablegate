@@ -1,0 +1,67 @@
+08ADANA37
+CA/CST INSTALLATION/TRAINING EXIT TELEGRAM
+Mon Oct 06 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Adana
+VZCZCXRO9137
+RR RUEHDA
+DE RUEHDA #0037 2801033
+ZNR UUUUU ZZH
+R 061033Z OCT 08
+FM AMCONSUL ADANA
+TO RUEHC/SECSTATE WASHDC 4671
+INFO RUEHAK/AMEMBASSY ANKARA 1214
+RUEHDA/AMCONSUL ADANA 1276UNCLAS ADANA 000037 
+ 
+SIPDIS 
+ 
+FOR: CONS IM ADM 
+ 
+E.O. 12958: N/A 
+TAGS: KCSY CMGT AADP CVIS CPAS
+SUBJECT: CA/CST INSTALLATION/TRAINING EXIT TELEGRAM 
+ 
+¶1.      Visit summary: 
+ 
+¶A.      Post visited:  Adana 
+¶B.      CA/CST installation and training team members: 
+ 
+                Nicholas A. Lombardo 
+                Alvin J. Brown 
+ 
+¶C.      Post visit dates:  09/08/08 - 09/16/08 
+¶D.      Post personnel contacted: 
+                Robin D. Solomon; Justin Crevier; Sema Demirer 
+ 
+¶2.      Work summary: 
+ 
+¶A.      Provided post all necessary user training for modernized 
+consular systems applications per the refresher trip plan. 
+¶B.      Provided post all necessary system administrator training 
+for all modernized consular system applications per the 
+refresher trip plan. 
+¶C.      All workstations and servers at post meet the latest 
+configuration and security standards per CA/CST checklists. 
+ 
+¶3.      CA/CST installation and training work/action pending: 
+ 
+¶A.      None 
+ 
+¶4.      Post work/action pending: 
+ 
+¶A.      Team requested Robin Solomon to disable the following CST 
+accounts: LOMBARDON, BROWNA 
+¶B.      Team requested Sema Demirer to disable the following 
+Windows administrator account on the EUR domain: BROWNA 
+ 
+¶5.      Issues: 
+ 
+¶A.      No outstanding issues 
+ 
+ 
+¶6.      Post acceptance: Post thanks the Harris team for its 
+assistance, training, and hardware upgrade. The trip was 
+well-timed to bring new LES and FSO staff up to speed on 
+consular applications. 
+ 
+GREEN

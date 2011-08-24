@@ -1,0 +1,87 @@
+07HONGKONG2481
+EXTRANCHECK: PRE-LICENSE CHECK: PUBLIC SECURITY FORCES
+Tue Sep 25 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHHK #2481 2680231
+ZNR UUUUU ZZH
+R 250231Z SEP 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 3016
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002481 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/JSONDERMAN 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: PUBLIC SECURITY FORCES 
+AFFAIRS BUREAU 
+ 
+REF: A) USDOC 08156 B) EXP.LIC. 382586 C) HK 04112 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a pre-license check (PLC) at the Macau Public Security Forces 
+Affairs Bureau, Calcada Dos Quarteis, Macau (Macau Public Security). 
+The PLC concerned 170 items of Juniper Networks hardware and 
+software used in firewall, VPN, gateway, anti-spam and anti-hacking 
+applications. The total value of the proposed licensed transactions 
+is USD 3.8 million.  The transactions are the subject of license 
+application D382586.  The items are classified under ECCN 5A002 and 
+are controlled for national security reasons (NS). 
+ 
+¶3. On September 18, 2007 the ECO visited Macau Public Security at 
+the address above and met with several representatives of Macau 
+Public Security including Acting Director Sam Peng Chan, and Ms. 
+Elaine Ngan, Senior Technician of the Information Accessories 
+Division.  Mr. Sky Ho of Netcraft Information Technology (Macau) 
+Co., Ltd., the reseller in Macau, also attended the meeting. 
+(www.netcraft.com.mo) (Netcraft). 
+ 
+¶4.  Ms. Ngan stated that Macau Public Security had ordered only two 
+Juniper items, namely, one Juniper SSG140 Firewall and one SSG520 
+Firewall.  She stated that one item would be used at Macau Public 
+Security headquarters to enhance Macau Public Security's internal 
+security infrastructure.  A second unit would be installed at Macau 
+Public Security's disaster recovery site (currently located at the 
+former headquarters of the Macau Fire Services).  Ms. Ngan provided 
+a copy of the purchase order for the items that had been placed with 
+Netcraft.  She and Mr. Chan confirmed that Macau Public Security has 
+not ordered additional Juniper items.  Ms. Ngan stated that Macau 
+Public Security currently has older versions of these products but 
+needs better ones. 
+ 
+¶5.  Mr. Ho stated that Netcraft is providing only these two items 
+(referenced above) to Macau Public Security and has no other open 
+orders with Macau Public Security.  Netcraft is obtaining the items 
+from Cyberworld in Hong Kong. Mr. Ho stated that Netcraft is 
+purchasing the items from Cyberworld in this instance rather than 
+Juniper directly for what he characterized as business reasons. 
+Netcraft operates in Macau as well as mainland China but not in Hong 
+Kong. 
+ 
+¶6. At the time visited, Macau Public Security appeared to be a 
+suitable recipient of the subject controlled items since it 
+cooperated with the PSV and its activities are consistent with the 
+use of the two items ordered.  However, in light of the significant 
+disparity between the number of items for which a license is 
+requested in license application D382586 and the number apparently 
+ordered by Macau Public Security, the ECO recommends that this PLC 
+be considered Not Conclusive and that a further PLC be considered at 
+Cyberworld. 
+ 
+Cunningham

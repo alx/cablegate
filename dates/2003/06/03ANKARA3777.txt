@@ -1,0 +1,280 @@
+03ANKARA3777
+Request for Guidance on Iraq-Turkey Civair
+Wed Jun 11 00:00:00 +0200 2003
+UNCLASSIFIED
+Embassy Ankara
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 ANKARA 003777 
+ 
+SIPDIS 
+ 
+ 
+DEPT FOR EB/TRA/AN - JYOUNG, NEA/NGA - NJENSEN, EUR/SE 
+ROME FOR FAA 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: EAIR PREL TU IZ
+SUBJECT:  Request for Guidance on Iraq-Turkey Civair 
+Agreement 
+ 
+Ref:  Young/Sirotic Email 6/10/03 and previous 
+ 
+ 
+¶1.   Baghdad minimize considered. 
+ 
+ 
+¶2.   This cable contains an action request for the 
+Department in para 4. 
+ 
+ 
+¶3.  CENTAF contacted Embassy's Assistant Air Attache in 
+connection with the objective of establishing agreements 
+allowing civilian air traffic control between Turkey and 
+Iraq.  With respect to air traffic between Turkey and 
+Iraq, CENTAF is proposing a Letter of Agreement between 
+the Area Control Centers of Ankara and Kirkuk (see para 
+5 for draft text) to govern air traffic control between 
+the two countries.  CENTAF provided Embassy with a draft 
+LOA for submission to Turkish civair authorities and 
+proposes a visit to Ankara to complete this process. 
+ 
+ 
+¶4.  Action Request:  Embassy is prepared to work with 
+GOT authorities and CENTAF on this issue, but has 
+received no front-channel instructions.  Embassy 
+requests Department provide instructions for 
+transmitting the draft LOA to Turkish civil and military 
+authorities, and other steps as necessary to help 
+conclude this agreement. 
+ 
+ 
+¶5.  Begin Text Letter Of Agreement Between the Area 
+Control Centre of ANKARA, TURKEY and KIRKUK, IRAQ 
+ 
+ 
+Subject:  Procedures relating to the coordination and 
+routing of IFR air traffic between the ACC 
+of Ankara and Kirkuk. 
+ 
+ 
+¶1.   INTRODUCTION 
+ 
+ 
+1.1  Effective Date: DRAFT - TO BE COMPLETED BY TURKISH 
+AUTHORITIES 
+ 
+ 
+1.2  Objective:  This Letter of Agreement (LOA) 
+documents agreement of provisions for enroute air 
+traffic control service between the CTA/FIR of Ankara 
+and Baghdad.  It delineates coordination procedures, 
+establishes routing of IFR aircraft, and identifies 
+transfer of control for aircraft movement. 
+ 
+ 
+1.3  Scope:  This agreement applies to the United States 
+Air Force Air Traffic Control Area Control Center at 
+Kirkuk ("FREEDOM CONTROL") and Ankara Area Control 
+Center "ANKARA CONTROL".   The procedures contained in 
+this operational letter of agreement that supplement or 
+detail, when so required, the procedures prescribed by 
+ICAO in the pertinent documents, shall be applied to all 
+IFR aircraft that cross the common boundary of the 
+CTA/FIRs of Ankara and Baghdad.   Each ACC facility is 
+responsible for the implementation of and compliance 
+with the procedures contained within this Letter of 
+Agreement (LOA). 
+ 
+ 
+¶2.  CONTROL PROCEDURES 
+ 
+ 
+2.1  Routing of Air Traffic:  ATS route VR21/V21 shall 
+be the only ingress/egress route for Iraq.  The air 
+traffic between the CTA/FIRs of Ankara and Baghdad shall 
+be established within the confines of this ATS route 
+prior to KABAN Intersection as outlined in the AIP, 
+Baghdad FIR. 
+ 
+ 
+2.2  Separation 
+ 
+ 
+2.2.1 Vertical:  Reduced Vertical Separation (RVSM) 
+shall not be permitted within the lateral confines of 
+Iraq. 
+ 
+ 
+2.2.1.1   All transferring aircraft that enter the 
+respective ACC's CTA/FIR on ATS route VR21/R21 shall be 
+in level flight at an appropriate altitude for direction 
+of flight unless verbally coordinated. 
+ 
+ 
+2.2.2     Longitudinal:  During the transfer of control, 
+longitudinal separation shall be established between 
+aircraft at the same level, equal to or greater than 
+ICAO minimums.  Speed control will be applied between 
+aircraft that are at or near the minimum longitudinal 
+separation standards to prevent loss of separation. 
+This will ensure that separation is maintained until 
+another form of separation applied. 
+ 
+ 
+2.2.2.1   The minimal longitudinal separation to be used 
+between aircraft flying at the same altitude on the same 
+ATS route shall be fifteen (15) minutes.  If navigation 
+aids permit frequent determination of position and 
+speed, separation may be reduced to ten (10) minutes or 
+twenty (20) miles if each aircraft utilizes the same "on 
+track" DME station and DME readings are checked at 
+frequent intervals. 
+ 
+ 
+2.2.3     Transfer of Control Point (TCP): 
+ATS  Route VR21/R21      KABAN (CTA/FIR Boundary) 
+ 
+ 
+2.2.3.1   ACC's shall assume total control of aircraft 
+once it has been positively established that the 
+aircraft has passed KABAN Intersection and is inside the 
+CTA/FIR lateral limits unless verbally coordinated 
+otherwise. 
+ 
+ 
+¶3.   CO-ORDINATION PROCEDURES 
+ 
+ 
+3.1  General 
+ 
+ 
+3.1.1.    The coordination between the ACC of Ankara and 
+Kirkuk shall be effected in accordance with the 
+Standards, Recommended Practices, and procedures 
+prescribed by ICAO. 
+ 
+ 
+3.1.2.    The Ankara/Kirkuk (identify land line to be 
+used - TO BE COMPLETED BY TURKISH AUTHORITIES) telephone 
+line circuit shall be used as the primary means of 
+coordination for all active IFR air traffic. 
+ 
+ 
+3.1.1.1   In the event the above procedures cannot be 
+carried out because of failure of the Ankara/Kirkuk 
+circuit, co-ordination of all IFR air traffic shall be 
+effected as follows: 
+a) (Develop Alternate Plan - TO BE COMPLETED BY TURKISH 
+AUTHORITIES) 
+ 
+ 
+3.1.2     Positions serving as co-ordination points: 
+ATS Route             Point 
+ 
+ 
+VR21/R21       KABAN (CTA/FIR Boundary) 
+ 
+ 
+3.1.3     All coordination involving active IFR air 
+traffic shall be forwarded to the appropriate ACC at 
+least ten (10) minutes prior to the aircraft's estimate 
+for the position serving as the coordination point for 
+the ATS route involved. 
+ 
+ 
+3.1.3.1   The following coordination information shall 
+be passed: 
+a)   Aircraft Identification 
+b)   Type of Aircraft 
+c)   True Airspeed (TAS) 
+d)   Beacon Code 
+e)   Pilot's Estimated Time of Arrival Over KABAN 
+f)   Altitude 
+g)   Route of Flight (Departure airport and all routing 
+after coordination fix.) 
+h)   Any Other Pertinent Information 
+ 
+ 
+3.1.4     Emergencies:  The various circumstances 
+surrounding each emergency situation preclude the 
+establishment of exact detailed procedures.  AAC's shall 
+maintain full and complete coordination, and control 
+personnel shall use their best judgment in handling 
+emergency situations. 
+ 
+ 
+3.2  Communications 
+ 
+ 
+3.2.1     The transfer of air-to-ground communications 
+of an aircraft from the transferring ACC to the 
+receiving ACC shall be made at least five (5) minutes 
+prior to the estimated time of arrival over the 
+coordination fix. 
+ 
+ 
+3.2.2     The receiving ACC shall not notify the 
+transferring ACC that it has established ground-to-air 
+communications with the transferred aircraft unless 
+specifically requested to do so. 
+ 
+ 
+3.2.3     Ankara ACC shall transfer aircraft 
+communications to "Freedom Control" on 126.3 or 237.3 
+MHz. 
+ 
+ 
+3.2.3.1   In the event radio communication cannot be 
+established with Freedom Control, Ankara will instruct 
+aircraft to "re-attempt contact every 5 minutes and 
+maintain a listening watch on the appropriate emergency 
+frequency" (121.5/243.0). 
+ 
+ 
+3.2.4     Kirkuk ACC shall transfer aircraft 
+communications to "Ankara Control" on frequency (TO BE 
+COMPLETED BY TURKISH AUTHORITIES). 
+ 
+ 
+¶4.   REVISIONS 
+ 
+ 
+4.1  This agreement shall be subject to revision 
+whenever a modification of Standards, recommended 
+methods of supplementary regional procedures of ICAO 
+occurs which might affect the procedures contained in 
+this agreement, or when new communications facilities, 
+or new air traffic services that might affect these 
+procedures are commissioned.  In the case of changes in 
+ICAO regulations, the Ankara ACC or the Kirkuk ACC shall 
+initiate the amendment of this agreement and in the 
+cases of new installations or modification of existing 
+installations, the facility concerned shall initiate the 
+modification procedure.  For any other matter that might 
+make it advisable to change this agreement, the 
+interested facility shall propose the pertinent 
+revision. 
+ 
+ 
+¶5. DISSEMINATION 
+ 
+ 
+5.1  The dissemination of this agreement and it's 
+subsequent modification shall be made in full by a 
+pertinent AIC fifty-six (56) days before the effective 
+date, and furthermore, the facilities shall include in 
+their respective AIPs, Section RAC, those parts of 
+interest to air operations. 
+ 
+ 
+5.2  This Letter of Agreement cancels all preceding air 
+traffic control agreements between the nations of Turkey 
+and Iraq. 
+ 
+ 
+Signed in  (Location), (Country) on (Date) 
+In Representation of Ankara ACC Chief 
+In Representation of Kirkuk ACC, AOF/CC Commander ACC 
+Kirkuk 
+End Text LOA. 
+Pearson

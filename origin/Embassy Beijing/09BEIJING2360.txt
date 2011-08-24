@@ -1,0 +1,134 @@
+09BEIJING2360
+CHINA OFFICIALLY "UNINSTALLS" GREEN DAM INTERNET
+Fri Aug 14 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Beijing
+VZCZCXRO2398
+OO RUEHCN RUEHGH RUEHVC
+DE RUEHBJ #2360/01 2260840
+ZNR UUUUU ZZH
+O 140840Z AUG 09
+FM AMEMBASSY BEIJING
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 5668
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUEHIN/AIT TAIPEI 7370
+RUEHKO/AMEMBASSY TOKYO 0017
+RUEHUL/AMEMBASSY SEOUL 1336
+RUEHGV/USMISSION GENEVA 2529
+RUEAHLC/DHS WASHDC
+RUCPDOC/USDOC WASHDC
+RUEAWJA/DEPT OF JUSTICE WASHDC
+RHMCSUU/FBI WASHINGTON DCUNCLAS SECTION 01 OF 02 BEIJING 002360 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+State for EAP/CM - SFlatt, JHabjan 
+State for EEB/CIP - SFlynn, FSaeed 
+USTR for Awinter, JMcHale, TWineland, AMain 
+Commerce for MAC 
+Commerce for ITA - IKasoff, NMelcher 
+DOJ for CCIPS - MDubose and SChemtob 
+FBI for LBryant 
+State for White House OSTP Ambassador Richard Russell 
+NSC for Melissa Hathaway 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD PGOV PHUM SOCI SCUL ECON CH
+SUBJECT: CHINA OFFICIALLY "UNINSTALLS" GREEN DAM INTERNET 
+CENSORING SOFTWARE REQUIREMENTS. . . FOR NOW 
+ 
+Reftels:  BEIJING 1538 
+       BEIJING 1520 
+ 
+SENSITIVE BUT UNCLASSIFIED - PLEASE HANDLE ACCORDINGLY. 
+ 
+¶1. (SBU) Summary.  Ministry of Industry and Information Technology 
+(MIIT) Minister Li announced August 13 computers sold in China would 
+not be subject to mandatory internet censorship software 
+requirements.  The remarks represent the highest level signal to 
+date that the Chinese government has officially abandoned earlier 
+plans requiring all computers sold in China to include 
+Chinese-produced "Green Dam" internet filtering software.  Industry 
+representatives, while viewing the announcement as positive, remain 
+skeptical of the Chinese government's longer-term plans and do not 
+rule out the later re-imposition of similar controls in one form or 
+another.  End summary. 
+ 
+¶2. (SBU) MIIT Minister Li Yizhong, at an August 13 press conference, 
+announced that China "as to the majority of consumers, [would] fully 
+respect freedom of choice; we will not mandatorily install [Green 
+Dam] software on all computers in the market."  Minister Li noted, 
+however, that Green Dam would continue to be installed on computers 
+in schools, internet cafes, and other public places. 
+ 
+¶3. (SBU) Li attempted to backpedal gracefully, explaining that 
+MIIT's original May 22, 2009 circular had mischaracterized MIIT's 
+actual (and current) position.  (Note: MIIT initially, had mandated 
+that all computers sold in China, whether imported or 
+domestically-produced, include pre-installed Chinese-produced Green 
+Dam filtering software effective July 1, 2009.  See reftels.  End 
+Note.)  Industry and popular backlash quickly followed, along with 
+interventions by foreign governments, including the U.S., prompting 
+MIIT to announce June 30 that it was "delaying" indefinitely the 
+implementation of the Green Dam software requirement. 
+ 
+¶4. (SBU) MIIT's deferred implementation has now become an effective 
+reversal of its prior mandate, though Minister Li suggested MIIT's 
+next steps would involve soliciting a wide range of views regarding 
+implementation of such software where it is required, i.e., schools, 
+internet cafes, and other public computers. 
+ 
+Industry Reaction Mixed 
+----------------------- 
+¶5. (SBU) Local U.S. Information and Technology Office (USITO) 
+analyst Wen Jie expressed continued skepticism over the Chinese 
+government's longer term plans regarding such software.  He observed 
+that the fact Minister Li emphasized "consumer choice" could still 
+leave the door open to impose requirements upon manufacturers to 
+offer such software on computers sold in China (whether activated or 
+not).  Wen Jie noted many details of the plan remain unclear, but 
+added, at the very least, MIIT's formal August 13 statement is 
+useful precedent in any subsequent battles industry and consumers 
+may undertake relating to this issue. 
+ 
+¶6. (SBU) Dell Computer's local senior manager, Ryan Zhang, suggested 
+a policy reversal could come as early as within six months.  Zhang 
+expressed similar skepticism over how definitive Minister's Li's 
+statement really is, given his emphasis on offering "consumer" 
+choice (not/not on manufacturer's businQs decisions to pre-install 
+software or co-package).  Zhang suggested MIIT and other Chinese 
+government policymakers could still decide to make censorship 
+software mandatory, but handle the public relations more carefully. 
+ 
+¶7. (SBU) Another local information technology analyst echoed 
+concerns regarding China's moving target on censorship software, 
+especially industry concerns over ambiguities regarding acceptable 
+distribution methods and cost-bearing, which are still unclear 
+following MIIT's announcements.  The analyst noted some computer 
+manufacturers, including Chinese producers Acer and Lenovo, have 
+complied with MIIT's original mandate to pre-install Green Dam on 
+all computers sold in China.  Apple Computer local government 
+relations representative told us that although Apple received an 
+ 
+BEIJING 00002360  002 OF 002 
+ 
+ 
+early waiver from MIIT (Green Dam reportedly is incompatible with 
+Apple operating system), Apple nonetheless is seeking approval of 
+its existing parental control applications for its computers used 
+here in the education field. 
+ 
+¶8. (SBU) Comment.  Post views MIIT's latest announcement as 
+confirmation of China's decision to defer (for now) imposing 
+internet censorship software on Chinese computer consumers.  This 
+significantly reduces the immediate associated difficulties for 
+manufacturers.  Though they remain cautious about declaring final 
+victory, industry representatives clearly feel emboldened by having 
+convinced China to reverse its policy course.  Industry and the 
+growing (and likely a vocal chorus of Chinese "netizens") stand 
+ready to re-engage should China seek to revisit internet censorship 
+mandates any time soon.  Embassy will also continue to monitor the 
+issue closely.  End comment. 
+ 
+GOLDBERG

@@ -1,0 +1,80 @@
+09MOSCOW1193
+EXTRANCHECK: PRE-LICENSE CHECK: DELTA COMPONENT AND FSUE
+Tue May 12 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0002
+PP RUEHWEB
+
+DE RUEHMO #1193 1320613
+ZNR UUUUU ZZH
+P 120613Z MAY 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3216
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001193 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: DELTA COMPONENT AND FSUE 
+RNII KP, MOSCOW, RUSSIA, LICENSE NO. D414202 
+ 
+REFTEL: USDOC 0679 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a pre-license check to determine the legitimacy 
+and reliability of the end-users, Delta Component and FSUE RNII KP, 
+Moscow, Russia. The company is listed on BIS license application 
+D414202 as the ultimate consignee of 24 flash modules Q IC and 23 IC 
+- amplifiers AD8041SQ. These items are controlled for national 
+security and nuclear non-proliferation reasons under ECCN 3A001. The 
+licensee is Norcatec LLC., 100 Garden City Plaza, Garden City, NY 
+¶11530. 
+ 
+¶3. On April 27, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested pre-license check at the 
+offices of FSUE QRussian Institute of Space Device Engineering 
+(FSUE QRISDEQ), 53 Aviamotornaya Street, Moscow, Russia. The export 
+control team met with Vladimir Gorkovoi, Deputy General Director, 
+Delta Component and Chief of Purchasing Department of FSUE QRISDEQ, 
+Grigory Stupak, Deputy General Director, FSUE QRISDEQ and Dmitry 
+Chernov, Deputy General-Designer Director, FSUE QRISDEQ. 
+ 
+¶4. The FSUE QRISDEQ was established in 1946, and has become one of 
+the pioneer enterprises in the Russian Space Industry. The Institute 
+is involved in the development, production, operation and 
+maintenance of multi-functional space and ground-based systems. 
+Delta Components was established as a procurement/trading company 
+that sells equipment to the FSUE QRISDEQ.  Delta was founded in 
+2006, and purchases from distribution companies in Russia. 
+ 
+¶5. The FSUE QRISDEQ team presented a comprehensive PowerPoint 
+presentation to the export control team covering the intended use of 
+the reftel commodities. According to the FSUE QRISDEQ presentation, 
+the reftel commodities will be used to upgrade the 3rd generation 
+Russian GLONASS Global Positioning System.  GLONASS is a 
+constellation of satellites which provide a geopositioning 
+reference. The reftel commodities, once in use in the GLONASS 
+system, will enable GLONASS to operate without interference with 
+other geopositioning satellite systems in use, increase its 
+reliability and accuracy and offer an interconnect ability to them. 
+ 
+¶6. The Moscow export control team found FSUE QRISDEQ to have the 
+technical and commercial sophistication necessary for use of the 
+reftel commodities. They have a legitimate need, and a legitimate 
+end use. 
+ 
+¶5. Recommendations: Post recommends Delta Component and FSUE RNII KP 
+(FSUE QRISDEQ), Moscow, Russia, as reliable recipients of sensitive 
+U.S. origin commodities. 
+(FCS MOSCOW/ JMARKS/PLISTON) 
+RUBIN

@@ -34,7 +34,7 @@ FM AMEMBASSY TEL AVIV
 TO RUEHC/SECSTATE WASHDC 6119
 INFO RUEHJM/AMCONSUL JERUSALEM 4417
 RHEHNSC/NSC WASHDC
-RUCNDT/USMISSION USUN NEW YORK 4014"UNCLAS TEL AVIV 003515 
+RUCNDT/USMISSION USUN NEW YORK 4014UNCLAS TEL AVIV 003515 
  
 SIPDIS 
  
@@ -67,5 +67,4 @@ http://www.state.sgov.gov/p/nea/telaviv
 You can also access this site through the State Department's 
 Classified SIPRNET website. 
 ********************************************* ******************** 
-JONES 
-"
+JONES

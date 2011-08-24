@@ -1,0 +1,191 @@
+08STATE129720
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Wed Dec 10 00:00:00 +0100 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0015
+RR RUEHWEB
+
+DE RUEHC #9720 3451557
+ZNR UUUUU ZZH
+R 101549Z DEC 08
+FM SECSTATE WASHDC
+TO RUEHAS/AMEMBASSY ALGIERS 0000
+RUEHFR/AMEMBASSY PARIS 0000
+INFO RUEHOT/AMEMBASSY OTTAWA 0000
+RUEHTV/AMEMBASSY TEL AVIV 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 129720 
+ 
+SIPDIS 
+ALGIERS FOR LEIGH O'GUYNN AND PARIS FOR ERIC J. RUETER 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC AG FR
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 050113393 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post's assistance in conducting 
+a post-shipment check on application 050115687 for the export 
+of night vision device (NVD) component parts to Algeria. 
+Post is requested to complete this Blue Lantern check within 
+45 days.  Lack of response to a Blue Lantern check will 
+affect pending and future licenses involving parties to this 
+license. 
+ 
+¶3. Reason for request:  Lack of documentation from the 
+end-user and unfamiliar foreign consignee, OCEA.  The company 
+has appeared on previous license applications but the bona 
+fides of the company have not been verified by a Blue Lantern 
+check. 
+ 
+¶4. ACTION ALGIERS: Embassy is requested to make inquiries 
+with appropriate host government officials to confirm that 
+the Algerian MoD has ordered and received the NVD component 
+parts, and that the articles will be used for the purpose 
+stated on the license.  Automated Export System (AES) 
+indicates that items worth $24,424 were shipped from the U.S. 
+on the following dates: 8 units ($8,548) on 09/21/08, 9 units 
+($8,910) on 10/16/08, and 7 units ($6,930) on 10/26/08. 
+ 
+¶5. ACTION PARIS: Department also requests that Embassy make 
+appropriate inquiries to verify the bona fides of foreign 
+consignee OCEA, and to confirm the legitimacy of this 
+transaction.  PM/DTCC also requests that post conducts a site 
+visit to the company in order to provide Department with an 
+assessment of its business operations and on-site security. 
+Finally, post is asked to assess whether the company appears 
+to be a reliable recipient of USML items.  If a site visit is 
+not possible, please inform the PM/DTCC officer (see para 7). 
+ 
+The following questions are provided as suggested guidance: 
+ 
+--Does the company have supporting documentation for this 
+proposed transaction? 
+ 
+--Does the company have secure facilities and proper 
+accounting and security procedures for handling sensitive 
+USML items? 
+ 
+--Will OCEA retain positive control over the NVD component 
+parts at all times? 
+ 
+--When was the company established and who are its 
+principals? 
+ 
+--What is the nature of its business -- what type of items 
+does it handle, does it serve as a broker? 
+ 
+--What type of organizations are among its typical customers 
+and where are the customers located? 
+ 
+--Does the company understand the restrictions on United 
+States Munitions List (USML) items, especially the 
+prohibition against unauthorized re-transfers and re-exports? 
+ 
+END ACTION 
+ 
+¶5. Details of license application: 
+ 
+DTC Case: 050113393 
+ 
+QUANTITY/COMMODITY: 
+ 
+8   4286-4561-00, AZ Motor 
+16  4286-4551-00, EL Motor 
+ 
+License Value: USD 24,424.00 
+ 
+SELLER: 
+ 
+Elmec, Inc. 
+229 Billerica Rd. 
+Chelmsford, MA 01824 
+POC is Heather L. Borchers, Tel. 978-250-0084 ext. 130 
+ 
+FOREIGN CONSIGNEE: 
+ 
+OCEA 
+Quai de Mean 
+Saint Nazaire 
+France 
+No POC provided, Tel. 33(0)2 51 76 01 00 
+ 
+Elbit Systems Electro-Optics Ltd.(ELOP) 
+Advanced Technology Park Kiryat Weismann 
+Rehovot 
+Israel 
+POC is Director of Material Management, Avi Shoham, No Tel. 
+provided 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE 
+ 
+ORION 
+8 Hamelacha Street Industrial Zone 
+Lod 
+Israel 
+No POC provided 
+ 
+Current Corporation 
+2933 Murray Street 
+Port Moody, British Columbia 
+Canada 
+No POC provided 
+ 
+Transclal Trade Ltd. 
+11 Pessach Lev Street Northern Industrial Zone 
+Lod 
+Israel 
+No POC provided 
+ 
+FOREIGN END-USER: 
+ 
+Algeria Ministry of Defense 
+Val d'Hydra BP 677 Alger Gare 
+Algiers 
+Algeria 
+POC is Chiki Si Aissa, Tel. (213) 021 72 02 11 / (213) 021 90 
+51 89 
+ 
+PURPOSE: 
+ 
+The motors will be used by ELOP for the Micro Compass (Night 
+Navigator Micro).  The Micro Compasses are for use on the 30m 
+Coast Guard vessels that will be built at OCEA shipbuilding 
+in Saint Nazaire, France.  The Micro Compass will be 
+installed on vessels for the Ministry of Defense in Algeria 
+to operate in local seas on coastguard law enforcement duties 
+and search or rescue operations. 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC can fax documentation to post 
+upon request): 
+ 
+--Purchase Order No. P45865/B submitted by ELMEC, Inc. (an 
+ELBIT company) on 26 June 2008, No signature provided 
+ 
+--End-user Certificate submitted by Elbit Systems Electro 
+Optics, signed by Director of Material Management, Avi Shoham 
+on 10 July 2008 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  PM/DTCC can fax documentation to post upon 
+request.  POC is Tim Mazzarelli, Phone: 202-663-3867; Email: 
+MazzarelliTP@state.gov; SIPRNET: MazzarelliTP@state.sgov.gov. 
+ The Blue Lantern Guidebook (ref) is available as a PDF file 
+in the Bunche Library's E-Book Collection on the DOS 
+Intranet:  http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶8. Department is grateful for post's assistance in this 
+matter. 
+RICE

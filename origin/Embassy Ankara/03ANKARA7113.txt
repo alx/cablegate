@@ -1,0 +1,162 @@
+03ANKARA7113
+GOT CLAIMS VESSEL TRAFFIC SYSTEM NOT FULLY
+Fri Nov 14 00:00:00 +0100 2003
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ankara
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+141505Z Nov 03UNCLAS SECTION 01 OF 02 ANKARA 007113 
+ 
+SIPDIS 
+ 
+ 
+SENSITIVE 
+ 
+ 
+STATE FOR E, EB/CBED, EB/IFD AND EUR/SE 
+DEPARTMENT PASS OPIC, NSC FOR BRYZA 
+USDOC FOR 4212/ITA/MAC/OEURA/CPD/DDEFALCO 
+USDOE FOR CHARLES WASHINGTON 
+TREASURY FOR OASIA 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG EINV ECON PREL TU
+SUBJECT: GOT CLAIMS VESSEL TRAFFIC SYSTEM NOT FULLY 
+FUNCTIONAL 
+ 
+ 
+This message is sensitive but unclassified, not for internet 
+distribution.  Please handle accordingly. 
+ 
+ 
+¶1.  (SBU) Summary.  Turkish Maritime Undersecretariat 
+officials told us that the testing phase of the Vessel 
+Traffic System (VTS) in the Istanbul area would have to be 
+extended beyond the end-October deadline due to technical 
+problems.  Turkish Coastal Safety and Ship Rescue Management 
+Director General also has confirmed the delay. The GOT is 
+working with the contractor, Lockheed Martin, to resolve any 
+difficulties; however, Lockheed insists that there are no 
+major outstanding problems.  Unlike the Istanbul region where 
+the contractors have completed both construction and 
+training, the Canakkale region has yet to be completed.  Some 
+shippers maintain that the Istanbul system is operational 
+with only minor technical problems while complaining that 
+politics is becoming a problem due to GOT concerns over 
+hazardous material traffic through the Turkish Straits. 
+Although full implementation of the VTS system will improve 
+traffic safety in the Turkish Straits, this government is 
+trying to downplay public expectations that the system is 
+totally foolproof and also quell widespread speculation that 
+the Straits could automatically accomodate more tanker 
+traffic.  End Summary. 
+ 
+ 
+¶2.  (SBU) Martime Undersecretariat officials told us on 
+October 24 that the testing phase of the VTS system, which 
+began on 20 June, would not be completed in October as 
+initially planned and may not even be ready for prime time 
+before the end of the year.  One of the main complaints 
+involves the system integration software because the hardware 
+was procured from both local and international firms. For 
+example, the cameras were bought from a Turkish firm, and the 
+GOT officials say that the cameras often malfunction, 
+disrupting the systems record and replay capability. 
+ 
+ 
+¶3.  (SBU) Another problem involves the charting system, which 
+Lockheed had contracted to a local firm; according to the 
+Maritime authorities, it is sometimes difficult to pinpoint 
+the exact location of ships.  They note, for example, that 
+the faulty VTS electronic charts showed the ship that ran 
+aground in the Istanbul Straits in mid-October had passed 150 
+km offshore.  In contrast, these officials credited the VTS 
+system with effectively detecting accidents on November 11, 
+which allowed the relevant GOT authorities to take 
+precautionary measures during bad weather conditions. 
+Nonetheless, Maritime officials maintain that the GOT has a 
+contractual relationship with Lockheed, not with the 
+subcontractors, and expect the company to adress these 
+problems.  To this end, they have forwarded a list of the 
+problems to Lockheed and are working closely with the 
+engineers to resolve the problems.  Moreover, the Maritime 
+Undersecretariat officials hinted that the GOT would consider 
+delaying full acceptance of the project if these outstanding 
+issues are not handled in a timely manner. 
+ 
+ 
+¶4.  (SBU) The $225 million VTS system consists of two areas 
+of the Turkish Straits, Istanbul and Canakkale, with a total 
+of 16 remote sensor sites; 8 in the Straits of Istanbul, 5 in 
+the Straits of Canakkale, and 3 in the Marmara Sea. There 
+also are 4 VHF-DF communications sites, 5 Radar beacons 
+(RACON) stations, and 1 dGPS reference station in the Black 
+Sea and another in the Aegean Sea.  The main Vessel Traffic 
+Center, which is located in Istinye on Istanbul's European 
+side, hosts the supervisor and operator traffic consoles, 
+administrator console, track correlation, database, and 
+expert system processing, controls all sensors, communication 
+and recording systems, and interfaces with external users. 
+Under the VTS system, each ship is required to have a 
+functional radar system from the Black Sea to Canakkale; 
+equipment is loaned to ships lacking the proper devices and 
+detailed information about the cargo and crew are collected 
+for the VTS database. 
+ 
+ 
+¶5.  (SBU) On October 22, Lockheed Martin told us that they 
+have officially delivered the Istanbul VTS stations to the 
+GOT and have completed the legally required training of 
+Turkish personnel, but the Canakkale section remains under 
+construction.  Lockheed admitted that the VTS system is not 
+as efficient as it could be, given the complex nature of the 
+Turkish Straits.  Nonetheless, the contractor is fully 
+satisfied that the system would improve traffic safety in the 
+Istanbul and Canakkale area.  The contractor cautioned that, 
+while the system does not give the GOT law enforcement 
+capability over the Turkish Straits, it gives the authorities 
+an advisory role over ships transiting the area and is a 
+deterrent to illegal activity.  (Comment. Despite the 
+Montreaux convention, which defines the Turkish Straits as an 
+international waterway and does not recognize Turkish 
+sovereignty, the GOT maintains that the Straits is not a 
+pipeline for tankers and continues to seek ways to regulate 
+shipping, promote Baku-Tibilisi-Ceyhan as an alternate route 
+for oil, and protect the environment, historical buildings, 
+and Istanbul's 12 million population. End comment). 
+ 
+ 
+¶6.  (SBU) The Maritime officials argued that the VTS system 
+was acceptable but not totally satisfactory.  In their view, 
+an efficient system would result in shorter waiting periods 
+for ships instead of automatically facilitating larger 
+volumes of traffic through the Turkish Straits.  These 
+officials admitted that political pressure was growing, in 
+part due to the lengthy and costly waiting periods for ships 
+in the Black Sea, Marmara Sea, and Canakkale.  They told us 
+that shippers incur costs of about $25,000-$45,000 due to the 
+long wait period, and some shippers' associations already 
+have registered complaints with the Ministry of 
+Transportation.  The Maritime authorities also said that the 
+stakes are high for this government with upcoming local 
+elections, which are scheduled to be held in Spring 2004, 
+because the previous government had wrongly raised public 
+expectations and convinced Istanbul residents that the VTS 
+system would be foolproof. 
+ 
+ 
+¶7.  (SBU) In conversations with shippers on November 7, we 
+learned that the VTS system is improving safety, despite some 
+minor problems.  Shippers noted that freighters are allowed 
+to transit the Straits without restrictions even with zero 
+visibility.  Some of the freighters have 155,000 dead weight 
+ton capacity and are roughly 280 meters, roughly the same 
+size of many tankers.  Turkish authorities, however, do not 
+take even a small risk with tankers and subject them to 
+lengthy waiting periods.  Because freighters are not subject 
+to the same restrictions as tankers, the shippers we 
+contacted argued that passage through the Turkish Straits has 
+become more of a political issue than an environmental safety 
+issue. 
+EDELMAN

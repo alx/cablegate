@@ -1,0 +1,75 @@
+09HONGKONG1981
+EXTRANCHECK: PRE-LICENSE CHECK: TAL APPAREL LIMITED
+Fri Oct 23 00:00:00 +0200 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHHK #1981 2960833
+ZNR UUUUU ZZH
+R 230833Z OCT 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 8814
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001981 
+ 
+USDOC FOR 532/OEA/PLUDD/JSONDERM 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: TAL APPAREL LIMITED 
+ 
+REF: A) BIS e-mail PLC request dated October 14, 2009 B) D425104 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO), conducted 
+a pre-license check at Tal Apparel Limited, Tal Building, 4th Floor, 
+49 Austin Road, Kowloon, Hong Kong (Tal). The purpose of the visit 
+was to determine the suitability of Tal to be the ultimate consignee 
+and end user of a Flir systems thermovision mounted thermal camera 
+that is the subject of license application D425104.  The item (ECCN 
+6A003) is controlled for national security (NS) reasons. The license 
+applicant is Trek Equipment of Sausalito, California. 
+ 
+¶3.  A search of the Hong Kong Companies Registry reveals that Tal 
+has been in existence since 1983. Its registered capital is the Hong 
+Kong equivalent of USD 80 million. 
+¶4. A review of the company's web site (www.talgroup.com) reveals 
+that the Tal Group is a world leader in the production of clothing. 
+The Tal Group manufactures (at locations throughout Asia) 1 out of 
+every 6 dress shirts sold in the U.S. Its headquarters are in Hong 
+Kong. 
+ 
+¶5.  On October 23, 2009, ECO and FCS Commercial Assistant Carrie 
+Chan visited the company and met with Eugene Lee, Human Capital 
+Management, Cherry C.K. Tang, Senior Executive and Franky C.K. Lam 
+Department Manager.  Mr. Lee explained that Tal is purchasing 15 
+Flir cameras for use in the company's production facilities 
+throughout Asia.  They are intended to be used for rapid body 
+temperature checks of employees entering production facilities to 
+minimize the potential spread of flu among employees.  Presently, 
+the company uses low tech hand held devices to check employee 
+temperatures and the Flir cameras will allow them to test employees 
+much more rapidly and in a less invasive way. 
+ 
+¶6.  As to the specific camera that is the subject of license 
+application D425104, Mr. Lee stated that it would be held as a spare 
+in Hong Kong (where there are no production facilities).  In the 
+event any of the other cameras needed replacement, the Hong Kong 
+unit would be sent to the location in question.  Mr. Lee stated that 
+he did not believe application D425104 made this point clear.  ECO 
+found Tal employees to be open and credible in their explanations. 
+ 
+¶7.  Based on the information detailed herein, ECO believes Tal to be 
+a suitable recipient of controlled U.S. origin technology. 
+ 
+MARUT

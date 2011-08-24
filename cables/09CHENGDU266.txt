@@ -1,0 +1,332 @@
+09CHENGDU266
+CHENGDU B1/B2 VALIDATION STUDY
+Thu Nov 19 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Chengdu
+VZCZCXRO2389
+RR RUEHGH RUEHVC
+DE RUEHCN #0266/01 3230909
+ZNR UUUUU ZZH
+R 190909Z NOV 09
+FM AMCONSUL CHENGDU
+TO RUEHC/SECSTATE WASHDC 3534
+INFO RUEHPNH/NVC PORTSMOUTH NH
+RUEHOO/CHINA POSTS COLLECTIVE
+RUEHBJ/AMEMBASSY BEIJING 1955
+RUEHGZ/AMCONSUL GUANGZHOU 0826
+RUEHSH/AMCONSUL SHENYANG 0803
+RUEHGH/AMCONSUL SHANGHAI 0840
+RUEHCN/AMCONSUL CHENGDU 4238UNCLAS SECTION 01 OF 04 CHENGDU 000266 
+ 
+SIPDIS 
+ 
+DEPT FOR CA/FPP 
+DHS FOR CIS/FDNS 
+DEPT ALSO PASS TO KCC 
+ 
+E.O. 12958: N/A 
+TAGS: KFRD CVIS CPAS CMGT ASEC CH
+SUBJECT: CHENGDU B1/B2 VALIDATION STUDY 
+ 
+REF: A)  STATE 172283,  B)  2007 CHENGDU 101,  C)  2005 CHENGDU 139,  D)  2003 
+CHENGDU 873,  E)  2001 CHENGDU 183 
+ 
+CHENGDU 00000266  001.2 OF 004 
+ 
+ 
+¶1.  (U) SUMMARY:  Consulate Chengdu's Fraud Prevention Unit 
+(FPU) conducted a validation study of all private Chinese 
+passport holders who were issued B1/B2 visas in CY2008.  Based 
+on a review and analysis of 800 randomly-selected visa 
+issuances, the illegal overstay rate was found to be 2.0 
+percent.  Nearly half of the applicants who illegally overstayed 
+their visas were parents going to visit children living in the 
+United States.  Most of the others who illegally overstayed were 
+working-age and claimed to be managers at small- or medium-sized 
+Chinese companies traveling for business meetings or required 
+training.  In the majority of these cases, applicants had both 
+fraudulent employment and purpose of travel.  School-age 
+children and individuals going to the U.S. for tourism appear to 
+have significantly lower overstay rates.  While this study did 
+not specifically focus on business travelers, its results 
+indicate a significant decline in Chengdu's business traveler 
+overstay rate.  END SUMMARY. 
+ 
+ 
+ 
+Background 
+ 
+--------------- 
+ 
+ 
+ 
+¶2.  (U) The Chengdu consular district covers Sichuan, Yunnan and 
+Guizhou Provinces, the Tibet Autonomous Region (TAR), and the 
+Chongqing Municipality.  The majority of the Consulate's NIV 
+applicants hail from Chengdu (Sichuan), Chongqing and Kunming 
+(Yunnan), followed by Guiyang (Guizhou) and smaller cities and 
+towns throughout the region.  Post sees relatively few 
+applicants from the TAR. 
+ 
+ 
+ 
+¶3.  (U) The social and economic conditions in the Chengdu 
+consular district mirror those found in the Mission's other four 
+consular districts.  The area supports a healthy mix of industry 
+and agriculture, which in recent years has led to increased 
+prosperity for the over 200 million residents served by Post. 
+As a result, the number of both applicants and issuances of 
+B1/B2 visas has increased dramatically in recent years.  From 
+CY2004 to CY2008, for example, Post has seen an 83 percent 
+increase in B1/B2 applications and a 115 percent increase in 
+B1/B2 issuances. 
+ 
+ 
+ 
+¶4.  (U) This is the first comprehensive B1/B2 validation study 
+conducted by Post, as previous surveys done in Chengdu were all 
+more narrowly focused.  In 2001, 2003, and 2007, studies of B1 
+business travelers bearing private passports found non-return or 
+overstay rates of 55.0, 25.0, and 12.4 percent, respectively 
+(reftels B, C, and D).  In 2005, Post also conducted a survey of 
+Chinese public affairs (FAO) passport holders going on official 
+travel to the United States, and found an overstay rate of less 
+than 3 percent (reftel E). 
+ 
+ 
+ 
+Methodology 
+ 
+----------------- 
+ 
+ 
+ 
+¶5.  (U) In CY2008, Post issued 17,374 B1/B2 non-immigrant visas 
+(NIVs) to holders of private Chinese passports.  To conduct its 
+validation study, the FPU randomly selected 800 cases from this 
+set of issued visas.  Holders of Chinese diplomatic, public 
+affairs, and service passports were excluded from the sample, 
+since historically their overstay rates have varied 
+significantly from the private passport population (reftel E). 
+Third-country nationals were also excluded from the study. 
+ 
+ 
+ 
+¶6.  (U) Using the Consular Consolidated Database (CCD), the FPU 
+pulled records of all B1/B2 issuances during CY2008 and exported 
+the data into an Excel spreadsheet file.  Based on CA/FPP 
+guidance (reftel A), the FPU identified a random sample of 800 
+B1/B2 issuances, which provides a margin of error of 3 percent 
+ 
+CHENGDU 00000266  002.2 OF 004 
+ 
+ 
+with a 95 percent confidence level.  The data set was sent to 
+CA/FPP, which then processed the biographical information 
+through the Department of Homeland Security's (DHS) Arrival and 
+Departure Information System (ADIS) database.  DHS provided the 
+entry, exit and any change of status information for each 
+applicant. 
+ 
+ 
+ 
+¶7.  (U)  According to the definitions used by CA/FPP, issuances 
+with corresponding ADIS entry and departure records, without 
+overstays, including those with DHS extensions of stay, were 
+considered good return travelers to China (reftel A).  For those 
+individuals with arrival records but without matching departure 
+records, Chengdu's FPU individually reprocessed these cases 
+through ADIS to confirm the lack of departure record.  While not 
+definitive proof, the absence of a departure record in ADIS is a 
+significant indicator that a person may have overstayed their 
+visa or was a non-returnee.  For each of these individuals, the 
+FPU conducted telephone inquiries and attempted to contact each 
+suspected non-returning applicant.  After a minimum of three 
+unsuccessful attempts, the individual was placed in the final 
+"illegal overstay" category. 
+ 
+ 
+ 
+Results 
+ 
+------------- 
+ 
+¶8.  (U) The data compiled for this study are listed below: 
+ 
+ 
+ 
+Total cases in random sample = 800 (total = 100%) 
+ 
+ 
+ 
+Traveled = 747 (93.4%) 
+ 
+Did not travel = 53 (6.6%) 
+ 
+ 
+ 
+Of those who traveled: 
+ 
+ 
+ 
+Returned to China = 700 (87.5%) 
+ 
+Currently in status in U.S. or have legally adjusted status = 31 
+(3.9%) 
+ 
+Confirmed illegal overstays = 16 (2.0%) 
+ 
+ 
+ 
+(Note: numbers in parentheses above are percentage of 800 total 
+cases in sample.  End note.) 
+ 
+ 
+ 
+¶9.  (U) Of the 800 B1/B2 visas issued in Chengdu in CY2008, 
+Chengdu's FPU detected 16 illegal overstays for a rate of 2.0 
+percent.  All of these illegal overstays were travelers who 
+stayed in the U.S. longer than their Authorized Until Date (AUD) 
+granted to them by DHS upon entry into the U.S.  Nine travelers 
+stayed beyond their AUD without a DHS-authorized extension but 
+eventually returned to China.  Seven of these travelers, 
+however, not only stayed in the U.S. longer than their AUD, but 
+also appear to still be in the U.S. illegally. 
+ 
+ 
+ 
+¶10.  (U) Thirty one travelers from the sample have legally 
+adjusted their status with DHS.  These cases include adjustments 
+to student F1 status and others who received legal extensions of 
+stay, whereby a traveler has their AUD adjusted to a later date. 
+ According to CA/FPP guidance (reftel A), these issuances are 
+treated as good return travelers since they did not illegally 
+overstay their visas. 
+ 
+ 
+ 
+ 
+CHENGDU 00000266  003.2 OF 004 
+ 
+ 
+¶11.  (U) It is noteworthy that there were no confirmed overstays 
+for individuals whose purpose of travel was tourism, nor were 
+there for any summer or winter student home stay programs. 
+Likewise, no school-age children were found to have overstayed 
+their visas.  Due to the small population sizes involved in this 
+study, it is difficult to draw firm conclusions about who is 
+likely to overstay a visa.  However, all of the 16 confirmed 
+illegal overstays match one of the following three profiles: 
+ 
+ 
+ 
+The Three Overstay Profiles 
+ 
+------------------------------------ 
+ 
+ 
+ 
+¶12.  (U) Visiting relatives in the U.S.:  Seven of the 16 
+confirmed overstay cases were applicants who went to visit 
+relatives in the U.S.  Of these, six were parents going to visit 
+their children (and in some cases, also their grandchildren) who 
+were either American citizens, Legal Permanent Residents (LPRs), 
+or temporary workers on H1B visas.  In five of the six Chinese 
+parent cases, the applicants had previously traveled to the U.S. 
+and returned to China, maintaining legal status throughout their 
+previous trips.  This finding suggests that prior travel to the 
+U.S. should not be viewed as a guarantee that Chinese parents 
+will necessarily maintain their legal status in the U.S.  The 
+seventh case is one where the applicant went to visit his LPR 
+wife and child in the U.S. and illegally overstayed his visa, 
+although he did eventually return to China after his trip.  He, 
+too, had previous legal travel to the U.S. 
+ 
+ 
+ 
+¶13.  (U) Fraudulent business travelers:  Five of the 16 illegal 
+overstay cases involved applicants with confirmed fraudulent 
+employment and purpose of travel.  In each case the individual 
+claimed to be a business traveler, but presented fraudulent work 
+credentials and fake invitation letters from U.S. inviters.  In 
+four of the five cases, the applicants were in their 30s or 40s 
+and claimed to be managers of small- or medium-sized Chinese 
+companies.  In the fifth case, the applicant purportedly worked 
+for a large U.S. firm as the regional branch manager.  None of 
+these applicants had prior travel to the U.S. and only one had 
+any prior travel abroad.  Based upon the FPU's investigation, 
+all five of these travelers have not only illegally overstayed 
+their visas, but also appear to have illegally immigrated to the 
+U.S. 
+ 
+ 
+ 
+¶14.  (U) Business meetings and training:  Four of the 16 illegal 
+overstays were business travelers going to the U.S. for 
+training.  Three of them worked for larger, well-known companies 
+within the Chengdu consular district and were sent to the U.S. 
+for employer-sponsored technical training.  The fourth case 
+involved an individual who was going for non-technical business 
+training and had previously traveled to the U.S. several times 
+before her overstay.  Based upon the FPU's investigation, all 
+four had legitimate employment and purpose of travel at the time 
+of their interviews.  Unlike the group of fraudulent business 
+travelers mentioned above, all four have returned to China after 
+their illegal overstay. 
+ 
+ 
+ 
+Analysis and Comment 
+ 
+------------------------------ 
+ 
+¶15.  (U) Since Chengdu saw a significant increase in the number 
+of fake business travelers in recent years, Chengdu's 
+interviewing line officers and the FPU became increasingly 
+vigilant about suspect cases.  The number of cases referred to 
+the FPU for investigation and the number of confirmed fraudulent 
+cases increased substantially during CY2008.  Because these 
+types of applicants - had they been issued a visa - would very 
+likely have overstayed or not returned to China, refusing their 
+visas appears to have helped lower the overall B1/B2 overstay 
+rate. 
+ 
+ 
+ 
+ 
+CHENGDU 00000266  004.2 OF 004 
+ 
+ 
+¶16.  (U) Because applicants matching the fraudulent business 
+traveler profiled above are still very prevalent in Chengdu, the 
+FPU has developed a fraud library with an extensive collection 
+of fake employment and invitation letters.  The FPU also 
+conducts training for adjudicating officers to help them 
+identify suspect business travelers. 
+ 
+ 
+ 
+Conclusion 
+ 
+-------------- 
+ 
+ 
+ 
+¶17.  (U) The local economy in the Chengdu consular district 
+provides ample opportunities to earn a good living, and as a 
+result, applicants issued B1/B2 visas appear to be generally 
+well-qualified.  While this survey did not disaggregate business 
+and leisure travelers, the trend in Chengdu's declining overstay 
+rates is clear.  The study's finding of a 2.0 percent combined 
+business and leisure overstay rate suggest both groups generally 
+do not abuse their B1/B2 visas.  The results are also in marked 
+contrast to Chengdu's previous validation studies going back to 
+CY2001 (reftels B, D, and E), in which B1-issued business 
+travelers showed significantly higher overstay rates.  However, 
+as this general B1/B2 validation study is unable to provide 
+detailed information about specific population groups, Chengdu's 
+FPU is planning to carry out more targeted NIV validation 
+studies in the future.  Possibilities include validation studies 
+focusing on business travelers, parents visiting children, 
+tourist groups, and students and exchange visitors. 
+BROWN

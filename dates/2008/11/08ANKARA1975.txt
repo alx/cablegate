@@ -1,0 +1,208 @@
+08ANKARA1975
+EXBS: TURKEY ADVISORS MONTHLY REPORT- (OCTOBER
+Fri Nov 14 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Ankara
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHAK #1975/01 3191156
+ZNR UUUUU ZZH
+R 141156Z NOV 08
+FM AMEMBASSY ANKARA
+TO RUEHC/SECSTATE WASHDC 8000
+RHEBAAA/DEPT OF ENERGY WASHINGTON DC
+RUCPDOC/DEPT OF COMMERCE WASHDC
+RULSJGA/COMDT COGUARD WASHDC
+RUEAORC/US CUSTOMS AND BORDER PROTECTION WASHINGTON DC
+INFO RUCNEXC/EXPORT CONTROL AND RELATED BORDER SECURITY
+RUEUITH/ODC ANKARA TU
+RUEKJCS/SECDEF WASHDC
+RUEKJCS/JCS WASHDCUNCLAS ANKARA 001975 
+ 
+SIPDIS 
+ 
+DEPT FOR NP/ECC- YWONG, ACHURCH, BGOLDEN 
+DEPT FOR EUR/ACE- KFITZPATRICK, BHUNT, PMALIK 
+DOE/NNSA- TPERRY, LPARKER, EDESCHLER 
+CBP/INA- TBAILEY, BPICKETT 
+DOC FOR DCREED 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KNNP KSTC MNUC PARM PREL TU
+SUBJECT: EXBS: TURKEY ADVISORS MONTHLY REPORT- (OCTOBER 
+2008) 
+ 
+Sensitive but unclassified.  Please handle appropriately. 
+ 
+¶1. Summary:  TDY EXBS Advisor Kevin Cummings and EXBS 
+Coordinator met with Turkish Customs Enforcement officials 
+during this period and provided a comprehensive briefing on 
+U.S. Customs.  Final preparations have been confirmed for the 
+November 12-24 visit of Director General of Customs 
+Enforcement Akkoc to the US. END SUMMARY. 
+ 
+¶2. Completed Actions for the Reporting Period: 
+ 
+¶A. Meetings During Recent Reporting Period by TDY EXBS 
+Advisor and Coordinator: 
+ 
+1) Oct 7 - Met with Mehmet Guzel, Deputy Director General 
+(DDG) Turkish Customs to discuss the upcoming VIP visit to 
+the US.  The DDG provided the names of the five customs 
+officials nominated for the visit.  We discussed the various 
+ports to be visited as well as the itinerary and the DC 
+agenda.  Guzel also requested a briefing on US Customs from 
+TDY EXBS Advisor Cummings when he learned that Cummings was a 
+retired US Customs officer with over 30 years of service.  We 
+agreed to provide this briefing on Oct 15. 
+ 
+2)  Oct 15 -  Cummings provided a comprehensive briefing on 
+U.S. Customs at Turkish Customs Enforcement Headquarters for 
+12 Turkish Customs officers/experts including both the 
+Director General of Enforcement Neset Akkoc, who will head 
+the VIP Customs delegation to the US, and the DDG for 
+Enforcement.  The group was very attentive, had a fair grasp 
+of US Customs and Border Protection's role, and asked 
+numerous questions concerning the CTPAT, CSI and even the 
+Secure Freight Initiative program which was not mentioned in 
+the briefing documents. Cummings discussed the similarities 
+with the EU's Authorized Economic Operator (AEO) and the 
+CTPAT program.  DG Akkoc expressed keen interest in how 
+interagency information sharing is done at the NTC. 
+ 
+The concept of "need to know" as well as the third party rule 
+(that information provided by companies or shippers is not 
+disclosed to third parties and does not prejudice the 
+competitive positions of persons providing this information) 
+and the exemption in the Privacy Act for task forces was 
+explained.  Akkoc was very positive and liked the concept of 
+the US advance notice requirements. Turkish officials also 
+asked about nuclear detection portal monitors.  Cummings 
+explained that the US is currently using Neutron-Gamma 
+portals.  (Note: Turkey is considering an offer by DOE/SLD to 
+provide a significant number of portal monitors.  End note). 
+The briefing lasted over two hours.  Afterwards, DG Akkoc 
+discussed the upcoming VIP visits to US Customs and three US 
+ports of entry.  Akkoc offered Cummings a tour of the Turkish 
+Command and Control Center (CCC). 
+ 
+3).  Oct 16 - EXBS Staff toured the Turkish Customs Command 
+and Control Center at Customs Enforcement Headquarters and 
+received a briefing by a Turkish customs official.  He 
+explained the organizational structure and demonstrated the 
+cryptographic system, closed circuit TV system, which was 
+originally established at five ports and recently expanded to 
+nine other ports using EU funds.  Under this system, both 
+headquarters and regional offices can watch/oversee 
+operations live, including viewing cargo exams conducted in 
+the inspection facility through the approximately 15 cameras 
+installed at each port.  EXBS staff was given a demonstration 
+of the CCTV system and was able to watch part of a cargo 
+search taking place live at one of the ports.  The CCC is 
+also able to monitor all transit vehicles through a vehicle 
+registration system and transponder program.  When a transit 
+vehicle enters Turkey the license plate is automatically 
+photographed and entered into the data base, manifest 
+information and personal data on the driver is also entered, 
+as is the prescribed itinerary and the maximum time allowed 
+in Turkey.  A transponder is then affixed to the vehicle and 
+the system can track the vehicle as it transits and the 
+transponder is removed by Customs at the departing port. 
+There are mobile enforcement teams that respond to any 
+violations that are indicated when monitored on the CCC 
+ 
+screen.  The system also has a color coding ability to 
+signify high risk cargo and/or suspect vehicle operators. All 
+vehicle registration data is retained in the system. 
+ 
+It appears that there is no pre-arrival time requirement for 
+trucks and their cargo.  The only pre-arrival requirement by 
+Turkish Customs is a three-hour requirement on vessel cargo. 
+Turkish officials indicated that the pre-arrival requirement 
+is in the process of being lengthened but did not say when 
+the new requirement will enter into effect. 
+ 
+There are presently two separate data systems at the CCC. One 
+is in the Custom Directorate that processes Customs 
+activities unrelated to enforcement.  It is an import and 
+export transaction based system that includes a form of risk 
+targeting.  The other data base, maintained in the Customs 
+Enforcement Directorate, contains all case data and violator 
+or suspect data from 1994 to present including intelligence 
+from the Anti-Smuggling teams.  In addition, Customs 
+Enforcement enters data received from Gendarmerie, National 
+Police and Coast Guard.  Other data is added from the Balkan 
+Information System, the Vehicle Pursuit Program and the 
+Vessel Pursuit Program. Customs Enforcement presently has 24 
+mutual assistance agreements including with the US.  Turkish 
+Customs is in the process of trying to merge the two data 
+systems in order to build a national targeting system. 
+ 
+Turkish officials discussed the EU procurement process. 
+Turkey has encountered problems purchasing high tech 
+equipment from the EU.  Under EU rules, once the 
+specifications are met, the lowest price wins the contract. 
+This can result in inferior equipment because there is no 
+consideration of past performance or quality.  Cummings noted 
+examples that he experienced in other countries where the 
+equipment was inferior because quality and past performance 
+was not considered when evaluating bids.  The experts from 
+Turkish Customs agreed and indicated that this did pose 
+problems for Turkey.  Cummings noted that EXBS and US 
+programs are more flexible and do take into consideration 
+quality and past performance as well as price.  Cummings 
+suggested that Turkey consider contacting EXBS if they had 
+some special equipment requests. 
+ 
+4).  Oct 17 -  TDY EXBS Advisor Kevin Cummings departed Post. 
+ 
+5).  Nov 1 -  EXBS Advisor Robert Cieslinski returned from 
+home leave and resumed normal duties. 
+ 
+¶B. (U) Training Conducted During this Reporting Period: - TDY 
+Advisor briefed Customs Enforcement (as noted in Paragraph 2 
+Above). No other training provided this period. 
+ 
+¶C. (U) Equipment Delivered During this Reporting Period: 
+None. 
+ 
+¶D. (U) Imminent Training or Equipment Status Update:  Plans 
+for a Senior Turkish Customs VIP visit to US DHS/CBP and 
+related training and border units has been finalized with 
+DHS/CBP.  The delegation, headed by Director General of 
+Customs Enforcement, Nesel Akkoc, will depart Ankara on 
+November 12.  The delegation will be in Washington for two 
+days and will meet with CBP and DOE Officials.  This 
+delegation will also visit CBP facilities in Reston VA, 
+Harpers Ferry WV, the Federal Law Enforcement Training Center 
+in Brunswick GA, the Ports of Charleston and San Diego, and 
+Airport Port of Entry at JFK during this visit.  The 
+delegation is scheduled to return to Ankara on November 24th. 
+ 
+¶E. (U) Significant Developments in Export Controls, 
+Nonproliferation, or Related Border Security: Turkey's 
+revised Export Control draft legislation discussed in 
+previous reports is currently with Parliament and is expected 
+to be passed into law sometime in early 2009. 
+ 
+¶3. (U) Future Activities: None at this time.  MFA told us the 
+next Export Control Inter-Agency meeting, which is scheduled 
+for Nov 21, will discuss and coordinate Turkish requests in 
+response to the proposals for cooperation offered during the 
+ 
+September 17-18 EXBS and Nonproliferation Seminar. 
+ 
+¶4. (U) Red Flag Issues:  None. 
+ 
+¶5. (U) Contact information for EXBS Program Ankara is: 
+Robert Cieslinski, EXBS Advisor, Email: 
+CieslinskiRL@state.gov, Office (90) (312) 457-7210, Cell (90) 
+(533) 716-4808 and Erhan Mert, EXBS Coordinator, Email: 
+MertE2@state.gov, Office(90)312 457-7059, Cell (90) (533) 
+264-8407. EXBS Program Office Fax (90) (312) 468-4775. 
+ 
+Visit Ankara's Classified Web Site at 
+http://www.intelink.sgov.gov/wiki/Portal:Turk ey 
+ 
+WILSON

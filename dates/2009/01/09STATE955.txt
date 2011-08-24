@@ -1,0 +1,136 @@
+09STATE955
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Tue Jan 06 00:00:00 +0100 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0016
+RR RUEHWEB
+
+DE RUEHC #0955 0061750
+ZNR UUUUU ZZH
+R 061737Z JAN 09
+FM SECSTATE WASHDC
+TO RUEHIN/AIT TAIPEI 0000
+INFO RUEHGP/AMEMBASSY SINGAPORE 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 000955 
+ 
+SIPDIS 
+AIT TAIPEI FOR MATTHEW O'CONNOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC TW
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON APPLICATION 050133912 
+ 
+REF: SINGAPORE 488 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests AIT Taipei's assistance in 
+conducting a pre-license check on application 050133912 for 
+the export of an Emission Microscopy Camera to Taiwan.  Post 
+is requested to complete this Blue Lantern check within 30 
+days.  Lack of response to a Blue Lantern check will affect 
+pending and future licenses involving parties to this license. 
+ 
+¶3. Reason for request:  Confirm that proposed end-user, 
+Taiwan Semiconductor Manufacturing Co. Ltd. (TSM) ordered an 
+Emission Microscopy Camera from foreign consignee, Semicaps 
+Pte. Ltd (Semicaps).  Semicaps was the subject of a previous 
+unfavorable Blue Lantern determination involving the same 
+commodity (See reftel for further details).  DTC wishes to 
+establish the bona fides of this transaction and gain 
+assurances of the company's familiarity with ITAR 
+restrictions, especially those that prohibit the unauthorized 
+re-transfer and re-export of USML items. 
+ 
+¶4. ACTION AIT TAIPEI: Post is requested to make inquiries 
+with TSM officials to determine if the company ordered an 
+Emission Microscopy Camera from foreign consignee, Semicaps 
+Pte. Ltd. and if so, confirm that the article will be used 
+for the purpose stated on the license.  POC is TSM Principal 
+Engineer, Kenneth Lin, Tel. 886-3-5773628 
+END ACTION. 
+ 
+¶5. Details of license application: 
+ 
+DTC Case: 050133912 
+ 
+QUANTITY/COMMODITY: 
+ 
+1  SU640EMC-1.7LT Emission Microscopy Camera 
+ 
+License Value: USD 92,000.00 
+ 
+SELLER: 
+ 
+Goodrich Corporation Sensors Unlimited 
+3490 US Rt.1, Bldg 1 
+Princeton, NJ  08540 
+POC is Sheryl Rubin, Tel. 609-524-0255 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Semicaps Pte. Ltd. 
+28 Ayer Rajah Crescent #03-01 
+Singapore 139959 
+Singapore 
+POC is Executive Chairman, Jacob Phang, Tel.  65 6779 3748 
+ 
+FOREIGN END-USER: 
+ 
+Taiwan Semiconductor Manufacturing Co. Ltd. 
+Fab 7 Warehouse, No. 6 Creation Rd. 2, Science-Based 
+Industrial Park 
+Hsinchu 300, ROC 
+Taiwan 
+POC is Principal Engineer, Kenneth Lin, Tel. 886-3-5773628 
+ 
+PURPOSE: 
+ 
+Goodrich SUI will be selling the Emission Microscopy Camera 
+to Semicaps for integration into their Photon Emission 
+Microscope for ultimate end-use by Taiwan Semiconductor 
+Manufacturing Co. Ltd.  The camera will be used in 
+conjunction with microscope optics to detect near-infrared 
+photon emissions in the wavelength band of 900-1700nm for 
+integrated circuit faults.  Localizing the faults is a key 
+part of the integrated circuit failure analysis process used 
+to design, debug, for product engineering, yield enhancement 
+and customer returns. 
+ 
+¶6. Submitted in support of the license application was the 
+following document (PM/DTCC can fax documentation to post 
+upon request): 
+ 
+--DSP-83 Nontransfer and Use Certificate submitted by Taiwan 
+Semiconductor Manufacturing Co. Ltd., signed by Principal 
+Engineer, Kenneth Lin on 22 October 2008; and Semicaps Pte. 
+Ltd. signed by Executive Chairman, Jacob Phang on 22 October 
+2008 
+ 
+--Purchase Order POR005416 submitted by Semicaps Pte. Ltd., 
+signed by Executive Chairman, Jacob Phang on 16 September 2008 
+ 
+--End-user Statement submitted by Taiwan Semiconductor 
+Manufacturing Co. Ltd., signed by Principal Engineer, Kenneth 
+Lin on 6 November 2008 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Tim Mazzarelli, Phone: 
+202-663-3867; Email: MazzarelliTP@state.gov; SIPRNET: 
+MazzarelliTP@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file in the Bunche Library's 
+E-Book Collection on the DOS Intranet: 
+http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶8. Department is grateful for post's assistance in this 
+matter. 
+RICE

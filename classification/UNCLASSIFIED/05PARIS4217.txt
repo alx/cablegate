@@ -1,0 +1,1215 @@
+05PARIS4217
+FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR SIX
+Wed Jun 15 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+151008Z Jun 05UNCLAS SECTION 01 OF 14 PARIS 004217 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR); 
+EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR SIX 
+PRINCIPAL CANDIDATES FOR SCP - PLURALISM AND DEMOCRACY IN THE 
+U.S. 
+ 
+REF: 
+ 
+POST WOULD LIKE TO NOMINATE SIX PRINCIPAL CANDIDATES FOR 
+SUBJECT PROGRAM: MRS. NAIMA CHARAI; MR. RACHID BOUMAHDI; MR. 
+AMAR DIB; MR. BRUNO BEZIAT; MR. ADJI AHOUDIAN; MRS. BLANDINE 
+CHELINI-PONT. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 279 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - SCP Pluralism and Democracy in the U.S. 
+START MEMO PROJ-DESC: 
+--To provide alternative solutions and approaches to key 
+issues of integration of immigrant and minority populations, 
+by understanding U.S. society and values. 
+--To include overview of U.S. policy and legal and regulatory 
+structures on discrimination; observance of institutions and 
+public and private programs facilitating integration of 
+minorities. 
+--To understand how our government structure and private 
+involvement works out issues of religious, racial, ethnic, 
+cultural differences. 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Single Country Project 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 6 
+RANK-ORDER: 7 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: SCP 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Diversity & Pluralism 
+START BIO: 
+PREFIX: Ms. 
+F-NAME: Naima 
+M-NAME: 
+L-NAME: Charai 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Conseil Regional d'Aquitaine 
+M-ADDR2: 14, rue Francois de Sourdis 
+M-ADDR3: 
+M-CITY: Bordeaux 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 33077 cedex 
+M-ZIP: 
+M-PHONE: + (33) 5.57.57.80.97 
+M-FAX: + (33) 5.56.96.46.92 
+M-EMAIL: ncharai@caramail.com 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: F 
+DOB: 10/04/1972 
+MAR-STAT: S 
+BIRTH-CITY: Taounate 
+BIRTH-CNTRY: Morocco 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Member of the Aquitaine Regional Council, Delegate for Urban 
+Policy, since March 2004 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+2002-2004 - Director of IPPO Association which takes care of 
+and defends prostitutes 
+1998-2002 - Volunteer Member of NGO "Medecins du Monde", 
+coordinator of health care and risk prevention actions 
+dedicated to homeless and drug-addicts 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+- London UK, 2004 tourism 
+- Marrakech (Morocco), 2004 tourism and family stay 
+- Heraklion (Crete), 2003 tourism 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1998 - Graduate degree in Social Psychology 
+1997 - Master's degree in Psychology 
+ 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+- Volunteer "Medecins du Monde" 
+- Member of numerous associations dealing with urban policy as 
+a Regional Counselor 
+- Member of the board of various schools in Bordeaux 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+1997 - "Prejuges, discriminations et relations intergroupes" 
+1998 - "L'acces aux soins: la theorie de l'engagement" 
+2001 - "Evaluation de la satisfaction des usagers de drogues 
+pris en charge en medecine de ville" 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+Does not eat pork 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 1 
+ENGL-SPEAK: 1 
+ENGL-COMP: 1 
+START OTHER-LANGS: 
+OTHER-LANG: Arabic 
+OTHER-LANG-ID: AR 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+It has always been a goal to reach out to the minority and 
+immigrant communities in France. Since 9/11, the importance of 
+reaching out to the Muslim community in particular has also 
+become a top priority. Naima Charai is one of the few 
+immigrant women elected officials in France and does not 
+manifest any strong a-priori anti-U.S. bias. Her main areas of 
+concern, social and urban problems, are ones that both our 
+countries devote enormous efforts and resources to, although 
+pursuing somewhat different approaches. An IV program for 
+Charai, who has never been to the U.S., would offer the 
+possibility of creating a strong, favorable impression in 
+someone who has a profile that we do not often run across and 
+who has the energy and drive to be present on the political 
+scene for many years to come. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: J. Brinton Rowdybush 
+START MEMO NOMINATING-JUSTIFICATION: 
+The Regional Council of Aquitaine covers five departments and 
+is the third largest in France. It has a budget of some 700 
+million Euros with  broad responsibilities in the areas of 
+economic development, education, infrastructure, and 
+transportation. There are 85 elected members of the Council. 
+Naima Charai is an exception in France: young (32), female, 
+from an immigrant family of 10 children whose parents are 
+illiterate, and an elected official (put in an electable 
+position on the PS electoral list in March 2004). By any 
+standards she is a classic success story. From doing a 
+secondary program in sewing and styling, through an individual 
+effort she was able to re-orient herself and attain 
+undergraduate degrees in psychology and then go on to two 
+graduate degrees in the same field. 
+Early on Charai became involved in association and 
+humanitarian work. She has worked with Medecins du Monde to 
+facilitate access to health care for 16-25 year-olds who are 
+in precarious circumstances and also with young drug addicts. 
+Starting in 2000 she became involved with prostitution issues 
+and founded an organization to promote access to health care 
+for these young women (and sometimes men) from Eastern Europe 
+and Africa, as well as making them aware of their fundamental 
+rights. 
+The same drive and profile that brought her to the attention 
+of local politicians made the APP aware of her activities. I 
+had first met her several times when she was sent by the 
+Regional Council to represent it at various events. Although 
+on the Left politically, she is not dogmatic in her attitude 
+toward the United States and is genuinely interested in 
+learning more about American approaches to social and urban 
+problems. Although not a practicing Muslim, she comes from 
+that community and offers an unusual opportunity to make 
+connections with someone who has made extraordinary strides 
+herself and is likely to be an increasingly important 
+interlocutor for the future. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Bordeaux, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 554 
+PERSON-ID: 453 
+BIRTH-CNTRY-ID: MO 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Rachid 
+M-NAME: 
+L-NAME: Boumahdi 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: GREMAQ 
+M-ADDR2: Universite des Sciences Sociales 
+M-ADDR3: Place Anatole France - Bat J 
+M-CITY: Toulouse 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 31042 cedex 
+M-ZIP: 
+M-PHONE: + (33) 5.61.12.85.43 
+M-FAX: 
+M-EMAIL: boumahdi@univ-tlse1.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 11/29/1964 
+MAR-STAT: M 
+BIRTH-CITY: Medea 
+BIRTH-CNTRY: Algeria 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Lecturer in Economics, University of Social Sciences, 
+Toulouse, since 1992 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Imam, Prayer Center, Portet-sur-Garonne, since 1999 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1991-1992 - Adjunct lecturer in Economics, University of 
+Social Sciences, Toulouse 
+1990-1991 - in charge of tutorials in Economics, University of 
+Social Sciences, Toulouse 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+- Chongqing, China - December 2003-January 2004, to train 
+Chinese students on behalf of Toulouse University of Social 
+Sciences 
+- Mecca, Saudi Arabia - August 2003, pilgrimage 
+- Dubai, United Arab Emirates - May 2000, to represent 
+Toulouse University of Social Sciences at International 
+Education Forum 
+- United Kingdom, Spain, Luxembourg, Tunisia, Algeria, Morocco 
+- 1990's, business (to teach or attend professional 
+conferences) or leisure (to visit family) 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+October 1993 - Certificate of ability to direct research, 
+University of Social Sciences, Toulouse 
+April 1989-December 1991 - Ph. D. in Economics (with 
+distinction), University of Social Sciences, Toulouse 
+October 1987-March 1989 - Doctoral student in Mathematical 
+Economics and Econometrics, University of Social Sciences, 
+Toulouse 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+- Member, Commission of Specialists, University of Social 
+Sciences, Toulouse, 1995-present 
+- Member, Board of Directors, Interdisciplinary Think Tank on 
+Human Resources and Employment, University of Social Sciences, 
+Toulouse 
+- Vice President, Association of French Muslims of Portet-sur- 
+Garonne 
+- Member, Board of Advisors, Institute of Science and Theology 
+of Religions, Toulouse, 2000-2003 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+Has published over twenty articles in economic journals and 
+books, including numerous articles on discrimination in the 
+job market: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+Eats Kosher meat. Is a practicing Muslim and prays five times 
+a day but can adjust his prayer pattern to professional 
+imperatives (i.e. will not interrupt a meeting to pray). 
+However, sensitivity to his ability to practice his faith 
+would be appreciated. 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: Arabic 
+ENGL-READ: 2 
+ENGL-SPEAK: 2 
+ENGL-COMP: 2 
+START OTHER-LANGS: 
+OTHER-LANG: French 
+OTHER-LANG-ID: FR 
+READ: 5 
+SPEAK: 5 
+COMP: 5 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Based on the USG's current efforts to reach out to new 
+audiences and especially to the Arab-Muslim community, an IV 
+project for Mr. Boumahdi would be a chance for the USG to have 
+a significant impact on an influential point of contact for 
+the Mission in the Toulouse area. Having never visited the 
+U.S. and coming from an environment where negative sentiments 
+towards the U.S. tend to prevail, this is an outstanding 
+opportunity to influence Mr. Boumahdi's perceptions of 
+American religious culture and policy towards minorities. As a 
+Muslim leader, his exposure to religious issues in the United 
+States would very likely help counter many misconceptions 
+present in the minds of French Muslims due to their current 
+distrust of the United States based on their perception that 
+the U.S. are waging a war against Islam. Providing him with a 
+direct understanding of American values and efforts to fight 
+discrimination will enable Mr. Boumahdi to gain a realistic 
+knowledge and perception of the United States. Through Mr. 
+Boumahdi, the USG can correct misunderstandings about 
+America's attitude towards religious and ethnic minorities. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Having never been to the United States, Mr. Boumahdi is eager 
+to learn about the U.S. affirmative action policy (its roots, 
+consequences, and results according to key players in the 
+field). He is more specifically interested in discrimination 
+in the job market and would like to meet with non-profits that 
+deal with discrimination and job integration. He is also 
+interested in meeting with Muslim leaders as well as with 
+other minority leaders (Hispanic, African-American, religious 
+minorities). He would like to better understand the way 
+American Muslims live and the issues they face, in particular 
+how they practice their faith and what attitude Muslims in 
+other parts of the world should adopt towards America and 
+towards American Muslims. He is also keen to see if Muslims 
+outside of the U.S. can benefit from American Muslims' 
+experience with social integration (before and after 9/11), 
+religious tolerance, and secularism. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Helene Mason 
+START MEMO NOMINATING-JUSTIFICATION: 
+Through his professional and personal interests, Rachid 
+Boumahdi is a key player in Toulouse with regard to the many 
+issues facing Muslim and immigrant communities. A native of 
+Algeria himself, Mr. Boumahdi arrived in France in 1989 to 
+pursue his post-graduate studies at the Toulouse University of 
+Social Sciences thanks to a scholarship awarded to him by the 
+Algerian Ministry of Higher Education as valedictorian of his 
+class at the University of Algiers. His subsequent research in 
+the field of economics has focused in part on discrimination 
+in the job market in France and abroad. He has already 
+published articles on this theme and is keenly interested in 
+the current debate on affirmative action taking place in 
+France. A deeper understanding of the roots and effects of 
+affirmative action in the United States would likely impact 
+his contribution to the French scientific community's debate 
+on this issue. As a university lecturer currently responsible 
+for teaching economics to approximately 500 students at 
+various undergraduate and post-graduate levels and as a likely 
+future tenured professor, he may also have the opportunity to 
+teach on this theme to a number of students. 
+With respect to his personal involvement with the Muslim 
+community, Mr. Boumahdi is highly regarded as a moderate 
+preacher and is one of three main local Islamic leaders for a 
+community of approximately 30,000 Muslims in Toulouse. He has 
+led prayer meetings -both in French and Arabic- twice a day, 
+and the Friday prayers in particular, for the past five years 
+at a cultural center in Portet-sur-Garonne, a close Toulouse 
+suburbs. There are only approximately eight places of worship 
+for Muslims in the greater Toulouse area. As one of the few 
+Muslim preachers in Toulouse, Mr. Boumahdi is a member of the 
+"Muslim Coordination" group, which brings together the main 
+Toulouse Imams on a monthly basis to discuss issues and 
+exchange ideas. He embodies the emergence of a new Muslim 
+elite in Toulouse and has actively worked in favor of an Islam 
+disconnected from foreign countries' influence, thus 
+redefining the place of Islam and its organization in 
+Toulouse. 
+Mr. Boumahdi is also involved with the Institute of Science 
+and Theology of Religions (ISTR) through which he teaches a 
+course on Islam every trimester to a total of approximately 
+100 students from the Nursing School, Toulouse Business School 
+and the National School for Civil Aviation. Until 2003, he was 
+also involved in the ISTR inter-faith Advisory Board along 
+with a number of other religious leaders and experts in 
+Toulouse. 
+Through his various connections, Mr. Boumahdi's network puts 
+him on the forefront of the Toulouse Muslim life. His advice 
+is sought-after by his peers and his influence in the Muslim 
+community is great, despite his refusal to take part in the 
+regional chapter of the French Council on the Muslim Faith. 
+Mr. Boumahdi's open-mindedness also sets him apart and 
+warrants a beneficial, if not influential, IV visit. He will 
+no doubt become a university professor, with the added 
+credibility and influence that this position entails, and has 
+every intention of continuing to be an active leader in the 
+Toulouse Muslim community. 
+Not only would a visit to the United States as an 
+International Visitor certainly influence Mr. Boumahdi's 
+vision of religious issues in the U.S., it would also enable 
+APP Toulouse to establish links with the local Muslim 
+community. Such connections are difficult to develop, 
+especially in the current international political situation, 
+and this would be an effective opportunity to facilitate and 
+amplify our outreach to the Muslim community. 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Toulouse, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 555 
+PERSON-ID: 454 
+BIRTH-CNTRY-ID: AG 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: AR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Amar 
+M-NAME: 
+L-NAME: Dib 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Conseil General du Rhone 
+M-ADDR2: 29-31 cours de la Liberte 
+M-ADDR3: 
+M-CITY: Lyon 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 69483 cedex 03 
+M-ZIP: 
+M-PHONE: + (33) 4.72.61.77.77 
+M-FAX: + (33) 4.78.62.05.41 
+M-EMAIL: 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 07/22/1964 
+MAR-STAT: S 
+BIRTH-CITY: Lyon 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Senior Advisor, Local Government Crime Prevention Unit, 
+Greater Lyon Urban Community, since 2000 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+- Administrator of the FASILD (Special Action and Support Fund 
+for Integration and Anti-Discrimination), a national agency 
+that support some 6,000 institutions nationwide 
+- Member of the National Economic and Social Advisory Council 
+- Publishing Director of "SADMagazine", a monthly national 
+magazine that targets Muslim readers and covers social, 
+economic and cultural issues 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Social Educator, Local Government 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+New York City and Washington D.C. - 1994, one week tourism 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1985 - Graduate Degree in Social Practices, University of Lyon 
+II 
+1983 - Degree, Public Notaries School, University of Lyon III 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+- President of the National Federation of "Convergence" Clubs 
+(minorities integration institutions) 
+- Vice-President of "Hospitalite Abraham" (Arab immigration 
+institution) 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+- March 2005 - "Meeting the Mahdi", Albin Michel 
+- 2004 - "The Children of the Republic", La Matiniere 
+- 2003 - "In the Shade of Hatreth", Licorne 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 2 
+ENGL-SPEAK: 2 
+ENGL-COMP: 2 
+START OTHER-LANGS: 
+OTHER-LANG: Italian 
+OTHER-LANG-ID: JT 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: Arabic 
+OTHER-LANG-ID: AR 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Dib's participation in the IVP would contribute to a positive 
+perception of U.S. immigration and integration policies. It 
+would also help offset criticism of the U.S. by minority 
+ethnic groups. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Social institutions: federal, state and local immigration and 
+integration institutions, welfare organizations, social 
+workers and mediators, police/social institutions/community 
+partnerships 
+Ethnic minorities: ethnic groups, media, community 
+organizations, urban and housing rehabilitation programs, 
+mosques and churches, groups that integrate refugees and other 
+immigrants 
+Judicial: youth-at-risk, juvenile crime prevention units, 
+youth prisons and rehabilitation centers 
+Economy: minority business development institutions 
+Academics: Academic or social experts on affirmative action 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Alain Beullard 
+START MEMO NOMINATING-JUSTIFICATION: 
+Amar Dib is a sociologist who occupies a series of concurrent 
+positions, all tied to immigration and integration issues. 
+Responsible for the Early Prevention Unit of the greater Lyon 
+urban community, Dib also is an Administrator of the FASILD 
+(Special Action and Support Fund for Integration and Anti- 
+Discrimination), a national agency that supports some 6,000 
+institutions nationwide. In 2002, Dib was appointed a member 
+of the National Economic and Social Advisory Council. Dib also 
+is the Publishing Director of SADMagazine, a monthly national 
+magazine that targets Muslim readers and covers social, 
+economic and cultural issues. Dib is close to J-L Borloo, the 
+Minister of Labor and Social Cohesion, who recently tasked Dib 
+with recommending new policies to facilitate the integration 
+of immigrants. Borloo asked Dib to place a special focus on 
+affirmative action in his report. Dib is the author of several 
+reports on integration policies, including one on housing and 
+ethnic pluralism that was ordered by the Presidency. He also 
+produced a study on Islam and integration. Dib is the national 
+president and co-founder of Club Convergence, a national 
+network, which gathers some 5,000 intellectuals and upper 
+class French Arabs. Club Convergences has two primary goals: 
+not only to serve as role models for young Arabs in France, 
+but also to serve as "evidence" (to the French authorities) 
+that French Arabs can serve in positions of responsibility in 
+numerous different fields. In addition, Dib participates in 
+numerous outreach programs, seminars and other events 
+throughout the country. 
+Dib is expected to pursue an active career that will keep him 
+close to the highest national political and media circles. As 
+a prolific author and active network lobbyist he should also 
+remain an influential relay for new ideas. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Lyon, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 556 
+PERSON-ID: 455 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Bruno 
+M-NAME: 
+L-NAME: Beziat 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Place Jacques Lemoine 
+M-ADDR2: 
+M-ADDR3: 
+M-CITY: Bordeaux 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 33000 
+M-ZIP: 
+M-PHONE: + (33) 5.56.00.32.28 
+M-FAX: + (33) 5.56.00.32.17 
+M-EMAIL: b.beziat@sudouest.com 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 12/06/1968 
+MAR-STAT: M 
+BIRTH-CITY: Perigueux 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Journalist, Head of the Department "Society", Sud-Ouest 
+newspaper, Bordeaux, since January 2004 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+TV7, presenter for shows on social issues 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+2000-2003 - Journalist, Head of the Department "City of 
+Bordeaux", Sud-Ouest newspaper 
+Jan 1999-Dec 1999 - Journalist, Head of Arcachon Office, Sud- 
+Ouest newspaper 
+1997-1998 - Journalist, Office of Saintes, Sud-Ouest newspaper 
+1995-1996 - Journalist, Office of Oloron, Sud-Ouest newspaper 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+- Vermont - 1986, three weeks school exchange 
+- Montana and Dakota - 1993, two weeks vacation 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+- Canada - 1992-1994, twenty months for professional purpose, 
+journalist for a French newspaper 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1992 - Master's degree in Political Science, University of 
+Bordeaux IV 
+1990 - Master's degree in Information and Communication 
+Sciences, University of Bordeaux III 
+1989 - Bachelor of Art's degree in sociology, University of 
+Bordeaux II 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Member of the "Club de la Presse" of Bordeaux 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+1995 - present: numerous articles in Sud-Ouest newspaper 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 3 
+ENGL-SPEAK: 3 
+ENGL-COMP: 3 
+START OTHER-LANGS: 
+OTHER-LANG: Spanish 
+OTHER-LANG-ID: QB 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+One of our primary tasks is to reach out to the media in order 
+to achieve balanced and fair coverage of U.S. policies, goals 
+and values. It is vital to include major local media in this 
+strategy. For Southwestern France, Sud-Ouest is the major 
+player and Beziat is one of its rising young stars. He is now 
+at a point in his career where he will be taking on increasing 
+responsibilities. A more knowledgeable understanding of the 
+U.S. as the result of an IV program will have a positive, long- 
+term impact. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: J. Brinton Rowdybush 
+START MEMO NOMINATING-JUSTIFICATION: 
+Sud-Ouest is privately held, belonging primarily to the 
+founding Lemoine family. With an audience of 300-350,000, it 
+is the leading regional newspaper in the area, and the second 
+regional daily after Ouest-France. It covers Aquitaine, 
+Charentes and Gers, and owns local dailies in Pyrenees 
+Atlantiques, Charentes and Dordogne. Sud-Ouest also owns 50% 
+of the Bordeaux based local TV station TV7 and operates a 
+brand new, highly automated printing plant which Ambassador 
+Leach visited in 2003. 
+Bruno Beziat has been a journalist with Sud-Ouest for the past 
+10 years. He served outside of Bordeaux in smaller cities 
+before being called back to the main office in 2000 to oversee 
+local Bordeaux coverage and the CUB (Communaute Urbaine de 
+Bordeaux). He was recently promoted to head up the newspaper's 
+social and daily life coverage, including the key sector of 
+education. Beziat's original training is not specifically as a 
+journalist, but rather in sociology, 
+information/communication, and political science, all in 
+Bordeaux, so he is very much a local product. 
+Even though Beziat has had some limited exposure to the United 
+States, from a high school trip and from brief visits to the 
+U.S. when he worked for a weekly in Saskatchewan, Canada, this 
+was more than 10 years ago. He understands, as does his senior 
+management, that he would definitely benefit from exposure to 
+U.S. issues, problems, and approaches today. We have been told 
+by Sud-Ouest's managing editor that Beziat is being groomed 
+for increased responsibilities at their publishing group and 
+they are making a calculated investment in him. We can see why 
+since he is a dynamic and resourceful individual. 
+It is well-known that there has been considerable criticism of 
+and even hostility towards the U.S. in the French media in 
+recent years. This has not been the case of Sud-Ouest, which 
+presented balanced coverage, for example, of the American 
+presidential campaign and has been judicious in its coverage 
+of the Iraq war. Discussions with Beziat have indicated that 
+he is open-minded about the United States and curious about 
+developments there. Selection as an IV would result in many 
+years of more informed and sympathetic coverage of the U.S. at 
+a major regional press outlet. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Bordeaux, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 557 
+PERSON-ID: 456 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Adji 
+M-NAME: 
+L-NAME: Ahoudian 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Association "Braves Garcons d'Afrique" 
+M-ADDR2: s/c Pepiniere Mathis 
+M-ADDR3: 9, rue Mathis 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75019 
+M-ZIP: 
+M-PHONE: + (33) 1.55.26.82.10 
+M-FAX: 
+M-EMAIL: ahoudianadji@yahoo.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 09/10/1979 
+MAR-STAT: U 
+BIRTH-CITY: Tiebele 
+BIRTH-CNTRY: Burkina Faso 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Artistic Committee Referent, "Braves Garcons d'Afrique" - BGA 
+(immigrant association), since 2001 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Social Mediator for "Immobiliere 3F" (management and building 
+of social housing), since 2001 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+2001-2004 - President (and founding member) of BGA 
+1999-2001 - Counselor, Leisure Center 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Senegal, 2002 and 2004 - work for "Association BGA" 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+2001 - Diploma taken after two years at University of 
+Sociology 
+1999 - High School diploma in Management and Accountancy 
+1999 - Camp Counselor Certificate 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 1 
+ENGL-SPEAK: 1 
+ENGL-COMP: 1 
+START MEMO NOM-POST-OBJ: 
+Adji Ahoudian has demonstrated a clear grasp of the difficult 
+issues that confront underprivileged youth in France and has 
+shown his dedication to providing a better life for the 
+residents of his neighborhood. We believe a greater 
+understanding of how these issues have been dealt with in the 
+U.S., and the possibility of associating his goals and 
+objectives with those of US support organizations for 
+youth/minorities, will bolster the work of BGA within the 19th 
+arrondissement.  A deeper understanding of U.S. government, 
+society and culture will also permit him to act as a third 
+party endorser of our policies and enhance his own active role 
+as a minority community leader. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Katja Graisse 
+START MEMO NOMINATING-JUSTIFICATION: 
+Actively involved in Paris' social arena, Mr. Adji Ahoudian, a 
+young (25 years old) French of African origin leading a 
+neighborhood association for young immigrants (Braves Garcons 
+d'Afrique - Brave Boys of Africa), presents very high 
+potential in terms of outreach towards a multi-ethnic and 
+underprivileged community.  Born in Burkina Faso, Mr. Ahoudian 
+came to France at the age of 2.  His early experiences and 
+drive lead him to found  "BGA", which is now a key local actor 
+for the integration of ethnic minorities in Paris' 19th 
+District.  His group has been active in fostering projects, 
+especially in the artistic arena, aimed at building solidarity 
+among resident youth of mostly African extraction and at 
+providing a creative and peaceful alternative to a lifestyle 
+of violence (of national and international scope). In so 
+doing, the BGA expects to also facilitate their integration 
+into French society.  Mr. Ahoudian has never traveled to the 
+U.S. but shows great cultural and artistic (dance & music in 
+particular) interest in America, especially the African- 
+American and immigrant community experience. 
+Adji Ahoudian's work with underprivileged youth in his own 
+neighborhood would greatly benefit from a trip to the United 
+States.  He would greatly benefit from exposure to social and 
+cultural community work aimed at integrating minorities and 
+immigrants within the U.S. and build his own network of 
+contacts for future development of local and national 
+projects.  This experience would also provide him with a 
+strong insight to U.S. values and society, leading to an 
+increased support for U.S. policy positions for himself and 
+the individuals he deals with on a regular basis and for whom 
+he represents an alternative leadership. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: PA - U.S. Embassy Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 558 
+PERSON-ID: 457 
+BIRTH-CNTRY-ID: BN 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mrs 
+F-NAME: Blandine 
+M-NAME: 
+L-NAME: Chelini Pont 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: L'Heritiere 
+M-ADDR2: 
+M-ADDR3: 
+M-CITY: Ventabren 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 13122 
+M-ZIP: 
+M-PHONE: + (33) 4.42.28.76.43 
+M-FAX: 
+M-EMAIL: blandine-pont@tiscali.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: H 
+GENDER: F 
+DOB: 10/22/1965 
+MAR-STAT: M 
+BIRTH-CITY: Toulon 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Associate Professor in History, University of Aix/Marseille 
+III, since 2005 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+In charge of the CNRS research team on "Democracy and 
+Religion", since 2005 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1996-2005 - Associate Professor in History, University of 
+Aix/Marseille 
+1992-1996 - High School Teacher in History, Lycee Paul 
+Cezanes, Aix-en-Provence 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+- Washington - 2003, one week for academic research at the 
+American Public Library 
+- Salt Lake City, Utah - 2004, 8 days to conduct research at 
+Brigham Young University 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+- Budapest, Hungary - 2004, conference as guest speaker on 
+"The Permissible Scope of Legal Limitations on Freedom of 
+Religion or Belief" 
+- Italy - 2004, Council of Europe's conference as guest 
+speaker on "Religion and Public Sphere" 
+- Tubingen, Germany - 2003, conference as guest speaker on 
+"The Ethical or Spiritual Foundations of Europe" 
+- Quebec, University of Laval - 2003, conference as guest 
+speaker on "Democracy and Religious Pluralism in France" 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1995 - PHD in Law, School of Law, University of Aix/Marseille 
+1994 - PHD in History, Paris School of Political Sciences 
+1988 - succeeded the highly competitive national examination 
+in History 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+- American Catholic Historical Association 
+- European Studies on Religion and State Interaction Network 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+2003 - "Geopolitique du Christianisme", Ellipses 
+2004 - "Les Relations entre le Saint-Siege et les Etats-Unis", 
+Picard 
+2005 to be published - "Dieu, la France et les Etats-Unis: 
+quand les mythes font la loi", Berg International 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 3 
+ENGL-SPEAK: 3 
+ENGL-COMP: 3 
+START OTHER-LANGS: 
+OTHER-LANG: German 
+OTHER-LANG-ID: GM 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+In advocating societies where religion and democracy have 
+important role, Dr. Chelini-Pont is in a unique position to 
+have a significant impact on curriculum development. Her 
+nomination will strengthen an already well-established faculty 
+where her teaching will influence the nation's future leaders. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+It is important for Dr. Chelini-Pont to have exposure to both 
+American notions of the separation between Church and State 
+and also the central role that religion plays in American 
+life. It would be useful for her to meet religious leaders 
+within their communities (priests, ministers, rabbis, and 
+imams) to observe the ways in which organized faith can 
+interact with democracy. She should speak to someone in the 
+government who can describe faith-based approaches to societal 
+problems. She should also visit with professors of theology, 
+universities with religious affiliations and centers of 
+ecumenical activity on campus (for example: the Neuman Club at 
+the University of California in Berkeley). 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Josette Steinbach 
+START MEMO NOMINATING-JUSTIFICATION: 
+Long before religious pluralism and its 
+confrontation/collision with the state became a hot issue in 
+France, University Professor, Blandine Chelini-Pont designed 
+two curricula on "Religion and Democracy" and "Secularism and 
+Education" that received the Ministry of Education's 
+accreditation: She has been teaching these courses for six 
+years at the graduate level at the Marseille Law School and at 
+the School of Political Science, the only institutions in 
+France of higher learning where such curriculum is being 
+offered. 
+At age 39, a mother of five children, Dr Chelini-Pont is 
+brilliant but modest. She admits to many sleepless nights 
+while securing her reputation as a prolific author, and sought- 
+after speaker on matters of religion, ethics, politics and 
+culture. Her expertise on the history of religion and its 
+interaction within the public sector, as well as her recent 
+research on religious identity and the role of Islam in France 
+prompted a special consultant's assignment at the Council of 
+Europe. She also is a regular guest speaker for the Committee 
+on "Religion and Politics" at the Quai d'Orsay. Last year, she 
+was named special consultant within the Academy of 
+Aix/Marseille (the representation of the Ministry of Education 
+in the region) for the period 2004-2006 where she will conduct 
+a seminar for all the directors of regional high schools on 
+"education and secularism". 
+After the publication of her sixth book in 2005 "Dieu, la 
+France et les Etats-Unis: quand les mythes font la loi", she 
+hopes to introduce aspects of U.S. studies into the curriculum 
+at Marseille Law school. An invitation to the U.S. would be 
+very timely as it would give her first hand exposure to the 
+intellectual climate in which American religious thought and 
+practice have influenced and been influenced by the 
+development of American democracy. So far, she has only gone 
+twice to the U.S. for research at libraries, it would be 
+beneficial to expose her to a multi-disciplinary approach 
+where she would meet with American government officials, NGOs, 
+lawyers, minority groups, religious leaders, and of course 
+other academics. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: AmGenCon Marseille, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 559 
+PERSON-ID: 458 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

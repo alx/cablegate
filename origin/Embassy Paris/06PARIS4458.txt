@@ -1,0 +1,107 @@
+06PARIS4458
+FRANCE'S DIGITAL COPYRIGHT COMPROMISE GUARANTEES
+Wed Jun 28 00:00:00 +0200 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+281100Z Jun 06UNCLAS PARIS 004458 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+DEPT FOR E, EB, EB/IPE, EUR/WE 
+DEPT PLS PASS TO USTR FOR JSANFORD/VESPINEL/RMEYERS 
+COMMERCE FOR SJACOBS, SWILSON 
+DOJ FOR CHARROP, FMARSHALL, RHESSE 
+COMMERCE PLEASE PASS TO USPTO 
+ 
+E.O. 12958: N/A 
+TAGS: KIPR ETRD PGOV FR
+SUBJECT:  FRANCE'S DIGITAL COPYRIGHT COMPROMISE GUARANTEES 
+INTEROPERABILITY 
+ 
+REF A) PARIS 3153 B) PARIS 1847 
+ 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+¶1.  (SBU) SUMMARY.  Following the June 22 conciliation meeting of 
+French Parliamentarians, a compromise draft of the copyright law has 
+emerged to be approved by vote on June 30.  The compromise text 
+legitimizes the use of DRM (Digital Rights Management) technologies 
+to protect authors' rights, but retains a requirement that companies 
+using these technologies provide information necessary for rivals to 
+develop compatible players and music stores.  The compromise text 
+falls short of defining interoperability, but gives inordinate 
+powers to the new regulatory authority set up to enforce the 
+interoperability requirements.  It remains to be seen which other 
+countries in the EU will want to follow the French example.  Belgium 
+and Denmark have already indicated their enthusiasm for this French 
+precedent.  END SUMMARY. 
+ 
+Forcing a political compromise 
+------------------------------ 
+¶2.  (SBU) A conciliation committee of seven National Assembly 
+members and seven Senators convened on June 22 to reconcile two 
+versions of the French Digital Copyright Bill, in particular to 
+address the interoperability requirements, which have been the most 
+controversial element of the bill.  The Senate had considerably 
+toned down the National Assembly's "revolutionary" version of 
+interoperability, forcing companies to share the secrets of their 
+exclusive online music technology in order to allow competitors to 
+make compatible digital music players.  Parliamentarians on both 
+sides of the political fence thought the divergences deep enough to 
+require a second reading.  However, the government, which controls 
+the legislative process, decided to stick to its current 
+"fast-track" emergency procedure, which requires only one reading by 
+both houses.  The compromise text will be subject to a final vote in 
+the National Assembly and the Senate on June 30, the last day of 
+this Parliamentary session. 
+ 
+Interoperability upheld, but not defined 
+---------------------------------------- 
+¶3.  (SBU)  The June 22 compromise text leans more to the pro-user 
+National Assembly version as opposed to the more pro-owners rights, 
+pro-business version of the Senate.  The principle of 
+interoperability has been treated as a "given," according to French 
+copyright lawyers we contacted on June 27.  Therefore, the 
+conciliation committee preferred to focus on the practical and 
+effective means of "guaranteeing" interoperability, rather than on 
+defining it. 
+ 
+¶4.  (SBU)  The text establishes a new Regulatory Authority for 
+Technical Measures with the power to interpret and enforce the 
+principle of interoperability and the right to private copy.  To the 
+original five members of the new authority, the conciliation 
+committee has added a sixth specialist in information technologies. 
+The new authority will keep its broad mandate from the National 
+Assembly version, allowing it to issue injunctions and fines, which 
+could represent up to five percent of the global pre-tax turnover of 
+a company, in some cases, or up to 1.5 million euros in other cases, 
+something no other independent authority can do under French 
+administrative law.  The new authority also has the power to defer a 
+case to the French Competition Council. 
+ 
+------- 
+Comment 
+------- 
+¶5.  (SBU)  The final text is likely to pass solely with the support 
+of the majority UMP party parliamentarians on June 30.  However, the 
+new legislation on Author's Rights and Related Rights in the 
+Information Society, originally designed to bring France in line 
+with the 2001 EU Digital Copyright Directive, clearly goes beyond 
+the directive in its defense of the right to interoperability and 
+private copy.  The European Commission will have the last word on 
+whether France's transposition is in conformity with the EU 
+Copyright Directive.  It is equally unclear whether French 
+implementation of the directive is in accordance with the country's 
+international commitments, including those stemming from the Berne 
+Convention.  French copyright lawyers have noted that the French 
+text made no direct reference to any international agreement.  At 
+this point, the French digital copyright bill raises more questions 
+than it answers, especially since its enforcement will ultimately 
+depend on future regulatory implementation and on a new authority 
+vested with unprecedented powers. 
+ 
+Stapleton

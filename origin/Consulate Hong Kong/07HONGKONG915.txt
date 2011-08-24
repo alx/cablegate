@@ -1,0 +1,150 @@
+07HONGKONG915
+EXTRANCHECK: PRE-LICENSE CHECK: HANG TAT
+Fri Mar 30 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0011
+RR RUEHWEB
+
+DE RUEHHK #0915/01 0890629
+ZNR UUUUU ZZH
+R 300629Z MAR 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 1152
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000915 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: HANG TAT 
+ELECHANG TAT ENTERPRISES CO 
+ 
+REF: A) USDOC 02122 
+ 
+1.Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of 
+the Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO), accompanied by Commercial 
+Assistant, Sandy Lai, conducted a pre-license check 
+(PLC) at Hang Tat Electronic Enterprises Co., Room 
+2608, Technology Plaza, 29-35 Sha Tsui Road, Tsuen 
+Wan, Hong Kong (Hang Tat). The items in question are 
+nine CMOS 8-Bit microcomputer/microcontrollers valued 
+at USD 405.  The export control classification number 
+(ECCN) for these items is 3A001.  According to Reftel 
+A, these items are controlled for nuclear 
+nonproliferation (NP) and national security (NS) 
+reasons and require a license for export to Hong 
+Kong. The license applicant is Falcon Electronics, 
+Inc. of Commack, New York. 
+ 
+¶3.  According to the Hong Kong Inland Revenue 
+Department Business Registration Office, Hang Tat has 
+been in existence since 1991.  The company is a sole 
+proprietorship (as a result, it is not listed in the 
+Hong Kong Companies Registry). Hong Kong identity 
+holder Sau Luen Chan is listed as owner.  A Hong Kong 
+Trade Development Council profile of Hang Tat lists 
+Mr. Cho-Man Wong as manager.  It states that Hang Tat 
+is a trading company specializing in electronics 
+trade. 
+ 
+¶4.  The ECO, accompanied by Commercial Assistant 
+Sandy Lai, visited Hang Tat at the address referenced 
+above on March 29, 2007 and met with a Mr. Wong.  The 
+meeting had taken some time to schedule as Mr. Wong 
+claimed, for two weeks, to be tracking down the name 
+of the end-user and the projected end-use of the 
+items.  Mr. Wong stated that Hang Tat is a trading 
+company with a long history of operations in Hong 
+Kong.  Hang Tat's business model consists of sourcing 
+electronic components for mainland Chinese trading 
+companies.  When asked for background on typical end- 
+users for his items, Mr. Wong stated that because he 
+receives so many orders, he cannot verify end-uses or 
+end-users for every order.  When asked again, in more 
+general terms, about the eventual end-users of Hang 
+Tat's products, Mr. Wong demurred. 
+ 
+¶5.  When asked for a business card, Mr. Wong stated 
+that the office of the company had recently moved and 
+he was in the process of obtaining new business 
+cards.  When asked for a business card listing the 
+old address, Mr. Wong stated that he had thrown them 
+all away.  Mr. Wong stated that Hang Tat did not have 
+any company brochure or other marketing information 
+to provide to the ECO. 
+ 
+¶6.  Mr. Wong stated that when U.S. vendors or Hong 
+Kong agents for suppliers request end-use or end-user 
+information, he provides it.  At the same time, he 
+stressed that his trading company customers in 
+mainland China have close relationships with 
+manufacturers and are not willing to disclose 
+proprietary information about potential customers. 
+Even when mainland Chinese trading companies provide 
+end-use/end-user information, Mr. Wong stated that he 
+cannot vouch for the accuracy of such information. 
+ 
+¶7.  As to the transaction that is the basis for the 
+license application, Mr. Wong stated that he had no 
+purchase order or related documentation.  He stated 
+that the buyer is a regular customer but Hang Tat 
+does not have a purchase order, as yet.  Mr. Wong 
+pointed to a page of an Intel Purchase catalog (dated 
+1996-1997) to indicate the type of items he had 
+ordered (Intel 12 MHZ-MIL-STD 833).  He stated that 
+his customer believes Atmel now manufactures the 
+items (www.Atmel.com). 
+ 
+¶8.  When asked for the name of Hang Tat's customer, 
+Mr. Wong declined to provide it, stating that this is 
+confidential information.  The ECO stressed that all 
+ 
+SIPDIS 
+information would be held in confidence and further 
+that it would prove difficult to approve an export 
+ 
+ 
+ 
+license without more information on the end-user/end- 
+use.  Mr. Wong stated that it is not uncommon for his 
+orders to be cancelled because his buyers are 
+unwilling to provide further background on the end- 
+use and end-user.  He eventually stated that the 
+items would be used as part of a mud logging unit in 
+oil exploration and drilling.  This information is 
+inconsistent with the stated end-use noted in reftel 
+¶A. 
+ 
+¶9.  At the conclusion of the meeting, Mr. Wong 
+stressedthat Hang Tat complies with Hong Kong export 
+conrol regulations and conducts his business in full 
+compliance with applicable laws.  He also stressed 
+thathe is familiar with Hong Kong export contro 
+rules and with TID (the entity that implement'sHong 
+Kong's export control system).  The ECO proided 
+information on U.S. reexport controls (BIS 
+publication 'Guidance on the Department of Commerce's 
+Reexport Controls'). 
+ 
+¶10.  Mr. Wong provided only cursory information about 
+Hang Tat and the eventual end-use of the items.  He 
+provided no information about the eventual end-user 
+of the items or the intermediate buyer in mainland 
+China.  The ECO recommends that this PLC of Hang Tat 
+be considered Unfavorable. 
+Cunningham

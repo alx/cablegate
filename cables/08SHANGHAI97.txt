@@ -1,0 +1,184 @@
+08SHANGHAI97
+CHINA FINANCIAL FUTURES EXCHANGE WAITING FOR STATE COUNCIL
+Wed Mar 19 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Shanghai
+VZCZCXRO8866
+RR RUEHCN RUEHGH
+DE RUEHGH #0097/01 0790743
+ZNR UUUUU ZZH
+R 190743Z MAR 08
+FM AMCONSUL SHANGHAI
+TO RUEHC/SECSTATE WASHDC 6748
+INFO RUEHBJ/AMEMBASSY BEIJING 1766
+RUEATRS/DEPT OF TREASURY WASHINGTON DC
+RUEHGZ/AMCONSUL GUANGZHOU 1129
+RUEHSH/AMCONSUL SHENYANG 1156
+RUEHCN/AMCONSUL CHENGDU 1158
+RUEHHK/AMCONSUL HONG KONG 1290
+RUEHIN/AIT TAIPEI 0968
+RHEHAAA/NSC WASHINGTON DC
+RUEHGH/AMCONSUL SHANGHAI 7287UNCLAS SECTION 01 OF 02 SHANGHAI 000097 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE PASS FEDERAL RESERVE BOARD FOR JOHNSON/SCHINDLER; SAN 
+FRANCISCO FRB FOR CURRAN/GLICK/LUNG; NEW YORK FRB FOR CLARK/CRYSTAL/MOSELEY 
+STATE PASS CFTC FOR OIA/GORLICK 
+CEA FOR BLOCK 
+USDOC FOR ITA/MAC DAS KASOFF, MELCHER AND OCEA/MCQUEEN 
+TREASURY FOR AMB.HOLMER, WRIGHT AND TSMITH 
+TREASURY FOR OASIA - DOHNER/HAARSAGER/CUSHMAN 
+TREASURY FOR IMFP - SOBEL/MOGHTADER 
+NSC FOR KURT TONG 
+ 
+E.O. 12958: N/A 
+TAGS: EFIN ECON PGOV CH
+SUBJECT: CHINA FINANCIAL FUTURES EXCHANGE WAITING FOR STATE COUNCIL 
+APPROVAL 
+ 
+REF: 07 SHANGHAI 251 
+ 
+(U) This cable is sensitive but unclassified and for official 
+use only.  Not for distribution outside of USG channels. 
+ 
+¶1. (SBU) Summary: In a March 5 meeting with Consulate TDY Econ 
+Officer, China Financial Futures Exchange (CFFEX) Research and 
+Development Head Dr. Zhang Xiaogang and his staff provided a 
+status update on CFFEX preparations to launch a stock index 
+future.  Licenses have been granted for 75 futures brokers and 
+mock trading has been carried out for almost one and a half 
+years.  CFFEX is awaiting State Council approval to launch the 
+stock index future, after which time it will take one to two 
+months to finalize regulations and commence trading.  Risk 
+averse policy makers fear that stock index future trading could 
+precipitate a stock market crash. 
+ 
+-------------------------- 
+Building Membership, Still Waiting for a Green Light 
+-------------------------- 
+ 
+¶2. (SBU) Though CFFEX was inaugurated on September 8, 2006 
+(reftel), the exchange has yet to begin trading its first 
+product, a stock index future based on the CSI 300. (Note: the 
+CSI (China Securities Index) 300 represents 300 companies listed 
+on China's Shanghai and Shenzhen Stock Exchanges, known as the 
+Hushen 300 in Chinese.  Firms are included in the index based on 
+a formula that includes total market capitalization and share 
+tradability.  End note.)  CFFEX has been overseeing mock trading 
+exercises since October of 2006, which include the participation 
+of CFFEX's trading members. 
+ 
+¶3.  (SBU) The membership of CFFEX has expanded to a total of 75 
+across all the membership classes.  According to Dr. Zhang and 
+as available on CFFEX's website (), there are 
+12 Comprehensive Clearing Members (quanmian jiesuan huiyuan); 39 
+Clearing Members (jiaoyi jiesuan huiyuan); and 24 Trading 
+Members (jiaoyi huiyuan).  All of these CFFEX members are 
+established as Futures Brokers and all are fully licensed. 
+These brokers will trade for their clients, such as securities 
+firms or regulator-approved insurance companies.  In the future 
+commercial banks may be allowed as Special Clearing Members 
+(teshu jiesuan huiyuan, of which there are none at the present 
+time) and institutional investors, including securities firms, 
+fund managers and QFIIs will be allowed as members, but specific 
+regulations have not been drawn up yet for these classes of 
+members. 
+ 
+¶4.  (SBU) After building a substantial membership and carrying 
+out many months of mock trading, CFFEX is waiting for a green 
+light from the State Council to commence actual trading of the 
+CSI 300 Index Futures.  Dr. Zhang noted that the launch is a 
+political issue because by creating a means to hold short 
+positions, some leaders are nervous that stock market volatility 
+could increase dramatically and possibly lead to social 
+disturbances.  Similarly, interlocutors at Chinese securities 
+firms guessed that the index futures would not be launched until 
+the new financial sector leadership was in place and that it was 
+unlikely that a single individual would advocate the launch 
+because of the possible negative market repercussions. 
+Therefore, the go-ahead would come through a process of 
+consensus building.  One securities firm manager in Shanghai 
+thought it was unlikely that stock futures would be launched 
+before the Beijing Olympics.  Once the futures are officially 
+approved for launch, Dr. Zhang estimated it would take one to 
+two months to finalize specific trading regulations and actually 
+commence trading. 
+ 
+--------------------- 
+Managing Risk 
+--------------------- 
+ 
+¶5.  (SBU) CFFEX is aiming to limit the use of its instruments to 
+hedging activities, rather than as tools for speculation.  As 
+ 
+SHANGHAI 00000097  002 OF 002 
+ 
+ 
+such, the exchange has initiated an investor education campaign 
+for its members and has established a regulatory framework to 
+pursue this goal.  CFFEX will take a "step-by-step" approach to 
+its members that will entail a higher required margin on trades 
+until a member's reputation is established.  Net short and long 
+positions will be allowed, but outstanding positions will be 
+limited to 600 contracts, which are RMB 1 million each. The 
+large contract size itself is designed to deter speculators as 
+well.  Institutional investors will be allowed to apply for 
+higher limits on the level of contracts outstanding.  All trades 
+will be subject to a pre-execution credit check, and margins 
+will be collected on both sides of the trade, even if a firm 
+holds both long and short positions. 
+ 
+¶6.  (SBU) Oversight for financial futures trading will encompass 
+the spectrum of regulatory agencies.  The Futures Supervision 
+Department of the China Securities Regulatory Commission (CSRC) 
+will oversee trading activities.  The CSRC established a 
+third-party institution in 2006 to facilitate futures trades, 
+the China Futures Margin Monitoring Center.  Each trading 
+institution will be overseen by their respective regulators, for 
+example, the China Banking Regulatory Commission (CBRC) will 
+oversee commercial banks' trading activities. 
+ 
+----------------- 
+History Lends to a Cautious Approach 
+----------------- 
+ 
+¶7.  (SBU) When asked about China's previous experience 
+introducing financial futures in the 1990s, which resulted in a 
+bond market crash, Dr. Zhang and his staff drew contrasts with 
+the present context for futures trading and the 1990s.  To begin 
+with, in the previous decade the legal framework for futures 
+trading was very weak, with no regulations to support trading 
+activity.  The authorities have established and strengthened 
+regulations, beginning with Futures Trading Regulations passed 
+by the State Council in 1997.  The 1990s bond market crash is 
+one reason that the current framework for futures trading leans 
+more towards risk mitigation than efficiency.  Dr. Zhang's staff 
+noted that the smooth and constructive performance of the 
+commodities futures market has helped to lessen concern.  But 
+risk averse authorities with an incomplete understanding of 
+complicated financial derivatives err on the side of caution. 
+ 
+------------------- 
+Investors Eager for Stock Hedging Instruments 
+------------------- 
+ 
+¶8. (SBU) Dr. Zhang and his staff noted strong interest among 
+institutional investors for stock hedging tools.  This sentiment 
+was echoed by a director at a foreign-invested securities firm, 
+who said that the firm's clients were very interested in the 
+proposed index future. Currently investors can try to create 
+proxy hedges with instruments in the Hong Kong and Singapore 
+markets, but these offer imperfect coverage and limited 
+liquidity.  Dr. Zhang thought that liquidity in China would be 
+ample, given a demand for both long and short positions. 
+ 
+¶9. (SBU) Dr. Zhang previewed traded financial derivatives that 
+might follow the stock index future.  His team is currently 
+researching exchange-traded stock index options and treasury 
+bond futures.  They have done extensive research on these types 
+of instruments in U.S. markets. 
+JARRETT

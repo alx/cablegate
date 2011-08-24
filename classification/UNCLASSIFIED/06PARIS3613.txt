@@ -1,0 +1,140 @@
+06PARIS3613
+France: Telecom and Information Technology Update
+Wed May 31 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 02 PARIS 003613 
+ 
+SIPDIS 
+ 
+STATE FOR EB/CIP 
+USDOC FOR NTIA AND ITA 
+FCC FOR INTERNATIONAL 
+STATE PLEASE PASS TO USTR 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD FR
+SUBJECT: France: Telecom and Information Technology Update 
+ 
+¶1. This is another in a series of periodic updates on the French 
+telecommunications and information technology sectors, including 
+internet and e-commerce. 
+ 
+Contents: 
+-- France Telecom is Europe's largest single broadband provider 
+(para 2); 
+-- FT seeking revision of E.U. regulations (para 3); 
+-- FT's dwindling subscribers base (para 4); 
+-- FT responds to fierce domestic competition (para 5); 
+-- France's All-Digital Television Policy (para 6); 
+-- Vivendi break-up proposal rejected (para 7); 
+-- Picking winners - Quaero and TVMSL get GOF R&D funding (para 8). 
+ 
+¶2.  France Telecom is Europe's largest single broadband provider: 
+With 7.6 million broadband subscribers at the end of 2005, France 
+Telecom remains the largest broadband service provider in Europe, 
+according to the latest Strategy Analytics Broadband Service 
+Provider Subscriber Database. At the end of 2005, the 76 service 
+providers in the database accounted for more than 52 million 
+broadband subscriptions in 20 European countries, an increase of 53 
+percent from the same period in 2004. This represents 86 percent of 
+the total 2005 European broadband market. 
+ 
+¶3.  France Telecom seeking revision of E.U. regulations: France 
+Telecom (FT) has asked the European Union to scrap regulations drawn 
+up in the 1990s, saying they discourage the Continent's incumbent 
+operators from investing in new networks.  FT is asking for a 
+complete phase out of current regulations by 2012. The company is 
+proposing limiting fixed-line regulation on the wholesale market, 
+while changing wholesale regulation in the mobile market to foster 
+the growth of network operators rather than virtual operators, or 
+MVNOs.  FT has written the E.U. saying that the current regulation, 
+which aimed to enhance competition, has contributed to the decline 
+of Europe's high-tech sector. 
+ 
+¶4.  France Telecom's dwindling subscribers base: France Telecom is 
+losing customers in droves.  About 1.5 million fixed-line contracts 
+are expected to be cancelled in 2006 as clients desert to cheaper 
+bundled service offers rather than pay FT's monthly subscription 
+fee.  Figures from ARCEP, the telecom regulator, showed France 
+Telecom's cancellation rate is running at 30,000 subscribers a week, 
+compared with 10,000 in December, as clients take up offers from the 
+likes of Neuf Cegetel, Free or Club Internet.  Rental line income 
+brought in 4.2 billion euros last year, more than the billings from 
+calls themselves.  Over 3 million households have picked an 
+alternative operator, of which 30 percent have completely opted out, 
+compared with 7 percent a year earlier. Rival operators made inroads 
+by offering cheaper call tariffs and bundling them with competitive 
+rates for broadband internet access.  FT's Wanadoo broadband service 
+still holds the dominant market share, with 4.5 million subscribers, 
+followed by 1.6 million with Free and 1.2 million at Neuf Cegetel. 
+FT, however, played down the figures, saying the cancellations 
+represented 3.5 percent of the residential fixed-line market. 
+ 
+¶5.  FT responds to fierce domestic competition: FT has announced 
+plans to sell an internet dedicated service called ADSL Only to 
+alternative operators.  The new service would be a wire connection 
+but without a normal phone service and would be sold solely for 
+internet use and would be free of the phone rental charge.  The 
+service could be used for internet calls, under the voice over 
+internet protocol (VOIP) system, pioneered by Skype.  FT also aims 
+to develop the so-called quadruple-play package, combining voice, 
+internet, television and mobile phone.  The company further intends 
+to phase out the Wanadoo name and merge its service under the Orange 
+mobile brand. 
+ 
+¶6.  France's All-Digital Television Policy: Following up on his New 
+Year's pledge to ensure that France is "one of the most advanced 
+nations in digital technology," French President Jacques Chirac 
+recently unveiled a new "Strategic Digital Committee" to carry out 
+the new strategy.  A cornerstone of this strategy is that HDTV be 
+deployed throughout France by 2011.  The new committee is chaired by 
+the Prime Minister and includes the Ministers of Culture and 
+Industry as well as the chairmen of telecom regulator ARCEP and 
+television regulator CSA.  President Chirac has also expressed hope 
+that, in time, the two regulators would merge.  According to one of 
+our contacts, the controversial merger is now a fait accompli given 
+Chirac's endorsement, although CSA staff was chagrined by his 
+pronouncement. 
+ 
+¶7.  Vivendi break-up proposal rejected: French media and telecom 
+group Vivendi recently rejected a shareholder's proposal to break up 
+the company, adding that its conglomerate strategy should generate 
+higher earnings this year than previously forecast.  The supervisory 
+and management boards of the group said they rejected the proposal 
+by Monaco-based private equity firm Sebastian Holdings, because it 
+was "based on economic and legal hypotheses that are unrealistic." 
+The plan, which was backed by Deutsche Bank and Bank of America, 
+involved a sale of the company's telecom and pay-television 
+operations and a leveraged buyout of the remainder of the assets, 
+according to press reports.  The French company - whose operations 
+include pay-TV broadcasting, computer gaming, music, and wireless 
+services - reported a 41 percent rise in first-quarter net profit, 
+boosted by strong growth at its music and games businesses.  The 
+group intends to pursue its strategy of combining its media and 
+telecom businesses. 
+ 
+¶8.  Picking winners - Quaero and TVMSL get GOF R&D funding:  In 
+late-April, President Chirac announced that the French Agency for 
+Industrial Innovation will fund some 15 large R&D projects this year 
+with 1.7 billion euros in state aid (see Paris 2747 for more 
+details).  Of the five initial R&D projects announced, two are 
+focused on information and communication technologies (ICT).  Each 
+project will involve shared public-private sector risk, with a major 
+French company leading the project and working in tandem with small 
+and medium-sized firms and public research labs.  The projects are 
+designed to produce marketable technologies within five years.  The 
+first major information technology project is Quaero, a 
+Franco-German effort to develop multimedia applications, including a 
+Google-type search engine, for which the lead company will be 
+Thomson.  The Quaero project will receive 90 million euros in GOF 
+state aid, although the German Government, Thomson and other 
+participating companies are expected to contribute toward the total 
+expected project cost of 250 million euros.  The other major 
+information and communications technology project is TVMSL which 
+aims to develop a new television standard for mobile phones.  The 
+lead company for TVMSL is Alcatel.  The TVMSL project will receive 
+38 million euros in state aid toward a total expected cost of 98 
+million euros. 
+ 
+Stapleton

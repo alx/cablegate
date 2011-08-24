@@ -1,0 +1,159 @@
+07HONGKONG3115
+EXTRANCHECK: POST SHIPMENT VERIFICATION: SOLTECH INDUSTRY
+Mon Dec 31 00:00:00 +0100 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0010
+RR RUEHWEB
+
+DE RUEHHK #3115/01 3650650
+ZNR UUUUU ZZH
+R 310650Z DEC 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 3766
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 003115 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON/SSILVER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: SOLTECH INDUSTRY 
+CO LTD. 
+ 
+REF: A) USDOC 09957 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) of Soltech Industry Co. Ltd., 1A, 
+Fook Ying Building, 379 Kings Road, North Point, Hong Kong 
+(Soltech). The items in question are two shipments of multiple 
+pallets of Electrica brand wire exported to Soltech on or about 
+September 7, 2007 and October 30, 2007 and collectively valued at 
+approximately USD 746,000.  The items are likely not on the Commerce 
+Control List (EAR99) and are therefore likely only controlled to 
+restricted destinations and to restricted end-users/uses. 
+Electro-Mechanical Systems International of Philadelphia, 
+Pennsylvania exported the items. 
+ 
+¶3.  ECO was unable to obtain contact details for Soltech using 
+information provided by OEA nor from independent searches of various 
+Hong Kong information sources.  Commercial Assistant Carrie Chan was 
+eventually able to contact a representative of the freight 
+forwarding company to which the items were shipped.  That company is 
+Conquest Express (HK) and it is the Hong Kong office of Taiwanese 
+freight forwarder, Conquest Express Co. Ltd. (www.conquest.com.tw). 
+ 
+¶4.  According to the representative of Conquest Express in Hong 
+Kong, Soltech is a Taiwanese company.  The representative for 
+Soltech with which Conquest interacts is named Amber.  No last name 
+was given.  Ms. Amber travels in the region and is not stationed in 
+Hong Kong.  The conquest representative stated that the Hong Kong 
+office of Conquest Express is used as Soltech's shipment location. 
+Initially, Conquest Express declined to provide shipping documents 
+relating to the items in question. 
+ 
+¶5.  Subsequently, Commercial Assistant Carrie Chan received a call 
+from Eddy, calling on behalf of Soltech.  He stated that the Kings 
+Road address of Soltech noted above is actually not the headquarters 
+of Soltech.  He stated that he lends the office address to others as 
+a favor.  He stated he knows nothing about Soltech or the items in 
+question.  He stated that Ms. Amber arranges for pick-up and 
+delivery of items on behalf of Soltech.  Eddy did not provide his 
+full name.  An address search of the Soltech address noted in the 
+applicable invoices and in reftel A reveals that this address is 
+associated with Hong Kong company Von Development Ltd. 
+(www.vonhk.com). Eddie Yuen is listed as the CEO of this company.  A 
+Hong Kong Companies Registry search reveals that this company has 
+been in existence since 1988.  Hong Kong residents Yuen, Chi Choi 
+and Yuen, Kwok Wing are listed as directors.  Yuen, Chi Choi is also 
+a director of Hong Kong company, Top Way Limited.  According to the 
+Von Development Ltd. web site, it sells various electronic switches 
+and power supplies.  Its production facility is listed as being 
+located in Shenzhen, mainland China. 
+ 
+¶6.  Commercial Assistant Carrie Chan subsequently received a call 
+from Ms. Amber, calling on behalf of Soltech.  She stated that she 
+would be willing to meet the ECO and Ms. Chan at the offices of 
+Conquest Express.  ECO and Ms. Chan met with Ms. Amber and Conquest 
+Express Branch Manager Eunice Cheung on December 6, 2007 at the 
+premises of Conquest Express, Flat B&C, 29/F, Tsuen Wan 
+International Centre, 68 Wang Lung Street, Tsuen Wan, Hong Kong. 
+The Conquest Express premises are located in a larger warehouse 
+building.  One of the company's offices is in use by administrative 
+staff while the second serves as warehouse space for the company. 
+There is no signage within the building or at Conquest Express's 
+entrance indicating that Conquest operates at this location. 
+ 
+¶7.  During the meeting, Ms. Amber stated that Soltech is not 
+officially registered in Hong Kong although it acts as the buying 
+agent for mainland Chinese company Naztech in Shenzhen, mainland 
+China. She stated that Naztech produces electronic components, 
+telecommunications products and power supplies.  It acts as a 
+contract manufacturer but also produces products under its own brand 
+name.  She subsequently provided additional background information 
+on Naz Technology Co., Ltd. in Shenzhen (Naztech) consistent with 
+the information provided during the interview.  That information can 
+be found at the web site: www.nastec.net.  When asked about Soltech 
+in Taiwan (listed as a purchaser for one of the Hong Kong bound 
+shipments), Ms. Amber stated that the Taiwan operation operates in 
+much the same way as the Hong Kong operation.  When asked whether 
+Naztech resells any of the inputs it receives through Hong Kong, Ms. 
+Amber stated that she did not know.  She was also unaware of the 
+location of the customers for Naztech's end products.  Subsequent 
+research reveals that the Shenzhen address provided for the mainland 
+China production facility of Von Development Limited is the same 
+address as that of Naztech. 
+ 
+ 
+¶8.  After some discussion about the reason for Soltech and Naztech's 
+corporate structure, Ms. Amber stated that this structure was 
+essentially a tax avoidance mechanism.  Ms. Amber stated she was 
+quite nervous about the potential legal ramifications of such an 
+approach to procurement by Naztech.  Despite several requests, Ms. 
+Amber declined to provide a business card or her full name. 
+ 
+¶9.  As to the specific shipments in question, Ms. Amber stated (and 
+Ms. Cheung confirmed) that most of the pallets received as part of 
+the applicable shipments had been forwarded to Shenzhen.  When asked 
+for shipping or other documents confirming such shipment, Ms. Cheung 
+left the room and subsequently provided receipts indicating that 13 
+skids of electrical wire had been turned over to Soltech.  The 
+receipts included what appeared to be the Soltech seal but no 
+signature.  They also included no defining details about the skids 
+or whether they had actually been shipped to Shenzhen.  Ms. Amber 
+stated that Naztech had arranged for a freight forwarder to pick up 
+the skids from Conquest Express.  When asked why Conquest would 
+accept unsigned documents for electrical wire valued at several 
+hundred thousand USD, Ms. Cheung stated that she is not in position 
+to determine the actual makeup of the wire and therefore does not 
+require more specificity in the documents.  ECO does not believe 
+this statement to be credible. 
+ 
+¶10.  Ms. Cheung and Ms. Amber subsequently showed ECO and Ms. Chang 
+the remaining 19 skids of wire located in the warehouse portion of 
+the Conquest Express premises.  Ms. Amber stated that the wire is 
+used in cable television wiring related products. 
+ 
+¶11. ECO provided Ms. Amber and Ms. Cheung with information about 
+U.S. reexport controls, stressing that shipments to embargoed 
+destinations may be subject to special licensing requirements. Both 
+Ms. Amber and Ms. Cheung agreed to closely review the information. 
+ 
+¶12.  Ms. Amber's explanations concerning Soltech and Naztech's 
+operations are consistent with procurement channels that make use of 
+Hong Kong's free port status to minimize mainland Chinese import 
+duties and other taxes.  Nonetheless, ECO did not find Ms. Amber and 
+Ms. Cheung's presentations to be credible and recommends close 
+scrutiny be given to any shipments to Soltech, Conquest Express, Von 
+Development Limited, Naztech and to their respective addresses.

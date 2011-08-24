@@ -1,0 +1,288 @@
+05PARIS5297
+FRENCH GOVERNMENT QUIETLY PREPARES FOR 2006 NUCLEAR WASTE
+Tue Aug 02 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 04 PARIS 005297 
+ 
+SIPDIS 
+ 
+DOE FOR OFFICE OF THE SECRETARY, OFFICE OF NUCLEAR ENERGY (NE-1 
+SJOHNSON, NE-80 KLAU) 
+DOE ALSO FOR NNSA, OFFICE OF SCIENCE; OFFICE EUROPEAN AND ASIAN AFFAIRS 
+DOE ALSO FOR OFFICE OF CIVILIAN RADIOACTIVE WASTE MANAGEMENT (OCRWM) 
+STATE FOR EUR/WE; OES; STAS; NP; AND EB/ESC 
+EPA FOR IA 
+STATE PLS PASS NUCLEAR REGULATORY COMMISSION (NRC FOR COMMISSIONER) 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG TSPL TPHY KSCA FR KNUC
+SUBJECT: FRENCH GOVERNMENT QUIETLY PREPARES FOR 2006 NUCLEAR WASTE 
+DEBATE 
+ 
+REF: Paris 2727 
+ 
+FOR USG ONLY; NOT FOR INTERNET DISTRIBUTION. 
+ 
+------- 
+Summary 
+------- 
+ 
+¶1.  With little fanfare, French authorities are advancing France's 
+waste management strategy on the political agenda.  On schedule, on 
+June 30 the National Waste Management Agency (ANDRA) and the Atomic 
+Energy Commission (CEA) submitted to the GOF a progress report on R&D 
+in their respective fields: deep geological repositories for ANDRA; 
+partitioning and transmutation, packaging and long term storage for 
+CEA.  Also in June 2005, the National Scientific Evaluation Committee 
+(CNE) released a summary report on the three options explored by France 
+for high-level long-lived waste (HLLLW) disposal.  In early July, 
+France's Nuclear Safety Authority (ASN) released on the ASN website for 
+public consultation a preliminary version of the National Plan for 
+Radioactive Waste Management and Recoverable Materials (NPRWM-RM). 
+This plan will reportedly be appended to the radioactive waste 
+management bill presented to Parliament in 2006, thus giving it a much 
+larger scope than initially envisaged.  All reports are supportive of 
+deep geological disposal.  End summary. 
+ 
+---------------------- 
+Background information 
+---------------------- 
+ 
+¶2. In 1991, France laid out a 15-year research program, known as the 
+"Bataille Law," to explore three options ("lines") for HLLLW disposal: 
+line 1 - partition and transmutation of high-level nuclear waste into 
+low-level substances; line 2 - geological storage (development of at 
+least two underground laboratories in different underground areas-clay 
+and granite); and line 3 - waste packaging and effects of long-term 
+surface or subsurface storage.  By 2006, the Parliament must decide 
+which method(s) of disposal should be implemented. 
+ 
+¶3.  In March 2005, the influential Parliamentary Office for the 
+Evaluation of Science and Technology Options (OPECST) released a 
+comprehensive scientific report on R&D progress achieved in France in 
+the area of HLLLW (reftel).  The OPECST report affirmed the validity 
+and complementarity of the three directions for research defined in the 
+1991 law.  Its conclusions were notably based on preliminary results 
+provided by ANDRA and CEA officials.  ANDRA and CEA submitted a 
+synthesis report to the Industry and Research Ministers on June 30. 
+ 
+--------------------------------------------- ----------- 
+Reporting on Fourteen Years of Scientific Progress: Four 
+Reports in a Row 
+--------------------------------------------- ----------- 
+ 
+--ANDRA REPORT 
+-------------- 
+ 
+¶4.  The ANDRA report on the feasibility of a repository for HLLLW in a 
+deep geological formation (line 2 of the law) includes two parts: 
+-- A feasibility-assessment report on clay formations, based notably on 
+the work conducted on the site of the Meuse/Haute Marne Underground 
+Laboratory (known as Bure), and in foreign research laboratories (see: 
+http://www.andra.fr/publication/produit/D05A_ 266.pdf; in French); and 
+ 
+-- a report on the advantages of storage in granite formations based on 
+research conducted by ANDRA in partnership with foreign laboratories 
+http://www.andra.fr/publication/produit/ D05G_267.pdf; in French). 
+Note: The selection process of a granite candidate site in France was 
+never completed for political reasons (election cycle/strong local 
+opposition to deep underground storage). 
+ 
+¶5.  The ANDRA report emphasizes the "excellent confinement properties 
+of the argillite (clays)" and confirms the suitability of the Bure site 
+for repository development.  ANDRA also details techniques developed to 
+prevent the degradation of the waste packages in the long term and 
+ensure reversibility of the disposal over 300 years. 
+ 
+-- CEA REPORT: "A Whole Combination of Solutions" 
+--------------------------------------------- ---- 
+ 
+¶6.  The CEA report focuses on lines 1 and 3 of the law. Concerning 
+research undertaken under line 1 of the law, the CEA underscores the 
+"remarkable progress" made in the development of processes permitting 
+the separation of minor actinides and certain fission products. It also 
+states that the feasibility of americium transmutation has been 
+established, notably in fast neutron reactors.  (Note: Americium is the 
+greatest contributor to radio toxicity after plutonium.) 
+ 
+¶7.  According to CEA officials, important knowledge has also been 
+acquired in the field of long-term behavior of radioactive materials 
+and their containment (line 3 of the law), which will be useful for 
+both geological and surface storage.  Scientific work has already led 
+to the reduction by one-third of the production of radioactive waste at 
+the COGEMA La Hague facility and has made it possible to reduce the 
+volume of long-lived intermediate level wastes (LLILW) by a factor of 
+¶10.  While different packaging types have been investigated, CEA 
+researchers claim that vitrification is the most reliable and are 
+confident that vitrified waste packages could resist decomposition 
+during several hundred thousand years.  As for long-term storage, 
+technical solutions have been developed which demonstrate the 
+possibility of placing the waste (spent fuel) in surface or subsurface 
+storage installations for a period of 300 years, with the possibility 
+to retrieve the waste, for treatment or final geological storage, at 
+any time. 
+ 
+¶8.  Comment: Difference of views between CEA and parliamentarians: The 
+CEA concludes its report by raising the possibility of geological 
+storage not only for HLLLW but also for LLILW (e.g. cladding hulls, end 
+caps, waste from effluent treatment) and which, according to CEA, 
+cannot be stored subsurface. The authors of the OPECST report, 
+Parliamentarians Birraux and Bataille, had proposed long-term storage 
+for LLILW.  Following the release of the CEA report in June, Birraux 
+and Bataille insisted that the 1991 law refers (ONLY) to waste with the 
+double specificity - long-life AND high activity (which excludes 
+intermediate activity waste).  Note: HLLLW currently represents 1700 m3 
+of vitrified waste -- 110 m3 produced annually. Including LLILW in 
+geological storage would increase drastically the volume of waste to 
+store (46,000 m3 at the present time).  End note. The question is far 
+from being solved: CNE officials (see para 10) testified in Parliament 
+on June 29, also expressed their view that LLILW should be stored in 
+geological disposal.  End comment. 
+ 
+¶9.  The CEA report (in French only) can be consulted on the following 
+websites: http://www.cea.fr/fr/sciences/dossier_loi1991 /Synthese.pdf 
+http://www.cea.fr/fr/sciences/dossier_loi1991 /fiche_cea_Axe1.pdf 
+http://www.cea.fr/fr/sciences/dossier_loi1991 /fiche_cea_Axe3.pdf. 
+ 
+-- CNE 2005 ASSESSMENT 
+---------------------- 
+ 
+¶10.  Also in June 2005 the CNE, the national panel overseeing French 
+research waste management, released its eleventh evaluation concerning 
+France's R&D on radioactive waste management.  The CNE evaluation, 
+based on preliminary  reports by the two agencies, provides a summary 
+of all the results achieved so far on lines 1, 2, and 3 of the 1991 
+law. The detailed report, also including a summary and conclusions in 
+English, can be consulted on the following website: 
+http://lesrapports.ladocumentationfrancaise.f r/BRP/054000461/0000.pdf.) 
+ 
+¶11.  CNE conclusions: Line 1/partitioning: The CNE confirms its 
+previous assessment that French research has been innovative and that 
+significant scientific progress has been made.  It notes, however, that 
+(CEA) work on demonstrating advanced partitioning technical feasibility 
+is late according to the schedule contained in the 1991 law and that 
+only partial results will be available at the end of 2005.  The CNE 
+concludes that advanced partitioning experiments should be continued 
+after 2006 to gradually reach a demonstration of industrial-like 
+feasibility. 
+ 
+¶12.  Line 1/Transmutation: A "hope."  Transmutation still has a long 
+way to go since the research now depends on equipment which is only at 
+the concept stage, whether as part of the generation IV reactor systems 
+or Accelerator Driven Systems (ADS).  CNE officials further add that 
+"in 2006 there will be no decisive argument permitting scientific, 
+technical, and industrial decisions on transmutation but only hopes in 
+relation to these different concepts." 
+ 
+¶13.  Line 2/Deep geological disposal: The CNE notes that "the 
+advancement of line 2 research is well above the one in line 1."  It 
+confirms its previous favorable assessment on research conducted on the 
+Bure site: "the confinement qualities of the (...) argillite (clays) 
+are supported by the last observations in situ, in the laboratory, and 
+by the results obtained on the core samples taken in the geological 
+layers at the Bure site. The results of the first experiments and 
+measurements in the laboratory will be available end 2005 as planned." 
+¶14.  Line 3/Waste conditioning: The CNE considers that "research in 
+line 3 that leads to the development of primary industrial waste 
+packages has taken this technology to maturity....  The short or long 
+term behaviors of waste and spent fuel packages in various situations 
+has been reasonably well established.... However, it is necessary to 
+continue the research to consolidate certain results, particularly on 
+the resistance of some glass materials and on the confinement 
+possibilities offered by ceramics, in order to possess a wide selection 
+of conditioning means to confine long-lived radionucleides on the long 
+term." 
+ 
+¶15.  Line 3/Long-term storage of primary waste packages: "Research 
+conducted within line 3 of the law is not completed, except for the 
+industrial storage of present reprocessing waste.  The current programs 
+on storage and disposal containers must be continued. In order to go 
+further than generic studies on long-term storage facilities, it would 
+be suitable to select a potential storage site."  The CNE further 
+emphasizes the burden of this type of storage upon future generations. 
+ 
+-- ASN REPORT: Working Towards More Integrated Approach and Social 
+Acceptance 
+--------------------------------------------- ---------- 
+ 
+¶16. Giving larger scope to the 2006 legislation: The debate on waste 
+management will not be limited to HLLLW.  For two years, the Nuclear 
+Safety Authority (ASN) has been working on other types of radioactive 
+waste whose levels are much lower but volumes much more significant 
+(see reftel and para 21).  The resulting document, the National Plan 
+for Radioactive Waste Management and Recoverable Materials (NPRWM-RM), 
+is a comprehensive summary of existing data and expertise in the field, 
+and discusses a large range of issues related to waste management 
+responsibility, funding, inventory problems, and the "necessary 
+information" for the public.  The objective of the NPRWM-RM is to 
+ensure the coherence of the French waste management scheme, whatever 
+the nature of the radioactive waste and its producer, to look for 
+management solutions for each category of waste, also taking into 
+account the concerns of the public.  The last part of the report 
+includes a series of recommendations that are likely to become part of 
+the draft bill. (The ASN released on July 13 a preliminary version of 
+NPRWM-RM for public consultation and comments on the ASN website 
+(www.asn.gouv.fr/domaines/dechetsnuc/PNGDRMV. pdf.) 
+ 
+---------------- 
+Agenda Confirmed 
+---------------- 
+ 
+¶17.  At the request of the Industry and Research Ministries, the ANDRA 
+and CEA reports will now be officially assessed by CNE and ASN, and 
+reviewed by a panel of international experts under the aegis of the 
+Nuclear Energy Agency of the Organization for Economic Cooperation and 
+Development.  CNE will publish a global assessment report in January 
+2006 before the completion of the draft bill and its discussion in 
+Parliament (first semester 2006).  Prior to the parliamentary 
+discussion, the GOF also confirmed the launch of a public debate 
+(modalities unknown) for this fall. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶18.  Avoiding the 'NIMEY' ('Not in My Election Year') phenomenon: 2006 
+will be an important year for radioactive waste management in France. 
+Fifteen years after the Bataille law, and even though Research Minister 
+Francois Goulard and Industry Minister Francois Loos both acknowledge 
+the need for "another ten years of research in the area," stakeholders 
+and politicians across the political board feel the need to legislate 
+on the issue well before the beginning of the 2007 presidential 
+campaign.  The shared opinion is that the parliamentary debate should 
+not be postponed until 2008, and not take place in 2007 to avoid being 
+"hijacked" by political parties in the context of the elections. 
+ 
+¶19.  According to EST contacts, it is unlikely that Parliament will 
+explicitly give a green light to the construction of a repository at 
+Bure in 2006.  However, considering ASN and CNE support, the Parliament 
+could well give an agreement "in principle" to a geological disposal 
+solution.  While the Industry Minister recently emphasized that no 
+"administrative decision" would be taken in 2006, he nevertheless 
+indirectly confirmed the OPECST proposed calendar, i.e. possible 
+authorization to create a (reversible) deep geologic repository by 2015 
+and implementation of geological storage by 2025. 
+ 
+------------------------ 
+French Waste: Statistics 
+------------------------ 
+ 
+¶20.  At end 2002, according to ANDRA (2004 Activity Report released 
+June 2005) the total volume of waste present in France and placed under 
+French supervision amounted to 929,000 m3, broken down as follows: 
+ 
+High level waste: 0.2 percent 
+Intermediary level/long lived: 4.6 percent 
+Low level/long lived: 4.6 percent 
+Very low level: 11.1 percent 
+Low or intermediary level/short lived: 79.5 percent 
+ 
+Origins of radioactive waste in 2020 (in volume): 
+ 
+Nuclear power: 68.7 percent 
+Research: 17.8 percent 
+Defense: 10.6 percent 
+Non-nuclear power industry: 2.9 percent 
+ 
+STAPLETON

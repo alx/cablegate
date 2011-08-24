@@ -1,0 +1,115 @@
+07HONGKONG3094
+EXTRANCHECK: PRE-LICENSE CHECK: HONGTU HANGYAN ELECTRONIC
+Fri Dec 28 00:00:00 +0100 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHHK #3094 3620145
+ZNR UUUUU ZZH
+R 280145Z DEC 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 3743
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 003094 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/JSONDERMAN 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: HONGTU HANGYAN ELECTRONIC 
+(HK) CO 
+ 
+REF: A) USDOC 09615 B) D385940 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO), conducted 
+a pre-license check at Hongtu Hangyan Electronic (HK) Co., Rm 1209, 
+12/F, Workingbond Commercial Center, 162-164 Prince Edward West, 
+Hong Kong (Hongtu Hangyan). The purpose of the visit was to 
+determine the suitability of Hongtu Hangyan to be the ultimate 
+consignee of various semiconductor devices that are the subject of 
+export license application D385940.  The items (ECCN 3A001) are 
+valued at USD $475 and are controlled for national security reasons 
+(NS). The license applicant is Concord Components, Inc. of Wayne, 
+Nebraska. 
+ 
+¶3.  A Hong Kong Inland Revenue Department Business Registration 
+Office check of Hongtu Hangyan reveals that the company has been in 
+existence since 2003.  It is a sole proprietorship and mainland 
+China citizen, Zhang, Xiao Ming is listed as the owner.  His 
+identity card number is ZZ5085186.  Mr. Zhang is not listed as a 
+director in any other corporate entities in Hong Kong.  Hongtu 
+Hangyan is not listed in the Hong Kong Companies Registry because it 
+is not an incorporated entity. It is not possible to check the 
+Inland Revenue Department Business Registration Office by name of 
+business holder.  As a result, it was not possible to determine if 
+Zhang, Xiao Ming is the owner of any other sole proprietorship in 
+Hong Kong. 
+ 
+¶4. Background research on the web reveals that Hongtu Hangyan 
+(www.szhtic.com) is part of the Hongtu Group.  That group includes 
+three other companies, namely Shenzhen Hongtu Hangyang Technology 
+Co. Ltd., Shenzhen Xinghangyang Technology Co. Ltd., and Beijing 
+Hongtu Mingli Technology Trading Co. Ltd.  The group's headquarters 
+are listed as Rm A801, Aerospace Skyscraper, No. 4019 Shennan Road, 
+Shenzhen 518048, China.  The group web sites states that the group's 
+business is focused on hard to find and urgently needed industrial 
+and military ICs. 
+ 
+¶5.  Another company, Shenzhen Star-Navi Technology Co. Ltd. has its 
+headquarters in room 802 of the same building as the Hongtu Group 
+headquarters.  Star-Navi's web site states that it is the owner of 
+the Hongtu Group (www.star-navi.org). 
+ 
+¶6.  On November 27, 2007, ECO and Commercial Assistant Carrie Chan 
+visited Hongtu Hangyan at the address listed above and met with Mr. 
+Johnny K.M. Yung.  The company is located in a small one-room office 
+in an older commercial building.  Mr. Yung stated that he is the 
+sole representative of Hongtu Hangyan in Hong Kong.  He makes 
+payments and collects shipments for the parent company in mainland 
+China.  The parent company either picks up the shipments or arranges 
+for a freight forwarder to do so.  Mr. Yung stressed that he knows 
+nothing about the end-use or end-user for these items.  He further 
+stated that he knows little about the activities of the parent 
+company ECO notes that he did not even attempt to talk about what is 
+listed on the parent's web site.  Mr. Yung suggested that the ECO 
+contact the parent in Shenzhen for any information about the 
+parent's activities or about the proposed end-use or end-user for 
+the items.  ECO suspects Mr. Yung knows more about the activities of 
+the parent then he is willing to share.  When asked why Hongtu 
+Hangyan is established in Hong Kong and operates in this way, Mr. 
+Yung stated it is easier to make bank payments from Hong Kong and 
+Hong Kong is also a more beneficial tax jurisdiction. 
+ 
+¶7.  During the interview with Mr. Yung, the ECO noticed business 
+registration certificates of two other companies.  Mr. Yung 
+downplayed those registration certificates and declined to provide 
+additional information about them.  ECO noticed that the name of one 
+of those companies is Ziheng International Electronics Co. but was 
+unable to obtain the name of the second company.  An Inland Revenue 
+Department search reveals that this company is likewise a sole 
+proprietorship established in 2003.  It is owned by mainland Chinese 
+national Luo, Guofang with mainland identification document number 
+ZZ5183579.  A review of this company's web site (www.star-ic.com) 
+reveals that it is, likewise, a distributor of hard to find and 
+obsolete military electronic components. 
+ 
+¶8.  ECO recommends that OEA conduct a thorough review of shipments 
+to companies in the Hongtu/Star-Navi Group as well as to Ziheng 
+International Electronics Co. as well as shipments to the addresses 
+of those companies. 
+ 
+ 
+Cunningham

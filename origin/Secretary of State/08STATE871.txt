@@ -1,0 +1,116 @@
+08STATE871
+BLUE LANTERN POST-SHIPMENT END USE CHECK ON
+Fri Jan 04 00:00:00 +0100 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHC #0871 0041429
+ZNR UUUUU ZZH
+R 041421Z JAN 08
+FM SECSTATE WASHDC
+TO RUEHJA/AMEMBASSY JAKARTA 0000
+INFO RUEHSW/AMEMBASSY BERN 0000
+RUEHGP/AMEMBASSY SINGAPORE 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DC 0000UNCLAS STATE 000871 
+ 
+SIPDIS 
+ 
+SIPDIS 
+FOR ECON YVONNE M. GONZALES 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC ID KOMC SN SZ
+SUBJECT: BLUE LANTERN POST-SHIPMENT END USE CHECK ON 
+LICENSE 05-994109 
+ 
+REF: 03 KUALA LUMPUR 7278 
+ 
+¶1.  This is an action message.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post assistance in conducting a 
+post-shipment check for the export of aircrew safety helmets 
+to Indonesia.  Post is requested to complete this Blue 
+Lantern check within 45 days.  Lack of response to a Blue 
+Lantern check will affect pending and future licenses 
+involving parties to this license. 
+ 
+¶3.  Reason for request: the Foreign Intermediate Consignee, 
+Aeromiltec Ltd., was the subject of a previous Blue Lantern 
+check (reftel) which was closed unfavorably because it was 
+determined that the Foreign End User had not actually ordered 
+the commodity listed on the license. 
+ 
+¶4.  ACTION: Please contact the Foreign End User, Indonesian 
+Air Force, and confirm that it has received the exact 
+quantity and type of helmets listed below.  END ACTION. 
+ 
+¶5.  License Information: 
+ 
+DDTC Case Number 05-994109 
+ 
+QUANTITY/COMMODITY: 
+ 
+93       HGU-55/P Helmet, General Usage 
+ 
+(Note: DHS/Customs shipment data indicates that all helmets 
+were exported on 05/04/2006.) 
+ 
+LICENSE VALUE: USD 55,800.00 
+ 
+APPLICANT/SOURCE: 
+ 
+Government Sales Inc. 
+30 Atlantic Street 
+Hartford, Connecticut 06101 USA 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Aeromiltec Ltd. 
+PO Box 146 
+CH-4030 Basel Airport 
+SWITZERLAND 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Ariesta Logistics 
+53 Ubi Avenue 1 #0551 
+Paya Ubi Industrial Park 
+SINGAPORE 
+ 
+FOREIGN END USER: 
+ 
+Indonesian Air Force 
+Material and Logistic Command 
+Jl. Raya Pasar Minggu 
+Komplek TNI AU Triloka Blok A 
+Pancoran, Jakarta 
+INDONESIA 
+ 
+STATEMENT OF PURPOSE: 
+ 
+For aircraft crew safety. 
+ 
+¶6.  Additional documentation submitted in support of license: 
+ 
+A)  Aeromiltec Ltd. Revised Purchase Order, REF: 
+INDO-9151-ee, dated February 8, 2006. 
+ 
+B)  INDUK KOPERASI TNI ANGKATAN UDARA (INKOPAU) Purchase 
+Order Number PO/694-1/XII/2005/INKOPAU, dated 21 December 
+¶2005. 
+ 
+¶7.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the DDTC Case Number 
+in the subject line.  POC on this case is Peter Sabatini, 
+PM/DTCC, phone: 202-663-2819; ClassNet email: 
+sabtinipj@state.sgov.gov; OpenNet email: 
+sabatinipj@state.gov.  The 2006 Blue Lantern Guide Book is 
+available on OpenNet at 
+http://fsi.state.gov/fsi/spas/default.asp?ID= 1588 
+Department thanks Post for its assistance in this matter. 
+RICE

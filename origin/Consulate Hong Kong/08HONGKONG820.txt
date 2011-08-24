@@ -1,0 +1,114 @@
+08HONGKONG820
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Tue May 06 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0009
+RR RUEHWEB
+
+DE RUEHHK #0820 1270210
+ZNR UUUUU ZZH
+R 060210Z MAY 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 4798
+RHMFIUU/HQ BICE WASHINGTON DC
+RUEHGP/AMEMBASSY SINGAPORE 3842UNCLAS HONG KONG 000820 
+ 
+USDOC FOR 532/OEA/MNICKSON /DMUSLU 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+SINGAPORE FOR FCS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP ETRD ETTC HK
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+MICRO-COMM ASSOCIATES PTE LTD 
+REF: A) USDOC 01394 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Regional Export Control Officer Philip Ankel (ECO) 
+conducted a post shipment-verification (PSV) at Micro-Comm 
+Associates Pte. Ltd., No. 10 Ubi Crescent, Singapore (Micro-Comm). 
+The items in question are 62 ADC-30720 A/D converters exported to 
+Micro-Comm on or about November 6, 2007 and November 12, 2007.  The 
+items are classified under Export Control Classification Number 
+(ECCN) 3A001 and are controlled for national security (NS) reasons. 
+The exporter was Mesa MW Corporation of Gilbert Arizona. 
+ 
+¶3.  According to the Singapore companies registry, Micro-Comm was 
+registered in 1999 and its registered share capital is the Singapore 
+dollar equivalent of approximately USD 180,000.  Its directors are 
+Indian Nationals Rajesh Mishra, Satya Prakash Mishra, Singapore 
+Permanent Resident Shukla Sunita and Singapore citizen Rm Muthaiah. 
+Rajesh Mishra, Satya Prakash Mishra and Shukla Sunita are also the 
+shareholders of the company. 
+ 
+¶4.  A review of the company's web site (www.microcommassociates.com) 
+reveals that the company is primarily a electronics components 
+reseller. 
+ 
+¶5.  On April 22, 2008, the ECO, accompanied by a representative of 
+Singapore Customs visited the company and met with Ms. Sunita 
+Shukla, Director and S.P. Mishra, Director.  Mr. Mishra provided a 
+business card listing him as the Regional Vice President of the 
+Indo-American Chamber of Commerce and another card listing him as 
+the Managing Director of Kaytronics Exim Pvt. Ltd. in Bangalore 
+(Kaytronics).  Mr. Mishra was quick to point out to the ECO that he 
+has attended several BIS events in India where quite senior 
+representatives of BIS had participated including Under Secretaries 
+Juster and Mancuso as well as Office Director, Steve Goldman.   He 
+stated that he is well aware of U.S. export controls and was 
+actively working in India to improve U.S. - India relations.  He 
+also informed the ECO that this was the second PSV that this company 
+had received from BIS and that he had previously been visited by 
+Special Agents Holzer and Higgins in 2005. 
+ 
+¶6.  Mr. Mishra also provided the ECO with additional information 
+about the various companies that are affiliated with Micro-Comm and 
+Kaytronics.  In particular, Kaytronics (www.kayindia.com) is the 
+parent company of Micro-Comm in Singapore and the exporter, Mesa 
+Microwave, in Arizona (Mesa).  All companies are disclosed at the 
+Kaytronics web site.  Mesa acts as the procurement mechanism for 
+Kaytronics (it was previously named Kaytronics) and Micro-Comm.  Mr. 
+Mishra was quick to stress that all of his customers know the 
+destination of the items in question.  He has set up this type of 
+structure to allow him to procure and pay for items in the United 
+States that he can subsequently ship through Singapore.  His niche 
+is in providing various products to Indian state entities and 
+obtaining payment for those items (the mechanics of which can be 
+quite complicated).  Total turnover for all of the companies was 
+approximately USD 5 million in 2006. 
+ 
+¶7.  As to the particular items in question, Mr. Mishra stated that 
+those items had been procured on behalf of Bharat Electronics for 
+use in communications equipment for the Indian military (electronic 
+countermeasures).  Mr. Mishra stated that he knows this customer 
+well and that it is not involved in missile or nuclear related 
+programs.  He further stated that the items in question are quite 
+old and obsolete.  He noted that the Indian military often continues 
+to use older equipment and therefore requires such older/obsolete 
+components.  Mr. Mishra provided the ECO with tax invoices (with 
+original stamp of Bharat Electronics) indicating delivery, on 
+November 14, 2007, of the 62 converters that are the subject of this 
+PSV.  Those converters were delivered to the representative office 
+of Bharat Electronics in Singapore. 
+ 
+¶8.  Mr. Mishra stated that he occasionally receives orders for 
+shipment to China.  Typically, he stated, when he requests 
+End-use/user statements from those purported buyers, further 
+correspondence ceases. 
+ 
+¶9.  At the time visited, Micro-Comm appeared to be a suitable 
+recipient of the commodities shipped since Micro-Comm cooperated 
+with the PSV, provided ECO with access to documents showing final 
+disposition of the items and operates a line of business consistent 
+with the use of the items.  Also, Micro-Comm is quite familiar with 
+U.S. export controls and expressed its commitment to comply with 
+them.

@@ -1,0 +1,124 @@
+06MOSCOW10432
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: FGUP
+Tue Sep 19 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0013
+PP RUEHWEB
+
+DE RUEHMO #0432/01 2620711
+ZNR UUUUU ZZH
+P 190711Z SEP 06
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2502
+RHFJUSC/HQS US CUSTOMS SERVICE WASHINGTON DCUNCLAS MOSCOW 010432 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/DMUSLU/MHAMES 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: FGUP 
+NIIKI OEP, SOSNOVY BOR, LENINGRAD REGION, RUSSIA, 
+LICENSE NO: D357334 
+ 
+REFTEL: USDOC 04557 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Federal State Unitary Enterprise Research 
+Institute for Complex Testing of Optoelectronic 
+Devices and Systems (Russian acronym FGUP NIIKI OEP), 
+Sosnovy Bor, Leningrad Region, Russia. The company was 
+listed on BIS license number: D357334 as the ultimate 
+consignee of a thermal camera, model PV320A2E, 6A003. 
+These commodities are controlled for national security 
+and regional security reasons. The exporter is 
+Electrophysics Corporation, 373 Route 46 West Bld, 
+Fairfield, NJ 07004. 
+ 
+¶3. On September 8, 2006, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested post-shipment verification with FGUP NIIKI 
+OEP, St. Petersburg, Russia. The export control team 
+met with Yuri Kuzilin Head of Department and Aleksandr 
+Gorelov, Chief Engineer.  The meeting was conducted at 
+the Renaissance hotel in St. Petersburg. 
+ 
+¶4. NOTE: The Government of Russia (GOR) has special 
+security regulations for certain government and 
+government controlled entities and industries. 
+Special security clearances are required for foreign 
+nationals to access sites the GOR considers to be 
+strategic and/or sensitive.  FGUP NIIKI OEP is 
+considered to be a sensitive facility, and therefore, 
+a site visit could not be immediately scheduled.  As 
+the commodity had not yet been permanently installed, 
+Mr. Kuzilin offered to bring the device to us for 
+verification, and we accepted.  Mr. Kuzilin was 
+informed that our report would reflect the fact that 
+no site visit was conducted, and that our 
+recommendation would be limited by that fact.  END 
+NOTE. 
+ 
+¶5. FGUP NIIKI OIP was founded in 1969 as a subordinate 
+entity of the State Optical Institute in St. 
+Petersburg.  The organization was established for 
+experimental research and production of testing 
+devices for use in the optoelectroinc field.  During 
+Soviet times, the organization employed 2500. 
+Currently, FGUP NIIKI OIP employs around 900.  The 
+organization has its offices and laboratory at a 
+secure facility of 500 hectares (1495 acres), located 
+in Sosnovy Bor, 92 Km (approximately 60 miles) outside 
+of St. Petersburg. The facility employs 140 personnel 
+to guard the laboratories, and since the town is 
+within 100km of the border with Finland, the perimeter 
+is also patrolled by elements of the Border Guards. 
+ 
+¶6. The thermal imager in reftel will be incorporated 
+into an interferometer for use in testing aspheric 
+elements for optical lenses and related equipment. 
+The interferometer will be located at the laboratory, 
+in a limited access area, with cipher locks on the 
+doors and an electronic security system.  The 
+interferometer has not been completed yet, so the 
+camera is stored in a safe in the administration 
+office.  In order to remove the camera from the 
+facility, Mr. Kuzilin and Mr. Gorelov had to apply in 
+writing for permission from the security directorate. 
+Mr Gorelov showed the team a copy of the approved 
+memo, stamped and signed by the director of security. 
+ 
+¶7. Mr Gorelov will be responsible for the operation of 
+the interferometer.  Mr. Gorelov is the main 
+instructor and engineer, and is personally planning 
+and constructing the interferometer.  The device will 
+only be utilized for testing aspheric lens elements. 
+The end users of the lenses produced are in Russia, 
+Israel and the United States.  Aspheric elements are 
+used in a variety of optical lenses. 
+ 
+¶8. Recommendations: While post recommends Federal 
+State Unitary Enterprise Research Institute for 
+Complex Testing of Optoelectronic Devices and Systems, 
+Sosnovy Bor, Leningrad Region, Russia, as a reliable 
+recipient of sensitive U.S. origin commodities, the 
+finding is limited as no site visit was permitted.  A 
+ 
+ 
+site visit can be arranged, with a 60-90 day lead 
+time, should one be deemed necessary.  Post considers 
+the PSV closed unless BIS cables with additional 
+requests. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

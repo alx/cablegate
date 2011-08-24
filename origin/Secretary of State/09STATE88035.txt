@@ -1,0 +1,230 @@
+09STATE88035
+BLUE LANTERN LEVEL 3: POST-LICENSE/PRE-SHIPMENT
+Mon Aug 24 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHC #8035 2361759
+ZNR UUUUU ZZH
+R 241741Z AUG 09
+FM SECSTATE WASHDC
+TO RUEHSI/AMEMBASSY TBILISI 0000
+RUEHTV/AMEMBASSY TEL AVIV 0000
+INFO RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUEAIIA/CIA WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000UNCLAS STATE 088035 
+ 
+SIPDIS 
+TBILISI FOR NICOLE O'BRIEN 
+TEL AVIV FOR JASON GRUBB 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC IS GG
+SUBJECT: BLUE LANTERN LEVEL 3: POST-LICENSE/PRE-SHIPMENT 
+END-USE CHECK ON LICENSES 050171347 AND 050172400 
+ 
+¶1. This is an Action Request. See paragraphs 4 - 5. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a post-license/pre-shipment check on licenses 050171347 and 
+050172400 for the export of rifles and night vision to 
+Georgia.  Post is requested to complete this Blue Lantern 
+check within 45 days. Lack of response to a Blue Lantern 
+check will affect pending and future licenses involving 
+parties to this license. 
+ 
+¶3. Reason for Request: The rifles and night vision listed 
+below are particularly sensitive defense articles.  Foreign 
+intermediate consignee RPA Port Aviation had never been party 
+to a U.S. export license until May 2009, at which time the 
+company appeared on five licenses for ultimate end-use in 
+Georgia.  This check is to establish the bona fides of these 
+transactions and RPA Port Aviation. 
+ 
+¶4. Action Request Tbilisi:  Post is requested to establish 
+the bona fides of these transactions by making inquiries to 
+representatives of the Georgian Ministry of Internal Affairs. 
+ The following points are included for guidance: 
+ 
+(To Ministry of Internal Affairs) 
+ 
+--Can you confirm that MOIA has ordered the defense articles 
+listed below? 
+ 
+--What role is RPA Port Aviation playing in these 
+transactions?  What services has the company provided?  What 
+fees or commissions have you paid the company? 
+ 
+In its reply, Post is encouraged to comment on any 
+information pertinent to this transaction such as security of 
+facilities, end-use, and concerns about the entities involved. 
+ 
+¶5. Action Request Tel Aviv:  Post is requested to establish 
+the bona fides of RPA Port Aviation by making inquiries to 
+representatives of the company. 
+ 
+(To RPA Port Aviation) 
+ 
+--When was your company established and who are its 
+principals? 
+ 
+--What products and services does your company provide?  Who 
+are your regular customers and where do they reside? 
+ 
+--What are your annual sales of U.S.-origin defense articles? 
+ 
+--What is your role in these transactions?  What fees and 
+commissions will you receive for your services in these 
+transactions? 
+ 
+--Will you ever have physical possession of these defense 
+articles? 
+ 
+--Have you had a previous business relationship with the 
+Ministry of Internal Affairs or any other agency of the 
+Government of Georgia?  Have you had a previous business 
+relationship with U.S. company Falcon Defense? 
+ 
+--Are you familiar with the regulations governing the 
+brokering of U.S.-origin defense articles?  Are you familiar 
+with the regulations governing the brokering of U.S.-origin 
+defense articles, including restrictions on re-transfer or 
+re-export? 
+ 
+In its reply, Post is encouraged to comment on any 
+information pertinent to this transaction such as security of 
+facilities, end-use, and concerns about the entities involved. 
+ 
+¶5. Details of license applications: 
+ 
+¶A. 
+ 
+DTC Case: 050171347 (Partial shipment has already been made) 
+ 
+QUANTITY/COMMODITY: 
+ 
+50 McMillan "TAC50" Rifles, .50 Caliber 
+ 
+20 McMillan "TAC338" Rifles, .338 Lapua Caliber 
+ 
+20 McMillan "TAC308" Rifles, .308 Caliber 
+ 
+License Value: USD $790,667 (NOTE:  Actual exports so far 
+value at approx. $100,000) 
+ 
+SELLER: 
+ 
+Falcon Defense Group 
+3940 Bardstown Road Suite 2C 
+Louisville, KY 40218 
+POC is Steven D. Herberth, Tel. 502-491-6942 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+RPA Port Aviation Ltd 
+Mamam Bldg # 1103 Ben Gurion International Airport 
+Tel Aviv 
+ 
+FOREIGN END-USER: 
+ 
+Ministry of Internal Affairs of Georgia 
+10 General Gia Gulua Street 
+0114 Tbilisi 
+Georgia 
+POC is Deputy Minister, Internal Affairs, Shalva Janashvili, 
+Tel. 011-995-32-272-883 
+ 
+PURPOSE: 
+ 
+For use by the MOIA for law enforcement and counter-terrorism 
+operations 
+ 
+¶B. 
+ 
+DTC Case: 050172400 (No shipment has yet been made) 
+ 
+QUANTITY/COMMODITY: 
+ 
+140 AN/PVS-27 GEN 3 Magnum Universal Sights (NSN: 
+5855-01-547-9489) 
+ 
+License Value: USD $1,680,000 
+ 
+SELLER: 
+ 
+Falcon Defense Group 
+3940 Bardstown Road Suite 2C 
+Louisville, KY 40218 
+POC is Steven D. Herberth, Tel. 502-491-6942 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+RPA Port Aviation Ltd 
+Mamam Bldg # 1103 Ben Gurion International Airport 
+Tel Aviv 
+ 
+FOREIGN END-USER: 
+ 
+Ministry of Internal Affairs of Georgia 
+10 General Gia Gulua Street 
+0114 Tbilisi 
+Georgia 
+POC is Deputy Minister, Internal Affairs, Shalva Janashvili, 
+Tel. 011-995-32-272-883 
+ 
+PURPOSE: 
+ 
+For use by the MOIA for law enforcement and counter-terrorism 
+operations 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC will fax documentation to Posts 
+upon request): 
+ 
+¶A. 
+ 
+Signed DSP-83 Nontransfer and Use Certificate signed by Steve 
+Herberth (Falcon) dated 05/21/2009 and Illegible Signature 
+(MOIA) dated 03/17/2009 
+ 
+Certificate of End User No. 114039/284 issued by MOIA signed 
+by Shalva Janashvili dated 03/17/2009 
+ 
+Letter of Intent No. 114039/286 issued by MOIA signed by 
+Shalva Janashvili dated 03/17/2009 
+ 
+Purchase Order No. 114039/287 issued by MOIA signed by Shalva 
+Janashvili dated 03/17/2009 
+ 
+¶B. 
+ 
+Signed DSP-83 Nontransfer and Use Certificate signed by Steve 
+Herberth (Falcon) dated 06/25/2009 and Shalva Janashvili 
+(MOIA) dated 06/11/2009 
+ 
+Certificate of End User No. 114039/292 issued by MOIA signed 
+by Shalva Janashvili dated 03/17/2009 
+ 
+Letter of Intent No. 114039/294 issued by MOIA signed by 
+Shalva Janashvili dated 03/17/2009 
+ 
+Purchase Order No. 114039/295 issued by MOIA signed by Shalva 
+Janashvili dated 03/17/2009 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Kyle M. Ballard, Phone: 
+202-663-1929; Email: BallardKM@state.gov; SIPRNET: 
+BallardKM@state.sgov.gov.  The Blue Lantern Guidebook (ref) 
+is available as a PDF file on Intellipedia: 
+http://www.intelink.gov/wiki/ 
+Blue Lantern End-Use Monitoring Program 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+CLINTON

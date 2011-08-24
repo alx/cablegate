@@ -1,0 +1,84 @@
+09MOSCOW742
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: ROSHYDROMET,
+Wed Mar 25 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0002
+PP RUEHWEB
+
+DE RUEHMO #0742 0840941
+ZNR UUUUU ZZH
+P 250941Z MAR 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2538
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000742 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: ROSHYDROMET, 
+MOSCOW, RUSSIA. 
+ 
+REFTELS: USDOC 0535 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Roshydromet, Moscow, 
+Russia. Roshydromet is the abbreviated name for the Federal Service 
+for Hydrometeorology and Environmental Monitoring. The company is 
+listed on BIS license applications: D389140 as the ultimate 
+consignee of one Altix 4700 titanium 416 CPU blades w/2 dual core 
+Montvale 1.67GHZ/18MB/667MHZ FSB sockets, 8 memory dim slots. ECCN 
+4A003. The licensee is Silicon Graphics Inc., 1140 E. Arques Ave., 
+M/S 50-1-554, Mountain View, CA 94043. 
+ 
+¶3. On March 19, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of Roshydromet, B. Perdtechensky per, 
+9-11, Moscow, Russia. The export control team met with Vladimir 
+Antsypovich, Director of the Federal Service for Hydrometeorology 
+and Environmental Monitoring, and Sergey Lubov, Deputy Director. 
+ 
+¶4. Vladimir Antsypovich is the Director at the main computer center 
+within the Federal Service for Hydrometeorology and Environmental 
+Monitoring, the office responsible for the reftel commodity. 
+ 
+¶5. Roshydromet was established 175 years ago as one of the first 
+weather forecasting centers in the world.  Roshydromet is part of 
+the Ministry of Natural Resources and employs 35,000 people 
+throughout Russia. Roshydromet provides state authorities and the 
+public with hydro meteorological information, including forecasting 
+information and information on environmental pollution. In addition 
+to weather forecasting, one of RoshydrometQs goals is to enhance the 
+efficiency of business activities in weather dependent industries, 
+e.g., aviation, marine and river transport, power industry and 
+agriculture. 
+ 
+¶6.  Roshydromet is one of three World Meteorological Centers (WMC), 
+together with Washington, DC and Melbourne, Australia. The WMCs 
+prepare global analysis products, short, medium and long range 
+forecasts, and climate-related diagnostic products to member 
+countries. 
+ 
+¶7.  Vladimir Antsypovich took the export control team on a tour of 
+the facility that houses the reftel commodity. From all 
+observations, the facility meets the requirements outlined in reftel 
+under the NDAA. The export control team was able to see the reftel 
+commodity at its installed location; however, the system is not 
+expected to be fully operational until May 2009. There were no 
+indications of impropriety at Roshydromet and Vladimir Antsypovich 
+answers were not evasive. 
+ 
+¶8. Recommendations: Post recommends Roshydromet, Moscow, Russia, as 
+a reliable recipient of sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

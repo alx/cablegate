@@ -1,0 +1,88 @@
+07HONGKONG1984
+EXTRANCHECK: POST SHIPMENT VERIFICATION: ALLIED SPECIALTY
+Mon Jul 30 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0012
+RR RUEHWEB
+
+DE RUEHHK #1984 2110705
+ZNR UUUUU ZZH
+R 300705Z JUL 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 2440
+RHMFIUU/HQ BICE WASHINGTON DC
+RUEHGP/AMEMBASSY SINGAPORE 3604UNCLAS HONG KONG 001984 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MNICKSON-DORSEY/LLAUCIUS 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+SINGAPORE FOR FCS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP ETRD ETTC HK
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: ALLIED SPECIALTY 
+COMPOUNDS PTE LTD 
+ 
+REF: A) USDOC 04423 B) D364246 C) USDOC 04880 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Regional Export Control Officer Philip Ankel (ECO) 
+conducted two post shipment-verifications (PSVs) at Allied Specialty 
+Compounds Pte Ltd. 2304 Bedok Reservoir Road, No. 04-02B Bedok 
+Industrial Park C, Singapore (Allied Specialty Compounds).  The 
+items in question for the first PSV are buckytubes tubular 
+fullerenes exported on or about December 22, 2006 and valued at USD 
+10,000.  The items are classified under Export Control 
+Classification Number (ECCN) 1C010 and are controlled for national 
+security (NS) reasons.  The exporter was Carbon Nanotechnologies 
+Inc., of Houston, Texas.  The second PSV involved 15 lbs. Of HC 200 
+polystyrene with fibril nanotubes (ECCN 1C010 and value USD 420), 15 
+lbs of HC 600 poycarbonate with fibril nanotubes (ECCN 1C010 and 
+value USD 495) and 15 lbs. HC 600 polycarbonate with fibril 
+nanotubes (ECCN 1C010 and value USD 495).  The exporter for these 
+items was Hyperion Catalysis Int'l of Cambridge, Massachusetts. 
+ 
+¶3.  According to the Singapore Companies Registry, Allied Specialty 
+Compounds has been in existence since 1980.  Its paid-up share 
+capital is the Singapore equivalent of approximately USD 600,000. 
+Singapore nationals, Soo Ye Wah, Lim Teck Yan and Phan Sin Chong are 
+listed as directors.  More information is located at the company's 
+web site, www.ascpl.com. 
+ 
+¶4.  On June 21, 2007, the ECO met with S.C. Phan, President, Toh Soo 
+Ling, Assistant R&D Manager and Li Yu Ying, Senior R&D Manager. 
+According to Mr. Pham, the business of Allied Specialty Compounds 
+involves the production of thermal/engineering plastics.  The 
+company has compounding lines at the location visited by the ECO. 
+Plastics produced by the company are then delivered to ejection 
+molding companies for production.  End-users for its products are 
+electronics, semi-con and automotive customers.  In this instance, 
+the items are being used in R&D for the production of packaging 
+materials for semiconductors.  Ms. Pham stated that customers like 
+Seagate and Western Digital are using very clean plastics as disk 
+separators.  The items will be mixed with the plastic packaging 
+materials to enhance electrical conductivity (so that electrical 
+charges will not damage the contents). 
+ 
+¶5.  Toh Soo Ling and Li Yu Ying provided the ECO with documentation 
+confirming receipt of the items and with a spreadsheet displaying 
+the amounts of the items that had already been used in R&D.  They 
+also showed the ECO the remaining product that is stored in the 
+company's controlled storeroom. 
+ 
+¶6.  At the time visited, Allied Specialty Compounds appeared to be a 
+suitable recipient of the commodities shipped since Allied Specialty 
+Compounds cooperated with these PSVs, provided the ECO with access 
+to the items and operates a line of business consistent with the use 
+of the items. The ECO recommends that these PSVs be classified as 
+Favorable.

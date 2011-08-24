@@ -1,0 +1,90 @@
+08HONGKONG822
+EXTRANCHECK: POST SHIPMENT VERIFICATION: BESCOM COMPUTER
+Tue May 06 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHHK #0822 1270211
+ZNR UUUUU ZZH
+R 060211Z MAY 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 4800
+RHMFIUU/HQ BICE WASHINGTON DC
+RUEHGP/AMEMBASSY SINGAPORE 3844UNCLAS HONG KONG 000822 
+ 
+USDOC FOR 532/OEA/MNICKSON /DMUSLU 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+SINGAPORE FOR FCS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP ETRD ETTC HK
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: BESCOM COMPUTER 
+SYSTEMS PTE LTD 
+ 
+REF: A) USDOC 02452 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Regional Export Control Officer Philip Ankel (ECO) 
+conducted a post shipment-verification (PSV) at Bescom Computer 
+Systems Pte. Ltd., 8 Boon Lay Way, No. 08-09 Tradehub 21, Singapore 
+609964 (Bescom). The item in question is one Gimbal camera exported 
+to Bescom on or about December 3, 2007 and valued at USD 17,346. 
+The item is classified under Export Control Classification Number 
+(ECCN) 6A004.D3 and is controlled for national security (NS) 
+reasons.  The exporter was Cloud Cap Technology of Hood River, 
+Oregon. 
+ 
+¶3.  According to the Singapore companies registry, Bescom was 
+registered in 1991 and its registered share capital is the Singapore 
+dollar equivalent of approximately USD 150,000.  Its directors are 
+Singapore citizens Yak, Hock Hwa, and Yak, Bee Hua.  Yak, Bee Hua 
+and Yak, Lay Hwa are also the shareholders of the company.  It is a 
+family business. 
+ 
+¶4.  A review of the company's web site (www.bescom.com.sg) reveals 
+that the company is primarily an IT systems integrator for corporate 
+customers.  It is also involved in import and export of hardware 
+products in Southeast Asia. 
+ 
+¶5.  On April 21, 2008, the ECO, accompanied by a representative of 
+Singapore Customs visited the company and met with Mr. Yak, Hock 
+Hwa, Managing Director.  Mr. Yak confirmed that the company acts 
+primarily as a system integrator and solutions provider.  It sets up 
+local area networks, file servers and other similar systems for 
+corporate and government customers.  It also acts as a sourcing 
+agent for some government agencies (that cannot purchase direct from 
+abroad but must deal with Singaporean companies in accordance with 
+procurement rules).  In addition, the company also sells 
+internationally to other Southeast Asian countries such as Vietnam 
+and China as well as the UAE (but not Iran, according to Mr. Yak). 
+Customers from abroad come to the company because of its listing in 
+certain export related trade publications.  Additionally, when 
+Bescom has stock that other local distributors cannot obtain 
+quickly, those distributors (such as HP) may refer customers to 
+them. 
+ 
+¶6.  As to the particular item in question, Mr. Yak stated that this 
+item had been procured on behalf of Nayang Technological University 
+in response to an RFQ from the University.  Mr. Yak provided 
+documentation confirming receipt of the item and delivery to the 
+Main Aircraft Laboratory, School of Mechanical & Aerospace 
+Engineering at the Nayang Technological University.  According to 
+Mr. Yak, Cloud Cap Technology is not a regular supplier. 
+ 
+¶7.  At the time visited, Bescom appeared to be a suitable recipient 
+of the commodities shipped since Bescom cooperated with the PSV, 
+provided ECO with access to documents showing final disposition of 
+the items and operates a line of business consistent with the use of 
+the items.  Also, Bescom was informed of applicable export control 
+rules (especially those relating to reexports to sanctioned 
+countries) and indicated its intent to comply with them.

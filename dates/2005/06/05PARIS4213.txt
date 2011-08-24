@@ -1,0 +1,247 @@
+05PARIS4213
+FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR.
+Wed Jun 15 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+151007Z Jun 05UNCLAS SECTION 01 OF 03 PARIS 004213 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR); 
+EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR. 
+ALEXIS BOUROZ - PRINCIPAL CANDIDATE FOR INDIVIDUAL PROGRAM. 
+ 
+REF: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 287 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - INDIVIDUAL Program - Alexis Bouroz 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 15 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Judicial System 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Alexis 
+M-NAME: 
+L-NAME: Bouroz 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Ecole Nationale de la Magistrature 
+M-ADDR2: 10, rue des Freres Bonnie 
+M-ADDR3: 
+M-CITY: Bordeaux 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 33080 cedex 
+M-ZIP: 
+M-PHONE: + (33) 5.56.52.67.60 
+M-FAX: + (33) 5.56.00.10.99 
+M-EMAIL: alexis.bouroz@justice.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 05/27/1967 
+MAR-STAT: M 
+BIRTH-CITY: Douai 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Magistrate in charge of penal training, National School for 
+Magistrate (ENM), Bordeaux, since 2003 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+- 1998-2003 - Assistant District Attorney, County Court of 
+Saint Denis de la Reunion 
+- 1996-1998 - Committing Magistrate, County Court of Douai; 
+President of the Magistrates' Court 
+- 1994-1996 - Committing Magistrate, County Court of Saint 
+Omer 
+- 1992 - Internship, Regional Court of Dakar and Ziguinchor, 
+Senegal 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Miami - three times in transit only 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+- Indonesia, Fiji, New Zealand, Vanuatu, Madagascar, South 
+Africa, Comoros Islands, Namibia, Zimbabwe - 1998-2003 for 
+tourism 
+- Senegal - 1992, internship 
+- South America - prior to 1995 for tourism 
+- Europe, Canada, Tunisia - prior to 1998 for tourism 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+- National School of Magistrates, Bordeaux 
+- Graduate degree in Private General Law, University of Paris 
+II 
+- B.A. and Master's in Law, University of Paris II 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Naval Reserve Officer 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+Various publications for the internal use of ENM (National 
+School for Magistrates) on sentencing, judicial 
+investigations, and mistreatment of children 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 2 
+ENGL-SPEAK: 2 
+ENGL-COMP: 2 
+START MEMO NOM-POST-OBJ: 
+Given the still centralized nature of the French Republican 
+system, candidates from the ENM are essential to our efforts 
+to reach out to their judicial sector. There is no better way 
+to achieve results in familiarizing French magistrates with 
+American approaches to legal and judicial concerns. Judge 
+Bouroz is an exceptional candidate. He has had no real 
+contacts with the United States and very interested in 
+learning more about the American system. His position over the 
+next few years and for the rest of his career offers a unique 
+opportunity to create a positive long-term relationship and 
+interlocutor. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+The nominee has some English, but is not sufficiently 
+confident to be able to undertake an English-only program. In 
+any case neither of the European regional programs dealing 
+with trafficking in persons or international crime fall 
+particularly within his areas of expertise. A program focused 
+more on social issues with a strong legal/judicial component 
+would seem most appropriate. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: J. Brinton Rowdybush 
+START MEMO NOMINATING-JUSTIFICATION: 
+The National School for Magistrates (ENM) is located in 
+Bordeaux and is the sole institution for the training of 
+judges in France. After a rigorous selection process for 
+admission, the students undergo an intense program and a stage 
+in preparation for their responsibilities in the judicial 
+system. Later in their careers some of the most promising 
+judges are brought back under a three-year renewable agreement 
+to teach the next generation of magistrates. 
+Alexis Bouroz is a rising young magistrate who recently joined 
+the faculty at ENM. He is responsible for courses dealing with 
+penal (prosecutorial) issues. He teaches courses on 
+investigations, the decision to pursue cases, and how to 
+support accusations. In addition, he has broader 
+responsibility for training on justice and the media. Bouroz 
+is in a vital position where he is in daily contact with 
+significant numbers of individuals who will become judges in 
+France. 
+Judge Bouroz was selected, by the Director of ENM, from among 
+several candidates who had expressed interest in the IV 
+program. The Director has been an excellent contact for the 
+APP, and has been involved with providing outstanding 
+candidates from ENM in the past. Since Bouroz is at the 
+beginning of his minimum three year tenure, selection now 
+would have the broadest possible effect over the next several 
+years, not only for his potential impact on the student body, 
+but also because of his interaction with the other faculty and 
+administrators of the school. 
+The judicial profession in France is one of the pillars of 
+their governing system. It has become increasingly assertive 
+and independent over the past generation. There has been 
+growing interest in looking beyond France for ideas which 
+might ameliorate the administration of Justice here. The 
+recent adoption of "plaider coupable" which is a version of 
+the U.S. plea-bargaining is an important example of this, and 
+one in which Bourg and ENM are intensely interested. Given the 
+important transnational judicial contacts that are requires in 
+today's world, Judge Bouroz's selection is one that would have 
+a major long-term ripple effect. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Bordeaux, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: INTERPRETER 
+NOMINEE-ID: 574 
+PERSON-ID: 473 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: I 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

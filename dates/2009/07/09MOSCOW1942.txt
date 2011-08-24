@@ -1,0 +1,75 @@
+09MOSCOW1942
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: TEHKOM, MOSCOW,
+Thu Jul 30 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHMO #1942 2110426
+ZNR UUUUU ZZH
+P 300426Z JUL 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 4385
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001942 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: TEHKOM, MOSCOW, 
+RUSSIA. 
+ 
+REFTELS: REQUEST FORM #04210022; DATED 6/19/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Tehkom, Moscow, Russia. 
+The company is listed on BIS license applications: NLR as the 
+ultimate consignee of one electronic circuit unmounted and 
+electronic devices and components. These items are controlled for 
+national security, missile technology, nuclear nonproliferation and 
+anti-terrorism reasons under ECCN 3A001. The licensee is Actel 
+Corporation, 2061 Stierlin CT, Mountain View, CA. 
+ 
+¶3. On July 15, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina attempted to conduct the requested post-shipment 
+verification at the offices of the U.S. Commercial Service, U.S. 
+Embassy, 8, B. Devyatinsky per., Moscow, Russia. The export control 
+team met with Vladislav Boikachev, General Director. 
+ 
+ 
+¶4. The Moscow export control team had received the reftel on June 
+19, 2009 and made several attempts to schedule the post shipment 
+verification with Vladislav Boikachev.  Boikachev repeatedly 
+challenged both the authority of the U.S. Embassy in Moscow to 
+conduct such a check within Russia, and the identity of members of 
+the Moscow export control team as actual U.S. Embassy employees. 
+After several requests from the Moscow export control office, 
+Boikachev refused to meet with the Moscow export control team at his 
+office under any circumstances. LES Shipitsina eventually convinced 
+Boikachev to meet with the Moscow export control team at the offices 
+of the Foreign Commercial Service located at the U.S. Embassy and 
+scheduled the meeting for July 15, 2009. 
+ 
+¶5. On July 15, 2009 the Moscow export control team met with 
+Boikachev at the entrance of the Foreign Commercial Service, in the 
+entrance foyer prior to going through the U.S. Embassy security 
+check point. Once confronted by the U.S. Embassy security personnel 
+and asked to provide his Russian passport, Boikavchev refused to 
+cooperate and left the Embassy without the post shipment 
+verification being conducted. 
+ 
+¶6. Recommendations: Post does not/not recommend Tehkom, Moscow, 
+Russia, as a reliable recipient of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+AGNEW

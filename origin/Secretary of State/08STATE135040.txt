@@ -1,0 +1,143 @@
+08STATE135040
+BLUE LANTERN POST-SHIPMENT END USE CHECK ON
+Tue Dec 30 00:00:00 +0100 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0023
+RR RUEHWEB
+
+DE RUEHC #5040 3651424
+ZNR UUUUU ZZH
+R 301412Z DEC 08
+FM SECSTATE WASHDC
+TO RUEHHI/AMEMBASSY HANOI 0000
+INFO RUEHFR/AMEMBASSY PARIS 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 135040 
+ 
+SIPDIS 
+FOR POL JANE E. BOCKLAGE 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC FR KOMC VM
+SUBJECT: BLUE LANTERN POST-SHIPMENT END USE CHECK ON 
+LICENSE GC 109608 
+ 
+¶1.  This is an action message.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post assistance in conducting a 
+post-shipment check for the export of T100 gyroscopes to 
+Vietnam via France.  Post is requested to complete this Blue 
+Lantern check within 45 days.  Lack of response to a Blue 
+Lantern check will affect pending and future licenses 
+involving parties to this license. 
+ 
+¶3.  Reason for request: the Foreign End User, Southern 
+Service Flight Company (SSFC), has no licensing history with 
+our office.  SSFC has purchased a Super Puma AS332L2 
+helicopter from French company Eurocopter.  The AS332L2 uses 
+an Attitude and Heading Reference System which integrates two 
+T100 gyroscopes.  The gyroscopes are United States Munitions 
+List (USML) items that are export-controlled because they 
+have military applications. 
+ 
+¶4.  ACTION: Please contact the Foreign End User, SSFC, and 
+speak with its Director, Nguyen Duc Hoa.  Confirm purchase of 
+the Super Puma AS332L2 helicopter and date of delivery to 
+SSFC.  Inquire with SSFC about intended use of the 
+helicopter.  Will it only be used for civilian transport 
+purposes?  Also, will the helicopter be equipped with 
+weapons?  Finally, ask SSFC if it understands the 
+restrictions on USML commodities, particularly the 
+prohibition against re-transfers or re-exports without 
+express USG authorization.  END ACTION. 
+ 
+¶5.  License Information: 
+ 
+DDTC Case Number GC 109608 
+ 
+QUANTITY/COMMODITY: 
+ 
+02       T100 Gyroscope, BAE Systems, P/N 101860-1 
+ 
+LICENSE VALUE: USD 111,296.00 
+ 
+APPLICANT: 
+ 
+Thales North America Inc. 
+675 North Washington Street, Suite 400 
+Alexandria, Virginia 22314 USA 
+ 
+SOURCE: 
+ 
+BAE Systems Inertial Products 
+31829 La Tienda Drive 
+Westlake Village, California 91362 USA 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Eurocopter 
+Aeroport International Marseille-Provence 
+13725 Marignane Cedex 
+FRANCE 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Thales Avionics 
+La Brelandiere 
+40 rue de la Brelandiere 
+86101 Chatellerault Cedex 
+FRANCE 
+ 
+FOREIGN END USER: 
+ 
+Southern Service Flight Company (SSFC) 
+Vung Tau Airport 
+#36, 30/4 Street, Ward 9 
+Vung Tau City 
+VIETNAM 
+Tel:  84.64.838.301 
+ 
+STATEMENT OF PURPOSE: 
+ 
+The T100 gyros were exported from the U.S. to France for 
+integration into Eurocopter Super Puma AS332L2 helicopters 
+which uses an Attitude and Heading Reference System (AHRS) 
+for piloting assistance.  The AHRS integrates two T100 gyros 
+and three accelerometers, which together provide primary 
+references, i.e., pitch, roll, heading, speed and altitude. 
+One Super Puma AS332L2 helicopter containing two T100 gyros 
+has been sold to Southern Service Flight Company (SSFC).  The 
+aircraft will be dedicated to civil transportation from 
+ground base to offshore platforms of company personnel 
+working in petrol extraction operations, with no cross-border 
+use.  The aircraft and their maintenance will remain under 
+permanent, complete, and effective control of SSFC. 
+ 
+¶6.  Additional documentation submitted in support of license 
+application: 
+ 
+A)  Eurocopter End-Use/End-User Statement, listing Purchase 
+Order/Contract No. 69582389 of 11/06/2007; U.S. Item is 
+quantity two of T100 Gyros; End-User/Country of ultimate 
+destination: Southern Service Flight Company, Vietnam. 
+ 
+B)  U.S. Department of State DDTC DSP-83 Non-Transfer and Use 
+Certificate, signed by Christophe Assemat (illegible date), 
+Head of Eurocopter Export Control Unit; signed by Nguyen Duc 
+Hoa (dated 16 NOV 2007), Director, Southern Service Flight 
+Company. 
+ 
+¶7.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the DDTC Case Number 
+in the subject line.  POC on this case is Peter Sabatini, 
+PM/DTCC, phone: 202-663-2819; ClassNet email: 
+sabtinipj@state.sgov.gov; OpenNet email: 
+sabatinipj@state.gov.  The 2006 Blue Lantern Guide Book is 
+available on OpenNet at 
+http://fsi.state.gov/fsi/spas/default.asp?ID= 1588 
+Department thanks Post for its assistance in this matter. 
+RICE

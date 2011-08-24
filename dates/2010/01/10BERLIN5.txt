@@ -1,0 +1,77 @@
+10BERLIN5
+GERMANY NOTIFIED OF COLLISION RISK TO TUBSAT-A
+Tue Jan 05 00:00:00 +0100 2010
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXRO0942
+PP RUEHAG RUEHAST RUEHDF RUEHDH RUEHHM RUEHLN RUEHLZ RUEHMA RUEHPB
+RUEHPOD RUEHSL RUEHTM RUEHTRO
+DE RUEHRL #0005 0051411
+ZNR UUUUU ZZH
+P 051411Z JAN 10
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 6185
+INFO RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+RUEHFR/AMEMBASSY PARIS 1131
+RUEHRO/AMEMBASSY ROME 2636
+RUEHRL/USDAO BERLIN GE
+RUCUSTR/USSTRATCOM OFFUTT AFB NEUNCLAS BERLIN 000005 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+STATE FOR EUR/CE PETER SCHROEDER 
+STATE FOR ISN/MDSP DICK BUENNEKE 
+PARIS FOR NASA BILL BERRY 
+USSTRATCOM FOR JSPOC - VANDENBERG AFB 
+ 
+E.O. 12958: N/A 
+TAGS: TSPA PARM PREL NASA IT FR GM
+SUBJECT: GERMANY NOTIFIED OF COLLISION RISK TO TUBSAT-A 
+ 
+REF: A. EMAIL USSTRATCOM BATTLE WATCH COMMANDER - 
+        PETERSEN ON 01/03/2010 
+     ¶B. EMAIL D. BUENNEKE - PETERSEN ON 01/03/2010 
+     ¶C. ROME 004 
+ 
+¶1. (U) Per refs A and B, Econoff notified Dr. Udo Renner of 
+the Technical University in Berlin (TU Berlin), TUBSAT-A 
+Project Manager, of the January 10 collision risk posed by 
+debris from the Russian COSMOS 2251 satellite.  Dr. Renner 
+was very appreciative of the notification and was previously 
+unaware of the collision risk.  He said that TUBSAT-A is 
+almost 20 years old and inoperative, and was therefore not 
+concerned about any resultant damage to the satellite.  Dr. 
+Renner expressed interest in how this situation unfolds asked 
+to be kept informed of future developments.  In addition to 
+Dr. Renner, Econoff sent email notifications to Joachim von 
+Marschall, MFA Head of Division for Research and Technology 
+Policy, and Dr. Thorsten Nix, of the German Space Agency's 
+(DLR) Office for International Cooperation. 
+ 
+¶2. (U) Dr. Renner updated his contact information as follows 
+(Note: His email address has changed from the ref B listing. 
+End Note): 
+ 
+Prof. Dr.-Ing Udo Renner 
+TU Berlin Institute for Aerospace Technology 
+Telephone:  49 030 314-22308 
+E-Mail: Udo.Renner@ilr.tu-berlin.de 
+ 
+ABOUT TUBSAT-A 
+-------------- 
+ 
+¶3. (U) According to the NASA/JPL Mission and Spacecraft 
+Library, the Technical University of Berlin Satellite A 
+(TUBSAT-A) was the first micro-satellite (35 kg) built by the 
+Institute for Aerospace (ILR) at the TU Berlin, and was used 
+as a test platform for communications and attitude control 
+systems.  TUBSAT-A was launched into low-earth orbit (LEO) on 
+6/17/91 aboard an Ariane 4 rocket and has since ceased 
+operation, according to Renner.  During its operational 
+lifetime, the cube-shaped satellite was an important 
+communications tool for Arctic and Antarctic expeditions. 
+Since TUBSAT-A, ILR TU Berlin has launched five additional 
+TUBSATs, of which four are still in active operation. 
+DELAWIE

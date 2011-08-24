@@ -1,0 +1,179 @@
+08ANKARA151
+TURKISH COURTS BLOCK ACCESS TO "YOUTUBE" WEBSITE
+Fri Jan 25 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ankara
+VZCZCXRO3257
+PP RUEHAG RUEHAST RUEHDA RUEHDF RUEHFL RUEHIK RUEHKW RUEHLA RUEHLN
+RUEHLZ RUEHPOD RUEHROV RUEHSR RUEHVK RUEHYG
+DE RUEHAK #0151/01 0251106
+ZNR UUUUU ZZH
+P 251106Z JAN 08 ZDK
+FM AMEMBASSY ANKARA
+TO RUEHC/SECSTATE WASHDC PRIORITY 5040
+INFO RUEHZL/EUROPEAN POLITICAL COLLECTIVE
+RHMFISS/EUCOM POLAD VAIHINGEN GE
+RUEAIIA/CIA WASHDC
+RHEFDIA/DIA WASHDC
+RUEKJCS/JOINT STAFF WASHDC//J-3/J-5//
+RHEHAAA/NSC WASHDC
+RUEUITH/ODC ANKARA TU//TCH//
+RUEKJCS/SECDEF WASHDC
+RUEUITH/TLO ANKARA TU
+RUEHAK/TSR ANKARA TU
+RUEHAK/USDAO ANKARA TUUNCLAS SECTION 01 OF 02 ANKARA 000151 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PGOV PHUM PREL OSCE TU
+SUBJECT: TURKISH COURTS BLOCK ACCESS TO "YOUTUBE" WEBSITE 
+AGAIN 
+ 
+REF: 07 ANKARA 542 
+ 
+ANKARA 00000151  001.2 OF 002 
+ 
+ 
+¶1. (SBU) Summary:  Turkish courts banned access to the 
+immensely popular "YouTube" website for five days beginning 
+January 17, to block a picture with swear words imposed over 
+Turkey's founding father, Ataturk, and the Turkish flag.  The 
+GOT maintains the courts are properly implementing a new 
+Internet law passed May 7, 2007.  The incident -- the third 
+time in the past year the GOT has blocked YouTube -- 
+generated less media attention than past cases, and has yet 
+to spur YouTube users to raise their collective voice.  A 
+prolonged ban or blockage of another popular youth site, such 
+as "Facebook," could spark a more spirited response from 
+Turkey's generally apolitical youth and might become another 
+obstacle in Turkey's EU accession path.  End summary. 
+ 
+------------------------------------------- 
+Turkish Court Orders YouTube Access Blocked 
+------------------------------------------- 
+¶2. (U) Courts in Istanbul, Ankara, and Sivas blocked access 
+to the popular "YouTube" video portal January 17th, after 
+prosecutors in each jurisdiction alleged that pictures 
+superimposing swear words over Ataturk and the Turkish flag 
+violated the 1951 law prohibiting "publicly insulting the 
+memory of Ataturk."  Turkey's Telecommunications Presidency 
+(Telekom) immediately enforced the ban; users trying to 
+access the site received notices the site was blocked under 
+an Ankara court order. 
+ 
+¶3. (U) Telekom President Tayfun Acarer told the press YouTube 
+did not respond to warnings over the past two weeks to pull 
+the offensive content; it had also ignored several regulatory 
+submission deadlines.  YouTube, owned by Google, issued a 
+statement saying the company hoped access would be 
+re-established quickly.  Though the Ankara court repealed its 
+order on January 21, Telekom continued to implement the 
+Istanbul and Sivas court-ordered ban.  Many Turkish youths 
+accessed YouTube using a proxy server -- a well-known 
+technique to circumvent government bans.  Telekom in turn 
+began to block commonly used proxy sites.  YouTube remove the 
+video at issue and the ban was lifted January 23. 
+ 
+-------------------------------------- 
+Turkey's Internet Regulatory Framework 
+-------------------------------------- 
+¶4. (U) Turkey first blocked YouTube in March 2007, when an 
+Istanbul court ruled the site should be banned due to a 
+cartoon video that lampooned Ataturk as gay (reftel).  The 
+ban was lifted two days later after YouTube removed the 
+allegedly offensive videos.  In September 2007, a Sivas court 
+ordered a YouTube ban because of videos deemed insulting to 
+Ataturk, President Gul, PM Erdogan, and the Turkish army. 
+"Reporters Without Borders" called the move "a radical and 
+disproportionate precaution against a few documents of an 
+offensive nature," and urged the government to reverse the 
+order.  YouTube pulled the offensive material before the ban 
+went into effect. 
+ 
+¶5. (U)  A more comprehensive Internet law adopted May 4, 2007 
+titled "The Fight Against Crimes Committed Through Internet 
+Broadcast" provides that upon a prosecutor's application, a 
+court order may block a website if there is sufficient 
+suspicion that users are committing one of eight crimes via 
+the site, including encouraging suicide or drug abuse, sexual 
+abuse of children, obscenity, prostitution, gambling, and 
+crimes against Ataturk.  The new law requires Internet 
+Service Providers (ISPs) to pull the offensive content or 
+face criminal penalties (which courts may reduce to financial 
+penalties).  While the first seven crimes are clearly 
+defined, crimes against Ataturk are subject to interpretation 
+and inconsistent application.  Individuals who believe a 
+website violates their personal rights can request the ISP 
+remove the offensive content, and may appeal to a criminal 
+court within 15 days if the ISP does not.  The ISP must 
+comply with a banning order within 24 hours or face criminal 
+sanctions. 
+ 
+¶6. (SBU) No official statistics are available, but random 
+Internet checks indicate courts are increasingly using the 
+Internet law to ban websites in an ad hoc, inconsistent 
+ 
+ANKARA 00000151  002.2 OF 002 
+ 
+ 
+manner.  Some gambling websites are blocked while others 
+aren't; some slightly racy websites are blocked while more 
+graphic pornography sites are not; and blocked pages often 
+contain no information on the law violated or the court that 
+issued the order.  A ban imposed August 17 on all 
+wordpress.com postings, a popular blogger forum, continues to 
+block hundreds of thousands of wordpress blogs, though only 
+some contained allegedly defamatory content.  The blocking 
+technology used also appears to cast a wider net than 
+necessary.  On repeated occasions, innocuous content ranging 
+from CNN political blogs to CNN finance sites have been 
+blocked with no explanation. 
+ 
+¶7. (SBU) Ministry of Justice Foreign Relations VP Aykut Kilic 
+told us there is no problem with the judiciary's application 
+of the Internet law.  He explained that each blocked site 
+should be accompanied by a message indicating the law 
+violated and the ordering court; aberrations were the work of 
+hackers.  The judiciary daily is increasing its capacity to 
+deal with a rising number of websites that violate the law, 
+Kilic noted. 
+ 
+--------------------------------------------- ----- 
+Turkey's Internet Law 5651:  The Next Article 301? 
+--------------------------------------------- ----- 
+¶8. (U) Turkish columnists harshly criticized the ban. 
+"Today's Zaman's" Fatma Disli wrote that the ban highlighted 
+Turkey's troubled record on free expression.  "Posta's" 
+Mehmet Barlas reasoned that banning "the virtual world" would 
+be infinitely more complex than banning the headscarf. 
+"Star" columnist Ahmet Kekec likened the ban to the book bans 
+instituted after Turkey's 1980 coup.  "Sabah's" Emre Akoz 
+argued that the nationalist judiciary was acting 
+hypocritically by repressing free speech in an 
+ultraconservative manner while simultaneously criticizing the 
+ruling Justice and Development Party (AKP) as too 
+conservative. 
+ 
+¶9. (SBU) Several contacts predicted the Internet law would 
+soon outpace Penal Code Article 301 (criminalizing insulting 
+"Turkishness") as the most widely used method to suppress 
+freedom of expression.  Burak Bekdil, a columnist prosecuted 
+under Article 301, said the Internet law's ambiguous wording 
+will attract ever more prosecutions against Turks for 
+expressing themselves on blogs, chat rooms, and websites. 
+Human Rights Agenda Association President Orhan Cengiz 
+believes the law will soon take center stage in the EU's 
+concerns over Turkey's poor record on free speech.  Ankara 
+Bar Association President Vedat Cosar worries continued use 
+of the law to ban sites will lower Turkey to a par with 
+regimes that rely on censorship as a policy tool, such as 
+Iran and China. 
+ 
+Visit Ankara's Classified Web Site at 
+http://www.intelink.sgov.gov/wiki/Portal:Turk ey 
+ 
+WILSON

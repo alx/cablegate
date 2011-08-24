@@ -1,0 +1,119 @@
+09HONGKONG513
+EXTRANCHECK: POST SHIPMENT VERIFICATION: CHESTER VIEW LTD.
+Thu Mar 19 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #0513/01 0780645
+ZNR UUUUU ZZH
+R 190645Z MAR 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 7181
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000513 
+ 
+USDOC FOR 532/OEA/MNICKSON/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: CHESTER VIEW LTD. 
+ 
+REF: A) USDOC 07198 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment-verification (PSV) at Chester View Ltd., 1/Fl Mau 
+Lam Commercial Bldg, 16-18 Mau Lam Street, Hong Kong (Chester View). 
+The items in question for this PSV are four pulse generators 
+exported to Chester View on or about September 27, 2008.  On the 
+applicable shippers export declaration (SED), the items are 
+classified under export control classification number (ECCN) 3A002. 
+This ECCN is one of a group of ECCNs that do not require a license 
+for export/reexport to Hong Kong but may require a license to 
+mainland China.  The exporter was Quantum Composers Inc., of 
+Bozeman, Montana. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Chester View has 
+been in existence since 2005. Its paid up share capital is the Hong 
+Kong equivalent of USD 1250.  The Hong Kong Companies Registry lists 
+Indian national, Mr. Anand Vardhan as director. 
+ 
+¶4.  A review of the Chester View's web site (www.chesterviewltd.com) 
+reveals that Chester View specializes in the manufacturing and 
+distribution of a range of electrical and electronic test equipment. 
+ It claims to be able to provide turn-key test solutions for defense 
+and aerospace applications and states that Chester View customers 
+are R&D and manufacturing companies in the defense, space, 
+aeronautical, automobile, telecom and electronic sectors.  The web 
+site does not include any phone or e-mail contact information. 
+ 
+¶5.  Further web research reveals that the company is located at the 
+address of Buttar HK Limited, a corporate secretarial service that 
+appears to cater to Indian companies.  According to the Hong Kong 
+Companies Registry, Mr. Vardhan is also a director in three other 
+companies, namely Max Star Electronics Technology Limited (no 
+apparent web presence), RSL-Electronics Limited (www.rsl.co.il) and 
+Vincent Asia Pacific Limited (www.vincentasiapacific.com).  RSL 
+Electronics is an Israeli developer and manufacturer of control 
+diagnostics and prognostics systems for aerospace, marine and land 
+applications.  The Israeli company claims widespread use in military 
+applications worldwide. Vincent claims to have maintenance and 
+repair facilities for BARCO in the Asia Pacific region (more on 
+BARCO below). 
+ 
+¶6.  It took over two months to finally arrange a meeting with Mr. 
+Vardhan regarding this shipment. He claimed to be on extensive 
+travel in the region and India.  It became clear that Mr. Vardhan 
+does not reside in Hong Kong and it does not appear that the company 
+has any other employees or physical location save for the modest 
+offices of Buttar HK Limited. 
+ 
+¶7.  On March 9, 2009, ECO visited the company at the address noted 
+above and met with Mr. Vardhan, Director.  He stated that Chester 
+View is a trading company set up in 2005.  He stated that he 
+operates in Hong Kong because it is easier than operating out of 
+India.  His primary market is India.  He also stated that Vincent 
+and Max Link (referenced above) are dormant trading companies.  He 
+has just begun a collaboration with RSL (he described this company 
+as providing equipment to conduct diagnostics for wind energy 
+turbines).  He does not sell to mainland China. 
+ 
+¶8.  Mr. Vardnan stated that the customer for the items in question 
+was BARCO (Belgian American Radio Company).  This company 
+manufactures wall screens and monitors and the items are to be used 
+in the testing of display systems (www.barco.com).  Mr. Vardnan 
+states that the items were for use in India and he provided 
+documentation confirming that the items had been transferred in Hong 
+Kong to BARCO's designated freight forwarder.  Mr. Vardnan provided 
+additional documentation confirming sale of additional units of the 
+same product to Bharat Electronics in India (likely for military 
+use). 
+ 
+¶9.  Mr. Vardnan was open and cooperative during the interview and 
+stressed his willingness to comply with U.S. export controls.  ECO 
+provided by subsequent e-mail various additional information about 
+U.S. export controls.  ECO found Mr. Vardnan to be credible in his 
+explanations. 
+ 
+¶10.  In light of various aspects of this PSV (no apparent Chester 
+View Hong Kong physical location, delay in scheduling check, 
+unorthodox shipping pattern), ECO hesitates to declare that Chester 
+View is a suitable recipient of U.S. origin technology.  At the same 
+time, ECO notes that Mr. Vardnan's statements were credible and ECO 
+can find no evidence that any violations of the Export 
+Administration Regulations occurred in connection with the 
+transactions that were the subject of the PSV.  ECO requests that 
+ 
+OEA conduct a review of the technical specifications of the items to 
+determine whether a license was required for their shipment to Hong 
+Kong and subsequent reexport to India.

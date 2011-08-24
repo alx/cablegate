@@ -1,0 +1,71 @@
+10HONGKONG236
+EXTRANCHECK: POST SHIPMENT VERIFICATION: CHU KONG
+Tue Feb 09 00:00:00 +0100 2010
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0007
+RR RUEHWEB
+
+DE RUEHHK #0236 0400004
+ZNR UUUUU ZZH
+R 090004Z FEB 10
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9586
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000236 
+ 
+USDOC FOR 532/OEA/ MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: CHU KONG 
+TRANSSHIPMENT AND LOGISTIC 
+ 
+REF: A) BIS e-mail request dated December 15,2010 (01210100) 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) attempted 
+to conduct a post shipment verification (PSV) at Chu Kong 
+Transshipment and Logistic Co., 1/F, 97 Ho Yeung St., Tuen Mun, 
+N.T., Hong Kong (Chu Kong). The item in question for this PSV is 
+flexible silicone rubber transmission line absorber exported to Chu 
+Kong on or about June 8, 2009.  According to the exporter, this item 
+is classified under ECCN 1C001 and if properly classified, would 
+require a license to both Hong Kong and China for national security 
+(NS) and missile technology (MT) reasons.  The exporter was Cuming 
+Microwave Corporation of Avon, Massachusetts. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Chu Kong has been 
+in existence since 1989. It is a freight forwarding company 
+(www.cksd.com).  Documentation provided by OEA reveals that the 
+likely end user for this item is Mitac Computer (Shunde) Ltd., in 
+Shunde, mainland China.  Mitac is an IT company that produces 
+various wireless and enterprise solutions products (www.mitac.com). 
+It has a range of worldwide offices including some in the United 
+States. 
+ 
+¶4.  FCS Commercial Assistant Carrie Chan attempted, on several 
+occasions, to arrange a meeting with Chu Kong.  Mr. Xu, Wang, 
+Logistic Department Manager, declined to meet with the ECO unless 
+ECO was accompanied by Hong Kong Government officials.  He stated 
+that Chu Kong is a freight forwarder and had forwarded the item in 
+question to Shunde.  Ms. Xu stated that ECO should reach out to 
+Mitac for additional information. 
+ 
+¶5.  As it is clear that the item in question has been shipped to 
+mainland China, ECO recommends that OEA request an official 
+commodity classification for this item.  ECO would not be surprised 
+if the exporter has over-classified the item.  Should the item be 
+subject to control under ECCN 1C001, ECO will reach out to the Hong 
+Kong government to assist in follow-up with Chu Kong.  At OEA's 
+request, ECO may reach out to the Hong Kong government regarding Chu 
+Kong's unwillingness to meet irrespective of the final ECCN (ECO 
+does not recommend such an approach).

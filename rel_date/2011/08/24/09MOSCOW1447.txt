@@ -1,0 +1,79 @@
+09MOSCOW1447
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: RADIS LTD.,
+Wed Jun 03 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0007
+PP RUEHWEB
+
+DE RUEHMO #1447 1540616
+ZNR UUUUU ZZH
+P 030616Z JUN 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3604
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001447 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: RADIS LTD., 
+ZELENOGRAD, MOSCOW REGION, RUSSIA. 
+ 
+REFTELS: REQUEST #4210010; DATED 5/11/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Radis Ltd., Zelenograd, 
+Moscow, Russia. The company is listed on BIS license applications: 
+NLR as the ultimate consignee of various I.C. SPDT switches, 
+electronic integrated circuits: n/unmounted and various I.C. SP4T 
+positive bias switch DC, electronic integrated circuits: n/unmounted 
+and other mixed signals. The licensee is Hittite Microwave Corp., 20 
+Alpha Road, Chelmsford, MA 01824. 
+ 
+¶3. On May 27, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of Radis Ltd., 12 Radio Street, Moscow, 
+Russia.  The export control team met with Yury Golvenko, General 
+Director, Alexander Tchoudakov, Commercial Director and Alexander 
+Khrustalev, General Director of Elkotech.  The export control team 
+was not able to conduct a site visit of RadisQ operations at its 
+Zelenograd facilities.  The Zelenograd facility was described as a 
+secure building that employs the necessary security components 
+required under a compliance program to receive restricted items. 
+ 
+¶4. Radis Ltd was founded in 1992 to develop satellite, radio and 
+communications network systems, and also as distributor of 
+electronic components.  Radis Ltd has a full production line at its 
+Zelenograd facilities where they employ approximately 100 people. 
+In 1996 Radis entered into an agreement with Hewlett Packard (HP) to 
+be a distributor of HP semi-conductors.  Also in 1996, Radis created 
+a subsidiary, Elkotech, to continue the distribution work while 
+Radis concentrated on producing its own satellite systems and RF 
+amplifiers. 
+ 
+¶5. Radis Ltd has a small laboratory at its Radio Street location 
+where the export control team was shown several up converter boxes 
+and transformer boxes that contained the Hittite Microwave 
+integrated circuits in reftel. 
+ 
+¶6. The export control team found the reftel commodities at the 
+consigneeQs Moscow facility; the entire shipment was accounted for; 
+the equipment is being used for the end use for which it was 
+licensed; there is no indication of impropriety and the consigneeQs 
+answers were not evasive. 
+ 
+¶7. Recommendations: Post recommends Radis Ltd., Zelenograd, Moscow 
+Region, Russia, as a reliable recipient of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

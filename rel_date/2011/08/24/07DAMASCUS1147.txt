@@ -1,0 +1,93 @@
+07DAMASCUS1147
+IDENT DATA ENTRY ERRORS AT PORTS OF ENTRY
+Mon Dec 03 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Damascus
+VZCZCXRO1586
+OO RUEHTRO
+DE RUEHDM #1147 3370534
+ZNR UUUUU ZZH
+O 030534Z DEC 07
+FM AMEMBASSY DAMASCUS
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 4411
+INFO RUEHAM/AMEMBASSY AMMAN 7152
+RUEHEG/AMEMBASSY CAIRO 3490
+RUEHLB/AMEMBASSY BEIRUT 4802
+RUEHGB/AMEMBASSY BAGHDAD 0605
+RUEHYN/AMEMBASSY SANAA 0301
+RUEHKU/AMEMBASSY KUWAIT 1279
+RUEHAK/AMEMBASSY ANKARA 5386
+RUEHIT/AMCONSUL ISTANBUL 0295
+RUEHTV/AMEMBASSY TEL AVIV 2037
+RUEHJM/AMCONSUL JERUSALEM 1527
+RUEHMS/AMEMBASSY MUSCAT 0083
+RUEHMK/AMEMBASSY MANAMA 0629
+RUEHAD/AMEMBASSY ABU DHABI 1349
+RUEHDI/AMCONSUL DUBAI 0146
+RUEHDO/AMEMBASSY DOHA 0450
+RUEHTU/AMEMBASSY TUNIS 2912
+RUEHAS/AMEMBASSY ALGIERS 0415
+RUEHRB/AMEMBASSY RABAT 0602
+RUEHCL/AMCONSUL CASABLANCA 0884
+RUEHTRO/AMEMBASSY TRIPOLI 0026
+RUEHRH/AMEMBASSY RIYADH 7906
+RUEHJI/AMCONSUL JEDDAH 2686
+RUEHTH/AMEMBASSY ATHENS 0310
+RUEHPNH/NVC PORTSMOUTH 6412
+RUEAHLC/HOMELAND SECURITY CENTER WASHINGTON DC
+RUEAIIA/CIA WASHDC
+RUCNFB/DIR FBI WASHDCUNCLAS DAMASCUS 001147 
+ 
+SIPDIS 
+ 
+ATHENS FOR DHS 
+DEPT FOR INL/HSTC 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958 
+TAGS: CVIS ASEC KFRD SY
+SUBJECT:  IDENT DATA ENTRY ERRORS AT PORTS OF ENTRY 
+ 
+¶1.  (SBU) Summary:  CBP inspectors at US ports of entry are 
+apparently entering the terms "recidivist," "frequent traveler" and 
+"unknown" into IDENT in place of actual traveler names and bio-data. 
+ Clearing these entries causes extra work for consular officers and 
+casts a negative light on legitimate passengers with repeat travel. 
+POE registration of photos without actual bio-data undermines the 
+purpose of NSEERS.  End summary. 
+ 
+¶2.  (SBU) Embassy Damascus sees, on average, one or two "recidivist" 
+hits daily in the IDENT system that have been entered by CBP 
+inspectors at ports of entry.  However, these hits are nearly always 
+(over 95 percent of the time) entered for people who have diligently 
+registered with NSEERS, not the repeat offenders the word 
+"recidivist" would suggest. 
+ 
+¶3.  (SBU) Recidivist hits, like Watchlist tags, are displayed 
+prominently in the system message box that remains open on the 
+background screen of the NIV application.  While clearing individual 
+NSEERS registrants from the box is a minor annoyance, over time they 
+have a "boy who cried wolf" effect on the officers they are meant to 
+alert, especially in posts with large numbers of applicants for whom 
+NSEERS is mandatory. 
+ 
+¶4.  (SBU) Another far more common problem is the frequency with 
+which CBP inspectors enter applicants' names with the filler text 
+"FREQUENTTRAVELER, FREQUENTTRAVELER" or "UNKNOWN," even on the 
+individual's first trip to the US.  Given that the aim of the NSEERS 
+program is to verify the entry and exit of all designated 
+individuals into and out of the U.S., it would be very helpful to 
+both DHS and DOS to be able to confirm that the person bearing the 
+fingerprints used the same name at registration, especially since 
+photos are sometimes blurry or absent.  Registering the traveler 
+without the actual name seems counterproductive. 
+ 
+¶5.  (SBU) Finally, Post has seen a few instances of inappropriate 
+comments entered with applicants' IDENT data.  Most recently, notes 
+for an elderly woman in a wheelchair indicated that she was 
+questioned specifically about whether she supports Al Qaeda, to 
+which she replied that she did not. 
+ 
+CORBIN

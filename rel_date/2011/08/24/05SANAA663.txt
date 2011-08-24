@@ -1,0 +1,240 @@
+05SANAA663
+SCENESETTER FOR VISIT OF EB/ICT DEPUTY ASSISTANT
+Mon Mar 21 00:00:00 +0100 2005
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Sanaa
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 SANAA 000663 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+PLEASE PASS TO AMBASSADOR GROSS AND EB/CIP/SP; USAID ANE 
+TS-MEZGER 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PGOV EFIN ECPS EIND EINV ETTC KMPI YM KMCC ENVIRONMENT ECON COM
+SUBJECT: SCENESETTER FOR VISIT OF EB/ICT DEPUTY ASSISTANT 
+SECRETARY DAVID GROSS TO YEMEN MARCH 24-26 
+ 
+SIPDIS 
+ 
+REF: A. STATE 38739 
+     ¶B. SANAA 486 
+     ¶C. SANAA 196 
+ 
+¶1. (SBU) Post welcomes the visit of EB Deputy Assistant 
+Secretary for International Telecommunications and 
+ 
+SIPDIS 
+Information Policy David Gross to Yemen March 24-26.  You 
+will meet Deputy Prime Minister and Minister of Planning 
+Ahmed Sofan, and Minister of telecommunications and 
+Information Technology Abdul-Malik al-Maolimi.  As the 
+highest-ranking Washington official ever to visit the 
+Ministry, you will find the ROYG and industry leaders 
+appreciative of your visit and eager to discuss with you the 
+future of information and communications technology (ICT). 
+You will also meet with business leaders in ICT and other 
+fields, a ROYG working group for WTO accession, as well as 
+have the opportunity to speak to students and faculty of the 
+University of Science and Technology.  Your visit will bring 
+attention to the growth of the ICT industry in Yemen, and to 
+the important link between an emerging democratic society and 
+the free flow of information. 
+ 
+----------------- 
+ECONOMIC OVERVIEW 
+----------------- 
+ 
+¶2. (U) One of the 25 poorest and least developed countries in 
+the world, Yemen's real GDP per capita is approximately 800 
+USD.  According to the World Bank, GDP growth for 2003 was 
+2.8 percent, which does not match population growth greater 
+than 3.5 percent annually.  Unemployment is estimated to be 
+35 percent.  Oil resources, which account for 35 percent of 
+GNP and roughly 80 percent of government revenues, are 
+expected to decline significantly during the next decade.  On 
+macro-indicators, Yemen has demonstrated fiscal discipline 
+over the last six years, reducing inflation and showing 
+balanced budgets, however, without foreign investment and 
+domestic development, Yemen faces a grim economic future. 
+The one bright spot on the horizon is a 2.5 billion dollar 
+investment in a 6.5 metric ton a year natural gas 
+liquification plant due to come on line in 2008.  This plant 
+is expected to help diversify Yemen's economy and reduce its 
+dependence on oil.  Telecom is another high growth industry 
+that shows promise -- often in spite of government policies. 
+ 
+-------------------- 
+Trade and Investment 
+-------------------- 
+ 
+¶3. (U) The World Bank considers Yemen to be among the most 
+open and trade liberalized countries in the MENA region.  Oil 
+exports, however, represented more than 90 percent of total 
+merchandise exports in 2003.  Of the remaining 10 percent, 
+products such as fish, coffee, fruits, and vegetables are low 
+value added. 
+ 
+¶4. (SBU) Weak legal institutions and ill-equipped commercial 
+courts discourage foreign investment in Yemen.  Judges are 
+often unfamiliar with commercial law, and since the 
+unification of North and South in 1990, conflicting laws 
+remain on the books.  Cases may take years to be heard and 
+then stagnate in the appellate process.  In the rare instance 
+when a case is decided, it is rarely enforced.  Without a 
+clear land-titling system, limited ability to collateralize 
+against property, and courts' reluctance to enforce default 
+judgments against property collateral, domestic investors are 
+also reluctant to invest their money in new businesses. 
+ 
+¶5. (SBU) One of the greatest obstacles to direct foreign 
+investment in Yemen is the non-transparent and protracted 
+nature of the tendering process.  Some American companies 
+have had problems with the confidentiality of their bids, 
+while others were later overturned and rewarded to 
+competitors.  Winning companies often have close ties to 
+government officials or powerful local business interests. 
+Post has raised concerns about the tendering process at the 
+highest levels of the ROYG and repeats often that a sound 
+tendering process is necessary for increased Foreign and 
+American investment in Yemen. 
+ 
+------------------------------- 
+Telecommunications: A Mixed Bag 
+------------------------------- 
+ 
+¶6. (U) Yemen has one of the lowest levels of telecom 
+penetration in the region, which in turn is among the lowest 
+rates in the world.  Only 1.5 percent of all Yemeni 
+households have phone lines, although the ROYG has made 
+progress in its goal of adding 3 million additional phone 
+lines by 2009.  Even with a growing number of mobile 
+subscribers, many Yemenis still lack access to basic phone 
+service.  Less than one percent of the population has 
+internet access at home, and a fraction of these have 
+broadband services (although ADSL and VSAT are available in 
+some areas).  Long distance rates are astronomical and Yemen 
+charges high termination fees for incoming calls. 
+ 
+¶7. (U) In many respects, however, Yemen has made good telecom 
+decisions that offer great potential for growth of the 
+industry.  Yemen has been installing digital lines since the 
+1980s, resulting in a telecom backbone that is now almost 
+entirely digital.  The Public Telecommunications Corporation 
+(PTC) is installing fiber-optic cables to all regional 
+capitals as part of its current expansion.  This will allow 
+for high volume data backhaul from remote areas, and offers 
+the possibility of a nationwide broadband system in the 
+future.  Fiber-optic lines currently connect Yemen to Saudi 
+Arabia and Djibouti, and will soon reach Oman.  Many remote 
+areas tap into the fiber-optic network by microwave, but the 
+PTC intends to replace this with more extensive fiber-optic 
+systems in the future. 
+ 
+¶8. (U) Yemen has also developed a limited policy of 
+technology neutrality in the wireless sector, and is the only 
+country in the region to offer consumers a choice between 
+CDMA and GSM products.  Spacetel and Sabafon began providing 
+GSM service three years ago and now have over a million 
+subscribers.  CDMA technology is advocated by the PTC and is 
+used by the state-owned wireless company Yemen Mobile.  CDMA 
+is also used to provide local fixed wireless access in more 
+remote areas.  This system currently provides voice 
+technology to approximately 200,000 people, and may 
+eventually be used for data transmission (ref c). 
+ 
+¶9.  (SBU) Despite positive steps, Yemen remains hampered by 
+its monopolistic tendencies.  TeleYemen, the national phone 
+company once owned by British Telecom, has been reacquired by 
+the ROYG.  The French company Alcatel provides services, but 
+ownership is divided between the PTC and the National Post 
+Office.  After allowing private growth in the wireless 
+market, the PTC entered the field with its own 
+government-owned service.  Both internet providers are owned 
+by the government, as is the long-distance service.  The ROYG 
+is very protective of this income and would like to see all 
+future investment directed through the PTC. 
+ 
+¶10.  (SBU) The Ministry of Telecommunications readily admits 
+there is a clear need in Yemen for an effective telecom 
+regulatory body.  The Minister of Telecommunications also 
+serves as the head of the existing regulatory office, and 
+directs the PTC.  This situation produces, at the very least, 
+the appearance of conflict of interest.  The GSM CEOs are 
+sure to raise this issue during your lunch, and will likely 
+cite the long-awaited third wireless tender.  The ROYG has 
+said that it will only accept bids for GSM service and will 
+not allow new competition in CDMA.  Privatization of PTC 
+interests or TeleYemen is not currently on the table. 
+Although there are few believers within the Ministry or PTC 
+in the benefits of competition, there does exist a growing 
+awareness that the lack of proper regulation discourages 
+investment in this important sector. 
+ 
+----------------- 
+Yemen and the WTO 
+----------------- 
+ 
+¶11.  (U) Yemen is making progress in trade reforms necessary 
+for WTO accession and eventually a Free Trade Agreement (FTA) 
+with the U.S.  Key ministries have a broad mandate within the 
+ROYG to draft the necessary legislation and create 
+regulations to comply with international standards.  The ROYG 
+has created an effective inter-agency mechanism to direct 
+these activities.  Significant obstacles remain, however, and 
+the ROYG will have to demonstrate to the WTO that it can 
+implement the planned reforms.  ROYG aspirations to accede to 
+the WTO within one year, while admirable, may be too 
+ambitious.  At November 2004 TIFA Talks, USTR officials 
+suggested that Yemen quickly adopt the Information Technology 
+Agreement to demonstrate their commitment to WTO accession. 
+You may want to raise this with a number of your 
+interlocutors, including WTO Trade Negotiator, Nagib Hamim. 
+ 
+¶12.  (U) The Ministry of Telecommunications was not 
+represented in initial TIFA talks held in Washington in 
+November 2004, however ICT issues were raised for the first 
+time in follow-up talks in Geneva.  The Yemeni TIFA team is 
+aware that telecom is important to the USG, and that ICT 
+issues have posed problems for other countries' accession to 
+the WTO.  Yemeni officials appear unaware of the many steps 
+that will be expected of them, including building a 
+regulatory body and liberalizing ICT markets.  Post 
+recommends you raise these two points directly with both the 
+Minister of Telecommunications and with Deputy Prime Minister 
+Sofan when you meet with them.  You can add that we have a 
+number of mechanisms to assist in this process through MEPI 
+and USAID. 
+ 
+¶13.  (SBU) DPM Sofan will likely ask you for increased 
+U.S.-Yemen trade and investment cooperation.  Recent U.S. 
+companies' experiences with unsound tendering processes and 
+non-competitive practices have made it necessary for post to 
+reiterate that in the USG view, the investment climate must 
+improve before American firms will invest in Yemen.  We 
+encourage you to echo this message and provide a perspective 
+on what U.S. companies seek in an investment climate. 
+ 
+---------------------------- 
+Bios of al-Moalimi and Sofan 
+---------------------------- 
+ 
+¶14.  (U) Bio note: Abdul-Malik al-Moalimi was born in 1947. 
+He is Chinese educated, with a BA in Engineering and a 
+Diploma in Administration.  He has served before as Minister 
+of Telecommunications (2001-2003), and as Deputy Minister of 
+Education (1998-2001), and Deputy Minister of Labor and 
+Vocational Training (1990-1992).  End bio note. 
+ 
+¶15.  (U) Bio note: Deputy Prime Minister and Minister of 
+Planning and International Cooperation Ahmed Mohammed Sofan 
+was born in 1958.  He has a High Diploma in Economics and 
+Political Sciences from the UK (1970).  He has a license in 
+Sharia and Law, Sana'a University (1985).  Sofan has served 
+as Minister of Planning and Development since 1991.   End bio 
+note. 
+Khoury

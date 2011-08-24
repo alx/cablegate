@@ -50,7 +50,6 @@ agreement.
  
 Preambular Language 
 ------------------- 
-
 ¶3. (SBU) Preambular language mentions the creation of 
 PetroCaribe on June 29, 2005 as an enabling organization for 
 energy policies and plans.  The parties reaffirm close ties 
@@ -62,7 +61,6 @@ to adapt to changing conditions in petroleum markets.
  
 Article 1: Supply of Petroleum Products 
 --------------------------------------- 
-
 ¶4. (SBU) The Government of Venezuela will supply crude oil, 
 refined products, and liquefied natural propane gas (GLP) or 
 equivalent energy projects to Nicaragua in a quantity up to 
@@ -77,7 +75,6 @@ of this agreement.
  
 Article 2: PDVSA Policies Prevail 
 --------------------------------- 
-
 ¶5. (SBU) Supply will be effected between the Government of 
 Venezuela and the Government of Nicaragua, or Nicaraguan 
 entities chosen by mutual agreement between both governments, 
@@ -88,7 +85,6 @@ ratified by the Government of Venezuela.
  
 Article 3: Financing Terms 
 -------------------------- 
-
 ¶6. (SBU) The Government of Venezuela will provide financing 
 under the following scheme: a grace period of 2 years on the 
 payment of principal and an annual interest rate of 2%.  The 
@@ -118,6 +114,7 @@ products whose price has been affected by the policies of
 rich countries.8 
  
 ¶8. (SBU) Payment must be received within 90 days of having 
+ 
 received notice of shipment.  No interest will be charged 
 during the first 30 days.  An annual rate of 2% interest will 
 apply to the remaining 60 days.  The Government of Venezuela 
@@ -128,7 +125,6 @@ later than 30 days from the notice of shipment.
  
 Article 4: Debt Payment Mechanisms 
 ---------------------------------- 
-
 ¶9. (SBU) Interest and principal payments for debt contracted 
 by the Government of Nicaragua or Nicaraguan entities, as the 
 case may be, may be made through commercial compensation, 
@@ -136,7 +132,6 @@ when requested by the Government of Venezuela.
  
 Article 5: Use 
 -------------- 
-
 ¶10. (SBU) Financed sales will be used for internal 
 consumption by the Government of Nicaragua.  On each 
 occasion, quantities will be decided by the Government of 
@@ -144,7 +139,6 @@ Venezuela.
  
 Article 6: Imports Not To Exceed Consumption 
 -------------------------------------------- 
-
 ¶11. (SBU) As in the case under the Energy Cooperation Program 
 with Central American and Caribbean countries (San Jose 
 Agreement), imports under this agreement may not exceed the 
@@ -152,7 +146,6 @@ level of internal consumption of the Government of Nicaragua.
  
 Article 7: San Jose Agreement 
 ----------------------------- 
-
 ¶12. (SBU) This quantities purchased under this agreement will 
 have no affect on financing mechanisms in place under the San 
 Jose Agreement for Central America and the Caribbean.  For 
@@ -162,7 +155,6 @@ the context of this agreement.
  
 Article 8: Executing Authorities 
 -------------------------------- 
-
 ¶13. (SBU) The Ministry of Energy and Petroleum and Venezuelan 
 Oil Company (PDVSA) will execute this agreement on behalf of 
 the Government of Venezuela.  They will establish the 
@@ -170,7 +162,6 @@ procedures and mechanisms for implementation.
  
 Article 9: Duration, Renewal, Termination 
 ----------------------------------------- 
-
 ¶14. (SBU) This agreement will be in effect for a period of 
 one year, to be automatically renewed for equal and 
 successive terms.  This agreement may be modified or 
@@ -181,7 +172,6 @@ days in advance.
  
 Article 10: 2000 Agreement on Energy Cooperation 
 --------------------------------------------- --- 
-
 ¶15. (SBU) This agreement is an extension of the Agreement on 
 Energy Cooperation signed in Caracas on October 19, 2000. 
 TRIVELLI

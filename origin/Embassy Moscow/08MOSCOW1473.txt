@@ -1,0 +1,79 @@
+08MOSCOW1473
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Fri May 23 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0011
+PP RUEHWEB
+
+DE RUEHMO #1473 1441323
+ZNR UUUUU ZZH
+P 231323Z MAY 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 8237
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001473 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/DMUSLU 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+ELCUS ELECTRONIC COMPANY, ST.PETERSBURG, RUSSIA, 
+LICENSE NO. NLR 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Elcus Electronic Company, St. Petersburg, 
+Russia. The company is listed on BIS license 
+application: NLR as the ultimate consignee of 
+integrated circuits. ECCN EAR99, 4A994. The exporter 
+is Data Device Corporation, 105 Wilbur Place, Bohemia, 
+NY 11716. 
+ 
+¶3. On May 14, 2008, Export Control Attache Peter 
+Liston and LES Natalya Shipitsina conducted the 
+requested post-shipment verification with Elcus 
+Electronic Company, St. Petersburg, Russia. The export 
+control team met with Sergey Khvosch, General Director 
+and Yury Savchuk, Chief Engineer. 
+ 
+¶4. Elcus Electronic Company was founded in 1993 by 
+Sergey Khvosch.  Khvosch had been conducting research 
+on Integrated Circuit Boards while part of the Russian 
+University system and wrote and published the first 
+Russian language book on the subject.  Elcus 
+Electronics Company is located in a secure facility 
+with 24 hour manned and electronically monitored 
+security.  Khvosch had begun DBA Elcus prior to 1993 
+while still employed at the University, and only 
+established it as a private company upon leaving. 
+Elcus Electronic Company employees 100 people, mostly 
+technicians and engineers, and manufactures all aspects 
+of integrated circuit boards.  The Export Control Team 
+was provided complete access to the facility and was 
+able to see and observe the manufacturing processes. 
+ 
+¶5. The subject commodities in reftel were manufactured 
+into circuit boards for long time Elcus Electronic 
+Company customer, UKBP - Ulyaganovskoe Construction 
+Equipment Bureau.  UKBP produces avionics and 
+navigational equipment for civilian use only.  Elcus 
+Electronics Company provided the export Control Team 
+with proprietary customer documentation attesting to 
+the sale of the commodities in reftel to UKBP for 
+visual inspection. 
+ 
+¶6. Recommendations: Post recommends Elcus Electronic 
+Company, St. Petersburg, Russia as a reliable recipient 
+of sensitive U.S. origin commodities. 
+(FCS MOSCOW/ SBOZEK/PLISTON) 
+RUSSELL

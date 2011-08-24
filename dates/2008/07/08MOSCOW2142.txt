@@ -1,0 +1,74 @@
+08MOSCOW2142
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Fri Jul 25 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0015
+PP RUEHWEB
+
+DE RUEHMO #2142 2071126
+ZNR UUUUU ZZH
+P 251126Z JUL 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 9165
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 002142 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/L.RITTER/M.HAMES 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+ROTEK TTC, ENTHOZIASTOV HIGHWAY, MOSCOW, RUSSIA, 
+LICENSE NO. NLR 
+ 
+REFTEL: USDOC 04031 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Rotek TTC, Enthoziastov Highway, Moscow, Russia. 
+The company is listed on BIS license application: NLR 
+as the ultimate consignee of six (6) HMC489LP5 high 
+dynamic range surface mount amplifiers.  ECCN 3A001. 
+Controlled for anti-terrorism (AT), missile technology 
+(MT) and nuclear non-proliferation (NP) reasons. The 
+exporter is Hittite Microwave Corporation, 20 Alpha 
+Road, Chelmsford, MA  01824. 
+ 
+¶3. Export Control Attach Peter Liston and LES 
+Political Specialist Boris Karasyov contacted 
+representatives of Rotek LLC by telephone and email 
+regarding the reftel commodity and its alleged 
+importation into Russia.  No on-site PSV was conducted 
+at Rotek TTC because Rotek TTC never received the 
+shipment of six (6) HMC489LP5 high dynamic range 
+surface mount amplifiers identified in reftel. 
+ 
+¶4.  According to Alexey Menshuten, the Director- 
+Coordinator of the group of companies Rotek TTC, 
+Rotek-TC, Rotek-Elpom, Rotek NPK and Rotek Telecom; 
+and Alexander Brazhnikov, Director General of Rotek 
+TC; Hittite Microwave Corporation shipped six (6) 
+HMC489LP5 high dynamic range surface mount amplifiers 
+to Rotek TTC via FedEx in 2006 after completing the 
+licensing process.  However, because Rotek TTC was not 
+registered as an importer/exporter in Russia, Russian 
+Customs did not allow the shipment to clear customs 
+and returned it to Hittite.  Rotek TTC claims that 
+they have never received the reftel commodity even 
+though they did request a re-shipment from Hittite. 
+ 
+¶5. Recommendations: Post was not able to conduct PSV 
+and therefore cannot recommend Rotek LLC, Moscow, 
+Russia as reliable recipients of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/BBLECHER/PLISTON) 
+BEYRLE

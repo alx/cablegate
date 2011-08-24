@@ -15,34 +15,6 @@ SUBJECT: SPAIN'S AID PROGRAM IN ANDEAN REGION
  
 REF: STATE 27676 
  
-¶1. Econoff met March 13 with Sp...
-
-id: 29056
-date: 3/17/2005 16:51
-refid: 05MADRID1063
-origin: Embassy Madrid
-classification: UNCLASSIFIED
-destination: 05STATE27676
-header:
-This record is a partial extract of the original cable. The full text of the original cable is not available.
-
-
- 
-
------------------ header ends ----------------
-
-UNCLAS MADRID 001063 
- 
-SIPDIS 
- 
-PASS TO STUART LIPPE AND KIMBER SHEARER 
- 
-E.O. 12958: N/A 
-TAGS: ECON EAID PREL CO ECIN PE BL VE SP EUN
-SUBJECT: SPAIN'S AID PROGRAM IN ANDEAN REGION 
- 
-REF: STATE 27676 
- 
 ¶1. Econoff met March 13 with Spanish Agency for International 
 Development (AECI) officials in the Subdirectorate General 
 for South America to answer reftel questions.  Our contacts 
@@ -112,6 +84,4 @@ that Spanish aid to Colombia focuses on cementing peace,
 human rights issues and helping vulnerable populations.  They 
 noted that our AECI project managers in Andean countries are 
 in regular contact with USAID country directors. 
-MANZANARES 
-
-=======================CABLE ENDS============================
+MANZANARES

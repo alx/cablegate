@@ -1,0 +1,450 @@
+10STATE14505
+BLUE LANTERN PRE-LICENSE END USE CHECK ON
+Thu Feb 18 00:00:00 +0100 2010
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHC #4505 0491519
+ZNR UUUUU ZZH
+R 181515Z FEB 10
+FM SECSTATE WASHDC
+TO RUEHRL/AMEMBASSY BERLIN 0000
+INFO RUEHMD/AMEMBASSY MADRID 0000
+RUEHFR/AMEMBASSY PARIS 0000
+RUEHTC/AMEMBASSY THE HAGUE 0000
+RUEAIIA/CIA WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DC 0000UNCLAS STATE 014505 
+ 
+SIPDIS 
+FOR ECON SHANE M. PETERSEN 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC FR GM KOMC NL SP
+SUBJECT: BLUE LANTERN PRE-LICENSE END USE CHECK ON 
+APPLICATION 050213112 AND 050213247 AND POST-SHIPMENT 
+CHECK ON LICENSE 050141493 AND 050143433 
+ 
+¶1.  This is an action message.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post assistance in conducting a 
+pre-license and post-shipment check for the export of 
+satellite components to Germany.  Post is requested to 
+complete this Blue Lantern check within 30 days.  Lack of 
+response to a Blue Lantern check will affect pending and 
+future licenses involving parties to this license. 
+ 
+¶3.  Reason for request: the commodity of these four DDTC 
+licenses are radiation hardened components for use by the 
+German company Jena-Optronik GmbH in the manufacture of its 
+ASTRO 10 star trackers that will be installed on two 
+satellites.  All components are United States Munitions List 
+(USML) items controlled under the International Traffic in 
+Arms Regulations (ITAR).  Jena-Optronik's Internet website 
+provides descriptive literature about its various star 
+trackers, and there it states that the ASTRO 10 is of "ITAR 
+Parts free design".  Although Jena-Optronik advertises its 
+ASTRO 10 star trackers as ITAR-free, these licenses are 
+evidence that some ASTRO 10 star trackers do have 
+ITAR-controlled content.  This apparent discrepancy raises 
+issues about export controls and possible ITAR violations. 
+The Department therefore wishes to conduct a Blue Lantern 
+check in order to query Jena-Optronik about its star trackers. 
+ 
+¶4.  ACTION: Please contact the Foreign End User/Foreign 
+Consignee, Jena-Optronik GmbH, and make inquiries regarding 
+the content of its star trackers and the sale of these items. 
+ 
+The following questions are provided as guidance: 
+ 
+--Jena-Optronik's ASTRO 10 star trackers are described on its 
+website as "ITAR Parts free design".  Why then is 
+Jena-Optronik requesting ITAR-controlled components for ASTRO 
+10 star trackers? 
+ 
+--Do some or all ASTRO 10 star trackers contain 
+ITAR-controlled parts? 
+ 
+--What percentage of the ASTRO 10 star trackers manufactured 
+by Jena-Optronik contain ITAR-controlled parts? 
+ 
+--Why do some ASTRO 10 star trackers contain ITAR-controlled 
+components and others do not? 
+ 
+--Who specifically requested and decided that the ASTRO 10 
+star trackers for use on these two satellites should contain 
+ITAR-controlled components? 
+ 
+--Has Jena-Optronik ever used ITAR-controlled parts on any of 
+its star trackers that were subsequently advertised, labeled, 
+or sold as being "ITAR-free"? 
+ 
+--Has Jena-Optronik sold any star tracker with U.S.-origin 
+ITAR-controlled content to an end-user not authorized by DDTC 
+license? 
+ 
+--Has Jena-Optronik sold any of its star trackers to China or 
+Iran, either through direct sales or via intermediaries?  If 
+so, please provide details on how many and what type of star 
+trackers have been sold. 
+ 
+--Has Jena-Optronik sold any star trackers to China or Iran 
+which contained any U.S.-origin components, whether 
+ITAR-controlled or not?  Please provide details about all 
+U.S.-origin parts used in any star trackers that 
+Jena-Optronik has sold to China or Iran, including part 
+description, stock number, source, and U.S. company of 
+manufacture. 
+ 
+--Has Jena-Optronik used all of the ITAR-controlled 
+components it has ever received via DDTC licenses, or does it 
+currently maintain a stockpile of unused parts?  Request that 
+Jena-Optronik provide an accounting of all holdings it has of 
+unused ITAR-controlled components in storage, including the 
+disposition of any parts that were defective or destroyed. 
+Jena-Optronik should identify the DDTC licenses through which 
+it obtained all of the ITAR-controlled parts it currently has 
+stockpiled.  Also ask Jena-Optronik if it has ever 
+re-transferred or re-exported any U.S.-origin ITAR-controlled 
+components without DDTC authorization. 
+ 
+--Finally, ask Jena-Optronik if it understands the 
+restrictions on U.S.-origin ITAR-controlled commodities, 
+particularly the prohibition against re-transfers or 
+re-exports without express USG authorization. 
+ 
+END ACTION. 
+ 
+¶5.  License Information: 
+ 
+A)  DDTC Case Number 050213112 
+ 
+QUANTITY/COMMODITY: 
+ 
+30       Integrated Circuit, Static Random Access Memory, 
+Radiation Hardened, HX6228TQRC (128K x 8), 5962R9853701QXC 
+ 
+LICENSE VALUE: USD 75,000.00 
+ 
+APPLICANT/SOURCE: 
+ 
+Minco Technology Labs Inc. 
+1805 Rutherford Lane 
+Austin, Texas 78754 USA 
+ 
+COMMODITY MANUFACTURER: 
+ 
+Honeywell Defense and Space Electronics 
+1200 State Highway 55 
+Plymouth, Minnesota 55441 USA 
+ 
+FOREIGN INTERMEDIATE CONSIGNEES: 
+ 
+German Space Agency 
+DLR Deutsches Zentrum fur Luft-und Raumfahrt e.V. 
+Linder Hohe, D-51147 Koln 
+GERMANY 
+ 
+German Research Center for Geosciences 
+GFZ GeoForschungsZentrum 
+Telegrafenberg, D-14473 Potsdam 
+GERMANY 
+ 
+Interspace 
+2 Rond Pint Guillaumant 
+F-31029 Toulouse 
+FRANCE 
+ 
+Kayser-Threde GmbH 
+Wolfratshauser Strasse 48 
+D-81379 Munich 
+GERMANY 
+ 
+ESA/ESTEC 
+European Space Agency 
+Keplerlaan 1 
+NL-2200 AG Noordwijk 
+NETHERLANDS 
+ 
+Orbitale Hochtechnologie Bremen-System AG (OHB) 
+Universitatsalle 27-29 
+D-28359 Bremen 
+GERMANY 
+ 
+IABG 
+Industrieanlagen-Betriebsgesellschaft mbH 
+Einsteinstr. 20 
+D-85521 Ottobrunn 
+GERMANY 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Tesat-Spacecom GmbH & Co.KG 
+Gerberstrasse 49 
+D-71501 Backnang 
+GERMANY 
+ 
+FOREIGN END USER: 
+ 
+Jena-Optronik GmbH 
+Prussingstrasse 41 
+D-07745 Jena 
+GERMANY 
+Tel:  49 3641 200-110 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Parts will be integrated into ASTRO 10.  The ASTRO 10 is an 
+autonomous star tracker manufactured and assembled by 
+Jena-Optronik GmbH.  It is used to control a satellite's 
+attitude in orbit by utilization of astronomic star patterns 
+as reference system.  Satellite program is EnMAP 
+(Environmental Mapping and Analysis Program), a German 
+hyperspectral civil satellite mission for investigating a 
+wide range of ecosystem parameters. 
+ 
+¶6.  Additional documentation submitted in support of license 
+application: 
+ 
+I)  Tesat-Spacecom purchase order number U10-4500436098, 
+dated 02.12.2009. 
+ 
+II)  Tesat-Spacecom Generic Accountability Plan for Project 
+Astro 10 EnMAP, PO U10-4500436098, P/N 
+5962R9853701QXC HX6228, dated 2010 FEB 03. 
+ 
+B)  DDTC Case Number 050213247 
+ 
+QUANTITY/COMMODITY: 
+ 
+03       Monolithic Analog-to-Digital (A/D) Converter, 
+Radiation Hardened, 14-bit, 10 MSPS, 9240LP 
+ 
+LICENSE VALUE: USD 9,363.00 
+ 
+APPLICANT/SOURCE: 
+ 
+Maxwell Technologies Inc. 
+9244 Balboa Avenue 
+San Diego, California 92123 USA 
+ 
+FOREIGN CONSIGNEES: 
+ 
+Tesat-Spacecom GmbH & Co.KG 
+Gerberstrasse 49 
+D-71501 Backnang 
+GERMANY 
+ 
+Jena-Optronik GmbH 
+Prussingstrasse 41 
+D-07745 Jena 
+GERMANY 
+Tel:  49 3641 200-110 
+ 
+German Research Center for Geosciences 
+GFZ GeoForschungsZentrum 
+Telegrafenberg, D-14473 Potsdam 
+GERMANY 
+ 
+Kayser-Threde GmbH 
+Wolfratshauser Strasse 48 
+D-81379 Munich 
+GERMANY 
+ 
+Orbitale Hochtechnologie Bremen-System AG (OHB) 
+Universitatsalle 27-29 
+D-28359 Bremen 
+GERMANY 
+ 
+IABG 
+Industrieanlagen-Betriebsgesellschaft mbH 
+Einsteinstr. 20 
+D-85521 Ottobrunn 
+GERMANY 
+ 
+Interspace 
+2 Rond Pint Guillaumant 
+F-31029 Toulouse 
+FRANCE 
+ 
+ESA/ESTEC 
+European Space Agency 
+Keplerlaan 1 
+NL-2200 AG Noordwijk 
+NETHERLANDS 
+ 
+FOREIGN END USER: 
+ 
+German Space Agency 
+DLR Deutsches Zentrum fur Luft-und Raumfahrt e.V. 
+Linder Hohe, D-51147 Koln 
+GERMANY 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Parts will be integrated into ASTRO 10.  The ASTRO 10 is an 
+autonomous star tracker manufactured and assembled by 
+Jena-Optronik GmbH.  It is used to control a satellite's 
+attitude in orbit by utilization of astronomic star patterns 
+as reference system.  Satellite program is EnMAP 
+(Environmental Mapping and Analysis Program), a German 
+hyperspectral civil satellite mission for investigating a 
+wide range of ecosystem parameters. 
+ 
+¶7.  Additional documentation submitted in support of license 
+application: 
+ 
+I)  Tesat-Spacecom purchase order number U11-4500436235, 
+dated 09.12.2009. 
+ 
+II)  Jena-Optronik End-Use/End-User Statement, dated 
+27.01.2010, signed by Thomas Keil, JF-P/EEE-Parts Manager. 
+ 
+III)  OHB-System AG EnMAP Customer Certification Letter, 
+dated 19.01.2010, stating that Jena-Optronik has been awarded 
+a contract (EN-OHB-LTR-010, OHB PO No. 27826) for the supply 
+of three ASTRO 10 Star Tracker flight models. 
+ 
+C)  DDTC Case Number 050141493 
+ 
+QUANTITY/COMMODITY: 
+ 
+40       Integrated Circuit, Static Random Access Memory, 
+Radiation Hardened, HX6228TQHC (128K x 8), 5962H9853701QXC 
+ 
+LICENSE VALUE: USD 96,000.00 
+ 
+APPLICANT/SOURCE: 
+ 
+Minco Technology Labs Inc. 
+1805 Rutherford Lane 
+Austin, Texas 78754 USA 
+ 
+COMMODITY MANUFACTURER: 
+ 
+Honeywell Defense and Space Electronics 
+1200 State Highway 55 
+Plymouth, Minnesota 55441 USA 
+ 
+FOREIGN INTERMEDIATE CONSIGNEES: 
+ 
+EADS CASA Espacio 
+Avda. Aragon 404 
+28022 Madrid 
+SPAIN 
+ 
+Astrium GmbH 
+An der Bundesstrasse 
+D-88090 Immenstaad 
+GERMANY 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Tesat-Spacecom GmbH & Co.KG 
+Gerberstrasse 49 
+D-71501 Backnang 
+GERMANY 
+ 
+FOREIGN END USER: 
+ 
+Jena-Optronik GmbH 
+Prussingstrasse 41 
+D-07745 Jena 
+GERMANY 
+Tel:  49 3641 200-110 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Parts will be integrated into ASTRO 10.  The ASTRO 10 is an 
+autonomous star tracker manufactured and assembled by 
+Jena-Optronik GmbH.  It is used to control a satellite's 
+attitude in orbit by utilization of astronomic star patterns 
+as reference system.  Satellite program is SEOSAR/PAZ. 
+SEOSAR/PAZ is an X-Band Synthetic Aperture Radar satellite 
+for Earth observation, part of the European network GMES, for 
+coordination of climatic, environmental data and security 
+against catastrophes. 
+ 
+¶8.  Additional documentation submitted in support of license 
+application: 
+ 
+I)  Tesat-Spacecom purchase order number U03-4500429519, 
+dated 21.10.2008. 
+ 
+II)  Tesat-Spacecom End User Assurance Control Plan and 
+Related Accountability Plan for the ASTRO 10 for SEOSAR/PAZ 
+Project, dated 17.12.2008, signed by Mr. Ratzsch, President & 
+CEO, Jena-Optronik. 
+ 
+D)  DDTC Case Number 050143433 
+ 
+QUANTITY/COMMODITY: 
+ 
+08       Monolithic Analog-to-Digital (A/D) Converter, 
+Radiation Hardened, 14-bit, 10 MSPS, 9240LP 
+ 
+LICENSE VALUE: USD 34,072.00 
+ 
+APPLICANT/SOURCE: 
+ 
+Maxwell Technologies Inc. 
+9244 Balboa Avenue 
+San Diego, California 92123 USA 
+ 
+FOREIGN CONSIGNEES: 
+ 
+Jena-Optronik GmbH 
+Prussingstrasse 41 
+D-07745 Jena 
+GERMANY 
+Tel:  49 3641 200-110 
+ 
+Astrium GmbH 
+An der Bundesstrasse 
+D-88090 Immenstaad 
+GERMANY 
+ 
+Tesat-Spacecom GmbH & Co.KG 
+Gerberstrasse 49 
+D-71501 Backnang 
+GERMANY 
+ 
+FOREIGN END USER: 
+ 
+EADS CASA Espacio 
+Avda. Aragon 404 
+28022 Madrid 
+SPAIN 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Parts will be integrated into ASTRO 10.  The ASTRO 10 is an 
+autonomous star tracker manufactured and assembled by 
+Jena-Optronik GmbH.  It is used to control a satellite's 
+attitude in orbit by utilization of astronomic star patterns 
+as reference system.  Satellite program is SEOSAR/PAZ. 
+ 
+¶9.  Additional documentation submitted in support of license 
+application: 
+ 
+I)  Tesat-Spacecom purchase order number U03-4500429791, 
+dated 07.11.2008. 
+ 
+II)  Tesat-Spacecom End User Statement, dated 19.01.09, 
+signed for Alexander Groba, Head of Customs and Export Control 
+ 
+¶10.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the DDTC Case 
+Numbers in the subject line.  POC on this case is Peter 
+Sabatini, PM/DTCC, phone: 202-663-2819; email: 
+sabatinipj@state.gov, sabtinipj@state.sgov.gov, 
+psabatini@state.ic.gov.  The most current Blue Lantern Guide 
+Book is available at 
+http://fsi.state.gov/fsi/spas/default.asp?ID= 1588. 
+Department thanks Post for its assistance in this matter. 
+CLINTON

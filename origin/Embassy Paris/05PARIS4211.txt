@@ -1,0 +1,256 @@
+05PARIS4211
+FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR.
+Wed Jun 15 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+151007Z Jun 05UNCLAS SECTION 01 OF 03 PARIS 004211 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR); 
+EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR. 
+DAMIEN CONARE - PRINCIPAL CANDIDATE FOR INDIVIDUAL PROGRAM. 
+ 
+REF: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 286 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - INDIVIDUAL Program - Damien Conare 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 14 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Foreign Policy 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Damien 
+M-NAME: 
+L-NAME: Conare 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Courrier de la Planete 
+M-ADDR2: Domaine Lavalette 
+M-ADDR3: 1037, rue Jean-Francois Breton 
+M-CITY: Montpellier 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 34000 
+M-ZIP: 
+M-PHONE: + (33) 4.67.45.78.31 
+M-FAX: + (33) 4.67.45.78.37 
+M-EMAIL: d.conare@wanadoo.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 02/23/1971 
+MAR-STAT: M 
+BIRTH-CITY: Suresnes 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Publishing Manager, "Courrier de la Planete" magazine 
+(economics, development, environment), since 1999 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1998-1999 - Journalist "Circuits Culture" magazine 
+(agricultural distribution section) 
+1996-1997 - Technical sub-editor "Afrique Agriculture" 
+magazine 
+1996 - Technical sub-editor "Maison de la Nature" 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Washington state - 1999 for tourism 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Numerous travels in Europe and Africa for tourism and business 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+- 1994 - College of Agricultural Engineering (ISTOM, Cergy- 
+Pontoise), agronomics, management, agricultural development; 
+specialized training in vegetable production at the Larenstein 
+International Agricultural College (Deventer, NL) 
+- 1992 - Bachelor's degree in biochemistry; specialization in 
+vegetable biology 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+- Many articles in the magazines he has been working for. 
+- Files for UNESCO on sustainable development and GMOs 
+(nominee has provided input for UNESCO's educational files 
+known as "MOST", a program promoting international, 
+comparative and policy-relevant research on contemporary 
+social transformation and issues of global importance). 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START MEMO NOM-POST-OBJ: 
+Because Damien Conare is a member of the far-left who is 
+nonetheless open to new ideas, a trip to the U.S. would allow 
+him to better understand the reasoning behind U.S. policies, 
+the main actors which influence these policies, and the impact 
+of grassroots movements. It will further allow him the 
+opportunity to make useful contacts for future issues of his 
+magazine; contacts who would be going through the same 
+experience in the U.S. as he would be and would therefore 
+perhaps be likely to contribute pieces that are more fair to 
+U.S. policy. Damien Conare's interests relate to international 
+relations in agriculture, environment, and development. On all 
+these issues, the United States plays an important role on the 
+world scene; a better knowledge of the US will lead him to 
+better report and take into account American views when 
+dealing with themes where misunderstandings between France and 
+the U.S. have prevented an open dialogue; these are quite 
+prevalent in the fields covered by Conare: Food safety, GMOs, 
+climate change, biodiversity, aid. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Sylvie Vacheret 
+START MEMO NOMINATING-JUSTIFICATION: 
+"The Courrier de la Planete," of which Damien Conare is 
+Publishing Manager, is a quarterly magazine that is 
+distributed to approximately 3000 experts in international 
+economic relations and development issues. It was first 
+created in 1991 by an environmental association. Although this 
+association has disappeared, the magazine still exists and has 
+obtained the support of the French Institute for Sustainable 
+Development due to the its quality and serious and balanced 
+approach of the issues. Though each issue focuses on a 
+different theme, they are nonetheless always related to 
+sustainable development and international relations. 
+The philosophy behind this publication is that international 
+solidarity is not just a matter of words or easy solutions but 
+rather is made up of issues that are complex and that one must 
+continually discuss and strive to implement. For this reason, 
+in nearly every issue "The Courrier de la Planete" publishes 
+articles by U.S. authors who come from different political 
+backgrounds and represent a variety of professional 
+institutions such as the Carnegie Endowment for International 
+Peace or Harvard University. 
+As publishing manager for this magazine, Damien Conare's 
+objective is to better understand all the facets of a specific 
+issue and how each policy is arrived at in order to present to 
+the readers a definitive explanation of the problem as well as 
+the possible solutions. This program would give him a first- 
+hand, and more balanced, understanding of the factors that 
+shape American foreign and economic policies and expose him to 
+the intellectuals and actors in U.S. policy making. This is 
+important to promoting U.S. interests because he is a member 
+of the political left, which has often been overly critical of 
+U.S. policy. By providing him with an opportunity to 
+experience U.S. goodwill and explaining to him, in person, the 
+factors that influence U.S. policy, he will be imbued with a 
+greater understanding and appreciation for why the U.S. 
+selects the policies that it does. 
+Where will he be in ten years? If this magazine continues to 
+be successful and the left comes back to power in France, he 
+will take an even more influential role in political circles. 
+Yet even if this is not the case, it is important to achieving 
+our goals in the economic/ environmental sector to have third 
+party supporters whose open-minded approaches to the issues 
+facing us are bolstered by clear-minded analyses through a 
+widely read publication. 
+As a point of reference, the IV we nominated in this same 
+group in Montpellier about 15 years ago went on to become an 
+influential counselor to former Prime Minister Jospin and is 
+now presiding over the French Institute for Sustainable 
+Development and holding the title of Director of "Courrier de 
+la Planete." 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: PA - U.S. Embassy Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: ELEO 
+NOMINEE-ID: 573 
+PERSON-ID: 472 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: E 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

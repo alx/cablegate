@@ -1,0 +1,142 @@
+09STATE87309
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Fri Aug 21 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0023
+RR RUEHWEB
+
+DE RUEHC #7309 2331537
+ZNR UUUUU ZZH
+R 211520Z AUG 09
+FM SECSTATE WASHDC
+TO RUEHRL/AMEMBASSY BERLIN 0000
+INFO RUEHLO/AMEMBASSY LONDON 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUEAIIA/CIA WASHINGTON DCUNCLAS STATE 087309 
+ 
+SIPDIS 
+BERLIN FOR SHANE M. PETERSEN ECON 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC GM UK
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 050110212 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a post-shipment check on license 050110212 for the export of 
+International Traffic in Arms (ITAR)-controlled aircraft 
+parts and related technical data. Post is requested to 
+complete this Blue Lantern inquiry within 45 days.  Lack of 
+response to a Blue Lantern inquiry will affect pending and 
+future licenses involving parties to this license. 
+ 
+¶3. Reason for request: Original end-use certificate submitted 
+by foreign consignee Air Parts Ltd. of the UK stated end-use 
+platform was the Tornado for ultimate end-use by EADS 
+Deutschland GMBH (EADS), a company that does not own or 
+operate said aircraft.  A replacement end-user certificate 
+was submitted by Air Parts Ltd. to change the end-use 
+platform to the Eurofighter. No government end-user was 
+identified.  As a proviso to the license approval, the 
+ultimate-end users of the aircraft parts were limited to the 
+governments of Austria, Germany, Italy, Spain, and the UK. 
+ 
+¶4. ACTION: The Department requests that Post make appropriate 
+inquiries to confirm that EADS ordered the items listed for 
+the purpose stated on the application.  In addition, Post is 
+requested to confirm if parts listed have been supplied to 
+the governments authorized on the license. 
+ 
+The following points are included for guidance: 
+ 
+--Can EADS provide documentation of the ultimate end-user and 
+end-use of the parts, such as shipment records, contracts, or 
+purchase orders? 
+ 
+--Was EADS provided with written notification from Hartwell 
+Corporation regarding the limitations on the re-export of the 
+parts? 
+ 
+END ACTION. 
+ 
+¶5. Details of license application: 
+ 
+DTC CASE:  050110212 
+ 
+QUANTITY/COMMODITY: 
+ 
+15 - H3267-3 Push Button Latch JN0267-1 
+4 - Technical data consisting of test reports and drawings. 
+ 
+License Value: $5,687 USD 
+ 
+SELLER: 
+ 
+Hartwell Corporation 
+900 S. Richfield Rd. 
+Placentia, CA 92870 
+Tel: 714-579-4417 
+POC: Susan Martian 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Air Parts Ltd. 
+Nigel Bacon House Unit 2 
+Chertsey Road, Byfleet 
+Surrey KT14 7AX 
+United Kingdom 
+Tel: 01932 339407 
+Email: s.matthews@air-parts.co.uk 
+POC: Sandra Matthews 
+ 
+FOREIGN END-USER: 
+ 
+EADS Deutschland GMBH 
+Militaerflugzeuge 
+MBM 614 
+Rechlinerstrasse 85077 
+Manching 
+Germany 
+ 
+PURPOSE: 
+ 
+Parts for Eurofighter program. 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC will fax documentation to Post 
+upon request): 
+ 
+--Purchase Order No. 0000807258 submitted by Air Parts Ltd. 
+to Hartwell Corporation dated 30 August 2007. 
+ 
+--End-Use certification submitted by Air Parts Ltd. to 
+Hartwell Corporation, dated 23 June 2008, signed by Sandra 
+Matthews. 
+ 
+--Technical drawing of latch assembly. 
+ 
+--Department of State License for Permanent Export of 
+Unclassified Defense Articles and Related Unclassified 
+Technical Data, signed 23 June 2008, approved 2 July 2008. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Meredith Sundlof. Phone: 
+202-663-3455; Email: SundlofME@state.gov; SIPRNET: 
+SundlofME@state.sgov.gov.  The Blue Lantern Guidebook (ref) 
+is available as a PDF file at 
+http://www.intelink.sgov.gov/wiki/Blue Lantern End-Use 
+Monitoring Program. 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+CLINTON

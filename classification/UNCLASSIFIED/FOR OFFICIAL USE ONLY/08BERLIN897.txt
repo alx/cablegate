@@ -1,0 +1,112 @@
+08BERLIN897
+BERLIN GNSS TELEMATICS CONFERENCE: GALILEO FEELING
+Tue Jul 08 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXRO2012
+PP RUEHAG RUEHAST RUEHDF RUEHHM RUEHLN RUEHLZ RUEHMA RUEHPB RUEHPOD
+RUEHTM
+DE RUEHRL #0897 1901547
+ZNR UUUUU ZZH
+P 081547Z JUL 08
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 1612
+INFO RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+RUEHBS/AMEMBASSY BRUSSELS 0552
+RUEHBS/USEU BRUSSELSUNCLAS BERLIN 000897 
+ 
+SENSITIVE 
+ 
+SIPDIS, STATE FOR EUR/AGS, EUR/ERA AND EB/IFD/OMA 
+ 
+E.O. 12958: N/A 
+TAGS: EAIR ECON EINV ETRD PGOV PREL TSPA EUN NL GM
+SUBJECT: BERLIN GNSS TELEMATICS CONFERENCE: GALILEO FEELING 
+THE 2013 HEAT 
+ 
+REF: A. 07 MUNICH 652 
+     ¶B. BERLIN 142 
+     ¶C. BRUSSELS 310 
+     ¶D. BERLIN 247 
+     ¶E. BERLIN 264 
+ 
+¶1.  (SBU) The 2nd GNSS Technologies and Telematic 
+Applications Conference, held June 12, 2008, highlighted a 
+paradigm shift in Galileo's business philosophy to generate 
+revenue and openness to foreign procurement.  Galileo 
+representatives admitted that the goal of having a complete 
+and operational Galileo satellite constellation by 2013 is 
+"very ambitious".  They also expressed concern regarding 
+EU/Chinese GNSS (Global Navigation Satellite System) 
+cooperation. 
+ 
+GALILEO BUSINESS PLAN FOCUSING ON DOWNSTREAM REVENUE 
+--------------------------------------------- -------- 
+¶2.  (SBU) Mr. Rainer Grohe, former Head of Galileo Joint 
+Undertaking, and Mr. Carlo des Dorides, Head of Programs 
+Department EU GNSS Supervisory Authority (GSA), both 
+commented that industry feedback projects the Galileo 
+commercial signal will not be a significant source of 
+revenue.  Rather, Galileo management is now focusing on the 
+downstream economic stimulus Galileo that will provide as a 
+primary revenue source.  Grohe said the EU GNSS market 
+expansion resulting from the Galileo signal is now expected 
+to exceed 140,000 EU jobs and stated there is no indication 
+that a market exists for an encrypted commercial service (CS) 
+signal.  Grohe said the original Galileo driving force of 
+EU/GPS independence is now "ridiculous" and that Galileo's 
+success rests on user application services. 
+ 
+GALILEO OPENING PROCUREMENT TO CONTRACTORS OUTSIDE THE EU 
+--------------------------------------------- ------------ 
+¶3.  (SBU) The GSA has softened its position on 
+Galileo-related contracts being awarded exclusively within 
+the EU. Dorides commented privately that in the interest of 
+keeping the Galileo schedule on track, the GSA has adopted a 
+more flexible posture, allowing contracts to be awarded on a 
+subcontractor basis (not as a primary bidder) outside the EU. 
+ Dorides specifically noted that using US contractors with 
+ample satellite experience would be a likely scenario.  The 
+German newspaper Handelsblatt reported on Monday June 16 that 
+the US aerospace group Boeing is taking part in discussions 
+with a view towards eventually participating in the Galileo 
+project. 
+ 
+GALILEO AND COMPASS ON A FREQUENCY COLLISION COURSE 
+--------------------------------------------- ------ 
+¶4.  (SBU) China's GNSS candidate (Compass) and the EU's 
+(Galileo) are playing a game of chicken over the issue of 
+frequency filings, and dialogue and negotiations to resolve 
+this matter have been thus far unsuccessful.  (COMMENT: The 
+current Chinese frequency selection would overlay on 
+Galileo's encrypted Public Regulated Service (PRS) and would 
+potentially limit the EU's options when it comes to NAVWAR 
+situations.  END COMMENT.)  Grohe commented that there has 
+been no resolution yet on the frequency overlap issue, adding 
+that China is "playing a real game of hardball" on this issue 
+and they are "not backing down."  In addition, Grohe 
+commented on the EU perception that China's interest in 
+Galileo is largely based a thirst to attain access to the 
+core Galileo technologies.  According to Grohe, China's 
+interest in Galileo is motivated by their goal of siphoning 
+EU satellite technologies to speed up their own R&D process 
+in constructing Compass.  Grohe added, the EU position is not 
+necessarily to disallow Chinese participation in Galileo, but 
+rather to ensure that their participation is limited to an 
+external role (denying Chinese access to core Galileo 
+technologies such as Galileo's atomic clock). 
+ 
+POLITICAL PRESSURE THE REAL DRIVING FORCE BEHIND GALILEO 
+--------------------------------------------- ----------- 
+¶5.  (SBU) On the margins of the conference, Dr. Paolo 
+Mulassano, a GNSS researcher at the Instituto Superiore Mario 
+Boell - Italy, told Global Affairs officer the real drive 
+behind Galileo is political and not the result of a private 
+industry need for a second GNSS signal.  Mulassano welcomed 
+the presence of a second viable GNSS signal, but added that 
+it is questionable whether Galileo's investment cost is worth 
+it.  Mulassano added, the 3.4 billion euro price tag is 
+essentially the cost to prove the EU can successfully 
+collaborate on a technical project on the scale of Galileo. 
+TIMKEN JR

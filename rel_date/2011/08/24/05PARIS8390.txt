@@ -1,0 +1,149 @@
+05PARIS8390
+FRANCE: GOVERNMENT CONCERNED ABOUT LEGAL BASIS FOR
+Mon Dec 12 00:00:00 +0100 2005
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 02 PARIS 008390 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+FOR EUR/WE--SBALL, EB/TRA--BMATTINGLY, S/CT--SKONTOS 
+DHS FOR TSA 
+ 
+E.O. 12958: N/A 
+TAGS: EAIR FR PTER
+SUBJECT: FRANCE: GOVERNMENT CONCERNED ABOUT LEGAL BASIS FOR 
+NO-FLY/SELECTEE SYSTEM 
+ 
+REF: PARIS 08311 
+ 
+¶1. (SBU) SUMMARY: In a December 7 meeting with a French 
+official, Emboffs reviewed current arrangements for 
+implementing the No-Fly system in France, and discussed GOF 
+concerns about its legal basis in U.S. domestic law and ICAO 
+conventions.  Our contact also raised the potential 
+applicability of French data privacy law to No-Fly screening, 
+and downplayed the likelihood of quick implementation of the 
+Selectee Emergency Amendment (EA).  Post requests guidance on 
+how to respond to legal issues raised by the GOF.  END SUMMARY 
+ 
+¶2.  (SBU) Econoff and TSA representative (TSAR) met December 
+7 with Col. Pierre Edery, who recently replaced Col. Henri 
+Schlienger as responsible for aviation security at the 
+Secretariat Generale de la Defense Nationale (SGDN), the 
+ 
+SIPDIS 
+Prime Minister's coordinating office for anti-terrorism.  He 
+provided a read-out of the report delivered after the recent 
+visit of a delegation from the Direction Generale de 
+L'Aviation Civile (DGAC) to Washington, that had been 
+requested by the GOF to better understand the operation of 
+the U.S. No Fly and Selectee Emergency Amendments (EA)s and 
+their implementation.  We were able to provide a number of 
+additions and corrections to information contained in the 
+report, including the size of the No-Fly list, the different 
+criteria for inclusion on the No-Fly or Selectee lists, and 
+the different methods for transmitting APIS data to the USG. 
+ 
+ 
+¶3.  (SBU)  We also reviewed the specific arrangements the USG 
+has established with the GOF for compliance with the No-Fly 
+EA, pointing out that multiple notifications when we detect 
+NF matches based on APIS data were particularly cumbersome to 
+manage.  Col. Edery appeared open to a greater role for the 
+DGAC in "crisis management" of time-sensitive issues such as 
+individual No-Fly cases. Issues involving larger numbers of 
+flights or broader national interests were clearly in SGDN's 
+purview (e.g. designation of "flights of interest" or 
+discussions regarding the basic conditions for applying EA's 
+or other issues requiring inter-ministerial coordination 
+within the GOF). 
+ 
+¶4. (SBU) Edery also provided new insight into the basis for 
+SGDN's concerns that application of U.S. EA's by French 
+airlines in France stands on a shaky legal basis, noting that 
+the GOF wished to make sure this would not be open to 
+challenge in French courts.  The DGAC's report raised a 
+number of questions about the grounds for applying EA's to 
+foreign airlines in the U.S., and for airlines to deny 
+boarding to passengers on the No-Fly list.  TSAR provided an 
+explanation of the security components of U.S. licensing 
+procedures for foreign carriers, as well as an explanation of 
+the conditions of carriage which passengers agreed to upon 
+purchase of a ticket. 
+ 
+¶5. (SBU) The report also apparently questioned whether 
+article 13 of the ICAO convention provided adequate legal 
+justification for the No-Fly system.  While disclaiming any 
+special juridical expertise, we suggested that he consider 
+both article 13 and annex 17 as grounds supporting the No-Fly 
+system.  It was clear however that questions raised in the 
+report were of considerable complexity: e.g. "can the 
+exclusion of a flight because of the presence of a passenger 
+on a watch-list not based on criteria admissible in normal 
+jurisprudence be considered a "law" or "regulation" of a 
+contracting state?"  Edery said SGDN was on the verge of 
+requesting that the MFA study the issue and provide them with 
+an opinion.  We agreed to meet again with Edery and SGDN 
+legal staff next week to review issues and listen to their 
+concerns in more detail. 
+ 
+¶6. (SBU) The DGAC report also raised the question (apparently 
+shared by the Interior Ministry, the Transportation Ministry 
+and Air France) as to whether the No-Fly list constituted an 
+"interconnected database" (a new database constituted by 
+merging two separate sets of information) that would require 
+authorization by the National Commission for Data Privacy 
+(CNIL) under the terms of a French law of January 6, 1978. 
+If this were the case, it could mean that provisions of the 
+law such as notification of those included and seeking their 
+consent before providing data to third parties would be 
+applicable--not the optimum situation for anti-terrorist 
+operations, as Col. Edery observed. 
+ 
+¶7. (SBU) The CNIL has expressed considerable reservations 
+about the provisions in the anti-terrorism legislation 
+currently under consideration that would provide the GOF with 
+authority to collect APIS and PNR data on passengers arriving 
+from or departing to countries outside of the EU (reftel). 
+Edery told us SGDN sought to include explicit mandate for 
+No-Fly and Selectee screening in the draft legislation, but 
+had removed it due to opposition from the CNIL.  They were 
+now considering three possible means of providing legal 
+grounding for No-Fly screening: CNIL authorization according 
+to the 1978 law, specific legislation authorizing No-Fly 
+screening, or a bi-lateral or multi-lateral agreement with 
+the U.S. on aviation security.  Prodded on the broad latitude 
+that pending legislation would appear to give to GOF to 
+screen passengers, he did not seem convinced that it would 
+provide a sufficiently secure basis to protect No-fly 
+cooperation with the U.S. from possible legal challenge. 
+ 
+¶8. (SBU) Finally, Col. Edery frankly admitted that while 
+continuing French cooperation on No-Fly was not in doubt, 
+current guidance from the Prime Minister's Office on the 
+Selectee EA was not to move ahead at this time, while the GOF 
+is involved in sensitive efforts to secure passage of the new 
+anti-terrorism law. 
+ 
+¶9. (SBU) Comment: The pragmatic and frank tone of this 
+conversation is encouraging, and we will seek to profit from 
+this new attitude to make operational improvements in our 
+No-fly arrangements with the French.  Though GOF concerns 
+about the applicability of their data privacy legislation to 
+the No-Fly system appear to be sincere, they have so far not 
+impeded its implementation here.  After the expected adoption 
+of the new anti-terrorism law in January, we should be 
+prepared to renew our push for application of the Selectee 
+EA.  End comment. 
+ 
+¶10. (SBU) Action Request: Post requests guidance and 
+additional information on the legal foundation of No-fly 
+screening in domestic American law and the ICAO conventions 
+to use in responding to GOF questions and concerns. 
+Please visit Paris' Classified Website at: 
+http://www.state.sgov.gov/p/eur/paris/index.c fm 
+ 
+Stapleton

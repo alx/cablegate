@@ -1,0 +1,173 @@
+08HONGKONG859
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: NIKKO TECH.
+Tue May 13 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0010
+RR RUEHWEB
+
+DE RUEHHK #0859/01 1340305
+ZNR UUUUU ZZH
+R 130305Z MAY 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 4844
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000859 
+ 
+USDOC FOR 532/OEA/LHINES/SSILVER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: NIKKO TECH. 
+INDUSTRIAL LTD, HONG KONG 
+ 
+REF: A) USDOC 02559 B) USDOC 02557 C) USDOC 02562 D) USDOC 02561 E) 
+USDOC 02560 F) USDOC 02558 G) USDOC 02556 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a series of post-shipment verifications (PSVs) at Nikko Tech. 
+Industrial Ltd., Hong Kong, Flat 7, 13/F Wah Yiu Ind. Ctr., 30-32 Au 
+Pui Wan St., Shatin, Hong Kong (Nikko Tech).  The items in question 
+are various high value shipments of industrial lubricating oil 
+exported to Nikko Tech on various dates from 2005 to 2008.  The 
+exporter classified the items as EAR99.  EAR99 items may be exported 
+or reexported to most destinations and to most end-users/end-uses 
+worldwide license free.  The exporter was Inland Vacuum Industries 
+of Churchville, New York. 
+ 
+¶3. A review of Hong Kong Companies Registry reveals that Nikko Tech 
+was registered in 2004 and has paid-up capital totaling the Hong 
+Kong equivalent of USD 1.  Its directors are Hong Kong Residents Ip, 
+Shui Shuen and Wong, Fung Lin Sally. The Hong Kong Companies 
+Registry lists neither individual as a director in any other Hong 
+Kong company. 
+ 
+¶4.  According to its website (www.nikkotech.com.hk), the company was 
+founded in 2001 and its primary area of business is in sales of 
+Printed Circuit Board (PCB) manufacturing equipment and related 
+parts and components.  Most of Nikko Tech's customers are located in 
+southern China. Nikko Tech also has an affiliate located in 
+Shenzhen, mainland China.  Nikko Tech is the authorized distributor 
+of March Plasma Systems, Inc. and Sumitomo Heavy Industries, Ltd. 
+ 
+¶5.  On May 8, 2008, ECO, accompanied by Commercial Assistant Carrie 
+Chan visited the company at the address note above and met with Ms. 
+Sally F.L. Wong, Marketing Manager.  The offices are modest (one 
+large room split into several sub-offices) and Ms. Wong was the only 
+person present at the company.  Her business card lists a Zhuhai 
+address and contact details as well.  According to Ms. Wong, the 
+Zhuhai office includes the company's sales and maintenance staff. 
+ 
+¶6.  According to Ms. Wong, Nikko Tech is a trading company that 
+deals primarily in PCB manufacturing machinery and related parts and 
+equipment.  Its customers are located in mainland China and include 
+Multek Hk. Ltd., Viasystems Kalex Printed Circuit board Limited, 
+Oriental Printed Circuits Limited and Elec and Eltek Multilayer PCB 
+Ltd.  According to Ms. Wong, the lubricating oil that is the subject 
+of the PSVs is used in pumps that are part of PCB manufacturing 
+machinery.  Those machines are quite expensive (USD 125,000 each) 
+and require lubricating oil of a very specific grade and character. 
+Nikko Tech sells the underlying machinery and is therefore the 
+authorized supplier of the lubricating oil for that machinery. 
+Nikko Tech does not sell any of the lubricating oil outside of Hong 
+Kong and mainland China. It does not sell the oil to other trading 
+companies in Hong Kong or mainland China. Other PCB factories may 
+find other, cheaper, alternatives in mainland China but Nikko Tech 
+supplies this oil in support of machines it has already sold. 
+ 
+¶7.  When asked about specific shipments, Ms. Wong provided the ECO 
+with access to the applicable documentation regarding those 
+shipments as detailed below.  The company's records were well 
+maintained and ECO was able to see the logbook of shipments for the 
+company.  ECO notes that all shipments in that logbook were destined 
+to the customers noted in paragraph six above.  Ms. Wong confirmed 
+that all shipments for Nikko Tech come first to Nikko Tech's offices 
+and are subsequently transferred to customers. 
+ 
+¶8.  Shipment referenced in Reftel A:  Ms. Wong was unable to locate 
+this shipment by reference to the date of shipment and items listed 
+in Reftel A.  However, a closer review of the Commercial Invoice 
+(No. 021049) provided to ECO by OEA reveals that this shipment was 
+actually sent to Nikko Tech on or about April 11, 2007 not March 17, 
+2008 as listed in Reftel A.  Mr. Wong provided documentation 
+confirming two deliveries (one on April 25, 2007 and one on May 25, 
+2007) of Halovac 190 to Viasystems Kalex PCB Limited (Viasystems) in 
+Hong Kong.  The amounts delivered to Viasystems correspond to the 
+amounts delivered to Nikko Tech. 
+ 
+¶9.  Shipment referenced in Reftel B:  According to documentation 
+provided by OEA, the U.S. exporter shipped eleven kilograms of 
+Fomblin Y25/6 to Nikko Tech in October 2005.  Ms. Wong provided 
+documentation confirming delivery of ten kilograms of Fomblin Y25/6 
+to Multek Electronics on November 15, 2005.  She further stated that 
+the larger order placed with the U.S. exporter had been placed on 
+behalf of more than one buyer.  Ms. Wong stated that, given that the 
+transaction occurred some time ago, she was unable to locate the 
+delivery document for the remaining one kilogram of Fomblin Y25/6. 
+ 
+ 
+ 
+ECO also reviewed the underlying purchase order from Multek and 
+related Hong Kong import clearance document for this shipment. 
+ 
+¶10.  Shipment referenced in Reftel C:  Ms. Wong provided 
+documentation confirming delivery of one five gallon container of 
+Halovac 190 to Viasystems in Hong Kong on September 29, 2006.  The 
+amounts delivered to Viasystems correspond to the amounts delivered 
+to Nikko Tech by the U.S. exporter.  ECO also reviewed the 
+underlying purchase order from Viasystems for this shipment and 
+related Hong Kong import clearance document for this shipment. 
+ 
+¶11.  Shipment referenced in Reftel D:  According to documentation 
+provided by OEA, the U.S. exporter exported five gallons of Fomblin 
+Y25/6 and 10 kilograms of Halovac 190 to Nikko Tech on or about 
+August 8, 2007.  Ms. Wong provided documentation confirming delivery 
+of five gallons of Fombcinoil and ten one kilogram units of Halovac 
+190 oil to Viasystems on August 29, 2007. The ECO also reviewed the 
+underlying purchase order from Viasystems for this shipment and 
+related Hong Kong import clearance document.  ECO notes that Ms. 
+Wong stated that the five gallons of Fombcinoil in her delivery note 
+corresponds to the item entitled Fomblin Y25/6 in the export 
+documentation from the United States. 
+ 
+¶12.  Shipment referenced in Reftel E:  Ms. Wong provided 
+documentation confirming delivery of ten gallons of Halovac 190 and 
+five gallons of Fomblin Y25/6 to Viasystems. The amounts delivered 
+to Viasystems correspond to the amounts delivered to Nikko Tech by 
+the U.S. exporter.  ECO also reviewed the underlying purchase order 
+from Viasystems for this shipment and related Hong Kong import 
+clearance document. 
+ 
+¶13.  Shipment referenced in Reftel F:  Ms. Wong provided 
+documentation confirming delivery of 10 gallons of Fomblin Y25/6 oil 
+to Viasystems on March 20, 2008.  The amounts delivered to 
+Viasystems correspond to the amounts delivered to Nikko Tech by the 
+U.S. exporter.  ECO also reviewed the underlying purchase order from 
+Viasystems for this shipment and related Hong Kong import clearance 
+document. 
+ 
+¶14.  Shipment referenced in Reftel G:  Ms. Wong provided 
+documentation confirming delivery of five gallons of Halovac 190 to 
+Viasystems on February 22, 2008.  The amounts delivered to 
+Viasystems correspond to the amounts delivered to Nikko Tech by the 
+U.S. exporter.  ECO also reviewed the underlying purchase order from 
+Viasystems for this shipment and related Hong Kong import clearance 
+document. 
+ 
+¶15.  ECO found Ms. Wong answers to ECO's question to be credible and 
+she provided virtually all applicable documents for review that were 
+requested by the ECO.  Based on a review of the underlying documents 
+and interview with Ms. Wong, ECO finds no evidence that the items 
+that were the subject to these PSVs have been diverted to centrifuge 
+or other programs of concern in Iran or elsewhere. 
+ 
+Cunningham

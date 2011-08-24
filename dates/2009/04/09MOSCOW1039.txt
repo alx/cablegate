@@ -1,0 +1,112 @@
+09MOSCOW1039
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: 1)INSYS
+Wed Apr 22 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0020
+PP RUEHWEB
+
+DE RUEHMO #1039 1121222
+ZNR UUUUU ZZH
+P 221222Z APR 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3005
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001039 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 1)INSYS 
+CORPORATION, MOSCOW 2)TORES, MOSCOW, RUSSIA. 
+ 
+REFTEL: REQUEST FORM #4210000 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested post-shipment verifications to determine the 
+legitimacy and reliability of the end-users, Insys Corporation, 
+Moscow and Tores, Moscow, Russia. 
+ 
+¶3. Insys Corporation is listed on BIS license application: NLR as 
+the ultimate consignee of 30 gain block amplifiers, 11 integrated 
+circuits, DC-2.5hz V SP8T QSOP24 SMT PKG circuits, 292 integrated 
+circuits SP6T positive bias switches, 140 integrated circuits SP4T 
+positive bias switch DCQs, 10 integrated circuits SMT frequency 
+doublers, 10 SP8T switch nonreflective DCQs, 50 integrated circuits 
+prescaler electronic devices and components, 120 integrated circuits 
+prescaler DIV4 SOT26, electronic devices and components, 63 
+integrated circuits prescaler DIV2 SOT26, 10 integrated circuits 
+prescaler SIGE DIV4 electronic devices and components, 150 
+integrated circuits MSOP switches, 190 integrated circuits SPDT 
+switch DCQs. These items are controlled for national security, 
+anti-terrorism, missile technology and nuclear nonproliferation 
+reasons under ECCN 3A001.  The licensee is Hittite Microwave 
+Corporation, 20 Alpha Road, Chelmsford, MA 01824. 
+ 
+ 
+¶4. Tores is listed on BIS license application: NLR as the ultimate 
+consignee of 20 LNA integrated circuits, 25 integrated circuit 
+switch GAAS MMIC, 20 integrated circuit digital attenuators, 300 
+integrated circuit SP4T switch DC unmounted, 50 integrated circuit 
+counter LPCC electronic devices and components, 50 integrated 
+circuit SMT double balanced mixers, 10 integrated circuit digital 
+phase detector electronic devices and components, 10 integrated 
+circuit SPDT switch DC, 10 integrated circuit MSOP SPDT switch DC, 
+and 10 integrated circuit SMT double-balanced mixers.  These items 
+are controlled for national security, anti-terrorism, missile 
+technology and nuclear nonproliferation reasons under ECCN 3A001. 
+The licensee is Hittite Microwave Corporation, 20 Alpha Road, 
+Chelmsford, MA 01824. 
+ 
+¶5. On April 4, 2009 Moscow Export Control Assistant LES Natalya 
+Shipitsina spoke with Tores Sales Manager and point of contact (POC) 
+Mikhail Bogdanov and requested a meeting to conduct the requested 
+end use check.  LES Natalya Shipitsina advised Bogdanov that the 
+reftel commodity is subject to end use verification by the 
+Department of Commerce, Bureau of Industry and Security (BIS). 
+Bogdanov refused to meet with the Moscow export control team, 
+stating that the reftel commodity was bought for a pilot project, 
+which due to the financial crisis did not go further.  Bogdanov also 
+stated that Tores is located in a restricted access area.  LES 
+Natalya Shipitsina offered to host the end use check meeting at the 
+BIS office, to which Bogdanov refused. 
+ 
+¶6. On April 9, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of Insys Corporation, Varshavskoe 
+Shosse, Blvd.125, Moscow, Russia. The export control team met with 
+Ruslan Zubarev, General Director. 
+ 
+¶7. Insys Corporation is a closed joint stock company established 
+more than 20 years ago by three engineers.  The company has 60 
+employees.  The company originally established themselves in the 
+field of developing tools for micro processors.  Insys Corporation 
+now specializes in digital signal processing models, and is one of 
+the leading companies in Russia in this field.  Insys Corporation 
+sells their products only in the commercial market in Russia.  In 
+addition to the reftel commodities, Insys Corporation has been 
+importing similar commodities from Texas Instruments and Analog 
+Devices for years.  Insys Corporation was the subject of previous 
+positive BIS end use check in 1996. 
+ 
+¶8. The export control team found no indications of impropriety 
+during the end use check at Insys Corporation.  Ruslan Zubarev 
+answers were not evasive.  The Moscow export control team was 
+allowed full access to Insys Corporation facilities and found it to 
+be a full functioning business producing products for which the 
+reftel commodity was licensed. 
+ 
+¶9. Recommendations: Post recommends Insys Corporation, Moscow, 
+Russia, as a reliable recipient of sensitive U.S. origin 
+commodities.  Post does NOT/NOT recommend Tores as a reliable 
+recipient of sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+RUBIN

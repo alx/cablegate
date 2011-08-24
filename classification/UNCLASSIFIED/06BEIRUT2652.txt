@@ -14,7 +14,7 @@ INFO RUEHEE/ARAB LEAGUE COLLECTIVE PRIORITY
 RUCNMEM/EU MEMBER STATES COLLECTIVE PRIORITY
 RHMFISS/CDR USCENTCOM MACDILL AFB FL PRIORITY
 RHEHNSC/NSC WASHDC PRIORITY
-RUEHNO/USMISSION USNATO PRIORITY 0095"UNCLAS SECTION 01 OF 02 BEIRUT 002652 
+RUEHNO/USMISSION USNATO PRIORITY 0095UNCLAS SECTION 01 OF 02 BEIRUT 002652 
  
 SIPDIS 
  
@@ -77,17 +77,17 @@ to the IDF to allow the shipment to cross the blockade.  The
 30,000-ton shipment (approximately 6 million USD in value), 
 enough for approximately 1 month of normal flour consumption 
 in Lebanon, would then be sold to Lebanese commercial 
-millers.  If the wheat were sold at a ""replacement rate"" 
+millers.  If the wheat were sold at a "replacement rate" 
 (i.e. the previously negotiated rate for Russian wheat), 
 bread and flour prices would remain more or less constant in 
 Lebanon.  The Syndicate has also approached the Embassy of 
 France with a similar proposal, but Sinno and others prefer 
-U.S. wheat as ""more suitable"" for Lebanese flour products. 
+U.S. wheat as "more suitable" for Lebanese flour products. 
 Proceeds from the sale could then be used by the GOL for 
 reconstruction or humanitarian concerns. 
  
 ¶5.  Previously, Lebanon has benefited from USAID/USDA 
-humanitarian wheat programs, such as ""Food for Education."" 
+humanitarian wheat programs, such as "Food for Education." 
 In the most recent wheat shipment, the International Orthodox 
 Christian Charities (IOCC) NGO received 50,000 tons of wheat, 
 which was then sold at auction to local Lebanese mills.  The 
@@ -103,7 +103,7 @@ sector and the GOL on grain shipments, post recommends that
 the Department engage with USDA and USAID to: 
  
 --Investigate the possibility of donating 25,000 to 30,000 
-tons of ""#2 U.S. Hard Red Winter Wheat"" to the GOL for 
+tons of "#2 U.S. Hard Red Winter Wheat" to the GOL for 
 re-sale and distribution as described above. 
  
 --Arrange for shipment of the wheat by U.S.-flag transport 
@@ -141,5 +141,4 @@ blackmarketeers while hurting the average Lebanese consumer
 We should not underestimate the impact, political and 
 otherwise, bread shortages and/or hikes in bread prices would 
 have, especially during this critical period.  End Comment. 
-FELTMAN 
-"
+FELTMAN

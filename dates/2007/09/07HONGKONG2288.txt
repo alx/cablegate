@@ -1,0 +1,76 @@
+07HONGKONG2288
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Tue Sep 04 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHHK #2288 2472337
+ZNR UUUUU ZZH
+R 042337Z SEP 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 2802
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002288 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR 
+WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+SYBASE HONG KONG LTD 
+ 
+REF: A) USDOC 07672 
+ 
+1.Unauthorized disclosure of the information 
+provided below is prohibited by Section 12C of the 
+Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of 
+the Office of Enforcement Analysis (OEA) of the 
+USDOC Bureau of Industry and Security (BIS), 
+Export Control Officer Philip Ankel (ECO) 
+conducted a post shipment-verification at Sybase 
+Hong Kong Ltd., Level 15, Core F, Cyberport 3, 100 
+Cyberport Road, Hong Kong (Sybase).  The item in 
+question is a restorer exported to Sybase on or 
+about May 22, 2007 and valued at USD 66,520.  On 
+the applicable shippers export declaration (SED), 
+the export control classification number is not 
+listed.  The exporter was Data Domain, Inc. of 
+Santa Clara, California. 
+ 
+¶3.  Sybase is a multinational corporation with 
+offices throughout the world.  According to its 
+web site (www.sybase.com), it is the largest 
+global enterprise software company exclusively 
+focused on managing and mobilizing information 
+from the data center to the point of action. 
+ 
+¶4.  On August 30, 2007, the ECO met with Mr. L.Y. 
+Leung, System Administration Manager, at the 
+address referenced above.  Mr. Leung stated that 
+the Hong Kong offices of Sybase are primarily used 
+for the sales and marketing, financing and 
+accounting functions for the Asia Pacific region. 
+ 
+¶5.  As to the specific item in question, Mr. Leung 
+showed the item to the ECO in the company's secure 
+IT room.  It is being used to back up Sybase Hong 
+Kong's computer networks.  It was purchased to 
+replace Sybase's prior tape based backup system. 
+ 
+¶6.  At the time visited, Sybase appeared to be a 
+suitable recipient of the commodities shipped 
+since Sybase cooperated with the PSV, operates a 
+line of business consistent with its use, and 
+showed the unit to the ECO.  The ECO recommends 
+that this PSV be classified as Favorable.

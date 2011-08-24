@@ -1,0 +1,234 @@
+07PARIS1418
+France Telecom's Transformational Strategy
+Tue Apr 10 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXRO9830
+RR RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHFR #1418/01 1001406
+ZNR UUUUU ZZH
+R 101406Z APR 07
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 6364
+INFO RUCPDOC/USDOC WASHDC
+RUEAFCC/FCC WASHDC
+RUEAWJA/DEPARTMENT OF JUSTICE WASHDC
+RUCNMEM/EU MEMBER STATESUNCLAS SECTION 01 OF 03 PARIS 001418 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EB/CIP, EUR/WE, AND EUR/ERA 
+DEPT PLEASE PASS TO USTR JMCHALE, KSCHAGRIN, AND CHINKLEY 
+FCC/INTERNATIONAL FOR TWEISLER 
+COMMERCE FOR NTIA CSPECK AND ITA JBURTON 
+JUSTICE FOR KWILLNER 
+BRUSSELS FOR USEU JUNDERWOOD 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD FR
+SUBJECT: France Telecom's Transformational Strategy 
+ 
+Not for Internet distribution 
+ 
+Summary 
+------- 
+ 
+¶1. (SBU) On March 30, France Telecom (FT) executives told us that FT 
+had to expand into new areas, both geographically and functionally, 
+since telecom services were minimally profitable in France.  FT 
+emphasized that value-added services delivered through broadband and 
+mobile telephony would be the most profitable businesses in 
+developed countries, while developing countries had greater yields 
+in mobile telephony.  On services, FT has developed a new "triple 
+play" offering, combining telephony with broadband Internet and 
+television, under its well-known mobile telephone "Orange" brand. 
+FT is building out its fiber network to offer high value services, 
+such as video on demand.  Geographically, FT is putting more 
+emphasis on growing its cellular business in higher-yielding 
+emerging markets, such as Eastern Europe, Africa, and China. 
+However, FT pointed out that that new European Commission 
+recommendations forcing providers to share cutting-edge broadband 
+infrastructure with rivals would slow down incumbents' investment in 
+very high-speed internet by diminishing rates and profit margins. 
+End Summary. 
+ 
+¶2. (U) On March 30, France Telecom Senior Executive Vice President 
+Louis-Pierre Wenes in charge of FT's transformation and French 
+operations, and International Business Development Executive Vice 
+President Anne Bouverot told econoffs that FT had to expand into new 
+areas, both geographically and functionally.  Wenes noted that 
+telephone penetration growth rate in the EU and U.S. was less than 
+one percent.  Telecom services were minimally profitable in France. 
+Market participants were providing minimal service in a bid to lower 
+costs on razor-thin profits and gain market share.  While such a 
+situation should drive consolidation between incumbent EU operators, 
+member state politicians would not allow national champions to fall 
+into foreign hands.  (Note:  This conversation took place before the 
+press reported on AT&T and America Movil's bid for Telecom Italia. 
+End note.) 
+ 
+FT's Broadband Plan 
+------------------- 
+ 
+¶3. (U) Wenes said that FT has a huge data base of current and former 
+customers, and the firm seeks to leverage that information by 
+offering new content.  FT is targeting more than 12 million clients 
+for broadband fixed-line connections by 2008, including more than 8 
+million subscribers for its Livebox "triple play" offer.  With the 
+Livebox, FT offers broadband internet access at 100 Mbps with Wi-Fi 
+capability, unlimited telephone calls to fixed lines within France 
+through Voice over Internet Protocol (VoIP), and a range of digital 
+television channels.  FT expects more than 12 million customers by 
+2008 for broadband mobile services (including third-generation 
+services), with 6 million customers in France, another 5 million in 
+the UK, and another million elsewhere.  FT is hoping to gain more 
+than one million subscribers for MaLigne TV in France, its offering 
+for television via the internet, with more than 400 million euros 
+(USD 483 million) in revenue from direct paid content.  As of 
+year-end 2006, FT was serving 5.9 million ADSL Orange customers in 
+France for an estimated 49 percent share of the French broadband 
+market. 
+ 
+Internet Access: Margins Squeezed 
+--------------------------------- 
+ 
+4 (SBU) According to Wenes, French consumers are very interested in 
+broadband triple play - and they enjoy the most advanced and 
+competitive ADSL-based triple-play market in Western Europe.  FT had 
+changed the branding of its internet offering from Wanadoo to Orange 
+to capitalize on its better known mobile telephone brand name.  But 
+Wenes wondered whether Orange would be able to make money on its 
+triple-play offering, given that strong competition had pushed 
+prices down and limited revenue growth.  Inexpensive "triple play" 
+services, which average 30 euros a month, have helped push broadband 
+adoption to more than 75 percent of all French Internet users - the 
+highest in Western Europe. 
+ 
+Fiber to the Home in Paris 
+-------------------------- 
+ 
+¶5. (U) FT has only recently stepped up its deployment of fiber to 
+the home (FTTH).  By allowing other operators to access its fiber 
+network, FT hopes to avoid the regulatory problems that have plagued 
+ 
+PARIS 00001418  002 OF 003 
+ 
+ 
+Deutsche Telekom AG (which requested a regulatory holiday on 
+providing access to its fiber networks to recoup its investment 
+costs).  Wenes confirmed that FT's early FTTH deployment phase would 
+run from 2007 to 2008 in many cities, including Paris, Lyon, 
+Marseille, Poitiers and Toulouse, with the aim of having 150,000 to 
+200,000 customers connected by the end of 2008 out of a potential 
+client base of one million.  Orange will be offering internet access 
+with symmetrical speeds of up to 100 megabits/second, several 
+high-definition TV channels, and unlimited calls.  He believes that 
+within five years, French consumers would use this network to choose 
+their own programs with the video on demand such bandwidth would 
+allow.  According to Wenes, fourth generation mobile networks (4G) 
+would cover the parts of France that fiber would not be able to 
+reach.  He believed that 4G had more potential in France than either 
+WiMAX or Wi-Fi. 
+ 
+¶6. (SBU) Wenes and Bouverot argued that the current battle between 
+Deutsche Telekom and the EU Commission over access to fiber networks 
+does not bode well for investment in high-speed networks.  FT agrees 
+with Deutsche Telekom's policy of exclusive access to help it recoup 
+costs by selling new services, including internet protocol 
+television (IPTV). At the same time, FT is aware that the idea of a 
+"regulatory holiday" is "doomed" since the European Commission has 
+threatened the German government with legal action over Deutsche 
+Telekom's stance. 
+ 
+¶7. (SBU) Wenes and Bouverot believe it is unwise of the European 
+Commission to require former state-run monopolies to form separate 
+companies to manage their service business and access to their 
+infrastructure.  This would make investment unviable, particularly 
+since the new investment was in fiber networks and not the old 
+copper network.  The more the European Commission squeezed 
+incumbents' profits through overzealous regulation, the less money 
+they would invest in fiber networks and the slower the roll-out of 
+new infrastructure and associated services.  Furthermore, they say, 
+the European Commission proposals go in the opposite direction of 
+U.S. policy, which encourages investment by removing obligations on 
+telephone operators to share fiber networks with rivals for a period 
+of time. 
+ 
+Cellular Operations in Emerging Markets 
+--------------------------------------- 
+ 
+¶8. (U) FT, in addition to offering new services, wants to expand its 
+businesses in markets with higher growth rates and yields.  It 
+already has significant market share in various wireless markets, 
+including the United Kingdom, Poland, Spain, Belgium, Egypt, 
+Romania, Slovakia, and Moldavia.  Wenes expects that FT's wireless 
+operations in mature markets such as the U.K., Spain, and France to 
+continue to expand with the introduction of new higher-margin 3G 
+services.  However, he stressed that the real driver of cellular 
+growth over the next few years would come from the company's 
+international assets in the fast-growing, emerging markets of 
+Eastern Europe and Africa. 
+ 
+¶9. (U) FT reported that its Eastern European subscriber base grew 
+some 23 percent between 2005 and 2006, while Africa, the Middle East 
+and other emerging markets recorded a 51 percent increase in 
+customers. As a result, the company's cellular operations in nations 
+such Poland, Slovakia, and Romania posted double-digit gains in 
+revenue, a trend that is likely to continue for the foreseeable 
+future.  Since growth was so much faster in these emerging markets, 
+FT was not seeking to acquire any mobile telephony firms in the U.S. 
+or EU. 
+ 
+Looking to China 
+---------------- 
+ 
+¶10. (U) Orange is looking to invest in Asia in general and in China 
+in particular.  The firm entered into a long-term Strategic 
+Partnership with China in 2004 to cooperate in the research and 
+development of technologies and applications, exchanging personnel 
+and training Chinese staff. Last year, FT was the first foreign 
+telecoms carrier to join the TD-SCDMA Forum, an industry group 
+promoting China's homegrown standard for 3G mobile wireless 
+services. 
+ 
+¶11. (SBU) Wenes said that becoming a profitable player in the 
+Chinese market was extremely difficult, but the market was "too big 
+to ignore."  He noted that just five years ago, Chinese telephone 
+equipment manufacturers were too saturated with domestic orders to 
+respond to international orders in a timely way, and the equipment 
+ 
+PARIS 00001418  003 OF 003 
+ 
+ 
+did not use the latest technology.  Now, however, the Chinese were 
+responding very rapidly, and their technology was among the best 
+available.  Leading manufacturers could afford to staff their 
+research laboratories with approximately 10,000 staff. 
+ 
+¶12. (SBU) Wenes wondered how Western firms could compete with 
+companies from a country that has three times as many people working 
+in research and development as FT.  Western firms would have to 
+consolidate and focus on certain technologies and products, and 
+develop niche markets.  He predicted that as the automobile industry 
+faces difficulties today, telecom equipment manufacturers would face 
+difficulties in the future.  He predicted that each technology niche 
+would have two to three manufacturers, and no more than four to five 
+would operate in each line of production.  On the service side, he 
+expected European incumbent operators would merge as soon as 
+politically viable. 
+ 
+Comment 
+------- 
+ 
+¶13. (SBU) Broadband growth in France, although more robust than 
+elsewhere, has come at a price -- that of very poor customer 
+service.  There are some 20,000 pending law suits against the major 
+operators for shoddy practices and poor service. That number could 
+rise very quickly as operators cut customer service costs to lower 
+prices and gain market share.  FT believes customer service will be 
+the next battleground, and it is one that FT is poised to win. 
+ 
+Stapleton

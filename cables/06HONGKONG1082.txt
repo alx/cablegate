@@ -1,0 +1,371 @@
+06HONGKONG1082
+A Primer for Hong Kong Power Reforms
+Thu Mar 16 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Hong Kong
+VZCZCXRO0599
+RR RUEHCN
+DE RUEHHK #1082/01 0750141
+ZNR UUUUU ZZH
+R 160141Z MAR 06 ZDK
+FM AMCONSUL HONG KONG
+TO RUEHC/SECSTATE WASHDC 5507
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUCPDOC/DEPT OF COMMERCE WASHDC
+RHMFIUU/DEPT OF ENERGY WASHINGTON DC
+RUEAEPA/HQ EPA WASHDCUNCLAS SECTION 01 OF 04 HONG KONG 001082 
+ 
+SIPDIS 
+ 
+STATE for OES, OES/EGC, OES/PCI, EB/ESC/IEC and EAP/CM 
+USDOE for SKelly, International/Pumphrey/Price 
+USDOE for Fossil Energy/Swift/McKee 
+USDOC for NOAA/Office of Global Programs 
+HQEPA for International/Thompson 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG SENV KSCA ECON BTIO TRGY CH HK
+SUBJECT: A Primer for Hong Kong Power Reforms 
+ 
+Ref: Hong Kong 1976 
+ 
+HONG KONG 00001082  001.2 OF 004 
+ 
+ 
+¶1. (SBU) Summary: In late December 2005, the Hong Kong 
+Government (HKG) proposed to reform the Scheme of Control 
+Agreements (SCAs) governing Hong Kong's electricity market 
+to lower the rates of return to both of Hong Kong's power 
+companies, Hong Kong Electric (HKE) and China Light and 
+Power (CLP).  (CLP is a joint venture with ExxonMobil and 
+represents the largest U.S. investment in Hong Kong.)  The 
+reforms also aim to open the door to new investors, 
+strengthen compliance with Hong Kong's environmental 
+regulations, and minimize the development of excess 
+generation capacity. This cable follows up on reftel with an 
+analysis of the potential benefits and risks of the key new 
+proposals. Given public perceptions that the power companies 
+are responsible for much of Hong Kong's air pollution and 
+that electricity prices in Hong Kong are excessively high, 
+we assess that the HKG is in a strong negotiating position 
+to achieve its goals.  However, we caution that the HKG's 
+proposals, if fully adopted, have the potential to lower the 
+reliability of Hong Kong's electricity service and may not 
+achieve the lower tariffs and environmental benefits the HKG 
+is seeking.  There are four clear benefit/risk scenarios 
+that can be drawn from the HKG proposals: (a) reduced rates 
+of return after 2008 and more frequent tariff reviews could 
+lead to lower electricity rates but also to a commensurate 
+(and offsetting) increase in the financial risks faced by 
+the power companies; (b) linking the power companies' rates 
+of return to their achievement of emission reduction targets 
+could strengthen compliance with environmental controls but 
+could skew investment decisions; (c) tightly controlling 
+"excessive investment" on generation facilities could 
+prevent the power companies from unnecessary spending for 
+the sake of greater returns but could also deter necessary 
+new investments; (d) opening Hong Kong's electricity sector 
+to new investors and power supply from Mainland China over 
+the long term could introduce competition and flexibility 
+into the power generation market but risk damaging the 
+reliability of Hong Kong's power supply.  End Summary. 
+ 
+Overview 
+--------- 
+ 
+¶2. (SBU) On December 30, 2005, the Hong Kong Economic 
+Development and Labour Bureau (EDLB) issued a Stage II 
+Consultation Paper that laid out the HKG's proposed reforms 
+to the electricity sector (see reftel).  Those proposals 
+come in advance of the expiration in 2008 of the 15-year 
+bilateral Scheme of Control Agreements (SCAs) between the 
+HKG and the two power companies, HKE and CLP. ExxonMobil is 
+a joint-venture partner with CLP through the Castle Peak 
+Power Company.   The HKG expects to issue its final proposal 
+for electricity reforms by the end of 2006, which will 
+become the basis for its negotiations with HKE and CLP.  If 
+negotiations do not lead to a mutually agreeable solution by 
+the end of 2008, the HKG is likely to extend the existing 
+SCAs in the interim.  Overall, the HKG proposes to continue 
+the current regulatory system of bilateral contracts, which 
+has historically allowed Hong Kong to enjoy a 99.99% 
+reliable supply of electricity - meaning that Hong Kong 
+enjoys one of the most reliable supplies of electricity in 
+the world.  However, the HKG has also responded to 
+criticisms that the SCAs' inflexible terms have led to 
+excess returns over-investment by proposing lower permitted 
+rates of returns, tighter regulatory controls and the 
+possibility of increased competition. 
+ 
+Lower Proposed Returns to the Power Companies 
+--------------------------------------------- - 
+ 
+¶3. (SBU) The HKG has proposed lowering the permitted rate of 
+return on fixed assets to 7-11% from 13.5% (15% for assets 
+financed by shareholder funds).  Instead of a flat rate 
+return on all assets, as is currently the case, the HKG 
+proposes an integrated approach that sets the rate of return 
+based on the risk-adjusted costs of raising capital, to be 
+re-evaluated every 5 years to reflect prevailing economic 
+conditions. Furthermore, the HKG has proposed varying the 
+rate of return for different types of assets (generation, 
+transmission, distribution, renewable energy, etc).  Miranda 
+Chiu, advisor to the EDLB on energy policy and the HKG on 
+the proposed electricity reforms, said: "In Hong Kong, 
+ 
+HONG KONG 00001082  002.2 OF 004 
+ 
+ 
+people strongly believe that returns [to the power 
+companies] are exorbitantly high.  Interest rates have 
+fallen since the agreements were signed 15 years ago." 
+According to Chiu, the companies are able to finance their 
+investments for significantly less than they receive from 
+the fixed rate of return, allowing them to earn excess 
+returns.  (When the last SCAs were signed in 1993, the 
+prevailing interest rate was 6.5%; since then, it has fallen 
+as low as 5.0% and has moved as high as 10.0%. As of January 
+2006, it was 7.75% and rates were trending upwards.) 
+ 
+¶4. (SBU) EDLB Secretary Stephen Ip commented after the 
+proposals were released that the actual level of permitted 
+rate of return would likely be about 9-10%, leading to a 10- 
+20% reduction in power tariffs.  The Hong Kong Legislative 
+Council added its voice to the debate on February 15, 2006, 
+by voting 44-3 to cap HKE and CLP's rate of return on fixed 
+assets at 7%.  Since the SCAs are bilateral contracts not 
+governed by legislation, the vote was non-binding on the HKG 
+but indicated the public's disapproval of high electricity 
+rates. 
+ 
+¶5. (SBU) The HKG's proposed rate reduction took the power 
+companies and securities analysts by surprise.  CLP 
+expressed "grave concerns" that the HKG's proposed return 
+levels were too low to support reliable and safe power and 
+environmental responsibility, while HKE called the proposed 
+reductions "drastic."  According to Betty Yuen, managing 
+director for CLP: "The proposed return level fails to 
+recognize the fundamental nature of the industry and the 
+mount of risk undertaken by the power companies. If returns 
+are not set at appropriate levels, the public will end up 
+bearing the risks of insufficient investment."  In its 
+defense, CLP noted that it had not raised electricity 
+tariffs for the past 8 years.  HKE recently raised its 
+average net tariff by 7.2%, effective January 1, 2006, but 
+stressed that it had voluntarily foregone over HK$2 billion 
+(about USD 258 million) in permitted profits between 2003 
+and 2005 through various rebates. 
+ 
+¶6. (SBU) ExxonMobil Energy Limited Chairman Brad Corson said 
+that the proposed rate of return was not consistent with the 
+investment risks faced by the power companies.  He pointed 
+out that the proposals could result in as much as a 50% 
+reduction in potential returns while asking investors to 
+face increased uncertainty with market opening proposals, 
+greater scrutiny on capital investments, and unspecified 
+penalties for failing to meet new environmental provisions. 
+ 
+¶7. (SBU) Democratic Party (DP) Legislator Fred Li told 
+Econoff that a 9% or 10% rate of return was a "realistic and 
+fair" number, pointing out that even pro-business Legco 
+members like the Liberal Party's James Tien had strongly 
+supported a 7% rate of return.  Li opined that pressure from 
+the public and from Legco will keep the HKG from 
+compromising on the proposed rate of return, thus forcing 
+the power companies to grudgingly accept a 9% or 10% overall 
+rate of return.  Hong Kong Environmental Protection 
+Department (EPD) Deputy Director Roy Tang said that the 
+power companies had "overplayed their hand," particularly 
+regarding public opinion, and were thus in a very weak 
+bargaining position vis-a-vis the HKG in the upcoming 
+negotiations. 
+ 
+¶8. (SBU) JP Morgan's Edmond Lee said in a report that the 
+lower rates of return would provide little incentive for the 
+power companies to invest in new facilities.  While he 
+expected that the HKG would need to achieve some tariff cuts 
+in order to "save face" with the public, he expected that 
+the negotiated effective rate of return would be closer to 
+the top end of the proposed range.  However, Alice Hui of 
+UBS Securities believes that the HKG will have the upper 
+hand in future negotiations: "We think the two Hong Kong 
+power companies will be fighting an uphill battle to 
+convince both the government and the public that they need 
+to have a return of at least 10% to continue their 
+substantial investment in Hong Kong." 
+ 
+Returns Tied to Achievement of Emission Targets 
+--------------------------------------------- --- 
+ 
+¶9. (SBU) According to EPD figures, power generation 
+ 
+HONG KONG 00001082  003.2 OF 004 
+ 
+ 
+facilities emit 92% of the sulphur dioxide and half of the 
+nitrogen oxides in Hong Kong.  Between 1997 and 2004, the 
+emission of sulphur dioxide by power generation increased as 
+much as 60%.  In 2002, the Hong Kong and Guangdong 
+provincial governments agreed to reduce, on a best efforts 
+basis, the emissions of sulphur dioxide, nitrogen oxide, 
+respirable suspended particulates and volatile organic 
+compounds by 40%, 20%, 55% and 55%, respectively, by 2010, 
+as compared to 1997 levels. To ensure that the power 
+companies fully comply with the 2010 emission caps, the HKG 
+has proposed linking the permitted rate of return on all 
+fixed assets to the ability of the power companies to meet 
+the emission targets.   CLP has complained that the HKG 
+cannot include such a provision in the next SCAs without 
+first laying out a long-term energy policy that gives the 
+power companies an idea of what they will be required to do 
+post-2010.  Alice Hui of UBS commented in a recent report 
+that "unless the two Hong Kong power companies are able to 
+close down all their existing coal-fired power plants and 
+switch to natural gas-fired generation, we think it would be 
+difficult for them to reduce respirable-suspended 
+particulates [to the target level]. As a result, we believe 
+that there will be no other alternatives for the two power 
+companies to avoid the emission trading costs and penalty 
+charges for not meeting the emission caps." 
+ 
+¶10. (SBU) Environmental organization Friends of the Earth 
+(FOE) stated that the SCA consultation papers could not 
+serve as a substitute for a proper energy policy, a policy 
+which should at least include: solid plans for renewables 
+application, management of energy consumption, 
+diversification of energy sources and the consideration of 
+environmental performance when deciding the rate of return. 
+ 
+¶11. (SBU) ExxonMobil Chairman Brad Corson thought it was 
+inconsistent of the HKG to require the power companies to 
+meet strict emissions targets and then set the lowest 
+proposed rate of return (7%) for emissions control 
+investments.  Why, he asked, is the HKG creating such a 
+strong disincentive for the power companies to invest more 
+heavily in emissions control measures?  Corson flatly 
+rejected the HKG's proposal to link the overall rate of 
+return to performance in meeting emissions caps.  He 
+concluded that it is "unacceptable" for CLP's returns to be 
+affected by emissions targets that the HKG can arbitrarily 
+set without any regard for scientific, technical, or 
+practical considerations. 
+ 
+¶12. (SBU) DP Legislator Fred Li, on the other hand, felt 
+that the power companies were "lucky" to gain any return on 
+emissions investments at all.  Hong Kong should operate on a 
+"polluters pay" principle, he continued, so the power 
+companies should pay for their pollution by shouldering the 
+full cost of meeting the HKG set emissions caps.  However, 
+Li said that the link between emissions performance and the 
+overall rate of return was the single issue on which he 
+believed the HKG was willing to compromise.  He concluded 
+that the power companies would never agree to annual reviews 
+of their overall rates of return based upon their emissions 
+performance and that the HKG would probably find another way 
+to financially penalize power companies for failure to meet 
+emissions targets. 
+ 
+¶13. (SBU) EPD Deputy Director Roy Tang was more confident 
+about the HKG's ability to prevail in all of its negotiating 
+positions.  Tang discussed the February 14, 2006 death of a 
+Hong Kong citizen who had participated in the Hong Kong 
+Marathon on a particularly polluted day.  Tang admitted that 
+it was impossible to directly link the death of the man, who 
+had a history of respiratory illnesses, to the air 
+pollution.  However, he continued, the Hong Kong public will 
+long remember the images of marathon participants wearing 
+oxygen masks against a grey backdrop of pollution-induced 
+haze and "draw their own conclusions" about the pollution in 
+Hong Kong.  Tang felt that with the public's support the 
+HKG's negotiating position is sufficiently strong that, if 
+the power companies are not careful, they could walk away 
+from the SCA talks with "completely empty hands." 
+ 
+Controlling "Excessive Expenditures" 
+------------------------------------- 
+ 
+ 
+HONG KONG 00001082  004 OF 004 
+ 
+ 
+¶14. (SBU) Responding to concerns that the power companies 
+have historically taken advantage of the fixed rate of 
+return to over-invest in capacity, the HKG has proposed 
+deducting 100% of any capital expenditures on generation 
+facility machinery and equipment found to be "excessive" 
+from the rate base. Currently, the HKG has the ability to 
+deduct a portion of the "excess" capital expenditures (40% 
+for CLP and 50% for HEC).  However, even the HKG recognized 
+in its proposal that such a high exclusion rate could damage 
+Hong Kong's supply reliability by further weakening the 
+power companies' incentive to invest based on anticipated 
+changes in demand. 
+ 
+¶15. (SBU) DP Legislator Fred Li admitted to Econoff that the 
+HKG proposal to monitor the capital expenditures of the 
+power companies was "difficult at best."  He pointed out 
+that the HKG did not have enough technically proficient 
+officials who could make the admittedly subjective 
+determination as to what construed an "excessive" 
+investment.  Instead, continued Li, the HKG should set up a 
+semi-independent regulatory body for the energy market along 
+the lines of the Office of the Telecommunications Authority 
+(OFTA) and contract out positions to experts in the energy 
+field to deal with difficult technical issues. 
+ 
+Proposal to Open the Hong Kong Power Network 
+--------------------------------------------- 
+ 
+¶16. (SBU) Although HKE and CLP have defacto service areas in 
+Hong Kong, neither has a franchise and the power sector has 
+technically always been open for competition.  However, the 
+fact that the two power companies are vertically integrated, 
+combined with Hong Kong's small size and the limited 
+availability of new sites for generation facilities, has 
+thus far prevented any serious new suppliers from emerging. 
+With its latest proposal, the HKG confirmed its intention to 
+pave the way for new sources of supply by developing 
+regulatory arrangements that allow third-party access to the 
+power network and increased interconnection.  While the HKG 
+is not advocating introducing greater competition in the 
+near term, it hopes its proposals will encourage more 
+suppliers of renewable energy to build in Hong Kong, and 
+will allow Hong Kong to benefit from any future surplus 
+electricity from mainland China.  However, given China's own 
+electricity shortages in recent years, the HKG is cautious 
+about relying on the mainland for electricity.  One key 
+question will be whether Hong Kong power companies are 
+willing to open up their transmission and distribution 
+networks. 
+ 
+¶17. (SBU) ExxonMobil Chairman Brad Corson opined that the 
+HKG needs to establish principles for opening Hong Kong's 
+power market.  All players should have access to a level 
+playing field and be subject to equivalent environmental 
+standards and enforcement, uniform rights and 
+responsibilities, and reciprocal market access.  Corson 
+warned that the current unclear policy toward market 
+entrants may lead to disorder in the Hong Kong power market 
+and possibly subject "clean power generators" in Hong Kong 
+to unfair competition from cheap coal-burning power 
+generators in mainland China. 
+ 
+¶18. (SBU) DP Legislator Fred Li said that although it is not 
+realistic to expect real competition in the Hong Kong power 
+market "any time soon," the establishment of an independent 
+energy regulatory body could speed up this process 
+significantly.  The regulatory body could ensure that 
+companies applying for access into the Hong Kong power 
+market adhere to Hong Kong environmental standards and also 
+provide for access to the Hong Kong power grid at 
+established and regulated fees.  Li admitted that the 
+creation of a complete new bureaucracy would create many 
+extra costs for the HKG but felt strongly that it would lead 
+to a freer, more robust, and responsible power generating 
+system in Hong Kong. 
+ 
+CUNNINGHAM

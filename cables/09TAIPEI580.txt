@@ -1,0 +1,182 @@
+09TAIPEI580
+Taiwan Telecom: Broadband Deployment Initiatives
+Thu May 14 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+American Institute Taiwan, Taipei
+VZCZCXRO4025
+RR RUEHCN RUEHGH RUEHVC
+DE RUEHIN #0580/01 1340805
+ZNR UUUUU ZZH
+R 140805Z MAY 09
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC 1574
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS SECTION 01 OF 02 TAIPEI 000580 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EAP/RSP/TC AND EEB 
+STATE PASS TO AIT/W FOR RICK RUZICKA 
+STATE PASS TO USTR FOR ERIC ALTBACH AND MCHALE 
+COMMERCE FOR ITA/OPB BRENDA CARTER-NIXON 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD ECON ECPS TW
+SUBJECT: Taiwan Telecom: Broadband Deployment Initiatives 
+ 
+Reftel: State 27310 
+ 
+Summary 
+------- 
+ 
+¶1.  (SBU) As you would expect of one of the world's leading 
+Information and Communications Technology (ICT) hardware 
+manufacturers, Taiwan's broadband infrastructure is well-developed 
+and growing.  Since the year 2000, the Taiwan authorities have 
+appropriated almost USD five billion to fund a series of 
+initiatives--E-Taiwan, M-Taiwan, U-Taiwan, and I-Taiwan--that have 
+pushed broadband availability to almost 90 percent of households. 
+These initiatives have each included funding to address the "digital 
+divide" between Taiwan's different regions and ethnic groups, as 
+well as measures to help small and medium-sized businesses become 
+more connected. End summary. 
+ 
+Background 
+---------- 
+ 
+¶2. (U) Taiwan is one of the leading ICT hardware manufacturers in 
+the world, and a major procurement center for information technology 
+(IT) companies.  Taiwan is the world's biggest producer of 15 IT 
+products, including 99 percent of the world's motherboards, 86 
+percent of notebook computers, and 76 percent of LCD monitors. The 
+latest (2008) Business Software Alliance (BSA) and Economist 
+Intelligence Unit (EIU) joint report on IT competitiveness ranked 
+Taiwan number two, second only to the United States. [Note: Taiwan 
+follows the OECD standard defining broadband as having a 
+data-transmission rate capability of at least 256 kilobits per 
+second. End note.] 
+ 
+¶3. (U) Over the past ten years, the Taiwan authorities have pursued 
+a series of ICT infrastructure development projects, beginning with 
+the "E-Government" initiative in 2000 that aimed to create more 
+efficient, networked public services.  The authorities expanded 
+E-Government to include "E-Society," "E-Industry," and 
+"E-Opportunity" initiatives under 2002's "E-Taiwan" plan. According 
+to James Lo, Section Chief in the National Communications Commission 
+(NCC) Department of Planning, from 2003-2007, the Taiwan authorities 
+and private sector partners spent over USD 10 billion on the 
+broadband development. By the end of 2007, there were six million 
+broadband internet accounts in Taiwan. 
+ 
+¶4. (U) In 2005, the authorities launched the ongoing National 
+Information and Communications Initiative (NICI), or "M-Taiwan" 
+program. M-Taiwan aims to expand broadband access across Taiwan, 
+including providing a broadband Fiber-to-the-home (FTTH) "pipeline" 
+for major urban areas, and ensuring island-wide service for users of 
+mobile phones, wireless local area networks (WLAN), and Worldwide 
+Interoperability for Microwave Access (WiMAX). By the end of 2008, 
+the Ministry of Interior's Construction & Planning Agency (CPA) and 
+local governments had together spent USD 1.1 billion on M-Taiwan, 
+and completed 4,100 kilometers of the FTTH pipeline.  During the 
+same period, private-sector ICT infrastructure spending related to 
+M-Taiwan amounted to USD 11 million. 
+ 
+Current Broadband Initiatives 
+----------------------------- 
+ 
+¶5. (SBU) On 29 April, econoff spoke with Jonathan Lai, Associate 
+Researcher of the Executive Yuan (EY) Science & Technology Advisory 
+Group, and Yang Chiahsu of the EY's National Information and 
+Communications Initiative Committee (NICI) about two new 
+broadband-related development programs:  "U-Taiwan" and "I-Taiwan." 
+According to Lai, the goal of U-Taiwan and I-Taiwan is to establish 
+an "Intelligent Taiwan" having one of the world's most advanced 
+"Ubiquitous network societies."  Lai told us the Taiwan authorities 
+will spend USD 3.7 billion on U and I-Taiwan projects over the 
+programs' four years: USD 1.2 billion on education and other talent 
+cultivation, and USD 2.5 billion on ICT equipment, applications, and 
+IT-related cultural projects. 
+ 
+¶6. (SBU) According to Yang, the CPA will spend USD 906 million per 
+year of these funds to bring Taiwan's optical-fiber broadband 
+network to a total of 6000 kilometers, as well as subsidize Taiwan 
+companies' development of new wireless devices and applications. 
+Other ministries will use the funding to implement related projects. 
+For example, the Ministry of Education (MOE) will spend USD 20 
+million per year to reduce Taiwan's digital divide by establishing 
+broadband access for students in rural schools, many of whom do not 
+have Internet access at home. 
+ 
+Assistance to Disadvantaged Groups 
+---------------------------------- 
+ 
+ 
+TAIPEI 00000580  002 OF 002 
+ 
+ 
+¶7. (U) In addition to the MOE's digital divide spending, the E, M, 
+I, and U-Taiwan projects include funding for improving the ICT 
+access for poor, rural, aboriginal, and other under-served groups. 
+According to the NCC's Lo, under the ongoing M-Taiwan project, the 
+Taiwan authorities are working to offer computer equipment and 
+internet access for 30,000 households in rural and mountainous 
+areas. The project's Prevalence Promotion Program extended broadband 
+service to every village (zhen) by February 2008, and will bring 
+broadband to every designated aboriginal area by the end of 2010. By 
+that time, the authorities plan to bring broadband availability on 
+the main island of Taiwan to 99.6 percent of households, and 96.5 
+percent on outlying islands.  Currently, 89 percent of households on 
+outlying islands are able to sign up for broadband service. 
+ 
+¶8. (SBU) The authorities also used M-Taiwan funds to establish 
+"digital opportunity centers" in 168 rural townships.  These centers 
+assist and train people for computer and internet use. The M-Taiwan 
+program also included funds to subsidize expansion into eCommerce by 
+250,000 small and medium-sized enterprises and 400 farms.  According 
+to Lo, only 70 percent of small and medium enterprises currently 
+have broadband Internet service. 
+ 
+Broadband Usage Statistics 
+-------------------------- 
+ 
+¶9. (U) According to the Taiwan Network Information Center (TNIC), 
+the non-profit organization in charge of domain name registration 
+and IP address allocation in Taiwan, 66.4 percent of Taiwan's 
+households subscribe to broadband Internet. TNIC estimates this 
+number will rise to almost 69 percent by mid-2009. Households in 
+Taipei city and Kaohsiung City have the highest level of broadband 
+connection at 79 percent and 75 percent, respectively, while 
+households outside of these two cities have an average broadband 
+usage rate of 64 percent.  Looked at by level of urbanization, 70 
+percent of urban, suburban, and ex-urban households have broadband, 
+while only 40 percent of households in "remote rural" areas have a 
+broadband connection. As of September 2008, Fiber-to-the-Home (FTTH) 
+accounted for 20% of Taiwan's broadband service. 
+ 
+¶10. (U) Unsurprisingly, TNIC data show broadband Internet usage in 
+Taiwan is strongly correlated to levels of education and income.  85 
+percent of households headed by someone with at least a college 
+education have broadband access, but this number slips to 71 percent 
+for households headed by high school graduates, and 26 percent for 
+those who have not attended high school. 90 percent of households 
+with monthly incomes of USD 2418 or more have broadband Internet, as 
+do 75 percent of households with monthly incomes of between USD 606 
+and USD 2417. Only 19 percent of households making under USD 606 per 
+month have broadband. 
+ 
+Comment 
+------- 
+ 
+¶11. (SBU) By any measure, Taiwan has one of the most connected 
+societies in the world: over 66 percent of people use the 
+Internet--roughly comparable to the U.S. figure of 73 percent --and 
+Daily Wireless, the wireless industry's largest news site, recently 
+ranked Taipei as the second most connected city in the world, ahead 
+of Tokyo, Hong Kong, and Singapore, and behind only Seoul.  Taiwan 
+is intent on maintaining this edge as well, as the Taiwan 
+authorities and private investors continue to pour money into the 
+island's already world-class broadband infrastructure.  End 
+comment. 
+ 
+Young

@@ -1,0 +1,116 @@
+07TELAVIV870
+RESULTS OF BLUE LANTERN LEVEL 3 POST-SHIPMENT
+Wed Mar 21 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Tel Aviv
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHTV #0870 0801006
+ZNR UUUUU ZZH
+P 211006Z MAR 07
+FM AMEMBASSY TEL AVIV
+TO RUEHC/SECSTATE WASHDC PRIORITY 0121
+INFO RUEHBM/AMEMBASSY BUCHAREST 1583
+RUEHFR/AMEMBASSY PARIS 9966
+RUEHJM/AMCONSUL JERUSALEM 6308
+RUCPDOC/USDOC WASHDC
+RUEKJCS/SECDEF WASHDC
+RUCNFB/FBI WASHDC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS TEL AVIV 000870 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: KOMC ETTC RO FR IS
+SUBJECT: RESULTS OF BLUE LANTERN LEVEL 3 POST-SHIPMENT 
+END-USE CHECK ON LICENSE 05-050010197 
+ 
+REF: A. 05 STATE 176592 
+ 
+     ¶B. BUCHAREST 163 
+ 
+¶1. (SBU) On March 18, Israeli Ministry of Defense Blue 
+Lantern Inquiry Point of Contact, Rami Yungman, sent by FAX 
+to Blue Lantern Officer the following information concerning 
+license 05-050010197.  The answers correspond to questions 
+put forward by Blue Lantern Officer to David Block Temin, the 
+Corporate Vice President and General Counsel for Elbit 
+Systems, Ltd., located in Haifa.  Block Temin sent the 
+answers via the Israeli MOD, where officials of the MOD's 
+Security Division, MALMAB/DSDE, reviewed them before 
+approving their release to Blue Lantern Officer. 
+ 
+¶2. (SBU) Begin questions and answers: 
+ 
+¶Q. Can you confirm the delivery of the helicopter parts under 
+license 05-050010197? 
+ 
+¶A. We (Elbit Systems, Ltd., or ESL) can confirm the delivery 
+of helicopter parts under DSP-5 license no. 05-050010197 (the 
+License) for the SHREIK Program. 
+ 
+¶Q. What was the specific role of Elbit in this transaction? 
+ 
+¶A. The SHREIK Program relates to the upgrade of three naval 
+helicopters (Puma 330) for the Romanian Ministry of Defense 
+(RMOD) for end use by the Romanian Armed Forces.  ESL is the 
+avionics subcontractor for the program to IAR S.A. Brasov of 
+Romania, which is the prime contractor to the RMOD.  Rockwell 
+Collins is a subcontractor to ESL for the supply of the items 
+described in the License.  The parts shipped by Rockwell 
+Collins under the License were ordered under ESL P/O No. 
+DMF825350 (the Purchase Order, or P/O) for the purpose 
+described above.  The quantities are two shipsets for each 
+helicopter, plus one spare shipset, totaling seven shipsets. 
+ 
+¶Q. Did Elbit ever take possession of the shipment before its 
+delivery to Romania? 
+ 
+¶A. ESL did not take possession of the shipments.  Rather, the 
+items were delivered as "drop shipments" directly to the 
+foreign consignee, IAR S.A. Brasov, in accordance with the 
+P/O's shipping instructions. 
+ 
+¶Q. If so, can Elbit confirm that all the provisos attached to 
+the license were fulfilled?  More specifically, can Elbit 
+confirm that U.S.-origin ECCM/frequency hopping algorithms 
+were not released to a third party? 
+ 
+¶A. ESL believes that all the provisos attached to the License 
+were fulfilled.  Specifically, upon becoming aware of the 
+License's provisos, the P/O was revised to eliminate the IIQ 
+and the SATURN (corresponding to the Have Quick IIA and 
+secured radio).  Moreover, the P/O does not call for release 
+of U.S. origin ECCM/frequency hopping algorithms. 
+ 
+¶Q. Additionally, please confirm that none of the following 
+was released to a third-party entity:  (a) USG datalink 
+message standards/formats; (b) Have Quick IIA; and (c) the 
+USG version of the SINCGARS. 
+ 
+¶A. We can confirm that the above items were not included in 
+the P/O's scope and were not released. 
+ 
+¶3. (SBU) Elbit Systems, Ltd. confirmed in writing that the 
+items detailed in the License and the above question were 
+delivered in the form of shipsets containing each of the 
+above items, as follows:  (a) 1st through 4th shipset -- 
+fully delivered; (b) 5th through 7th shipset -- delivery 
+scheduled as per the P/O for November 2007. 
+ 
+¶4. (SBU) Ilan Mazushan of MALMAB/DSDE and Ofer Meishar of 
+Elbit Systems, Ltd. were copied on the written response sent 
+through Rami Yungman at the MOD. 
+ 
+********************************************* ******************** 
+Visit Embassy Tel Aviv's Classified Website: 
+http://www.state.sgov.gov/p/nea/telaviv 
+ 
+You can also access this site through the State Department's 
+Classified SIPRNET website. 
+********************************************* ******************** 
+JONES

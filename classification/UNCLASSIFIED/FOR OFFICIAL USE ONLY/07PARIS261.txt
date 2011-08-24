@@ -1,0 +1,188 @@
+07PARIS261
+FRANCE: TSA BRIEFS DATA PRIVACY AUTHORITY ON
+Tue Jan 23 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+null
+Lucia A Keegan  01/23/2007 05:07:15 PM  From  DB/Inbox:  Lucia A Keegan
+
+Cable 
+Text:                                                                      
+                                                                           
+      
+UNCLAS    SENSITIVE     PARIS 00261
+
+SIPDIS
+cxparis:
+    ACTION: DCM
+    INFO:   TSA POL ECON AMB
+
+DISSEMINATION: DCMX
+CHARGE: PROG
+
+APPROVED: ECON:TJWHITE
+DRAFTED: ECON:MEMOTLEY
+CLEARED: TSA: NLARBI
+
+VZCZCFRI683
+RR RUEHC RUCNMEM RHMFIUU
+DE RUEHFR #0261/01 0231142
+ZNR UUUUU ZZH
+R 231142Z JAN 07
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 4379
+INFO RUCNMEM/EU MEMBER STATES
+RHMFIUU/DEPT OF HOMELAND SECURITY WASHINGTON DCUNCLAS SECTION 01 OF 02 PARIS 000261 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+STATE FOR EUR/WE, EB/TRA, S/CT; DHS FOR TSA AND CBP 
+ 
+E.O. 12958: N/A 
+TAGS: EAIR PTER FR
+SUBJECT: FRANCE: TSA BRIEFS DATA PRIVACY AUTHORITY ON 
+AVIATION SECURITY ARRANGMENTS 
+ 
+ 
+¶1. (SBU) Summary: TSA provided an extensive briefing on U.S. 
+aviation security arrangements to the French Data Privacy 
+Authority (CNIL) in a meeting January 12.  Because of the 
+current risk that the CNIL may wish to review all U.S. 
+airlines' aviation security practices regarding 
+implementation of the no-fly and selectee watch lists for 
+conformity with French data privacy law, the briefing was an 
+excellent opportunity to respond to concerns that go beyond 
+the specific case being considered by the CNIL. 
+ 
+¶2. (SBU) TSA Assistant Chief Counsel for International Law 
+Anthony Giovanniello briefed the CNIL in connection with 
+their investigation of Continental Airlines' (CA) actions 
+relating to the transportation of Vincent Flecheux, a French 
+National who was refused entry to the U.S. by CBP in Houston 
+August 13, and who in a complaint filed with the CNIL claimed 
+that CA personnel had told him this was in connection with 
+his presence on the No-Fly list.  In previous meetings, CA 
+had found it impossible to answer many of the CNIL's 
+questions due to their inclusion of Sensitive Security 
+Information (SSI), which they are prevented from disclosing 
+to parties without a need to know. 
+ 
+¶3. (SBU) Explaining the definition and reasoning behind SSI, 
+Giovanniello stated that he had specifically obtained 
+permission to discuss a number of aspects of the aviation 
+passener pre-sceening process with the CNIL in the hopes that 
+it would clarify issues raised by the case, and put to rest 
+suspicions that it was somehow related to No-Fly or Selectee 
+screening, rather than the obligation of CBP to refuse entry 
+to travelers it determined were ineligible for admission to 
+the U.S.  He emphasized that he would be unable to provide 
+further details about the specific case, as it was TSA policy 
+neither to confirm or deny subject's inclusion on watchlists. 
+ He could affirm however that CBP's decision was not related 
+to aviation security: border protection was a separate legal 
+and law enforcement issue. CBP maintained its own immigration 
+watch lists, which contained names with no relation to 
+aviation security--e.g. child abduction suspects.  CNIL 
+Commissioner de la Loyere indicated that he clearly 
+understood the distinction between border control and 
+aviation security. 
+ 
+¶4. (SBU) Giovanniello began by describing the architecture of 
+the aviation security arrangements created after 2003. TSA 
+administered the No Fly and Selectee lists, which were 
+created by the Terrorist Screening Center (TSC) working with 
+various nominating agencies.  It determined who met the 
+criteria for inclusion, broadly speaking either representing 
+a threat to aviation or a threat of terrorism. No-Fly listees 
+could not board U.S.-bound aircraft, while selectees required 
+additional screening before continuing their travel.  These 
+lists were furnished to airlines, which were required to 
+notify the USG of exact or close matches, which were then 
+evaluated by TSC and double-checked through consultation with 
+the originating agency if the match was positive.  In 
+response to a question about No-Fly diversions, Giovanniello 
+explained that these decisions were made at a very high level 
+in DHS, and only after thorough review led to a conclusion 
+that a threat existed, in accordance with our rights under 
+the Chicago Convention. 
+ 
+¶5. (SBU) The CNIL was interested in how CA applied some of 
+these directives, and asked in particular about an orange 
+sticker the security contractor applied to the passenger's 
+passport, and any requirements for eventual notification of 
+the French authorities in case of a positive match. 
+Giovanniello replied that neither of these was required by 
+U.S. security directives; CA counsel confirmed that its 
+security contractor used the sticker as an aid to flag 
+candidates for additional security screening, either because 
+they were Selectees or had been chosen at random to meet 
+French selectee screening requirements.  CA notified the 
+French border police immediately of any security risks 
+encountered in screening. 
+ 
+¶6. (SBU) The CNIL also inquired about security measures taken 
+to protect the lists from piracy during transmission; they 
+had heard these did not include encryption.  TSA confirmed 
+that lists were not only protected by encryption in both 
+directions, but by background checks and legal sanctions over 
+divulging SSI among personnel with access to them. 
+Giovanniello said that under the APIS Quick Query (AQQ) and 
+Secure Flight initiatives TSA would at some point be expected 
+to entirely take over the responsibility for matching names, 
+making transmission of the lists unnecessary.  In response to 
+another question, TSA noted that airlines were required to 
+maintain lists and records of hits for only 60 days, in case 
+follow-up investigation was needed. According to CA, no list 
+of secondary screenees was maintained by their security 
+contractor. 
+ 
+¶7. (SBU) Commissioner de la Loyere noted that the CNIL was 
+particularly concerned about watchlists' inclusion of 
+innocent passengers. How did passengers who were wrongly 
+listed get off our watchlists?  TSA explained the redress 
+process, which the CNIL was familiar with from a letter 
+Flecheux had received from the TSA ombudsman clearing him for 
+travel. TSA also explained how travel is facilitated by 
+adding a "cleared" entry to watchlists to prevent legitimate 
+travelers with exact or close name matches to watchlist 
+entries from being mistakenly identified with them.  TSA 
+described an upcoming modification of the redress process 
+(DHS Traveler Redress Inquiry System), by which it would 
+serve as a one-stop shop for watchlist redress requests, 
+coordinating across the various agencies of DHS and 
+facilitating the travel of legitimate passengers. 
+ 
+¶8. (SBU) The CNIL concluded by indicating it would be 
+continuing its enquiries into the Flecheux case, as it still 
+had not received responses from some French government 
+agencies. 
+ 
+¶9. (SBU) Participants for the CNIL included Commissioner 
+Georges de la Loyere, General Secretary Yann Padova, Sophie 
+Vuillet-Tavernier, Director of Legal Affairs, and Pascale 
+Raulin-Serrier of the European and International Affairs 
+Division. Continental Airlines was represented by Amy Bried, 
+Senior Attorney, and Isabelle Gavadon, Partner in the Paris 
+law firm FIDAL.  USG attendees were Anthony Giovanniello, TSA 
+Assistant Chief Counsel for International Law, Embassy Paris 
+TSA Representative, and Econoff. Assistant Chief Counsel 
+ 
+SIPDIS 
+Giovanniello cleared this cable. 
+ 
+¶10. (SBU) Comment: This meeting proved to be a good 
+opportunity to address a number of concerns raised by the 
+CNIL.  USG participation was much appreciated by Continental 
+Airlines, and we hope the forthright description of our 
+aviation security practices--including processes for 
+protection of data, review of listings and redress in case of 
+error--will encourage the CNIL to await implementation of AQQ 
+and Secure Flight before undertaking any extensive review of 
+airlines security screening practices, if at that point they 
+still deem it necessary. 
+Please visit Paris' Classified Website at: 
+http://www.state.sgov.gov/p/eur/paris/index.c fm 
+ 
+STAPLETON

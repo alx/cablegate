@@ -1,0 +1,152 @@
+09PARIS1729
+The Googlisation of France
+Fri Dec 18 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXRO0601
+RR RUEHIK
+DE RUEHFR #1729/01 3521647
+ZNR UUUUU ZZH
+R 181647Z DEC 09
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 7937
+INFO RUCPDOC/USDOC WASHDC
+RUEHRC/DEPT OF AGRICULTURE WASHDC
+RUCNMEM/EU MEMBER STATES COLLECTIVE
+RUEHGV/USMISSION GENEVA 3061UNCLAS SECTION 01 OF 02 PARIS 001729 
+ 
+SENSITIVE 
+ 
+BUSINESS SENSITIVE INFORMATION NOT FOR INTERNET DISTRIBUTION 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD EIND KIPR SCUL FR
+SUBJECT: The Googlisation of France 
+ 
+PARIS 00001729  001.2 OF 002 
+ 
+ 
+¶1.  (SBU) Summary:  Google's fortunes may be rising in France as the 
+GOF announced a government-funded digitization project that will 
+likely include a partnership with Google.  But Google still faces 
+setbacks that include possible corporate tax fraud charges, 
+continued public ire against Google's digitization of French 
+cultural works, and the loss of a lawsuit brought by French 
+publishers.  A new French start-up boasts it can rival Google but 
+real competition is years away.  End Summary. 
+ 
+Google Books Program Enrages Cultural Elite 
+------------------------------------------- 
+¶2.  (SBU) French publishers and culture experts were enraged last 
+August when news broke of Google's negotiations with the French 
+National Library.  Serge Eyrolles, president of a group of French 
+publishers, called the project "cultural rape."  Discussions were 
+suspended.  Overnight, Google went from being everyone's favorite 
+search engine to a symbol of voracious American capitalism and 
+cultural insensitivity.  French publishers sued Google for 
+counterfeiting and copyright violations for digitizing works under 
+their control, and competing EU and French digitization efforts 
+(Europena.eu, Gallica2) accelerated.  Culture Minister Frederic 
+Mitterrand appointed Marc Thessier, former head of France 
+Television, to produce a report by late December on digitization of 
+France's cultural heritage.  Mitterrand requested 753 million euros 
+(USD 1.1 billion) from the "grand emprunt," France's special debt 
+offering to fund future-oriented investment, to pay for government 
+digitization of French works and to keep them out of commercial 
+hands, i.e., Google's. 
+ 
+Culture Minister Mitterrand Extends Olive Branch 
+--------------------------------------------- --- 
+¶3. (SBU) Mitterrand's position has since taken a more positive and 
+productive tone.  He met December 7 with David Drummond, a Google 
+senior vice president and chief legal officer, and agreed to visit 
+Google's Mountain View campus in March.  According to Google staff, 
+Mitterrand said he was not anti-American and hinted that Google may 
+have a role in the digitization program to be funded by the "grand 
+emprunt."  Mitterrand's peacemaking efforts are all the more 
+surprising given his efforts on November 27 to unite his European 
+counterparts against commercial digitization of European works. 
+Mitterrand was also behind the EU decision to appoint a council of 
+"wise men" to create an EU digitization plan. 
+ 
+French Culture Goes Digital 
+--------------------------- 
+¶4. (SBU) President Sarkozy announced his plans for the grand emprunt 
+in a December 14 speech, including nearly USD 1.1 billion for 
+digitization of French works.  Sarkozy emphasized that France would 
+not be stripped of its heritage by "a big company, no matter how 
+friendly, big, or American it is."  But French National Library 
+President Bruno Racine told the press that the money will finance a 
+public-private partnership, with possible Google involvement. 
+Racine claimed opposition to Google stemmed more from its dominant 
+place in the market rather than the fact it was a private company. 
+(Note:  Post contacts at the Ministry of Culture also oppose 
+Google's alleged "exclusivity contract," which they claimed gave 
+Google exclusive rights to the books Google digitized.  According to 
+company contacts, Google's stipulation is that the actual digital 
+file created by Google cannot be given to another competing search 
+engine for 25 years.  But a library could give the same book to a 
+competing search engine to be digitized with its own technology. 
+The library would also control use of the Google-generated digital 
+file for all other non-competing uses. End note.) 
+ 
+No Tax On Internet Ads, But Possible Charges 
+Of Anti-Competition, Corporate Tax Fraud 
+---------------------------------------- 
+ 
+¶5. (SBU) Google SVP Drummond also met with Patrick Zelnick, the 
+record producer appointed by the GOF to develop a legal alternative 
+to illegal downloading including a funding mechanism for cultural 
+development.  French publishers oppose Google's free use of their 
+content to enrich its search engine and sell advertising, and had 
+urged Zelnick to tax online ads as a way to compensate them for 
+their alleged losses.  Google staff said Zelnick seemed likely to 
+drop the tax idea, a position he had also indicated to post, but 
+said Zelnick mentioned that the French Competition Council may go 
+after Google based on the market share of its ad revenues.  In 
+addition, Mitterrand's press advisor, Vincent Peyregne, accused 
+Google of corporate tax fraud because firms that advertise with 
+Google France and any of its EU-based operations pay their 
+subscriptions to Google Ireland, where corporate taxes are among the 
+lowest in Europe. 
+ 
+Google Loses French Copyright And 
+Counterfeiting Lawsuit 
+ 
+PARIS 00001729  002.2 OF 002 
+ 
+ 
+ 
+---------------------- 
+ 
+¶6.  (SBU) On December 18, the court upheld the French publishers' 
+complaint, barring Google from using their works and assessing 
+300,000 euros in damages.  The precedent is damaging and the 
+plaintiffs will claim a moral victory, but given the complaint's 
+initial request for 15 million euros in damages, Google escaped 
+serious financial penalties.  Google has one month to comply with 
+the ruling. 
+ 
+Competitor Could Ease Pressure 
+------------------------------- 
+ 
+¶7. (SBU) Polinum, a new consortium of French technology companies 
+and government-backed IT research labs, says its digitization 
+technology will rival Google's in three years, and hopes to capture 
+much of the European library market. With only four million euros 
+(USD 5.7 million) in financing, however, Polinum is unlikely to be a 
+viable player any time soon. 
+ 
+¶8. (SBU) Comment:  The change in Mitterrand's position may be due to 
+the GOF recognition that it would take USD 1.5 billion and real 
+expertise to digitize just the French National Library's 14 million 
+books and several million other documents.  Google's willingness to 
+create jobs in France may have also helped: Google agreed to open a 
+scanning facility in Lyon when it entered into a digitization 
+agreement with the University of Lyon's library.  With the court's 
+ruling following on the heels of this potential thaw, however, 
+Google's troubles in France are not over. 
+ 
+RIVKIN

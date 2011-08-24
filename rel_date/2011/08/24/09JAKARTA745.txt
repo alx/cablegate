@@ -1,0 +1,64 @@
+09JAKARTA745
+FIRST BROADBAND FREQUENCY "OPEN" AUCTION IN INDONESIA
+Tue Apr 28 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Jakarta
+VZCZCXYZ0006
+RR RUEHWEB
+
+DE RUEHJA #0745 1181034
+ZNR UUUUU ZZH
+R 281034Z APR 09
+FM AMEMBASSY JAKARTA
+TO RUEHC/SECSTATE WASHDC 2218
+INFO RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEAFCC/FCC WASHDCUNCLAS JAKARTA 000745 
+ 
+SIPDIS 
+ 
+DEPARTMENT FOR EEB/CIP/BS Timothy C Finton 
+COMMERCE PASS TO NTIA, ITA, ITA/OTEC Andrew Bennett 
+FCC PASS TO Robert Tanner 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON ID
+SUBJECT: FIRST BROADBAND FREQUENCY "OPEN" AUCTION IN INDONESIA 
+ 
+REF: State 27310 
+ 
+¶1. Indonesian telecommunication officials announced the start of an 
+auction process for 2.3GHz radio frequency for broadband wireless 
+access.  Only companies or their subsidiaries that are majority 
+Indonesian-owned are able to compete per the 2007 Investment Law and 
+accompanying Negative List.  Additionally, only businesses with 
+Indonesian network or service licenses will be able to compete. 
+ 
+¶2. The Department of Communications and Information (DEPKOMINFO) 
+laid out the following process for interested bidders: 
+-- Apr 29-May 5 Pick-up bidding document; 
+-- May 6 Submit written questions; 
+-- May 11-20 Submit pre-qualification documents; 
+-- May 29 Announce prequalification results; 
+-- June 1-5 Prequalification appeal period; 
+-- June 3-9 Pre-auction clarifying meeting; 
+-- June 10-12 Implement three round auction; 
+-- June 12 Announce auction results; 
+-- June 15-16 Auction appeal period; 
+-- June 17 Confirmation of auction results. 
+ 
+¶3. Indonesian officials plan to hold future auctions for the 3.3 and 
+3.5 GHz frequencies.  No date is set for these future auctions. 
+Earlier this year, DEPKOMINFO issued a Ministerial decree 
+instructing operators using those frequencies to migrate to other 
+frequencies. 
+ 
+¶4. Because of the Indonesian Negative List on Foreign Investment, 
+U.S. firms will not be able to participate in the auction unless 
+they partner with local companies to create a subsidiary that is 
+majority Indonesian-owned.  Interestingly, DEPKOMINFO officials said 
+Indosat may not be able to compete because they are majority owned 
+by a Qatar firm.  The official added that a majority 
+Indonesian-owned subsidiary of Indosat could still participate in 
+the auction. 
+ 
+HUME

@@ -1,0 +1,144 @@
+06BEIJING14062
+WHITE PAPER ON RFID TECHNOLOGY RELEASED
+Wed Jul 05 00:00:00 +0200 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Beijing
+VZCZCXRO8799
+RR RUEHCN RUEHGH
+DE RUEHBJ #4062/01 1860524
+ZNR UUUUU ZZH
+R 050524Z JUL 06
+FM AMEMBASSY BEIJING
+TO RUEHC/SECSTATE WASHDC 0897
+RUCPDOC/USDOC WASHDC
+INFO RUEHCN/AMCONSUL CHENGDU 6702
+RUEHGZ/AMCONSUL GUANGZHOU 0984
+RUEHHK/AMCONSUL HONG KONG 7772
+RUEHGH/AMCONSUL SHANGHAI 5175
+RUEHSH/AMCONSUL SHENYANG 6486
+RUEHIN/AIT TAIPEI 5788
+RUEATRS/DEPT OF TREASURY WASHDC
+RUEHGV/USMISSION GENEVA 1219UNCLAS SECTION 01 OF 02 BEIJING 014062 
+ 
+SIPDIS 
+ 
+USDOC FOR DAS LEVINE AND 4420/ITA/MAC/CEA/MCQUEEN 
+STATE PASS USTR 
+USTR FOR STRATFORD/WINTER/MCCARTIN/GRIER 
+USTR FOR MCHALE/WINELAND 
+NIST FOR JILLA 
+TREASURY FOR OFFICE OF INTERNATIONAL INVESTMENT 
+TREASURY FOR OASIA/ISA-DOHNER AND KOEPKE 
+GENEVA PASS USTR 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD EINV ECPS PGOV ASEC WTRO CH
+SUBJECT: WHITE PAPER ON RFID TECHNOLOGY RELEASED 
+ 
+¶1. (SBU) Summary:  The recent release of the "White Paper 
+on China's Radio Frequency Identification (RFID) Technology 
+and Policy" has raised questions within both industry and 
+government as to which path China will choose as it tries 
+to develop yet another standard with world-wide trade 
+implications.  Ms. Zhang Qi, Director of the Ministry of 
+Information Industry's RFID Working Group told Econoff that 
+it was not her plan to "force Chinese standards down 
+anybody's throat." Companies that wanted, however, to 
+import products into China would have to adhere to Chinese 
+standards, just as they currently do with other countries, 
+Qi said.   End Summary. 
+ 
+ 
+¶2. (SBU) On June 9 2006 the Ministry of Science and 
+Technology (MOST) with the concurrence of 14 "other 
+Ministries and Commissions" released a document entitled 
+"White Paper on China's RFID Technology and Policy".  The 
+18-page white paper reviews the status of RFID technology 
+and identifies sectors for development of RFID technologies 
+and priority application.  The white paper calls on China 
+to development its own RFID standards.  The white paper is 
+very much a "broad brush" text that leaves questions about 
+coordination with international standards unaddressed. 
+(Note: A single world-wide standard for RFID currently does 
+not exist, although the United States? EPC and Japan's UID 
+are the most popular). 
+ 
+China's RFID Standard-Friend or Foe? 
+------------------------------------ 
+ 
+¶3. (SBU) Given the ongoing dispute regarding China's effort 
+to impose its own WAPI standard, the release of the white 
+paper caused some consternation in the U.S. business 
+community.  Wal-Mart indicated that any plan to force 
+companies who export products from China to use a Chinese 
+standardized RFID tag would create serious cost overruns 
+and distribution delays. 
+ 
+¶4. (SBU)   Ministry of Information Industry (MII) RFID 
+Working Group director Ms. Zhang Qi pointed out to Econoff 
+that in contrast to the wireless encryption standard where 
+there is worldwide accord, RFID standards are still in 
+their genesis.  This means that China can play a crucial 
+role in their development.  Acknowledging that the white 
+paper stresses the importance of homegrown technologies and 
+standards, Ms. Zhang said that that does not mean that 
+foreign companies would be kept out of the development 
+process.  She pointed out that the seven working groups she 
+heads have already presented her with 27 proposals and that 
+many of them were from American companies, including 
+Microsoft, Hewlett Packard and Compaq.  She added that she 
+is more than happy to work with nternational organizations 
+such as ISO, and welcomed input from foreign RFID 
+associations and organizations.  She underlined her belief 
+in the transparency of the process and referred to her 
+personal website where she outlines many of her views.  Ms. 
+Zhang was particularly keen to hear from American 
+associations and industry and was open to Econoff's 
+suggestion that USG agencies that directly deal with RFID 
+issues visit her. 
+ 
+¶5. (SBU) Asked why China did not choose an existing 
+standard, Ms. Zhang said that the subscription fees alone 
+make this option prohibitively expensive as millions of 
+Chinese vendors would have to pay EPC or UID fees to use 
+their standards.  (Note: EPCglobal's standards are 
+available for free on their web-site. Those who want to use 
+EPCglobal's system have to pay a subscription fee to be 
+assigned a series of electronic product codes which are 
+uniquely their own. The subscription fee is on a sliding 
+scale and depends on the size and revenue of the company. 
+End Note). A homegrown standard, however, could offset 
+those costs whilst also meeting the white paper's stated 
+ 
+BEIJING 00014062  002 OF 002 
+ 
+ 
+goals of homegrown technological innovations and the 
+creation of Chinese RFID standards.  Ms. Zhang responded to 
+a question about interoperability by saying that China has 
+no intention to force foreign companies to use Chinese 
+standards when products and goods are being exported from 
+China and that individual companies could use whatever RFID 
+technology they wished (Note: For example Wal-Mart which 
+exports over USD 20 billion of goods from China per year 
+has mandated that its top six hundred vendors would have to 
+use EPC's RFID standard by the end of 2006).  She went on 
+to say that any company that is importing goods into China 
+and/or those that do business domestically would have to 
+use the Chinese standards. 
+ 
+Comment 
+------- 
+ 
+¶5. (SBU) Ms. Zhang is a plain-speaking, forceful 
+interlocutor who is clearly eager to interact with foreign 
+visitors and allay fears about China's intentions regarding 
+RFID standards.  It is encouraging that such a leading 
+figure in RFID development wishes to engage with the 
+international community at this early stage in China's RFID 
+development. 
+ 
+Randt

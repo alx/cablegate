@@ -1,0 +1,236 @@
+07JAKARTA310
+AVIAN INFLUENZA (AI) SAMPLE SHARING UPDATE
+Tue Feb 06 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Jakarta
+VZCZCXYZ0004
+RR RUEHWEB
+
+DE RUEHJA #0310/01 0370741
+ZNR UUUUU ZZH
+R 060741Z FEB 07
+FM AMEMBASSY JAKARTA
+TO RUEHC/SECSTATE WASHDC 3155
+RUEHPH/CDC ATLANTA GA
+INFO RUEAUSA/DEPT OF HHS WASHINGTON DC
+RUEHRC/USDA FAS WASHDC
+RHEHNSC/NSC WASHDC
+RUEHRO/AMEMBASSY ROME 1978
+RUEHFR/AMEMBASSY PARIS 0977UNCLAS JAKARTA 000310 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPT FOR EAP/MTS, G/AIAG AND OES 
+DEPT PASS TO USAID/ANE/CLEMENTS AND GH/CARROLL 
+DEPT ALSO PASS TO HHS/WSTEIGER/ABHAT/MSTLOUIS AND HHS/NIH 
+NSC FOR JMELINE 
+ 
+E.O. 12958: N/A 
+TAGS: TBIO AMED CASC EAGR AMGT PGOV ID
+SUBJECT: AVIAN INFLUENZA (AI) SAMPLE SHARING UPDATE 
+ 
+REF: A) Jakarta 00264    B) Jakarta 00107 
+ 
+¶1. (SBU) Summary.  The Mission continues working to reverse the 
+January 11 verbal directive from the Indonesian National Institute 
+of Health and Research Development (NIHRD) instructing NAMRU-2 to no 
+longer ship AI specimens to the U.S. Centers for Disease Control and 
+Prevention (CDC) until NAMRU-2 signs a Materials Transfer Agreement 
+(MTA).  The Ambassador briefed Senior UN System Coordinator for 
+Avian and Human Influenza Dr. David Nabarro on the issue on February 
+4, and the DCM discussed the issue at length on January 31 with 
+NIHRD Director Triono Soendoro.  Visiting CDC influenza branch 
+official Dr. Reuben Donis raised the issue with Triono and Director 
+General for Disease Control and Environmental Health Dr. Nyoman 
+Kandun on February 2.  We have also briefed the World Health 
+Organization (WHO) office in Jakarta on the issue.  After more than 
+a week of emotional reactions to the issue, Triono has floated the 
+idea of concluding an agreement between the NIHRD and CDC to allow 
+the flow of samples to restart, an idea we believe has merit.  We 
+accordingly recommend no additional Washington action at this time 
+pending further discussions between the CDC and NIHRD. 
+ 
+¶2. (SBU) Summary, continued.  A number of factors appear to be 
+driving the Ministry of Health's (MOH) approach to the issue, 
+including a lack of understanding about how the WHO reference 
+laboratory system works for influenza surveillance, a lack of 
+understanding of the capabilities of Indonesia's own laboratories, 
+the commercial interests of Indonesia's state-owned pharmaceutical 
+companies, frustration over Indonesia's failure so far to benefit 
+from research into the Indonesian H5N1 strain, and concerns about 
+Indonesia's ability to pay full retail price for the millions of AI 
+vaccine doses it hopes to stockpile.  A February 6 Financial Times 
+report quotes Triono confirming that the GOI is withholding AI 
+samples because it wants to keep control of the intellectual 
+property rights of the AI virus.  He reportedly added that the GOI 
+would make a major announcement on February 7 of collaboration with 
+Baxter International on the development of an AI vaccine.  End 
+Summary. 
+ 
+Triono Describes Concerns during Meeting with DCM 
+--------------------------------------------- ---- 
+ 
+¶3. (SBU) At their January 31 meeting, NIHRD Director Dr. Triono 
+Soendoro explained the Ministry of Health's concerns about sample 
+sharing to the DCM.  Triono said pharmaceutical companies had 
+developed AI vaccines using information from Indonesian AI strains 
+without permission and that Indonesia would not benefit from use of 
+these strains.  Triono explained that the GOI planned to acquire 5 
+million doses of vaccines but now faced having to pay USD 15 for 
+each dose.  GOI officials and Parliamentarians are criticizing NIHRD 
+for having openly shared samples and posted data on the Genebank, 
+without requiring organizations receiving Indonesian samples to sign 
+MTAs.  Triono also complained about international researchers 
+involved in AI research making uncoordinated public announcements 
+about AI in Indonesia or publishing studies on AI without prior GOI 
+consultation, further upsetting the GOI. 
+ 
+¶4. (SBU) The DCM raised concerns that stopping sample flows are 
+preventing WHO referral labs from performing full virus 
+characterization.  Without full virus sequencing, Indonesia and the 
+world will be blind to possible virus changes that could make a 
+pandemic more likely.  He noted our concerns that the people of 
+Indonesia and the world would suffer the consequences of this GOI 
+decision.  At the very least, the international community will see 
+Indonesia as jeopardizing global public health and, as a result, 
+Indonesia would lose international standing.  However, Triono 
+dismissed these concerns and denied that Indonesian researchers are 
+not capable of performing full virus characterization.  He claimed 
+that researchers at the Eijkman Institute in Jakarta are conducting 
+full virus characterization of AI samples and that an Eijkman BSL-3 
+laboratory is almost complete.  (Note: Eijkman is capable of 
+sequencing amplicons, and has the capability to sequence from each 
+gene of the influence of virus, but cannot yet perform full genome 
+sequencing.  Without a BSL-3 lab, it also cannot grow the virus to 
+conduct biological tests against drug resistance.) 
+ 
+¶5. (SBU) Triono admitted that MOH officials face enormous pressure 
+on the sample control and MTA issue from other GOI agencies and 
+Parliament.  He asked why the USG was reluctant to sign a MTA when 
+other countries expressed willingness to do so, citing Korea and 
+Singapore as examples.  Triono noted other WHO collaborating centers 
+in Australia, Japan and the United Kingdom might also be candidates 
+for sharing samples if they are willing to sign an MTA. (Note:  We 
+understand that the WHO Reference Centers in Tokyo and Melbourne 
+have reviewed the MOH's draft MTA and will not sign it.) 
+Nonetheless, Triono expressed interest in resolving the current 
+sample-sharing blockage and discussed possible ideas for doing so, 
+including USG subsidies for the purchase of vaccine needed by 
+Indonesian government workers, some sort of joint venture between 
+U.S. and Indonesian pharmaceutical companies to develop a H5N1 
+vaccine, and a more flexible U.S. approach to the MTA. 
+ 
+CDC Influenza Branch Official Briefs GOI Officials 
+--------------------------------------------- ----- 
+ 
+¶6. (SBU) On February 1-2, visiting CDC influenza branch official Dr. 
+Ruben Donis met Triono, Director General for Disease Control and 
+Environmental Health Dr. Nyoman Kandun,  and other NIHRD and Eijkman 
+Institute staff.  Donis described the necessary research steps for 
+full characterization of the AI virus, and explained that growing 
+the virus requires sufficient concentrations of genetic material 
+that will allow researchers to do full sequencing.  He stressed the 
+importance of sequencing from purified virus isolates grown in a 
+BSL-3 facility as opposed to characterization of small fragments, or 
+amplicons, as is currently conducted by research scientists in 
+Indonesia.  Dr. Donis also reviewed with NIHRD the added importance 
+of studying virus binding sites and conducting anti-viral testing on 
+isolates.  (Note: Indonesian researchers cannot conduct these 
+studies at this time.)  Dr. Triono noted that the Eijkman 
+Institute's BSL-3 laboratory would not open for another few months. 
+With limited analyses only, Indonesian researchers cannot determine 
+when subtle but important changes in the virus occur. 
+ 
+¶7. (U) Donis also explained that WHO referral labs have two main 
+objectives for virus study: risk assessment and vaccine development. 
+ Donis clarified that as a WHO-Influenza Reference Center, CDC is 
+not concerned with vaccine production and vaccine marketing.  CDC 
+objectives are to promote public health through promotion of vaccine 
+development by open sharing of information.  This fosters 
+competition which then drives down the price of vaccines and allows 
+for greater vaccination programs.  During the meeting, NIHRD staff 
+ 
+also described a partnership between state-owned pharmaceutical 
+company BioPharma and Baxter International Laboratories that has 
+produced what they claimed to be an effective human AI vaccine. 
+NIHRD officials praised this partnership as a possible model for 
+future vaccine development. 
+ 
+¶8. (SBU) In his meetings with Donis and the DCM, Triono praised the 
+NIHRD's interactions with NAMRU-2 and expressed strong support for 
+keeping collaboration going.  He has emphasized the need for more 
+time to find constructive solutions and requested that the USG not 
+increase pressure on the issue at this time.  He said he would 
+discuss with Minister of Health Dr. Fadilah Supari the possibility 
+of the NIHRD and CDC concluding an agreement on sample sharing that 
+would remove NAMRU-2 from the middle of the MTA issue and allow the 
+sample flow to resume. (Comment: One possible approach for the 
+NIHRD-CDC agreement would be to incorporate language from January 
+2007 WHO best practices documents on influenza viruses and sequence 
+data sharing that reiterates the obligations of WHO member states to 
+share influenza samples for risk assessment and vaccine development 
+purposes, but also calls on the WHO Director General to "take 
+appropriate action" if a WHO collaborating center or H5 reference 
+laboratory misuses a virus for research or commercial purposes.) 
+ 
+Competition with Indonesian Vaccine Developers? 
+--------------------------------------------- -- 
+ 
+¶9. (U) On January 30, Reuters ran a newswire about CSL, an 
+Australian plasma products maker that has successfully developed an 
+AI vaccine that may be ready for widespread use within six months. 
+The next day, Minister of Health Supari reportedly criticized the 
+firm for using Indonesian virus samples for the vaccine "without 
+Indonesia's permission" because the Indonesian H5N1 strain is 
+"Indonesia's intellectual property."  Siti also revealed that 
+Indonesia is developing its own vaccine in cooperation with the 
+American Pharmaceutical company Baxter International.  (Note: 
+NAMRU-2 researchers tell us that CSL produced its vaccine via 
+reverse genetics from a DNA sequence from an Indonesian H5N1 virus 
+isolate obtained from a website at the U.S. National Institutes of 
+Health.  On August 3, 2006, Supari gave the WHO-Influenza Reference 
+Centers permission to post sequence information from Indonesian 
+viruses for the purpose of additional study and vaccine 
+production.) 
+ 
+Press Gets in on the Story 
+-------------------------- 
+ 
+¶10. (SBU) On February 1, we also briefed Indonesia WHO Director 
+George Peterson on the sample sharing issue in anticipation of UN 
+System Senior Coordinator for Avian and Human Influenza David 
+Navarro's February 2-4 visit to Indonesia of February 4.  Peterson 
+expressed serious concern about the development and promised to 
+immediately contact WHO Geneva and alert Navarro to the 
+developments.  The Ambassador spoke with Nabarro via telephone on 
+the issue on February 3, emphasizing our view that this is an 
+international issue that requires all of our attention.  Nabarro 
+said he would raise the issue in his meetings. 
+ 
+¶11. (SBU) A Jakarta-based Financial Times (FT) reporter questioned 
+Nabarro aggressively on the issue at a February 4 press conference, 
+asking Nabarro and National Committee for AI Control and Pandemic 
+Preparedness (KOMNAS) Executive Director Bayu Krisnamurthi 
+repeatedly if Indonesia had stopped sharing AI samples.  Neither 
+Nabarro nor Krisnamurthi answered the question directly; 
+Krisnamurthi noted only that the issue remains "under discussion." 
+On February 6, the FT ran a story quoting Triono confirming that the 
+GOI is withholding AI samples because it wants to keep control of 
+the intellectual property rights of the AI virus.  He reportedly 
+added that the GOI would make a major announcement on February 7 of 
+collaboration with Baxter International on the development of an AI 
+vaccine. 
+ 
+¶12. (SBU) Comment:  We are inclined to believe Triono's claim that 
+he is facing strong pressure on the sample sharing issue and wants 
+to resolve it quickly, and recommend no additional Washington action 
+at this time pending further discussions between the CDC and NIHRD. 
+But Triono likely has little time--now that press has picked up the 
+fact that AI sample sharing has stopped, pressure on the GOI is 
+likely to increase, particularly if Indonesia reports another large 
+cluster as happened in January.  End Comment. 
+ 
+PASCOE

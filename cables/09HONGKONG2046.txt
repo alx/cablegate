@@ -1,0 +1,75 @@
+09HONGKONG2046
+EXTRANCHECK: PRE-LICENSE CHECK: EGS (ASIA) LIMITED
+Fri Nov 06 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0014
+RR RUEHWEB
+
+DE RUEHHK #2046 3100831
+ZNR UUUUU ZZH
+R 060831Z NOV 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 8901
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002046 
+ 
+USDOC FOR 532/OEA/MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: EGS (ASIA) LIMITED 
+ 
+REF: A) BIS e-mail PLC request dated October 14, 2009 B) D423559 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO), conducted 
+a pre-license check at EGS (Asia) Limited, 9th Floor South, Somerset 
+House, Taikoo, Quarry Bay, Hong Kong (EGS). The purpose of the visit 
+was to determine the suitability of EGS to be the ultimate consignee 
+and end user of an Orion inertial navigation system that is the 
+subject of license application D423559.  The item (ECCN 7A103) is 
+controlled for missile technology (MT) reasons. The license 
+applicant is Teledyne TSS Ltd of the United Kingdom. 
+ 
+¶3.  A search of the Hong Kong Companies Registry reveals that EGS 
+has been in existence since 1996. Its registered capital is the Hong 
+Kong equivalent of USD 1.5 million. 
+¶4. A review of the company's web site (www.egssurvey.com) reveals 
+that the EGS Group (of which EGS in Hong Kong is a part) is an 
+international group of companies that provides earth science and 
+oceanographic services including geophysical surveying and 
+hydrographic surveying and. 
+ 
+¶5.  On November 3, 2009, ECO visited the company and met with Mr. 
+Leung Kong Wing, Anderson, Operation Manager, Electronics Division. 
+Mr. Leung provided background on the company and its operations in 
+Hong Kong.  He stated that EGS in Hong Kong had, for example, 
+provided significant survey work in support of the construction of 
+the Hong Kong international airport as well as the construction of 
+bridges in Hong Kong.  Typically, the company is a subcontractor for 
+larger HK government contractors.  Mr. Leung stated that his company 
+is unable to operate in Mainland China because of China's limitation 
+on the use of foreign (non-mainland) service providers in this 
+field. 
+ 
+¶6.  As to the specific item that is the subject of license 
+application D423559, Mr. Leung stated that it would be used to 
+upgrade existing equipment used for seabed mapping.  Mr. Leung 
+stated that the item would be used on a EGS vessel and would not be 
+provided to third parties (whether independently or as part of the 
+vessel). 
+ 
+¶7.  Based on the information detailed herein, ECO believes EGS to be 
+a suitable recipient of controlled U.S. origin technology. 
+ 
+MARUT

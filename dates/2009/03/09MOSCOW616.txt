@@ -1,0 +1,84 @@
+09MOSCOW616
+EXTRANCHECK: PRE-LICENSE CHECK: CJSC SCIENTIFICALLY
+Fri Mar 13 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHMO #0616 0721343
+ZNR UUUUU ZZH
+P 131343Z MAR 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2372
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000616 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: CJSC SCIENTIFICALLY 
+MANUFACTURING, SALUT 27, NIZHNIY NOVGOROD, RUSSIA, LICENSE NO. 
+D410767 
+ 
+REFTEL: USDOC 0156 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a pre-license check to determine the legitimacy 
+and reliability of the end-user, CJSC Scientifically Manufacturing, 
+SALUT 27, Nizhniy Novgorod, Russia. The company is listed on BIS 
+license application D410767 as the ultimate consignee of a PSA 
+Spectrum Analyzer, a PSG analog signal generator, a frequency range 
+from 250 KHz to 50 GHz, a PNA-L network analyzer, and a 10 MHZ to 50 
+GHz 2 port. These items are controlled for national security and 
+anti-terrorism reasons under ECCN 3A002, 3A002.C.2, 3A002.D.2, and 
+3A002.E. The licensee is Agilent Technologies, Inc., 1666 K Street, 
+N.W., Suite 420, Washington, DC  20006. 
+ 
+¶3. On March 4, 2009, Export Control Attache Peter Liston and LES 
+Natalya Shipitsina met with Alexander Bykadorov, General Director of 
+CJSC Scientifically Manufacturing, SALUT 27, at his office located 
+at 29 Korolenko Street, Nizhniy Novgorod, Russia. 
+ 
+¶4.  CJSC Scientifically Manufacturing, SALUT 27 QSALUT 27Q was 
+established in 1997 as a radio and electronic equipment manufacturer 
+for scientific research. SALUT 27 has approximately 400 employees 
+located in three separate facilities in Nizhniy Novgorod, Russia. 
+SALUT 27 is a privately held, joint stock company. 
+ 
+¶5. According to Alexander Bykadorov, SALUT 27 will use the reftel 
+commodity at their facility associated with the Nizhniygorodskiy 
+State University. Bykadorov stated that the commodity will be used 
+for complex analysis of characteristics of microwave devices 
+developed by SALUT 27. The network analyzer will be used to 
+determine an estimation of characteristics of microwave power 
+amplifiers and filters to be used in sections of weather radars and 
+other receiver-transmitter systems. 
+ 
+¶6.  The export control team advised Bykadorov of the export 
+restrictions associated with the reftel commodity. Bykadorov 
+acknowledged the restrictions placed on the reftel commodity and 
+advised that he had been made aware of the export controls on 
+sensitive U.S. origin technology when SALUT 27 had been visited by 
+an ECO approximately 6 years earlier. Bykadorov also stated that no 
+foreign students will have access to the reftel commodity. He stated 
+that SALUT 27 does not conduct research for any military 
+organization. 
+ 
+¶7.  SALUT 27 has the technical and commercial sophistication for the 
+reftel commodity. SALUT 27 has a legitimate need and a legitimate 
+end use also. 
+ 
+¶8. Recommendations: Post does recommend CJSC Scientifically 
+Manufacturing, Nizhniy Novgorod, Russia, as reliable recipients of 
+sensitive U.S. origin commodities. 
+(FCS MOSCOW/ JMARKS/PLISTON) 
+BEYRLE

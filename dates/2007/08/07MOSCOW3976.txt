@@ -1,0 +1,137 @@
+07MOSCOW3976
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Tue Aug 14 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0009
+PP RUEHWEB
+
+DE RUEHMO #3976/01 2261331
+ZNR UUUUU ZZH
+P 141331Z AUG 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2915
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 003976 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/DMUSLU 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+JOINT INSTITUTE FOR NUCLEAR RESEARCH, MOSCOW, RUSSIA, 
+LICENSE NO. NLR 
+ 
+REFTEL: USDOC 05565 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Joint Institute for Nuclear Research, Dubna, 
+Moscow Oblast, Russia. The company is listed on BIS 
+license application: NLR as the ultimate consignee of 
+physical analysis equipment, 1, multimode V 
+application module-ready SPM system, ECCN: EAR99. The 
+licensee is Intertech Corporation, 3 Commerce Drive, 
+Atkinson, NH 03811. NOTE: The actual end user of the 
+equipment is Energomashtechnika - Russian Academy of 
+Sciences Prokhorov General Physics Institute, located 
+at 38 Vavilov St. Moscow, Russia 119991. The Institute 
+was the subject of PLC D317180 reported as favorable 
+by FCS in 04 MOSCOW 06622 sent on May 14, 2004 and of 
+PLC D332439 reported as favorable by ECO Moscow in 05 
+MOSCOW 06594 sent on June 7, 2005. END NOTE. 
+ 
+¶3. On August 10, 2007, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested post-shipment verification with 
+Energomashtechnika, Russian Academy of Sciences- 
+Prokhorov General Physics Institute (RAS-PGPI) Moscow, 
+Russia. The export control team met with Victor 
+Appolonov, high power laser dept., Academician of the 
+Russian Aacademy of Natural Sciences and General 
+Director of Energomashtechnika. 
+ 
+¶4. Energomashtechnika is a commercial venture 
+established in 1993 by the High Power Lasers 
+Department of the RAS-PGPI to provide operating funds 
+for the Department.  The company specializes in 
+research, development and production of high power 
+lasers for the metallurgical industry, heavy equipment 
+manufacturing, medical and scientific research, 
+emergency services, and environmental protection. The 
+company has worked with 55 universities, research 
+centers and commercial organizations since 1993 from 
+France, Germany, United Kingdom, Japan, Singapore, 
+Canada and the United States.  A complete list of 
+lasers produced, major partners and other company 
+information is available at the Energomashtechnika 
+website at http://www.gpi.ru/hpl/.  Energomashtechnika 
+employs 40 at its laboratory located in the RAS-PGPI 
+building in Moscow. 
+ 
+¶5. The equipment in reftel will be principally used in 
+a research and development project to increase the 
+efficiency of photo detectors, laser diodes, and 
+similar sensors.  The current designs of these devices 
+provide a 15-20% threshold of sensitivity, limiting 
+their ability to be used in commercial applications. 
+The research aims to improve the sensitivity, allowing 
+for more efficient use in solar energy and laser 
+projects.  Direct access to the equipment will be 
+limited, however other researchers from organizations 
+such as the Joint Institute for Nuclear Research, 
+Moscow State University, and other academicians may 
+submit data or request experiments to be performed in 
+the lab on their behalf. 
+ 
+¶6. The project is currently on hold pending the 
+completion of the laboratory space at the facility. 
+The devices in reftel are being stored, crated as 
+shipped, in the lobby of the building.  The team 
+examined the packing marks and bills of lading, which 
+match the information provided in reftel. 
+Energomashtechnika took delivery of the crates last 
+week, as the shipment was delayed in customs for 
+nearly three months.  Access to the lobby is limited 
+to those with official business and authorized 
+visitors, however the equipment will remain sealed and 
+crated to prevent damage or pilferage. 
+ 
+¶7. The room designated for the laboratory currently 
+houses several obsolete devices, which will be 
+disassembled and moved to storage.  The devices in 
+reftel will be assembled by representatives of 
+Intertech, with a target timeframe of September 2007. 
+Dr. Appolonov will be personally responsible for the 
+equipment, and is familiar with U.S. export controls 
+ 
+ 
+and the destination control requirements of this 
+shipment.  Only three persons will have regular access 
+to the room: a trained equipment operator, a research 
+scientist and a statistician.  Due to the sensitivity 
+of the equipment, no other personnel will be 
+authorized to utilize or access the equipment. The 
+room will be secured with a cipher lock system, and 
+protected by an electronic security alarm system.  The 
+building is guarded at all times by campus security 
+officers.  Annual audits of all major equipment are 
+conducted by the RAS as required under Russian law. 
+ 
+¶8. Recommendations: Post recommends 
+Energomashtechnika, Russian Academy of Sciences 
+Prokhorov General Physics Institute Moscow, Russia as 
+reliable recipients of sensitive U.S. origin 
+commodities. 
+ (FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

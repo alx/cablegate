@@ -1,0 +1,129 @@
+10STATE5975
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Thu Jan 21 00:00:00 +0100 2010
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHC #5975 0211544
+ZNR UUUUU ZZH
+R 211538Z JAN 10
+FM SECSTATE WASHDC
+TO RUEHMD/AMEMBASSY MADRID 0000
+INFO RUEAIIA/CIA WASHINGTON DC
+RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RHMCSUU/FBI WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DCUNCLAS STATE 005975 
+ 
+SIPDIS 
+PARIS FOR NATHANIEL ADAMS 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC FR
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 050199525 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a post-shipment check on license 050199525 for the export of 
+International Traffic in Arms (ITAR)-controlled machine gun 
+weapon system components to France.  Post is requested to 
+complete this Blue Lantern inquiry within 45 days.  Lack of 
+response to a Blue Lantern inquiry will affect pending and 
+future licenses involving parties to this license. 
+ 
+¶3. Reason for request: No military foreign end-user is 
+identified on the license for a commodity that appears to be 
+intended for ultimate sale to a government military entity. 
+ 
+¶4. ACTION: The Department requests that Post contact end-user 
+Eurocopter France in order to confirm that it received the 
+items listed and that they will be used for the purpose 
+stated on the license.  In addition, Post is requested to 
+inquire as to who will be the ultimate end-user of the 
+CH-53GS helicopter on which the machine gun components will 
+be installed.  Finally, Post is requested to remind 
+Eurocopter France that Department of State authorization is 
+required for the retransfer or re-export of the components. 
+ 
+END ACTION. 
+ 
+¶5. Details of license application: 
+ 
+DTC CASE:  050199525 
+ 
+QUANTITY/COMMODITY: 
+ 
+20 - Links Ejection Assembly, P/N S507011-151 
+20 - End Fitting Entrance Box for .50 Caliber Chutes, FN P/N 
+363.781.185 
+20 - Gun End Fitting for .50 Caliber Chutes, FN P/N 
+363.507.085 
+ 
+License Value: 7500.00 USD 
+ 
+(COMMENT: According to US Customs data, all items were 
+exported on 19 December 2009. END COMMENT) 
+ 
+SELLER: 
+ 
+Standard Armament, Inc. 
+631 Allen Ave. 
+Glendale, CA 91201 
+Tel: 818-842-6144 
+POC: Cathleen Joens 
+ 
+FOREIGN CONSIGNEE: 
+ 
+FN Herstal, S.A. 
+Voie de Liege 33 
+B-4040 Herstal 
+Belgium 
+Tel:  32 4 240 81 11 
+POC: Michel Vanuscorps, Purchasing Director 
+ 
+FOREIGN END-USER: 
+ 
+Eurocopter France 
+Aeroport International Marseille 
+France 
+Tel:  33 (0) 4 42 85 97 97 
+ 
+PURPOSE: 
+ 
+Parts will be installed on a .50 caliber machine gun weapon 
+system located on the CH-53GS helicopter.  These chutes fit 
+between the gun and ammo box. 
+ 
+¶6. Submitted in support of license application 050199525 were 
+the following documents (PM/DTCC will email documentation to 
+Post upon request): 
+ 
+--End Use Statement submitted by FN Herstal dated 6 May 2009. 
+ 
+--Purchase Order No. 740850 submitted by FN Herstal to 
+Standard Armament, dated 5 May 2009. 
+ 
+--Department of State License for Permanent Export of 
+Unclassified Defense Articles and Related Unclassified 
+Technical Data, signed 11 November 2009, approved 23 November 
+¶2009. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Meredith Sundlof. Phone: 
+202-663-3455; Email: SundlofME@state.gov; SIPRNET: 
+SundlofME@state.sgov.gov.  The Blue Lantern Guidebook (ref) 
+is available as a PDF file at 
+http://www.intelink.sgov.gov/wiki/Blue Lantern End-Use 
+Monitoring Program. 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+CLINTON

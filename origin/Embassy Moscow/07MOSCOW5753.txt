@@ -1,0 +1,78 @@
+07MOSCOW5753
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: IT-
+Fri Dec 07 00:00:00 +0100 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0003
+PP RUEHWEB
+
+DE RUEHMO #5753 3411331
+ZNR UUUUU ZZH
+P 071331Z DEC 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 5753
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 005753 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: IT- 
+DIAGNOSTICA, MOSCOW, RUSSIA, LICENSE NO. NLR 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, IT-Diagnostica, Moscow, Russia. The company is 
+listed on BIS license application: NLR as the ultimate 
+consignee of a photon block 29HZ camera system and 
+accessories. ECCN 6A993. The exporter is FLIR Systems 
+Indigo Operations, 70 Castilian Drive, Goleta, CA 
+¶93117. 
+ 
+¶3. On November 9, 2007, Export Control Attache Peter 
+Liston and FSN Natalya Shipitsina conducted the 
+requested post-shipment verification with PERGRAM 
+Industrial Equipment & Engineering (PERGRAM), who was 
+in fact the ultimate consignee.  IT-Diagnostica, 
+Moscow, Russia was the intermediate consignee for this 
+transaction. The export control team met with Dmitry 
+Karneev, Division Manager for PERGRAM. 
+ 
+¶4. PERGRAM Division Manager Dmitry Karneev advised ECO 
+Liston that PERGRAM is the FLIR Systems representative 
+company in Russia.  Karneev indicated that he met FLIR 
+Systems at a trade show in Moscow earlier this year 
+and attended a sales meeting with FLIR in Santa 
+Barbara, CA.  According to Karneev, IT Diagnostica 
+handled the shipment of the photon block 29HZ camera 
+system and accessories from the United State to 
+Russia, at which time it was delivered to PERGRAM. 
+Karneev stated that PERGRAM has worked with IT 
+Diagnostica on several shipments in the past, however 
+they now utilize Polar Logistic and no longer use the 
+services or IT Diagnostica. 
+ 
+¶5. Karneev provided ECO Liston access to the sales 
+file of the photon block 29HZ camera system and 
+accessories, which indicted that PERGRAM sold it to 
+NII Mashinostroeniya (Scientific Institute of Machine 
+Building), Moscow, Russia on December 15, 2006. 
+ 
+¶6. Recommendations: Post did not meet with IT- 
+Diagnostica, Moscow, Russia.  Post recommends PERGRAM 
+as reliable recipients of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/SBOZEK/RLISTON) 
+BURNS

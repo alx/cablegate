@@ -1,0 +1,126 @@
+09HONGKONG2038
+EXTRANCHECK: POST SHIPMENT VERIFICATION: (FELTON SUCCESS
+Thu Nov 05 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHHK #2038/01 3090208
+ZNR UUUUU ZZH
+R 050208Z NOV 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 8886
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002038 
+ 
+USDOC FOR 532/OEA/LHINES/MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: (FELTON SUCCESS 
+LIMITED) BKN GROUP 
+ 
+REF: A) BIS e-mail request dated August 14, 2009 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) at Felton Success Limited, Unit 
+6, 21/F, Enterprise Square Two, No. 3 Sheung Yuet Rd., Kowloon Bay, 
+Kowloon, Hong Kong (Felton). The items in question for this PSV are 
+256 CPUs exported to Felton on or about October 31, 2007.  According 
+to the exporter, these items are classified under Export Control 
+Classification Number (ECCN) 3A991, meaning that they are controlled 
+for anti-terrorism reasons and would require a license to Iran.  The 
+exporter is MA Labs of San Jose California. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Felton has been 
+in existence since August 2008.  Its paid up share capital is the 
+Hong Kong equivalent of USD 125,000.  The Hong Kong Companies 
+Registry lists BVI company, Rise Sonic Group Limited, as the sole 
+shareholder and director.  The registered address of Rise Sonic 
+appears to be the address of a range of BVI companies. 
+ 
+¶4.  According to the company's web site (www.Felton.com.hk), Felton 
+is a trading company founded in 1993 that specializes in computer 
+related component business and focused on CPU and memory 
+distribution business.  The company claims to be able to supply a 
+wide range of products including those from AMD, Micron, Toshiba, 
+IBM, Western Digital and Quantum. 
+ 
+¶5.  It took some time to arrange a visit to Felton.  Eventually, 
+Nelson Chow, Account Manager, agreed to meet with the ECO to discuss 
+the transaction in question.  On September 4, 2009, ECO and 
+Commercial Assistant Carrie Chan visited the company and met with 
+Chow.  He explained that Felton is a trading company specializing in 
+various computer parts.  He stated that the company has been in 
+existence for 14 years (likely under a previous name since the 
+current company appears only to have been registered in 2008) and 
+has worldwide customers.  When asked how Felton obtains its 
+customers, Chow stated that they come from referrals and that the 
+company has many long-standing customers.  Chow stated that he knew 
+nothing about the director of the company.  He further stated that 
+the company has Middle East based customers as well as customers in 
+Iran. 
+ 
+¶6.  As to the specific transaction in question, Mr. Chow stated that 
+the customer was Sayed Mousavi Trading in Dubai.  He claimed not to 
+know about BKN Group (another company linked to this transaction). 
+Mr. Chow stated several times that he believed that this customer 
+was located in Dubai.  When confronted with e-mail correspondence on 
+which he had been copied showing that the customer was in Iran, Mr. 
+Chow eventually conceded that the customer was located in Iran.  Mr. 
+Chow subsequently stated that Mr. Mousavi of Sayed Mousavi Trading 
+had come to Felton headquarters and had done prior business with 
+Felton.  Mr. Chow claimed not to be able to find a copy of Mr. 
+Mousavi's card.  Mr. Chow further stated that for this particular 
+order, Mr. Mousavi had appointed a courier to pick up the items. 
+That courier, according to Mr. Chow, had picked up the items as well 
+as all corresponding documentation of the order.  As a result, Mr. 
+Chow claimed that he had no documentation for this order.  Mr. Chow 
+stated that Mr. Mousavi is an infrequent customer (ECO doubts this 
+assertion).  In some cases, Felton purchases on behalf of Mousavi 
+while in other instances, Mousavi purchases the items and uses 
+Felton as a ship to address (as occurred in this instance).  Despite 
+repeated requests from ECO, Mr. Chow declined to provide any 
+additional information about the company's dealings with Sayed 
+Mousavi Trading and/or its affiliated companies. 
+ 
+¶7.  On October 21, 2009, ECO returned again to Felton to meet with 
+Mr. Chow.  At this meeting, Mr. Chow stated that BHK Group and Sayed 
+Mousavi Trading are all related although Mr. Chow stated that he did 
+not know how they were related.  Mr. Chow allowed ECO to look at Mr. 
+Mousavi's business card (although he refused to provide a copy). 
+Mr. Mahdi Mousavi is listed as a representative of Hitech Computer 
+Peripherals, Block 16, No 12 Gilam Street with phone number 
+982188942760 and fax 889422483 and a contact e-mail of 
+info@hitech-smc.com.  Mr. Chow stated that Felton has a four to five 
+year history with Sayed Mousavi Trading.  Mr. Chow stated that Sayed 
+Mousavi Trading never issues purchase orders but that orders are 
+typically done by phone or e-mail with wire transfers for payment. 
+Sayed Mousavi Trading uses APM as its freight forwarder in Hong Kong 
+(this is likely APM Global Logistics (Hong Kong) Company Limited, 
+16/F, One Kowloon, 1 Wang Yuen Street, Hong Kong). 
+ 
+¶8.  Mr. Chow denied that Sayed Mousavi Trading and/or Mr. Mousavi 
+own Felton but he declined to provide ECO with the name of the 
+director of Felton (although he stated that he was not of Middle 
+ 
+ 
+Eastern origin). 
+ 
+¶9.  ECO believes Felton to be a most unsuitable recipient of U.S. 
+origin technology.  Mr. Chow was both evasive and untruthful on a 
+number of occasions.  In ECO's opinion, Mr. Chow (and Felton more 
+generally) is aware of restriction on trade with Iran even if Mr. 
+Chow initially denied knowledge of any restrictions.  ECO recommends 
+a close review of all shipments to Felton (and its address) as well 
+as a review of shipments to APM and its address.

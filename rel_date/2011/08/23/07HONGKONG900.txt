@@ -1,0 +1,129 @@
+07HONGKONG900
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Thu Mar 29 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHHK #0900/01 0880654
+ZNR UUUUU ZZH
+R 290654Z MAR 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 1131
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000900 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR 
+WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+DORADO CO. (HK) 
+ 
+REF: A) USDOC 02348 
+ 
+1.Unauthorized disclosure of the information 
+provided below is prohibited by Section 12C of the 
+Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of 
+the Office of Enforcement Analysis (OEA) of the 
+USDOC Bureau of Industry and Security (BIS), 
+Export Control Officer Philip Ankel (ECO), 
+accompanied by Commercial Vice Consul Tyler 
+Warren, conducted a post shipment verification 
+(PSV) at Dorado Co. (HK) (Dorado), 51 Jordan Road, 
+Room 402, Kowloon, Hong Kong.  The items in 
+question are dielectric resonator oscillators 
+exported to Dorado on or about January 20, 2007 
+and valued at USD 22,950.  On the applicable 
+shippers export declaration (SED), these items are 
+classified as EAR99.  Items properly classified as 
+EAR99 may be exported/reexported to virtually all 
+destinations and end-users worldwide, license 
+free.  The exporter was Herley-CTI of Whippany, 
+New Jersey (Herley). 
+ 
+¶3.  Dorado is not included in the Hong Kong 
+Companies Registry as it is not an incorporated 
+entity.  According to the Hong Kong Inland Revenue 
+Department Business Registration Office, Dorado is 
+registered at the address noted above.  It is a 
+sole proprietorship and has been in existence 
+since 1984. The owner is Mr. Kelvin Kwok. 
+According to information obtained from the Hong 
+Kong Trade Development Council (TDC) web site, 
+Dorado is a representative of high-tech electronic 
+companies in the United States and United Kingdom 
+and sells electronic equipment to customers in 
+Hong Kong and mainland China.  It has two 
+employees. 
+ 
+¶4.  The ECO and Vice Consul Warren visited Dorado 
+at the address referenced above on March 22, 2007 
+and met with Kelvin Kwok, Managing Director.  The 
+office is modest in size, typical for a small 
+trading company in Hong Kong.  Mr. Kwok provided 
+background on Dorado. Consistent with the 
+information noted above, Mr. Kwok stated that 
+Dorado is his company and is a reseller of high- 
+tech equipment into Hong Kong and mainland China. 
+He has been in this type of business for quite 
+some time. 
+ 
+¶5.  Mr. Kwok was quite familiar with U.S. export 
+controls noting that he routinely provides end-use 
+information to Herley.  He claimed that all of his 
+customers are commercial companies in Hong Kong 
+and mainland China.  He expressed his opinion that 
+U.S. export controls are overly stringent and out 
+of date. 
+ 
+¶6.  With respect to the shipment that was the 
+subject of the PSV, Mr. Kwok provided the 
+applicable documentation reflecting that the items 
+had been received by Dorado and subsequently 
+resold to Tung Pang Group Limited in Hong Kong.  A 
+review of the applicable shipping documentation 
+from Herley and supplied by Mr. Kwok indicated 
+that the end-user of the items is the Nanjing 
+Radio Factory.  Mr. Kwok noted that while the 
+customer is Nanjing Radio Factory, he trades with 
+Tung Pang Group, an agent for Nanjing Radio 
+Factory.  According to the Hong Kong Companies 
+Registry, Tung Pang Group has nominal (equivalent 
+of USD 1,200) share capital.  Its director is 
+mainland Chinese national Defa Ziu.  According to 
+the Companies Registry, Defa Qiu is also director 
+of Suntek International (HK) Limited (established 
+in 2005).  During the visit, another shipment of 
+the same type of items arrived at the office.  Mr. 
+Kwok showed the ECO and Vice Consul Warren the 
+items and the underlying shipping documentation. 
+It listed Nanjing Radio Factory and Nanjing 
+Research Institute as end-users. 
+ 
+¶7. At the time visited, Dorado appeared to be a 
+suitable recipient of the commodities shipped (as 
+reseller) since Dorado cooperated with the PSV and 
+provided all requested information concerning the 
+ 
+ 
+final disposition of the applicable items.  Dorado 
+is likewise familiar with and stressed its intent 
+to comply with U.S. export control rules.  At the 
+same time, the ECO was not able to inspect the 
+subject items as they had already been delivered 
+to Dorado's customer.  Consistent with guidance on 
+reporting of PSVs where the items cannot be 
+physically inspected, the ECO recommends that this 
+PSV be classified as Limited. 
+Cunningham

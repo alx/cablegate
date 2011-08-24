@@ -1,0 +1,215 @@
+08PARIS1078
+AIRBUS: FEARS OF DEFENSE TRADE CONTROLS HURT U.S. EXPORTS
+Thu Jun 05 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXRO2295 
+RR RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV 
+DE RUEHFR #1078/01 1571554 
+ZNR UUUUU ZZH 
+R 051554Z JUN 08 
+FM AMEMBASSY PARIS 
+TO RUEHC/SECSTATE WASHDC 3270 
+INFO RUEATRS/DEPARTMENT OF TREASURY WASHDC 
+RUCPDOC/DEPT OF COMMERCE WASHDC 
+RUCNMEM/EU MEMBER STATESUNCLAS SECTION 01 OF 03 PARIS 001078 
+ 
+SENSITIVE 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+SIPDIS 
+ 
+STATE FOR PM/DTTC, EB, EUR/WE 
+ 
+E.O. 12958: N/A 
+TAGS: EIND ECON ETTC KOMC ETRD EAIR PREL FR
+SUBJECT: AIRBUS: FEARS OF DEFENSE TRADE CONTROLS HURT U.S. EXPORTS 
+ 
+REF: PARIS 850 
+ 
+This is the second of two cables on Airbus and U.S. interests. It 
+was drafted by APP Toulouse with support from Paris and represents 
+the Consul's farewell report at the conclusion of a three-year 
+assignment. A previous message focused on Airbus' structure and 
+reform. 
+ 
+¶1. (SBU) SUMMARY: In spite of significant efforts to accelerate 
+processing of export control licenses at the State Department, U.S. 
+and European aerospace companies continue to be sharply critical of 
+the USG export control system. Their perception affects a major 
+American export industry -- U.S. aviation exports (excluding Boeing 
+airplanes) reached USD 42.6 billion in 2007. Competitive in terms 
+of quality and price, U.S. companies assert that they are informally 
+excluded from contract discussions due to fears about U.S. export 
+controls. The standard view in Toulouse is that the U.S. export 
+control licensing process is time-consuming, bureaucratic, 
+unpredictable, and opaque rather than a tool for preventing 
+proliferation and safeguarding national interests. This perception 
+damages American firms and the U.S. balance of payments. A more 
+aggressive outreach and transparency program could help change 
+perceptions. END SUMMARY. 
+ 
+¶2. (SBU) Several high profile cases in recent years have increased 
+fears and created the perception among European corporations that 
+U.S. export controls are costly, complex, and unpredictable. In 
+March 2006, the USG fined Boeing USD 15 million, L-3 Communications 
+USD 2 million, and Goodrich USD 1.25 million, in connection with the 
+sale of civilian aircraft to China that included a gyro microchip 
+(QRS-11). In 2004, Northrop Grumman's use of an inertial sensor in 
+a navigation system disrupted aircraft production at Airbus during 
+three weeks while the USG determined whether the item required a 
+license from State or Commerce. Assembly of eight A320 and A340 
+aircraft was halted (i.e. thirty percent of the assembly line) until 
+Airbus replaced the twenty-four Northrop Grumman sensors with a 
+Honeywell product. Had the delay lasted longer, or had it also 
+affected Honeywell, which at the time was the only other supplier 
+for this product, it could have completely stopped production at 
+Airbus. Airbus officials and suppliers continue to recall vividly 
+this experience. They emerged from it convinced that U.S. export 
+controls were characterized by unclear jurisdictions and 
+unpredictable and potentially costly administrative processes. 
+ 
+¶3. (SBU) More recently, the case of the flight safety qualification 
+of Northrop Grumman's new inertial sensor has reinforced this view. 
+The European Aviation Safety Agency (EASA) is conducting 
+certification of the sensor, which contains International Traffic in 
+Arms Regulations (ITAR)-controlled data. Northrop Grumman's 
+interpretation of its Commerce license precludes it from sharing 
+such information with EASA without a Technical Assistance Agreement 
+(TAA), or signature of a bilateral safety agreement between the FAA 
+and EASA that would resolve the issue since it specifically 
+addresses the question of disclosing ITAR-controlled data for 
+certification purposes. Signature of the agreement has been 
+repeatedly held up since June 2007 due to unrelated issues. 
+ 
+¶4. (SBU) U.S. suppliers frequently assert that their European 
+competitors willingly play on European manufacturers' belief that 
+the U.S. export control system is complicated and arbitrary in order 
+to win contracts. They cite Airbus' recent decision to award Thales 
+a sole source contract for the inertial system on its latest 
+aircraft -- the A350. According to sources from two firms 
+knowledgeable about A350 contract negotiations, Airbus rejected more 
+technologically advanced options from American firms due to fear the 
+USG would decide the item should fall under ITAR. The loss of this 
+particular contract amounts to approximately USD 480 million over 
+the life of the A350 program. U.S. companies worry however that 
+they eventually will lose the entire Airbus market, estimated at USD 
+160 million per year, if Thales develops a competitive product not 
+subject to ITAR controls. 
+ 
+¶5. (SBU) The inertial sensor issue first caused disruptions at 
+Airbus as the company geared up for its first military product -- 
+the A400M. Even though Airbus sought to use as many commercial 
+components as possible to minimize the export control burden, this 
+military program included a significant number of ITAR-controlled 
+items and necessitated Airbus' first global approach to U.S. export 
+controls. To address these issues, Airbus hired an Amcit as Vice 
+President in charge of export controls. It then adopted a model TAA 
+for use throughout the company and sought regular consultations with 
+the State Department on pending applications. By all accounts, 
+Airbus' applications for export licenses are now more consistent and 
+better prepared. High-level sources at several companies involved 
+with controlled items have noted the improved atmosphere, and in 
+particular the positive impact of periodic Airbus-organized meetings 
+in Washington between aerospace companies working on A400M export 
+controls. 
+ 
+¶6. (SBU) In spite of this progress, several U.S. suppliers close to 
+Airbus have told the Consul they believe Airbus will avoid American 
+products on future military programs - the A330 tanker excluded -- 
+due the company's belief that addressing U.S. export controls on the 
+A400M has been too long, costly and complicated. Airbus and its 
+suppliers complain that licenses take months to process, and that 
+each modification of the original request requires additional 
+delays. They trade horror stories such as that recounted by one 
+representative of a large American aeronautic systems company, who 
+recently told the Consul his firm has not received an answer to TAA 
+amendments requested in July 2007. 
+ 
+¶7. (SBU) In the recently announced KC-45 contract, Airbus has 
+structured production to minimize the impact of the licensing 
+process, serving as prime subcontractor under Northrup Grumman. 
+American business contacts have indicated that Northrop Grumman and 
+EADS North America have agreed to perform as much work as possible 
+in the U.S. with American citizens. Northrop Grumman will be solely 
+responsible for the aircraft's militarization. Other European 
+manufacturers with significant military business, such as Dassault 
+and Eurocopter, also have long avoided American products for both 
+their military and commercial programs. According to several 
+American aeronautic system suppliers, in those cases in which the 
+European business selected an American item for a commercial 
+program, they carefully consider the consequences of using the same 
+part number for a military product. They say that the companies 
+fear that its application on a military program will "contaminate" 
+it, rendering it ITAR-controlled and disrupting commercial 
+production. 
+ 
+¶8. (SBU) In recent conversations, some American suppliers have 
+argued that only fundamental reform of the export licensing process 
+will change these attitudes. They advocate improving transparency, 
+consistency, and response times through a program-wide license. 
+Under such an approach, all exports of aviation parts for a given 
+project would be covered by a single license. Instead of each 
+American company applying for individual approval, the final 
+manufacturer would ask for and obtain an overall license which would 
+set the terms for all suppliers on the project. Whether or not this 
+is a realistic proposition, the call for wide-ranging reform shows 
+how negative attitudes toward U.S. export controls among large 
+manufacturers have spread throughout the aerospace supply chain, 
+even among American suppliers who are more familiar with the U.S. 
+system than their European competitors. 
+ 
+¶9. (SBU) Discussions between the Consul and procurement officials in 
+Toulouse over the past three years suggest the problem is especially 
+acute in small and medium-sized enterprises (SMEs). Because some 
+procurement officials believe ITAR applies to all U.S. aviation 
+products, they are reluctant to purchase anything "Made in the USA." 
+Having heard the "horror stories" and with limited exposure to the 
+actual U.S. system, they find it easiest to simply avoid American 
+alternatives. In one-on-one meetings held as part of an outreach 
+program last year, several European SMEs expressed their unfounded 
+concern that they would be subject to ITAR should they purchase in 
+the U.S. Since aircraft manufacturers increasingly are becoming 
+integrators, subcontracting large sections of new airplanes 
+(reftel), SME comprehension of the system is of growing importance 
+and merits additional attention on the part of the USG. 
+ 
+¶10. (SBU) COMMENT: Over the course of the past year, the Department 
+has made tremendous strides in response times, the area of greatest 
+frustration to the aviation industry. Contacts have indicated that 
+most TAAs and licenses now are returned within several months 
+instead of the previous waiting time of six months. The 
+Department's website indicates the average processing time is now 15 
+days compared to 35 days in March 2007. Because American suppliers 
+have said any delay on a TAA can threaten a contract negotiation, 
+they have strongly urged that State work to maintain this momentum, 
+which is helping to reduce frustration among both American suppliers 
+and European customers. More comprehensive reform, such as that 
+advocated by some U.S. suppliers, is a proposition of a different 
+order. While certainly meriting serious consideration, it would 
+require a thorough policy review and substantial interagency 
+consultation. 
+ 
+¶11. (SBU) Despite the improvements, too many European-based aviation 
+representatives continue to see USG's export control licensing 
+process as a "black hole" in need of fundamental reform. Many 
+procurement officials in European companies also believe the USG 
+eventually will use export controls as an economic weapon. These 
+misunderstandings could be addressed by increasing USG export 
+control outreach in Europe and continuing to engage recipients of 
+American aviation technology regardless of nationality. Small and 
+medium-sized companies will never have the resources to engage staff 
+dedicated exclusively to this issue, but the USG could support U.S. 
+exports by demystifying the system whenever possible. Over the past 
+three years, the American Presence Post in Toulouse has organized 
+highly successful seminars on Defense Trade Controls in Toulouse and 
+at the Paris Air Show, as well as assisting with the planning of an 
+event at this year's Farnborough Air Show in the UK. Regular 
+Department participation in such conferences would greatly enhance 
+their value, spread the good news about recent improvements in 
+processing times, and help dispel some of the myths about trade 
+controls that are costly to U.S. business and damaging to our 
+legitimate interests in controlling the export of sensitive 
+technology. 
+ 
+Stapleton

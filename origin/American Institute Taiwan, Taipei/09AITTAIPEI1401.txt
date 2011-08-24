@@ -1,0 +1,81 @@
+09AITTAIPEI1401
+TAIWAN: RESULTS OF BLUE LANTERN LEVEL 3: PRE-LICENSE
+Wed Nov 25 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+American Institute Taiwan, Taipei
+VZCZCXYZ0009
+RR RUEHWEB
+
+DE RUEHIN #1401 3290927
+ZNR UUUUU ZZH
+R 250927Z NOV 09
+FM AIT TAIPEI
+TO SECSTATE WASHDC 2816UNCLAS AIT TAIPEI 001401 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+ 
+STATE FOR EAP/TC, PM/DTCC AND ISN/MTR 
+ 
+PM/DTCC FOR BLUE LANTERN COORDINATOR RACHAEL-THERESE S. JOUBERT-LIN 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC TW
+SUBJECT: TAIWAN: RESULTS OF BLUE LANTERN LEVEL 3: PRE-LICENSE 
+END-USE CHECK ON APPLICATIONS 050197967 AND 050198220 
+ 
+REF: STATE 117765 
+ 
+¶1. (SBU) Summary: Per reftel request, AIT/T contacted the end user, 
+the Chung Shan Institute of Science and Technology (CSIST)--the 
+research and development arm of the Taiwan Ministry of National 
+Defense Armaments Bureau--and visited the consignee, Carbon-Based 
+Technology Incorporated (CBT).  We confirmed the orders with both 
+end-user and consignee, and assess the consignee to be bona fide. 
+End summary. 
+ 
+CSIST 
+----- 
+ 
+¶2. (SBU) On November 25, Mr. Liao Wei-yao of the CSIST Procurement 
+Office confirmed the order for reftel equipment from CBT listed on 
+application 050197967. The procurement contract number is XC98Q20P. 
+Mr. Liao stated the purpose of this equipment as "spare parts for 
+Chung-Shyang II UAV ground control station with less 200 KM maximum 
+range; Chung-Shyang II UVA has a 25 KM EO payload, is for 
+surveillance, coastal patrol, and typhoon damage investigations." 
+ 
+¶3. (SBU) On the same day, for application 050198220, Mr. Chen Wei-ho 
+of the CSIST Procurement Office confirmed the order for reftel 
+transmitter. According to Chen, CSIST bought the transmitter from 
+CBT in 2008, and because the transmitter was still under the 
+warranty when it broke down, CSIST has requested that CBT send the 
+machine back to the manufacturer for repairs. [Note: the end user 
+for the transmitter should be Mr. Chang Wen-tzung, Chief of 
+Aerodynamics Section at CSIST's Aeronautical Systems Research 
+Division, not the end user listed in reftel, Mr. Lian Yuan-hwang. 
+End note.] 
+ 
+Carbon-Based Technology Incorporated 
+------------------------------------ 
+ 
+¶4. (SBU) On November 18, AIT/T econoff visited CBT and talked with 
+company President Mr. Wen-long "Clement" Chung and General Manager 
+David Lin.  In 2007, Chung and Lin both left the Aerospace 
+Industrial Development Corporation (AIDC)--a state-owned aerospace 
+enterprise that falls under the authority of the Ministry of 
+Economic Affairs--to found CBT with five other former AIDC 
+engineers.  The company now has 40 employees, all in Taichung. 
+ 
+¶5. (SBU) According to Chung, CSIST has been the company's main 
+customer since 2007, although CBT has some civil aviation and other 
+non-military customers.  All of the company's clients are in Taiwan. 
+Chung and Lin said they are familiar with restrictions on USML 
+items. 
+ 
+¶6. (SBU) CBT's offices are locked and alarmed after business hours. 
+CBT does not usually keep items in its offices, however, and will 
+likely deliver reftel items directly to CSIST. 
+ 
+STANTON

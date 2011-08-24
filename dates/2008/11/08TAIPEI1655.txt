@@ -1,0 +1,292 @@
+08TAIPEI1655
+Taiwan: Campus IPR Enforcement Improves, but Piracy
+Wed Nov 26 00:00:00 +0100 2008
+UNCLASSIFIED
+American Institute Taiwan, Taipei
+VZCZCXRO0037
+PP RUEHCN RUEHGH RUEHVC
+DE RUEHIN #1655/01 3310811
+ZNR UUUUU ZZH
+P 260811Z NOV 08
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC PRIORITY 0448
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUCPDOC/USDOC WASHDCUNCLAS SECTION 01 OF 04 TAIPEI 001655 
+ 
+SENSITIVE BUT UNCLASSIFIED 
+ 
+STATE PLEASE PASS USTR 
+STATE FOR EAP/RSP/TC, EAP/EP 
+USTR FOR RAGLAND AND WINELAND 
+USDOC FOR 4430/ITA/MAC/AP/OPB/TAIWAN 
+USDOC FOR USPTO GIN, BROWNING, AND SNYDOR 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECON KIPR ETRD PGOV TW
+SUBJECT:  Taiwan: Campus IPR Enforcement Improves, but Piracy 
+Continues 
+ 
+REFTEL: 
+ 
+A) 2001 Taipei 1681 
+B) 2004 Taipei 533 
+C) 2006 Taipei 562 
+D) 2006 Taipei 4007 
+E) 2004 Taipei 3953 
+F) 2007 Taipei 2529 
+G) 2007 Taipei 2595 
+H) Taipei 8 
+I) Taipei 49 
+J) Taipei 1318 
+K)  Taipei 745 
+L) 2007 Taipei 2005 
+ 
+Summary 
+------- 
+ 
+¶1. (SBU) Spurred by U.S. encouragement, the Taiwan Ministry of 
+Education (MOE) made combatting campus intellectual property rights 
+(IPR) violations a priority over the past 12 months, and Taiwan 
+universities' enforcement activities have increased. Over the Plan's 
+second six months, the Plan's requirements and incentives spurred 
+schools to increase enforcement efforts, and the MOE is helping 
+schools to implement best practices across Taiwan.    Students 
+continue to use TANet for unauthorized file sharing and other 
+digital piracy, but rights holders confirm cooperation with the MOE 
+improved over the second six months of the plan, and that schools 
+are tracking and punishing violations.  Industry, however, still 
+reports widespread use of pirated or unlicensed software. On-campus 
+textbook copying and other physical infringement appear to have 
+continued their decade-long decline due to heightened awareness and 
+enforcement, but rights holders report continuing off-campus piracy. 
+End summary. 
+ 
+Background 
+---------- 
+ 
+¶2. (SBU) Taiwan's teachers and administrators have traditionally 
+viewed campuses as havens from normal law enforcement.  Universities 
+rarely refer students to the police or prosecutors' offices for 
+non-violent crimes, including IPR violations, and prosecutors are 
+wary of taking action to address such problems.  The last major 
+crack-down on campus piracy--an attempt in 2001 by the Tainan 
+District Prosecutors Office to prosecute 14 students at national 
+Chengkung University for sharing MP3 files (ref A)--set off a strong 
+reaction from administrators, students, and the Taiwan public and 
+led to the reassignment of the prosecutors involved. Unauthorized 
+textbook copying and digital piracy, therefore, remain common on 
+Taiwan's campuses (refs B, C, D, and E). 
+ 
+¶3. (SBU)  After an initial suggestion from the United States led to 
+several rounds of consultations with campus representatives, the 
+Ministry of Education (MOE) began implementing the Campus IP Action 
+Plan in November 2007 (ref F).  The Action Plan did not impose new 
+requirements on students--even the MOE's original proposal to 
+require that all university students take a short "IPR Knowledge 
+Test" before getting access to campus libraries or computer networks 
+was dropped in the face of university complaints--but instead 
+reflected the MOE's belief that the best way to reduce illegal 
+copying and downloads is by encouraging schools to follow the best 
+practices in the Taiwan university community (ref F). Under the 
+Plan, the MOE publicly grades each university's performance on 
+numerous IPR-protection metrics in order to promote best practices, 
+as well as to shame less successful schools into taking more 
+action. 
+ 
+Action Plan Leads to Enforcement 
+-------------------------------- 
+ 
+¶4. (SBU) The MOE's initial efforts under the Action Plan spurred 
+universities to deal more seriously with IPR (ref G), and this 
+progress continued over the Plan's second six months.   Although 
+some administrators told us last year the Plan had not changed the 
+way they protect IPR on campus, over the past six months, 
+administrators from the dozen schools econoff has recently visited 
+have told us their schools have stepped up efforts in response to 
+the plan.  On October 16, Yang Chi-jin, Southern Taiwan University 
+of Technology Library Director Yang Chi-jing, briefed econoff on the 
+university's new, more aggressive program to combat IPR violations. 
+Yang, who is responsible for STUT's overall IPR-protection efforts, 
+said the MOE Computer Center now sends regular requests from 
+industry groups to the university to investigate alleged TANet 
+ 
+TAIPEI 00001655  002 OF 004 
+ 
+ 
+violations. Yang said her office, which had never received similar 
+requests from the MOE in the past, must investigate and respond 
+quickly to each request. Administrators from all other schools 
+econoff spoke with echoed this. 
+ 
+¶5. (SBU) Some schools that reported less drastic improvements during 
+the Plan's first six months are now taking more aggressive actions. 
+Professor Wen-jen Hsieh, Director of the Library at National Cheng 
+Kung University in Tainan, reported to econoff in late 2007 that the 
+Action Plan had not initially spurred Cheng Kung to take extra steps 
+to combat piracy (ref H). On November 14, however, Hsieh detailed to 
+econoff a wider set of IP-protection measures Cheng Kung has taken 
+since then, including more aggressively monitoring illegal downloads 
+on TANet, shutting down campus access to the most notorious P2P 
+websites, and increasing IP-protection coordination across 
+departments. 
+ 
+MOE Responding to Digital Piracy 
+-------------------------------- 
+ 
+¶6. (SBU)  When it announced the Plan end-October 2007, the MOE 
+agreed to form a task force that would include representatives from 
+the Taiwan Book Publishers' Association (TBPA), the Business 
+Software Alliance, the Taiwan International Federation of the 
+Phonographic Industry (IFPI), and the Taiwan Foundation Against 
+Copyright Theft (TFACT) [Note: TFACT was formerly called the Motion 
+Picture Association - Taiwan. End note.] Initially, these groups 
+complained the MOE did not meet regularly with rights holders, did 
+not seem interested in cooperating closely with them in implementing 
+the Plan (refs H, I), and did not respond in detail to rights-holder 
+reports on possible copyright violations on TANet (ref J). 
+ 
+¶7. (SBU) However, representatives from all four major industry 
+groups tell us that although students continue to use TANet for 
+unauthorized file sharing and other digital piracy, industry's 
+communication and cooperation with the MOE improved over the second 
+six months of the plan.  The MOE pledged in May to respond to 
+individual complaints about TANet infringements every 60 days (ref 
+K), and industry groups confirm the MOE has made good on the 
+promise. On November 24, Stella Lai of the Taiwan branch of the 
+Business Software Alliance (BSA) told econoff BSA sends about 50 
+notices per month to the MOE about possible infringing incidents on 
+TANet.  Lai said the MOE responds within six to eight weeks 
+confirming whether the incidents were violations, and describing 
+actions taken by the schools in response.  According to Lai, school 
+actions range from removing the infringing material, freezing the 
+student's TANet account, and, in rare cases, terminating the 
+account. Although rights-holder groups would like MOE responses to 
+include details, they are all satisfied with the MOE's increased 
+feedback. 
+ 
+Software Piracy Still a Problem 
+------------------------------- 
+ 
+¶8. (SBU) BSA's Taiwan representative, Gina Tsai, acknowledges the 
+MOE has made progress dealing with Internet piracy on Taiwan's 
+campuses, but says the Ministry is failing to deal with software 
+piracy. BSA member companies say through Internet monitoring, 
+software sales records, and student enrollment figures for classes 
+using AutoCad and other expensive software, the companies know many 
+universities either buy too few licenses for the number of students 
+who use the software ("under-licensing"), or simply allow students 
+to use pirated versions. 
+ 
+¶9. (SBU) Although BSA does not think the problem is any worse on 
+campuses than it is among the general population (ref H), they are 
+frustrated the Ministry of Education does not seem willing to deal 
+with the problem. Tsai said when BSA detects probable 
+under-licensing of member software on campuses, university 
+administrators typically either assure BSA no university computers 
+use illegal software, or claim many professors' computer 
+labs--though connected to TANet through the school--are funded with 
+private-sector grants and are therefore not subject to university 
+compliance measures. BSA's Lai told econoff many professors tell 
+member companies they should turn a blind eye to campus 
+under-licensing, since their students may one day go on to purchase 
+the software to use professionally. 
+ 
+¶10. (SBU) BSA is also frustrated the police are not willing to 
+enforce copyright laws on campuses.  On November 24, Tsai told 
+econoff she met earlier in the day with a local prosecutors' office 
+to discuss the case of a university student allegedly selling burned 
+copies of Windows XP from his campus dormitory room.  Tsai said 
+ 
+TAIPEI 00001655  003 OF 004 
+ 
+ 
+although the prosecutor agreed evidence shows the student is likely 
+committing a crime, the prosecutor indicated to her his office--out 
+of respect for academic independence--will not go onto the campus to 
+investigate, but will instead ask the university to take action. 
+ 
+¶11. (SBU) Many school administrators econoff meets with acknowledge 
+some students may be using illegally-copied software, but the 
+officials invariably argue legal software is often too expensive for 
+individual students and, in some cases, for universities.  Director 
+Chao of the MOE Computer Center told econoff on November 14 that, in 
+response to schools' complaints about the high cost of software, the 
+MOE is now offering small subsidies to universities to buy legal 
+software. 
+ 
+Textbook Piracy Down, Not Out 
+----------------------------- 
+ 
+¶12. (SBU) University administrators continue to report on-campus 
+copying of textbooks is less rampant and less visible in Taiwan year 
+over year. Although a 2007 survey showed that roughly half of 
+college students still buy pirated versions of some books and 
+supplementary materials (ref L), administrators at every university 
+econoff recently visited noted the problem of illegal textbook 
+copying has almost disappeared at on-campus copy shops.  They also 
+report off-campus copy shops are either more reluctant to copy 
+textbooks in whole or in part, or have begun to refuse to copy morethan a few pages of any one book.  University officials believe 
+on-campus shops are fearful of MOE-mandated copy-shop lease 
+agreements that include anti-piracy clauses, and that off-campus 
+shop owners are increasingly aware that copyright violations could 
+result in fines or arrest. 
+ 
+¶13. (SBU) The Taiwan Book Publishers' Association (TBPA), however, 
+complains that the problem has merely gone underground.  According 
+to TBPA's Theresa Liu, although near-campus copy shops now rarely 
+openly display copied materials, the shops still take orders through 
+representatives on campus and standing student relationships, then 
+deliver books directly to customers. Liu added even professors 
+commonly copy pages or whole chapters of books for handing out in 
+class. 
+ 
+¶14. (SBU) TPBA has collected strong, though indirect, evidence to 
+bolster their claims of continuing copyright violations on Taiwan's 
+campuses.  During the 2008 fall semester, TBPA conducted a survey of 
+usage rates for member textbooks in 34 classes at 21 Taiwan 
+universities.  According to the information they gathered from 
+school administrators and campus bookstores, an average of only 28 
+percent of students in each class bought the textbook from the 
+university bookstore, including 14 classes whose students did not 
+buy even one copy of the book. Although Liu says some students may 
+have found the books from other sources, she thinks most students 
+simply bought pirated versions.  TBPA plans to present the final 
+results of their investigation to the MOE in December. 
+ 
+¶15. (SBU) School and publishers remain reluctant to seek other ways 
+to pay textbook royalties.  In the United States and many other 
+countries, schools pay royalties for journals and other copyrighted 
+materials used in classes through the Copyright Clearance Center and 
+similar clearinghouses. Taiwan has one such for-profit 
+clearinghouse, the Chinese Oral and Literary Copyright Intermediary 
+Association (Colcia). According to TBPA's Liu however, publishers 
+say the per-page prices offered by Colcia are far below fair value. 
+In addition, MOE Senior Specialist Chang Chung-hsin recently told 
+econoff rights holders in Taiwan are unfamiliar with and do not 
+trust for-profit copyright clearance services, and most do not want 
+to authorize them to manage copyright issues on campus. 
+ 
+Comment 
+------- 
+ 
+¶16. (SBU) Although the MOE and many campus officials were initially 
+unenthusiastic about the Campus IP Action Plan, the increasing 
+attention paid by officials and college administrators to campus IPR 
+protection suggest Taiwan is paying more than lip service to curbing 
+campus violations. Music, movie, and software industry groups are 
+pleased with Taiwan's actions against TANet piracy, though continued 
+progress--including passing the long-awaited Internet service 
+provider (ISP) law in the coming months, which the Taiwan 
+authorities expect by the end of December--will be key to further 
+reducing digital piracy on Taiwan's campuses. Taiwan's progress on 
+campus enforcement, a key problem listed in this year's Special 301 
+IPR Watch List citation, underscores the importance of completing 
+the out-of-cycle review on Taiwan's Watch List status. End comment. 
+ 
+TAIPEI 00001655  004 OF 004 
+ 
+ 
+ 
+YOUNG

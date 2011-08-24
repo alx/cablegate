@@ -1,0 +1,264 @@
+06SHANGHAI7091
+CHINA'S FOREIGN EXCHANGE TRADING SYSTEM UPDATE
+Tue Nov 28 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Shanghai
+VZCZCXRO0092
+RR RUEHCN RUEHGH
+DE RUEHGH #7091/01 3321201
+ZNR UUUUU ZZH
+R 281201Z NOV 06
+FM AMCONSUL SHANGHAI
+TO RUEHC/SECSTATE WASHDC 5305
+INFO RUCPDOC/USDOC WASHINGTON DC
+RUEHBJ/AMEMBASSY BEIJING 0649
+RUEHCN/AMCONSUL CHENGDU 0338
+RUEHGZ/AMCONSUL GUANGZHOU 0320
+RUEHHK/AMCONSUL HONG KONG 0428
+RUEHSH/AMCONSUL SHENYANG 0341
+RUEHIN/AIT TAIPEI 0307
+RUEATRS/DEPT OF TREASURY WASHINGTON DC
+RHEHNSC/WHITE HOUSE NATIONAL SECURITY COUNCIL WASHINGTON DC
+RUEHGH/AMCONSUL SHANGHAI 5627UNCLAS SECTION 01 OF 03 SHANGHAI 007091 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE PASS FEDERAL RESERVE BOARD FOR JOHNSON/SCHINDLER; SF FRB 
+FOR CURRAN/LUNG; NY FRB FOR CLARK/CRYSTAL/MOSELEY 
+TREASURY FOR ADAMS, AND OASIA - DOHNER, BAKER, CUSHMAN 
+USDOC FOR ITA A/DAS MELCHER, MCQUEEN 
+NSC FOR HUBBARD AND TONG 
+ 
+E.O. 12958: N/A 
+TAGS: EFIN ECON PREL CH
+SUBJECT: CHINA'S FOREIGN EXCHANGE TRADING SYSTEM UPDATE 
+ 
+REF: A. A) SHANGHAI 5846 
+ 
+     ¶B. B) SHANGHAI 1356 
+     ¶C. C) SHANGHAI 1355 
+ 
+U) This cable is sensitive but unclassified and for official use 
+only.  Not for distribution outside of USG channels. 
+ 
+¶1. (SBU) Summary:  In a series of conversations in late October 
+and November, China Foreign Exchange Trading System (CFETS) Vice 
+General Manager Song Jianqi and Market Development Manager 
+Justin Zhang discussed recent forex market developments, 
+including continued gradual appreciation, increased intra-day 
+volatility, growth of currency swaps (and death of forwards), 
+and extension of hours for the matching exchange system.  They 
+also described some of the reforms CFETS planned to implement 
+over the following six months, including a revision of CFETS 
+fee-structure and migration to a new Reuters-based trading 
+platform.  Zhang said the State Administration for Foreign 
+Exchange (SAFE) was considering a policy change to allow traders 
+to hold net open positions shorting the dollar.  Song said 
+CFETS' agreement with the Chicago Mercantile Exchange (CME) to 
+offer RMB-based derivatives was on track to begin in June 2007. 
+Discussions with Shanghai forex traders will be reported septel. 
+ End summary. 
+ 
+--------------------------------------------- ------- 
+CFETS: MORE APPRECIATION IS MORE APPRECIATED, RIGHT? 
+--------------------------------------------- ------- 
+ 
+¶2. (SBU) CFETS Song began an October 24 meeting with P/E Chief 
+and Econoff by noting the continued appreciation of the RMB, 
+quipping, "More appreciation is more appreciated, right?"  He 
+stated that the continued, gradual, and steady appreciation of 
+the RMB demonstrated the successful working of the market in 
+determining the value of the RMB.  He further said that inter- 
+and intra-day movements in the market demonstrated that the RMB 
+was moving based on market news and policy changes.  He noted 
+that when Secretary Paulson visited China in September, the 
+market reflected this with "more active trading within a larger 
+band." 
+ 
+¶3. (SBU) Zhang stated that over-the-counter (OTC) trading (begun 
+in January 2006), represented more than 90 percent of all spot 
+exchange transactions by the end of October 2006.  Nonetheless, 
+CFETS would continue to maintain its more expensive matching 
+exchange model for customers who were too small to have the 
+technical know-how, infrastructure and credit history to engage 
+in OTC trading. In fact, on October 1, it had extended the hours 
+for the matching system (which previously closed at 3:30 PM) to 
+coincide with those of the OTC market; i.e. both now closed at 
+5:30 PM. 
+ 
+¶4. (SBU) Zhang added that 80 percent of all foreign exchange 
+(forex) trades handled by CFETS were done by its 15 Market 
+Makers, 10 percent by the other 245 CFETS members, and the 
+remaining 10 percent of forex trades were made through CFETS by 
+other banks and institutions.  Of forex trades made by market 
+makers, 70 percent were made by the nine Chinese banks and 30 
+percent by the six foreign banks.  When asked what the total 
+volume of forex trade handled by CFETS, Song stated that CFETS 
+was not authorized to release that information, but noted that 
+daily trade volumes had doubled since January 2006.  (Note: 
+Standard Charted Stephen Green observed on October 26, that 
+"probably only two people at CFETS know the answer to that 
+question -- President Xie Duo and the technician who presses the 
+buttons confirming each trade."  End note.) 
+ 
+¶5. (SBU) CFETS outlined the "smooth market development" of its 
+swap forex trading system.  When swaps began, daily volume was 
+about $20 million.  During the third quarter, approximately $70 
+million worth was swapped per day.  In October, total volume of 
+currency exchanged through swaps was $400 million per day 
+according to Song.  International banks accounted for more than 
+50 percent of the swap market.  Song added that when the 
+People's Bank of China (PBOC) raised deposit and lending 
+interest rates in August, this was reflected in swap points. 
+When asked about the forward market, Zhang didn't provide 
+specifics, but noted that volume had dropped off.  He said that 
+ 
+SHANGHAI 00007091  002 OF 003 
+ 
+ 
+was because it was easier to do a combination swap and OTC trade 
+than to do a forward contract. 
+ 
+---------------------------------- 
+CFETS TO REVISE ITS FEE STRUCTURES 
+---------------------------------- 
+ 
+¶6. (SBU) Claiming that CFETS was responsive to the needs of its 
+consumers, Song said that CFETS would revise its current fee 
+structure when its new trading platform was brought online in 
+1st Quarter 2007.  He said that the new fees would be "more 
+reasonable," with multiple rates based on trading volumes.  The 
+new platform, which Song and Zhang admitted would be a welcome 
+replacement to the current unwieldy system, would be based on 
+Reuters' software customized for CFETS by Reuters, with some 
+"back office domestically-produced software." 
+ 
+¶7. (SBU) Song also explained the genesis of its current 
+high-priced fee structure.  He said that in the past, CFETS 
+provided a number of free services to its member banks, but was 
+only permitted by SAFE to charge for its forex services.  By 
+June 2006, CFETS had begun charging its members for all of its 
+services, which included such things as RMB inter-bank lending 
+and RMB bond trading.  (Note: See  HYPERLINK 
+"http://www.chinamoney.com.cn"www.chinamoney. com.cn for more 
+information on these services.  End note.)  Song noted that the 
+new platform to be released next year would combine all of these 
+transactions on one system.  With a fee for service model in 
+place, CFETS would be able to reduce its overall charges on 
+forex trading.  Song claimed that certain forex trading rates 
+would be reduced by 30 times their current prices. 
+ 
+------------------------ 
+THE LONG AND SHORT OF IT 
+------------------------ 
+ 
+¶8. (SBU) Song said that CFETS had heard many complaints from 
+traders that the limitations preventing net open positions from 
+shorting the dollar (or longing the RMB) were a significant 
+problem in developing China's forex markets.  As a result, he 
+understood SAFE was considering a policy change to allow forex 
+traders to take both long and short positions on the U.S. 
+dollar.  Song expected a ruling in the first quarter of 2007. 
+ 
+--------------------------------------------- - 
+CFETS-CME: BEHIND SCHEDULE, BUT STILL ON-TRACK 
+--------------------------------------------- - 
+ 
+¶9. (SBU) Song stated that the CFETS-CME Memorandum of 
+Understanding (MOU) to offer forex derivatives (ref C) was still 
+on track, but that the U.S. Commodity Futures Trading 
+Commission's (CFTC) approval process had somewhat delayed 
+progress on CME's side.  Song said that CFETS expected that the 
+approval process would be completed by March 2007 and that CFETS 
+and CME planned their launch for July 2007.  He noted that CFETS 
+already had sent one staff delegation to Chicago for training in 
+October and planned to send two more before the launch.  CME's 
+Chief Operating Officer Phupinder Gill was scheduled to meet 
+with CFETS President Xie Duo on October 25.  In addition, CME 
+had recently posted one of its staff, Mr. Hao Lian from CME's IT 
+& Risk Management department, to be based at CFETS in Shanghai 
+to act as liaison until the product launched.  Zhang noted that 
+CME's own RMB-based derivative products, listed in August, were 
+not a competitive threat and had not been active. 
+ 
+--------------------------------------- 
+OFFSHORE RMB FORWARDS ARE NOT "SAFE"... 
+--------------------------------------- 
+ 
+¶10. (SBU) According to press reports, on October 25, SAFE 
+announced that Chinese institutions and individuals were barred 
+from trading offshore RMB derivatives without SAFE's prior 
+approval.  Song explained that most such activity currently took 
+place on Hong Kong's Non Deliverable Forwards (NDF) market, 
+which allowed traders to speculate on the future value of the 
+RMB despite its not being freely-traded in the international 
+market.  He said the policy change was intended by SAFE to bring 
+ 
+SHANGHAI 00007091  003 OF 003 
+ 
+ 
+more of the RMB trading under its control.  Song said this 
+ruling would not affect plans for the CFETS-CME products, but 
+refused to comment on what SAFE's announcement would mean for 
+CME's already-launched RMB-derivative products.  Zhang added 
+that CFETS closely tracked the Hong Kong NDF market and was 
+pleased to see closer correlation between it and the CFETS 
+market. 
+ 
+--------------------------------------------- --------- 
+...BUT RESTRICTIONS LEAD TO INCREASED RMB APPRECIATION 
+--------------------------------------------- --------- 
+ 
+¶11. (SBU) On November 28, Zhang told Econoff that SAFE's October 
+25 statement restricting Chinese institutions from participating 
+in the overseas (and Hong Kong) NDF market had been largely 
+aimed at halting these institutions' profiting from cheaper 
+price of the U.S. dollar on the NDF market than in China.  He 
+noted, however, the result had been, "when these traders 
+withdrew from the market, it led to even more appreciation of 
+the RMB."  Zhang speculated that this appreciation had not been 
+SAFE's intent.  He added that while most of this arbitrage 
+trading had halted, the resultant appreciation of the RMB had 
+led to an increased profit margin for Chinese financial 
+institutions and individuals willing to skirt the law. 
+ 
+----------------------------------- 
+CFETS RELOCATED FROM BUND TO PUDONG 
+----------------------------------- 
+ 
+¶12. (SBU) CFETS, formally housed in a 19th Century classical 
+building on the Bund that once housed the Guomindang's Central 
+Bank, moved operations in September to its new campus, located 
+at 1387 Zhangdong Road, Number 30 in Shanghai's Pudong New Area. 
+ CFETS is now located within a new office complex of three-story 
+buildings that would not be out of place in any U.S. suburban 
+high-tech industrial park.  Song explained that CFETS occupied 
+five of the buildings with plans to expand into two more.  He 
+said that one building housed its main offices, another building 
+housed its computer mainframes and technical equipment, and the 
+other three were used for its administrative and technical 
+staff.  CFETS was not entirely relinquishing control to its 
+former prime location.  After a two-year renovation, CFETS 
+executives would return, but the majority of staff would remain 
+in Pudong. 
+ 
+--------------------------------------------- - 
+COMMENT: PLEASE DO NOT LOOK BEHIND THE CURTAIN 
+--------------------------------------------- - 
+ 
+¶13. (SBU) It is clear that CFETS administrators are doing what 
+they can to lay the foundation for a fully-functioning and open 
+forex system and are continually making adjustments, as 
+reflected in plans to upgrade the trading platforms and fee 
+structures to international standards.  Song's assertion that 
+CFETS responds to its customers demonstrates a willingness to 
+learn and adapt.  CFETS likes to claim that the value of the RMB 
+is based purely on the functioning of the free market.  However, 
+the continued lack of transparency in the formula by which the 
+RMB reference price is set every morning highlights the fact 
+that it is China's political leaders who are currently setting 
+the price, not the market. 
+JARRETT

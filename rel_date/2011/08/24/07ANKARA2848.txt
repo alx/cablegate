@@ -1,0 +1,368 @@
+07ANKARA2848
+TURKEY: RESPONSE TO REQUEST FOR INFORMATION ON
+Wed Nov 28 00:00:00 +0100 2007
+UNCLASSIFIED
+Embassy Ankara
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHAK #2848/01 3321554
+ZNR UUUUU ZZH
+P 281554Z NOV 07
+FM AMEMBASSY ANKARA
+TO SECSTATE WASHDC PRIORITY 4466UNCLAS ANKARA 002848 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPT FOR S/CT KEN MCKUNE, NCTC AND DHS 
+ 
+E.O. 12958: N/A 
+TAGS: KVPR PTER PREL PGOV PINR CVIS ASEC KHLS TU
+SUBJECT: TURKEY: RESPONSE TO REQUEST FOR INFORMATION ON 
+INFORMATION COLLECTION, SCREENING AND SHARING 
+ 
+REF: STATE 133921 
+ 
+¶1. (U)  This cable is sensitive but unclassified.  Please 
+handle accordingly.  Post responses are keyed to reftel 
+questions. 
+ 
+¶2. (U) A. Watchlisting (see para 10, below) 
+ 
+¶3. (U) B. Traveler Information Collection. 
+-- Who collects traveler information?  Turkish National 
+Police (TNP) Foreigners Police maintains a machine-readable 
+computer system in order to collect data on entry and exits 
+of travelers with machine-readable passports (MRP) and 
+maintains a database on entry and exit of travelers with 
+non-MRPs, which includes Turkish citizens. 
+ 
+¶4. (U) C. Border Control and Screening. 
+-- Does the host government employ software to screen 
+travelers of security interest?  The Turkish National Police 
+has a computerized database that is used to screen travelers, 
+but we do not know how TNP uses this system or what sources 
+they use to feed intelligence into this system. 
+-- Are all travelers tracked electronically, or only 
+non-host-country nationals?  What is the frequency of 
+travelers being "waived through" because they hold up what 
+appears to be an appropriate document, but whose information 
+is not actually recorded electronically?  What is the 
+estimated percentage of non-recorded crossings, entries and 
+exits?  All travelers, both inbound and outbound, regardless 
+or national origin, to include Turkish citizens, are tracked 
+electronically at all points of entry.  We believe "waived 
+through" seldom occurs at Turkish border Points of Entry. 
+The TNP checks all individuals' identification information 
+for validity, including entry visas, and compares traveler 
+information against TNP's database. An estimate of 
+non-reported border crossings is unknown at this time, but 
+the Turkish Security Directorate has informed the UNHCR and 
+the IOM that approximately 100,000 persons per year 
+enter/exit Turkey illegally by land and sea. 
+-- Do host government border control officials have the 
+authority to use other criminal data when making decisions on 
+who can enter the country? If so, please describe this 
+authority (legislation, mandates, etc).  Unknown at this 
+time.  The EU is working with Turkey on a "Twinning Project" 
+to train and equip border police, which includes enhancing 
+infrastructure and automated equipment and is working closely 
+with them to upgrade border controls.  The Twinning Project's 
+primary aim is to form a constituting basis for the financial 
+contribution of the EU for the necessary legal and 
+institutional reforms, training activities, infrastructure 
+and equipment for integrated border management. 
+-- What are the host government's policies on questioning, 
+detaining and denying entry to individuals presenting 
+themselves at a point of entry into the country?  Which 
+agency would question, detain, or deny entry?  The Border 
+Police officers make the decision to accept or deny entry to 
+any individual based on the validity of their entry documents 
+and information contained in the Turkish database.  The TNP, 
+Ministry of the Interior and the Department of Foreigners, 
+Border, and Asylum work together on acceptance or denial of 
+entry, depending on the nature of each case. 
+-- How well does information sharing function within the host 
+government, e.g., if there is a determination that someone 
+with a valid host-government visa is later identified with 
+terrorism, how is this communicated and resolved internally? 
+Unknown at this time. 
+ 
+¶5. (U) D. Biometric Collection. (see para 11, below) 
+ 
+¶6. (U) E. Passports. 
+-- If the host government issues a machine-readable passport 
+containing biometric information, does the host government 
+share the public key required to read the biometric 
+information with any other governments?  If so, which 
+governments?   Turkey does not issue machine-readable 
+passports.  The TNP, however, does use a computer system that 
+can collect data from machine-readable passports.  For the 
+past three years, the GOT has announced plans to issue 
+machine-readable passports, but they have not begun to issue 
+these passports.  Most recently, on 15 November 2007, the 
+Turkish MOI announced it will issue in 2008 E-passports that 
+operate with an electronic chip and that have pages with 
+figures and pictures that can be seen only under UV light, a 
+measure to reduce use of fraudulent passports. 
+-- Does the host government issue replacement passports for 
+full or limited validity (e.g. the time remaining on the 
+original passports, fixed validity for a replacement, etc.)? 
+The GOT only issues normal passports.  Turkish citizens 
+purchase the period of time they want to have a passport, up 
+to five years.  This will be increased to ten years for full 
+validity when the GOT issues the new machine-readable 
+ 
+passports.  GOT does not issue limited-validity passports, 
+but a Turkish citizen may opt to request a one-year passport, 
+which is extendable for additional years, up to five years, 
+upon request and payment. 
+-- Does the host government have special 
+regulations/procedures for dealing with "habitual" losers of 
+passports or bearers who have reported their passports stolen 
+multiple times?  We do not know if Turkey has special 
+procedures for dealing with habitual losers of passports. 
+-- Are replacement passports of the same or different 
+appearance and page length as regular passports (do they have 
+something along the lines of our emergency partial duration 
+passports)?  There are no emergency partial duration 
+passports. 
+-- Do emergency replacement passports contain the same or 
+fewer biometric fields as regular-issue passports?  No, the 
+same amount of fields as the normal blue passport book 
+because the GOT does not issue emergency replacement 
+passports. 
+-- Where applicable, has Post noticed any increase in the 
+number of replacement or "clean" (i.e. no evidence of prior 
+travel) passports used to apply for U.S. visas?  No. The GOT 
+issues red passports to diplomats; official green passports 
+to certain GOT employees and other family members with 
+certain restrictions.  Since the government pays for these 
+passports, they are often lightly used.  In the case of 
+regular blue Turkish passports, however, it is up to the 
+individual how often he wants to replace it, up to the 
+maximum validity.  Since the fees are very high for Turkish 
+blue passports, with a fee based on a yearly rate, passports 
+are extended only when the individual intends to travel.  In 
+the past three years, post has perceived no change in the 
+number of "clean" passports.  Also, many visa applicants 
+bring their cancelled passports with them to the visa 
+interview to show the record of previous travel. 
+--  Are replacement passports assigned a characteristic 
+number series or otherwise identified?  No. 
+ 
+¶7. (U) F. Fraud Detection. 
+-- How robust is fraud detection and how actively are 
+instances of fraud involving documents followed up?  Post 
+believes that Turkey has robust fraud detection measures in 
+place, and the U.S. Consular Section in Embassy Ankara has 
+coordinated numerous anti-fraud training exchanges with the 
+GOT.  The TNP maintains a Document Forensic Unit which uses 
+modern technology to inspect documents.  The GOT has a 
+history of detaining not just Turkish nationals that it 
+believes are traveling on fraudulent documents, but has 
+detained other nationals, including U.S. citizens, believed 
+to be traveling on fraudulent documents.  As recently as 
+April 2007, the Consular Section coordinated an exchange and 
+training visit of DHS officials to meet with their 
+counterparts in the TNP.  In addition, in 2006, the U.S. 
+Consular staff - American and locally engaged staff - visited 
+the headquarters of the TNP Document Forensic Unit to 
+exchange views on trends in fraud detection. 
+-- How are potentially fraudulently issued documents taken 
+out of circulation, or made harder to use? Unknown. 
+ 
+¶8. (U) G. Privacy and Data Security. 
+--  What are the country's policies on records related to the 
+questioning, detention or removal of individuals encountered 
+at points of entry into the country? How are those records 
+stored, and for how long?  Records of people questioned and 
+detained upon arrival in Turkey are filed in hardcopy for a 
+minimum of five years.  Terrorist suspects' files are 
+maintained for longer (NFI). 
+-- What are the country's restrictions on the collection or 
+use of sensitive data?  There is no comprehensive privacy and 
+data security regime in Turkey.  The Turkish-US legal 
+assistance treaty would govern US access to collected 
+information.  Wiretaps require a warrant from the courts; 
+however, in addition, wiretaps are frequently done by 
+circumventing the courts.  There are legal prohibitions 
+against profiting from the exploitation of personal data and 
+against revealing confidential information.  The relatively 
+new Turkish Republic Identity (T.C. Kimlik) database 
+maintains a record on every citizen, including a national 
+identity/tax number; it is publicly accessible via the 
+internet (see below).  Civil servants are required to submit 
+a confidential Financial Disclosure form every five years to 
+their agency's personnel department.  The country's top 100 
+taxpayers are publicized in the media each year, but it is 
+unlikely that such information is accessible on anyone. 
+Medical records are confidential. 
+-- What are the requirements to provide notice to the public 
+on the implementation of new databases of records?   We are 
+unaware of formal public notification requirements; however, 
+the public is well-informed about some databases relevant and 
+in use by the public.  It is unlikely that government 
+agencies would disclose information about databases to which 
+ 
+the public does not have access. 
+-- Are there any laws relating to security features for 
+government computer systems that hold personally identifying 
+information?  We are unaware of laws related to computer 
+security features.  Every government agency has an IT 
+department responsible for safeguarding and updating 
+protection tools, with varying levels of success. 
+-- What are the rules on an individual's ability to access 
+data that homeland security agencies hold about them?  Every 
+individual may petition any agency to release information 
+under the Law on Access to and Evaluation of Information 
+(2003).  Should the agency refuse to disclose the 
+information, the individual may appeal to an oversight board 
+of 11 (Committee on Access to and Evaluation of Information). 
+ Court cases are in principle open to citizens, and 
+individuals may obtain information on the records, but the 
+lack of centralization and the suspicion on the part of court 
+recordkeepers make access cumbersome. 
+--  Are there different rules for raw data (name, date of 
+birth, etc.) versus case files (for example, records about 
+enforcement actions)?  The rules are agency- or 
+database-dependent.  Raw data on personal information is 
+confirmable on the publicly available website 
+tckimlik.nvi.gov.tr; access to information requires name, 
+date of birth, father's name, mother's name, province and 
+county.  Records on enforcement actions are obtainable by the 
+citizen in question who may present his identity card and 
+obtain his own legal record (these are routinely included in 
+job applications).  The Registry of Deeds is technically 
+available to the public, but there are some obstacles, such 
+as the fact that access can depend on developing personal 
+relationships with the people working there. 
+--  Does a non-citizen/resident have the right to sue the 
+government to obtain these types of data?  A non-citizen 
+would have the same right to petition (and appeal) for 
+information under the Law on Access to and Evaluation on 
+Information.  Non-citizens may use the courts in the host 
+country, but should be aware of bias of the court system in 
+favor of the state. 
+ 
+¶9. (U) H. Immigration Data Bases. 
+-- What computerized immigration databases are used to track 
+entries and exits?  The TNP Passport Control Branch keeps a 
+record of all entries and exits of Turkish citizens and 
+visitors through all ports of entry, including land, sea and 
+airports. 
+-- Is the immigration database available at all ports of 
+entry (POEs)?  Collection is done at all ports of entry, 
+including seaports, land border crossings and airports. 
+-- If immigration databases are available at some POEs, but 
+not all, how does the host government decide which POEs will 
+receive the tool?  All POEs collect data.  Data on visitors 
+is also collected by hotel staff when visitors check into 
+hotels in Turkey. 
+-- What problems, if any, limit the effectiveness of the 
+systems?  For example, limited training, power brownouts, 
+budgetary restraints, corruption, etc.?  Unknown, but all of 
+the problems listed above probably impact the collection 
+system.  The entry/exit data record is held for ten years 
+only.  When Turkish visa applicants are asked by a Consular 
+officer to provide a record of exits and re-entries to 
+Turkey, the TNP Passport Control Officer provides that record 
+to the applicant in one day. 
+-- How often are national immigration databases updated? 
+Records are maintained for 10 years.  Please note that each 
+refugee or asylum seeker is registered by the Foreigners and 
+Border Police.  They keep an open record on refugees and 
+asylum seekers until such time as they depart Turkey. 
+ 
+¶10. (U) I. Watchlist and Information Sharing. 
+--  Is there a name-based watchlist system used to screen 
+travelers at POEs?  Both the TNP and Turkish customs have 
+name-based lists used to screen travelers. 
+--  What domestic sources of information populate the 
+name-based watchlist, i.e. names of deported persons, 
+terrorist lookouts, criminal wants/warrants?  Not known at 
+this time. 
+--  What international watchlists do the host government use 
+for screening individuals, e.g. Interpol or TSA No Fly lists, 
+UN, etc.?  The only international watchlist currently known 
+to be used by the host government is the TSA No Fly list. 
+Private security companies at Istanbul's Ataturk Airport also 
+have access to this list.  The FBI recently offered the TNP 
+an MOU which would allow for the sharing of watchlisting 
+databases and give the TNP access to the Terrorist Screening 
+Center's (TSC) Terrorist Screening Database (TSDB). 
+-- What bilateral/multilateral watchlist agreements exist 
+between host government and its neighbors?  No known 
+bilateral/multilateral watchlist agreements exist between 
+Turkey and its neighbors, although Legatt has been advised by 
+TNP contacts that Turkey is attempting to coordinate such 
+ 
+regional cooperation which would include sharing of 
+watchlisting databases. 
+ 
+¶11. (SBU) J. Biometrics.  The GOT does not currently collect 
+biometrics information from travellers.  The TNP maintains a 
+biometric database, which it is trying to expand.  In April, 
+2007, the FBI proposed a biometrics sharing agreement with 
+the TNP that would allow direct access to the FBI database 
+for known or suspected terrorists.  The FBI is waiting for a 
+reply. 
+ 
+¶12. (SBU) K. Identifying Appropriate Partners.  Turkey would 
+be an appropriate and valuable partner in data sharing; FBI 
+is already pursuing data sharing arrangements through the 
+Terrorist Screening Center.  As a NATO ally with a 
+long-standing indigenous terrorist problem, Turkey is already 
+experienced both in dealing cooperatively with us and in 
+combating terrorism.  As an international terrorist transit 
+country and the site of major al-Qaeda attacks in 2003, 
+Turkey is also a rich source of information on the fight 
+against terror.  At the same time, differences of definition 
+and priorities may complicate a data sharing relationship. 
+Internal sharing may also be a problem. 
+-- Are there political realities which would preclude a 
+country from entering into a formal data-sharing agreement 
+with the U.S? No. 
+-- Is the host country's legal system sufficiently developed 
+to adequately provide safeguards for the protection and 
+nondisclosure of information?  Yes. 
+-- How much information sharing does the host country do 
+internally?  Is there a single consolidated database, for 
+example?  If not, do different ministries share information 
+amongst themselves?  Information sharing across agencies can 
+be a problem.  There is no single consolidated database. 
+Institutional rivalries, particularly among the police and 
+intelligence service, can complicate information sharing and 
+bilateral cooperation. 
+-- How does the country define terrorism?  Are there legal 
+statutes that do so?  Terrorism is defined in the Anti-Terror 
+Law #3713 (TMK, 1991).  "Terrorism" is any kind of criminal 
+act done by one or more persons belonging to an organization 
+with the aim of changing the characteristics of the Republic 
+as specified in the Constitution, its political, legal, 
+social, secular and economic system, damaging the individual 
+unity of its State with its territory and nation, endangering 
+the existence of the Turkish State and Republic, weakening or 
+destroying or seizing the authority of the State, eliminating 
+fundamental rights and freedoms, or damaging the internal or 
+external security of the State, public order or general 
+health using force and violence and by means of pressure, 
+terror, intimidation, oppression or threat."  Thus, the 
+definition of terrorism in Turkey is both too broad and too 
+narrow, per US interests.  It is too broad in that it 
+characterizes many non-terrorist conducts as terror; it is 
+too narrow in that only actions that damage Turkey's own 
+national interest are included.  Therefore, it may be 
+difficult to bring about action against internationally 
+recognized terrorist groups that do not pursue terrorist 
+goals within Turkey.  In addition, Turkey's definition 
+results in a narrow terrorism finance definition, leaving out 
+fundraising by international terrorist groups that do not 
+target the state of Turkey (such as Hamas). 
+ 
+Visit Ankara's Classified Web Site at 
+http://www.state.sgov.gov/p/eur/ankara/ 
+ 
+WILSON

@@ -1,0 +1,235 @@
+05PARIS1520
+France: Telecom and Information Technology Update
+Tue Mar 08 00:00:00 +0100 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 PARIS 001520 
+ 
+SIPDIS 
+ 
+STATE FOR EB/CIP AND INR/B 
+USDOC FOR NTIA AND ITA 
+FCC FOR INTERNATIONAL 
+STATE PLEASE PASS TO USTR 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD FR
+SUBJECT: France: Telecom and Information Technology Update 
+ 
+ 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+¶1. This is another in a series of periodic updates on the 
+French telecommunications and information technology 
+sectors, including internet and e-commerce. 
+ 
+Contents: 
+New CEO named for France Telecom (para 2) 
+France Telecom Announces 2004 Results (para 3) 
+A Victory for ART ... (para 4) 
+... And a Setback (para 5) 
+ART Finds Insufficient Competition in Mobile Phone Market 
+(para 6) 
+Orange and SFR Respond to ART Report (para 7) 
+GOF Selects Standard for Subscription Digital TV (para 8) 
+TF1 Predicts Large Growth in ASDL Subscribers by 2010 (para 
+9) 
+FT Joins Others to Bid for Stake in Czech Telecom Company 
+(para 10) 
+ 
+¶2.  New CEO named for France Telecom: Didier Lombard has 
+been appointed Chairman and CEO of France Telecom (FT), 
+succeeding Thierry Breton, who was appointed French finance 
+minister following the resignation of Herve Gaymard. 
+Lombard, 63, is head of strategy and partnerships at FT, and 
+began his association with the company in 1967.  Breton, who 
+took the helm of FT in 2002, is credited with implementing a 
+three-year recovery plan, now in its final year, and Lombard 
+is expected to continue his predecessor's strategy.  This 
+will be the first time Lombard has run a publicly listed 
+company.  Previously, he was scientific and technical 
+director at the Ministry of Research and Technology, and 
+later general manager of industrial strategy at the Ministry 
+of the Economy, Finance and Industry.  Lombard also helped 
+achieve the creation of STMicroelectronics, a French high- 
+tech sector success, via a Franco-Italian agreement.  In 
+addition to his FT experience, Lombard served as Ambassador- 
+at-Large for international investment at the Ministry of the 
+Economy, Finance and Industry from 1999 to 2003.  According 
+to a source close to the departing Breton, Lombard's 
+appointment is a sign of continuity of corporate strategy, 
+although Lombard will face challenges in maintaining the 
+momentum of recovery initiated by Breton. 
+ 
+¶3.  France Telecom Announces 2004 Results:  France Telecom 
+has announced that its net profit for the 2004 fiscal year 
+was 2.8 billion euros; this was a decline of 13% and smaller 
+than analysts' forecasts of a 3.15 billion euro profit. 
+However, 2005 dividend payments for FY 2004 were 0.48 euro 
+per share, almost twice as high as 2003's 0.25 euro 
+dividend.  Dividend payments in 2005 amounted to a total 
+outlay of 1.2 billion euros.  Investors noted, however, that 
+return on FT shares was only 2%, well below the sector 
+average of 3.8%.  FT has promised to raise its return to the 
+industry average, without providing further details.  During 
+FY 2004, FT saw declines in the fixed-line market that were 
+somewhat compensated by growth in Wanadoo, FT's internet 
+service unit.  In the last quarter of 2004, Wanadoo took 
+41.6% of new subscribers to ASDL internet, giving the 
+company a 46% share of France's 6.3 million ASDL users.  In 
+2005, Wanadoo plans to launch the LivePhone, an internet- 
+compatible telephone that will complement its popular 
+LiveBox modem.  FT also recently sold 8% of its subsidiary 
+PagesJaunes, ceding 22.3 million shares.  FT still remains 
+the largest shareholder in the company, with a 54% stake. 
+ 
+¶4.  A Victory For ART ...:  In a move that may pave the way 
+for increased network access for FT competitors, French 
+telecom regulator ART rejected a fixed charge increase by FT 
+that contained no provisions for greater opening of the 
+market.  The plan submitted by FT would have increased the 
+fixed monthly subscription charge from 13 euros to 15.99 
+euros over the period of 2004 to 2007, while simultaneously 
+reducing pro-rated call charges by 26%.  After consultations 
+with ART, the French government allowed FT to make a one 
+euro increase in monthly subscription charges (to 14 euros), 
+applicable only for 2005.  ART approval of further 
+subscription increases for 2006 and 2007 is contingent upon 
+FT's steps towards allowing greater market access. 
+Competitors wish to see a 30% discount from the monthly 
+retail charge to FT subscribers to establish the monthly 
+wholesale rate that FT charges to competitors who wish to 
+resell FT subscriptions.  (At present, the retail charge is 
+10.87 euros next of taxes, while the wholesale charge is 
+10.50 euros.)  FT has suggested an 8% discount, while ART is 
+pressing for one at least twice as large.  In addition to 
+the increase in monthly residential subscription charges, FT 
+is also planning a 6% increase in subscription fees for 
+professionals.  This new increase, which had been requested 
+by former FT CEO Thierry Breton, has yet to be approved by 
+ART. 
+ 
+¶5. ... And a Setback:  The Conseil d'Etat, France's highest 
+administrative court, ruled that the 2002 tariff scheme 
+imposed on FT by ART lacked transparency.  The scheme 
+applied to the tariffs assessed by FT for the use of its 
+network by competitors.  ART would still like to see these 
+tariffs lowered, but the court's ruling has weakened ART's 
+hand considerably, just as the GOF has given it all future 
+authority to regulate telecom tariffs.  According to the 
+court, ART failed to disclose that in 2002 it changed its 
+calculation method for determining the network unbundling 
+tariff.  The 2002 scheme provided the basis for the one 
+approved by ART and the GOF in January. Although the ruling 
+has no immediate material impact on the company, it makes it 
+possible for FT to sue the French state for indemnity. 
+ 
+¶6.  ART Finds Insufficient Competition in Mobile Phone 
+Market:  In December, ART found that France's three largest 
+mobile operators, Orange, SFR and Bouygues Telecom were 
+colluding to maintain a dominant position in the market that 
+disadvantages competitors.  Of particular concern to ART 
+were the "virtual" mobile companies (MVNO), which lease 
+their mobile infrastructure from the major providers.  In 
+its first analysis of the mobile market, ART maintained that 
+the major operators must set more reasonable access 
+conditions for the MVNOs that wish to use their networks. 
+ART was also unimpressed by the recent profusion of 
+agreements made between the major operators and various 
+MVNOs.  In ART's view, none of the MVNOs have attained the 
+critical size that would give them more influence and 
+leverage via a vis their host operator.  Agreements with 
+MVNOs were thus judged by ART to be insignificant as long as 
+the major operators continue to set conditions of access 
+that prevent the MVNOs from effectively competing in the 
+market.  The fact that Bouygues Telecom has excluded itself 
+from any agreements with MVNOs was taken by ART as a further 
+sign of the unimportance of such deals, and suggested to ART 
+that the three operators have not deviated from their 
+strategy of collusion.  However, ART resisted calls from 
+MVNOs to fix the operators' wholesale charges, responding 
+that the MVNOs would eventually grow and be able to exert 
+such downward pressure themselves. 
+ 
+¶7.  Orange and SFR Respond to ART Report:  Responding to the 
+ART analysis cited above, Orange and SFR had harsh words for 
+ART's conclusions about the level of competition in the 
+mobile phone market.  Orange denounced the report as full of 
+"obvious errors of judgment" that gave a "false and 
+disparaging" picture of the market.  SFR called the report 
+"erroneous and biased," while Bouygues Telecom refused to 
+comment on it.  Orange and SFR insisted that contrary to 
+ART's assessment, competition within the mobile market is 
+very intense, and that this greatly benefits French telecom 
+consumers.  The two companies also criticized ART's 
+dismissal of their agreements with MVNOs, insisting that 
+their access charges are competitive, and that the virtual 
+operators maintain a high level of independence from the 
+host companies. 
+ 
+¶8.  GOF Selects Standard for Subscription Digital TV:  The 
+French government has chosen the MPEG4 standard for 
+broadcasts of subscription digital terrestrial television 
+(DTT), against the recommendation of the audiovisual 
+administrator CSA.  The MPEG2 standard will be used for the 
+13 free DTT channels that will begin broadcasting in March. 
+The MPEG4 standard was reportedly selected for subscription 
+DTT because of its greater signal compression, which will 
+allow several high-definition channels to be launched within 
+two years, in addition to the 31 DTT channels already 
+planned.  According to the GOF, selecting the MPEG2 standard 
+for subscription DTT would have delayed the arrival of high- 
+definition television until 2015.  As a result of the 
+decision to employ two broadcast standards, some short-term 
+difficulties are anticipated for the launch of DTT. 
+Subscription-based and free channels will share broadcast 
+costs, but the smaller signal size of MPEG4 means that 
+subscription channels may ask for a proportionately smaller 
+cost share.  Also, broadcast bouquets currently consist of a 
+mixture of free and subscription channels, but the MPEG4 
+standard is most efficient if it is the sole standard in the 
+bouquet.  Although transmission of the DTT channels is 
+scheduled to start between September 2005 and March 2006, 
+launch delays are possible as the MPEG4 decoders are not yet 
+ready for commercial distribution. 
+ 
+¶9.  TF1 CEO Predicts Large Growth in Television over ASDL: 
+Patrick Le Lay, CEO of TF1, has projected that within five 
+years, 2.5 million French homes will subscribe to free 
+programming via ASDL television, and 1 million homes will 
+have ASDL subscriptions to paid programming.  ASDL providers 
+Neuf Telecom and France Telecom responded that their vision 
+for the future of the ASDL market did not extend past two 
+years.  However, current trends indicate that the figures 
+put forth by Le Lay are highly plausible.  At the end of 
+January 2005, the total number of ASDL subscribers in France 
+cleared the 100,000 hurdle, and FT, which currently has 
+90,000 of those subscribers, hopes to have 210,000 by year's 
+end, while Neuf TV expects to have 100,000 subscribers. 
+Sources project a total of 600,000 paying ASDL subscribers 
+by the end of 2006, with one million by 2010.  Depending on 
+the rate of distribution of Neuf TV modems and Freeboxes, it 
+is also possible that Le Lay's prediction of 2.5 million 
+free programming subscribers by 2010 may indeed come true. 
+ 
+¶10.  FT Joins Others to Bid for Stake in Czech Telecom 
+Company:  FT has joined a consortium to participate in the 
+tender process for Cesky Telecom, the primary telecom 
+operator of the Czech Republic.  Once the Government of the 
+Czech Republic decided that it will sell its 51% stake in 
+Cesky Telecom, France Telecom teamed up with an 
+international consortium of three private investment firms 
+to participate in the tender process of the National 
+Property Fund (NPF) of the Czech Republic.  The value of 
+this majority equity interest is estimated at $2.6 billion, 
+according to news reports, which also noted that the Czech 
+telecom company successfully turned a 2003 operating loss 
+around in 2004 through growing sales and consolidation of 
+its highly profitable mobile division.  Besides France 
+Telecom, the consortium includes the Blackstone Group, CVC 
+Capital Partners and Providence Equity Partners Inc.  Should 
+their bid be successful, FT would enter into a strategic 
+partnership with Cesky Telecom via a minority stake in the 
+consortium. 
+ 
+Leach

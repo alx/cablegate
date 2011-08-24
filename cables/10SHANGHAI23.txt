@@ -1,0 +1,305 @@
+10SHANGHAI23
+CHINA CAUTIOUS ON DERIVATIVES, SHUTTING OUT FOREIGN BANKS
+Fri Jan 22 00:00:00 +0100 2010
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Shanghai
+VZCZCXRO4785
+RR RUEHCN RUEHGH
+DE RUEHGH #0023/01 0220737
+ZNR UUUUU ZZH
+R 220737Z JAN 10
+FM AMCONSUL SHANGHAI
+TO RUEHC/SECSTATE WASHDC 8496
+INFO RUEHBJ/AMEMBASSY BEIJING 3263
+RUEHCN/AMCONSUL CHENGDU 2356
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEATRS/DEPT OF TREASURY WASHINGTON DC
+RUEHGZ/AMCONSUL GUANGZHOU 0813
+RUEHHK/AMCONSUL HONG KONG 2528
+RUEHLO/AMEMBASSY LONDON 0063
+RUEHML/AMEMBASSY MANILA 0151
+RHEHAAA/NATIONAL SECURITY COUNCIL WASHINGTON DC
+RUEHFR/AMEMBASSY PARIS 0042
+RUEHUL/AMEMBASSY SEOUL 0653
+RUEHSH/AMCONSUL SHENYANG 2347
+RUEHGP/AMEMBASSY SINGAPORE 0315
+RUEHIN/AIT TAIPEI 2145
+RUEHKO/AMEMBASSY TOKYO 0864
+RUEHGH/AMCONSUL SHANGHAI 9163UNCLAS SECTION 01 OF 04 SHANGHAI 000023 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPT FOR EAP/CM 
+NSC FOR MEDEIROS, LOI, SHRIER 
+STATE PASS USTR FOR STRATFORD/WINTER/MCCARTIN/KATZ/MAIN 
+USDOC FOR ITA DAS KASOFF, MELCHER, SZYMANSKI, MAC/OCEA 
+TREASURY FOR OASIA/INA -- DOHNER/HAARSAGER/WINSHIP 
+TREASURY FOR IMFP -- SOBEL/CUSHMAN 
+STATE PASS CEA FOR BLOCK 
+STATE PASS CFTC FOR OIA/GORLICK 
+MANILA FOR ADB USED 
+PARIS FOR US/OECD 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN EINV PGOV CH
+SUBJECT: CHINA CAUTIOUS ON DERIVATIVES, SHUTTING OUT FOREIGN BANKS 
+ 
+REF: A. A) 09 SHANGHAI 401 
+     ¶B. B) 09 SHANGHAI 185 
+ 
+¶1.  (SBU) Summary:  Chinese government regulators remain 
+generally cautious of introducing new derivatives products in 
+China, and some continue to seek to restrict products previously 
+offered by foreign-invested banks.  Foreign banks remain largely 
+shut out of the market for foreign exchange swaps and interest 
+rate swaps.  Foreign banks are also disappointed with progress 
+so far on granting them permission to trade and underwrite 
+Chinese corporate bond offerings.  End Summary. 
+ 
+========== 
+Background 
+========== 
+ 
+¶2.  (SBU) Visiting Treasury Department International Economist 
+Benjamin Cushman met with several Shanghai-based contacts on 
+China's derivative markets December 15-16.  These included Frank 
+Sirna, chief financial officer, and Paulus Mok, head of markets 
+and country treasurer, Citi China; Zhang Xiaogang, R&D head, 
+China Financial Future Exchange (CFFE); Chao Kejian, head of the 
+Offering & Listing Department, Shanghai Stock Exchange; David 
+Liao, managing director and head of global markets, HSBC China; 
+Racky Shum, executive director, credit & rates markets, China, 
+and head of rates trading, J.P.Morgan Chase China; and Raymond 
+Yin, executive director, Gaohua Securities (a joint venture with 
+Goldman Sachs). 
+ 
+¶3.  (SBU) Chinese banks on September 16 began requiring 
+foreign-invested locally incorporated banks to supply guarantees 
+from their parent bank holding companies as a precondition to 
+signing a new version of a derivatives trading "master 
+agreement".  (See ref A.)  The new request from Chinese banks 
+came against a backdrop of increased caution on the part of both 
+Chinese regulators and Chinese banks regarding the riskiness of 
+counterparties and of derivative products.  Few foreign banks 
+supplied a parent-company guarantee by the deadline for 
+concluding the new master agreements.  Also in September, 
+China's State-Owned Assets Supervision and Administration 
+Commission (SASAC) announced that it would support Chinese 
+state-owned companies wishing to renege on what SASAC described 
+as improper derivatives contracts. Starting in spring 2009, many 
+foreign firms have expressed concern regulators are moving 
+slowly on opening the Chinese corporate bond market.  (See ref 
+B.) 
+ 
+========================================= 
+Regulators Remain Cautious on Derivatives 
+========================================= 
+ 
+¶4.  (SBU) Chinese government regulators remain generally 
+cautious about introducing new derivatives products in China, 
+and some continue to seek to restrict products previously 
+offered by foreign-invested banks.  A Chinese financial official 
+noted that the Central Government is still focused on 
+implementing the economic stimulus package and assuring growth, 
+and has no time to develop derivatives markets.  A manager in a 
+foreign-invested locally incorporated bank said that regulators 
+are pushing back timetables for new products in the aftermath of 
+the financial crisis.  Several noted that Chinese retail 
+investors do not understand the risks of the market, and 
+regulators are taking time to build in protections for them. 
+ 
+¶5.  (SBU) CFFE officials said that top Chinese leaders still 
+have not given the go-ahead for what is expected to be the 
+exchange's first product -- stock market index futures -- after 
+ 
+SHANGHAI 00000023  002 OF 004 
+ 
+ 
+three years of mock trading.  (Note:  On January 8, Chinese 
+media reported that the State Council has endorsed in principle 
+the launch of stock index futures, with regulators suggesting 
+final preparations could take three months.  End note.)  Since 
+the financial crisis broke out, CFFE has been developing 
+"investor suitability regimes" that weed out unsophisticated 
+retail investors and attract institutional investors. CFFE 
+officials were concerned that investors would be unable to 
+distinguish the differences between a futures contract and a 
+share.  Investors will probably have to demonstrate a 
+significant net worth (at least RMB500,000 to invest), pass a 
+test on futures trading, and first participate in mock trading. 
+In addition, investors will most likely be required to put down 
+a 12 percent margin on trades, rather than the 10 percent 
+previously considered. 
+ 
+¶6.  (SBU) Several contacts commented on a newly proposed 
+clearinghouse for spot currency trades and over-the-counter 
+(OTC) derivative deals, which regulators hope will provide 
+better information on exposures among market players.  One 
+Chinese financial official said the clearinghouse is being 
+pushed by the People's Bank of China (PBOC), and shareholders 
+will include the China Foreign Exchange Trading System (CFETS -- 
+a PBOC-sponsored platform for foreign exchange trading, RMB 
+lending and bond trading, and other financial transactions), the 
+Ministry of Finance (MOF), and China Government Securities 
+Depository Trust & Clearing Co., Ltd.  (a clearinghouse for 
+bonds established by PBOC and MOF).  However, details remain 
+sparse.  Another noted the difficulty of posting OTC 
+transactions on CFETS, since the frequently one-off OTC deals 
+can't be quantified according to the usual standards; also, 
+public posting leads to copycatting that drives down profit 
+margins. 
+ 
+============================================= ===== 
+Stand-Off on Derivatives Master Agreements Continues 
+============================================= ===== 
+ 
+¶7.  (SBU) Foreign-invested locally incorporated banks remain 
+largely shut out of the market for foreign exchange swaps and 
+interest rate swaps, say our contacts.  Several point to Bank of 
+China (BOC) as the source of the difficulties, since BOC was 
+"burned" on several foreign exchange deals and has the largest 
+forex exposure of the major Chinese banks.  For instance, BOC 
+held off signing any bilateral bank-to-bank agreements on the 
+terms of derivatives trades (known as a "master agreement") 
+until the deadline of September 16, 2009, and on that day signed 
+with several -- all Chinese banks.  Some foreign bankers pointed 
+to a related, but more systemic, problem:  Chinese banks, 
+including BOC, are not adept at handling collateral that 
+foreign-invested banks are willing to use to backup their 
+derivatives trades. 
+ 
+¶8.  (SBU) While foreign-invested locally incorporated banks are 
+not able to carry on derivatives trades as before, our contacts 
+hold different perspectives on how this impacts their bottom 
+line.  One foreign banker asserted derivatives trading is down 
+by 30 percent since the September 16 deadline passed.  Another 
+said liquidity in the market is down, and hedging is more 
+expensive, but that since the renminbi exchange rate has 
+remained pegged to the U.S. dollar in recent months, part of the 
+drop off in transactions reflects less need for hedging.  Two 
+contacts pointed out that transaction volume may actually be as 
+high or higher than previously because foreign banks are using 
+"bridge banks" -- smaller local banks with which they have 
+signed master agreements -- and therefore more transactions are 
+ 
+SHANGHAI 00000023  003 OF 004 
+ 
+ 
+recorded to complete each deal.  A third foreign banker noted 
+that the onshore market in China is tiny compared to the 
+offshore market, where Chinese banks continue to deal 
+derivatives with foreign banks even without a master agreement. 
+ 
+¶9.  (SBU) An executive at one foreign-invested locally 
+incorporated bank said that resolving the derivatives master 
+agreement issues is the "critical, number one issue to be 
+resolved in 2010."  Several noted that discussion will be taken 
+up by the National Association of Financial Market Institutional 
+Investors (NAFMII), a nominally self-regulatory industry body 
+that is a spin-off from the PBOC.  Two contacts said that the 
+China Banking Regulatory Commission (CBRC) has been very 
+supportive of a resolution.  In the end, said one foreign 
+banker, market demand for hedging instruments may play the 
+crucial role. 
+ 
+============================================= ====== 
+Threats to Renege on Derivatives Contracts Receding 
+============================================= ====== 
+ 
+¶10.  (SBU) SASAC in September 2009 stirred up concerns that it 
+was encouraging state-owned enterprises (SOEs) to refuse to pay 
+when derivatives contracts turned against them, but our contacts 
+now see little chance that this will happen.  Several contacts 
+pointed to a November 30 speech by SASAC Vice Chairman Li Wei as 
+helping to calm the waters.  That said, SOEs are clearly 
+becoming more cautious about taking on risky derivatives, with 
+one banker with a major foreign-invested derivatives player 
+saying his bank had not written a structured deal in six months. 
+ Another foreign banker said that he would not be surprised, 
+however, if one or two SOEs reneged on a derivatives contract 
+because the contract was entered into irregularly.  (Note: 
+According to Chinese regulations, a person signing a derivatives 
+contract on behalf of a corporation must have proper authority 
+from the company's board of directors, the derivative must fit 
+into the company's overall risk-management strategy, and the 
+hedge must be used in a real transaction.  End note.) 
+ 
+¶11.  (SBU) Our contacts pinned blame on both the banks and the 
+firms involved in the derivatives contracts for some unadvisable 
+deals.   Chinese companies were taking on more risk because they 
+saw only profits for several years, said several contacts.  In 
+some cases, firms were doubling or tripling down on their bets, 
+hoping to make even greater gains.  When the market turned, the 
+profits evaporated and firms were in over their heads because 
+some unscrupulous deals allowed for unlimited losses by the 
+firms.  "There were a lot of inappropriate trades," said a 
+banker with one major foreign player.  At the same time, another 
+foreign banker noted that now some of the problem contracts 
+turned profitable again for the SOEs in December, and they have 
+since stopped complaining.  (Note:  One foreign banker said that 
+if the yen falls below 88 to the U.S. dollar, many SOEs who have 
+signed derivatives contracts betting it would stay above 88 
+would begin to lose large amounts of money.  End note.) 
+ 
+============================================= === 
+Foreign-Invested Banks Blocked from Bond Trading 
+============================================= === 
+ 
+¶12.  (SBU) Foreign-invested locally incorporated banks are 
+disappointed with progress so far on granting them permission to 
+underwrite Chinese corporate bond offerings on the interbank 
+market.  Blame is placed on NAFMII, which has been sitting on 
+the implementing rules for underwriting corporate bonds since 
+early this year.  One foreign banker says NAFMII -- which is 
+ 
+SHANGHAI 00000023  004 OF 004 
+ 
+ 
+composed of industry players -- is seeking to limit competition. 
+ While two foreign-invested banks are represented in NAFMII, 
+representatives of these banks say they are outvoted by the 
+domestic NAFMII members when it comes to expanding the number of 
+competitors allowed into the bond underwriting market.  Several 
+of our foreign banking contacts affirm they are eager to get 
+into this potentially lucrative segment. 
+ 
+¶13.  (SBU) Meanwhile, approval for foreign-invested banks to 
+underwrite financial bonds is required from the PBOC Financial 
+Markets Division, said one foreign banker, and the criteria for 
+such approval remains unclear.  HSBC has participated in a 
+financial bond offering, but the circumstances may not be 
+applicable as a precedent.  Our HSBC contact says HSBC was a 
+sub-underwriter on the bond issue of Bank of Shanghai, in which 
+HSBC has investments; given this close corporate tie, HSBC 
+applied to the lead underwriter, Industrial and Commercial Bank 
+of China (ICBC), and ICBC accepted.  Thus, the regulatory issue 
+still has not been fully resolved at PBOC.  CBRC, on the other 
+hand, has recently taken a more open stance, according to our 
+contacts, in particular Li Fuan, head of the banking innovation 
+supervision department. 
+ 
+======= 
+Comment 
+======= 
+ 
+¶14.  (SBU) The go-slow approach Chinese financial regulators are 
+taking on derivative products is a predictable, and in some ways 
+understandable, reaction to the turmoil in Western financial 
+markets.  For Chinese regulators, the connection is clear -- in 
+his November 30 speech, SASAC vice chairman Li Wei states 
+categorically that "The high leveraging of financial derivatives 
+is a direct cause of the U.S. subprime loan crisis developing 
+into a global financial crisis."  However, both Chinese and 
+foreign-invested financial institutions point out that hedging 
+to facilitate business transactions is useful, while speculative 
+hedging is more like gambling.  In order to help advance the 
+national goal of building Shanghai into an international 
+financial center by 2020, the Shanghai Stock Exchange, for 
+instance, needs to offer foreign investors a simple stock index 
+future.  At present, the CBRC appears to be on the side of 
+further market opening, while NAFMII and to a lesser extent 
+PBOC, are slowing progress. 
+ 
+¶15.  (SBU) The Department of Treasury has cleared on this cable. 
+CAMP

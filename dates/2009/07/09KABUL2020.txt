@@ -1,0 +1,285 @@
+09KABUL2020
+Using Connection Technologies to Promote US Strategic
+Thu Jul 23 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Kabul
+VZCZCXRO4556
+PP RUEHDBU RUEHIK RUEHPOD RUEHPW RUEHSL RUEHYG
+DE RUEHBUL #2020/01 2041121
+ZNR UUUUU ZZH
+P 231121Z JUL 09
+FM AMEMBASSY KABUL
+TO RUEHC/SECSTATE WASHDC PRIORITY 0337
+INFO RUEATRS/DEPT OF TREASURY WASHINGTON DC 0851
+RUCNAFG/AFGHANISTAN COLLECTIVE
+RUEHZG/NATO EU COLLECTIVE
+RUEABND/DEA HQS WASHINGTON DC
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEHNR/AMEMBASSY NAIROBI 0068UNCLAS SECTION 01 OF 04 KABUL 002020 
+ 
+DEPT FOR SRAP, SCA/FO, SCA/RA, AND SCA/A 
+DEPT PASS FOR AID/ANE 
+DEPT PASS USTR FOR DELANEY AND DEANGELIS 
+DEPT PASS OPIC FOR MORRIS 
+DEPT PASS FOR TDA FOR STEIN AND GREENIP 
+USOECD FOR ENERGY ATTACHE 
+CENTCOM FOR CSTC-A 
+NSC FOR JWOOD 
+TREASURY FOR MHIRSON, ABAUKOL, AWELLER, AND MNUGENT 
+COMMERCE FOR HAMROCK-MANN, DEES, AND FONOVICH 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+ 
+E.O.  12958 N/A 
+TAGS: ECIN ECPS ETRD EINV EFIN AF
+SUBJECT: Using Connection Technologies to Promote US Strategic 
+Interests in Afghanistan:  Mobile Banking, Telecommunications 
+Insurance, and Co-Location of Cell Phone Towers 
+ 
+REF: A) Kabul 268 
+ 
+¶1.  (SBU) SUMMARY: In a series of meetings from July 8-12, 
+Ambassador Wayne, Coordinating Director for Development and Economic 
+Affairs, visiting SRAP Special Advisor Ashley Bommer, S/P staffer 
+Jared Cohen, and Econoff met with officials from Roshan 
+Telecommunications Company, Afghan Wireless Communications Company 
+(AWCC), US Forces-Afghanistan's strategic communications staff, Da 
+Afghanistan Bank (the central bank), and the Ministry of 
+Communications and Information Technology (MCIT) to discuss three 
+innovative proposals for telecommunications development: a) mobile 
+phone banking; b) an insurance scheme for mobile service providers 
+(MSPs); c) and placement of mobile phone towers and other 
+infrastructure on secure locations like Forward Operating Bases 
+(FOBs), other coalition forces' installations, and Afghan government 
+secured bases.  Government of the Islamic Republic of Afghanistan 
+(GIRoA) officials were largely supportive of these proposals, but 
+noted some potential concerns including MSP reliability, lack of an 
+information communication technology LAN, and insurgent threats to 
+MSP employees outside of secure bases.  Roshan, the largest mobile 
+service provider with a claimed 40% market share, enthusiastically 
+supports these proposals and is poised to develop agreements with 
+the USG and GIRoA in order to begin implementation.  Embassy 
+supports development of all these new communications technologies 
+and will work to bring all key GIRoA stakeholders into discussions. 
+The visitors from SRAP and S/P have been working hard and well to 
+make progress on these issues.  END SUMMARY. 
+ 
+******************************** 
+Mobile Banking:  Bringing Modern 
+Banking to Rural Communities 
+******************************** 
+ 
+¶2. (SBU) BACKGROUND: Mobile banking is progressing rapidly in 
+Afghanistan where the large majority of the population remains 
+unbanked.  In mobile banking, customers can transfer money using SMS 
+communication.  Recipients then collect payments through certified 
+mobile banking agents (reftel).  Roshan, so far the only provider, 
+has 50,000 customers to date in its now eight-month old M-Paisa 
+program.  USAID is partnering with Roshan to support a mobile 
+banking pilot program where microfinance institutions can partner 
+with Roshan agents to collect microfinance loan payments.  Currently 
+there are only 300 commercial bank branches and 150 microfinance 
+institution branches in all of Afghanistan.  Most of these branches 
+are located in provincial capitals.  Marrying mobile banking and 
+microfinance loan payments offers hope for reducing the cost of 
+delivering financial services in Afghanistan and reaching 
+underserved rural populations where the construction of a brick and 
+mortar branch is cost prohibitive. 
+ 
+¶3. (SBU) Roshan currently has a pilot project with the Ministry of 
+Interior to issue salary payments using M-Paisa to Afghan National 
+Police in Wardak province.  Roshan officials told Econoff that they 
+have received numerous requests from other GIRoA agencies for pilot 
+salary dispersal programs.  Roshan said the Ministry of Energy and 
+Water is interested in developing a system for paying energy bills 
+using M-Paisa.  US Forces-Afghanistan (USFOR-A) is interested in 
+using mobile banking for salary payments to contractors.  Despite 
+this enthusiastic response, Roshan complains that the central bank 
+is inhibiting M-Paisa expansion by arbitrarily limiting the number 
+of M-Paisa agents to 500 and only authorizing one pilot program at a 
+time with GIRoA agencies. 
+ 
+¶4. (SBU) In a July 12 meeting with Ambassador Wayne, S/P's Cohen, 
+USAID, and Roshan officals, and Da Afghanistan Bank (DAB) Governor 
+Fitrat expressed strong support for mobile banking programs, but the 
+Governor cautioned that such nonconventional banking programs carry 
+a risk that funds will flow into the hands of insurgent or criminal 
+groups.  Fitrat noted that his main concern is the accountability 
+and security of the system of agents and of the user registration 
+system, since SIM cards are sold indiscriminately.  Roshan and USAID 
+explained that mobile banking agents are carefully vetted.  Roshan 
+ 
+KABUL 00002020  002 OF 004 
+ 
+ 
+said they use established businesses and require their agents to 
+have a float of 12,500-100,000 Afghanis (about 250 USD to 2,000 USD) 
+depending on the region in order to ensure that customers will be 
+able to withdraw money as needed.  Roshan also said that they 
+require M-Paisa customers to register for the service with 
+government-issued identification, and there can only be one M-Paisa 
+account per ID number. 
+ 
+¶5. (SBU) Governor Fitrat appeared increasingly reassured by the 
+security features of the M-Paisa service.  In an important 
+concession, Fitrat said that MSPs would be allowed to use banks, 
+microfinance institutions, and the newly-licensed "hawala" network 
+in addition to the 500-1,000 agents that DAB regulations allow each 
+MSP.  Fitrat also agreed to facilitate a meeting between financial 
+institutions and mobile service providers to discuss their future 
+collaboration.  Governor Fitrat said that though Roshan is the most 
+responsible actor in telecommunications in terms of security and 
+accountability, the other MSPs are not as reliable.  Fitrat stated 
+that he intends to implement a "friendly" regulatory framework for 
+mobile banking in order to minimize fallout associated with larger 
+scale implementation as Roshan expands into the market and other 
+MSPs offer the service.  Fitrat is keen to review the Kenyan central 
+bank's recent mobile banking regulations as an example for 
+Afghanistan and was also examining relevant Philippine regulations. 
+ 
+ 
+¶6. (SBU) Minister of Communications and Information Technology 
+Amirzai Sangin told Ambassador Wayne and S/P's Cohen on July 12 that 
+though the Ministry strongly supports mobile banking, GIRoA needs an 
+information communication technology law that would institute a 
+legal framework for SMS communications.  (NOTE:  The current 
+telecommunications law only covers voice communications and basic 
+data services.  END NOTE).  MCIT has drafted an ICT law and is 
+waiting for the Ministry of Justice to give final approval before it 
+goes to the full cabinet and then Parliament.  Additionally, 
+Minister Sangin noted that Afghanistan does not have an encryption 
+or digital signature system (Afghanistan currently used VeriSign), 
+which could make mobile banking customers vulnerable to fraud. 
+ 
+*********************************** 
+Insuring Cell Phone Infrastructure: 
+Critical Stakeholders Moving Forward 
+************************************ 
+ 
+¶7. (SBU) BACKGROUND: Since February 2008 wireless providers have 
+suffered losses in revenue and equipment due to attacks on cell 
+towers primarily in the South.  Recently, insurgents destroyed a 
+Roshan tower in Helmand.  On average, such a loss costs the provider 
+$200,000 per tower.  The Overseas Private Investment Corporation 
+(OPIC) and the MSPs, particularly Roshan, have discussed setting up 
+a facility to provide insurance for operators against insurgent 
+attacks on cell phone towers.  Since insurgents demand that MSPs 
+power down towers at night in Helmand and Kandahar provinces or 
+suffer attacks, the MSPs believe an insurance scheme will mitigate 
+their risk in investing further in infrastructure in the South and 
+incentivize them to keep towers operating when faced with insurgent 
+threats.  Keeping cell phone towers operating at all times will give 
+rural populations access to this important communication network and 
+erode the Taliban's power to intimidate rural communities.  The 
+companies are lobbying heavily and have enlisted OPIC and USG 
+support in developing the insurance program.  SRAP's Bommer and 
+S/P's Cohen have been working very hard to address this issue. 
+ 
+¶8. (SBU) The MSPs say they need seed money to set up the insurance 
+facility and they have identified the Telecom Development Fund (TDF) 
+as the best source.  The TDF is controlled by the Afghanistan 
+Telecommunications Regulatory Agency (ATRA) by law and is supposed 
+to support the expansion of rural telecom access.  Currently, 
+wireless providers pay a monthly 2.5% revenue tax to support the 
+TDF, and it is estimated that the TDF currently has $18-25 million. 
+To date, MCIT has not spent any of these funds for the purpose of 
+telecom development.  The mobile telecom providers led by Roshan aim 
+ 
+KABUL 00002020  003 OF 004 
+ 
+ 
+to gain control of part or all of this fund for the insurance 
+scheme. 
+ 
+¶9. (SBU) In prior meetings, MCIT and ATRA were reluctant to allow 
+the companies to use the TDF without Presidential or Parliamentary 
+intervention.  However, on July 12, Minister Sangin told Ambassador 
+Wayne that he supports the insurance scheme and that MCIT and ATRA 
+agree in principle to allow the MSPs to use some of the TDF as a 
+no-interest loan for seed money for the insurance pool.  Minister 
+Sangin noted that the TDF law stipulates that ATRA has the authority 
+to change the amount of the revenue tax paid into the TDF. 
+Furthermore, MCIT and ATRA agree in principle to reduce the TDF 
+revenue tax to 2.0% with the other 0.5% to go into the insurance 
+pool.  They also stated that the MSPs could repay the TDF loan as 
+the insurance pool grows and did not specify any time frame by which 
+the MSPs were required to repay the loan. 
+ 
+¶10. (SBU) Though ATRA Chairman Zakaria Hassan appeared more 
+supportive than in prior discussions, he cautioned that the 
+companies want to take out more money from the TDF than ATRA is 
+willing to allow.  Hassan also said that ATRA, MCIT and the MSPs 
+need to work out an agreement to administer the insurance pool. 
+Sangin noted that there are few insurance companies in Afghanistan 
+and that the largest, the Insurance Company of Afghanistan (ICA), 
+has little capacity to work in such a high revenue sector as 
+telecommunications.  Ambassador Wayne countered that we could 
+explore what USG resources could be brought to bear to provide 
+capacity-building training for ICA.  In the meantime, ATRA has 
+promised to consult the MSPs and make a final decision in the coming 
+weeks.  Roshan is working on drafting a memorandum of understanding 
+(MOU) between GIRoA, the OPIC, an as-yet unnamed insurance company, 
+and the four MSPs. 
+ 
+********************** 
+Using Secure Locations 
+For Cell Phone Towers 
+********************** 
+ 
+¶11. (SBU)  From July 8-11, SRAP Special Advisor Ashley Bommer and 
+S/P staffer Jared Cohen met with US Forces-Afghanistan (USFOR-A) 
+officials and the mobile service providers to discuss the 
+possibility of placing telecommunications towers on US Military's 
+Forward Operating Bases (FOBs) or other secure locations.  Roshan is 
+keen to develop this partnership with the USG and sees it as a way 
+to promote mutual security, communications, and commercial 
+strategies for Afghanistan.  At present, Roshan and USFOR-A are 
+drafting an MOU for the co-location agreement.  Under the proposed 
+draft agreement, USFOR-A would erect the towers and Roshan would 
+lease space.  USFOR-A would be responsible for providing electricity 
+supply and Roshan would be responsible for providing the equipment. 
+A percentage of the proceeds from the lease agreement would go to 
+the local community where the towers are located and Roshan would 
+work to eventually transfer ownership of the towers to the local 
+community. 
+ 
+¶12. (SBU) Although Roshan officials told USG officials that they are 
+ready to sign an agreement with USFOR-A, the other three MSPs have 
+demonstrated only mild interest.  Afghan Wireless Communication Co 
+(AWCC) was the only other provider represented at the meetings. 
+Though AWCC Managing Director Amin Ramin told Emboff that they were 
+interested in the proposal, Ramin stopped short of agreeing to 
+partner with the USG.  Minister Sangin told Ambassador Wayne that he 
+supports the concept but does not believe that building towers on 
+secure locations will solve the threat issue because the insurgents 
+do not threaten companies when they are building towers.  He said 
+companies face insurgent threats when they are transporting 
+equipment and workers to cell tower sites.  Sangin said an alternate 
+plan would be to have movable cell towers in reserve as available 
+replacements when insurgents attack cell towers. 
+ 
+¶13. (SBU) COMMENT: These three proposals together make an ambitious 
+plan to promote stable and secure telecommunications using new 
+ 
+KABUL 00002020  004 OF 004 
+ 
+ 
+"connection" technologies in Afghanistan.  We support their 
+development and advocate bringing all key Afghan government 
+stakeholders to discussions.  The Ministries of Interior and Defense 
+have not so far been included in discussions about co-locating cell 
+towers on secure locations but will need to be brought into the 
+discussion.  We are confident that the central bank will allow 
+expansion of mobile banking in the near future.  MCIT and ATRA's 
+growing support for using the TDF for the insurance scheme is an 
+encouraging development.  However, since ATRA is independent from 
+MCIT and the TDF is solely under ATRA's control, Sangin cannot 
+compel ATRA to release the funds if ATRA still has reservations 
+about the amount of money taken out of the TDF.  If ATRA continues 
+to raise opposition to rolling out the insurance scheme, overriding 
+it would require high-level USG engagement to secure a presidential 
+decree.  END COMMENT 
+ 
+EIKENBERRY

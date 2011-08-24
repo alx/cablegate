@@ -1,0 +1,209 @@
+07PARIS2
+French telecom officials discuss next generation network
+Wed Jan 03 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXRO7641
+RR RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHFR #0002/01 0030556
+ZNR UUUUU ZZH
+R 030556Z JAN 07
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 3979
+INFO RUCPDOC/USDOC WASHDC
+RUEAFCC/FCC WASHDC
+RUEAWJA/DEPARTMENT OF JUSTICE WASHDC
+RUCNMEM/EU MEMBER STATESUNCLAS SECTION 01 OF 03 PARIS 000002 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EB/CIP TFINTON, EUR/WE JLARREA, AND EUR/ERA DLIPPEAT 
+USDOC FOR NTIA CSPECK AND ITA JBURTON 
+STATE PASS FTC FOR SMCDONALD AND HSTEVENSON 
+FCC FOR INTERNATIONAL TWEISLER 
+STATE PLEASE PASS TO USTR JMCHALE/KSCHAGRIN 
+JUSTICE FOR KWILLNER 
+BRUSSELS FOR JUNDERWOOD 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD FR
+SUBJECT: French telecom officials discuss next generation network 
+regulation, spectrum management and customer service 
+REF:  Paris 7728 
+ 
+Summary 
+------- 
+ 
+¶1. (SBU) French telecom regulator ARCEP is using persuasion to 
+cajole telecommunications operators that are constructing next 
+generation fiber optic telecom networks to rent their infrastructure 
+to competitors ("unbundle the local loop").  While historic operator 
+France Telecom is resisting, their competitor, the Iliad Group, has 
+offered to do so.  The Senate has amended a bill providing for the 
+conversion of television from analog to digital.  Rather than ARCEP 
+and the broadcast regulator deciding how to reuse the spectrum 
+formerly earmarked for analog television, a parliamentary-led group 
+would do so.  The National Assembly must agree before this change is 
+made permanent.  The GOF is considering a law that would facilitate 
+class action lawsuits in the telecom sector, as well as eliminate 
+charges consumers pay while waiting for telecom customer service 
+representatives to answer the phone.  End summary. 
+ 
+¶2. (U) On December 13, 2006 Embassy econoff met French Electronic 
+Communications and Postal Regulator ARCEP European Regulatory 
+Framework Implementation General Directorate Aurelie Doutriaux, 
+International Division Director Anne Lenfant, and International 
+Division Deputy Director Joel Voisin-Ratelle.  ARCEP officials 
+discussed the deployment of next generation high-speed optical fiber 
+networks, the upcoming changes in French spectrum management, and 
+consumer protection. 
+ 
+Next generation networks: the infrastructure challenge 
+--------------------------------------------- --------- 
+ 
+¶3. (SBU) Doutriaux, the highest ARCEP official present, set the 
+scene by describing ARCEP's approach to regulation of next 
+generation networks.  ARCEP had called for operators to cooperate 
+and share the burden of investing in fiber access networks.  She 
+pointed us to a speech delivered at the IDATE (Institut de 
+l'Audiovisuel et des Telecommunications en Europe) Conference on 
+November 16 by ARCEP Chairman Paul Champsaur, in which he estimated 
+the cost of a national roll-out of such a network at "several tens 
+of billions of euros" over a decade.  As a solution, ARCEP would 
+encourage the pooling of civil engineering infrastructure work and 
+of the cabling of buildings.  To promote this policy, ARCEP is part 
+of a working group that the ministries of industry and housing 
+established, which also includes telecommunications operators and 
+property management representatives. 
+ 
+Next generation networks: the competition challenge 
+--------------------------------------------- ------ 
+ 
+¶4. (SBU) At the same time, Doutriaux stressed that ARCEP's 
+preference is for fiber networks that are open to alternative 
+operators (point-to-point access) to prevent monopolies.  To that 
+effect, ARCEP, in June 2005, established the Public Initiatives 
+Networks Committee (French acronym CRIP), a consultative body of 
+local authorities and network operators to make proposals on "how to 
+combine the quick extension of fiber and preserve the future of 
+competition."  Through increased dialogue between local network 
+operators and local authorities, ARCEP hopes to avoid the regulatory 
+problems that have surrounded the plans of Deutsche Telekom (DT) to 
+exclude competitors from its fiber networks on grounds that DT 
+should be allowed to recoup its 3 billion euro investment. 
+ 
+¶5. (SBU) So far, only the Illiad Group, owner of telecom operator 
+FREE, has announced that its fiber infrastructure would be open to 
+alternative operators on a wholesale basis.  Doutriaux noted that 
+Illiad chose to allow other operators to use its fiber network 
+without any pressure from ARCEP.  Illiad will be offering high-speed 
+broadband over its own fiber optic network in Paris starting in the 
+first half of 2007.  (Free already operates a 20 MB ADSL service 
+throughout most large French metropolitan areas.)  Free announced 
+that it would spend one billion euros between 2008 and 2012 to 
+construct a fiber optic network in France. 
+ 
+¶6. (SBU) France Telecom (FT), on the other hand, has been very 
+cautious about very high broadband development, Doutriaux continued, 
+and is not making its network available to competitors, opting 
+instead for a Passive Optical Network (PON), which allows no 
+unbundling.  FT launched a pilot project in certain areas of Paris 
+last July reaching 500 customers and plans to deploy its fiber 
+network by March 2007 in Paris.  By June 2007, it plans to start 
+ 
+PARIS 00000002  002 OF 003 
+ 
+ 
+high broadband service in Lille, Lyon, Marseille, Poitiers, and 
+Toulouse.  It is aiming to have 150,000 to 200,000 clients by the 
+end of 2008.  (Note:  ARCEP announced on December 19 that it would 
+initiate a "administrative inquiry" to clarify why FT did not plan 
+to offer unbundling.  Additionally, cable operator Noos announced in 
+December that it will offer 100 MB internet service over its cable 
+infrastructure.  New fiber optic telecom operator Erenis also 
+announced that it aims to service 150,000 households by the end of 
+¶2007.  End note.) 
+ 
+ 
+Next generation networks: the revenues challenge 
+--------------------------------------------- --- 
+ 
+¶6. (SBU) Lenfant said that deploying very high-speed networks was 
+only justified if they supported new applications, service 
+offerings, and access to content.  In that perspective, the current 
+relationship between content publishers and networks would need to 
+change, Lenfant noted.  Some of the revenues earned by service 
+providers would go to access providers, and electronic 
+communications operators would help finance the content's creation, 
+and audiovisual content in particular. 
+ 
+¶7. (SBU)  To finance this "new model," ARCEP is discussing the 
+extension to Internet access providers of the tax that France-based 
+television stations pay to support new content production, provide 
+grants and subsidies to French films and producers of audiovisual 
+works, and contribute to the production of high-definition and 
+mobile-television formats (French acronym COSIP tax).  However, 
+those in ARCEP supporting the extension of the COSIP tax to telecom 
+operators would support doing so on the condition that "all 
+operators have access to all content." 
+ 
+Spectrum management after the switch to digital 
+--------------------------------------------- -- 
+ 
+¶8. (SBU) Lenfant and Doutriaux said that the Senate had changed the 
+GOF draft bill mandating the conversion from analog to digital 
+television (reftel) by 2011.  The bill originally specified that 
+ARCEP and audiovisual regulator Conseil Superieur de l'Audiovisuel 
+(CSA) would manage the spectrum freed up by the switch by 2011 from 
+analog to digital television.  During its review of the bill, the 
+Senate adopted an amendment that established a new "Commission on 
+the Digital Dividend," which would include the ARCEP and CSA 
+Chairmen, as well as the National Frequency Agency (NFA) Director 
+General.  This Commission would also include eight French 
+Parliamentarians, with one of them presiding.  If approved by the 
+National Assembly during its review of the draft bill, this new 
+commission will decide how to reallocate the freed up spectrum. 
+ 
+Consumer Protection 
+------------------- 
+ 
+¶9. (SBU) Although France has healthy competition in its telecom 
+sector, its Achilles heal is its poor customer service.  Frustrated 
+customers have launched a plethora of lawsuits seeking compensation 
+for services that do not work.  Econoff asked whether ARCEP plans to 
+address this issue with a customer service complaint website or any 
+publicly available statistics to shame operators into improving 
+their service.  Lenfant and Doutriaux explained that, unlike the 
+FCC, ARCEP does not have any competency in consumer protection 
+matters but is consulted on consumer issues affecting the telecoms 
+and electronics sectors.  Last summer, the French Government 
+consulted ARCEP on its draft bill on consumer protection, which 
+contains one important provision concerning electronic commerce. 
+Presently, consumers of French telecom services pay for customer 
+assistance calls to all telecom operators (usually about 0.12 
+euros/minute).  The waiting time to all operators, including FT, is 
+quite substantial; more than 30 minutes of waiting time is common 
+place.  The GOF-draft bill proposes that the waiting period during 
+such calls be free of charge, although consumers would still pay for 
+the call once connected to the customer assistance service. 
+¶10. (SBU) More generally, the draft bill aims to introduce class 
+action lawsuits in the French legal system.  Lefant pointed out that 
+the telecom sector needed class action lawsuits to decrease the 
+number of cases clogging the French court system.  She noted that 
+last October, the French consumer association "Que Choisir" filed 
+not one but 12,530 requests for damages against three mobile phone 
+companies accused of illegal collusive behavior, requesting a total 
+ 
+PARIS 00000002  003 OF 003 
+ 
+ 
+of only 750,000 Euros. The consumer association succeeded in making 
+its case for a collective legal remedy.  However, it is far from 
+certain that the bill will get through Parliament before the end of 
+the session in February 2007.  Parliamentary debate is to start in 
+late January or early February, and there are many more GOF bills to 
+be discussed during that time. 
+Hofmann

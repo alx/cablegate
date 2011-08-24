@@ -1,0 +1,145 @@
+09STATE48505
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Tue May 12 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0015
+RR RUEHWEB
+
+DE RUEHC #8505 1322225
+ZNR UUUUU ZZH
+R 122212Z MAY 09
+FM SECSTATE WASHDC
+TO RUEHAS/AMEMBASSY ALGIERS 0000
+RUEHFR/AMEMBASSY PARIS 0000
+INFO RUEHTC/AMEMBASSY THE HAGUE 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 048505 
+ 
+SIPDIS 
+ALGIERS FOR MARK SCHAPIRO AND PARIS FOR ERIC J. RUETER 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC AG FR
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 050128000 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests the assistance of Embassy 
+Algiers and Embassy Paris in conducting a post-shipment check 
+on license 050128000 for the export of U.S. fiber optic 
+inverters to France for integration into night vision devices 
+(NVDs) for Algeria.  Posts are requested to complete this 
+Blue Lantern check within 45 days.  Lack of response to a 
+Blue Lantern check will affect pending and future licenses 
+involving parties to this license. 
+ 
+¶3. Reason for request: sensitivity of commodity and 
+complexity of transaction. 
+ 
+¶4. ACTION ALGIERS: Embassy is requested to make inquiries 
+with appropriate host government officials to confirm the 
+Algerian MoD (AGMOD) order of NVDs from Thales.  Post should 
+also inform AGMOD that, due to significant U.S. content in 
+the devices, they are subject to re-export and retransfer 
+restrictions of the U.S. International Traffic in Arms 
+Regulations (ITAR). 
+ 
+¶5. ACTION PARIS: Embassy is requested to make inquiries with 
+Photonis SAS to confirm that all the fiber optic inverters 
+supplied by U.S. applicant Schott North America, Inc. to 
+Photonis SAS are to be integrated into image intensifier 
+tubes and supplied to Thales for ultimate end-use by the 
+AGMOD.  Export data indicates that items worth $33,000 
+shipped from the United States on January 8, 2009 and items 
+worth $56,100 shipped from the U.S. on January 16, 2009. 
+Photonis SAS POC is Managing Director, Anne Lasserre, Tel. 33 
+(0) 555 86 37 00. 
+END ACTION 
+ 
+¶6. Details of license application: 
+ 
+DTC Case: 050128000 
+ 
+QUANTITY/COMMODITY: 
+ 
+540  Fiber Optic Inverter per Photonis Dwg. 3311 172 34531 
+ 
+License Value: USD 89,100.00 
+ 
+SELLER: 
+ 
+Schott North America, Inc. 
+122 Charlton Street 
+Southbridge, MA 01550 
+POC is Roberta Zacek, Tel. 508-765-3322 
+ 
+FOREIGN CONSIGNEE 
+ 
+Photonis SAS 
+Avenue Roger Roncier Zl de Beauregard 
+F-19100 Brive 
+France 
+POC is Managing Director, Anne Lasserre, Tel. 33 (0) 555 86 
+37 00 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE 
+ 
+Photonis Netherlands 
+Dwazziewegen 2 
+Roden 
+Netherlands 
+No POC provided 
+ 
+Thales Netherlands BV Thales Land & Joint Systems 
+P.O. Box 88, 1270 
+Ab Huisen 
+Netherlands 
+No POC provided 
+ 
+FOREIGN END-USER 
+ 
+National Ministry of Defense Algeria 
+Direction de l'Administration et des services Communs 
+Land Forces DASC/MDN BP 184 
+Alger gare 
+Algeria 
+No POC provided 
+ 
+PURPOSE: 
+ 
+The inverter supplied by Schott will be used in the 
+production of Photonis image intensifier tubes type XX240C, 
+which will be sold to Thales.  Thales will integrate the 
+intensifier tube into the night vision monocular Munos WS4 
+and supply them to the National Ministry of Defense Algeria, 
+Land Forces. 
+ 
+¶7. Submitted in support of the license application was the 
+following document (PM/DTCC can fax documentation to post 
+upon request): 
+ 
+--Purchase Order No. NVN080345 submitted by Photonis SAS on 
+November 4, 2008, signed by Managing Director, Anne Lasserre 
+ 
+ 
+¶8. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  PM/DTCC can fax documentation to post upon 
+request.  POC is Tim Mazzarelli, Phone: 202-663-3867; Email: 
+MazzarelliTP@state.gov; SIPRNET: MazzarelliTP@state.sgov.gov. 
+ The Blue Lantern Guidebook (ref) is available as a PDF file 
+in the Bunche Library's E-Book Collection on the DOS 
+Intranet:  http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶9. Department is grateful for post's assistance in this 
+matter. 
+CLINTON

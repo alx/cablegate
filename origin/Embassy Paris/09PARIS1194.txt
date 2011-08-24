@@ -1,0 +1,102 @@
+09PARIS1194
+FRENCH FEEDBACK ON U.S. AUSTRALIA GROUP PROPOSALS
+Tue Sep 01 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXRO6556
+RR RUEHAG RUEHAST RUEHDA RUEHDBU RUEHDF RUEHFL RUEHIK RUEHKW RUEHLA
+RUEHLN RUEHLZ RUEHNP RUEHPOD RUEHROV RUEHSK RUEHSL RUEHSR RUEHVK
+RUEHYG
+DE RUEHFR #1194 2441302
+ZNR UUUUU ZZH
+R 011302Z SEP 09 ZDS
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 7072
+INFO RUEHZL/EUROPEAN POLITICAL COLLECTIVEUNCLAS PARIS 001194 
+ 
+C O R R E C T E D COPY (SENSITIVE ADDED) 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+ 
+ISN/CB FOR ASOUZA 
+ 
+E.O. 12958: N/A 
+TAGS: PARM ETTC FR
+SUBJECT: FRENCH FEEDBACK ON U.S. AUSTRALIA GROUP PROPOSALS 
+ 
+REF: A. STATE 87595 
+     ¶B. STATE 87596 
+     ¶C. STATE 87597 
+     ¶D. STATE 88010 
+ 
+¶1. (SBU) SUMMARY. With several specific exceptions, France is 
+generally supportive of U.S. proposals for the September 
+21-25 Australia Group plenary.  Specific feedback is 
+summarized below in informal translation, arranged by reftel. 
+ The original responses, in French, will be sent separately 
+by email to POC.  Post notes that, in response to Ref A, the 
+GOF supports the creation of an experts group to discuss 
+chemical micro-reactors, but prefers that such a group be 
+restricted to government experts and not include industry 
+representatives. END SUMMARY. 
+ 
+¶2. (SBU) Summary of French response to Ref A (STATE 87595): 
+The Australia Group (AG) currently does not currently deal 
+with micro-reactors, which can however produce between 20 - 
+300 milliliters per minute but are small enough to fit into 
+compact locations.  They can also produce chemical agents 
+with a level of purity that reduces the need for extra 
+purification stages and the amount of waste produced.  Before 
+submitting these production systems to AG control, it is 
+necessary to answer the following questions: what are the 
+current production capabilities of micro-reactors? How are 
+they integrated into the chemical industry?  What are 
+emerging trends?  France also supports the creation of a 
+group of experts to examine the proliferation risks of micro- 
+and meso-reactors.  However, France prefers that this group 
+be restricted to governmental exports, who would be 
+responsible for liaising with their national industry. 
+ 
+¶3. (SBU) Summary of French response to Ref B (STATE 87596): 
+The addition of a technical note under the "Valves" section 
+(NOTE: French original incorrectly references item "number 9" 
+here. END NOTE) clarifying the term "nominal size" is logical 
+and acceptable.  However, the technical note under the 
+"Pumps" section restricting the term rotors to vacuum pump 
+rotors only is too restrictive, since other types of pumps, 
+including centrifuge pumps, also have rotors. 
+ 
+¶4. (SBU) Summary of French response to Ref C (STATE 87597): 
+France supports the addition of a technical note specifying 
+that listed alloys are those that "contain a higher 
+percentage by weight" of the named metal than any other 
+metal.  Setting a lower limit of a 35% by weight fluorine 
+composition for controlled fluoropolymers is also logical. 
+Since the compounds with the lowest amount of fluorine by 
+weight contain 39%, the lower limit could even be set at 38% 
+or 39%.  Regarding the technical note on ferrosilicon, it 
+would be logical to clarify that the controlled ferrosilicon 
+alloys in the "Pumps" section are those containing 10-18% 
+silicon to distinguish them from other silicon-containing 
+alloys.  Due to the anti-corrosive and anti-abrasive 
+properties of certain ceramic materials, France also agrees 
+on the need to include mention of ceramics in the control 
+language in the "Pumps" section.  However, this language 
+should also be maintained in the "Valves" section, as 
+recently added. 
+ 
+¶5. (SBU) Summary of French response to Ref D (STATE 88010): 
+The argument to add a technical note to set a control 
+threshold of 2.5 millimeters or greater for fluoropolymer 
+coatings on products is convincing.  However, although a 2.5 
+millimeter coating is necessary to protect against abrasion, 
+coatings as thin as 0.75 millimeters could protect against 
+corrosion.  Therefore, a lower threshold of 1, 1.5, or 2 
+millimeters might be considered, although administratively it 
+will be necessary for the control limits for anti-corrosion 
+and anti-abrasion coatings to be identical, given the 
+practical impossibility of determining whether the end user 
+wishes to protect against corrosion or abrasion. 
+RIVKIN

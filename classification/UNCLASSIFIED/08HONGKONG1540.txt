@@ -1,0 +1,105 @@
+08HONGKONG1540
+EXTRANCHECK: PRE LICENSE CHECK PEIPORT SCIENTIFIC LIMITED
+Wed Aug 20 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0013
+RR RUEHWEB
+
+DE RUEHHK #1540 2330911
+ZNR UUUUU ZZH
+R 200911Z AUG 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 5593
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001540 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE LICENSE CHECK PEIPORT SCIENTIFIC LIMITED 
+ 
+REF: A) USDOC 04056 B) D396546 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a pre-license check (PLC) at Peiport Scientific Limited, Room 1302, 
+Westlands Centre, 20 Westlands Road, Quarry Bay, Hong Kong (Peiport 
+Scientific). The item in question is a FLIR Gasfinder-LW thermal 
+imaging camera that is the subject of export license application 
+D396546. The item is classified under export control classification 
+number (ECCN) 6A003 and is controlled for national security (NS) and 
+nuclear non-proliferation (NP) reasons.  The license applicant is 
+FLIR Systems, Inc. of Wilsonville, Oregon. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Peiport 
+Scientific has been in existence since 1998.  Its paid up share 
+capital is the Hong Kong equivalent of USD 350,000.  Hong Kong 
+residents Wong, Kwan Lik and Yeung, Lun Ching are listed as 
+directors. These two individuals are also directors in two 
+additional companies, namely DNL Optoelec Systems Limited and 
+Peiport Industries Limited. 
+ 
+¶4. According to Peiport Scientific's web site (www.peiport.com), the 
+company specializes in importing high tech and scientific 
+instruments into China, Hong Kong and Macau.  It has technical 
+support and sales offices in a range of cities in China including 
+Beijing, Shanghai, Guangzhou, Chengdu, Wuhan, Xian and Lanzhou. 
+ 
+¶5.  On August 14, 2008, ECO Philip Ankel visited the company and met 
+with Ms. Debby Lo, Administration Manager and Mr. Roger Tam, Export 
+Sales Manager, Gimbals Systems Department, Peiport Industries Ltd. 
+Ms. Lo provided an overview of Peiport Scientific.  She stated that 
+the company was established in 1990.  In earlier years, the company 
+was a reseller of Agema infrared (the predecessor of FLIR) and now 
+represents FLIR in the China region (FLIR is the resulting company 
+of a merger between Agema and other similar companies in 1997).  Ms. 
+Lo stated that the company had sold more than 2000 infrared cameras 
+into mainland China and has been a FLIR distributor for over 10 
+years.  Its primary customers for FLIR products are power utility 
+companies and Peiport Scientific is the sole agent for FLIR cameras 
+for power utility applications.  Peiport Scientific's other 
+customers include universities and factories. 
+ 
+¶6.  Ms. Lo and Mr. Tam provided additional information about the 
+related companies referenced above.  Peiport Industries Ltd. (as 
+distinct from Peiport Scientific) designs and produces its own 
+products, often using FLIR products.  For example, the company 
+produces vehicle based IR and UV systems (what Ms. Lo called 
+integrated systems).  Also, Peiport Industries distributes certain 
+small aircraft engines including those manufactured by Rotax, an 
+Australian company (www.rotax-aircraft-engines.com).  DNL Optoelec 
+Systems Ltd. is a service provider and provides inspection services 
+using thermal imaging cameras and related products. 
+ 
+¶7.  As to the specific camera in question, Ms. Lo stated that the 
+company actually has three outstanding license applications for the 
+same item.  Two are for electric power applications (Lanzhou High 
+Voltage Substation Company and Chongquing Electric Power Test and 
+Research Institute).  The various sales offices will use the third 
+camera (that is the subject of this check) as a demonstration unit. 
+According to Ms. Lo, the camera will be kept under the company's 
+tight control.  The camera will not be loaned to prospective 
+customers and will remain in the physical custody of the company. 
+When not being used for demonstration purposes the camera will be 
+kept under lock and key and will be subject to a log-in/out system. 
+The camera will be transferred among the various offices according 
+to a schedule fixed by the company to accommodate demonstration 
+requests.  According to Ms. Lo, FLIR required that the company 
+purchase a demonstration unit in keeping with its exclusive 
+distribution arrangement. 
+ 
+¶8.  At the time visited, Peiport Scientific appeared to be a 
+suitable recipient of the subject commodity as it cooperated with 
+the PLC and appears to have an appropriate commercial need for the 
+item.  Peiport Scientific likewise confirmed that it will maintain 
+physical custody of the item at all times.

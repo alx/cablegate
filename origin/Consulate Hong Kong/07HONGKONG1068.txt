@@ -1,0 +1,108 @@
+07HONGKONG1068
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Thu Apr 19 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHHK #1068 1090242
+ZNR UUUUU ZZH
+R 190242Z APR 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 1348
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001068 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+EASTERN DRAGON EXPRESS CO. LTD. 
+ 
+REF: A) USDOC 01522 
+ 
+1.Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO) conducted a post shipment- 
+verification at Eastern Dragon Express Company Limited, 
+23 Man Lok Street, Unit C., 6th Floor, Kowloon, Hong 
+Kong (Eastern Dragon).  The items in question are 
+inductors exported to Eastern Dragon on or about 
+September 8, 2006 and valued at USD 47,076.  On the 
+applicable shippers export declaration (SED), these 
+items are classified as EAR99.  Items properly 
+classified as EAR99 may be exported/reexported to 
+virtually all destinations and end-users worldwide, 
+license free.  The exporter was Coilcraft, Inc. of 
+Princeton, Illinois (www.coilcraft.com). 
+ 
+¶3.  According to the Hong Kong Companies Registry, 
+Eastern Dragon has been in existence since 1995.  It 
+has nominal share capital (the equivalent of USD 10). 
+The Commercial Registry lists Hong Kong Resident Card 
+holders Pun Yue Lee and Siu Lung Keung as Directors. 
+Another company with a similar name, Eastern Dragon 
+Express (HK) Limited has been in existence since 2000. 
+ One of its Directors is also Siu Lung Keung.  Another 
+Director is listed as Shao Pin Keung.  This company's 
+share capital is slightly higher, though still modest 
+(the equivalent of USD 1250).  A profile of Eastern 
+Dragon Express (HK) Ltd. on the Hong Kong Trade and 
+Development Council's web site 
+states that Eastern Dragon Express (HK) Ltd. is a full- 
+service freight forwarding company with world-wide 
+operations. 
+ 
+¶4.  Commercial Assistant Sandy Lai attempted, on 
+several occasions, to schedule the PSV with Eastern 
+Dragon.  Eastern Dragon refused to meet with the ECO 
+asserting that information about shipments is 
+confidential and that Eastern Dragon would only share 
+ 
+SIPDIS 
+such information with officials from Hong Kong Customs. 
+ After several additional calls and letters, Eastern 
+Dragon agreed to meet. 
+ 
+¶5.  On April 12, 2007, the ECO met with Mr. T.Y. Ling, 
+Eastern Dragon's Planning and Development Manager at 
+the address referenced above.  Mr. Ling stated that 
+Eastern Dragon acts as a freight forwarder and that its 
+primary client (yielding approximately 70 percent of 
+sales) is Coilcraft.  Eastern Dragon acts, in part, as 
+a freight consolidator for Coilcraft in that Coilcraft 
+has several manufacturing plants in China and sends 
+components for assembly to Hong Kong to be consolidated 
+and shipped to those production facilities. 
+ 
+¶6.  With respect to the shipment in question, Mr. Ling 
+provided documentation showing that the items had been 
+received by Eastern Dragon and subsequently shipped to 
+Coilcraft's production facilities in Xian and Shenzhen, 
+China. 
+ 
+¶7.  In response to the ECO's question, Mr. Ling stated 
+that certain collocated companies at the Eastern Dragon 
+business offices are affiliated with the owner and rent 
+space in the overall Eastern Dragon facility.  These 
+companies are Kinetic Co. (HK), Mitax Electronics 
+(H.K.) Company, Snow Garden International Development 
+Limited, East Dragon Development and China Jet Express 
+Group Ltd. 
+ 
+¶8.  The ECO recommends that this check be categorized 
+as Favorable.

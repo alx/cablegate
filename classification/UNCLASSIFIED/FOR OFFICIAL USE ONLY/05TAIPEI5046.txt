@@ -1,0 +1,99 @@
+05TAIPEI5046
+CHT NETWORK MIGRATION PLANS
+Fri Dec 30 00:00:00 +0100 2005
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+American Institute Taiwan, Taipei
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+300637Z Dec 05UNCLAS TAIPEI 005046 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+STATE PASS EAP/RSP/TC AND EB/CIP 
+USDOC FOR 4431/ITA/MAC/AP/OPB/TAIWAN/MORGAN 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD TW
+SUBJECT: CHT NETWORK MIGRATION PLANS 
+ 
+REF: SECSTATE 229580 
+ 
+¶1.  (U) This message is Sensitive but Unclassified.  It 
+contains business confidential information and is not for 
+internet publication. 
+ 
+¶2.  (U) Summary: Chunghwa Telecom (CHT) continues to make 
+plans for implementing its Next Generation Network (NGN) 
+project, but has postponed the timeline and is concerned that 
+the newly-established National Communications Commission 
+(NCC) could enact policy changes that would make the project 
+unfeasible.  CHT leadership says the newly privatized company 
+is no longer bound by government procurement regulations but 
+will do what is best for the shareholders, the largest of 
+which remains the government.  End Summary. 
+ 
+¶3.  (SBU) In response to reftel AIT Econ and Commercial staff 
+met December 28 with CHT Planning Department, Senior Managing 
+Director Mark Lee to discuss CHT plans for migration to its 
+Next Generation Network.  This is expected to be a 
+multi-billion U.S. dollar infrastructure development project 
+spread over at least eight years.  U.S. telecommunications 
+equipment company Lucent has expressed interest in the 
+project and have already met with CHT leadership.  AIT/T met 
+with CHT in May 2005 to discuss the NGN project, but since 
+that time CHT has been officially privatized and Taiwan has 
+passed legislation to create a National Communications 
+Commission (NCC) responsible for telecommunications and 
+broadcast policy. 
+ 
+¶4.  (SBU) Lee declined to predict when or whether CHT might 
+open a tender for the NGN system.  He told AIT that the 
+unexpected passage of legislation in November establishing 
+the NCC made the immediate future of the telecom industry 
+sufficiently unclear that CHT leadership had decided to take 
+a cautious approach to implementing any major projects. 
+While Lee had previously expected the project would be opened 
+for bids sometime in 2006, he now thought it would be 
+postponed until 2007.  Lee was particularly concerned that 
+the NCC might endorse a policy that would require CHT to turn 
+over access to its "last mile" infrastructure to competitors. 
+ Since CHT was now a private company, he said, it needed to 
+responsibly safeguard the assets of its investors.  It made 
+no sense to begin a multi-billion dollar project that would 
+not yield a significant return.  However, CHT is continuing 
+to make plans and will be able to move quickly when the time 
+is right, he added. 
+ 
+¶5.  (SBU) Following "privatization" in August 2005, CHT is no 
+longer  bound by the requirements of Taiwan's Government 
+Procurement Law, one of which mandates at least three bidders 
+for any large project.  CHT has not decided about whether to 
+structure the tender as a new project or an upgrade of 
+existing technology.  In any case, Lee suggested CHT would be 
+reluctant to rely on one provider and would likely choose at 
+least two companies to provide NGN equipment.  Lee noted that 
+Lucent, Siemens and Alcatel had all expressed interest in the 
+NGN project and had made efforts to promote the merits of 
+their individual technologies.  All three are currently 
+providing switching equipment to different regions of Taiwan. 
+ Lee added that he was aware that Lucent's solution was 
+technologically superior to its competitors and he emphasized 
+that Lucent had a very solid position, despite being more 
+expensive.  He suggested that any final decision on suppliers 
+would be based on many factors. 
+ 
+¶6.  (SBU) Lee also noted that Lucent's pilot Internet 
+Protocol Multimedia Sub-system (IMS) was currently undergoing 
+testing in southern Taiwan and suggested this would be a good 
+trial run for Lucent's technology.  If it performed well, it 
+would boost Lucent's chances of successfully winning a share 
+of the NGN project in the future.  AIT staff noted that other 
+companies had been actively pressing their solutions and 
+reminded Lee that Lucent was restricted by the FCPA in ways 
+that European companies were not.  Lee appreciated Lucent's 
+adherence to the requirements of the FCPA and insisted that 
+any decisions on procurement would be based on the merits of 
+the equipment. 
+PAAL

@@ -1,0 +1,316 @@
+07JAKARTA1128
+BANK INDONESIA CONSIDERS SWITCH TO OVERNIGHT
+Mon Apr 23 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Jakarta
+VZCZCXRO3360
+RR RUEHCHI RUEHDT RUEHHM
+DE RUEHJA #1128/01 1130651
+ZNR UUUUU ZZH
+R 230651Z APR 07
+FM AMEMBASSY JAKARTA
+TO RUEHC/SECSTATE WASHDC 4434
+RUEATRS/DEPT OF TREASURY WASHDC
+INFO RUEHZS/ASSOCIATION OF SOUTHEAST ASIAN NATIONS
+RUCPDOC/DEPT OF COMMERCE WASHDC
+RUEHKO/AMEMBASSY TOKYO 0484
+RUEHBJ/AMEMBASSY BEIJING 4060
+RUEHBY/AMEMBASSY CANBERRA 0684
+RUEHUL/AMEMBASSY SEOUL 4058
+RUEAIIA/CIA WASHDCUNCLAS SECTION 01 OF 04 JAKARTA 001128 
+ 
+SIPDIS 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+DEPT FOR EAP/MTS AND EB/IFD/OMA 
+TREASURY FOR IA-SETH SEARLS 
+SINGAPORE FOR SUSAN BAKER 
+COMMERCE FOR 4430 - BERLINGUETTE 
+DEPARTMENT PASS FEDERAL RESERVE SAN FRANCISCO FOR FINEMAN 
+DEPARTMENT PASS EXIM BANK 
+ 
+E.O. 12598: N/A 
+TAGS: EFIN EINV ECON PGOV ID
+SUBJECT: BANK INDONESIA CONSIDERS SWITCH TO OVERNIGHT 
+INTEREST RATE AS BENCHMARK 
+ 
+REF: A) JAKARTA 486 
+ 
+¶1. (SBU) Summary:  Bank Indonesia (BI) seems likely to 
+move to targeting the overnight interest rate rather than 
+its one-month Bank Indonesia Certificate (SBI) rate as 
+its policy rate for targeting inflation.  This duration 
+shift will have the benefit of addressing anomalies (some 
+self-induced) in the short-term yield curve which 
+currently has a 500 basis points (bps) gap between the 
+overnight and one-month interest rate.  At the same time, 
+the Ministry of Finance (MoF) plans to begin issuing 
+short-term T-bills, which may eventually become the 
+primary instrument for BI?s open market operations.  The 
+switch from SBIs to T-bills has the benefit of putting 
+excess funds in the financial system to work in the 
+Government budget rather than simply sitting on deposit 
+at BI, potentially reducing pressure on BI to encourage 
+banks to increase lending.  Under current plans, however, 
+BI would be financing the government directly since it 
+and the MOF have struck a deal to allow BI to purchase up 
+to 50% of T-bill auctions in order to build up an initial 
+stock of T-bills with which to conduct monetary policy. 
+End Summary. 
+ 
+Inflation Targeting Impacts on Yield Curve 
+------------------------------------------ 
+ 
+¶2. (SBU) According to Bank Indonesia contacts, when BI 
+implemented its inflation targeting policy in 2005, it 
+decided to use the one-month SBI rate as its policy 
+interest rate.  At the time, BI only issued SBIs in one 
+and three-month durations and had no shorter-term 
+instruments.  Despite technical advice to the contrary, 
+BI chose to use the one-month rate as its benchmark 
+rather than launch new one-week or 14-day SBIs partly due 
+to familiarity of market participants with the one-month 
+instrument and partly due to concerns about high 
+volatility in the overnight interbank rate. 
+ 
+¶3. (SBI) Meanwhile, BI has maintained its overnight 
+facility (known by its Indonesian acronym FASBI) at about 
+500 basis points below the one-month SBI rate since late 
+¶2005. The FASBI rate has set the floor for the overnight 
+inter-bank market.  Market participants argued that this 
+arrangement created an incentive for a ?domestic carry 
+trade? whereby banks borrowed on the short-term interbank 
+market to buy one-month SBIs due to the wide spread 
+between the two rates.  The ease of making money in risk- 
+free SBIs under this strategy did not help increase 
+incentives of banks to lend more to the real economy. 
+ 
+¶4. (SBU) However, the buildup of large holdings of SBIs 
+in many banks proved politically uncomfortable for BI, 
+since it faces political pressure from many quarters to 
+encourage Indonesia?s commercial banks to increase 
+lending, according to both market participants and BI 
+officials. When auctions for one-month SBIs began to face 
+large demands from the highly liquid bank sector, BI 
+officials in charge of implementing monetary policy began 
+to ration issuances.  Allocations for auction 
+participants were running around 10-25% of indicated 
+interest, leading to an escalation of indications and 
+even more restrictive rationing, according to a Citigroup 
+analyst.  In the March 21 SBI auction, however, BI 
+changed course and decided to accept 62.4% of indicated 
+interest, sending banks scrambling to find funds to pay 
+for their allocations.  This sent the overnight interbank 
+rates up to 20% from their previous level of around 
+4.25%. 
+ 
+¶5. (SBU) The rationing of one-month SBIs also led to 
+higher than necessary one-month interest rates, and 
+created a temporary ?hump? in the Indonesian yield curve 
+whereby one-month rates were higher than three-month 
+rates.  The higher one-month rate has short-lived but 
+real effects on the economy because lending in Indonesia 
+ 
+JAKARTA 00001128  002 OF 004 
+ 
+ 
+usually prices off a spread to one-month SBI rates. 
+ 
+----------------------------------------- 
+Table 1: SBI Rates (%) 
+----------------------------------------- 
+              1-month SBI     3-month SBI 
+----------------------------------------- 
+April 2006       12.75          12.64 
+May 2006         12.50 
+June 2006        12.50 
+July 2006        12.25          12.15 
+August 2006      11.75 
+September 2006   11.25 
+October 2006     10.75          11.36 
+November 2006    10.25 
+December 2006     9.75 
+January 2007      9.50           9.50 
+February 2007     9.25 
+March 2007        9.00 
+April 2007        9.00           8.10 
+ 
+Source: Bank Indonesia 
+ 
+------------------------------------------- 
+Table 2: Benchmark Government Securities 
+------------------------------------------- 
+Term to Maturity   Seri   Yield    Coupon 
+------------------------------------------- 
+5 years           FR0023    9.16    11.00 
+7 years           FR0026    9.45    11.00 
+10 years          FR0028    9.82    10.00 
+15 years          FR0043   10.36    10.25 
+20 years          FR0042   10.46    10.25 
+ 
+Source: Surabaya Stock Exchange 
+ 
+Impact on Overnight Rates 
+------------------------- 
+ 
+¶6. (SBU) As a result of episodes like this, market 
+participants and BI acknowledge that the effective one- 
+month interest rate is not the one-month SBI, but rather 
+a weighted average of the allocation bankers receive in 
+the SBI and the rest of the funds they are forced to put 
+into the overnight market.  Market participants argued 
+that it would improve transparency for BI to move to 
+actually targeting the overnight rate (rather than 
+rationing one-month issuances). 
+ 
+¶7. (SBU) Many market participants believe that the switch 
+to overnight targeting would cause overnight rates to 
+rise by more than the one-month rate would fall.  Fixed 
+income analysts believed that the overnight rate should 
+reflect a real rate of around 0%, and so would likely 
+rise by at least 300 bps to around 6.5 to 7.0% based on 
+inflation expectations of 6.0 to 6.5%.  One-month SBI 
+rates would probably fall by less than this, they argued. 
+These analysts were not concerned about BI creating 
+confusion in the market by raising overnight rates. 
+(Note: BI?s official prediction is for interest rates to 
+fall over the course of 2007 as the inflation impacts of 
+the October 2005 oil price increase continue to 
+dissipate.)  However, both market participants and BI 
+officials noted that BI will need to properly communicate 
+the policy shift to the market to avoid adverse impacts 
+on the real economy or damage to BI?s policy credibility. 
+ 
+¶8. (SBU) Concerns over the implication of the shift have 
+led BI officials to warn U.S. Treasury officials in 
+Washington and in Jakarta that they are ?still studying? 
+the switch from one-month to overnight rate targeting. 
+One BI official noted that the market participants may be 
+a little more ?forward leaning? than the BI team right 
+now, and may have misinterpreted their consultations with 
+the market on the topic.  While BI officials now are 
+generally persuaded by research showing that shorter term 
+ 
+JAKARTA 00001128  003 OF 004 
+ 
+ 
+policy rates are more effective tools for inflation 
+targeting, they remain concerned about possible 
+misperceptions in the market of raising rates and want to 
+make sure that the bank implements the transition at an 
+appropriate time when the overnight market is less 
+volatile. 
+ 
+First T-Bill Auction Postponed 
+------------------------------ 
+ 
+¶9. (SBU) The Ministry of Finance was planning to launch 
+its new T-bill products with auctions for 9-month T-bills 
+beginning April 4, but postponed the launch until April 
+24 or later.  The MOF plans to auction the T-bills 
+through its new primary dealer network of 18 banks and 
+securities companies (ref A).  The new primary dealers 
+participated in their first government bond auction on 
+March 20 without any glitches.  According to officials, 
+as the T-bill market develops, BI will begin to replace 
+SBIs with T-bills as its instrument of choice for open 
+market operations. 
+ 
+¶10. (SBU) T-Bills are typically issued at a discount and 
+mature at par, requiring the GOI to sort out tax and 
+accounting treatment, i.e. whether the ?capital 
+appreciation? or ?interest? will be subject to taxation. 
+The GOI first announced in January it would issue T-bills 
+on April 3, July 10 and December 4, 2007.  At first 
+analysts believed the T-Bill auctions for all of 2007 
+would not exceed Rp 3 trillion ($330 million).  For a 
+variety of reasons including market development and 
+budgetary demand, however, the MOF has decided to 
+increase the size and frequency of the auctions.  The 
+goal is now to eventually offer regularly scheduled 
+monthly T-Bill auctions, a goal a MOF debt advisor 
+believes is realistic and achievable.  The MOF now 
+targets its first T-Bill auction for April 24. 
+ 
+¶11. (SBU) Both market participants and officials believe 
+the eventual switch to T-bills will be economically and 
+politically beneficial as banks will have to put excess 
+liquidity in an instrument funding the government, rather 
+than parking it at BI in the form of SBIs.  In this way, 
+the GOI can channel banks? excess funds back into the 
+real economy through its fiscal policy.  A smaller amount 
+of outstanding SBIs also would make the central bank less 
+of a target of Parliamentary and senior GOI officials, 
+including Vice President Kalla, who have criticized BI 
+for ?letting? banks invest in risk-free SBIs rather than 
+lending to real economy.  This criticism partially 
+explains BI?s efforts to urge local and foreign banks to 
+substantially accelerate their lending growth. 
+ 
+Direct Central Bank Financing of the GOI Budget? 
+--------------------------------------------- --- 
+ 
+¶12. (SBU) One controversial part of the switch from SBIs 
+to T-bills is an agreement between BI and MoF that BI 
+will be able to purchase up to 50% of each auction on a 
+?non-competitive basis.?  Under this arrangement, the 
+private sector participants will set the interest rate in 
+the auctions first.  Then BI will be able to purchase 
+bills worth up to a maximum of 50% of the total auction 
+amount issued at that same market-determined rate.  One 
+problem is that the BI Law (Law 23/1999) stipulates 
+clearly that BI may only buy bonds in the secondary 
+market.  It is unclear what kind of compromise 
+arrangement will be made to get around this requirement. 
+There is also the possibility that BI could print money 
+to buy government debt and lead to irresponsible economic 
+policy if abused in the future.  However, the fact that 
+BI maintains the prerogative to buy or not to buy T-bills 
+may help mitigate this risk. 
+ 
+¶13. (SBU) One BI official suggested this deal was a 
+temporary measure to ensure that BI could more quickly 
+ 
+JAKARTA 00001128  004 OF 004 
+ 
+ 
+build a sufficient stock of the new T-bill to conduct 
+monetary interventions such as open market operations and 
+repo facilities.  However, the same official argued that 
+it would be inappropriate to put a specific expiration 
+date on the deal as BI?s needs for monetary instruments 
+will in part be a function of the outcomes of those 
+auctions and other macro-economic events and trends. 
+BI?s outstanding stock of SBIs stood at Rp 235 trillion 
+($25.8 billion) in January 2007, and weekly SBI issuances 
+are currently approximately eight times larger than the 
+originally planned 2007 T-Bill auction target of Rp 3 
+trillion ($330 million).  It will thus take many months 
+or even years for T-Bills to replace SBIs as Indonesia?s 
+prime monetary policy instrument unless the MOF 
+dramatically increases the size of T-Bill auctions. 
+ 
+Comment 
+------- 
+ 
+¶14. (SBU) The success of the MOF?s government bond market 
+development program is encouraging and the shift to T- 
+bills from SBIs is a step in the right direction for 
+better transparency and the development of a government 
+yield curve.  It may also help to reduce political 
+pressure on monetary and bank supervision policies. 
+However, BI purchases of government paper could set a 
+dangerous precedent for undue influence of the government 
+on the central bank, especially in light of the 
+reluctance among senior BI officials to resist political 
+pressure to encourage faster bank lending.  Improving 
+communication strategies at BI also will be important to 
+limit any adverse impact on the real economy from the 
+shift from one-month to overnight rate targeting. 
+ 
+¶15. (U) Treasury Regional Attache in Singapore Susan 
+Baker drafted this message. 
+ 
+HEFFERN

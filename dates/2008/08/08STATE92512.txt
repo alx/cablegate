@@ -1,0 +1,127 @@
+08STATE92512
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Thu Aug 28 00:00:00 +0200 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0007
+RR RUEHWEB
+
+DE RUEHC #2512 2411502
+ZNR UUUUU ZZH
+R 281500Z AUG 08
+FM SECSTATE WASHDC
+TO RUEHWR/AMEMBASSY WARSAW 0000
+INFO RHMCSUU/FBI WASHINGTON DC 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 092512 
+ 
+SIPDIS 
+WARSAW FOR DUNCAN WALKER 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC PL
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 050101261 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Embassy's assistance in 
+conducting a post-shipment check on license 050101261 for the 
+export of military radios to Poland.  PM/DDTC outreach team 
+plans to complete this check in conjunction with Embassy 
+during its visit to Poland on September 10 and 11. 
+ 
+¶3. Reason for request:  WB Electronics, unfamiliar foreign 
+consignee. 
+ 
+¶4. ACTION: Embassy and PM/DDTC team is requested to make 
+inquiries with appropriate Polish Army and WB Electronics 
+officials to determine if it received 108 units shipped from 
+the U.S. on July 24, 2008 and that radios are being used for 
+purpose stated on license.  Polish Army POC is M. Yzewczyk; 
+reference DSP-83 Nontransfer and Use Certificate signed on 
+April 4, 2008.  Department requests that team conduct a site 
+visit to WB Electronics in order to assess its business 
+operations, on-site security, and general reliability as a 
+recipient of United States Munitions List (USML) items.  POC 
+is Piotr Wojciechowski, Chairman, TEL: 48-22-731-25-51; 
+reference Purchase Order # 84v3/2008 signed on April 17, 
+¶2008.  The following questions are offered as suggested 
+guidance with WB Electronics: 
+ 
+- Can the company provide documentation from the Polish Army 
+(e.g. purchase order, contract, or letter of intent) 
+establishing it as the final end user of these items? 
+ 
+- Does the company understand the restrictions on United 
+States Munitions List (USML) articles, particularly regarding 
+re-export and retransfer? 
+ 
+- What is the company's exact role in this transaction? 
+ 
+- Who are the company's main clients? 
+ 
+End Action. 
+ 
+ 
+¶5. Details of license application: 
+ 
+ 
+DTC Case: 050101261 
+ 
+QUANTITY/COMMODITY: 
+ 
+108   RF-7800S-TR001 Secure Personal Radio with encryption, 
+accessories, and manuals 
+45    RF-7800S-TR001 Secure Personal Radio with encryption, 
+accessories, and manuals 
+ 
+License Value: USD 568,189.00 
+ 
+SELLER: 
+ 
+Harris RF Communications Division 
+1680 University Avenue 
+Rochester, NY 14626 
+ 
+FOREIGN CONSIGNEE: 
+ 
+WB Electronics SP Z.O.O. 
+Ul Poznanska 129/133 
+PI-05-850 Ozarow Mazowiecki, Poland 
+ 
+FOREIGN END-USER: 
+ 
+Ministerstwo Obrony Narodowej (Polish Army) 
+Departament Zaopatrywania Sil 
+Zbrojnych 
+Al. Niepodleglosci 218 
+00-911 Warszawa, Poland 
+ 
+ 
+PURPOSE: 
+ 
+The RF-7800S-TR001 secure personal radios will be used for 
+communications between crew member and armed vehicles 
+(equipped with existing Harris RF-5800V radios) and will be 
+used solely by the Polish Army. 
+ 
+ 
+¶6. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  PM/DTCC can fax documentation to post upon 
+request.  POC is Tim Watkins, Phone: 202-663-2814; Email: 
+WatkinsTR@state.gov; SIPRNET: WatkinsTR@state.sgov.gov.  The 
+Blue Lantern Guidebook (ref) is available as a PDF file in 
+the Bunche Library's E-Book Collection on the DOS Intranet: 
+http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶7. Department is grateful for post's assistance in this 
+matter. 
+RICE

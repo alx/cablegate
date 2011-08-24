@@ -1,0 +1,98 @@
+07HONGKONG2204
+EXTRANCHECK: POST SHIPMENT VERIFICATION: AMBIT MICROSYSTEMS
+Thu Aug 23 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHHK #2204 2350900
+ZNR UUUUU ZZH
+R 230900Z AUG 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 2695UNCLAS HONG KONG 002204 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+BEIJING FOR FCS JEANETTE CHU 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: AMBIT MICROSYSTEMS 
+(ZHONG SHAN) 
+ 
+REF: A) USDOC 05155 B) HK 04113 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) attempted 
+to conduct a post shipment-verification at Ambit Microsystems 
+(Zhongshan), C/O Soonest Express, 4th Floor, Unit 4008-4018E, ATL 
+Logistics Centre B, Berth 3 Kwai Chung Container Terminals, Kwai 
+Chung, New Territories, Hong Kong (Ambit).  The items in question 
+are various semiconductors exported to Ambit on or about April 24, 
+2007 and valued at USD 137,000.  On the applicable shippers export 
+declaration (SED), these items are classified as 3A001 and, if 
+properly classified, would be controlled for national security (NS) 
+reasons.  The exporter was Triquint Semiconductor (Triquint) of 
+Hillsboro Oregon. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Ambit 
+Microsystems is not registered in Hong Kong.  A company with a 
+similar name, Ambit Broadband Co. Limited was established in 
+September of 2006.  Taiwanese passport holders Chu, Hsien Sheng and 
+Lin, Yuan Hao are listed as directors.  That company has nominal 
+issue share capital (USD 1,000) but no paid-up share capital. 
+Soonest Express (Soonest) is a Hong Kong freight forwarder 
+previously referenced in Reftel B. 
+ 
+¶4.  As in the case referenced in Reftel B, ECO attempted to obtain 
+information about the shipment by contacting Soonest.  Soonest 
+requested a tracking number for the shipment so that it could 
+retrieve the applicable documentation.  ECO was unable to obtain 
+such a tracking number from OEA and so did not obtain additional 
+information from Soonest.  Nonetheless, from the documentation OEA 
+provided (including Triquint invoices and shipping documents), it is 
+very likely that the items in question transshipped Hong Kong on 
+their way to Ambit's production facility in Zhongshan, Guangdong, 
+mainland China. 
+ 
+¶5. Ambit is a subsidiary of FOXCONN (www.foxconn.com), which is a 
+leading manufacturer of computer components including motherboards 
+as well as various electronic components for consumer goods 
+including mobile phone handsets and notebook computers. FOXCONN 
+supplies components for leading U.S. companies including Apple 
+Computers, Invidia, etc. FOXCONN is a Taiwanese company with a 
+significant China presence (more than 20 locations throughout 
+China), and is the registered trade name of Hon Hai Precision 
+Industry Group.  FOXCONN acquired Ambit in 2004.  One of FOXCONN's 
+facilities in mainland China was the subject of a favorable PSV by 
+Beijing ECO on June 7, 2007 (reference BIS license D368885). 
+ 
+¶6.  The ECO notes that in certain circumstances, items that fall 
+into the applicable ECCN (3A001) may be exported or reexported to 
+mainland China without a license, particularly where they are 
+destined for civil use.  However, in other circumstances, 3A001 
+items require a license to mainland China regardless of end-use. 
+This difference is dependant on the ECCN subcategory into which the 
+applicable items fall.  While the ECCN subcategory was not included 
+in Triquint's Shippers Export Declaration (SED), Triquint's invoice 
+states that some of the items in question are classified under ECCN 
+3A001.c.2.  This subcategory does not appear to require a license if 
+exported to Hong Kong but would appear to require a license if 
+exported/reexported to mainland China.  The ECO recommends that BIS 
+conduct a commodity classification for these items to conclusively 
+determine their control status.  Nonetheless, in light of the 
+apparent violation of licensing requirements for these items based 
+on Triquint's own commodity classification, the ECO recommends that 
+this check be classified as Unfavorable.

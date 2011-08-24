@@ -1,0 +1,91 @@
+09MOSCOW317
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: SCIENTIFIC AND
+Tue Feb 10 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0012
+PP RUEHWEB
+
+DE RUEHMO #0317 0411454
+ZNR UUUUU ZZH
+P 101454Z FEB 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1847
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DC
+RUEHKV/AMEMBASSY KYIV 0322UNCLAS MOSCOW 000317 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/M.HAMES/L.RITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+KYIV FOR FCS 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: SCIENTIFIC AND 
+INDUSTRIAL CONCERN (SIIC) NAUKA, KIEV, UKRAINE, LICENSE NO. D384296 
+ 
+REFTEL: USDOC 0116 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a Post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Scientific and 
+Industrial Concern (SIIC) Nauka, Kiev, Ukraine. The company is 
+listed on BIS license application D384296 as the ultimate consignee 
+of a low pressure thin film deposition system, model MOCVD D-180 
+LDM.  These items are controlled for national security reasons under 
+ECCN 3B001.A.2.  The licensee is SVT Associates Inc., 7620 Executive 
+Drive, Eden Prairie, MN  55344. 
+ 
+¶3. On January 29, 2009, Export Control Attach Peter Liston and LES 
+Olena Stepanska conducted the requested post-shipment verification 
+with the Scientific and Industrial Concern (SIIC) Nauka, Kiev, 
+Ukraine.  The export control team met with Sergey Yurievich Larkin, 
+General Manager, at the Ministry of Science and Education, Kiev, 
+Ukraine. 
+ 
+¶4. The Scientific and Industrial Concern (SIIC) Nauka (Nauka) is a 
+government funded research facility involved in the development of 
+commercial applications of solid-body electronics.  Nauka cooperates 
+with foreign entities in joint enterprises in many of their research 
+and development projects.  Nauka is involved with projects with 
+Germany, Russia, Turkey and the United States.  Nauka was founded in 
+part by the Ukraine Scientific Research Center QFornonQ; the 
+National Scientific Center QKharkov Physical-Technical InstituteQ; 
+Scientific & Production Enterprise QSaturnQ; Scientific Research 
+Company QKaratQ; Radio Astronomical Institute, National Academy of 
+Sciences; and the scientific technological concern QInstitute of 
+MonocrystalsQ, National Academy of Science. 
+ 
+¶5. Sergey Yurievich Larkin advised the export control team that the 
+commodity in reftel was purchased in 2007 and is being used at the 
+Karat facility for arsenide and phosphide semiconductor research. 
+Larkin stated that he expects production to start at the end of this 
+year.  The Karat plant is located approximately 7 hours outside of 
+Kiev.  Sergey Yurievich Larkin stated that Nauka has also purchased 
+two additional units from the reftel exporter SVT Associates, which 
+are awaiting customs clearance in Kiev.  Sergey Yurievich Larkin 
+gave the export control team a series of photos showing the reftel 
+commodity installed and operating at the Karat facility.  Larkin 
+stated that the Karat facility is a former military complex with 
+limited access. 
+ 
+¶6. Although the export control team was not able to personally 
+inspect the reftel commodity, it does appear that it is being used 
+for the purpose for which it was licensed.  The company had ordered 
+two additional units.  There are no indications of impropriety with 
+Nauka and the LarkinQs answers to the export control team were not 
+evasive. 
+ 
+ 
+¶7. Recommendations: Post recommends Scientific and Industrial 
+Concern (SIIC) Nauka, Kiev, Ukraine as a reliable recipient of 
+sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

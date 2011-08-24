@@ -1,0 +1,240 @@
+07HONGKONG2563
+EXTRANCHECK: POST SHIPMENT VERIFICATION: ARROW ASIA PACIFIC
+Fri Oct 05 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHHK #2563/01 2780919
+ZNR UUUUU ZZH
+R 050919Z OCT 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 3120
+RHMFIUU/HQ BICE INTEL WASHINGTON DCUNCLAS HONG KONG 002563 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: ARROW ASIA PACIFIC 
+LTD WHSE 
+ 
+REF: A) USDOC 06986 B) HK00909 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment-verification (PSV) at Arrow Asia Pacific Ltd., 20 
+Floor, Tower Two, Ever Gain Plaza, 88 Container Port Road, Kwai 
+Chung, Hong Kong (Arrow Asia).  The items in question are various 
+electronic integrated circuits exported to Arrow on or about May 6, 
+2007 and valued at USD 37,849.  On the applicable shippers export 
+declaration (SED), these items are classified under export control 
+classification number (ECCN) 3A001 and, if properly classified, 
+would be controlled for national security (NS) reasons.  The 
+exporter was Analog Devices of Norwood, Massachusetts. 
+ 
+¶3.  A search of the web reveals that Arrow Asia is a business unit 
+of Arrow Electronics, Inc, a New York Stock Exchange listed company 
+with 2006 U.S. sales of USD 13.6 billion (www.arrow.com). Arrow 
+Electronics, Inc. acts as supply channel partner for more than 600 
+suppliers and 140,000 original equipment manufacturers, contract 
+manufacturers and commercial customers.  In Asia, Arrow Asia 
+operates fifty sales offices, four distribution centers and 12 local 
+warehousing facilities in eleven countries/territories. 
+ 
+¶4.  On September 11, 2007, ECO met with several representatives from 
+Arrow Asia including Mr. Victor K.C. Cheung, Logistics Director, Mr. 
+Albert W.H. Chan, Operation Controls Manager, Mr. Kam K.F. Leung, 
+Transportation and Export Control Manager, and Ken T.K. Ng, Shipping 
+Supervisor.  Representatives of Arrow Asia provided background on 
+the company consistent with the information noted above and on the 
+company's web site.  They stated that Arrow Asia has approximately 
+1,600 employees in the region. 
+ 
+¶5.  Mr. Leung also provided a detailed overview of the company's 
+export control compliance system.  That system is based, in large 
+part, on commercial software designed to compare customers and 
+orders against established lists of parties of concern as well as 
+reasons for control based on the country of destination and 
+applicable ECCN.  Mr. Leung stated that the company's software 
+screens all potential customers prior to opening a customer account 
+and accepting orders.  Arrow Asia also obtains from all new 
+customers an end-user certificate, which include a certification 
+that the items will be used only for civil and not military or WMD 
+applications and that they will not be re-exported or sold to third 
+parties except in compliance with applicable export and re-export 
+laws.  Only after these initial formalities are completed may a new 
+client account be created.  When an order is received, the company's 
+software checks the licensing requirements for the applicable ECCN 
+and determines whether a license will be required for the shipment. 
+A manual review by export control compliance staff must be completed 
+for all transactions where a license requirement is noted by the 
+software.  No sale may be completed absent release by export control 
+personnel (typically after a license has been obtained).  Mr. Ng 
+stated that Arrow Asia obtains a company registration certificate 
+from all new customers to confirm corporate existence.  Mr. Ng 
+further stated that the company screens both the registered address 
+and the "ship to" address on all orders it receives against the 
+applicable licensing requirements.  Mr. Leung demonstrated the 
+system to the ECO at the conclusion of the meeting. 
+ 
+¶6.  The conversation then turned to the particular transaction in 
+question, namely a shipment apparently destined for Centre Bright 
+(HK) Limited.  OEA provided ECO with an invoice from the exporter 
+stating that one of multiple orders placed by Arrow Asia was 
+destined for its customer, Centre Bright.  ECO showed the meeting 
+participants the invoice and asked for further background on this 
+transaction.  There was some confusion around the room at this point 
+about what actually occurred with this order.  Mr. Leung eventually 
+stated that he recalled that this order had originally been accepted 
+but had subsequently been put on hold when it was determined that 
+Centre Bright is on BIS's Unverified List.  This list is a 
+compilation of companies where BIS has been unable to satisfactorily 
+complete a PSV or pre-license check (PLC) for reasons outside of the 
+control of the U.S. government.  The PSV of Centre Bright that 
+prompted the inclusion of Centre Bright on the Unverified List is 
+detailed in reftel B and occurred in 2005.  In that case, the ECO at 
+that time stated that the transaction described by the Centre Bright 
+representative had many suspicious characteristics including a 
+customer without contact details (aside from a mainland China cell 
+phone number) who preferred to pay for controlled commodities in 
+cash.  In that case, the ECO recommended that Centre Bright be 
+included on the Unverified List since significant portions of the 
+purported transaction could not be verified.  Note: Inclusion on the 
+Unverified List does not, by itself, impose any new licensing 
+requirements.  However, such inclusion is considered to be a "red 
+ 
+ 
+flag".  Where such red flags exist, parties have an affirmative 
+obligation to inquire about the end-use, end-user and ultimate 
+country of destination. 
+ 
+¶7.  When the ECO inquired what happened next, Mr. Ng stated that 
+Centre Bright cancelled its order. Shortly thereafter, Arrow Asia 
+received an order for an identical number (668) of the same items 
+from another company, namely Victory Wave Holdings.  Mr. Ng provided 
+copies of the applicable transaction documents and corporate 
+registration documents for Victory Wave Holdings Limited.  The 
+packet includes the Arrow Asia standard End-User Statement signed by 
+Hong Chun Tai on behalf of Victory Wave Holdings.  The packet also 
+included an invoice showing sale of the 668 items and listing ECCN 
+3A001(a)(5)(a)(3).  This subcategory of ECCN most likely does not 
+require a license to Hong Kong but would most likely require a 
+license to mainland China.  The packet also included the applicable 
+import license issued by Hong Kong TID for the items stating that 
+the goods are for local (Hong Kong) consumption. 
+ 
+¶8.  ECO requested more information on how it transpired that the 
+transaction with Victory Wave Holdings was completed when an 
+identical Centre Bright order for 668 Analog Devices AD6645ASW-105 
+integrated circuits had recently been cancelled.  Mr. Cheung stated 
+that he would investigate the matter further and provide more 
+background on how the transaction occurred once he had obtained such 
+information.  He suggested that any judgments about the nature of 
+the transaction be deferred until further information could be 
+obtained. ECO will provide OEA additional information when he 
+obtains it from Arrow Asia. 
+ 
+¶9.  A subsequent review of the Hong Kong Companies Registry 
+information revealed that Victory Wave Holdings Limited is related 
+to Centre Bright.  The review also revealed that several additional 
+Hong Kong companies are also related to both Victory Wave Holdings 
+Limited and/or Centre Bright. These relationships are detailed 
+below. 
+ 
+¶10.  Victory Wave Holdings Limited:  This company was established in 
+February 2007 and has limited paid-up share capital (the Hong Kong 
+equivalent of USD 1,000).  Its Director is listed as Hong Kong 
+resident Wong, Yung Fai.  Its registered address is listed as Unit 
+2401A, 24Fl, Park-In Comm Ctr, 56 Dundas St, Mongkok, Hong Kong. 
+The signatory for Victory Wave Holdings Limited on the Arrow Asia 
+End-User Statement is listed as Hong Chun Tai.  Corporate records 
+obtained when the Centre Bright PSV was completed show Wong Wai 
+Chung and Hong Chun Tai as the sole shareholders of Centre Bright. 
+In short, one of the shareholders of Centre Bright (Hong Chun Tai) 
+apparently signed the Victory Wave Holdings Limited End-User 
+Statement. 
+ 
+¶11.  Exodus Microelectronics Company Limited:  This company was 
+established in March 2003.  Its registered address is Unit 6B, Block 
+1, International Centre, 2-8 Kwei Tei Street, Shatin, Hong Kong.  It 
+likewise has nominal share capital (the Hong Kong equivalent of USD 
+1,000).  Its directors are listed as Hong Kong residents Hong, Chun 
+Tai and Wong, Yung Fai.  In short, one of this company's directors 
+(Hong, Chun Tai) is also a director in Centre Bright and the 
+signatory for Victory Wave Holdings Limited.  Another of its 
+directors (Wong, Yung Fai) is also a director of Victory Wave 
+Holdings Limited. 
+ 
+¶12.  Echelon Microsystems Limited:  This company was established on 
+April 25, 2007.  Its registered address is Unit 2006, 10F Carnarvon 
+Plaza, 20 Carnarvon Rd., Hong Kong.  It has the Hong Kong equivalent 
+of USD 1000 authorized share capital but no paid-up share capital. 
+Its director is listed as Wong, Yung Fai. In short, this company 
+shares a director with Victory Wave Holdings Limited, Exodus 
+Microelectronics Company Limited and Omniway Technology Limited 
+(referenced below). 
+ 
+¶13.  Omniway Technology Limited:  This company was also established 
+on April 25, 2007 (on the same day as Echelon Microsystems Limited). 
+ Its registered address is Unit 503, 5/FL Silvercord Tower 2, 30 
+Canton Rd., Hong Kong.  It has the Hong Kong equivalent of USD 1000 
+authorized share capital but no paid-up share capital.  Its director 
+is listed as Wong, Yung Fai.  In short, this company shares a 
+director with Victory Wave Holdings Limited, Exodus Microelectronics 
+Company Limited and Echelon Microsystems Limited. 
+ 
+¶14.  SBC International (Success Business Center): This company 
+advertises itself as a leading company register agency in Hong Kong 
+and mainland China.  It has 18 offices in Hong Kong and mainland 
+China with over 400 professional staff to provide business advice 
+and business registration services.  More information is available 
+at www.sbc.com.hk/English.  The addresses of Victory Wave Holdings 
+Limited, Echelon Microsystems Limited and Omniway Technology Limited 
+ 
+ 
+correspond to SBC International branch offices in Hong Kong. 
+ 
+¶15.  Other companies:  A review of Hong Kong Companies Registry 
+information reveals additional companies that are related to Centre 
+Bright.  In particular, Centre Bright director and shareholder Wong, 
+Wai Chung, was also a director in Square Holdings Limited, a company 
+that was dissolved in 2004.  Co-directors in that company were also 
+directors in the following additional companies (that are still 
+listed as operational) in Hong Kong:  Bescom Development Limited 
+(established in 1993), Beijing Technology Limited, China Urban 
+Transport Engineering and Consulting Limited, Pacific Telecom 
+Development Limited, Radio Frequency Engineering Limited, Boland 
+(H.K.) Limited and Goahead World Limited. 
+ 
+¶16.  The ECO suspects that at least some of the companies affiliated 
+with Centre Bright and Victory Wave Holdings Limited have been 
+established as conduits for Centre Bright purchases (Centre Bright 
+is still operational and maintains a web site at 
+www.centrebright.com).  ECO further suspects that several of these 
+companies have received exports of items from the United States and 
+recommends that OEA review those exports to determine what further 
+action is warranted in respect of those shipments and companies. 
+ECO also recommends that OEA review exports listing the addresses of 
+these companies as ship-to addresses.  The ECO also recommends that 
+BIS conduct a commodity classification to confirm the ECCN and 
+licensing requirements of the items that are the subject of this 
+check. 
+ 
+¶17.  The ECO recommends that this check be classified as 
+Unfavorable.  That recommendation is based on the apparent 
+circumvention of Arrow's compliance software hold on transactions 
+with Centre Bright and the eventual sale of the items to Victory 
+Wave Holdings, a company affiliated with Centre Bright.

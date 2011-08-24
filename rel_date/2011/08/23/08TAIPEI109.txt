@@ -1,0 +1,178 @@
+08TAIPEI109
+Taiwan IPR: DVC Focuses on ISP Law, IP Court
+Wed Jan 23 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+American Institute Taiwan, Taipei
+VZCZCXRO8703
+PP RUEHCN RUEHGH RUEHVC
+DE RUEHIN #0109/01 0230948
+ZNR UUUUU ZZH
+P 230948Z JAN 08
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC PRIORITY 7969
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUCPDOC/USDOC WASHDCUNCLAS SECTION 01 OF 02 TAIPEI 000109 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE PLEASE PASS TO AIT/W AND EAP/RSP/TC 
+ 
+STATE PASS USTR/DAVID KATZ AND JARED RAGLAND 
+ 
+USDOC FOR 4430/ITA/MAC 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ETRD KIPR TW
+SUBJECT: Taiwan IPR: DVC Focuses on ISP Law, IP Court 
+ 
+Reftel: Taipei 49 
+ 
+Summary 
+------- 
+ 
+¶1.  (SBU) On January 15, as part of an ongoing dialogue under the 
+bilateral Trade and Investment Framework Agreement (TIFA), U.S. and 
+Taiwan experts held a digital video conference (DVC) focused on 
+intellectual property rights (IPR) issues.  The meeting was 
+constructive and friendly, and provided an opportunity for U.S. 
+experts to question Taiwan counterparts about progress in 
+implementing the recently-passed Peer-to-peer (P2P) law as well as 
+the Ministry of Education (MOE) Campus IP Action Plan.  The U.S. 
+side also raised concerns about MOE willingness to both receive and 
+share information on enforcement efforts with right holders.  USTR 
+enquired about Taiwan Intellectual Property Rights Office (TIPO) 
+efforts to draft amendments to the Copyright Law that would limit an 
+Internet service provider's (ISP) liability if the ISP quickly 
+removed IPR-infringing material, and requested that TIPO accept 
+another round of feedback from the USTR on the current version of 
+the amendments.  TIPO passed this current version to the U.S. side 
+on January 22. End Summary. 
+ 
+Introduction 
+------------ 
+ 
+¶2.  (SBU) On January 15, about 20 officials from the Taiwan 
+Intellectual Property Office (TIPO), Ministry of Justice, Judicial 
+Yuan, Office of Trade Negotiation (OTN), Board of Foreign Trade 
+(BOFT), and the Ministry of Economic Affairs (MOEA) met via DVC with 
+officers from USTR, AIT/W, State, Commerce, and the Copyright Office 
+to discuss a TIPO-proposed amendment to Taiwan's Copyright Law and 
+get an update on recent IPR developments in Taiwan.  The U.S. team 
+was headed by Jared Ragland, Director, Intellectual Property and 
+Innovation, USTR.  In Taiwan, the discussion was led by Margaret 
+Chen, Deputy Director General of TIPO.  This DVC was part of the 
+ongoing bilateral IPR dialogue. 
+ 
+IP Court, IP Action Plan 
+------------------------ 
+ 
+¶3. (SBU) The first issue on the DVC agenda was a status report from 
+the Taiwan side on the implementation of the specialized 
+Intellectual Property (IP) Court.  Judge Wei-xin Lee of the Judicial 
+Yuan reiterated that the Court will open as scheduled on July 1, and 
+will be staffed by eight IP-specialist judges, up to 15 TIPO patent 
+examiners, and three prosecutors. Lee expects that the Court will 
+handle 2200 to 3000 cases per year. 
+ 
+¶4. (SBU) The Court will handle appeals from criminal copyright and 
+trademark infringement cases, as well as administrative cases of 
+copyright, patent, and trademark infringement. [Note: there are no 
+criminal patent cases under Taiwan law. End note.] For civil cases, 
+the Court can act as both the court of first instance as well as a 
+court of appeals for copyright, patent, and trademark cases.  Mr. 
+Lee explained that cases currently in the court system will not be 
+able to switch venues mid-trial to the new IP Court, but plaintiffs 
+and defendants in cases closed by June 13 who decide to file appeals 
+after July 1 may use the new Court. 
+ 
+Next Steps for ISP Legislation 
+------------------------------ 
+ 
+¶5. (SBU) The 2007 Legislative Yuan (LY) session ended before TIPO 
+could finalize and send to the LY amendments to the Copyright Law 
+that would limit an ISP's liability if the provider meets certain 
+conditions, including quickly removing IPR-infringing material 
+(reftel). TIPO Secretary General Margaret Chen told the U.S. side 
+that TIPO will send the amendments to the Copyright Law back to the 
+Executive Yuan (EY) for consideration by the end of April.  If the 
+EY approves the amendment, the changes would then move to the LY for 
+consideration. 
+ 
+¶6.  (SBU) TIPO--which has given the United States several 
+opportunities to comment on the proposed Copyright Law 
+amendments--again agreed to accept U.S. comments on the current 
+version of the draft Law.  Ragland thanked Chen for this additional 
+opportunity and said that the U.S. side would get comments back to 
+TIPO by the end of January.  TIPO agreed to provide the United 
+States the current text of the proposed amendments. [Note: TIPO 
+provided the updated draft amendments to AIT on January 22. End 
+note.] 
+ 
+Campus IP Action Plan Status Report 
+----------------------------------- 
+ 
+TAIPEI 00000109  002 OF 002 
+ 
+ 
+ 
+¶7.  (SBU) The MOE Director of Student Affairs Committee Chih-chung 
+Yang explained that the Action Plan was achieved through consensus 
+between the stakeholders, including the Ministry, the universities, 
+student groups, and right holders, and that all stakeholders would 
+continue to have twice-yearly opportunities to provide comment and 
+feedback to each other about the Plan's progress.  Yang added that 
+cases of alleged infringement on the island-wide Taiwan Academic 
+Network (TANet) fell from 476 and 343 in the first and second 
+quarters of 2007, respectively, to 166 and 194 cases in the latter 
+two quarters, which the MOE sees as a good sign for implementation 
+efforts. 
+ 
+¶8. (SBU) In response to Ragland's comment that right holders feel 
+they do not have an effective channel to provide comments to the 
+Ministry and are not receiving  responses from the MOE on progress 
+implementing the Plan, particularly on MOE actions in response to 
+specific information on infringing activities provided by industry, 
+Yang re-iterated that the Ministry views such opportunities as being 
+sufficient, and added that some of the information on specific TANet 
+infringements that IFPI and other right holders have provided the 
+MOE has been inaccurate. Ragland thanked the MOE for its efforts, 
+encouraged more frequent coordinating meetings with stakeholders to 
+more effectively implement the Action Plan, and asked for further 
+reporting on the Plan's progress as available. 
+ 
+APEC Campus IP Plan: Whose Idea Anyway? 
+--------------------------------------- 
+ 
+¶9.  (SBU) Regarding Taiwan's expressed support for the United States 
+to lead a Campus IP initiative within APEC, Ragland and Katz both 
+apologized for Taiwan having the impression that the United States 
+had proposed launching an initiative.  Ragland added that the 
+February APEC Intellectual Property Experts Group (IPEG) meeting 
+that will be held in Peru will be a good opportunity for the two 
+sides to meet informally to brainstorm on ideas for such a possible 
+initiative. 
+ 
+ACTA: Too Early for Specifics 
+----------------------------- 
+ 
+¶10. (SBU) Regarding the current status of the Anti-Counterfeiting 
+Trade Agreement (ACTA) initiative under discussion by the United 
+States, Japan, the European Union, and others, Ragland thanked TIPO 
+for its interest and support, but noted that the initiative is still 
+very much in the pre-negotiation stages, and that he did not have 
+specific information on the initiative to share at the time. 
+ 
+Comment 
+-------- 
+ 
+¶11.  (SBU) The DVC was constructive and friendly, and TIPO seemed to 
+clearly understand the specific concerns that USTR passed to the 
+Taiwan side in December regarding TIPO's proposed ISP legislation. 
+Although they did not make any commitments to alter the legislation, 
+TIPO promised to consider our feedback before passing a final draft 
+to the EY in late April, as well as to keep us posted on the 
+progress. AIT will continue to monitor the issue closely.  End 
+comment.

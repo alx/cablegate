@@ -1,0 +1,198 @@
+06PARIS3110
+FRANCE: RESPONSES TO USG POINTS ON NO-FLY AND DATA PRIVACY
+Thu May 11 00:00:00 +0200 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 PARIS 003110 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+DEPT FOR EB/TRA, S/CT, EUR/WE, L 
+USEU FOR MORENSKI 
+ 
+E.O. 12958: N/A 
+TAGS: EAIR PTER PREL FR
+SUBJECT: FRANCE: RESPONSES TO USG POINTS ON NO-FLY AND DATA PRIVACY 
+LEGISLATION 
+ 
+REF: A) STATE 66769 B) STATE 56285 B) PARIS 2432 C) PARIS 2316 
+ 
+¶1. (SBU) Summary:  We have raised the issue of the proposed 
+submission of airlines No-Fly screening to the French Data Privacy 
+Authority (CNIL) (refS A and B) in meetings with officials from the 
+General Secretariat for State Security (SGDN) April 11, April 27 and 
+May 9, the Civil Aviation Authority (DGAC) April 21 and 28, MFA May 
+5, and conversations with Air France officials April 13 and April 
+¶28. (TSA/TSNM General Manager Richard Stein participated in the 
+April 28 discussions.  EB/TRA DAS John Byerly participated in the 
+May 9 conversation.)  Non-papers drawn from reftels have been 
+circulated to contacts at MFA, Ministry of Justice, and the Ministry 
+of Transportation. The following provides a summary of the principal 
+results of our discussions. 
+ 
+ 
+-------------------------- 
+No No-Fly Means No Flying 
+-------------------------- 
+ 
+¶2. (SBU) We have clearly delivered the message to the GOF that any 
+interruption of No-Fly screening resulting from a decision by the 
+CNIL would mean the interruption of flights to the U.S., and have 
+been repeatedly assured that this is clearly understood.  General 
+Secretariat for National Defense Director of State Security Bernard 
+ 
+SIPDIS 
+Boube told Emboffs April 11 that the GOF was in general supportive 
+of the No-Fly system.  After substantial interagency coordination, 
+it had decided to move ahead now, before a potentially unfavorable 
+decision from the European Court of Justice decision on PNR that 
+could make the political environment for CNIL approval more 
+unfavorable. On April 28 Director General of Civil Aviation Michel 
+Wachenheim echoed these points.  However all of our interlocutors 
+have also stressed that the CNIL is an independent body, with 
+authority to judge what criteria are applicable in a given case. 
+Boube in particular emphasized that the GOF had received no advance 
+assurances of success from the CNIL before coming to its decision. 
+ 
+ 
+--------------------------------------- 
+A Government or Airline Responsibility? 
+--------------------------------------- 
+ 
+¶3. (SBU) In response to our points detailing GOF obligations to 
+provide for aviation security under existing international 
+agreements, Boube said that under French data privacy law this was a 
+responsibility for individual airlines rather than the French 
+government, because the airlines performed the data processing (ref 
+C). He detailed long-standing legal concerns about No Fly screening, 
+including its vulnerability to lawsuits by passengers.  The GOF had 
+decided to inform airlines that they would need to apply to the CNIL 
+for approval of their No Fly screening procedures after an in-depth 
+Ministry of Justice legal analysis.  We requested that we be given a 
+copy. 
+ 
+¶4. (SBU) Boube also indicated that the Civil Aviation Authorities 
+had been tasked with explaining their obligations to the carriers, 
+and had recommended to them that their applications be coordinated 
+under a procedure provided for in the 1978 law on data privacy.  Air 
+France had volunteered to take the lead in producing an application, 
+which other carriers could adopt. 
+ 
+¶5. (SBU) In a follow-up conversation April 21, DGAC Technical and 
+Strategic Affairs Director Paul Schwach, and DGAC Security Chief 
+Jacques le Guillou confirmed that the GOF had considered a number of 
+options before deciding to proceed, including some form of 
+government-to-government agreement. Alternative approaches (a 
+negotiated agreement, a specific law, an additional article added to 
+a US/EU Open Skies agreement etc.) had been rejected, because they 
+would have required Parliamentary approval, including a specific 
+exemption from the legal requirement for approval by the CNIL.  They 
+did not believe that our points about the security provisions under 
+existing agreements such as the Chicago Convention and U.S. France 
+air services agreement addressed these specific requirements under 
+French law. 
+ 
+------------------------- 
+A Collective Application? 
+------------------------- 
+ 
+¶6. (SBU) Schwach and Le Guillou also provided their point of view on 
+what a collective application from the carriers might look like. 
+They noted that Both APIS and PNR data would be concerned by a CNIL 
+review, as both were implicated in name matching.  Transmission to 
+the US would not be part of the case, in their opinion.  They 
+believed that the future quick query/"secure flight" alternative 
+would minimize or eliminate the need for CNIL approval, as the 
+processing would all be done offshore. 
+ 
+¶7. (SBU) Schwach and Le Guillou agreed that the situation of Air 
+France, which applies special procedures for No Fly notification 
+mandated by the GOF, and the fact that much of the U.S airlines' 
+processing was performed offshore, could make a joint application 
+more complicated to prepare. It was unclear whether future EAs or 
+technical modifications to existing procedures would require 
+additional applications to the CNIL.  They did not believe the issue 
+of the security justification or adequacy of NF screening would be 
+raised, but in the end also admitted that the CNIL was independent, 
+and had the authority to judge whether this sort of application was 
+pertinent or not. 
+ 
+¶8. (SBU) In a meeting with Civil Aviation Director Michel Wachenheim 
+April 28, Emboffs and TSA representatives explained the U.S. 
+position, and mentioned in particular Washington concern with the 
+idea that all air carriers apply to the CNIL for approval 
+simultaneously.  Wachenheim said that he could not guarantee that if 
+the data was processed outside of French territory that this would 
+resolve the issue with the CNIL.  He added that he did not believe 
+that the CNIL would ban processing of the No Fly list, but that they 
+might prohibit specific procedures airlines used to match passenger 
+information against the list, or require additional steps such as 
+notification of passengers, echoing the relatively optimistic view 
+of other DGAC interlocutors, who have told us they feel the CNIL 
+would be open to constructive engagement on the issue. He mentioned 
+that future meetings would be held to discuss these issues further 
+within the GOF. 
+ 
+----------------- 
+Air France's View 
+----------------- 
+ 
+¶9. (SBU) After initial consultations with Air France's Legal Staff 
+April 11 indicated that it did not plan to seriously take up the 
+issue until early May, Emboffs met with Air France Vice-President 
+for International Affairs Guy Tardieu April 28 to get its views on a 
+potential application to CNIL.  Tardieu indicated that Air France 
+had not yet reached a decision about how to respond to the DGAC's 
+invitation to carriers to apply to the CNIL.  He indicated that Air 
+France had regular contacts with the CNIL, which had so far 
+tolerated its No Fly screening procedures (e.g. absence of 
+notification of passengers), perhaps with the expectation that 
+offshore processing would eventually solve the problem.  This was 
+Air France's view as well, and he hinted that they might delay 
+submitting an application to the CNIL until the Fall with the hope 
+that the proposed APIS Quick Query (AQQ) System would be operational 
+by then. If an application went ahead, Tardieu believed the CNIL 
+would be realistic, and at most might require a new disclosure 
+statement.  In any case, Air France had not yet coordinated with 
+other airlines, and still needed to assess whether a common 
+application to the CNIL would best serve its interests. 
+ 
+¶10. (SBU) In a May 9 lunch meeting with SGDN's Boube and visiting 
+EB/TRA DAS John Byerly, Economic Minister-Counselor noted that Air 
+France seemed much less seized with the urgency of the issue than is 
+the GOF.  Air France is of the view that proposed future changes in 
+the processing of No Fly name queries in the U.S. (e.g., APIS Quick 
+Query) could obviate the need to go to CNIL.  Boube took the point, 
+and confirmed that the GOF is taking stock of Embassy approaches on 
+the issue over the past few weeks.  The Prime Minister's office is 
+expected to chair a meeting shortly to discuss the entire issue. 
+ 
+-------------------- 
+Our Advice: Go Slow 
+-------------------- 
+ 
+¶11. (SBU) Without dismissing the real concerns that might lay at the 
+base of the GOF's recommendations to airlines to apply to the CNIL, 
+based on what we have heard so far, we think it inappropriate at 
+present to advise U.S. carriers to dive into such murky legal 
+waters, in particular given the absence of any indication from CNIL 
+that this is an urgent requirement. The GOF's reasoning--as they 
+have explained it to us--is primarily political: that it is better 
+to move ahead now, before privacy advocates in Parliament and the 
+CNIL are reinforced by a potentially unfavorable ECJ decision on 
+PNR. However, aside from the uncertainty about what the ECJ might 
+decide, it is clear that it will in any case render a decision 
+before the CNIL considers this case.  In addition, the GOF does not 
+seem to have fully considered the technical complexities of No Fly 
+processing for U.S. carriers, or the impact of GOF-mandated No Fly 
+procedures that affect only Air France before recommending a common 
+application process. Given this, it does not seem likely that the 
+airlines will find it easy to quickly coordinate a common approach. 
+ 
+¶12. (SBU) We will continue to probe for additional details from the 
+GOF on its legal analysis, and to see if some kind of 
+government-to-government approach might provide an alternative way 
+of resolving the issue. 
+STAPLETON

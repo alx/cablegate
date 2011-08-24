@@ -1,0 +1,165 @@
+07HONGKONG1982
+EXTRANCHECK: PRE-LICENSE CHECK: CONCORD CARNIVAL HOLDINGS
+Mon Jul 30 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHHK #1982/01 2110703
+ZNR UUUUU ZZH
+R 300703Z JUL 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 2438
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001982 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: CONCORD CARNIVAL HOLDINGS 
+LIMITED 
+ 
+REF: A) USDOC 06490 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a pre-license check (PLC) of Concord Carnival Holdings Limited with 
+a registered address of 807 Fortress Tower, 250 King's Road, North 
+Point Hong Kong (Concord Carnival). The items in question are 158 
+SRAM memory arrays (Arrays), valued at USD 29,704.  The export 
+control classification number (ECCN) for these items is 3A001 and, 
+according to reftel A, are controlled for national security (NS) and 
+nuclear nonproliferation (NP) reasons.  The license applicant is 
+Austin Semiconductor Inc., of Austin, Texas.  The Hong Kong 
+purchaser of the items is AddCom Solution Limited (AddCom) while 
+Concord Carnival is listed on the license application as the 
+ultimate consignee.  According to documentation provided to the ECO 
+by AddCom, the end-user of the items is the Shanghai Xinwei 
+Electronic Equipment Research Institute, a division of SAST, in 
+Shanghai (SAST). 
+ 
+¶3.  According to the Hong Kong Companies Registry, Concord Carnival 
+has been in existence since June 1997 and has only nominal paid-in 
+capital.  Directors of Concord Carnival are listed as mainland 
+Chinese national Peng, Xingxing as well as Australian nationals 
+Dong, Fang Ming and Dong, Fang Ying. 
+ 
+¶4.  The ECO attempted to arrange a meeting with Jane Qian, the 
+General Manager of Concord Carnival by calling the company's Hong 
+Kong phone number.  That number is actually the phone number of an 
+accounting firm that acts as Concord Carnival's registered office. 
+The accounting firm (discussed below) provided a contact number for 
+Ms. Qian that turned out to be a mainland China mobile phone number. 
+ When contacted, Ms. Qian stated that she typically works from 
+Shanghai and would likely not be in Hong Kong for some time and 
+would therefore not be able to meet the ECO.  Ms. Qian subsequently 
+provided further background information about Concord Carnival by 
+e-mail.  In addition, she encouraged the ECO to meet with AddCom, 
+stating that this company likewise knew all there was to know about 
+the transaction.  Ms. Qian stated that Concord Carnival does not 
+have a physical presence in Hong Kong (aside from its registered 
+address noted above).  It does not appear to have a web presence 
+either. 
+ 
+¶5.  According to the one page corporate description provided by Ms. 
+Qian, Concord Carnival has been in business for over ten years.  Its 
+main business is in mainland China.  Concord Carnival owns, as a 
+partner, a 49% interest in Shanghai Tian Na Logistics Equipment Co. 
+Ltd.  The primary focus of this joint venture is to produce shopping 
+carts.  According to Ms. Qian, the joint venture has over 300 
+employees and turnover in 2006 was RMB 12 million.  Additionally 
+Concord Carnival's 100% owned mainland Chinese subsidiary Shanghai 
+Ao Meng Co. Ltd. has seven employees and 2006 turnover was RMB 10 
+million. The company also acts as agent in import and export 
+transactions mainly in the food, textile and electronics areas. 
+According to Concord Carnival's corporate description, the company 
+was authorized by SAST to obtain the Arrays on SAST's behalf. 
+Concord Carnival has a three-year business relationship with SAST 
+and has provided Souriau brand sockets and 3d-plus, Samsung and 
+Atmel products to SAST in the past. 
+ 
+¶6.  The ECO, accompanied by Commercial Officer, Brock Wilson, 
+visited AddCom, Unit B7, 7/F, Shatin Industrial Building, 22-28 Wo 
+Shui Street, New Territories, Hong Kong on July 25, 2007.  AddCom 
+Customer Service Representative, Ailey So represented AddCom at the 
+meeting.  AddCom's premises consist of a one-room office with two 
+desks and some additional space for product shipments received by 
+AddCom in Hong Kong.  Ms. So was open and forthcoming about the 
+transaction and the activities of AddCom.  She stated that AddCom is 
+an electronics trading and distribution company established in 
+Singapore seven years ago with offices in Malaysia, Thailand, the 
+Philippines, mainland China and Hong Kong.  The Hong Kong office 
+serves the Hong Kong and mainland China market and has been in 
+existence for two years.  Mainland Chinese customers involved in the 
+consumer electronics field typically use AddCom's products.  Ms. So 
+stated that AddCom does not actually export any items itself but 
+rather delivers items to the Hong Kong offices of companies that 
+operate in the mainland or Addcom's customers come to it to pick up 
+the items.  Ms. So stated that AddCom operates in this way to avoid 
+the difficulties associated with getting products through mainland 
+Chinese customs.  She stressed that AddCom's proucts are typically 
+not very high tech and that, as a result, AddCom does not obtain 
+licenses from Hong Kong TID (the Hong Kong export control agency). 
+In the case of the items in question, Ms. So stated that AddCom is 
+checking with TID to determine whether a license will be required to 
+import them into Hong Kong. 
+ 
+ 
+ 
+ 
+¶7.  The ECO provided Ms. So with detailed information concerning 
+U.S. export control requirements related to items subject to U.S. 
+jurisdiction (in particular, items AddCom receives from its U.S. 
+suppliers).  Ms. So stated that she was pleased to receive the 
+materials, stressed that AddCom is keen to comply with export 
+control rules, and indicated that she would provide the information 
+to management at her corporate headquarters in Singapore. 
+ 
+¶8.  When the conversation turned to the transaction at hand, Ms. So 
+stated that this was the first time that AddCom had dealt with 
+Concord Carnival.  She stated that Concord Carnival had come to 
+AddCom for the items because AddCom is Austin's authorized 
+distributor in Hong Kong and mainland China.  So knows little about 
+Concord Carnival.  She further stated that she anticipates that the 
+transaction will involve shipment from the United States to AddCom 
+in Hong Kong.  AddCom, in turn, will deliver the items to Concord 
+Carnival in Hong Kong.  She expects that Concord Carnival will 
+arrange for delivery to mainland China (though she stressed she has 
+no specific information on this point). 
+ 
+¶9.  According to the Hong Kong Companies Registry, AddCom has been 
+in existence since August 2004.  It has the Hong Kong equivalent of 
+USD 5,000 in registered capital.  Its Directors are listed as 
+Singapore nationals Tan, Lee Kim Alison and Tan, Yew Mui Calvin. 
+ 
+ 
+¶10.  On July 26, 2007, the ECO visited the registered offices of 
+Concord Carnival at the address listed above and met with Elsie K. 
+¶K. Cho of George Tso & Co., Certified Public Accountants.  Ms. Cho 
+stated that her company registered Concord Carnival in Hong Kong and 
+maintains the registered corporate address of the company.  She 
+stated that she knows little of the activities of Concord Carnival 
+and further that she believes Concord Carnival has no physical 
+presence in Hong Kong. 
+ 
+¶11.  All parties to the transaction cooperated with the PLC and 
+provided the requested information (although Concord Carnival's 
+representative could not meet within the 15-day time period allotted 
+for the PLC). Additionally, the ECO notes that it is not uncommon 
+for transactions involving mainland companies to be structured so as 
+to involve one or more trading company intermediaries.  At the same 
+time, the lack of a Hong Kong physical presence for Concord Carnival 
+is a concern as is its apparent modest business activities.  The ECO 
+recommends that this PLC be considered Unfavorable.

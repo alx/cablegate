@@ -1,0 +1,199 @@
+05PARIS8153
+France: Telecom and Information Technology Update
+Thu Dec 01 00:00:00 +0100 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 PARIS 008153 
+ 
+SIPDIS 
+ 
+STATE FOR EB/CIP 
+USDOC FOR NTIA AND ITA 
+FCC FOR INTERNATIONAL 
+STATE PLEASE PASS TO USTR 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD FR
+SUBJECT: France: Telecom and Information Technology Update 
+ 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+¶1. This is another in a series of periodic updates on the 
+French telecommunications and information technology 
+sectors, including internet and e-commerce. 
+ 
+Contents: 
+-- Record fine for France Telecom (para 2); 
+-- Hefty fines for French mobile phone operators (para 3); 
+-- France Telecom fined for "negative" ad campaign (para 4); 
+-- Eutelsat relaunches IPO (para 5); 
+-- A new Google AdWord campaign for Sarkozy's UMP Party 
+(para 6); 
+-- Crackdown on internet bloggers (para 7) 
+-- Digital television spreading faster than expected (para 
+8) 
+-- Orange offers first EDGE-enabled BlackBerry in Europe 
+(para 9). 
+ 
+¶2. Record Fine for France Telecom: The French Competition 
+Council (Conseil de la Concurrence) imposed on November 7 an 
+80 million Euro fine on France Telecom (FT), the highest 
+fine ever imposed in its history.  This amount comes on top 
+of another 40 million Euro fine already imposed on FT for 
+failure to respect the interim measures imposed by the 
+Council in this same case.  FT was found guilty of abusing 
+its dominant position on the wholesale market for high-speed 
+Internet access by preventing other telecoms operators from 
+having access to the local loop.  FT Chairman Didier Lombard 
+hit back during the recent International Conference of 
+French Telecoms and Internet consultancy IDATE on November 
+¶27.  Lombard called the fine "disproportionate" and blamed 
+the "two organizations that depend on the State" (i.e. the 
+competition Council and the telecoms regulator ARCEP) for 
+"legal instability" that in turn destabilized FT.  He 
+underscored that FT's approach was a key factor in the 
+development of the broadband market in France, which has 
+become the leading European country both in terms of ADSL 
+lines and number of unbundled lines. 
+ 
+¶3. Hefty fines for French mobile phone operators:  On 
+December 1, three French mobile phone operators, FT Orange, 
+Bouygues Telecom and SFR, have been found guilty of market 
+collusion by the French Competition Council and ordered to 
+pay 530 million Euros in fines.  Orange has been fined 256 
+million Euros while SFR and Bouygues have been handed 220 
+million and 58 million fines respectively.  Orange and SFR 
+have both already said that they would appeal the 
+Competition Council decision.  This fine is the largest 
+single penalty ever levied by the French competition 
+watchdog, which found that the three mobile operators had 
+exchanged confidential commercial information during the 
+period from 1997 to 2003.  The information, shared on a 
+monthly basis, included details of the number of new 
+subscriptions sold during the month, as well as the number 
+of customers that had cancelled their subscriptions.  The 
+Council said that the practices had done "significant 
+damage" to the economy.  The Competition Council began its 
+investigation into market collusion began after the French 
+consumer association UFC-Que Choisir lodged a complaint. 
+UFC-Que Choisir said that it planned to sue the three 
+companies for damages.  The Council said that while the 
+exchanges between the three operators had not related to the 
+price decisions they planned to take, the sharing of 
+information was of the kind that reduced the intensity of 
+competition in the mobile market. 
+ 
+¶4. France Telecom fined for "negative" ad campaign:  FT was 
+fined six million Euros by the Paris Court on November 27 
+for a 2004 advertising campaign that was found to harm 
+competing telecom provider Free.  The fine includes five 
+million Euros for material harm and one million Euros for 
+harm to Free's image.  The doomed campaign underlined that 
+all providers, including Free, were using FT's network. 
+Free, a unit of Illiad Group, launched its first DSL service 
+in 2002, using wholesale lines from FT.  Three years later, 
+the upstart has succeeded in installing its own gear in 
+hundreds of FT switching centers.  Some 69 percent of its 
+customers are now on Illiad's own network. 
+ 
+¶5. Eutelsat relaunches IPO:  Eutelsat Communications, the 
+holding company of Europe's largest satellite operator 
+Eutelsat, announced on November 28 that it relaunched an 
+initial public offering of shares in the company, one month 
+after abandoning its first attempt because of difficult 
+market conditions.  The company aims to raise 860 million 
+Euros from the sale of new shares, and it confirmed that 
+existing shareholders, including investment firms Eurazeo, 
+Texas Pacific Group and Cinven, will not sell any of their 
+holdings as part of the IPO.  The sale process will close on 
+December 1, although the company may close the order book 
+early in case of strong demand.  Eutelsat had originally 
+hoped to raise 1.2 billion Euros from the sale of shares to 
+the public, before reducing its ambitions to 860 million 
+Euros last month in the face of market volatility and 
+analyst claims that the issue was overpriced.  The satellite 
+operator also confirmed its target of 2 percent sales growth 
+for the full year to June 2006. 
+ 
+¶6. A new Google AdWord campaign for Sarkozy's UMP Party: 
+France's center-right UMP Party recently enlisted the help 
+of Google's AdWords to rally support for the policies of its 
+interior minister, Nicolas Sarkozy, concerning the recent 
+suburban unrest in France. In early November, by entering a 
+number of words associated with France's social unrest into 
+a Google search, an ad pointing to a UMP petition would 
+appear.  The ad, which has now been discontinued, read: 
+Suburban violence. Support Nicolas Sarkozy's policy to re- 
+establish order.  Arnaud Dassier, of the UMP's new media 
+department, acknowledges that the party bought AdWords for 
+three different themes related to the unrest (political 
+keywords, and keywords related to Sarkozy and the suburbs). 
+Dassier asserts that despite the criticism the party has 
+received, he sees no ethical problem with using the AdWords 
+service to attract more traffic to the UMP website.  A 
+reported 3000 people have signed the UMP petition in favor 
+of Sarkozy.  Each click on an AdWord cost the UMP money. As 
+a result, anti-Sarkozy bloggers called upon people to raise 
+the UMP's bill by clicking on as many UMP bought AdWords as 
+possible.  It is the first time that a government or party 
+in France has used the services of a widely used website to 
+promote its policies in a time of crisis. 
+ 
+¶7. Crackdown on internet bloggers: The GOF had to police the 
+internet as well as the streets during unrest in early 
+November, as websites, chatrooms and blogs were put to use 
+to encourage and justify the violence.  French prosecutors 
+shut down several blogs and arrested three bloggers 
+suspected of inciting violence during the recent urban 
+unrest that rocked France for more than ten days.  The 
+bloggers allegedly posted messages that violated French 
+criminal statutes governing violent speech.  The blogs in 
+question were hosted on a French site called Skyblog, a unit 
+of French radio station Skyrock.  During the unrest, the 
+rapid flow of news reports and communication via cellphone 
+(including SMS), email, and blogs, seemed to literally fuel 
+the fires to the point that reporters refrained from 
+releasing some information out of concern that reports on 
+the number of cars burned the night before and photos of 
+burning cars were being viewed as trophies by those 
+responsible. 
+ 
+¶8. Digital television spreading faster than expected: 
+Digital Terrestrial TV (DTT) may be received in over 1.035 
+million French homes, amounting to a penetration of 9.5 
+percent in currently covered areas.  On average 40,000 
+adapters are being sold every week and sales increased by 85 
+percent during September and October, according to a recent 
+study by market research institute GFK.  A report on 
+accelerating the launch of DTT services has also been 
+released by France's Broadcasting Authority CSA.  The report 
+highlights the conditions and requirements necessary to 
+ensure that 85 percent of French residents can access DTT 
+services by March 2007. 
+ 
+¶9. Orange offers first EDGE-enabled BlackBerry in Europe: On 
+November 28, France Telecom subsidiary Orange announced the 
+launch of the BlackBerry 8700f in France, the first 
+BlackBerry handheld that is compatible with Orange's EDGE 
+network.  Customers will be attracted by the fact that it 
+leverages the advantages of Orange's high-speed mobile 
+network, the newly optimized BlackBerry handheld platform, 
+as well as a powerful Intel processor to provide exceptional 
+performance for features such as email, phone, text 
+messaging, Internet, organizer and corporate data 
+applications.  The BlackBerry 8700f is expected to be 
+available for Orange's corporate customers in France on 
+December 15, with retail availability planned for January. 
+It will be available in other Orange markets across Europe 
+in a phased rollout during 2006.  Jean Marie Culpin, Vice 
+President Business Solutions for Orange France said that 
+"The EDGE-enabled BlackBerry 8700f from Orange is an 
+excellent choice for our customers who want an unrivalled 
+data and voice experience to keep them connected and 
+productive while they are away from their desk."  Rivals 
+SFR, whose profits declined by 14 percent in 2004, and 
+Bouyges Telecom, which has the smallest market share but saw 
+a 60% increase in its 2004 profits, are sure to feel the 
+pressure to launch a similar high-end offer. 
+ 
+Stapleton

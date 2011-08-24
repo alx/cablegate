@@ -1,0 +1,76 @@
+08HONGKONG2321
+EXTRANCHECK: POST SHIPMENT VERIFICATION: VICTORY WAVE
+Tue Dec 30 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHHK #2321 3650013
+ZNR UUUUU ZZH
+R 300013Z DEC 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 6538
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002321 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: VICTORY WAVE 
+HOLDINGS LTD. 
+ 
+REF: A) USDOC 06826 B) HK 00001(2008) C)HK 00966 (2008) D) HK 02563 
+(2007) E) USDOC 02564 F) USDOC 02565s 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A and B requests and at the direction of the Office 
+of Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) attempted 
+to conduct a post shipment-verification (PSV) at Victory Wave 
+Holdings Ltd., Unit 2401A, Park-In Commercial Centre, 56 Dundas 
+Street, Hong Kong (Victory Wave). The items in question for this 
+check are 8-bit D/A converters transferred to Victory Wave by Arrow 
+Electronics on or about June 4, 2007 and July 12, 2007. All of these 
+items are classified under export control classification number 
+(ECCN) 3A001 and, if properly classified, would be controlled for 
+national security (NS) reasons.  The company that sold the items to 
+Victory Wave was Arrow Asia, the Hong Kong branch office of Arrow 
+Electronics in the United States. 
+ 
+¶3.  As further detailed in reftels B-D, Victory Wave was the subject 
+of a prior PSV and is implicated (directly or indirectly) in several 
+additional unfavorable PSVs.  It is also related to several other 
+problematic companies in Hong Kong including Exodus Microelectronics 
+(the subject of reftels E and F), Echelon Microsystems Limited and 
+Centre Bright, among others.  These companies are, in turn, related 
+or conduct business with a range of problematic mainland China 
+companies.  Based on information received from an industry source, 
+ECO believes that the directors and shareholders of Exodus, Centre 
+Bright, Victory Wave and Echelon are all members of the same family 
+(parents and adult son).  A review of the Hong Kong Companies 
+Registry reveals that the corporate information concerning Victory 
+Wave has not changed since the date of the Victory Wave PSV 
+referenced in reftel B. 
+ 
+¶4.  FCS Commercial Assistant Carrie Chan attempted, on several 
+occasions, to set up a meeting with representatives of Victory Wave 
+at a range of contact numbers (including those provided by OEA).  No 
+one answered at any of the applicable numbers.  ECO subsequently 
+sent a registered letter to Victory Wave requesting a meeting.  The 
+Hong Kong Post Office confirms that a representative of Victory Wave 
+signed for the letter at the Park-in Commercial Centre address; 
+however, ECO remains unable to schedule the PSV and has not heard 
+further from Victory Wave. 
+ 
+¶5. Based on the information noted above, ECO believes that Victory 
+Wave is a most unsuitable recipient of U.S. origin controlled 
+technology.  Further, ECO recommends that Victory Wave be added to 
+the BIS Unverified List and/or Entities List.

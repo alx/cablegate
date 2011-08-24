@@ -1,0 +1,282 @@
+09PARIS872
+AVIATION EXPORT CONTROL MEETINGS JUNE 15-22
+Fri Jun 26 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHFR #0872/01 1771418
+ZNR UUUUU ZZH
+R 261418Z JUN 09
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 6556
+INFO RUEKJCS/DEPT OF DEFENSE WASHDC
+RUCPDOC/USDOC WASHDC
+RUEHZL/EUROPEAN POLITICAL COLLECTIVEUNCLAS PARIS 000872 
+ 
+SENSITIVE 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+SIPDIS 
+ 
+DOD FOR RAMAKDAWALA 
+ 
+E.O. 12958: N/A 
+TAGS: EAIR ETRD ECON ETTC FR
+SUBJECT: AVIATION EXPORT CONTROL MEETINGS JUNE 15-22 
+ 
+¶1. (SBU) Summary:  On the margins of the Paris Air Show, Post 
+facilitated meetings among USG, GOF, and industry representatives to 
+discuss export control systems related to aviation.  A strong 
+turn-out confirmed a common interest in improving awareness and 
+transparency of export licensing systems, and stepped-up dialogue 
+among policymakers and industry majors.  Priority issues raised by 
+the 63 participants included: license processing time, paperless 
+applications, transactional- based versus global and program 
+licensing; embedded sub-systems in higher end-use products; 
+certified companies; prospects for an integrated export control 
+regulatory entity; and the impact of new EU directives on U.S.-EU 
+defense export trade.  See Para 15 for consensus follow-up 
+recommendations/actions.  End summary. 
+ 
+Meeting Participants 
+-------------------- 
+ 
+¶2.  (U) On June 16-17 Robert S. Kovac, Acting Deputy Assistant 
+Secretary for Defense Trade, led a U.S. interagency delegation in 
+meetings with European industry leaders, a high-level bilat with GOF 
+export control officials, and a working lunch with U.S. and European 
+aerospace industry executives.  Separately, the Commerce Department 
+led two educational outreach technical seminars in Paris (June 17) 
+and Toulouse (June 22), with roughly 40 participants in each and 
+support from US and European trade associations, GIFAS, AIA, and 
+USAIRE. 
+ 
+The Evolving Context for Export Controls 
+--------------------------------------- 
+ 
+¶3.  (U) Kovac opened the meetings by noting changes in the defense 
+product market since the enactment of the Arms Export Control Act 
+(AECA).  No longer are end-users limited to foreign governments who 
+import mature, tested technologies designed solely for military use. 
+ With increased leveraging of commercial technologies, the 
+definition of a defense article has evolved and certain products 
+have valid non-military applications that may no longer pose threats 
+to national security.  The point was echoed by an EADS executive who 
+noted that the aviation sector's trend toward globalization renders 
+some export legislation out-of-date.  Although the U.S. and French 
+and European systems differ in terms of requirements, basis in law 
+and objectives, participants agreed on the need to adapt to the new 
+context and work together for a more efficient and effective 
+system. 
+ 
+License Processing Time 
+----------------------- 
+ 
+¶4.  (U) The U.S. delegation highlighted recent improvements in 
+license processing time: 15 days instead of the previous 45-day 
+average.  Cases running over 60 days are due to specific national 
+security concerns, of which two-thirds stem from Congressional 
+notification requirements.  GOF officials noted it takes four months 
+for France's two-stage licensing process.  Within two months, 
+companies obtain prior approval to enter into contract negotiations. 
+ The remaining processing time is for licensing of exports once a 
+contract has been signed.  Out of the nearly 10,000 applications per 
+year, France grants prior approval to negotiate to 6,000 applicants. 
+ Export license processing for dual-use goods is roughly 18 days. 
+ 
+Global and General Licenses 
+---------------------------- 
+ 
+¶5.  (U) GOF officials explained their use of Global Prior Approvals 
+and Global Export Licenses for non-sensitive military goods with the 
+EU and associated countries.  The Global License is considered at 
+the request of the exporting company, which argues its case and 
+presents a list of equipment, subcontractors, and partners.  For 
+companies with a small number of applications for a single end-user 
+(nearly 20 percent of all cases), a simplified electronic procedure 
+is now used that saves up to 30 days.  Other global licenses exist 
+for non-sensitive transfer between national branches of European 
+companies (e.g. EADS, Thales, Eurocopter).  The GOF exempts from 
+licensing procedures some products that fall within the framework of 
+an approved technical cooperation agreement on aircraft programs 
+(e.g. Airbus A400M, Tiger Helicopter).  The companies involved, and 
+equipment allowed, are narrowly defined by France's 
+Inter-ministerial Commission for the Study of War Material Exports 
+(CIEEMG). 
+ 
+¶6. (U) The GOF grants "General Licenses" for transfers of dual-use 
+goods published in the national customs regulations.  These 
+transfers occur among certified EU members and seven associated 
+countries, including the United States, GOF officials explained. 
+GOF representatives said this approach represents a cultural shift 
+in Europe for export-control policies. 
+ 
+Dialogue on USG Policy 
+---------------------- 
+ 
+¶7.  (U) AIA representatives expressed regret over the USG's 
+perceived lack of trust in U.S. companies.  They encouraged 
+dissemination of information to U.S. companies and the Congress on 
+the impact of U.S. export controls on the defense product market. 
+EADS Group Export Compliance Officer recommended increased dialogue 
+among Congress, the European Parliament, and European industry 
+majors. In Europe, there needs to be more transparency regarding USG 
+policy.  Thales VP for Ethics and Corporate Responsibility pressed 
+for GOF/USG officials to build confidence, trust, and increase 
+exchanges with companies. 
+ 
+End-User Liability 
+------------------ 
+ 
+¶8.  (SBU) GOF and French industry representatives pointed out that 
+the U.S. transaction-driven system does not recognize the EU as a 
+"trusted community" benefitting from a blanket waiver.  A/DAS Kovac 
+raised his concerns on coordination and procedures to remove a 
+company or country from the EU community.  How will differing 
+judgments on bona fide status be reconciled?  Who evaluates the 
+company, influences the certification process, and ensures integrity 
+of compliance with the license and other approval conditions?  If no 
+national government takes responsibility, is there an independent 
+certification authority for effective liaison and coordination with 
+ombudsmen? 
+ 
+¶9.  (SBU) With growing numbers of company mergers and acquisitions, 
+shipment tracking has become more difficult.  Liability and 
+responsibility concerns also surround transfers from tier-one 
+companies to subcontractors or partners in another country, Kovac 
+noted.  It is crucial to identify the end-use in order to address 
+successor liability and meet certification standards.  This reduces 
+the risks posed by front companies, and the number of problems 
+clearing U.S. customs. 
+ 
+¶10.  (U) GOF officials described their due diligence on companies 
+seeking export licenses.  But it was unclear who manages "certified 
+companies" and obtains assurances of ongoing compliance with license 
+requirements.  Kovac recommended that French companies indicate 
+whether they have obtained prior approval for a specific product 
+from the Prime Minister's office (SGDN) when applying for a USG 
+license; such approval can be viewed as prima facie evidence the 
+company is bona fide and the product has a proper end-use. 
+ 
+End-use issues 
+------------- 
+ 
+¶11.  (SBU) EADS told the group its biggest challenge is the 
+incorporation of U.S. products into EU programs.  The company wants 
+to comply with both GOF and USG rules, and is on occasion forced to 
+ground aircraft and redesign parts to gain full control over its 
+product.  Some companies have resorted to advertising "Itar-free" 
+products for a competitive advantage, Kovac noted.  Such companies 
+could be considered by the USG as less-than-responsible partners in 
+export decisions. 
+ 
+Intra-EU Transfers Directive 
+---------------------------- 
+ 
+¶12.  (U) GOF and European industry drew attention to the 
+recently-approved EC Defense Package that establishes a pan-European 
+defense market through licensing and defense acquisition reform. 
+The EU directive on intra-EU transfers simplifies terms and 
+conditions for defense-related products.  Within two years, EU arms 
+transfer procedures will be under the purview of the European 
+Commission.  In coming months, the GOF plans to replace its national 
+export control list (in existence since 1991) with the European 
+common list of military equipment which includes the regular updates 
+of the Wassenaar Munitions List. 
+ 
+¶13.  (U) Participants underscored the importance of the creation of 
+a European Base for Industrial and Technological Defense (EDTIB), 
+which underpins European Security and Defense Policy.  They noted 
+that EDTIB aims at developing an integrated, less duplicative, 
+European equipment and systems supply marketplace with lower 
+transaction costs, enhanced security of supply and greater 
+industrial cooperation.  Given that the USG does not recognize the 
+"EU trusted community", ITAR restrictions will apply to re-exports 
+of USG-controlled items throughout the EU, while European-made 
+equipment will benefit from cheap, simplified and accelerated 
+procedures regarding transfers among member states.  (Comment:  This 
+could constitute a comparative advantage for European suppliers in 
+the assessment of security of supply criteria by favoring 
+procurement in the EU, a situation likely to disadvantage U.S. 
+bidders.  End comment.) 
+ 
+Educational Outreach Technical Seminars 
+--------------------------------------- 
+ 
+¶14. (U) Commerce/BIS, Defense/DTSA and State/DDTC export control 
+specialists conducted introductory and intermediate educational 
+outreach seminars on dual-use and ITAR controlled trade at the PAS 
+and in Toulouse.  For those wishing to discuss company-specific 
+export control issues, they also held individual counseling 
+sessions.  USG speakers presented their insights to a total of 80 
+participants on how commodity jurisdictions and license applications 
+are evaluated by various agencies, the information they weigh, and 
+how this information substantiates recommendations.  In Toulouse, 
+their program also included a visit to the A380 mock-up facility. 
+ 
+ 
+Follow-up topics for discussion 
+------------------------------- 
+ 
+¶15.  (SBU) The following areas were flagged for follow-on discussion 
+or action: 
+ 
+-- hold a second bilateral meeting this year once senior GOF MFA and 
+USG senior export control officials have been named (the MFA 
+recalled it is in the midst of creating a new interagency 
+secretariat that it will chair to cover dual-use items); 
+ 
+-- USG review of the ITAR licensing jurisdiction and determination 
+of products that can be removed from control; 
+ 
+-- French officials stated they are conducting a comprehensive 
+review of the national export control list; 
+ 
+-- DDTC will inform GOF and industry on possible modifications to 
+AECA/ITAR; 
+ 
+-- bolster bilateral dialogue on irresponsible countries; 
+ 
+-- discuss a system to work out compliance problems using an 
+ombudsman or hotline so European companies understand U.S. law; 
+ 
+-- further discussions on creating harmonized procedures for 
+licensing multinational companies in a manner that capture differing 
+laws, sanctions, commitments; 
+ 
+-- discuss intangible transfers and shared concern about the 
+protection of highly sensitive know-how in areas of safeguarded 
+technologies; 
+ 
+-- complete conversion to paperless license processing procedures, 
+and improve processing delays to respond to industry's concerns; 
+ 
+-- further discussion on embedded Itar-controlled subsystems in 
+civil aircraft; 
+ 
+-- strengthen USG awareness of GOF regulations and practices that 
+ensure ongoing company compliance with U.S. export control rules; 
+ 
+-- create European mechanisms for tracking and auditing company's 
+bona fide status, operations and documents to avoid diversion or 
+unauthorized use of U.S. origin products; 
+ 
+-- ASD proposed that the Society for International Affairs (SIA) add 
+an export control conference for transatlantic dialogue between 
+companies (in 2010) and asked for DDTC support. 
+ 
+¶16.  Comment: A diplomatic as well as technical success, the 
+export-control meetings clearly met a transatlantic demand for 
+governments and industries to engage more frequently.  It also 
+underscored a shared commitment to improve efficiency of existing 
+systems.  Participants indicated they appreciated learning about how 
+the process works, but perhaps more importantly simply having an 
+opportunity to meet those involved in the process in Washington. 
+Embassy Paris expresses its appreciation USDOC/BIS, Defense/DTSA and 
+State/DDTC for supporting this program. 
+ 
+¶17.  (U) This cable was cleared by Acting DAS Kovac. 
+ 
+Pekala

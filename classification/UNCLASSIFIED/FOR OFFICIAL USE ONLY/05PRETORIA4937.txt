@@ -1,0 +1,220 @@
+05PRETORIA4937
+SOUTH AFRICA TELECOM REGULATOR CONSULTS WITH
+Tue Dec 20 00:00:00 +0100 2005
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Pretoria
+VZCZCXRO0905
+RR RUEHDU RUEHJO RUEHMR
+DE RUEHSA #4937/01 3541031
+ZNR UUUUU ZZH
+R 201031Z DEC 05
+FM AMEMBASSY PRETORIA
+TO RUEHC/SECSTATE WASHDC 0563
+INFO RUCNSAD/SOUTHERN AFRICAN DEVELOPMENT COMMUNITYUNCLAS SECTION 01 OF 03 PRETORIA 004937 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+ 
+FCC FOR PBOATENG 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS EINV ECON SF
+SUBJECT: SOUTH AFRICA TELECOM REGULATOR CONSULTS WITH 
+FCC 
+ 
+ 
+SENSITIVE BUT UNCLASSIFIED; PROTECT ACCORDINGLY.  NOT 
+FOR INTERNET DISTRIBUTION. 
+ 
+REF: (A) PRETORIA 3001 
+(B) PRETORIA 1441 
+ 
+¶1. (SBU) SUMMARY.   Three FCC advisors met with 
+telecommunications regulator ICASA (Independent 
+Communications Authority of South Africa) to provide 
+technical advice on competition and pricing during 
+September 28-30.  FCC presentations covered US 
+regulations and policies regarding pricing and 
+fostering competition. ICASA is regarded by the 
+telecommunications industry as a weak regulator unable 
+to develop meaningful competition to the monopoly 
+provider Telkom. FCC and ICASA concluded that they 
+would continue to consult on the development of 
+competitive alternatives to Telkom and, strengthening 
+ICASA's capacity. END SUMMARY. 
+ 
+¶2. (U) At the request of the Independent Communications 
+Authority of South Africa (ICASA, the 
+telecommunications regulator), a team of three senior 
+officials from the Federal Communications Commission 
+(FCC) traveled to Johannesburg September 28-30 to 
+provide advice on regulatory matters.  The FCC team 
+included Advisor for Africa and the Middle East Patrick 
+Boateng, as well as Senior Advisor Jake Jennings and 
+Senior Economist Chuck Needy of the Office of Strategic 
+Planning and Policy Analysis.  Participating from ICASA 
+were five of seven Councilors (equivalent to FCC 
+Commissioners), technical and policy experts from 
+ICASA, telecommunications industry representatives, 
+Department of Communications (DOC) policy officials, 
+and two Parliamentarians from the Portfolio Committee 
+on Communications.  FCC presentations included 
+unbundling the local loop to promote competition, 
+pricing models for fixed and mobile services, as well 
+as regulating undersea cable, broadband services, voice- 
+over-Internet protocol (VoIP), and inexpensive Internet 
+for schools. 
+ 
+¶3. (U) The top priority for ICASA was to address the 
+public outcry over high telecommunications prices. 
+According to a market assessment study completed by 
+Genesis Analytics in April 2005, telecommunications 
+prices in South Africa were considerably higher than 
+developed countries and most countries in its peer 
+group.  Out of ten categories surveyed, prices in South 
+Africa ranked the highest in the following five 
+categories: international leased lines, business-local 
+calls, business-ADSL, retail-ADSL, and domestic leased 
+lines.  South African prices ranked second highest in 
+business-mobile calls. (Ref A). 
+ 
+¶4. (U) In advance of the FCC visit, ICASA conducted a 
+needs assessment to identify areas for discussion.  The 
+assessment identified five topics: VoIP regulation and 
+access to emergency services, broadband regulation in 
+general, pricing for telecommunications services, 
+universal access (with particular emphasis on the 
+implementation of the education-rate), and regulation 
+of inappropriate content on mobile telephones.  In 
+addition, the FCC team met with ICASA Councilors before 
+starting the two and a half day consulting session to 
+better understand ICASA needs. 
+ 
+Industry Views 
+-------------- 
+ 
+¶5. (SBU) Industry representatives from Motorola, IBM, 
+and WorldSpace also met with the FCC team before its 
+consulting session with ICASA to identify areas where 
+ICASA needed assistance.  Also participating in this 
+meeting were a former Chief Operating Officer for 
+Telkom (from SBC) and a legal advisor to a former ICASA 
+Chairperson.  To a person, they each expressed 
+frustration in their dealings with ICASA, an agency 
+they criticized as being weak and incapable of 
+fulfilling its mandate.  Industry representatives also 
+characterized ICASA as becoming increasingly 
+politicized.  As a case in point, they highlighted the 
+compromise appointment of new ICASA Chairperson Parish 
+Mashile, who they felt was inexperienced and probably 
+incapable of providing the leadership needed to keep 
+ICASA independent. 
+ 
+¶6. (SBU) Industry representatives also believed that 
+ 
+PRETORIA 00004937  002 OF 003 
+ 
+ 
+the Minister of Communications held the balance of 
+power on regulatory matters, and was pushing for even 
+greater control.  As it stood, ICASA was wholly 
+dependent upon DOC for line item funding.  Unlike the 
+FCC, which derived more than 90% of its revenues from 
+licensing fees and frequency auctions, ICASA was 
+beholden to DOC for funding.  This hamstrung its 
+mission, left it chronically short of funds, and caused 
+many experienced staffers to seek greener pastures. 
+They also pointed out that, at the time, DOC was 
+pushing for passage of the Convergence Bill, now called 
+the Electronic Communications Bill (Ref B).  The 
+purpose behind this legislation was to make ICASA the 
+sole regulator for telephony, post, Internet and data 
+communications, as well as broadcast radio and 
+television.  However, a DOC-sponsored amendment to the 
+bill could have the Minister of Communications 
+appointing the ICASA chairperson and all ICASA 
+councilors.  This would threaten the independence of 
+ICASA and further politicize the regulatory process. 
+ 
+¶7. (SBU) Industry representatives expressed support for 
+the development of a strong regulator.  However, 
+frustrated with ICASA's performance, they seemed 
+prepared to lobby DOC to achieve their individual 
+objectives.  They were aware that if they took this 
+route, they risked marginalizing ICASA.  Moreover, they 
+believed that DOC possessed even less regulatory 
+capacity than did ICASA. 
+ 
+FCC Presentations 
+----------------- 
+ 
+¶8. (U) The FCC team opened the session with an overview 
+of the U.S. system.  Boateng spoke about the FCC as an 
+agency and its regulatory processes.  Jennings spoke 
+about the U.S. regulatory framework and FCC policy 
+goals, as well as fostering local competition and the 
+roll out of broadband in the United States.  Jennings 
+then led discussions on IP-enabled services (such as 
+VoIP) and access to emergency services, as well as 
+market power and market definition.  Boateng led 
+discussions on alternative broadband technologies 
+(WiFi, WiMax, broadband over powerlines), as well as 
+administration of the U.S. Universal Service Fund. 
+Needy led a discussion on fixed line and mobile 
+telephone pricing, as well as undersea cable access and 
+regulation.  Boateng concluded with a presentation on 
+the administration of the U.S. Universal Service Fund. 
+ 
+¶9. (SBU) ICASA sought expert advice on developing 
+regulation that would enable a Second National Operator 
+(SNO) to compete against Telkom and on ways to increase 
+competition.  According to the FCC, ICASA could 
+significantly reduce or eliminate the rates that Telkom 
+charged for network access.  One way would be for ICASA 
+to use foreign prices as benchmarks for access to 
+leased lines, interconnections, and switched access. 
+ 
+Fostering Competition 
+--------------------- 
+ 
+¶10. (SBU) Fostering competition was a major concern of 
+ICASA officials.  South Africa had no coaxial cable 
+television companies operating in its market and, 
+therefore, this option for promoting competition was 
+not viable.  The most immediate option appeared to be 
+Eskom, South Africa's giant parastatal electric 
+utility, which owned its own telecommunications network 
+as well as a power grid that could be used to transmit 
+broadband.  Eskom held a 30% share of the soon-to-be- 
+licensed second national operator and a supplier 
+relationship with municipal electric utilities that it 
+could explore to role out local broadband services. 
+[Note: In December 2005, ICASA finally issued a license 
+to the second national operator (Septel). End Note.] 
+ 
+Stronger Regulation Needed 
+-------------------------- 
+ 
+¶11. (SBU) FCC and ICASA concluded that they would 
+continue to consult on the following initiatives: the 
+development of competitive alternatives to the dominant 
+provider Telkom via wireless broadband (WiFi/WiMax) and 
+broadband over power lines; the reduction of access 
+rates through stronger regulation and the use of 
+foreign prices as benchmarks; and, strengthening 
+ICASA's capacity politically, financially, as well as 
+ 
+PRETORIA 00004937  003 OF 003 
+ 
+ 
+operationally.  The FCC advisors and ICASA participants 
+independently reported that the exercise "exceeded 
+expectations." 
+ 
+¶12. (U) Cable is based on FCC trip report. 
+ 
+ 
+TEITELBAUM

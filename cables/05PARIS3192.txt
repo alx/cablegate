@@ -1,0 +1,244 @@
+05PARIS3192
+FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR.
+Wed May 11 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+111349Z May 05UNCLAS SECTION 01 OF 03 PARIS 003192 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR); 
+EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR. 
+ALEXANDRE GALDIN - PRINCIPAL CANDIDATE FOR INDIVIDUAL 
+PROGRAM. 
+ 
+REF: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 285 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - INDIVIDUAL Program - Alexandre Galdin 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 13 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Foreign Policy 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Alexandre 
+M-NAME: 
+L-NAME: Galdin 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Secretariat General de la 
+M-ADDR2: Defense Nationale - SGDN 
+M-ADDR3: 51, boulevard de Latour Maubourg 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75700 07-SP 
+M-ZIP: 
+M-PHONE: + (33) 1.71.75.80.04 
+M-FAX: + (33) 1.71.75.80.40 
+M-EMAIL: alexandre.galdin@SGDN.pm.gouv.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 01/05/1968 
+MAR-STAT: M 
+BIRTH-CITY: Paris 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Advisor in charge of inter-ministerial coordination for 
+security and defense matters, General Secretariat for National 
+Defense (SDGN), since February 2004 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Since April 2001: 
+- Vice-President (UMP) of the Financial and Open Markets 
+Commission of the Paris Council 
+- Elected Advisor (UMP) to Paris 15th district 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+- June 2002-December 2003 - Parliamentary Assistant to the 
+Minister of Research and New Technologies Claude Haignere 
+- January-December 2002 - President of the French section of 
+the Atlantic Association of Young Political Leaders 
+- January-May 1995 - Assistant to Rene Dejean then Treasurer 
+of the Presidential Campaign of Edouard Balladur 
+February 1994-June 2002 - Parliamentary Assistant to Rene 
+Dejan then Deputy-Mayor (RPR) of Paris 15th district 
+- 1993-1994 - President of the Conference Olivaint 
+(Independent Political Education Center for all parties 
+created in 1875) 
+- September 1992-December 1993 - National Service in the Navy 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+- Egypt, Turkey - 2004 for tourism 
+- Greece, Italy - 2003 for tourism 
+- Morocco, Malta - 2002 for tourism 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+2000 - Center for Higher Studies in Armament (CHEAr), fellow 
+in the 36th session 
+1992 - Master in Business Law 
+1991 - Degree in Public Administration, Institute of Political 
+Studies of Paris 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+- Member of the French section of the Atlantic Association for 
+Young Political Leaders (AAYPL) 
+- Member of the CEPS (Center for Strategic Studies) 
+- Member of the Board of the CHEAr (Center for Higher Studies 
+in Armament attached to the Ministry of Defense), since 2000 
+- Financial Agent for the Political Group "Association Paris 
+15th district", since 1995 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 2 
+ENGL-SPEAK: 2 
+ENGL-COMP: 2 
+START MEMO NOM-POST-OBJ: 
+Alexandre Galdin is a fast-rising expert on defense and 
+security matters for the French government who has a bright 
+career ahead of him.  He has the ear of UMP politicians and is 
+in a position to influence French government representatives 
+for years to come.  A trip to the U.S., where he has never 
+been before, would provide him expertise to better appreciate 
+American policies, to start to build a network of contacts and 
+to help him communicate a positive view of the value of 
+transatlantic cooperation. 
+Given the SGDN's focus on regional conflicts, on counter- 
+terrorism and on other security and defense matters, Mr. 
+Galdin would be able to draw on his experience in the I.V. 
+Leadership program.  This type of investment is sure to have a 
+positive influence on the Post's long-term MPP Goals. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Post recommends that we send him as an individual grantee on a 
+project dealing with Foreign Affairs and Security issues. 
+Post also suggests that Galdin meets with political 
+consultants and gains a better understanding of the domestic 
+American policy-making process. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Caroline Gorse-Combalat 
+START MEMO NOMINATING-JUSTIFICATION: 
+In the General Secretariat for National Defense (SGDN: inter- 
+ministerial agency attached to the Prime Minister's Office), 
+Alexandre Galdin works in close contact with the Secretary 
+General of National Defense who advises the Prime Minister on 
+defense, security, foreign affairs, domestic, economic and 
+financial issues.  The SGDN role is to help out the General 
+Secretary of the Government coordinate its tasks, prepare 
+ 
+SIPDIS 
+Cabinet meetings and draw up reports. 
+As advisor in charge of the inter-ministerial coordination of 
+defense and security matters, Galdin has demonstrated his 
+capacity to be an influential actor in the field of defense 
+and foreign affairs issues. 
+In the UMP, Alexandre Galdin has already held strong positions 
+as Assistant to the presidential campaign of Edouard Balladur 
+in 1995, as member of the board of the French section of the 
+Atlantic Association for Young Political Leaders from 1996 
+until 2002, as member of the RPR departmental committee of 
+Paris in 1998 and now as Vice-President (UMP) of the Financial 
+and Open Markets Commission of the Paris Government.  Again, 
+in these instances, Alexandre Galdin has developed his 
+influence and expects to play a growing role in the future. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: PA - U.S. Embassy Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: INTERPRETER 
+NOMINEE-ID: 572 
+PERSON-ID: 471 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: I 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

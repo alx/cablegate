@@ -1,0 +1,236 @@
+05PARIS7301
+France: Telecom and Information Technology Update
+Tue Oct 25 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 PARIS 007301 
+ 
+SIPDIS 
+ 
+STATE FOR EB/CIP AND INR/B 
+USDOC FOR NTIA AND ITA 
+FCC FOR INTERNATIONAL 
+STATE PLEASE PASS TO USTR 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD FR
+SUBJECT: France: Telecom and Information Technology Update 
+ 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+¶1. This is another in a series of periodic updates on the 
+French telecommunications and information technology 
+sectors, including internet and e-commerce. 
+ 
+Contents: 
+-- GOF hopes for "dialogue" on internet governance (para 2) 
+-- France holds its own on broadband growth, but not in 
+Europe's top tier (para 3) 
+-- Another (virtual) mobile operator expected soon (para 4) 
+-- Huge demand for WiMax licenses creates new headache for 
+regulator (para 5) 
+-- Orange makes deals to offer mobile customers more content 
+(para 6) 
+-- ARCEP announces three new bureau chiefs (para 7) 
+-- Government stake in France Telecom falls to 33.1% (para 
+8) 
+-- France Telecom buys out Orange Slovakia (para 9) 
+-- Regulator submits relevant market analysis for fixed 
+telephony (para 10) 
+ 
+¶2. (SBU) GOF hopes for "dialogue" on internet governance: 
+EconOff met with French Ambassador and head of the Foreign 
+Ministry office for WSIS preparations Jean-Michel Hubert on 
+October 25 to discuss the current impasse between the USG 
+position and the EU/UK proposal on internet governance. 
+Hubert made several points (septel), which focused mainly on 
+key words and their definitions.  He noted in particular 
+that the word "oversight" appeared the four principles 
+released by the USG in June 2005, but not in the EU/UK 
+proposal.  He also noted that the word "regulation" has 
+different meanings in English (both making/defining rules 
+and implementing them) and in French (it means only the 
+latter).  Indeed, the word regulation has a negative 
+connotation in English, whereas many French politicians use 
+it as a kinder, softer substitute for the word governance, 
+which has a more heavy-handed connotation.  However, 
+Hubert's main point during the discussion came down to 
+whether the USG will entertain a dialogue on the subject of 
+internet governance.  He and the GOF clearly hope that the 
+U.S. position will not forestall a dialogue (a word he 
+equated with negotiation) on the subject. 
+ 
+¶3. (U) France holds its own on broadband growth, but not in 
+Europe's top tier:  According to recently released June 2005 
+OECD statistics, France ranks fourteenth among the 30 OECD 
+member countries in terms of broadband penetration (12.8% of 
+French inhabitants), above the OECD average, but well below 
+the top five cut-off point of 20%.  France came in just 
+behind the U.K. (13.5%) and roughly mid-way between its 
+neighbors Belgium (18.2%) and Germany (10.2%).  France's 
+growth rate (net increase Q2 2004 to Q2 2005) for broadband 
+penetration was a respectable 4.77%, which was the tenth 
+fastest among the same group of 30 OECD member countries. 
+GOF efforts to promote broadband availability and use have 
+clearly made headway -- enough to leave policy-makers 
+satisfied perhaps, but not enough to gain any significant 
+notice, much less, praise among France's OECD peers. 
+ 
+¶4. (U) Another (virtual) mobile operator expected soon: 
+Entrepreneur Richard Branson is reportedly in talks with the 
+Carphone Warehouse Group, Europe's largest independent 
+mobile phone retailer, about forming a joint venture to 
+bring Virgin phones to customers across France.  On October 
+24, the companies said they hoped to form a Mobile Virtual 
+Network Operator (MVNO), which would buy airtime wholesale 
+and offer services by piggy-backing over the network of 
+dominant mobile phone operator Orange.  Although the joint 
+venture will trade as Virgin Mobile, it will build on 
+Carphone's regional mobile operation, known as Omer, in the 
+northwest region of Brittany.  Under the brand name MVNO 
+Breizh Mobile, Omer has built up its customer base in France 
+to som4 48,000 clients, which it hopes to grow to 100,000 by 
+early 2006.  Industry sources familiar with talks said the 
+Virgin venture was likely to be 50% owned by Carphone and 
+50% by Virgin Mobile and parent Virgin Group.  A launch, if 
+negotiations go according to plan, is expected in the first 
+half of next year.  The French regulator ARCEP had hoped to 
+bring more competition to the French mobile market through 
+MVNOs.  However, earlier this year, the European Commission 
+struck down an ARCEP move to force operators (FT's Orange, 
+SFR owned by Vivendi Universal and Vodaphone, and Bouyges 
+Telecom) to open their networks to lower-cost MVNOs, saying 
+it was unnecessary.  As a result, MVNOs have had limited 
+success in France.  Swedish telecoms operator Tele2 set up a 
+French MVNO using Orange's network, but company officials 
+estimated that virtual network operators had captured less 
+than one percent of the market since Germany's Debitel 
+signed one of the first French MVNO deals with SFR last 
+year. 
+ 
+¶5. (U) Huge demand for WiMax licenses creates new headache 
+for regulator:  Surprised by the outpouring of demand across 
+a broad spectrum of businesses for Wimax, telecom regulator 
+ARCEP now must decide among 175 candidates, which will get 
+the two available licenses.  Of the 175 total, 32 have 
+requested national licenses, 67 come from townships and 
+other local government groups (20 from regions and 39 from 
+departments, which cover smaller areas).  Observers say that 
+the regulator is overwhelmed with the prospect narrowing 
+such a large field and hopes to avoid what happened in 2000 
+when local radio loop licenses were awarded to the largest 
+operators, which was described as a disaster by former ARCEP 
+board member Dominique Roux, who said that the license 
+winners had lied and were the worst candidates.  As a 
+result, many start-ups not only failed to get licenses, but 
+failed entirely as business ventures.  The selection process 
+which was a modified "beauty contest" added an financial 
+auction component to weed out candidates.  According to 
+ARCEP board member Gabrielle Gauthey, the trama of the bad 
+experience with local radio loop licenses naturally leads 
+one to consider a pure auction system.  The only decision 
+about the selection process that has clearly been taken so 
+far is that licenses will be attributed region by region, 
+despite protests from local government groups, which had 
+pushed for distribution by departments. 
+ 
+¶6. (U) Orange makes deals to offer mobile customers more 
+content:  Canal Plus, the largest French film and television 
+group, has teamed up with France's largest mobile phone 
+operator, Orange, to commercialize content for mobile 
+phones.  Canal Plus is the first media group to wager on new 
+specially adapted television formats for mobile phones and 
+the group hopes to distribute it widely among French cell 
+phone users.  Betting one thing that is bound to be a draw, 
+Canal Plus and Orange will share rights to distribute soccer 
+and rugby sporting events.  Ironically, Canal Plus is a 
+subsidiary of Vivendi Universal, which owns over 50% of SFR, 
+Orange's largest competitor.  As a result of a second deal, 
+starting October 17, French consumers were able to download 
+Madonna's new single "Hung Up" on their cell phones before 
+its physical release.   This world premiere initiative is 
+part of a partnership between Warner Music, France Telecom 
+and Orange.  The offering is part of an exclusive national 
+multi-platform marketing campaign, which supports Madonna's 
+new album, which will be released internationally on 
+November 14. 
+ 
+¶7. (U) ARCEP announces three new bureau chiefs:  National 
+regulatory authority for electronic communication and postal 
+services announced three new "chefs de service" or bureau 
+chiefs on October 20.  From her previous post as President 
+of the Administrative Tribunal and before that a court 
+reporter in the Paris Appeals Court, Joelle Adda takes over 
+the legal affairs division.  Isabelle Kablas-Langlois will 
+be in charge of the economic and planning division, bringing 
+with her a wealth of experience from France's leading agency 
+for economic statistics and analysis, INSEE, as well as 
+working on competition and regulatory issues at French 
+energy utility Electricite de France.  Kablas-Langlois has 
+also published several articles on patents and innovation. 
+The new third division chief, Guillaume Lacroix, will focus 
+on postal regulation. 
+ 
+¶8. (U) Government stake in France Telecom falls to 33.1%: 
+In early-September, France Telecom announced a new share 
+offering that dilutes the GOF stake considerably.  The three 
+billion euros ($3.7 billion) of new shares offered helped to 
+finance its acquisition of Spanish wireless operator Amena, 
+which was announced last July.  The deal comes amid a number 
+of large share offerings in France this year, most of which 
+are aimed at helping the state cut debt.  In June, the 
+government sold 3.4 billion euros of FT shares; in July, it 
+raised 2.5 billion euros through a partial privatization of 
+Gaz de France SA; and within the next several weeks, the GOF 
+is expected to launch a partial privatization of the world's 
+larges power company, French utility Electricite de France. 
+Before the share offering, the GOF stake in France Telecom 
+was 34.9% and now, since the GOF did not buy any of the new 
+shares, its stake is down to 33.1%, which still gives the 
+French government a blocking minority at shareholder 
+meetings.  This new level might have been psychologically 
+important to some, since it is no more than "just enough" to 
+maintain an ability to block controversial moves -- however, 
+it occurred with relatively little fan fare in early 
+September as the French were returning to work after summer 
+vacations.  This was in stark contrast to a general strike 
+on October 4 and a dramatic ferry hijacking and continuing 
+protests in some towns and cities in southern France after a 
+GOF move to partially privatize the Corsican ferry company 
+SNCM. 
+ 
+¶9. (U) France Telecom buys out Orange Slovakia:  According 
+to business news reports on October 21, France Telecom will 
+pay $628 million to buy all shares of Orange Slovakia, the 
+leading cell phone operator in Slovakia.  FT already holds a 
+63.8% stake in the company, whose 2.3 million customers make 
+up 57% of the nation's cell phone market, the French company 
+said Thursday.  Among the sellers of the remaining shares of 
+Orange Slovakia is a consortium of financial investors led 
+by AIG New Europe Fund.  Reportedly, the deal should be 
+completed before yearend. 
+ 
+¶10. (U) Regulator submits relevant market analysis for fixed 
+telephony:  ARCEP submitted to the European Commission draft 
+decisions concerning retail (access and communications) and 
+wholesale markets (call origination, carriage and call 
+termination), excluding call termination services to 
+alternative fixed operators, as well as geographic call 
+termination markets of alternative fixed operators. 
+Following recent public consultations, ARCEP modified a 
+number of elements in its draft decision on its relevant 
+market analysis for fixed telephony, whose three main points 
+were:  (a) for the retail markets on which France Telecom 
+has significant market power: France Telecom will be 
+exempted from having to submit its retail prices for 
+approval, (b) for the wholesale carriage markets on which 
+France Telecom has significant market power: France Telecom 
+will be subject to pricing controls for services offered, 
+and (c)  for the wholesale call termination markets of 
+alternative fixed operators on which these operators have 
+significant market power: they will be obliged to provide 
+access.  The European Commission is expected to soon 
+complete their review of these decisions and provide 
+observations. 
+ 
+STAPLETON

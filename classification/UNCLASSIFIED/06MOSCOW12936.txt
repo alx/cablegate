@@ -1,0 +1,121 @@
+06MOSCOW12936
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: S-
+Fri Dec 15 00:00:00 +0100 2006
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHMO #2936/01 3490643
+ZNR UUUUU ZZH
+P 150643Z DEC 06
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 5862
+RHFJUSC/HQS US CUSTOMS SERVICE WASHINGTON DCUNCLAS MOSCOW 012936 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/DMUSLU/MHAMES 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: S- 
+TERRA CSP, ZELENOGRAD, RUSSIA, LICENSE NO: D357313 
+ 
+REFTEL: USDOC 06043 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, S-Terra, Zelenograd, Moscow, Russia. The company 
+was listed on BIS license number: D357313 as the 
+ultimate consignee of encryption, technology for the 
+development of VPN software for Cisco's 2800/3800 
+series routers, ECCN: 5E002. These commodities are 
+controlled for national security reasons. The exporter 
+is Cisco Systems, Inc., 170 West Tasman Drive, San 
+Jose, CA 95134-1706. 
+ 
+¶3. On November 24, 2006, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested post-shipment verification with S-Terra, 
+Zelenograd, MGIET Bldg.10, Moscow, Russia. The export 
+control team met with Sergey Ryabko, General Director 
+and Vasiliy Shirokov, Deputy General Director. 
+ 
+¶4. S-Terra is a network security integrator founded in 
+¶2003.  The company traces it's roots to a 1992 
+independent commercial start-up called Elvis Plus, 
+which was financed by western investment into Russian 
+by Sun Microsystems. In 1998 Elvis Plus launched 
+TrustWorks Systems b.v., a multinational with partners 
+in Europe and the United States.  In 2002 Trustworks 
+reorganized, creating S-Terra to handle network 
+security integration in the Russian market.  The 
+company employs 30 at its Zelenograd headquarters. 
+ 
+¶5. S-Terra provides localization of Virtual Private 
+Network (VPN) systems for end users in Russia.  GOR 
+regulations require VPN systems to use GOST, a 
+standardized symmetric key block cipher. S-Terra has 
+developed an interface that provides a gateway for 
+incoming DES or Triple-DES encrypted traffic to be 
+converted to GOST, allowing for global VPN connections 
+for end users in Russia. 
+ 
+¶6. The company only does business in Russia, to "avoid 
+problems" encountered with the export of crypto- 
+enabled products from Russia.  Elvis Plus was once 
+under investigation by the GOR Federal Agency for 
+Government Communications and Information (Russian 
+acronym FAPSI) and Federal Security Service (Russian 
+acronym FSB) regarding their TrustWorks product line. 
+Elvis Plus developed a Single Key for Internet 
+Protocol (SKIP) security solution for the Solaris and 
+Windows operating systems.  TrustWorks was building 
+the communications packages for the VPN systems in 
+Russia with no encryption and exporting them to 
+Netherlands, where they would be fitted with DES 
+encryption and then paired with U.S. origin hardware. 
+Though no laws were violated, the investigation and 
+subsequent audits led the company to cancel the 
+project.  It was clear to Mr. Ryabko that to be 
+profitable, the VPN systems had to be "localized;" 
+meaning hardware built outside of Russia had to be 
+refitted to meet Russian specifications within Russia. 
+NOTE: It was this incident that lead to the 
+reorganization described in paragraph 4 END NOTE. 
+ 
+¶7.  The technology described in reftel is being 
+incorporated into the S-Terra NME-RVPN; an Internet 
+Protocol secure VPN module built for the Cisco ISR 
+28xx and 38xx series routers.  The team was shown two 
+modules currently under testing with the system in 
+place.  There are an additional two modules in a 
+testing cycle, and ten additional being developed and 
+tested for Cisco Systems in a beta-test cycle.  The 
+target is to complete 50 modules over the next quarter 
+for distribution via the OCS Company, a Cisco Systems 
+authorized distributor.  Ten employees of the company 
+work in the Technology Engineering section where the 
+technology is being used, four engineers, one 
+consolidation engineer, three testers and two support 
+personnel.  No other employees or organizations are 
+authorized to utilize the technology.   Mr. Ryabko is 
+very familiar with U.S. export control laws.  When 
+asked about the license conditions, Mr. Ryabko stated 
+that he signed an end-user statement, and then recited 
+from memory the main conditions of the license. 
+ 
+¶8. Recommendations: Post recommends S-Terra, 
+Zelenograd, Moscow, Russia as reliable recipients of 
+sensitive U.S. origin commodities. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

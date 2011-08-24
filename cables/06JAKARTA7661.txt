@@ -1,0 +1,310 @@
+06JAKARTA7661
+NORTH SUMATRA AVIAN INFLUENZA CLUSTER - LESSONS
+Fri Jun 16 00:00:00 +0200 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Jakarta
+VZCZCXRO1296
+PP RUEHCHI RUEHDT RUEHHM
+DE RUEHJA #7661/01 1670950
+ZNR UUUUU ZZH
+P 160950Z JUN 06
+FM AMEMBASSY JAKARTA
+TO RUEHC/SECSTATE WASHDC PRIORITY 5957
+RUEHPH/CDC ATLANTA GA PRIORITY
+RUEAUSA/DEPT OF HHS WASHINGTON DC PRIORITY
+INFO RUEHZS/ASSOCIATION OF SOUTHEAST ASIAN NATIONS
+RUEHRC/USDA FAS WASHDC
+RHEHNSC/NSC WASHDC
+RHMFIUU/BUMED WASHINGTON DC
+RHEFDIA/DIA WASHINGTON DC
+RUEKJCS/SECDEF WASHDC
+RHHMUNA/CDR USPACOM HONOLULU HI
+RUEKJCS/CJCS WASHDC
+RUEHBY/AMEMBASSY CANBERRA 9622
+RUEHFR/AMEMBASSY PARIS 0902
+RUEHRO/AMEMBASSY ROME 1892
+RUEHIN/AIT TAIPEI 1819
+RUEHBJ/AMEMBASSY BEIJING 3485UNCLAS SECTION 01 OF 04 JAKARTA 007661 
+ 
+SIPDIS 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+DEPT FOR EAP/IET, A/MED AND G/AIAG (Lange) 
+DEPT FOR OES/FO, OES/EID, OES/PCI, OES/STC AND OES/IHA 
+DEPT PASS TO USDA/FAS/DLP/HWETZEL AND FAS/ICD/LAIDIG 
+DEPT ALSO PASS TO USDA/FAS/MOLSTAD AND FAS/ICD/PETRIE 
+DEPT ALSO PASS TO USDA/FAS/FAA/DYOUNG AND USDA/APHIS 
+DEPT ALSO PASS TO USAID/ANE/CLEMENTS AND GH/CARROLL 
+DEPT ALSO PASS TO HHS/STEIGER AND BHAT 
+PARIS FOR FAS/AG MINISTER COUNSELOR 
+CANBERRA FOR APHIS/DHANNAPEL 
+ROME FOR FAO 
+USPACOM ALSO PASS TO J07 
+ 
+E.O. 12958: N/A 
+TAGS: TBIO AMED CASC EAGR AMGT PGOV ID KFLU
+SUBJECT: NORTH SUMATRA AVIAN INFLUENZA CLUSTER - LESSONS 
+LEARNED 
+ 
+ 
+¶1. (SBU) Summary. The May 2006 avian influenza (AI) outbreak 
+in a North Sumatra family represents the largest human H5N1 
+cluster to date and brought with it intense worldwide media 
+attention to Indonesia's AI response capacity.  A look back 
+at the response to the cluster by the Government of 
+Indonesia (GOI), the World Health Organization (WHO), and 
+U.S. Government agencies reveals both positive and negative 
+elements. On the positive side, the Ministry of Health 
+(MOH), Ministry of Agriculture (MOA), and WHO quickly 
+scrambled teams to North Sumatra upon learning of the 
+outbreak and the testing process for samples collected from 
+suspected AI cases went smoothly.  Both the WHO and GOI 
+collaborated well with representatives of the Naval Medical 
+Research Unit (NAMRU-2) and Centers for Disease Control and 
+Prevention (CDC) in Indonesia under challenging 
+circumstances.  Less positively, the WHO/MOH response teams 
+were poorly organized and senior GOI Ministers struggled 
+with public relations.  With the Ministry of Agriculture's 
+(MOA) efforts to control AI in backyard poultry still in 
+their infancy, we expect human AI cases to continue in 
+Indonesia along with occasional family clusters.  End 
+Summary. 
+ 
+¶2. (SBU) On June 9, we gathered representatives from USAID, 
+NAMRU-2, the Economic Section, and the CDC to review the 
+combined GOI-WHO-USG response to the May 2006 North Sumatra 
+AI cluster.  As of June 13, 8 blood-related members of a 
+family in Simbelang village and Kabanjahe town, Karo 
+District, North Sumatra Province have been identified as 
+H5N1 cases, with 7 fatalities. Laboratories at the CDC 
+and/or Hong Kong University have confirmed seven H5N1 cases. 
+ 
+Challenging Outbreak Investigation 
+---------------------------------- 
+ 
+¶3. (SBU) In general, the circumstances of the cluster 
+investigation proved highly challenging for all parties. 
+The family and other residents of the towns were distrustful 
+and suspicious of MOH staff from Jakarta and reluctant to 
+cooperate.  In addition, the extended family and local 
+community were hesitant to cooperate fully with outside 
+health experts as a result of local superstitions, a general 
+distrust of western infectious disease concepts, and the 
+shock of the loss of seven members of their extended family. 
+Such beliefs are common in Indonesia, and we expect similar 
+cultural hurdles to arise in future cluster investigations. 
+ 
+¶4. (SBU) Another complicating factor was that late reporting 
+by the afflicted family delayed the initial recognition of 
+the H5N1 cluster.  Clinicians at the local district hospital 
+in Kabanjahe and Saint Elizabeth Hospital in Medan did not 
+suspect H5N1 in the index case, likely because there had 
+been few AI outbreaks reported among poultry flocks in the 
+area.  As a result, doctors diagnosed the index case with 
+pulmonary tuberculosis, and the subsequent six cases were 
+not suspected as H5N1 cases until they were hospitalized at 
+Adam Malik Hospital in Medan. 
+ 
+Key Lessons Learned 
+------------------- 
+ 
+¶5. (SBU) In our view, the key lessons from the outbreak and 
+subsequent cluster investigation include the following: 
+ 
+JAKARTA 00007661  002 OF 004 
+ 
+ 
+ 
+General 
+------- 
+ 
+--A noteworthy success of the outbreak investigation was the 
+efficient cooperation between the MOH, NAMRU-2, the CDC, and 
+the Hong Kong University Laboratory on specimen shipment, 
+H5N1 testing, viral isolation and sequencing.  The 
+Indonesian National Institute of Health Research and 
+Development (Litbangkes) or NAMRU-2 tested samples received 
+in Jakarta and reported initial results to health care 
+responders in North Sumatra within 48 hours.  They shipped 
+samples within 24 hours to the WHO-Influenza/H5N1 Reference 
+Laboratories at the CDC and University of Hong Kong for 
+confirmation and virus sequencing.  Within one week of the 
+initial outbreak report, the CDC and HKU had confirmed the 
+in-country results and completed full genome sequencing of 
+isolated viruses.  As a result, scientists were able to 
+conclude that the North Sumatra viruses did not appear to 
+have acquired any characteristics that might suggest 
+increased transmission among humans. 
+ 
+--Given the successful and rapid collaboration on laboratory 
+testing for suspected H5N1 clinical specimens, and the 
+significant USG technical expertise and laboratory capacity 
+on the ground in Indonesia, we are confident the USG will 
+likely prove able to ascertain quickly whether the virus in 
+future H5N1 case clusters has mutated in any significant 
+way.  This should make it possible to make an informed 
+judgment quickly about whether more robust USG response 
+teams might be needed. 
+ 
+GOI Response 
+------------ 
+ 
+--Several factors complicated hospital management of most of 
+the H5N1 cases in the cluster.  Some family members felt 
+distrust toward the government-operated hospital and 
+suspicion that oseltamivir treatment had caused the deaths 
+of the infected individuals.  There was in general a lack of 
+cooperation with the medical management.  Family members 
+refused to wear personal protective equipment (PPE) while 
+having close contact with hospitalized cases, but were still 
+allowed access to confirmed patients.  Hospital staff did 
+not limit family member visitors and did not require family 
+members to wear PPE. 
+ 
+--More positively, the MOH quickly deployed a team to the 
+area on May 10, just a day after it received reports of a 
+possible family cluster.  The MOH added a NAMRU-2 clinician 
+to the team, but only upon request from NAMRU-2, 
+demonstrating that NAMRU-2 remains under-utilized as an in- 
+country asset for outbreak response.  Despite difficulties 
+with the family, MOH staff were able to obtain samples from 
+patients and other family members and shared them promptly 
+with NAMRU-2.  Both Litbangkes and NAMRU-2 worked together 
+in the identification of all subsequent cases, including ill 
+nurses that emerged weeks after the outbreak in N. Sumatra. 
+ 
+--Although both the MOH and WHO responded promptly to the 
+outbreak, both are plagued by the lack of a coordinated, 
+well-staffed, and well-equipped rapid response team with 
+standard operating procedures and pre-defined roles for team 
+ 
+JAKARTA 00007661  003 OF 004 
+ 
+ 
+members.  MOH staff held numerous meetings in Jakarta but 
+there was little effective coordination in the field.   The 
+WHO team worked with public health officials in Karo to 
+conduct the key epidemiological investigations, but the MOH 
+did not participate.  Should multiple AI clusters occur 
+simultaneously, we expect the MOH would have a very 
+difficult time mounting an effective response given the lack 
+of standardized rapid response teams.  Building capacity in 
+this area should be a priority for the WHO and CDC. 
+ 
+--Throughout the outbreak, senior GOI officials were 
+extremely reluctant to admit publicly that any form of human- 
+to-human (H2H) transmission had taken place.  This is likely 
+because of the perceived impact on Indonesia's economy, 
+concern about causing panic, and lack of understanding about 
+the distinction between limited H2H transmission and a 
+pandemic form of the virus.  This reluctance continued even 
+as evidence mounted that limited, but non-sustained H2H 
+transmission was the most likely explanation for the 
+cluster.  Not until June 11 did Coordinating Minister for 
+Peoples' Welfare Aburizal Bakrie acknowledge publicly that 
+limited and inefficient H2H transmission may have occurred; 
+Minister of Health Siti Fadilah Supari has failed to make 
+similar statements and declared that no H2H transmission 
+occurred in North Sumatra.  We expect similar reluctance to 
+admit H2H transmission in future clusters, although the 
+UNICEF public relations campaign on AI now underway should 
+help educate both GOI ministers and the public about AI and 
+make a more sophisticated GOI public relations effort 
+possible. 
+ 
+-- The MOA response to reports of suspected human H5N1 
+infections in North Sumatra was also swift, although 
+subsequent coordination with partners and laboratory testing 
+were inadequate.  The Director of Animal Health at the MOA 
+traveled to North Sumatra to investigate possible animal 
+H5N1 infections within 24 hours of learning of the suspected 
+human cases.  He promptly collected samples of various 
+poultry, swine, and possible environmental sources of H5N1 
+(manure).  All samples were immediately brought to Jakarta 
+for laboratory testing. 
+ 
+--Less encouraging was the initial lack of coordination 
+between the MOA and the UN Food and Agriculture Organization 
+(FAO).  The MOA did not inform FAO of the suspected outbreak 
+and investigation until USAID had already alerted the FAO 
+about the situation.  The FAO is working with the MOA to 
+improve coordination and has sent a joint MOA-FAO team to 
+North Sumatra to conduct a more thorough animal 
+investigation.  With support from USAID, FAO has accelerated 
+implementation of the animal surveillance and response 
+program in North Sumatra and will have trained teams in the 
+field by the end of July.  Improved coordination and better 
+laboratory practice should be priorities for USDA and FAO. 
+ 
+WHO Response 
+------------ 
+ 
+--The WHO also responded quickly to the cluster, dispatching 
+a half dozen experts from the WHO's Southeast Asia Regional 
+Office (SEARO), Geneva and Jakarta to North Sumatra within 
+one week of the outbreak reports.  All six worked well with 
+the Karo District and North Sumatra Provincial health 
+ 
+JAKARTA 00007661  004 OF 004 
+ 
+ 
+authorities. 
+ 
+--Cooperation between the WHO, NAMRU-2, and the CDC was also 
+reasonably good.  Although individual WHO staffers were at 
+times reluctant to share information on the outbreak with 
+NAMRU-2 and/or the CDC, our relationships with the WHO 
+office in Jakarta are on the upswing.  The WHO office in 
+Jakarta has acknowledged the need to keep the USG better 
+informed about outbreak investigations in Indonesia. 
+ 
+U.S. Government Response 
+------------------------ 
+ 
+--The combination of NAMRU-2's relationships with 
+Litbangkes, and CDC TDYer Dr. Timothy Uyeki's presence in 
+Indonesia (and direct participation on the WHO team) gave 
+the USG excellent access to the outbreak investigation. 
+Although relations between NAMRU-2 and some Litbangkes staff 
+are not warm, in this instance NAMRU-2 played a central role 
+in the testing of samples and sent an Indonesian clinician 
+to North Sumatra to participate in the outbreak 
+investigation.  In the North Sumatra and previous clusters, 
+Litbangkes has not directly invited NAMRU-2 to participate 
+in epidemiological investigations, or given attribution, but 
+has allowed NAMRU-2 to play a role in H5N1 testing.  We 
+expect NAMRU-2's cooperation with Litbangkes to improve over 
+time given the recent appointment of a new Director General 
+at Litbangkes. 
+ 
+--The presence of CDC influenza specialist Dr. Timothy Uyeki 
+in Indonesia at the time of the outbreak proved to be a 
+major advantage, particularly because Dr. Uyeki had already 
+developed relationships with a number of WHO and Litbangkes 
+staff.  In addition to providing badly needed technical 
+expertise to the WHO outbreak investigation team, Dr. Uyeki 
+also provided a crucial channel for information flow to the 
+Embassy and USG agencies.  Given the likelihood of 
+additional human AI clusters in Indonesia, we continue to 
+recommend the CDC post a long-term TDY epidemiologist in 
+Jakarta as soon as possible. 
+ 
+--Given the GOI reluctance to publicly admit H2H 
+transmission of AI, we believe it would be extremely 
+difficult to convince them to accept a high profile USG 
+rapid response team in the event of future clusters, unless 
+there were very solid evidence the H5N1 virus had changed 
+sufficiently to pose a pandemic threat.  We expect President 
+Susilo Bambang Yudhoyono himself would need to approve a USG 
+team after discussion by the Indonesian cabinet.  High-level 
+diplomatic intervention by the Embassy and/or Washington 
+agencies would almost surely be required.  Given these 
+factors, Washington agencies may want to consider a more 
+flexible response to future AI clusters in Indonesia where a 
+few experts, perhaps drawn from regional USG offices, could 
+quickly travel to Indonesia to augment the existing USG 
+presence. 
+ 
+AMSELEM

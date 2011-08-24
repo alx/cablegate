@@ -1,0 +1,194 @@
+08HONGKONG1070
+EXTRANCHECK: POST SHIPMENT WING FAT TRADING CO/SHENZHEN
+Fri Jun 13 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0004
+RR RUEHWEB
+
+DE RUEHHK #1070/01 1650810
+ZNR UUUUU ZZH (CCY ADA37974 MSI6526-695)
+R 130810Z JUN 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 5081
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001070 
+ 
+SIPDIS 
+ 
+C O R R E C T E D COPY SIGNATURE 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT WING FAT TRADING CO/SHENZHEN 
+XINYUE CORP 
+ 
+REF: A) USDOC 03522 B) USDOC 03524 C) USDOC 03613 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftels A to C requests and at the direction of the Office 
+of Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+three post shipment-verifications (PSVs) at Shenzhen Xinyue Corp. 
+(two checks), Rm 2302, 23/F, Pitt St, Hip Kwan Commercial Bldg 38, 
+Hong Kong (Xinyue) and Wing Fat Trading Co. (same address) (one 
+check) (Wing Fat). The items in question are three shipments of 
+semiconductors.  Two shipments of EAR99 semiconductors were shipped 
+to Xinyue on June 19, 2007 and November 1, 2007.  Items classified 
+as EAR99 can generally be exported/reexported to all destinations, 
+end-users/uses worldwide except to certain heavily restricted 
+destinations and certain proliferation related or other restricted 
+end-users/uses.  The third shipment to Wing Fat was exported on 
+August 14, 2007.  The semiconductors in this shipment were 
+classified by the exporter under export control classification 
+number (ECCN) 3A001a.2.c.  This ECCN is controlled for national 
+security (NS) reasons and most likely requires a license for export 
+to mainland China but does not require a license if shipped to Hong 
+Kong.  The exporter for all three shipments was Rochester 
+Electronics of Newburyport, Massachusetts. 
+ 
+¶3.  According to the Hong Kong Inland Revenue Department Business 
+Registration Office, Win Fat Trading Co. has been in existence since 
+¶1998.  It is a sole proprietorship (and is therefore not registered 
+in the Hong Kong Companies Registry).  The owner is listed as Mr. 
+Khoo, Cheng Yan with Hong Kong identification number D1667409.  The 
+company has no apparent web presence.  Xinyue does not appear to be 
+registered as a corporate entity or sole proprietorship in Hong 
+Kong.  It likewise does not appear to have a web presence. 
+ 
+¶4.  On June 2, 2008, ECO, accompanied by Commercial Assistant, 
+Carrie Chan visited the two companies at the Pitt Street address 
+referenced above and met with Mr. Lu Yan of Xinyue and Mr. Khoo 
+Cheng Yan, Managing Director of Wing Fat Trading Co.  Mr. Lu Yan 
+stated that he had forgotten his business cards and so was unable to 
+share one with the ECO.  The meeting was held in a small, one room 
+office containing a desk, a small couch and various boxes apparently 
+containing shipments received by Wing Fat (one from Lattice 
+Semiconductor).  Multiple additional boxes were delivered during the 
+meeting. 
+ 
+¶5. According to Mr. Khoo Cheng Yan, Wing Fat acts as the receiving 
+agent for Xinyue.  In particular, when Wing Fat receives shipments, 
+Mr. Khoo Cheng Yan either ships the items to Xinyue customers in 
+Hong Kong or the customers collect the items from his office. 
+According to Mr. Khoo Cheng Yan, no purchase orders or other 
+transactional details are conducted from the offices of Wing Fat. 
+Mr. Khoo Cheng Yan stated that the two companies are not related and 
+that Xinyue has merely hired Wing Fat to act as its agent. 
+ 
+¶6.  According to Mr. Lu Yan, Xinyue generates all purchase orders 
+from its office in Shenzhen (there are additional Xinyue employees 
+at its offices in Shenzhen). Xinyue issues purchase orders to 
+companies, including U.S. suppliers, and arranges for the items to 
+be shipped to the Hong Kong address of Wing Fat.  Mr. Lu Yan stated 
+that he knows that some of his customers resell the items to other 
+countries but he stated that he does not know what countries those 
+might be.  He stated that his business is focused on electronics 
+components for the communications industry. 
+ 
+¶7.  As to the shipments in question, Mr. Lu Yan stated that all were 
+destined to the same customer, an electronics store in Shenzhen.  He 
+provided documentation on the shipment (by FedEx) to Wing Fat 
+confirming receipt by Wing Fat as well as an Invoice from Wing Fat 
+Trading Co. dated August 21, 2007 listing a buyer address (but no 
+company name).  This is the transaction referenced in reftel A.  Mr. 
+Lu Yan stated orally that the customer is an electronics store with 
+the name Shenzhen Duo Hue Dian Ze.  Subsequent research indicated 
+that the address on that invoice corresponds to a company called 
+Shenzhen Shi Xin Er Ye Ltd. (this is a transliteration of 
+information at web site www.hqew.com/homepage/ sply).  The web 
+information on this company includes Mr. Lu Yan as the contact 
+person and a contact number for the company that corresponds to the 
+Shenzhen Xinyue phone number in purchase order documentation 
+provided by OEA.  The web site of this company states that the 
+company specializes in the military industry and aerospace 
+electronics. 
+ 
+¶8.  Mr. Lu Yan stated that delivery was confirmed by the initials of 
+the person picking up the shipment at the bottom of the invoice (a 
+USD 17,000 transaction).  By subsequent phone call, ECO attempted to 
+obtain the underlying purchase order for these transactions but has 
+not yet had any success (ECO will inform OEA if such purchase orders 
+ 
+are received although ECO is doubtful they will ever be received). 
+ECO asked whether Xinyue or Wing Fat had generated this order.  Mr. 
+Lu Yan stated that it had been generated by Xinyue. When confronted 
+with a purchase order from Wing Fat (provided to ECO by OEA), Mr. Lu 
+Yan amended his answer somewhat by stating that he had generated the 
+order out of Shenzhen using Wing Fat's name.  Mr. Khoo Cheng Yan did 
+not seem surprised or perturbed by the use of Wing Fat's name in 
+this way.  When ECO asked who had filled in the Rochester 
+Electronics End User Statement listing Qiu Qing Yuan (another 
+transliteration of Khoo Cheng Yan) as signatory (though the name was 
+typed and not signed on the form), Mr. Koo stated that he had 
+passed the statement to th customer who had filled it in.  Neither 
+Mr. KhooCheng Yan nor Mr. Lu Yan could (would) state who the real 
+end-user was in this circumstance.  The sated end-user was 
+Sinlecory Electronics Engineerng Co., Ltd. of Hong Kong.  That 
+company has no eb presence and is not listed in the Hong Kong 
+Copanies Registry. 
+ 
+¶9.  As to the first shipment t Xinyue (exported on June 19, 2007 
+and noted in eftel B), Mr. Lu Yan stated that neither he nor Mr 
+Khoo Cheng Yan were able to provideshipping documentation 
+confirming receipt of the items. However, they provided an invoice 
+listing the buyer's address (described above).  That invoice 
+included the items exported by Rochester and referenced in the 
+documentation provided by OEA. In this case, Xinyue issued the 
+purchase order and apparently Mr. Lu Yan prepared the end-user 
+statement for Rochester Electronics.  When questioned, however, Mr. 
+Lu Yan stated that while he filled in the form, the customer filled 
+in the names and other details of the end-users and he merely 
+attached to the statement for Rochester.  He stated that he knew 
+little about the customers listed, although he believes some may be 
+involved in communications. 
+ 
+¶10.  As to the later shipment from Rochester to Xinyue (shipped on 
+November 1, 2007 and referenced in reftel C), Wing Fat/Xinyue were 
+unable to provide any documentation relating to this shipment.  Mr. 
+Lu Yan stated that in this circumstance, the End Use Statement 
+provided to Rochester Electronics had purportedly been signed by the 
+end user (Xian Yong Da Co.).  In particular, Xinyue's customer had 
+arranged for the signature of the document by the purported end 
+user. 
+ 
+¶11. Mr. Lu Yin stated that he worked with one usual contact at 
+Rochester (listed on documentation as Jennifer) in ordering the 
+items and that Rochester was unaware of the final destination 
+(mainland China) of the items. 
+ 
+¶12.  ECO provided information concerning BIS reexport controls to 
+the representatives of Xinyue and Wing Fat.  Mr. Lu Yan asked what 
+products were restricted to mainland China.  ECO noted that further 
+information could be found on the BIS web site but that certain 
+electronic components require a license to mainland China 
+(particularly radiation hardened devices and those rated for 
+operation at a wide range of temperatures).  Mr. Lu Yan stated that 
+he seldom dealt in those types of items. He further stated that he 
+tries to avoid trading in items that require export licenses.  When 
+asked whether he was aware that Hong Kong places similar licensing 
+requirements on shipments of certain electronic components, Mr. Lu 
+Yan repeated that he tries to avoid transactions involving items 
+requiring a license. 
+ 
+¶13.  Both Wing Fat and Xinyue are entirely unsuitable recipients of 
+U.S. origin technology. ECO did not find the answers of Mr. Lu Yan 
+and Mr. Khoo Cheng Yan to be credible.  In fact, ECO strongly 
+suspects that Mr. Lu Yan uses the Wing Fat corporate information 
+when ordering items that may require a license for export to 
+mainland China and where a license is not required for shipment to 
+Hong Kong.  ECO recommends a thorough review of all shipments to 
+Wing Fat, Xinyue and their respective addresses. ECO also recommends 
+that BIS reach out to Rochester to determine what information it had 
+on hand when it shipped the items.  Further, ECO requests that OEA 
+confirm the 3A001 classification of the Wing Fat shipment so that 
+ECO may reach out to Hong Kong TID concerning a potential violation 
+of Hong Kong's export control rules in connection with this 
+shipment.  Finally, ECO recommends that these two companies be added 
+to the BIS Unverified List. CUNNINGHAM

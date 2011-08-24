@@ -1,0 +1,81 @@
+09MOSCOW678
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: OAO
+Fri Mar 20 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0006
+PP RUEHWEB
+
+DE RUEHMO #0678 0790843
+ZNR UUUUU ZZH
+P 200843Z MAR 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2452
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000678 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/M.HAMES/L.RITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: OAO 
+NIZHEGORODSKAYA GES, NIZHNI NOVGOROD REGION, ZALVOLZHYE, RUSSIA, 
+LICENSE NO. D372417 
+ 
+REFTEL: USDOC 05464 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, OAO Nizhegorodskaya Ges, 
+Nizhni Novgorod Region, Zalvolzhye, Russia. The company is listed on 
+BIS license application D372417 as the ultimate consignee of one (1) 
+thermal imaging camera, model no. T145FT10/20/54, containing a 
+vanadium oxide uncooled micro-bolometer focal plane array designed 
+for industrial and facilities maintenance applications.  These items 
+are controlled for national security, anti-terrorism, nuclear 
+non-proliferation, regional stability and UN sanctions reasons under 
+ECCN 6A003. The licensee is Fluke Corporation, 6920 Seaway Blvd., 
+Everett, WA  98204. 
+ 
+¶3. On March 4, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification with OAO Nizhegorodskaya Ges, Nizhni Novgorod Region, 
+Zalvolzhye, Russia.  The export control team met with Vladimir 
+Pogodin, Head of Electro-Technical Laboratory and Vadim Sidorov, 
+Head of Economic Security Department at their offices in 
+Zalvolzhye. 
+ 
+¶4. OAO Nizhegorodskaya Ges, a hydro electric station, was 
+established in 1956.  The plant has 8 huge turbines and produces 520 
+million megawatts of power.  OAO Nizhegorodskaya Ges is a privately 
+held company owned in part by RusHydro, and employs approximately 
+130 people. 
+ 
+¶5. The export control team inspected the reftel commodity and was 
+shown a computerized demonstration of its applications and use at 
+the plant.  Vladimir Pogodin stated that the thermal imaging camera 
+is being used at the plant for predictive maintenance, trouble 
+shooting, and installation verification for electrical and 
+mechanical applications.  The ECO noted the serial number of the 
+Fluke thermal imaging camera as 2648533. 
+ 
+¶6. The export control team found the reftel commodity in working 
+condition at the consigneeQs facility.  The equipment is being used 
+for the end use for which it was licensed.  There were no 
+indications of impropriety and the consigneeQs answers were not 
+evasive. 
+ 
+¶7. Recommendations: Post recommends OAO Nizhegorodskaya Ges, Nizhni 
+Novgorod Region, Zalvolzhye, Russia as a reliable recipient of 
+sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

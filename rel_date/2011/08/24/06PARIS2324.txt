@@ -1,0 +1,107 @@
+06PARIS2324
+LUNAR AND MARTIAN SPECTRUM COORDINATION -- FIRST
+Mon Apr 10 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+100918Z Apr 06UNCLAS PARIS 002324 
+ 
+SIPDIS 
+ 
+STATE FOR EB/CIP, EUR/WE, AND EUR/ERA 
+USDOC FOR NTIA 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS TSPA FR
+SUBJECT:  LUNAR AND MARTIAN SPECTRUM COORDINATION -- FIRST 
+TECHNICAL PREPARATORY MEETING 
+ 
+ 
+¶1. Summary: The first technical preparatory meeting for 
+intergovernmental coordination on a Spectrum Use Plan for 
+Lunar and Martian Space Exploration was held March 20-23 in 
+Paris.  The meeting was hosted by the European Space Agency 
+(ESA) and jointly chaired by ESA and NASA.  All six of the 
+space agencies with Lunar and/or Martian programs -- ESA, 
+JAXA (Japan Aerospace Exploration Agency), Roskosmos 
+(Russian Space Agency), CNSA (China National Space 
+Administration), ISRO (Indian Space Research Organization) 
+and NASA along with a representative from the European 
+Commission -- were in attendance.  The United States was 
+represented by State (EB/CIP), NASA and Commerce (NTIA). 
+All six agencies made one or more presentations on their 
+exploration programs and their associated radio spectrum use 
+plans to support those programs.  There was unanimous 
+agreement to develop a spectrum use plan to harmonize the 
+spectrum requirements of the six space agencies and to 
+pursue enabling interoperability among the space programs. 
+End Summary. 
+ 
+¶2. The U.S. team gave two presentations at the meeting.  The 
+first was its Space Communication and Navigation 
+Architecture through the 2030 time frame and the second was 
+the Proposed Frequency Plan for Architecture Elements Used 
+for Exploration.  ESA followed with three presentations on 
+its "Aurora" program for robotic missions to the Moon and 
+Mars (no human missions have been approved yet), its 
+spectrum requirements for the program and a "way forward" 
+document on Lunar and Martian spectrum coordination.  JAXA 
+and ISRO presented their documents on Lunar and planetary 
+missions and the spectrum requirements for those missions. 
+Roskosmos made two presentations on its robotic and human 
+space missions plus a presentation on a commercial Lunar 
+program.  CNSA was the last to present and, while its 
+presentation was extensive, it was general in nature with no 
+mention of the human space missions that have been covered 
+in the press and few details on its spectrum requirements. 
+In private conversations, the lone CNSA representative 
+indicated that their delegation will be larger at the next 
+meeting and he clearly understands that we are looking for 
+more detailed information. 
+ 
+¶3. Separate spreadsheets were prepared that combined the 
+mission requirements of the six agencies and the spectrum 
+requirements to support the missions.  These documents were 
+reviewed and refined by the participants.  Each agency is to 
+submit additions and refinements to these documents prior to 
+the second technical preparatory meeting.   A list of ten 
+action items was adopted based on the discussions, including 
+a suggestion by Japan that we identify the active and 
+passive sensing frequencies that may be used by missions in 
+the vicinity of the Moon and Mars. 
+ 
+¶4. A major issue for the U.S. team was to generate interest 
+in interoperability and cross support among the space 
+agencies for the Lunar and Martian programs.  For these 
+meetings, interoperability is defined as the ability for 
+spacecraft and other mission resources to interact and 
+support each other's operation to the extent agreed to by 
+the mission sponsors.  This capability is enabled through 
+agreement to operate in the same communication RF bands for 
+similar functions, but it is only fully implemented when, at 
+a later time, mission sponsors may agree on compatible 
+communications protocols and operational concepts. 
+Interoperability would help to control costs and help ensure 
+the success of the space missions.  All of the space 
+agencies agreed that they are in favor of enabling 
+interoperability with China going along with the agreement 
+without comment.  In preparation for the second meeting, 
+each agency is to have discussions in their respective space 
+agency to determine how interoperability can be achieved. 
+Specifically they are to look at a general set of frequency 
+bands and their proposed use and provide a list of earth 
+stations which could be made available for cross-supporting 
+another agency's missions pursuant to appropriate 
+agreements. 
+ 
+¶5. The U.S. Team was very pleased with the results of the 
+meeting.  All of the objectives for the first meeting were 
+met or exceeded.  There was little discussion about the 
+intergovernmental meeting.  The final products of these 
+meetings and how they will be formalized are still open 
+issues.  It was tentatively agreed that the second technical 
+preparatory meeting would be hosted by JAXA May 22-23 in the 
+greater Tokyo area. 
+ 
+Stapleton

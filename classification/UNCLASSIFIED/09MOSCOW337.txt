@@ -1,0 +1,114 @@
+09MOSCOW337
+EXTRANCHECK: PRE-LICENSE CHECK: RPC OPTOLINK LTD,
+Thu Feb 12 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0006
+PP RUEHWEB
+
+DE RUEHMO #0337 0431019
+ZNR UUUUU ZZH
+P 121019Z FEB 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1889
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000337 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/M.HAMES/L.RITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: RPC OPTOLINK LTD, 
+ZELENOGRAD, MOSCOW, RUSSIA, LICENSE NO. D410990 
+ 
+REFTEL: USDOC 0239 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine the legitimacy 
+and reliability of the end-user, RPC Optolink Ltd, Zelenograd, 
+Moscow, Russia. The company is listed on BIS license application 
+D410990 as the ultimate consignee of three (3) Honeywell 
+manufactured QA 650 Accelerometers. These items are controlled for 
+national security (NS), missile technology (MT) and anti-terrorism 
+(AT) reasons under ECCN 7A001. The licensee is Applanix Corporation, 
+85 Leek Crescent, Richmond, Canada. 
+ 
+¶3. In April 2008, RPC Optolink Ltd was the subject of a favorable 
+Moscow Post Shipment Verification (Moscow 00973) when the export 
+control team conducted an end use check for photosensitive 
+semiconductors and light emitting diodes received by RPC Optolink 
+Ltd circa 2005. 
+ 
+¶4. On February 11, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested pre-license check at the 
+offices of RPC Optolink Ltd, 4806 Proezd, Building 5, Zelenograd, 
+Moscow, Russia. The export control team met with Yuri Korkishko, 
+General Director. 
+ 
+¶5. RPC Optolink Ltd was founded in 2001 as a joint venture company 
+to develop and apply fiber optic and integrated optic technology to 
+a new generation of optic sensors and components of fiber optical 
+telecommunications.  RPC Optolink Ltd also develops, manufactures 
+and supplies a wide assortment of products from fiber and integrated 
+optic components to closed loop fiber optic gyros and strapdown 
+gyrocompasses, from MEMS gyro & accelerometers to inertial 
+measurement systems. 
+ 
+¶6. RPC Optolink Ltd is 96% owned by Malaysian interests (Kedar Wafer 
+Emas Sdn Bhn) and exports their products to more than 15 countries, 
+including the United States and China.  RPC Optolink Ltd employs 170 
+people in three different branches, Moscow (Zelenograd), Saratov and 
+Arzamas, Russia. 
+ 
+¶7. Yuri Korkishko, General Director of RPC Optolink Ltd advised the 
+export control team that RPC Optolink Ltd had entered into a 
+contract with Applanix Corporation of Canada in November 2008 to 
+install three (3) U.S. origin Honeywell QA 650 Accelerometers into 
+the RPC Optolink Ltd IMU (International Measurement Unit), test the 
+unit, and then ship it back to Applanix Corporation in Canada. 
+Korkishko stated that the accelerometers are the key component to 
+the navigation system and therefore must be shipped to RPC Optolink 
+Ltd for installation and testing.  Korkishko advised that in the 
+future, Applanix Corporation will purchase RPC Optolink LtdQs 
+gyroscope and install the Honeywell Accelerometers in Canada 
+themselves.  Korkishko showed the export control team a computerized 
+diagram of the installation locations of the three (3) 
+Accelerometers. 
+ 
+¶8. Korkishko told the export control team that RPC Optolink Ltd 
+supplies their gyroscopes to Lockheed Martin and John Hopkins 
+University. 
+ 
+¶9. Korkishko also advised the export control team that approximately 
+two (2) years ago RPC Optolink Ltd had email contact with a company 
+in Pakistan that was interested in purchasing some items from their 
+company.  RPC Optolink Ltd applied for an export license from the 
+Russian Export Authorities that was never acted upon.  Instead, 
+Korkishko stated that Russian Security Services came to his office 
+and advised Korkishko not to pursue the export.  On the advice of 
+the Russian Security Services RPC Optolink Ltd withdrew their export 
+application.  Korkishko also advised the export control team that 
+RPC Optolink Ltd did export one of their dual-use gyroscopes to 
+China under an export license from Russia.  Korkishko was later told 
+by the Russian Security Services that the company listed at the 
+end-user on the export license was not the final Qend-userQ. 
+Korkishko blamed the Russian Security Service for not checking out 
+the end-use before issuing RPC Optolink Ltd an export license. 
+ 
+¶7. Recommendations: Post recommends RPC Optolink Ltd, Zelenograd, 
+Moscow, Russia, as reliable recipients of sensitive U.S. origin 
+commodities. It is requested that post be notified of final 
+disposition of the application, and of any shipments for this 
+organization in order to conduct appropriate FCS follow-up and 
+statistical reporting. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

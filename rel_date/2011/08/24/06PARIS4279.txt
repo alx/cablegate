@@ -1,0 +1,312 @@
+06PARIS4279
+FY-2006 Voluntary Visitor Program: Pia IMBS (BOYLE).
+Wed Jun 21 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+211402Z Jun 06UNCLAS SECTION 01 OF 04 PARIS 004279 
+ 
+SIPDIS 
+ 
+STATE FOR ECA/PE/V/F/E (EILEEN CONNOLLY); EUR/PD 
+ 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY-2006 Voluntary Visitor Program: Pia IMBS (BOYLE). 
+Request, recommendations, program suggestions 
+ 
+ 
+Post requests an unfunded Voluntary Visitors Program for Pia IMBS 
+(BOYLE), a French citizen who is Senior Lecturer & Researcher in 
+Economics and Management as well as Program Director of a Master's 
+Degree in Human Resource Management at University Robert Schuman, 
+IAE (Institut d'Administration des Entreprises-Institute of Business 
+Administration), in Strasbourg.  The program would involve a day of 
+consultations in Boston (July 13) and a day of consultations in 
+Washington (July 17).  Country Clearance has been granted. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: BornetVM@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VFE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 317 
+ECA-PROJ-NO: 
+PROJ-NAME: VOLVIS - FY 2006 - Pia IMBS BOYLE 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: Voluntary Visitor 
+FY: 2006 
+DEPART-POST: 07/11/2006 
+SESSION-DATE: 07/13/2006 
+RETURN-POST: 07/19/2006 
+NO-OF-PART: 1 
+RANK-ORDER: 1 
+START MEMO POST-OBJ: 
+From 1996 through March 2006, Pia IMBS (BOYLE) served as director of 
+the Institut d'Administration des Entreprises (IAE)--Business 
+Administration Institute, a component of the Robert Schuman 
+University, that trains business managers (both professionals and 
+students).  Like many other French professionals now, Ms. IMBS 
+(BOYLE) has found that creating links between universities and 
+business helps qualified students find employment while at the same 
+time updating business practices for employers too busy to resume 
+their own studies.  She therefore instituted a series of "PHARE" 
+("lighthouse") lectures to develop a network between business 
+leaders and university faculty and students.  The PHARE network is 
+now well established at the regional level, and Ms. IMBS (BOYLE) is 
+trying to expand it to the international level.  She would also like 
+to advance this goal through the Strasbourg sister-city program. 
+Pia IMBS (BOYLE) is Vice President of PHARE and still assistant 
+professor at IAE.  She resigned from her position as director in 
+order to be more available for a new assignment at the Regional 
+Council, where she is the leader of a project on the evolution of 
+professional teaching at the university level. 
+Strasbourg and Boston have been sister-cities for over 40 years, but 
+most of the exchanges were limited to the cultural and educational 
+fields.  Both cities seek to develop more exchanges in business and 
+economics.  The opportunity of a VolVis Program for one day in 
+Boston for Pia IMBS (BOYLE) would greatly contribute to this aim. 
+It would also be a good investment for the USG, within the lines of 
+MPP priorities because it would reinforce Franco-American 
+friendship, mutual understanding, and shared values through 
+collaboration with an important French educational institution. 
+Upon her return, Pia IMBS (BOYLE) hopes to bring a new impetus to 
+the Boston-Strasbourg sister-city relationship as well as contribute 
+to developing new exchanges with the United States at the university 
+level and throughout the Alsace region. 
+ 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+Suggested visits: 
+BOSTON: 
+-  Boston College, particularly Carroll School of Management. 
+Meeting with person in charge of 'twinning' and Doctoral students 
+exchanges 
+-  Harvard School, doctoral programs 
+-  Researcher on business social responsibility to exchange research 
+work on this topic. 
+WASHINGTON: 
+-  University of Washington, particularly Organization and 
+Management Department of the Business School 
+Topics of interest: 
+-  Research projects in the domain of human resources management and 
+social responsibility 
+-  Links between universities and businesses 
+-  Strasbourg-U.S. sister city developments 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1033 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 30 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Education (General) 
+START BIO: 
+PREFIX: Mrs 
+F-NAME: Pia 
+M-NAME: Maria,  Mathilde 
+L-NAME: IMBS BOYLE 
+SUFFIX: 
+POSITION-CODE: 213 
+PRINCIPAL?: Yes 
+M-ADDR1: University Robert Schuman 
+M-ADDR2: IAE (Inst d'Admin des Entreprises) 
+M-ADDR3: 61 avenue de la Foret Noire 
+M-CITY: Strasbourg 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 67000 
+M-ZIP: 
+M-PHONE: 33-3-90-41-43-43 
+M-FAX: 
+M-EMAIL: Pia.Imbs@urs.u-strasbg.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: F 
+DOB: 03/14/1960 
+MAR-STAT: M 
+BIRTH-CITY: Strasbourg 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+From 1987: Senior Lecturer & Researcher in Econ. & Mgt 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Program Director of a Master's Degree in Human Resource Management. 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1997 to 2006:  Director of the Institute of Business Administration, 
+Strasbourg. 
+1990 to 1992:  Director of the Economics Department in a French 
+School for Engineers. 
+1987 to 1990:  Dean of the Faculty of Economics, University of 
+Amiens. 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+1998:  Research Symposium on Global Management in Chicago. 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+2005:  Canada, Quebec, University Three Rivers "Building links in 
+Research in the field of Management and PhD". 
+2005:  China, University of Shanghai "Building links in Research and 
+Teaching". 
+2005:  Ukraine, University of Kiev "Building links in Research and 
+Teaching". 
+2005 and 2006:  Morocco, Casablanca "Lecturing Management in an 
+Engineering School". 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+2000:  Habilitation Thesis in Management, University Robert Schuman, 
+Strasbourg. 
+1986:  PdD in Economics, University of Paris Sorbonne. 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+French Association of Human Resource Management based in Paris. 
+International Institute of Social Audit. 
+Association for the Development of Teaching and Research of Social 
+Responsibility. 
+National Organization of Human Resource Managers. 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+Publications on Business Management; Management of Human Resources 
+and Engineering of Training; Financing of Technological Innovation 
+and Industrial Economy; Macroeconomy. 
+Doctoral thesis on "Inflation and groups' behavior; the French case 
+(1974-1984)", under the Direction of Professor Henri Bartoli, at 
+University Paris 1 Pantheon Sorbonne. 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+Non-smoker 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START OTHER-LANGS: 
+OTHER-LANG: German 
+OTHER-LANG-ID: GM 
+READ: 2 
+SPEAK: 2 
+COMP: 2 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Strasbourg and Boston have been sister-cities for over 40 years, but 
+most of the exchanges were limited to the cultural and educational 
+fields.  Both cities seek to develop more exchanges in business and 
+economics.  The opportunity of a VolVis Program for one day in 
+Boston for Pia IMBS (BOYLE) would greatly contribute to this aim. 
+It would also be a good investment for the USG, within the lines of 
+MPP priorities because it would reinforce Franco-American 
+friendship, mutual understanding, and shared values through 
+collaboration with an important French educational institution. 
+Upon her return, Pia IMBS (BOYLE) hopes to bring a new impetus to 
+the Boston-Strasbourg sister-city relationship as well as contribute 
+to developing new exchanges with the United States at the university 
+level and throughout the Alsace region. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Suggested visits: 
+BOSTON: 
+-  Boston College, particularly Carroll School of Management. 
+Meeting with person in charge of 'twinning' and Doctoral students 
+exchanges 
+-  Harvard School, doctoral programs 
+-  Researcher on business social responsibility to exchange research 
+work on this topic. 
+WASHINGTON: 
+-  University of Washington, particularly Organization and 
+Management Department of the Business School 
+ 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+Topics of interest: 
+-  Research projects in the domain of human resources management and 
+social responsibility 
+-  Links between universities and businesses 
+-  Strasbourg-U.S. sister city developments 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Frankie A. REED 
+START MEMO NOMINATING-JUSTIFICATION: 
+From 1996 through March 2006, Pia IMBS (BOYLE) served as director of 
+the Institut d'Administration des Entreprises (IAE)--Business 
+Administration Institute, a component of the Robert Schuman 
+University, that trains business managers (both professionals and 
+students).  Like many other French professionals now, Ms. IMBS 
+(BOYLE) has found that creating links between universities and 
+business helps qualified students find employment while at the same 
+time updating business practices for employers too busy to resume 
+their own studies.  She therefore instituted a series of "PHARE" 
+("lighthouse") lectures to develop a network between business 
+leaders and university faculty and students.  The PHARE network is 
+now well established at the regional level, and Ms. IMBS (BOYLE) is 
+trying to expand it to the international level.  She would also like 
+to advance this goal through the Strasbourg sister-city program. 
+Pia IMBS (BOYLE) is Vice President of PHARE and still assistant 
+professor at IAE.  She resigned from her position as director in 
+order to be more available for a new assignment at the Regional 
+Council, where she is the leader of a project on the evolution of 
+professional teaching at the university level. 
+ 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: Consul General Strasbourg, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: ELEO 
+NOMINEE-ID: 618 
+PERSON-ID: 501 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: E 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 52.1001 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+STAPLETON

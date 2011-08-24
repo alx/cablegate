@@ -1,0 +1,183 @@
+08BERLIN1537
+GERMANY: RAPIDEYE AG READY TO SELL UNIQUE
+Thu Nov 13 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXRO0245
+PP RUEHAG RUEHAST RUEHDF RUEHHM RUEHLN RUEHLZ RUEHMA RUEHPB RUEHPOD
+RUEHTM
+DE RUEHRL #1537/01 3181622
+ZNR UUUUU ZZH
+P 131622Z NOV 08
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 2626
+INFO RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+RUEHRL/USDAO BERLIN GEUNCLAS SECTION 01 OF 02 BERLIN 001537 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+STATE FOR EUR/CE, EUR/ERA AND OES 
+ 
+E.O. 12958: N/A 
+TAGS: TSPA EINV ETRD PGOV PREL PINR GM
+SUBJECT: GERMANY: RAPIDEYE AG READY TO SELL UNIQUE 
+SATELLITE IMAGERY BY JANUARY 2009 
+ 
+¶1.  (SBU) SUMMARY: By January 2009, German satellite imagery 
+provider RapidEye AG (RE) will likely begin commercial 
+delivery (without significant export restriction) of unique, 
+space-based imagery with potential reconnaissance 
+applications and capable of imaging any point on Earth daily. 
+ Although primarily designed to image biomass, RapidEye's 
+multi-spectral-imagery (MSI) capabilities and high revisit 
+rate will serve expanded customer applications such as broad 
+area coverage (similar to USG LandSat program), land-use 
+change detection, and possibly even camouflage detection. 
+Still seeking a large commercial contract for agricultural 
+imagery and operating on a dwindling 160 million euro of seed 
+funding secured in 2004, the company's business model will 
+likely be adjusted to sell MSI to worldwide customers with a 
+variety of national security interests.  END SUMMARY 
+ 
+IMAGING CAPABILITIES 
+-------------------- 
+¶2.  (SBU) RapidEye's system distinguishes itself from its 
+peers with its combination of a wide imaging spectrum, high 
+revisit rate, and considerable imaging volume.  The system 
+images in five spectral bands including blue, green, red, 
+red-edge, and near infra-red.  The red-edge spectral band is 
+a unique capability, which is important for RapidEye analysis 
+of crop health/ stress and gives the company first-mover 
+advantage in a niche market. 
+ 
+¶3.  (SBU) Each satellite images a 77 kilometer (km)-wide 
+swath while orbiting the earth in a sun-synchronous orbit 
+(inclination angle 97.8 deg) 15 times per day.  Because of 
+the orbital geometry and its swath width, RapidEye platforms 
+can image the entire globe in as little as five days 
+(assuming no cloud cover) or a large targeted land mass like 
+Germany in as little as four days.  The system also has a 
+limited ability (18 degrees off nadir) to steer their 
+imaging, allowing them to image any point on the Earth on a 
+daily basis.  Because RapidEye does not possess real-time 
+control of their satellites, targeting of a specific area for 
+imagery not already scheduled to be imaged would require up 
+to 24-hour prior notice for satellite tasking. 
+ 
+¶4.  (SBU) RapidEye imagery has a horizontal resolution of 6.5 
+meters with a pixel size of 5 meters.  At this resolution, 
+for example, buildings and large machinery would be 
+distinguishable, whereas automobiles might not.  RapidEye 
+also has the ability to produce digital elevation models 
+(DEM).  Company officials said that DEM capabilities are 
+currently being developed and predicted that their system 
+could populate up to 50 thousand square kilometers worth of 
+DEM data per day with a vertical resolution of around 19 
+meters. 
+ 
+FOREIGN INTEREST / EXPORT RESTRICTIONS 
+-------------------------------------- 
+¶5.  (SBU) In an October 15 meeting, RapidEye officials (in 
+the presence of CEO Wolfgang Biedermann) told EconOff that 
+they have received a considerable amount of interest from 
+foreign governments.  Regarding this interest, Biedermann 
+helpfully clarified, "you know, for intelligence 
+applications."  For the most part, the export of RapidEye 
+imagery is not restricted under German export law.  The only 
+exceptions would be if the export destination was a listed 
+country, firm, or individual prohibited by the German Federal 
+Office for Export Control (BAFA), such as Iran.  In export 
+cases where the end-user is not listed (but may be of export 
+concern due to the dual-use nature of satellite imagery), 
+Biedermann said his company would inquire with BAFA whether 
+or not export control laws apply. 
+ 
+EXPANDING THE BUSINESS MODEL - CAREFULLY 
+---------------------------------------- 
+¶6.  (SBU) Biedermann added that many potential foreign 
+customers have expressed interest only in raw imagery data, 
+rather than in purchasing their analytical products.  While 
+Biedermann's clear preference is to focus the business model 
+on delivering analytic product, he has made the executive 
+decision to foster these business opportunities while 
+maintaining control of their data.  Biedermann said, 
+"RapidEye understands the opportunity to just sell raw data, 
+but RapidEye does not distinguish between raw versus 
+processed data pricing wise." 
+ 
+¶7.  (SBU) Biedermann also indicated that foreign governments 
+have expressed an interest in setting up ground stations for 
+direct download of RapidEye data.  Biedermann rejected this 
+notion, saying that "we do not like this idea at all, it is 
+our data, and we want to control our archives."  However, he 
+ 
+BERLIN 00001537  002 OF 002 
+ 
+ 
+left the door open and added, "However, this all depends on 
+our customer needs and anything is possible." 
+ 
+¶8.  (SBU) Biedermann said that RapidEye is always interested 
+in expanding its product offerings and capabilities, 
+mentioning the possibility of partnering with space-based 
+radar data providers.  (COMMENT: Space-based radar data could 
+potentially be used to fill imagery requirements when 
+environmental factors such as cloud cover would obstruct 
+RapidEye electro-optical imagery.  Based on unclassified 
+notes from a NGA visit to RapidEye on September 8, RapidEye 
+already has a cooperation agreement with EADS Astrium 
+subsidiary Infoterra Ltd, which holds exclusive commercial 
+rights over TerraSAR-X space based radar data.  END COMMENT.) 
+ 
+PROSPECTS 
+--------- 
+¶9.  (SBU) Although RapidEye is nearing full operational 
+status, they are running on fumes financially.  Their 160 
+million euro 2004 financing is running out and they have 
+apparently not seen the demand they expected from the 
+agricultural industry - their primary business focus. 
+Biedermann complained about the difficulty of marketing their 
+product to the agricultural insurance industry and said they 
+are still looking for an economic hook to entice customers. 
+To further complicate this situation, the current financial 
+crisis may limit their future financing options, thereby 
+increasing the pressure to reach out to more liquid sources 
+of cash. 
+ 
+¶10.  (SBU) RapidEye knows that their long-term viability is 
+dependent on their ability to establish themselves be a 
+provider of processed imagery and analytic product and not 
+simply as a raw data provider.  Since RapidEye does not hold 
+intellectual property rights (IPR) on their satellite bus or 
+imaging technology, there is nothing stopping instant 
+competition from arising if another firm were to procure an 
+identical satellite constellation. 
+ 
+ABOUT RAPIDEYE 
+-------------- 
+¶11.  (SBU) Founded in 1998, RapidEye AG is a Brandenburg 
+based German start-up of approximately 90 employees.  Their 
+primary business model is to provide imagery and value-added 
+analysis of large areas of biomass for insurance companies 
+and agricultural commodity futures traders.  To accomplish 
+this task, RapidEye procured five 380 kg micro-satellites 
+from the UK based Surrey Satellite Technology Ltd (SSTL) and 
+multi-spectral space cameras from the German firm 
+Jena-Optronic GmbH.  On August 29, 2008 RapidEye successfully 
+launched this constellation onboard a Dnepr rocket from the 
+Baikonur Cosmodrome in Kazakhstan.  Through a contract set up 
+with Kongsberg Satellite Services AS, all RapidEye imagery is 
+downloaded to an X-band antenna located in Svalbard, Norway. 
+From their Brandenburg headquarters, they task the satellites 
+via S-Band radio, receive the Svalbard downloaded imagery via 
+a fiber-optic line, and produce their imagery products and 
+analysis for export.  In total, RapidEye's costs to date are 
+approximately 160 million euro for the entire package 
+including; the satellites, sensors, launch, facilities costs, 
+and employees.  On October 21, RapidEye released their first 
+public imagery, showcasing the capabilities of the RapidEye 
+constellation.  According to company officials, they expect 
+to deliver their first commercial imagery by January 2009. 
+TIMKEN JR

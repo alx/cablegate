@@ -1,0 +1,105 @@
+08HONGKONG1007
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Tue Jun 03 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0011
+RR RUEHWEB
+
+DE RUEHHK #1007 1550837
+ZNR UUUUU ZZH
+R 030837Z JUN 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 5013
+RHMFIUU/HQ BICE WASHINGTON DC
+RUEHGP/AMEMBASSY SINGAPORE 3871UNCLAS HONG KONG 001007 
+ 
+USDOC FOR 532/OEA/MNICKSON-DORSEY /LLAUCIUS 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+SINGAPORE FOR FCS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP ETRD ETTC HK
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+MOS GROUP PTE LTD 
+REF: A) USDOC 01387 B) D377049 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Regional Export Control Officer Philip Ankel (ECO) 
+conducted a post shipment-verification (PSV) at MOS Group Pte Ltd., 
+2 Boon Leat Terrace No. 05-03, Harbourside Bldg 2, Singapore (MOS). 
+The item in question is a hafnium metal sputter target exported to 
+MOS on or about August 16, 2007 and valued at USD 565.  The item is 
+classified under Export Control Classification Number (ECCN) 1C231 
+and is controlled for nuclear non-proliferation (NP) reasons.  The 
+exporter was Bayville Chemical Supply Company of Deer Park, New 
+York. 
+ 
+¶3.  According to the Singapore companies registry, MOS was 
+registered in 2004 and its registered share capital is the Singapore 
+dollar equivalent of approximately USD 30,000.  Its directors and 
+shareholders are Singapore permanent residents Li, Wai Ping and Li, 
+Tan Mua. 
+ 
+¶4.  According to the company's web site, MOS's focus is 
+manufacturing and refurbishing semiconductor equipment.  It has 
+support centers in Asia and the United States.  The company states 
+that is has over 20 years of process equipment experience and is in 
+partnership with renowned semiconductor equipment manufacturers to 
+offer equipment refurbishment and turn-key technology.  Key products 
+include diffusion furnaces, rapid thermal process systems, plasma 
+ashers and chemical cleaning systems.  It supplies several IC 
+production lines in China.  MOS has offices in Singapore, mainland 
+China, Hong Kong, the United States and service centers in Malaysia, 
+Taiwan and Thailand. 
+ 
+¶5.  On April 21, 2008, the ECO, accompanied by a representative of 
+Singapore Customs visited the company and met with Ms. Mavis Tai, 
+Deputy General Manager.  Ms. Tai stated that the company is 
+primarily a trading company specialized in semiconductor equipment. 
+It is the authorized representative of some U.S. companies and 
+supplies a range of semiconductor manufacturing companies including 
+STAT, SMIC and UMC.  It also provides spare parts to various 
+universities and research institutes in Singapore.  The Thailand and 
+Malaysia offices are primarily involved in equipment sales. 
+Bayview, the exporter, is an occasional supplier. 
+ 
+¶6.  As to the particular item in question, Ms. Tai stated that this 
+item had been procured on behalf of the Singapore Institute of 
+Materials Research and Engineering, a Singapore government sponsored 
+research institute (http://www.imre.a-star.edu.sg).  As to the 
+end-use of the item, Ms. Tai provided an e-mail from Ms. Emily Chua 
+of the institute stating that a Denton Sputtering Discovery 18 would 
+be used to sputter the material on silicon wafers for materials 
+research. Ms. Tai also provided ECO with documentation confirming 
+delivery of the item to the Institute. 
+ 
+¶7.  MOS is collocated with another company, namely Prima Research 
+and Technologies Ptd. Ltd. (Primaco).  When asked about the company, 
+Ms. Tai stated that the two companies share space and a common 
+director but that Prima is involved in research and production 
+related to alternative health care products sold in Asia.  She 
+provided the web address of the company as www.primaco.com. A 
+subsequent review of that web site reveals that this company is 
+apparently involved in a very similar business as MOS and not in 
+health care products production.  It boasts U.S. and other offices, 
+some of which are collocated with other MOS offices.  Other offices 
+are located at separate addresses.  ECO requested clarification on 
+the nature of Primaco's business from Ms. Tai by subsequent e-mail. 
+She responded that she would respond when returning from maternity 
+leave. ECO will forward her response to OEA if/when it arrives. 
+ 
+¶8.  While the information about the specific order in question and 
+about MOS's business appeared credible, ECO is concerned that other 
+exports apparently going to MOS customers may actually be destined 
+for Primaco customers (or vice-versa).  ECO recommends a close 
+review of past licensed and unlicensed shipments to these two 
+companies.

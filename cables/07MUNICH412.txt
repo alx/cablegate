@@ -1,0 +1,332 @@
+07MUNICH412
+NAVIGATING A MESS: EADS OFFICIALS ON GALILEO
+Fri Jul 13 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Munich
+VZCZCXRO2107
+PP RUEHAG RUEHDF RUEHIK RUEHLZ RUEHPOD RUEHYG
+DE RUEHMZ #0412/01 1941356
+ZNR UUUUU ZZH
+P 131356Z JUL 07
+FM AMCONSUL MUNICH
+TO RUEHC/SECSTATE WASHDC PRIORITY 4036
+INFO RUEATRS/DEPT OF TREASURY WASHDC PRIORITY
+RUEHBJ/AMEMBASSY BEIJING 0291
+RUEKJCS/SECDEF WASHDC
+RUCPDOC/USDOC WASHDC 0026
+RUEHZG/NATO EU COLLECTIVE
+RUCNMEU/EU INTEREST COLLECTIVE
+RUCNFRG/FRG COLLECTIVEUNCLAS SECTION 01 OF 04 MUNICH 000412 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EUR EUR/AGS, EUR/ERA AND EB/IFD/OMA 
+PASS TO USTR MOWREY 
+ 
+E.O. 12958: N/A 
+TAGS: ECON TSPA EAIR ETRD PGOV EINV PREL EUN FR GM
+SUBJECT: NAVIGATING A MESS: EADS OFFICIALS ON GALILEO 
+ 
+SENSITIVE BUT UNCLASSIFIED.  NOT FOR INTERNET DISTRIBUTION. 
+ 
+REFS: A) Paris 2634, B) Frankfurt 3043, C) 06 Munich 715 
+ 
+------- 
+SUMMARY 
+------- 
+ 
+¶1.  (SBU) Senior EADS-Astrium officials told ConGen Munich the 
+recent collapse of the Galileo consortium of private firms resulted 
+as much from squabbling between EU states over apportionment of 
+contracts as a failure to find a workable economic model.  They 
+described the current economic model as a "macroeconomic" one, in 
+which the EU funding will create jobs and end-user applications that 
+will boost member nation economies.  Additionally, Galileo would be 
+able to charge for enhanced services beyond the basic free signal. 
+Our contacts said China, no longer a participant in Galileo, appears 
+to be rapidly and successfully developing its own positioning, 
+navigation, and timing technology.  The officials said that rather 
+than being concerned about Galileo's potential use by enemy forces, 
+the U.S. should view Galileo as a complement to GPS's capabilities 
+for our own forces.  Our interlocutors were confident the political 
+will exists in the EU to field Galileo satellites despite the 
+numerous obstacles, perhaps as early as 2012.  End Summary. 
+ 
+-------------------------------- 
+GALILEO -- CURRENT STATE OF PLAY 
+-------------------------------- 
+ 
+¶2.  (SBU) ConGen Munich Pol/Econ Officer and Economic Specialist met 
+on July 9 with Hanspeter Kuhlen, EADS-Astrium's Galileo Program 
+Director and Thomas Mayer, the firm's Chief of Business Development 
+for Galileo.  Astrium is the "space" division of EADS (European 
+Aeronautic Defense & Space), offering equipment and services for 
+launchers, manned spaceflight, civil and military satellites and 
+ground systems.  EADS-Astrium has a central role in the design and 
+development of Galileo, the proposed European counterpart to the 
+Pentagon's Global Positioning System (GPS).  Conceived almost a 
+decade ago as a partnership between the European Commission, the 
+European Space Agency (ESA) and the private sector, the project was 
+intended to provide navigational, telecom and transport services, 
+with the operational phase originally expected to begin in early 
+¶2008. 
+ 
+¶3.  (U) EADS-Astrium was a member of a consortium of eight private 
+firms that has since dropped out of Galileo's 
+Public-Private-Partnership (PPP) financing mechanism.  The 
+consortium was to have paid two-thirds of the costs of the program, 
+with the EU taxpayers covering the remaining third.  The consortium 
+included EADS, Alcatel-Lucent (France), Thales (France), 
+Finmeccanica (Italy), AENA (Spain), Hispasat (Spain), Inmarsat (UK), 
+and TeleOp (Germany).  The consortium would have gained long-term 
+concession rights to operate Galileo with a share of the profit. 
+Contract negotiations which should have led to the deployment and 
+operation of Galileo's network of 30 satellites stalled this year, 
+with the consortium demanding that the public sector guarantee its 
+commercial risks.  The EU transport ministers decided to suspend the 
+PPP after the consortium firms failed to develop an organizational 
+structure by May 10.  Reportedly, firms were not even able to agree 
+on a common representative.  The transport ministers from the 27 EU 
+governments then failed to agree June 8 on a plan to salvage 
+Galileo, postponing until the fall a decision on how to come up with 
+the 2.4 billion Euros needed to keep the project afloat.  As a 
+result of the delays so far, deployment has been pushed back to 2012 
+or later. 
+ 
+------------------------------------- 
+POLITICAL INTERFERENCE - IN THE EU??? 
+------------------------------------- 
+ 
+¶4.  (SBU) Kuhlen did not hesitate to blame massive political 
+interference from EU governments for the consortium's demise.  He 
+noted Spain, in particular, had been a problem because it insisted 
+on receiving 25 percent of Galileo's contracts.  Madrid had argued 
+that as two of eight firms in the consortium were Spanish, they 
+should also receive 25 percent of the work, even though the Spanish 
+government's financial contribution to the program was half that, 
+according to the Astrium officials.  They said, in contrast, the 
+German government's financial contribution is 20 percent of the 
+program - the largest within the EU. 
+ 
+¶5.  (SBU) Kuhlen joked that Galileo "should have 27 control 
+ 
+MUNICH 00000412  002 OF 004 
+ 
+ 
+centers," one in each EU member state, so that politicians could 
+have their own ribbon cutting ceremonies and tell voters their 
+country was in charge.  Mayer offered an example to illustrate the 
+point.  The German space agency was operating a satellite earth 
+station dish in Weilheim, Bavaria.  Even though the equipment was 
+perfectly suited for Galileo, a second dish had to be built in 
+Belgium to satisfy political demands.  Our contacts confided that 
+while risk apportioning between the public and the private sectors 
+had played a role in the collapse of the consortium, in their view, 
+it was less of a factor than the intra-EU squabble over apportioning 
+of contracts. 
+ 
+------------------ 
+NORTH-SOUTH DIVIDE 
+------------------ 
+ 
+¶6.  (SBU) Kuhlen noted that while the southern European partners 
+such as Spain, France and Italy were pushing Galileo with the intent 
+to win a disproportionate share of contracts, the northern European 
+states appeared to lack the enthusiasm to match their funding.  He 
+continued that Germany and the UK contributed nearly half of 
+Galileo's financial support to date, and thus had the most to lose 
+from its failure -- particularly the UK, which produced the bulk of 
+the critical electronic "payload" aboard the satellites. 
+Nevertheless, London was fixated on "value for money," rather than 
+the less tangible returns of the program, such as prestige and 
+macroeconomic benefits.  Our contacts underscored France's desire to 
+be at the center of Galileo.  Implying that French dominance of key 
+decision-making posts impacting Galileo gave the French an advantage 
+over other EU states, Kuhlen noted that "[EU Transport Commissioner] 
+Barrot is very close to ESA DG Dordain."  Offering a compliment of 
+sorts to the French, Kuhlen added that France's embracing of grand 
+ideas like Galileo was probably necessary, as the Germans would be 
+too worried about potential pitfalls to propose such a major 
+undertaking. 
+ 
+--------------------------------------------- -- 
+"WHY BUY PEPSI WHEN YOU CAN GET COKE FOR FREE?" 
+--------------------------------------------- -- 
+ 
+¶7.  (SBU) When asked about the apparent lack of a viable economic 
+model for Galileo, our interlocutors conceded that firms found it 
+hard to find a viable business model, given that the GPS signal was 
+free.  Kuhlen quoted the line: "Why buy Pepsi when you can get Coke 
+for free?"  Then, making an argument we had not heard from EADS 
+officials in the past, he said the economic model should not be 
+looked at purely in terms of profit generation, but rather in a 
+macroeconomic context.  He cited a 2001 Pricewaterhouse Coopers 
+study that showed Galileo would produce a benefit to cost ratio of 
+4.6 to one for European economies, given job creation, tax revenue, 
+and the incentive for the private sector to provide end-user 
+products and services such as personal navigation systems.  Kuhlen 
+added frankly that another reason for keeping the project afloat was 
+that if the EU were to remain a player in space and high technology, 
+it could not simply cede satellite navigation to the U.S., Russia 
+and China. 
+ 
+¶8.  (SBU) Our sources insisted that basic Galileo signals would 
+remain free, but offered that there could be fees for enhanced 
+services used by civil aviation, truck fleets, taxis, etc.  An 
+example would be in the "safety of life" area.  For instance, rescue 
+services in a mountainous area would need very precise coordinate 
+and elevation information to determine whether a car accident took 
+place on a bridge crossing a valley, or on a road below the bridge 
+on the floor of the valley -- a simple grid coordinate would be 
+insufficient.  When asked if the EU might attempt to recoup 
+Galileo's costs by requiring the use of fee-based services within 
+the EU (i.e., for intra-EU aviation), Kuhlen said this could be a 
+logical step, but Mayer noted that it would most likely be 
+prohibited by an agreement with the U.S. that prevents charging for 
+basic GPS signals. 
+ 
+---------- 
+NEXT STEPS 
+---------- 
+ 
+¶9.  (U) Given the collapse of the PPP, European Transport 
+Commissioner Jacques Barrot has called for full public funding of 
+Galileo, to the tune of nine billion Euros over the next several 
+years.  While Barrot continues to serve as a cheerleader for 
+Galileo, his EU colleagues appear more reticent.  German Transport 
+Minister Wolfgang Tiefensee has said he supports the program in 
+ 
+MUNICH 00000412  003 OF 004 
+ 
+ 
+principle, but conceded that a complete failure of Galileo was 
+possible if financing could not be found.  Former British Transport 
+Minister Stephen Ladyman said he welcomed indications that the 
+project "would have to be ended if it is not affordable." 
+Reportedly, Denmark and the Netherlands are also unenthusiastic 
+about the supporting the project. 
+ 
+¶10.  (SBU) While our Astrium contacts indicated frustration with the 
+current state of uncertainty over Galileo's future, they said they 
+expect Galileo will continue as a purely public project under the 
+authority of the Global Navigation Satellite System (GNSS) 
+Supervisory Authority, or "GSA."  In contrast to its forerunner 
+organization, the "Joint Undertaking," GSA is exclusively an EU 
+entity operating under the supervision of the Directorate-General 
+Energy and Transport of the EU commission without the participation 
+of third states such as China.  While program management would be 
+with GSA, the ESA in Paris would be the contracting agent.  Our 
+contacts were confident that ESA would take account of the work 
+already done and the know-how thus far accumulated when handing out 
+contracts to industry.  Under this scenario, deployment could, in 
+the best case, begin by the end of 2012 -- four years behind 
+schedule. 
+ 
+----- 
+CHINA 
+----- 
+ 
+¶11.  (SBU) Originally a part of Galileo as a member of the "Joint 
+Undertaking," China has since dropped out and developed its own 
+satellite navigation system called "Compass."  Our contacts insisted 
+that China was not given access to any sensitive technologies on the 
+project -- mostly "passive" components, such as the construction of 
+an orbiting laser reflector.  Mayer said China had attempted to 
+purchase "Rubidium" atomic clocks, a key component of satellite 
+navigation systems, from EADS for Compass.  EADS refused to sell the 
+clocks, so China went directly to Switzerland and acquired them from 
+"Temex Time." 
+ 
+¶12.  (SBU) Our contacts said China appeared to be doing very well 
+with Compass.  They related how the Chinese delegations had 
+aggressively lobbied for participation in Galileo and technological 
+transfer.  Mayer recalled that when the Chinese first started 
+working with EADS, they were very secretive about even the existence 
+of Compass, and its forerunner "Beidou."  Our contacts said they 
+have been impressed with the recent advances of Chinese space 
+technology, including the testing of a killer satellite in orbit, 
+and the increasing sophistication of the Chinese delegations they 
+deal with. 
+ 
+------------ 
+MILITARY USE 
+------------ 
+ 
+¶13.  (SBU) Military use of Galileo has always been on the table. 
+According to the European Commission's own website: "Galileo will 
+underpin the common European defense policy that the Member States 
+have decided to establish."  On May 16, EU Transport Commissioner 
+Barrot told the press: "You cannot exclude a user because he is 
+military.  It will be civilian controlled...but there will be 
+military users."   When asked about the potential military 
+dimensions of Galileo, Kuhlen referred to the obstacle of the UK's 
+instance that Galileo was exclusively a civilian project and its 
+fierce opposition to any use for military purposes.  In any case, he 
+explained, Galileo signals were not really tailored for pure 
+military purposes such as missile guidance, although the EU had 
+adopted a similar architecture to GPS, aiming to provide a series of 
+"open access" signals intended for civilian use with the addition of 
+separate encrypted signals similar to GPS' more precise military 
+"M-code." 
+ 
+¶14.  (SBU) Kuhlen said U.S. concerns Galileo could be used by an 
+enemy military or terrorists to guide weapons against U.S. targets 
+were overstated.  Galileo (presumably in consultation with the U.S.) 
+would be able to be selectively turned off or made less precise in 
+the event of a security threat.  Indeed, he argued, Galileo would 
+effectively augment GPS for the Pentagon by doubling the number of 
+navigation satellites available to U.S. forces, allowing for 
+enhanced precision, particularly in areas where it is presently 
+difficult to receive a GPS signal alone. 
+ 
+----------------- 
+WILL IT BE BUILT? 
+ 
+MUNICH 00000412  004 OF 004 
+ 
+ 
+----------------- 
+ 
+¶15.  (SBU) Our contacts said that despite the many obstacles facing 
+Galileo, including funding and political turf battles, the political 
+will exists to complete the project.  They added that members of the 
+European Parliament backed Galileo across party affiliations.  The 
+EU could not afford to leave this field to the U.S., China, and 
+Russia.  Having said that, they agreed many important questions will 
+have to be answered before work on Galileo can begin in earnest, 
+making the day when end-users will actually be able to navigate by 
+Galileo anyone's guess. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶16.  (SBU) We were struck by the shift in the portrayal of Galileo 
+as a profit-making business model to one that provides 
+"macroeconomic" benefits -- a description that could be given to 
+most any government program.  We left our meeting with EADS-Astrium 
+officials with a similar impression as that which followed our 
+meeting with EADS officials a year ago in the midst of the Airbus 
+crisis (REF C).  EADS and its various divisions have a tremendous 
+amount of technical capability -- capability frequently frustrated 
+by the multi-state environment in which EADS operates.  Just as 
+member state influence over EADS/Airbus resulted in a convoluted 
+manufacturing system spread across Europe and the questionable 
+decision to build the A380 superjumbo to the detriment of the 
+potentially much more lucrative A350 program, EADS-Astrium is a 
+company whipsawed by bickering among its EU state clients.  We have 
+no doubt that the EU will manage to cobble together the necessary 
+funds and apportion contracts across various states in such as way 
+that Galileo will indeed be built.  But the ultimate cost, both to 
+the EU taxpayers, and arguably in terms of European "prestige," will 
+be very high. 
+ 
+¶17.  (U) This report was coordinated with Embassy Berlin. 
+ 
+¶18.  (U) Previous reporting from Munich is available on our SIPRNET 
+website at www.state.sgov.gov/p/eur/munich/ . 
+ 
+NELSON

@@ -1,0 +1,78 @@
+09HONGKONG1009
+EXTRANCHECK: POST SHIPMENT VERIFICATION: UNIQUEST HONG
+Thu Jun 04 00:00:00 +0200 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHHK #1009 1550845
+ZNR UUUUU ZZH
+R 040845Z JUN 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 7755
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001009 
+ 
+USDOC FOR 532/OEA/MHAMES/MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: UNIQUEST HONG 
+KONG 
+ 
+REF: A) BIS e-mail request dated May 15, 2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) at Uniquest Hong Kong, Suite 
+1201, Tower 1, China Hong Kong City, 33 Canton Road, Hong Kong 
+(Uniquest). The items in question for this PSV are three shipments 
+of programmable logic arrays exported to Uniquest on or about 
+December 4, 2008, January 5, 2009 and February 2, 2009.  These items 
+are classified under export control classification number (ECCN) 
+3A001 and are controlled for national security (NS) reasons.  The 
+exporter was Altera Corporation of San Jose, California. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Uniquest is a 
+Korean company registered in Hong Kong in 2001 with Won 6.5 million 
+in share capital.  Its directors are Korean nationals. 
+ 
+¶4.  According to the company's web site (www.uniquest.co.kr), the 
+company is a distributor of electronic components. 
+ 
+¶5.  On June 2, 2009, ECO visited the company and met with Andrew 
+Kim, Managing Director and Yoon Lee, Operations Manager.  Both 
+stated that they are American citizens.  Mr. Kim noted that Uniquest 
+is a Korean company that serves Korean companies (whether in Korea 
+or at their manufacturing locations in China).  Mr. Kim stated that 
+the company operates from Hong Kong because, in this way, it is able 
+to be paid in U.S. dollars by its Korean customers (something that 
+is not possible in Korea, according to Mr. Kim).  This allows the 
+company to minimize its Won currency risk.  Mr. Kim stated that his 
+company does not deal in high reliability or military grade items. 
+He characterized orders for these types of items as red flags. 
+ 
+¶6.  As to the specific items in question, Messrs. Kim and Lee 
+provided documentation confirming shipment of all of the items to 
+various civil end users in Korea including LG Electronics, LG 
+Panels, Centron Technology (a medical equipment manufacturer) and 
+Comart System Co (a surveillance system manufacturer). 
+ 
+¶7.  According to Mr. Kim, the company applies for many Hong Kong 
+export licenses (Mr. Lee provided copies of all of the applicable 
+licenses for the shipments in question) and he is quite familiar 
+with BIS export control rules (noting that he was unable to sell to 
+a known Korean customer, Britestone, while it was on the BIS General 
+Order 3 list). 
+ 
+¶8.  Based on the information noted above, ECO believes Uniquest to 
+be a suitable recipient of controlled U.S. origin technology.

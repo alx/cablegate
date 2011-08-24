@@ -1,0 +1,116 @@
+06HONGKONG3713
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Fri Sep 15 00:00:00 +0200 2006
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ1036
+RR RUEHWEB
+
+DE RUEHHK #3713 2580934
+ZNR UUUUU ZZH
+R 150934Z SEP 06
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 8636
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 003713 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+SANTEK COMPANY LTD. 
+ 
+REF: A) USDOC 01595 
+ 
+1.Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Export Analysis (OEA) of the USDOC Bureau of 
+Industry and Security (BIS), Export Control Officer 
+Philip Ankel (ECO) and Special Agent (SA) John McKenna 
+conducted a Post Shipment Verification (PSV) at Santek 
+Company Ltd. (Santek Hong Kong), Flat E, 9F, Block 2, 
+Tsui Lai Garden, Sheung Shui, Hong Kong. This PSV 
+ 
+SIPDIS 
+concerned two KD-300 probes valued at USD 2,235 
+classified under ECCN 2B006.  ECCN 2B006 items are 
+controlled for national security (NS) and anti- 
+terrorism (AT) reasons and may be controlled for 
+nuclear nonproliferation (NP) reasons. The exporter is 
+MTI Instruments of Albany, N.Y. 
+ 
+¶3.  On August 22, the ECO and SA McKenna visited Santek 
+Hong Kong at the address above.  The ECO and SA met 
+with Emily Yen, Santek's representative in Hong Kong 
+for the past four years. Ms. Yen was open and 
+cooperative and stated that Santek Hong Kong operates 
+as an importer for goods into Hong Kong that are then 
+transshipped to the parent company (Santek) in China 
+(Santek China).  Ms. Yen deals primarily with Santek's 
+office in Shenzhen. 
+ 
+¶4. Ms. Yen further stated that Santek China handles all 
+necessary paperwork for ordering items from the United 
+States, to include providing the documentation required 
+to obtain appropriate U.S. export authorizations. 
+ 
+¶5. Ms. Yen informed the ECO and SA McKenna that all 
+items shipped from the United States that are ordered 
+by Santek China for delivery to Santek Hong Kong are 
+forwarded on to Santek China.  Ms. Yen also informed 
+the ECO and SA McKenna that part of the reason 
+transactions are handled in this manner is that it is 
+easier for the items to be sent to Hong Kong before 
+being forwarded on to China.  This is, in part, because 
+it is sometimes difficult to obtain export licenses for 
+them. 
+ 
+¶6.  Ms. Yen indicated that Santek only sells to 
+Universities and that she was not familiar with the 
+commodities that were the subject of this PSV. Ms. Yen 
+was also not aware of the end-use of the applicable 
+items. 
+ 
+¶7. Ms. Yen provided copies of the purchase order and 
+invoice related to the sale of two KD-300 probes to 
+Hanin Industrial University in China that are the 
+subject of this PSV.  She provided an additional MTI 
+invoice (number 0960543 dated August 16, 2006) 
+reflecting shipment of an additional two KD-300 probes 
+on August 16, 2006. The invoice further states that the 
+ECCN of these items is 2B006 and the customer is 
+Tsinghua University.  Ms. Yen stated that she did not 
+ 
+SIPDIS 
+engage in a dialogue with anyone from MTI concerning 
+the above sale, or any other sale made to Santek by MTI 
+since all paperwork, to include sales and forwarding 
+arrangements, are handled by Santek China. 
+ 
+¶8. Ms. Yen stated that the only other US firm from 
+which Santek China makes purchases is a firm based in 
+New Jersey doing business as Banner (a "Banner" logo is 
+located on the Santek China web page:  santek.com.cn). 
+She also stated that the arrangement to receive 
+commodities ordered by Santek from Banner was the same 
+as with MTI meaning that Santek China handled the 
+ordering and shipping and the items would then be sent 
+to Santek Hong Kong for forwarding to China. 
+ 
+¶9.  Given the information currently available to the 
+ECO and given that the primary role that Santek Hong 
+Kong serves is to move US origin goods to China from 
+Hong Kong, this ECO recommends that this PSV be 
+categorized as unfavorable. 
+Cunningham

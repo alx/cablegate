@@ -1,0 +1,107 @@
+07HONGKONG151
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Wed Jan 17 00:00:00 +0100 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0007
+RR RUEHWEB
+
+DE RUEHHK #0151 0170910
+ZNR UUUUU ZZH
+R 170910Z JAN 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 0143
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000151 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+GIATEK CORPORATION LIMITED 
+ 
+REF: A) USDOC 06881 
+ 
+1.Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO), accompanied by Commercial 
+Assistant Sandy Lai, conducted a post shipment 
+verification (PSV) at Giatek Coporation Limited 
+(Giatek), Unit A, 9th Floor, Roxy Industrial Center, 
+58-66 Tai Lin Pai Road, Kwai Chung, Hong Kong.  The 
+items in question are monolithic analogic integrated 
+circuits exported to Giatek on or about September 1, 
+2006 and valued at USD 8,600.  While the export 
+documentation for these items does not include an 
+Export Control Classification Number (ECCN), related 
+documentation provide by OEA (invoice) suggests that 
+these items are likely classified as EAR99.  Items 
+properly classified as EAR99 may be exported/reexported 
+to virtually all destinations and end-users worldwide, 
+license free.  The exporter was Texas Instruments, Inc. 
+of Dallas Texas. 
+ 
+¶3.  The ECO and Commercial Assistant visited Giatek at 
+the address referenced above on January 8, 2007 and met 
+with Terence Lee, Division Manager and Ms. Margo Tsang, 
+HR and Administration Manager as well as export 
+compliance manager.  Mr. Lee provided background on 
+Giatek and its parent company, Yosun Group.  Yosun is a 
+Taiwan listed company with close to 1,000 worldwide 
+employees (600 in Hong Kong and mainland China). 
+Giatek provides consulting and related equipment sales 
+to mainland electronics manufacturing facilities.  The 
+equipment sales are the logical outgrowth of the 
+consulting business, which involves consulting on the 
+best inputs for certain types of electronics 
+manufacturing.  In particular, Giatek provides advice 
+on appropriate inputs and then procures them on behalf 
+of its clients.  More information on Yosun and Giatek 
+may be found at www.yosungroup.com. 
+ 
+¶4.  With respect to the shipment that was the subject 
+of the PSV, Mr. Lee provided the applicable 
+documentation reflecting that the items had been 
+received by Giatek and subsequently resold to 
+purchasers in Hong Kong. 
+ 
+¶5.  Mr. Lee and Ms. Tsang also stated that Giatek 
+complies with both U.S. and Hong Kong export licensing 
+rules.  Ms. Tsang provided an English language copy of 
+Giatek's "Export Control Management System".  That 
+document is most unusual in this ECO's experience in 
+that it incorporates many of the "best practices" 
+associated with corporate internal compliance programs 
+including lines of authority over export compliance 
+matters, screening procedures for order taking that 
+include checks against problematic end-uses and end- 
+users as well as screening against BIS's denied parties 
+lists.  The document also calls for ongoing training 
+for employees in export compliance matters.  While the 
+document is not perfect, it reflects a remarkable 
+understanding of U.S. and Hong Kong export control 
+rules by a Hong Kong company. 
+ 
+¶6. At the time visited, Giatek appeared to be a 
+suitable recipient of the commodities shipped since 
+Giatek cooperated with the PSV and provided all 
+requested information concerning the final disposition 
+of the applicable items.  At the same time, the ECO was 
+not able to inspect the subject items as they had 
+already been delivered to Giatek's customers. 
+Consistent with guidance on reporting of PSVs where the 
+items cannot be physically inspected, the ECO 
+recommends that this PSV be classified as Limited.

@@ -1,0 +1,180 @@
+09SANAA934
+YEMENI TELECOMMUNICATIONS SECTOR: LOWEST
+Sun May 17 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Sanaa
+VZCZCXRO6263
+PP RUEHDE RUEHDH RUEHDIR
+DE RUEHYN #0934/01 1371218
+ZNR UUUUU ZZH
+P 171218Z MAY 09
+FM AMEMBASSY SANAA
+TO RUEHC/SECSTATE WASHDC PRIORITY 1929
+INFO RUEHZM/GULF COOPERATION COUNCIL COLLECTIVE
+RUEKJCS/SECDEF WASHINGTON DC
+RUEAFCC/FCC WASHINGTON DCUNCLAS SECTION 01 OF 02 SANAA 000934 
+ 
+SIPDIS 
+ 
+NEA/ARP FOR ANDREW MACDONALD 
+EEB/CIP/BA FOR CAROLINE DOW 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON ETRD YM
+SUBJECT: YEMENI TELECOMMUNICATIONS SECTOR: LOWEST 
+PENETRATION IN REGION 
+ 
+REF: STATE 27310 
+ 
+¶1.  SUMMARY.  The Yemeni telecommunications sector still 
+suffers from the lowest penetration in the region.  The lack 
+of both mobile and internet coverage is largely due to 
+government monopoly, policies that emphasize government 
+revenue over encouraging investment, and an outdated 
+infrastructure.  According to private mobile providers, the 
+ROYG continues to challenge expansion of the mobile network 
+via a draft telecommunications law, while retaining control 
+of fixed lines and internet services.  Even as mobile 
+services expand ever-so-slowly, internet coverage will remain 
+limited due to restricted connectivity to the global 
+infrastructure.  END SUMMARY. 
+ 
+TELECOMMUNICATIONS SECTOR 
+------------------------- 
+ 
+¶2.  Yemen still has one of the least developed 
+telecommunications markets in the Middle East.  According to 
+Yaseen Mahmoud Ali, Deputy Minister at the Ministry of 
+Telecommunications and Information Technology, there are 
+approximately one million fixed lines and six million mobile 
+users in a country with over 22 million inhabitants.  (Note: 
+The actual number of mobile users is much fewer as many users 
+have multiple cell phones, which operate on different 
+networks.   End Note.)  Imad Hamed, CEO of Y Mobile, told 
+EconOff on May 5 that Yemen has the lowest penetration rate 
+of mobile technology in the region, estimating it at 9 
+percent.  Ali gave a much higher number on May 3, estimating 
+that the mobile network has penetrated 31.8 percent of the 
+population*-up from only 0.4 percent six years ago (2003). 
+Internet penetration is, comparatively, even lower. 
+According to Dr. Ali Naji Nosary, Director General of the 
+Public Telecommunications Corporation (PTC), there are only 
+30,000 internet ports in private residences and 100,000 in 
+internet cafes.  The PTC estimates the number of internet 
+users at one million (5 percent of the population).  The 
+World Bank, however, estimates the subscriber base at only 
+1.4 percent of the population. 
+ 
+¶3. The lack of mobile and internet penetration is largely due 
+to an inefficient regulatory framework in the 
+telecommunications sector.  The PTC,s Nosary told EconOff on 
+April 26 that although the PTC was established in 1982, the 
+first mobile providers did not enter the market until 2000, 
+and the ROYG did not offer internet services until 2001. 
+Since then, the ROYG (via the PTC) has remained completely in 
+control of internet service in Yemen.  In 2004, the ROYG 
+offered mobile internet and, in 2005, introduced broadband 
+IDSL (digital subscriber line).  The government has been 
+unwilling to grant tenders and maintains a monopoly on the 
+internet market, in spite of interest from investors. 
+ 
+MOBILE PHONE MARKET 
+------------------- 
+ 
+¶4.  The mobile phone market in Yemen is relatively 
+diversified.  Yemen is currently served by four cell phone 
+companies: Yemen Mobile, MTN, Sabafon, and Y Mobile.  A 
+government-owned and operated company, Yemen Mobile, uses 
+CDMA (code division multiple access) technology, a 
+first-generation cell phone technology.  The private 
+companies--MTN, Sabafon, and Y Mobile--use GSM (global system 
+for mobile communications) technology, a second-generation 
+mobile technology.  Y Mobile,s Hamed told EconOff on May 5 
+that due to governmental restrictions, Yemen still does not 
+have UMD (ultra mobile device) technology, a third-generation 
+mobile technology that offers more services including 
+internet access.  All four mobile providers plan to increase 
+their coverage in Yemen.  Sadek Mousleh, CEO of Yemen Mobile, 
+told EconOff on April 28 that his company plans to be in 95 
+new areas in 2009, 40 percent in rural areas and 60 percent 
+in urban locations.  Currently, the mobile network is 
+available in 70 percent of inhabited areas. 
+ 
+MOBILE PROVIDERS OPPOSE DRAFT TELECOM LAW 
+----------------------------------------- 
+ 
+¶5.  Ostensibly an attempt to clarify the relationship between 
+the service providers and the regulatory body, a draft 
+telecom law proposes to place a number of fees on private 
+mobile phone companies, including universal access (2 percent 
+of revenue) and revenue sharing (10-15 percent).  The 
+Ministry of Telecommunications says it has consulted the 
+International Telecommunications Union (ITU) as well as the 
+World Bank and a Jordanian expert for help in drafting the 
+ 
+SANAA 00000934  002 OF 002 
+ 
+ 
+law.  All three private mobile companies oppose the draft 
+law.  Raed Ahmed, CEO of MTN, told EconOff on May 3 that the 
+price of revenue sharing will change his company,s business 
+model enough that it will have to raise prices and fire 
+employees.  Similarly, Sabafon CEO Hamid al-Ahmar said to 
+EconOff on May 4, "Sabafon has joined with MTN in opposing 
+the draft telecommunication legislation*an absurd power grab 
+that combines the ROYG,s worst security instincts with its 
+worst economic instincts."  Hamed of Y Mobile, the newest and 
+smallest mobile provider in the market, told EconOff on May 5 
+that his company objects to the draft law because it does not 
+provide mobile companies any additional services, but takes a 
+large swath of revenue.  If passed, the draft law will also 
+allow the ROYG unconditional access to eavesdropping, 
+according to MTN,s Ahmed.  It will also disallow mobile 
+providers from disconnecting lines unless they go to 
+court--even if the subscriber does not pay. 
+ 
+CHALLENGES TO INCREASING TELECOM PENETRATION 
+-------------------------------------------- 
+ 
+¶6.  Currently, the ROYG has a monopoly on providing both 
+fixed lines (through PTC) and internet services (through 
+Yemen Net).  While the PTC has plans to increase the number 
+of internet lines in 2009 to 150,000 (from 35,000), the ROYG 
+remains unwilling to open the market for either fixed lines 
+or internet services to private sector competition.  The PTC 
+plan to expand the number of internet lines will target 
+municipalities and secondary towns, but not rural areas.  The 
+PTC,s Nosary told EconOff on April 26 that the PTC has plans 
+to institute an e-Caravan, a car equipped with internet, 
+which would provide additional, if intermittent, coverage to 
+rural areas.  Ultimately, broadband internet is limited as 
+Yemen has a restricted amount of international fiber optic 
+cable and relies on connectivity to the internet via 
+satellite. 
+ 
+¶7.  Further, the ROYG restricts the ability of mobile 
+providers to expand.  Ali told EconOff on May 3 that the 
+Ministry of Telecommunications would like to issue new 
+licenses and allow private companies to bring in the next 
+generation of mobile services, but it is unlikely to happen 
+until 2010.  While relations between mobile providers are 
+competitive, they work together in expanding into rural 
+areas, which often requires negotiating with tribes and 
+sharing infrastructure and maintenance costs.  In rural 
+areas, high rental prices and intermittent power remain major 
+issues, according to Yemen Mobile,s Mousleh. 
+ 
+COMMENT 
+------- 
+ 
+¶8.  While mobile services are expanding slowly into rural 
+areas, internet usage remains limited, even by developing 
+world standards, across the country.  In addition to an 
+outdated infrastructure and inefficient regulatory framework, 
+potential internet providers must face the challenges of 
+covering remote areas while attracting a population with low 
+income and high illiteracy.  Yemen has also maximized its 
+broadband connectivity to the global infrastructure.  These 
+challenges will effectively limit the Yemeni population,s 
+access to internet for the foreseeable future.  END COMMENT. 
+SECHE

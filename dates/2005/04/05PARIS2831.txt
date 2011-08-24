@@ -1,0 +1,414 @@
+05PARIS2831
+UNESCO/INTERNATIONAL OCEANOGRAPHIC COMMISSION
+Tue Apr 26 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 06 PARIS 002831 
+ 
+SIPDIS 
+ 
+FROM USMISSION UNESCO PARIS 
+ 
+E.O. 12958: N/A 
+TAGS: TPHY AORC OTRA PBTS WWT UNESCO
+SUBJECT: UNESCO/INTERNATIONAL OCEANOGRAPHIC COMMISSION 
+MEETING COORDINATES INDIAN OCEAN TSUNAMI WARNING SYSTEM 
+ 
+Ref: STATE 33352 
+ 
+¶1.  Summary and Introduction: 
+The Intergovernmental Oceanographic Commission (IOC)convened 
+The International Coordination Meeting for the development 
+of a Tsunami Warning and Mitigation System for the Indian 
+Ocean within a Global Framework, at UNESCO Headquarters in 
+Paris, 3-8 March 2005.  The meeting  reinforced the IOC's 
+lead role in coordinating global and regional tsunami 
+warning systems, a primary USG goal.  (The USG supports 
+expanding the Pacific Tsunami Warning network -- which 
+exists under the auspices of the IOC -- to the Indian Ocean 
+and other at risk areas, within the framework of the Global 
+Earth Observation System of Systems (GEOSS).  The meeting 
+also resulted in the establishment of an International 
+Coordination Group for the Tsunami Warning and Mitigation 
+System for the Indian Ocean, whose terms of reference will 
+be approved at the IOC's General Assembly in June, as well 
+as in the setting up of a process and timeline to design a 
+basin-wide Indian Ocean Tsunami Warning System (IOTWS). 
+ 
+¶2.  The meeting concluded with a communique that underscored 
+national responsibility for establishing and managing 
+national warning systems, emphasized the critical role of 
+education for community preparedness, and urged all 
+countries to engage in capacity building and technology 
+transfer in the Indean Ocean region.  It was decided that 
+the IOTWS would consist of a coordinated network of national 
+systems; though several countries vied for serving as the 
+regional coordinator, there was no consensus on the matter. 
+The communique also recommended that all Member States "make 
+every endeavor" to share seismic, sea-level and other data 
+relevant to tsunamigenic events at or near real-time. 
+Within the IOC, the US has consistently supported open and 
+free exchange of data, including in the context of tsunami 
+warning systems; this is likely to remain a contentious 
+issue as the IOTWS moves forward.  The communique and all 
+presentations are available at 
+http://ioc.unesco.org/indotsunami. 
+ 
+¶3.  IOC will sponsor a follow-up meeting in Mauritius, 14-16 
+April, with the aim to develop the draft design and work 
+plan for presentation to the June IOC General Assembly.  For 
+additional information, contact Liz Tirpak (DOS/OES, 
+tirpakej@state.gov, 202-647-0238)  End Summary and 
+Introduction. 
+ 
+MEETING OVERVIEW 
+---------------- 
+ 
+¶4.  The IOC hosted the International Coordination Meeting 
+for the Development of a Tsunami Warning and Mitigation 
+System for the Indian Ocean within a Global Framework, in 
+light of the tragic loss of life and massive destruction 
+caused by the Indian Ocean tsunami of 26 December 2004. 
+ 
+¶5.  The U.S. policy statement, made by Head of Delegation 
+and U.S. Representative to the IOC Executive Council, NOAA 
+Assistant Administrator Dr. Richard Spinrad, was well 
+received (full text at end of cable).  U.S. technical agency 
+experts (USGS, USAID, NOAA) made formal presentations, 
+intervened on key points and participated actively in all 
+working groups.  The experience of the U.S.-hosted Pacific 
+Tsunami Warning Center was acknowledged by several speakers. 
+ 
+SIPDIS 
+ 
+¶6.  Many U.S. delegation goals were reinforced in the 
+opening statement by UNESCO Director-General Koichiro 
+Matsuura, who emphasized IOC's role in linking 
+internationally- run detection/alert systems with nationally- 
+run warning systems.  He underscored that a tsunami warning 
+system should be fully embedded in the global ocean 
+observing system (GOOS) that is regularly used for other 
+hazards, such as storm surges and tropical cyclones. 
+Following the February Global Earth Observation System of 
+Systems (GEOSS) meeting and third Earth Observation Summit 
+in Brussels, Matsuura noted that "synergies between existing 
+and new systems will make possible a multi-hazard approach 
+that should improve the cost-effectiveness and long-term 
+sustainability of the overall system."  Lastly, he drew 
+substantially on the experience of the Pacific Tsunami 
+Warning Center in designing and operating a warning system 
+TWS, providing for open, free and unrestricted exchange of 
+data and information, and promoting the three components of 
+a TWS: tsunami hazard assessment; detection/warning system; 
+and adoption of preparedness measures. 
+ 
+¶7.  Twenty IOC member states offered various levels of 
+support for the creation of an Indian Ocean tsunami warning 
+system. No nation rejected the idea, but no nation pledged 
+support without conditions.  (Note:  Australia, India, 
+Indonesia, and Thailand appear to have the most advanced 
+planning with funding to back their plans.  All three plans 
+are based on the Pacific Ocean Tsunami Warning System (PTWS) 
+of an integrated approach of hazard assessment, warning 
+guidance, and preparedness, with India's plan being the most 
+comprehensive.  End Note.) 
+ 
+¶8.  Data Exchange Issue - Several participants acknowledged 
+that "immediate, free and open distribution of raw data from 
+observing systems in real time" should serve as the founding 
+principle for all regional and global tsunami warning 
+systems, while India could offer only "international product 
+sharing."  Other participants suggested that the IOC Data 
+Exchange Policy, adopted by the Assembly in 2003, should 
+serve as the "guiding principle" for IOTWS.  (Note: Though 
+the U.S. endorsed the IOC Data Exchange Policy, the Policy 
+refers only to oceanographic data, not to seismic or other 
+types of data crucial to an effective tsunami warning 
+system.)  The Communique ultimately recommended that all 
+Member States "make every endeavor" to share seismic, sea- 
+level and other data relevant to tsunamigenic events at or 
+near real-time. 
+ 
+¶9.  The Pacific Tsunami Warning Center and the Japan 
+Meteorological Agency agreed to provide interim tsunami 
+alerts to the Indian Ocean region based on existing 
+facilities until adequate warning capabilities are 
+established within the region.  Four nations in the region 
+(Australia, India, Indonesia, and Thailand) confirmed their 
+plans to establish systems and capacities to detect and 
+measure tsunamigenic events and issue appropriate warnings 
+to forecast their impacts.  Until and unless a regional 
+center is identified, the national centers agreed to supply 
+product and services to other national centers in the 
+region. 
+ 
+¶10.  Discussions were organized by topic, addressed first in 
+panel and later in three separate working groups.  The three 
+main topics were technical aspects, organizational aspects, 
+awareness and preparedness. 
+ 
+Technical Aspects 
+------------------ 
+ 
+¶11.  The panel on the technical aspects of tsunami warning 
+systems (TWS) was chaired by the representative from 
+Indonesia who presented some graphical material on the 
+effects of the recent tsunami and the need for improvement 
+of monitoring and warning technologies in the Indian Ocean. 
+The panel was made up of scientific and technical 
+presentations by experts from the Russian Federation and 
+Japan.  The Russian expert presented statistics on tsunami 
+occurrence and likelihoods of tsunami generation and their 
+severity from earthquakes of various magnitudes.  The 
+Japanese experts covered the current technologies used in 
+Japan to detect tsunami and issues warnings, with particular 
+emphasis on the challenges of warnings of local tsunamis 
+compared to those caused by distant earthquakes. 
+Presentations also reviewed the factors controlling tsunami 
+height and on-shore run-up.  The Chair of the IGC/ITSU gave 
+the most scientifically controversial presentation by 
+describing "emerging technologies" for tsunami detection and 
+warning, including perturbation measurement from the 
+ionosphere, infrasound  measurements, satellite-based ocean 
+height measuring systems, and on-shore radar. 
+ 
+¶12.  Dr. Neville Smith (Australia) chaired the technical 
+aspects a working group, which was tasked to identify and 
+recommend: (1) the technological basis for a tsunami warning 
+system (measurements and telecommunications, analysis, 
+processing and hazard/risk assessment); (2) design elements 
+of an IOTWS, (3) the strategy for building an IOTWS, and (4) 
+new technologies and research and development needed.  The 
+resulting report consists of provided both general and 
+specific a series of bulleted points recommendations that 
+will be considered in for the preparation of the design 
+plan: 
+ - free and immediate flow of raw observational data, in 
+real time over robust communication links, to all national 
+and regional participants in the system is a necessary 
+component for TWS. 
+ - common approaches to data processing, hazard and risk 
+modeling, and warning dissemination and message format are 
+essential. 
+ - coastal bathymetry, sea floor configuration, topography 
+and land mapping are essential and must be carried out and 
+be made available in high resolution format for all at-risk 
+national coastal regions. 
+ - utilization of new technologies should be explored. 
+ - the requirements for use of space technology for 
+tsunami applications must be defined. 
+ 
+SIPDIS 
+ - network must enable the rapid verification of tsunami 
+waves from sea-level and ocean-bottom sensors. 
+.- geostationary communication satellites operating in the 
+Indian Ocean region and the use of Global Telecommunication 
+System (GTS) of WMO, currently operational used for the 
+Pacific Tsunami Warning System (PTWS) for collection of sea- 
+level observations and distribution of bulletins and 
+warnings, should be upgraded within 6 months and fully 
+operational to address needs of the Indian Ocean region in 
+the interim and longer-term be explored. 
+ - broadband is needed for real-time distribution of seismic 
+data. 
+ - telecommunication systems that meet these requirements 
+should be identified and utilized. 
+ - risk management framework should be employed and 
+complemented by robust models and scenarios of historical 
+and potential tsunami events that can be used in the 
+formation and dissemination of warnings. 
+ - for both seismic and sea level networks - upgrades must 
+must be identified and prioritized. 
+ - establishment of deep ocean buoys useful for tsunami 
+monitoring is needed. 
+ - cable-based systems should also be assessed as these 
+instruments are important for slumping events and other 
+events that are not seen in seismic measurements. 
+ - network planning should start with identifying and 
+mapping the tsunami prone areas.  This should be based upon 
+a historical study of earthquake and tsunami occurrences. 
+ - robustness and durability of the instruments and the 
+system as a whole to the impacts of the earthquakes needs to 
+be considered 
+ - emerging technologies should be considered in the overall 
+strategy, to ensure the evolution of the system relative to 
+best practice. 
+ 
+¶13.  During the instrumentation and communication 
+discussions, vocal participants with narrow interests often 
+held the floor and carried their positions forward. 
+Nevertheless, there was the recognition that many of the 
+pieces for the ITOTWS are in place or in progress; the 
+challenge rests in putting the pieces together in a 
+structure that has the needed telecommunication, data 
+processing, and warning dissemination capacities. 
+ 
+¶14.  The general strategy of the IOTWS was defined to 
+include: immediate, free and open distribution of raw data 
+from the observing systems in real-time must be acknowledged 
+as a founding principle for all regional and global tsunami 
+warning systems, since without, both the timeliness and 
+effectiveness of the system may be severely compromised.  It 
+was noted that many of the standards that underlie the 
+systems for open data collection and exchange can be adopted 
+( or adapted) from already established international 
+systems.  A sustained and reliable network will require 
+sustained investment, national commitments, and 
+international cooperation. 
+ 
+¶15. In terms of the technological implementation, it was 
+agreed that the tsunami warning system as a whole should be 
+build on and be a part of a multi-purpose system, since . 
+the sustainability of the observing system including cost 
+effectiveness and efficiency are also enhanced with such an 
+approach. 
+ 
+¶16.  As the tsunami early warning system will be based upon 
+various data acquisition and dissemination platforms, it was 
+emphasized that the 
+ 
+ -network of stations for tsunami early warning should be 
+constantly monitored to guarantee its reliability and 
+effectiveness. 
+ - data must be quality controlled, and archived for post- 
+event assessment and research. 
+ - observation systems should be qualified and certified. 
+ - warning criteria and standards need to be established 
+drawing from PTWC protocols. 
+ 
+The legal responsibility for issuing warnings (that may lead 
+to evacuation) are assumed by national centers (unless other 
+arrangements are agreed upon by countries). 
+ 
+Organizational Aspects 
+---------------------- 
+ 
+¶17.  The panel on "Organizational and Practical Arrangements 
+for a Regional Tsunami Warning and Mitigation System" 
+featured presentations by the national programs of Chile and 
+Japan.  Dr. Charles McCreery, Director Pacific Tsunami 
+Warning Center, and Dr. Laura Kong, Director, International 
+Tsunami Information Center (ITIC) presented regional 
+ 
+SIPDIS 
+dimensions. 
+ 
+¶18.  It was noted that National centers are responsible for 
+interpreting warning guidance from regional center(s), 
+issuing local warnings, and issuing alerts for local events, 
+while regional centers provide efficiency of operations, 
+access to a larger suite of observations, and sharing of 
+services.  Regional centers also provide serve as a focal 
+point for mitigation activities, communications between 
+stakeholders, products (e.g., tsunami travel and height 
+maps), services (e.g., testing of communications systems, 
+expertise exchange, quality control), and can provide backup 
+functions for national centers.  Regional commitment and 
+support and support from , national support, and 
+international support levels can guarantee long-term 
+sustainability of regional centers. 
+ 
+¶19.  Kong described how the ITIC monitors the international 
+tsunami warning system for the Pacific to improve 
+ 
+SIPDIS 
+operations, assists member states with technology transfer, 
+and provides technical assistance and training to improve 
+national and community-level preparedness.  Kong also noted 
+the importance of hazard reduction strategies, including 
+preparation of inundation maps, evacuation maps, simulations 
+and drills, to facilitate an effective response to tsunami 
+warning.  ITIC training programs and outreach materials were 
+offered to help prepare both national emergency management 
+agencies and local communities to respond appropriately to 
+tsunami warnings. 
+ 
+SIPDIS 
+ 
+¶20.  Conclusions of the working group on the organizational 
+aspects of an IOTWS were captured in the Communique. 
+ 
+AWARENESS AND PREPAREDNESS 
+-------------------------- 
+ 
+¶21.  The panel addressed on Tsunami awareness and 
+preparedness reviewed national preparedness plans (New 
+Zealand and Indonesia), community-based early warning 
+systems (ISDR, Red Cross), awareness building and public 
+information (Asian Disaster Reduction Centre), and 
+institutional capacities for moving forward (UNDP). 
+ 
+¶22.  The corresponding working group reviewed (1) risk and 
+vulnerability assessment; (2) public awareness and 
+education; and (3) preparedness and emergency response. To 
+address risk reduction, the group called for preparation of 
+hazard risk, inundation and evacuation maps that identify 
+escape routes, safe areas and shelters.  The group 
+acknowledged other methods of reducing risks - beyond the 
+scope of ITSU - including land-use planning, structural 
+interventions (building codes, coastal structures, elevated 
+shelters), and non-structural interventions (protection, 
+rehabilitation, and conservation of coastal ecosystems, 
+including mangroves and coral reefs that help buffer coastal 
+communities). 
+ 
+¶23.  Awareness, education, and public outreach as were noted 
+as essential ingredients in tsunami early warning systems, 
+recognizing that innovation and local knowledge to can be 
+used to build a culture of safety.  The group also called 
+for special attention to building national and local 
+preparedness and emergency response capacities, with clear 
+and careful delineation of functions and responsibilities. 
+ 
+BEYOND THE INDIAN OCEAN 
+----------------------- 
+ 
+¶24.  The final session on "The Indian Ocean System within a 
+Global Framework" provoked substantial debate as to how 
+other region's tsunami warning systems (e.g., Mediterranean 
+and Northeast Atlantic, Caribbean and Central West Atlantic, 
+and Southwest Pacific) would be reflected in the Communique. 
+India and other IO members provided text that limited 
+examples to areas adjacent to the Indian Ocean, such as 
+South-East Asia and the South China Sea. 
+ 
+Participating Organizations 
+---------------------------- 
+ 
+¶25.  Several organizations were invited to make 
+announcements during the proceedings: 
+ 
+Asian Disaster Preparedness Center (ADCP) - Described 
+experience in regional disaster projects and described a 
+regional TWS that includes earthquake and tsunami 
+monitoring. 
+ 
+Comprehensive Nuclear-Test-Ban Treaty Organization (CTBTO) - 
+Offered to share data archival technology. 
+Global Earth Observational System of Systems (GEOSS) -Guy 
+Duchossois described program and presented Tsunami 
+Communique. 
+ 
+GLOSS (IOC global sea level program) - Described current 
+contribution in IO and recommended expansion of real time 
+reporting stations. 
+International Maritime Organization (IMO) - Described how 
+warnings might be disseminated via ships. 
+ 
+Incorporated Research Institutions for Seismology - David 
+Simpson described the standardized, real-time global seismic 
+network, how it detected the Dec 26 earthquake, and how it 
+could contribute to a global TWS. 
+ 
+International Telecommunications Union (ITU) - Described 
+their role in communications for all aspects of TWS. 
+ 
+UN/ESCAP- - Described capabilities as they relate to a 
+regional of global TWS. 
+ 
+WMO - Described operational role in world weather 
+forecasting and recommended that the TWS use their Global 
+Telecommunications Networks to deliver tsunami warning 
+information to ION nations. 
+ 
+OLIVER

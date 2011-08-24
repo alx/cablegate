@@ -1,0 +1,336 @@
+06GUANGZHOU15230
+Shenzhen Optical Disc Forensics Lab Clarifies Its
+Tue May 23 00:00:00 +0200 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Guangzhou
+VZCZCXRO3782
+RR RUEHCN RUEHGH
+DE RUEHGZ #5230/01 1430836
+ZNR UUUUU ZZH
+R 230836Z MAY 06
+FM AMCONSUL GUANGZHOU
+TO RUEHC/SECSTATE WASHDC 8559
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUCPDOC/USDOC WASHDC
+RUEAIIA/CIA WASHDC
+RUEKJCS/DIA WASHDC
+RHHMUNA/HQ USPACOM HONOLULU HIUNCLAS SECTION 01 OF 04 GUANGZHOU 015230 
+ 
+SIPDIS 
+ 
+USDOC FOR 4420/ITA/MAC/MCQUEEN, DAS LEVINE 
+STATE FOR EB/TPP MASSINGA, FELSING 
+STATE PASS COPYRIGHT FOR TEPP 
+STATE PASS INTERNATIONAL IPR ENFORCEMENT COORDINATOR CHRIS 
+ISRAEL 
+STATE PASS USPTO FOR DUDAS, BROWNING, SCHIFFMAN, BOLAND, 
+ANTHONY, NESS 
+STATE PASS USTR - MENDENHALL, MCCOY, ESPINEL, CELICO 
+USDOJ FOR SUSSMAN 
+DHS/CPP FOR PIZZECK 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: KIPR KJUS KCRM ECON ETRD CH
+SUBJECT: Shenzhen Optical Disc Forensics Lab Clarifies Its 
+Capabilities and Procedures: Doing Less With More 
+ 
+REF: A) Beijing 2542; B) 05 Beijing 19671 
+ 
+(U) This message is sensitive but unclassified.  Please 
+handle accordingly. 
+ 
+¶1. (SBU) Summary: Located in Shenzhen but falling under the 
+authority of the Ministry of Public Security (MPS), the Disc 
+Production Source Identification Center (DPSIC) is 
+responsible for etching source identification (SID) codes 
+onto production dies and analyzing optical discs to 
+determine their source dies.  DPSIC holds China's only 
+complete exemplar library of optical discs produced in China 
+and is also the only lab to house sound spectrogram and 
+optical media "fingerprinting" equipment to conduct forensic 
+analysis.  The lab can only identify discs produced on 
+legally registered production lines.  On-site inspectors 
+from the General Administration of Press and Publications 
+(GAPP) are posted at every optical disc replicating facility 
+in China in order to monitor disc titles and production 
+equipment.  A GAPP official criticized the accuracy and 
+timeliness of the list of suspected counterfeiting lines 
+provided by the USG in late 2005.  The lab's director, 
+though open in discussing technical and procedural issues, 
+expressed no interest in formally cooperating with foreign 
+industry groups.  End summary. 
+ 
+¶2. (SBU) On May 19, Embassy Economic Minister Counselor 
+Robert Luke, Embassy Legal Attache William Liu, Post 
+Economic-Political Chief, and Post Economic Officer visited 
+DPSIC to learn about the lab's technical capabilities, 
+documentary requirements, and potential for future 
+cooperation.  The meeting had been in the works since 
+November 2005.  Many of the questions raised were submitted 
+by the Embassy beforehand, some of which were provided by 
+representatives of International Federation of the 
+Phonographic Industry (IFPI) and the Motion Picture 
+Association (MPA).  Attending on the Chinese side were Lin 
+Cang, DPSIC director; Xiang Zejun, DPSIC vice director; Lu 
+Zhou, Division Chief of Press and Publication's Office of 
+Printing and Reproducing Industry Management in Beijing; Lin 
+Zhaonan, staff in MPS's American and Oceanian Affairs 
+Division's International Cooperation Department in Beijing; 
+Zhang Jun, division chief in MPS's Social Order Division in 
+Beijing; Liu Zhuo, deputy director of the Shenzhen Press and 
+Publication Office; and Wang Xiaoyin, chief operating 
+officer of Shenzhen Zhicheng Wei Optical Disc Production 
+Ltd. 
+ 
+Background on the Lab 
+--------------------- 
+ 
+¶3. (SBU) DPSIC falls directly under the Ministry of Public 
+Security (MPS).  It was founded in December 1997 and began 
+operations in February 1999.  DPSIC moved to a new facility 
+in Shenzhen in early 2006.  The facility occupies two floors 
+of an MPS-owned office building on the edge of the city. 
+DPSIC contact information is as follows: Address: No. 1, 1st 
+Xia Meilin Street, 12th Floor, Futian Area, Shenzhen, PRC 
+518049; Tel: 0755-8319-6000, Fax: 0755-8319-8038; Email: 
+discgov@vip.163.com; Website: www.discgov.com. 
+ 
+SID Etching and Identification 
+------------------------------ 
+ 
+¶4. (SBU) According to Lin Cang, DPSIC director, the lab 
+etches SID codes onto production dies for optical disc 
+manufacturers in China, and has etched approximately 1,300 
+SID codes since December 2000.  An MPS lab in Shanghai also 
+etches SID codes.  DPSIC has a library that includes all 
+exemplars in China, including those etched in the Shanghai 
+lab.  The Shanghai lab does not store exemplars.  The 
+General Administration of Press and Publication designs and 
+authorizes SID codes for use.  SID codes help authorities 
+identify factories where optical media is produced.  The SID 
+code is stamped on each CD produced by the die with the SID 
+etched on it.  It does not reflect the media content on the 
+ 
+GUANGZHOU 00015230  002 OF 004 
+ 
+ 
+disc.  Manufacturers are required to submit 10 disc samples 
+to DPSIC within 15 days after the SID code has been etched. 
+If the manufacturer does not submit samples, the local Press 
+and Publications office will deny its annual registration. 
+If a SID codes wears out from repeated use, the replacement 
+die receives the same SID code.  However, the MPS Center is 
+not responsible for ensuring that moulds with worn SID codes 
+are replaced, or even ensuring that un-etched moulds are not 
+substituted.  That is the responsibility of the GAPP 
+personnel located in each production facility. 
+ 
+Forensic Analysis: "Fingerprinting" and Sound Spectrum 
+--------------------------------------------- --------- 
+ 
+¶5. (SBU) DPSIC is the only lab in China that uses forensic 
+analysis to identify source dies and issue inspection 
+certificates, which can be used in court proceedings.  The 
+lab ideally completes an analysis within 22 working days of 
+application.  However, because of delays in receiving 
+correct documentation and fees, as well as occasional 
+difficulties in disc analysis, the process often takes 
+longer.  (Note: U.S. media representatives have complained 
+that delays average three months and sometimes much longer. 
+End note.)  Since opening in 1999, DPSIC has issued 
+approximately 2,000 inspection certificates from 400 
+applications.  In 2005 alone, the lab issued 500 inspection 
+certificates.  Lin said the number of cases involving 
+foreign rights-holders was very small.  When asked for a 
+more exact figure, he would only say that it was less than 
+ten percent of the total. 
+ 
+¶6. (SBU) Lin said up to 90 percent of the discs they receive 
+have no identifiable SID code, sometimes because they have 
+been intentionally rubbed off.  Discs originally produced as 
+blank discs do not have SID codes, and most pirated discs 
+produced at underground lines do not have SID codes.  In 
+these cases, the lab relies on forensic analysis to identify 
+the die used in production.  DPSIC conducts forensic 
+analysis through both "fingerprinting" (identifying unique 
+markings on the die) and sound spectrum analysis 
+(determining differences in sound quality).  To conduct 
+"fingerprinting" forensics, the lab uses software or, if the 
+software analysis is not conclusive, microscopes.  DPSIC 
+began providing sound spectrum analysis and issuing 
+identification certificates in May 2003, and has thus far 
+made approximately 50 such analyses.  The DPSIC facility 
+houses two sound spectrogram machines.  When asked about 
+DPSIC's ability to analyze pirated discs made overseas, Lin 
+said the lab does not have foreign data and thus could not 
+handle such cases.  DPSIC can only identify discs produced 
+on legally registered production lines in China.  DPSIC 
+officials appeared equally reluctant to accept Chinese discs 
+seized overseas, saying that the evidentiary requirements of 
+Chinese courts made it impossible to guarantee the chain of 
+custody. 
+ 
+¶7. (SBU) Those discs that have been submitted by foreign 
+rights holders have been submitted through a Chinese law 
+office.  DPSIC staff indicated that this would continue to 
+be the required procedure in the future.  When Legat 
+inquired whether the USG could submit suspected counterfeit 
+discs to the MPS requesting the Center's analysis, Lin 
+replied that the Center would not accept them, and did not 
+take instructions from the MPS. 
+ 
+¶8. (SBU) All of the DPSIC staff have university degrees in 
+either computer science or forensics.  They must also pass 
+an MPS certification exam.  Occasionally, MPS specialists 
+are called in to assist in difficult cases. 
+ 
+Replicators and On-Site Inspectors 
+---------------------------------- 
+ 
+¶9. (SBU) DPSIC keeps a record of every optical disc 
+production machine imported into China.  Approximately 90 
+replicators currently operate in China, with 400 production 
+ 
+GUANGZHOU 00015230  003 OF 004 
+ 
+ 
+lines.  Press and Publications employs at least one on-site 
+inspector at every replicating facility in China.  These 
+inspectors verify that the titles and content of discs are 
+approved, monitor the number of discs produced, and record 
+replacements of dies and other equipment.  On-site 
+inspectors are rotated every two to three years and the 
+replicating facility has no say in their selection. 
+Companies must receive approval from Press and Publications, 
+Ministry of Commerce, and Customs to import a production 
+machine.  (Note: However, the machinery from production 
+lines seized underground have been resold at auctions, the 
+tracking of which is unknown.  Twenty-one illegal production 
+lines were seized in Guangdong Province in 2005.  End note.) 
+ 
+Case Submission and Fees 
+------------------------ 
+ 
+¶10. (SBU) Only domestic entities can submit optical discs 
+for analysis, thus foreign rights-holders must use a Chinese 
+legal representative.  When asked why this requirement 
+exists, Lin said it reduces potential legal complications. 
+SPDIC requires four separate items in order to accept a 
+case: three copies of the pirated disc; legal identification 
+of the submitting entity; copyright registration; and 
+business registration.  DPSIC does not require any copies of 
+genuine discs, which had been the understanding of some 
+foreign industry representatives.  However, it does ask that 
+these be provided when possible for comparison.  When asked 
+why clients must submit identification, copyright, and 
+business evidence, even if they are a well-known company and 
+a repeat client of the lab, Lin simply stated that the 
+procedures must be followed by all clients, each time.  When 
+asked why three copies of a pirated disc are required, a 
+sometimes difficult requirement to meet, he said this 
+improves the accuracy of lab analysis. 
+ 
+¶11. (SBU) The cost of submitting an application is RMB 100 
+(USD 12).  This fee covers an initial exam, which determines 
+whether the lab will be able to reach a conclusive result in 
+the case.  If the lab decides to accept the case, it charges 
+an additional RMB 1,900 (USD 237) upon completion of the 
+analysis.  If the lab accepts the case but fails to reach a 
+result, it does not charge the additional fee.  Forms and 
+instructions for filling them out are now available on-line. 
+ 
+¶12. (SBU) DPSIC does not pass test results to Chinese 
+authorities or initiate cases on behalf of rights-holders. 
+It merely passes the results back to the submitting entity, 
+which must then pursue action on its own behalf through 
+administrative or criminal channels. 
+ 
+No Coordination with Foreign Associations or Governments 
+--------------------------------------------- ----------- 
+ 
+¶13. (SBU) When asked whether DPSIC is interested in 
+cooperating with foreign industry groups, Lin said it was 
+not.  In particular, Lin said, the Center has no authority 
+to release exemplars in its library to foreign associations 
+for use in forensics analysis overseas.  He said DPSIC has 
+not worked with foreign law enforcement agencies, courts, or 
+customs offices in the past.  As an explanation, he stated 
+several times that DPSIC must maintain strict independence 
+in its work and must not be influenced by outside forces. 
+He said MPS's Foreign Affairs Office controls all of the 
+lab's contacts with foreign entities but acknowledged he had 
+met foreign industry association representatives on an 
+informal basis.  When asked about coordination with domestic 
+organizations, Lin said lab staff occasionally receive 
+briefings from them but also avoids close cooperation. 
+Interestingly, a business representative from a local media 
+company was present at the meeting. 
+ 
+2005 USG List of Suspected Counterfeit Production Lines 
+--------------------------------------------- ---------- 
+ 
+¶14. (SBU) When asked about the Chinese response to the USG's 
+ 
+GUANGZHOU 00015230  004 OF 004 
+ 
+ 
+submission of lists of suspected counterfeit optical disc 
+production lines in 2005, Lu Zhou, Press and Publications 
+representative from Beijing, said any future requests should 
+be handled through the JCCT process, but added the 
+information should be more accurate and timely.  Lu said 
+some of the 2005 information was more than five years old 
+and some was mistaken and/or repetitive.  He said 46 percent 
+of the document's information was unreliable.  Lu added that 
+he welcomes industry groups to provide up-to-date 
+information on which Chinese companies foreign media 
+companies have contracts with who are authorized to sell and 
+produce in China, in order to assist enforcement officials. 
+He added he had made this suggestion to U.S. industry groups 
+on two separate occasions, but so far there has been no 
+response. 
+ 
+¶15. (SBU) Zhang Jun, division chief in MPS's Social Order 
+Division, said MPS investigations have uncovered 223 
+counterfeit optical disc production lines in China thus far. 
+ 
+Recommendations for Foreign Rights-Holders 
+------------------------------------------ 
+ 
+¶16. (SBU) Lin and DPSIC staff recommended that foreign 
+rights-holders collect evidence with the utmost care, 
+sealing items until court proceedings and hiring notaries 
+(in China notaries are public officials whose testimony in 
+court carries official weight) to corroborate information. 
+Lu added that companies should not accumulate cases and send 
+them to DPSIC in batches -- rather, they should send cases 
+as they develop in order to reduce bottlenecks in the 
+system. 
+ 
+Comment 
+------- 
+ 
+¶17. (SBU) Foreign industry groups and company 
+representatives have described DPSIC as opaque and 
+uncooperative.  In discussions leading up to this visit, 
+industry representatives were even uncertain as to what 
+types of forensic analysis the lab conducts.  Industry is 
+particularly frustrated with DPSIC's requirement that only 
+domestic entities submit cases, the burdensome evidentiary 
+requirement for submissions, and the long waits to obtain 
+results (one year in at least one case).  Though the visit 
+request took months before MPS finally approved it, and the 
+lab director expressed an unwillingness to cooperate with 
+industry groups, this meeting nevertheless may open the door 
+to future dialogue with this important link in China's 
+copyright enforcement chain.  DPSIC officials now understand 
+that industry and USG interest in the lab is not malicious, 
+but rather aimed at clarifying technical and procedural 
+issues that have caused unnecessary confusion. 
+ 
+¶18. (SBU) Embassy Beijing has cleared this cable. 
+ 
+DONG

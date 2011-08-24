@@ -1,0 +1,135 @@
+09HONGKONG239
+EXTRANCHECK: PRE LICENSE CHECK: GEO MARINE INSTRUMENT
+Mon Feb 09 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHHK #0239/01 0400217
+ZNR UUUUU ZZH
+R 090217Z FEB 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 6842
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000239 
+ 
+USDOC FOR 532/OEA/MNICKSON/ADYSON/TWILLIS/EHOLLAND 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE LICENSE CHECK: GEO MARINE INSTRUMENT 
+COMPANY 
+ 
+REF: A) D409956 B) USDOC 00093 C) USDOC 00091 D) D409631 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. At the direction of the Office of Enforcement Analysis (OEA) of 
+the USDOC Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO) conducted two pre-license checks (PLCs) 
+at Geo Marine Instrument Company, Rm 1019, New Commerce Ctr., 19 On 
+Sum St., Shatin, Hong Kong (Geo Marine).  The items that are the 
+subject of the first check (and BIS license application D 409631) 
+are two TR-1075D transducer assays, while the second set of items 
+(that are the subject of BIS license application D409956) are 1500 
+passive acceleration compensated hydrophones rated to 2000M.  These 
+items are classified under export control classification number 
+(ECCN) 6A001 and are controlled for national security reasons (NS). 
+The license applicants are Teledyne Benthos of North Falmouth, 
+Massachusetts and Massa Products Corporation of Hingham 
+Massachusetts. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Geo Marine 
+Technology Limited was incorporated in May 2002.  Its paid in share 
+capital is the Hong Kong dollar equivalent of USD 1250.  Its 
+directors are listed as Hong Kong residents So, Hay Wah (HK 
+Identification number C515318) and Tse, Fung Ping (HK Identification 
+number G262458(2).  Its website is www.geo-marine-tech.com.cn. 
+ 
+¶4.  On February 2, 2009, ECO visited Geo Marine and met with Mr. 
+Janson So, General Manager. The offices of Geo Marine in Hong Kong 
+are quite small (no more than 200 square feet).  It appears that two 
+to four staff work at this location which appears to act as both 
+offices and a small warehouse for items shipped to Geo Marine.  Mr. 
+So stated that the company's business is focused on the provision of 
+products and total solutions related to underwater surveying and 
+marine engineering.  A key portion of that business serves the oil 
+and gas exploration business.  Mr. So stated that Geo Marine also 
+acts as a distributor to surveyors in Hong Kong and China and also 
+sells geophysical equipment (such as hydrophones for conducting 
+surveys of the sea floor).  The company has additional offices in 
+mainland China. 
+ 
+¶5.  As to the hydrophones that are the subject of BIS license 
+application D409956, Mr. So stated that the buyer is BGP 
+International China, a subsidiary of the China National Petroleum 
+Company (CNPC)  He stated that the hydrophones are destined to 
+replace existing Bentos hydrophones on cables used in ocean bottom 
+analysis and exploration. 
+ 
+¶6.  As to the transducers that were the subject of BIS license 
+D409631, Mr. So stated that they are destined for the First 
+Institute of Oceanography State Oceanic Administration in Qingdao, 
+mainland China.  He provided a copy of the purchase contract for the 
+item (and other related items).  The contract lists Qingdao Bondex 
+Trade Service Co. Ltd. as the buyer's agent for this transaction. 
+Mr. So stated that the institute is involved in geophysics related 
+activities and specializes in study of the sea floor.  In 
+particular, he stated that one of the transducers would be used in 
+shallow water sea bed engineering studies while a second would be 
+used for oceanographic study.  He stated that the Institute had been 
+buying this particular item through other resellers for many years. 
+Mr. So further explained that the Institute provides similar 
+services as survey consultants to major western engineering 
+projects.  In China, Mr. So stated, those services are provided by 
+state organizations. 
+ 
+¶7.  Mr. So was well versed in export controls and stated that his 
+company obtains licenses from the Hong Kong government for import 
+(and subsequent reexport) of strategic commodities.  He stated 
+(correctly) that the Hong Kong government will not grant him a 
+license to import items when no corresponding U.S. export license 
+has been obtained.  Mr. So also stated that, from time to time, he 
+receives e-mail inquiries from potential customers outside of his 
+geographic region.  He stated that he forwards those to his 
+suppliers and does not serve customers outside of Hong Kong and 
+China.  Mr. So stated that in his line of business, there are 
+relatively few buyers and that he is familiar with most of them.  It 
+was clear to ECO that Mr. So is not keen to jeopardize his business 
+by selling to unknown buyers that approach him through the 
+internet. 
+ 
+¶8.  It appears that another company uses this same address, namely 
+United Star Navigation.  When asked about this company, Mr. So was 
+quite open and stated that this company is a mainland based reseller 
+of lighthouse and navigation related products.  It has registered a 
+company in Hong Kong to take advantage of transfer pricing to 
+minimize taxes (the likely web site is usnt.com.cn).  According to 
+the Hong Kong Companies registry, this company has been in existence 
+ 
+ 
+since 1997 and has less than the Hong Kong equivalent of USD 10 in 
+share capital.  Its directors are listed as mainland nationals Chen, 
+Ya Bin (passport or ID number 120103630407211), Ding, Yue (passport 
+or ID number 110108197308076313), Jiang, Yaqun (passport number or 
+ID 110228630705211), Lin, Yu Nai (passport or ID number 
+370202391206353 and Peng, Hai (passport or ID number 
+110102660604041),  and Hong Kong resident Man, Ka Fai Johnny (Hong 
+Kong ID D238430(3).  While ECO has no additional information about 
+this company, ECO notes that this tax optimization mechanism is not 
+uncommon in Hong Kong. 
+ 
+¶9.  Based on the information noted above, ECO believes that Geo 
+Marine is a suitable recipient of U.S. origin controlled technology, 
+as reseller and system integrator. ECO has not independently 
+reviewed the bona fides of the company or individuals referenced in 
+paragraph 8.  To the degree BIS has derogatory information about 
+United Star Navigation or its directors, BIS may wish to reevaluate 
+this favorable review of Geo Marine.

@@ -1,0 +1,228 @@
+08TELAVIV1244
+RESULTS OF BLUE LANTERN LEVEL 3 PRE-LICENSE CHECK
+Thu Jun 12 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Tel Aviv
+VZCZCXYZ0010
+PP RUEHWEB
+
+DE RUEHTV #1244/01 1641232
+ZNR UUUUU ZZH
+P 121232Z JUN 08
+FM AMEMBASSY TEL AVIV
+TO RUEHC/SECSTATE WASHDC PRIORITY 7078
+INFO RUEAIIA/CIA WASHDC
+RUCPDOC/USDOC WASHDC
+RUEKJCS/SECDEF WASHDC
+RUCNFB/FBI WASHDC
+RHMFIUU/HQ BICE INTEL WASHINGTON DCUNCLAS TEL AVIV 001244 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+STATE FOR PM/DTCC - BLUE LANTERN COORDINATOR (STITZEL) 
+STATE NEA/IPA (PECCIA) 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC IS
+SUBJECT: RESULTS OF BLUE LANTERN LEVEL 3 PRE-LICENSE CHECK 
+ON APPLICATION 050093749 
+ 
+REF: STATE 36935 
+ 
+¶1. (SBU) Per reftel instructions, emboffs visited Bental in 
+the Golan on May 22 and met with CEO Shmuel Mandel, Projects 
+Manager Benny Heimann, and Marketing and Sales Manager Moshe 
+Poolat.  Israeli MOD Security Directorate (DSDE/MALMAB) 
+representative Kobi Fogler also attended the meeting. 
+Mandel, Heimann and Poolat provided emboffs the following 
+information in response to their questions: 
+ 
+A) Bona Fides:  Bental was established in 1983 and is 
+controlled in part by TAT Technologies (an Israeli public 
+company traded on the NASDAQ), and in part by Kibbutz Merom, 
+where it is located.  Bental employs 100-150 workers and 
+manufactures and repairs motors for use in airplanes and 
+vehicles, as well as in larger machines, such as CT scanners 
+and industrial printers.  CEO Shmuel Mandel explained that 
+Bental supplies both private corporations as well as Israel's 
+aviation and defense industries (e.g., Elbit, IAI, Rafael). 
+Mandel listed the Israel Ministry of Defense, IAI, and 
+Kinetics (involved in the Mine Resistant Armored Truck 
+(MRAT)) program as some of their larger customers. 
+ 
+B) Technology Applications:  Mandel said most of their 
+products are not/not derived from sensitive technologies.  He 
+indicated that the brush DC motor with tachometer (the 
+subject of the proposed, licensed transaction) is used 
+"exclusively" in replacing and updating broken tachometers on 
+the turret control motors of Israeli Merkava tanks.  These 
+motor/tachometer units are considered to be owned by the 
+Israel MOD and are stored separately from other motor parts. 
+According to Mandel, the requested 47 motor/tachometer units 
+should be sufficient to complete repairs as requested by the 
+MOD over the course of 12-18 months, depending on demand. 
+Bental stores the motors with the integrated tachometers. 
+When the holdings get down to around 10 pieces, Bental will 
+submit a new order for tachometers. 
+ 
+C) Company's On-Site Security and Understanding of USML 
+Restrictions:  Mandel indicated that those employees who 
+handle USML controlled technologies, such as the 
+motor/tachometer units, have all received security clearances 
+to the confidential level.  The office is equipped with safes 
+and secure areas for storage of information about the 
+technologies, and the units themselves are stickered to 
+indicate that they are USML-controlled.  Mandel showed 
+emboffs a storage room with a locked door and separate 
+storage for USML items.  Mandel explained that old and broken 
+tachometers are securely disposed of per USG requirements. 
+He confirmed that he and his staff are familiar with USML 
+requirements and regulations, and indicated that his company 
+shares U.S. interests in protecting secure technologies. 
+ 
+D) Role of Danaher Motion/Servotronix:  Mandel explained that 
+Servotronix is the Israeli subsidiary of Danaher Corporation 
+in the U.S. It is Servotronix, Mandel explained, which 
+completes all of the clearance forms and other paperwork for 
+the purchase of USML items, which are then collected directly 
+by Bental from the airport upon arrival. 
+ 
+E) Documentation:  Mandel showed emboffs the following 
+documents:  an end-user certificate from Kollmorgen to Bental 
+dated May 30, 2007; and an end-used statement from the 
+Israeli Ministry of Defense, signed by Amos Gilad and dated 
+December 27, 2007.  Mandel also showed emboff a purchase 
+order from Bental to signed by Yerach Sapojnikov and dated 
+January 2, 2008.  All documents collected by emboff have been 
+sent by FAX to PM/DDTC at 202-261-8198. 
+ 
+¶2. (SBU) On June 11, emboffs visited Danaher Motion's 
+officers in Petach Tikva and met with Executive Vice 
+President Aviran Weisler, Application and Sales Engineer Gadi 
+Hon, and Alon, a sale administrator responsible for sales to 
+Bental.  MALMAB/DSDE did not have a representative present. 
+Weisler indicated that he had spoken with Bental CEO Shmuel 
+Mandel prior to the meeting.  Weisler, Hon and Alon provided 
+emboffs the following information in response to their 
+questions: 
+ 
+A) Bona Fides:  Weisler said that Danaher Corporation in the 
+U.S. has two subsidiaries in Israel:  Danaher Motion (also 
+known as Servotech, Ltd.) and Kollmorgen Servotronix Ltd. 
+(aka Servotronix, Ltd.).  Danaher Corporation in the U.S. is 
+a USD 13 billion dollar company listed on the U.S. stock 
+ 
+market.  Established in 1987 initially as an engineering 
+company, Danaher Motion is a small part of Danaher's 
+aerospace and military division, and is valued at USD 80 
+million.  (Danaher's other division is the Pacific division, 
+which includes Kollmorgen, and is valued at USD 600 million.) 
+ Danaher Motion's principals are Dr. Ilan Cohen (manager), 
+Eyal Silka and Aviram Weisler (executive vice presidents), 
+Norit Palev, and Roi Ziv (operations).  Danaher Motion does 
+not produce weapons systems.  Instead, it produces motors and 
+drives -- some of which have dual uses.  Danaher Motion's 
+suppliers in the U.S. include Inland Motors in Radford, 
+Virginia and Thompson.  (Weisler noted that Kollmorgan 
+Corporation -- which is listed as a subsidiary of Danaher 
+Corporation, the supplier per reftel, is also known as Inland 
+Motors.)  Danaher Motion is selling directly to Bental. 
+Customers include companies like Applied Materials, Strong 
+ADT, Advanced Dicing Technologies, HP Indigo and HP Cytex. 
+Danaher's aerospace and military division (of which Danaher 
+Motion is a part) does business with Israeli defense 
+contractors Rafael, Elbit and IMI, and is starting to work 
+with Elta.  In June 2000, Danaher acquired Kollmorgen.  In 
+response to emboff's question as to why Servotronix Ltd. is 
+listed as the intermediate consignee when the company is 
+really Danaher Motion, Weisler replied that the person filing 
+the application may have been confused as Kollmorgen 
+Servotronix, Ltd. -- Danaher Motion's sister company -- is 
+located in the same building as Danaher Motion.  Weisler 
+stressed that Kollmorgen Servotronix Ltd. is not/not involved 
+in the transaction.  Danaher Motion is located entirely in 
+Israel.  It has no overseas customers, and it does not serve 
+as a broker. 
+ 
+B) Technology Applications:  In response to emboff's 
+questions, Hon said that the tachometers will be used to 
+provide analog feedback.  They will be integrated into a 
+motor that Bental is already making.  They will then provide 
+feedback with respect to yaw and pitch.  Bental's motors with 
+the tachometers integrated into them will be set aside solely 
+for the Israeli MOD's use.  According to Hon, it is likely 
+that they will be kept in Bental's warehouse as spare parts 
+for future use. 
+ 
+C) Company's On-Site Security and Understanding of USML 
+Restrictions:  Weisler said that each employee in Danaher 
+Motion undergoes training on the ITAR and their obligations 
+towards controlled items, including dual-use items.  He said 
+that the training is coordinated by a person (Caroline; no 
+further information) at Inland Motors, who is also available 
+to answer any questions Danaher Motion employees have on the 
+subject.  Weisler said that Caroline provides Alon guidance, 
+as needed, and advised Danaher Motion to establish a 
+separate, secure location for the storage of controlled 
+items, should storage be required.  Weisler said that the 
+Israeli MOD's Security Directorate (MALMAB/DSDE) had recently 
+checked Danaher Motion's security policies and procedures and 
+given them "high marks."  Regarding the transaction in 
+question, Weisler said that only two people from Danaher 
+Motion will handle the tachometers:  Alon and the warehouse 
+manager.  Weisler said that Danaher Motion has a secure 
+lock-box for controlled items, and that all items Danaher 
+Motion receives, uses and sends out are tracked in a computer 
+system. 
+ 
+D) Roles of Bental and Servotronix:  In response to emboff's 
+question about the role of Danaher Motion in the transaction, 
+Weisler answered by describing a process whereby Danaher 
+Motion has inserted itself into the transaction process that 
+was previously between Bental and its U.S. suppliers. 
+Weisler explained that Danaher Motion is growing and seeking 
+to acquire Bental.  Regarding the transaction in question, 
+Weisler said that Danaher Motion received the purchase order 
+from Bental at the start.  (He added that all purchase orders 
+received by Danaher Motion need to note the end-use of the 
+item in question, even if the item is not sensitive.) 
+Weisler continued:  Danaher Motion will receive the 
+controlled items, and then turn them over immediately to 
+Bental.  (He noted that Danaher Motion has a secure warehouse 
+where controlled items can be kept, but stressed that Bental 
+urgently desires the tachometers, and so will take them from 
+Danaher Motion immediately.) 
+ 
+E) Documentation:  When asked about the documentation package 
+listed as one of the controlled items in reftel, Alon replied 
+that this is a standard package that is shipped with items 
+ 
+like the tachometers, and includes the invoice and export 
+license.  At emboff's request, Hon supplied emboff with a 
+copy of the March 10, 2008 cover letter from Danaher Motion 
+explaining the proposed transaction.  Alon showed emboff the 
+purchase order DS800052 signed by Efrat Yefet -- also an 
+administrative assistant -- and introduced emboff to Yefet. 
+Alon also showed emboff the end-user statement signed by 
+Aviran Weisler and Eyal Silka.  When asked why there is a 
+discrepancy between the license value (per reftel) of USD 
+44,240 and the values listed in the other documents (e.g., 
+USD 43,240 and USD 57,669), Weisler explained that this is 
+because Danaher Motion requires a transaction fee.  All 
+documents collected by emboff have been sent by FAX to 
+PM/DDTC at 202-261-8198. 
+ 
+¶3. (SBU) Based on the above information, emboffs believe that 
+the proposed transaction in question is legitimate and that 
+Bental and Danaher Motion are legitimate companies fully 
+aware of their obligations towards USML items. 
+ 
+********************************************* ******************** 
+Visit Embassy Tel Aviv's Classified Website: 
+http://www.state.sgov.gov/p/nea/telaviv 
+ 
+You can also access this site through the State Department's 
+Classified SIPRNET website. 
+********************************************* ******************** 
+JONES

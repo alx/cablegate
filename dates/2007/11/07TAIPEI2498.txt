@@ -1,0 +1,264 @@
+07TAIPEI2498
+Taiwan Pharma: Patent Linkage Going Nowhere
+Mon Nov 19 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+American Institute Taiwan, Taipei
+VZCZCXRO3449
+PP RUEHCN RUEHGH RUEHVC
+DE RUEHIN #2498/01 3230734
+ZNR UUUUU ZZH
+P 190734Z NOV 07 ZDS
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC PRIORITY 7399
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUCPDOC/DEPT OF COMMERCE WASHDC
+RUEATRS/DEPT OF TREASURY WASHDCUNCLAS SECTION 01 OF 03 TAIPEI 002498 
+ 
+SIPDIS 
+ 
+C O R R E C T E D  C O P Y (ADD SENSITIVE CAPTION) 
+ 
+STATE PLEASE PASS TO AIT/W AND EAP/RSP/TC 
+ 
+STATE PASS USTR/DAVID KATZ AND CHRIS WILSON 
+ 
+USDOC FOR 4430/ITA/MAC 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD ECON KIPR TW
+SUBJECT: Taiwan Pharma: Patent Linkage Going Nowhere 
+ 
+ 
+TAIPEI 00002498  001.2 OF 003 
+ 
+ 
+Reftel: Taipei 1788 
+ 
+Summary 
+-------- 
+ 
+¶1. (SBU) Taiwan lacks a patent-linkage notification requirement and 
+allows generic-drug licensing before patent expiry, practices that 
+foreign pharmaceutical manufacturers claim allow local generic drug 
+makers to infringe on patent-holders' rights and, in some cases, 
+result in the Bureau of National Health Insurance (BNHI) reimbursing 
+pharmacies at an unfairly-high rate for generic drugs.  The U.S. and 
+the Taipei American Chamber of Commerce have pushed the Taiwan 
+authorities to implement a U.S.-style patent-linkage system that 
+would continue to allow generic-drug testing before the original 
+drug's patent expiration, but would define a time period before 
+which generic-drug manufacturers cannot use patented data for 
+research or production trials; would enforce a "data-exclusivity" 
+period before which generics cannot use safety and efficacy data 
+provided by patent-holders to regulatory agencies; would require 
+generic-drug manufacturers to notify patent-holders before using the 
+patent-holder's intellectual property for research or trials; and 
+would prevent generic-drug makers from licensing a generic form of a 
+patented drug and getting a reimbursement price while the original 
+patent is still valid.  However, the authorities responsible for 
+drafting amendments to Taiwan's laws to implement patent linkage do 
+not see a need for such a system in Taiwan and believe that the 
+Taiwan judicial system is adequate for protecting original-drug 
+manufacturers' IPR.  Therefore, progress toward this reform would 
+require sustained U.S. engagement with Taiwan authorities.  End 
+summary. 
+ 
+Patent Linkage: What is it? 
+--------------------------- 
+ 
+¶2. (U) Patent linkage is a regulatory system whereby patent-holders 
+register pharmaceutical patents with a responsible agency 
+that--after a set period has passed--allows generic makers to use 
+the patented information for research and clinical trials as long as 
+the generic-drug maker notifies the patent-holder.  Patent-linkage 
+systems also protect--again for a set period of time--the safety and 
+efficacy data that original-drug manufacturers provide to regulators 
+when the new drug is being considered for approval, the so-called 
+"data-exclusivity" period.  Under a patent-linkage system, the 
+responsible agency will not allow a generic-drug maker to begin 
+marketing or selling a knock-off drug until the original patent and 
+data-exclusivity period have both expired, or a responsible 
+government body rules that the patents have not been infringed upon 
+or are invalid. 
+ 
+¶3. (U) In the United States, the responsible agency is the Food and 
+Drug Administration (FDA), which, in consultation with the Patent 
+and Trade Office (USPTO), compiles pharmaceutical patents and 
+information on the patent-holders in its "Orange Book." When a 
+generic manufacturer begins research or clinical trials using drugs 
+or processes that have been patented in the United States and 
+included in the Orange Book, U.S. law requires the manufacturer to 
+notify the patent-holder.  This notification system allows 
+patent-holders to ensure that generic makers are respecting 
+intellectual property rights and do not use patented information to 
+bring a knock-off drug to market before the original patent and 
+data-exclusivity periods expire. 
+ 
+How Would Taiwan Implement It? 
+------------------------------- 
+ 
+¶4. (U) If Taiwan wanted to adopt a U.S.-style patent-linkage system 
+for protecting pharmaceutical patents, the Taiwan Intellectual 
+Property Office (TIPO) would submit an amendment to Patent Act 
+Article 57 to the Executive Yuan for approval and submission to the 
+Legislative Yuan, and the Department of Health (DOH) would do the 
+same to Article 40 of the Pharmaceutical Affairs Law.  The 
+amendments would allow companies intending to register a generic 
+version of a drug with BNHI to use the patented information to 
+conduct research and trials, but would not allow the generic maker 
+to register the knock-off drug before the expiry of the original 
+drug's patent term without the patent holder's consent.  The 
+amendment would also designate an official "competent authority" 
+with oversight of the patent-linkage system to notify the 
+patent-holder and holder of the license for the original drug of the 
+same ingredients, so that they would be able to monitor any 
+potential violations of their patent or license. 
+ 
+Why Does Taiwan Need It? 
+------------------------ 
+ 
+ 
+TAIPEI 00002498  002.2 OF 003 
+ 
+ 
+¶5. (U) Taiwan does not have an original-drug industry, and foreign 
+drug-makers claim that Taiwan's pharmaceutical laws often favor the 
+island's large off-patent drug-manufacturing sector.  For example, 
+although Taiwan law does not allow pharmaceutical companies to sell 
+a generic drug until the original drug's patent has expired, the DOH 
+does allow generic makers to use patented information to produce 
+drugs for clinical trials and other pre-production research and then 
+apply for a license for the generic before the expiration of the 
+original drug's patents.  With the license, the knock-off 
+manufacturer can then apply for a reimbursement price from the 
+Bureau of National Health Insurance (BNHI), a price that will not be 
+re-evaluated by subsequent BNHI price-volume surveys (PVS) until 
+after the drug comes onto the market. 
+ 
+¶6. (SBU) Original manufacturers claim that this often gives a 
+generic manufacturer an unfairly high price vis-a-vis the original 
+drug during the time between the expiry of the original patent and 
+the subsequent price-reduction on the generic drug by the next BNHI 
+drug price-volume survey (PVS). [Please see reftel for an overview 
+of the PVS system.  End note.] For example, the patent for the 
+Pfizer product Lipitor will not expire until 2016, but one generic 
+manufacturer has already secured a production license and BNHI 
+reimbursement price on a knock-off version. In another case, before 
+the patent on Pfizer's anti-hypertension drug Norvasc expired in 
+March 2007, 17 local generic-drug manufacturers had--unknown to 
+Pfizer--already used the company's IPR to produce, register, and 
+receive BNHI prices for generic versions.   A U.S.-style 
+patent-linkage system would not allow a generic to be licensed until 
+the original drug's patent expires, thus eliminating this "loophole" 
+in Taiwan's current drug-pricing system. 
+ 
+¶7. (SBU) Patent linkage would also benefit original-drug 
+manufacturers by ensuring that generic-drug manufacturers 
+automatically notify original makers as the generic makers start 
+research on and begin filing applications for marketing 
+authorization of a knock-off drug. Foreign makers claim that the 
+current lack of such notification allows local manufacturers to use 
+patented information to research, produce, and, in some cases, bring 
+to market drugs that are based on an original makers' intellectual 
+property, all without the patent-holder's consent or knowledge.  In 
+addition to the Pfizer case above, original-drug manufacturers point 
+to several ongoing legal cases in which BNHI mistakenly allowed a 
+generic drug to come to market before the patent it was based on 
+expired.  The patent on the Bristol-Myers Squibb (BMS) drug Plavix 
+will expire in 2018, but BMS claims that three generics that use the 
+company's intellectual property are already on the market.  [Note: 
+Plavix's patent-holder is a French company, but BMS has a license to 
+produce it in Taiwan. End note.]  Eli Lilly claims that Taiwan's 
+Tungyang Chemical Industries Company illegally used an Eli Lilly 
+process patent to bring a drug to market in 2003, and has been 
+fighting an expensive legal battle with Tungyang in the Taiwan 
+courts for over four years. 
+ 
+¶8. (SBU) These U.S. companies told us that a U.S.-style 
+patent-linkage system would have notified them of these IPR 
+infringements early enough to take action against the local 
+companies, and would also have prevented the generics from reaching 
+the market until after the expiry of the original patents. Although 
+these companies are not able to estimate for us how much Taiwan's 
+lack of such a system has cost them, the International 
+Research-based Pharmaceutical Manufactures Association (IRPMA), 
+foreign drug-makers' industry group in Taiwan, recently asked its 
+members to calculate the number of each member company's drugs that 
+would have benefited from having patent linkage in Taiwan, as well 
+as the estimated losses each company has suffered as a result. 
+ 
+BOPA, TIPO, BNHI Don't Want to Bother 
+------------------------------------- 
+ 
+¶9. (SBU) Econoff met recently with Dr. Chi-chou Liao BOPA's Director 
+General for Pharmaceutical Affairs, to discuss BOPA's view of patent 
+linkage.  Dr. Liao believes that a U.S.-style patent-linkage would 
+be overly-complicated and would require a high level of patent 
+knowledge on the part of the Taiwan authorities that the island 
+simply doesn't have.  Dr. Liao told us that BOPA is also concerned 
+that BOPA would face lawsuits for any mistakes or misconduct that 
+the Bureau or its officials might make in compiling an Orange Book, 
+going through notification procedures, or ensuring enforcement of 
+the patent-linkage mechanism. 
+ 
+¶10. (SBU) Dr. Liao told econoff that instead of creating such a 
+complicated system to enhance IPR protection, Taiwan would be better 
+off simply ensuring that Taiwan's Intellectual Property (IP) 
+Court--which will begin hearing cases in July 2008--has prosecutors 
+and judges with enough pharmaceutical expertise to properly handle 
+ 
+TAIPEI 00002498  003.2 OF 003 
+ 
+ 
+patent-infringement disputes using current Taiwan laws. [Note: On 
+November 9, econoff talked briefly with two local, U.S.-trained 
+lawyers who recently completed a report to BOPA on patent-linkage 
+systems used outside of Taiwan.  While the two would not reveal the 
+report's conclusions, they hinted that the report does not recommend 
+that Taiwan adopt a patent-linkage system due to its complexity. End 
+note.] 
+ 
+¶11. (SBU) TIPO's Secretary General, Margaret Chen, recently told 
+econoff that her organization does not want to create an "Orange 
+Book" of pharmaceutical patents.  She said that although TIPO would 
+assist in compiling such a patent book if directed by the EY, the 
+Office is not considering this move and does not think that Taiwan 
+needs a patent-linkage system.  TIPO echoed BOPA's belief that the 
+Taiwan judicial system is adequate for protecting original-drug 
+manufacturers' IPR. 
+ 
+¶12. (SBU) Cheng-hua Lee, Vice President and CIO of Taiwan's Bureau 
+of National Health Insurance (BNHI), recently told econoff that 
+BNHI, too, does not see the need for a patent-linkage system in 
+Taiwan. He echoed Dr. Liao's belief that implementing patent linkage 
+would require too high a level of patent knowledge on the part of 
+the Taiwan authorities.  He added that only one current patent 
+dispute case in Taiwan would have benefited from the protections of 
+a U.S.-style patent-linkage system, and that BNHI's actions to alert 
+hospitals and pharmacies of the resulting patent-dispute case is 
+adequate to protect the original manufacturer's property rights 
+pending a ruling from Taiwan's court system on the case. 
+ 
+Comment 
+------- 
+ 
+¶13. (SBU) BOPA, BNHI, and TIPO are the three offices in Taiwan 
+responsible for implementing pharmaceutical-related policy, and none 
+of the three supports the creation of a patent-linkage system as 
+advocated by foreign original-drug manufacturers.  Therefore, 
+progress toward this reform would require sustained U.S. engagement 
+with Taiwan authorities. We may want to emphasize to the Taiwan 
+authorities that a patent-linkage system would help local companies 
+understand an original patent's status before starting an expensive 
+drug-development program; would ensure that Taiwan's regulatory 
+agencies have the right information to fairly evaluate patent use; 
+would save judicial resources of the new Intellectual Property Court 
+by minimizing lengthy and complex patent disputes; and would help 
+foster a stable and legally-friendly environment for international 
+drug manufacturers as they consider both where to introduce new 
+products and where to spend their drug-development dollars. End 
+comment.

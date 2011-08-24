@@ -1,0 +1,134 @@
+07TAIPEI791
+Another Taiwan Bank in Receivership
+Tue Apr 10 00:00:00 +0200 2007
+UNCLASSIFIED
+American Institute Taiwan, Taipei
+VZCZCXRO9420
+RR RUEHGH
+DE RUEHIN #0791/01 1000945
+ZNR UUUUU ZZH
+R 100945Z APR 07
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC 4819
+RUEATRS/DEPT OF TREASURY WASHDC
+INFO RUCPDOC/USDOC WASHDC
+RUEHBK/AMEMBASSY BANGKOK 3642
+RUEHBJ/AMEMBASSY BEIJING 6621
+RUEHUL/AMEMBASSY SEOUL 8564
+RUEHGP/AMEMBASSY SINGAPORE 6861
+RUEHKO/AMEMBASSY TOKYO 8654
+RUEHML/AMEMBASSY MANILA 0022
+RUEHJA/AMEMBASSY JAKARTA 4065
+RUEHKL/AMEMBASSY KUALA LUMPUR 3713
+RUEHHI/AMEMBASSY HANOI 3297
+RUEHBY/AMEMBASSY CANBERRA 4489
+RUEHWL/AMEMBASSY WELLINGTON 1751
+RUEHHK/AMCONSUL HONG KONG 7870
+RUEHGH/AMCONSUL SHANGHAI 0982
+RUEHGZ/AMCONSUL GUANGZHOU 0156UNCLAS SECTION 01 OF 02 TAIPEI 000791 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE PLEASE PASS USTR 
+STATE FOR EAP/RSP/TC, EAP/EP 
+USTR FOR ALTBACH and Stratford 
+USDOC FOR 3132/USFCS/OIO/EAP/WZARIT 
+TREASURY FOR OASIA/LMOGHTADER 
+TREASURY ALSO PASS TO FEDERAL RESERVE/BOARD OF 
+GOVERNORS, AND SAN FRANCISCO FRB/TERESA CURRAN AND NY FRB MARIA 
+BOLIS 
+ 
+E.O. 12958: N/A 
+TAGS: EINV EFIN ECON PINR TW
+SUBJECT:  Another Taiwan Bank in Receivership 
+ 
+REF: (A) TAIPEI 0049, (B) 06 TAIPEI 4175 
+ 
+SUMMARY 
+------- 
+ 
+¶1.  At the end of March, Taiwan added a fourth bank to those put 
+into receivership in the past four months.  Another three banks 
+designated as insolvent in July 2005 are still undergoing 
+resolution.  Taiwan's inadequate resolution mechanisms will likely 
+force state-owned banks to take over some of the problem banks.  END 
+SUMMARY. 
+ 
+Receivership 
+------------ 
+ 
+¶2.  On March 30, Taiwan's Financial Supervisory Commission (FSC) put 
+China United Investment and Trust Corporation (CUIT) into 
+receivership after its net worth turned negative in March.  Due to a 
+shortage of manpower and funds, the Central Deposit Insurance 
+Corporation (CDIC) contracted the 100% state-owned Bank of Taiwan 
+(BOT) to take over CUIT with an 11-member team. 
+ 
+Funding from BOT 
+---------------- 
+ 
+¶3.  To prevent a run on CUIT, the CDIC guaranteed 100% protection 
+for deposits at CUIT, and BOT pumped NT$10 billion (US$300 million) 
+of cash into CUIT.  At the CDIC's request, BOT, which already 
+provided CUIT NT$5 billion (US$150 million) in February, will supply 
+additional cash if withdrawals from CUIT increase.  The CDIC will 
+repay BOT for the funds BOT advanced to CUIT during the entire 
+process of receivership. 
+ 
+Insolvency 
+---------- 
+ 
+¶4.  FSC Chairman Hu Sheng-cheng said that CUIT had exhausted its 
+liquidity by the time of BOT's assuming management control of CUIT 
+on March 30.  CUIT's net worth was negative NT$2.98 billion (US$90 
+million).  Its non-performing loan (NPL) ratio was 11.5%, much 
+higher than the limit of 5% tolerated by the FSC.  Its NPL reserves 
+as a share of total NPLs was 30%, also below the minimum 40% 
+required by the FSC. 
+ 
+Open Bidding 
+------------ 
+ 
+¶5.  As previously announced for the three other banks recently 
+placed in receivership (reftels), FSC plans to sell CUIT through an 
+open bid process.  A consultant will be contracted to assess CUIT 
+and recommend auction procedures.  The three banks previously put 
+into receivership are Enterprise Bank of Hualiwn (EBH), Taitung 
+Business Bank (TBB), and Chinese Bank.  The bidding and sale of 
+these three is expected be completed in Q3 of this year, according 
+to the FSC. 
+ 
+Three Banking Institutions Pending Resolution 
+--------------------------------------------- 
+ 
+¶6.  Three more banking institutions with poor financial quality are 
+still pending resolution.  These three banks' NPL ratios all exceed 
+10% and their NPL reserve ratios are well below 40%.  The FSC has 
+not put them into receivership because they still report positive 
+net worth.  However, the FSC has instructed these three banks to 
+improve significantly prior to the end of this year.  In response to 
+the FSC instruction, Bowa Bank is seeking funding support from 
+Safuan (Malaysia).  Chinfon Bank is attempting to obtain additional 
+ 
+TAIPEI 00000791  002 OF 002 
+ 
+ 
+capital from AIG (of the United States), ING (of the Netherlands), 
+or United Overseas Bank (of Singapore), and Asia Trust and 
+Investment is looking for new major shareholders. 
+ 
+Comment 
+------- 
+ 
+¶7.  The FSC cannot resolve the seven problem banks with the NT$40.8 
+billion (US$1.2 billion) remaining in Taiwan's Financial 
+Reconstruction Fund (FRF), which is similar to the Resolution Trust 
+Corporation in the U.S.  Lacking sufficient financial resources, the 
+FSC has tried to encourage bank consolidation through restricting 
+banks from establishing new branches.  However, it now appears 
+likely that FSC will use state-owned banks to take over the problem 
+banks. 
+ 
+WANG

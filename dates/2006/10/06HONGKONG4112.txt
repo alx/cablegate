@@ -1,0 +1,106 @@
+06HONGKONG4112
+EXTRANCHECK: POST SHIPMENT VERIFICATION: MACAU
+Tue Oct 17 00:00:00 +0200 2006
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0006
+RR RUEHWEB
+
+DE RUEHHK #4112 2900917
+ZNR UUUUU ZZH
+R 170917Z OCT 06 ZDK
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9073UNCLAS HONG KONG 004112 
+ 
+SIPDIS 
+ 
+STATE US HQ BICE WASH DC 
+ 
+USDOC FOR 532/OEA/VELARDO/MHAMES 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: MACAU 
+SECURITY FORCES MANAGEMENT BUREAU 
+ 
+REF: A) USDOC 04935 B) EXP.LIC. D352751 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO) conducted a post shipment 
+verification (PSV) at the Macau Security Forces 
+Management Bureau, Calcada Dos Quarteis, Macau (Macau 
+Security). The PSV concerned an infra-red thermal 
+telescopic camera kit valued at $19,500 that was the 
+subject of export license D352751 and which was 
+exported to Macau Security in April 2006.  The camera 
+kit is classified under ECCN 6A003 and is controlled 
+for national security reasons (NS). 
+ 
+¶3. On October 12, 2006, the ECO visited Macau Security 
+at the address above and met with several 
+representatives of Macau Security including 
+Commissioner Sam Peng Chan, and Chief of the 
+Procurement Division, Christine Poon. 
+ 
+¶4.  Mr. Chan stated that the Special Duty Unit of the 
+Macau Security Forces is using the item.  Mr. Chan 
+further stated that the item is currently only being 
+used for training purposes since it is a very 
+specialized item.  He noted, however, that with 
+increasing foreign investment and growth in Macau, 
+Macau Security needed to be adequately prepared for all 
+possibilities including terrorism or hostage 
+situations. 
+ 
+¶5.  Mr. Chan declined to allow the ECO to visit the 
+location where the item is being kept, although he 
+stressed that the item was under the specific control 
+of the Special Duty Unit and for use only by that unit. 
+ At the request of the ECO, two representatives of the 
+Special Duty Unit produced the item for inspection by 
+the ECO.  In addition, Mr. Chan's assistant provided 
+documentation confirming import of the item into Macau 
+as well as related procurement documents confirming the 
+purchase of the item through procurement tender using 
+trading company Artigos Electricos Tico (the purchaser 
+referenced in reftel A). 
+ 
+¶6.  Mr. Chan was well aware of the restrictions on use 
+(law enforcement in Macau only) and/or reexport of the 
+item. 
+ 
+¶7.  It is worth noting that as a result of some initial 
+confusion about the specific item that was the basis of 
+the check, Macau Security produced a different item for 
+review by the ECO.  That item was a Bullard thermal 
+imaging camera (Bullard Tacsight S1)that had recently 
+been received by Macau Security (August 25, 2006).  The 
+ECO was provided with Bullard documentation indicating 
+that Macau Security was aware of and agreed to 
+restrictions on use and/or reexport of that item. OEA 
+may wish to confirm that the Tacsight S1 was exported 
+to Macau Security pursuant to a valid BIS license (the 
+ECO suspects that is was). 
+ 
+¶8. At the time visited, Macau Security appeared to be a 
+suitable recipient of the subject controlled item since 
+it cooperated with the PSV and provided assurances 
+reflecting appropriate controls over the item.  In 
+addition, the consignee's activities are consistent 
+with the use of the item ordered, and the consignee 
+understands restrictions on use and/or reexport of the 
+item.  The ECO recommends that this PLC be classified 
+as Favorable. 
+Cunningham

@@ -1,0 +1,89 @@
+07HONGKONG2230
+EXTRANCHECK: POST SHIPMENT VERIFICATION: MTECH IMAGING PTE
+Mon Aug 27 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0006
+RR RUEHWEB
+
+DE RUEHHK #2230 2390903
+ZNR UUUUU ZZH
+R 270903Z AUG 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 2725
+RHMFIUU/HQ BICE WASHINGTON DC
+RUEHGP/AMEMBASSY SINGAPORE 3641UNCLAS HONG KONG 002230 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MNICKSON-DORSEY/LLAUCIUS 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+SINGAPORE FOR FCS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP ETRD ETTC HK
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: MTECH IMAGING PTE 
+LTD 
+ 
+REF: A) USDOC 04074 B) D356969 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Regional Export Control Officer Philip Ankel (ECO) 
+conducted a post shipment-verification (PSV) at MTech Imaging Pte 
+Ltd., Block 221 Henderson Road No. 04-09, Henderson Building, 
+Singapore  (MTech).  The item in question is a thermal-eye 3640RS 
+uncooled thermal imager exported on or about July 18, 2006 and 
+valued at USD 3,950.  The item is classified under Export Control 
+Classification Number (ECCN) 6A003 and controlled for national 
+security (NS) and regional stability (RS) reasons. The exporter was 
+L3 Communications Infrared Products (L-3) of Dallas Texas. 
+ 
+¶3.  According to the Singapore companies registry, MTech has been in 
+existence since 2004.  Its paid-up share capital is the Singapore 
+equivalent of USD 850,000.  Singapore nationals, Baljit Singh and 
+Yong Foo Hoong are listed as directors.  Shareholders include 
+Miltrade Technologies Pte. Ltd., Sarjit Singh Deo, an Australian 
+national with a Fairfax Virginia address and Singaporean national 
+Han Mui Neo.  ECO and BIS Assistant Director for Operations, John 
+Sonderman, met with Mr. Singh at Miltrade (Singh is that company's 
+CEO) in January of 2007 as part of a BIS Sentinel trip.  That visit 
+resulted in a favorable PSV at Miltrade. 
+ 
+¶4.  On June 20, 2007, the ECO visited the company and met with Mr. 
+Benny Tan, General Manager.  Mr. Tan stated that MTech is active in 
+the thermal imaging market. Its customers include both industrial 
+customers in the oil and gas sector while other customers come from 
+the safety and security and military sectors.  Applications in the 
+industrial sector include temperature testing and defect diagnosis. 
+MTech also produces cameras for remotely measuring body temperature 
+(for application at airports and similar locations).  More 
+information on the company is available at its web sit, 
+www.Mtech-imaging.com. 
+ 
+¶5.  Mr. Tan showed the ECO the applicable item (with serial number 
+6201800152-E737).  ECO notes that the product number on the item 
+shown to him was 70700360-1.  That number is different than the 
+product number stated in the L-3 commercial invoice provided to the 
+ECO by OEA.  ECO recommends that OEA contact L-3 concerning this 
+apparent discrepancy.  Mr. Tan stated that this item will be used in 
+the design and development of additional body temperature testing 
+devices as well as target sighting devices.  Mr. Tan was familiar 
+with the Export Administration Regulations and on the restrictions 
+contained in D356969.  ECO provided Mr. Tan with additional 
+information concerning the Commerce Control List, United States 
+Munitions List and rules governing the applicability of U.S. 
+controls to items containing de minimis U.S. origin content. 
+ 
+¶6.  At the time visited, MTech appeared to be a suitable recipient 
+of the commodities shipped since MTech cooperated with the PSV, 
+provided ECO with access to the item and operates a line of business 
+consistent with the item's use.  The ECO recommends that this PSV be 
+classified as Favorable.

@@ -1,0 +1,103 @@
+08MOSCOW28
+EXTRANCHECK: PRE-LICENSE CHECK: KBP, TULA,
+Wed Jan 09 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0007
+PP RUEHWEB
+
+DE RUEHMO #0028 0091148
+ZNR UUUUU ZZH
+P 091148Z JAN 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 6061
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000028 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: KBP, TULA, 
+RUSSIA, LICENSE NO. D385646 
+ 
+REFTEL: USDOC 09562 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, KBP 
+Instrument Design Bureau, Tula, Russia. The company is 
+listed on BIS license application D385646 as the 
+ultimate consignee of PCB Router Software Design L 
+Package; AVD Option to Base Allegro PCB Router 
+Software; DFM Option to Base Allegro PCB Router 
+Software; HP Option to Base Allegro Software; and 
+maintenance and support of allegro software. These 
+items are controlled for missile technology and anti- 
+terrorism reasons under ECCN 3D991. The licensee is 
+Cadence Design Systems Inc., 270 Billerica Road, 
+Chelmsford, MA 01824. 
+ 
+¶3. On December 21, 2007, Export Control Attache Peter 
+Liston and FSN Natalya Shipitsina conducted the 
+requested pre-license check at the offices of KBP 
+Instrument Design Bureau, Scheglovskaya zaseka, Tula, 
+Russia. The export control team met with Gennady 
+Kolesnikov, Head of Medical Equipment Department. 
+ 
+¶4.   The KBP Instrument Design Bureau is one of the 
+leading design companies in the Russian defense 
+industry. It has developed over 140 models of weapons 
+and military equipment, which were put into series 
+production and introduced in service with the Russian 
+Army. At present KBP represents a high-capacity 
+research and production center that creates the state- 
+of-the-art precision-guided weapons. Technical 
+solutions embodied in the KBP developments incorporate 
+over 5000 inventions. 
+ 
+KBP carries out the development of weapon systems 
+along the following lines: 
+ 
+antitank missile systems and assault armaments; 
+weapon systems for main battle tanks and lightly 
+armored vehicles; 
+guided artillery projectiles and guided missile 
+systems; 
+short-range air defense systems; 
+gun armament and associated ammunition; 
+combat small arms; 
+hunting and sporting guns. 
+ 
+¶5.  KBP Instrument Design Bureau has gained extensive 
+experience in the development and production of 
+conversion products based on dual technologies. This 
+refers, mainly, to quantum electronics. 
+Following the recommendations of the leading Russian 
+medical laser experts, KBP has designed a new 
+generation of Lancet laser surgical devices with the 
+parameters surpassing foreign counterparts. 
+ 
+¶6. The Cadence Design Systems Inc. software package 
+subject to the above state license is intended for use 
+by KBP Instrument Design Bureau in the design of 
+medical equipment for laser surgery, which is 
+consistent with the subject's business. 
+ 
+¶7. Recommendations: Post recommends KBP, Tula, Russia, 
+as reliable recipients of sensitive U.S. origin 
+commodities. It is requested that post be notified of 
+final disposition of the application, and of any 
+shipments for this organization in order to conduct 
+appropriate FCS follow-up and statistical reporting. 
+(FCS MOSCOW/JKITSON/PLISTON) 
+BURNS

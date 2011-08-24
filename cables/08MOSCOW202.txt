@@ -1,0 +1,64 @@
+08MOSCOW202
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Mon Jan 28 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0002
+PP RUEHWEB
+
+DE RUEHMO #0202 0281259
+ZNR UUUUU ZZH
+P 281259Z JAN 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 6290
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000202 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+RUSSIAN ACADEMY OF SCIENCES (RAS) INSTITUTE OF SOLID 
+STATE PHYSICS, CHERNOGOLOVKA, MOSCOW, RUSSIA, LICENSE 
+NO. D358874 
+ 
+REFTEL: USDOC 03326 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, RAS Institute of Solid Physics, Chernogolovka, 
+Moscow, Russia. The company is listed on BIS license 
+application D358874 as the ultimate consignee of one 
+millimeter source module 90GHZ to 140GHZ, model S08MS- 
+AG and one millimeter source module 60GHZ to 90GHZ, 
+model S12MS-AG. These items are controlled for 
+national security and anti-terrorism reasons under 
+ECCN 3A002. The licensee is Agilent Technologies, 
+Inc., 1666 K st., N.W. Suite 420, Washington DC. 
+¶20006. 
+ 
+¶3. On May 11, 2007, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested post-shipment verification with RAS 
+Institute of Solid Physics, Institutsky pr., 15, 
+Chernogolovka, Moscow, Russia. The export control team 
+met with Vladimir Kulakovsky, Deputy General Director. 
+ 
+¶4. 
+ 
+¶5. Recommendations: Post recommends RAS Institute of 
+Solid Physics, Chernogolovka, Russia as reliable 
+recipients of sensitive U.S. origin commodities. 
+(FCS MOSCOW/DLUTTER/DPEARCE) 
+BURNS

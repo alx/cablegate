@@ -1,0 +1,478 @@
+07BEIJING2566
+USTR CONCLUDES PROVINCIAL IPR REVIEW IN BEIJING
+Wed Apr 18 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Beijing
+VZCZCXRO8846
+OO RUEHCN RUEHGH
+DE RUEHBJ #2566/01 1080644
+ZNR UUUUU ZZH
+O 180644Z APR 07
+FM AMEMBASSY BEIJING
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 6980
+INFO RUEHCN/AMCONSUL CHENGDU 8192
+RUEHGZ/AMCONSUL GUANGZHOU 2789
+RUEHGH/AMCONSUL SHANGHAI 7403
+RUEHSH/AMCONSUL SHENYANG 7870
+RUEHHK/AMCONSUL HONG KONG 9230
+RUEHIN/AIT TAIPEI 6406
+RUEHKO/AMEMBASSY TOKYO 1335
+RUEHUL/AMEMBASSY SEOUL 0081
+RUEHMO/AMEMBASSY MOSCOW 8664
+RUEHGV/USMISSION GENEVA 1786
+RUEAHLC/DHS WASHDC
+RUCPDOC/USDOC WASHDC
+RUEAWJA/DEPT OF JUSTICE WASHDC
+RHMCSUU/FBI WASHINGTON DCUNCLAS SECTION 01 OF 08 BEIJING 002566 
+ 
+SIPDIS 
+ 
+State for EAP/CM - JYamomoto and EB/IPE - EFelsing 
+ 
+USTR for China Office - AWinter; IPR Office - RBae; and OCG 
+- SMcCoy, ACelico 
+ 
+Commerce for National Coordinator for IPR Enforcement - 
+CIsrael 
+ 
+Commerce for MAC 3204/LRigoli, ESzymanski 
+ 
+Commerce for MAC 3043/McQueen 
+ 
+LOC/Copyright Office - MPoor 
+ 
+USPTO for Int'l Affairs - LBoland, EWu 
+ 
+DOJ for CCIPS - Asharrin 
+DOJ for SChembtob 
+FTC for Blumenthal 
+FBI for LBryant 
+ 
+DHS/ICE for IPR Center - DFaulconer 
+ 
+DHS/CBP for IPR Rights Branch - PPizzeck 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: KIPR ETRD ECON WTRO CH
+SUBJECT: USTR CONCLUDES PROVINCIAL IPR REVIEW IN BEIJING 
+ 
+REF: Beijing 02455 
+ 
+------- 
+Summary 
+------- 
+ 
+¶1. (U) USTR Chief Negotiator for Intellectual Property (IP) 
+Enforcement Stanford McCoy and USTR Senior Director for 
+China Affairs Amy Celico visited Beijing on March 16 to 
+conclude a series of provincial review meetings in several 
+Chinese cities.  They discussed Internet copyright issues 
+at the Beijing Copyright Bureau; raised IP enforcement in 
+local markets with the Chaoyang District of Beijing 
+municipal government (which denied serious problems at the 
+notorious Silk Market); discussed university textbook 
+piracy at the Ministry of Education; and covered general IP 
+enforcement with the Ministry of Commerce.  End Summary. 
+ 
+---------------------------- 
+Online Copyright Enforcement 
+---------------------------- 
+ 
+¶2. (U) USTR Chief Negotiator for Intellectual Property 
+Enforcement Stanford McCoy and Senior Director for China 
+Affairs Amy Celico (collectively, "USTR"), Embassy Senior 
+IPR Attache Mark Cohen, and Econoff met with Beijing 
+Copyright Bureau (BCB) Director Wang Yefei, Copyright 
+Department Director Feng Xiansheng, and Deputy Director 
+Chen Xiaohong on March 16.  Wang told USTR that Beijing 
+started to focus on Internet-related intellectual property 
+(IP) enforcement in August 2006 with the launch of IP 
+education and public awareness programs, which included a 
+project to educate businesses about legal software use. 
+Wang stated that all of Beijing's copyright initiatives 
+have the support of Beijing Mayor Wang Qishan, who wrote 
+the preface of the Bureau's "Software Copyright Protection 
+Manual," published recently with the support of Microsoft 
+Corporation and the Business Software Alliance.  Wang 
+further stated that, through BCB's efforts, Beijing 
+Municipality has extended its government software 
+legalization efforts from the central municipal government 
+to all township and government agencies. 
+ 
+----------------------------------- 
+Difficulty Prosecuting Online Cases 
+----------------------------------- 
+ 
+¶3. (U) Wang explained that some cases of Internet copyright 
+infringement have been successfully transferred from the 
+BCB to the Public Security Bureau (PSB) for criminal 
+investigation, trial, and conviction.  However, he 
+expressed concern that evidence in such cases is difficult 
+ 
+BEIJING 00002566  002 OF 008 
+ 
+ 
+to collect and, as a result, suspects who infringe 
+copyrights are often ultimately convicted for illegal 
+business operations because prosecutors lack sufficient 
+evidence of IP infringement.  To help in prosecuting 
+Internet copyright cases, the BCB in January launched a 
+pilot program to use an electronic watermarking system to 
+register and protect digital images.  In a separate 
+discussion with Senior IPR Attache, Wang also noted that 
+his office has been tasked by the Beijing Municipal 
+Government to address the problem of Internet webcasting or 
+rebroadcasting of the Olympics, including drafting of a 
+possible special rule addressing this issue for the 
+government. 
+ 
+¶4. (U) The Beijing Copyright Bureau regulates all requests 
+from rights holders for the removal of infringing material 
+on the Internet.  Wang admitted that the procedures for 
+take-down notification are only one year old and still in 
+development, and said that the BCB is concerned that the 
+system will be overwhelmed by the large number of parties 
+(rights holders, law firms, representatives, and others) 
+filing take-down notices.  He said the BCB is also 
+concerned about whic noties are legitimate and which are 
+sent by unauthorized parties, and is working with rights 
+holders to clarify this process.  USTR responded that 
+rights holders often settle on their own in the United 
+States, and therefore the take-down system only involves 
+the government in the very small percentage of cases that 
+require judicial intervention.  UST added that 
+associations often act on rights holders' behalf outside of 
+the United States, and should continue to be allowed to 
+file notices in China. 
+ 
+¶5. (U) Wang stated that while Internet service providers 
+(ISPs) often respond to take-down notices by removing links 
+to illegal content quickly, the content remains resident on 
+the servers of Internet content providers (ICPs), who host 
+the illegal files.  As the number both of illegal files and 
+ICPs grows, Wang said the BCB faces difficulties regulating 
+them, particularly with respect to film and music downloads. 
+USTR responded with the recommendation to work closely with 
+industry to better understand the challenges they face in 
+the area of illegal content. 
+ 
+¶6. (U) In response to USTR's inquiry about the "deep 
+linking" case brought against Yahoo China by the music 
+industry in January 2007, Wang said that the BCB hosted a 
+workshop in February to discuss this and similar cases with 
+judges.  He said that the opinion of the judges was that 
+the prosecutors in the case were "not professional enough," 
+in that they faced difficulties establishing sufficient 
+evidence.  Wang said such cases are very difficult to 
+ 
+BEIJING 00002566  003 OF 008 
+ 
+ 
+prosecute, and suggested that the lawyers bring charges 
+that are easier to prove, including civil infringement for 
+the right to communicate over information networks, as 
+defined in recently issued regulations, and others. 
+ 
+¶7. (U) Wang indicated his interest in seeing IPR cases 
+prosecuted in a special division of the civil courts, 
+making more resources available for such cases.  He noted 
+that Beijing recently established several basic level IPR 
+civil courts, which provide additional convenience to right 
+holders seeking to litigate their cases.  He added that the 
+Chinese Government is still learning to establish legal 
+systems that adequately address IPR issues, and he noted, 
+in response to a comment by Senior IPR Attache, that at 
+least the chief judge of the Supreme People's Court civil 
+IPR tribunal, Jiang Zhipei, supported such a move.  (Note: 
+The increasing trend towards basic level civil IPR courts 
+is of little help to foreigners, who must litigate their 
+cases in intermediate courts.  Furthermore, such basic 
+level courts may be more closely tied to local economic 
+interests.  In general, the United States Government has 
+supported the creation of either an integrated IPR court 
+that combines civil, criminal, and administrative 
+jurisdiction or a national appellate IPR court that permits 
+litigants to immediately appeal a case in a jurisdiction 
+that is less tied to local influence.  Emboffs subsequently 
+met with Supreme People's Court Deputy President Zhang Jun 
+on March 28.  While Zhang agrees there is benefit in 
+establishing a unified IPR court in China, he said it will 
+not happen until after a broad-based reform of China's 
+judicial system as well as its IPR laws as a whole.  Zhang 
+noted that in the event such a court were established, 
+Judge Jiang Zhipei would likely serve as its chief judge, 
+and he therefore naturally supports the move.  See Reftel. 
+End Note.) 
+ 
+---------------------------- 
+Infringement at Universities 
+---------------------------- 
+ 
+¶8. (U) Asked about copyright infringement at universities, 
+Wang replied that many universities use foreign textbooks, 
+which are subject to illegal copying and distribution 
+because of their relatively high cost.  However, he said 
+that universities receive "no safe harbor" from IPR laws, 
+and said that the BCB plans to meet with 56 Beijing-area 
+university presidents to discuss the problem.  On the issue 
+of proliferating online piracy over broadband Internet 
+connections at universities, Wang said that the problem is 
+still relatively new, and that BCB is developing a black 
+list of known infringing web sites that have not yet been 
+shut down.  In response to a question of the Senior IPR 
+ 
+BEIJING 00002566  004 OF 008 
+ 
+ 
+Attache, Wang noted that he was unaware of any specific 
+university policies governing usage of the Internet to 
+minimize infringement activities.  USTR recommended that 
+BCB employ more transparent reporting of any IPR 
+enforcement actions, since such publicity would give China 
+more credit abroad for its efforts, and would help to deter 
+pirates. 
+ 
+--------------------------------------------- ---- 
+Strategies for Enforcement in Counterfeit Markets 
+--------------------------------------------- ---- 
+ 
+¶9. (U) In a meeting with Chaoyang District Vice Governor 
+Xie Chaobin, Director Liu Chuncheng, and Deputy Directors 
+Zhang Yong and Zhang Guohua, the Chinese side told USTR 
+that Beijing's Central Business District plays an important 
+role in the development of the capital and the country, 
+especially with the impending 2008 Olympic Games, and that 
+IPR enforcement is central to the district's continued 
+development.  Xie said the government is "involving more 
+social forces" in protecting IPR, and explained that the 
+government relies heavily on the management companies at 
+Chaoyang's notorious counterfeit markets to enforce IPR 
+protection.  For example, he said that all management 
+companies now require vendors selling trademarked brands to 
+report their suppliers to Chaoyang's Cultural Authority for 
+certification, and that revocation of that certification 
+also results in the revocation of a vendor's business 
+license, thus avoiding the quick revival of illegal 
+businesses. 
+ 
+¶10. (U) Xie said that, based on meetings with industry 
+associations, rights holders are satisfied with IPR 
+protection measures and enforcement actions taken in 
+Beijing's markets.  He added that the Chaoyang government 
+signed a memorandum of understanding (MOU) with the 
+American Chamber of Commerce (AmCham) in October 2006 that 
+will create a better environment for legitimate goods and 
+will increase public awareness of the counterfeit problem. 
+Xie said that this strategy, combined with targeted law 
+enforcement activities, is the keys to IPR enforcement.  He 
+added that Chaoyang government officials would like to 
+visit the United States in 2007 to exchange experiences on 
+enforcement, further to a recent exchange with local law 
+enforcement from the United States.  Also through the MOU 
+with AmCham, Xie reported that the Chaoyang government 
+meets monthly with an IPR working group to exchange ideas 
+and the results of piracy cases, enhance law enforcement 
+and monitoring efforts, hold workshops and seminars, and 
+create campaigns to educate sellers and buyers, 
+particularly younger buyers.  He added that education 
+programs have to date included a visit to Microsoft and to 
+ 
+BEIJING 00002566  005 OF 008 
+ 
+ 
+Taiwan movie studios. 
+ 
+------------------------------------------- 
+Chaoyang Challenges Silk Street Allegations 
+------------------------------------------- 
+ 
+¶11. (U) USTR asked Chaoyang government officials what more 
+the United States and China must do to cooperatively manage 
+the problem at Silk Street Market, the "world's most famous 
+market" for counterfeit goods.  Liu interrupted the 
+interpreter to note that "the embassy did not provide us 
+with this question [in advance]."  He continued to say that 
+those familiar with the market's history will have a more 
+objective view of recent progress n enforcement, and that 
+those who "pay more attention to recent litigations" and 
+cooperation with the EU will have a better understanding of 
+the situation.  USTR cited recent industry data showing 
+that, in some categories, up to 80-90% of goods at Silk 
+Street are counterfeits.  The Chinese side challenged those 
+figures and requested that such data be shared, asserting 
+that rights holders are pleased with the situation at the 
+market.  (Note: Director Liu referred in particular to a 
+widely reported incident in which a European lawyer, who is 
+also counsel to two companies concerned about infringement 
+at the Silk Market and who chairs European Chamber's IPR 
+Committee, entered into a separate agreement with the Silk 
+Market to settle his clients' civil litigation.  The 
+signing ceremony was widely reported in the media as an 
+indication of European "satisfaction" with IP enforcement 
+at Silk Market.  Emboffs were advised by rights holders' 
+counsel not to attend this meeting, lest it be used for 
+propaganda purposes, and therefore declined to participate. 
+End Note). 
+ 
+¶12. (U) Director Liu said that data on high rates of 
+counterfeit products at local markets is "forced" by 
+intermediaries who profit from IPR cases, and stated that 
+Chaoyang district has never relied on the sale of 
+counterfeit goods for economic development.  USTR suggested 
+that both sides acknowledge frankly the situation at the 
+market and work constructively to address it, to which Liu 
+replied by encouraging USTR to visit Silk Street Market, 
+and expressed his hope to work together in the future based 
+on real data.  Vice Governor Xie added that Chaoyang 
+district is firmly determined to fighting piracy and that, 
+as WTO members, China assures that all rights holders 
+receive the same treatment as domestic rights holders.  He 
+said that he hopes to promote future discussion and avoid 
+misunderstandings. 
+ 
+------------------------------------------ 
+Online and Textbook Piracy at Universities 
+ 
+BEIJING 00002566  006 OF 008 
+ 
+ 
+------------------------------------------ 
+ 
+¶13. (U) In a meeting with the Ministry of Education's 
+Department of International Exchanges, Assistant Director 
+General Xu Yongji told USTR that, especially since 2000, 
+Chinese universities have increasingly begun to use foreign 
+textbooks.  In such cases, the Ministry of Education 
+requests that the books be licensed for publishing in China 
+to reduce the cost to students.  He said there are nine 
+presses in China that print such licensed foreign books, 
+with a total of more than 6,000 foreign textbooks in print 
+in China today, amounting to several hundred million RMB in 
+royalties. 
+ 
+¶14. (U) Xu said that the Ministry of Education currently 
+monitors copyright compliance at universities, and 
+stipulates measures, available online, for schools to 
+follow.  However, enforcement responsibility falls to the 
+National Copyright Administration, which worked together 
+with the Ministry of Education from August to September 
+2006 to punish textbook infringers, and will collaborate 
+longer term to establish mechanisms to fight piracy. 
+ 
+----------------------------------- 
+MOFCOM's IPR Enforcement Strategies 
+----------------------------------- 
+ 
+¶15. (U) USTR also met with on March 16 with the Ministry of 
+Commerce (MOFCOM) Market Order Rectification Office (MORO), 
+including China International Electronic Commerce Center 
+(CIECC) Vice Director Wang Kaiqian, IPR Affairs Vice 
+General Manager An Ning, and State Office of IP Protection 
+Division Director Qiu Zhongyi.  USTR provided MOFCOM with a 
+summary of provincial review activities and findings, 
+covering athletic shoe counterfeiting, Internet and book 
+piracy, IPR complaint centers, and discussion of Silk 
+Market with Chaoyang District Government.  Vice General 
+Manager An expressed MOFCOM's appreciation for USTR's 
+observations on IPR and cited recent examples of IPR 
+enforcement and the establishment of 50 nationwide IPR 
+complaint centers, which he noted are consistent with 
+MOFCOM's principle to consistently promote IPR issues at 
+all levels of government. 
+ 
+¶16. (U) Asked about the existence of a rewards system for 
+IPR enforcement, MOFCOM replied that different enforcement 
+and administrative systems exist for trademarks, copyrights, 
+and patents, and that rewards and punishments, including 
+rewards for case transfer, are part of each.  However, 
+MOFCOM noted that there is no central system for evaluating 
+and rewarding IPR enforcement.  Asked what incentives have 
+been added since 2006 for increased case transfer, MOFCOM 
+ 
+BEIJING 00002566  007 OF 008 
+ 
+ 
+reported that four new rules have been made, and a 
+monitoring system established.  The two problems they 
+report to face are evidence collection and cooperation with 
+rights holders. 
+ 
+¶17. (U) All IPR enforcement actions are reported on the 
+CIECC website, and MOFCOM said that 20 percent of visitors 
+to the site in February 2007 were from the United States, 
+indicating that it has become a valuable tool to foreign 
+rights holders.  United States visitors represented the 
+largest proportion of foreign visitors to the site.  USTR 
+pointed out that very little information is available 
+online, leaving rights holders uncertain whether their 
+particular case has been dealt with or not, and that 
+publishing so little information may reduce the deterrent 
+effect.  USTR suggested releasing more information about 
+take-down actions, in compliance with Chinese law.  MOFCOM 
+replied that this has to do with confidentiality of rights 
+holders.  USTR pointed out that following a March 2006 
+conversation about transparency, MOFCOM had not yet made 
+available enforcement statistics for 2006. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶18. (SBU) USTR's provincial review meetings in China, which 
+were held prior to the April 10 WTO filings by USTR, were 
+largely granted at the last minute and only after 
+considerable direct intervention by the Embassy.  To 
+arrange the meetings, Emboffs told MOFCOM that if China 
+wanted an objective report in USTR's provincial review, it 
+should either support USTR's visits to local governments, 
+or at least refrain from interfering with them.  In 
+response, MOFCOM denied any interference; however, Chinese 
+agencies did not grant any requested meetings until MOFCOM 
+stopped "not interfering."  With the April 10 filing of the 
+WTO dispute resolution cases on Chinese IPR-related matters 
+(enforcement and market access), Chinese officials have 
+repeatedly noted in various fora that all bilateral 
+cooperation on IPR issues between the United States and 
+China is henceforth suspended, which casts considerable 
+doubt on the ease with which such meetings may be arranged 
+in the future. 
+ 
+¶19.  (SBU) Despite recent WTO fallout, however, USTR's 
+March meetings in Beijing demonstrated the effectiveness of 
+continued engagement with local officials to build 
+relationships and trust to support better IPR enforcement. 
+Emboffs have met with BCB dozens of times and have 
+sponsored several joint programs together.  In a prior 
+meeting with Emboffs, the BCB even confided their own 
+ 
+BEIJING 00002566  008 OF 008 
+ 
+ 
+initial disbelief when first advised by Emboffs that 
+Internet copyright piracy was a problem in China.  Now, 
+however, they say they are fully engaged on the issue. 
+Similarly, Emboffs attended several bilateral meetings with 
+CIECC before it established its now popular online IPR 
+complaint mechanism.  Vice Director Wang Kaiqian has 
+credited advice from Emboffs about how to make the site 
+more user-friendly and useful to foreigners with the site's 
+recent dramatic increase in foreign users. 
+ 
+¶20. (SBU) Continuing local engagement remains especially 
+critical in the post-WTO case world.  The Embassy was 
+pleased to nominate and send a delegation of four Chinese 
+Internet copyright enforcement officials to the United 
+States on an International Visitors Program in March and 
+April 2007.  The visitors were hosted by USTR and other 
+agencies, and are now planning a number of technical 
+assistance programs with the CIECC, which the Embassy hopes 
+will survive the high profile public rhetoric of 
+disappointment and anger from the Chinese Government.  End 
+Comment. 
+ 
+¶21. (U) This report was cleared by USTR. 
+ 
+RANDT

@@ -1,0 +1,318 @@
+06PARIS3322
+WSIS - MULTI-LINGUALISM AND CULTURAL DIVERSITY
+Thu May 18 00:00:00 +0200 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 04 PARIS 003322 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+FROM USMISSION UNESCO PARIS 
+ 
+FOR IO/UNESCO 
+ 
+E.O. 12958: N/A 
+TAGS: KPAO EAID ECON UNESCO
+SUBJECT: WSIS - MULTI-LINGUALISM AND CULTURAL DIVERSITY 
+ 
+ 
+¶1.  (SBU) SUMMARY:  This is a joint U.S. Mission to UNESCO and U.S. 
+Mission Geneva cable.  A joint ITU/UNESCO symposium on 
+"Multi-lingualism in the Internet" was held in Geneva from May 9 to 
+11, 2006 followed by a UNESCO Meeting on Cultural Diversity (WSIS 
+Action Line C8) and the Internet on May 12.  In the first of many 
+WSIS-related meetings, the symposium featured panels of academics 
+and ICT professionals speaking about the necessity and specific 
+ideas for increasing multi-lingualism in cyberspace.  Participants 
+raised a plethora of ideas such as how to include a language on the 
+Internet, translation aided by computer software, internationalized 
+domain names, technical standards and solutions and the omnipresence 
+of English content on the Internet.  Participants in the first 
+meeting included Elizabeth Longworth, Director of UNESCO's 
+Information Society Division, Houlin Zhao, Director of ITU-TSB, and 
+Charles Geiger, Executive Director, WSIS Secretariat.  Many 
+participants joined with Longworth and Katerina Stenou of the UNESCO 
+Culture Sector at the May 12 meeting of C8 stakeholders to nominate 
+UNESCO as the lead facilitator of the C8 and to establish themes to 
+guide the C8's future work. Stakeholders will discuss these themes 
+on line over the next two months before adopting them in final by 
+the end of the summer.  These themes are discussed in paragraph 15 
+of this cable.  END SUMMARY. 
+ 
+------------ 
+UNESCO VIEWS 
+------------ 
+ 
+¶2.  (SBU) Longworth gave an opening speech at the May 9-11 
+conference stating that Multilingualism is a political imperative to 
+democratize our societies so that everyone can make a contribution. 
+(COMMENT:  This is consistent with her view that language and local 
+content are fundamental to access, which in turn allows the 
+individual to benefit from the free flow and exchange of information 
+on the Internet, thus strengthening democratic development.  END 
+COMMENT.)  At the same time, UNESCO's Claudio Menezes pointed out 
+that 90 percent of the world's languages are not represented on the 
+Internet, while inaccurately stating that English content currently 
+takes up 72 percent of Internet web space.  Other speakers noted 
+that the 72 percent English figure dates from 2001 and has since 
+fallen to between 55 and 60 percent.  Menezes still insisted that 
+there is a need for greater diversity in both language and content 
+on the Internet.  He described UNESCO's efforts to promote both by 
+raising awareness of the need for greater diversity, proposing 
+appropriate policies, and implementing pilot projects.  He reported 
+that UNESCO is currently financing a pilot project on digitalizing 
+the African language, N'Ko.  Menezes also noted that the 
+organization marked a weeklong series of events on linguistic 
+diversity for International Mother Language Day in February 2006. 
+He later privately stated that the May 9-11 meeting was considered a 
+UNESCO experts meeting, and that UNESCO's role was above all to 
+listen, compile a report of the findings and then see what kind of 
+action it might be able to take.  Longworth stated that she was 
+pleased to partake in the first joint UNESCO-ITU meeting on WSIS 
+issues and that it was natural to join forces during an era of 
+budget cuts.  She stated that UNESCO would remain "agnostic" on 
+technical issues and added that for UNESCO, the Internet is a body 
+that should resist regulation.  She said that she wanted to increase 
+local content while maintaining cultural integrity so that a 
+language is preserved as much as possible when it is subjected to 
+technology. 
+ 
+----------------------------- 
+UNIVERSAL NETWORKING LANGUAGE 
+----------------------------- 
+ 
+¶3.  (SBU) Tarcisio Della Senta of the United Nations Digital 
+Language (UNDL) Foundation spoke about establishing digital 
+infrastructure to promote multilingualism on the Internet.  He asked 
+what ICT professionals needed to do to move from well-meaning 
+declarations to actually achieving a multi-lingual Internet, which 
+includes processing and accessing information, creating and 
+producing information, as well as sharing and selling it.  Della 
+Senta asserted that such an Internet would be universal, equitable, 
+and diverse in its languages and cultures.  This diversity would 
+also apply to domain names, email addresses, keywords, local 
+content, and encoding scripts.  To this end, Della Senta's 
+foundation has created a universal networking language (UNL) under 
+the purview of the UN.  UNL is an electronic language that empowers 
+computers to intercommunicate and to process information and 
+knowledge written in natural languages, across language barriers. 
+He said the technology, which is not profit-oriented, would remain 
+under the UN to make it available on a global basis. 
+ 
+------------------------- 
+HOW TO INCLUDE LANGAUGES: 
+------------------------- 
+ 
+¶4.  (SBU) Marcel Diki-Kidiri of the Centre Nationale de la Recherche 
+linguistique (CNRS) described the process that is required to 
+include "new" languages on the Internet, especially a language that 
+had formerly been an oral one.  He stated that scholars or academics 
+must first devise a written language that incorporates a stable 
+spelling system and then establish reference texts such as grammar 
+books and dictionaries.  He said that they must then develop 
+terminology that can be put into cyberspace including a website and 
+address in the new language.  This latter step involves coming up 
+with scripts, (ie. Latin, Arabic, etc.) fonts and characters, and 
+requires funding.  Several speakers suggested that getting new 
+languages on line was no longer just a question of technology but 
+was also a social question.  For this reason, they said, 
+multidisciplinary teams were needed to address the issue - pairing 
+computer programmers with linguists and cultural experts to get the 
+job done, for example. 
+ 
+¶5.  (SBU) A challenge to scripted non-ASCII languages remained, 
+according to an Indian professor who stated that the widely used 
+Unicode method does not always work to bring scripts online.  He 
+suggested that Microsoft was a "self appointed multilingual 
+custodian of our national heritage" due to its decision to program 
+some scripts used in India in a slightly altered way. 
+ 
+------------ 
+TRANSLATION: 
+------------ 
+ 
+¶6.  (SBU) Ivan Guzman of Igral, which has worked with Union Latine 
+and UNESCO in the past, stated that he was creating a translation 
+prototype called ATAMIRI capable of simultaneously translating from 
+English into Spanish, French and German and reverse-from Spanish 
+into the other three languages.  He explained that its linguistic 
+model is based on the formal language representation of the ancient 
+Andean Aymara language, which has an algorithmic matricial structure 
+making it possible to simultaneously translate from source language 
+into various other target languages. However, at the UNESCO Cultural 
+Diversity conference on May 12, many participants lamented the lack 
+of any effective translation software.  At the close of the 
+conference, the Quebec delegate asked which language stakeholders 
+should use to communicate with one another online.  UNESCO responded 
+that traditionally, English and French are used, because they are 
+UNESCO's two official languages, but that it was a personal decision 
+for stakeholders to use any language.  Other participants stated 
+that this would not work in practice since existing translation 
+software was weak, but nobody endorsed the efficiency of using one 
+or two languages to communicate. 
+ 
+------------- 
+DOMAIN NAMES: 
+------------- 
+ 
+¶7.  (SBU) Several participants at the May 9-11 conference stated the 
+importance of distinguishing between internationalization of name 
+space and the availability of localized domain names. They stated 
+that it was vital to advance deployment of IDN (Internationalized 
+Domain Names) because there was a huge demand for multilingual names 
+on the Internet.  Some said that DNS cannot be expected to provide 
+an adequate platform.  Others called for ITU and UNESCO involvement 
+in harmonization of standards on IDN operational issues. 
+ 
+¶8.  (SBU) Study Group (SG) 17 of ITU's Technical Standards Bureau, 
+ITU-T announced that it has submitted an action plan for deploying 
+International Domain Names (IDNs).  The action plan studies various 
+multilingualism issues including the existing or lack of technical 
+background of national ICT professionals, network security risks, 
+use of regional language tables, and liaison mechanisms.  The SG has 
+also prepared a questionnaire that will be submitted to ITU member 
+states asking them to share their experiences in deploying IDNs. 
+Once the questionnaires are answered, the SG will map out the 
+problems member states have had and look at appropriate solutions. 
+ 
+¶9.  (SBU) Tina Dam, Director of ICANN's IDN Programs, noted that her 
+division focuses on the deployment of IDNs while emphasizing the 
+Internet's stability and security, competition and choice, and 
+independent bottom-up coordination.  She reported that ICANN and the 
+Internet community have appointed a group of leading experts from 
+around the globe to a President's Advisory Committee on IDNs.  This 
+committee is preparing a proposal for a technical test of 
+internationalized top-level domain labels to ensure that enabling 
+multiple languages at this level will not adversely affect users. 
+She also reported that ICANN's IANA registry allows for script-based 
+tables in addition to language-based tables with 
+"added functionality" to show the method used for developing the 
+tables.  Participants made repeated calls to not fragment the 
+Internet as multilingualism moves ahead and asked organizations 
+involved in IDNs to carefully consider the technical options - 
+existing or new - to avoid this outcome. 
+ 
+¶10.  (SBU) Another session focused on various IDN operational 
+experiences within different regions of the globe.  Fay Howard of 
+the Council of National Top -level domain Registries (CENTR) 
+oversees IDNs in Europe. CENTR has forty-one full members with 23 
+country code top-level domain names and another 25 million domain 
+names registered.  Howard noted that twenty-two percent of the 
+organization's full members do not use the Latin script.  Howard 
+emphasized that enabling multiple languages to be added to the 
+Internet would promote an information culture where people will be 
+empowered, through access to information, to take control of their 
+lives. 
+ 
+¶11.  (SBU) Wang Feng of the China Internet Network Information 
+Center (CNNIC) described a regional approach in deploying IDNs in 
+the Asian Region. Since China, Japan, and South Korea use many of 
+the same characters, they have established a common organization to 
+manage Asia Pacific cctld.  He described the China/Japan/South Korea 
+Joint Engineering Team, which is currently attempting to set up a 
+language table for the Internet.  Wang also shared that as of 
+January 2006, China alone had 111 million Internet users, amounting 
+to a five-fold growth in as many years.  He pointed out that 99.8 
+percent access Chinese Internet content and that over 70 percent use 
+Chinese content exclusively. 
+ 
+--------- 
+KEYWORDS: 
+--------- 
+ 
+¶12.  (SBU) Ayman El-Sherbiny of ESCWA talked about the challenges 
+involved in developing Arabic IDNs.  He reported that Internet usage 
+rates in the Arab region are currently low and that there is weak 
+digital Arabic content.  To promote greater Arabic content, he 
+described the possibility of collaboration between Arabic, Urdu, and 
+Farsi speakers since they all use the same set of characters. 
+Sherbiny further noted that the Internet Engineering Task Force is 
+working on finding technical solutions to deploying IDNs in this 
+region.  He shared that a keyword system built on top of the domain 
+name system appears to have greater success in retrieving items in 
+local languages.  A Turkish company also made a presentation on 
+their keyword systems to show how Turkish speakers use their own 
+alphabets to search for sites on the Internet.  Participants stated 
+that the system is also popular in South Korea. 
+ 
+--------------------- 
+THE WAR OF LANGUAGES: 
+--------------------- 
+ 
+¶13.  (SBU) As the debate shifted from technical issues to social 
+ones during the May 9-11 conference, speakers stated that 
+multilingualism is taking on a more societal dimension, or as Union 
+Latine's Daniel Prado described, a human dimension.  An Anglophone 
+expert on privacy issues set off a heated debate when she asked if 
+it might be possible to have specific instances where one language 
+is used on the internet, for example, in the realm of security. 
+This did not, she said, have to be English, but it could be modeled 
+on the use of English for international air traffic control.  One 
+participant stated that a single language would not improve 
+security, another said that technology should not impose one 
+language on mankind, while another noted that English has already 
+"squeezed out" other languages in fields such as science.  Another 
+complained that he has to use email to reach his grandmother who 
+needed someone's assistance to read it.  (COMMENT:  The 
+conspiratorial tone of the debate was reminiscent of the debate over 
+Internet governance last autumn.  END COMMENT.)  As the debate grew 
+more intense, the chair of the African Academy of Languages, a 
+leader of the new World Network for Linguistic Diversity formed at 
+Tunis, and a representative of the Catalan government all affirmed 
+that multilingualism on the Internet is not about a "war of 
+languages" against English, but about keeping English there and 
+adding more and more languages on line to promote linguistic 
+diversity.  They described their goal as helping people to be rooted 
+in their mother tongue and be open to other languages.  The Catalan 
+representative privately noted that it was unfortunate that many 
+Spanish and French speaking participants were complaining to the UN 
+about a situation (not enough content in their languages) whose 
+solution lay in their hands (mobilizing their linguistic communities 
+to deploy more content.) 
+ 
+------------------- 
+CULTURAL DIVERSITY: 
+------------------- 
+ 
+¶14.  (SBU) The May 12 conference on WSIS Action Line C-8, which 
+followed the May 9-11 joint UNESCO and ITU conference was 
+inconclusive.  Although the goal had been for stakeholders to select 
+areas of focus, debate was too long and disorganized for any 
+conclusions to be made.  A U.S. Library of Congress (LOC) official 
+spotlighted the LOC's experience in placing indigenous content on 
+line and suggested that it might be able to partner with stakeholder 
+organizations on this action line. 
+ 
+¶15.  (SBU) Stakeholders did endorse UNESCO as a facilitator for 
+action line c-8, agreed to terms of reference and identified 4 
+possible themes or groupings under this action line.  They include: 
+linguistic diversity, local content, memory and heritage, and 
+information society/cyber culture/cultural diversity.  The last 
+category is a loose grouping of crosscutting concepts mentioned in 
+the C-8 such as gender and access for people with disabilities. 
+Switzerland and France urged UNESCO to avoid creating too many 
+topics and urged UNESCO to have topics rather than groups, while a 
+Tunisian government controlled NGO stated that UNESCO should set up 
+many groups and subgroups.   UNESCO will provide stakeholders with a 
+report of the meeting within 20 working days of May 12, and 
+stakeholders will have 2 months to comment on it.   Consolidated 
+proposals for moving ahead, based on this report and online 
+feedback, would be approved in September. 
+ 
+¶16.  (SBU) COMMENT:  The ITU meetings were significantly better 
+organized and thought provoking than the May 12 UNESCO meeting. 
+Adding to the confusion, not all of the morning speakers had been 
+provided with badges and had to wait for 90 minutes to get into the 
+building.   The May 12 meeting discussion was unwieldy and 
+participants were repeatedly reminded by the UNESCO secretariat to 
+read the C8 Action line since many of their questions reflected a 
+level of ignorance.  From this, it is not clear how successful any 
+initiative to enhance cultural diversity on line will be.  One 
+honest broker in the process might be the new NGO entitled "the 
+World Network for Linguistic Diversity."  In any case, we will have 
+a better idea of what UNESCO's actual agenda is once it provides its 
+meeting report in June.  END COMMENT. 
+ 
+Oliver

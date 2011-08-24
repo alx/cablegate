@@ -1,0 +1,191 @@
+08STATE123126
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Thu Nov 20 00:00:00 +0100 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHC #3126 3251335
+ZNR UUUUU ZZH
+R 201328Z NOV 08
+FM SECSTATE WASHDC
+TO RUEHRL/AMEMBASSY BERLIN 0000
+RUEHSA/AMEMBASSY PRETORIA 0000
+INFO RUEHSM/AMEMBASSY STOCKHOLM 0000
+RUEHTV/AMEMBASSY TEL AVIV 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 123126 
+ 
+SIPDIS 
+PRETORIA FOR BAIMBA YILLA AND BERLIN FOR SHANE M. PETERSEN 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC SF GM
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 050115687 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post's assistance in conducting 
+a post-shipment check on application 050115687 for the export 
+of accelerometers to South Africa.  Post is requested to 
+complete this Blue Lantern check within 45 days.  Lack of 
+response to a Blue Lantern check will affect pending and 
+future licenses involving parties to this license. 
+ 
+¶3. Reason for request:  Sensitivity of commodity and 
+unfamiliar foreign intermediate consignee, Advanced Sensors 
+Calibration GmbH.  The company has appeared on a previous 
+license application but the bona fides of the company have 
+not been verified by a Blue Lantern check. 
+ 
+¶4. ACTION PRETORIA: Embassy is requested to make inquiries 
+with appropriate host government officials to determine if 
+the South African DoD ordered and has received the 
+accelerometers and if so, confirm that the articles will be 
+used for the purpose stated on the license.  Automated Export 
+Data (AES) indicates that items worth $30,243 were shipped 
+from the U.S. on 13 September 2008. 
+ 
+¶5. ACTION BERLIN: Department also requests that Embassy make 
+appropriate inquiries to verify the bona fides of foreign 
+intermediate consignee Advanced Sensors Calibration GmbH, and 
+to confirm the legitimacy of this transaction.  PM/DTCC also 
+requests that post conducts a site visit to the company in 
+order to provide Department with an assessment of its 
+business operations and on-site security.  Finally, post is 
+asked to assess whether the company appears to be a reliable 
+recipient of USML items.  If a site visit is not possible, 
+please inform the PM/DTCC officer. 
+ 
+The following questions are provided as suggested guidance: 
+ 
+--Does the company have supporting documentation for this 
+proposed transaction? 
+ 
+--Does the company have secure facilities and proper 
+accounting and security procedures for handling sensitive 
+USML items? 
+ 
+--Will Advanced Sensors Calibration GmbH retain positive 
+control over the accelerometers at all times? 
+ 
+--When was the company established and who are its 
+principals? 
+ 
+--What is the nature of its business -- what type of items 
+does it handle, does it serve as a broker? 
+ 
+--What type of organizations are among its typical customers 
+and where are the customers located? 
+ 
+--Does the company understand the restrictions on United 
+States Munitions List (USML) items, especially the 
+prohibition against unauthorized re-transfers and re-exports? 
+ 
+END ACTION 
+ 
+¶5. Details of license application: 
+ 
+DTC Case: 050115687 
+ 
+QUANTITY/COMMODITY: 
+ 
+12  Accelerometers, Model QA-2000 
+ 
+License Value: USD 30,243.00 
+ 
+SELLER: 
+ 
+Honeywell International, Inc. 
+15001 NE 36th Street 
+Redmond, WA  98052 
+POC is L. Kolodziejczyk, Tel. 763-954-2921 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Carl Zeiss Optronics 
+carl-Zeiss-Strasse 22 73447 
+Oberkochen 
+Germany 
+POC is Director, Traugott Tietz, Tel. 49 73 64 20-2981 
+ 
+Rafael, Armament Development Authority Ltd. 
+Missile Division, P.O. 2250 31021 
+Haifa 
+Israel 
+POC is Moti Demri, No Tel. provided 
+ 
+Saab AB 
+Saab Aerosystems Broderna Uggles Gate, Godsport B/HUS 103 
+Linkoping 
+Sweden 
+POC is Director of Export Controls and Licensing, Magnus 
+Adolfsson, No Tel. provided 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE 
+ 
+Advanced Sensors Calibration GmbH 
+Mederer Strasse 1 85501 
+Ingolstadt 
+Germany 
+POC Renate Bay, Tel. 49 (0) 841/881356-10 
+ 
+FOREIGN END-USER: 
+ 
+Department of Defense 
+Acquisition Division Private Bag X910 
+Pretoria 
+POC is Director, Directorate of Coventional Arms Control, 
+S.D. Dladla, Tel. 27 (0) 12 355-5216 
+ 
+PURPOSE: 
+ 
+The Honeywell QA-2000 accelerometers will be integrated into 
+the laser designator pod for end-use on the Gripen aircraft 
+in South Africa. 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC can fax documentation to post 
+upon request): 
+ 
+--Purchase Order No. 50416 submitted by Advanced Sensors 
+Calibration GmbH on 30 July 2007, POC is Renate Bay 
+ 
+--DSP-83 Nontransfer and Use Certificate submitted by the 
+Directorate for Coventional Arms Control SA, signed by Acting 
+Director S.D. Dladla on 31 October 2007; Carl Zeiss Optronics 
+GmbH, signed by Program Manager Peter Heb on 23 July 2007; 
+South Africa Department of Defense, signed by Director of 
+Acquisition (illegible) on 31 October 2007; Rafael Armament 
+Development Authority Ltd., signed by Program Manager Moti 
+Demri on 09 July 2007; and SAAB AB, signed by Director of 
+Export Controls and Licenses, Mangus Adolffson on 03 July 2008 
+ 
+--Nontransfer/End-user Certificate (Republic of South Africa) 
+signed by the Director of the Directorate of Coventional Arms 
+Control, S.D. Dladla on 11 May 2007 
+ 
+--End-user Statement submitted by Carl Zeiss Optronics GmbH, 
+signed by Peter Heb and Traugott Tietz on 02 May 2007 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  PM/DTCC can fax documentation to post upon 
+request.  POC is Tim Mazzarelli, Phone: 202-663-3867; Email: 
+MazzarelliTP@state.gov; SIPRNET: MazzarelliTP@state.sgov.gov. 
+ The Blue Lantern Guidebook (ref) is available as a PDF file 
+in the Bunche Library's E-Book Collection on the DOS 
+Intranet:  http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶8. Department is grateful for post's assistance in this 
+matter. 
+RICE

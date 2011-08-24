@@ -1,0 +1,96 @@
+08MOSCOW210
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Tue Jan 29 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0006
+PP RUEHWEB
+
+DE RUEHMO #0210 0290728
+ZNR UUUUU ZZH
+P 290728Z JAN 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 6300
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000210 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+RASSIAN ACADEMY OF SCIENCES (RAS) INSTITUTE OF SOLID 
+STATE PHYSICS, CHERNOGOLOVKA, MOSCOW, RUSSIA, LICENSE 
+NO. D358874 
+ 
+REFTEL: USDOC 00114 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, RAS Institute of Solid Physics, Chernogolovka, 
+Moscow, Russia. The company is listed on BIS license 
+application D358874 as the ultimate consignee of two 
+millimeter source model E8257DS08 and E8257DS12. These 
+items are controlled for national security and anti- 
+terrorism reasons under ECCN 3A002. The licensee is 
+Agilent Technologies, Inc., 1666 K st., N.W. Suite 
+420, Washington DC. 20006. 
+ 
+¶3. On January 18, 2008, Export Control Attache Peter 
+Liston and LES Natalya Shipitsina conducted the 
+requested post-shipment verification with RAS 
+Institute of Solid Physics, Institutsky pr., 15, 
+Chernogolovka, Moscow, Russia. The export control team 
+met with Vladimir Kulakovsky, Deputy General Director 
+and Alexander Levchenko, Deputy Director.  ECO Liston 
+discussed the license conditions with Kulakovsky and 
+Levchenko, as mention in reftel. 
+ 
+¶4. The Institute of Solid State Physics (ISSP) was 
+organized in 15 February, 1963 by the USSR Academy of 
+Sciences in order to realize an optimal combination 
+and interplay of fundamental studies in condensed 
+matter physics and materials science.  ISSP is one of 
+the leading institutions in the Russian Academy of 
+Sciences.  The Institute is the base for a number of 
+departments of Moscow State University, the Moscow 
+Physical-Technical Institute, and the Moscow Institute 
+of Steel and Alloys.  Students from many other Russian 
+institutions of higher education obtain practical 
+research experience at the Institute. 
+ 
+¶5.  The devices in reftel are used to study a 
+microwave response from semiconductor hetro-structures 
+with two-dimensional (2D) electron systems in a high 
+magnetic field at liquid helium temperatures, all 
+within the field of fundamental research of Solid 
+State Physics. 
+ 
+¶6.  The ECO Moscow team was shown two (2) millimeter 
+source MOD, model no.'s E8257DS08 and E8257DS12, 
+located in a secure lab with limited access. 
+ 
+¶7.  ECO Moscow made a previous PSV visit to RAS/ISSP 
+on May 11, 2007 (Moscow 02685) for verification of a 
+90GHZ to 140GHZ millimeter source module, model no 
+S08MS-AG with serial no. 60821-1 and a 60GHZ to 90GHZ 
+millimeter source module, model S12MS-AG, serial 
+number 61002-1.  The current ECO Moscow team again 
+verified both units on January 18, 2008. 
+ 
+¶8. Recommendations: Post recommends RAS Institute of 
+Solid Physics, Chernogolovka, Russia as a reliable 
+recipient of sensitive U.S. origin commodities. 
+ 
+(FCS MOSCOW/SBOZEK/PLISTON) 
+BURNS

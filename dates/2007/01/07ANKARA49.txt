@@ -1,0 +1,153 @@
+07ANKARA49
+TURKEY'S TELECOM SECTOR - VOIP AND OTHER REGULATION: SLOW
+Wed Jan 10 00:00:00 +0100 2007
+UNCLASSIFIED
+Embassy Ankara
+VZCZCXRO4510
+RR RUEHAG RUEHAST RUEHDA RUEHDBU RUEHDF RUEHFL RUEHIK RUEHKW RUEHLA
+RUEHLN RUEHLZ RUEHROV RUEHSR RUEHVK RUEHYG
+DE RUEHAK #0049/01 0101608
+ZNR UUUUU ZZH
+R 101608Z JAN 07
+FM AMEMBASSY ANKARA
+TO RUEHC/SECSTATE WASHDC 0534
+INFO RUCPDOC/USDOC WASHDC
+RUEHZL/EUROPEAN POLITICAL COLLECTIVE
+RUEHIT/AMCONSUL ISTANBUL 1906
+RUEHDA/AMCONSUL ADANA 1512
+RUEAFCC/FCC WASHDCUNCLAS SECTION 01 OF 02 ANKARA 000049 
+ 
+SIPDIS 
+ 
+USDOC FOR 4212/ITA/MAC/CPD/CRUSNAK 
+FCC FOR A THOMAS AND A WEINSCHENK 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS EINT EINV TU
+SUBJECT: TURKEY'S TELECOM SECTOR - VOIP AND OTHER REGULATION: SLOW 
+PROGRESS 
+ 
+REF: A) 06 State 202978 
+B) 06 Ankara 6055 
+ 
+ANKARA 00000049  001.2 OF 002 
+ 
+ 
+¶1.  SUMMARY: While Turkey's Telecom sector achieved a critical 
+milestone with privatization of Turk Telekom (TT) in early 2006, the 
+six-year old regulatory body Telecom Authority (TK) is still 
+struggling to gain competence and maintain its independence vis a 
+vis still dominant TT and the Ministry of Transportation and 
+Communication.  Pending telecom legislation is aimed at bringing a 
+patchwork of legislation under one umbrella and assuring consistency 
+with EU legislation.  In response to the ref A request for the 
+status of VOIP (Voice over Internet Protocol) regulation, the TK 
+told us imminent issuance of fixed telecom services licenses would 
+provide a EU-consistent, over-arching, and technology-neutral 
+approach.  The TK is carefully studying worldwide experience with 
+VOIP and other services and technologies and aims to maintain a 
+hands-off approach.  VOIP is currently used by long distance license 
+holders, but it is not currently allowed to compete with TT on local 
+service.  The TK is planning a trip to visit the FCC in early 2007. 
+End Summary. 
+ 
+------------------------------------------- 
+VOIP as an Example of a New Budding Service 
+------------------------------------------- 
+ 
+¶2.  Ref A transmitted the U.S. VON Coalition comment to the USTR on 
+compliance with Telecommunications Agreements (Section 1377) with 
+respect to Turkey and USTR requests information on when VOIP 
+regulations will be issued by the Council of Ministers. 
+ 
+¶3.  The Telecom Authority (TK) gave a two-step response, noting that 
+issuing regulations was under its authority.  The Council of 
+Ministers, however, approves license duration and fees and opines on 
+major new developments like third generation GSM service (3G) and 
+WiMAX.  TK board member Galip Zerey told us that VOIP could be used 
+by current long-distance license holders, but local competition with 
+TT -- whether VOIP or otherwise -- is not yet allowed.  However, 
+competition with TT on calls from one city to another and calls to 
+cellular operators exists.  Zerey said the board was actively 
+studying worldwide experiences with VOIP with an eye for quickly 
+normalizing its use in Turkey.  He noted that companies like Skype 
+and Vonage freely operate to and from Turkey without restriction. 
+ 
+¶4.  Secondly, the TK board member claimed that the issuance of fixed 
+telecom service licenses is imminent.  The text is prepared and 
+would soon be published in the Official Gazette.  The intent will be 
+to establish an over-arching telecom environment and expand telecom 
+service to include local (TT continues to have a monopoly on local 
+land lines, as opposed to long-distance where out of forty licenses, 
+half are operating, but with some difficulty).  VOIP could be 
+employed, but the intent of the license was technology neutrality; 
+i.e., specific technologies were not defined in the license.  TK 
+will also tender new licenses for telephone number portability.  New 
+regulations will also clarify interconnection (TT has long sought to 
+take advantage of its dominance by making interconnection difficult 
+or expensive), and would clarify legal interception by the GOT.  The 
+TK made a recommendation for fee structure still under consideration 
+by the Minister. 
+ 
+---------------------------------------- 
+The Brave New World - WiMAX, ADSL, cable 
+---------------------------------------- 
+ 
+¶5.  As in previous discussions with TK Board Members, Zerey stated 
+that licensing for 3G GSM service, which will provide broadband 
+services over cell phones, and WiMAX are key elements of the board's 
+work plan, but timing is uncertain.  The TK President and The 
+Minister of Transport and Communications announced that the 3G 
+tender will be held at the beginning of summer.  Again, the board's 
+intent is to license specific frequencies, but not to prescribe a 
+specific technology.  Zerey noted that the Minister would define the 
+license duration and fee structure (likely viewing this as a revenue 
+source for the GOT). 
+ 
+¶6.  Zerey admitted that TT maintained dominance over provision of 
+broadband ADSL Internet service.  He noted that four infrastructure 
+licenses had been granted, but there is still no activity or 
+competition.  There is limited resale and remarketing of ADSL from 
+TT.  In recent years TT has expanded provision of ADSL to 2.5 
+million subscribers at "reasonable" prices (approximately $33 per 
+month for unlimited 256 kbps service) to apparently meet demand, but 
+penetration remains low.  Zerey noted that despite the board's 
+provision of four licenses for new cable infrastructure, the cable 
+sector is troubled and inactive, because state company Turksat took 
+new license holders to court.  (The existing cable network was 
+ 
+ANKARA 00000049  002.2 OF 002 
+ 
+ 
+separated from TT prior to privatization and transferred to 
+state-owned Turksat.) 
+ 
+¶7.  The mobile sector continues to display modest competition and 
+Turkcell remains dominant.  Telsim, acquired by Vodafone last year, 
+appears to be gearing up its investment and marketing, in 
+cooperation with Motorola.  The third operator Avea's shares were 
+consolidated by TT when Telecom Italia sold its interests after 
+becoming a shareholder of Turk Telekom.  The competition is expected 
+to increase after telephone number portability licenses are issued. 
+ 
+--------------------------------- 
+Comment and Proposed Visit to FCC 
+--------------------------------- 
+ 
+¶8.  Turkey is still endeavoring to provide the level playing field 
+envisioned by the recent privatization of Turk Telekom.  Although TT 
+has remained aggressive and dominant in the marketplace and the 
+regulatory process, seeking to maintain its revenues against 
+competitors, TT's main competitor has become GSM companies, in 
+particular Turkcell, whose subscriber numbers and revenues now 
+exceed those of Turk Telekom.  The government maintains an important 
+presence in the satellite communications market via its ownership of 
+Turksat.  The Telekom Board seeks to increase its expertise by 
+gaining worldwide experience.  After fruitful contact with the FCC 
+at the November International Telecommunications Union meeting in 
+Antalya, a regulator team is planning to visit Washington as soon as 
+possible in 2007 to learn more from FCC experiences. 
+ 
+McEldowney

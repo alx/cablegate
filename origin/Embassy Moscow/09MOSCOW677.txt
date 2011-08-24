@@ -1,0 +1,87 @@
+09MOSCOW677
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: MOSCOW STATE
+Fri Mar 20 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHMO #0677 0790827
+ZNR UUUUU ZZH
+P 200827Z MAR 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2451
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000677 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: MOSCOW STATE 
+UNIVERSITY, COMPUTATIONAL MATHEMATICS AND CYBERNETICS FACULTY, 
+MOSCOW, RUSSIA. 
+ 
+REFTELS: USDOC 0488 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Moscow State University, 
+Computational Mathematics and Cybernetics Faculty, Moscow, Russia. 
+The university is listed on BIS license applications: D384612 as the 
+ultimate consignee of one (1) IBM Blue Gene/P high performance 
+computer containing two (2) racks. ECCN: 4A003. The licensee is IBM, 
+1301 K Street NW, Suite 1100, West Tower, Washington, DC 20005. 
+ 
+¶3. On March 18, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of Moscow State University, 
+Computational Mathematics and Cybernetics Faculty, Leninskie Gory, 
+MGU, Moscow, Russia. The export control team met with Evgeny 
+Moiseev, Dean, Faculty of Computational Mathematics and Cybernetics, 
+Anatoly Gulyaev, Deputy Dean, Alexander Lukshin, Vice Dean for 
+International Relations and Penko Dinev, Manager of US Export 
+Regulations, IBM Central and Eastern Europe. 
+ 
+¶4. The Moscow State University, Faculty of Computational Mathematics 
+and Cybernetics was founded in 1970 by the Russian mathematician 
+A.N. Tikhonov.  The Faculty of Computational Mathematics and 
+Cybernetics is a leading research and training center in Russia for 
+all fields of computing and software development.  The Faculty of 
+Computational Mathematics and Cybernetics has over 2000 
+undergraduate students, of which 200 are foreign students from 
+countries not/not subject to restricted use of the reftel 
+commodity. 
+ 
+¶5. The IBM Blue Gene/P high performance computer is the only one of 
+its kind in Russia.  The IMB Blue Gene/P is the 4th most powerful 
+computing system in Russia and the 128th most powerful in the 
+world. 
+ 
+¶6. The IBM Blue Gene/P high performance computer is secured inside a 
+vaulted card-key access room accessible to only three faculty 
+members.  A special Faculty of Computational Mathematics and 
+Cybernetics committee decides what projects the IBM Blue Gene/P will 
+be used for.  Access to the Blue Gene/P is via a special login 
+assigned by the committee.  Each time the system is accessed a 
+permanent record of the login is made.  No foreign students are 
+issued a login. 
+ 
+¶7. The export control team determined that the IBM Blue Gene/P is 
+located at the consigneeQs facility.  The entire shipment is 
+accounted for.  The system is being used for the end use for which 
+it was licensed. There are no indications of impropriety and 
+consigneeQs answers were not evasive. 
+ 
+¶8. Recommendations: Post recommends Moscow State University, 
+Computational Mathematics and Cybernetics Faculty, Moscow, Russia, 
+as reliable recipients of sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

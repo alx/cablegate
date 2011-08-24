@@ -1,0 +1,87 @@
+07HONGKONG418
+EXTRANCHECK: PRE-LICENSE CHECK: Vegetable
+Tue Feb 13 00:00:00 +0100 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0018
+RR RUEHWEB
+
+DE RUEHHK #0418 0440700
+ZNR UUUUU ZZH
+R 130700Z FEB 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 0471
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000418 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: Vegetable 
+Marketing Organization 
+REF: A) USDOC 00750 B) EXP.LIC. D369973 
+ 
+¶1. Unauthorized disclosure of the information 
+provided below is prohibited by Section 12C of the 
+Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of 
+the Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO), accompanied by Commercial 
+Assistant, Sandy Lai, conducted a pre-license check 
+(PLC) at the Vegetable Marketing Organization 
+(VMO)757 Lai Chi Kok Road, Cheung Shawan, Kowloon, 
+Hong Kong.  The purpose of the PLC was to determine 
+the suitability of VMO to be the recipient of virtual 
+private network software.  The item (ECCN 5A002) is 
+valued at approximately USD $143,000 and is 
+controlled for national security (NS) reasons.  The 
+license applicant is F5 Networks, Inc. of Seattle, 
+Washington. 
+ 
+¶3.  The VMO is a self-financing, non-profit entity 
+originally set up to assist in the post-war 
+rehabilitation of local farming and to provide 
+facilities for marketing of vegetables.  Presently, 
+the VMO operates a wholesale vegetable market at the 
+address referenced above.  While the VMO is 
+independent from the Hong Kong government, its 
+director is the Director of the Hong Kong Department 
+of Agriculture, Fisheries and Conservation. 
+ 
+¶4.  On February 9, 2006, the ECO and Commercial 
+Assistant visited VMO at the address above and met 
+with Mr. Ka Kit Au, Market Manager (Development). Mr. 
+Au described the wholesale market business of VMO, 
+where the software will be used.  In particular, the 
+VMO's wholesale market acts as broker in nearly 50% 
+of all wholesale vegetable trades in Hong Kong and 
+clears 50,000-60,000 transactions per day.  The 
+facility itself is located in one square block.  The 
+information Mr. u provided is consistent with the 
+information onthe VMO web site: www.vmo.org.  Other 
+backgroundinformation may be found at this web site 
+as wel. 
+ 
+¶5.  Mr. Au stated that VMO would like to purchse the 
+VPU software so that it can join three neworks that 
+presently exist both within the facilty itself and 
+at one location nearby.  Mr. Au stated that a tender 
+process for this item and related items is presently 
+under way and VMO has not yet chosen a final vendor. 
+ 
+¶6.  VMO was very forthcoming during the PLC visit. 
+Mr. Lee provided information on the underlying 
+transaction and VMO's intent to use the item for its 
+operations in Hong Kong.  The ECO recommends that 
+this PLC be considered Favorable. 
+Cunningham

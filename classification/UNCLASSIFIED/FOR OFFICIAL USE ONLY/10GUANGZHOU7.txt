@@ -1,0 +1,228 @@
+10GUANGZHOU7
+New Semiconductor Foundry to Open in Shenzhen; High Tech
+Wed Jan 06 00:00:00 +0100 2010
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Guangzhou
+VZCZCXRO1489
+RR RUEHCN RUEHGH
+DE RUEHGZ #0007/01 0060922
+ZNR UUUUU ZZH
+R 060922Z JAN 10
+FM AMCONSUL GUANGZHOU
+TO RUEHC/SECSTATE WASHDC 1244
+INFO RUEHOO/CHINA POSTS COLLECTIVE 0420
+RUEHBJ/AMEMBASSY BEIJING 1005
+RUEHCN/AMCONSUL CHENGDU 0348
+RUEHHK/AMCONSUL HONG KONG 0411
+RUEHGH/AMCONSUL SHANGHAI 0347
+RUEHSH/AMCONSUL SHENYANG 0357
+RUEHIN/AIT TAIPEI 0302
+RUEHGP/AMEMBASSY SINGAPORE 0017
+RUEHUL/AMEMBASSY SEOUL 0043
+RUEHKO/AMEMBASSY TOKYO 0048
+RUCPDOC/DEPT OF COMMERCE WASHDC
+RUEATRS/DEPT OF TREASURY WASH DC
+RHMFIUU/DEPT OF JUSTICE WASHINGTON DC 0050
+RHEHAAA/NSC WASHINGTON DC 0115
+RUEAIIA/CIA WASHDC 0390
+RUEKJCS/DIA WASHDC 0386UNCLAS SECTION 01 OF 03 GUANGZHOU 000007 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+State for EAP/CM; EEB/CIP; EEB/TPP; INR/EAP; S/P 
+USTR for China Office 
+NSC for JLoi, JShrier 
+TREASURY FOR OASIA/INA -- DOHNER/HAARSAGER/WINSHIP 
+TREASURY FOR IMFP -- SOBEL/CUSHMAN 
+USDOC FOR ITA DAS KASOFF, MELCHER, MAC/OCEA 
+STATE PASS CEA FOR BLOCK 
+STATE PASS CFTC FOR OIA/GORLICK 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ETTC EINV TNGD PGOV CH TW
+SUBJECT: New Semiconductor Foundry to Open in Shenzhen; High Tech 
+Growth Not Slowing 
+ 
+REF: 09 SHANGHAI 221 
+ 
+GUANGZHOU 00000007  001.2 OF 003 
+ 
+ 
+(U) This document is sensitive but unclassified.  Please protect 
+accordingly. Not for release outside U.S. government channels. Not 
+for internet publication. 
+ 
+¶1. (SBU) Summary: High-tech industry in Shenzhen might have reached 
+critical mass, now attracting new industries and growth with 
+encouragement from the municipal government.  In addition to 
+favorable policies and support, government and industry contacts 
+cite free market forces in Shenzhen as a major incentive for 
+high-tech companies interested in investing here.  Shanghai-based 
+semiconductor manufacturer SMIC is breaking into Shenzhen with a 
+multi-phase foundry project that will open in 2010.  However, SME 
+firms complain that rising costs and capricious local authorities 
+could hinder long-term growth.  End summary. 
+ 
+Semiconductor Industry Moving into Shenzhen 
+------------------------------------------- 
+ 
+¶2. (SBU) SMIC, the Shanghai-based semiconductor manufacturer, is a 
+few months away from opening the first phase of a new foundry in 
+Shenzhen, the city's first major semiconductor manufacturing 
+facility.  In meetings with econoff at the construction site, 
+Project Manager Dong Yixin said the US$1.6 billion project had been 
+in the works for more than three years.  The plant will initially 
+open with 600 employees, said Dong, but he does not expect wafer 
+production to begin until the third quarter of 2010, at the 
+earliest.  Although most of the manufacturing equipment for phase 1 
+has arrived in Shenzhen, with only a few key machines yet to be 
+procured, the new SMIC facility's testing and calibration period 
+will likely take six months or more. 
+ 
+¶3. (SBU) Once it becomes operational, phase 1 will produce 8-inch 
+wafers, according to Dong, followed by a future second phase that 
+will produce 12-inch wafers.  Most of the new plant's key management 
+and technical positions will be filled by long-time SMIC employees 
+who will be relocated from the company's Shanghai headquarters and 
+other well-established facilities in China.  Equipment procurement 
+is handled at headquarters, but Dong said the eventual second phase 
+project would rely on equipment utilizing IBM-licensed 45-nm 
+technology.  However, Dong was unable to predict when the second 
+phase might commence, noting that he was focused only on completing 
+the initial facilities. 
+ 
+Government Takes a Leading Role 
+------------------------------- 
+ 
+¶4. (SBU) When asked about the reasons SMIC chose Shenzhen to make 
+such a large new investment, Dong said the company's senior managers 
+and city leaders had previously worked out the details including 
+project size, funding and location.  Dong explained that his 
+experience as Facilities Project Manager had been very positive when 
+requesting specific support from the city whether requirements 
+focused on upgrading local infrastructure, increasing the 
+availability of resources like water or electricity, or improving 
+transportation and logistics facilities for personnel and inputs. 
+Dong suggested that city officials' willingness to support the 
+project may have been unusually solicitous because of the 
+investment's large size and its status as the first such plant to 
+set up in Shenzhen. 
+ 
+¶5. (SBU) SMIC Vice President for Corporate Relations Matthew 
+Szymanski confirmed to econoff that the new Shenzhen plant is a 
+ 
+GUANGZHOU 00000007  002.2 OF 003 
+ 
+ 
+wholly owned subsidiary of the company and not owned by the local 
+government, as is the case for SMIC's facilities in Wuhan and 
+Chengdu.  Szymanski said the local government had provided some 
+financial support to the project, which he said was detailed in SEC 
+filings in both the United States and Hong Kong, where the company 
+is publicly listed.  At the same time, Szymanski said that his 
+company could benefit from even greater local support, and he 
+offered that support provided to IBM from the State of New York and 
+the U.S. Government was greater than Shenzhen's support to SMIC. 
+ 
+¶6. (SBU) Officers of the Shenzhen Semiconductor Association 
+separately told econoff that the SMIC project marks a major 
+breakthrough for the Shenzhen municipal government in its efforts to 
+expand high-tech industry in the city.  The SMIC plant will be the 
+first major foundry to locate here and the project is only the 
+second major semiconductor producer to select the city for a 
+high-value investment in the last few years, according to Secretary 
+General Richard Cai.  The Shenzhen Semiconductor Association 
+currently represents 80 member firms, most of which are "fabless" 
+design firms who hire semiconductor foundries to manufacture their 
+chips.  The association also includes several large consumer 
+electronics firms that produce semiconductors as one of their major 
+business lines, but Cai said the $1.6 billion SMIC foundry along 
+with an expansion of operations by Swiss-owned STS Microelectronics 
+in early 2009 to build a $500 million packaging facility will 
+broaden and deepen the city's role in this industry. 
+ 
+Marketing Shenzhen as a High-Tech Hub 
+------------------------------------- 
+ 
+¶7. (SBU) Shenzhen is eager to position itself as a destination for 
+high-tech investment in general.  The China High-Tech Fair, annually 
+held in Shenzhen and jointly organized by China's Ministry of 
+Commerce and the Shenzhen municipal government, is one of the tools 
+the city has used to encourage high-tech industry development in 
+recent years.  The 2009 fair lasted one week in November and 
+exhibitors hailed from provinces and cities across China and around 
+the world, major Chinese and international high-tech firms, as well 
+as research universities and other organizations looking to expand 
+their presence in China's lucrative high-tech sector.  In addition 
+to hosting diplomats and media at the opening ceremony, 
+informational seminars and matchmaking sessions during the fair 
+further emphasized Shenzhen's position as a growing high-tech center 
+despite the economic downturn. 
+ 
+Balancing Government Support and Market Forces? 
+--------------------------------------------- -- 
+ 
+¶8. (SBU) Both government and industry contacts from the top down 
+claimed that Shenzhen had succeeded in attracting new high-tech 
+investment not only through sustained government action, but also 
+because free market principles played a larger role here than in 
+other competitive Chinese locations.  Vice Mayor Zhuo Qinrui told 
+the Consul General in a recent introductory meeting that the city 
+had successfully encouraged the development of four "pillar" 
+industries over the past 29 years - high-tech component 
+manufacturing, "culture industries" like Internet content providers 
+and publishing, finance and logistics.  In Shenzhen, the 
+encouragement focused mostly on providing incentives and support for 
+otherwise private business decisions, rather than establishing and 
+directing major state-owned enterprises (SOEs) in the city, 
+according to Zhuo.  He said municipal leaders recognized the 
+importance of "market forces" when encouraging high-tech industry 
+because it tended to be more innovative and profitable for both the 
+ 
+GUANGZHOU 00000007  003.2 OF 003 
+ 
+ 
+businesses and the community.  He added that the city government 
+would continue its quest for new high-tech investment in the future, 
+and Shenzhen plans to expand its development focus to three "new" 
+pillar industries - information technology, biotech/pharmaceuticals 
+and new energy. 
+ 
+¶9. (SBU) Shenzhen Semiconductor Association Director General Cai 
+also said a key factor that makes Shenzhen more attractive than 
+other cities in China is the lack of SOEs and, therefore, direct 
+government involvement in the semiconductor industry.  He said the 
+city had worked hard to create an environment for semiconductor 
+industry growth, but the lack of major SOE players in the market was 
+evidence of the government's willingness to take a more hands-off 
+approach to the city's high tech development. 
+ 
+Challenges Remain for High-Tech Firms in Shenzhen 
+--------------------------------------------- ---- 
+ 
+¶10. (SBU) Despite the upbeat outlook from local officials and 
+industry associations, high-tech small and medium enterprises (SMEs) 
+still face major challenges in Shenzhen, according to CEO Jeff Yang 
+of telecom component maker Continuous Computing.  In an initial 
+meeting with the Consul General, and in a follow-up meeting with 
+econoff, Yang said the rapid growth of Shenzhen's industrial base 
+had led to increased costs that would make a small company owner 
+think twice about opening new offices in Shenzhen at this time. 
+Continuous Computing opened its Shenzhen branch in 2005 and enjoyed 
+low costs and low government interference at first.  However, rents, 
+wages, labor turnover and other costs all increased rapidly in the 
+company's four years here, and local government interference also 
+began to affect the company after the economic downturn struck in 
+¶2008. 
+ 
+¶11. (SBU) According to Yang, SME firms like his were powerless to 
+defend themselves against local tax officials who targeted 
+foreign-invested enterprises to try and make up for local revenue 
+shortfalls during the economic downturn.  The tax bureau has since 
+cleared the company of any wrongdoing, but Ya&NQ1Q"7sin 
+Chengdu might be less inclined to "take foreign investors for 
+granted." 
+ 
+JACOBSEN

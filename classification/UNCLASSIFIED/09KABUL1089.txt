@@ -1,0 +1,68 @@
+09KABUL1089
+One Team One Mission One Network
+Wed Apr 29 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Kabul
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHBUL #1089 1191409
+ZNR UUUUU ZZH
+R 291409Z APR 09
+FM AMEMBASSY KABUL
+TO RUEHC/SECSTATE WASHDC 8672
+INFO RUEHBK/AMEMBASSY BANGKOK 2041
+RHMFISS/CDR USCENTCOM MACDILL AFB FL
+RXFPSHK/ISAF HQ
+RHMFISS/USFOR-A
+RUEHBU/AMEMBASSY BUENOS AIRES 0019
+RUEHFSI/FSINFATC WASHDCUNCLAS KABUL 001089 
+ 
+SIPDIS 
+ 
+DEPT FOR D(L), M, CIO, S/SRAP, RM, SCA/A AMB. EIKENBERRY 
+FROM RICCIARDONE 
+NFATC FOR DIRECTOR WHITESIDE 
+USAID FOR A/ADMINISTRATOR 
+BANGKOK FOR RIMC 
+BUENOS AIRES FOR AMBASSADOR 
+ISAF HQ FOR COMMANDER 
+USFOR-A FOR COMMANDER AND J6 
+ 
+E.O. 12958: N/A 
+TAGS: AMGT AADP KRIM AF
+SUBJECT:  One Team One Mission One Network 
+ 
+Why Kabul Needs One Unclassified Network 
+======================================== 
+¶1. USAID could deliver on its vitally important mission 
+in Afghanistan more effectively if we had better means to 
+coordinate policies and programs with the rest of the 
+Mission, both Embassy Kabul agencies under COM authority, 
+and DoD agencies under CDR CENTCOM and USFOR-A.  Current 
+inefficiencies run counter to the President's plan for 
+Afghanistan and Pakistan and are detrimental for the 
+Collaborative Management Initiative.  In order to share 
+information and provide an effective management platform, 
+the AIDNET and OpenNet networks should be merged as soon 
+as possible throughout Afghanistan.  OpenNet should 
+remain the Mission's main business platform, and all of 
+AID's business requirements should be met through OpenNet 
+in order to achieve the critical goal of a single, 
+effective, and comprehensive communication network to 
+plan, assess, inform, and execute Mission policies and 
+programs.  We need engineering assistance to ensure that 
+an AIDNET to OpenNet migration will not disrupt USAID's 
+critical mission. 
+ 
+We Succeed Together 
+=================== 
+¶2. We are moving forward locally to make broader and 
+better use of existing tools such as Intelink and uGov 
+email but we need the Department's assistance on these 
+issues to meet the President's objectives in Afghanistan; 
+State and USAID need to be in lockstep on one network. 
+We have discussed this initiative with USAID Afghanistan. 
+We ask for Department (including USAID) leadership's 
+active support both on resources and personnel to realize 
+this goal.

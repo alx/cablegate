@@ -1,0 +1,118 @@
+08STATE71695
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Thu Jul 03 00:00:00 +0200 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHC #1695 1851459
+ZNR UUUUU ZZH
+R 031503Z JUL 08
+FM SECSTATE WASHDC
+TO RUEHRL/AMEMBASSY BERLIN 0000
+INFO RHMCSUU/FBI WASHINGTON DC 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 071695 
+ 
+SIPDIS 
+BERLIN FOR SHANE PETERSEN 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC GM
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON DISTRIBUTION AGREEMENT (DA) 2592-05 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post's assistance in conducting 
+a post-license check on distribution agreement (DA) 2592-05 
+for the export of defense services and technical data related 
+to Application Specific Integrated Circuits (ASICs) to 
+multiple foreign end users via Litef GmbH in Germany.  Post 
+is requested to complete this Blue Lantern check within 45 
+days.  Lack of response to a Blue Lantern check will affect 
+pending and future licenses involving parties to this license. 
+ 
+¶3. Reason for request:  Concern that Litef GmbH, foreign 
+signatory located in Germany, may be exceeding the scope of 
+an agreement with U.S. applicant NXP Semiconductors USA, 
+Inc., by selling ASICs to unauthorized end users. 
+ 
+¶4. ACTION: Embassy is requested to make inquiries with 
+appropriate Litef officials to determine if the company is 
+following the terms of the agreement authorizing the sale and 
+distribution of Application Specific Integrated Circuits 
+(ASICs) to approved end users.  Department requests that 
+Embassy contact Litef in order to assess its compliance with 
+the terms of the agreement and obtain answers to the 
+following questions: 
+ 
+- Can Litef provide an annual sales report (with a list of 
+all end users) covering each year since the DA was approved 
+in 2005? 
+ 
+- Are sales limited to the governments of the countries in 
+the distribution territory? Approved end users include only 
+the Ministries of Defense of the following countries: 
+Australia, Bahrain, Belgium, Brazil, Brunei, Canada, Chile, 
+Columbia, Denmark, Ecuador, Finland, France, Germany, Greece, 
+Israel, Italy, Kuwait, Malaysia, Mexico, Netherlands, New 
+Zealand, Norway, Oman, Peru, Philippines, Poland, Qatar, 
+Saudi Arabia, Singapore, South Korea, Spain, Switzerland, 
+Thailand, Turkey, UAE, and the United Kingdom. 
+ 
+- Can Litef verify that no items have been exported to 
+Russia, Venezuela, or Indonesia? 
+ 
+- Is Litef performing any repair work for the end users? 
+ 
+- Are the ASICs or other United States Munitions List (USML) 
+items stored in a dedicated portion of the warehouse (and 
+kept separate from non-USML items)? 
+ 
+END ACTION. 
+ 
+ 
+¶5. Details of license application: 
+ 
+DTC Case: DA 2592-05 
+ 
+COMMODITY: 
+ 
+Technical data and hardware in support of Application 
+Specific Integrated Circuits (ASICs) 
+ 
+ 
+SELLER: 
+ 
+NXP Semiconductors USA, Inc 
+1109 McKay Drive 
+San Jose, CA 95131 
+ 
+FOREIGN PURCHASER: 
+ 
+Litef GmbH 
+Lorracher Str. 18 
+79115 Freiburg 
+Germany 
+ 
+ 
+¶6. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  PM/DTCC can fax documentation to post upon 
+request.  POC is Tim Watkins, Phone: 202-663-2814; Email: 
+WatkinsTR@state.gov; SIPRNET: WatkinsTR@state.sgov.gov.  The 
+Blue Lantern Guidebook (ref) is available as a PDF file in 
+the Bunche Library's E-Book Collection on the DOS Intranet: 
+http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶7. Department is grateful for post's assistance in this 
+matter. 
+RICE

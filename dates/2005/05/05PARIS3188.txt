@@ -1,0 +1,587 @@
+05PARIS3188
+FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR TWO
+Wed May 11 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+111336Z May 05UNCLAS SECTION 01 OF 07 PARIS 003188 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR); 
+EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR TWO 
+PRINCIPAL CANDIDATES AND ONE ALTERNATE FOR ITT - U.S. 
+POLITICAL AND SOCIAL ISSUES; INTERNATIONAL RELATIONS. 
+ 
+REF: 
+ 
+POST WOULD LIKE TO NOMINATE TWO PRINCIPAL CANDIDATES FOR 
+SUBJECT PROGRAM: MR. MOHAMED-ALI MOSTFA (PENDING)); MR. 
+GILLES POLLET. ONE ALTERNATE IS NOMINATED FOR SUBJECT: MR. 
+FREDERIC RAMEL. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 281 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - ITT U.S. Political and Social Issues; 
+International Relations 
+START MEMO PROJ-DESC: 
+To understand U.S. values and society through an approach of 
+the U.S. political system, U.S. policy challenges formulation, 
+local government and leadership; including social and cultural 
+challenges, integration and intercultural dialogue, and the 
+U.S. welfare system. 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individuals Traveling Together 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 3 
+RANK-ORDER: 8 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: ITT 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Mohamed-Ali 
+M-NAME: 
+L-NAME: Mostfa 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Ecole Superieure de Traduction 
+M-ADDR2: et de Relations Internationales 
+M-ADDR3: 25, rue du Plat 
+M-CITY: Lyon 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 69002 
+M-ZIP: 
+M-PHONE: + (33) 4.72.32.50.40 
+M-FAX: + (33) 4.72.32.50.39 
+M-EMAIL: amostfa@univ-catholyon.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 12/21/1960 
+MAR-STAT: M 
+BIRTH-CITY: Tetouan 
+BIRTH-CNTRY: Morocco 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Professor of English Studies, Catholic University of Lyon, 
+since 2000 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Vice-President of COMORA (association for the integration of 
+Moroccan immigrants in French Society), since 2001 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1993-2000 - Assistant Professor, University of Lyon III 
+1990-1993 - Intercultural Social Mediator, City of Saint-Fons 
+1988-1990 - High School Teacher 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Morocco, multiple travels to visit family 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1993 - Ph.D. in English Studies, University of Lyon II 
+1988 - Professional Degree of Intercultural Mediator, ISM 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+2004 - "Islam and the relation between man and nature" 
+Various dates - multiple articles on British literature 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+Muslim dietary 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 5 
+ENGL-SPEAK: 5 
+ENGL-COMP: 5 
+START OTHER-LANGS: 
+OTHER-LANG: Arabic 
+OTHER-LANG-ID: AR 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+The nominee's participation in the IV Program would lead to a 
+more positive perception of the various facets of the U.S. in 
+the ESTRI community. 
+Given his leadership role in the local Arab community, 
+Mostfa's participation in the IV Program would facilitate a 
+less negative opinion of American policies among Arabs in the 
+Rhone-Alpes region, home to one of France's largest Arab 
+communities, a community which is vigorously critical of U.S. 
+policies regarding the Middle-East crisis and the war in Iraq. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Policy Formulation: Executive, Legislative and Judicial system 
+International Relations: Department of State, USAID, think- 
+tanks 
+Civil Society: Academic institutions (U.S.-U.K. comparative 
+politics), American studies professors (U.S./U.K.), social 
+institutions, churches, mosques, interfaith groups, NGOs 
+Ethnicity: Minority groups (particularly Muslim) 
+Cultural Affairs: cultural institutions, libraries, 
+international exchange promotion institutions 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Alain Beullard 
+START MEMO NOMINATING-JUSTIFICATION: 
+Professor Mostfa is a mid-career scholar of English Studies 
+who is moving into American studies. Until now, he has been a 
+pure British Studies scholar who has had no exposure to U.S. 
+values, civilization, and policies, not even through a brief 
+tourist visit. This lack of exposure is detrimental to his new 
+responsibilities. Beginning in January 2005, he will be in 
+charge of developing and teaching a 45-hour course each year 
+on "political and cultural challenges in the U.S., Australia 
+and Canada." His Dean also plans to assign to him the 
+development and teaching of a course on NGOs that carry out 
+international operations such as Handicap International, World 
+Wildlife Fund, and Amnesty International. Born in Morocco and 
+still very attached to his ethnic origins, Mostfa is an 
+excellent example of an immigrant's successful integration 
+into French academia. In 1990, he was the first intercultural 
+mediator appointed by the French government, and worked for 
+four years interfacing between the Arab community and the 
+French authorities (police, justice, social services and 
+others). Currently, he is the vice-president of COMARA, an 
+association of upper-educated Moroccan expatriates that 
+facilitate intercultural dialogue. 
+Mostfa is expected to pursue his academic career at the 
+Catholic University of Lyon, and particularly at its 
+International Relations and Translators/Interpreters School 
+(ESTRI), which currently consists of about 400 students who 
+will work in international relations, NGOs, public services 
+and international organizations. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Lyon, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 565 
+PERSON-ID: 464 
+BIRTH-CNTRY-ID: MO 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Gilles 
+M-NAME: 
+L-NAME: Pollet 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: IEP de Lyon 
+M-ADDR2: 14, avenue Berthelot 
+M-ADDR3: 
+M-CITY: Lyon 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 69365 cedex 07 
+M-ZIP: 
+M-PHONE: + (33) 4.37.28.38.73 
+M-FAX: + (33) 4.37.28.38.01 
+M-EMAIL: gilles.pollet@univ-lyon2.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 12/18/1960 
+MAR-STAT: M 
+BIRTH-CITY: Lyon 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Director of the Institute of Political Science of Lyon, since 
+2004 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Professor of Political Science (comparative public policies), 
+since 1999 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1997-1999 - Professor of Political Science, University of Lyon 
+III 
+1990-1997 - Assistant Professor, Institute of Political 
+Science of Grenoble 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1996 - Highest Academic Degree in Political Science 
+(aggregation), national rank: 4th 
+1994 - Research Director, University of Grenoble II 
+1990 - Ph.D. in contemporary history, University of Lyon II 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Member of the National Association of Political Science 
+Scholars and Researchers 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+2003 - "Governing Cities in Europe" 
+2003 - "Government Sciences" 
+1999 - "Elites and Political Powers" 
++ numerous articles in various publications 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 2 
+ENGL-SPEAK: 2 
+ENGL-COMP: 2 
+START MEMO NOM-POST-OBJ: 
+We really do believe that he would be an excellent candidate 
+and that the USG stands to gain a lot from having him 
+participate. As the new director of IEP Lyon (one of the 
+largest and most selective political science institutes in 
+France), he is in constant contact with IEP Lyon's 1000 
+students and 200 faculty members.  As such, he shares his 
+views and perceptions on a variety of subjects -- including 
+the United States -- with them, and an IV program would be a 
+wonderful opportunity for us to influence those perceptions. 
+IEP Lyon is in the process of opening up its curriculum to 
+more international issues, and has just created a 
+professorship devoted to American Studies and Politics. 
+Although Pollet will not be the professor in question, he 
+supervises the position and is responsible for directing and 
+influencing the increased international outlook of the IEP. 
+In terms of the education of hundreds of French students, it 
+would be of great benefit to us to have someone in that 
+position who has a positive view of the United States. 
+Pollet, by the way, is not "only" the director of IEP Lyon -- 
+he also teaches comparative politics there at the doctoral 
+level.  Again, participating in the IV program would benefit 
+us by ensuring that what he is teaching about American 
+politics is correct and positive. 
+In addition to his duties at IEP Lyon, Pollet also serves as 
+an associate researcher with numerous scientific institutions 
+and is a productive writer on a number of topics -- as such, 
+it would be of great benefit to us if his perceptions of the 
+United States were accurate, informed, and (of course) 
+positive.  The IV program would be an excellent way of 
+arriving at that goal. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Pollet's main fields of interest would include the following: 
+Government: The legislative and the federal government; policy 
+formulation; citizen' participation 
+Analysis of public policies: federal and state agencies, think- 
+tanks (Rand, Heritage Foundation, Pew research), urban 
+development institutions 
+Welfare system: Medicare, pension funds, social work 
+institutions 
+Local governments and leadership: Lobbying organizations, 
+state governments, media, community groups 
+American Studies Association 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Alain Beullard 
+START MEMO NOMINATING-JUSTIFICATION: 
+Gilles Pollet is a dynamic political science scholar who 
+recently was elected director of the Institute of Political 
+Science of Lyon, one of the largest and most selective 
+political science institutes in France. Throughout his career 
+and in parallel with his teaching activities, Pollet has had 
+an impressive list of concurrent positions. In 2001, he was 
+elected President of the National Association of Political 
+Science Scholars and Researchers. In 2003, the Ministry of 
+Research and New Technologies tasked Pollet with the 
+restructuring of upper education in the field of social 
+sciences. In addition, Pollet continues to teach and is the 
+director of the IEP's doctoral program on Public Policies and 
+Comparative Systems of Government. He is also an associate 
+researcher with numerous scientific institutions. 
+Pollet is likely to pursue his academic career for another 
+twenty years and to remain a very productive writer. In view 
+of the crisis that affects the French retirement system, his 
+expertise in comparative retirement systems should make him an 
+increasingly sought-after expert. 
+Pollet's knowledge of the U.S. is extensive but purely 
+theoretical. His participation in the IVP would have a 
+positive impact on his own perception of U.S. values, 
+democracy, social environment and system of government. 
+Because of his involvement in a wide variety of activities, 
+Pollet would be able to share any insights gained during the 
+IVP not only with the 1,000 students and 200 scholars of the 
+IEP, but also with a large number of influential circles. 
+Moreover, the IEP is largely opening its curriculum towards 
+international relations, and is, for the first time creating a 
+professor position that is exclusively devoted to American 
+studies. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Lyon, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 566 
+PERSON-ID: 465 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Frederic 
+M-NAME: 
+L-NAME: Ramel 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: No 
+M-ADDR1: Universite Jean Moulin 
+M-ADDR2: CLESID 
+M-ADDR3: 15, quai Claude Bernard 
+M-CITY: Lyon 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 69003 
+M-ZIP: 
+M-PHONE: + (33) 4.78.78.70.59 
+M-FAX: + (33) 4.78.78.75.25 
+M-EMAIL: framel@free.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 07/07/1972 
+MAR-STAT: M 
+BIRTH-CITY: Lyon 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Assistant Professor of Political Science, since 2001 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Researcher, Lyon Center for International Security and Defense 
+Studies  (CLESID), since 2001 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1999-2001 - Post-doc research program at the Raoul-Dandurand 
+School of strategic and diplomatic studies, University of 
+Quebec 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Saint-Louis, MO - 1979, one week high school exchange 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1999 - Ph.D. of Political Sciences, University of Lyon II 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+2003 - "Human Security: a rupture in Occidental strategic 
+cultures?" 
+2002 - "Philosophy of International Relations" 
+2002 - "Origin and Goals of the Ideal City: the concept of war 
+in Greek political philosophy" 
+ongoing - articles and essays in "Le Monde Diplomatique", 
+"Genesis", "Presses de Sciences Po", etc 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 2 
+ENGL-SPEAK: 2 
+ENGL-COMP: 2 
+START MEMO NOM-POST-OBJ: 
+Ramel's main field of specialization (international relations, 
+conflict ethics, and war sociology) ties in to various facets 
+of the MPP. The ultimate goal of this International Visitor's 
+program would be to help reduce the perceptual differences 
+between French and American public opinions about security, 
+warfare, and regional stability. A first objective would be to 
+highlight the U.S.' attachment to moral values and expose the 
+visitor to the work conducted by ethics development 
+organizations, including in the American military. A second 
+objective would be to facilitate the establishment of a 
+transatlantic dialogue among ethics experts and political 
+philosophers. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+International Relations: Department of State, Department of 
+Defense, USAID, defense and security think tanks, Center for 
+Contemporary Conflict, Center for the Study of Professional 
+Military Ethics, etc. 
+Civil society: Academic institutions (Tufts' Humanitarianism 
+and War project, CUNY's Graduate Center, Ralph Bunche 
+Institute, Carnegie Endowment for Intl. Peace, etc.), pacifist 
+organizations, NGOs with foreign operations (InterAction, 
+CARE, Direct Relief Intl., etc.) American churches, etc. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Alain Beullard 
+START MEMO NOMINATING-JUSTIFICATION: 
+Frederic Ramel is a young assistant professor of political 
+science who specializes his research and teaching on 
+contemporary conflicts and their impact on public opinions and 
+international alliances. Currently working on the consequences 
+of 9/11 and the war in Iraq, he is focusing his research on 
+how diverging cultural perceptions of the enemy can lead to 
+the fragmentation of an international order or an alliance. 
+Ramel has already been a productive author. His courses reach 
+an annual audience of some 2,000 students in Lyon-III 
+University's School of Law and Political Science. 
+Expected to teach for another 35 years or so, Ramel has the 
+profile to follow a long-term academic career, eventually 
+reaching the ultimate rank of director of research. In 
+parallel with his teaching responsibilities, he will probably 
+continue to conduct research for the Lyon-based Center for 
+Defense and Security Studies --one of the rare French think 
+tanks exclusively devoted to security issues. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Lyon, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 567 
+PERSON-ID: 466 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

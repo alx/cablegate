@@ -1,0 +1,82 @@
+07HONGKONG2226
+EXTRANCHECK: POST SHIPMENT VERIFICATION: PEMSTAR SINGAPORE
+Mon Aug 27 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #2226 2390328
+ZNR UUUUU ZZH
+R 270328Z AUG 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 2723
+RHMFIUU/HQ BICE WASHINGTON DC
+RUEHGP/AMEMBASSY SINGAPORE 3639UNCLAS HONG KONG 002226 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MNICKSON-DORSEY/LLAUCIUS 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+SINGAPORE FOR FCS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP ETRD ETTC HK
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: PEMSTAR SINGAPORE 
+PTE LTD 
+ 
+REF: A) USDOC 03972 B) D353774 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Regional Export Control Officer Philip Ankel (ECO) 
+conducted a post shipment-verification (PSV) at Benchmark 
+Electronics Manufacturing Singapore Pte. Ltd., 2 Woodlands Sector 1, 
+NO. 01-21, Woodlands Spectrum, Singapore (Benchmark).  This company is 
+the successor to the former Pemstar Singapore Pte. Ltd. referenced 
+in reftel A.  The item in question is a single channel noncontact 
+measuring system exported on or about May 30, 2006 and valued at USD 
+3,714.  The item is classified under Export Control Classification 
+Number (ECCN) 2B006 and controlled for national security (NS) and 
+nuclear nonproliferation (NP) reasons.  The exporter was Lion 
+Precision of St. Paul, Minnesota. 
+ 
+¶3.  According to the Singapore companies registry, Benchmark has 
+been in existence since 1998 (although its name was changed to 
+Benchmark Electronics Manufacturing Singapore Pte. Ltd. as of March 
+23, 2007).  Its paid-up share capital is the Singapore equivalent of 
+USD 600,000.  U.S. nationals Cary Tze Fu and Gayla Joyce Delly as 
+well as Singapore nationals, Ong Teik Lin and Lun Chee Leong are 
+listed as directors.  The sole shareholder is listed as Benchmark 
+Electronics Manufacturing, Inc. of Rochester, Minnesota. 
+ 
+¶4.  On June 20, 2007, the ECO visited the company and met with Mr. 
+Poh Cheng Chuan, Materials Director and Mr. Eric Ee, Senior 
+Engineer, Mechanical.  Mr. Poh Cheng Chuan stated that the company 
+designs and manufactures semiconductor equipment including data 
+storage equipment.  Its customers include Sun Micro. 
+ 
+¶5.  Mr. Poh Cheng Chuan showed the ECO the applicable item (with 
+serial number 0602 7601).  He stated that it is being used for 
+measuring the motion of air bearing spindles as part of the 
+company's design of multi-disk writers.  Mr. Poh Cheng Chuan stated 
+that Benchmark's supplier, Scigate Automation Pte, had not informed 
+Benchmark of the applicable license conditions. He further stated 
+that Scigate is not a regular supplier for Benchmark.  ECO provided 
+Benchmark with the applicable license conditions as well as 
+additional information on U.S. export/reexport controls. 
+ 
+¶6.  At the time visited, Benchmark appeared to be a suitable 
+recipient of the commodities shipped since Benchmark cooperated with 
+the PSV, provided ECO with access to the item and operates a line of 
+business consistent with the item's use.  However, in light of the 
+fact that Benchmark had not been informed of the applicable license 
+conditions as required by BIS license D353774, the ECO recommends 
+that this PSV be classified as Unfavorable.

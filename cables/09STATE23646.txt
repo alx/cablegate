@@ -1,0 +1,161 @@
+09STATE23646
+CORRECTION TO STATE 12945: U.S. AND  RUSSIAN COMM
+Thu Mar 12 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Secretary of State
+VZCZCXRO8020
+RR RUEHAG RUEHAT RUEHBL RUEHDA RUEHDF RUEHED RUEHFL RUEHHT RUEHIK
+RUEHKW RUEHLA RUEHLN RUEHLZ RUEHMRE RUEHNP RUEHPD RUEHPOD RUEHROV
+RUEHSK RUEHSR RUEHVK RUEHYG
+DE RUEHC #3646/01 0711953
+ZNR UUUUU ZZH
+R 121935Z MAR 09
+FM SECSTATE WASHDC
+TO RUEHMO/AMEMBASSY MOSCOW 8421
+INFO ALL EUROPE COLLECTIVE
+RHEHNSC/NSC WASHINGTON DC 2788
+RUEKJCS/SECDEF WASHINGTON DC
+RUEAIIA/CIA WASHINGTON DC 4366UNCLAS SECTION 01 OF 02 STATE 023646 
+ 
+SIPDIS 
+SENSITIVE BUT UNCLASSIFIED 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+E.O. 12958: N/A 
+TAGS: PARM PREL RS TSPA
+SUBJECT: CORRECTION TO STATE 12945: U.S. AND  RUSSIAN COMM 
+SATELLITE COLLISION 
+ 
+REF: STATE 12945 (DTG: 120535Z FEB 09 
+ 
+¶1. (SBU) This cable corrects and replaces reftel, which 
+should be destroyed.  Embassy Moscow, please note that the 
+action request below is no longer valid. 
+ 
+¶2. (SBU) THIS IS AN ACTION REQUEST.  See paragraph 3 below. 
+ 
+¶3. (SBU) BACKGROUND:  At approximately 11:55 a.m. (EST) on 
+February 10, there was a collision between an active 
+privately-owned and -operated U.S. commercial Iridium-33 
+communications satellite and a "dead" (i.e., inactive since 
+1995) Russian military communications satellite (Cosmos 2251) 
+in low Earth orbit. 
+ 
+(SBU) There have been some limited telephone disruptions in 
+the Middle East and parts of South Asia due to the loss of 
+the Iridium-33 satellite.  The Cosmos 2251 was a Russian 
+communications satellite that was launched in June 1993 and 
+assessed as inactive since 1995.  U.S. Strategic Command 
+(USSTRATCOM) is investigating the collision, but detailed 
+answers may not be forthcoming for days. 
+ 
+(SBU) News reports of the collision are already out.  The 
+U.S. Air Force's Space Surveillance Network is tracking 505 
+pieces from Cosmos and 194 pieces from Iridium in two 
+separate debris fields.  The number of pieces of debris 
+detected and tracked will increase as the debris clouds 
+spread with time.  The debris is a hazard for other Iridium 
+satellites; initial analysis indicates there is little risk 
+to the International Space Station.  Potential risks to 
+non-U.S. space-based assets and upcoming manned and unmanned 
+launches are unknown at this time.  Due to the small mass of 
+the debris pieces from both spacecraft, there is an extremely 
+low risk of debris hazards to life and property on the 
+Earth's surface. 
+ 
+(SBU) According to NASA, Russian debris experts have already 
+asked NASA experts about newly-identified debris fields.  In 
+a public statement, Nicholas Johnson, NASA's chief scientist 
+for orbital debris at the Johnson Space Center confirmed the 
+collision occurred at an altitude of 790 kilometers (490 
+miles) over northern Siberia, resulting in large number of 
+debris from both objects.  The U.S. will also notify other 
+leading spacefaring nations about the collision through 
+diplomatic channels (SEPTEL) and public affairs guidance will 
+be made available to all overseas 
+Posts. 
+ 
+(SBU) The U.S. follows safe practices for the operation and 
+disposal of spacecraft, upon the end of their useful service 
+life, and to mitigate debris that may threaten other 
+spacecraft, including manned flight. The U.S. encourages 
+other nations to follow the established principles 
+outlined in existing treaties and international agreements 
+for the peaceful use of outer space. This includes the use of 
+best practices, and transparency and confidence building 
+measures, which should be conducted on a bilateral and 
+multilateral basis, as appropriate. 
+ 
+¶4. (SBU) GUIDANCE REQUEST: The talking points in paragraph 4 
+may be used by appropriate senior U.S. officials with 
+appropriate Russian government interlocutors.  Washington 
+will transmit public affairs guidance for use on an 'if 
+asked' basis SEPTEL. 
+ 
+¶5. (SBU) BEGIN TALKING POINTS: 
+ 
+- U.S. Strategic Command informed the Department of State 
+that there was a collision on February 10 involving an active 
+U.S. commercial Iridium-33 satellite and an inactive Russian 
+satellite (Cosmos 2251) in low Earth orbit. 
+ 
+- U.S. Strategic Command is currently investigating the 
+events leading up to the collision, and details may not be 
+forthcoming for many days while the analysis of the event 
+continues. 
+ 
+- As of late yesterday, the U.S. Air Force's Space 
+Surveillance Network was tracking 505 pieces from Cosmos and 
+194 pieces from Iridium in two separate debris fields. 
+ 
+ 
+STATE 00023646  002 OF 002 
+ 
+ 
+- There is little risk to the International Space Station due 
+to orbiting debris from the collision.  However, DoD and NASA 
+are conducting further analyses on the risks due to the 
+debris. 
+ 
+- The U.S. believes this is an opportunity to pursue 
+bilateral transparency and confidence-building measures 
+related to our respective military space 
+activities/operations. 
+ 
+- Since space is becoming an increasingly congested 
+environment, heightened space situational awareness as well 
+as international cooperation between governments and industry 
+is critical in the future. 
+ 
+- The United States welcomes any information on this event 
+that Russia can share to help identify the causes of the 
+collision as a first step towards ensuring we can prevent 
+similar incidents in the future. 
+ 
+Embassy may additionally draw upon, as appropriate: 
+ 
+- U.S. Strategic Command, regularly notifies users, for 
+example, foreign governments and commercial operators, when 
+its tracking and analysis identifies a safety-of-flight issue. 
+ 
+-- Such analyses are primarily focused on ensuring safety of 
+manned flight and national security missions. 
+ 
+- The U.S. takes its responsibility in the space domain very 
+seriously; we have been, and continue to be, proactive in 
+identifying potential hazards and taking steps to preserve 
+safety of flight in this complex 
+environment. 
+ 
+- When the potential for a close approach is identified, 
+experts analyze options for avoiding an impact, including the 
+possibility of maneuvering a satellite if necessary and 
+possible.  The decision to maneuver always rests with the 
+satellite operator. 
+ 
+- Tracking data on the debris from this collision will be 
+included in the Joint Space Operations Center's Space 
+Catalogue - "http://www.Space-track.org" - an unclassified 
+U.S. Air Force internet site, within approximately 48-72 
+hours after the collision. 
+CLINTON

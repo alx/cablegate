@@ -1,0 +1,132 @@
+05PRETORIA389
+REGULATOR HOLDS HEARINGS FOR PROPOSED VANS
+Fri Jan 28 00:00:00 +0100 2005
+UNCLASSIFIED
+Embassy Pretoria
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 02 PRETORIA 000389 
+ 
+SIPDIS 
+ 
+DEPT FOR AF/EPS AND AF/S/TCRAIG AND KGAITHER 
+COMMERCE FOR 4510/ITA/IEP/ANESA/OA/JDIEMOND 
+TREASURY FOR GCHRISTOPULOS, LSTURM, AND AJEWEL 
+DEPT PASS USTR FOR PCOLEMAN, WJACKSON AND CHAMILTON 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD ECON EINT SF
+SUBJECT:  REGULATOR HOLDS HEARINGS FOR PROPOSED VANS 
+REGULATIONS 
+ 
+REFTEL:   04 PRETORIA 5555 
+ 
+¶1. SUMMARY.  Telecommunications industry stakeholders 
+attended hearings at the Independent Communications 
+Authority of South Africa (ICASA) to comment on proposed 
+VANS regulations.  Industry remarks addressed recurring 
+themes such as: what is a value-added network service 
+(VANS); should the VANS application fee be raised from 
+R5,000 to R30,000; can VANS self-provide their own 
+facilities; how would liberalization of the VANS industry 
+affect spectrum availability, numbering schemes and 
+interconnection agreements; and should ICASA stipulate a 30 
+percent black economic empowerment shareholding requirement. 
+END SUMMARY. 
+ 
+¶2.  Telecommunications industry stakeholders attended 
+hearings January 19-21 at the Independent Communications 
+Authority of South Africa (ICASA) to comment on proposed 
+VANS regulations. 
+ 
+¶3.  Industry associations representing small business argued 
+that the proposed six-fold increase of the application fee 
+for a VANS license from R5,000 to R30,000 is exorbitant and 
+the regulator should clarify who will be required to obtain 
+a VANS license.  They argued that theoretically a school 
+offering email services to its students might be required to 
+apply for a license.  More likely, small businesses such as 
+community internet service providers or internet hosting 
+services would be most egregiously affected by the costlier 
+fee.  Telkom also questioned the need for higher application 
+fees, recalling that ICASA's rationale for the fees is to 
+cover administrative costs incurred with the adjudication of 
+the application.  ICASA agreed to review the proposed 
+application fee. 
+ 
+¶4.  Large incumbent operators such as Telkom, Vodacom, and 
+Cell C, told the regulator that existing legislation 
+prevents VANS from being able to provide their own 
+facilities.  Telkom's Executive of Regulatory and Public 
+Policy Gabrielle Celli said, "The standing telecoms policy 
+of managed liberalization cannot be reconciled with the 
+enhancing of VANS licenses to the extent they resemble fixed- 
+line telephone network licenses."  Similarly, Vodacom Head 
+of Market Regulations Margo Stoeder said, "It's not about 
+what is technically possible, but what is authorized by the 
+current act."  ICASA Councilor Paris Mashile responded that 
+ICASA must act in the public interest by encouraging 
+competition, innovation, and affordability.  He continued 
+that if technology breakthroughs were not allowed in the 
+marketplace then President Mbeki's mandate to reduce the 
+cost of doing business in South Africa would never be 
+realized.  ICASA Senior Manager for Licensing Enforcement 
+and Numbering Administration Andries Matthysen reiterated 
+that ICASA is leaning towards a liberal interpretation of 
+the Ministerial Determinations which would free VANS from 
+any obligation to acquire their facilities from Telkom and 
+allow them to self-provide. 
+ 
+¶5.  Transtel Manager for Government and Regulatory Affairs 
+Phatang Nkhereanye said that the Ministerial Determinations 
+allowed VANS to self-provide.  He said this would create two 
+types of VANS:  infrastructure-based VANS and services-based 
+VANS.  Nkhereanye argued that ICASA should have two types of 
+licenses corresponding to these VANS categories.  He 
+cautioned that the expected surge in VANS applications would 
+consume all available spectrum and called on ICASA to 
+conduct a spectrum audit and enforce a use-it-or-lose-it 
+policy on unused spectrum.  He argued that in this context, 
+incumbent operators should receive "preferred treatment." 
+Nkhereanye said this was reasonable given that the SNO must 
+pay R300 million for its license and spectrum whereas a VAN 
+may acquire its license and the same amount of spectrum for 
+just R30,000 (under the proposed regulations). Matthysen 
+told Econoff that ICASA has received nearly 200 applications 
+for VANS licenses since September 2004 and that most of them 
+were from spectrum-consuming infrastructure VANS.  He said 
+that the current available spectrum would support only a 
+small number of those applicants. 
+ 
+¶6.  Several stakeholders called on ICASA to hold off on 
+implementing the Minister's Determinations until the 
+Convergence Bill is released in mid-February.  They said 
+that the Bill will clarify licensing structures which could 
+render ICASA's proposed VANS regulations obsolete.  They 
+said that this would also allow ICASA time to thoroughly 
+conduct a spectrum audit and evaluate current numbering 
+schemes and interconnection agreements.  Internet Solutions 
+Senior Regulatory Manager Siyabonga Madyibi warned that in 
+the absence of proper interconnection guidelines either the 
+status quo will be maintained or VANS providers will develop 
+an alternative national network outside of the existing 
+operators' networks.  ICASA councilors appeared reluctant to 
+delay the February 1 implementation of the Minister's 
+Determinations, saying that it would be akin to the 
+Telecommunications Act declaring an end to Telkom's monopoly 
+effective May 7, 2002. 
+ 
+¶7.  There was almost universal objection to ICASA's attempt 
+to require a 30 percent black shareholding for VANS 
+applicants.  Madyibi said it would be discriminatory for 
+ICASA to single out VANS providers for specific empowerment 
+targets that are not required of other license-holders.  Ant 
+Brooks, Chairman of the Internet Service Providers 
+Association's (ISPA) regulatory committee, said that the 
+requirement is not in line with empowerment charter targets 
+agreed to by the information communication and technology 
+(ICT) industry stakeholders, which include VANS.  According 
+to the draft ICT Charter, industry members have until 2010 
+to become 30 percent black-owned whereas ICASA's proposed 
+regulations require VANS to become 30 percent black-owned by 
+September 2005. 
+ 
+MILOVANOVIC

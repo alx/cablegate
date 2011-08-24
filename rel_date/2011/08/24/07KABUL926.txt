@@ -1,0 +1,236 @@
+07KABUL926
+AFTEL'S PUZZLING EXPANSION PLANS
+Tue Mar 20 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Kabul
+VZCZCXRO0185
+RR RUEHDBU RUEHIK RUEHYG
+DE RUEHBUL #0926/01 0791313
+ZNR UUUUU ZZH
+R 201313Z MAR 07
+FM AMEMBASSY KABUL
+TO RUEHC/SECSTATE WASHDC 6949
+INFO RUCNAFG/AFGHANISTAN COLLECTIVE
+RUEKJCS/OSD WASHINGTON DC
+RUEKJCS/JOINT STAFF WASHINGTON DC
+RUEKJCS/SECDEF WASHINGTON DC
+RHMFIUU/HQ USCENTCOM MACDILL AFB FL
+RHEHAAA/NATIONAL SECURITY COUNCIL WASHINGTON DC
+RUEAIIA/CIA WASHINGTON DC
+RHEFDIA/DIA WASHINGTON DC
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DCUNCLAS SECTION 01 OF 03 KABUL 000926 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPT FOR SCA/FO, SCA/RA, AND SCA/A 
+DEPT FOR EB/CIP 
+NSC FOR AHARRIMAN 
+CENTCOM FOR CG CFC-A 
+OSD FOR BRZEZINSKI 
+ 
+E.O. 12958 N/A 
+TAGS: ECPS EFIN EINV ECON KPRV PGOV AF
+SUBJECT: AFTEL'S PUZZLING EXPANSION PLANS 
+ 
+ 
+------- 
+SUMMARY 
+------- 
+ 
+¶1. (SBU) State-owned Afghan Telecom plans to quadruple the number of 
+lines the company has by an aggressive build-out of wireless and 
+copper networks, funded by the GoA and donors.  The wireless plans 
+will put AfTel into competition with mobile service providers, which 
+could bring charges of anti-competitive behavior because of AfTel's 
+government funding.  The copper network plans appear to be 
+over-sized for the market of business customers for digital 
+services.  The expansion is driven by a political imperative to 
+extend service to more of the population and a desire to add quick 
+value for privatization.  To duplicate Afghanistan's remarkable 
+success in wireless telecom, the GoA would be better served focusing 
+on a quick sale to get the state player out of the way of private 
+investment.  The Embassy intends to start a dialogue with the GoA on 
+its approach to privatizing AfTel.  End summary. 
+ 
+ 
+------------------------------ 
+SUCCESS WHERE GOVERNMENT ISN'T 
+------------------------------ 
+ 
+¶2. (SBU) Because it has attracted over $700 million in foreign 
+direct investment, the telecommunications sector has been 
+Afghanistan's biggest economic success story: it has grown from 
+85,000 total subscribers (including 35,000 satellite phones) in 2002 
+to over 2.4 million now and has expanded coverage from a handful of 
+cities to all the provinces in the country.  Nearly all of this 
+progress has happened on the wireless side, though, and it has 
+happened as a result of the GoA getting out of the way.  The same 
+has not happened on the fixed-line side, in part because a 
+phlegmatic state-owned enterprise still has a monopoly and responds 
+more to political direction than to market forces. 
+ 
+----------------------------------- 
+DRAMATIC PLANS--DO THEY MAKE SENSE? 
+----------------------------------- 
+ 
+¶3. (SBU) In a recent meeting at Afghan Telecom, senior planning and 
+technical staff briefed Econoff and Afghanistan Reconstruction Group 
+(ARG) advisor on the company's plans for expanding its network. 
+These plans are, to say the least, ambitious: 150,000 new copper 
+lines, completion of facilities for 123,000 new CDMA (wireless) 
+lines, and an optical fiber ring around the country's ring road. 
+When completed, these plans would roughly quadruple the company's 
+capacity.  The total cost of the copper and CDMA programs will be 
+$65 million, $17 million of which has been spent (mostly on CDMA 
+equipment).  The CDMA project is partly funded by India ($13 
+million); the $40 million copper project is to be partly funded by 
+the GoA ($30 million), with the balance expected to be provided by 
+other donors.  The company has recently awarded a contract for the 
+partly GoA-funded $65 million optical fiber cable ring around 
+Afghanistan to Chinese equipment provider ZTE. 
+ 
+¶4. (SBU) The decision to expand the AfTel network so dramatically is 
+somewhat puzzling from a business standpoint, given that AfTel's 
+largest problem at the moment is not the size of its network but its 
+ability to collect from its customers.  AfTel described its 
+collection rate as about 30 percent, and it is uncertain how large 
+its subscriber base is.  (NOTE: An advisor to AfTel has said 30 
+percent is a wild guess--probably on the high side--and that the 
+subscriber base might be something on the order of 70,000.  End 
+note.)  The company recently installed a new Afghanistan 
+Reconstruction Trust Fund (ARTF)-financed billing system for 
+post-paid customers (currently all AfTel customers are post-paid), 
+which should help with collections once it is operational.  The 
+company's recently launched CDMA service is running on a post-paid 
+basis--an approach no other mobile provider dares to take in a 
+country with no street addresses, let alone credit ratings.  AfTel 
+plans to roll out pre-paid billing later this year and to migrate 
+all of its mobile customers and most of its fixed-line customers to 
+that system. 
+ 
+ 
+------------------------ 
+ 
+KABUL 00000926  002 OF 003 
+ 
+ 
+CDMA TO COMPETE WITH GSM 
+------------------------ 
+ 
+¶5. (SBU) The CDMA system itself is something of a puzzle.  AfTel had 
+been describing this as a build-out of digital fixed-line service 
+(wireless local loop), but has recently begun to describe it as 
+including "full mobility."  Because AfTel enjoys the country's only 
+unified service license, it can offer any service it pleases, 
+including fully mobile telephony.  (The regulatory authority made a 
+specific decision in 2004 to allow full mobility service under 
+AfTel's license.)  But AfTel is receiving GoA and donor funding for 
+this and other projects, so it will be asking for trouble from the 
+GSM operators if it does begin to offer a directly competitive 
+service in areas covered by the GSM operators.  At the very least, 
+this potentially anti-competitive behavior on the part of the GoA 
+could dampen enthusiasm for further outside investment in 
+telecommunications. 
+ 
+¶6. (SBU) Meanwhile, the Afghanistan Telecommunications Regulatory 
+Authority (ATRA) has granted a number of district-level CDMA 
+licenses for local fixed service providers (LFSPs) to provide 
+wireless local loop service.  The first of these LFSPs is scheduled 
+to launch service this month in Mazar-i-Sharif, followed by a 
+roll-out in adjacent districts.  While these licenses are intended 
+to accelerate service roll-out to previously under-served rural 
+markets, in practice they may lay the foundation for real 
+competition to AfTel's fixed-line service in provincial population 
+centers. 
+ 
+ 
+---------------- 
+COPPER FOR WHOM? 
+---------------- 
+ 
+¶7. (SBU) The expansion of AfTel's copper network makes less than 
+perfect sense from a business perspective, too.  AfTel describes 
+this part of its expansion as a move to deliver digital services to 
+its current and prospective business customers.  But demand for 
+150,000 digital business lines is so far in the future that industry 
+insiders say this aspect of the expansion makes no business sense 
+now.  That said, another consideration in the deployment of more 
+copper is the scarcity of electrical power in Afghanistan, which 
+makes wireless local loop far more problematic, since electrical 
+generators have to be installed at each base station, and some 
+source of power (usually battery) has to be available with each 
+subscriber.  Installing copper lines is a way of avoiding the 
+electricity issue, since land-line technology does not require an 
+outside power source. 
+ 
+ 
+---------------------------------- 
+COMMENT: A CERTAIN POLITICAL LOGIC 
+---------------------------------- 
+ 
+¶8. (SBU) There is a certain logic to both the copper and the CDMA 
+expansions from the Ministry of Communications' perspective.  First, 
+there is a political imperative to bring public utilities to more of 
+Afghanistan's population. 
+At this critical juncture in Afghanistan's history, getting service 
+out to the provinces is a legitimate priority.  On paper, a quick 
+expansion looks like a good solution, if one ignores the economic 
+sustainability of AfTel.  AfTel has been somewhat corporatized, but 
+in reality it is still part of the MoC.  The expansion is 
+essentially a command performance by a state player that may believe 
+it is still operating in a command economy.  The key question now is 
+whether the expansion will actually address the needs of the 
+underserved portion of the populace.  To the extent that the 
+build-out does that, it will avoid direct competition with the 
+private-sector operators.  But it is difficult to judge this from 
+the plans alone; the answer will become clear as the build-out is 
+actually implemented. 
+ 
+¶9. (SBU) Second, the MoC has been promising to privatize AfTel this 
+year.  (NOTE: It has been promising, but until very recently not 
+planning, to privatize.  This year's draft strategic plan initially 
+alluded to a privatization, but set no timelines and did not include 
+privatization within its lists of goals.  In response to Embassy's 
+ 
+KABUL 00000926  003 OF 003 
+ 
+ 
+input, the plan was changed to include a target date of end 2008 for 
+privatization.  End note.)  With a small and flaccid subscriber 
+base, paltry revenues, and very modest technical progress to report 
+in recent years, AfTel is an unappetizing privatization offer.  In 
+keeping with the usual course of state telecom privatizations, the 
+GoA appears to want to pump some quick value into AfTel to ready it 
+for the market.  Thus there may also be some logic to expanding the 
+network before fixing a severe collections problem, and to entering 
+mobile competition against three (soon to be four) larger, more 
+established, and generally better funded GSM providers. 
+ 
+ 
+------------------------------------------ 
+COMMENT, CONT'D.: GET AFTEL OUT OF THE WAY 
+------------------------------------------ 
+ 
+¶10. (SBU) At least one knowledgeable insider describes AfTel 
+leadership as undecided about when and how to privatize.  As is 
+generally true for privatizations, there is disagreement among 
+technical assistance advisors as well.  Some believe a quick sale 
+will make room for private investment to happen sooner, driving 
+expansion of services and tax revenues faster than the state 
+enterprise will ever do.  Others want to maximize the value of the 
+sale to ensure serious and committed investors are running things. 
+This takes more time and investment from the state.  Both courses 
+hold their own hazards, but inertia dictates the easiest and 
+politically most palatable course: continue to run AfTel as a state 
+enterprise, try to maximize social benefit, and make the 
+privatization decision later, when things might be better.  Given 
+the sad record of much more capable and better-funded governments at 
+turning around faltering state enterprises, this easier course is 
+not likely to end well.  Thus the Embassy intends to begin a 
+substantive dialogue with the MoC on its approach to privatizing 
+AfTel.  End comment. 
+ 
+Neumann

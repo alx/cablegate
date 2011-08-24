@@ -1,0 +1,239 @@
+07MOSCOW2927
+ZHELEZNOGORSK: CLOSED CITY OPENS FOR SEARCH AND RESCUE
+Mon Jun 18 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Moscow
+VZCZCXRO8386
+PP RUEHHM RUEHLN RUEHMA RUEHPB RUEHPOD
+DE RUEHMO #2927/01 1691421
+ZNR UUUUU ZZH
+P 181421Z JUN 07
+FM AMEMBASSY MOSCOW
+TO RUEHC/SECSTATE WASHDC PRIORITY 1331
+INFO RUCPDOC/DEPT OF COMMERCE WASHDC PRIORITY
+RUEHUNV/USMISSION UNVIE VIENNA 0487
+RUEHZN/EST COLLECTIVE
+RUEHRL/AMEMBASSY BERLIN 1963UNCLAS SECTION 01 OF 03 MOSCOW 002927 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+ 
+DEPARTMENT FOR EUR/RUS (SIKORRA, GREENSTEIN), EB/CIP/MA (GIBBS), 
+OES/SAT (HODGKINS), L/NP 
+ 
+BERLIN FOR ROBERT HAGEN 
+ 
+STATE PASS TO NOAA (MEHTA) 
+STATE PASS TO NASA (BARRY) 
+ 
+E.O. 12958:  N/A 
+TAGS: TSPA TSPL ECPS KTIA RS
+SUBJECT: ZHELEZNOGORSK: CLOSED CITY OPENS FOR SEARCH AND RESCUE 
+SATELLITE DELEGATION 
+ 
+REF: A) MOSCOW 01637 
+ 
+     B) 06 MOSCOW 02785 
+ 
+¶1. (SBU) SUMMARY: Russian and American delegations met in the closed 
+city of Zheleznogorsk June 6-8 to discuss simulated and experimental 
+search-and-rescue (SAR) results from the Russian Global Navigation 
+Satellite System (GLONASS) and the U.S. GPS system as part of their 
+efforts to ensure interoperability and prepare for the 
+implementation of a global Medium-altitude Earth Orbiting Search and 
+Rescue (MEOSAR) system.  The Russians detailed their plans to begin 
+deploying GLONASS by 2009 and to have a functioning SAR system by 
+¶2017.  The Americans received a close-up look at the Reshetnev 
+satellite production facility and two GLONASS M satellites.  END 
+SUMMARY 
+ 
+COSPAS-SARSAT Working Group 
+--------------------------- 
+ 
+¶2. (SBU) From June 6-8, Russian and American scientists and 
+engineers reviewed action items for the annual GPS-GLONASS Working 
+Group on search and rescue (SAR) satellite systems and the most 
+recent simulations and experimental results.  The U.S. delegation 
+included representatives from the National Oceanic and Atmospheric 
+Administration (NOAA), the U.S. Air Force Rescue Coordination Center 
+and the National Aeronautics and Space Administration (NASA).  The 
+Russian delegation consisted of representatives of the Science and 
+Industry Corporation of Applied Mechanics (NPO PM), the Russian 
+Institute of Space Device Engineering (RIISDE) and the Federal Space 
+Agency (Roskosmos). (NOTE: NPO PM designs and builds GLONASS 
+satellites.  RIISDE is charged with design and deployment of the 
+GLONASS system, both for the global navigation aspect and the search 
+and rescue element.  Roskosmos has overall responsibility for 
+launching the satellite program, but the Ministry of Defense 
+exercises ultimate control over use of GLONASS. END NOTE) 
+ 
+¶3. (SBU) Viktor Chebotarev, Chief Design Engineer for NPO PM, 
+outlined the launch schedule for GLONASS M satellites, the model 
+which will supplement and replace the approximately 15 GLONASS 
+satellites currently in orbit.(NOTE: Official claims and media 
+reports of the number of operational GLONASS satellites vary from 10 
+to 17. END NOTE)  According to Chebotarev, three GLONASS M 
+satellites will be launched in September and three more in December, 
+bringing the total deployed--given retirement of obsolete or 
+non-functioning satellites--to 18, the minimum number for operation 
+of the global navigation system.  In 2008 Roskosmos plans three 
+launches that will bring the deployment to a minimum of 24 GLONASS 
+and/or GLONASS M satellites necessary for full configuration of the 
+system (i.e. worldwide coverage). Starting in 2009, Roskosmos will 
+have three launches of the GLONASS K satellite, a larger and more 
+powerful platform with a longer lifespan of 10 years, which 
+Chebotarev characterized as being in the "final design 
+documentation" stage.  By 2017, the GOR plans that the GLONASS 
+system will consist entirely of 24 or more GLONASS K satellites with 
+SAR capabilities.  The head of the American delegation, Ajay Mehta 
+of NOAA, reported that the United States is currently in the 
+planning phase and could begin to deploy the GPS SAR system in 
+¶2016. 
+ 
+¶4. (SBU) Dr. Vladislav Rogalskiy, Head of the RIISDE Department for 
+Global Navigation Satellite Systems, said that the GLONASS M 
+satellites planned for 2007 launch did not have search and rescue 
+(SAR) transponders, but claimed to some disbelief by the American 
+side that these could be added.  He said the SAR components would 
+have a lifespan of 10 years, matching the GLONASS K, which was 
+designed to carry a SAR platform.  Rogalskiy added that, in 
+deference to the GPS lead in the field, future GLONASS satellites 
+would operate on two of the radio frequencies used by the GPS 
+satellites.  He also outlined the program for setting up the initial 
+ground station, which is located at RIISDE in Moscow, with antennas 
+to receive satellite signals for the Medium Altitude Earth Orbiting 
+(MEO) satellite system.  The trials will commence with preliminary 
+tests of one antenna in the third quarter of 2007 and move to final 
+tests of a two-antenna array by the fourth quarter of 2008.  He 
+expects accuracy to be within 5 kilometers for 95 percent of the 
+cases.  He said the GOR is hoping to obtain support from other 
+countries, mentioning Canada specifically, for installation of the 
+antenna array. 
+ 
+Simulation vs. Reality 
+ 
+MOSCOW 00002927  002 OF 003 
+ 
+ 
+---------------------- 
+ 
+¶5. (SBU) The American delegation offered results from "experimental" 
+data (i.e. actual satellite and ground station observations) for 
+beacon detection percentage and location accuracy obtained from the 
+seven currently-deployed GPS satellites in the proof-of-concept 
+(POC) system.  The criterion for "location accuracy" is detection of 
+one signal burst by four satellites or detection of three signal 
+bursts by each of three satellites.  This data showed a cluster of 
+accuracy in northeastern North America, which confirmed expectations 
+based on the angles of inclination and the locations of the ground 
+stations.  The United States analysts emphasized that further tests 
+will be undertaken to characterize the planned MEOSAR system more 
+completely. 
+ 
+¶6. (SBU) Both the American and the Russian representatives presented 
+"simulation" analyses (i.e. computer projections) on expected 
+location accuracy under varying scenarios using various ground 
+stations.  The key difference was higher detection percentage and 
+location accuracy from the Russian simulations.  The American side 
+attributed this partially to underlying assumptions by the Russian 
+analysts.  The Russian delegate presenting simulation results 
+identified wind, waves and ocean current conditions as factors in 
+their results.  The Russian side expressed great interest in 
+comparing the American experimental results from actual satellite 
+observations with their simulations. 
+ 
+Closed City Opens Up 
+-------------------- 
+ 
+¶7. (SBU) Hidden amidst a green blanket of Siberian pine and birch 
+forests, the city of Zheleznogorsk is visible from the air to planes 
+leaving Krasnoyarsk, 60 kilometers away, with tall stacks belching 
+smoke and steam from the RussAl aluminum factory and the nuclear 
+power plant that produces weapons-grade plutonium.  Zheleznogorsk, 
+with a population of 100,000, was founded in 1950 as a city closed 
+to outsiders and devoted to the production of strategic materials 
+for the Soviet military. In a sign of the importance attached to the 
+meetings, the American delegation was met at the outlying gates of 
+Zheleznogorsk by Nikolay Testoyedov, member of the Russian Academy 
+of Sciences and General Director of NPO PM.  The city, graced by 
+elegant buildings designed by Leningrad architects on their own 
+city's model, is a showcase of the modern Soviet city.  Ironically, 
+only a very few Russians even knew of its existence, since for a 
+long time it was identified only by its postal code as "Krasnoyarsk 
+26."  (COMMENT: In one scenic site at Krasnoyarsk, we were 
+surrounded by a group of Russian schoolchildren, who told us in 
+English that we were the first Americans they had ever met.  We were 
+told that Krasnoyarsk, a city of one million people, has 100,000 
+university students in its population.  END COMMENT) 
+ 
+¶8. (SBU) As part of the program for the SARSAT delegation, Vasiliy 
+Zvonar, Head of the Satellite Design Sector at NPO PM, arranged for 
+a tour of the satellite production facility.  NPO PM is named in 
+Russian fashion for Academician M.F.Reshetnev (pronounced 
+"Reh-shet-nyov, with the accent on the final syllable).  Reshetnev 
+is revered in Zheleznogorsk as one of the founders of Soviet space 
+science. Like his teacher Sergey Korolev, known as the father of 
+Soviet rocketry, Reshetnev came to this region of Siberia in 1939 
+during the purges, but was ultimately restored to his position 
+during World War Two. Zvonar told us that we were the first foreign 
+group ever allowed inside the satellite facility. 
+ 
+¶9. (SBU) The deputy head of the Satellite Design Sector and the 
+deputy head of the Satellite Production Sector took us to the "clean 
+room" and showed us one of the GLONASS M satellites that underwent 
+vibration testing a day earlier in preparation for launch in 
+September.  They said it took up to a year to prepare the satellite 
+for launch.  With evident pride in their work, they also allowed us 
+to examine another GLONASS M satellite and explained the design. 
+The satellite is enclosed in a pressurized container to protect the 
+instruments within. The deputy designer noted that the instruments 
+on the GLONASS M were cheaper than on American GPS satellites but of 
+less sturdy construction.  Zvonar told us that they sold about five 
+satellite platforms per year to Japanese and French clients, which 
+were loaded with the client's instruments and returned to Russia for 
+launch. 
+ 
+¶10. (SBU) Our guides also led us to the design and production 
+ 
+MOSCOW 00002927  003 OF 003 
+ 
+ 
+building where the GLONASS K prototypes are under construction. 
+Using nanotechnology, circuits are precisely imprinted by electronic 
+devices on a 40-ton granite slab.  However, the "honeycomb panel" 
+aluminum insulation is prepared manually by workers with what 
+appeared to be awls, poking the material to create minute air 
+pockets.  We were told that there are 6,000 workers at NPO PM, but 
+there appeared to be very few working in the GLONASS K facility. 
+ 
+The New Space Environment 
+------------------------- 
+ 
+¶11. (SBU) Yevgeniy Nesterov, deputy head of the Roskosmos Office of 
+Navigation of Automatic Spacecraft overseeing GLONASS, spoke warmly 
+at a farewell dinner of the cooperation between his agency and NASA. 
+ Zvonar toasted   GPS and GLONASS as the only two "great" global 
+navigation systems, which was not so much a disparaging reference to 
+the European Galileo system and other global navigation programs, 
+but an acknowledgment of the primacy of Russian-American 
+cooperation.  During the meetings, the Russian conferees repeatedly 
+urged cooperation with the other satellite navigation programs and 
+emphasized that ground stations were needed in southern Africa and 
+South America. 
+ 
+¶12. (SBU) COMMENT: NPO PM officials, RIISDE and Roskosmos extended 
+extraordinarily warm welcomes to the U.S. delegation.  They were 
+willing to share their data and details of their plans with little 
+hesitation, except when it came to budget items.  The Russian 
+delegation expressed strong interest in continuing to work with 
+their American counterparts.  The American delegation would like to 
+encourage them to begin work on the ground elements of the MEOSAR 
+system.  Despite GLONASS lagging at this point behind GPS, it is the 
+only other functional global PNT system. 
+ 
+¶13. (U) NOAA delegation head Ajay Mehta cleared this cable. 
+ 
+BURNS

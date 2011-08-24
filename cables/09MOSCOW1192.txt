@@ -1,0 +1,74 @@
+09MOSCOW1192
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: RADIOCOMP, MOSCOW,
+Tue May 12 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0005
+PP RUEHWEB
+
+DE RUEHMO #1192 1320548
+ZNR UUUUU ZZH
+P 120548Z MAY 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3215
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001192 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: RADIOCOMP, MOSCOW, 
+RUSSIA. 
+ 
+REFTELS: REQUEST FORM #04210003 DATED 4/21/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Radiocomp, Moscow, 
+Russia. The company is listed on BIS license applications: NLR as 
+the ultimate consignee of one general purpose electronic equipment, 
+auto data processing machine and evaluation board, one VS 
+synthesizers and electronic devices and components, 67 integrated 
+circuits, 16 fixed attenuator transistors other than photosensitive 
+GT=1W. These items are controlled for national security, 
+anti-terrorism, missile technology and nuclear non-proliferation 
+reasons under ECCN 3A001, 3A002 and 3A992. The licensee is Seki 
+Technotron USA, 2220 Martin Avenue, Santa Clara, CA 95050. 
+ 
+¶3. On April 27, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of Radiocomp, 8, Aviamotornaya Street, 
+Moscow, Russia. The export control team met with Viktor Kochemasov, 
+General Director. 
+ 
+¶4. Viktor Kochemasov established Radiocomp in 2001 as an importer of 
+electronic components and has 15 employees. The company is 
+co-located with the Moscow Technical University of Communications 
+and Information. Prior to establishing Radiocomp, Kochemasov was 
+Deputy Director of the University. Radiocomp is the sole supplier of 
+electronic components to the University, but supplies U.S. origin 
+electronic components to companies throughout Russia and Belorussia. 
+Radiocomp does not re-export U.S. origin components. 
+ 
+¶5. Viktor Kochemasov, doing business as the Deputy Director of the 
+Moscow Technical University of Communications and Information and 
+now the General Director of Radiocomp, has been the subject of three 
+end use checks conducted by the Moscow export control office dating 
+back 7 years. The checks have all been positive. 
+ 
+¶6. The export control team found no indications of impropriety at 
+Radiocomp.  The company is using the equipment for which it was 
+licensed.  The consigneeQs answers were open and frank and not 
+evasive. 
+¶7. Recommendations: Post recommends Radiocomp, Moscow, Russia, as a 
+reliable recipient of sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+RUBIN

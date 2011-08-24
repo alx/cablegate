@@ -1,0 +1,218 @@
+07PARIS2634
+INDUSTRY SOURCE DISCUSSES GALILEO WOES
+Tue Jun 19 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXRO9313
+RR RUEHAG RUEHAST RUEHDA RUEHDBU RUEHDF RUEHFL RUEHIK RUEHKW RUEHLA
+RUEHLN RUEHLZ RUEHPOD RUEHROV RUEHSR RUEHVK RUEHYG
+DE RUEHFR #2634/01 1701114
+ZNR UUUUU ZZH
+R 191114Z JUN 07
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 8347
+INFO RUEHZL/EUROPEAN POLITICAL COLLECTIVE
+RUEHBS/AMEMBASSY BRUSSELS 6314UNCLAS SECTION 01 OF 03 PARIS 002634 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR OES, ISN, EUR 
+BRUSSELS FOR ESTH SMITHAM 
+ 
+E.O. 12958: N/A 
+TAGS: TSPA ECPS FR
+SUBJECT: INDUSTRY SOURCE DISCUSSES GALILEO WOES 
+ 
+ 
+THIS MESSAGE CONTAINS PROPRIETARY INFORMATION; NOT FOR INTERNET 
+DISTRIBUTION 
+ 
+¶1.  (SBU) Summary: Embassy officers recently heard a litany of 
+frustrations about the European Galileo Positioning, Navigation and 
+Timing (PNT) project from an EADS contact who had worked on various 
+aspects of the project.  According to the contact, financing has 
+been only one of a number of trenchant difficulties Galileo faced 
+from the start.  Essentially, the entire business model for the 
+project was wrong, according to this source.  Using the European 
+Space Agency as the initial design entity caused an initial 
+"politicization" of the project.  Two competing European business 
+groups - with differing interests and capabilities -- were asked to 
+join forces and have yet to agree on a number of general principles 
+of the concession contract.  Our interlocutor dwelled on the 
+liability risk issues that any private concessionaire of a project 
+of Galileo's import would take on.  Nonetheless, this contact 
+believes that while it may take years, eventually a European PNT 
+system will get off the ground, likely on a model very different 
+from that originally conceived.  It will proceed for no other reason 
+than that European governments seek their own navigation system to 
+serve their own militaries.  End Summary. 
+ 
+¶2.  (SBU) In a meeting on June 12, 2007, a European industry contact 
+explained and fielded questions from ESTH and ECON officers on the 
+issues presented by the Galileo PNT system from a corporate 
+perspective. This individual has been involved in Galileo project 
+development work since its inception in 2003, managing the terms and 
+risks for his firm's involvement in the Galileo project. 
+ 
+------------------------------- 
+Public Private Partnership 
+------------------------------- 
+ 
+¶3.  (SBU) The industry contact explained that early concepts for 
+Galileo looked to a model public private partnership (PPP) which was 
+highly successful.  The PPP in question was between EADS subsidiary 
+Paradigm and the Government of the United Kingdom (HMG).  In its 
+agreement, EADS built satellite infrastructure providing world wide 
+telecommunications capability primarily for the British military and 
+would run it for fifteen years, sharing profits with HMG.  Any 
+excess capacity beyond the needs of the UK military could be sold to 
+other EU militaries and the private sector    Service contracts with 
+NATO, and the defense forces of the Netherlands and Portugal 
+provided additional revenue to the project.  The PPP project works 
+well and is profitable.  HMG studies indicated that the partnership 
+enabled 30% more efficiency and 70% better service compared to 
+traditional procurement, and the project remained on schedule and 
+within budget.  HMG believes that this system was the best executed 
+procurement contract signed over the last ten years. 
+ 
+------------------------------------------ 
+Wrong Model for Complex Galileo 
+------------------------------------------ 
+ 
+¶4.  (SBU) The European Commission used the Paradigm PPP project as 
+the template for Galileo, a project containing magnitudes of greater 
+complexity, related our contact.  The European Commission (EC) 
+interest was to develop the Galileo system primarily for political 
+reasons, rather than technological superiority.  Although Galileo is 
+designed to pinpoint locations with greater accuracy for commercial 
+users than the present GPS system, GPS Third Generation will be as 
+accurate as Galileo.  European policy makers note that GPS is a 
+military-driven program, and the USG could limit access or shut down 
+the system at will, said our industry contact. The Galileo system 
+would serve European defense purposes and encourage the development 
+of new products.  One example is Open Service Authentication, the 
+ability to prove one's location at a specific time by accessing the 
+system's data recording a receiver's position. Such data is not 
+available on GPS because of its military control, according to the 
+industry interlocutor. 
+ 
+--------------------------------------------- ------ 
+ESA's Involvement Compounds Problems 
+--------------------------------------------- ------ 
+ 
+¶5.  (SBU)  The EC commissioned the European Space Agency (ESA) to 
+design, launch and test two satellites.  The consortia would then 
+build and launch the other 26 satellites.  EU funding was to cover 
+the two test satellites and the consortium's first two satellites. 
+ ESA subcontracted the production of the satellites, one to Surrey 
+Satellite Technology Company which is the only Galileo-related 
+satellite to have been launched.  ESA involvement raised several 
+issues.  First, not all EU states are part of ESA so the cost of 
+building the system is not evenly distributed. Second, ESA 
+subcontracts must be determined based on the extent member 
+governments finance ESA; companies from nations that invest more 
+money in ESA receive more contracts.  This work distribution would 
+ 
+PARIS 00002634  002 OF 003 
+ 
+ 
+differ from that among the companies in the consortium.  Third, ESA 
+has not been involved in the negotiations between the EC and private 
+firms; therefore its designs might not be consistent with what the 
+consortium is planning. 
+ 
+--------------------------------------- 
+Private Industry Boxed In, Too.... 
+--------------------------------------- 
+ 
+¶6.  (SBU) According to the source, the second phase of the project 
+was to establish the legal and contractual framework as a precursor 
+to seeking private financing.  The EC asked two competing consortia 
+to come together as the Galileo industry consortium for this 
+purpose. But it took almost two years - until end 2006 - for the 
+companies to agree to some of the principle terms of agreement. 
+However, the contract still lacks several major principles and 
+contains almost no detail, agreement on work division, procurement, 
+and liability, as well as unified management structure needed to 
+take the project to the capital markets for financing. In short, 
+there remains no completed general agreement.  Major issues from 
+both the public and private sectors prevent further negotiation, and 
+the consortium will likely dissolve by the end of 2007. 
+ 
+--------------------- 
+Other Challenges 
+--------------------- 
+ 
+¶7.  (SBU) According to our interlocutor, one challenge from the 
+start was that Galileo has been highly politicized. The competing 
+interests of EU Member States conflicted with private interests. 
+Another challenge was that the EC intended for Galileo to be 
+supported by a 1:2 ratio of public to private funds, giving the 
+larger burden of risk to private industry in return for the use of 
+the system in commercial markets.  Since the commercial markets were 
+not yet developed, the private sector was motivated more by the 
+possibility of getting large procurement contracts for building the 
+satellites and the ground stations that would be required to make 
+the system work.  The private sector's focus on infrastructure 
+contracts resulted in the inability to determine the fixed price 
+value on procurement. As the ESA has not yet designed the satellites 
+for the Galileo network and was not involved in the consortium 
+negotiations, the costs and returns of building and operating the 
+system could not be established. 
+ 
+-------------------------- 
+Future, What Future? 
+-------------------------- 
+ 
+¶8.  (SBU) The post-design phase of the project is 'In Orbit 
+Validation' (IOV), a 20 year program responsible for 26 satellites, 
+infrastructure and services. This program was supposed to be 
+financed by both private and public sources.  Although legal title 
+to the system is public, users will be required to pay for access to 
+the system.  According to the industry interlocutor, the public 
+sector is not as capable as the private sector in generating finance 
+and managing risk/potential liabilities.  For Galileo, the EU has 
+overspent taxpayers money, and has no insurance.   At the earliest, 
+Galileo will become operational by 2012-2014. Certainly, the final 
+product will differ from the initial vision.  Without the 
+consortium's participation, Galileo might evolve into a smaller 
+scale system focused on military needs and not commercial markets. 
+The EC must determine commercial markets such as the safety of life 
+system in order to attract private interest. Moving forward depends 
+heavily on the question of securing public funding. 
+ 
+--------------------------------------------- 
+Where's the Money to Come From? 
+--------------------------------------------- 
+ 
+¶9.  (SBU)  On June 17, on the eve of the biennial Paris Air Show, at 
+a satellite seminar, in response to a query from ESTH officer, a 
+representative of EADS Astrium - like the interlocutor who met with 
+Embassy officers earlier - mentioned that most of Galileo's problems 
+resulted from a failure of the original business model.  The 
+complexity of the politics and business aspects of the model - while 
+well intentioned - doomed the project to failure.  The EADS 
+representative highlighted that, while the political will exists in 
+the EU to proceed with a Galileo-like system, the primary question 
+is where the public sector will locate the large resources required 
+to put this project on a sound footing. 
+ 
+¶10.  (SBU)  Comment:   The consortium's participation in the Galileo 
+project appears dead, which must impact the project's ambitions and 
+scope.   The financing of the project, yet to be determined, will 
+shape Galileo's final form.  At one point in our interlocutor's 
+narrative, he said that when officials and industrialists come 
+together to discuss Galileo, they have long since stopped inserting 
+deadlines, or even timelines.  In that regard, and considering the 
+ 
+PARIS 00002634  003 OF 003 
+ 
+ 
+ongoing financing challenges, having a European PNT system 
+operational in the 2012-2014 framework may be optimistic.  End 
+Comment. 
+ 
+STAPLETON

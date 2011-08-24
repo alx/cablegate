@@ -1,0 +1,130 @@
+05TAIPEI3195
+LICENSING CONDITIONS IN THE TELECOM SECTOR
+Mon Aug 01 00:00:00 +0200 2005
+UNCLASSIFIED
+American Institute Taiwan, Taipei
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+010804Z Aug 05UNCLAS SECTION 01 OF 02 TAIPEI 003195 
+ 
+SIPDIS 
+ 
+STATE FOR EAP/RSP/TC AND EB/CIP FOR FINTON AND SHAFFER, 
+STATE PASS AIT/W AND USTR, USTR FOR WINELAND, MCHALE AND 
+AUGEROT 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD ECPS TW
+SUBJECT: LICENSING CONDITIONS IN THE TELECOM SECTOR 
+ 
+REF: A. STATE 114687 (NOT SENT TO AIT-TAIPEI) 
+ 
+     ¶B. SHAFFER/MULLINAX EMAILS 7/19/05 AND 7/22/05 
+     ¶C. TAIPEI 1890 
+ 
+¶1.  Reftel requested information regarding addressees 
+telecommunications licensing regime for fixed-line networks. 
+Although Taiwan does not require application or 
+administrative fees for license applicants, Taiwan's 
+licensing regime does impose conditions on entrants in the 
+form of capital and build-out requirements.  In addition, 
+interested parties may only apply for licenses during "open 
+seasons" conducted twice yearly by the Taiwan Directorate 
+General of Telecommunications (DGT) in March and September. 
+Although telecom sector players tell AIT that these 
+conditions constitute a barrier to entry into the market, the 
+domination of the Taiwan fixed-network telecom market by 
+state-owned Chunghwa Telecom (CHT) is cited as a greater 
+disincentive to potential market entrants. 
+ 
+============================================= ====== 
+The Evolution of Taiwan's Fixed-Line Telecom Market 
+============================================= ====== 
+ 
+¶2.   Taiwan's fixed-line network telecommunications service 
+market continues to be dominated by the state-owned former 
+monopoly provider CHT.  In its first modest attempt at 
+liberalization, DGT opened the market to new service 
+providers on a one-time basis in 2000.  Three applicants were 
+able to meet the paid-in capital requirements of NT$40 
+billion (apx. US$1.2 billion) and agreed to create subscriber 
+networks capable of handling 1 million lines within six 
+years.  These requirements were imposed to prevent 
+unqualified speculators from entering the market.  These 
+three competitors, despite investing over NT$200 billion 
+(US$5.7 billion) in Taiwan, remain marginal players.  At the 
+end of 2004, CHT controlled 96.8% of the local call market, 
+78.1% of the Taiwan long distance market, and 55.5% of the 
+international call market.  In 2004, CHT's total fixed 
+network and ADSL subscriber market share stood at 97.9% and 
+99%, respectively. 
+ 
+¶3.  As part of its WTO accession commitments, Taiwan agreed 
+to further liberalization of the fixed-line network 
+telecommunications market.  In September 2004, Taiwan 
+announced that it had amended the administrative regulations 
+governing fixed network telecom licensing, lowering the bar 
+for entry by reducing paid-in capital requirements from NT$40 
+billion to NT$16 billion (US$500 million) and the build-out 
+requirement from 1 million lines in 6 years to 400,000 lines 
+in 4 years.  In addition, DGT announced that it would hold 
+biannual open seasons in September and March each year for 
+applicants for new licenses. 
+ 
+====================================== 
+Not Much Interest in the Taiwan Market 
+====================================== 
+ 
+¶4.  The first open season for new licenses attracted no 
+applicants.  DGT announced further revisions to the licensing 
+requirements in November 2004.  Beginning in March 2005, 
+paid-in capital requirements began to be figured on a 
+proportional scale that would reflect the targeted service 
+population.  For example, a local service provider offering 
+service just to Taipei city would be required to meet a 
+paid-in capital requirement of just NT$1.2 billion (US$37.5 
+million) rather than NT$16 billion.  For long-distance and 
+international calls, the paid-in capital requirement was 
+reduced to just NT$2 billion (US$62.5 million).  Build-out 
+requirements were also adjusted proportionally.  Despite 
+these changes, there were again no applicants for new 
+fixed-line network licenses. 
+ 
+============================================= = 
+CHT Still Finding Ways to Keep Competitors Out 
+============================================= = 
+ 
+¶5.  Industry watchers have not been surprised by the lack of 
+interest in fixed-line network licenses in Taiwan.  CHT's 
+dominance of the Taiwan market is further entrenched by its 
+control of the "last mile" connections from the local 
+switches into homes and businesses.  In May 2004, CHT 
+announced that it would share last mile access with the three 
+existing competitors in specifically negotiated leasing 
+agreements, but included restrictive requirements that not 
+only obligated consumers to initiate the shift in service 
+provider but also limited these leasing agreements to voice 
+service in the three major metropolitan areas (Taipei, 
+Taichung, and Kaohsiung).  CHT plans to continue to restrict 
+access for the increasingly lucrative data transmission 
+services.  CHT's slowness in entering into "reasonable" 
+leasing agreements with competitors has further depressed 
+interest in Taiwan's fixed-line network market. 
+ 
+¶6.  One industry analyst told AIT that potential applicants 
+may be waiting for the government to privatize CHT before 
+considering entering the market.  CHT has filed an 
+application with the U.S. Securities and Exchange Commission 
+to sell 15% of its stock currently held by the Ministry of 
+Transportation and Communications on the New York Stock 
+Exchange as American Depository Receipts (ADRs).  CHT 
+officials hope the shares can be placed by August.  This 
+sale, combined with a proposed sale of an additional 2% of 
+CHT stock on the Taiwan Exchange, will bring the government's 
+share in CHT below 50%, effectively "privatizing" the company 
+according to Taiwan law.  The same analyst noted that U.S. 
+firms may still be smarting from the collapse of the telecom 
+bubble in the U.S. but that several European firms are 
+exploring Taiwan as a potential target as they diversify away 
+from saturated home markets into a growing Asian market. 
+PAAL

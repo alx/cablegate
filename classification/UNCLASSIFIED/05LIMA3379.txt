@@ -14,32 +14,6 @@ TAGS: PGOV PINR PREL PE VE
 SUBJECT: NEW PRO-CHAVEZ PUBLICATION IN LIMA 
  
 ¶1.  SUMMARY:  A pro-Chavez, leftist publication entitled 
-"Wankar" ("the Song of the People" in Quec...
-
-id: 38070
-date: 8/5/2005 15:28
-refid: 05LIMA3379
-origin: Embassy Lima
-classification: UNCLASSIFIED
-destination: 
-header:
-This record is a partial extract of the original cable. The full text of the original cable is not available.
-
-
-
------------------ header ends ----------------
-
-UNCLAS LIMA 003379 
- 
-SIPDIS 
- 
-WHA FOR BFRIEDMAN 
- 
-E.O. 12958: N/A 
-TAGS: PGOV PINR PREL PE VE
-SUBJECT: NEW PRO-CHAVEZ PUBLICATION IN LIMA 
- 
-¶1.  SUMMARY:  A pro-Chavez, leftist publication entitled 
 "Wankar" ("the Song of the People" in Quechua) recently 
 appeared in Lima.  The first issue has a slick paper cover 
 with a dramatic color photo of Chavez sporting his commando 
@@ -104,6 +78,4 @@ the prominent way in which the publication features Hugo
 Chavez all suggest outside financing.  The first issue 
 promises further ones to follow, but none have to date.  END 
 COMMENT. 
-STRUBLE 
-
-=======================CABLE ENDS============================
+STRUBLE

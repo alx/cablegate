@@ -1,0 +1,85 @@
+09MOSCOW324
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: LINK EXPRESS,
+Wed Feb 11 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHMO #0324 0420749
+ZNR UUUUU ZZH
+P 110749Z FEB 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1854
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000324 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/M.HAMES/L.RITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: LINK EXPRESS, 
+KIEV, UKRAINE, LICENSE NO. NLR 
+ 
+REFTEL: USDOC 0238 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a Post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Link Express, Kiev, 
+Ukraine. The company is listed on BIS license application: NLR as 
+the ultimate consignee of fifty (50) I.C. DIV 2 prescaler, DC, 
+electronic integrated circuit: n/unmounted, and other mixed signals. 
+ Fifty (50) I.C., SMT double-balanced mixers, electronic integrated 
+circuit: n/unmounted and other mixed signals.  One hundred (100) 
+I.C., MSOP8 SMT mixers, electronic integrated circuit: n/unmounted, 
+and other mixed signals.  One hundred (100) I.C., DIV 4 prescaler 
+DC, electronic integrated circuit: n/unmounted, and other mixed 
+signals.  One hundred (100) I.C., SMT double-balanced mixers, 
+electronic integrated circuit: n/unmounted, and other mixed signals. 
+Three hundred (300) I.C., MSOP switches and electronic integrated 
+circuit and other mixed signals.  Thirty (30) integrated circuit 24 
+lead, 4X4electronic integrated circuit: n/unmounted, and other mixed 
+signals.  One hundred (100) I.C., digital attenuator electronic 
+integrated circuit: n/unmounted, and other mixed signals.  ECCN: 
+none given.  The exporter is Hittite Microwave Corporation, 20 Alpha 
+Road, Chelmsford, MA  01824. 
+ 
+¶3. On January 30, 2009, Export Control Attach Peter Liston and LES 
+Yuriy Prikhodko conducted the requested post-shipment verification 
+with Link Express, Polevaya Street 21, Office 305, Kiev, Ukraine. 
+The export control team met with Yurily Petrushevsky, General 
+Director. 
+ 
+¶4. Link Express was founded in 1999 as a privately held Limited 
+Liability Corporation.  Link Express is involved in radio, 
+television and satellite system installation.  Link Express has 25 
+employees and is certified by the National Manufacture of 
+Sub-Stations in Kiev, Ukraine.  Link Express was considered the 5th 
+channel during the Orange Revolution in Ukraine when they were the 
+only television station to broadcast the events outside of the 
+Ukraine. 
+ 
+¶5. Yurily Petrushevsky, General Director, advised the export control 
+team that the commodities in reftel will be used to produce 
+amplifiers and other components for satellite systems.  Petrushevsky 
+gave the export control team a tour of his laboratory and production 
+facility where the amplifiers are produced and tested. 
+ 
+¶6. The export control team determined that the reftel commodity is 
+being used for the end-use for which it was licensed.  There are no 
+indications of impropriety and the consigneeQs answers were not 
+evasive. 
+ 
+¶7. Recommendations: Post recommends Link Express, Kiev, Ukraine as 
+reliable recipients of sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

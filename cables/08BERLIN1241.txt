@@ -1,0 +1,152 @@
+08BERLIN1241
+HYDROSOL: AN OPPORTUNITY TO COLLABORATE WITH
+Tue Sep 09 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXRO8760
+PP RUEHAG RUEHDF RUEHLZ
+DE RUEHRL #1241/01 2531610
+ZNR UUUUU ZZH
+P 091610Z SEP 08
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 2127
+INFO RUCNFRG/FRG COLLECTIVE
+RHMFIUU/DEPT OF ENERGY WASHINGTON DCUNCLAS SECTION 01 OF 02 BERLIN 001241 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+STATE FOR OES FENDLEY 
+STATE FOR CE 
+STATE FOR COMMERCE 
+WHITE HOUSE FOR CEQ, NSC 
+ENERGY FOR EERE PLEASE PASS TO NSP JENNIFER PEARL 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG TRGY TSPL TNGD SENV GM
+SUBJECT: HYDROSOL: AN OPPORTUNITY TO COLLABORATE WITH 
+GERMANY ON HYDROGEN 
+ 
+¶1.  (U) Summary and Comment: The German Space Agency (DLR) 
+has, in conjunction with the International Energy Agency's 
+solar-thermal energy cooperative "SolarPACES", developed an 
+efficient carbon dioxide (CO2)-free method of harvesting 
+hydrogen from water.  Named "HYDROSOL", this is an 
+interesting innovation that could bridge key challenges in 
+support of USG efforts to develop a hydrogen economy. 
+Although the HYDROSOL project is only one of many worldwide 
+efforts (including at Sandia National Laboratories) to 
+harvest hydrogen, it appears to stand apart from the rest 
+with its impressive demonstrated efficiency and absence of 
+CO2 emissions or harsh chemical byproducts.  The HYDROSOL 
+concept has since evolved into the HYDROSOL-2 project and 
+recent agreements have opened the door for U.S. companies to 
+collaborate.  This award-winning technology was recognized by 
+the International Partnership for the Hydrogen Economy 
+(IPHE--of which the U.S. is a partner) in 2006 for its 
+significant potential for large-scale, sustainable, emissions 
+free hydrogen production.  If the relevant US-EU intellectual 
+property concerns can be resolved, HYDROSOL-2 may offer US 
+researchers working on hydrogen an opportunity to collaborate 
+with Germany on a promising new technology. End Summary and 
+Comment. 
+ 
+HOW IT WORKS: SEPARATING WATER WITH SUNLIGHT 
+-------------------------------------------- 
+ 
+¶2.  (U) HYDROSOL uses a two-stage thermochemical process that 
+first releases hydrogen from water by adsorbing the oxygen 
+into an oxygen-deficient ferrite structure (the reactor core) 
+at superheated temperatures.  When the reactor core is 
+saturated with oxygen, additional energy is provided and the 
+oxygen is re-released.  The catalytic energy for these two 
+reactions is derived entirely from concentrated solar 
+radiation.  Using two identical reactor cores housed in 
+separate chambers of a solar concentrator, the two stages are 
+operated simultaneously (i.e. while one reactor core is 
+adsorbing oxygen from water, the other is depleting its 
+oxygen).  The functions of the two reactor cores are 
+continuously swapped, ensuring that hydrogen is produced 
+continuously and not in batches.  According to project 
+coordinator Athanasios Konstandopoulos, Director of the 
+Chemical Processes Engineering Research Institute/CERTH based 
+in Thessaloniki, Greece, each HYDROSOL-2 reactor will produce 
+around three kilograms of hydrogen per hour; at hydrogen's 
+energy density, this is theoretically equivalent to a power 
+output of 119 kilowatt-hours. 
+ 
+HYDROSOL BACKGROUND: AWARDS, BUT IPR CONCERNS WITH U.S. 
+--------------------------------------------- ---------- 
+ 
+¶3.  (SBU) By April 2008, the entire HYDROSOL project had 
+spent seven million euros, half of which came from the 
+European Union's 5th and 6th European Research Framework 
+Programs.  According to Christian Sattler, DLR Research Area 
+Manager for Solar Materials Conversion, the USG was not 
+invited as a project partner due to concerns about 
+intellectual property (IP) rights between the E.U. and U.S. 
+The HYDROSOL consortium currently includes research teams 
+from Germany, Spain, and Greece, as well as industrial 
+partners Johnson Matthey Fuel Cells (UK) and Stobbe Tech 
+Ceramics (Denmark).  The project won the European 
+Commission's 2006 Descartes Prize for scientific research, 
+the 2005 International Global 100 Ecotech Award at the EXPO 
+in Japan, and the IPHE Technical Achievement Award in 2006. 
+ 
+COST ANALYSIS: PRICE COMPETITIVE WITH OIL? 
+------------------------------------------ 
+ 
+¶4.  (SBU) According to Sattler, a DLR model (reportedly 
+validated by the US Department of Energy--DOE) predicts that 
+it will cost between two and five dollars to produce one kg 
+of hydrogen (using scaled HYDROSOL technology), correlating 
+with an equivalent energy value of $40 to $100 per barrel of 
+oil.  (Comment: These calculations do not include costs 
+associated with the transportation or storage of hydrogen, 
+which could be enormous. End Comment) Sattler noted that the 
+dominant cost for the HYDROSOL project is the establishment 
+of the infrastructure for a large scale operation.  He added 
+that once the infrastructure investment is made, the longer 
+the reactor runs and the more economically viable it becomes. 
+ 
+SIMILAR RESEARCH IN THE U.S. 
+---------------------------- 
+ 
+BERLIN 00001241  002 OF 002 
+ 
+ 
+ 
+¶5.  (SBU) The U.S. has also conducted a substantial amount of 
+research in the area of thermochemical production of hydrogen 
+from water with a variety of catalytic processes.  Similar in 
+concept to the HYDROSOL reactor, researchers at Sandia 
+National Laboratories in New Mexico designed a reactor that 
+uses cobalt ferrite rings as the catalyst.  Presently, Sandia 
+researchers have embarked on a project called "Sunshine to 
+Petrol", which utilizes the aforementioned reactor design to 
+synthetically produce methanol (a hydrocarbon used for 
+transportation fuel).  Like HYDROSOL, this reactor design is 
+used to harvest hydrogen.  However, in a parallel process it 
+also removes oxygen from carbon dioxide to collect carbon 
+monoxide.  The harvested carbon monoxide and hydrogen are 
+then synthesized together using industrial processes to 
+create methanol.  The aim of this project is to produce 
+methanol as a fuel in a nearly carbon neutral fashion. 
+ 
+THE ROAD FORWARD 
+---------------- 
+ 
+¶6.  (SBU) Given the parallel advances in CO2-free hydrogen 
+harvesting techniques demonstrated by Sandia National 
+Laboratories and the HYDROSOL project, it appears as though 
+there may be room for future technical exchange or 
+cooperation.  Sattler said improvements in scientific 
+research exchanges between the U.S. and E.U. have opened the 
+door for HYDROSOL cooperation with many U.S. companies. 
+According to Sattler, a big reason for this is the IPHE, 
+coordinated by Professor Al Weimer of the University of 
+Colorado (Boulder), which DLR joined in 2005.  Sattler said 
+DLR continues to investigate ways to foster collaboration 
+with the U.S. DOE and specifically mentioned the SolarPACES 
+group as an excellent avenue for future collaboration. 
+TIMKEN JR

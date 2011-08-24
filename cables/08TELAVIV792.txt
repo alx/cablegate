@@ -1,0 +1,199 @@
+08TELAVIV792
+BLUE LANTERN FOLLOW UP ON RDT EQUIPMENT AND SYSTEMS
+Fri Apr 04 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Tel Aviv
+VZCZCXYZ0017
+PP RUEHWEB
+
+DE RUEHTV #0792/01 0951224
+ZNR UUUUU ZZH
+P 041224Z APR 08
+FM AMEMBASSY TEL AVIV
+TO RUEHC/SECSTATE WASHDC PRIORITY 6176
+INFO RUEHSM/AMEMBASSY STOCKHOLM 0927
+RUEAIIA/CIA WASHDC
+RUCPDOC/USDOC WASHDC
+RUEKJCS/SECDEF WASHDC
+RUCNFB/FBI WASHDC
+RHMFIUU/HQ BICE INTEL WASHINGTON DCUNCLAS TEL AVIV 000792 
+ 
+SIPDIS 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+STATE FOR PM/DTCC (BLUE LANTERN COORDINATOR, STITZIEL) 
+STATE FOR NEA/IPA (PECCIA) 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC IS
+SUBJECT: BLUE LANTERN FOLLOW UP ON RDT EQUIPMENT AND SYSTEMS 
+ 
+REF: A) TEL AVIV 481 B) STITZIEL-KEAYS 3/6/08 E-MAIL 
+     C) STATE 7531 
+ 
+------- 
+SUMMARY 
+------- 
+ 
+¶1. (SBU) On April 3, emboffs met with RDT Equipment and 
+Systems (RDT) executives to follow up on questions regarding 
+the company's possession and transfer of a USML-controlled 
+FLIR camera.  Operations Manager Noam Sarfati acknowledged 
+that the FLIR camera in RDT's possession was left with 
+Fibrotex "for a few days" so that the company could perform 
+extended tests on the materials it is producing.  Sarfati was 
+able to produce an in-house document referring to a temporary 
+export license issued by the State Department authorizing 
+RDT's possession of the FLIR camera, but could not show any 
+subsequent license authorization or conditions for possession 
+and use of the camera.  END SUMMARY. 
+ 
+---------- 
+BACKGROUND 
+---------- 
+ 
+¶2. (SBU) Emboffs' April 3 visit to RDT was prompted by 
+questions raised during a February 20 pre-license check of an 
+Israeli company -- Fibrotex Technologies -- which was 
+proposing to import a FLIR camera (ref A).  At that time, 
+emboffs discovered that Fibrotex had already obtained a FLIR 
+camera on loan and without a license from the State 
+Department.  Subsequent research by the State Department's 
+Directorate of Defense Trade Controls raised further concerns 
+that RDT itself may have acquired the FLIR camera without a 
+license (ref B). 
+ 
+-------------------------- 
+DETAILS ON THE FLIR CAMERA 
+-------------------------- 
+ 
+¶3. (SBU) On April 3, emboffs met with RDT Operations Manager 
+Noam Sarfati and Sarit Cohen to follow up on questions 
+regarding the company's possession and transfer of the 
+USML-controlled FLIR camera to Fibrotex. At emboff's 
+questioning, Sarfati acknowledged that RDT salesman Oz Koren 
+had visited Fibrotex to demonstrate the FLIR camera and 
+"might have left it for a short time." (NOTE: Emboffs noted 
+that this was at odds with Fibrotex engineer Vladimir 
+Kotler's statement on February 20, that Fibrotex had been 
+authorized by RDT to keep the camera on loan until their own 
+camera could be delivered (ref A).  END NOTE.) Sarfati said 
+that RDT frequently does allow companies to keep licensed 
+technologies on loan for several days so they can conduct 
+"extended checks" of the technology before deciding to buy 
+it.  He quickly added, however, that as soon as Fibrotex's 
+license application for the FLIR camera was denied, RDT had 
+their lawyer send a letter to Fibrotex requesting the 
+camera's return.  Sarfati showed emboffs the camera he 
+claimed that Fibrotex was using -- an SC4000 ThermaCAM.  The 
+serial number (S/N) on the camera was 1011.  The part number 
+(P/N) was 420-0044-04-00P.  The camera also bore the 
+following markings:  Rev. 130.  320x256 InSB.  The camera was 
+contained in a large, plastic case protected by foam padding, 
+stored alongside cables and other components. 
+ 
+----------------------------- 
+DETAILS ON THE EXPORT LICENSE 
+----------------------------- 
+ 
+¶4. (SBU) When asked under what authority RDT received and 
+operated the FLIR camera, Cohen produced a document on RDT 
+systems letterhead that stated that the FLIR camera system 
+was being consigned to RDT under "an approved temporary 
+export license as issued by the U.S. Department of State, 
+license no. 730001118, a copy of which has been provided to 
+us."  The document further stated that the ThermaCAM SC4000 
+system is to be used for demonstration purposes, and that 
+RDT's "possession and temporary use of the....equipment is 
+anticipated to be between the following dates: 
+(07-11-21-07-12-15)."  Neither Cohen nor Sarfati could 
+produce a copy of the State Department-approved export 
+license.  When emboffs pointed out that the document was 
+printed on RDT letterhead, Sarfati explained that it had been 
+e-mailed from the FLIR manufacturer with instructions to 
+print it on company stationery.  When emboffs noted that the 
+temporary license document specified anticipated dates of use 
+from November 21, 2007 through December 15, 2007, Sarfati 
+seemed confused and insisted that there must have been a 
+mistake.  He suggested that there may have been a more recent 
+license issued, but said he never received a copy of it.  He 
+explained that RDT does not receive licenses directly from 
+the USG for any of the controlled items in RDT's possession, 
+but rather relies on the manufacturers to obtain the 
+necessary authorizations.  When asked, Sarfati was able to 
+produce copies of Department of Commerce-issued licenses and 
+terms of use for five other cameras purchased by RDT. 
+Sarfati identified the following person as RDT's main point 
+of contact at FLIR Systems in the U.S.: 
+ 
+Melissa Wilkinson 
+Trade Compliance Officer 
+FLIR Systems, Indigo Operations 
+70 Castilian Drive 
+Goleta, CA  93117 
+Phone:  (805) 690-7176 
+FAX:  (805) 685-2711 
+ 
+Sarfati said that Wilkinson may have sent the text of the RDT 
+document.  Sarfati said that there is another person in 
+Sweden who works for FLIR and who is responsible for Israel. 
+Without providing his name, Sarfati indicated that it is 
+possible that either this man or Ms. Wilkinson may possess a 
+copy of the original export license for the FLIR camera, 
+issued by the State Department. 
+ 
+--------------------------------------------- -- 
+DISCUSSION ON MAINTAINING CONTROL OF THE CAMERA 
+--------------------------------------------- -- 
+ 
+¶5. (SBU) Emboffs noted that the document specified that RDT 
+agrees "...to maintain control of the equipment at all times 
+and not to additionally consign the equipment to any third 
+party not specifically named on the license," and "...to be 
+responsible for taking all necessary steps to ensure the 
+security of the equipment on the license from loss, theft, or 
+unauthorized access."  When asked if he believed this would 
+allow RDT to leave the FLIR camera with Fibrotex 
+unsupervised, Sarfati said that his company "has to be 
+lenient on that because nobody will purchase anything if they 
+cannot test it."  He added that while he was not aware of any 
+specific directives regarding restrictions on the use of the 
+FLIR camera, he uses his "common sense," to ensure that the 
+technology is protected.  The document -- signed by Avi Tiv, 
+General Manager for RDT Equipment and Systems -- further 
+states that RDT agrees to maintain security measures for the 
+equipment, but lacks a description of the security measures 
+to be maintained.  (NOTE:  A copy of the document has been 
+sent by FAX to PM/DDTC at FAX number 202-261-8198). 
+ 
+¶6. (SBU) Sarfati acknowledged that his company is regularly 
+audited by the Israeli Ministry of Defense's Directorate for 
+Security (Malmab/DSDE), and volunteered that all RDT 
+employees go through background checks and receive Israeli 
+military security clearances.  He claimed not to be familiar 
+with new GOI export control laws, however, and suggested that 
+his security office might be familiar with them. 
+ 
+¶7. (SBU) At the beginning of the meeting, Sarfati said that 
+salesman Oz Koren, who has worked at RDT for two years, had 
+allowed Fibrotex to borrow the camera for "a few days."  At 
+another moment, he said RDT may have left the camera with 
+Fibrotex for "a short amount of time."  At the end of the 
+meeting, Sarfati backpedaled from his original statement and 
+suggested instead that the unit was in fact not left 
+unsupervised overnight.  He said he would have to ask the 
+salesman to find out more about the dates that Fibrotex used 
+the camera, and indicated that he would be able to supply a 
+listing of the dates when Fibrotex used the camera, if such a 
+listing is requested. 
+ 
+********************************************* ******************** 
+Visit Embassy Tel Aviv's Classified Website: 
+http://www.state.sgov.gov/p/nea/telaviv 
+ 
+You can also access this site through the State Department's 
+Classified SIPRNET website. 
+********************************************* ******************** 
+JONES

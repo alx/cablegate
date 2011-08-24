@@ -1,0 +1,284 @@
+05PARIS4198
+FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR ONE
+Wed Jun 15 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+150930Z Jun 05UNCLAS SECTION 01 OF 03 PARIS 004198 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR; AVA 
+SMTIH); EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR ONE 
+PRINCIPAL CANDIDATE FOR EURP - TRADE AND ECONOMIC DEVELOPMENT 
+(MAY 8 - 26, 2006) 
+ 
+REF: STATE 004520 
+ 
+POST WOULD LIKE TO NOMINATE ONE PRINCIPAL CANDIDATE FOR 
+SUBJECT PROGRAM: MR. ANTOINE SAINTOYANT. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 277 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - EURP Trade and Economic Development 
+START MEMO PROJ-DESC: 
+This project is intended to give economic and trade 
+specialists, policy planners, academics, economic journalists 
+and labor leaders an understanding of the U.S. economic system 
+and the domestic economic forces that influence U.S. trade 
+policy and the policy-making local initiatives in 
+international trade and export promotion, and innovative 
+strategies for regional economic development. 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Regional 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 05/06/2006 
+SESSION-DATE: 05/08/2006 
+RETURN-POST: 05/27/2006 
+NO-OF-PART: 1 
+RANK-ORDER: 4 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: RP 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Trade 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Antoine 
+M-NAME: 
+L-NAME: Saintoyant 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Ministere de l'Economie et des Finances 
+M-ADDR2: Direction des Relations Economiques 
+M-ADDR3: Teledoc 543 - 139, rue de Bercy 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75572 
+M-ZIP: 
+M-PHONE: + (33) 1.53.18.82.63 
+M-FAX: 
+M-EMAIL: antoine.saintoyant@dree.org 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 08/28/1977 
+MAR-STAT: M 
+BIRTH-CITY: Paris 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Deputy Office Head, Foreign Agricultural Policy, Trade and 
+Development, Trade Directorate, Ministry of Economy, since 
+2003 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+June-December 2001 - Acting Cabinet Head, Prefecture of Ariege 
+January-June, 2001 - In charge of European Cooperation issues, 
+Embassy of France in Jordan 
+September-November 1997 - Trainee, Directorate General of the 
+Cultural, Scientific and Technical relation, Scientific and 
+Technical cooperation department, U.S. Office, Ministry of 
+Foreign Affairs, Paris 
+October-November 1996 - Trainee, Accounting Management 
+Services, Societe Generale, Paris 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Jordan - January-June 2001, training at French Embassy 
+Canada, Turkey, Jordan, Morocco, India, Vietnam - Tourism 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+2001-2003 - College for Senior Civil Servants, Paris and 
+Strasbourg 
+1998-1999 - International Studies Certificate in Economics, 
+University of Bonn, Germany 
+1995-1998 - Institute for Political Studies of Paris (civil 
+service section) 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 3 
+ENGL-SPEAK: 3 
+ENGL-COMP: 3 
+START OTHER-LANGS: 
+OTHER-LANG: German 
+OTHER-LANG-ID: GM 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: Spanish 
+OTHER-LANG-ID: QB 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Our principal objective is to strengthen our contact with a 
+potential high-level civil servant in the French government 
+trade bureaucracy and help him better understand the US 
+position on key economic issues.  We expect that in the near 
+future we will continue to deal with Mr. Saintoyant in his new 
+post. In the more distant future he is likely to become a more 
+influential player on the whole range of US-EU trade issues. 
+By having him visit the United States for the first time early 
+in his career and via this program, we will solidify Mr. 
+Santoyant's appreciation for the importance of Franco-American 
+cooperation on trade relations and his understanding of the 
+extensive common interests shared by the US and France on 
+trade liberalization. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Mr. Saintoyant would be an excellent participant in the 
+project "Trade and Economic Development."  This subject is at 
+the center of European and French thinking on how to maintain 
+forward momentum in multilateral trade negotiations, since the 
+commitment of developing countries to trade liberalization is 
+essential to the success of future WTO negotiations.  The 
+French finance ministry's trade directorate is the source of 
+some of the most creative thinking in Europe on this topic. 
+Mr. Saintoyant could provide valuable insights on how free 
+trade can help spark economic growth in developing countries, 
+while also offering a sophisticated presentation of the limits 
+of trade liberalization in dealing with world poverty. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Sylvie Vacheret 
+START MEMO NOMINATING-JUSTIFICATION: 
+Saintoyant's past experience and future prospects make him an 
+ideal candidate for the IV Program. After graduating from the 
+prestigious Ecole Nationale d'Administration, a college for 
+future high-level civil servants, he was hired to his current 
+position at the Ministry of Economics and Finance. This billet 
+is a very sensitive one for American interests as is 
+demonstrated by the fact that this job put him in charge of 
+handling international negotiations pertaining to agriculture 
+and development issues. He is a desirable candidate for this 
+program because the issues he is in charge of are crucial to 
+ongoing and future US trade policy objectives including, for 
+example, WTO Doha Round and relations with developing 
+countries. To take part in the IV Program would ideally make 
+him more sympathetic to, or at least more understanding of, 
+U.S. positions on such issues. Furthermore, since he is in 
+charge of negotiations and other issues important to the U.S., 
+what he learns and experiences via this program will be passed 
+on to those in his chain of command, both upward as well as 
+downward. 
+Evidence of the fact that such an experience could make the 
+French Ministry of Economics and Finance more amiable to U.S. 
+interests is the testimony of the U.S. Embassy Trade Officer 
+who has had contact with him for two years. This officer 
+considers Saintoyant to be more open to external views than 
+many other French officers in this trade directorate. He 
+appears to be sensitive to new ideas and recognizes the 
+importance of not evaluating issues through a protectionist, 
+nationalistic lens. Providing him with further American 
+acquaintances and an on-the-ground view of how the U.S. works 
+could markedly broaden this potential high-level negotiator's 
+worldview in a direction sympathetic to the U.S. 
+Saintoyant will soon take a new position in the Ministry of 
+Economics and Finance. A recent reorganization of this 
+ministry has opened several positions that would allow him to 
+exercise further influence in roles dealing with international 
+trade as well as international finance issues. As an example 
+of how influential these new positions are, one of the options 
+would have him working for the preparation of G8 meetings. In 
+the next 10 years, Saintoyant will almost certainly occupy a 
+more senior position at the Ministry of Economics and Finance 
+or overseas. It is even feasible that he will serve as an 
+advisor to a French minister. In any case, his current role is 
+vital enough that this program would, through him, make the 
+Ministry of Economics and Finance more understanding of U.S. 
+concerns. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: PA - U.S. Embassy Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 550 
+PERSON-ID: 449 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

@@ -1,0 +1,134 @@
+07MOSCOW3592
+EXTRANCHECK: PRE-LICENSE CHECK: MICRAN,
+Mon Jul 23 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0005
+PP RUEHWEB
+
+DE RUEHMO #3592/01 2041143
+ZNR UUUUU ZZH
+P 231143Z JUL 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2301
+RUEAORC/USCBP WASHDC
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS MOSCOW 003592 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: MICRAN, 
+TOMSK, RUSSIA, (A) D371541 AND (B) D371543 
+ 
+REFTEL: 1) USDOC 03693, 2) 05 USDOC 02247, 3) 06 
+ 
+MOSCOW 01138 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, (A) 
+and (B) Micran, Tomsk, Russia. The company is listed 
+on BIS license applications (A) D371541 and (B) 
+D371543 as the ultimate consignee of (A) 200 
+semiconductors, 12-bit, 210msps adc and (B) 
+semiconductor, 16-bit, 130msps adc. These items are 
+controlled for national security and nuclear non- 
+proliferation reasons under ECCN 3A001. The licensee 
+is (A) and (B) Fintronic OY, Ruosilantie 14B, 
+Helsinki, Finland. 
+ 
+¶3. On July 19, 2007, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted a pre- 
+license check at the offices of Research and 
+Production company Micran, 47 Vershinina st., Tomsk, 
+Russia. The export control team met with , Evgeny 
+Andronov, Head of Test and Measurement Department and 
+Vladimir Dotsenko, Research and Development Department 
+Chief. 
+ 
+¶4. NOTE: Micran was the subject of reftel 2, 
+requesting PSVs on licenses D319612, D328807, D306056, 
+and D313397.  ECO Moscow conducted the PSV on December 
+21, 2005, reported as favorable in reftel 3. END NOTE. 
+ 
+¶5. Micran was founded in 1991 by a group of eight 
+scientists to seek opportunities in the microwave 
+engineering and production sector. The company is 
+privately held by these individuals, and is registered 
+as a closed joint stock company.  Micran produces and 
+develops equipment for the microwave electronics 
+industry, including radio links, telecommunications 
+products and high-frequency radio measurement 
+equipment.  Micran is responsible for 50% of Russian 
+domestic production of microwave radio links, 
+operating in frequency bands from 150Mhz to 40Ghz. 
+Micran currently employs around 500 (NOTE: this is up 
+from 300 in 2005 END NOTE) at its headquarters and 
+fabrication facilities in Tomsk, and has a small 
+representative office in Moscow.  Mr. Andronov reports 
+that Micran is hoping to build a second production 
+facility in Tomsk. 
+ 
+¶6. The Linear Technology Co. ADCs in reftel 1 will be 
+used in the production of radio relay and testing 
+equipment.  The 200 12-bit, 210msps ADCs described in 
+D371541 will be used in the Modem-01 128QAM-Modem/IF 
+board, utilized in the MD1-6 access module of the MIC- 
+RL4-40 SDH Microwave Digital Radio Relay System.  The 
+Modem-01 provided analog to digital data signal 
+conversion using an international protocol for use 
+worldwide.  The 40 16-bit, 130msps ADCs will be used 
+in the production of Vector/Scalar Network Analysis 
+equipment and Spectrum Analysis devices.  These 
+devices are currently in development, and have not yet 
+been certified for sale.  The units will be used in 
+house for testing, and upon certification, will be 
+added to the sales inventory.  Mr. Dotsenko 
+anticipates the need for additional orders of the ADCs 
+when the products are type certified. 
+ 
+¶7. Mr. Andronov stated that Micran is not a military 
+contractor, and that the commodities in reftel will 
+not be used in military projects. While Micran does 
+not contract for military production, it does supply 
+equipment and specialty design services for other 
+Russian firms, which may or may not be involved in 
+military contract work.  Major clients of Micran 
+include Svyazinvest, which owns a sizeable majority of 
+public communications equipment infrastructure in 
+Russia, the oil and gas industry, and the mobile 
+telephone carriers of Russia and the Commonwealth of 
+Independent States. 
+ 
+¶8. Prior to installation into equipment, the ADCs will 
+be placed in a locked storage room.  The building uses 
+a proximity card access system with integrated video 
+monitoring, which prevents unauthorized access.  A log 
+system is utilized for inventory control, and Micran 
+ 
+has had no thefts.  In addition to the electronic 
+system, Micran has uniformed security personnel at the 
+premesis 24 hours a day, seven days a week.  Mr. 
+Andronov and Mr. Dotsenko are familiar with U.S. and 
+Russian export controls, and are aware of the general 
+conditions of these types of licenses. 
+ 
+¶9. Recommendations: Post recommends Micran, Tomsk, 
+Russia, as a reliable recipient of sensitive U.S. 
+origin commodities. It is requested that post be 
+notified of final disposition of the application, and 
+of any shipments for this organization in order to 
+conduct appropriate FCS follow-up and statistical 
+reporting. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

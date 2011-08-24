@@ -1,0 +1,182 @@
+08PARIS1325
+THALES PRELIMINARY RESPONSE TO BLUE LANTERN END USE CHECK
+Fri Jul 11 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHFR #1325/01 1931139
+ZNR UUUUU ZZH
+R 111139Z JUL 08
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 3727
+INFO RHMCSUU/FBI WASHINGTON DC
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHDC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS PARIS 001325 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR PM/DTCC - BLUE LANTERN COORDINATOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC FR
+SUBJECT: THALES PRELIMINARY RESPONSE TO BLUE LANTERN END USE CHECK 
+ON SATELLITE COMPONENTS 
+ 
+REF: SECSTATE 049721 
+ 
+¶1. (SBU) On July 10, Thales Alenia Space President/CEO Reynald 
+Seznec and Thales Group Senior VP for EU and NATO cooperation met 
+with Econ Mincouns and Econoff in response to Embassy's letter 
+relaying DTCC request for information (reftel).  They previewed 
+their pending written response, leaving a summary memorandum of 
+their key points(para 2).  They stated that Thales Alenia Space is 
+assembling a report on the disposition of previously licensed 
+satellite components and technology that will be ready in "a few 
+weeks."  They will also provide "a broad description" of the three 
+commercial telecommunications satellites sold to Chinese and Hong 
+Kong companies but say they are constrained by both French law and 
+commercial secrecy considerations from providing the detailed 
+specifications and parts/components list, requested reftel.  They 
+will also provide the USG with the findings of a recent outside 
+audit of Thales's export control compliance practices, including for 
+its "ITAR-free" operations.  They indicated that Thales Alenia Space 
+executives and technical experts are prepared to travel to 
+Washington to discuss this matter at DTTC's convenience. 
+ 
+¶2. (SBU) Text of Memorandum left by CEO Seznec: 
+ 
+Thales Alenia Space compliance with ITAR 
+---------------------------------------- 
+ 
+Thales Alenia Space (TAS) received, on 16 June 2009, a letter dated 
+3 June from the US Embassy in Paris requesting information about 
+items licensed under ITAR for use in the Spacebus 4000 programme and 
+further details concerning three "ITAR-free" telecommunications 
+satellites launched in China (Apstar 6, Chinasat 6B and Chinasat 9). 
+TAS has been advised that this letter constitutes a "Blue Lantern" 
+post-shipment check carried out in accordance with section 40A of 
+the US Arms Control Export Act. Specifically, the letter asks for: 
+ 
+-- a detailed report on the use and whereabouts of ITAR-controlled 
+components supplied for the Spacebus 4000 programme; 
+-- the specifications of Apstar 6, Chinasat 6B and Chinasat 9; and 
+-- a detailed list of the component parts of these satellites. 
+ 
+The letter warns that TAS's response will have a bearing on its 
+future licence applications. 
+ 
+TAS is gathering the information requested in respect of 
+ITAR-controlled components supplied for the Spacebus 4000 programme. 
+It has an extensive export compliance process, backed by strong 
+management commitment, to ensure that such items are properly 
+tracked and safeguarded. The requested information is being collated 
+and will be communicated as soon as the work is complete. 
+ 
+As regards the specifications of the satellites concerned and lists 
+of their components, there are difficulties in providing this 
+information, related to commercial confidentiality and French law: 
+ 
+-- commercial confidentiality exists on account of customer/supplier 
+rights and the strong competition in the market for 
+telecommunications satellites. 
+ 
+-- French law n0 80-538 of July 16, 1980 concerning communication of 
+economical, commercial or technical documents and information to 
+foreign individuals or legal entities forbids persons to request, to 
+look for or to communicate, in writing or orally, or in any other 
+form, economical, commercial, industrial, financial or technical 
+documents or information which could constitute evidence in foreign 
+judicial or administrative proceedings or within the framework of 
+such proceedings. It requires companies and individuals receiving 
+requests for information of this nature to immediately inform the 
+appropriate Minister. 
+ 
+Following consultation with the French authorities, TAS will not 
+include in its reply to your letter the information requested 
+concerning the specifications of the satellites and their 
+components. TAS will however provide a broad description of the 
+three satellites, which it is hoped will be sufficient to satisfy 
+the US authorities that these are normal commercial products. 
+ 
+TAS will also communicate to State Department the results of an 
+external review of the processes and procedures used in TAS to 
+ensure that its ITAR-free satellites are compliant with respect to 
+US ITAR. This review, carried out by an eminent US law firm, has 
+just recently been completed. While confirming that TAS has a 
+detailed and well-implemented export compliance programme, that the 
+process for tracking parts and equipment appears strong, and that 
+there is a high level of confidence that ITAR controlled parts are 
+stored and selected for use properly, it also identifies some issues 
+which need to be addressed and makes a number of recommendations for 
+ 
+improvement. TAS will implement these recommendations. Full details 
+of the findings and recommendations of the review will be made 
+available to State Department. 
+ 
+Based on the results of the external review and the steps which TAS 
+will immediately put in place to implement its recommendations, TAS 
+hopes that the US authorities will accept that it is a responsible 
+custodian of US ITAR-controlled items and that accordingly its 
+future licence applications will be dealt with normally. 
+ 
+Thales Alenia Space 
+9 July 2009 
+ 
+Attachment: Courtesy Translation of French Law 80-538 
+ 
+Act n0 80-538 dated July 16, 1980 concerning the communication of 
+economical, commercial or technical documents and information to 
+foreign individuals or legal entities. 
+ 
+The French National Assembly and Senate have adopted, 
+The President of the French Republic promulgates the following act: 
+ 
+ 
+Art. 1. The title of act n0 68-678 dated July 26, 1968 concerning 
+the communication of documents and information to foreign 
+authorities in the field of maritime commerce is modified as 
+follows: 
+ 
+"Act concerning the communication of economical, commercial, 
+industrial, financial or technical documents and information to 
+foreign individuals or legal entities." 
+ 
+Art. 2. 
+ 
+¶I. - Article 1 of act n0 68-678 dated July 26, 1968 referred to 
+above reads as follows: 
+ 
+"Art. 1. - Subject to international treaties or agreements, it is 
+forbidden for all physical persons of French nationality, or who 
+usually reside on the French territory, as well as all executives, 
+representatives, agents or employees of legal persons having their 
+head office, or an establishment, in France, to communicate to 
+foreign public authorities, in writing, orally or under any other 
+form, in any place, economical, commercial, industrial, financial or 
+technical documents or information, the communication of which would 
+cause prejudice to the sovereignty, to the security, to the 
+essential economic interests of France or to public order as 
+specified by the administrative authority where necessary." 
+ 
+II Article 1 bis has been inserted after article 1 of act n0 68-67 8 
+of July 26, 1968 referred to above, and reads as follows: 
+"Art. 1. bis. Subject to international treaties or agreements and 
+laws and regulations in force, it is forbidden for any person to 
+request, to look for or to communicate, in writing or orally, or in 
+any other form, economical, commercial, industrial, financial or 
+technical documents or information which could constitute evidence 
+in foreign judicial or administrative proceedings or within the 
+framework of such proceedings." 
+ 
+Art. 3. Article 2 of the above mentioned act n0 68-678 dated July 
+26, 1968 is modified as follows: 
+ 
+"Art. 2. The persons mentioned in articles 1 and 1 bis must 
+immediately inform the appropriate minister f they receive a demand 
+concerning such communication." 
+ 
+STAPLETON

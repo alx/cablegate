@@ -1,0 +1,52 @@
+05PARIS350
+PARIS - GLOBAL INFORMATION TECHNOLOGY
+Wed Jan 19 00:00:00 +0100 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS PARIS 000350 
+ 
+SIPDIS 
+ 
+DEPT FOR IRM/OPS/ENM, IRM/OPS/MSO, IRM/OPS/PMA, EUR/EX/IRM 
+FRANKFURT FOR RIMC 
+ 
+E.O. 12958: N/A 
+TAGS: AMGT ACOA CMGT ANET KRIM AGIT
+SUBJECT:  PARIS - GLOBAL INFORMATION TECHNOLOGY 
+MODERNIZATION - UNCLASSIFIED (GITM-U) - NETWORK DESIGN 
+MARSEILLE 
+ 
+REF: A. STATE 9748, B. PARIS 0106, C. 04 STATE 271051 
+ 
+¶1.   Paris greatly appreciates efforts that GITM-U, MSO and 
+ENM network engineers have put into designing the upgrade to 
+OpenNet Plus in Paris and Marseille. 
+ 
+¶2.  However, while there may not be indications of excessive 
+or frequent circuit outages between Marseille and Paris (per 
+ref A), the fact remains that without a local domain 
+controller in Marseille users there will not be able to 
+logon and perform any type of work during an outage or 
+network latency problem.  Marseille performs all consular 
+operations for southern France and Monaco.  Even minimal 
+outage periods have a serious impact on the consulate's 
+ability to check passports, issue visas or do name checks, 
+etc.  The number of system users should not be a 
+consideration.  Consulate General Marseille has a vital role 
+to play in diplomatic and consular operations in France and 
+a significant public clientele benefits from its operations. 
+ 
+¶3.  Since cost should not be a factor, Paris strongly 
+believes that it would be prudent to install a domain 
+controller in Marseille to allow some operations to continue 
+during any outage that might occur.  If necessary, equipment 
+can be made available from existing Paris stock.  Potential 
+cost savings could be realized by doing this now rather than 
+later when another installation team would have to be 
+scheduled to travel to post. 
+ 
+¶4.  Post requests that the Department (MSO and ENM) 
+reconsider the network design for Marseille to include a 
+domain controller now. 
+ 
+Wolff

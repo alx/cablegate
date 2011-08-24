@@ -1,0 +1,196 @@
+09STATE28191
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Tue Mar 24 00:00:00 +0100 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0022
+RR RUEHWEB
+
+DE RUEHC #8191 0831849
+ZNR UUUUU ZZH
+R 241832Z MAR 09
+FM SECSTATE WASHDC
+TO RUEHNE/AMEMBASSY NEW DELHI 0000
+RUEHTV/AMEMBASSY TEL AVIV 0000
+RUEHCG/AMCONSUL CHENNAI 0000
+INFO RUETIAA/DIRNSA FT GEORGE G MEADE MD 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000UNCLAS STATE 028191 
+ 
+SIPDIS 
+NEW DELHI FOR REBECCA GARDNER 
+TEL AVIV FOR JASON GRUBB 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC IN IS
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 050109444 
+ 
+¶1. This is an Action Request. See paragraphs 2 - 4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Posts' assistance in conducting 
+a post-shipment check on license 050109444 for the export of 
+aircraft parts to India. Posts are requested to complete this 
+Blue Lantern check within 45 days. Lack of response to a Blue 
+Lantern check will affect pending and future licenses 
+involving parties to this license. 
+ 
+¶3. Reason for Request: This request is to verify that the Air 
+Force of India received the aircraft parts listed below. This 
+request is also to establish the bona fides of the foreign 
+intermediate consignee and foreign consignee. Both are listed 
+on the license as having the same address in Bangalore, but 
+the purchase order from the foreign consignee lists an 
+Israeli address. 
+ 
+¶4. Action Request Post New Delhi: 
+ 
+Post New Delhi is requested to verify that the end-user 
+received the aircraft parts listed below by making 
+appropriate inquiries to the Air Force of India. Post is also 
+requested to establish the bona fides of foreign consignee, 
+Sudarrshan Technical Services, by making appropriate 
+inquiries to representatives of the company. The foreign 
+consignee and foreign intermediate consignee, Scope Metal 
+Group, are listed on the license as having the same address 
+in Bangalore, but the purchase order lists Scope Metals Group 
+as having an Israeli address. The following points are 
+included for guidance: 
+ 
+(To Air Force of India) 
+ 
+--Can you confirm the order of the aircraft parts listed on 
+this license (Contract # AES/STS/031/07-08)? Did you receive 
+all the parts listed below? 
+ 
+(To Sudarrshan Technical Services) 
+ 
+--What is your relationship with Scope Metals Group? What are 
+the terms of the agreement between you and Scope Metal Group 
+in this transaction? What role is Scope Metal Group playing 
+in this transaction? What role is your company playing in 
+this transaction? Did you pay the Scope Metals Group any fees 
+or commissions for its services in this transaction? Did you 
+receive any fees or commissions for your services in this 
+transaction? 
+ 
+--Why does your company and Scope Metals Group share an 
+address in Bangalore on this export license? 
+ 
+--Did your company ever retain physical possession of the 
+items listed below? Are you familiar with the regulations 
+governing the import of U.S.-origin defense articles, 
+including restrictions on re-transfer or re-export? 
+ 
+In its reply, Post is encouraged to comment on any 
+information pertinent to this transaction such as security of 
+facilities, end-use, and concerns about the entities involved. 
+ 
+Action Request Post Tel Aviv: 
+ 
+Post Tel Aviv is requested to establish the bona fides of 
+foreign intermediate consignee Scope Metals Group LTD by 
+making appropriate inquiries to representatives of the 
+companies. Post is requested to determine why the company is 
+listed as having an Indian address on the license while the 
+purchase order lists the company as having an Israeli 
+address. The following points are included for guidance: 
+ 
+(To Scope Metals Group) 
+ 
+--What is your relationship with Sudarrshan Technical 
+Services? What are the terms of the agreement between you and 
+Sudarrshan Technical Services in this transaction? What role 
+is Sudarrshan Technical Services playing in this transaction? 
+What role is your company playing in this transaction? Did 
+you pay Sudarrshan Technical Services any fees or commissions 
+for its services in this transaction? Did you receive any 
+fees or commissions for your services in this transaction? 
+ 
+--Why does your company and Sudarrshan Technical Services 
+share an address in Bangalore on this export license? 
+ 
+--Did your company ever retain physical possession of the 
+items listed below? Are you familiar with the regulations 
+governing the import of U.S.-origin defense articles, 
+including restrictions on re-transfer or re-export? 
+ 
+In its reply, Post is encouraged to comment on any 
+information pertinent to this transaction such as security of 
+facilities, end-use, and concerns about the entities involved. 
+ 
+¶5. Details of license applications: 
+ 
+DTC Case: 050109444 
+ 
+QUANTITY/COMMODITY: 
+ 
+250 Stud Nuts, P/N CA18009N-43, NSN 1095-01-065-9833 
+ 
+License Value: USD $7,000 
+ 
+SELLER: 
+ 
+ISO Group Inc. 
+7700 Technology Drive 
+West Melbourne, FL 32904 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Scope Metals Group LTD 
+#18, 2nd Floor Kempanna Cross BSK Temple Road, Mavalli 
+Bangalore 56004 
+ 
+AND 
+ 
+PO Box 3, BNE Ayish 60860 
+Israel 
+Tel:  972-8-8691000 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Sudarrshan Technical Services 
+#18, 2nd Floor Kempanna Cross BSK Temple Road, Mavalli 
+Bangalore 56004 
+ 
+FOREIGN END-USER: 
+ 
+Indian Air Force 
+Air Headquarters (Vayu Bhawan) 
+New Delhi - 110011 
+India 
+ 
+PURPOSE: 
+ 
+Scope Metals Group is buying the commodities for supply to 
+Sudarrshan Technical Services, which is under contract with 
+the Indian Air Force to service the Advanced Light Helicopter 
+and MiG-29 (Contract # AES/STS/031/07-08). These parts are 
+used to attach countermeasure dispensing systems to the 
+aircrafts. 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC will fax documentation to Posts 
+upon request): 
+ 
+Emails between US Applicant ISO Group and Scope Metals Group 
+ 
+Purchase Order No. 5500008530 from Scope Metals Group dated 
+005/18/2008 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line. POC is Kyle M. Ballard, Phone: 
+202-663-1929; Email: BallardKM@state.gov; SIPRNET: 
+BallardKM@state.sgov.gov. The Blue Lantern Guidebook (ref) is 
+available as a PDF file in the Bunche Library's E-Book 
+Collection on the DOS Intranet: 
+http://virtuallibrary.state.gov/ 
+BlueLanternGuidebook2006%2520 final .pdf 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+CLINTON

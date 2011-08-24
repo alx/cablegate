@@ -1,0 +1,81 @@
+09MOSCOW1260
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: AMOTEC TECHNOLOGY,
+Tue May 19 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0004
+PP RUEHWEB
+
+DE RUEHMO #1260 1390738
+ZNR UUUUU ZZH
+P 190738Z MAY 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3313
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001260 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: AMOTEC TECHNOLOGY, 
+MOSCOW, RUSSIA. 
+ 
+REFTELS: REQUEST #4210009; DATED 4/30/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the foreign purchaser, Amotec 
+Technology, Moscow, Russia. The company is listed on BIS license 
+application: D407478 as the foreign purchaser of one single diode 
+unbalanced model no: DPL26. This item is controlled for national 
+security, missile technology, nuclear non-proliferation and 
+anti-terrorism reasons under ECCN 3A001. The licensee is Radar 
+Systems Technology, 480 San Antonio Road, Suite 250, Mountain View, 
+CA 94040. 
+ 
+¶3. On May 7, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of Amotec Technology, 100, Dmitrovskoe 
+Shosse, bld.2, Moscow, Russia. The export control team met with 
+Vladimir Grevtsev, Deputy General Director. 
+ 
+¶4. Amotec Technology was established in 2000 by Victor Mochelov, the 
+General Director and has 10 employees. Amotec Technology has been 
+importing licensable U.S. origin technology since its inception. 
+Their first license was issued in 2000 and it was for purchases made 
+from Agilent Technology.  Vladimir Grevtsev stated that Amotec 
+Technology has an ongoing 10 year partnership with Agilent 
+Technology.  Grevtsev stated that Amotec Technology makes purchases 
+for the Russian military, research, space and aviation industries. 
+ 
+¶5. Grevtsev stated that Amotec Technology is very aware of the 
+export compliance responsibilities regarding the purchase of 
+licensable U.S. technology. He stated that all licensable U.S. 
+origin purchases are stored in a locked, limited access warehouse. 
+Log books are kept on all purchases. Grevtsev stated the commodity 
+in reftel has already been delivered to CIME (Central Research 
+Institute of Measuring) and is therefore not available to the export 
+control team. 
+ 
+¶6. The export control team found the office space to be considerably 
+smaller than that which would be required for the 10 or more 
+employees of Amotec Technology. Grevtsev explained that most 
+employees are working from home via the Internet. The reftel 
+equipment was shipped to the stated end user for the end use for 
+which it was licensed. The consigneeQs answers were not evasive. 
+ 
+¶7. Recommendations: Post makes no recommendation for Amotec 
+Technology, Moscow, Russia, as a reliable recipient of sensitive 
+U.S. origin commodities.  Additional information exists which was 
+provided by another agency and should be considered before making a 
+final license determination. 
+(FCS MOSCOW/BBLECHER/PLISTON) 
+BEYRLE

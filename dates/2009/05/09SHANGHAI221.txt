@@ -1,0 +1,248 @@
+09SHANGHAI221
+TSMC AND SMIC: TWO SEMICONDUCTOR RIVALS IN SHANGHAI FACE OFF
+Mon May 18 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Shanghai
+VZCZCXRO6474
+RR RUEHCN RUEHGH
+DE RUEHGH #0221/01 1380452
+ZNR UUUUU ZZH
+R 180452Z MAY 09
+FM AMCONSUL SHANGHAI
+TO RUEHC/SECSTATE WASHDC 7940
+INFO RUEHBJ/AMEMBASSY BEIJING 2785
+RUEHCN/AMCONSUL CHENGDU 1976
+RUEHGZ/AMCONSUL GUANGZHOU 0433
+RUEHSH/AMCONSUL SHENYANG 1967
+RUEHHK/AMCONSUL HONG KONG 2145
+RUEHIN/AIT TAIPEI 1764
+RUEHGP/AMEMBASSY SINGAPORE 0258
+RUEHKO/AMEMBASSY TOKYO 0651
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEATRS/DEPT OF TREASURY WASHINGTON DC
+RUEHUL/AMEMBASSY SEOUL 0445
+RHEHAAA/NSC WASHINGTON DC
+RUEHGH/AMCONSUL SHANGHAI 8585UNCLAS SECTION 01 OF 03 SHANGHAI 000221 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EAP/CM, DAS DAVIES 
+TREASURY FOR OASIA/INA -- DOHNER/HAARSAGER/WINSHIP 
+TREASURY FOR IMFP -- SOBEL/CUSHMAN 
+USDOC FOR ITA DAS KASOFF, MELCHER, MAC/OCEA 
+NSC FOR LOI, SHRIER 
+STATE PASS CEA FOR BLOCK 
+STATE PASS USTR FOR STRATFORD/WINTER/MCCARTIN/KATZ/MAIN 
+STATE PASS CFTC FOR OIA/GORLICK 
+ 
+E.O. 12958: N/A 
+TAGS: PGOV ECON EFIN ELAB TNGD CH TW
+SUBJECT: TSMC AND SMIC: TWO SEMICONDUCTOR RIVALS IN SHANGHAI FACE OFF 
+AMID ECONOMIC DOWNTURN 
+ 
+REF: SHANGHAI 145 
+ 
+¶1.  (SBU) Summary: TSMC and SMIC, two large semiconductor 
+manufacturers with foundries in Shanghai, saw a "freefall" in 
+orders in late 2008.  The firms hit bottom in December 2008 and 
+January 2009, but orders started to pick up again in Q1 2009. 
+Shanghai-based executives at these firms are cautiously 
+optimistic about the firms' prospects in China in 2009, citing 
+the impact of the Chinese Government's economic stimulus 
+measures.  Neither firm has laid-off employees amid the 
+downturn, instead adopting cost cutting measures like unpaid 
+leave, salary cuts, and hiring freezes, despite local government 
+encouragement to hire new university graduates.  The warming of 
+cross-Strait relations helped SMIC double its market share in 
+Taiwan but has had minimal impact for TSMC, they said.  The two 
+companies have been engaged in litigation battles over the past 
+several years.  End summary. 
+ 
+¶2.  (U) Congenoffs spoke with Shanghai-based executives of 
+Semiconductor Manufacturing International Corporation (SMIC) and 
+Taiwan Semiconductor Manufacturing Company China (TSMC) in April 
+about the impact of the economic downturn on Shanghai's 
+semiconductor industry.  Interlocutors included William Wang, 
+Vice President, TSMC (China); David Liu, Deputy Director of 
+Finance, TSMC (China); Richard Chang, Founder, President and 
+CEO, SMIC; and J. Matthew Szymanski, Vice President, Corporate 
+Relations, SMIC.  TSMC China is a semiconductor foundry 
+established in Shanghai in 2003 (its headquarters are in 
+Taiwan).  The Shanghai foundry manufactures 8 inch wafers, which 
+are sold to IC (integrated circuit) design companies in China 
+for use in mobile phones, PCs, and consumer electronics.  SMIC 
+is incorporated in the Cayman Islands but is headquartered in 
+Shanghai with facilities in Beijing, Tianjin, Chengdu, Wuhan, 
+and Shenzhen.  SMIC makes 8 inch and 12 inch wafers for IC 
+design companies.  Its chips are used in mobile phones, PDAs, 
+and consumer electronics. 
+ 
+"Freefall" in Orders 
+------------------------ 
+¶3.  (SBU) William Wang of TSMC said his company's worldwide 
+sales in 2008 grew by 3.9 percent year-on-year (YOY) with total 
+revenue reaching USD 10.2 billion.  However, much of the growth 
+was in the first half of 2008.  A downturn in orders began in 
+July 2008, leading to a "freefall" in November 2008 when orders 
+plummeted by 80 percent, said Wang.  Orders have declined since 
+and were "the lowest ever" in January 2009.  Wang estimates a 
+20-25 percent YOY global revenue decline in 2009.  TSMC was hard 
+hit by the global economic downturn because of its large 
+exposure to the U.S. market (accounting for 60-70 percent of 
+total sales).  TSMC's Shanghai foundry has also dramatically cut 
+production, manufacturing 30,000 wafers per month in Q4 2007, 
+43,000 by the end of 2008, and now only 15,000 per month. 
+(Note: At full utilization, the Shanghai foundry can manufacture 
+100,000 wafers per month.  End note.)  Capacity utilization, 
+which was at 80 percent in Q3 2008 and 60 percent in Q4 2008, is 
+now only at 25 percent.  Wang acknowledged that the foundry may 
+have expanded too quickly in early 2008. 
+ 
+¶4.  (SBU) SMIC's sales were down 12.6 percent in 2008 compared 
+with 2007, with revenues declining progressively each quarter 
+from USD 362 million in Q1 2008 to USD 272 million in Q4 2008. 
+SMIC also saw a sharp decline in orders in Q4 2008 and Q1 2009, 
+said Richard Chang, with an 85 percent YOY drop in orders in 
+December 2008, the company's "worst month."  The global economic 
+downturn has had a large impact as the company is heavily 
+dependent on exports, which account for 70 percent of its sales. 
+ Capacity utilization declined sharply from 90 percent in Q3 
+2008 to 67 percent in Q4 2008 and 34.9 percent in Q1 2009. Chang 
+thinks the company hit bottom in December 2008. 
+ 
+China Market Still Doing Okay 
+ 
+SHANGHAI 00000221  002 OF 003 
+ 
+ 
+----------------------------- 
+¶5.  (SBU) Despite the sharp global downturn in 2008, our 
+interlocutors said the China market is still doing "okay." 
+According to Wang of TSMC, sales growth for TSMC in China in Q1 
+2009 was "the best" of all the regions, and the number of 
+customers in China (currently 100 IC design companies) is still 
+growing.  Although mainland China only accounted for USD 200 
+million in revenue (2 percent of total worldwide sales) in 2008, 
+Wang expects revenue in China to continue its double-digit 
+growth (sales in China has doubled every year since 2004).  Wang 
+anticipates a "tilted L shaped recovery" globally for TSMC over 
+the next 2-3 years.  "Hopefully we hit bottom in January 2009," 
+he said. 
+ 
+¶6.  (SBU) Chang of SMIC expects the semiconductor industry to 
+continue its recovery in Q2 2009.  He believes the China market 
+has the potential for fastest growth of all regions in the 
+world, as orders picked up 35 percent in Q1 2009 from the 
+previous quarter and is expected to grow 70 percent from Q4 2008 
+by the end of Q2 2009.  The domestic IC supply in mainland China 
+now only meets 20 percent of total IC demand in China, according 
+to SMIC's internal documents, as China continues to churn out 
+products with ICs, such as household appliances, PCs, and mobile 
+phones. 
+ 
+Helped by Chinese Stimulus Measures 
+------------------------------------- 
+¶7.  (SBU) Both TSMC's Wang and SMIC's Chang partly attributed 
+their optimistic outlook for the China market to the stimulus 
+measures recently implemented by the Chinese Government. 
+Although semiconductor manufacturers will not receive anything 
+direct through the stimulus measures, SMIC's large customers, 
+like TV manufacturers Pixelworks and Haier, are likely to 
+benefit from a boost in domestic consumption, said Chang.  Wang 
+similarly expects the government's "household appliances to the 
+countryside" policy to boost rural consumption of household 
+electronics, mobile phones, and PCs, thereby boosting demand for 
+ICs used in these products.  The domestic demand for telecom 
+products should also rise after the deployment of 3G technology 
+in China, said Wang. 
+ 
+No Plans to Layoff Workers 
+-------------------------- 
+¶8.  (SBU) SMIC has 6000 employees in its Shanghai headquarters. 
+According to Szymanski, SMIC has not laid-off any employees amid 
+the downturn but has frozen all new hiring, despite local 
+government encouragement to hire new university graduates. 
+According to Chang, the Shanghai Government has offered to 
+subsidize 20-25 percent of the salary for new university 
+graduate hires for at least one year.  The company has 
+implemented a 15 percent pay cut across the board, with a bigger 
+cut for upper management.  SMIC's labor union has supported 
+these cuts, added Chang, in preference to any layoffs. 
+ 
+¶9.  (SBU) TSMC currently has 1200 employees in its Shanghai 
+foundry (70 of whom are from Taiwan).  Although two-thirds of 
+its machines are currently shut down, TSMC Shanghai does not 
+plan to layoff any employees, said Wang.  Instead, the company 
+is taking other cost cutting measures, such as having employees 
+take 4 days of unpaid leave every month, a policy which Wang 
+projected would be discontinued by the end of May 2009.  The 
+company also relies on natural attrition.  Wang said TSMC does 
+not want to layoff workers since they receive 1-2 years of 
+on-the-job training, a significant investment for the company. 
+(Comment: A bigger concern is likely that laid-off employees 
+would be picked up by rival firms, such as SMIC.  End comment.) 
+ 
+Hoping for More Level Playing Field 
+----------------------------------- 
+¶10.  (SBU) As a Taiwan-based company, TSMC's Shanghai foundry 
+ 
+SHANGHAI 00000221  003 OF 003 
+ 
+ 
+has to "walk a fine line" between Taiwan, Chinese, and U.S. 
+regulations, said Wang.  For example, TSMC has the technology to 
+produce 45nm (nanometer) chips in Taiwan, but is prevented under 
+Taiwan law from deploying technology more advanced than 0.18um 
+(microns) in mainland China.  This places TSMC at a disadvantage 
+in the mainland, said Wang, since some of its competitors face 
+no such restrictions.  Szymanski of SMIC corroborated this, 
+stating that "SMIC exists" because U.S. and Taiwan regulations 
+restrict U.S. and Taiwan firms from deploying its most advanced 
+technology in the mainland.  One other disadvantage for TSMC, 
+according to Wang, is that government-funded projects are often 
+awarded to domestic firms instead of "foreign" firms like TSMC. 
+"Although the Chinese Government wants us to invest more in 
+China, there is some discrimination against us because we are a 
+Taiwan company," said Wang.  He hopes TSMC will be able to 
+compete on a more "level playing field" eventually.  Wang said 
+the recent warming of relations between mainland China and 
+Taiwan has not had a big impact on TSMC's business in the 
+mainland.  The biggest benefit has been that it is now easier to 
+send the company's 300 local employees to Taiwan every year for 
+training.  On the other hand, SMIC has been able to double its 
+market share in Taiwan over the past year, according to Chang, 
+who said that this was due to improved cross-Strait relations 
+under Taiwan President Ma Ying-jeou. 
+ 
+No Love Lost Between Rivals 
+---------------------------- 
+¶11.  (SBU) TSMC's Wang listed SMIC, Huahong NEC, and Grace 
+Semiconductor, all located in Shanghai, as his company's main 
+rivals.  TSMC and SMIC have been engaged in litigation for 
+years, with TSMC suing SMIC for allegedly pilfering its 
+technology.  "They are always trying to steal our technology," 
+said Wang.  According to Szymanski of SMIC, however, TSMC 
+"cannot compete with SMIC in the China market, so it attempts to 
+block SMIC through litigation."  When asked about the current 
+pending lawsuit against SMIC, TSMC's Wang only commented that 
+the case is "still ongoing." 
+ 
+Comment 
+-------- 
+¶12.  (SBU) Like other export-dependent industries in East China, 
+the semiconductor industry in Shanghai was hard hit by the 
+global economic downturn.  Although our interlocutors believe 
+the Chinese Government's economic stimulus measures will have a 
+measurable impact on domestic consumption of consumer 
+electronics, a sentiment heard among other industry and 
+government interlocutors in East China, TSMC and SMIC still 
+remain heavily exposed to overseas markets.  Our interlocutors' 
+cautious optimism for 2009 appears to hinge on the hope that 
+U.S. and other developed economies will bounce back from the 
+"bottom" of a few months ago.  As Wang of TSMC said, although 
+the China market is picking up and his company is trying to 
+diversify its overseas markets, without a recovery in the United 
+States, 2009 could yet turn into another financially challenging 
+year for the industry. 
+SCHUCHAT

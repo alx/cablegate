@@ -13,7 +13,7 @@ FM AMEMBASSY TEL AVIV
 TO RHMFUU/WHITE HOUSE WASHDC
 RUEHC/SECSTATE WASHDC 7938
 INFO RUEHAM/AMEMBASSY AMMAN 4583
-RUEHEG/AMEMBASSY CAIRO 2582"UNCLAS TEL AVIV 001754 
+RUEHEG/AMEMBASSY CAIRO 2582UNCLAS TEL AVIV 001754 
  
 SENSITIVE 
 SIPDIS 
@@ -98,5 +98,4 @@ http://www.state.sgov.gov/p/nea/telaviv
 You can also access this site through the State Department's 
 Classified SIPRNET website. 
 ********************************************* ******************** 
-MORENO 
-"
+MORENO

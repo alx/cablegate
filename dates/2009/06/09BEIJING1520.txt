@@ -1,0 +1,311 @@
+09BEIJING1520
+ESCORT OF THE YOUTH FLOWERS" - CHINA SEEKS
+Fri Jun 05 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Beijing
+VZCZCXRO1474
+OO RUEHCN RUEHGH RUEHVC
+DE RUEHBJ #1520/01 1561108
+ZNR UUUUU ZZH
+O 051108Z JUN 09
+FM AMEMBASSY BEIJING
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 4354
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUEHIN/AIT TAIPEI 7280
+RUEHKO/AMEMBASSY TOKYO 2640
+RUEHUL/AMEMBASSY SEOUL 1268
+RUEHGV/USMISSION GENEVA 2497
+RUEAHLC/DHS WASHDC
+RUCPDOC/USDOC WASHDC
+RUEAWJA/DEPT OF JUSTICE WASHDC
+RHMCSUU/FBI WASHINGTON DCUNCLAS SECTION 01 OF 04 BEIJING 001520 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+State for EAP/CM - SFlatt, JHabjan 
+State for EEB/CIP - SFlynn, FSaeed, DGross 
+USTR for Awinter, JMcHale, TWineland, AMain 
+Commerce for MAC 
+Commerce for ITA - IKasoff, NMelcher 
+DOJ for CCIPS - MDubose and SChembtob 
+FBI for LBryant 
+State for White House OSTP Ambassador Richard 
+Russell 
+NSC for Melissa Hathaway 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD PGOV PHUM SOCI SCUL ECON CH
+SUBJECT: "ESCORT OF THE YOUTH FLOWERS" - CHINA SEEKS 
+TO MANDATE INTERNET FILTERING SOFTWARE IN NEW 
+COMPUTERS 
+ 
+Ref: Beijing 1206 
+ 
+This cable is sensitive but unclassified.  Please 
+handle accordingly. 
+ 
+¶1. (SBU) Summary: China's Ministry of Industry and 
+Information Technology (MIIT) on May 22 mandated 
+that all computers sold in China, whether imported 
+or manufactured domestically, be pre-installed with 
+"Green Dam - Escort of the Youth Flowers" Internet 
+filtering software effective July 1, 2009.  With 
+little more than 30 days advance notice, the 
+announcement offers few details of the technical 
+implementation and raises transparency and market 
+access concerns for U.S. companies.  Compliance with 
+this new requirement would in essence make foreign 
+businesses complicit with China's censorship regime, 
+and exposes foreign computers to potential 
+cybersecurity vulnerabilities.  Emboffs will meet 
+with industry representatives on June 8 to hear 
+their response and proposed actions.  There appears 
+to be early consensus to focus first on delaying the 
+implementation deadline and pursue discussions with 
+the Chinese government.  End Summary. 
+ 
+¶2. (SBU) China's Ministry of Industry and 
+Information Technology (MIIT) on May 22 issued 
+Circular No. 226, a document mandating the 
+installation of "Green Dam - Escort of the Youth 
+Flowers" Internet filtering software on all new 
+computers, imported or made domestically, that are 
+sold in China beginning July 1, 2009.  According to 
+company documents, media reports, and conversations 
+with Beijing-based trade association U.S. 
+Information Technology Office (USITO), the software 
+is a commercial application jointly developed by: (1) 
+a Beijing company that provides text and image 
+filtering technology for China's Great Firewall, and 
+(2) a Zhengzhou company with ties to a Peoples' 
+Liberation Army University.  Functioning much like 
+anti-virus software, the application regularly 
+connects to the Internet to download a current list 
+of what content to block. 
+ 
+Protecting the Youth Flowers 
+---------------------------- 
+ 
+¶3. (SBU) The Circular says that central government 
+agencies including MIIT, the Ministry of Finance, 
+and the Civilization office of the CPC Central 
+Committee have licensed the software to leverage the 
+ongoing "Special Campaign to Restore the Internet 
+from a State of Vulgarity" (see reftel) and to 
+"build a green, healthy, and harmonious network 
+environment and to avoid unhealthy information on 
+the Internet from influencing and hurting the youth." 
+According to a May announcement by MIIT, Green Dam 
+filtering software has already been installed in 
+2.17 million primary and middle schools in China -- 
+80 percent of the nation's total.  The mandate for 
+all schools to install the software, including 
+detailed instructions on the proper downloading and 
+installation of the software, was communicated on 
+April 1 in a joint notice from MIIT, the Ministries 
+of Education and Finance, and the State Council 
+Information Office. 
+ 
+U.S. Industry Concerns 
+---------------------- 
+ 
+ 
+BEIJING 00001520  002 OF 004 
+ 
+ 
+¶4. (SBU) Multinational computer manufacturers Apple, 
+Dell, and HP, and software maker Symantec told USITO 
+they did not learn of the Green Dam requirement 
+until May 26, little more than one month prior to 
+the proposed July 1 implementation date.  HP and 
+Dell said they had been in contact with MIIT's 
+Software Service Department about the Green Dam 
+concept in mid-May, but at that point MIIT suggested 
+the program would be voluntary.  The companies said 
+they did not receive a copy of the Circular on May 
+22, the publication date printed on the document 
+itself.  Despite commitments to the United States at 
+the SED to publish for comment all policy documents 
+affecting economic issues, China has still not 
+posted the notice on any government website. 
+ 
+¶5. (SBU) U.S. companies have significant political 
+concerns that complying with the Chinese 
+requirements to install Green Dam software would 
+make them appear complicit with Chinese Government 
+censorship.  In addition, with only 30 days to test 
+the software and prepare for the implementation of 
+the measure, U.S. businesses are worried about 
+apparent technical problems.  For example, online 
+blog reports and initial compatibility tests by U.S. 
+companies report problems, raising concerns about 
+who will support users if the software causes their 
+computers to crash, for example.  Furthermore, the 
+software is not currently available for Apple and 
+Linux operating systems.  While the Circular 
+announces that the government will "provide free 
+usage to all of society" for one year, manufacturers 
+are concerned about who will cover the installation 
+costs, implementation and customer service costs, 
+and licensing fees beyond the first year. 
+ 
+¶6. (SBU) China's proposal to enforce the use of 
+filtering software violates technology neutrality 
+principles, reduces incentives for commercial 
+innovation in the marketplace, and in many cases 
+causes redundancies with commercial software already 
+offered for sale with many computers.  By 
+maintaining a potentially constant connection with 
+the Internet to download software updates, the 
+software conceivably provides Chinese censors a 
+finer tool with which to monitor user behavior and 
+block content.  It also creates vulnerabilities in 
+the form of a "back door" that could expose 
+computers to covert control by third parties, 
+malicious attacks, or spying. 
+ 
+Strong Support from Government 
+------------------------------ 
+ 
+¶7. (SBU) Based on its meetings with member companies 
+and with MIIT, USITO tells us there is great 
+political pressure within the Chinese government to 
+implement the Green Dam program.  This is attributed 
+partly to support for the new software's 
+installation by Politburo Standing Committee Member 
+Li Changchun, who has authority over the regime's 
+propaganda system. 
+ 
+¶8. (SBU) Following is an unofficial translation of 
+the MIIT circular prepared by the U.S. Information 
+Technology Office: 
+ 
+BEGIN TEXT 
+ 
+Ministry of Industry and Information Technology 
+ 
+BEIJING 00001520  003.2 OF 004 
+ 
+ 
+Circular 
+MIIT Software [2009] No. 226 
+ 
+Notice Concerning the Computer Pre-Installation of 
+Green Internet Filter Software 
+ 
+To Relevant Agencies/Companies: 
+ 
+In order to build a green, healthy, and harmonious 
+network environment and to avoid unhealthy 
+information on the Internet from influencing and 
+hurting the youth, the Ministry of Industry and 
+Information Technology (MIIT), the Communist Party 
+of China Culture and Civilization Office, and the 
+Ministry of Finance (MOF), in accordance with the 
+relevant requirements of P.R.C Government 
+Procurement Law, have applied central finance funds 
+to purchase the rights for one year usage and 
+related services of the "Green Dam - Escort of the 
+Youth Flowers" green Internet filter software 
+(hereafter referred as "Green Dam" software) to 
+provide free usage to all of society.  Through 
+general testing and pilot project application, this 
+software product has proven to be able to 
+effectively filter unhealthy text and image content 
+on the internet, thus this software already 
+possesses the conditions necessary to be pre- 
+installed by computer manufacturers. 
+ 
+In order to build upon the progress made during the 
+implementation of the "Special Campaign to Restore 
+the Internet from a State of Vulgarity," persist in 
+a combination of "punish and prevent," realistically 
+protect the healthy upbringing of underage youth, 
+and push forward in the healthy and orderly 
+development of the Internet, in accordance with the 
+general nation-wide deployment of the "Special 
+Campaign to Restore the Internet from a State of 
+Vulgarity" , MIIT hereby notifies the specific 
+requirements for the computer pre-installation of 
+green Internet filtering software as follows: 
+ 
+¶1. All computers produced and sold within Chinese 
+territory shall pre-install the latest available 
+version of the "Green Dam" software; imported 
+computers shall pre-install the latest available 
+version of the "Green Dam" software before they are 
+sold in China. 
+ 
+¶2. "Green Dam" software shall be pre-installed in 
+the computer's hard disk or the DVD included in the 
+package.  It shall be installed in the restore 
+partition and restore disk of the computer as the 
+backup file. 
+ 
+¶3. "Green Dam" software shall adopt active measures 
+to support the computer manufacturing companies' 
+pre-installation related work. 
+ 
+¶4. Computer manufacturing companies shall complete 
+relevant testing work for pre-installing "Green Dam" 
+software before the end of June 2009.  Computers 
+manufactured or sold after July 1, 2009 shall be 
+pre-installed with "Green Dam" software. 
+ 
+¶5. Computer manufacturers and "Green Dam" software 
+providers shall report to the Software Service 
+Department of MIIT the previous month's computer 
+sales volume on a monthly basis throughout 2009.  In 
+2010, the annual sales data of the preceding year 
+ 
+BEIJING 00001520  004 OF 004 
+ 
+ 
+shall be reported no later than the end of February. 
+ 
+For those who do not pre-install after the stated 
+deadline, those who submit delayed or falsified 
+reports, or those who refuse to report, MIIT will 
+order them to take due make-up or correction 
+measures. 
+ 
+The Ministry of Industry and Information Technology 
+May 19, 2009 
+ 
+(Official Chop) 
+ 
+Contact Points: 
+ 
+Green Dam Software Project Team 
+Wu Weiwei (010-88559383) 
+ 
+The Software Service Department of the Ministry of 
+Industry and Information Technology 
+Liao Kai (010-68208172) 
+ 
+The Administration Department of MIIT 
+ 
+Released on May 22nd, 2009 
+ 
+END TEXT 
+ 
+Comment 
+------- 
+ 
+¶9. (SBU) We will meet with USITO staff and industry 
+representatives on June 8 for their more detailed 
+response to the Green Dam mandate.  Multinational 
+manufacturers clearly face major technical 
+challenges to properly test and deploy software 
+within 30 days, a requirement that me be impossible 
+to meet.  That notwithstanding, the political 
+ramifications of deploying content filtering 
+software paid for by the Chinese government are even 
+more serious and complex.  USITO's parent companies 
+will reportedly seek to brief Washington DC-based 
+officials early in the week of June 8.  We will 
+continue to report on this matter as it develops. 
+End Comment. 
+ 
+PICCUTA

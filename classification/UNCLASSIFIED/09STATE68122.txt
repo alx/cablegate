@@ -1,0 +1,228 @@
+09STATE68122
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Wed Jul 01 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHC #8122 1821409
+ZNR UUUUU ZZH
+R 011346Z JUL 09
+FM SECSTATE WASHDC
+TO RUEHTV/AMEMBASSY TEL AVIV 0000
+INFO RUETIAA/DIRNSA FT GEORGE G MEADE MD 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000UNCLAS STATE 068122 
+ 
+SIPDIS 
+TEL AVIV FOR JASON GRUBB 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC IS
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSES 050121146 AND 050098938 
+ 
+¶1. This is an Action Request. See paragraphs 2 - 4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a post-shipment check on licenses 050121146 and 050098938 for 
+the export of gyroscopes to Israel.  Post is requested to 
+complete this Blue Lantern check within 45 days. Lack of 
+response to a Blue Lantern check will affect pending and 
+future licenses involving parties to this license. 
+ 
+¶3. Reason for Request: The provisos on these licenses state 
+that no depot level maintenance or repairs can be done 
+outside the United States.  The provisos also state that the 
+gyroscopes cannot be used in Missile Technology Control 
+Regime (MTCR) Category I items.  This check is to confirm 
+that the foreign consignees and the Israeli Ministry of 
+Defense (IMOD) are adhering to these provisos and are using 
+the items for the purpose stated on the license. 
+ 
+¶4. Action Request:  Post is requested to confirm with the 
+foreign consignees listed below that the gyroscopes on these 
+licenses were integrated into unmanned aerial vehicles (UAVs) 
+and delivered to the IMOD.  Post is also requested to verify 
+with the IMOD that these UAVs were, in fact, received.  In 
+addition, Post is requested to inquire about any maintenance 
+or repairs that these gyroscopes may have undergone.  The 
+following points are included for guidance: 
+ 
+(To Israel Aerospace Industries) 
+ 
+--Did you receive all the gyroscopes listed below?  How were 
+they used by your company?  Can you provide documentation 
+regarding the final disposition of all of these gyroscopes? 
+ 
+--Did you retain any of these gyroscopes?  If so, please 
+provide any documentation that describes the ultimate end-use 
+of the gyroscopes you have retained. 
+ 
+--Please describe any maintenance or repairs that these 
+gyroscopes may have undergone, including details about what 
+maintenance/repairs were performed, where they were conducted 
+and by whom. 
+ 
+--Are you familiar with the regulations governing the import 
+of U.S.-origin defense articles, including restrictions on 
+re-transfer or re-export? 
+ 
+(To Silver Arrow) 
+ 
+--When was your company established and who are its 
+principals? 
+ 
+--What products and services does your company provide?  Who 
+are your regular customers and where do they reside? 
+ 
+--Did you receive all the gyroscopes listed below?  How were 
+they used by your company?  Can you provide documentation 
+regarding the final disposition of all of these gyroscopes? 
+ 
+--Did you retain any of these gyroscopes?  If so, please 
+provide any documentation that describes the ultimate end-use 
+of the gyroscopes you have retained. 
+ 
+--Please describe any maintenance or repairs that these 
+gyroscopes may have undergone,  including details about what 
+maintenance/repairs were performed, where they were conducted 
+and by whom. 
+ 
+--Are you familiar with the regulations governing the import 
+of U.S.-origin defense articles, including restrictions on 
+re-transfer or re-export? 
+ 
+(To IMOD) 
+ 
+--Can you confirm the order of Heron UAVs from Israel 
+Aerospace Industries?  Can you confirm the order of 
+HERMES-450 UAVs from Elbit/Silver Arrow?  Do these UAVs 
+contain VG700MB-201 and VG34-0803 vertical gyroscopes, 
+respectively?  Can you confirm the receipt of all the 
+gyroscopes listed below? 
+ 
+--Please describe any maintenance or repairs that these 
+gyroscopes may have undergone, including details about what 
+maintenance/repairs were performed, where they were conducted 
+and by whom. 
+ 
+In its reply, Post is encouraged to comment on any 
+information pertinent to this transaction such as security of 
+facilities, end-use, and concerns about the entities involved. 
+ 
+¶5. Details of license applications: 
+ 
+¶A. 
+ 
+DTC Case: 050121146 
+ 
+QUANTITY/COMMODITY: 
+ 
+15 Vertical Gyroscopes VG700MB-201 (P/N 8350-0281-01) 
+ 
+License Value: USD $194,250 
+ 
+SELLER: 
+ 
+Crossbow Technology, Inc. 
+4145 N. First Street 
+San Jose, CA 95134 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Israel Aerospace Industries LTD. 
+MALAT Division 
+Ben Gurion International Airport 
+LOD, 70100 
+Israel 
+Tel: 972-3-9359335 
+ 
+FOREIGN END-USER: 
+ 
+Israel Ministry of Defense 
+Hakirya 
+Tel Aviv 
+Israel 
+ 
+PURPOSE: 
+ 
+For the avionics system of the Heron UAV 
+ 
+¶B. 
+ 
+DTC Case: 050098938 
+ 
+QUANTITY/COMMODITY: 
+ 
+22 Vertical Gyroscopes VG34-0803 
+ 
+License Value: USD $228,866 
+ 
+SELLER: 
+ 
+Goodrich Corporation Rosemount Aerospace Inc 
+14300 Judicial Road 
+Burnsville, MN 55306 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Silver Arrow (subsidiary of Elbit Systems) 
+24 Einstein Street, Technology Park Kiryat Weizmann 
+Nes-Ziona 70400 
+Israel 
+Tel: 972-8-9306137 
+ 
+FOREIGN END-USER: 
+ 
+Israel Ministry of Defense 
+Kiria 
+Tel Aviv 
+Israel 
+ 
+PURPOSE: 
+ 
+The gyroscopes will be installed in the UAV HERMES-450 being 
+delivered to the Israel Ministry of Defense 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC will fax documentation to Posts 
+upon request): 
+ 
+¶A. 
+ 
+Signed DSP-83 Nontransfer and Use Certificate signed by 
+Michael Dierks (Crossbow) dated 29 Aug 2008, Amos Gilad 
+(Political-Military Bureau, Israeli MOD) dated 26 May 2008, 
+and Rami Cohen (Israel Aerospace Industries) dated 22 April 
+2008 
+ 
+Purchase Order No. U000015541 issued by Israel Aerospace 
+Industries dated 14 Aug 2008 
+ 
+¶B. 
+ 
+Signed DSP-83 Nontransfer and Use Certificate signed by Mark 
+Wilson (Goodrich) dated 9 Apr 2008, Amos Gilad 
+(Political-Military Bureau, Israeli MOD) dated 4 Mar 2008, 
+and Shimon Sarid (Silver Arrow) dated 3 Feb 2008 
+ 
+Purchase Order No. SFO002729 issued by Silver Arrow dated 8 
+Jan 2008 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Kyle M. Ballard, Phone: 
+202-663-1929; Email: BallardKM@state.gov; SIPRNET: 
+BallardKM@state.sgov.gov.  The Blue Lantern Guidebook (ref) 
+is available as a PDF file on Intellipedia: 
+http://www.intelink.gov/wiki/ 
+Blue Lantern End-Use Monitoring Program 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+CLINTON

@@ -1,0 +1,95 @@
+08MOSCOW1263
+EXTRANCHECK: PRE-LICENSE CHECK: ENERGO-REMONT
+Tue May 06 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0006
+PP RUEHWEB
+
+DE RUEHMO #1263 1270747
+ZNR UUUUU ZZH
+P 060747Z MAY 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 7923
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001263 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/JHATFIELD 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: ENERGO-REMONT 
+LLC, MOSCOW, RUSSIA, LICENSE NO. D388656 
+ 
+REFTEL: USDOC 02161 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, 
+Energo-Remont LLC, Moscow, Russia. The company is 
+listed on BIS license application D388656 as the 
+ultimate consignee of five thermal infrared cameras. 
+These items are controlled for national security and 
+nuclear non-proliferation reasons under ECCN 6A003. 
+The licensee is L3 Communications Infrared Products, 
+13532 N. Central Expressway MS37, Dallas, TX 75243. 
+ 
+¶3. On April 28, 2008, Export Control Attache Peter 
+Liston and LES Natalya Shipitsina conducted the 
+requested pre-license check at the offices of Energo- 
+Remont LLC, 52, Electrozavodskaya St., Moscow, Russia. 
+The export control team met with Aleksey Kovalev, 
+General Director of Task-T Company and Ivan Sbornov, 
+Deputy General Director of Task-T Company and Chief 
+Specialist of Energo-Remont LLC. 
+ 
+ 
+ 
+¶4.  Energo-Remont is a Limited Liability Company (LLC) 
+and subsidiary of the holding company Spektr-KSK.  It 
+is common practice in Russia to establish a holding 
+company, and as the business expands into other 
+fields, to then establish separate subordinate 
+companies.  Energo-Remont was founded in 2007 when 
+Spektr-KSK expanded into the technical diagnostic and 
+evaluations of facilities in the energy field. 
+Energo-Remont appears to have the technical and 
+commercial sophistication to utilize the subject 
+commodity.  They have a legitimate need for this 
+technology and a legitimate end use. 
+ 
+¶5. Also under the holding company Spektr-KSK is the 
+Task-T.  Task-T was founded in 2006 as a Limited 
+Liability Company specializing in security equipment, 
+safety systems development and deployment.  Task-T was 
+the subject of a favorable Export Control Team Moscow 
+PSV (D363392) in May 2007.  The Holding Company 
+Spektra-KSK in total employs 150 people within their 
+established companies. 
+ 
+¶6. Energo-Remont will utilize the commodity in reftel 
+as part of their cataloged TSM-MP Imaging System on a 
+contractual basis for technical diagnostics and 
+evaluation of overheated components of electrical 
+equipment of power, gas and heating supply facilities. 
+The Thermal Eye 300D Infrared Camera, a component of 
+the TSM-MP Imaging System, will be stored in a limited 
+access, locked storage facility at their main 
+operations center in Moscow when not in use. 
+ 
+¶7. Recommendations: Post recommends Energo-Remont LLC, 
+Moscow, Russia, as reliable recipients of sensitive 
+U.S. origin commodities. It is requested that Post be 
+notified of final disposition of the application, and 
+of any shipments for this organization in order to 
+conduct appropriate FCS follow-up and statistical 
+reporting. 
+(FCS MOSCOW/BBLECHER/PLISTON) 
+BURNS

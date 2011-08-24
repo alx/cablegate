@@ -1,0 +1,218 @@
+08JAKARTA1706
+Jakarta F1 Visa Validation Study
+Wed Sep 10 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Jakarta
+VZCZCXRO9083
+RR RUEHJS
+DE RUEHJA #1706/01 2540035
+ZNR UUUUU ZZH
+R 100035Z SEP 08
+FM AMEMBASSY JAKARTA
+TO RUEHC/SECSTATE WASHDC 0032
+INFO RHMFIUU/DEPT OF HOMELAND SECURITY WASHINGTON DC
+RUEHJS/AMCONSUL SURABAYA 2270
+RUEHJA/AMCONSUL MEDANUNCLAS SECTION 01 OF 03 JAKARTA 001706 
+ 
+SIPDIS 
+ 
+DEPT FOR CA/FPP, CA/EX, CA/VO/F/P, EAP/MTS 
+ 
+E.O. 12958: N/A 
+TAGS: CVIS CMGT KFRD ID
+SUBJECT: Jakarta F1 Visa Validation Study 
+ 
+REF: Jakarta 1192 
+ 
+¶1. SUMMARY: The Consular Section of US Embassy Jakarta recently 
+conducted a student visa validation study.  The study covered F1 
+visa issuances for the six-month period December 1, 2006, to May 31, 
+2007, and was based on queries of Student Exchange and Visitor 
+Information System (SEVIS) status within the Consolidated Consular 
+Database (CCD) followed by queries of the Department of Homeland 
+SecurityQs (DHS) Arrival-Departure Information System (ADIS).  The 
+overstay rate was 4 percent.  However, an additional 13 percent of 
+students adjusted status within 6 months of their arrival to the 
+U.S., raising concerns about the legitimacy of their student intent. 
+ The study found that many applicants who attended one English 
+Language School violated U.S. immigration laws.  The data show a 
+significant decrease in the overstay rate and number of suspect 
+students during the last month of the study period, which was the 
+first month of significantly tightened adjudication standards for 
+English language school students.  This reduced overstay rate and 
+reduced rate of quick adjustments of status in May 2007 mirrors a 
+similar trend revealed in the B1/B2 study of the same period 
+(reftel).  END SUMMARY. 
+ 
+----------- 
+Methodology 
+----------- 
+ 
+¶2. The study was restricted to F1 visa issuances to Indonesian 
+applicants.  The sample was selected from issuances during the 
+six-month period December 1, 2006, to May 31, 2007, the same study 
+period as a recent B1/B2 validation study (reftel). 
+ 
+¶3. In the study period, 753 F1 visas were issued.  The random sample 
+selection was done in accordance with instructions in the Consular 
+Affairs/Fraud Prevention Program (CA/FPP) document "How to use the 
+CCD reports and Excel Spreadsheet to generate random samples of visa 
+applicants for use in a validation study". The number sampled (567 
+applicants) was based upon a statistical formula for calculating 
+sample sizes. The sample number provides a standard +/- 2.1 interval 
+for an overstay rate of 10 percent as suggested by FPP. 
+ 
+¶4. Conoff used the Consolidated Consular Database (CCD) to check the 
+Student Exchange and Visitor Information System (SEVIS) status of 
+all the students in the sample. If the student was in "Active" or 
+"Initial" status, the student was assumed to be enrolled in a valid 
+program or in the process of transferring from one valid program to 
+another.  If the student was in any other SEVIS status, Post looked 
+them up in the Department of Homeland SecurityQs (DHS) 
+Arrival-Departure Information System (ADIS) to help determine if the 
+applicant never travelled, returned to Indonesia, or was still in 
+the U.S.: 
+ 
+-- A SEVIS status of "Cancelled" means the applicant failed to 
+register, and Conoff tried to confirm that the student never 
+travelled; 
+ 
+-- A SEVIS status of "Terminated" means the academic program was not 
+completed, and Conoff tried to confirm that the student went to the 
+U.S. and returned to Indonesia; 
+ 
+-- If the SEVIS status was "Completed", Conoff tried to confirm the 
+student returned to Indonesia or transferred (sometimes with a 
+different SEVIS ID) to another academic program; 
+ 
+-- A SEVIS status of "Deactivated" means the student should have 
+another SEVIS record at a different institution, which Conoff tried 
+to confirm. 
+ 
+¶5. By comparing the SEVIS history and the dates of SEVIS status 
+changes with the studentQs travel history in ADIS, Conoff could make 
+a reasonable assessment of the student's present status.  In many 
+cases ADIS also reports if the traveler adjusted status to become an 
+immigrant or claim asylum.  If the student entered the U.S., and 
+ADIS reported that the individual adjusted status, and the student 
+was not active in SEVIS for 6 months after entry, then for purposes 
+of this study the traveler was counted as a "quick adjustment of 
+status." (Note: Six-month cutoff was chosen arbitrarily. End Note.) 
+Student adjustments of status are common and not inherently 
+problematic, but if a student applicant arrived in the US and 
+applied to be an immigrant within 6 months of entry and did not 
+maintain their student status, they likely misrepresented themselves 
+as students at the time of the visa interview.  Though not 
+technically overstays, since they are in legal status, these 
+applicants are problematic, since they appear to have abused the 
+student visa process. 
+ 
+-------- 
+Findings 
+-------- 
+ 
+ 
+JAKARTA 00001706  002 OF 003 
+ 
+ 
+¶6. Table of findings: 
+ 
+SEVIS Status 
+Active: 359 (63.3%) 
+Cancelled: 38 (6.7%) 
+Terminated: 88 (15.5%) 
+Initial: 27 (4.8%) 
+Completed: 54 (9.5%) 
+Deactivated: 1 (0.2%) 
+ 
+Total: 567 (100%) 
+ 
+Presumed Status Based on Analysis 
+Active Students: 390 (69%) 
+Returned: 59 (10%) 
+Never travelled: 6 (1%) 
+Adjusted status after more than 6 months: 28 (5%) 
+Adjusted status within 6 months of arriving: 60 (11%) 
+Likely overstay: 24 (4%) 
+ 
+¶7. Breakdown of Problematic Students: 
+ 
+Sum of Overstay Percentage and Adjusted Status within 6 months of 
+arrival (AOS-quick) Percentage: 
+December 2006 Q- 6% (overstay) + 7% (AOS-quick) = 13% 
+January 2007 -- 6% (overstay) + 8% (AOS-quick) = 14% 
+February 2007 -Q 3% (overstay) + 17% (AOS-quick) = 20% 
+March 2007 -- 7% (overstay) + 13% (AOS-quick) = 20% 
+April 2007 -- 2% (overstay) + 29% (AOS-quick) = 31% 
+May 2007 -- 0% (overstay) + 4% (AOS-quick) = 4% 
+ 
+Average Age (yrs):  23.71 
+ 
+Gender: Male  47% Female 53% 
+ 
+-------- 
+Analysis 
+-------- 
+ 
+¶8.  Though the presumed overstay rate was only 4 percent, the total 
+number of students who adjusted status was 17 percent.  Student 
+adjustments of status are legal and not uncommon, especially after 
+years in the U.S. as a student (e.g., adjustment to H1B worker 
+status after graduation and practical training).  However, the 
+majority of students (13 percent of total) who arrived in the U.S. 
+and adjusted status did so within 6 months of arriving, while the 
+remaining 4 percent adjusted to immigrant status after a longer 
+period of time in the U.S. 
+ 
+¶9. During the study period, various visa brokers were facilitating 
+Indonesians posing as students to enter the U.S.  Other applicants 
+may have taken similar malafide approaches independently. 
+Considering the 85 cumulative overstays and quick adjustments of 
+immigrant status (cumulative questionable students), 21 students (25 
+percent) registered at various "ELS Language Centers" around the 
+country, and 10 students (12 percent) went to Concord English 
+Language Center (ELC) -- a combined 37 percent of the cumulative 
+questionable students registered with these two English language 
+programs. 
+ 
+¶10. FPP notified posts early in 2008 that the Concord ELC Program 
+was a front to facilitate foreign nationals coming to the U.S. to 
+work illegally.  Jakarta FPU had also been investigating fraudulent 
+cases related to Concord and other language schools for months 
+before. In April 2008, DHS shut down the Concord English Language 
+Center.  ELS Programs and Concord ELC aside, the schools with the 
+highest cumulative questionable students were Arizona State (6 
+students), Cal State Chico (5 students), and Cal State Fullerton and 
+Longbeach (4 students each). 
+ 
+---------- 
+Conclusion 
+---------- 
+ 
+¶11. This is the first documented F1 validation study at Post.  The 
+percentage of students in active SEVIS status was lower than 
+expected Q 67 percent.  However, an average of 77 percent of 
+students issued visas during the study period are either still in 
+school or returned to Indonesia.  In May 2007, this percentage was 
+much higher at 94 percent.  This is likely due to tightened 
+adjudicating standards, a reduction in issuances to English language 
+students, and the early summer influx of students applying to attend 
+community colleges, associate degree programs, and 4-year college 
+programs. 
+ 
+¶12. COMMENT: Post recognizes that this validation study methodology 
+has weaknesses, but given the available data, it is a useful 
+indicator of student visa trends.  Post access to ADIS proved an 
+invaluable resource in determining the travel history of applicants. 
+ 
+JAKARTA 00001706  003 OF 003 
+ 
+ 
+ Post acknowledges that ADIS is far from completely accurate, but 
+coupled with SEVIS and the CCD, the resource helped indicate when 
+students arrived, when and if they left, and if they adjusted 
+status.  Consular management has discussed the findings with the 
+adjudicating consular officers to improve interviewing and 
+adjudicating skills.  END COMMENT. 
+ 
+HUME

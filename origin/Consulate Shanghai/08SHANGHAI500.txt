@@ -1,0 +1,348 @@
+08SHANGHAI500
+PTO-SPONSORED IP PROGRAM BUILDS BRIDGES IN EAST CHINA
+Fri Nov 14 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Shanghai
+VZCZCXRO1055
+RR RUEHCN RUEHVC
+DE RUEHGH #0500/01 3191142
+ZNR UUUUU ZZH
+R 141142Z NOV 08
+FM AMCONSUL SHANGHAI
+TO RUEHC/SECSTATE WASHDC 7334
+INFO RUEATRS/DEPT OF TREASURY WASHINGTON DC
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEHOO/CHINA POSTS COLLECTIVE
+RHEHAAA/NSC WASHINGTON DC
+RUEHGH/AMCONSUL SHANGHAI 7935UNCLAS SECTION 01 OF 04 SHANGHAI 000500 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+USTR FOR CHINA OFFICE - AWINTER, TWINELAND, DKATZ, MCCOYS; IPR 
+OFFICE - 
+RBAE; AND OCG - TPOSNER 
+DOC FOR NATIONAL COORDINATOR FOR IPR ENFORCEMENT - WPAUGH 
+DOC FOR ITA/MAC: SZYMANSKI 
+LOC/ COPYRIGHT OFFICE - STEPP 
+USPTO FOR INT'L AFFAIRS - LBOLAND 
+DOJ FOR CCIPS - TNEWBY 
+FBI FOR LBRYANT 
+DHS/ICE FOR IPR CENTER - DFAULCONER 
+DHS/CBP FOR IPR RIGHTS BRANCH - GMCCRAY 
+TREASURY FOR OASIA - DOHNER/CUSHMAN 
+NSC FOR JIM LOI 
+ 
+E.O. 12958: N/A 
+TAGS: KIPR ETRD EINV EFIN CH
+SUBJECT: PTO-SPONSORED IP PROGRAM BUILDS BRIDGES IN EAST CHINA 
+ 
+SHANGHAI 00000500  001.2 OF 004 
+ 
+ 
+¶1.  (SBU) Summary:  During an October 16-17 U.S. Patent and 
+Trademark Office-sponsored trip to Shanghai and Nanjing, Judge 
+Ronald S.W. Lew from the United States District Court for the 
+Central District of California and Matthew J. Bassiur, Criminal 
+Division Trial Attorney and IP Liaison to Industry of the 
+Computer Crime and Intellectual Property Section of the 
+Department of Justice, met with a wide-range of IP officials and 
+participated in a small media roundtable with representatives 
+from the local press.  The Shanghai High Court emphasized the 
+breadth and depth of its ability to handle IP cases, with over 
+half of its IP judges having received training overseas. 
+Shanghai IP administrative officials stressed the benefits and 
+effectiveness of the city's administrative enforcement, and the 
+Shanghai Public Security Bureau (PSB) noted its efforts in 
+tackling the increasing number and complexity of IP-related 
+internet crimes.  The Jiangsu IP Administration outlined a new 
+local regulation allowing administrative officials to issue 
+penalties for patent infringement, and the Jiangsu High Court 
+discussed its increasing IP case load and engaged in a wide 
+range of judicial topics. Since the filing of the IP-related WTO 
+cases, meaningful dialogue with IP officials, especially outside 
+Shanghai, has been sparse.  The PTO-sponsored visit was 
+invaluable in helping us re-establish engagement, particularly 
+with the PSB and Jiangsu High Court.  The Consulate would gladly 
+welcome similar visits in the future.  End Summary. 
+ 
+Shanghai High Court - Proud of its IP Enforcement 
+--------------------------------------------- ---- 
+ 
+¶2.  (SBU) During a meeting with the Shanghai High Court, Vice 
+Director of the Intellectual Property Division Zhu Dan and two 
+other judges from the civil and criminal divisions compared 
+experiences with Judge Lew and Bassiur on IP-related cases.  Zhu 
+provided an overview of the IPR-related trial system in Shanghai 
+Courts, noting there are 6 courts in Shanghai empowered to try 
+IPR cases: the Shanghai High Court, 2 intermediate courts and 3 
+district-level courts in Pudong, Huangpu, and Yangpu.  In total, 
+there are 45 IPR judges in Shanghai, approximately half of whom 
+received an education abroad and five who have a technical 
+background.  Thus far in 2008, Shanghai courts have received 
+more than 1,300 civil IPR cases and 70 criminal IPR cases. 
+Foreign related cases accounted for more than 10 percent of the 
+total.  In comparing the two systems, Zhu noted that while more 
+than 95 percent of IPR cases settled before trial in the United 
+States, in Shanghai, the average rate of settlement before trial 
+is 60 percent. 
+ 
+¶3.  (SBU) Zhu further outlined how the Shanghai High Court 
+allocates cases, particularly those involving several different 
+causes of action.  According to guidance from the Supreme 
+People's Court, IPR tribunals should hear disputes on technical 
+contracts, unfair-competition cases and anti-monopoly cases. 
+Counterfeit pharmaceutical case, as well as those cases 
+involving money laundering and fraud, automatically fall under 
+the jurisdiction of a criminal tribunal.  Zhu also pointed out 
+that some IPR cases, which involve complex technical issues, are 
+assigned to judges who have the relevant technical background. 
+ 
+¶4.  (SBU) Regarding the issue of technical advice for IP-related 
+cases, Zhu explained that complicated IP cases are handled 
+through a "technical appraisal process."  The parties in a case 
+may choose, with mutual agreement, a third party to conduct the 
+technical appraisal. The court will designate one if an 
+agreement cannot be reached.  In some cases, the court will 
+appoint a technical expert as an assessor or consultant directly 
+to the court. 
+ 
+¶5.  (SBU) On the issue of damages, damages can be calculated 
+under the Judicial Interpretation by the amount of infringing 
+goods multiplied by the average profit of the rights holder, 
+said Zhu.  However, there is no clear guidance whether damages 
+should be calculated based on retail price or wholesale price. 
+According to Zhu, it depends on the specific case.  If the 
+producer is involved in counterfeiting, the wholesale price is 
+generally applied.  If a retailer is involved, the retail price 
+ 
+SHANGHAI 00000500  002.2 OF 004 
+ 
+ 
+is used as the instrument of measure.  Regarding the price 
+difference between legitimate goods and counterfeit goods, Zhu 
+said if the rights holder makes a claim for damages, which is 
+calculated based on his/her loss, the price of legitimate goods 
+might be applied.  But, if the rights holder makes a claim for 
+damages, which is calculated on the infringer's profits, the 
+price of the counterfeit goods might be utilized. 
+ 
+Shanghai PSB:  Internet IP Crime on the Rise 
+-------------------------------------------- 
+ 
+¶6.  (SBU) In a meeting with the Shanghai Public Security Bureau 
+(PSB) Economic Crimes Investigation Division (ECID) Vice 
+Director Tang Xiliang and six other officers, Judge Lew and Mr. 
+Bassiur discussed both internal and international cooperation, 
+resource allocation, and the rising number of IP-related 
+internet crimes.  Tang emphasized the importance of 
+international cooperation on IPR crime investigations, 
+especially on cases involving the internet.  He was pleased with 
+the degree of cooperation between China and the United States on 
+transnational crimes, adding that the task force initiated 
+between the Ministry of Public Security and the United States 
+helped successfully resolve several crimes with a Shanghai 
+component.  According to Tang, the Shanghai PSB also plays an 
+integral role in that city's implementation of the National IP 
+Strategy, and has a unit under the leadership of Yao Jianda, 
+which is solely dedicated to IP-related crimes.  The Shanghai 
+PSB also is dedicated to working closely with the municipality's 
+IP administrative agencies to ensure effective cooperation. 
+ 
+¶7.  (SBU) Tang acknowledged that the PSB's ECID does not have 
+enough resources to effectively deal with every IP-related case. 
+ The PSB gives priority to and reserves resources for crimes 
+involving terrorism and offenses that affect people's health and 
+safety.  In deciding which IP-related cases to investigate, the 
+PSB must consider jurisdiction, the amount and value of goods 
+involved, and the nature of those committing the crime, such as 
+whether recidivists or members of organized crime are involved. 
+If there is a conflict over jurisdiction in a case, the Ministry 
+of Public Security makes the final decision about the 
+jurisdiction.  The PSB also considers whether there is 
+sufficient evidence to successfully prosecute the case. 
+ 
+¶8.  (SBU) Tang also noted that his office is grappling with a 
+rapidly increasing number and complexity of internet-related IP 
+crimes.  To develop a cadre of officers with the capacity to 
+deal with internet-related IP crimes, Shanghai PSB has 
+established special training programs and sent several Shanghai 
+PSB officers abroad for training, including the United States. 
+The ECID also works with the Shanghai Internet Supervision 
+Department when special support is required.  (Note: The 
+Internet Supervision Department also is under the Shanghai PSB.) 
+ 
+ 
+Administrative Enforcement - Viable and Inexpensive 
+--------------------------------------------- ------ 
+ 
+¶9.  (SBU) The Consul General hosted a lunch for Judge Lew and 
+Mr. Bassiur.  Chinese-Government guests included Vice Director 
+of the Shanghai Administration of Industry and Commerce (SAIC) 
+Chen Xuejun, Shanghai Copyright Bureau Copyright Department 
+Director Wu Youzhang, and Vice Director of the Shanghai IP 
+Administration Hong Yongqing.  Each spoke on Shanghai's 
+administrative enforcement system, the limits of administrative 
+authority, and the administrative burden-of-proof issues 
+compared to that of civil cases.  Chen stressed that the SAIC 
+regularly transfers counterfeit cases for criminal prosecution 
+when there is a large volume involved and when the case has 
+other "substantial implications."  In addition, criminal and 
+administrative authorities are empowered to undertake joint 
+law-enforcement action.  According to Hong, the Shanghai IP 
+Administration annually handles about 40 patent-related cases. 
+He also emphasized that, unlike the United States, China has 
+administrative enforcement that allows a non-judicial option for 
+rights holders to seek redress.  Chinese rights holders complain 
+ 
+SHANGHAI 00000500  003.2 OF 004 
+ 
+ 
+that their only option in the United States is expensive 
+litigation, while U.S. rights holders in China have access to 
+"inexpensive" administrative enforcement.  Chen also offered 
+that a major reason why knock-offs continue to abound is due to 
+foreign rights holders' inadequate supervision of markets. 
+ 
+¶10.  (SBU) On copyright issues, Wu said that when the violation 
+is severe enough, Copyright Bureau authorities have the right to 
+seize equipment, such as copiers that produce the infringing 
+material.  They can also impose a fine up to RMB 100,000 (USD 
+$15,000), but this depends on the nature of the case as well as 
+whether recidivism is involved.  According to Wu, most copyright 
+cases in Shanghai are ex officio; the Copyright Bureau regularly 
+transfers cases to the PSB according to threshold regulations. 
+Although the PSB has no direct access to administrative 
+agencies' databases, the agencies willingly provide information, 
+on request of the PSB. 
+ 
+Jiangsu IP Administration Continuing to Innovate 
+--------------------------------------------- --- 
+ 
+¶11.  (SBU) During a visit to the Jiangsu IP Administration, 
+Department Director of Policy and Law Chen Suning provided an IP 
+administrative enforcement overview of Jiangsu Province.  In 
+total, Jiangsu has administrative enforcement agencies for 
+patents in 13 cities throughout the province.  From 2002 through 
+2006, Jiangsu administrative enforcement agencies received more 
+than 400 allegations involving patent infringement, of which 350 
+were closed.  Of the 400 or so cases, 50 of them involved 
+foreign rights holders from diverse locations, such as the 
+United States, Japan, Germany, and Italy. Disputes over 
+invention patents accounted for 15 percent of all cases.  Chen 
+said that the level of IPR protection has grown in direct 
+proportion to local economic development.  Like the cities of 
+Beijing and Shanghai and Guangdong Province, Jiangsu also has a 
+high number of IP cases because of its more advanced economy and 
+active enforcement. 
+ 
+¶12.  (SBU) Chen clarified that, under current law, patent 
+administrative enforcement agencies only can order the infringer 
+to cease the infringing activity.  These agencies may not impose 
+damages or levy fines against an infringer.  If the rights 
+holder demands compensation, he or she should file a civil case. 
+ According to Chen, this is the reason why there are more patent 
+cases handled in Jiangsu courts than through administrative 
+enforcement procedures.  However, the burden of proof in a civil 
+case is much greater than that used for an administrative 
+recourse.  Generally, cases handled through administrative 
+procedures are simple and obvious.  Administrative cases are 
+better suited towards those right holders who have difficulty 
+collecting evidence and/or do not demand compensation.  However, 
+Chen said that Jiangsu hopes to improve patent protection, and 
+is about to release a new local regulation entitled "Patent 
+Promotion Regulation."  According to the regulation, the Jiangsu 
+IP Administration will have authority to issue fines for patent 
+infringement, particularly for recidivist cases. 
+ 
+Jiangsu High Court - A Meeting of the Minds 
+------------------------------------------- 
+ 
+¶13.  (SBU) During a five-hour discussion, President of Jiangsu 
+High People's Court Gong Pixiang, Member of the Judicial 
+Committee Liu Aizhen, Jiangsu High People's Court General Office 
+Director Cai Shaogang, Presiding Judge of the IPR Division Song 
+Jian, Presiding Judge of the Second Criminal Division Mao 
+Zhonghua, and Deputy Presiding Judge of the IPR Division engaged 
+Judge Lew and Mr. Bassiur on issues ranging from rule-of-law and 
+transparency to defining damages and technical appraisals in IP 
+cases.  The Jiangsu High Court members freely exchanged views 
+and queried Judge Lew on U.S. IP court cases, common procedures 
+in U.S. District Courts, and intricacies of U.S. IP-related 
+laws.  Song gave an overview of Jiangsu's IP judicial efforts, 
+saying there are 6 intermediate courts handling patent cases, 
+and 9 basic-level courts handling IPR cases in province.  From 
+2001 to 2008, Jiangsu courts received 7,070 IPR-related 
+ 
+SHANGHAI 00000500  004.2 OF 004 
+ 
+ 
+first-instance cases, which accounted for 10 percent of the 
+nation's total first-instance IPR causes of action.  Jiangsu 
+closed 6,707 of these matters, or roughly 95 percent of its 
+cases.  During the same period, Jiangsu received 1,008 
+IPR-related second-instance cases, of which 979 were closed. 
+ 
+¶14.  (SBU) Most infringement cases involved patents, trademarks, 
+and copyrights; however, Jiangsu recently has begun to receive 
+new types of cases, involving novel issues such as 
+non-infringement declarations and temporary restraining orders. 
+The majority of Jiangsu's IPR criminal cases involved 
+trademarks.  To better protect IP, the Jiangsu High Court 
+emphasizes compelling the infringer to disclose all infringement 
+information, imposing civil sanctions on infringers under 
+certain circumstances, and inviting technical experts to be 
+involved in cases.  To increase transparency, the Jiangsu High 
+Court now publishes all IP-related decisions on the internet. 
+Separately, approximately 60 to 70 percent of all IP-related 
+cases are settled before trial. 
+ 
+¶15.  (SBU) Song also discussed the criteria that Jiangsu courts 
+consider when issuing a temporary injunction, including the 
+probability of the plaintiff prevailing in the case, the 
+possibility of causing irreparable damage, the applicant's 
+financial guaranty, and the public interest.  Although it may be 
+difficult to determine the factors constituting "irreparable 
+damage," the court also factors in the loss of the right 
+holder's market share that the infringer caused.  Jiangsu courts 
+issue temporary injunctions in about 80 percent of its 
+IP-related cases.  Song also explained that the court considers 
+the stability of the patent right when issuing temporary 
+restraining orders because utility-model and design patents are 
+granted with little or no substantive examination. 
+ 
+¶16.  (SBU) On the issue of defining damages, Song noted that 
+Jiangsu uses a method similar to that used in Shanghai.  If the 
+rights holder calculates damages based on his/her loss, the 
+price of legitimate goods normally applies.  If the rights 
+holder calculates damages based on the amount of the infringer's 
+profit, the price of counterfeit goods is used to determine 
+fiscal harm. 
+ 
+Shanghai Press Outreach 
+----------------------- 
+ 
+¶17.  (SBU) During an interview with three representatives of the 
+local press, Judge Lew stressed the importance of the rule of 
+law, and recognized that China has made tremendous strides in 
+its IPR protection.  He emphasized, however, that there must be 
+increased focus on IP enforcement.  The journalists asked a wide 
+range of questions regarding Judge Lew's background as the first 
+Chinese-American to be appointed to a Federal District Court 
+judgeship.  They also queried him regarding U.S. protection of 
+Chinese IPR in the United States, and his views on the state of 
+IP protection in China. 
+ 
+Comment 
+------- 
+ 
+¶18.  (SBU) Since the filing of the IP-related WTO cases, 
+meaningful dialogue with IP officials, especially outside 
+Shanghai, has been sparse.  Judge Lew's and Matthew Bassiur's 
+visit to this consular district has nudged the door open a bit 
+wider for engagement.  For example, despite multiple requests, 
+this is the first meeting that the Shanghai PSB has accepted 
+with the Consulate on IP issues in over two years of attempts. 
+The dialogue with the Jiangsu High Court also was noteworthy for 
+its open discussion,and IPR Attache Conrad Wong. 
+CAMP

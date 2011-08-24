@@ -1,0 +1,100 @@
+08MOSCOW203
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Mon Jan 28 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0003
+PP RUEHWEB
+
+DE RUEHMO #0203 0281259
+ZNR UUUUU ZZH
+P 281259Z JAN 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 6291
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000203 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+RUSSIAN ACADEMY OF SCIENCES, SPACE RESEARCH INSTITUTE, 
+MOSCOW, RUSSIA, LICENSE NO. D376356 
+ 
+REFTEL: USDOC 00113 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Russian Academy of Sciences (RAS) Space Research 
+Institute, Moscow, Russia. The company is listed on 
+BIS license application D376356 as the ultimate 
+consignee of twenty high dynamics range power 
+amplifiers, model no: HMC486LP5E. These items are 
+controlled for national security, anti-terrorism, 
+missile technology and nuclear proliferation reasons 
+under ECCN 3A001. The licensee is Hittite Microwave 
+Corporation, 20 Alpha Road, Chelmsford, MA 01824. 
+ 
+¶3. On January 15, 2008, Export Control Attache Peter 
+Liston and LES Natalya Shipitsina conducted the 
+requested post-shipment verification with (RAS) Space 
+Research Institute, 84/32 Profsoyuznaya st., Moscow, 
+Russia. The export control team met with Alexander 
+Kosov, Head of Laboratory. 
+ 
+ 
+¶4. The Russian Academy of Science (RAS), Space 
+Research Institute is one of the leading organizations 
+in the field of investigations of Outer Space, Solar 
+System planets and other objects of the Universe.  The 
+Space Research Institute (IKI) is primarily in charge 
+of long-range planning and elaboration of space 
+research programs of which a considerable part is 
+performed within the framework of international space 
+research cooperation.  The Space Research Institute 
+takes part in the Federal Space Program that is being 
+formed by the RAS Space Council and by the appropriate 
+sections of this Council together with the Federal 
+Space Agency (Roscosmos). The Space Research Institute 
+of the Russian Academy of Science has cooperated in 
+projects with Russia's Federal Space Agency (FSA), 
+NASA and European Space Agency (ESA). 
+ 
+¶5.  The Moscow ECO Team was shown reftel subject 
+twenty (20) model no. HMC486LP5E high dynamic range 
+GAAS PHEMT MMIC 2 watt power amplifiers in a secure 
+lab with limited access.  The amplifiers will be used 
+for developing and testing in miniature transponders 
+until a space-qualified transponder is ready for 
+launch circa 2009 to the Russian Mars satellite 
+Phobos.  The project is intended to measure frequency 
+shifts.  RAS/IKI presented the ECO Team one (1) 
+prototype transponder with the amplifier set inside 
+that they have in testing mode.  The remaining 19 
+amplifiers were stored in the lab and shown to the 
+team. 
+ 
+¶6.  The RAS/IKI lab utilizing the twenty (20) model 
+no. HMC486LP5E high dynamic range GAAS PHEMT MMIC 2 
+watt power amplifiers is accessed by approximately 15 
+research scientists.  There are no foreign national 
+scientists or students having access to the lab or the 
+amplifiers.  The RAS/IKI is not involved in WMD, 
+Missile Technology or Nuclear research. 
+ 
+¶7. Recommendations: Post recommends (RAS) Space 
+Research Institute, Moscow, Russia as a reliable 
+recipient of sensitive U.S. origin commodities. 
+(FCS MOSCOW/SBOZEK/PLISTON) 
+BURNS

@@ -1,0 +1,149 @@
+08PARIS889
+UNESCO - Internationalized Domain Names
+Fri May 09 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Paris
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHFR #0889/01 1301109
+ZNR UUUUU ZZH
+R 091109Z MAY 08
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 2963
+RUEHGV/USMISSION GENEVA 2880UNCLAS PARIS 000889 
+ 
+FROM USMISSION UNESCO PARIS 
+ 
+SIPDIS 
+ 
+FOR IO/UNESCO 
+ 
+E.O. 12958: N/A 
+TAGS: UNESCO KPAO EAID EINT ETRD
+SUBJECT: UNESCO - Internationalized Domain Names 
+ 
+¶1.  (SBU) SUMMARY:  UNESCO held a May 6, 2008 Information Meeting on 
+Internationalized Domain Names (IDN), entitled "Using Your Script to 
+Access the Internet." Assistant Director General (ADG) for 
+Communication and Information (CI) Abdul Waheed Khan (India) hosted, 
+with the Latvian Ambassador to UNESCO and France, Janis Karklins, 
+who is on the Internet Corporation for Assigned Names and Numbers 
+(ICANN) Board of Directors and Chairman of its Governmental Advisory 
+Committee. Khan provided an overview of UNESCO's policy on Internet 
+governance, while Karklins and an ICANN staffer previewed the fast 
+track process for introducing a limited amount of IDNs, which will 
+be considered for approval at the upcoming ICANN Public Meeting in 
+Paris this June.  Karklins urged member states, particularly those 
+from developing countries, to attend the Paris meeting (funded by 
+India) and voice their views on permanently adding IDN strings to 
+the root zone.  Member states in attendance included many EU and 
+Arab states, Venezuela, China, Thailand, Russia and India.  The 
+audience posed questions that revealed an inability to grasp what 
+IDNs are.  While the UNESCO Secretariat is firmly committed to 
+facilitating World Summit on the Information Society (WSIS) 
+outcomes, UNESCO member delegations have little expertise on the 
+Internet.  Accordingly, their value-added at the ICANN meeting would 
+be limited and may even confuse debate.  END SUMMARY. 
+ 
+------------------------ 
+UNESCO AND THE INTERNET: 
+------------------------ 
+¶2.  (SBU) ADG Khan, staffed by Miriam Nesbit (U.S.), Director of the 
+Information Society Division in CI and Mauro Rosi (Italy), Division 
+of Cultural Expressions, Culture Sector, outlined UNESCO's support 
+of access, freedom of expression, linguistic diversity, openness and 
+interoperability on the Internet. Khan stated that UNESCO has 
+contributed to the issue of multilingualism on the Internet through 
+its 2007-2009 budget and program, the 2003 Recommendation on 
+Multilingualism and Cyberspace and the 2007 UN resolution on 
+Multilingualism. When questioned about censorship on the Internet, 
+Khan categorically stated that UNESCO is vehemently opposed to 
+censorship in all media. (COMMENT:  Khan also mentioned a few CI 
+programs that are on life support, such as Initiative Babel, whose 
+webpage has not been updated since 2004.  UNESCO CI does not have 
+the resources to make much of these programs - its role as an 
+advocate for a free and interoperable Internet is much more 
+important.  END COMMENT.) 
+ 
+-------------------- 
+Fast Track for IDNs: 
+-------------------- 
+ 
+¶3. (SBU) Ambassador Karklins and the Internet Corporation for 
+Assigned Names and Numbers (ICANN) representative explained how 
+ICANN and its Governmental Advisory Committee (GAC) function.  They 
+then defined IDNs, and provided practical reasons why countries 
+(where languages with non-Latin, or ASCII, alphabets are used) need 
+them in top-level domain names and country codes (the .com or .uk 
+part of an Internet address), and then outlined the fast track 
+process currently under review to deploy a limited number of 
+non-contentious IDNs in ICANN's root zone. 
+ 
+¶4.  (SBU) The fast-track process would deploy these IDNs within a 
+short timeframe and would be used where near-term demand and 
+readiness exists for top-level country codes (For example, .uk or 
+.fr).  If it were finalized at the June 2008 ICANN meeting in Paris, 
+then ICANN would launch the application process by 2009.  The 
+addition of these IDNs to the root zone will be permanent, Karklins 
+stated.  It would, at this point, only involve top-level domain 
+names for websites and not emails. 
+ 
+--------------------------------------------- --- 
+KARKLINS PLEADS WITH DEVELOPING WORLD TO ENGAGE: 
+--------------------------------------------- --- 
+ 
+¶5.  (SBU) Karklins outlined a list of general issues that IDNs 
+raise, including which territories are eligible for an IDN; how many 
+scripts per territory, should they be two and three letters long as 
+in the Latin-script Domain Name System (DNS) (.com and .uk); is a 
+reference table necessary if it takes 10 years to make; are there 
+"rights" attached to a given script; who will run the IDNs; should 
+the IDN be an abbreviation like the DNS (Chinese and Arabic do not 
+use abbreviations); and is the operation and management of IDNs 
+different from the Latin/ASCII script DNS?  Karklins noted these 
+questions might seem trivial but reveal important security, cultural 
+and other issues, and stated that there still needs to be a 
+discussion so that stakeholders in ICANN's bottom-up process are 
+comfortable. 
+ 
+¶6.  (SBU) To demonstrate the challenge, Karklins cited the 
+importance of local efforts to examine the impact of IDNs, noting 
+the example of the Arabic Script IDN Working Group, which unites 
+players from Iran to Saudi Arabia.  He stated that while all 
+nationals involved used Arabic script, they identified similar 
+characters in Arabic and Persian that look identical on a screen, 
+but actually have different Unicode points.  This creates possible 
+security implications for Arabic IDNs.  Now that this has been 
+discovered, people can work on it before it becomes part of the root 
+zone.  Karklins added that thus far mostly Anglo Saxon countries had 
+engaged in the debate on IDNs, with very little comment from Asia or 
+the Arab world. He urged UNESCO member states present to report to 
+capitals on his briefing, advise their governments to consider 
+becoming a member of the ICANN GAC and attend the June, 2008 ICANN 
+meeting in Paris.  UNESCO's ADG Khan added that UNESCO, as a WSIS 
+facilitator, was playing a role in promoting multilingualism by 
+publicizing this meeting to UNESCO member states and also encouraged 
+them to sign up for the next Internet Governance Forum in Hyderabad, 
+India. 
+ 
+¶6.  (SBU) COMMENT:  The presentation, which, while engaging and 
+thoughtful, was very technical for UNESCO delegations more familiar 
+with cultural and educational issues.  Karklin's rallying cry to 
+engage governments and local stakeholders on the practical 
+challenges of IDNs before it is too late sailed majestically over 
+everyone's head.  One delegate asked if this meant he could now type 
+in the UNESCO website address in Arabic.  Another asked if ICANN had 
+a membership fee.  Another asked if people would now buy up IDNs in 
+advance of their operability, and yet another asked if IDNs would 
+prevent spam.  Disconcertingly, it is these same voices that will 
+try to draft UNESCO resolutions on Internet governance once this 
+ 
+issue becomes sexy.  One would hope that Karklins and ICANN are 
+reaching out to better-informed audiences, for example, at the ITU 
+in Geneva.  We also note ADG Khan's interest in using the UNESCO 
+platform to promote the Indian-government sponsored ICANN meeting 
+and the IGF, also to be hosted by India this December.  END 
+COMMENT. 
+ 
+Oliver

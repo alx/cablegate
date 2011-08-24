@@ -1,0 +1,219 @@
+09BEIJING1538
+COMPUTER INDUSTRY CONTEMPLATES RESPONSE TO
+Mon Jun 08 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Beijing
+VZCZCXRO3072
+OO RUEHCN RUEHGH RUEHVC
+DE RUEHBJ #1538/01 1591215
+ZNR UUUUU ZZH
+O 081215Z JUN 09
+FM AMEMBASSY BEIJING
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 4394
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUEHIN/AIT TAIPEI 7284
+RUEHKO/AMEMBASSY TOKYO 2644
+RUEHUL/AMEMBASSY SEOUL 1272
+RUEHGV/USMISSION GENEVA 2501
+RUEAHLC/DHS WASHDC
+RUCPDOC/USDOC WASHDC
+RUEAWJA/DEPT OF JUSTICE WASHDC
+RHMCSUU/FBI WASHINGTON DCUNCLAS SECTION 01 OF 03 BEIJING 001538 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+State for EAP/CM - SFlatt, JHabjan 
+State for EEB/CIP - SFlynn, FSaeed 
+USTR for Awinter, JMcHale, TWineland, AMain 
+Commerce for MAC 
+Commerce for ITA - IKasoff, NMelcher 
+DOJ for CCIPS - MDubose and SChemtob 
+FBI for LBryant 
+State for White House OSTP Ambassador Richard 
+Russell 
+NSC for Melissa Hathaway 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD PGOV PHUM SOCI SCUL ECON CH
+SUBJECT: COMPUTER INDUSTRY CONTEMPLATES RESPONSE TO 
+CHINA'S GREEN DAM MANDATE 
+ 
+Ref: Beijing 1520 
+ 
+This cable is sensitive but unclassified.  Please 
+handle accordingly. 
+ 
+¶1. (SBU) Summary: Emboffs met on June 8 with 
+representatives of several trade associations to 
+further discuss their reactions to the Chinese 
+government's mandate that all computers sold in 
+China after July 1 be preinstalled with "Green Dam" 
+Internet filtering software (reftel).  Those present 
+elaborated their technical, security, and political 
+concerns with the program, and confirmed their top 
+priority is to delay the July 1 deadline and seek 
+consultations with responsible Chinese government 
+ministries.  Industry thought the most successful 
+tactical approach would be to emphasize security and 
+technical threats posed by the software to Chinese 
+users.  For now, though, they are building alliances 
+and engaging Japanese and European colleagues as 
+they await guidance from Washington-based parent 
+organizations, which will meet with State and 
+Commerce officials on June 9.  End Summary. 
+ 
+¶2. (SBU) Embassy Economic, PAS and FCS officers met 
+June 8 with members of the U.S. Information 
+Technology Office (USITO), the U.S.-China Business 
+Council (USCBC), and the American Chamber of 
+Commerce (AmCham).  Industry further elaborated 
+their member companies' technical, security, and 
+political concerns over China's recent mandate to 
+use "Green Dam" Internet filtering software on all 
+computers sold in China after July 1 (see reftel). 
+The groups also considered which tactical approach 
+would be most effective in persuading the Chinese 
+government to delay its proposed implementation 
+deadline.  While attendees recognized that the 
+censorship aspect would raise the profile of the 
+issue in the foreign media and Congress, all agreed 
+that technical and security concerns would be more 
+persuasive to the Chinese. While there was broad 
+agreement on how to proceed (see para 10), industry 
+reps are waiting for guidance from home agencies 
+prior to engaging the Chinese. 
+ 
+Waiting for Guidance 
+-------------------- 
+ 
+¶3. (SBU) USITO representatives described their 
+evolving position on the Green Dam project as 
+"building alliances without deciding how to react". 
+USITO, USCBC, and AmCham all agreed that they would 
+need clear guidance from their Washington-based 
+parent organizations on how to proceed, but they 
+recognized the importance of preparing for a unified 
+campaign.  Such a coordinated response to the MIIT 
+mandate would include not only U.S. industry 
+associations, they said, but also their European and 
+Japanese counterparts, with whom preliminary 
+discussions have already begun. 
+ 
+Technical Shortcomings 
+---------------------- 
+ 
+¶4. (SBU) USITO reaffirmed reftel assessment that U.S. 
+computer makers are concerned by the many unclear 
+technical details surrounding the implementation of 
+the Green Dam program.  Elaborating further, USITO 
+said the stability of the untested software is 
+uncertain, with the potential to create problems for 
+users and networks, in turn requiring increased 
+ 
+BEIJING 00001538  002 OF 003 
+ 
+ 
+support from PC vendors.  They noted several Chinese 
+blogs describe the program as unstable, causing 
+computers to crash, and being deficient in its 
+filtering capabilities. 
+ 
+¶5. (SBU) The ambiguous language of the MIIT circular 
+is also worrisome.  For example, it is unclear 
+whether the software should be pre-installed on a 
+computer's hard drive or simply included on a disc 
+in the box, which an apparently well-sourced June 8 
+Wall Street Journal Online article reported would be 
+an option.  That article also reported that the 
+software can be uninstalled by users, a feature 
+USITO sources originally thought unavailable. 
+ 
+¶6. (SBU) Industry observed that such technical 
+issues must be clarified and the software 
+extensively tested before PC makers would be willing 
+to even consider pre-installing it or shipping their 
+computers with the disc in the box.  However, they 
+hastened to add that even flawless Green Dam 
+software would not necessarily make the companies 
+comfortable participating in the Green Dam program, 
+given the separate concerns over security 
+vulnerabilities and censorship. 
+ 
+Security Vulnerabilities 
+------------------------ 
+ 
+¶7. (SBU) Industry representatives further elaborated 
+their companies' concerns over the security 
+vulnerabilities that MIIT's Green Dam mandate could 
+create.  First, individual computers could be 
+attacked by hackers via the Green Dam software. 
+Since the software, according to a published user 
+manual, enables parents to remotely access and 
+monitor the activity on their children's computers, 
+the same opportunity would exist for hackers to 
+monitor and control remote computers with malicious 
+intent.  Such activity could damage hardware and 
+software and compromise personal information.  USITO 
+cited reports online that, in one case, an early 
+user of the software reported that his banking 
+information had been compromised after installing 
+the software. 
+ 
+¶8. (SBU) Another major potential threat comes from 
+the lack of diversity that this government-mandated 
+solution creates in the software industry.  A common 
+software application installed on all computers sold 
+in China establishes a common platform for hackers 
+to target, threatening China's underlying network. 
+Software diversity reduces such risks. 
+ 
+Political Questions 
+------------------- 
+ 
+¶9. (SBU) Industry representatives agreed that the 
+political concerns related to the Green Dam project 
+are significant.  If they were to comply with MIIT's 
+mandate to install the software, the political 
+implications of appearing complicit with China's 
+censorship regime could be very damaging.  They 
+agreed that emphasizing publicly Green Dam's new 
+limits on access to information could attract 
+extensive foreign media and Congressional attention. 
+However, from a negotiating perspective, industry 
+representatives thought it would be difficult to 
+appeal to the Chinese government on freedom of 
+information grounds.  There was consensus that 
+pursuing a delay in the July 1 deadline based on 
+ 
+BEIJING 00001538  003 OF 003 
+ 
+ 
+technical and security arguments might be more 
+successful. 
+ 
+Next Steps 
+---------- 
+ 
+¶10. (SBU) All present recognized the urgency to act 
+quickly given the proposed July 1 deadline.  USITO 
+representatives noted that MIIT's May 22 circular 
+did not outline any punitive measures for non- 
+compliant companies.  While some speculated whether 
+that meant non-compliance would actually have no 
+consequences,  all acknowledged that U.S. companies 
+must operate in observance of Chinese laws and 
+regulations - and therefore cannot afford to do 
+nothing and let the deadline pass.  They agreed 
+their priority was to push back on the proposed July 
+1 implementation deadline, and to do so with a 
+unified front.  The industry groups proposed they 
+draft a joint letter to relevant Chinese agencies, 
+but will wait for guidance from parent companies. 
+USITO board members reportedly have meetings 
+scheduled on June 9 with EAP/CM Director John Norris 
+and Commerce Acting Undersecretary for International 
+Trade Michelle O'Neill. 
+ 
+ 
+PICCUTA

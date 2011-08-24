@@ -1,0 +1,109 @@
+07MOSCOW3319
+EXTRANCHECK: PRE-LICENSE CHECK: RIRT (RUSSIAN
+Mon Jul 09 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHMO #3319 1900407
+ZNR UUUUU ZZH
+P 090407Z JUL 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1893
+RHMFIUU/USCBP WASHINGTON DC
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS MOSCOW 003319 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: RIRT (RUSSIAN 
+INSTITUTE OF RADIONAVIGATION AND TIME), ST. 
+PETERSBURG, RUSSIA, D374598 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, RIRT, 
+St. Petersburg, Russia. The company is listed on BIS 
+license application D374598 as the ultimate consignee 
+of environmental test chamber with interior dimensions 
+of 36X36X36. These items are controlled for national 
+security and missile technology reasons under ECCN 
+1B018. The licensee is Abbess Instruments and Systems, 
+Inc., 70 Bartzak Dr., Holliston, MA 01746. 
+ 
+¶3. On July 4, 2007, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted a pre- 
+license check at the offices of Russian Institute of 
+Radionavigation and Time (RIRT), St. Petersburg, 
+Russia. The export control team met with Oleg Osipov, 
+Chief Engineer. 
+ 
+¶4. RIRT was founded in 1957 to study long-distance 
+navigation systems automation for marine and aviation 
+use.  The institute developed the precision timing 
+apparatus for major radio navigation networks for the 
+Soviet Union and the Russian Federation, including 
+"Alfa" (similar to the U.S. "OMEGA" low-frequency 
+aviation navigation system), "Chaika" (similar to the 
+U.S. "LORAN" low-frequency marine/aviation navigation 
+system), "Parus" (similar to "TRANSIT" satellite 
+geolocation system) and GLONASS (similar to GPS). RIRT 
+has been working in joint programs with the United 
+States since 1991, including the synchronization of 
+LORAN and Chaika systems as well as integrating 
+GLONASS technology into GPS equipment.  In addition, 
+the company produces GLONASS/GPS receivers and other 
+navigational equipment.  The institute employs 900 at 
+a facility located in the city of St. Petersburg. 
+ 
+¶5. RIRT will utilize the commodity in reftel to test 
+satellite components, circuit boards and equipment 
+prior to installation and launch.  RIRT produces 
+precision timing instrumentation for the GLONASS 
+system, geophysical survey and telecommunications 
+satellites.  The chamber will be used to test boards 
+in vacuum conditions similar to those encountered in 
+orbit.  The system will not be used for other 
+purposes, nor does RIRT plan on removing or using the 
+vacuum pump for other than the purposes stated above. 
+RIRT plans to purchase two additional test chambers as 
+well.  Mr. Osipov noted that a European model chamber 
+would have been modular, requiring the pump to be 
+mated to the chamber.  The decision to buy the U.S. 
+built chamber was the fact that it was integrated. 
+ 
+¶6. The RIRT facility is a closed area, requiring a 
+security clearance for entry.  All visitors are 
+escorted, and the building has 24-hour security 
+services.  Access is controlled by a proximity card 
+system, and employees may not remove equipment from 
+the building without clearing the movement with 
+security.  Seven specialists will have access to the 
+equipment.  Mr. Osipov is personally responsible for 
+all the lab equipment, maintains the logbook of 
+equipment, and conducts yearly inventories.  Mr. 
+Osipov was made aware of the anticipated license 
+conditions by the exporter. 
+ 
+¶7. Recommendations: Post recommends Russian Institute 
+of Radionavigation and Time (RIRT), St. Petersburg, 
+Russia, as a reliable recipient of sensitive U.S. 
+origin commodities. It is requested that post be 
+notified of final disposition of the application, and 
+of any shipments for this organization in order to 
+conduct appropriate FCS follow-up and statistical 
+reporting. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

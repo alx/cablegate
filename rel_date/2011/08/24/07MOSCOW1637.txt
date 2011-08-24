@@ -1,0 +1,214 @@
+07MOSCOW1637
+RUSSIA: GLOBAL NAVIGATION SATELLITE FORUM CONTRASTS COSMIC
+Thu Apr 12 00:00:00 +0200 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Moscow
+VZCZCXRO2051
+PP RUEHHM RUEHLN RUEHMA RUEHPB RUEHPOD
+DE RUEHMO #1637/01 1020328
+ZNR UUUUU ZZH
+P 120328Z APR 07
+FM AMEMBASSY MOSCOW
+TO RUEHC/SECSTATE WASHDC PRIORITY 9131
+INFO RUCPDOC/DEPT OF COMMERCE WASHDC PRIORITY
+RUEKJCS/SECDEF WASHDC PRIORITY
+RULSDMK/DEPT OF TRANSPORTATION WASHDC PRIORITY
+RUEHUNV/USMISSION UNVIE VIENNA 0473
+RUEHZN/EST COLLECTIVE
+RUEHRL/AMEMBASSY BERLIN 1912UNCLAS SECTION 01 OF 03 MOSCOW 001637 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPARTMENT FOR EUR/RUS (HOLMAN, GUHA), OES/SAT (BRAIBANTI, 
+HODGKINS), L/NP 
+ 
+BERLIN FOR ROBERT HAGEN 
+ 
+STATE PASS TO NASA (BARRY) 
+ 
+E.O. 12958:  N/A 
+TAGS: TSPA TSPL ECON RS
+SUBJECT: RUSSIA: GLOBAL NAVIGATION SATELLITE FORUM CONTRASTS COSMIC 
+HOPES AND REALITY 
+ 
+REF: MOSCOW 00038 
+ 
+¶1. (SBU) SUMMARY: The April 9-10 International Global Navigation 
+Satellite Forum in Moscow showcased advances in global positioning, 
+navigation and timing (PNT) systems.  Led by the U.S. GPS system and 
+followed closely by the Russian GLONASS, many new technologies are 
+opening in agriculture, weather and environment monitoring, 
+transportation, counterterrorism security, and other civilian and 
+military uses.  Despite GLONASS lagging behind GPS in operational 
+capability, the moment is ripe for the USG and the GOR to pursue 
+agreement on cooperation between their PNT systems. END SUMMARY 
+ 
+Reaching for the Stars... 
+------------------------- 
+ 
+¶2. (U) On April 9-10 the Federal Space Agency Roskosmos hosted the 
+International Global Navigation Satellite Forum in Moscow.  More 
+than 600 representatives of government, business and the scientific 
+community attended over 200 presentations at the Forum. 
+Highlighting the importance the GOR attaches to its Global 
+Navigation Satellite System (GLONASS), Anatoliy Perminov, head of 
+Roskosmos, opened the Plenary Session with a call for expansion of 
+GLONASS to 18 satellites, the minimum number for operation of the 
+global navigation system, with two planned launches by the end of 
+¶2007.  In what sounded like a promise to President Putin and First 
+Deputy Premier Sergey Ivanov, who have called for rapid completion 
+of GLONASS, Perminov said by 2009 Roskosmos would deploy 24 GLONASS 
+satellites or newer-model GLONASS M satellites necessary for full 
+configuration of the system. 
+ 
+¶3. (U) Nikolay Anfimov, member of the Russian Academy of Sciences 
+(RAS) and General Director of the Central Machine Building 
+Institute, outlined improvements in the accuracy of Russian global 
+positioning systems.  He identified GLONASS applications for air and 
+marine safety, mapmaking and environmental issues.  Anfimov reported 
+accuracy of measurements from 0.1 meter to 2 meters for aviation, 
+from 0.1 meter to 1 meter for maritime use, from .02 to .03 meters 
+for cartography and an amazing .001 to .005 meters for geodynamics. 
+Other speakers at the breakout sessions detailed the potential uses 
+of GLONASS in these areas, but most acknowledged that current 
+applications used the fully-operational United States Global 
+Positioning System (GPS). 
+ 
+... Through Adversity 
+--------------------- 
+ 
+¶4. (SBU) Nikolay Testoyedov, member of RAS and General Director of 
+NPO Applied Mechanics named for Academician Reshetnev, which builds 
+GLONASS satellites, reported that 15 GLONASS satellites are in 
+orbit, including three launched on December 25, 2006.  However, he 
+was questioned pointedly by Forum participants based on recent 
+newspaper articles that claimed only seven GLONASS satellites were 
+currently operational.  Testoyedov responded that the articles were 
+"true in form" but were outdated.  He claimed that two of the three 
+December satellites had recently been declared operational and the 
+third would be fully functional by the end of April. (COMMENT: This 
+explanation fails to account for the other non-operational 
+satellites.  Although the sources are not identified, media reports 
+suggest that as many as 10 navigational satellites may be out of 
+commission. END COMMENT) He also defended the longevity of GLONASS 
+satellites, saying that by 2009 their functional life would 
+increase. (NOTE: Roskosmos press releases have stated that the next 
+generation GLONASS K satellite service life would be 10 to 12 years. 
+END NOTE) 
+ 
+¶5. (U) M. G. Lebedev, Advisor to the Ministry for Information 
+Technologies and Communications, cited the break-even point in 
+annual sales at 700,000 to 750,000 units of GLONASS positioning and 
+synchronization devices.  He forecast achievement of this level in 
+the Russian market within five years based on projected sales of two 
+to three million new cars and the inclusion of such devices in 70% 
+of information technology products.  He ascribed 2006 sales of 
+380,000 units to lagging development of infrastructure, especially 
+outside Moscow and St. Petersburg, and low awareness by users. 
+However, audience questions suggested that the Russian market had 
+not accepted the GLONASS-based devices because of their poor quality 
+compared to GPS devices. 
+ 
+ 
+MOSCOW 00001637  002 OF 003 
+ 
+ 
+¶6. (U) Kenneth Hodgkins, Deputy Director of the Office of Space and 
+Advanced Technology reviewed the progress in U.S.-Russian 
+cooperation on GPS-GLONASS interoperability and radio frequency 
+compatibility.  He praised fruitful talks between the GOR and the 
+USG on a proposed agreement to document this progress.  Michael 
+Shaw, Director of the National Space-Based Positioning, Navigation 
+and Timing (PNT) Coordination Office, outlined the USG policy of 
+open access to GPS free of direct user fees on a worldwide basis. 
+He cited mutual security interests and encouragement of GPS use and 
+cooperation with competing systems, such as GLONASS. He noted that 
+the PNT Advisory Board had six international members of the 24 total 
+participants. 
+ 
+¶7. (SBU) In a question period at the end of the Plenary Session, the 
+participants were told that the GOR had already contracted for the 
+GLONASS K satellites in 2009, but by law other contracts would be 
+open for bidding. Yuriy Urlichich, Director General of the Russian 
+Institute of Space Device Engineering, said funding for GLONASS 
+would be provided from the government budget and private loans, but 
+he suggested that the Ministry of Finance might oppose this.  A 
+representative from Motorola was told there was a special office for 
+certification of imported devices, and this would be covered in one 
+of the breakout sessions.  At that session, the response was "See me 
+outside the conference."  Several questioners elicited the 
+information that regulatory authorities were considering acceptance 
+of U.S.-based CDMA technology for GLONASS. 
+ 
+Legal and Regulatory Environment 
+-------------------------------- 
+ 
+¶8. (U) In the Forum session devoted to the International and Legal 
+Aspects of Satellite Navigation in Russia, Vladimir Klimov, head of 
+the Roskosmos Office of Navigation of Automatic Spacecraft, 
+identified 11 departments and agencies in the GOR that are part of 
+the Coordinating Council for the interagency group overseeing 
+GLONASS.  He said the Coordinating Council's priorities are 
+upgrading GLONASS functioning and orbital configuration, developing 
+civilian use, pursuing transportation applications, improving 
+capabilities and servicing special (i.e. military and security 
+forces) users.  He professed optimism on cooperation with GPS, the 
+European Space Agency's Galileo system and other global navigation 
+programs. (NOTE: Klimov is co-chair with Ken Hodgkins of the Plenary 
+Group on GPS-GLONASS Cooperation. END NOTE) 
+ 
+¶9. (U) Sergey Pisarev, Director General of the Russian Institute of 
+Radionavigation and Timing (RIRV in Russian acronym), referred to 
+coordination and research for civilian and military purposes as 
+driving GLONASS.  He cited the Chaika (seagull) system of 14 
+stationary and 20 mobile stations as having cost advantages and 
+allowing coverage of the southern and eastern areas of Russia. First 
+Deputy Premier Sergey Ivanov recently encouraged RIRV to increase 
+Russian competitiveness with GPS.  When questioned, he acknowledged 
+that the GLONASS standard was only accepted in 20 percent of the 
+countries using global positioning technology.  He forecast that 
+GLONASS will develop a receiving chip that would sell for only five 
+dollars each. 
+ 
+¶10. (U) Col. Mark Crews, U.S. Air Force Chief Engineer for GPS, 
+reviewed satellite development and modernization.  He noted recent 
+decommissioning of the longest orbiting GPS satellite after 15 
+years.  Twenty-nine satellites are currently operational, the latest 
+having come online a few days after launch in November.  He also 
+cited improvements in technical aspects of bandwidths and signal 
+strength that provided enhanced civilian user benefits.  He looked 
+forward to increased cooperation with GLONASS and other 
+international systems. 
+ 
+Comment 
+------- 
+ 
+¶11. (SBU) High-level officials of Roskosmos extended extraordinarily 
+warm welcomes to the U.S. delegation.  Roskosmos Deputy Head Yuriy 
+Nosenko invited Hodgkins, who has the lead on drafting the 
+GPS-GLONASS Cooperation Agreement, to sit on the dais for the 
+Plenary Session with Perminov and First Deputy Commander of the 
+Space Forces Kvasnikov.  Nosenko's second-in-command, Anatoliy 
+Shilov, Director of the Space Complexes and Ground Control 
+Directorate, came to the U.S. table at the celebratory dinner and 
+ 
+MOSCOW 00001637  003 OF 003 
+ 
+ 
+toasted Russian-U.S. cooperation in space navigation systems. 
+ 
+¶12.  (SBU) COMMENT (CONT.): Despite GLONASS lagging at this point 
+behind GPS, it is still the only other functional global PNT system. 
+ On March 29 President Putin cited GLONASS at a meeting of the 
+Presidium of the State Council as an example of innovation and 
+diversification of the economy.  First Deputy Premier Ivanov has 
+noticeably pushed development of GLONASS.  This is clearly an 
+opportune moment to seize the initiative to conclude a GPS-GLONASS 
+cooperation agreement between the GOR and the USG. 
+ 
+¶13. (U) OES/SAT Ken Hodgkins cleared this cable. 
+ 
+BURNS

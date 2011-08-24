@@ -1,0 +1,76 @@
+08MOSCOW1777
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Fri Jun 20 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0003
+PP RUEHWEB
+
+DE RUEHMO #1777 1721539
+ZNR UUUUU ZZH
+P 201539Z JUN 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 8724
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001777 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/M.HAMES/L.RITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+TECHNOLOGICAL INSTITUTE OF APPLIED MICROELECTRONICS, 
+NOVOISBIRSK, RUSSIA, LICENSE NO. D326546 
+ 
+REFTEL: USDOC 10443 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Technological Institute of Applied 
+Microelectronics, Novoisbirsk, Russia.  The company is 
+listed on BIS license application D326546 as the 
+ultimate consignee of two (2) omega/thermovision A10 
+18mm camera systems. These items are controlled for 
+anti-terrorism, national security, nuclear non 
+proliferation, regional stability and UN sanctions 
+reasons under ECCN 6A003. The licensee is Indigo 
+Systems Corporation, 70 Castilian Drive, Goleta, CA 
+¶93117. 
+ 
+¶3. On December 7, 2007, Export Control Office Moscow 
+received reftel cable and initiated contact with 
+stated POC.  On February 6, 2008 per telephone 
+conversation with Eduard Demyanov of the Technical 
+Institute of Applied Microelectronics, LES Natalya 
+Shipitsina was advised that the actual end-user is 
+Kemerovsky Metallurgical Plant, Novokurznetsky, 
+Russia.  The ECO was advised that the Institute made 
+some modifications to the subject commodity and then 
+shipped them to their client, Kemerovsky Metallurgical 
+Plant, in 2005.  Eduard Demyanov of the Institute of 
+Applied Microelectronics was not able to provide a POC 
+within Kemerovsky Metallurgical Plant to the ECO.  On 
+March 17, 2008 LES Natalya Shipitsina spoke with the 
+POC of Pergam, the Ultimate Consignee, in an attempt 
+to locate a POC within Kemerovsky Metallurgical Plant 
+with no success.  The Kemerovsky Metallurgical Plant 
+employs more than 5000 people and without a POC for 
+the actual sale of the two (2) omega/thermovision A10 
+18mm camera systems the ECO cannot conduct the PSV. 
+ 
+¶4. Recommendations: Post cannot repeat cannot verify 
+that the commodities in reftel are being used in 
+accordance with terms of the export license.  Post 
+does not consider the Institute of Applied 
+Microelectronics, Novoisbirsk, Russia as a reliable 
+recipient of sensitive U.S. origin commodities. 
+(FCS MOSCOW/SBOZEK/PLISTON) 
+RUSSELL

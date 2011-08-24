@@ -1,0 +1,188 @@
+08PRETORIA1976
+ICT FORUM DISCUSSES NEED TO IMPROVE IMPLEMENTATION OF ICT
+Mon Sep 08 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Pretoria
+VZCZCXRO7417
+RR RUEHBZ RUEHDU RUEHJO RUEHMR RUEHRN
+DE RUEHSA #1976/01 2520850
+ZNR UUUUU ZZH
+R 080850Z SEP 08
+FM AMEMBASSY PRETORIA
+TO RUEHC/SECSTATE WASHDC 5615
+INFO RUCPDC/DEPT OF COMMERCE WASHDC
+RUCNSAD/SOUTHERN AF DEVELOPMENT COMMUNITY COLLECTIVEUNCLAS SECTION 01 OF 02 PRETORIA 001976 
+ 
+SIPDIS 
+SENSITIVE BUT UNCLASSIFIED 
+ 
+DEPT FOR EEB/CIP/BLAKEMAN 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD EIND EINV EINT ECIP SF
+SUBJECT: ICT FORUM DISCUSSES NEED TO IMPROVE IMPLEMENTATION OF ICT 
+POLICIES AND STREAMLINE REGULATIONS 
+ 
+REF:  PRETORIA 271 
+ 
+¶1. (SBU) Summary. The South African Chamber of Commerce and Industry 
+(SACCI) sponsored a forum on ICT Developments and Regulations on 
+September 4.  The forum included members of South Africa's 
+Presidential International Advisory Council on Information Society 
+and Development, who promoted increasing ICT access in South African 
+schools.  Forum participants criticized the Independent 
+Communications Authority of South Africa (ICASA) for its onerous 
+licensing processes.  Speakers also called for a campaign to educate 
+political leaders who would impact future ICT policy development and 
+implementation.  New developments in the ICT sector including the 
+introduction of Neotel, SEACOM undersea fiber-optic cable, and new 
+Value Added Network Services (VANS) networks will serve to drive 
+down ICT costs for South African consumers in the coming months. 
+End Summary. 
+ 
+¶2. (U) SACCI sponsored a forum on ICT Developments and Regulations 
+at Microsoft South Africa headquarters on September 4.  Embassy ICT 
+officer attended the forum and had the opportunity to speak with 
+industry and consumer group representatives. 
+ 
+¶3. (U) Forum Participants included members of the Presidential 
+International Advisory Council on Information Society and 
+Development, which will meet September 6-7 to advise President Mbeki 
+on leveraging ICT to advance South African development.  Advisory 
+council members include representatives from international ICT 
+companies.  Microsoft Regional Technology Officer Michael Thatcher 
+said the advisory council would urge President Mbeki to increase 
+efforts to help schools utilize technology.  It would also urge 
+South Africa to tighten intellectual property rights (IPR) so 
+entrepreneurs could make a living from their inventions. 
+ 
+-------------------------- 
+IMPLEMENTATION A ROADBLOCK 
+-------------------------- 
+ 
+¶4. (U) Thatcher identified deficiencies in policy implementation as 
+a roadblock to improvements in the South African ICT sector.  He 
+said "even when policies were good, their implementation was 
+erratic."  He noted that the South African Government (SAG) has a 
+commendable policy to provide schools with a fifty-percent 
+discounted internet connectivity rate.  However, Thatcher 
+highlighted that implementation roadblocks have made it difficult 
+for most schools to access this discounted rate.  The policy has not 
+been well-enforced and fewer than ten percent of schools could 
+access the discounted rate.  Thatcher also cited the execution and 
+implementation of IPR policies as critical to growth in the sector. 
+He explained that the Patent Office would need resources to transfer 
+its patents database online. 
+ 
+-------------------------- 
+INDUSTRY CRITICAL OF ICASA 
+-------------------------- 
+ 
+¶5. (SBU) Communications Users' Association of South Africa (CUASA) 
+Representative Roy Webber criticized ICASA for slowing the pace of 
+ICT liberalization and competition.  Webber said South Africa needed 
+a strong, capable, independent, effective, well-funded and 
+communicative telecoms regulator; but asserted that ICASA was 
+neither independent nor communicative.  Webber slammed ICASA for its 
+"out-of-date" website and lack of oversight on ICT billing. 
+According to Webber, every operator should be forced to offer 
+per-second billing and ICASA should work to reduce interconnection 
+fees users pay when a call from one network terminates on another 
+(e.g., from a fixed-line to a mobile-line). 
+ 
+¶6. (SBU) ICASA Chairman Paris Mashile was also scheduled to 
+Q6. (SBU) ICASA Chairman Paris Mashile was also scheduled to 
+participate in the Forum, but did not attend.  Webber expressed 
+frustration at Mashile's absence since he wanted to hear ICASA's 
+response to his critiques. 
+ 
+------------------------------- 
+ICASA Licensing Process Slammed 
+by Industry and Courts 
+------------------------------- 
+ 
+¶7. (SBU) Webber disparaged ICASA for slowing down the roll-out of 
+additional ICT networks.  Webber noted that ICASA processes had 
+considerably delayed the licensing of the second national operator 
+Neotel, which delayed much-needed competition against state-owned 
+Telkom.  He also criticized ICASA's license conversion process for 
+existing ICT license-holders.  According to Webber, ICASA has 
+started the license conversion process, but has not finalized the 
+costs for these new licenses.  This creates uncertainty for the 
+industry. 
+ 
+¶8. (SBU) Webber noted that ICASA's shortcomings in the licensing 
+ 
+PRETORIA 00001976  002 OF 002 
+ 
+ 
+process were recently highlighted by a Pretoria High Court decision, 
+which found ICASA's processes to be flawed.  The issue centered on 
+whether companies holding Value Added Network Services (VANS) 
+licenses were entitled to build their own network, or whether they 
+were had to lease their backbone facilities from Telkom.  The court 
+decision effectively ended Telkom's monopoly by decreeing that 
+technology company Altech has the right to build its own network. 
+Webber emphasized that ICASA should have addressed this issue 
+three-years ago instead of being forced to do so through the courts. 
+ 
+ 
+¶9. (U) According to press reports, the decision will open the 
+"floodgates for competition since it allows about 300 other internet 
+service providers and data carriers to build their own networks, 
+too."  Altech CEO Craig Venter described the decision as "an 
+undisputed victory not only for Altech but for the whole telecoms 
+industry."  Venter said it would cost about R1 billion ($125 
+million) to set up a national network so most players could not 
+afford to do so, but those with the financial muscle could now swing 
+into action.  "Ultimately, consumers will benefit because they will 
+see lower prices," Venter added. 
+ 
+------------------------- 
+INDUSTRY MUST EDUCATE ANC 
+------------------------- 
+ 
+¶10. (SBU) Professor Itumeleng Mosala, a former cabinet-member under 
+the Mandela government, encouraged industry and consumer 
+organizations to "better educate policy-makers" on ICT issues.  He 
+acknowledged that here had been unnecessary SAG interference in the 
+ICT sector in the past, but cited a need for better-informed policy 
+makers.  Mosala noted that "interference many times masquerades as 
+regulation. Government has a right to regulate but it has no right 
+to interfere."  He prompted the ICT sector to be more strategic in 
+addressing problems with the ICT regulatory environment. 
+ 
+¶11. (SBU) Mosala noted that a new ANC government would soon be in 
+power and industry officials should work with the ANC to educate 
+them.  He said that lobbying efforts tended to concentrate on 
+officials at the Department of Communications (DOC) or ICASA, when 
+they should also be targeting broader ANC leadership.  He emphasized 
+that policy is developed by committee in the ANC and he did not 
+believe that ANC policy makers were currently well-informed about 
+the ICT sector or the implications of SAG ICT policies on economic 
+growth.  "If they understood the issues, they'd implement policies 
+better," Mosala said. 
+ 
+¶12. (SBU) Comment:  Increased competition and innovations in the 
+South African ICT sector have been hampered by DOC and ICASA 
+policies.  The DOC has championed policies to support state-owned 
+entities and state-sponsored ICT projects at the expense of improved 
+and affordable services.  ICASA officials have acknowledged delays 
+in the license conversion process (reftel) and the need for 
+additional training on spectrum management.  U.S.-based ICT 
+companies have also cited the need to better inform SAG officials 
+about developments in the ICT sector and the impact of SAG policies 
+on sector growth. 
+ 
+¶13. (SBU) Despite these challenges, competition in the sector should 
+be revolutionized in the coming months.  Neotel has recently begun 
+offering competitive fixed-line services.  Increased bandwidth 
+capacity also will become available in June 2009 with the SEACOM 
+undersea cable project.  Finally, liberalization in the sector will 
+also be spurred on by the recent court decision to allow VANS to 
+Qalso be spurred on by the recent court decision to allow VANS to 
+develop their own networks.  All of these developments, which will 
+be occurring at about the same time, will serve to drive down ICT 
+costs for South African consumer.  End Comment. 
+ 
+LA LIME

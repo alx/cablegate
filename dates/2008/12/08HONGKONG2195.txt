@@ -1,0 +1,149 @@
+08HONGKONG2195
+EXTRANCHECK: POST SHIPMENT VERIFICATION: PIONEER
+Fri Dec 05 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHHK #2195/01 3400746
+ZNR UUUUU ZZH
+R 050746Z DEC 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 6387
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002195 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: PIONEER 
+ELECTRONICS CO. LTD. AND SPEED ELECTRONICS COMPANY 
+ 
+REF: A) USDOC 6053 B) USDOC 05618 
+ 
+1.Unauthorized disclosure o the information provided below is 
+prohibited bySection 12C of the Export Administration Act. 
+ 
+2 As per reftels A and B rquests and at the directin of the 
+Office of Enforcement Analysis (OEA) ofthe USDOC Bureau of Industry 
+and Security (BIS),Export Control Officer Philip Ankel (ECO) 
+conduced post shipment-verifications (PSVs) at Speed Electronics 
+Company, Room 1301-1303, 13/F Blissful Bldg, No 243-247, Des Voeus 
+Road, Hong Kong (Speed) and Pioneer Electronics Co. Ltd. (Pioneer), 
+at the same address.  ECO has combined these two PSVs into one cable 
+as the companies are related and collocated. 
+ 
+¶3.  The items in question for the Speed check are 120 electronic 
+integrated circuits exported to Speed on or about October 12, 2007 
+and valued at USD 2,160.  On the applicable shippers export 
+declaration (SED), these items are classified under export control 
+classification number (ECCN) 3A001 and, if properly classified, 
+would be controlled for national security (NS) reasons.  Separate 
+documentation provided by OEA shows these items to be classified 
+under ECCN 3A991 resulting in control for anti-terrorism (AT) 
+reasons.  The exporter was America II Electronics of St. Petersberg, 
+Florida. 
+ 
+¶4.  The items in question for the Pioneer check are 1000 GB SDRAM 
+valued at USD 5,500 and exported to Pioneer on or about April 2, 
+¶2008.  On the applicable shippers export declaration (SED), these 
+items are classified under export control classification number 
+(ECCN) 3A001 and, if properly classified, would be controlled for 
+national security (NS) reasons.  The exporter was Advanced MP 
+Technology of San Clemente, California. 
+ 
+¶5.  According to the Hong Kong Companies Registry, Pioneer has been 
+in existence since 2002.  Its paid up share capital is the Hong Kong 
+equivalent of USD 1250.  The Hong Kong Companies Registry lists two 
+mainland Chinese nationals as directors, namely Li, Xin (Passport 
+number G22828797) and Xu, Cheng (Passport number G06784219).  The 
+companies registry lists neither director as a director in any other 
+company in Hong Kong. 
+ 
+¶6.  A review of the Pioneer's web site(www.pioneeric.com) reveals 
+that Pioneer markets itself as a worldwide distributor of ICs and 
+electronic components.  It claims offices in Hong Kong, Korea and 
+China.  The web site is registered to Shenzhen Kai Xin Da 
+Electronics Co. at 11A Li Ming Ge Zhong, Hai Li Yuan, Nan Shan, 
+Shenzhen (phone number 86 755 13600160758)and the contact person is 
+listed as Li, Xin (presumably one of Pioneer's directors listed 
+above). 
+ 
+¶7.  Several other companies also appear to be collocated with 
+Pioneer (aside from Speed, addressed below), including S&G 
+Accounting and Secretary, Ltd. (S&G).  S&G appears to be a company 
+registration office while other, apparently unrelated, companies use 
+the Pioneer address as a corporate mail-drop. 
+ 
+¶8.  Speed Electronics does not appear to exist as a corporate entity 
+in Hong Kong (at least on official corporate records).  A company by 
+that name was dissolved in 2004. The company does not appear to have 
+a web presence. 
+ 
+¶9.  On October 17, 2008, ECO, accompanied by Commercial Assistant, 
+Carrie Chan, visited Pioneer and Speed and met with Mr. Ken Chan, 
+Logistic Specialist for Pioneer.  The office of the company is quite 
+small and ECO noted roughly four staff in six cubicles in this one 
+room office.  Mr. Chan stated that Pioneer is the main company while 
+Speed is, as he put it, just its purchasing arm.  He further 
+clarified that Speed does not actually exist but that it is used to 
+keep Pioneer's reputation clear when dealing with new suppliers or 
+customers.  He stated that another company name is used in a similar 
+fashion, namely Action Electronics.  This entity is not registered 
+but operates at the same address.  ECO did not find this explanation 
+to be credible. 
+ 
+¶10.  Mr. Chan further stated that Ms. Grace Ho owns S&G.  She is 
+also the manager of the Pioneer office in Hong Kong.  Mr. Chan 
+confirmed that S&G provides corporate registration and other related 
+services.  Mr. Chan also stated that Shenzhen Ka Xin Da (the 
+pioneeric.com domain holder) is the transliteration of Pioneer's 
+Chinese name.  When asked about a Mr. Emerson Zhou, who is listed as 
+a consignee on another, unrelated, shipment, Mr. Chan stated that 
+Mr. Zhou is an employee of Pioneer in Shenzhen. 
+ 
+¶11.  Mr. Chan stated that Pioneer has been in operation for 
+approximately seven years and has four to five employees in Hong 
+Kong.  Its main operations are in mainland China and typical 
+customers are factories.  Mr. Chan stated that he did not know the 
+end applications of the products that Pioneer sells.  He stated that 
+ 
+ 
+the salespeople in Shenzhen would have such information. 
+ 
+¶12.  Mr. Chan stated that he was not aware of HK H&Q Electronics 
+Technology (www.hqelectronicstech.com) or Saga Electronics, Ltd. 
+Both are located in Hong Kong and their web sites contain several 
+identical passages in their corporate descriptions as the Pioneer 
+corporate description.  ECO believes these are unrelated companies. 
+ 
+¶13.  As to the specific items that were the subject of the Pioneer 
+PSV, Mr. Chan stated that they had been transferred to Jennex 
+Technology in Hong Kong (contact number in Shenzhen of 0755 8357 
+3221).  He stated (and an internet search confirms) that Jennex is 
+the Hong Kong affiliate of a customs clearance and electronics 
+trading company based on mainland China (with a Hong Kong presence). 
+ Mr. Chan stated that the items were destined for mainland China but 
+he was unable to provide any additional information on that point. 
+ 
+¶14.  As to the items that were the subject of the Speed PSV, Mr. 
+Chan provided documentation showing that these items had been sold 
+and shipped to Plexus (Xiamen) Co. Limited for use in production of 
+telecom equipment.  Plexus is a worldwide contract manufacturer. 
+ 
+¶15.  Based on the information noted above, ECO believes that both 
+Speed and Pioneer are unsuitable recipients of U.S. origin 
+controlled technology.  ECO requests that OEA confirm the 3A001 
+classification of the shipment to Pioneer so that ECO may reach out 
+to Hong Kong TID concerning a potential violation of Hong Kong's 
+export control rules in connection with this shipment.  ECO suspects 
+neither Pioneer nor Speed is applying for the required Hong Kong 
+licenses to ship controlled items through Hong Kong.  Finally, ECO 
+recommends that OEA conduct a thorough review of all shipments to 
+Speed, Pioneer and Action Electronics.

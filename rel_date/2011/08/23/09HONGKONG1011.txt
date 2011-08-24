@@ -1,0 +1,82 @@
+09HONGKONG1011
+EXTRANCHECK: POST SHIPMENT VERIFICATION: SUNFLY ELECTRONICS
+Thu Jun 04 00:00:00 +0200 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #1011 1550846
+ZNR UUUUU ZZH
+R 040846Z JUN 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 7757
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001011 
+ 
+USDOC FOR 532/OEA/MHAMES/MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: SUNFLY ELECTRONICS 
+(HK) LIMITED 
+ 
+REF: A) BIS e-mail request dated March 17, 2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) attempted 
+to conduct a post shipment verification (PSV) at Sunfly Electronics 
+(HK) Limited, Flat L, 11/F, Phase 3, Kwun Tong Industrial Centre, 
+448-458 Kwun Tong Road, Hong Kong (Sunfly). The items in question 
+for this PSV are various microprocessors exported to Sunfly on or 
+about January 20, 2009.  On the applicable shippers export 
+declaration (SED), these items are not classified meaning that they 
+are likely EAR99 and eligible for shipment to virtually all 
+destinations and end-uses/users worldwide.  The exporter was 
+Mitronics, Inc. of East Rutherford, New Jersey. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Sunfly has been 
+in existence since May 2008.  The company has no paid up share 
+capital.  The Hong Kong Companies Registry lists Ji, Fang (likely a 
+mainland national), as director but does not include a passport 
+number or other identification. 
+ 
+¶4.  According to the company's web site (www.Sunflyele.com), Sunfly 
+is an independent distributor of electronic components. 
+ 
+¶5.  Commercial Assistant, Carrie Chan, attempted for some time to 
+arrange a meeting with the company.  A person identifying herself 
+only as Catrina (the contact person on the underlying invoices) 
+provided multiple reasons why she and the company's director could 
+not come to Hong Kong to meet.  In particular, she stated that the 
+company is registered in Hong Kong but has its operations in 
+Shenzhen.  She further stated that neither she nor the company's 
+director had permits to enter Hong Kong and this would take some 
+time to obtain.  Later, Catrina stated that her director had the flu 
+and was under observation at the hospital.  Given the time that has 
+passed and the delay in arranging this EUC, ECO does not believe 
+that the company is willing to meet. If that changes, ECO will 
+update this cable. 
+ 
+¶6.  Catrina did provide documentation by fax confirming that the 
+items had been received by Sunfly.  She stated that the items were 
+for stock and, as a result, Sunfly did not have any customer 
+purchase order to share.  ECO views it as unlikely that Sunfly 
+ordered such a large number of these items for stock and has 
+apparently not yet sold any of them. 
+ 
+¶7.  Based on the information noted above, ECO believes that Sunfly 
+most likely does not have any permanent Hong Kong presence and uses 
+its Hong Kong address to receive shipments and correspond with 
+international clients and suppliers.  While there is no apparent 
+export control violation associated with this shipment, ECO 
+nonetheless does not believe Sunfly to be a suitable recipient of 
+controlled U.S. origin technology.

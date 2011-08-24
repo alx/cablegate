@@ -1,0 +1,117 @@
+06PARIS4793
+FRANCE: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK ON
+Thu Jul 13 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Paris
+null
+Lucia A Keegan  07/13/2006 05:05:15 PM  From  DB/Inbox:  Lucia A Keegan
+
+Cable 
+Text:                                                                      
+                                                                           
+      
+UNCLAS        PARIS 04793
+
+SIPDIS
+cxparis:
+    ACTION: ECON
+    INFO:   UNESCO ECSO FCS SCI ENGO SCIO TRDO ESCI POL ORA
+            AMB AGR LABO DCM ECNO
+
+DISSEMINATION: ECONOUT /1
+CHARGE: PROG
+
+APPROVED: ECON:TJWHITE
+DRAFTED: ECON:VBELON
+CLEARED: NONE
+
+VZCZCFRI650
+RR RUEHC RUEHPO
+DE RUEHFR #4793 1940953
+ZNR UUUUU ZZH
+R 130953Z JUL 06
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 9486
+INFO RUEHPO/AMEMBASSY PARAMARIBO 0032UNCLAS PARIS 004793 
+ 
+SIPDIS 
+ 
+STATE FOR PM/DTCC - BLUE LANTERN COORDINATOR 
+ 
+E.O. 12958:  N/A 
+TAGS: ETTC KOMC FR
+SUBJECT: FRANCE: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK ON 
+APPLICATION 05-999048 
+ 
+REF: (A) STATE 81335 
+ 
+(B) PARIS 4714 
+ 
+¶1.  In addition to checking with the French Prefect for French 
+Guiana and with French Customs (ref B) regarding the bona fides of 
+end-user Amazonie Loisirs for license application 05-999048, Post 
+Blue Lantern Action Officer also contacted the French Foreign 
+Ministry, which in turn requested an interagency review to 
+determined whether Amazonie Loisirs was fully authorized to import 
+and sell these items.  On July 12, the French Foreign Ministry 
+shared with us the comments they received from Christophe Jacquot, 
+an expert on defense trade controls in the 
+Defense Ministry. 
+ 
+¶2.  Following is an unofficial translation of his assessment: 
+ 
+I received your request for information concerning the 
+classification of the material that the company Amazonie Loisirs, 
+based in French Guiana but unknown to anyone in my service under 
+that name, would like to import from the United States. 
+ 
+As for the authorization to trade (commonly referred to as an AFC or 
+"autorization de fabrication et de commerce"), having looked over 
+the items on the list you sent, it appears that certain materials do 
+fall under the 1st and 4th categories defined in article 2 of the 6 
+May 1995 decree, itself a modification of the 18 April 1939 decree, 
+which lays out the regulation of war materials, weapons and 
+ammunition. This would require that the company, which does not 
+currently possess an AFC, hold authorization to trade these 
+materials -- authorization issued by the Ministry of Defense, 
+Strategic Affaires Directorate, Division for Sensitive Transfers 
+Regulation -- which would allow the company to import these 
+materials under an authorization to import weapons of war (AIMG or 
+"autorisation d'importation de matriel de guerre"). 
+ 
+Once the company obtains an AFC, they must apply to French Customs 
+to receive an AIMG after review by the Defense Ministry, the Foreign 
+Ministry and the Interior Ministry. 
+ 
+Sincerely, 
+Arms Regulator Christophe JACQUOT 
+ 
+End unofficial translation. 
+ 
+¶3.  The interagency review, initiated by our contacts in the Foreign 
+Ministry, took several weeks.  In order to facilitate and expedite 
+their review of this case, in late June, we faxed the "Demande de 
+Commerce" included in the license application package, sent to us by 
+PM/DTCC, to the MFA, which in turn faxed it to the Defense Ministry, 
+among others.  Apparently, the "Demande de Commerce" document is all 
+that is needed to trade in items which fall under Categories 5, 6, 
+and 7, under French defense trade regulations.  However, Mr. Jacquot 
+has determined that many items listed in Amazonie Loisirs' order 
+(ref A) fall into categories 1 and 4, whereas Amazonie Loisirs is 
+currently only authorized to import items under categories 5, 6, and 
+¶7.  For items in Categories 1 through 4, both an AFC and an AIMG are 
+needed.  Category 1 items are weapons of war firearms (generally, 
+anything 9mm caliber or over), Category 4 items are defensive 
+weapons of war (such as 357 magnum -- generally, reserved for the 
+French national police), Category 5 items are hunting weapons, 
+Category 6 items are knifes and similar hand-held weapons, and 
+Category 7 items are shooting and sporting firearms, such as target 
+rifles.  Given the Defense Ministry's determination that many of 
+these bolt action rifles, semi-automatic rifles, lever action rifles 
+and pistols of these calibers fall into Catagories 1 and 4 of French 
+defense trade regulations, Amazonie Loisirs does not/not have the 
+necessary French Government authorizations to import these items. 
+Thus, the GOF requests that we not approve this license 
+application. 
+ 
+Stapleton

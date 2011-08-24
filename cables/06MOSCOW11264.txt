@@ -1,0 +1,105 @@
+06MOSCOW11264
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Fri Oct 06 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0007
+PP RUEHWEB
+
+DE RUEHMO #1264 2791140
+ZNR UUUUU ZZH
+P 061140Z OCT 06
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3556
+RHFJUSC/HQS US CUSTOMS SERVICE WASHINGTON DCUNCLAS MOSCOW 011264 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/DMUSLU/MHAMES 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+FEDERALNAYA SLUZHBA OHRANY, MOSCOW, RUSSIA, LICENSE 
+NO: D356296 
+ 
+REFTEL: USDOC 04153 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Federalnaya Sluzhba Ohrany, Moscow, Russia. The 
+company was listed on BIS license number: D356296 as 
+the ultimate consignee of 8 thermal surveillance 
+camera system, model TVIS and 2 thermal cameras, model 
+no. Photon Block 2, ECCN: 6A003.B.4. These commodities 
+are controlled for national security and regional 
+security reasons. The exporter is Indigo Systems 
+Corporation, 70 Castilian Dr., Goleta, CA 93117. 
+ 
+¶3. On September 29, 2006, Export Control Attache 
+Donald Pearce and FSN Natalya Shipitsina conducted the 
+requested post-shipment verification with Federalnaya 
+Sluzhba Ohrany (Russian abbreviation FSO) at the 
+offices of Gulfstream Engineering Company, 44, 
+Bolshaya Polyanka st., Moscow, Russia. The export 
+control team met with Stepan N. Cherepnin, Chief of 
+CCTV and Access Controls Department, and Igor N. 
+Azarov of the FSO. 
+ 
+¶4. FSO is an agency of the Government of Russia (GOR) 
+tasked with the protection of the President of the 
+Russian Federation and other state officials.  The 
+agency is also responsible for the security of certain 
+state property, such as the Kremlin. 
+ 
+¶5. Gulfstream Engineering Company (GEC) is the 
+principal contractor on an FSO tender to provide 
+closed-circuit television cameras for use at several 
+FSO protected facilities, including the Kremlin.  The 
+company was founded in 1994, and provides security 
+engineering, systems installation, and monitoring 
+services. GEC has worked with the FSO since 1996, as 
+FSO has found them to be reliable, providing high 
+quality equipment that is competitively priced.  GEC 
+has several government contracts in addition to those 
+for FSO, and holds licenses for engineering, 
+construction, installation and data transmission from 
+appropriate authorities.  As a government contractor, 
+all employees are vetted through the Federal Security 
+Service (Russian abbreviation FSB), and the company is 
+authorized to carry out activities associated with 
+National Security Information of the GOR.  The company 
+is privately held, and operates from an office in the 
+city center of Moscow with 200 employees. 
+ 
+¶6. The cameras were purchased by FSO for use in 
+physical security operations at several locations, 
+including the Kremlin.  The exact location of the 
+cameras is considered a state secret.  FSO is aware of 
+the license conditions, and will not transfer the 
+cameras to any other organizations or uses. 
+ 
+¶7. The team was shown four FLIR model 427-0007-06-00 
+TV-IS 14" cameras: serial numbers 0431, 0432, 0433, 
+and 0434, four FLIR model 427-0007-07-00 TV-IS 23" 
+cameras: serial numbers 0435, 0436, 0437, and 0438, 
+and two Photon 19mm imagers, serial number 4582 and 
+¶4620.  The Photon imagers were mounted in Pelco ES- 
+3012-2 cameras by GEC.  All units were in new 
+condition, with the FLIR cameras still in their 
+original boxes as normally shipped. 
+ 
+¶8. Recommendations: Post recommends Federalnaya 
+Sluzhba Ohrany, Moscow, Russia, and Gulfstream 
+Engineering Company, Moscow, Russia as reliable 
+recipients of sensitive U.S. origin commodities. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

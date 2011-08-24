@@ -1,0 +1,94 @@
+09HONGKONG498
+EXTRANCHECK: POST SHIPMENT VERIFICATION: RICH LONG
+Wed Mar 18 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #0498 0770555
+ZNR UUUUU ZZH
+R 180555Z MAR 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 7164
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000498 
+ 
+USDOC FOR 532/OEA/MNICKSON/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: RICH LONG 
+LOGISTICS, LTD 
+ 
+REF: A) USDOC 00153 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment-verification (PSV) at Rich Long Logistics, Ltd., O/B 
+Uni Shine Marine Co. Ltd., 6/F Wah Tat Industrial Center, 8-10 
+Wahsing Street, Hong Kong (Rich Long). The items in question for 
+this PSV are outboard marine propulsion engines and a bow thruster 
+system exported to Rich Long on or about February 28, 2007.  While 
+the applicable export control documentation does not list an export 
+control classification number (ECCN), it is likely that these items 
+can be shipped license free to virtually all destinations and 
+end-users worldwide except certain sanctioned countries and 
+restricted entities and individuals.  The exporter was Wesmar 
+Western Marine Electronics of Woodinville, Washington. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Rich Long has 
+been in existence since 2001.  Its paid up share capital is the Hong 
+Kong equivalent of USD 12500.  The Hong Kong Companies Registry 
+lists two Hong Kong residents as directors, namely Kao, Shih Yi and 
+Lin, Chien Kuo Gery. 
+ 
+¶4.  A review of the company's web site (www.Rich Longlogistics.com) 
+reveals that Rich Long is a logistics services company with 
+operations in Hong Kong, Taiwan and mainland China.  It provides a 
+range of services including warehousing, customs operations, 
+insurance, global tracking and computerization, among others. 
+ 
+¶5.  On February 26, 2009, ECO accompanied by Commercial Assistant, 
+Carrie Chan, visited Rich Long and met with Ms. Carmen, an account 
+manager. She provided background on the Rich Long consistent with 
+the information on the company's web site.  From ECO's observation, 
+it appears that approximately 20-25 staff work at the company's 
+office.  Ms. Carmen stated that Rich Long provides a range of 
+freight forwarding and related services for the China market.  When 
+asked, Ms. Carmen did not appear to know anything about Hong Kong 
+Strategic Commodities licenses and ECO assumes the company does not 
+apply for licenses.  Note: Only items on Hong Kong's strategic 
+commodities control list would require a license for import into 
+Hong Kong or export from Hong Kong.  ECO informed Ms. Carmen that 
+U.S. export controls apply to U.S. origin items and subsequently 
+provided her with additional information about those controls. 
+¶6.  As to the specific transaction in question, Ms. Carmen stated 
+that she was unable to locate the underlying documentation for this 
+shipment.  She stated that shipping documentation is kept on hand 
+for one year and then shipped to the company's warehouse in the 
+mainland.  She further stated that the customer and ultimate 
+consignee, Uni Shine Marine, is a regular customer of Rich Long.  It 
+manufactures boats in Zhuhai, mainland China.  Ms. Carmen stated 
+that she is unaware of Uni Shine's customers.  A web search of Uni 
+Shine reveals that it is apparently an affiliate or subsidiary of 
+Taiwan firm Her Shine Marine which, among other things, builds 
+yachts in partnership with Jefferson Marine in Jeffersonville, 
+Indiana.  ECO has no reason to doubt that the items were actually 
+shipped to Uni Shine. 
+ 
+¶7.  Based on the information noted above, ECO believes the items did 
+reach the buyer listed on the applicable export documentation 
+(namely Uni Shine Marine Co. Ltd.).  ECO is less sanguine about the 
+suitability of Rich Long to be the recipient (as logistics provider) 
+of controlled U.S. origin technology.   ECO can make no 
+determination as to the suitability of the apparent ultimate 
+consignee Uni Shine Marine Co. Ltd.

@@ -1,0 +1,90 @@
+08MOSCOW166
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Thu Jan 24 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0003
+PP RUEHWEB
+
+DE RUEHMO #0166 0241202
+ZNR UUUUU ZZH
+P 241202Z JAN 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 6248
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000166 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+RADIO-NAVIGATOR CO., LTD., MOSCOW, RUSSIA, LICENSE NO. 
+NLR 
+ 
+REFTEL: USDOC 10572 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Radio-Navigator Co., Ltd., Moscow, Russia. The 
+company is listed on BIS license application: NLR as 
+the ultimate consignee of one mariner 9hz camera 
+system. ECCN 6A993. The exporter is FLIR Systems Inc., 
+70 Castilian Drive, Goleta, CA. 
+ 
+¶3. On January 11, 2008, Export Control Attache Peter 
+Liston and LES Natalya Shipitsina conducted the 
+requested post-shipment verification with Radio- 
+Navigator Co., Ltd., 15/2 Azovskaya st., Moscow, 
+Russia. The export control team met with Miroslav 
+Grishin, General Director. 
+ 
+¶4. Radio-Navigator Co., LTD was established and 
+registered in Moscow, Russia in 2002 as a Holding 
+Company.  Radio-Navigator Co., LTD has approximately 
+35 employees, and also employs several contractors on 
+an as-needed basis. 
+ 
+¶5. Radio-Navigator CO., LTD specializes in maritime 
+equipment and produces much of their own in Murom, 
+Russia.  They are one of the top three produces of 
+such equipment in Russia.  In addition, they import 
+directly from China and Korea where they have 
+contracts for specific volume equipment. 
+ 
+¶6.  Radio-Navigator Co., LTD signed a contract with 
+FLIR in Santa Barbara, CA in April 2007, to begin 
+importing FLIR products that do not require licenses. 
+Products are purchased and imported only after 
+customer orders are filled, not for inventory.  Radio- 
+Navigator Co., LTD had sought to be a distributor of 
+FLIR's high-end equipment that does require export 
+licenses, however FLIR informed them that they do not 
+grand exclusive contracts for those products. 
+ 
+¶7.  Radio-Navigator CO., LTD advised the ECO Liston 
+that the products that they produce have no military 
+use.  They did state that they do have contacts in 
+Russian government services that are interested in 
+purchasing some of FLIR's product in the future. 
+ 
+¶8.  Radio-Navigator Co., LTD purchased the FLIR 
+mariner 9hz camera system, part no. 427-0010-04-00S 
+for re-sale to a specific customer and therefore it 
+was not available to the ECO Moscow team. 
+ 
+¶9. Recommendations: Post recommends Radio-Navigator 
+Co., Ltd., Moscow, Russia as reliable recipients of 
+sensitive U.S. origin commodities. 
+(FCS MOSCOW/SBOZEK/PLISTON) 
+BURNS

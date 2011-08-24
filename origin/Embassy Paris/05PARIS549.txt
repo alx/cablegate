@@ -3,20 +3,7 @@ FRENCH RESPONSE TO GROSSMAN LETTER ON CARTAGENA
 Fri Jan 28 00:00:00 +0100 2005
 UNCLASSIFIED
 Embassy Paris
-This record is a partial extract of the original cable. The full text of the original cable is not available.id: 26101
-date: 1/28/2005 19:04
-refid: 05PARIS549
-origin: Embassy Paris
-classification: UNCLASSIFIED
-destination: 05STATE14571
-header:
-This record is a partial extract of the original cable. The full text of the original cable is not available.
-
-
-
------------------ header ends ----------------
-
-UNCLAS PARIS 000549 
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS PARIS 000549 
  
 SIPDIS 
  
@@ -86,6 +73,4 @@ Faithfully Yours,
 Stanislas de Laboulaye 
  
 END TRANSLATION OF LETTER 
-Leach 
-
-=======================CABLE ENDS============================
+Leach

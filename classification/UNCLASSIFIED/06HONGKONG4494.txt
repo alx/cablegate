@@ -1,0 +1,76 @@
+06HONGKONG4494
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Fri Nov 17 00:00:00 +0100 2006
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHHK #4494 3210905
+ZNR UUUUU ZZH
+R 170905Z NOV 06
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9518
+RUEAIAO/HQ ICE IAO WASHDCUNCLAS HONG KONG 004494 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132/FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+BLOOMBERG (HK) 
+ 
+REF: A) USDOC 05674 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the Bureau of 
+Industry and Security (BIS), Export Control Officer 
+(ECO) Philip Ankel conducted a post shipment 
+verification (PSV) at Bloomberg (HK) (Bloomberg). This 
+PSV concerned computer boards exported by Stradis, 
+Inc. of Atlanta, Georgia (Stradis), classified as 
+4A001 and valued at $4,851.  Items classified as 4A001 
+are controlled for national security (NS) and anti- 
+terrorism (AT) reasons and may be controlled for 
+missile technology (MT) reasons. 
+ 
+¶3. On November 9, 2006, the ECO visited Bloomberg at 
+its Hong Kong headquarters on the 26th floor of the 
+Cheung Kong Centre, 2 Queen's Road, Hong Kong and met 
+with compliance manager Cynthia Lam and procurement 
+manager Eddie Chau.  Ms. Lam stated that Bloomberg 
+(HK) is the local operation of the global data, news 
+and analytics provider, Bloomberg (more information at 
+www.bloomberg.com).  It is apparent from the tour of 
+the facility provided by Ms. Lam that this is 
+Bloomberg's Hong Kong office. 
+ 
+¶4.  Ms. Lam and Bloomberg staff members were open and 
+cooperative during the PSV.  Ms. Lam arranged for the 
+ECO to inspect the items that were the subject of the 
+PSV.  One was still in its original packaging.  Three 
+additional items had already been installed in 
+computers, which were produced for the ECO's 
+inspection.  The items are used in the storage and 
+editing of video clips for Bloomberg's video 
+productions. 
+ 
+¶5. The ECO believes Bloomberg to be a very suitable 
+recipient of U.S. origin controlled technology as it 
+cooperated with the ECO, has a line of business that 
+is consistent with the item's potential use, provided 
+relevant documentation and allowed an on-site visit. 
+The ECO recommends that this PSV be classified as 
+Favorable. 
+Cunningham

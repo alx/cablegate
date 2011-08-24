@@ -1,0 +1,90 @@
+09MOSCOW319
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: LEKIS, KIEV,
+Tue Feb 10 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0019
+PP RUEHWEB
+
+DE RUEHMO #0319 0411455
+ZNR UUUUU ZZH
+P 101455Z FEB 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1849
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DC
+RUEHKV/AMEMBASSY KYIV 0324UNCLAS MOSCOW 000319 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/M.HAMES/L.RITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+KYIV FOR FCS 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: LEKIS, KIEV, 
+UKRAINE, LICENSE NO. NLR 
+ 
+REFTEL: USDOC 0241 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a Post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Lekis, Kiev, Ukraine. 
+The company is listed on BIS license application: NLR as the 
+ultimate consignee of fifty (50) GAAS PHEMT MMIC LNA, 7-12 GHZ 
+amplifiers, twenty (20) integrated circuits, amplifiers, thirty (30) 
+GAAS MMIC PHEMT LNA 6-20 GHZ, thirty (30) integrated circuits, 
+twenty (20) I.C. DC-2.5 GHZ VSP8T QSOP24 SMY PKG, electronic 
+integrated circuit: n/unmounted and other mixed signals, ten (10) 
+GAAS PHEMT LNA, 2-4 GHZ electronic integrated circuit: n/unmounted 
+signals, ten (10) SMT PHEMT LNA, 2-4 GHZ electronic integrated 
+circuit: n/unmounted mixed signals, twenty (20) integrated circuit: 
+n/unmounted mixed signals, thirty (30) 9.91-9.9 GHZ VCO with RF/2 
+electronic integrated circuit: n/unmounted and other mixed signals. 
+ECCN is not given.  The exporter is Hittite Microwave Corporation, 
+20 Alpha Road, Chelmsford, MA  01824. 
+ 
+¶3. On January 28, 2009, Export Control Attach Peter Liston and LES 
+Yuriy Prikhodko conducted the requested post-shipment verification 
+with Lekis, 8 Lepse Av, Kiev, Ukraine. The export control team met 
+with Boris Cherniy, General Director, at the office of the Foreign 
+Commercial Service, Kiev, Ukraine. 
+ 
+¶4. Boris Cherniy, General Director of Lekis advised the export 
+control team that Lekis was founded in 1999 as a high tech company 
+involved in microwave technology.  Lekis has 10 full time employees 
+on the payroll and hires additional contract engineers depending on 
+contract work.  Cherniy stated that Lekis is a privately held 
+company with offices located within the Laboratory of Electronic 
+Components and Subsystems, a large research center that is part of 
+the Ukraine defense sector. 
+ 
+¶5. Cherniy stated that Lekis places microwave technology in 
+subsystems to include transmitters, diode generators, synchronized 
+frequency generators, amplifiers and broadband for mobile 
+technology.  Cherniy stated that Lekis has received government 
+contracts and has produced components for the Ministry of 
+Transportation that measures speed and friction for the locomotive 
+industry.  Lekis has also been contracted by the National Space 
+Agency to better convert data received from satellite 
+transmissions. 
+ 
+¶6. Lekis appears to have the technological and commercial 
+sophistication required for use of the reftel commodity.  They also 
+have a legitimate need and a legitimate end use of subject 
+commodity. 
+ 
+¶7. The export control team was unable to visit the office location 
+of Lekis because of its location within a secure government facility 
+with restricted access. 
+ 
+¶8. Recommendations: Post recommends Lekis, Kiev, Ukraine as reliable 
+recipients of sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

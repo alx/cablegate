@@ -16,35 +16,6 @@ SUBJECT: Mexican Summary of Meeting on Mexican HR Initiative
  
 REF: A) Lima 698 
  
-Sensitive but Unclassified.  Please han...
-
-
-id: 28008
-date: 3/2/2005 17:31
-refid: 05LIMA992
-origin: Embassy Lima
-classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
-destination: 
-header:
-This record is a partial extract of the original cable. The full text of the original cable is not available.
-
-
-
------------------ header ends ----------------
-
-UNCLAS SECTION 01 OF 02 LIMA 000992 
- 
-SIPDIS 
- 
-Sensitive 
- 
-E.O. 12958: N/A 
-TAGS: PHUM PREL CU MX PE UNHCR
-SUBJECT: Mexican Summary of Meeting on Mexican HR Initiative 
-(Peru) 
- 
-REF: A) Lima 698 
- 
 Sensitive but Unclassified.  Please handle accordingly. 
  
 ¶1.  (SBU) Post transmits verbatim text received from the 
@@ -192,6 +163,4 @@ was mentioned, while additional proposals are awaited: the
 fight against torture; trafficking in persons; violence 
 against women, domestic Programs in the area of Human Rights 
 mechanisms. 
-Struble 
-
-=======================CABLE ENDS============================
+Struble

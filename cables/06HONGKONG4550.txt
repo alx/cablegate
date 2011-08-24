@@ -1,0 +1,126 @@
+06HONGKONG4550
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Fri Nov 24 00:00:00 +0100 2006
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHHK #4550/01 3280309
+ZNR UUUUU ZZH
+R 240309Z NOV 06
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9569
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 004550 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132/FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+HANGLI INTERNATIONAL HOLDINGS 
+ 
+REF: A) USDOC 04721 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the Bureau of 
+Industry and Security (BIS), Export Control Officer 
+(ECO) Philip Ankel conducted a post shipment 
+verification (PSV) at Hangli International Holdings 
+(Hangli) on November 9, 2006. This PSV concerned a 
+solid state recorder system DSRS 400B exported by 
+Ampex Data Systems of Redwood City, California 
+(Ampex), classified as 7A994 and valued at $295,214. 
+This 7A994 item is most likely controlled only for 
+anti-terrorism (AT) reasons. 
+ 
+¶3. An extract from the Hong Kong Companies Registry 
+provides that Hangli has been registered as a company 
+in Hong Kong since May 1996.  The registered address 
+matches the address where the check was conducted. 
+Hangli's Hong Kong corporate registration lists one 
+director by Chinese passport number and without Hong 
+Kong identification card number (PRC national Ai Ping 
+Song).  One director is listed by reference to a Hong 
+Kong I.D. card number(Ping Sung). 
+ 
+¶4.  On November 9, 2006, the ECO visited Hangli at 
+Room 901, Keen Hung Commercial Building, 80 Queen's 
+Road East, Hong Kong and met with Ping Sung, Director. 
+Ms. Sung noted that Hangli had recently moved from the 
+location listed as Hangli's address in Reftel A 
+because rents had increased substantially at that 
+location.  The ECO walked by the former offices and a 
+new tenant is now at that location.  The current 
+Hangli office is quite modest (one large room).  A 
+meeting with Ms. Sung had been requested in early 
+October but delayed for some time as Ms. Sung had been 
+on travel visiting Ampex in the United States as well 
+as in Zhuhai, China for the Zhuhai air show. 
+ 
+¶5.  Ms. Sung was open and cooperative during the PSV. 
+Ms. Sung stated that Hangli is a trading company with 
+offices in Zhuhai, mainland China and Hong Kong.  Ms. 
+Sung showed the ECO a certificate stating that Hangli 
+is the exclusive distributor for Ampex products in 
+Hong Kong and China. Ms. Sung stated that Hangli is 
+likewise a distributor for U.S. companies Herley 
+(Herley.com) and Orbit.  Promotional material provided 
+by Ms. Sung states that Hangli can provide a complete 
+set of software and hardware devices utilized in 
+manufacturing, scientific research and testing by 
+civilian or military manufacturers as well as research 
+institutes in aviation, aerospace, ship building, 
+vehicles and oil prospecting.  The cover of the 
+promotional materials includes a military helicopter 
+and fighter aircraft (as well as a civilian airliner). 
+When asked by the ECO whether Hangli's customers 
+include the military, Ms. Sung stressed that the item 
+that is subject of the check is used only for testing 
+purposes. 
+ 
+¶6.  In reference to the transaction that was the 
+subject of the check, Ms. Sung provided copies of two 
+airway bills.  The first airway bill referenced the 
+shipment from Ampex to Hangli.  The second, dated July 
+21, 2006, referenced the onward shipment of the item 
+to Shenyang Aircrafts Industry Group, No. 1 Lingbei 
+Street, P.O.328-27, Shenyang China.  A web search 
+reveals that Shenyang Aircraft Corporation produces, 
+among a wide range of items, Chinese fighter aircraft, 
+but also produces parts for Boeing planes pursuant to 
+agreements between Shenyang Aircraft Corporation and 
+Boeing. 
+ 
+¶7.  The items in question were classified by the 
+exporter as 7A994 and could therefore, absent EPCI 
+concerns or misclassification, be exported or 
+reexported to China.  BIS may wish to reach out to the 
+exporter to determine why it chose to list Hangli as 
+the ultimate consignee and Hong Kong as the country of 
+ultimate destination when the underlying Ampex 
+Purchase Contract lists the end-user as Shenyang 
+Aircraft Corporation located in mainland China. 
+ 
+¶8. It is apparent to the ECO that Hangli is a trading 
+company that does not engage in production or 
+ 
+ 
+manufacturing of any kind.  Ms. Sung was open and 
+cooperative and her answers were consistent with the 
+information in documents provided by BIS.  Therefore, 
+in accordance with guidance on reporting of PSVs where 
+the items cannot be physically inspected, the ECO 
+recommends that this PSV be classified as Limited. 
+Cunningham

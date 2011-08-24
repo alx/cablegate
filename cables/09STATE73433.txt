@@ -1,0 +1,158 @@
+09STATE73433
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Wed Jul 15 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0005
+PP RUEHWEB
+
+DE RUEHC #3433 1961431
+ZNR UUUUU ZZH
+P R 151416Z JUL 09
+FM SECSTATE WASHDC
+TO RUEHIN/AIT TAIPEI PRIORITY 0000
+INFO RUEAIIA/CIA WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 073433 
+ 
+SIPDIS 
+AIT TAIPEI FOR MATTHEW O'CONNOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC TW
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON APPLICATION 050179265 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests AIT Taipei's assistance in 
+conducting a pre-license check on application 050179265 for 
+the export of inertial measurement units (IMUs) to Taiwan. 
+AIT Taipei is requested to complete this Blue Lantern check 
+within 30 days.  Lack of response to a Blue Lantern check 
+will affect pending and future licenses involving parties to 
+this license. 
+ 
+¶3. Reason for request:  sensitive commodity and unfamiliar 
+foreign consignee, Lamar-tex Co., Ltd.  The company has 
+appeared on previous licenses but the company's bona fides 
+have not been verified by a Blue Lantern check. 
+ 
+¶4. ACTION AIT TAIPEI:  AIT Taipei is requested to make 
+inquiries with appropriate authorities to determine if Chung 
+Shan Institute of Science and Technology (CSIST) ordered the 
+IMUs from Lamar-tex Co., Ltd. and if so, verify the amount 
+and that the item will be used for the purpose stated on the 
+license.  PM/DTCC also requests that post conduct a site 
+visit to Lamar-tex Co., Ltd. in order to provide Department 
+with an assessment of its business operations and on-site 
+security.  Finally, post is asked to assess whether the 
+company appears to be a reliable recipient of USML items.  If 
+a site visit is not possible, please inform the PM/DTCC 
+officer. 
+ 
+The following questions are provided as suggested guidance: 
+ 
+--Does the company have supporting documentation for this 
+proposed transaction? 
+ 
+--Does the company have secure facilities and proper 
+accounting and security procedures for handling sensitive 
+USML items? 
+ 
+--What is the exact end-use for this USML item? 
+ 
+--When was the company established and who are its 
+principals? 
+ 
+--What is the nature of its business -- what type of items 
+does it handle, does it serve as a broker? 
+ 
+--What type of organizations are among its typical customers 
+and where are the customers located? 
+ 
+--Does the company understand the restrictions on United 
+States Munitions List (USML) items, especially the 
+prohibition against unauthorized re-transfer and re-export? 
+END ACTION 
+ 
+¶5. Details of license application: 
+ 
+DTC Case: 050179265 
+ 
+QUANTITY/COMMODITY: 
+ 
+140  Measurement System Angular Rate (P/N: RG02-0104-1) 
+ 
+License Value: USD 504,000.00 
+ 
+SELLER: 
+ 
+Eugenix Systems, Inc. 
+6707 Convoy Ct. 
+San Diego, CA 92111 
+POC is Ji Kim, Tel. 858-278-4951 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Lamar-tex Co., Ltd. 
+Room #9, 6F No. 270, Sec. 5, Chung Xiao E. Road 
+Taipei 
+Taiwan 
+POC is General Manager, William Mar, Tel. 886-2-2345-6647 
+ 
+FOREIGN END-USER: 
+ 
+Chung Shan Institute of Science and Technology 
+No. 481, Chia-An Sec., Chung-Chen Road Chia-An Village 
+Lung-Tan 
+Taiwan 
+POC is Director of Seeker Section ES Research Division, 
+Tseng, Yau Hwa, No Tel. provided 
+ 
+PURPOSE: 
+ 
+The RG02-0104-1 Measurement System Angular Rate will be used 
+in the Hsiung Feng 2B sub-sonic speed ship to ship missile, 
+this missile has been set up on DD class ships of R.O.C. 
+Taiwan Navy. 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC can fax documentation to post 
+upon request): 
+ 
+--DSP-83 Nontransfer and Use Certificate submitted by Chun 
+Shan Institute of Science and Technology, signed by Director 
+of Seeker Section ES Research Division, Tseng, Yau Hwa on 26 
+June 2009 and by Lamar-tex Co., Ltd., General Manager, 
+William Mar on 02 July 2009. 
+ 
+--Purchase Order No. XU97P03P186PE submitted by Lamar-tex 
+Co., Ltd. signed by General Manager, William Mar on 02 July 
+¶2009. 
+ 
+--End Use Statement submitted by Chung Shan Institute of 
+Science and Technology, signed by Director of Seeker Section 
+ES Research Division, Tseng, Yau Hwa on 26 June 2009. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Tim Mazzarelli, Phone: 
+202-663-3867; Email: MazzarelliTP@state.gov; SIPRNET: 
+MazzarelliTP@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file on the DOS Intranet 
+Intellipedia: 
+http://www.intelink.gov/wiki/Department of State%27s 
+Blue Latern End-Use Monitoring Program or on SIPRNET: 
+http://www.intelink. 
+sgov.gov/wiki/Department of State%27s 
+Blue Latern End-Use Monitoring Program 
+ 
+¶8. Department is grateful for post's assistance in this 
+matter. 
+CLINTON

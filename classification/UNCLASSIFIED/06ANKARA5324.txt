@@ -1,0 +1,141 @@
+06ANKARA5324
+CRIMEAN-CONGO FEVER IN TURKEY
+Thu Sep 14 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Ankara
+VZCZCXRO3059
+RR RUEHAST RUEHDA RUEHVK
+DE RUEHAK #5324/01 2571157
+ZNR UUUUU ZZH
+R 141157Z SEP 06
+FM AMEMBASSY ANKARA
+TO RUEHC/SECSTATE WASHDC 8654
+INFO RUEHRC/USDA FAS WASHDC
+RUEHGB/AMEMBASSY BAGHDAD 0740
+RUEHAH/AMEMBASSY ASHGABAT 1911
+RUEHKB/AMEMBASSY BAKU 1408
+RUEHBM/AMEMBASSY BUCHAREST 0910
+RUEHCH/AMEMBASSY CHISINAU 0421
+RUEHDM/AMEMBASSY DAMASCUS 1581
+RUEHSF/AMEMBASSY SOFIA 1077
+RUEHSI/AMEMBASSY TBILISI 3063
+RUEHVI/AMEMBASSY VIENNA 1597
+RUEHYE/AMEMBASSY YEREVAN 1243
+RUEHKU/AMEMBASSY KUWAIT 0860
+RUEHRH/AMEMBASSY RIYADH 0615
+RUEHMK/AMEMBASSY MANAMA 0200
+RUEHMO/AMEMBASSY MOSCOW 5480
+RUEHKV/AMEMBASSY KIEV 0733
+RUEHTH/AMEMBASSY ATHENS 7431
+RUEHNC/AMEMBASSY NICOSIA 6596
+RUEHRO/AMEMBASSY ROME 6581
+RUEHBS/USEU BRUSSELS
+RUEHVK/AMCONSUL VLADIVOSTOK 0095
+RUEHDA/AMCONSUL ADANA 1091
+RUEHIT/AMCONSUL ISTANBUL 1257
+RUEHBS/USEU BRUSSELS
+RHMFIUU/HQ USEUCOM VAIHINGEN GE
+RHMFIUU/39ABG INCIRLIK AB TU
+RHMFIUU/39CES INCIRLIK AB TU
+RHMFIUU/BDP INCIRLIK AB TU
+RUEHPH/CDC ATLANTA GA
+RUEAUSA/DEPT OF HHS WASHDC
+RUEHGV/USMISSION GENEVA 1491
+RUEHAST/USOFFICE ASTANA 0108UNCLAS SECTION 01 OF 02 ANKARA 005324 
+ 
+SIPDIS 
+ 
+DEPT PLS PASS EST COLLECTIVE 
+G STAFF FOR JED MELINE 
+USAID FOR TROSTLE, BLANCHET AND CARROLL 
+HHS FOR WSTEIGER/PBUDASHEWITZ 
+CDC FOR DBULL AND TUYEKI 
+FAS FOR ITP/MACKE/THOMAS, CMP/DLP/WETZEL, FAS/JDEVER 
+FAS PASS FSIS AND APHIS 
+VIENNA PASS APHIS 
+BRUSSELS PASS APHIS/FERNANDEZ 
+GENEVA PASS HEALTH ATTACHE 
+ROME FOR US MISSION TO FAO 
+ 
+SIPDIS 
+ 
+E.O. 12958:N/A 
+TAGS: TBIO AMED EAID CASC SENV EAGR TU KFLU
+SUBJECT: CRIMEAN-CONGO FEVER IN TURKEY 
+ 
+¶1.  Summary: Cases of Crimean-Congo Hemorrhagic Fever in Turkey have 
+increased over prior years to 279, which resulted in 20 deaths over 
+the past summer, causing public concern.  Because transmission to 
+humans is mainly via ticks from domesticated animals, the Ministry 
+of Health is coordinating closely with the Ministry of Agriculture, 
+building on cooperation mechanisms established in combating avian 
+influenza.  Although the number of human deaths is larger than those 
+for avian influenza, the economic effect has been much smaller, the 
+impact is limited to six provinces east of Ankara, and 
+human-to-human transmission is extremely rare.  End Summary. 
+ 
+--------------------------------------------- 
+Tick-borne disease - Animals Show no Symptoms 
+--------------------------------------------- 
+ 
+¶2.  Ministry of Health Doctor Yildirim Bayazit told us that cases of 
+Crimean-Congo Hemorrhagic Fever (CCHF) have grown to 270 for partial 
+year 2006 from 263 in 2005 as a whole, affecting six Anatolia-Black 
+Sea Provinces east of Ankara (Tokat, Gumushane, Amasya, Corum, 
+Yozgat, and Sivas Provinces).  Both Bayazit and the European CDC 
+Fact sheet (http://www.ecdc.eu.int/outbreaks/) on the disease 
+suggest the possibility that the increase in cases may reflect 
+greater detection, diagnosis, and notification, rather than 
+increased activity of the virus.  A relatively new disease, CCHF was 
+first documented in Turkey in humans in 2002. 
+ 
+¶3.  Bayazit said that the Ministry of Agriculture (MARA) was acting 
+as the lead agency in combating the disease, although they initially 
+denied responsibility for responding to the tick-borne disease. 
+According to Bayazit, MARA now devoted a budget of 50 million YTL 
+($35 million) for CCHF.  Recent tests in cattle revealed that the 
+disease was present in 80% of the cattle in the affected areas. 
+Animals are just carriers for the disease and do not show symptoms 
+(very much unlike avian influenza).  The reservoir for CCHF includes 
+hares, birds, cattle, sheep, and goats.  The main vector for 
+transmission is hard ticks of the Hayalomma genus.  The majority of 
+human cases have been persons working in the livestock sector. 
+ 
+¶4.  Bayazit emphasized the importance of preventing animal movement 
+from infected areas.  He noted the particular risk of the sacrifice 
+holiday, when there is normally significant movement of cattle, 
+sheep, and goats. 
+ 
+¶5.  Bayazit said that Turkey was cooperating closely with WHO which 
+had recently sent a team.  The Turkey WHO rep said that Turkey's 
+response to the disease had been solid and timely.  Turkey was 
+ 
+ANKARA 00005324  002 OF 002 
+ 
+ 
+seriously considering a proposal from the WHO related Mediterranean 
+Zoonotic Control Program that Turkey organize a three-day regional 
+meeting in Istanbul in November.  The CCHF virus has been found in 
+ticks in Africa, Asia, the Middle East, and Eastern Europe.  Bayazit 
+said his office was focusing its efforts on public awareness for 
+farmers in the region. 
+ 
+-------- 
+Comment: 
+-------- 
+ 
+¶6.  Turkey has been broadly recognized for a strong and transparent 
+response to avian influenza in humans earlier this year and it has 
+stepped up its readiness for future potential outbreaks or human 
+pandemic influenza.  Like its efforts against avian influenza - much 
+more dangerous for its economic effect on poultry and potential risk 
+for transmission to humans - Turkey has organized a robust and 
+transparent response for Crimean-Congo Hemorrhagic Fever, including 
+good inter-agency coordination.  Turkey again could play a role as a 
+regional model, building off its experience.  Turkey is interested 
+in cooperation with the CDC, given the importance of tick-borne 
+diseases in the U.S.  The twenty deaths this year fueled concern in 
+the press, and despite the "Congo" part of the name, this disease is 
+far removed from an Ebola Fever like scourge given low rates of 
+contagiousness and mortality. 
+Wilson

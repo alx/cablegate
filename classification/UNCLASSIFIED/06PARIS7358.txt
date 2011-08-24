@@ -1,0 +1,431 @@
+06PARIS7358
+CSTD PARIS PANEL MEETING ON WSIS OUTCOME PRODUCES GUIDANCE
+Mon Nov 13 00:00:00 +0100 2006
+UNCLASSIFIED
+Embassy Paris
+null
+Lucia A Keegan  11/17/2006 11:17:27 AM  From  DB/Inbox:  Lucia A Keegan
+
+Cable 
+Text:                                                                      
+                                                                           
+      
+UNCLAS    SENSITIVE     PARIS 07358
+
+SIPDIS
+cxparis:
+    ACTION: SCI
+    INFO:   DCM POL LABO ENGO ECSO AGR UNESCO AMBO SCIO AMB
+            ECON ESCI
+
+DISSEMINATION: SCIX
+CHARGE: PROG
+
+APPROVED: ESTH RDRY/ECON SDWYE
+DRAFTED: ECON: HSULLIVAN; EST
+CLEARED: CLEAR: USOECD: JMALLORY
+
+VZCZCFRI245
+RR RUEHC RUCNDT RUEHGV RUEHZN
+DE RUEHFR #7358/01 3171627
+ZNR UUUUU ZZH
+R 131627Z NOV 06
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 3066
+RUCNDT/USUN NEW YORK
+RUEHGV/USMISSION GENEVA 2524
+RUEHZN/EST COLLECTIVEUNCLAS SECTION 01 OF 05 PARIS 007358 
+ 
+SIPDIS 
+ 
+STATE FOR IO/EDA, OES, EB/CIP, EUR/WE 
+ 
+SENSITIVE BUT UNCLASSIFIED 
+ 
+E.O. 12958:  N/A 
+TAGS: ECPS TINT KWWW PREL FR
+SUBJECT: CSTD PARIS PANEL MEETING ON WSIS OUTCOME PRODUCES GUIDANCE 
+DOCUMENT 
+ 
+NOT FOR INTERNET DISTRIBUTION. 
+ 
+¶1.  (U) Summary: The November 6-8, 2006 Paris Panel Meeting of the 
+UN Commission on Science and Technology for Development (CSTD) Panel 
+Meeting on WSIS outcome "Promoting the building of people-centered, 
+development-oriented, and inclusive information society, with a view 
+to enhancing digital opportunities for all people" did not raise 
+significant 'red flags' for the U.S., with the exception of Brazil's 
+occasional assertions that the Committee should address "internet 
+governance."  On the margins of the meeting, U.S. officers who 
+attended as observers reminded Commission leadership and staff that 
+internet governance issues were not appropriate subjects for the 
+Panel Meeting, and Commission leadership agreed.  Some participants 
+(e.g., Brazil, Germany) were clearly taking directions from their 
+capitals while others (e.g., Ethiopia) appeared little aware at the 
+beginning of the meeting why the Commission was focusing on the 
+Information Society.  In general, however, delegates came 
+well-informed and engaged in the discussions.  Commission leadership 
+appreciated the presence of U.S. officers as observers.  The Panel 
+produced a document -- still subject to minor language editing 
+changes -- in response to ECOSOC's resolution 2006/46, which had 
+requested the Commission's review of this WSIS outcome.  The 
+document is produced in full at para. 15, below.  End Summary. 
+ 
+----------------------------------------- 
+Information Society - People-centered and Inclusive 
+----------------------------------------- 
+ 
+¶2. (U)  The UNCTAD-provided Secretariat began the three-day meeting 
+by explaining the purposes for the Commission's Panel Meeting and 
+defining the concept of a people-centered, development-oriented and 
+inclusive information society as a framework for development.  The 
+Secretariat provided a chart showing the differences of internet 
+ 
+SIPDIS 
+penetration in various continents and also on the varying rates of 
+growth.  The Secretariat noted that in Africa, although internet 
+penetration in 2005 was only 3.6 percent, over the decade 1995-2005, 
+internet use grew by 600%.  The Secretariat noted that governments 
+should focus on a people-centered, development-oriented, inclusive 
+Information Society, consistent with WSIS decisions.  Inclusive 
+means that all stakeholders should participate, with benefits and 
+opportunities available to all.  The purpose of the Information 
+Society is to improve the quality of life for consumers, the 
+Secretariat continued.  Various stakeholders have different roles. 
+ 
+SIPDIS 
+The government should develop national e-strategies, create an 
+investment-friendly environment, deregulate, privatize, and 
+liberalize the telecommunications sector.  The private sector will 
+develop and finance the internet and its infrastructure.  Civil 
+society will focus on local issues, while international 
+organizations will help implement the WSIS. 
+ 
+¶3. (U)  According to the Secretariat, the main obstacles to 
+narrowing the digital divide are: 
+ 
+- The high cost of telecommunications for the poor in developing 
+countries; 
+ 
+- Lack of human resources to develop the information infrastructure 
+exacerbated by a brain drain of qualified personnel; 
+ 
+- Lack of local content, which limits its usefulness to poor, rural 
+populations. 
+ 
+¶4. (SBU) In the ensuing discussion session, Charles Geiger, WSIS 
+Executive Director from 2003 to 2005, commented substantively that 
+governments should not try to control the direction of technology or 
+internet growth since the technology was moving faster than 
+governments could grasp developments.  For example, he suggested, 
+the growth in mobile telephony occurred organically, not as a result 
+of WSIS outcomes.  However, governments should use information 
+communication technology (ICT) in the health sector, to promote 
+transparent government (e-government), and improve distance 
+learning.  These measures would promote social development, 
+according to Geiger. 
+ 
+¶5. (U) The Greek delegate said that he was surprised that in some of 
+the examples of countries discussed that mobile telephony 
+penetration surpassed that of fixed line.  Geiger replied that, in 
+many areas of the developing world, mobile penetration is greater 
+because of the lack of protection, as in the wireline world.  He 
+noted that in India, one might have to wait seven years for a 
+wireline telephone, but consumers could get mobile phones in 24 
+hours.  Additionally, the decrease in mobile phone rates have made 
+them more affordable than fixed line telephones in many areas. 
+ 
+--------------------------------------------- ---- 
+Brazil Opposes a Focus on Investment; CSTD Demurs 
+--------------------------------------------- ---- 
+ 
+¶6. (SBU) The Brazil representative thought that CSTD should focus on 
+decentralization.  If governments tried to plan too much, they would 
+not succeed because technology evolves faster than governments can 
+plan.  Second, the Commission should downplay the role of foreign 
+investment since the primary development should be at the community 
+level.  Brazil, he commented, had 90 percent television penetration, 
+while the internet had only reached 13 percent.  To wait for this 
+percentage to slowly increase would be slower than the switch to 
+digital TV, which would allow for interaction between the two 
+systems.  He also emphasized that free and open source software 
+helps to reduce costs, particularly in e-government.  No one else 
+took up these points, except that Sudan expressed interest in the 
+technology permitting greater interactivity with television systems. 
+ Geiger emphasized that UNCTAD was not the WTO (implying that Brazil 
+should not bring its GATS telecom mode 3 agenda into this forum.) 
+ 
+------------------------------ 
+CSTD Reviews WSIS Action Items 
+------------------------------ 
+ 
+¶7. (U) In a subsequent intervention, Geiger ran through the eleven 
+action items from the Geneva WSIS Summit, reviewing which 
+organizations were responsible for follow-up on each action item. 
+He noted that the UN Group on Information Society (UNGIS) was 
+created on July 14, 2006 to coordinate implementation of WSIS.  Its 
+effectiveness would be proportionate to the extent that responsible 
+UN agencies (primarily the ITU, UNDP, and UNESCO) provided it input, 
+he suggested.  On April 17, 2006, the Global Alliance for 
+Information and Communication Technology formed to provide private 
+sector and civil society input into the CSTD's work.  Likewise, 
+according to Geiger, the UNDP and the World Bank ought to be engaged 
+with the CSTD's work so that its recommendations could be filtered 
+into organizations that had financing capabilities. 
+ 
+¶8. (SBU) Brazil responded by noting that the CSTD's role is to 
+review and assess implementation of WSIS, not implementation itself. 
+ However, to do so effectively, the CSTD needed to have better 
+feedback on what the various UN agencies were doing to implement the 
+WSIS outcomes.  Furthermore, the eleven action items from the Geneva 
+conference should not be the sole scope of coverage since limiting 
+its work to those would ignore the outcomes from the second WSIS 
+Summit in Tunis.  Geiger agreed.  He noted that Brazil's position on 
+internet governance "has always been very strong," but questioned 
+the extent that the CSTD could effectively work on all WSIS issues. 
+ 
+ 
+¶9. (SBU) The Romanian delegate suggested that CSTD create five 
+parallel groups that would focus on implementation of the various 
+recommendations.  Turkey noted that the recommendations were not 
+mutually exclusive. 
+ 
+------------------------------------- 
+Summary of Individual Country Reports 
+------------------------------------- 
+ 
+¶10. (SBU) Commission members gave a number of reports regarding the 
+state of the information society in their respective countries.  The 
+German representative presented on a study that the GOG performed 
+for the German Parliament on internet usage in Sub-Saharan African 
+educational institutions.  It concluded, inter alia, that the 
+internet could not solve many of the problems that African 
+educational institutions faced such as large class sizes, poor 
+salaries for teachers, and lack of funding.  However, it could, for 
+example, spur joint programs between various institutions to share 
+ideas about curriculum development. 
+ 
+¶11. (U) The Lesotho representative gave a brief presentation about 
+efforts it is undertaking to provide an environment conducive to 
+building an information society involving, for example, new 
+telecommunications laws.  Lesotho said that it would need 
+multilateral assistance to achieve its goals.  Sudan presented its 
+experiences, noting that internet only exists in big cities and 
+towns, while 75 percent of the population lives in rural areas. 
+Sudan uses solar energy to power its ICT in rural areas.  It has 
+placed emphasis on connecting its universities and polytechnic 
+institutions.  Sudan plans to establish a science park managed by 
+specialized professionals to stimulate and manage the flow of 
+knowledge and technology among universities, R&D institutions, 
+companies and markets.  It also aims to facilitate the creation and 
+growth of innovation-based companies through incubation, spin-off 
+processes, and provision of other value-added services.  Sudan did a 
+feasibility study on whether its science park could attract foreign 
+and private sector investment.  The science park will cost USD 500 
+million.  Phase One would cost USD 150 million, which a large Arab 
+Gulf country has already provided.  This sum will finance, inter 
+alia, communications and fiber optics requirements. 
+ 
+¶12. (SBU) The Brazilian representative said that 97.2 percent of 
+households have electricity, but, in the Amazon region, the 
+percentage of households with electricity is much lower.  The 
+percentage of the population with access to the internet is also not 
+evenly distributed, but in no area is it over 30 percent except for 
+Brazilia.  Brazil therefore has planned to introduce digital TV with 
+the possibility of interactivity.  Through a remote control system, 
+Brazilians can access TV on demand.  This is an opportunity for 
+digital inclusion since internet reaches so few people and will take 
+a long time to grow organically.  Brazil noted that the elements for 
+a roadmap for digital inclusion included: noting countries' 
+experience; promoting democratic governance based on transparency, 
+accountability, and participation; infrastructure according to 
+community interest; commitment to local development; the promotion 
+of e-government; and the usefulness of free, open source software. 
+The role for ECOSOC and CSTD should be to coordinate public policy 
+issues at the international level and internet governance, according 
+to the Brazilian representative. 
+ 
+¶13. (U) The Moroccan representative discussed various initiatives 
+the government was taking to promote connectivity in its educational 
+system. She also mentioned the Casablanca Technopark, which boasts 
+140 ICT companies with 750 permanent job positions. 
+ 
+¶14. (U) Geiger, Hamdi, the delegates from Brazil, Chile, the GAID, 
+and another NGO met following closure of the second day to propose 
+how the instant CSTD Panel Meeting should make recommendations for 
+the benefit of the tenth session of the CSTD, to be held in May 
+¶2007.  That group prepared a document which was accepted - subject 
+to minor revisions (yet to be included in the draft) on the 
+following day.  The document, read by the Chilean delegate is as 
+follows: 
+ 
+---------------------------- 
+CSTD Recommendation Document 
+---------------------------- 
+ 
+¶15. (U) The text of the 'Recommendation' document produced by the 
+special CSTD Panel Meeting held in Paris, November 6-8, 2006 to 
+provide guidance to the CSTD's Tenth Session to be held in May 2007 
+follows.  Begin text: 
+ 
+"The World Summit on the Information Society (WSIS) adopted a vision 
+of a people-centered, development-oriented, and inclusive 
+information society, with the view to creating digital opportunities 
+for all people.  The Tunis Agenda for the Information Society, 
+adopted in 2005 by the WSIS and endorsed by General Assembly 
+Resolution 60/252, requests the Council to oversee the system-wide 
+follow-up of the Geneva and Tunis outcomes of the Summit, and to 
+that end, requests the Council, at its substantive session of 2006, 
+to review the mandate, agenda and composition of the Commission on 
+Science and Technology for Development, including considering 
+strengthening the Commission, taking into account the 
+multi-stakeholder approach, 
+ 
+In this regard, the ECOSOC Resolution 2006/46 requests the 
+Commission to review and assess the progress made in implementing 
+the outcomes of the Summit and advise the Council thereon, including 
+through the elaboration of recommendations to the Council aimed at 
+furthering the implementation of the Summit outcomes, and that to 
+that end, the Commission shall: 
+ 
+-- review and assess progress at the international and regional 
+levels in the implementation of Action Lines, recommendations and 
+commitments contained in the outcome documents of WSIS; 
+ 
+-- share best and effective practices and lessons learned, and 
+identify obstacles and constraints encountered, actions and 
+initiatives to overcome them and important measures for further 
+implementation of WSIS outcomes; 
+ 
+-- promote dialogue and foster partnerships in coordination with 
+other appropriate UN funds, programs and specialized agencies to 
+contribute to the attainment of the WSIS objectives and 
+implementation of its outcomes, to use ICT for development and the 
+achievement of internationally agreed development goals, with the 
+participation of governments, the private sector, civil society, and 
+the UN and other international organizations according to their 
+different roles and responsibilities; 
+ 
+Bearing in mind that the comprehensive review by the GA of WSIS will 
+take place in 2015, and the ECOSOC requested that in its next 
+session the Commission shall develop a multiyear work program, the 
+Panel takes note of the issues paper presented by the Secretariat, 
+and after considering this matter requests the Secretariat to make 
+consultations with relevant stakeholders and to present to the 
+Commission a draft program of work that should be flexible and 
+inclusive. 
+ 
+In order for the ECOSOC, through CSTD, to carry out its mandate of 
+overseeing system-wide follow up of the WSIS effectively, it will 
+require that the Commission has an effective interface with all 
+agencies and mechanisms that are tasked with implementation of WSIS 
+outcomes and other post-WSIS activities. 
+ 
+In this regard, the Panel proposes the following: 
+ 
+Multi-year work program and methods of work: 
+ 
+The Panel requests the UNCTAD Secretariat to prepare a Note for 
+consideration at the Tenth Session, which contains proposals for a 
+multi-year work program of the Commission and new methods of work. 
+This Note should take into account the timeframe for the 
+comprehensive review, as well as the clustering and sequencing of 
+thematic issues from WSIS outcome documents.  The work program 
+should adequately address the thematic concerns of WSIS, but also be 
+flexible enough to accommodate any future need for adjustment, in 
+view of the fast pace of technological development.  To gather 
+inputs on the work program, the Secretariat will carry out informal, 
+open-ended consultations before February 2007, with a wide range of 
+stakeholders.  These consultations could be scheduled back-to-back 
+with meetings of action line facilitators and moderators. 
+ 
+The Note should also elaborate on new methods of work of the 
+Commission, including through interactive dialogues during its 
+annual session, with the active participation of action line 
+facilitators, and other agencies and mechanisms involved with the 
+implementation of WSIS outcomes.  Additionally, the Note should 
+propose concrete ways to explore development-friendly and innovative 
+use of electronic media, drawing upon existing online databases on 
+best practices, partnership projects and initiatives, as well as 
+other collaborative electronic platforms, which would allow all 
+stakeholders to contribute to follow up efforts, share information, 
+learning from the experience of others and explore opportunities for 
+partnerships. 
+ 
+Since WSIS implementation constitutes ongoing activities over a wide 
+area, which will be fast evolving, the Commission may have a wide 
+range of topics to examine every year.  The Panel suggests that the 
+Commission could invite the facilitators of action lines, and other 
+agencies and mechanisms involved in implementation of WSIS, as well 
+as members of other stakeholder groups, to participate in its annual 
+session. 
+ 
+The Panel also proposes that the Commission at its Tenth Session in 
+May 2007 requests the United Nations system entities, including the 
+regional commissions, engaged in the implementation of the Geneva 
+and Tunis outcomes of the World Summit for the Information Society 
+to collaborate closely with the Commission on Science and Technology 
+for Development by providing it with periodic reports on the 
+progress made in the implementation of the main themes and Action 
+Lines of the World Summit for the Information Society, with a view 
+to enabling the Commission to monitor, review and appraise progress 
+achieved and problems encountered in the implementation, and to 
+advise the Council thereon."  End text of document. 
+ 
+------------------------------ 
+CSTD leadership and commentary 
+------------------------------ 
+ 
+¶16. (SBU) Below are the CSTD leaders, who guided the discussion 
+during the meeting: 
+ 
+Chairman - Stefan Moravek, former Slovak Ambassador to South Korea 
+and Kenya.  Aware of U.S. positions and 'red lines.'  Would welcome 
+a U.S. return to the Commission. 
+ 
+Vice President - Dr. Arnoldo K. Ventura, Special Adviser to the 
+Prime Minister on Science and Technology, Jamaica. 
+ 
+Executive Director - Charles Geiger.  Knows the WSIS 'inside out' 
+having participated in both the Geneva and Tunis WSIS Summits.  Also 
+aware of USG sensitivities regarding internet governance, and worked 
+to assure this item remained "off the agenda."  He would like to see 
+the U.S. become more involved in the work of the Commission. 
+ 
+Secretariat -- Mongi Hamdi, Secretary to the UN Commission on 
+ 
+SIPDIS 
+Science and Technology for Development, Office of the Secretary 
+General for UN Conference on Trade and Development (UNCTAD)  - Spent 
+nearly 20 years in the U.S., first studying at Harvard and 
+University of Southern California, followed by a long spell at UN 
+Headquarters in New York (14 years).  His interventions emphasized 
+the importance of investment in building infrastructure; the 
+importance of deregulation; and focusing the role of government and 
+international organizations on issues such as the digital divide. 
+On the margins of the meeting, he asked U.S. observers to relay a 
+request to Washington to rejoin the Commission, noting that USG 
+interests could best be served by working as an insider rather than 
+an outsider. 
+ 
+President of Prepcom WSIS Tunis Phase - Ambassador Janis Karkins. In 
+a WSIS follow-up presentation, he urged members and UN bodies 
+working on WSIS issues to adhere to its mandate, to avoid reopening 
+discussion of issues already addressed, and to operate within the 
+allocated resources. 
+ 
+¶17.  (SBU) Comment: The CSTD principals welcomed U.S. officers who 
+observed (from USOECD, Science Officer Mallory on 11/6; Embassy 
+Paris, ECON/Telcoms Officer Sullivan on 11/7; and Embassy Paris ESTH 
+Couns Dry on 11/8).  They expressed interest in the USG becoming 
+more engaged in the Committee, and believed with the expansion from 
+30 to 40 members, there would be more participants that are 
+"like-minded" with the U.S. on Information Society issues.  Many 
+participants were clearly taking directions from their capitals, and 
+delegates came well-informed and engaged in the discussions.  That 
+said, the "reform" of this Commission is "a work in progress," 
+although its work clearly is important to the task of development. 
+Its present focus on WSIS implementation also makes its work 
+relevant to the U.S.  End Comment. 
+ 
+STAPLETON

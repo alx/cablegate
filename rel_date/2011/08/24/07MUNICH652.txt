@@ -1,0 +1,185 @@
+07MUNICH652
+GALILEO AND THE EU -- NAVIGATING THE PORK BARREL
+Fri Dec 21 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Munich
+VZCZCXRO7651
+PP RUEHAG RUEHDF RUEHIK RUEHLZ RUEHPOD RUEHYG
+DE RUEHMZ #0652/01 3551053
+ZNR UUUUU ZZH
+P 211053Z DEC 07
+FM AMCONSUL MUNICH
+TO RUEHC/SECSTATE WASHDC PRIORITY 4201
+INFO RUEATRS/DEPT OF TREASURY WASHINGTON DC
+RUEKJCS/SECDEF WASHDC
+RUCPDOC/USDOC WASHDC
+RUEHZG/NATO EU COLLECTIVE
+RUCNMEU/EU INTEREST COLLECTIVE
+RUCNFRG/FRG COLLECTIVEUNCLAS SECTION 01 OF 02 MUNICH 000652 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EUR EUR/AGS, EUR/ERA AND EB/IFD/OMA 
+PASS TO USTR MOWREY 
+ 
+E.O. 12958: N/A 
+TAGS: ECON TSPA EAIR ETRD PGOV EINV PREL EUN FR GM
+SUBJECT: GALILEO AND THE EU -- NAVIGATING THE PORK BARREL 
+ 
+SENSITIVE BUT UNCLASSIFIED.  NOT FOR INTERNET DISTRIBUTION. 
+ 
+REF: Munich 412 
+ 
+------- 
+SUMMARY 
+------- 
+ 
+¶1.  (SBU) EADS-Astrium officials told Embassy Berlin EMIN and ConGen 
+Munich that the Galileo satellite navigation project is proceeding 
+under its new EU funding mechanism, albeit well behind schedule. 
+The officials expressed frustration at the Byzantine web of EU 
+politics and blatant promotion of contracts for national champions 
+by EU member states, often resulting in expensive redundancies. 
+EADS-Astrium would like to see closer cooperation with U.S. industry 
+on the project, cooperation which has been limited to date due to an 
+attempt to keep the program all European.  The Galileo story offers 
+a textbook illustration of the challenges of carrying-out EU 
+projects while satisfying the parochial demands of member states. 
+ 
+------------- 
+STATE OF PLAY 
+------------- 
+ 
+¶2.  (SBU) Embassy Berlin EMIN and ConGen Munich met December 14 with 
+Dr. Wilfried Bornemann, EADS-Astrium's Director for Navigation 
+Germany, Thomas Mayer, the firm's Chief of Business Development for 
+Galileo, and Ulrich Scheib, Head of Strategic Development for 
+Galileo.  Astrium is the "space" division of EADS (European 
+Aeronautic Defense & Space), offering equipment and services for 
+launchers, manned spaceflight, civil and military satellites and 
+ground systems.  EADS-Astrium has a central role in the design and 
+development of Galileo, the proposed European counterpart to the 
+Pentagon's Global Positioning System (GPS). 
+ 
+¶3.  (U) Since our last meeting with EADS-Astrium in July in the wake 
+of the collapse of the Public-Private-Partnership, or "PPP" 
+(REFTEL), the EU has developed a funding model for Galileo using EU 
+public funds.  At least $1.48 billion in public funds has already 
+been spent on the project.  Of the remaining $3.5 billion needed to 
+complete the project, $2.4 billion will come from "excess" EU 
+agriculture funds and the rest from EU research, transport and 
+administration budgets.  As the main contributor of EU agriculture 
+funds, Germany would have been reimbursed for a large share of those 
+excess funds.  For that reason it voted against the funding proposal 
+on November 23, but was defeated 26-1. 
+ 
+¶4.  (SBU) On November 30, EU governments agreed to jointly complete 
+the development of Galileo, with the European Commission setting a 
+December 31 deadline for final approval of the program.  Spain was 
+the lone holdout this time, over the location of ground stations. 
+In seeking unanimity, the EU subsequently won Spain's approval with 
+a deal that left open the possibility that a ground station planned 
+for Spain to monitor emergency services on Galileo channels may in 
+the future be made into a full ground control station if Spain pays 
+for the upgrade.  The original plans for Galileo only called for two 
+ground control stations: one near Munich and another near Rome.  Our 
+EADS contacts confided that even the Rome station was an expensive 
+redundancy, being fully-manned around the clock simply as a "backup" 
+facility in the wake of Italian demands.  Assuming the project 
+proceeds as planned, full deployment of 30 satellites should occur 
+by 2013.  Only one of Galileo's satellites has been launched thus 
+far, in December 2005.  The second satellite missed its launch date 
+toward the end of 2006 after it short-circuited during final 
+testing. 
+ 
+-------------------- 
+SPREADING THE WEALTH 
+-------------------- 
+ 
+¶5.  (SBU) Following the failure of the PPP, the European Commission 
+drafted contracting rules to ensure both large and small companies 
+across the EU would benefit from Galileo.  The rules divide Galileo 
+contracts into six segments covering various stages of the project. 
+No single company can be the prime contractor for more than two 
+segments, and prime contractors are obliged to hand over 40 percent 
+of the order value to subcontractors.  Our EADS contacts explained 
+that one key change resulting from the new financing model is the 
+way contracts are apportioned.  Under the PPP, the European Space 
+Agency (ESA) was responsible for financing and apportioning 
+Galileo-related contracts.  The contracts were divided among ESA 
+members according to their contributions to the ESA - while the 
+process was relatively transparent, it was at times complicated (for 
+ 
+MUNICH 00000652  002 OF 002 
+ 
+ 
+instance, EADS having to find sub-contractors in small ESA member 
+states like Finland).  However, with direct EU funding, contracts 
+will now be apportioned by Brussels and administered by the ESA 
+without a direct relationship to contributions from member states -- 
+in theory, a big contributor country like Germany might not get a 
+single contract.  While expressing the hope that contracts will be 
+fairly divided, our interlocutors were clearly concerned about the 
+potential for the political manipulation of contracting decisions in 
+Brussels by EU member states. 
+ 
+¶6.  (SBU) The EADS officials anticipate EADS-Astrium will be awarded 
+the contract for the space portion of Galileo (construction of the 
+30 satellites), along with ground control of the satellites. 
+France's Thales-Alenia, they expect, will likely be awarded the 
+contract for the ground "mission" segment -- the operation of the 
+GPS payload aboard the satellites.  Our contacts noted that German 
+industry had the full support of Chancellor Merkel, and speculated 
+that in the absence of an EU agreement, Germany would have elected 
+to go it alone and set-up its own satellite navigation system.  Our 
+interlocutors explained that Germany's infrastructure, from 
+toll-collecting to aviation to EMS services, has become increasingly 
+dependant on GPS, leaving many in German government and industry 
+wanting an alternative to the lone U.S. Department of 
+Defense-controlled system.  In addition, Galileo provides a key role 
+for German contractors like EADS-Astrium - something they don't have 
+with GPS. 
+ 
+-------------------------------------------- 
+LOOKING FOR CLOSER COOPERATION WITH THE U.S. 
+-------------------------------------------- 
+ 
+¶7.  (SBU) Our EADS contacts insisted Galileo should be viewed as a 
+complement to, rather than a competitor of, GPS.  The additional 
+satellites would only make it easier for all users to get a stronger 
+signal in areas where GPS coverage alone is spotty, as in 
+mountainous areas and near tall buildings.  The EADS officials said 
+they would like to see more cooperation with U.S. industry on 
+Galileo, as U.S. firms have expertise in some areas that Europe 
+lacks.  They expressed frustration that initially U.S. companies 
+were barred from participating in Galileo as sub-contractors, as it 
+was to be an all European project.  These rules have since been 
+relaxed, creating the hope among our contacts that in the future 
+there could be synergies achieved in the project via cooperation 
+between U.S. and European firms. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶8.  (SBU) Projects such as Galileo probably couldn't happen without 
+the involvement of the EU.  However, as our EADS contacts made 
+clear, the EU never appears more as a collection of squabbling 
+parochial interests than with the very same big projects it makes 
+possible.  Everything from the failure of the PPP to expensive 
+unnecessary redundancies, such as multiple control centers, are a 
+demonstration of the difficulty of forming and carrying out 
+consensus projects among EU members and their national champions. 
+We continue to believe Galileo will eventually be built, giving 
+Europe its own version of the free GPS signal - but as expenses keep 
+mounting, Galileo will be anything but free to EU taxpayers. 
+ 
+¶9.  (U) This report was coordinated with Embassy Berlin. 
+ 
+¶10.  (U) Previous reporting from Munich is available on our SIPRNET 
+website at www.state.sgov.gov/p/eur/munich/ . 
+ 
+GUY

@@ -1,0 +1,108 @@
+09BERLIN796
+CHALLENGES ON THE HORIZON FOR GERMAN IMAGERY
+Wed Jul 01 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXRO3848
+PP RUEHAG RUEHAST RUEHDF RUEHDH RUEHHM RUEHLN RUEHLZ RUEHMA RUEHPB
+RUEHPOD RUEHSL RUEHTM RUEHTRO
+DE RUEHRL #0796 1821518
+ZNR UUUUU ZZH
+P 011518Z JUL 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 4506
+INFO RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+RUEHRC/DEPT OF AGRICULTURE USD FAS WASHINGTON DC 0130
+RUEKJCS/SECDEF WASHINGTON DC
+RUEHRL/USDAO BERLIN GE
+RUEHBS/USEU BRUSSELS
+RUCUSTR/USSTRATCOM OFFUTT AFB NEUNCLAS BERLIN 000796 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+STATE FOR EUR/CE PETER SCHROEDER 
+STATE FOR ISN/MDSP DICK BUENNEKE 
+ 
+E.O. 12958: N/A 
+TAGS: TSPA EINV ETRD PGOV PREL PINR GM
+SUBJECT: CHALLENGES ON THE HORIZON FOR GERMAN IMAGERY 
+SATELLITE START-UP 
+ 
+REF: A. BERLIN 788 
+     ¶B. 08 BERLIN 1537 
+ 
+¶1.  (SBU) SUMMARY:  German satellite imagery provider 
+RapidEye AG's current business model as a value-added imagery 
+provider is likely not sustainable and they may be forced 
+restructure to survive. The firm,s primary target 
+customers-- commodity traders and the insurance 
+industry--appear to want to manipulate and interpret raw data 
+themselves.  In addition, cash flow problems may force them 
+to trim staff and other expenses.  If problems continue, they 
+may become an attractive buy-out target to other imagery 
+players in the space.  END SUMMARY 
+ 
+ 
+PROBLEMS WITH BUSINESS MODEL AND CASH FLOW 
+------------------------------------------ 
+ 
+¶2.  (SBU) RapidEye's original business plan focused on being 
+a provider of finished analytical product, imaging the health 
+and condition of large areas of biomass to worldwide 
+insurance industry and agricultural commodity traders, but 
+the apparent lack of interest from these customers is forcing 
+RapidEye into a raw data provider paradigm.  In addition, the 
+company appears to be facing significant cash flow problems, 
+with staff expenses outpacing income, in addition to the 
+burden of repaying 160 million euro in start-up debt.  Based 
+on our analysis of RapidEye's three-year revenue outlook, 
+their current best case scenario will likely not generate 
+enough revenue to cover their current operational costs while 
+paying back their investors.  As a result, the likelihood of 
+job cuts and company restructuring is becoming more realistic. 
+ 
+ 
+THE PROBLEM WITH BEING ONLY A DATA PROVIDER 
+------------------------------------------- 
+ 
+¶3.  (SBU) RapidEye does not own intellectual property rights 
+to their spacecraft or to the instruments used to capture 
+multi-spectral imagery, which presents an additional 
+challenge to their long-term viability.  Even if RapidEye 
+adjusts its business model to be a data-only provider, 
+competition is almost certain to increase and siphon market 
+share.  RapidEye would much rather establish itself as the 
+world niche leader in multi-spectral based value added 
+product and analysis, something much more difficult to 
+replace. 
+ 
+ 
+COMMENT 
+------- 
+ 
+¶4.  (SBU) RapidEye has likely transitioned into survival mode 
+and sees selling minimally-processed land cover data to the 
+Chinese and US markets as having the most potential to 
+rectify their cash flow problems.  RapidEye has even offered 
+direct downlink services of their data to prospective 
+customers in an effort to expand business (ref A).  This is 
+in contradiction to a comment RapidEye CEO Wolfgang 
+Biedermann made last year (please see ref B) when he said, 
+"we do not like this idea at all (direct data downlink), it 
+is our data, and we want to control our archives."  Unless 
+substantial new sales of value-added products can be 
+established in major global markets such as China and the US 
+-- particularly in the defense and security sectors -- 
+RapidEye's enterprise may not be sustainable over the longer 
+term.  If their business model fails, it is likely that the 
+company may be the subject of a buyout or outside takeover. 
+If a RapidEye buyout becomes a reality, we see Astrium GmbH 
+(Friedrichshafen) jointly with their daughter company, 
+Infoterra GmbH, as the most likely suitor.  This hypothetical 
+likelihood is based on how complimentary RapidEye's imagery 
+would be to Infoterra's current imagery product offerings and 
+recent high ranking engagements Astrium and Infoterra 
+associates have had with RapidEye. 
+Koenig

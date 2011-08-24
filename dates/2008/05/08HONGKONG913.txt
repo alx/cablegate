@@ -1,0 +1,230 @@
+08HONGKONG913
+EXTRANCHECK: POST SHIPMENT VERIFICATION: WING LEE TRADING
+Tue May 20 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHHK #0913/01 1410533
+ZNR UUUUU ZZH
+R 200533Z MAY 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 4915
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000913 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: WING LEE TRADING 
+CO LTD. 
+ 
+REF: A) USDOC 00801 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO), conducted 
+a post shipment verification (PSV) at Wing Lee (China-Hong Kong) 
+Trading Co. Ltd., Factory Unit No. 10, 2/Fwang Hoi, Kowloon Bay 
+Industrial Center No 15, Kowloon, Hong Kong (Hong Kong Wing Lee). 
+The items in question are semiconductors exported to Hong Kong Wing 
+Lee on or about October 18, 2007 and collectively valued at 
+approximately USD 3,572.  The items are classified under Export 
+Control Classification Number (ECCN) 3A001 and are controlled for 
+national security (NS) reasons.  Rochester Electronics of 
+Newburyport, Massachusetts was the exporter. 
+ 
+¶3.  A review of the Hong Kong Companies Registry reveals that Hong 
+Kong Wing Lee has been in existence since 2003.  It has paid-up 
+share capital is the Hong Kong equivalent of USD 25,000. Its sole 
+director and shareholder is Xie, Xiaoping.  The Registry lists his 
+mainland identification card number as 432902670208877.  Xie, 
+Xiaoping is also a director in Jiatai International (Hong Kong) 
+Industrial Limited.  The registered address of Wing Lee is also the 
+address of China Star Logistics, Ltd.  This company (established in 
+2004) has the Hong Kong equivalent of USD $125,000 in paid-up 
+capital and its sole director is Hong Kong resident Tsang, Kui Long 
+(HK ID number H090469(6)). 
+ 
+¶4.  ECO attempted to conduct web based research on Hong Kong Wing 
+Lee but was unable to locate a web presence.  However, Shenzhen Wing 
+Lee Import Export Trading Company exists in Shenzhen (Shenzhen Wing 
+Lee).  As noted below, this company is related to Hong Kong Wing 
+Lee. 
+ 
+¶5.  A further web search of the contact details provided to ECO by 
+OEA revealed that a number of companies in mainland China and Hong 
+Kong use Wing Lee's telephone number as their contact telephone 
+number.  These companies are discussed in greater detail below. They 
+include Shenzhen Newwoo Electronics Co. Ltd., Hong Kong Juno 
+Limited, Juster Electronic Limited and Shenzhen Meixinsheng Co. 
+Ltd. 
+ 
+¶6.  FCS Commercial Assistant Carrie Chan attempted, on several 
+occasions, to schedule the PSV.  Often, the phone rang without 
+answer.  In other instances, the person on the line (a Mr. Wong) 
+stated that there was no purchasing activity in Hong Kong and it 
+would therefore be pointless to meet to discuss the transaction. 
+Mr. Wong, at one point, suggested that ECO meet on Saturday or 
+Sunday so as not to disturb the business of the company.  After 
+close to two months of attempts, Mr. Wong agreed to meet. 
+ 
+¶7.  On April 28, 2008, ECO and Commercial Assistant Carrie Chan 
+visited the company and met with Mr. Wong.  The company is located 
+in an older industrial/warehouse building.  Its offices consisted of 
+one room filled with various collapsed boxes, two old desks, two 
+phones and a fax machine.  There is no signage on the door 
+indicating the name of the office tenant.  A second staff person was 
+in the office during the meeting but she was not introduced. 
+ 
+¶8.  Mr. Wong (full name Wong, Tak Hung) did not have a business card 
+to share with the ECO.  He stated that the company accepts delivery 
+of certain items on behalf of many clients.  When those items 
+arrive, Mr. Wong or his colleague calls the client who then sends 
+someone to pick up the package.  All shipments are destined for 
+mainland China.  Mr. Wong stated that Mr. Xie is the owner of the 
+company as well as the principal in Shenzhen Wing Lee.  Mr. Wong 
+claimed to be unsure of the names of his customers but did stress 
+that the Hong Kong operation makes no orders and issues no invoices. 
+ All of the day-to-day operations of the company are conducted from 
+Shenzhen Wing Lee.  Mr. Wong stated that he knows nothing about the 
+operations of Shenzhen Wing Lee. He also claimed ignorance about the 
+activities of the various companies listed above that use his office 
+phone number as their contact details on the web (Shenzhen Newwoo 
+Electronics Co. Ltd., Hong Kong Juno Limited, Juster Electronic 
+Limited and Shenzhen Meixinsheng Co. Ltd.).  After some prompting, 
+Mr. Wong stated that he had heard of Junotech and Meixinshen).  He 
+stated that he assumed these companies use his company's phone 
+number to give the appearance that they have an actual Hong Kong 
+presence.  He further stated that he assumed that these were the 
+customers of Shenzhen Wing Lee.  When asked about the exporter, 
+Rochester Electronics, Mr. Wong stated that he had heard the name 
+and had likely received shipments from the company. 
+ 
+¶9.  When asked about the shipment in question, Mr. Wong stated Hong 
+Kong Wing Lee had not issued the order (notwithstanding that the 
+header on the Purchase Order lists the Hong Kong Wing Lee address in 
+ 
+ 
+Hong Kong).  He further stated that Hong Kong Wing Lee had not paid 
+for the items and that he knew nothing about the particular order. 
+When asked whether he might have documentation confirming delivery 
+of the items, he stated that he did not and that these had likely 
+already been thrown out (the office was in some disarray but ECO did 
+observe certain binders with documents predating the date of the 
+shipment in question).  ECO did not find Mr. Wong's explanations or 
+claims of ignorance to be credible. 
+ 
+¶10.  When pressed about how the business works in practice, Mr. Wong 
+stated that he has the company stamp for 5-6 companies.  He uses 
+these to stamp delivery documents.  Mr. Wong disclosed the names on 
+two company stamps.  They are HK Juno Limited and Ronin Investment 
+Limited (discussed below).  When asked whether Hong Kong Wing Lee 
+had any additional business premises in Hong Kong, Mr. Wong stated 
+that it did not.  A visit to the registered address of Hong Kong 
+Wing Lee revealed that it has an additional office (collocated with 
+China Star Logistics Limited). 
+ 
+¶11.  RECOMMENDATIONS:  ECO recommends that OEA conduct a thorough 
+review of all shipments to Hong Kong Wing Lee and Shenzhen Wing Lee 
+as well as a range of related companies in Hong Kong and mainland 
+China discussed below.  ECO recommends a check of all shipments to 
+the addresses of those entities as well.  ECO further recommends 
+that BIS conduct a closer review of the transaction documents 
+provided by Rochester Electronics as these reveal potential 
+wrongdoing by Rochester employees during the order process. 
+ 
+¶12.  Ronin Investment Limited:  This company has been in existence 
+since 1993.  Its directors are mainland Chinese national Cao, Gang 
+(ID number 510002710403031) and Hong Kong resident Tso, Yung (HK ID 
+P355129(A)).  As noted above, Mr. Wong of Hong Kong Wing Lee accepts 
+shipments on behalf of this company. 
+ 
+¶13.  Newwoo Electronics (HK) Limited and Shenzhen Newwoo Electronics 
+Co. Ltd.  Shenzhen Newwoo's web site (www.newwoo.com) states that 
+this company is a high-tech agent specialized in EMC Shielding 
+Materials (electromagnetic shielding), EMI filter, frequency control 
+and microwave products.  This company's contact number is the same 
+as Hong Kong Wing Lee's contact phone number.  The Hong Kong entity 
+was registered in 2005 and has the Hong Kong equivalent of USD 1250 
+in share capital.  Its directors are listed as mainland nationals 
+Sheng, Danhua (passport number G09579352) and Ye, Fang (passport 
+number G10337884).  The Hong Kong address is listed as 7/F, Kin On 
+Commercial Building, 49-51 Jervois St., Sheung Wan, Hong Kong. 
+ 
+¶14.  Hong Kong Juno Limited and Shenzhen AOLSTER Industry Co, Ltd. 
+The web site for these related companies (www.jstsemi.com) states 
+that these companies (part of Junotech) are engaged in the trading 
+of various power components including high voltage bipolar 
+transistors.  According to the web site, Junotech also has a 
+temporary agency in the United States.  The Hong Kong contact number 
+is the same as the Hong Kong Wing Lee phone number although its 
+address is different (Rm., 704B, 7/F, Hing Wah Centre 82084 To Kau 
+Wan Road, Kowloon, Hong Kong).  According to the Hong Kong Companies 
+Registry, Hong Kong Juno Limited has been in existence since 2004 
+and has the Hong Kong equivalent of USD 1250 in paid-up share 
+capital.  Its directors are mainland national Chen, Liwei (no 
+passport number given) and Hong Kong resident Po, Yu (HK 
+Identification number P555108(4)).  Mr. Wong has the company stamp 
+for this company in order to accept deliveries on its behalf. 
+ 
+¶15.  Shenzhen Meixinsheng Co., Ltd.  This company's Hong Kong 
+contact number is the same as Hong Kong Wing Lee.  According to its 
+web site (www.szmxs.com), the company is a professional components 
+supplier for mobile phone and digital products.  The Hong Kong 
+Companies Registry has no listing for this company. 
+ 
+¶16.  Juster Electronic Limited is located in Hong Kong and Suzhou, 
+mainland China.  The Hong Kong address of this company is the same 
+as the address for Shenzhen Meixinsheng (described above). 
+According to this company's web site, it is an agent for various 
+electronics components.  Juster Electronic Limited in Hong Kong was 
+registered in 2002 and has the Hong Kong equivalent of USD 1250 in 
+paid-up share capital.  Its sole director is listed as mainland 
+national Sun, Junhong (passport number G21164299). 
+ 
+¶17.  Rochester Electronics:  A close review of the transaction 
+documentation provided by OEA reveals several points worthy of 
+further follow-up by the BIS Office of Export Enforcement.  The 
+Rochester Packing Slip for this shipment lists the items in question 
+as falling under ECCN 3A001.A.2.C.  This ECCN may be shipped to Hong 
+Kong license free but ECO believes it would likely require a license 
+for shipment to mainland China.  ECO notes that Rochester has 
+authorized distributors in Hong Kong but this particular order 
+apparently went from Wing Lee Hong Kong to Rochester's offices in 
+ 
+ 
+Shanghai.  Notwithstanding that Mr. Wong stated that Hong Kong Wing 
+Lee generates no purchase orders, all Rochester documentation lists 
+Hong Kong Wing Lee as the purchaser and Consignee.  Internal 
+Rochester correspondence (from Zoe Feng in Shanghai) lists Hong Kong 
+Wing Lee as the customer.  Based on further e-mail correspondence, 
+Ms. Feng subsequently stated that the ultimate end user is Hong Kong 
+Ascend Medical Co., Limited located at 7/F Kin On Commercial 
+Building, 49-51 Jervis Street, Sheung Wan, Hong Kong. ECO notes that 
+this address is the same address as Newwoo (listed above) and is 
+located at the offices of a corporate secretarial service.  A 
+separate End Use Statement purportedly provided to Rochester 
+Electronics by Hong Kong Wing Lee (listing Liu, Ling as the 
+signatory) lists Hong Kong Wing Lee as the end-user.  Mr. Wong 
+stated that he does not recognize the name Liu, Ling. 
+ 
+¶18.  In light of the facts noted above, ECO recommends that OEA 
+conduct a thorough review of shipments to a range of companies as 
+well as shipments to the addresses of those companies.  ECO Further 
+recommends that Hong Kong Wing Lee be added to the Unverified List. 
+Finally, ECO recommends that BIS OEE consider investigating the 
+circumstances surrounding the receipt by Rochester Electronics of 
+this order and the company's subsequent shipment of the items. 
+ 
+ 
+Cunningham

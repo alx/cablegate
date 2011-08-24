@@ -1,0 +1,101 @@
+07HONGKONG2480
+EXTRANCHECK: POST SHIPMENT VERIFICATION: SANMINA-SCI
+Tue Sep 25 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHHK #2480 2680229
+ZNR UUUUU ZZH
+R 250229Z SEP 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 3015
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002480 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: SANMINA-SCI 
+SYSTEMS ENCLOSURE 
+ 
+REF: A) USDOC 05667 B)HK05511 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO), 
+accompanied by Commercial Officer Brock Wilson, conducted a post 
+shipment-verification (PSV) at Sanmina-SCI Enclosure Systems (Asia) 
+Limited (Sanmina), Enclosure 5, FK Ader Bldg., 22 Kai Cheung Road, 
+Kowloon Bay, Hong Kong.  The items in question are fifty pieces of 
+polyurethane foam valued at USD 3,633.  The exporter's shippers 
+export declaration (SED) lists the export control classification 
+number (ECCN) for the items as 1C001.  If properly classified by the 
+exporter, these items are controlled for national security (NS) and 
+missile technology (MT) reasons and would most likely require a 
+license for export or reexport to Hong Kong and mainland China.  The 
+exporter is Cuming Corporation of St. Avon, Massachusetts.  Sanmina 
+was the subject of a previous, favorable, PSV referenced in reftel 
+¶B. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Sanmina has been 
+in existence since 1992.  Its paid up share capital is the Hong Kong 
+equivalent of approximately USD eight million.  Its two directors 
+are U.S. nationals.  A review of the company's website 
+(www.sanminasci.com) indicates that the company is an affiliate of 
+Sanmina-SCI Corporation, a San Jose California based electronics 
+contract manufacturer in the communications, defense and aerospace, 
+industrial and medical instrumentation, multimedia and consumer, 
+computer and server and automotive technology sectors.  The company 
+has worldwide operations including several manufacturing locations 
+in mainland China. 
+ 
+¶4.  The ECO, accompanied by Commercial Officer Brock Wilson, visited 
+Sanmina at the address referenced above on August 28, 2007 and met 
+with Ms. Eva Ng, Shipping Officer.  She stated that the company 
+conducts electronics manufacturing in five locations in mainland 
+China for various multinational corporations.  Hong Kong acts as the 
+regional headquarters for the company.  Imports and exports for the 
+China market are conducted through Hong Kong.  Ms. Ng stated that 
+Cuming is a regular supplier for Sanmina.  She further stated that 
+Sanmina does not apply for Hong Kong strategic commodities licenses 
+because Sanmina does not import or export strategic items. 
+ 
+¶5.  As to the specific items in question, Ms. Ng stated that they 
+are used in the production of metal casings for servers.  The items 
+will be used to reduce the noise levels of such servers.  The 
+casings are being produced for Ciena (www.ciena.com), a U.S. network 
+hardware company. Initially, Ms. Ng promised to provide shipping 
+documentation confirming receipt of the items in Hong Kong and their 
+subsequent on-shipment to mainland China.  ECO later obtained those 
+documents from a colleague of Ms. Ng as Ms. Ng had apparently left 
+the company two days after the PSV. 
+ 
+¶6. In light of the totality of the circumstances of this check, ECO 
+suspects that the exporter misclassified this items as falling 
+within ECCN.  ECO therefore recommends that BIS complete a commodity 
+classification before reaching a final decision on how to classify 
+this PSV.  If the ECCN is as stated by Cuming, the ECO may reach out 
+to Hong Kong TID for follow-up by Hong Kong Customs since this ECCN 
+would most likely require a license for import into and export from 
+Hong Kong. 
+ 
+¶7.  At the time visited, Sanmina appeared to be a suitable recipient 
+of the commodities shipped since Sanmina cooperated with the PSV and 
+operates a line of business consistent with its use.  Nonetheless, 
+the items, as classified by the exporter, require an export license 
+to both Hong Kong and mainland China, which license was not 
+obtained.  Subject to the outcome of the recommended action in 
+paragraph 6, the ECO therefore recommends that this PSV be 
+classified as Unfavorable.

@@ -1,0 +1,125 @@
+06HONGKONG4023
+EXTRANCHECK: POST SHIPMENT VERIFICATION: NEW
+Wed Oct 11 00:00:00 +0200 2006
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0021
+RR RUEHWEB
+
+DE RUEHHK #4023/01 2840810
+ZNR UUUUU ZZH
+R 110810Z OCT 06
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHBJ/AMEMBASSY BEIJING 9528
+RUEHC/SECSTATE WASHDC 8976
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 004023 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132/FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+ 
+BEIJING FOR FCS JEANETTE CHU 
+ 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: NEW 
+COSMOS (H.K.) LTD. 
+ 
+REF: A) USDOC 05351 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request ad at the direction of the 
+Office of Enforcement nalysis (OEA) of the Bureau of 
+Industry and Secuity (BIS), Export Control Officer 
+(ECO) Philip Akel onducted a post shipment 
+verification (PSV) t New Cosmos (H.K.) Ltd. (New 
+Cosmos H.K.) on Ocober 10, 2006. This PSV concerned 
+parts for massspectrometers exported by Brimrose 
+Corporatin of Sparks, Maryland, classified as EAR99 
+and valued at $26,399. 
+ 
+¶3. An extract from the Hong Kong Companies Registry 
+provides that New Cosmos has been registered as a 
+company in Hong Kong since March 1999.  The registered 
+address matches the address where the check was 
+conducted.  New Cosmos H.K.'s corporate registration 
+lists three directors by their Chinese passport 
+numbers and without Hong Kong identification card 
+numbers (PRC nationals Jing Huang, Zhipeng Pei, 
+Jinsong Wang).  One director is listed by reference to 
+a Hong Kong I.D. card number(Qingpei Zhao). 
+ 
+¶4.  On October 10, 2006, the ECO visited New Cosmos at 
+Room B, 32/F, United Centre, 95 Queensway, Hong Kong 
+and met with Debbie Fok, Assistant General Manager. 
+The New Cosmos office is located inside of the offices 
+of China Legal Service (H.K.) Ltd. 
+(www.chinalegal.com.hk) and there is no reference to 
+New Cosmos on the exterior of the office or in the 
+building registry.  The meeting occurred in a small 
+conference room in the offices of China Legal Service 
+(H.K.) Ltd.  Ms. Fok stated that New Cosmos has been 
+in existence for about five years and has a 
+representative office in Beijing (listed on Ms. Fok's 
+business card as being located at Room 2004, Building 
+B, Jianwai SOHO, 39 Dongsanhuanzhong Road, Chaoyand 
+District, Beijing) (New Cosmos Beijing).  Ms. Fok 
+stated that New Cosmos H.K. (and its Beijing 
+representative office) acts as a trading company to 
+obtain items from the United States and elsewhere on 
+behalf of Chinese clients.  She stated that the main 
+business area of focus is telecommunications.  She 
+further stated that, to the degree a U.S. export 
+license is required, this is the responsibility of the 
+U.S. exporter. 
+ 
+¶5.  Ms. Fok confirmed that New Cosmos (H.K.) had 
+received the items that were the subject of the PSV. 
+She stated that the items were ordered by and for 
+Tsinghua University in Beijing through New Cosmos 
+ 
+SIPDIS 
+Beijing.  A separate item that is the subject of a 
+separate PSV cable was also destined for Tsinghua 
+University.  The items were shipped to Hong Kong and 
+not directly to Beijing at the request of Tsinghua 
+University.  Once New Cosmos H.K. had received them, 
+Ms. Fok called New Cosmos Beijing and a representative 
+of Tsinghua University picked them up from New Cosmos 
+H.K.'s offices.  Ms. Fok further stated that the 
+exporter (Brimrose) was aware of the end-user of the 
+items. 
+ 
+¶6. Ms. Fok was somewhat reluctant to provide any 
+additional information about the transaction in 
+question (and a related transaction that is the 
+subject of a separate cable).  Fok declined to provide 
+additional documentation on the destination of the 
+shipment.  At the same time, the items in question 
+were classified by the exporter as EAR99 and could 
+therefore, absent EPCI concerns or misclassification, 
+be exported or reexported to China.  BIS may wish to 
+reach out to the exporter to determine why it chose to 
+list New Cosmos (H.K.) as the ultimate consignee. 
+ 
+¶7. It is apparent to the ECO that New Cosmos H.K. and, 
+most likely, New Cosmos, Beijing are trading companies 
+that do not engage in production or manufacturing of 
+any kind.  While Ms. Fok was reluctant to provide 
+additional information about the shipment in question, 
+her answers were not evasive or untruthful and were 
+consistent with the information in documents provided 
+by BIS.  Therefore, in accordance with guidance on 
+reporting of PSVs where the items cannot be physically 
+inspected, the ECO recommends that this PSV be 
+classified as Limited. 
+Cunningham

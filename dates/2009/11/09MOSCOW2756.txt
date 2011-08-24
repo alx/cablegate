@@ -1,0 +1,71 @@
+09MOSCOW2756
+EXTRANCHECK: PRE-LICENSE CHECK: NII PM, MOSCOW, RUSSIA,
+Tue Nov 10 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHMO #2756 3141307
+ZNR UUUUU ZZH
+P 101307Z NOV 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 5348
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 002756 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: NII PM, MOSCOW, RUSSIA, 
+LICENSE NO. D421802 
+ 
+REFTEL: REQUEST #6110035; DATED 9/01/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a pre-license check to determine the legitimacy 
+and reliability of the end-user, NII PM (The Research Institute of 
+Applied Mechanics named after Academician V.I.Kuznetsov), Moscow, 
+Russia.  The organization is listed on BIS license application 
+D421802 as the ultimate consignee of forty (40) IRHF7130SCS 
+radiation hardened MOSFETs model no: JANSR2N7261. These items are 
+controlled for national security and anti-terrorism reasons under 
+ECCN 9A004.  The licensee is International Rectifier Corp., 233 
+Kansas Street, El Segundo, CA 90245. 
+ 
+¶3. On October 29, 2009, Commercial Attach Ilona Shtrom and LES 
+Natalya Shipitsina conducted the requested pre-license check at the 
+offices of NII PM, 58, Schepkina Street, Moscow, Russia. The export 
+control team met with Yuriy Obodovsky, International Relations 
+Department Head, Alexander Novobytov, Deputy General Director and 
+Sergey Marchenko, Assistant to the General Director. 
+ 
+¶4. NII PM was founded in 1955 as a research institute in the field 
+of gyroscopic device development and inertial systems for space 
+rockets.  In 2005, the institute became an affiliate of Federal 
+State Unitary Enterprise QCentre for Ground-Based Space 
+InfrastructureQ (TsENKI). TsENKI was established to improve and 
+develop the ground-based space infrastructure of the Russian 
+Federation. The institute is currently working to further develop 
+and restore GLONASS, RussiaQs alternative to the U.S. Global 
+Positioning System.  They plan to utilize the Rad-Hard MOSFETs in 
+the satellites that will be launched for GLONASS use.  The 
+representatives with whom the export control team met stated they 
+understood their obligations under the U.S. export control 
+regulations, including the fact that they may not re-export U.S. 
+origin items. 
+ 
+¶5. Recommendations: Post recommends NII PM (The Research Institute 
+of Applied Mechanics named after Academician V.I.Kuznetsov), Moscow, 
+Russia, as a reliable recipient of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/ JMARKS/ISHTROM) 
+BEYRLE

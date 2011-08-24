@@ -1,0 +1,165 @@
+07TAIPEI409
+Taiwan Banking Sector Update
+Fri Feb 16 00:00:00 +0100 2007
+UNCLASSIFIED
+American Institute Taiwan, Taipei
+VZCZCXRO9770
+RR RUEHGH
+DE RUEHIN #0409/01 0470717
+ZNR UUUUU ZZH
+R 160717Z FEB 07
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC 4187
+RUEATRS/DEPT OF TREASURY WASHDC
+INFO RUCPDOC/USDOC WASHDC
+RUEHBK/AMEMBASSY BANGKOK 3599
+RUEHBJ/AMEMBASSY BEIJING 6388
+RUEHUL/AMEMBASSY SEOUL 8483
+RUEHGP/AMEMBASSY SINGAPORE 6824
+RUEHKO/AMEMBASSY TOKYO 8513
+RUEHML/AMEMBASSY MANILA 9958
+RUEHJA/AMEMBASSY JAKARTA 4008
+RUEHKL/AMEMBASSY KUALA LUMPUR 3689
+RUEHHI/AMEMBASSY HANOI 3241
+RUEHBY/AMEMBASSY CANBERRA 4460
+RUEHWL/AMEMBASSY WELLINGTON 1723
+RUEHHK/AMCONSUL HONG KONG 7625
+RUEHGH/AMCONSUL SHANGHAI 0836
+RUEHGZ/AMCONSUL GUANGZHOU 0014UNCLAS SECTION 01 OF 02 TAIPEI 000409 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE PLEASE PASS USTR 
+STATE FOR EAP/RSP/TC, EAP/EP 
+USTR FOR ALTBACH AND STRATFORD 
+USDOC FOR 3132/USFCS/OIO/EAP/WZARIT 
+TREASURY FOR OASIA/LMOGHTADER 
+TREASURY ALSO PASS TO FEDERAL RESERVE/BOARD OF 
+GOVERNORS, NEW YORK FRB/MARA BOLIS AND SAN FRANCISCO FRB/TERESA 
+CURRAN 
+ 
+E.O. 12958: N/A 
+TAGS: EINV EFIN ECON PINR TW
+SUBJECT:  Taiwan Banking Sector Update 
+ 
+REF: (A) TAIPEI 0049, (B) 06 TAIPEI 4175 
+ 
+SUMMARY 
+------- 
+ 
+¶1.  This report covers the 42 Taiwan banks, 28 credit coops, and 278 
+Farmers/Fishermen Association (FA) credt departments which 
+constitute Taiwan's banking sector.  In 2006, delinquent credit/cash 
+card debt eroded profitability of Taiwan banks which, nevertheless, 
+remained relatively healthy in terms of non-performing loan (NPL) 
+ratio and capital adequacy (CA) ratio.  Both credit coops and FA 
+credit departments were more profitable than banks in 2006, however 
+FA credit departments had disturbingly high NPL ratios and low CA 
+ratios.  END SUMMARY. 
+ 
+Definition and Market Structure 
+------------------------------- 
+ 
+¶2.  Taiwan banks are licensed to do all kinds of banking services 
+without restrictions on location and customers.  Both credit coops 
+and FA credit departments are subject to strict limits on banking 
+services they may provide (only basic services) and on customers 
+served (only local members).  The basic banking services include 
+taking deposits, offering loans, and foreign currency exchange. 
+ 
+¶3.  Banks, naturally, are the backbone of Taiwan's banking sector, 
+with 92% of assets and 94% of loans.  Credit coops' combined market 
+share is only 2.4% of assets and 2% of loans, while FA credit 
+departments have a combined market share of 5.5% of assets and 3.6% 
+in loans. 
+ 
+Credit/Cash Cards 
+----------------- 
+ 
+¶4.  Taiwan permits banks to issue credit/cash cards but does not 
+allow credit coops and FA credit departments to do so.  A sharp 
+increase in delinquent credit/cash card debt in 2005 and 2006 eroded 
+the profitability of Taiwan banks in these two years.  Total 
+delinquent credit/cash card debt charged-off shot up from NT$32 
+billion (US$970 million) in 2004 to NT$71 billion (US$2.15 billion) 
+in 2005 and NT$163 billion (US$4.9 billion) in 2006. 
+ 
+¶5.  Taiwan banks' pre-tax profits, therefore, dropped from NT$155.4 
+billion (US$4.7 billion) in 2004 to NT$78.6 billion (US42.4 billion) 
+in 2005 and NT$31.9 billion (US$968 million) in the first 11 months 
+of 2006.  Their return-on-asset (ROA) ratio slipped from 0.6% in 
+2004 to 0.3% in 2005 and 0.12% in November 2006.  Their 
+return-on-net worth (ROE) ratio fell from 10.3% in 2004 to 4.8% in 
+2005 and 1.87% in November 2006. 
+ 
+Low NPL Ratio, High CA Ratio 
+---------------------------- 
+ 
+¶6.  Under Taiwan's first stage of a financial reform program that 
+began in 2002, Taiwan banks wrote off bad debt while maintaining 
+their capital adequacy.  Banks' cut their NPLs by nearly 80%, down 
+from NT$1,676.5 billion (US$50.8 billion) in early 2002 to NT$366 
+billion (US$11 billion) in December 2006.  Correspondingly, Taiwan 
+banks' NPL ratio dropped from nearly 12% to 2.1% while bad debt 
+reserves increased from 14% to a new high of nearly 60% and the 
+average CA ratio remained above 10%.  Among the 42 Taiwan banks, 36 
+reported NPL ratios below the generally acceptable 5% level. 
+ 
+Insolvent Banks 
+--------------- 
+ 
+¶7.  Three of the six banks with NPL ratios above 5% were taken over 
+ 
+TAIPEI 00000409  002 OF 002 
+ 
+ 
+by the Central Deposit Insurance Corporation (CDIC) in late 2006 
+(refs A and B).  The CDIC will sell the three banks under 
+receivership this year.  One of the remaining three banks reported a 
+marginal NPL ratio of 5.4%.  Negotiations on the acquisition of the 
+other two banks are currently under way. 
+ 
+Credit Coops in Good Shape 
+-------------------------- 
+ 
+¶8.  The 28 credit coops have reduced their total NPLs by 90% from 
+NT$50 billion (US$1.5 billion) in early 2002 to NT$6.4 billion 
+(US$194 million) in November 2006.  Their average NPL ratio dropped 
+from 16% to 1.8%, bad debt reserves increased to 38% in December 
+2006, and average capital adequacy ratio in 2005 exceeded 12%. 
+(Note.  Taiwan's Central Bank will publish the 2006 figure in June 
+2007.)  Credit coops which had a combined loss of NT$1.3 billion in 
+2002 reported a ROA ratio of 0.28% and a ROE ratio of 4.5%.  Of the 
+28 credit coops, 26 reported NPL ratios below 4% in December 2006. 
+The NPL ratios of the remaining two were 4.8% and 4.9%. 
+ 
+Worrisome FA Credit Departments 
+------------------------------- 
+ 
+¶9.  A large number of the 278 FA credit departments have poor credit 
+reputations, and are on the verge of insolvency.  Their NPLs 
+declined by 60% from NT$131.4 billion (US$4 billion) in early 2002 
+to NT$53.8 billion (US$1.6 billion) in December 2006, and their 
+average NPL ratio also declined from nearly 20% to 8% during the 
+same period.  However, over half of them (about 52%) still had NPL 
+ratios above 5%.  Among the 278 FA credit departments, 101 reported 
+their NPL ratios exceeding 10%, and 95 of the 101 reported bad debt 
+reserves below 30% of their NPLs. 
+ 
+COMMENT 
+------- 
+ 
+¶10.  FA credit departments have received less attention since 
+regulatory authority over them was shifted from the Bureau of 
+Monetary Affairs (the predecessor of the Banking Bureau in the 
+Financial Supervisory Commission) to the Bureau of Agricultural 
+Finance in January 2004.  Many FA credit departments now risk 
+insolvency due to high NPLs and insufficient bad debt reserves.  The 
+Financial Reconstruction Fund (FRF), equivalent to the RTC in the 
+United States, has NT$22 billion earmarked for addressing insolvent 
+FA credit departments.  However, this amount may not be sufficient 
+to resolve so many problem FA credit departments. 
+ 
+YOUNG

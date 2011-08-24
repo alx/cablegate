@@ -1,0 +1,91 @@
+08MOSCOW3556
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: FLYLAL TECHNICS,
+Tue Dec 09 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHMO #3556 3441225
+ZNR UUUUU ZZH
+P 091225Z DEC 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1056
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 003556 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/M.HAMMES/L.RITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: FLYLAL TECHNICS, 
+VILNIUS, LITHUANIA, LICENSE NO. NLR 
+ 
+REFTEL: USDOC 06831 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to determine the 
+legitimacy and reliability of the end-user, FLYLAL Technics, 
+Vilnius, Lithuania. The company is listed on BIS license 
+application: NLR as the ultimate consignee of one (1) civil aircraft 
+appliance, indicator assy-mach/airspeed, part no. 4039891-903, 
+serial no. 84050753.  ECCN 7A994. Controlled for regional stability 
+(RS) and anti-terrorism (AT) reasons. The exporter is The Memphis 
+Group, 3900 Willow Lake Blvd, Memphis, TN  38118. 
+ 
+¶3. On December 4, 2008, Export Control Attach Peter Liston 
+conducted the requested post-shipment verification with FLYLAL 
+Technics, A Gustaicio 4, Vilnius, Lithuania.  The export control 
+officer met with Paulius Kavaliauskas, Spare Parts Department 
+Director at his office. 
+ 
+¶4. FLYLAL Technics is an independent company that separated from 
+FLYLAL Airlines in August 2007.  It is a privately held Lithuanian 
+owned company that has 265 employees. 
+ 
+¶5.  FLYLAL Technics fits and services aircraft from Lithuania and 
+the other Baltic States, the European Union and Russia.  FLYLAL 
+Technics conducts the required maintenance based upon miles flown on 
+the Boeing 737-300, 400 and 500 series aircraft, and Saab 2000 and 
+340 aircraft. FLYLAL Technics added the aircraft parts brokering 
+business to their operations in August 2008. 
+ 
+¶6.  During discussions with Paulius Kavaliauskas, Spare Parts 
+Department, it was discovered that FLYLAL Technics does not have an 
+internal export compliance program to safeguard U.S. origin parts. 
+Kavaliauskas stated that he purchases parts for Russian companies 
+and that all of his suppliers know this and sell him the parts 
+anyway.  ECO Liston could not corroborate this statement. 
+Kavaliauskas stated that he believes all aircraft parts brokers 
+operate the same way.  Kavaliauskas stated that he receives between 
+20 and 50 inquiries a day for various parts and didn't realize that 
+he had to know the End Use destination, or that he had to advise the 
+parts brokers and suppliers that he ordered from of the ultimate 
+destination of the particular part(s). 
+ 
+¶7.  The commodity subject to this PSV was solicited to FLYLAL 
+Technics through an email inquiry from a Russian company by the name 
+of Techno Trade (techt@yandex.ru).  Techno Trade requested a price 
+quote for the subject commodity.  FLYLAL Technics contacted GE 
+Commercial Aviation Services in London, England for a price quote 
+for the part without ever advising GE that the ultimate destination 
+for the part is Russia.  GE Commercial Aviation Services in London 
+obtained the part from a subsidiary in Memphis, TN and caused it to 
+be shipped NLR to Lithuania believing the part would remain in 
+Lithuania.  FLYLAL Technics then invoiced the part to an off-shore 
+company in the British Virgin Islands by the name of Palmstone 
+Holdings Limited.  The part was shipped to Techno Trade in Russia by 
+FLYLAL Technics.  Payment was made through a bank transfer. 
+ 
+ 
+¶5. Recommendations: Post cannot/cannot recommend FLYLAL Technics, A 
+Gustaicio 4, Vilnius, Lithuania as reliable recipients of sensitive 
+U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

@@ -1,0 +1,35 @@
+10FRANKFURT289
+Classnet Conversion to Closed Partition Key Frankfurt
+Tue Feb 16 00:00:00 +0100 2010
+UNCLASSIFIED
+Consulate Frankfurt
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHFT #0289 0470832
+ZNR UUUUU ZZH
+R 160832Z FEB 10
+FM AMCONSUL FRANKFURT
+TO RUEHC/SECSTATE WASHDC 0250
+INFO RUEHFT/AMCONSUL FRANKFURT
+RUEHST/RRF BELTSVILLE 0001UNCLAS FRANKFURT 000289 
+ 
+SIPDIS 
+IRM/OPS/ITI/SI/CSB 
+ 
+E.O. 12958: N/A 
+TAGS: ACKM KRIM ACOA
+SUBJECT: Classnet Conversion to Closed Partition Key Frankfurt 
+ 
+REF: STATE 3334 
+ 
+¶1.       Per ref A, post acknowledges that the key load will be 
+loaded on 22 Feb 2010 at 1100 GMT for C1 and 24 Feb 2010 at 1100 
+GMT for C2. 
+ 
+¶2.       Post has all of the necessary keys and equipment to 
+conduct this evolution. 
+ 
+¶3.       Point of contact is David Mullins at phone 
+49-69-7535-7900, IVG 568-7900 or MullinsDW@state.sgov.gov 
+ALFORD

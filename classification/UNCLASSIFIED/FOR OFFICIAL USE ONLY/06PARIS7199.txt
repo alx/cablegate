@@ -1,0 +1,190 @@
+06PARIS7199
+France: Telecom and Information Technology Update
+Fri Nov 03 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+null
+Lucia A Keegan  11/07/2006 02:57:17 PM  From  DB/Inbox:  Lucia A Keegan
+
+Cable 
+Text:                                                                      
+                                                                           
+      
+UNCLAS    SENSITIVE     PARIS 07199
+
+SIPDIS
+cxparis:
+    ACTION: ECON
+    INFO:   FCS POL ORA AMB ENGO SCIO TRDO LABO DCM ECNO
+            UNESCO AGR ECSO ESCI SCI
+
+DISSEMINATION: ECONOUT /1
+CHARGE: PROG
+
+APPROVED: ECON:SDWYER
+DRAFTED: ECON:FRADOVIC/HSULLI
+CLEARED: NONE
+
+VZCZCFRI494
+RR RUEHC RUCPDOC RUEAFCC RUEAWJA RUCNMEM
+DE RUEHFR #7199/01 3071337
+ZNR UUUUU ZZH
+R 031337Z NOV 06
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 2821
+INFO RUCPDOC/USDOC WASHDC
+RUEAFCC/FCC WASHDC
+RUEAWJA/DEPARTMENT OF JUSTICE WASHDC
+RUCNMEM/EU MEMBER STATESUNCLAS SECTION 01 OF 02 PARIS 007199 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+STATE FOR EB/CIP AND EUR/WE 
+USDOC FOR NTIA AND ITA 
+FCC FOR INTERNATIONAL 
+STATE PLEASE PASS TO USTR 
+BRUSSELS FOR USEU JUNDERWOOD 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD FR
+SUBJECT: France: Telecom and Information Technology Update 
+ 
+¶1. This is another in a series of periodic updates on the French 
+telecommunications and information technology sectors, including 
+internet and e-commerce. 
+ 
+Contents: 
+-- SFR takes over Tele2 and becomes the second fully integrated 
+operator after France Telecom (FT)(para 2) 
+-- Neuf Cegetel acquires AOL France (para 3) 
+-- Free launches Fiber-to-the-home (FTTH) throughout France by 2012 
+(para 4) 
+-- FT's new "unik" service (para 5) 
+--  Launch of Microsoft's "instant messaging" on Orange (para 6) 
+-- Consumer group seeks damages for price fixing by mobile phone 
+operators (para 7) 
+-- The French electronic communications market on the up and up 
+(para 8) 
+-- Mototrola seriously eyeing French communications equipment firm 
+Sagem (para 9) 
+-- Debates begin on the GOF draft bill on the television of the 
+future (para 10) 
+ 
+¶2.  French mobile operator SFR has become the second largest fully 
+integrated operator in France following its 451.6 million dollar 
+acquisition earlier this month of Tele2 France.  Under the deal, SFR 
+will take over Tele2's fixed-line operations including its broadband 
+unit, and would have to operate the business under the Tele2 brand 
+for up to three years.  (Note: SFR will not purchase Tele2's 
+multiple virtual network operator (MVNO) operations in France (i.e. 
+business from renting airspace from other companies), which 
+accounted for 300,000 customers at the end of June 2006. End Note). 
+At the same time, SFR remains the country's second-largest mobile 
+operator as well as the largest stakeholder in France's second 
+largest fixed operator, Neuf Cegetel.  SFR, a joint venture between 
+Vodafone and Vivendi, took-over Tele2 after Neuf backed down from 
+the bid.  The future of the SFR/Neuf Cegetel alliance will 
+ultimately have to be defined in the coming months. 
+ 
+¶3.  Independent executive agency the French Competition Council has 
+just approved Neuf Cegetel's purchase of AOL France from Time 
+Warner.  With this 288 million euros (USD 360) acquisition, Neuf 
+Cegetel will gain over 500,000 high-speed Internet customers to 
+bring its total to more than 2 million.  The deal brings Neuf 
+Cegetel into close competition with the Illiad Group's subsidiary 
+Free for the title of second-largest broadband provider in Europe. 
+ 
+ 
+¶4.  French alternative broadband provider Free announced in 
+mid-September that it will spend one billion euros building a fiber 
+network in France through 2012.  This fiber-to-the-home (FTTH) 
+rollout will begin in central Paris, followed by the Paris suburbs 
+and other parts of France.  Free officials said their plan 
+contributed to French public authorities' declared aim of 
+positioning France at the leading edge of information technology. 
+Meanwhile, France Telecom (FT) is piloting a fiber optic program in 
+Paris to assess the economic feasibility of such a large project in 
+cities.  Despite being the first French operator to trial FTTH in 
+January 2006, FT believes there is no available content to warrant 
+an immediate investment in nationwide FTTH deployment.  FT retains 
+50 percent of the French broadband market, while Free has 18 
+percent. 
+ 
+¶5.  In early October, FT's mobile arm Orange France launched new 
+phones allowing customers to make phone calls on mobile and Wi-Fi 
+networks.  Dubbed Unik, the service allows a person to make free 
+phone calls inside France over the Internet connection and to switch 
+over to the mobile phone network when leaving home.  FT customers 
+will pay 10 euros (USD 12.50) per month for fixed-line calls within 
+France, in addition to 99 euros (USD 123.75) and more for the phone 
+itself and charges for Livebox, a system which connects users to 
+broadband lines.  For 22 euros (USD 27.50) per month customers can 
+get unlimited calls to both Orange mobiles and fixed lines.  Though 
+Unik can be cheaper for Orange customers, people who call a Unik 
+line will be charged for a mobile phone call, rather for a fixed- 
+line call.  Calling a mobile phone is generally more expensive and 
+the adoption of mobile phone rates for converged phones has elicited 
+concern from some consumer groups. 
+ 
+¶6. On October 16, Microsoft Chief Executive Steven Ballmer announced 
+an "instant messaging" product to be offered by Orange.  When the 
+service starts in December, Orange subscribers will be able to 
+conduct real-time chats by voice, text, or video on their phones or 
+personal computers, using a version of Microsoft's messaging 
+software.  The companies are now calling the service Orange 
+Messenger by Windows Live.  Yahoo is launching a rival internet 
+messaging product with France-based Bouygues Telecom. 
+ 
+¶7.  French consumer group UFC-Que Choisir announced in mid-October 
+that it had submitted a request for damages at the Paris Tribunal of 
+Commerce for price fixing by French mobile phone operators Bouygues, 
+Orange and SFR.  UFC said it had received 12,530 requests for 
+damages and was requesting 750,000 euros, or roughly 60 euros (USD 
+75) per person.  Last year, the French Competition Council fined the 
+three operators 534 million euros (USD 667.5 million) for forming a 
+cartel and freezing mobile phone prices between 2000 and 2002. 
+ 
+¶8.  The number of telephone service subscriptions (37.2 million 
+subscribers) is up almost 6 percent at the end of the first quarter 
+of this year, mostly due to the very rapid development of telephony 
+using broadband Internet connections (VoIP-Voice-over-Internet 
+Protocol).  Full unbundling has also contributed to this extremely 
+rapid growth, with some one million lines established at the end of 
+the first quarter.  During that same period, high-speed Internet 
+continued to grow, totaling 10.5 million subscribers.  Similarly, 
+mobile telephone continued its expansion, adding up to 48.6 million 
+subscribers thanks to the arrival of multiple virtual network 
+operators (MVNO).  All in all, income generated by the electronic 
+communications market in France reached 10.1 billion euros (USD 12.6 
+billion). 
+ 
+¶9. Motorola Mobile Devices President Ronald Garriques, in an 
+exclusive interview with the Figaro on October 26, indicated a 
+"serious interest" in acquiring French communications equipment firm 
+Sagem, a subsidiary of Safran.  Garriques indicated that acquiring 
+Sagem "is an option in a sector that is in the process of 
+consolidating ... I do not know yet if we will get it." Garriques 
+praised Sagem's management for being among the most respected in the 
+mobile telephony sector and indicated that, in determining which 
+firms to acquire, Motorola considered first the human resources of 
+the target firm more than its technology or brand.  In September 
+French aero engines and telecoms group Safran said it was studying 
+all options for its Sagem division, which has been dogged by a 
+series of financial losses.  Motorola has made a series of recent 
+acquisitions in Europe including Mitsubishi Europe based in Rennes, 
+France-based TPP Com, UK-based Sendo, and Danish firm BenQ. 
+Garriques signaled Motorola's intention to continue acquisitions as 
+part of its strategy of increasing market share in France and the 
+rest of Europe. 
+¶10.  With the advent of TV services on mobile phones and the 
+extension of the French digital terrestrial TV (DTT) platform, the 
+French Culture Ministry has drafted a bill on "the modernization of 
+audiovisual broadcasting and the future of television," currently 
+before the Senate.  The bill would foster television broadcasting 
+over mobile phones, the introduction of high definition television 
+(HDTV), and the replacement of analog television by digital TV in 
+¶2011.  Debates are due to take place November 20, 21 and 22.  After 
+passage, the draft bill will then move to the National Assembly. 
+Stapleton

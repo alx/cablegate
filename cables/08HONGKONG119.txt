@@ -1,0 +1,90 @@
+08HONGKONG119
+EXTRANCHECK: POST SHIPMENT VERIFICATION: ASIA LINK (HONG
+Fri Jan 18 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHHK #0119 0180850
+ZNR UUUUU ZZH
+R 180850Z JAN 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 3905
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000119 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON/SSILVER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: ASIA LINK (HONG 
+KONG) LTD. 
+ 
+REF: A) USDOC 10521 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) attempted 
+to conduct a post shipment verification (PSV) at Asia Link (Hong 
+Kong) Ltd., Room 1022, 10/Floor, No. 1 Hung To Road, Kwun Tong, 
+Kowloon, Hong Kong (Asia Link).  The items in question are 
+navigation parts for civil aircraft, a course deviations indicator 
+and antennas and parts for radar, radio navigational aids exported 
+to Asia Link on or about September 11, 2006, June 8, 2007 and 
+January 15, 2007.  Certain of the items are classified under Export 
+Control Classification Number (ECCN) 7A994 and are controlled for 
+anti-terrorism reasons (AT).  The exporter was Garmin International 
+of Olathe, Kansas. 
+ 
+¶3.  A Hong Kong Companies Registry search reveals that Asia Link has 
+been in existence since 2001.  It has less than 1 USD in paid-up 
+share capital.  Its director is Li, Yanan with Hong Kong 
+identification number P983393(9).  Li, Yanan is not a director in 
+any other company in Hong Kong. An Internet search reveals that Asia 
+Link is a distributor of Garmin (the exporter) in Hong Kong and acts 
+as a supplier of GPS devices in Asia.  An Internet company profile 
+of the company lists a second address, namely, Room 504, Nam Wo Hong 
+Building, 148 Wing Lok Street, Sheung Wan, Hong Kong. 
+ 
+¶4.  This second address is also listed as the corporate address for 
+a second Hong Kong company, namely HK Carcom Electronic Technologies 
+Limited (Carcom). According to the Hong Kong Companies Registry, 
+this company likewise has less than USD 1 in paid-up share capital. 
+Its director is listed as CP Corporate Services Limited.  According 
+to information on this company's web site (www.e-carcar.com), Carcom 
+focuses on car audio/video, PMP/GPS, and Smart Phone design, 
+development, manufacturing and marketing.  Its web site includes a 
+range of GPS devices for automotive applications.  This company also 
+has a Shenzhen office. 
+ 
+¶5.  Commercial Assistant Carrie Chan and ECO attempted, on several 
+occasions, to schedule the PSV with Asia Link.  Over the course of 
+several weeks, Asia Link representatives steadfastly refused to meet 
+with the ECO.  Eventually, Asia Link representatives provided 
+documentation purporting to confirm receipt of the January 2007 and 
+June 2007 shipments.  Asia Link declined to provide information 
+about the September 2006 shipment citing business reasons.  Asia 
+Link also refused to provide any details about the end user or end 
+use of the items in question.  The Asia Link representative stated 
+that the shipments were destined for mainland China but declined to 
+provide additional information.  Commercial invoices provided by 
+Asia Link (and also OEA) list Beijing Unistrong Science and 
+Technology as the buyer of the items.  This company is a reseller of 
+a range of GPS devices with offices throughout mainland China. 
+ 
+¶6.  ECO recommends that OEA conduct a review of shipments destined 
+to Asia Link and Carcom as well as all shipments to the addresses of 
+those companies.  ECO also recommends that Asia Link be added to the 
+BIS Unverified List (a public compilation of companies where BIS has 
+been unable to satisfactorily complete a PSV or pre-license check 
+(PLC) for reasons outside of the control of the U.S. government).

@@ -1,0 +1,207 @@
+08TAIPEI745
+Taiwan IPR: 301 Watch List OCR Process Update
+Fri May 30 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+American Institute Taiwan, Taipei
+VZCZCXRO6773
+PP RUEHCN RUEHGH RUEHVC
+DE RUEHIN #0745/01 1510950
+ZNR UUUUU ZZH
+P 300950Z MAY 08
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC PRIORITY 9043
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUCPDOC/USDOC WASHDC
+RHMFIUU/DEPT OF JUSTICE WASHINGTON DCUNCLAS SECTION 01 OF 03 TAIPEI 000745 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE PLEASE PASS TO AIT/W AND EAP/RSP/TC 
+STATE PASS USTR/DAVID KATZ AND JARED RAGLAND 
+USDOC FOR 4431/ITA/MAC/AP/OPB/TAIWAN 
+USDOC ALSO FOR ITA/MAC/OIPR 
+USDOC PASS TO USPTO GIN, BROWNING, AND LOC STEPP 
+USDOJ FOR JOHN ZACHARIA 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ETRD KIPR TW
+SUBJECT:  Taiwan IPR: 301 Watch List OCR Process Update 
+ 
+Ref: A) State 43143; B) Taipei 734 
+ 
+¶1. (SBU) Summary: Taiwan is making progress in two of the three 
+areas outlined in last month's 301 Watch List submission for Taiwan 
+(ref A). The process of finalizing language for the internet service 
+provider (ISP) amendments to Taiwan's Copyright Act has stalled due 
+to ISP-industry objections over language that rights-holders believe 
+is important to giving the legislation teeth. The Taiwan 
+Intellectual Property Office (TIPO) now predicts that it will not be 
+able to pass the final draft to the Executive Yuan (EY) until August 
+at the earliest. In better news, the Intellectual Property (IP) 
+Court is set to open on July 1, and will begin accepting new cases, 
+including appeals, on that date, and the Ministry of Education (MOE) 
+invited rights-holder and university representatives to another 
+meeting of its IP task force to review progress under the ongoing 
+Campus IP Action Plan. End summary. 
+ 
+TIPO Still Working on ISP Language 
+----------------------------------- 
+ 
+¶2. (U) On May 22, econoff met with Margaret Chen, Deputy Director 
+General of TIPO, and Chang Yu-ying, Director of the TIPO Copyright 
+Office, to discuss the current state of draft amendments to the 
+Copyright Law that would limit an Internet service provider's (ISP) 
+liability if the ISP quickly removed IPR-infringing material. This 
+is the latest version of the amendments that TIPO first drafted in 
+March 2007. 
+ 
+¶3. (SBU) Chang told us that after contentious public hearings on 
+February 14 and May 7, the ISP industry and rights-holder groups 
+still hold differing opinions on the draft amendments, with 
+rights-holders pushing for inclusion of clear language outlining 
+contributory or secondary liability for ISPs that negligently allow 
+copyright-infringing materials to be hosted by their service 
+(article 88 in the previous draft version), and ISPs strongly 
+opposed to including such references.  ISPs also worry that the 
+draft language neither adequately protects ISPs from civil suits 
+with a clear "safe-harbor" provision, nor protect ISPs from possible 
+criminal suits, since copyright infringement in Taiwan can be 
+subject to criminal prosecution. Other differences include each 
+side's opinion on the definition of what an ISP is, and meanings for 
+several other technical terms, but both sides agree that the key 
+issue is secondary liability. 
+ 
+¶4. (SBU) Chang told econoff that the MOJ has verbally affirmed to 
+TIPO the MOJ view that current ROC law (article 128 of the Civil 
+Code) already contains the concept of secondary liability, that this 
+would be applicable to ISPs, and that it would therefore be 
+unnecessary and improper to re-state such liability in the ISP law 
+draft.  She said that MOEA has formally requested that the MOJ 
+provide a clear written explanation on this question in order to 
+allay the concerns of rights-holders.  She expects a reply from the 
+MOJ in June, after which TIPO--assuming that rights-holders are on 
+board--can complete the ISP law draft with the MOJ notes as 
+reference materials by late June or early July, and then submit its 
+final draft to the Executive Yuan in August. 
+ 
+¶5. (SBU) Local rights-holder groups IFPI Taiwan and Taiwan 
+Foundation Against Copyright Theft (TFACT), however, strongly prefer 
+including the current language in article 88 with clear statement of 
+secondary liability for ISP operators.  According to the two groups, 
+although the Taiwan Civil Code contains the concept of liability for 
+contributory or vicarious infringement, rights-holders fear that the 
+Code is not clear enough about whether this liability would apply to 
+ISPs.  Rights-holders are somewhat flexible on this, however, and 
+have told us that they could accept TIPO dropping "article 88" 
+language as long as the MOJ written explanation is satisfactory and 
+the final amendments retain article 90 quinquies, which states that 
+ISPs can be free from liability if they have taken swift action on a 
+take-down notice. 
+ 
+¶6. (SBU) Econoff passed on USTR's request that TIPO accept another 
+round of feedback from USTR on the current version of the 
+amendments. Chen said TIPO will, of course, offer an English version 
+of the ISP draft to the U.S. side for comments as soon as TIPO 
+completes the ISP draft, and will welcome U.S. reactions and 
+suggestions.  She said the MOJ's clarification about secondary 
+liability and U.S. comments will be key factors in determining the 
+progress of Taiwan's ISP law legislation. Chen said that TIPO knows 
+that the ISP law is a key factor in USTR's OCR, and that TIPO will 
+continue to do its best to push a good ISP law to the LY as fast as 
+possible. 
+ 
+ 
+TAIPEI 00000745  002 OF 003 
+ 
+ 
+IP Court on Track for July Opening 
+---------------------------------- 
+ 
+¶7. (SBU) On May 23, econoff met with Kao Shiou-jen, Director of the 
+Judicial Yuan (JY) Preparatory Office for the Intellectual Property 
+Court and, after July 1, the President of the IP Court.  Ms. Kao 
+confirmed that the IP Court will begin operating on July 1 by 
+accepting both new cases and appeals from cases that finished on or 
+before June 30.  She said that while the court will start with only 
+eight judges, the JY plans to review this number after a suitable 
+period has passed. At the initial stage, the IP court will also have 
+nine technical experts who will serve as advisors and case review 
+officers, and will also be available to support judges in 
+district-level courts if needed.  To support the IP Court, the 
+Ministry of Justice will set up an office with three specialized IP 
+prosecutors. 
+ 
+¶8. (SBU) Although JY regulations call for judges to complete 
+first-instance cases within 16 months, Kao said that the IP Court 
+will expect its judges to finish cases within 12 months.  Also, the 
+Court will ask its judges to complete criminal cases that have been 
+appealed from local courts--a process that typically takes 24 
+months--"as quickly as possible." 
+ 
+MOE Gets Together with Industry and School Reps 
+--------------------------------------------- -- 
+ 
+¶9. (U) On May 12, the Ministry of Education (MOE) convened the third 
+meeting of its IP Task Force to review university progress under the 
+ongoing Campus IP Action Plan, which went into effect in October 
+¶2007. 
+ 
+¶10. (U) At the May 12 meeting, the MOE presented an interim report 
+on progress thus far under the Action Plan. According to the report, 
+127 of Taiwan's 165 universities have set up IP protection teams on 
+campus, most chaired either by the school's President or Vice 
+President. 146 universities have held seminars, training programs, 
+or short courses to promote the concept of IP protection on campus. 
+Almost every university has distributed information on fair use of 
+copyrighted materials and other IP information to both teachers and 
+students, and 117 have set up IP consulting mechanisms for faculty 
+and students to clarify fair-use and other IP-related questions with 
+scholars and legal experts. 78 universities invited TIPO's IP 
+service team to conduct IP promotion activities on campus, and 73 
+sent teachers to take IP training from TIPO's IP Institute. 
+ 
+¶11. (U) 132 of 165 schools now include language in contracts with 
+on-campus copy shops that allow the universities to terminate shops' 
+contracts if the shops are found to have violated Taiwan's copyright 
+laws, and an MOE staff member told us that the remaining 33 
+universities will insert similar language into such contracts at the 
+time of the next renewal.  According to the MOE report, almost all 
+universities now affix warnings against illegal copying onto or near 
+all campus photocopying machines. The majority have also established 
+physical or virtual platforms for used-book exchange. 
+ 
+¶12. (SBU) To fight internet IPR violations, 159 universities have 
+incorporated MOE guidelines into rules governing on-campus use of 
+the island-wide academic network TANet, and almost all of these 
+schools have established procedures to impose punishments on 
+students who repeatedly and seriously infringe on intellectual 
+property rights, and about 150 have set ceilings on data 
+transmission and installed various measures to prevent infringement 
+from P2P software.  Local rights-holder groups--while still 
+concerned about copyright infringements on TANet--tell us that they 
+are pleased with the recent MOE pledge to respond to rights-holder 
+TANet complaints within 60 days, and to periodically post on the MOE 
+homepage statistics about TANet violations. 
+ 
+Comment 
+------- 
+ 
+¶13. (SBU) We are confident that the IP Court will open as scheduled 
+on July 1, and we assess that MOE-led campus IP enforcement efforts 
+are moving forward, although the pace could be faster.  The lack of 
+progress toward satisfactory ISP-amendment language is 
+disappointing, however, as the local ISP industry has continued to 
+raise objections that need to be reviewed and addressed.  Much will 
+depend on the MOJ evaluation of how adequate secondary-liability 
+concepts are in the current Civil Code.  Although rights-holders are 
+willing--under certain conditions--to accept a final version that 
+lacks current "article 88" language, we will continue to use every 
+occasion to push TIPO both to finalize amendments clearly 
+ 
+TAIPEI 00000745  003 OF 003 
+ 
+ 
+incorporating the concept of secondary liability, and to move such a 
+bill to the EY after additional industry and U.S. feedback. End 
+comment.

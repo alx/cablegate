@@ -1,0 +1,75 @@
+09MOSCOW318
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Tue Feb 10 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0017
+PP RUEHWEB
+
+DE RUEHMO #0318 0411454
+ZNR UUUUU ZZH
+P 101454Z FEB 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1848
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DC
+RUEHKV/AMEMBASSY KYIV 0323UNCLAS MOSCOW 000318 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/M.HAMES/L.RITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+KYIV FOR FCS 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+SCIENTIFIC-PRODUCTION FIRM VD, KIEV, UKRAINE, LICENSE NO. NLR 
+ 
+REFTEL: USDOC 0237 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a Post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Scientific-Production 
+Firm VD MAIS, Kiev, Ukraine. The company is listed on BIS license 
+application: NLR as the ultimate consignee of three (3) ICS 
+integrated circuits and micro assemblies, production no. EX128-TQ64. 
+ ECCN 3A001.  These commodities are controlled for national security 
+(NS), missile technology (MT), nuclear non-proliferation (NP) and 
+anti-terrorism (AT)reasons.  The exporter is Actel Corporation, 2061 
+Stierlin Ct., Mountain View, CA  94043. 
+ 
+¶3. On January 30, 2009, Export Control Attach Peter Liston and LES 
+Yuriy Prikhoko conducted the requested post-shipment verification 
+with the Scientific QProduction Firm VD MAIS, 29 Zhilyanska Street, 
+Kiev, Ukraine. The export control team met with Aleksay Velentik, 
+General Director. 
+ 
+¶4. The Scientific QProduction Firm VD MAIS (VD MAIS) was established 
+in 1993 as a distributor of electronic components for the local 
+market.  VD MAIS has 200 employees working in 7 locations throughout 
+the Ukraine.  VD MAIS is the number one distributor of electronic 
+components in Ukraine and had $37.7 million in revenue in 2007.  VD 
+MAIS also publishes a monthly electronics information magazine 
+called QElectronic Components and SystemsQ.  VD MAIS owns the 14,500 
+square foot building where their distribution headquarters in 
+located.  They occupy 10,000 square feet and rent out the rest. 
+ 
+¶5. The commodities in reftel are part of their distribution supply. 
+VD MAIS produced an invoice for the export control team showing the 
+sale of the reftel commodity to a local merchant. 
+ 
+¶6. The export control team determined that the reftel commodity is 
+being used for the end use for which it was licensed.  There are no 
+indications of impropriety and the consigneeQs answers were not 
+evasive. 
+¶7. Recommendations: Post recommends Scientific-Production Firm VD 
+MAIS, Kiev, Ukraine as reliable recipients of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

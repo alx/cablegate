@@ -1,0 +1,236 @@
+10SHANGHAI15
+HOT MONEY INFLOW RESTRICTIONS BEING IMPLEMENTED IN EAST
+Wed Jan 20 00:00:00 +0100 2010
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Shanghai
+VZCZCXRO2644
+RR RUEHCN RUEHGH
+DE RUEHGH #0015/01 0200800
+ZNR UUUUU ZZH
+R 200800Z JAN 10
+FM AMCONSUL SHANGHAI
+TO RUEHC/SECSTATE WASHDC 8475
+INFO RUEHBJ/AMEMBASSY BEIJING 3242
+RUEHCN/AMCONSUL CHENGDU 2335
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEATRS/DEPT OF TREASURY WASHINGTON DC
+RUEHGZ/AMCONSUL GUANGZHOU 0792
+RUEHHK/AMCONSUL HONG KONG 2506
+RUEHLO/AMEMBASSY LONDON 0057
+RUEHML/AMEMBASSY MANILA 0145
+RHEHAAA/NATIONAL SECURITY COUNCIL WASHINGTON DC
+RUEHFR/AMEMBASSY PARIS 0036
+RUEHUL/AMEMBASSY SEOUL 0641
+RUEHSH/AMCONSUL SHENYANG 2326
+RUEHGP/AMEMBASSY SINGAPORE 0309
+RUEHIN/AIT TAIPEI 2124
+RUEHKO/AMEMBASSY TOKYO 0852
+RUEHUM/AMEMBASSY ULAANBAATAR 0015
+RUEHGH/AMCONSUL SHANGHAI 9141UNCLAS SECTION 01 OF 03 SHANGHAI 000015 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPT FOR EAP/CM 
+NSC FOR MEDEIROS, LOI, SHRIER 
+STATE PASS USTR FOR STRATFORD/WINTER/MCCARTIN/KATZ/MAIN 
+USDOC FOR ITA DAS KASOFF, MELCHER, SZYMANSKI, MAC/OCEA 
+TREASURY FOR OASIA/INA -- DOHNER/HAARSAGER/WINSHIP 
+TREASURY FOR IMFP -- SOBEL/CUSHMAN 
+STATE PASS CEA FOR BLOCK 
+STATE PASS CFTC FOR OIA/GORLICK 
+MANILA FOR ADB USED 
+PARIS FOR US/OECD 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN EINV PGOV CH MG
+SUBJECT: HOT MONEY INFLOW RESTRICTIONS BEING IMPLEMENTED IN EAST 
+CHINA 
+ 
+¶1.  (SBU) Summary:  Manipulation of trade transactions across 
+China's borders to arbitrage anticipated renminbi movements has 
+decreased under a new trade-transaction verification system. 
+However, investors can still get "hot money" funds into China 
+through a variety of loopholes -- such as transactions using 
+Mongolian banks -- and demand has been picking up as the market 
+prices in 2-3.5 percent renminbi appreciation in 2010.  On a 
+separate note, U.S. importers are not welcoming a Chinese 
+program encouraging their use of renminbi for settlement of 
+trade payments.  End Summary. 
+ 
+========== 
+Background 
+========== 
+ 
+¶2.  (SBU) Visiting Federal Reserve Bank of New York Senior Vice 
+President John Clark, International Officer Hunter Clark, and 
+Senior Financial/Economic Analyst Jeffrey Dawson met with 
+Wachovia Shanghai Branch Managing Director and General Manager 
+Benjamin Kinnas and Vice President Han Lin on Thursday, December 
+¶10.  Wachovia is a major correspondent bank for Chinese 
+counterparties, and provides export financing; the bank is 
+involved in transactions associated with around 10 percent of 
+China's total trade, according to Kinnas. 
+ 
+======================================= 
+Hot Money Flows Face More Hurdles . . . 
+======================================= 
+ 
+¶3.  (SBU) Wachovia's Kinnas explained that the August 2008 
+regulations issued by SAFE have given Chinese authorities an 
+effective tool for controlling "hot money" inflows -- capital 
+that investors take into the country for short-term arbitrage on 
+exchange rates or interest rates.  Lin said that the regulations 
+have plugged the loophole through which discrepancies in trade 
+invoicing were used to transfer foreign capital into China 
+through the trade account; inflows of capital under the capital 
+account continue to be tightly restricted.  (Note:  China allows 
+free conversion of foreign currency into renminbi, provided the 
+foreign exchange is earnings from exports.  Prior to the new 
+system, firms could agree with overseas traders to artificially 
+hike the value of exports -- "over-invoice" -- and use the 
+excess trade "earnings" in China for investment or to speculate 
+on renminbi appreciation.  End note.) 
+ 
+¶4.  (SBU) The 2008 regulations require banks to hold in escrow 
+any foreign currency deposited by an exporting company into its 
+bank account until the earnings are validated as coming from 
+legitimate export transactions.  After putting the funds in 
+escrow, a bank must log into a General Administration of Customs 
+database to confirm that the firm has legally registered exports 
+valued at or above the value of the foreign currency deposit; 
+the bank will then note in the Customs database the amount of 
+foreign currency being deposited, and Customs will subsequently 
+subtract this amount from the total.  (Note:  Kinnas commented 
+that the new requirements have required him to staff an 
+export-transaction verification desk.  The added operating costs 
+are not exorbitant, but this mandate is an example of how 
+Chinese authorities are starting to push policy compliance 
+monitoring responsibility onto firms.  End note.) 
+ 
+=============================== 
+. . . But Can Still Get Through 
+=============================== 
+ 
+SHANGHAI 00000015  002 OF 003 
+ 
+ 
+ 
+¶5.  (SBU) Loopholes remain in the system that allow investors to 
+avoid the US$50,000 per person, per year limit on foreign 
+exchange conversion, said Kinnas.  One favorite legal route is 
+transferring money through Mongolia.  Under a bilateral trade 
+agreement between China and Mongolia, an unlimited amount of 
+dollars can be converted into renminbi in Mongolian banks.  One 
+need only open a dollar account in a Mongolian bank, transfer in 
+dollars, convert these into renminbi, and then transfer the 
+renminbi to a Chinese bank, said Kinnas. 
+ 
+¶6.  (SBU) In another legal channel, people can convert foreign 
+exchange into renminbi in the overseas branches of the two 
+Chinese banks that have offshore conversion licenses -- Bank of 
+China and Industrial and Commercial Bank of China.  For example, 
+it is possible to use an "overseas remittance program" in the 
+Bank of China New York Branch, although there is a limit of 
+US$50,000 per transaction and the bank "gouges" remitters on the 
+exchange rate, according to Kinnas. 
+ 
+¶7.  (SBU) More in the grey area, said Kinnas, some investors use 
+family and friends to make multiple transfers of US$50,000. 
+Kinnas also hinted that Bank of China managers can be paid 
+bribes to facilitate illegal foreign currency transfers. 
+ 
+============================================= ================== 
+Renminbi Appreciation Expectations Reflected in "Trade Finance" 
+============================================= ================== 
+ 
+¶8.  (SBU) Through summer 2008, market anticipation of renminbi 
+appreciation was reflected in high demand in China for borrowing 
+renminbi against future earnings of dollars, said Kinnas. 
+Typically borrowed in 180-day increments, this was officially 
+labeled trade financing.  When renminbi appreciation 
+expectations evaporated with China's falling export outlook 
+following the fourth quarter of 2008, this "trade financing" 
+also fell off.  As a result, it created the appearance that the 
+fall in trade financing was greater than the fall in trade. 
+With the market anticipating a 2-3.5 percent renminbi 
+appreciation in 2010, said Kinnas, China-based companies are 
+again approaching Wachovia to set up similar financing 
+arrangements. 
+ 
+============================================= === 
+An Experiment: Are Bank Transfer Rules Enforced? 
+============================================= === 
+ 
+¶9.  (SBU) SAFE is using technology to better control foreign 
+currency transfers under the capital account, said Lin, 
+illustrating his point with an experiment he undertook.  He 
+transferred from overseas three US dollar amounts to accounts he 
+opened in his name in three Chinese banks:  to a Bank of China 
+branch, he wired US$25,000; to another of China's major banks, 
+he wired US$24,000; and to a small city-level bank, he wired 
+$2,000.  He then attempted to convert the US dollars into 
+renminbi in each of the banks.  He successfully converted the 
+first two amounts, but when he applied to convert the last 
+US$2,000, the local bank informed him that he would only be able 
+to convert US$1,000.  They were aware that this was his limit, 
+the bank staff told him, by consulting his foreign exchange 
+records using a special computer terminal provided by SAFE. 
+ 
+===================================== 
+RMB Internationalization Going Slowly 
+ 
+SHANGHAI 00000015  003.2 OF 003 
+ 
+ 
+===================================== 
+ 
+¶10.  (SBU) Few of Wachovia's trade finance customers are moving 
+toward using renminbi to settle payment of trade transactions, 
+said Kinnas.  There are two reasons.  First, a company importing 
+from China that agrees to pay in renminbi essentially takes on 
+foreign exchange risk from the Chinese exporter.  When foreign 
+companies take on such risk, they often look to offset it with a 
+foreign currency derivative, locking in their expenses and 
+revenues.  However, there is no liquid, transparent market for 
+Chinese renminbi forwards or exchange rate swaps.  Second, the 
+system for settling trade payments in renminbi is not 
+user-friendly -- only certain banks and specific companies have 
+been designated as part of the pilot.  In addition, Wachovia 
+offers additional services, such as trade finance, in addition 
+to its currency clearing business, so customers get one-stop 
+shopping. 
+ 
+¶11.  (SBU) Outside China, Chinese banks are contacting branches 
+of non-Chinese banks to pressure them to open offshore renminbi 
+accounts, apparently in response to a mandate from the People's 
+Bank of China (PBOC), said Lin.  The Chinese banks are not 
+concerned if the foreign banks have renminbi to deposit in the 
+accounts, and appear focused only on increasing the numbers of 
+the accounts.  In some cases, a Chinese bank has suggested that 
+opening an offshore renminbi account will give that Chinese bank 
+"face," and therefore will facilitate the foreign bank's 
+long-term business operations in China. 
+ 
+======= 
+Comment 
+======= 
+ 
+¶12.  (SBU) From the East China perspective, China's leaders are 
+still fighting an uphill battle to control foreign exchange 
+inflows into China, despite more adept use of technology to 
+monitor transactions.  Because many local governments are 
+desperate to see a turnaround in exports -- and the jobs and 
+revenue that exports bring -- there is little motivation on a 
+local level to strictly monitor foreign exchange inflows that 
+are nominally tied to trade, even if some are falsifying trade 
+records to import funds.  In turn, these foreign currency 
+inflows, to the extent that they outrun the PBOC's sterilization 
+efforts, will contribute to inflation that banking and finance 
+officials increasingly cite as their primary concern in 2010. 
+Efforts to internationalize the renminbi, which could eventually 
+lead to lower foreign exchange reserves buildups, do not appear 
+to be making much headway at present. 
+ 
+¶13.  (SBU) The Federal Reserve Bank of New York has cleared on 
+this cable.CAMP

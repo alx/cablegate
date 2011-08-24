@@ -1,0 +1,83 @@
+07MOSCOW2685
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: RASSIAN ACADEMY OF
+Wed Jun 06 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0033
+PP RUEHWEB
+
+DE RUEHMO #2685 1571220
+ZNR UUUUU ZZH
+P 061220Z JUN 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 0944
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 002685 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: RASSIAN ACADEMY OF 
+SCIENCES (RAS) INSTITUTE OF SOLID STATE PHYSICS, CHERNOGOLOVKA, 
+MOSCOW, RUSSIA, LICENSE NO. D358874 
+ 
+REFTEL: USDOC 03326 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Russian Academy of 
+Sciences (RAS) Institute of Solid State Physics (ISSP), 
+Chernogolovka, Moscow, Russia. The company is listed on BIS license 
+application D358874 as the ultimate consignee of one (1) millimeter 
+source module 90GHZ to 140GHZ, model S08MS-AG, and one (1) 
+millimeter source module 60GHZ to 90GHZ, model S12MS-AG. These items 
+are controlled for national security and anti-terrorism reasons 
+under ECCN 3A002. The licensee is Agilent Technologies, Inc., 1666 K 
+st., N.W. Suite 420, Washington DC. 20006. 
+ 
+¶3. On May 11, 2007, Export Control Attach Donald Pearce and FSN 
+Natalya Shipitsina conducted the requested post-shipment 
+verification with RAS ISSP, Institutsky pr., 15, Chernogolovka, 
+Moscow, Russia. The export control team met with Vladimir 
+Kulakovsky, Deputy General Director. 
+ 
+¶4. ISSP was founded in 1960 as an educational research facility 
+concentrating on the study of condensed matter physics, materials 
+science and high technology.  The institute employs 207 researchers, 
+the majority at the Ph.D. level or above.  The institute has two 
+buildings with laboratories and classes located on a closed campus 
+in the town of Chernogolovka, about 30 kilometers from central 
+Moscow.  Dr. Kulakovsky provided the team with a fifteen-page 
+overview of ISSP and its research programs, which is available from 
+post upon request.  The facility does no military research, and has 
+no visiting faculty or students from Iran, North Korea, Syria, Sudan 
+or Cuba. 
+ 
+¶5. The devices in reftel are used in the study of composite fermion, 
+a new class of particles discovered in condensed matter physics. 
+The frequency source modules are needed to study the microwave 
+response from a semiconductor heterostructure in a high magnetic 
+field.  The goal of these studies is to better understand the 
+composite fermion particle, which may lead to the next advances in 
+semiconductor materials use. 
+ 
+¶6. The team was shown a 90GHZ to 140GHZ millimeter source module, 
+model S08MS-AG with serial number 60821-1 and a 60GHZ to 90GHZ 
+millimeter source module, model S12MS-AG, 61002-1.  Digital 
+photographs of the units were taken and are available from post upon 
+request. 
+ 
+¶7. Recommendations: Post recommends RAS Institute of Solid Physics, 
+Chernogolovka, Russia as a reliable recipient of sensitive U.S. 
+origin commodities. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

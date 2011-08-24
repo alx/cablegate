@@ -1,0 +1,218 @@
+05PARIS2861
+FRANCE: BLUE LANTERN LEVEL 2: PRE-LICENSE END USE
+Wed Apr 27 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 PARIS 002861 
+ 
+SIPDIS 
+ 
+STATE FOR PM/DTCC - BLUE LANTERN COORDINATOR 
+COPENHAGEN FOR ECON - G.BURTON 
+ 
+E.O. 12958:  N/A 
+TAGS: ETTC KOMC FR
+SUBJECT:  FRANCE: BLUE LANTERN LEVEL 2: PRE-LICENSE END USE 
+CHECK ON APPLICATIONS 05-943227, 05-943228, 05-943674, 05-943844 
+ 
+REF: 04 STATE 258597 
+ 
+¶1.  As requested reftel, Post reached out to the French entities 
+listed as end-users in reftel para 4:  Onera, MBDA, and ETBS to 
+confirm that they had indeed ordered the accelerometers requeted 
+and also to EADS Astrium to confirm its order for an airborne 
+amplifier.  We transmit their response below in order by their 
+relevant license application numbers.  We note that none had 
+anything derogatory to say about Bruel and Kjaer. 
+ 
+¶2.  Regarding application 05-943227: 
+ 
+In late February, EconOff spoke with Patrick Chantelat of ETBS 
+(Etablissement Technique de Bourges et Surveillance Industrielle 
+Armement), which is a division of DGA (Delegation Generale pour 
+l'Armament) of the French Defense Ministry.  Mr. Chantelat, who 
+works directly with Sylvain Doffemont, who signed the export 
+license application, confirmed that these items (i.e. two 7270A- 
+2K accelerometers, two 7270A-6KM6 accelerometers, two 7270A- 
+20KM6 accelerometers, two 7270A-200K accelerometers, and 7 
+technical data CDS, as specified in license application 05- 
+943227) were ordered to replace old and worn out stock.  The 
+accelerometers are used to take measurements to ensure that 
+equipment is functioning within required specifications. 
+Regular testing of equipment using these accelerometers 
+eventually wears them out, thus ETBS is renewing their stock. 
+When asked what they test, Chantelat responded anything from 
+rifles to light anti-tank missiles, i.e. .765-155 mm caliber. 
+After this conversation, Mr. Doffemont followed up with a fax in 
+early March, confirming that ETBS will be the end user, that the 
+end-use will be for acceleration measurements and related 
+testing of equipment, that equipment has not yet been received, 
+and that intended use conforms with end-use certificate. 
+ETBS has no qualms about using Bruel and Kjaer as their 
+intermediary to supply the needed equipment from the U.S. maker. 
+ 
+¶3.  Regarding application 05-943228: 
+ 
+French research institute ONERA responded to our letter on March 
+11 by letter signed by Pascal Geoffroy, Director of the Solid 
+Mechanics and Resistance Testing ("Endommagement") Department, 
+and copied to ONERA's Head of Research, Mr. Eric Deletombe. 
+Geoffrey said that he was happy to finally have a contact about 
+this order, noting that his normal avenue for information and 
+updates was Bruel and Kjaer France, then their main office in 
+Denmark, then Endevco in the U.S., none of whom had been able to 
+explain to him the delay in the progress of the export license 
+approval.  He then proceeded to answer our questions by 
+confirming ONERA's order of two accelerometers 7270A-200K, which 
+had been placed on May 14, 2004, via the French distributor 
+Bruel and Kjaer.  He also confirmed that ONERA will be the final 
+end-user of this equipment, adding that in fact the equipment 
+will be used as part of a research program ("plan d'etude 
+amont") financed by the Defense Ministry and DGA (Delegation 
+Generale pour l'Armament), which is the acquisition and 
+procurement division of the French military establishment.  This 
+study (number 010704) is entitled "Integrity of Naval Stuctures" 
+according to Onera's letter, which further described the planned 
+testing in a way that can be summarized, as it was on the 
+license application, as explosion testing on dynamic materials. 
+ 
+Up to now, Onera does not use this type of equipment and is not 
+yet familiar with these sorts of tests.  Hence, they have no 
+previous experience with Bruel and Kjaer as a supplier.  Through 
+our own research, we were able to determine that Onera is a 
+public research institute that often conducts research for 
+various branches of the French military.  Lastly, Onera 
+confirmed that the intended end use is in conformity with the 
+end-use certificate. 
+ 
+¶4.  Regarding application 05-943674: 
+ 
+EADS Astrium was open and quite forthcoming when we contacted 
+them.  However, they were the slowest in producing a complete 
+response.  Our EADS Astrium contact confided to us that much of 
+the delay was due to the need to correct an improperly completed 
+initial license application as well as a thorough review of 
+their response by their legal counsel before it could be 
+released.  In the end we received a very complete response by 
+overnight mail on April 26 from EADS Astrium's Export Compliance 
+Manager Patrice Henacker.  It reads as follows: 
+ 
+Begin quote. 
+ 
+This letter is in response to your queries related to DSP 5- 
+943674 applied for by one of our suppliers.  The hardware 
+related to this DSP 5 is an amplifier (reference 2662M12G) 
+manufactured by ENDEVCO of California.  We hope that the 
+following elements will answer your queries: 
+ 
+(1) What is the end use of this hardware? 
+ 
+These amplifiers are used to condition the signal of 
+accelerometers which are part of the acoustic instrumentation of 
+the ARIANE 5 launcher.  ARIANE 5 is the European launcher, 
+developed under the control of the European Space Agency (ESA) 
+and built by EADS Space Transportation for Arianespace.  These 
+amplifiers are either used as ground instrumentation (i.e. only 
+during integration and vibration tests), or are set onto the 
+launcher equipment bay for telemetry during launch. 
+(2) Who is the end user? 
+When these amplifiers are used for flight (i.e. set onto the 
+launcher and launched), the end user is Arianespace of France, 
+the foreign consignees are EADS Space Transportation SA of 
+France, industrial prime; EADS Space Transportation GmbH of 
+Germany, industrial co-prime; and EADS Astrium SAS of France, 
+integrator of the equipment bay in which these amplifiers are 
+integrated.  When these amplifiers are used for integration 
+instrumentation only, the end user remains EADS Astrium SAS. 
+This is case of the part ordered under license 05-943674. 
+ 
+(3) Was the foreseen use (of the 2661M12-G ordered under license 
+05-943674) in accordance with the end user certificate? 
+ 
+Yes, the foreseen use of this specific amplifier was in 
+accordance with the end user certificate provided by EADS 
+Astrium SAS.  This specific amplifier was ordered for 
+integration instrumentation purposes only, and would have stayed 
+at EADS Astrium SAS premises.  Therefore, if the DSP 5 had been 
+approved, its usage would have been in compliance with the DSP 
+83 and the end user certification provided by EADS Astrium SAS. 
+Eads Astrium SAS has in its stock several amplifiers of the same 
+type previously delivered by ENDEVCO without traceability of 
+associated DSP 5s.  Because EADS Astrium SAS was aware that 
+these devices were to be considered as ITAR controlled, EADS 
+Astrium SAS had requested authorization from DTC to integrate 
+these amplifiers in the Arian 5 launcher (GC 0649-04 approved 
+August 30, 2004, for four amplifiers, and GC 0628-04 approved 
+July 26, 2004, for five amplifiers).  It is these amplifiers, 
+duly covered by the above DTC authorizations, which have been 
+embedded into the Ariane 5 launcher. 
+ 
+(4) Did EADS Astrium SAS sign the end user certificate provided 
+by the U.S. applicant with the license application? 
+ 
+EADS Astrium SAS cannot warrant (attest to) which end user 
+certificate was provided by the U.S. applicant with the license 
+request.  EADS Astrium SAS signed a DSP 83 and an end user 
+certificate, both dated September 23, 2004, and which were given 
+by EADS Astrium SAS to the Danish reseller Bruel and Kjaer for 
+the purpose of the U.S. license application.  EADS Astrium SAS 
+recognizes that the "end user statement military end user" 
+provided, and in particular paragraph four of this statement 
+might not have been clear, and should have referred clearly to 
+the U.S. authorities (and not to the Danish authorities).  To 
+avoid this kind of confusion, EADS has since imposed on all its 
+procurement chain an EADS "end user statement" format. 
+ 
+(5) Indicate the delivery dates of all of these parts by EADS 
+Astrium SAS 
+ 
+The one amplifier associated with DSP 5-943674 was never 
+delivered to EADS Astrium SAS (because the DSP 5 was RWAed).  As 
+mentioned, EADS Astrium SAS had in stock nine amplifiers 
+previously delivered by ENDEVCO in 1999.  EADS Astrium had 
+obtained authorization from DTC to use these amplifiers for the 
+instrumentation of the Ariane 5 launcher (GC 0628-04 and GC 0649- 
+04).  Four amplifiers covered by these two GCs were further 
+shipped to KOUROU, French Guyana. 
+ 
+(6) Has EADS Astrium SAS already used Bruel and Kjaer as a 
+supplier? 
+ 
+Yes, Bruel and Kjaer is a regular supplier to EADS Astrium SAS 
+for all Endevco instrumentation (captors, accelerometers, cables 
+and plugs) and we understand that they are fully approved by 
+Endevco of California as their distributor.  Up to now, EADS 
+Astrium SAS has not encountered difficulties with this supplier. 
+ 
+End quote. 
+ 
+¶5.  Regarding application 05-943844: 
+ 
+In early-April, post Blue Lantern action officer received the 
+following reply letter from Patrick Bernard of MBDA Missile 
+Systems Office for Management of Contracts.  Our informal 
+translation follows: 
+ 
+Begin quote. 
+ 
+In response to your letter, we would like to provide the 
+following clarifications: 
+ 
+Nine accelerometers 7270A-200K were ordered by MBDA France from 
+our supplier: Bruel and Kjaer, rue du Champoreux - BP 33 - 91541 
+Mennecy Cedex France. 
+ 
+The supplier requested a signature on a DSP 83 form, which 
+returned in August 2004.  This DSP 83 indicated that we are the 
+end-user of these nine units, which are intended to be 
+incorporated into testing equipment used to take shock 
+measurements and used for trials in France for the Scalp EG 
+program. 
+ 
+We reconfirm this end-use which was reported in August 2004 and 
+we inform you that these materials have as yet not been 
+delivered by our supplier. 
+ 
+End quote. 
+ 
+Wolff

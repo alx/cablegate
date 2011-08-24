@@ -1,0 +1,114 @@
+09HONGKONG2329
+EXTRANCHECK: POST SHIPMENT VERIFICATION: MAXLINK INDUSTRIES
+Wed Dec 23 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0010
+RR RUEHWEB
+
+DE RUEHHK #2329 3570004
+ZNR UUUUU ZZH
+R 230004Z DEC 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9228
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002329 
+ 
+USDOC FOR 532/OEA/ MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: MAXLINK INDUSTRIES 
+LTD. 
+ 
+REF: A) BIS e-mail request 01210009 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) at Maxlink Industries Ltd., Unit 
+710, Grand City Plaza, 1 Sai Lau Kok Road, Tsuen Wan, Hong Kong 
+(Maxlink). The items in question for this PSV are two high 
+performance, low power dual 8-bit, 1.5 GSPS A/D converters exported 
+to Maxlink on or about February 26, 2009.  These items are likely 
+classified under Export Control Classification Number (ECCN) 
+3A001a5a1 and are controlled for national security (NS) reasons. 
+This ECCN is eligible for shipment to Hong Kong license free but 
+would, in virtually all circumstances, require a license for 
+shipment to mainland China.  The exporter is Arrow Electronics of 
+Reno, Nevada. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Maxlink has been 
+in existence since 1998.  Its paid up share capital is the Hong Kong 
+equivalent of USD 10.  The Hong Kong Companies Registry lists 
+Canadian national, Long, Yangxin (PP#BA527589) as director.  Long, 
+Yangxin is also a director in a range of other Hong Kong registered 
+companies including ITSmart Limited, Maxlink Industries Limited, 
+Maxlink Global Limited, Seatech International Asia Limited, Seatech 
+International Holdings Limited, UniHz Holdings Limited and UniHz 
+International Limited.  Long, Yangxin is the sole director in each 
+of these companies except for Seatech International Asia Limited. 
+In this company, U.S. nationals Blatt, Michael (PP#202083327) and 
+Schneider, Bruce Howard (PP#017007730) are also directors.  Messrs. 
+Schneider and Blatt are not listed as directors in any other Hong 
+Kong registered companies. 
+ 
+¶4.  Web research reveals that Maxlink is the Hong Kong logistics 
+center for Seatech International (www.seatech-international.com). 
+Seatech has offices in Milpitas, California as well as Shenzhen, 
+China and Northolt, UK.  According to its website, Seatech 
+International has its headquarters in the United States and is a 
+leading independent distributor of semiconductors, electronic 
+components, computer products and networking equipment.  UniHz 
+Technologies Co., Ltd. has its own web site, namely www.unihz.com, 
+where it states that this company is a leading intelligent 
+transportation system supplier in China.  It is noteworthy that 
+Maxlink is located in the same building (but different floor) as 
+several additional companies of diversion concern including Free 
+Components, ARI International and in the building next door to Huge 
+Source, a third company of diversion concern. 
+ 
+¶5.  On December 3, 2009, ECO and FCS Commercial Assistant Carrie 
+Chan visited the company and met with Mr. Pak, salesperson.  The 
+company is located in a warehouse and offices building and has space 
+for several desks, a reception area and two small offices. 
+According to Mr. Pak, Maxlink serves as warehouse and well as 
+trading company for Seatech. 
+ 
+¶6.  Mr. Pak stated that Seatech's China headquarters are located in 
+Shenzhen and that some of the underlying documentation for this 
+order (the customer purchase order, for example) is located in 
+Shenzhen.  Seatech/Maxlink customers are located in mainland China, 
+Thailand, Malaysia, Singapore and Korea.  Approximately fifty 
+percent of the company's business is for local delivery while fifty 
+percent is for international sale.  Mr. Pak stated that shipments to 
+China are sent to manufacturers but he is not familiar with what is 
+being made with Maxlink components.  When asked, Mr. Pak stated that 
+Maxlink obtains HKTID import and export licenses for its products. 
+When pressed, it became apparent that Mr. Pak was referring to 
+another type of license.  Mr. Pak stated that he has only been with 
+the company for two months. 
+ 
+¶7.  As to the items in question, Mr. Pak provided documentation (an 
+invoice) confirming that the items had been sold to the Harbin 
+Institute of Technology (HIT) in mainland China.  According to 
+online research, HIT is a larger university in Harbin that is known 
+for its space and defense related research. 
+ 
+¶8.  ECO explained the importance of complying with export controls 
+and, by separate e-mail, provided Mr. Pak with information on BIS 
+and HKTID controls. 
+ 
+¶9.  ECO does not believe Maxlink is a suitable recipient of 
+controlled U.S. origin technology.  ECO further recommends that BIS 
+Office of Export Enforcement follow up with Seatech in the United 
+States as the underlying documentation appears to indicate that it 
+may be been aware that the items were destined for HIT when the 
+transaction was completed.

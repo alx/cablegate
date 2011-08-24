@@ -1,0 +1,96 @@
+07MOSCOW2046
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Fri May 04 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0003
+PP RUEHWEB
+
+DE RUEHMO #2046 1241038
+ZNR UUUUU ZZH
+P 041038Z MAY 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 9913
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 002046 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+TASC-T, MOSCOW, RUSSIA, LICENSE NO. D363392 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, TASC-T, Moscow, Russia. The company is listed on 
+BIS license application D363392 as the ultimate 
+consignee of one X200XP Thermal-Eye camera system. 
+These items are controlled for national security, 
+nuclear non-proliferation, regional stability, anti- 
+terrorism and UN sanctions reasons under ECCN 6A003. 
+The licensee is L-3 Communications Infrared Products, 
+13532 North Central Expressway, M/S, Dallas, TX 75243. 
+(NOTE:  Paragraph 9 of reftel shows one X200XP camera, 
+though paragraph 13 references two cameras. END NOTE.) 
+ 
+¶3. On April 17, 2007, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested post-shipment verification with TASC-T, 
+Moscow, Elektrozavodskaya St. #52, Moscow, Russia. The 
+export control team met with Ivan Sbornov, Deputy 
+General Director. 
+ 
+¶4. TASC-T was founded in 2006 as a limited-liability 
+company specializing in security equipment, safety 
+systems development and deployment.  The company is a 
+distributor of both domestically produced and imported 
+alarm systems, video surveillance, magnetometers, and 
+fire safety equipment.  TASC-T is an authorized 
+distributor for L-3 Communications/Thermal-Eye and for 
+ICM of Belgium.  The company works with government and 
+commercial organizations as well as private 
+individuals.  TASC-T employs 10, and has a production 
+facility as well as the office visited in the northern 
+section of Moscow.  TASC-T recently applied for a 
+permit to produce and sell it's own equipment, and 
+expects to receive the permit in approximately two 
+months. 
+ 
+¶5. The team was shown a Thermal-Eye model 7070415-3, 
+serial number 01458.  Company sales personnel use this 
+camera, along with a second received under the 
+license, as demonstrator models.  The team reviewed 
+the logbook required by the license conditions, noting 
+demonstrations for Lukoil, RAO-UES of Russia, and the 
+Russian Federation Ministry of Internal Affairs.  No 
+sales have been made to date.  The second camera is 
+currently at a trade show in Kazan, where the sales 
+team is attending a security products trade show. 
+ 
+¶6. When not in use the cameras are stored in the 
+company safe, located in the Deputy General Director's 
+office.  The office has an electronic security system 
+with proximity cards for access to offices.  Only 
+three employees are authorized to access and travel 
+with the camera, Mr. Sbornov (who is responsible for 
+the camera), the General Director, and the Sales 
+Manager.  When traveling, the camera stays in the 
+possession of one of the three officers noted. 
+ 
+¶7. Recommendations: Post recommends TASC-T, Moscow, 
+Russia as reliable recipients of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/DLUTTER/DPEARCE) 
+BURNS

@@ -1,0 +1,185 @@
+09BERLIN707
+GERMANY'S BROADBAND DEPLOYMENT INITIATIVE
+Fri Jun 12 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Berlin
+R 121458Z JUN 09
+FM AMEMBASSY BERLIN
+TO SECSTATE WASHDC 4337
+INFO USDOC WASHINGTON DC
+FCC WASHINGTON DCUNCLAS BERLIN 000707 
+ 
+ 
+PLEASE PASS TO EEB/CIP/BA:Timothy Finton; FCC:Robert Tanner; 
+DOC/ITA/OTEC:Andrew Bennett 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON
+SUBJECT: GERMANY'S BROADBAND DEPLOYMENT INITIATIVE 
+ 
+REF: STATE 27310 
+ 
+¶1. Summary: This report is in response to reftel and overviews the 
+German government's broadband initiative, a component of Germany's 
+economic stimulus package.  The broadband strategy, approved by the 
+Cabinet in February 2009, seeks to accelerate telecommunication and 
+internet connectivity, close gaps in underserved areas by the end of 
+2010 and ensure nationwide access to high speed internet by 2014. 
+The federal regulatory authority BNetzA has prepared a "digital 
+dividend" frequency auction schedule to support the initiative, but 
+legislation is now stalled in the Upper House over concerns related 
+to both the digital dividend and frequency transfer costs.  The 
+Upper House decision is expected in mid-June 2009, subsequent to the 
+government's clarification of these pending issues.  End Summary. 
+ 
+Broadband Penetration Goals in Stimulus Package 
+--------------------------------------------- -- 
+ 
+¶2. Recognizing the growth potential inherent in high speed 
+broadband, the government included the goal of nationwide telecom 
+and internet broadband connectivity as an integral component of its 
+stimulus package.  The multi-pronged approach approved by the 
+Cabinet on February 18, 2009, aims to close gaps in underserved 
+areas, upgrade existing broadband infrastructure over the short-term 
+by deploying the entire range of feasible technologies - whether 
+cable, fiber optics, satellite, or wireless - and utilize the 
+digital dividend resulting from frequencies no longer needed for 
+broadcasting following digitalization. 
+ 
+¶3. This so-called "Broadband Strategy" seeks to provide 75 percent 
+of German households with transmission rates of a minimum of 50 
+megabits per second by 2014 and sets a 100 percent penetration 
+target as soon as possible beyond that date.  (Hote: By the end of 
+2008, 58 percent or 23 million of the 40 million German households 
+enjoyed fast internet access.)  The government's plan focuses, in 
+particular, on closing gaps in underserved areas by 2010, benefiting 
+800 communities with five million inhabitants.  The German 
+communities' association (Deutscher Staedte- und Gemeindebund) 
+strongly supports the strategy, noting that it would create 250,000 
+jobs in rural areas and foster new businesses and revenues.  The 
+strategy also envisions federally-funded construction programs to 
+support network expansion and the reallocation of frequencies no 
+longer needed for radio and television broadcast - the so-called 
+digital dividend - to rural areas. 
+ 
+Digital Dividend 
+---------------- 
+ 
+¶4. In recognition of the digital dividend, the government has 
+recommended applying frequencies between 790 and 862 megahertz for 
+high speed internet service.  While the telecom industry welcomes 
+such a step, radio and television broadcasters had been reluctant to 
+give these frequencies up, claiming them for their own programming. 
+The dispute continued until the government stepped in to allocate 
+the frequencies to the broadband stimulus package.  German states, 
+however, are responsible for approving the allocation of radio 
+frequencies and therefore must approve this measure.  State concerns 
+have stalled the legislative process, with the Upper House 
+postponing a decision on the bill until the federal government 
+provides additional clarification on digital dividend issues. 
+ 
+Price Declines/Lower Revenues for Infrastructure 
+--------------------------------------------- --- 
+ 
+¶5. Strong competition among carriers has led to lower prices in 
+urban areas, which means less in revenues for carriers to respond to 
+the growing need for additional investments in infrastructure. 
+(Note: Of the estimated 300 billion euros needed for EU-wide 
+infrastructure investment, Germany needs 50 billion.)  The 
+increasing financial pressures on carriers have led former 
+competitors to seek alliances and cooperation to stem the high 
+costs. 
+ 
+Current Broadband Deployment Status 
+----------------------------------- 
+ 
+¶6.  According to official figures, German broadband penetration 
+rates compare favorably with leading countries.  About 60 percent of 
+households have high speed broadband access to the internet. 
+Factoring in households linked by 384 kbit/s "mini dsl" connections, 
+98 percent of households have broadband access.  Based on the 
+currently accepted definition of at least one megabit per second 
+(Mbit/s), broadband penetration amounts to 92 percent.  Over 79 
+percent of households have access to transmission rates of at least 
+2 Mbit/s and 20 percent enjoy high speed internet access via VDSL 
+connections with up to 50 Mbit/s.  While these values are well ahead 
+of comparable European figures, critics stress that penetration 
+looks less favorable when omitting the 384 kbit/s connections from 
+computation.  While urban areas are well-equipped with broadband, 
+the "gaps" are often located just beyond city limits and stretch 
+into rural areas and remote corners.  Note: Carriers have 
+concentrated their investment and advertising on lucrative urban 
+areas with high populations, bypassing underserved areas with few 
+potential customers. 
+ 
+EU Commission Urges Germany 
+--------------------------- 
+ 
+¶7. The European Commission has repeatedly urged Germany 
+to step up efforts on telecom reform.  In March 2009, Commissioner 
+Reding requested that Germany close existing infrastructure gaps, 
+noting that only 27.5 percent of Germans subscribed to broadband 
+service, putting Germany in 9th place among EU member states, and 
+that 12.5 percent of Germans in rural areas had no technical access 
+to broadband internet.  Reding urged the use of the digital dividend 
+and noted that Germany, by neglecting to speed up infrastructure 
+improvement, was shirking its role as the growth engine for Europe; 
+more efforts were expected.  To address the funding problem, the EU 
+Commission, will develop guidelines for financial assistance to EU 
+member states. 
+ 
+¶8. A considerable gap remains between regions in the western and 
+eastern part of Germany.  While sixty of every hundred households in 
+western states had high speed internet access, less than 45 
+households in the eastern states had such access.  To help close the 
+gap, the EU has been providing funding for infrastructure to the new 
+Germany's eastern states. 
+ 
+Government Efforts 
+------------------ 
+ 
+¶9. The focus in the current broadband strategy on infrastructure 
+investment and broadband deployment is the culmination of an 
+extended process starting with the EU Lisbon Accord.  This focus was 
+continued under former Chancellor Schroeder who integrated IT 
+leadership into Germany's "Agenda 2010" for economic growth. 
+Chancellor Merkel has also sought to boost Germany's IT standing 
+through private sector engagement, hosting two "IT summits" for 
+industry in the past two years.  The Chancellor opened the 2009 
+CeBIT fair in March 2009, stating her goal of nationwide broadband 
+access by 2010 - the basis of the current broadband strategy bill. 
+ 
+Strategy Measures 
+----------------- 
+ 
+¶10. In order to reach its goals, the government proposes 15 measures 
+for implementation during the three months following adoption of the 
+package (currently on hold by the Upper House).  Apart from 
+encouraging carrier cooperation/cost-sharing and pooling of existing 
+public and private infrastructure, the government proposed an 
+incentive-oriented approach for infrastructure construction, sought 
+supportive frequency policies, and committed to growth and 
+innovation-oriented regulation as well as appropriate financial 
+support.  Planned measures also include collaboration among urban 
+developers, carriers and construction firms on installing ducting 
+and joint infrastructure as well as cutting costs by compiling a 
+construction site data base to accelerate integration of 
+infrastructure hardware and cables during ground excavation. 
+Short-term measures for nationwide coverage include financial 
+support to local authorities and financing options for companies. 
+ 
+Comment 
+------- 
+ 
+¶11.  While the government aimed for a quick-start, getting the 
+process off the ground has been complicated.  Slower than expected 
+approval of the broadband strategy by the Upper House is resulting 
+in funding delays.  Furthermore, since state-level Finance Ministers 
+are bound by their 2009 budget, which are based on 2008 budgetary 
+decisions, they can't commit additional funds prior to drafting 2010 
+budget plans.  It remains to be seen whether the government's 
+ambitious plans will be effectively implemented.  Embassy Berlin 
+will continue to monitor developments and provide periodic updates. 
+End Comment. 
+ 
+KOENIG

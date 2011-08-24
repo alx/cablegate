@@ -1,0 +1,342 @@
+07TAIPEI135
+Taiwan TIFA: AUSTR Stratford presses on IPR
+Thu Jan 18 00:00:00 +0100 2007
+UNCLASSIFIED
+American Institute Taiwan, Taipei
+VZCZCXRO1116
+RR RUEHGH
+DE RUEHIN #0135/01 0180850
+ZNR UUUUU ZZH
+R 180850Z JAN 07
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC 3781
+INFO RUEHBJ/AMEMBASSY BEIJING 6234
+RUEHUL/AMEMBASSY SEOUL 8400
+RUEHKO/AMEMBASSY TOKYO 8399
+RUEHGP/AMEMBASSY SINGAPORE 6777
+RUEHKL/AMEMBASSY KUALA LUMPUR 3657
+RUEHML/AMEMBASSY MANILA 9920
+RUEHHI/AMEMBASSY HANOI 3213
+RUEHHK/AMCONSUL HONG KONG 7463
+RUEHGZ/AMCONSUL GUANGZHOU 9911
+RUEHGH/AMCONSUL SHANGHAI 0732
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEATRS/DEPT OF TREASURY WASHINGTON DCUNCLAS SECTION 01 OF 04 TAIPEI 000135 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE PASS TO AIT/W 
+STATE FOR EAP/RSP/TC, EAP/EP and EB/TPP/MTA/IPC 
+STATE PASS to USTR for BOLLYKY and ALTBACH, STRATFORD 
+USDOC for 4431/ITA/MAC/AP/OPB/TAIWAN/JDUTTON 
+USDOC for USPTO Gin and Browning and Snydor 
+USDOC FOR 3132/USFCS/OIO/EAP/WZARIT 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ETRD KIPR TW
+SUBJECT:  Taiwan TIFA: AUSTR Stratford presses on IPR 
+ 
+REF:   06 TAIPEI 4007 
+ 
+Summary 
+------- 
+¶1.  Summary.  As part of a December 18-19 visit to Taiwan, Assistant 
+United States Trade Representative Timothy Stratford and Deputy 
+Assistant USTR Eric Altbach met with rights-holders, officials from 
+the Taiwan Intellectual Property Office, and the Minister of 
+Education to review IPR issues.  Rights-holders expressed worries 
+over the impact of an IP court and encouraged passage of legislation 
+covering peer-to-peer file sharing and Internet service provider 
+(ISP) liability.  Their frustration ran high with IPR problems on 
+university campuses.  TIPO highlighted recent progress and claimed 
+that it was working with Chinese authorities to improve IPR 
+protection in the PRC.  While professing not to care about the 
+Special 301 process, TIPO's Director General asked that Taiwan be 
+removed from the list.  AUSTR Stratford encouraged TIPO to push 
+needed legislation though the Legislative Yuan and urged the 
+Minister of Education to address on-campus IPR issues.  Other 
+non-IPR meetings covered in septels.  End Summary. 
+ 
+Rights-holders Complain -- IP Court and Campus Piracy 
+--------------------------------------------- -------- 
+¶2.  AUSTR Stratford and DAUSTR Altbach met with rights-holders to 
+hear their views on IPR protection in Taiwan.  The group included 
+Taiwan representatives from the MPA, IFPI, the Business Software 
+Alliance, and American book publishers.  Their top concerns were 
+pending legislation on regulating online peer-to-peer file sharing 
+and on Internet Service Provider (ISP) liability, the scope and 
+impact of an Intellectual Property Court, and on-campus piracy. 
+ 
+¶3.  They opened the meeting with an update on IPR-related 
+legislation currently before the Legislative Yuan. They expected 
+legislation regulating peer-to-peer (P2P) file sharing to pass this 
+session.  Although the legislation has a "for profit" provision, 
+meaning that only P2P services that generate profit are liable for 
+prosecution, rights-holders still favor passage of the bill.  They 
+are more concerned about the progress of draft legislation on ISP 
+liability.  In particular, they note the draft law only sets general 
+guidelines for takedown notice procedures.  Rights-holders stated 
+that procedures should be clearly spelled out in the law. 
+ 
+¶4.  Rights-holders then raised the issue of piracy on and around 
+university campuses.  The group was critical of the Ministry of 
+Education's lack of response to their concerns about infringing 
+activity on TANet, the Ministry's computer network.  They claimed 
+that piracy was high on TANet and that TANet needs stronger internal 
+controls.  The Ministry of Education does not reveal action taken on 
+complaints on individual cases, nor did the Ministry release overall 
+statistics on actions taken against online infringers. 
+Rights-holders claimed that it was much easier to take action and 
+monitor activity on commercial networks. 
+ 
+¶5.  The local representative of MPA, shared preliminary results of a 
+recent survey commissioned by his organization on Internet use by 
+Taiwan university students.  The survey covered about 2300 students 
+from 8 different universities around Taiwan.  Although the survey 
+did not quantify levels of online piracy, the survey indicated heavy 
+downloading of Internet files by university students.  More than 75% 
+of the respondents stated that they downloaded files.  Of this 
+group, 84% downloaded music and 49% downloaded movies.  Less than 
+half of the respondents confirm whether the file is legal before 
+downloading, and interestingly, only about 40% of students surveyed 
+think the government and their school do enough to propagate an 
+anti-piracy message. 
+ 
+¶6.  Rights-holders argued that the Minister of Education should 
+appoint a high-level official to take responsibility for IPR on 
+campus.  The current contact window, which is a clerk-level employee 
+at the Ministry's computer center, can be easily ignored by 
+universities, who exercise a great deal of autonomy over their own 
+university networks. 
+ 
+¶7.  The representative of textbook publisher John Wiley & Sons also 
+ 
+TAIPEI 00000135  002 OF 004 
+ 
+ 
+urged universities to improve IPR protection for printed materials 
+on campus.  Students should be not be allowed to use illegal 
+photocopies in the classroom, he said, and colleges should "record 
+demerits" for students using illegal photocopies.  He also suggested 
+that the MOE establish a high-level task force with industry 
+participation to address the IPR issue. 
+ 
+¶8.  All rights-holders expressed concerns about the proposed 
+intellectual property court.  Draft legislation is currently before 
+the Legislative Yuan that will establish an IP Court with limited 
+scope.  According to the draft, the IP Court will only cover civil 
+cases in the first instance and civil and criminal cases in the 
+second instance.  That means that all copyright cases would need to 
+go through the regular district courts and would not have access to 
+IP Courts until an appeal is filed. 
+ 
+¶9.  Robin Lee, of IFPI, complained that this meant that a great deal 
+of IP cases will continue to go through the district courts. 
+Because Taiwan civil procedures are weak and ineffective, 
+rights-holders typically take the criminal approach in dealing with 
+infringers, he said.  He also complained that, although the law 
+would create a dedicated cadre of judges assigned to the IP Court, 
+it does not create a separate group of IPR prosecutors.  Because 
+evidence can be difficult to collect and technical explanations 
+complex, the Ministry of Justice had argued for special IP 
+prosecutors to be assigned to the court, but the Judicial Yuan 
+refused. 
+ 
+¶10.  Spencer Yang of the MPA noted that different rights-holder 
+groups had "various levels of urgency" regarding the IP Court.  For 
+example, 50% of movie piracy involves street vendors.  These are 
+relatively straightforward cases, so his members are not so 
+concerned about the scope of the IP Court.  (Note:  The Amcham IPR 
+committee also supports the current IP Court legislation in its 
+current form. End note.)  All rights-holders expressed concern, 
+however, that a new IP Court could absorb resources needed by 
+district courts to effectively deal with IP cases. 
+ 
+TIPO Proud of Taiwan's Progress and Efforts in China 
+--------------------------------------------- ------- 
+ 
+¶11.  Tsai Lien-sheng, Director General of the Taiwan Intellectual 
+Property Office, reviewed his office's recent efforts at advancing 
+Taiwan's IPR agenda.  He began by noting that AUSTR Stratford had 
+just come from China and that he himself had traveled to the 
+Shanghai area in May.  Jiangsu provincial IPR authorities and PRC 
+central government authorities had also recently visited Taiwan. 
+The Chinese were curious how Taiwan was able to improve its IPR 
+environment so quickly, he said, and were very interested in how 
+Taiwan was handling IPR issues.  "Determination," he said, was his 
+answer.   Taiwan's efforts were not a response to foreign pressure, 
+but part of a strategy to upgrade our industry and international 
+competitiveness. 
+ 
+¶12.  Tsai reported progress on draft legislation since last month's 
+digital video conference on IPR: 
+ 
+--P2P legislation - The bill was expected to pass without 
+controversy.  On December 15 he had appeared before the Legislative 
+Yuan's Economic Committee to answer questions about the bill.  He 
+expected the bill to move smoothly through the LY. 
+ 
+--ISP liability legislation - stakeholders are still debating the 
+details of the bill and TIPO would be hosting a seminar next month 
+on the issue.  TIPO planned to invite U.S. experts. 
+ 
+--IP Court legislation - There are two separate bills moving through 
+the LY to establish the IP Court:  the Procedure Law and the Organic 
+Law.  The Procedure Law has already passed the first reading and the 
+second and third reading will happen soon.  No party negotiation 
+will be required to pass this law.  Some KMT legislators still have 
+some reservations about the Organic Law, however.   The Judicial 
+Yuan hopes that IP Court can begin work by March 2007.  Training for 
+judges will have been completed by that time.  This start date 
+ 
+TAIPEI 00000135  003 OF 004 
+ 
+ 
+depends on when or whether the Organic Law passes in the LY. 
+ 
+¶13.  Turning to Internet piracy, DG Tsai noted that in the first 11 
+months of 2007, law enforcement pursued 1400 cases of Internet 
+piracy. This was a 116% increase over the same period last year.  It 
+does not mean that the problem has become more serious, he said, 
+since all are small cases.  Taiwan has established a special IPR 
+police team and an optical disk joint task force.  EzPeer and Kuro, 
+two P2P services, have been transformed into legal operations. 
+ 
+¶14.  He also hopes for more international cooperation to prevent 
+Internet piracy.  Next August TIPO will host a meeting for the APEC 
+Intellectual Property Experts Group.  The meeting will focus on 
+Internet piracy, and Tsai hopes to share Taiwan's experiences with 
+other APEC member economies.  He noted that international 
+cooperation was particularly important in fighting Internet piracy 
+and that most illegal websites uncovered by Taiwan law enforcement 
+were overseas.  TIPO has passed lists of illegal sites based in the 
+U.S. and in Japan to both countries for investigation. 
+ 
+¶15.  Turning to IPR on-campus, Tsai stated that he had written to 
+Minister of Education Tu, asking him to establish a contact window 
+at the Ministry for IPR concerns.  We consider campus to be 
+"sensitive" so police and judicial involvement must be discrete. 
+Campus "self-discipline" may be most effective in protecting IPR, he 
+said.  Although schools have improved regulations and require 
+students to observe IPR, more precise regulations indicating that 
+students can not use pirated textbooks or illegally download on 
+TANet would be helpful. 
+ 
+¶16.  Infringing activity off-campus is also an issue, and TIPO has 
+requested that the IPR police set up a special team to deal with 
+off-campus photo-copying.  We still need additional assistance from 
+book publishers in this effort, he said. 
+ 
+¶17.  Tsai concluded his remarks by commenting on the U.S. Special 
+301 process.  He stated that he did not care about Special 301, but 
+that when he appears before the LY seeking support for TIPO's 
+budget, he is confronted with LY members asking him why Taiwan is 
+still on the 301 list even after all of its efforts to improve its 
+IPR protection regime.  He hoped, he said, that since Taiwan has 
+done so much that it should not appear on the list with China. 
+ 
+¶18.  AUSTR Stratford thanked Tsai for his comments and for the work 
+TIPO has done with U.S. rights-holders.  In particular stated that 
+he appreciates the work on the IP Court and hopes it can be 
+established soon.  At the same time, however, he hoped that judges 
+and prosecutors at the district court level would receive the 
+training and resources necessary to effectively handle IP cases.  He 
+looked forward to receiving a chart that that TIPO had offered to 
+provide explaining how prosecutors receive training and are able to 
+specialize on IP issues. 
+ 
+¶19.  Regarding P2P and ISP liability legislation, Stratford noted 
+that these were high priorities for the USG and for rights-holders. 
+We hope, Stratford continued, that Minister of Economic Affairs Chen 
+will offer his personal involvement to urge passage of the 
+legislation. 
+ 
+¶20.  He also thanked Tsai for his letter to the Minister of 
+Education seeking his support on IPR issues.  Stratford quoted from 
+the survey he had received that morning from MPA and said that we 
+needed to set a good example for young people. 
+ 
+¶21.  To assist in finding a good channel on law enforcement 
+cooperation, Stratford remarked that the legal attach from Hong 
+Kong will travel to Taiwan early in 2007 to discuss the issue. 
+ 
+¶22.  In closing, he stated that the Special 301 report was written 
+by IP office colleagues at USTR.  Of course they worked closely with 
+our office, AUSTR noted.  I understand, he said, why Taiwan would 
+not want to be listed in the same category as the PRC.  The U.S. was 
+currently in intense negotiations with China about bringing a case 
+against them in the WTO over IPR.  He pointed out that Taiwan and 
+ 
+TAIPEI 00000135  004 OF 004 
+ 
+ 
+China were placed in different categories.  But, he acknowledged, it 
+was better to be in neither category.  We will try to talk about the 
+progress that Taiwan has made and emphasize the close working 
+relationship we have with each other.  The report is issued at the 
+end of March.  We hope that we can talk about additional progress in 
+the next few months. 
+ 
+Minister of Education Acknowledges Serious Problem 
+--------------------------------------------- ----- 
+¶23.  At a separate meeting with Minister of Education TU 
+Cheng-sheng, AUSTR Stratford called IPR one of the most important 
+issues between the U.S. and Taiwan.  One of the major weaknesses is 
+on-campus behavior.  Referring to the MPA student survey, Stratford 
+stated that the U.S. was concerned about both about illegal activity 
+on campus and the prospect of a new generation of college grads who 
+had no respect for IPR.  Important work needs to be done, Stratford 
+emphasized, and suggested that Minister Tu appoint a Vice Minister 
+to take responsibility for IPR and establish a task force with 
+stakeholders to deal with the issue. 
+ 
+¶24.  Minister Tu acknowledged that IPR was "a serious problem."  He 
+promised that the Ministry of Education (MOE) would do its best to 
+deal with it.  I will ask my colleagues, especially the department 
+of higher education to ask the universities to make our students 
+understand this serious issue, he said.  He also wanted to point 
+out, however, steps that the MOE had already taken such as 
+university courses on IPR as well as IPR protection included in 
+university evaluations.  Tu said that "we will consider how to 
+improve." 
+ 
+But Doesn't Seem to Do Much 
+--------------------------- 
+¶25.  He reviewed other MOE initiatives.  Ministry representatives 
+had participated in the IPR Dialogue DVC hosted by AIT last month. 
+MOE planned to set up supervisory groups at each university which 
+would include faculty and set rewards for IPR compliance.  A TANet 
+SOP has been drafted to handle IPR complaints and dataflow hardware 
+and software has been purchased by many universities to regulate the 
+transmission of large data files on the network.  The MOE is also 
+planning more conferences and workshops on IPR.  We will teach our 
+students to follow rules and regulations, he said.  At that point 
+Minister Tu announced that he had to leave to meet with the Prime 
+Minister, and Stratford once again urged him to think about 
+appointing a senior official to handle this issue.  He did not 
+directly respond. 
+ 
+¶26.  Ministry staff wrapped up the meeting, DAUSTR Altbach once 
+again asked the MOE to provide detailed information on the TANet SOP 
+and possible penalties for Internet infringement.  Staff reported 
+that this month three students were caught and punished for illegal 
+online infringement. 
+ 
+Comment 
+------- 
+¶27.  AUSTR Stratford's meeting with Minister Tu sent a strong signal 
+that the USG is serious about on-campus IPR protection.  TIPO has 
+indicated to AIT that they are also disappointed about the lack of 
+real action by the Ministry of Education to address IPR issues on 
+campus.  While Minister Tu agreed to meet and was courteous 
+throughout the meeting, it is far from clear if the Ministry plans 
+to take meaningful steps to strengthen IPR protection.  AIT will 
+continue to push the Ministry and other high level Taiwan officials 
+on this issue where appropriate.  Contrary to protestations 
+otherwise, Taiwan is eager to be removed from the Special 301 list, 
+but even if the LY passes all of the IPR legislation in this 
+session, which is not likely, it would be appropriate to gauge the 
+effectiveness of the legislation that becomes law. 
+YOUNG

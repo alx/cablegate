@@ -1,0 +1,347 @@
+06JAKARTA12498
+SECRETARY'S INITIATIVE ON GLOBAL INTERNET FREEDOM --
+Fri Oct 13 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Jakarta
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHJA #2498/01 2860629
+ZNR UUUUU ZZH
+R 130629Z OCT 06
+FM AMEMBASSY JAKARTA
+TO SECSTATE WASHDC 1197UNCLAS JAKARTA 012498 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPT FOR EB/CIP/BA (FETCHKO) 
+ 
+E.O. 12958:  N/A 
+TAGS: ECPS EINT EAID PHUM
+SUBJECT:  SECRETARY'S INITIATIVE ON GLOBAL INTERNET FREEDOM -- 
+USAID INDONESIA EFFORTS 
+ 
+REF:  SecState 142140 
+ 
+¶1.  (U)  Summary.  Embassy Jakarta welcomes the Secretary's Global 
+Internet Freedom Task Force Initiative (GIFT) and looks forward to 
+contributing to its success.  As requested in reftel, a list of 
+USAID projects related to the GIFT is described below.  USAID in 
+Indonesia continues to place high priority on increasing access to 
+information through information and communication technologies 
+(ICT). The USAID Strategic Plan for Indonesia 2004 - 2008 (Plan) 
+identifies digital freedom as a cross-sector priority.  Since 
+implementation of the Plan, ICT activities have started in all 
+sectors where USAID is active.  In FY05-F06 alone, USAID provided 
+approximately $5.8 million for ICT-related activities in 
+Indonesia.  This priority will continue over the next two years. 
+Of particular note are activities under the President's Education 
+Initiative, which will use innovative technologies such as 
+wireless internet to increase ICT access for teachers, students 
+and the surrounding communities.  End Summary. 
+ 
+¶2.  (U)  List of USAID ICT Projects 
+ 
+E-Government Projects 
+--------------------- 
+ 
+Project Name: FluNet 
+Recipient: Ministry of Agriculture, Agency for Agricultural 
+Quarantine at National, Regional and Field levels in three 
+provinces. 
+Project Description: Strengthen capacity in preparing for, 
+detecting, and responding to outbreaks of Highly Pathogenic Avian 
+Influenza (HPAI). This public-private partnership will customize 
+and deploy an online disease surveillance system. The project will 
+also include training for rapid identification of HPAI in animals 
+in transit and in the use of IT to report findings. 
+IT Component: The on-line system allows field staff to submit real- 
+time data reports to the system via the internet, text messaging, 
+mobile phone or PDA. Supervisors can map and analyze data via web 
+interface, and use communication tools to send alerts and 
+broadcast messages back to the field. 
+FY05 Funding: 0 
+FY06 Funding: 350,000 
+ 
+Project Name: Aceh Technical Assistance Recovery Project (ATARP) 
+Recipient:  Indonesian Bureau for Aceh Reconstruction and Recovery 
+(BRR)- Housing Office 
+Project Description:  Provide technical assistance to BRR's 
+Housing Office for post-tsunami recovery, including shelter and 
+housing reconstruction issues and mapping/spatial planning for 
+villages and urban rehabilitation and reconstruction. 
+IT Component: Providing computer hardware and software for the 
+Housing Office, including Primavera Project Management software, 
+GIS software for mapping, and Oracle Database Manager. 
+FY05 Funding: 300,000 
+FY06 Funding: 0 
+ 
+Project Name: Immediate Assistance for Strengthening Community- 
+based Early Warning and Early Reaction to Avian Influenza (AI) 
+Recipient: Ministry of Agriculture 
+Project Description: Establish and implement a systematic, active, 
+village-level AI surveillance plan, and a rapid response strategy 
+to animal outbreaks of AI, enabling officials to report and map 
+outbreak information for improved control and containment of AI in 
+animals. 
+IT Component: Provide Global Positioning System (GPS) devices to 
+officials, plus training in use of GPS, and in use of information 
+obtained to improve program and decision-making. 
+FY05 Funding: 0 
+FY06 Funding: 55,000 
+ 
+Project Name: Strengthening the Initiatives of the Government and 
+Others against Human Trafficking (SIGHT) 
+Recipient: Ministry of Women Empowerment 
+Project Description: Provide technical assistance to the Ministry 
+of Women Empowerment for combating trafficking in persons.  The 
+project includes technical assistance, training, and small grants 
+to local NGOs in support of prevention and protection.  A third 
+component of the project is aimed at enhancing coordination and 
+communication between government agencies, NGOs, businesses and 
+the public. 
+IT Component: Development of a website for the Ministry 
+(www.stoptrafiking.or.id) aimed at raising public awareness of 
+trafficking issues in Indonesia. The website will provide 
+opportunities for persons active in combating trafficking, as well 
+as victims of trafficking, to interact through chatrooms and 
+discussion forums. 
+FY05 Funding: 11,407 
+FY06 Funding: 0 
+ 
+Project Name: Institutional Development and Advocacy for Legal 
+Reform in Indonesia (IDeAL) 
+Recipients: Legal community and practitioners. 
+ 
+Project Description: Build capacity of government legal 
+institutions and civil society organizations to address problems 
+of justice and law enforcement. 
+IT Component: Develop a public online database with information on 
+Supreme Court decisions and other legal information. 
+FY05 Funding: 43,239 
+FY06 Funding: 0 
+ 
+ 
+ICT Project in Support of Decentralization, Municipalities, and 
+Local Government 
+--------------------------------------------- --------------------- 
+ 
+Project Name: Local Governance Support Program 
+Recipients: 60 Local Governments 
+Project Description: Increase capacity of local governments to: 
+-- plan and manage public services and finances, 
+-- increase transparency and accountability in legislative and 
+administrative processes, 
+-- respond to citizen priorities; and, 
+-- provide greater opportunity for citizens to participate in 
+local government decision-making. 
+IT Component: Training of local officials in ICT, promoting 
+sharing of best practices and ICT based information exchange 
+between local and national government experts.  The project will 
+introduce e-announcement and e-procurement models to increase 
+transparency in targeted jurisdictions.  Officials will develop a 
+local governance data bank, including on-line self-assessment 
+tools on good governance and core capacities such as planning and 
+budgeting. 
+FY05 Funding: 50,000 
+FY06 Funding: 125,000 
+ 
+ 
+ICT Projects in Support of Economic Growth 
+------------------------------------------ 
+ 
+Project Name: Indonesia Anti-Corruption and Commercial Courts 
+Enhancement (IND ACCE) 
+Recipients: Anti-Corruption Court and Commercial Court under the 
+jurisdiction of Supreme Court 
+Project Description: Assist the Supreme Court by enhancing the 
+capacity of the Commercial Court and establishing a functioning 
+Anti-Corruption Court. 
+IT Component: Implement a court information technology system 
+which will improve efficiency in these specialized courts, and 
+also increase transparency by allowing more public access to court 
+information. 
+FY05 Funding: 300,000 
+FY06 Funding: 1,200,000 
+ 
+Project Name: Indonesia Trade Assistance Project 
+Recipient: Ministry of Trade (MOT) 
+Project Description: Build the capacity of the Ministry of Trade 
+(MOT) to analyze trade information and implement trade reform, 
+resulting in increased exports, improved investment climate, and 
+increased employment. 
+IT Component: Support a comprehensive upgrade to the MOT ICT 
+systems, including the following: 
+-- Re-design the MOT IT network 
+-- Upgrade equipment and software to improve management, 
+efficiency and security 
+-- Building a new, integrated website providing more information 
+to the public in both English and Indonesian 
+-- Improve communication facilities and ICT infrastructure 
+-- Support consolidation of various trade databases to provide 
+higher quality data while improving data collection and 
+management, and; 
+-- Provide both technical ICT training to support personnel and 
+application training to end-users. 
+FY05 Funding: 300,000 
+FY06 Funding: 1,800,000 
+ 
+Project Name: Indonesia Competitiveness Program (SENADA) 
+Recipient: Ministry of Industry 
+Project Description: Generate growth, trade, jobs and income by 
+improving Indonesia's competitiveness in selected high potential 
+industry value chains driven mainly by small and medium sized 
+enterprises (SME). 
+IT Component: Develop and maintain a website.  Provide technical 
+assistance and industry value chain support to SME internet 
+services providers. 
+FY05 Funding: 100,000 
+FY06 Funding: 200,000 
+ 
+Project Name: Agribusiness Market and Support Activity (AMARTA) 
+Recipient: Agribusiness industries in Indonesia 
+Project Description: Assist the GOI in promoting a robust 
+Indonesian agribusiness system, significantly contributing to 
+employment growth. 
+IT Component: Create and maintain a website informing persons 
+ 
+involved in agribusiness industries on AMARTA services, and 
+support association and alliance-driven advocacy campaigns to 
+remove constraints and improve the enabling environment. 
+FY05 Funding: 10,000 
+FY06 Funding: 100,000 
+ 
+Project Name: Reducing Barriers to Market Entry and Business 
+Operation (PROMIS) 
+Recipient: Local governments and business organizations in 
+Indonesia. 
+Project Description: Reduce the cost and complexity of business 
+licensing and permitting, resulting in higher numbers of 
+businesses entering the formal sector. The project also aims to 
+improve formulation of business regulations, and create strong 
+incentives for local governments to implement business-friendly 
+policies. 
+IT Component: Help establish an "e-government" system to improve 
+government efficiency and accountability in business licensing 
+procedures.  The system will include application forms for 
+licenses. 
+FY05 Funding: 0 
+FY06 Funding: 60,000 
+ 
+Project Name: Financial Crime and Prevention Project (FCPP) 
+Recipients: Ministry of Finance, Indonesian Financial Intelligence 
+Unit (PPATK), Supreme Audit Board (BPK), Corruption Eradication 
+Commission (KPK), and Attorney General's Office (AGO) 
+Project Description: Assist Indonesia in creating a modern legal 
+and institutional framework to detect and prosecute financial 
+crimes, and facilitate cooperation among agencies in preventing 
+financial crime. 
+IT Component: Create a website by June 2007, containing 
+information and training materials on anti-corruption/money 
+laundering/financial crimes. 
+FY05 Funding: 0 
+FY06 Funding: 15,000 
+ 
+Project Name: Indonesia Deposit Insurance Policy 
+Recipient: Ministry of Finance, Bank of Indonesia, Deposit 
+Insurance Corporation (LPS) 
+Project Description: Assist in GOI efforts toward creating a 
+modern deposit insurance scheme. 
+IT Component: Provide laptop computers, servers and software to 
+improve ICT capability for staff of LPS. Develop a Risk Management 
+Data Repository and Reporting Tools System to assist LPS in 
+analysis of financial risk posed by insured banks. 
+FY05 Funding: 55,790 
+FY06 Funding: 7,200 
+ 
+ 
+E-education Projects 
+-------------------- 
+ 
+Project Name: Decentralized Basic Education 1 
+Recipients: Provincial Education Offices, Provincial Religious 
+Offices, District Education Offices, District Religious Offices, 
+Elementary Schools, and Religious Schools (Madrasah Ibtidaiyah) in 
+three provinces. 
+Project Description: Improve capacity of local governments to 
+provide and manage basic education services, strengthening 
+community participation in the process. 
+IT Component: Conduct an assessment and make recommendations for 
+development of a national education management information system 
+(EMIS) for use at all levels of government, with possible follow- 
+on activity supporting development of the system. 
+FY05 Funding: 0 
+FY06 Funding: 80,000 
+ 
+Project Name: Decentralized Basic Education 1 
+Recipients: District Education Offices, District Religious Affairs 
+Offices, District Public Libraries, District Planning Boards, and 
+local private sector entities in six provinces. 
+Project Description: Improve capacity of local governments to 
+provide and effectively manage basic education services, and 
+strengthen community participation in process. 
+IT Component: Enable district public libraries, education offices, 
+and other district offices to leverage technologies which enhance 
+information and communication flow with education stakeholders 
+(schools, teachers, etc) and the wider community through one of 
+two grant categories:  ICT Access Grants (or Education Hotspots) 
+and ICT Innovation Education Management and Governance Grants 
+(EMG). 
+FY05 Funding: 0 
+FY06 Funding: 200,000 
+ 
+Project Name: Decentralized Basic Education 2 
+Recipients: Primary school teachers, principals, students, and 
+local communities in seven provinces and Jakarta. 
+Project Description: Enhance quality of teaching and learning to 
+improve student performance. 
+IT Component: Provide a wide variety of new communication 
+ 
+technologies, increasing access to information for teachers, 
+students and local communities.  Community Resource Centers (CRC) 
+will host a wide array modern ICTs.  In FY07, a number of pilot 
+sites will introduce wireless "hotspots" to the CRCs. 
+FY05 Funding: 0 
+FY06 Funding: 25,000 
+ 
+Project Name: Decentralized Basic Education 3 
+Recipients: Junior secondary school teachers in up to 100 
+Indonesian districts 
+Project Description: Strengthen life skills components in junior 
+secondary school curriculum. 
+IT Component: Train teachers to integrate ICT into teaching 
+methods and extracurricular activities. 
+FY05 Funding: 95,000 
+FY06 Funding: 80,000 
+ 
+ 
+Projects Providing Computers to NGOs and Schools 
+--------------------------------------------- --- 
+ 
+Project Name: Support for Women in Aceh 
+Recipients:  Students in 15 Islamic boarding schools (Dayah) 
+throughout Aceh Province 
+Project Description:  Improve the quality of education for girls 
+in Islamic boarding schools with a majority female student body, 
+by providing computer labs, libraries, and/or community 
+development projects. 
+IT Component: Provide internet-ready computers for a new computer 
+lab in each school.  The school will determine whether to fund the 
+internet connection. 
+FY05 Funding: 265,950 
+FY06 Funding: 0 
+ 
+Project Name: Environmental Services Project (ESP) - Rare Pride 
+Indonesia Grant 
+Recipients: Mapayah Foundation, NGO Peduli Nanggroe Aceh, NOG 
+Kaliandra, NGO Ekosistem Lestari and YBL Masta. 
+Project Description: Conservation campaign training program 
+focused on biodiversity. 
+IT Component:  Provide ICT equipment and supplies to the five 
+participating NGOs. 
+FY05 Funding: 25,000 
+FY06 Funding: 0 
+ 
+PASCOE

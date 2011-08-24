@@ -1,0 +1,186 @@
+09CHENGDU155
+NEW TELEMEDICINE CENTER AIMS TO EXPAND QUAKE ZONE HEALTHCARE
+Mon Aug 17 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Chengdu
+VZCZCXRO4100
+RR RUEHGH RUEHVC
+DE RUEHCN #0155/01 2291102
+ZNR UUUUU ZZH
+R 171102Z AUG 09
+FM AMCONSUL CHENGDU
+TO RUEHC/SECSTATE WASHDC 3344
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEAUSA/DEPT OF HHS WASHINGTON DC
+RUEHC/USAID WASHDC
+RUEHCN/AMCONSUL CHENGDU 4020UNCLAS SECTION 01 OF 02 CHENGDU 000155 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPT FOR EAP/CM 
+ 
+E.O. 12958: N/A 
+TAGS: ECON SOCI CH
+SUBJECT: NEW TELEMEDICINE CENTER AIMS TO EXPAND QUAKE ZONE HEALTHCARE 
+ACCESS 
+ 
+CHENGDU 00000155  001.2 OF 002 
+ 
+ 
+¶1. (U) This cable contains sensitive but unclassified 
+information - not for distribution on the Internet. 
+ 
+ 
+ 
+¶2. (SBU) Introduction and Summary:  In the aftermath of the 
+massive, May 2008 earthquake in Sichuan, ConGen Chengdu has 
+closely monitored disaster reconstruction and response efforts, 
+including attempts by U.S. firms to build goodwill through 
+in-kind donations and technical assistance.  In this context, 
+Pol/Econoff recently learned about Sichuan Province's first 
+video teleconferencing telemedicine system, which links to both 
+other hospitals and remote mobile units, and has been installed 
+by U.S-based Cisco Systems at the Sichuan First Provincial 
+Hospital.  Rapidly deployable mobile units will enable medical 
+personnel in the field to quickly and efficiently share 
+information.  Cisco will donate USD 44 million worth of 
+equipment and services over a three-year period for cooperative 
+healthcare and education projects with the Sichuan Provincial 
+Health Bureau.  Cisco plans to establish telecommunications 
+links to several additional hospitals, expand the current pilot 
+project to the First Provincial Hospital's earthquake 
+rehabilitation center, and incorporate additional mobile health 
+vehicles.  Effective training and long-term funding will be 
+critical to the system's success.  End Introduction and Summary. 
+ 
+ 
+ 
+A Post-Quake Public-Private Partnership 
+ 
+--------------------------------------- 
+ 
+ 
+ 
+¶3.  (U) In July 2008, Cisco Systems and the Sichuan Provincial 
+Government signed a memorandum of understanding initiating the 
+"Connecting Sichuan" program, described on Cisco's website as "a 
+three-year public-private partnership to aid the rebuilding 
+effort, with a focus on improving healthcare and education in 
+earthquake-damaged areas."  Under the healthcare and education 
+initiatives, Cisco is piloting new systems that it hopes will be 
+replicable on a wider scale.  Cisco's report on the first year 
+of the partnership is available online at: 
+http://tinyurl.com/sichuan-cisco. 
+ 
+ 
+ 
+Telemedicine Technology Launched at Sichuan First Provincial 
+Hospital 
+ 
+--------------------------------------------- --------------- 
+ 
+ 
+ 
+¶4. (SBU) The pilot "Health Presence" site (HPS), located at the 
+First Provincial Hospital in Chengdu, includes a 
+videoconferencing system that links hospitals with each other as 
+well as to truck-based treatment rooms.  Sichuan Provincial 
+Hospital HPS site is now linked to the Prince of Wales Hospital 
+in Hong Kong.  The HPS system supports twenty simultaneous 
+telephone conversations and video conferences simultaneously on 
+three monitors, either through the Internet or satellite links. 
+ 
+ 
+ 
+ 
+¶5. (SBU) By October 2009, Cisco plans to add Sichuan's Ninth 
+Provincial Hospital to the network of medical centers linked to 
+the Sichuan Provincial Hospital.  A Cisco employee said that the 
+Ninth Provincial Hospital would have cameras located in patient 
+treatment rooms so that specialists in the HPS will be able to 
+observe and advise during medical procedures.  Sichuan's Third 
+and Tenth Provincial Hospitals will also join the network before 
+the project is completed in July 2011.  Mobile health vehicles 
+described below will be deployable to rural quake-hit areas and 
+other areas of medical need. 
+ 
+ 
+ 
+Mobile Telecom-Equipped Units Convey Expert Advice to Rural 
+Health Providers 
+ 
+--------------------------------------------- -------------------- 
+ 
+ 
+ 
+ 
+CHENGDU 00000155  002.2 OF 002 
+ 
+ 
+¶6. (SBU) CNA, a Singaporean company, is working with Cisco to 
+build the mobile health vehicles at a cost of slightly less than 
+3 million RMB (440,000 USD) per vehicle.  The vehicles are built 
+in Nanjing on an Isuzu truck platform that weighs roughly 7 tons 
+depending on the final configuration.  Cisco and hospital staff 
+gave Congenoffs an informal tour of the first vehicle, which is 
+already in operation and has been deployed several times for 
+non-emergency use in the quake zone.  The vehicle has a patient 
+treatment room and small conference area.  Cameras in the 
+meeting and treatment areas can link back to the HPS either by a 
+wired Internet connection or a satellite dish with microwave 
+transceiver mounted on the roof.  An employee of CNA told 
+Congenoffs that the satellite communication will be routed 
+through a Thai satellite. 
+ 
+ 
+ 
+¶7. (SBU) The vehicles also have an externally-mounted camera 
+that can be used to provide real-time video of disaster areas to 
+workers at the HPS.  Cisco and CNA plan to build several 
+additional vehicles by mid-2011, each with a dedicated function. 
+ A second vehicle like the one described above is now in Beijing 
+for demonstration purposes.  Additional vehicles planned include 
+two "emergency command center" models-that will have an 
+emergency communications center instead of a patient treatment 
+room-and one "health checkup" vehicle.  This one will be based 
+at a hospital currently under construction in Wenchuan, near the 
+quake's epicenter.  At least one of the additional vehicles will 
+carry X-ray and ultrasound equipment. 
+ 
+ 
+ 
+Project Could Face Long-term Sustainability Challenges 
+ 
+--------------------------------------------- --------- 
+ 
+ 
+ 
+¶8.  (SBU) Cisco has committed to providing three-years of pro 
+bono post-installation maintenance service for all equipment 
+donated under the "Connecting Sichuan" program, after which the 
+hospitals involved will bear all related costs.  One Cisco 
+contact noted that from a budgetary stand point, this will be 
+"no problem" for the hospitals as they are well funded. 
+However, he noted that Cisco has encountered significant 
+resistance to accepting their donated equipment among some 
+hospital officials.  Many hospital officials are accustomed to 
+receiving large kickbacks from medical equipment contracts, he 
+said, and donated equipment cuts into this income source.  In 
+the long-term, how this will translate into support for 
+maintaining the system remains to be seen. 
+ 
+ 
+ 
+¶9.  (SBU) Comment: During equipment demonstrations, which 
+included separately conferencing Hong Kong and the mobile health 
+vehicle connected via a wired LAN, representatives seemed 
+unfamiliar with the equipment.  Connecting to Hong Kong took 
+several minutes.  The connection to the vehicle worked well, but 
+the operator did not know how to switch to a camera located in 
+the patient room.  As the number of linked facilities and 
+vehicles increases, the effectiveness of the training employees 
+get to use the technology will probably determine the overall 
+success of the project. 
+BROWN

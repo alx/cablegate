@@ -1,0 +1,59 @@
+08HONGKONG836
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: OASIS HONG KONG
+Thu May 08 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #0836 1290106
+ZNR UUUUU ZZH
+R 080106Z MAY 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 4819
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000836 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: OASIS HONG KONG 
+AIRLINES 
+ 
+REF: A) USDOC 01879 B) HK 04608 (December 1, 2006) 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) was 
+requested to conduct a post-shipment verification (PSV) at Oasis 
+Hong Kong Airlines Limited, Hong Kong Aircraft Engineering Wing, 80 
+South Perimeter Road, Hong Kong (Oasis).  The item in question is a 
+data management unit exported to Oasis on or about September 1, 2007 
+and valued at approximately USD 41,000.  The item is classified 
+under Export Control Classification Number (ECCN) 7A994.  This ECCN 
+is controlled for Anti-Terrorism (AT) reasons. The exporter was 
+Honeywell International Inc. of Redmond, Washington. 
+ 
+¶3. A review of Hong Kong Companies Registry reveals that Oasis was 
+registered in 2005 and has a registered capital of the Hong Kong 
+equivalent of USD 15 million.  Its directors are U.S. national Lee, 
+Cho Min Raymond and Hong Kong residents Lee, Hwang Priscilla, 
+Miller, Stephen Henry and Yung, Tse Kowng Steven. 
+ 
+¶4.  Oasis is a newer budget airline in Hong Kong.  It also recently 
+declared bankruptcy and is no longer operational.  At the request of 
+OEA, ECO is therefore closing out this PSV without further action. 
+ECO notes that in Reftel B, ECO visited Oasis's maintenance 
+contractor that likely received the item in question in connection 
+with another export to Oasis.  In that case, ECO made a favorable 
+recommendation. 
+ 
+Cunningham

@@ -1,0 +1,95 @@
+08MOSCOW694
+EXTRANCHECK: PRE-LICENSE CHECK: IKI RAN SPACE
+Thu Mar 13 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0005
+PP RUEHWEB
+
+DE RUEHMO #0694 0730805
+ZNR UUUUU ZZH
+P 130805Z MAR 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 7109
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000694 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/JHOWARD 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: IKI RAN SPACE 
+RESEARCH INSTITUTE, MOSCOW, RUSSIA, LICENSE NO. 
+D390536 
+ 
+REFTEL: USDOC 00822 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, 
+Russian Academy of Sciences (RAS) Space Research 
+Institute, Moscow, Russia. The company is listed on 
+BIS license application D390536 as the ultimate 
+consignee of 12 pieces of Xilinx device XQ4010E- 
+4CB196M. These items are controlled for national 
+security and nuclear non-proliferation reasons under 
+ECCN 3A001. The licensee is Xilinx Inc., 2100 Logic 
+Drive, San Jose, CA 95124. 
+ 
+¶3. On March 11, 2008, Export Control Attache Peter 
+Liston and LES Natalya Shipitsina conducted the 
+requested pre-license check at the offices of (RAS) 
+Space Research Institute, 84/32 Profsoyuznaya st., 
+Moscow, Russia. The export control team met with 
+Mikhail Kudelin, Project Manager in Phobos-Grunt 
+Laboratory's Optico-Physical Department. 
+ 
+¶4. The Russian Academy of Science (RAS), Space 
+Research Institute is one of the leading organizations 
+in the field of investigations of Outer Space, Solar 
+System planets and other objects of the Universe.  The 
+Space Research Institute (IKI) is primarily in charge 
+of long-range planning and elaboration of space 
+research programs, of which a considerable part is 
+performed within the framework of international space 
+research cooperation.  The Space Research Institute 
+takes part in the Federal Space Program that is being 
+formed by the RAS Space Council and by the appropriate 
+sections of this Council together with the Federal 
+Space Agency (Roscosmos). The Space Research Institute 
+of the Russian Academy of Science has cooperated in 
+projects with Russia's Federal Space Agency (FSA), 
+NASA and European Space Agency (ESA). 
+ 
+¶5. Mikhail Kudelin described the Optio-Physical 
+Department's role in the Phobos-Grunt mission as being 
+involved in both the launch vehicle and return module; 
+together with all related research leading up to the 
+2009 launch date.  Mikhail Kudelin stated that 2 of 
+the 12 Xilinx device XQ4010E-aCB196M will be placed on 
+the launch vehicle and 2 on the return module.  The 8 
+other devices will be used up during the research, 
+development and testing stages leading up to the 
+launch date in 2009.  The Xilinx parts will be 
+integrated in the Research Space Craft Altitude 
+Control System and are consistent with the current 
+research projects designs. 
+ 
+¶6. Recommendations: Post recommends Russian Academy of 
+Sciences (RAS) Space Research Institute, Moscow, 
+Russia, as reliable recipients of sensitive U.S. 
+origin commodities. It is requested that post be 
+notified of final disposition of the application, and 
+of any shipments for this organization in order to 
+conduct appropriate FCS follow-up and statistical 
+reporting. 
+(FCS MOSCOW/MOGRADY/PLISTON) 
+BURNS

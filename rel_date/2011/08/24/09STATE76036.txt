@@ -1,0 +1,186 @@
+09STATE76036
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Tue Jul 21 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHC #6036 2021923
+ZNR UUUUU ZZH
+R 211908Z JUL 09
+FM SECSTATE WASHDC
+TO RUEHTV/AMEMBASSY TEL AVIV 0000
+INFO RUETIAA/DIRNSA FT GEORGE G MEADE MD 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000UNCLAS STATE 076036 
+ 
+SIPDIS 
+TEL AVIV FOR JASON GRUBB 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC IS
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSES 050128442 AND 050136115 
+ 
+¶1. This is an Action Request. See paragraphs 2 - 4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a post-shipment check on licenses 050128442 and 050136115 for 
+the export of proximity fuze components to Israel.  Post is 
+requested to complete this Blue Lantern check within 45 days. 
+Lack of response to a Blue Lantern check will affect pending 
+and future licenses involving parties to this license. 
+ 
+¶3. Reason for Request: Due to the nature of these commodities 
+and the potential for them to be used in cluster munitions, a 
+proviso was placed on these licenses disallowing the exported 
+items to be used in such munitions.  This request is to 
+confirm that the proximity fuze components listed below have 
+not and will not be integrated into cluster munitions. 
+ 
+¶4. Action Request:  Post is requested to verify that all the 
+proximity fuze components listed below were received by the 
+Israeli Ministry of Defense.  Post is also requested to make 
+inquiries to appropriate officials of the Government of 
+Israel to verify that the components have not and will not be 
+integrated into cluster munitions.  Finally, Post is 
+requested to establish the bona fides of foreign intermediate 
+consignee Reshef Technologies LTD and confirm that the 
+company has not retained possession of any of the components 
+exported under these licenses. 
+ 
+In its reply, Post is encouraged to comment on any 
+information pertinent to this transaction such as security of 
+facilities, end-use, and concerns about the entities involved. 
+ 
+¶5. Details of license applications: 
+ 
+¶A. 
+ 
+DTC Case: 050128442 
+ 
+QUANTITY/COMMODITY: 
+ 
+20,000 Impact Switches, P/N 11718418 
+ 
+License Value: USD $72,000 
+ 
+SELLER: 
+ 
+Interglobal Forwarding Service 
+8 Hook Road 
+Bayonne, NJ 07002 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Reshef Technologies LTD 
+7 Haplada Street 
+Or-Yehuda 
+Israel 
+ 
+FOREIGN END-USER: 
+ 
+Government of Israel, MOD 
+Hakiyra, Kaplan Street 
+Tel Aviv, Israel 
+ 
+PURPOSE: 
+ 
+For production of M582 Proximity Fuzes to be used by the 
+Israeli Defense Force 
+ 
+¶B. 
+ 
+DTC Case: 050136115 
+ 
+QUANTITY/COMMODITY: 
+ 
+20,204 Housing Booster, P/N 008-60004.C 
+ 
+20,204 Cover Lower, P/N 001-60051.C 
+ 
+20,204 Detonator Housing, P/N 001-60052.F 
+ 
+1 Tooling for Housing Booster, P/N 008-60004.C 
+ 
+1 Tooling Cover Lower, P/N 001-60051.C 
+ 
+1 Tooling Detonator Housing, P/N 001-60052.F 
+ 
+License Value: USD $ 
+ 
+SELLER: 
+ 
+Interglobal Forwarding Service 
+8 Hook Road 
+Bayonne, NJ 07002 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Reshef Technologies LTD 
+7 Haplada Street 
+Or-Yehuda 
+Israel 
+Tel: 
+ 
+FOREIGN END-USER: 
+ 
+Government of Israel, MOD 
+Hakiyra, Kaplan Street 
+Tel Aviv, Israel 
+ 
+PURPOSE: 
+ 
+For production of M582 Proximity Fuzes to be used by the 
+Israeli Defense Force 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC will fax documentation to Posts 
+upon request): 
+ 
+ 
+¶A. 
+ 
+Signed DSP-83 Nontransfer and Use Certificate signed by Alan 
+Carlin (Interglobal) dated 8 Dec 2008 and Gad Dovev (Israeli 
+Defense Mission to the U.S.) dated 26 Nov 2008 
+ 
+Purchase Order/EndUse Statement No. 989-08/2.2.2 (in 
+reference to PO # 4440065272) issued by Israeli MOD signed by 
+Ilan Mazushan (DSDE Representative to North America) dated 25 
+Sept 2008 
+ 
+Purchase Order No. 4440065272 issued by Israeli MOD to U.S. 
+company, Amtec Corporation 
+ 
+ 
+¶B. 
+ 
+Signed DSP-83 Nontransfer and Use Certificate signed by Alan 
+Carlin (Interglobal) dated 8 Dec 2008 and Gad Dovev (Israeli 
+Defense Mission to the U.S.) dated 26 Nov 2008 
+ 
+Purchase Order/EndUse Statement No. 992-08/2.2.2 (in 
+reference to PO # 4440058158) issued by Israeli MOD signed by 
+Ilan Mazushan (DSDE Representative to North America) dated 25 
+Sept 2008 
+ 
+Purchase Order No. 4440058158 issued by Israeli MOD to U.S. 
+company, R.A Zweig Inc. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Kyle M. Ballard, Phone: 
+202-663-1929; Email: BallardKM@state.gov; SIPRNET: 
+BallardKM@state.sgov.gov.  The Blue Lantern Guidebook (ref) 
+is available as a PDF file on Intellipedia: 
+http://www.intelink.gov/wiki/ 
+Blue Lantern End-Use Monitoring Program 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+CLINTON

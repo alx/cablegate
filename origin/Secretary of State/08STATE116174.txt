@@ -1,0 +1,173 @@
+08STATE116174
+BLUE LANTERN PRE-LICENSE END USE CHECK ON
+Fri Oct 31 00:00:00 +0100 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXRO0028
+RR RUEHLN
+DE RUEHC #6174/01 3051203
+ZNR UUUUU ZZH
+R 311154Z OCT 08
+FM SECSTATE WASHDC
+TO RUEHMO/AMEMBASSY MOSCOW 5626
+INFO RUEHLN/AMCONSUL ST PETERSBURG 3197
+RHMCSUU/FBI WASHINGTON DC 1831
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 4631
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS SECTION 01 OF 02 STATE 116174 
+ 
+SIPDIS 
+FOR POL NICKOLAS G. KATSAKIS 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC RS
+SUBJECT: BLUE LANTERN PRE-LICENSE END USE CHECK ON 
+APPLICATION 05-050127753 
+ 
+REF: MOSCOW 1653 
+ 
+¶1.  This is an action message.  See paragraphs 2-7. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post assistance in conducting a 
+pre-license check for the export of radiation tolerant DC/DC 
+converters to Russia.  Post is requested to complete this 
+Blue Lantern check within 30 days.  Lack of response to a 
+Blue Lantern check will affect pending and future licenses 
+involving parties to this license. 
+ 
+¶3.  Reason for request: this license application is a 
+re-submittal of a case that was Returned Without Action due 
+to a previous Blue Lantern check that was closed unfavorably 
+because the Russian entities involved in the transaction 
+refused post inquiries (reftel).  The U.S. applicant has now 
+provided specific points of contact for these Russian 
+entities. 
+ 
+¶4.  The Russian entities listed on this license application 
+had no previous licensing history with our office.  The 
+requested commodity is designed for use in low earth orbit 
+satellites and launch vehicles.  The license application 
+states that the commodity will be used in a fire alarm and 
+security system (FASS) at a nuclear power plant. 
+ 
+¶5.  ACTION: Please contact the Foreign End User, Russian 
+Agency for Atomic Energy, to determine if they can confirm 
+this specific order for components, and the use of these 
+components by the Foreign Consignee TENZOR for a FASS 
+intended for the Novovoronezh Nuclear Power Plant. 
+ 
+¶6.  Contact the Novovoronezh Nuclear Power Plant.  Inquire 
+with Novovoronezh to ascertain if they can confirm this 
+specific order for components, and the use of these 
+components by the Foreign Consignee TENZOR for a FASS 
+intended for the plant. 
+ 
+¶7.  Finally, please contact Foreign Consignee JSC Instrument 
+Plant TENZOR.  Ask TENZOR to explain why they need radiation 
+tolerant satellite components for the FASS of Novovoronezh (a 
+FASS is usually not located in radioactive areas).  Also ask 
+TENZOR if all of the requested components will be used in the 
+Novovoronezh plant FASS, or were any extra components ordered 
+for stockpiling and use on another program?  END ACTION. 
+ 
+¶8.  License Information: 
+ 
+DDTC Case Number 05-050127753 
+ 
+QUANTITY/COMMODITY: 
+ 
+05       High Reliability DC/DC Converter Modules, P/N: 
+M3L2803R3S 
+ 
+11       DC/DC Converter Modules, P/N: M3L2805D 
+ 
+01       Technical Data: Tree Analysis, ELDERS Testing, 
+Thermal Analysis, FMCEA reports 
+ 
+LICENSE VALUE: USD 46,225.00 
+ 
+APPLICANT: 
+ 
+International Rectifier Corporation 
+233 Kansas Street 
+El Segundo, California 90245 USA 
+ 
+SOURCE: 
+ 
+International Rectifier Corporation 
+2270 Martin Avenue 
+Santa Clara, California 90245 USA 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+JSC MicroEM 
+4 Savelkinsky Proezd, Zelenograd 
+124482 Moscow 
+RUSSIA 
+ 
+ 
+STATE 00116174  002 OF 002 
+ 
+ 
+FOREIGN CONSIGNEES: 
+ 
+Symmetron 
+7 Tallinskaya Str. 
+195196 St. Petersburg 
+RUSSIA 
+ 
+Novovoronezh Nuclear Power Plant 
+Novovoronezh City 
+396072 Voronegh Region 
+RUSSIA 
+POC: Mrs. Nikonova Inna Vasilievna 
+Tel:  7 (473) 647-36-84 
+ 
+JSC Instrument Plant TENZOR 
+2 Priborostroiteley Str. 
+141980 Moscow Region 
+RUSSIA 
+POC: Firsov Andrey Alexandrovich 
+Tel:  7 (946) 214-38-80 
+ 
+FOREIGN END USER: 
+ 
+Russian Agency for Atomic Energy 
+24/26 Bolshaya Ordynka Str. 
+119017 Moscow 
+RUSSIA 
+POC: Mr. Starostin Alexander Nikolaevitch 
+ 
+STATEMENT OF PURPOSE: 
+ 
+The components will be shipped to Symmetron pursuant to their 
+Purchase Order.  Symmetron will forward the DC/DC Converters 
+to JSC MicroEM, who will in turn forward them to TENZOR. 
+TENZOR will test and integrate the hardware into the Fire 
+Alarm and Security System (FASS) for the Nuclear Reactor of 
+Novovoronezh.  Novovoronezh is responsible for the FASS.  The 
+End User is the Russian Agency for Atomic Energy who is 
+sponsoring the program. 
+ 
+¶9.  Additional documentation submitted in support of license 
+application: 
+ 
+A)  Symmetron Purchase Order Number R071119STHR-565BO, dated 
+28 March 2008, signed by Savina Olga, General Director. 
+ 
+B)  JSC Instrument Plant TENZOR ITAR Parts Control and 
+Accountability Plan, signed by Firsov (dated 28.03 2008), 
+Deputy Director, listing Symmetron Purchase Order Number and 
+end-use Program FASS. 
+ 
+¶10.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the DDTC Case Number 
+in the subject line.  POC on this case is Peter Sabatini, 
+PM/DTCC, phone: 202-663-2819; ClassNet email: 
+sabtinipj@state.sgov.gov; OpenNet email: 
+sabatinipj@state.gov.  The 2006 Blue Lantern Guide Book is 
+available on OpenNet at 
+http://fsi.state.gov/fsi/spas/default.asp?ID= 1588 
+Department thanks Post for its assistance in this matter. 
+RICE

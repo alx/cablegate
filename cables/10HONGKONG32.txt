@@ -1,0 +1,147 @@
+10HONGKONG32
+EXTRANCHECK: POST SHIPMENT VERIFICATION: LEADGO LIMITED
+Wed Jan 06 00:00:00 +0100 2010
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHHK #0032/01 0060859
+ZNR UUUUU ZZH
+R 060859Z JAN 10
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9339
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000032 
+ 
+USDOC FOR 532/OEA/ MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: LEADGO LIMITED 
+ 
+REF: A) BIS e-mail request 01210098 dated December 15, 2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) at Leadgo Limited, 12 Wang Tai 
+Road, Room 612, Wing Fat Industrial Building, Hong Kong (Leadgo). 
+The items in question for this PSV are various electronic components 
+exported to Leadgo on or about June 20, 2008.  These items are 
+likely classified under Export Control Classification Number (ECCN) 
+3A001a2c and are controlled for national security (NS) reasons. 
+This ECCN is eligible for shipment to Hong Kong license free but 
+would, in virtually all circumstances, require a license for 
+shipment to mainland China. The exporter is Arrow Electronics of 
+Reno, Nevada. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Leadgo has been 
+in existence since 1993.  It has the Hong Kong equivalent of USD 1 
+in share capital.  Yiu, Ka Chung, Yiu, Ka Yue, and Yiu, Yee Pak are 
+listed as the company's directors (with corresponding Hong Kong ID 
+numbers H417489(7), K401830(3) and H388226(A).  Yiu, Ka Chung is 
+also a director in Euro China International, Faster International 
+and Million Bright International Holdings Limited.  Yiu, Ka Yue is 
+also a director in Fultex Apparel Limited and Euro China 
+International Limited. 
+ 
+¶4.  Background research on the internet reveals that Leadgo markets 
+itself as a electronic components reseller.  It states that its 
+emphasis is in the area of high-tech products for commercial, 
+industrial and military applications (www.leadgo.com.cn).  The 
+company lists additional contact details in Shenzhen, Shanghai and 
+Xiamen. The Leadgo web site also includes a picture of a plaque 
+Leadgo apparently received from the China Electric Technology Group 
+(50th Research Institute) stating that Leadgo is a top supplier. 
+According to the 50th Research Institute's web site (www.50.sh.cn), 
+this research institute focuses on military communications 
+development for the various mainland China military branches. 
+ 
+¶5.  On December 23, 2009, ECO and Commercial Assistant Carrie Chan 
+visited the company and met with Ms. Dorothy Ho, Sales Assistant. 
+She was quite open during the interview.  The company is located in 
+a warehouse and offices building and operates as a small office and 
+warehouse.  According to Ms. Ho, Leadgo is a electronics trading 
+company.  Its customers are in mainland China.  Ms. Ho is unfamiliar 
+with the end uses of the items Leadgo sells.  She stated that 
+Leadgo's mainland salespeople are likely more familiar with this 
+information.  According to Ms. Ho, shipments to Leadgo in Hong Kong 
+are routed to Leadgo in Shenzhen. 
+ 
+¶6.  As to the specific transaction in question, Ms. Ho stated that 
+the buyer was a trading company in Shanghai, namely Shanghai Shijie 
+Electronics Limited.  Ms. Ho also provided an invoice documenting 
+this transaction.  Shijie Electronics has a Hong Kong affiliate as 
+well (Hong Kong Shijie Electronics Co., Limited). Ms. Ho was not 
+certain why the shipment had not gone to that company's Hong Kong 
+address.  She surmised that its operations in Hong Kong are quite 
+limited and so Leadgo was used for this logistics purpose.  Separate 
+documentation provided by Ms. Ho indicates that another company is 
+listed as the buyer, namely Hua Ke Electronic (H.K.) Co., Limited. 
+According to Ms. Ho, this company was the freight forwarder that was 
+responsible for getting the items to the customer.  The purported 
+invoice indicating sale to this company and issued by Leadgo shows a 
+much lower price than was apparently paid by Leadgo to the exporter 
+(Arrow). Ms. Ho stated that this was designed to reduce VAT when 
+importing these items into mainland China. 
+¶7.  When asked by ECO for information concerning the end user, Ms. 
+Ho left the room and apparently called Shijie in Shanghai. 
+According to Ms. Ho, most of the items are still with Shijie while 
+some has been sent to the factory floor.  Ms. Ho claimed not to be 
+able to provide any additional information about the end user. 
+ 
+¶8.  When asked whether Leadgo had obtained the required Hong Kong 
+licenses for import and reexport of the items, Ms. Ho stated that 
+Leadgo had not.  She claimed that she often checks the Hong Kong 
+Trade and Industry Department web site to determine whether a 
+license is required.  ECO later checked the HKTID web site and 
+determined that one of the applicable items (AT28C010-12FM/883 ECCN 
+3A001a2c) requires a Hong Kong strategic commodities license for 
+import into Hong Kong and export from Hong Kong. 
+ 
+¶9.  ECO provided Ms. Ho with additional information about U.S. 
+export controls and separately sent her links to the BIS website 
+regarding export controls.  Ms. Ho indicated during the meeting that 
+she understood that some items were controlled. 
+ 
+¶10.  Hong Kong Shijie Electronics Co., Ltd. has been in existence 
+ 
+since 2004.  It has the Hong Kong equivalent of USD 10 in share 
+capital.  Its director is listed as mainland Chinese national Ruan, 
+Minqiang (PP#W06411528).  The company does not appear to have an 
+operational web site although web address www.sj-ic.com appears to 
+be registered to Shanghai Shijie International Trading Co., Ltd. 
+ECO has received additional contact information regarding Shijie 
+that he may share with OEA if requested.  According to information 
+provided separately by Arrow Electronics in 2008, Shijie in Hong 
+Kong has also been an Arrow customer of 3A001a2c items. 
+ 
+¶11. Hua Ke Electronic (H.K.) Co., Limited (the transport company 
+that acted on behalf of Leadgo) has been in existence since 2002. 
+It has the Hong Kong equivalent of USD 125,000 in share capital. 
+Its directors are listed as mainland Chinese nationals Chen, Shao 
+Qing and Peng, Shao Duan.  Its registered address is listed as Unit 
+A, 5/F, Niche Centre, No. 14 Wag Tai Road, Hong Kong. 
+ 
+¶12.  According to Ms. Ho, other companies listed in the Leadgo 
+entrance (Million Bright, Goodreach International, Euro China) are 
+all trading companies operating in other lines of business, namely 
+travel adaptors, clothing or light bulbs. 
+ 
+¶13.  ECO finds Leadgo to be an unsuitable recipient of U.S. origin 
+technology.  ECO recommends that OEA conduct a thorough review of 
+all shipments to Leadgo, Shijie, Hua Ke and the other companies 
+mentioned herein and their respective addresses. ECO also recommends 
+that BIS consider pursuing legal action against Leadgo for the EAR 
+violations that appear to have taken place in respect of this 
+shipment.  ECO intends to meet separately with Arrow Asia (the 
+exporter's Hong Kong affiliate) to discuss its business with Leadgo 
+and will report the results of that meeting separately.

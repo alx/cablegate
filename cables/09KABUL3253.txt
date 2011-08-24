@@ -1,0 +1,75 @@
+09KABUL3253
+UGov: a Valuable Communications Lifeline at Mission
+Wed Oct 14 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Kabul
+VZCZCXYZ0020
+RR RUEHWEB
+
+DE RUEHBUL #3253 2871112
+ZNR UUUUU ZZH
+R 141112Z OCT 09 ZDK
+FM AMEMBASSY KABUL
+TO RUEHC/SECSTATE WASHDC 2156
+RUEIDN/DNI WASHINGTON DCUNCLAS KABUL 003253 
+ 
+DEPARTMENT FOR CIO SUSAN SWART AND IRM/BPC/CST 
+DEPARTMENT ALSO FOR NEASCA/EX 
+USFOR-A FOR POLAD 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: AMGT AADP KRIM AF
+SUBJECT:  UGov: a Valuable Communications Lifeline at Mission 
+Afghanistan 
+ 
+REF:  10/2: www.intelink.gov message "UGov Enterprise Email Service 
+Termination"; 09KABUL1840 and reftels 
+ 
+¶1. The Interagency Provincial Affairs (IPA) Office of Mission 
+Afghanistan has begun to rely on the Intelink portal and the 
+associated "UGov" enterprise email as a primary mechanism for 
+communication with our Provincial Reconstruction Team (PRT) and 
+other field representatives from the Department of State, USAID and 
+USDA.  At present, almost 135 field officers have active Intelink 
+passports, and we are working aggressively to migrate all users away 
+from commercial email (such as Gmail and Yahoo) to SBU-capable UGov. 
+ With the steady increase in field positions, we anticipate that 
+over 400 U.S. Mission users will use Intelink and related enterprise 
+services, including UGov, by March 2010. 
+ 
+¶2. Since 2002, field representatives, especially those in 
+coalition-led PRTs, have been forced to rely on commercial email 
+accounts to communicate with Embassy Kabul because it was the only 
+low-band-width, internet-based platform available to them.  While 
+convenient and inexpensive, these commercial accounts are not 
+appropriate for handling sensitive information that field 
+representatives must send and receive on a daily basis.  The 
+enterprise solution offered by Intelink and UGov resolves a plethora 
+of communication issues, providing a low-bandwidth platform that is 
+SBU-capable.  We are using it not only for basic email, but also for 
+shared documents, briefcases (where groups of related documents can 
+be organized and stored) and calendars.  This is particularly useful 
+in Afghanistan, where phone lines are unreliable and where field 
+reps rely heavily on slow satellite communication for internet 
+connection.  Embassy Kabul is working to bring OpenNet and better 
+technology to all civilian desktops in Afghanistan, but it could be 
+up to a year before the technology is fully functioning in all 
+locations.  We understand and appreciate that the State CIO has 
+approached the ODNI on the importance of continuing the UGOV 
+capability for both existing and new users at least thru FY10.  We 
+hope that Intelink and UGov will continue to be available as a key 
+component of our knowledge management needs in Afghanistan and as a 
+valuable source of support for USG personnel working under extremely 
+adverse conditions to advance America's highest priority foreign 
+policy objectives. 
+ 
+¶3. We invite you to view our PRT Portal in the Intellipedia portion 
+of the intelink website at http://www.intelink.gov/wiki/, then enter 
+"Portal: Afghanistan Provincial Reconstruction Teams" in the upper 
+left hand corner and click the Go button. 
+ 
+ 
+EIKENBERRY

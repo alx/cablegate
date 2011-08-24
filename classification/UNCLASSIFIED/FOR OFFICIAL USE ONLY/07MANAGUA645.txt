@@ -51,7 +51,6 @@ cable reports on an unsigned copy of this agreement.
  
 Preambular Language 
 ------------------- 
-
 ¶3. (SBU) Preambular language stresses ties of friendship and 
 cooperation, and the role that the energy sector can play in 
 social development.  Both countries pledge to collaborate on 
@@ -69,7 +68,6 @@ are enunciated.
  
 Article 1: Objective 
 -------------------- 
-
 ¶4. (SBU) The objective of this agreement is to promote and 
 intensify bilateral energy cooperation through a broad and 
 sustained process of integration and cooperation in the 
@@ -83,7 +81,6 @@ respective internal legislation foreseen by this agreement.
  
 Article 2: Modalities 
 --------------------- 
-
 ¶5. (SBU) To accomplish political and commercial energy 
 integration, the parties will pursue the following activities: 
  
@@ -121,13 +118,11 @@ of electrical power in Nicaragua;
  
 Article 3: Complementing Agreements 
 ----------------------------------- 
-
 ¶6. (SBU) To execute cooperation foreseen in this agreement, 
 the parties may adopt complementing agreements. 
  
 Article 4: Competent Entities 
 ----------------------------- 
-
 ¶7. (SBU) Competent authorities for this agreement are the 
 Nicaraguan National Energy Commission and the Venezuelan 
 Ministry of Energy and Petroleum.  These entities may 
@@ -137,7 +132,6 @@ for cooperation.
  
 Article 5: Control and Follow Up 
 -------------------------------- 
-
 ¶8. (SBU) To assure prompt execution of this agreement, 
 competent authorities will meet on agreed dates alternatively 
 in each country, and establish executive working groups to 
@@ -145,7 +139,6 @@ realize cooperation in different sectors.
  
 Article 6: Utilization of Information 
 ------------------------------------- 
-
 ¶9. (SBU) Parties may freely utilize all information exchanged 
 under this agreement, except when one of the parties 
 establishes restrictions, or reserves the use or 
@@ -155,14 +148,12 @@ party without the written consent of the relevant party.
  
 Article 7: Financing 
 -------------------- 
-
 ¶10. (SBU) Each party will pay for expenses resulting from 
 cooperative activities by their own competent authorities, 
 unless another modality is agreed upon in writing. 
  
 Article 8: Labor Relations 
 -------------------------- 
-
 ¶11. (SBU) Commissioned personnel by each party will continue 
 under the direction of the institution to which they belong, 
 and the laws, regulations, and standards of that institution. 
@@ -178,37 +169,31 @@ should provide cover.
  
 Article 9: Third Parties 
 ------------------------ 
-
 ¶12. (SBU) This agreement does not preclude similar agreements 
 with third parties. 
  
 Article 10: Sovereignty 
 ----------------------- 
-
 ¶13. (SBU) Nothing in this agreement affects the sovereign 
 rights of Venezuela or Nicaragua over their natural resources. 
  
 Article 11: Termination and Modification 
 ---------------------------------------- 
-
 ¶14. (SBU) This document may not be terminated or modified 
 without previous written consent by the other party. 
  
 Article 12: Disputes 
 -------------------- 
-
 ¶15. (SBU) Disputes will be resolved through friendly 
 diplomatic negotiations. 
  
 Article 13: Amendment 
 --------------------- 
-
 ¶16. (SBU) The agreement may be amended through common 
 agreement. 
  
 Article 14: Entry Into force, Duration, and Termination 
 --------------------------------------------- ---------- 
-
 ¶17. (SBU) The duration of the agreement is five years, 
 automatically renewed for consecutive periods of one year 
 unless one party notifies the other six months in advance of 
@@ -216,6 +201,7 @@ its intention not to renew it.  Either party may withdraw
 from the agreement sixty days after having notified the other 
 party.  Termination of the agreement does not imply the 
 termination of ongoing projects and programs agreed upon 
+ 
 during agreement, which shall continue until completed unless 
 the parties agree otherwise. 
 TRIVELLI

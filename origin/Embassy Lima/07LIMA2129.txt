@@ -36,57 +36,11 @@ SUBJECT: REFORM WITHOUT REVOLUTION: THE VIEW FROM PUNO
 REF: A. LIMA 1841 
  
      ¶B. LIMA 2000 
-     ¶C. LIMA 2...
-id: 112682
-date: 6/19/2007 17:12
-refid: 07LIMA2129
-origin: Embassy Lima
-classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
-destination: 07LIMA1841
-header:
-VZCZCXYZ0000
-PP RUEHWEB
-
-DE RUEHPE #2129/01 1701712
-ZNR UUUUU ZZH
-P 191712Z JUN 07
-FM AMEMBASSY LIMA
-TO RUEHC/SECSTATE WASHDC PRIORITY 5894
-INFO RUEHAC/AMEMBASSY ASUNCION 1681
-RUEHBO/AMEMBASSY BOGOTA 4772
-RUEHBR/AMEMBASSY BRASILIA 7409
-RUEHCV/AMEMBASSY CARACAS 0477
-RUEHLP/AMEMBASSY LA PAZ JUN MONTEVIDEO 9201
-RUEHQT/AMEMBASSY QUITO 1284
-RUEHSG/AMEMBASSY SANTIAGO 1330
-RUEHBS/USEU BRUSSELS
-RUEAIIA/CIA WASHDC
-RHMFIUU/CDR USSOUTHCOM MIAMI FL
-
-
------------------ header ends ----------------
-
-UNCLAS LIMA 002129 
-
-SIPDIS 
-
-SENSITIVE 
-SIPDIS 
-
-USEU PASS TO MCKINLEY 
-
-E.O. 12958: N/A 
-TAGS: CU PE PGOV PINR PTER SNAR VE
-SUBJECT: REFORM WITHOUT REVOLUTION: THE VIEW FROM PUNO 
-
-REF: A. LIMA 1841 
-
-     ¶B. LIMA 2000 
      ¶C. LIMA 2009 
      ¶D. LIMA 2026 
-
+ 
 Sensitive But Unclassified, Please Handle Accordingly. 
-
+ 
 ¶1.  (SBU) Comment: Despite grinding poverty, bumbling local 
 government, and flaring racial animosities, revolutionary 
 political action in the altiplano department of Puno is 
@@ -107,11 +61,11 @@ benefits from local governments.  In spite of the glaring
 failures of democratic representatives to deliver services, 
 most citizens of Puno are seeking reform, not revolution. 
 End Comment 
-
+ 
 -------------------- 
 The Problems in Puno 
 -------------------- 
-
+ 
 ¶2.  (SBU) The southern highland province of Puno, with a 
 regional capital of the same name, has long been one of 
 Peru's most isolated and singular areas, noted for fiercely 
@@ -123,7 +77,7 @@ Pais party won elections in November 2006, with the smallest
 plurality of any candidate in the country -- 20 per cent of 
 the popular vote; runner-up Jose Bautista received 19 per 
 cent. 
-
+ 
 ¶3.  (SBU) Fuentes told poloff June 7 that his government is 
 pragmatic, not ideological, and would accept help from anyone 
 who offered it.  In his words, "If the United States would 
@@ -139,7 +93,7 @@ plans to convoke NGOs to obtain a clear accounting of how
 they have spent funds, and he is looking into the possibility 
 of requiring international donors to give aid directly to the 
 regional government. 
-
+ 
 ¶4.  (SBU) The Director General of education in Puno, Saul 
 Bermejo, described the quality of public education in Puno as 
 "dismal."  Many classes are held in condemned buildings that 
@@ -153,7 +107,7 @@ Bermejo says fails to interest the children of poor farmers.
 Bermejo noted that 40 per cent of public school children in 
 Puno's sister city of Juliaca attend private schools, a clear 
 repudiation of the provincial public school system. 
-
+ 
 ¶5.  (SBU) The director of the Bolivarian Alternative for 
 Latin America (ALBA) center, Maricail Maydana, and the 
 regional director for decentralization, Cesar Esquivel, 
@@ -170,11 +124,11 @@ that it sought a fairer distribution of resources.  Esquivel
 said Fuentes was a leftist, but a "Puno leftist," who would 
 create a from of government independent of the model offered 
 by either Venezuela or Cuba. 
-
+ 
 ------------------------ 
 Politics without Results 
 ------------------------ 
-
+ 
 ¶6.  (SBU) Fuentes' critics -- and they are many -- have 
 complained that the problem in Puno is not lack of money but 
 Fuentes' inability to govern.  After six months in power, the 
@@ -188,7 +142,7 @@ assembly over plans to reduce municipal salaries, and
 relations have deteriorated to the point that the 
 administration and regional legislature  no longer meet 
 regularly. 
-
+ 
 ¶7.  (SBU) NGOs and members of the press say there is a darker 
 side to Fuentes' incompetence.  They allege that Fuentes has 
 organized local thugs to intimidate political opponents and 
@@ -203,11 +157,11 @@ of Bautista.  Torres says Fuentes is heavily influenced by
 the "ethnocacerism" of Antauro Humala, a murky philosophy 
 that seeks to return Peru to a past when only indigenous 
 persons wielded political power (reftels A and C). 
-
+ 
 ------------------- 
 The Aymara Response 
 ------------------- 
-
+ 
 ¶8. (SBU) Fuentes' direct appeals for Quechua support have not 
 gone over well in Aymara-speaking regions of southern Puno, 
 which contain the majority of the population.  (These regions 
@@ -222,11 +176,11 @@ periodically in Puno when social tensions rise.  Andia says
 Felipe Quispe, an Aymara leader from Bolivia with ties to 
 terrorism, makes periodic trips to UMA areas to try to win 
 support. 
-
+ 
 --------------------------- 
 Where is the Bolivarianism? 
 --------------------------- 
-
+ 
 ¶9.  (SBU) Javier Molina of the NGO Peru Network in Puno says 
 Venezuelan operatives have approached UMA representatives 
 with offers of support (Molina has no direct evidence of 
@@ -237,7 +191,7 @@ are uninterested in socialism or in larger questions of
 international politics.  Fuentes' close association with 
 Caracas, moreover, has discredited Venezuela in the eyes of 
 many Aymara leaders. 
-
+ 
 ¶10. (SBU) Political analysts and reporters estimate that less 
 than 25 percent of voters are sympathetic to Bolivarianism, 
 and analysts note that the ruling APRA party pulled 16 
@@ -256,11 +210,11 @@ portraying himself as the anti-establishment candidate, but
 one year later, his support has dropped to less than 10 per 
 cent of the population, because Puno residents doubt his 
 radical nationalism can improve their lives. 
-
+ 
 --------------------------------------------- ------ 
 Comment: Decentralization, Venezuela, and Democracy 
 --------------------------------------------- ------ 
-
+ 
 ¶11.  (SBU) A politically clumsy regional president lacking 
 the technical skills to run government presents hard choices 
 for the ambitious decentralization plans of President Garcia 
@@ -276,7 +230,7 @@ to be redirected towards Lima.  Former president Alberto
 Fujimori won over the province by funding social development 
 directly from Lima, bypassing local officials, an 
 anti-democratic option unavailable to Garcia. 
-
+ 
 ¶12.  (SBU) The widespread media coverage in Lima of the 
 Bolivarian threat in Puno (reftel B) shows the danger of 
 viewing all conflict through the lens of Venezuelan 
@@ -290,7 +244,7 @@ uninterested in ideology.  Campesinos will take Venezuelan
 money, but it is doubtful that cash will buy long-term 
 support or allow Bolivarianism to gain ascendance in the 
 swirling currents of Puno radicalism. 
-
+ 
 ¶13.  (SBU) Finally, in spite of a regional government on the 
 verge of failure six months into a five year term, the anger 
 in Puno remains focused on holding local officials 
@@ -305,8 +259,6 @@ that  focus on the need to find more doctros and teachers.
 Radicals are popular because the central government is often 
 seen as indifferent to local needs, but even radicals, at 
 some point, will have to make sure the trains run on time. 
-
-
-STRUBLE 
-
-=======================CABLE ENDS============================
+ 
+ 
+STRUBLE

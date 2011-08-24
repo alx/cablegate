@@ -1,0 +1,159 @@
+08STATE38125
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Fri Apr 11 00:00:00 +0200 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0018
+RR RUEHWEB
+
+DE RUEHC #8125 1021234
+ZNR UUUUU ZZH
+R 111228Z APR 08
+FM SECSTATE WASHDC
+TO RUEHNE/AMEMBASSY NEW DELHI 0000
+RUEHTV/AMEMBASSY TEL AVIV 0000
+INFO RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUEAIIA/CIA WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 038125 
+ 
+SIPDIS 
+ 
+SIPDIS 
+NEW DELHI FOR JONATHAN S. FISCHER 
+TEL AVIV FOR MICHAEL C. KEAYS 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC IN IS
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON APPLICATION 05-050095903 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+1.This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Posts' assistance in conducting 
+a pre-license check on application 05-050095903 for the 
+export of defense hardware and technical data to India. 
+Posts are requested to complete this Blue Lantern inquiry 
+within 30 days.  Lack of response to a Blue Lantern inquiry 
+will affect pending and future licenses involving parties to 
+this license. 
+ 
+¶3. Reason for request:  Licensing Officer seeks confirmation 
+that the proposed transaction is valid. 
+ 
+¶4. Action New Delhi and Tel Aviv:   Department requests that 
+Posts verify the bona fides of the proposed transaction 
+involving Foreign Consignee Orbit-Alchut Technologies, Ltd. 
+and End-User Defense Electronics and Radar Development, 
+Defense Research Development Organization, Government of 
+India, Ministry of Defense. Reiterate that the unauthorized 
+re-export or retransfer of United States Munitions List 
+(USML) items is strictly prohibited. 
+ 
+End Action Request. 
+ 
+¶5. Details of license application: 
+ 
+DTC Case: 05-050095903 
+ 
+QUANTITY/COMMODITY: 
+ 
+4 P/N CCS34940-03 Broadband, High Frequency Absorptive 1P4T 
+Switch Components and Spare Parts 
+   w/Accompanying Acceptance Test and Performance Data 
+Related to P/NCCS34940-03 
+ 
+License Value: USD $20,900. 
+ 
+SELLER: 
+ 
+Cobham Holdings, Inc. 
+Attn:  Mark A. McDermott 
+10 Cobham Drive 
+Orchard Park, NY  14127 
+Tel:  858-505-3125 
+ 
+SUBSIDIARY: 
+ 
+REMEC Defense and Space, Inc. 
+Attn:  Mark Fulling 
+336 Abby Road 
+Manchester, MA  03103 
+Tel:  603-518-2713 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Orbit-Alchut Technologies, Ltd 
+5 Hazoran Street 
+South Industrial Area 
+P.O. Box 8657 
+Netanya 42504 
+Israel 
+Tel: 972-9-8922657 
+Fax: 972-9-8922630 
+ 
+END-USER: 
+ 
+R.P. Ramalingam, Distinguished Scientist & Director 
+Defence Avionics Research Establishment 
+Government of India 
+Ministry of Defence 
+PB No. 7537 
+New Thippasandra Post 
+Bangalore 560 075 
+India 
+Tel: 2505 7281 
+Fax: 080 2528 1018, 2505 7279 
+ 
+          - or - 
+ 
+Government of India 
+Ministry of Defence 
+PB No. 9366 
+CV Raman Nagasa 
+Bangalore 560 093 
+Karnataka, India 
+Tel:  91 080 2524 2313 
+Fax:  91 080 2524 2296 
+ 
+ 
+PURPOSE: 
+ 
+The Absorptive Switch is used to route a radio frequency 
+signal to one of four selected ports that feed an antenna. 
+Orbit-Alchut Technologies integrates the switch into its 
+antenna test system.  The antenna system is for general 
+purpose use and is part of the Orbit-Alchut Technologies 
+facility infrastructure.  The antenna test system is 
+delivered to a ground-based, fixed laboratory installation 
+located in India which supports the Indian Ministry of 
+Defense in assessing antenna performance measurements. 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC will fax documentation to Posts 
+upon request): 
+ 
+-- DSP-83 End-Use/End-User Statement from Defence Avionics 
+Research Establishment dated 8 November 2007 
+ 
+-- Purchase Order No. 111037 from Orbit-Alchut Technologies, 
+Ltd 27 January 2008 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Rachael-Therese S. Joubert-Lin, 
+Phone: 202-663-2950; Email: JoubertLinRS@state.gov; SIPRNET: 
+JoubertLinRS@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file in the Bunche Library's 
+E-Book Collection on the DOS Intranet: 
+http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶8. Department is grateful for Posts' assistance in this 
+matter. 
+RICE

@@ -1,0 +1,192 @@
+08STATE36935
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Wed Apr 09 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Secretary of State
+VZCZCXYZ0008
+RR RUEHWEB
+
+DE RUEHC #6935 1001510
+ZNR UUUUU ZZH
+R 091505Z APR 08
+FM SECSTATE WASHDC
+TO RUEHTV/AMEMBASSY TEL AVIV 0000
+INFO RUEAIIA/CIA WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 036935 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+TEL AVIV FOR MICHAEL KEAYS 
+POL 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC IS
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON APPLICATION 050093749 
+ 
+REF: A. IIR 7 739 0806 07 
+     ¶B. 7 739 0803 07 
+     ¶C. BLUE LANTERN GUIDEBOOK 2006 
+ 
+¶1. (U) This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. (U) The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post's assistance in conducting 
+a pre-license check on application 050093749 for the export 
+of brush DC motors to Israel.  Post is requested to complete 
+this Blue Lantern check within 30 days.  Lack of response to 
+a Blue Lantern check will affect pending and future 
+applications involving parties to this license. 
+ 
+¶3. (SBU) Reason for request: unfamiliar watchlisted foreign 
+consignee and unfamiliar foreign intermediate consignee. 
+Foreign consignee Bental is on PM/DTCC's Watchlist, and its 
+bona fides have never been verified by a Blue Lantern check. 
+Refs A and B also raise concerns.  PM/DTCC is also unfamiliar 
+with foreign intermediate consignee Servotronix Ltd.  Post 
+should make appropriate inquiries to verify the bona fides of 
+Bental and Servotronix, assess the companies' ability and 
+willingness to protect United States Munitions List (USML) 
+technology, confirm the legitimacy of the proposed 
+transaction, and determine whether any other foreign parties 
+not listed on the license application will be involved in the 
+proposed transaction.  The following questions are provided 
+as suggested guidance: 
+ 
+For the Israel MOD: 
+ 
+--Are you familiar with Bental and Servotronix Ltd.? 
+ 
+--Did you order from Bental and Servotronix the exact type 
+and quantity of items listed on this application?  For what 
+purpose will the parts be used?  Who will perform the repairs 
+of turret control engines on the Merkava MK 3 tank? 
+ 
+--Are Bental and Servotronix official suppliers/contractors 
+for the Israel MOD?  Does the Israel MOD have any other 
+contracts with the company? 
+ 
+For Bental and Servotronix: 
+ 
+--Does the company have proper supporting documentation, 
+including purchase orders from the Israel MOD, for this 
+proposed transaction? 
+ 
+--What will happen with the parts once they arrive in Israel? 
+ Who will perform the repairs of turret control engines on 
+the Merkava MK 3 tank? 
+ 
+--Will the company be handling or storing the items listed on 
+the application?  If so, does it have secure facilities and 
+proper accounting and security procedures for handling these 
+sensitive USML items? 
+ 
+--When was the company established and who are its principals? 
+ 
+--What is the nature of its business -- what types of items 
+does it handle, does it serve as a broker? 
+ 
+--What types of organizations are among its typical customers 
+and where are the customers located? 
+ 
+--Does the company understand the restrictions on United 
+States Munitions List (USML) items, especially the 
+prohibition against unauthorized re-transfers and re-exports? 
+ 
+¶4. (U) Department requests that post conduct site visits to 
+the companies in order to provide Department with an 
+assessment of their business operations and on-site security. 
+ If site visits are not possible, please inform PM/DTCC case 
+officer.  Finally, post is asked to assess whether the 
+companies appear to be reliable recipients of USML items. 
+End action. 
+ 
+¶5. (SBU) For background, the following details of the license 
+in question are provided: 
+ 
+DTC Case: 050093749 
+ 
+QUANTITY/COMMODITY: 
+ 
+47    QTG-1701-A Brush DC Motor with Tachometer 
+1     Documentation Package 
+ 
+License Value: USD 44,240.00 
+ 
+SELLER: 
+ 
+Danaher Corporation 
+2099 Pennsylvania Avenue NW, 12th Floor 
+Washington, DC 20006 
+Tel.: 540-633-5572 
+ 
+Subsidiary: 
+Kollmorgen Corporation 
+501 W. Main Street 
+Radford, VA 24141 
+Tel.: 540-633-5579 
+Company contact: Carolyn Richards 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Bental 
+Kibutz Marom 
+PO 12436 Golan North 
+Golan 
+Israel 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Servotronix Ltd. 
+(aka Danaher Motion Israel) 
+Deniv Park 21C Yagia Kapayim St. 
+Petach Tikva 49130 
+Israel 
+ 
+FOREIGN END-USER: 
+ 
+Israel Ministry of Defense 
+Hakirya 
+Tel Aviv 61909 
+Israel 
+ 
+PURPOSE: 
+ 
+Repairs of turret control engines on the Merkava MK 3 (tank) 
+ 
+¶6. (U) Submitted in support of the license application were 
+the following documents (PM/DTCC can fax documentation to 
+post upon request): 
+ 
+--Cover letter from Danaher Motion explaining proposed 
+transaction, signed by Rob Miller, Account Manager, 
+International, Kollmorgen Aerospace and Defense (Division of 
+Danaher Corporation), dated March 10, 2008 
+ 
+--Purchase order DS800052 from Danaher Motion Israel 
+(Servotech) to Danaher Motion, signed by Efrat Yefet, dated 
+17 January 2008 
+ 
+--End-user statement, signed by (illegible), Danaher Motion 
+Israel (Servotech), dated 17/02/2008 
+ 
+--Technical drawing and specifications 
+ 
+¶7. (U) Please slug reply for PM/DTCC - BLUE LANTERN 
+COORDINATOR and include the words "Blue Lantern" and the case 
+number in the subject line.  POC is Judd Stitziel, PM/DTCC, 
+Phone: 202-663-3455; email: StitzielJD@state.gov; SIPRNET: 
+StitzielJD@state.sgov.gov.  The Blue Lantern Guidebook (ref 
+C) is available as a PDF file in the Bunche Library's 
+Electronic Library collection on the DOS Intranet: 
+http://virtuallibrary.state.gov/ 
+BlueLanternGuidebook2006%2520 final .pdf 
+ 
+¶8. (U) Department is grateful for post's assistance in this 
+matter. 
+RICE

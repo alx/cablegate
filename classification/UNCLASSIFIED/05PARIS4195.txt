@@ -1,0 +1,452 @@
+05PARIS4195
+FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR TWO
+Wed Jun 15 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+150929Z Jun 05UNCLAS SECTION 01 OF 05 PARIS 004195 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR; 
+CHARLOTTE TITUS); EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR TWO 
+PRINCIPAL CANDIDATES FOR EURP - U.S. FOREIGN POLICY 
+CHALLENGES I (OCTOBER 10 - 28, 2005) 
+ 
+REF: STATE 004520 
+ 
+POST WOULD LIKE TO NOMINATE TWO PRINCIPAL CANDIDATES FOR 
+SUBJECT PROGRAM: MR. JEAN-PAUL ALBERTINI; MR. PIERRE FRANCE. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 274 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - EURP U.S. Foreign Policy Challenges 
+START MEMO PROJ-DESC: 
+This project is designed for government officials, 
+politicians, academics and journalists actively developing or 
+interpreting foreign policy.  It will focus on foreign policy 
+issues of concern to Europe and the U.S., including counter 
+terrorism and security issues, the future of trans-Atlantic 
+relations, the changing roles of international organizations 
+such as NATO and the United Nations, and global trade in the 
+context of U.S. foreign policy. 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Regional 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 10/08/2005 
+SESSION-DATE: 10/10/2005 
+RETURN-POST: 11/12/2005 
+NO-OF-PART: 2 
+RANK-ORDER: 1 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: RP 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Foreign Policy 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Jean-Paul 
+M-NAME: 
+L-NAME: Albertini 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Cour des Comptes 
+M-ADDR2: Sixieme Chambre 
+M-ADDR3: 13, rue Cambon 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75001 
+M-ZIP: 
+M-PHONE: + (33) 1.42.98.59.96 
+M-FAX: 
+M-EMAIL: jpalbertini@ccomptes.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 10/26/1964 
+MAR-STAT: M 
+BIRTH-CITY: Suresnes 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Member of the 6th Chamber, specializes in social affairs, 
+social security and health at France's General Accounting 
+watchdog, the Accounting Court, since 2002 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+2001-2002 - Chief of Staff to Green Environment Minister Yves 
+Cochet 
+2001 - Deputy Chief of Staff to successive Environment 
+Ministers Dominique Voynet and Yves Cochet 
+1999-2001 - Adviser for European and International Affairs on 
+Minister Dominique Voynet's personal staff 
+1997-1999 - Technical Adviser in charge of intra-EU economic 
+issues on the personal staff of Pierre Moscovici, European 
+Affairs Minister 
+1995-1997 - Head of the EU Affairs Office at the Economy and 
+Finance Ministry's Directorate for External Economic Relations 
+1994-1995 - Communication and International Relations Adviser 
+to the First President of the Accounting court 
+1991-1994 - Auditor/Investigator in charge of public sector 
+companies in the energy sector (EDF/GDF/ELF) 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+December 1999 - Seattle, business 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1989-1991 - Graduate School for Senior Civil Servant 
+1987 - Law Degree, University of Sorbonne Paris I 
+1985 - Paris Institute of Political Studies 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+- Member of the Socialist Party since 1993 and member of the 
+Party's Commission on Environment 
+- Co-founder of three political associations: 
+--"Alternative Socialiste" to reform the Socialist Party (back 
+in 1994 when the popularity of the Socialist Party was quite 
+low) 
+--"Generation Europeenne" a European federation group 
+--"Respire" to work on environment and sustainable development 
+issues 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START OTHER-LANGS: 
+OTHER-LANG: Italian 
+OTHER-LANG-ID: JT 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: German 
+OTHER-LANG-ID: GM 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Our primary objective is to renew our contact with a rising 
+star within the French Socialist Party, at a particular 
+crucial time for the future of that party as it develops its 
+platform and goals in preparation for the 1997 Presidential 
+and legislative elections. At the same time, in the longer 
+term, we would like to give Albertini, a specialist of 
+European and environmental issues, exposure to the U.S. A 
+previous nominee from the French Socialist Party returned from 
+his trip to the U.S. with the conviction that the Socialist 
+Party had previously "overlooked" the importance of the 
+bilateral U.S.-French relationship.  Lack of exposure to the 
+U.S. explains general antagonism towards the U.S. way of life. 
+We believe Albertini will occupy important functions if the 
+Socialists return to power and should therefore acquire 
+greater insight into U.S. policies. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Given Albertini's intellectual pedigree and professional and 
+political experience, we believe he would greatly gain from 
+participation into the European Program: "U.S. Foreign Policy 
+Challenges" 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Florence Radovic 
+START MEMO NOMINATING-JUSTIFICATION: 
+Mr. Albertini has advanced quickly within the elite of the 
+French civil service. A graduate of the prestigious French 
+National School of Administration ENA, he was picked out as 
+one of the most promising graduates of his class by one of the 
+best "headhunters" in French political circles, former 
+European Affairs Minister Pierre Moscovici.  He then followed 
+the typical French bureaucratic elite curriculum, first at one 
+of France's most prestigious administrative bodies, the French 
+Accounting Court (similar to the GAO), and then in three 
+different ministries, at senior levels, including Chief-of- 
+Staff. 
+His previous government experience on issues key to ongoing 
+and future U.S. trade policy objectives, i.e. trade, European 
+Affairs and the environment, combined with his intellectual 
+curiosity and his good standing within the Socialist Party, 
+make him an obvious choice for the IV Program. 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ECON - U.S. Embassy, Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 543 
+PERSON-ID: 442 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Pierre 
+M-NAME: 
+L-NAME: France 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Dernieres Nouvelles d'Alsace 
+M-ADDR2: 17-21, rue de la Nuee Bleue 
+M-ADDR3: BP 406 
+M-CITY: Strasbourg 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 67077 cedex 
+M-ZIP: 
+M-PHONE: + (33) 3.88.21.57.57 
+M-FAX: + (33) 3.88.21.57.24 
+M-EMAIL: pfrance@dna.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 10/06/1971 
+MAR-STAT: S 
+BIRTH-CITY: Annecy 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Region-wide Reporter, Dernieres Nouvelles d'Alsace-DNS, 
+Strasbourg, since 2000 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Multimedia expert journalist at DNA, since 1999 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1999-2000 - Journalist at the Economic Section, DNA 
+1998 - Intern, and then journalist at the local news section, 
+DNA 
+1994-1997 - Freelance Journalist at "Dauphine Libere" 
+1994-1997 - Stringer for "Cyberstratege", "Planete Internet", 
+"01 Informatique" 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+September 2000, Washington D.C., Chicago and New York City, 3 
+weeks tourism 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+November 2003 - Spain, tourism 
+October 2002 - England (London), tourism 
+November 2001 - Morocco, tourism 
+April 1999 - Former Republic of Yugoslavia (Skopje), press 
+report 
+September 1998 - Quebec, tourism 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1997-1999 - Strasbourg School of Journalism, Master Degree in 
+Journalism and Sciences and Techniques, specialization written 
+press 
+1994-1977 - University of Savoie, two-year study diploma and 
+BA in History 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+- Multimedia Associations 
+- Improvisation Theater Group, semi-professional actor 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+2003-2004:90 articles on line (non-exhaustive list including 
+30 articles on multimedia development) on www.pierrefrance.com 
+on various issues such as: 
+- Aug 18, 2004: "Dans les Banlieues Alsaciennes : le Spectre 
+des Ghettos Ethniques" 
+- June 25, 2004:  "L'Eurocorps est Pret pour l'Afghanistan" 
+- June 15, 2004:  "Aux Etats-Unis, Etre de Gauche, c'est 
+Militer" 
+- June 7, 2004:  "Paix et Liberte sur l'Europe" 
+- January 5, 2004:  "Dans les Quartiers, le Risque au 
+Quotidien" 
++ numerous articles on social issues. 
+A book (novel) is to be published. 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 3 
+ENGL-SPEAK: 3 
+ENGL-COMP: 3 
+START OTHER-LANGS: 
+OTHER-LANG: Spanish 
+OTHER-LANG-ID: QB 
+READ: 2 
+SPEAK: 2 
+COMP: 2 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: Arabic 
+OTHER-LANG-ID: AR 
+READ: 2 
+SPEAK: 2 
+COMP: 2 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+As a journalist, Pierre France could help our outreach to 
+French audiences to explain U.S. policies on crime and cyber- 
+technology specifically, and on other issues as well. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Christopher Davis; Genevieve Thomassin 
+START MEMO NOMINATING-JUSTIFICATION: 
+At 33, Pierre France is the youngest of the region-wide 
+reporter team at Dernieres Nouvelles d'Alsace (DNA - circul. 
+224,000), the largest regional daily newspaper in Alsace. 
+While he entered that professional circle as a specialist in 
+multimedia/Internet issues, he also writes articles on youth 
+at risk, ethnic ghettos in Alsatian suburbs, crime, Turkey and 
+Europe, the Eurocorps and Afghanistan, and even articles on 
+American politics, based on interviews with visiting Americans 
+(e.g., the widow of Gene Kelly).  Pierre France speaks 
+English, but only traveled once to the United States for three 
+weeks as a tourist in September 2000.   While preparing a 
+Master's degree at the Strasbourg School of Journalism, he did 
+an internship at DNA, then a short stint as a free-lance 
+journalist there, before being hired as a full-time DNA 
+journalist. 
+Pierre France's versatility leads his Chief Editor, former 
+Franco-American Foundation grantee, to place great hopes in 
+his career.  Chief Editor Dominique Jung credits Pierre France 
+with "extensive intellectual curiosity and dynamism, willing 
+and able to report on a wide variety of subjects."  Jung 
+thinks his young charge would absorb a great deal from an 
+International Visitor experience.   Disarmingly unassuming at 
+first blush, Pierre France is also a semi-professional actor 
+in an improvisation theater group, and a fiction writer 
+(unpublished so far).  His interests range far beyond 
+multimedia and the arts; he also has a keen interest in social 
+and international issues, especially international crime, and 
+would greatly benefit from an IV experience in the United 
+States. 
+With the Schengen Information Center, the Franco-German Center 
+for Police Cooperation, the Council of Europe's GRECO (Group 
+of States Against Corruption), and its University's new degree 
+in combating money-laundering, Strasbourg brings together many 
+experts in international crime.  Pierre France is poised to 
+pull these strands together in his reporting.  Insights gained 
+from an IV program could help inform his reporting in a way 
+that could foster our transatlantic cooperation on various 
+issues. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: AmConGen Strasbourg, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 544 
+PERSON-ID: 443 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

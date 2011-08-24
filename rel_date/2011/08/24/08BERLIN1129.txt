@@ -1,0 +1,52 @@
+08BERLIN1129
+BLUE LANTERN: POST-SHIPMENT END-USE CHECK CASE
+Fri Aug 15 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Berlin
+VZCZCXYZ0005
+PP RUEHWEB
+
+DE RUEHRL #1129 2281104
+ZNR UUUUU ZZH
+P 151104Z AUG 08
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 1945
+INFO RHMCSUU/FBI WASHINGTON DC PRIORITYUNCLAS BERLIN 001129 
+ 
+SIPDIS 
+STATE FOR EUR/CE, EUR/PRA, AND PM/DTCC - BLUE LANTERN 
+COORDINATOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC GM
+SUBJECT: BLUE LANTERN: POST-SHIPMENT END-USE CHECK CASE 
+2592-05 
+ 
+REF: STATE 71695 
+ 
+¶1. (SBU)  In response to reftel questions, Litef GmbH 
+provided us with the following: 
+ 
+-- Annual Sales reports for 2006 and 2007.  Litef said that 
+the agreement took effect in May 2006. 
+They also said that they have had no sales under this DA to 
+date in 2008. 
+ 
+-- The reports provided state that the sales under DA 2592-05 
+were to the following Ministry of Defense 
+organizations:  Republic of Singapore Navy, Turkish Navy, 
+Royal Malaysian Navy and the German Ministry of Defense. 
+ 
+-- Litef stated that no sales to Russia, Venezuela or 
+Indonesia took place. 
+ 
+-- Litef stated that Litef has no possibility to perform 
+repair work on the Application Specific Integrated Circuits. 
+ 
+-- Litef stated that the controlled items are stored in a 
+dedicated portion of the warehouse, separate from other 
+items. 
+ 
+¶2. (SBU)  Post will forward the documents received from Litef 
+to the POC listed in reftel. 
+TIMKEN JR

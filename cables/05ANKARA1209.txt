@@ -1,0 +1,207 @@
+05ANKARA1209
+TURKEY: LOW INTERNET PENETRATION DUE TO
+Mon Mar 07 00:00:00 +0100 2005
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ankara
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 ANKARA 001209 
+ 
+SIPDIS 
+ 
+USDOC FOR 4212/ITA/MAC/CPD/DDEFALCO 
+FCC FOR A THOMAS AND A WEINSCHENK 
+ 
+SENSITIVE 
+ 
+E.O. 12958: N/A 
+TAGS: EINT ECPS TU
+SUBJECT:  TURKEY: LOW INTERNET PENETRATION DUE TO 
+MARKET BARRIERS 
+ 
+REF: A. Ankara 94 
+¶B. 2004 Ankara 6480 
+ 
+Sensitive But Unclassified.  Please handle accordingly. 
+ 
+¶1. (SBU) Summary: Internet penetration in Turkey 
+remains low, due mainly to high cost of hardware and 
+relatively high subscription fees.  Although the state 
+telecom firm, Turk Telekom (TT), has launched higher- 
+speed and more affordable broad-band internet service, 
+Internet Service Providers (ISPs) in Turkey complain 
+about unfair competition from the former monopoly, 
+which is currently slotted for privatization.  The 
+still relatively new Telecommunications Authority (TA) 
+is still establishing its competence and independence 
+and has not been able to carry out decisions in favor 
+of ISP's.  End Summary. 
+ 
+--------------------------- 
+Low Penetration, High Costs 
+--------------------------- 
+ 
+¶2.  (SBU) Turkey's information technology sector has 
+been enjoying steady growth, albeit from a relatively 
+undeveloped base.  The GOT has made steps to facilitate 
+competition and investment in the sector.  There are 95 
+licensed Internet Service Providers (ISPs), but all 
+must interconnect and compete with Turk Telekom (TT), 
+which is the sole provider of internet connections to 
+the telecom infrastructure, as well as broad-band (ADSL 
+via telephone or cable).  Internet cafes have become 
+more common throughout Turkey, but computer penetration 
+in homes remains around 5 %, about one-tenth the 
+average for Europe. 
+ 
+¶3. (SBU) Estimates of internet users range from 6 
+million to double that amount (about 8-15 % population 
+penetration, about one-half the average for Europe). 
+On the high end, a State Institute of Statistics survey 
+from June 2004 estimated that there are 13.3 million 
+internet users in Turkey, out of a population of 70 
+million.  According to Transport Ministry 
+Communications Department Director General Ali Zor, 
+home subscribers account for a small part of this 
+number (3-4 million), since a large segment of the 
+population cannot afford to buy PCs and uses internet 
+cafes for internet access (constituting relatively 
+unsophisticated use, limited to e-mails).  In a meeting 
+with Econoff and Econ Specialist, State Planning 
+Organization Information Society Department Head Recep 
+Cakal confirmed the low internet penetration in Turkey 
+and attributed this not only to the high cost of PCs 
+but also to the relatively high internet service fees, 
+relative to Turkey's $4,300 per capita income.  Basic 
+broad-band service (256 kbs/sec) from Turk Telekom, for 
+example, costs approximately $30 per month.  Cakal said 
+that technical infrastructure in Turkey was not 
+reliable and that establishment of a truly competitive 
+market was key to better service quality and lower 
+internet service fees. 
+ 
+¶4. (SBU) Cakal said the GOT was trying to increase 
+internet penetration through a number of "e- 
+transformation" projects, primarily targeting 
+education.  One of these projects is a joint project 
+conducted by the Education Ministry and Turk Telekom 
+(TT), through which TT has provided computer and broad- 
+band connection to 12,000 schools as of the end of 
+November 2004.  The project target is to increase this 
+to 42,500 schools by the end of 2005.  In separate 
+projects conducted with World Bank and EBRD assistance, 
+computer labs were established in 2,800 schools in 
+2004, aiming to reach 4,000 more schools in 2005. 
+These projects ultimately target providing a total of 
+8,300 schools with IT facilities by the end of 2005. 
+ 
+--------- 
+ISP Blues 
+--------- 
+ 
+¶5. (SBU) While Internet Service Providers (ISP) have 
+proliferated in Turkey, they complain that TT practices 
+active and unfair resistance to competition and 
+innovative services.  In a February 23 meeting with 
+Econoff and Econ Specialist, Tayfun Okter, the General 
+Manager of Turkey's leading private ISP, Superonline, 
+described difficulties his and similar companies face 
+in Turkey.  Superonline, the first private sector ISP 
+established in 1994, has been a market leader since 
+then.  Responding to sectoral and economic crises over 
+the years, Superonline changed its specialization from 
+personal accounts to corporate wide area network 
+solutions.  Superonline currently has 1,000 corporate 
+subscribers, in addition to 300,000 personal 
+subscribers.  Okter told us ISPs have not faced 
+legislative barriers to free market functioning since 
+their inception in the 1990s.  However, Okter said 
+there was always an "unseen barrier" -- the sole 
+backbone infrastructure provider.  Okter asserted that 
+TT abused its control of the backbone infrastructure to 
+compete unfairly against ISP companies, at times even 
+arbitrarily cutting some ISPs' connections. 
+¶6. (SBU) ISP's assert that TT has limited their access 
+to both basic internet and to broad-band service. 
+Okter observed that in order to increase its market 
+value on its way to privatization, TT had recently 
+become an even more aggressive competitor.  According 
+to Okter, TT had at times offered lower leased line 
+internet service fees to end users than to ISPs.  Okter 
+said TT currently had 300,000 ADSL subscribers, most of 
+which suffer from poor customer support from TT.  Okter 
+claimed Superonline had 2,000 ADSL customers in line, 
+who would be willing to pay an additional 20 percent to 
+receive a better quality service from Superonline. 
+According to Okter, TT had been reluctant to provide 
+new ADSL portals to ISPs -- and for the limited number 
+of portals it provides -- TT requires the ISPs to 
+register the customers in TT's database. 
+ 
+-------------------- 
+Skirmishes Over VOIP 
+-------------------- 
+ 
+¶7. (SBU) Voice over Internet Protocol (VOIP) service is 
+another source of conflict between TT and the ISPs.  A 
+licensing regulation issued by the Telecommunications 
+Authority (TA) in August 2004 appears to enable long 
+distance telephone service license holders to provide 
+voice transmission through all kinds of infrastructure, 
+including the Internet.  However, TT asserts that ISP 
+companies providing VoIP services need to sign a 
+special interconnection agreement with TT, and pay high 
+origination and termination fees.  The companies have 
+argued against this on both a technical and competition 
+basis.  Superonline is one of the companies TT recently 
+sued in the courts for allegedly illegally providing 
+VOIP service. 
+ 
+¶8. (SBU) Okter said they have appealed several times to 
+the TA about problems they have with TT, but felt it is 
+hard for the TA to remain unbiased and independent, 
+given fears it could be blamed for reducing the market 
+value of TT, a critical state-owned entity, currently 
+in the privatization process.  Despite this, TA has 
+announced some decisions against TT, which TT in turn 
+has appealed in the courts.  Subsequent court rulings 
+went mostly against private companies, according to 
+Okter, both due to the Turkish judiciary's "statist" 
+stance and to the lack of specialized courts.  Okter 
+said the relevant Ministry of Transport was aware of 
+the ISPs' problems, and was trying to resolve the 
+dispute they had with TT.  Okter complained that the 
+ISPs were fighting in many fronts, given an ineffective 
+TA, a biased judiciary, and unfair competition from TT. 
+Okter feared that the companies might continue to 
+suffer from these uncertainties even after TT's pending 
+privatization. 
+ 
+¶9. (SBU) Dogan Online, another major independent ISP, 
+echoed to EconOff many of the concerns raised by 
+Superonline.  While recognizing some uncertainty in the 
+timing of the TT privatization, he expressed patience 
+and confidence in the GOT and the regulatory 
+authority's capacity to slowly but steadily foster 
+greater liberalization and competition in the Turkish 
+communication realm.  He expected further fall-out in 
+dial-up ISPs as Turk Telekom expands its ADSL service. 
+ 
+------- 
+Comment 
+------- 
+¶10. (SBU) Liberalization of the telecom and information 
+technology market in the presence of a dominant state 
+firm is a big challenge for the GOT, with success 
+ultimately dependent on the effectiveness of a strong, 
+unbiased regulator.  The Telecommunications Authority 
+aims to rise to the challenge, but still lacks the 
+independence and competence to effectively play this 
+role.  As a result, Turkish citizens' and companies' 
+access to low-cost and reliable high quality internet 
+service is still hampered by the position of TT as sole 
+provider of access to the underlying infrastructure. 
+The GOT will have to plan beyond TT's privatization and 
+assure that this shortcoming does not continue to 
+impact the investment and business environment 
+negatively. 
+ 
+Edelman

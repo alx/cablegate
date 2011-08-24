@@ -1,0 +1,115 @@
+09STATE52919
+ACTION PLAN FOR AFGHANISTAN
+Fri May 22 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+R 221851Z MAY 09
+FM SECSTATE WASHDC
+TO AMEMBASSY KABUL 
+AMEMBASSY BANGKOKUNCLAS STATE 052919 
+ 
+ 
+FOR D/AMB RICCIARDONE AND CKO LIVELY, BANGKOK FOR RIMC 
+ 
+E.O. 12958: N/A 
+TAGS: AMGT AADP KRIM AF
+SUBJECT: ACTION PLAN FOR AFGHANISTAN 
+ 
+REF:  KABUL 1090 
+ 
+ 
+¶1. We've heard you, we're engaged and taking action.  As 
+CIO Swart discussed with AmEmbassy Kabul leadership last 
+week, we understand the challenges and high level impact 
+of Mission Afghanistan.  Going forward, we will continue 
+to work closely with you, doing everything possible to 
+provide both winning knowledge management and better 
+information integration among our diplomatic, development 
+and defense initiatives in Afghanistan.  In response to 
+reftel we have undertaken the following: 
+ 
+IMPROVED INFORMATION SHARING AND COLLABORATION 
+ 
+¶2. A proposed four-person joint IRM and RM/IRP team will 
+visit Embassy Kabul on 1-5 June and will provide Embassy 
+staff and the country team hands-on training on several 
+technologies, most of which are currently accessible to a 
+majority of USG personnel in Afghanistan.  These 
+collaboration tools include the Communities@State blogs, 
+Diplopedia, Intellipedia, Net-Centric Diplomacy, 
+SharePoint, uGov mail, and a common user authentication 
+tool known as Intelink Passport.  The team will also host 
+a series of focus groups on knowledge management issues, 
+including existing PRT business processes and identify 
+mechanisms to improve the overall availability and 
+retention of PRT reporting data currently managed thru 
+commercial internet services. 
+ 
+¶3. The Department understands Kabul's requirement for in- 
+country interagency collaboration.  We recognize that 
+latency and performance issues make using the central 
+SharePoint environment unsatisfactory for Kabul's 
+requirement.  To address this issue, we are looking at a 
+local installation of SharePoint with Groove integration 
+(in Kabul), managed by IRM's SharePoint team. 
+ 
+¶4. Although we recognize there are latency issues for 
+Mission Afghanistan, there is a resource that is already 
+available to manage data across agencies -- "IPOG" -- the 
+Iraq Policy Operation Group.  IPOG is an NSC mandated 
+Secretariat that maintains interagency strategic planning 
+and implementation matrices and other databases.  IPOG has 
+proven effective in providing the communication tools to 
+make sure the interagency is kept fully informed; these 
+tools include robust and active SharePoint sites on both 
+OpenNet and on ClassNet.  IPOG can support the U.S. 
+Mission in Afghanistan and Washington backstop offices by 
+providing program assistance, information technology, and 
+administrative support of interagency meetings.  These 
+services are available now in support of U.S. Mission 
+Afghanistan and Washington offices via a modification of 
+the existing contract.  The services provided now could be 
+expanded for additional support. 
+ 
+IT INFRASTRUCTURE AND COMMUNICATIONS 
+ 
+¶5. Globecomm Systems, Inc. (GSI) engineers will travel to 
+Kabul June 10-14.  The team will assess the current status 
+and connectivity of Embassy Kabul's GSI VSAT satellite 
+terminal.  As well as determine connectivity needed to 
+support the civilian increase and projected multiple 
+building construction/expansions.  The team will also 
+survey connectivity (current and planned) for embassy 
+trailers/residences to include Internet solutions for 
+MoraleNet, maintenance, help desk, and on-site technical 
+support.  Proposals and cost estimates for connectivity 
+upgrades are to be determined based on the survey results. 
+ 
+¶6. The team will also determine the requirements for PRT 
+sites, including satellite service requirements and 
+potential solutions for OpenNet connectivity. 
+ 
+¶7. Support requirements for the two new proposed mission 
+locations(Herat and Mazar) after the initial MIPC 6-month 
+deployment will also be discussed, including satellite 
+bandwidth requirements for OpenNet, ClassNet, voice, and 
+VTC. 
+ 
+¶8. A RIMC representative will travel to post to assist 
+with the development and completion of a scope of work to 
+address the physical infrastructure expansion.  Our 
+objective is a scope of work that allows the development 
+of an accurate bill of materials, labor estimates, and 
+addresses not only the immediate needs, but positions the 
+post for the numerous expansions scheduled over the next 
+12 months. 
+ 
+¶9. To better coordinate efforts please address your 
+requirements to D/CIO and CKO, Janice Fedak, who will 
+collect, coordinate, and track all activities.  We look 
+forward to working with Mission Afghanistan as we refine 
+our plans to move forward based on the results of the 
+above trips. 
+ 
+ 
+CLINTON

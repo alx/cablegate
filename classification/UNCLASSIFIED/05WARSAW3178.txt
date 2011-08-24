@@ -1,0 +1,121 @@
+05WARSAW3178
+POLAND:  U.S. PROVIDER SEEKS TO OFFER VOICE
+Tue Aug 23 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Warsaw
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 02 WARSAW 003178 
+ 
+SIPDIS 
+ 
+DEPT PASS TO USTR J. HALE 
+ 
+E.O. 12958:  N/A 
+TAGS: ETRD PL ECCP
+SUBJECT:  POLAND:  U.S. PROVIDER SEEKS TO OFFER VOICE 
+-         SERVICES 
+ 
+ 
+SENSITIVE BUT UNCLASSIFIED: THIS CABLE CONTAINS BUSINESS 
+PROPRIETARY INFORMATION.  NOT FOR INTERNET DISTRIBUTION 
+ 
+------- 
+SUMMARY 
+------- 
+ 
+¶1.  (SBU)  California TOK, a Delaware-registered firm, is 
+making ambitious plans to enter the Polish telecoms market 
+with inexpensive international voice services.  Although the 
+service will rely on an individual customer's existing 
+broadband connection, the company eschews labeling its 
+service voice over internet protocol (VOIP).  A major appeal 
+of the service in addition to the low price, believes the 
+firm's representative here in Poland, is the ease of use and 
+setup, factors that have been missing from some VOIP 
+services.  End Summary. 
+ 
+------------------------- 
+DON'T SAY VOIP, SAY "TOK" 
+------------------------- 
+ 
+¶2.  (SBU)  Econoff met with Stanislaw Lewak (protect), 
+general manager of California Tok to discuss the company's 
+plans to introduce its calling service for the Polish 
+market.  Lewak began his presentation by emphasizing that, 
+as far as marketing his service goes, he never, ever says 
+"VOIP."  "People hear that word, and their eyes glaze over," 
+Lewak said.  "I want our customers to have an absolutely 
+trouble-free experience with our service, right from the 
+moment they set up."  California TOK uses a Cisco VOIP 
+router that connects directly to a standard telephone RJ-11 
+jack and to the Ethernet port on a broadband modem. 
+ 
+------------------------------------------- 
+SMALL INVESTMENT, (POTENTIALLY) BIG REWARDS 
+------------------------------------------- 
+ 
+¶3.  (SBU)  Lewak said that TOK's current investment in 
+Poland is about $500,000, although he expects to see that 
+amount double when service is officially launched.  He 
+emphasized that TOK saved tremendous amounts of time and 
+money by establishing a branch office, rather than a legal 
+subsidiary, in Poland.  The paperwork for a branch office is 
+much less than that required for a subsidiary, and for TOK's 
+purposes, at least, gets the company all the legal presence 
+it needs.  Lewak said that his firm got approval from the 
+Polish telecoms regulator (URTIP) as both a voice service 
+and a "telecommunications (read data) provider," and was 
+surprised (as was Econoff) at URTIP's openness to TOK's 
+application.  The firm plans to offer 100 minutes of talk 
+time anywhere in Europe and North America for 49 Zloty 
+(about 15 dollars) per month, with per minute charges after 
+that of less than 10 cents per minute.  This is far and away 
+cheaper than rates charged by Telekomunikacja Polska (TPSA), 
+which still dominates the telecommunications market in 
+Poland, and offers the most popular DSL-based broadband 
+access in Poland.  And that presents a major challenge for 
+TOK. 
+ 
+--------------------------------------------- -- 
+TPSA MODEMS AND TOK SERVICE: GEEKS NOT INCLUDED 
+--------------------------------------------- -- 
+ 
+¶4.  (SBU)  TPSA's DSL service is primarily delivered through 
+universal serial bus (USB) DSL modems.  These modems have no 
+Ethernet ports; rather, they plug right into the computer 
+and, utilizing the "plug-n-play" abilities of Microsoft 
+Windows, set up a direct connection to the internet.  In 
+order to use TOK's VOIP box (or any other router-based 
+application, such as a wireless network access point), the 
+customer must use an Ethernet modem.  Currently, TPSA 
+charges twice the amount for an Ethernet modem as it does 
+for its cheapest USB option.  In addition, TPSA has also 
+rigged its Ethernet modems to block VOIP traffic. 
+ 
+----------------------- 
+KICKOFF WITH A LAWSUIT? 
+----------------------- 
+ 
+¶5.  (SBU)  California TOK plans on launching its service 
+officially in Poland in September.  In addition, it is 
+looking seriously at suing TPSA for violating EU antitrust 
+regulations because of the Ethernet modem issue.  Lewak 
+confided that, in reality, it has no effect on his business. 
+Subscribers to TOK are hooked up by a visiting technician 
+well-equipped to bypass the TPSA access limitation.  In 
+fact, Lewak said, he hopes that the publicity of a lawsuit 
+may actually help TOK in its ad campaign, set to begin soon 
+in cooperation with a Warsaw radio station (and investor) in 
+the service. 
+ 
+------------------ 
+TOK IS CHEAP . . . 
+------------------ 
+ 
+¶6.  (SBU)  Time will tell if TOK really becomes a viable 
+voice services provider in Poland.  But if it does, it will 
+be a prime example of how for very little money, innovative 
+U.S. firms can exploit technological advantages in 
+restrictive telecoms markets to challenge stultified 
+incumbents and make a profit as well. 
+ 
+HILLAS

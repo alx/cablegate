@@ -1,0 +1,158 @@
+07HONGKONG3068
+EXTRANCHECK: POST SHIPMENT VERIFICATION: SCITOP INSTRUMENT
+Thu Dec 20 00:00:00 +0100 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHHK #3068/01 3540740
+ZNR UUUUU ZZH
+R 200740Z DEC 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 3707
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 003068 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: SCITOP INSTRUMENT 
+CO. 
+ 
+REF: A) USDOC 07857 B) D369652 C) D370796 D)D378078 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) at Scitop Instrumentation Co, 
+Unit 2, 28/F, Kwong Kin Trade Centre, No. 5 Kin Fat St., New 
+Territories, Hong Kong. The items in question are masks, glove boxes 
+and valves exported to Scitop Instrumentation Co. on or about April 
+21, 2007, March 24, 2007 and July 28, 2007. These items are 
+classified under Export Control Classification Number (ECCN) 2B350 
+and are controlled for chemical and biological weapons reasons (CB). 
+ The exporter was Cole Parmer Instrument Company of Vernon Hills, 
+Illinois. 
+ 
+¶3.  Background research reveals that Scitop Instrumentation Co. 
+exists in Hong Kong as Scitop Systems Limited (Scitop Systems). 
+That company was registered in February 2003.  Hong Kong residents, 
+Lee, Chi Keung, Leung, Tak Yui and Wong, Yuk Cheung are listed as 
+directors.  The company has the Hong Kong equivalent of USD 1,000 in 
+paid up share capital. 
+ 
+¶4.  Scitop Systems director, Lee, Chi Keung is also a director in 
+Right Products Trading Limited (Right Products). That company was 
+established in 2002 and has the Hong Kong equivalent of less than 
+one USD in paid up share capital.  Besides Mr. Lee, Hong Kong 
+resident, Lock, Man Pan is also listed as a director of Right 
+Products. 
+ 
+¶5.  Scitop Systems director, Wong, Yuk Cheung, is also a director of 
+Trade International Limited (also registered in February 2003) along 
+with mainland Chinese citizen Yang, Yan Bin.  Trade International 
+Limited has the same registered address as Scitop Systems.  The 
+paid-up share capital of Trade International Limited is the Hong 
+Kong equivalent of USD 300. 
+ 
+¶6.  A review of Scitop Systems's web site (www.scitop.com) reveals 
+that Scitop Systems is a distributor of a range of Cole Parmer and 
+other instruments including items in the forensics/law enforcement 
+arena as well as biological and biomedical products.  The site lists 
+several offices in mainland China although some links to those 
+locations are not operational.  The link listing Scitop Systems's 
+office in Shenzhen links to a site for Right Products Trading 
+Limited (with e-mail contact listed as www.rightproducts.com.hk). 
+ 
+¶7.  On September 12, 2007, the ECO visited Scitop Systems at the 
+Kwon Kin Trade Center address listed above and met with Mr. Andy 
+Wong (Wong, Yuk Cheung), one of the directors of the company.  His 
+business card lists subsidiary companies as On Tech Winfull Company 
+Ltd. (Beijing), Scitop Instrument Company Ltd. (Guangzhou) and Right 
+Products Company Ltd. (Shenzhen) as well as a sales office in 
+Shanghai.  Mr. Wong stated Scitop Systems is a group of companies 
+that trades filters, thermometers and testing equipment acquired 
+from the U.S., U.K., and France.  Mr. Wong stated that for some 
+companies, Scitop Systems is the authorized distributor (Cole Parmer 
+being one of those) while for other companies it is an authorized 
+dealer.  The company also operates using agents that bring it 
+business while in other situations the customer comes directly to 
+it. The company has been in existence for six years and its 
+facilities include an office and a warehouse.  Mr. Wong stated that 
+the offices in Shenzhen and Guangzhou are affiliated with the Hong 
+Kong operation but he is unclear as to their ownership structure. 
+Scitop Systems has approximately USD 2 million in annual turnover. 
+ 
+ 
+¶8.  As to the specific transactions in question, Mr. Wong stated 
+that Cole Parmer has stated to him that it may decline future 
+licensed orders below a certain dollar threshold in light of the 
+compliance costs associated with such orders.  He expects to receive 
+that dollar figure soon.  For transactions where a license is 
+required, Mr. Wong stated that he provides Cole Parmer with the 
+standard end-user/end-use information requested by Cole Parmer. 
+ 
+¶9.  D369652:  As to this transaction involving an order by the Hong 
+Kong Health Laboratory, Mr. Wong provided documentation confirming 
+the order and receipt of the Captair Pyramid Glove Bag by the Hong 
+Kong Government. 
+ 
+¶10.  D378078:  As to this transaction, Mr. Wong stated that the 
+needle valves had been delivered to Right Products for resale to the 
+Hong Kong University of Science and Technology.  He provided a 
+delivery document confirming delivery to Right Products.  He stated 
+that Scitop Systems has a longstanding and good relationship with 
+Right Products.  He did not mention the shared directorship between 
+Right Products and Scitop Systems.  When asked during a subsequent 
+ 
+ 
+phone conversation whether the items had been sent to Right Products 
+in Shenzhen, Mr. Wong stated that they had.  He stated that Right 
+Products had informed him that the items were destined for the 
+University of Science and Technology.  When the ECO inquired why a 
+product destined for a Hong Kong University would be shipped to 
+Shenzhen, Mr. Wong stated that often researchers come from the 
+mainland to work in Hong Kong universities.  During a subsequent 
+telephone conversation, Mr. Wong stated that the final destination 
+of the products was not entirely clear to him. 
+ 
+¶11.  D369652:  As to this transaction involving protective masks, 
+Mr. Wong stated at the September meeting that this transaction 
+involved a P.O. from 2006.  He stated that this P.O. was with the 
+auditors who were completing the company's tax returns and he would 
+again have access to them in late October.  On December 9, 2007, Mr. 
+Wong e-mailed a copy of the invoice in question as well as e-mail 
+correspondence between Scitop Instruments and an e-mail address of 
+World Ways Co. (HK) Ltd. (Guangzhou@worldways.com.cn).  In that 
+e-mail, the World Ways representative (presumably from that 
+company's Guangzhou office) stated that the end-user for the items 
+is Agricultural Tests & Supervises Institution of Dong Guan.  That 
+entity's business is inspection and the end-use is listed as 
+protecting.  Mr. Wong provided an additional invoice from Scitop 
+Systems addressed to Guangzhou Gilson, which includes the applicable 
+licensed items.  Despite a number of requests, Mr. Wong did not 
+provide delivery documentation confirming actual delivery of the 
+items. 
+ 
+¶12.  World Ways has a Hong Kong affiliated company named World Ways 
+Company (HongKong) Limited.  It was registered in 1969 and has the 
+Hong Kong equivalent of USD 200,000 in paid-up capital.  Hong Kong 
+residents Chou, Kin Wah, Chou Sun Wha Simon and Wong, Kwong Yung are 
+listed as directors.  The web site of World Ways states that it is a 
+distributor of Gilson products. 
+ 
+¶13.  ECO recommends that OEA conduct a review of all shipments to 
+Scitop Systems, Right Products and World Ways Company (HongKong) 
+Limited as well as all shipments to the addresses of those 
+companies.

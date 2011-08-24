@@ -1,0 +1,149 @@
+09ADDISABABA754
+USAU: STATUS OF COMMAND AND CONTROL PROJECT FOR
+Thu Apr 02 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Addis Ababa
+R 020623Z APR 09
+FM AMEMBASSY ADDIS ABABA
+TO SECSTATE WASHDC 4274
+INFO AFRICAN UNION COLLECTIVE
+HQ USAFRICOM STUTTGART GE
+CJTF HOA
+USMISSION USNATO 
+JOINT STAFF WASHINGTON DC
+SECDEF WASHINGTON DC
+USMISSION USUN NEW YORKUNCLAS ADDIS ABABA 000754 
+ 
+ 
+STATE FOR AF/FO, AF/RSA, AND PM 
+ 
+E.O. 12958: N/A 
+TAGS: MOPS MARR SO UG BU
+SUBJECT: USAU: STATUS OF COMMAND AND CONTROL PROJECT FOR 
+AFRICAN UNION 
+ 
+REF: 08 ADDIS ABABA 1718 
+ 
+¶1. Summary: USAU held a C3IS workshop on Feb. 25-27 to revive 
+the U.S. commitment to the African Union (AU) for a 
+communications package for the African continent's African 
+Standby Force (ASF) program.  The meeting brought together 
+civilian and military communication experts from the AU, UN, 
+U.S. and the EU, as well as members from the AU's Peace and 
+Security Commission and Infrastructure and Communications 
+divisions.  Among the key recommendations from the workshop 
+are to provide immediate relief for the current 
+communications challenge faced by the AU's mission in 
+Somalia, and to begin to create a 24-hour operation center 
+for the AU's Peace and Security Operations Division.  End 
+Summary. 
+ 
+Background 
+---------- 
+ 
+¶2. As a result of a September 2005 G-8 meeting at the AU, the 
+USG and the AU entered into an historical agreement to 
+substantially upgrade the integration and communications 
+capacity of the AU in executing the AU's "Roadmap for the 
+Establishment of the African Standby Force."  From this, the 
+U.S. Department of State agreed to support a Command, 
+Control, and Communication Information System to provide a 
+High Frequency (HF) radio voice network, with a follow-on 
+Very Small Aperture Terminal (VSAT) capability, to facilitate 
+interoperability and information sharing between the AU, the 
+three Regional Economic Communities (RECs), and two Regional 
+Mechanisms (RMs) and the ASF Brigade headquarters.  This 
+system would link, via voice, data, and fax: (i) the AU 
+headquarters in Addis Ababa, Ethiopia; (ii) the five 
+headquarters of the regional ASF brigades; (iii) their 
+subordinate units; and (iv) the proposed depot facility.  The 
+backdrop of this program was to support regional peacekeeping 
+and counter-narcotics efforts through Global Peace Operations 
+Initiative (GPOI) funding. 
+ 
+¶3. The AU C3IS project, originally envisioned as critical to 
+support the ASF, has languished for four years.  As a result, 
+the AU still does not have the C3IS architecture in place. 
+Between contract award in 2005 and 2008 there have been many 
+missteps, miscalculations, misunderstandings, and a general 
+lack of effective communication between and among the USG, 
+its contractors and the AU.  The workshop was held to review 
+the status of the existing project as well as the U.S. 
+commitment to the project. 
+ 
+Current Situation and Proposed Look Forward 
+------------------------------------------- 
+ 
+¶4. Currently the AU does not have equipment to monitor data 
+and control access to sensitive data.  It cannot communicate 
+in real time with deployed forces or effectively with 
+regional ASF headquarters.  AU Peace and Security Operations 
+Division (PSOD)/ASF is not able to guarantee reliable 
+communications among ASF commanders during crisis situations. 
+ An example of this is the recent Vehicle-born Improvised 
+Explosive Device in February 2009 at the AMISOM Burundi base 
+in Mogadishu which left 11 soldiers dead.  The PSOD head was 
+not able to get real time information from his commander on 
+the ground due to lack of communications.  Currently, 
+PSOD/ASF forces in Mogadishu use the open web and calling 
+cards on cell phones when coverage is available to 
+communicate.  This allows anyone, including the enemy, to 
+obtain information about battlefield activity.  Lastly, there 
+is no dedicated maintenance and support for any 
+communications gear. 
+ 
+¶5. The workshop's findings were as follows:  First, C3IS 
+should be refocused to the PSOD.  In crisis situations, PSOD 
+cannot compete with other entities for access to scarce 
+network resources.  A dedicated network for operations 
+support is required.  Second, PSOD needs a robust system with 
+increased availability, security, and quality of service. 
+PSOD must be able to trust, and rely on, system performance 
+during operational missions.  Third, PSOD should have 
+ownership and discretionary access control of the network and 
+data.  This is to ensure control over sensitive data 
+involving operations and to prevent others access to 
+information they do not need to know.  Fourth, C3IS Node 
+locations should be at the PSOD level, which includes the ASF 
+headquarters and Continental Logistics Base; the three RECs 
+(including ECOWAS, ECCAS, and SADC), and the two RMs 
+(including NARC and EASBRICOM), along with their regional 
+planning elements and logistics depot in each of the five 
+regions mentioned; and brigade level headquarters and field 
+mission headquarters for civilian, police, and military. 
+ 
+¶6. In addition to the longer term recommendations outlined in 
+para 5, participants made the following recommendations for 
+immediate relief for the current communication challenges: 
+First, complete the current VSAT installation in Mogadishu. 
+VSAT is designed to create a direct, reliable, and secure 
+connection, through satellite links, between personnel in the 
+field and the AU's 24-hour situation room.  It is capable of 
+linking field officers to AU staff both by e-mail and Voice 
+Over Internet Protocol, expanding and increasing the speed of 
+real-time communication, coordination, and reporting. 
+Second, establish a basic PSOD operations center which could 
+be as simple as a dedicated small office or container with 
+electrical, internet, phone, and fax capability.  Third, 
+utilize the computers and associated non-ITAR restricted 
+equipment from the already provided C3IS equipment that was 
+procured from the initial program.  Fourth, leverage existing 
+AU capabilities for RECs, RMs, and AMISOM.  Fifth, acquire at 
+least one satellite phone so that the PSOD can have some 
+reliable communications going forward with the AMISOM 
+commander. 
+ 
+¶7. Finally, it was agreed that the way forward includes: 
+Presenting the recommendations to the USAU Ambassador and the 
+AU hierarchy for understanding and agreement;  revising the 
+MOU between the U.S. and the AU; developing a network policy 
+for PSOD/ASF system; obtaining dedicated resources, including 
+personnel for operations, maintenance, and training; 
+establishing a dedicated PSOD Network Operations Center with 
+basic initial capability and enhancing it to full capability 
+(i.e. secure voice, internet, fax); establishing a PSOD C3I 
+Network Operations Center with full capability; extending the 
+capability of the PSOD C3IS to the RECs and the RMs. 
+ 
+ 
+YAMAMOTO

@@ -1,0 +1,81 @@
+09MOSCOW1572
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: SWEMEL INNOVATION
+Tue Jun 16 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0010
+PP RUEHWEB
+
+DE RUEHMO #1572 1670641
+ZNR UUUUU ZZH
+P 160641Z JUN 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3807
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001572 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: SWEMEL INNOVATION 
+ENTERPRISE, MOSCOW, RUSSIA. 
+ 
+REFTELS: REQUEST #4210008; DATED 4/30/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Swemel Innovation 
+Enterprise, Moscow, Russia. The company is listed on BIS license 
+applications: D401620 as the foreign purchaser of one arbitrary 
+waveform generator, with options and accessories, model no: 
+AWG7102.10.0 GS/S (20 GS/S interleaved), 8/10-BIT, 32 m point, 
+2-channel. This item is controlled for national security and 
+anti-terrorism reasons under ECCN 3A002. The licensee is Tektronix 
+Inc., 1415 SW Karl Braun Drive, Howard Vollum Park, Beaverton, OR 
+¶97076. 
+ 
+¶3. On June 10, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at FCS office, Bolshoy Devyatinsky pereulok 8, Moscow, 
+Russia. The export control team met with Vladimir Marilovtsev, 
+Director, Swemel Innovation Enterprise and Dmitry Ershov, General 
+Director, Master-Tool Ltd, Swemel Group. 
+ 
+¶4. Swemel Innovation Enterprise is part of the Swemel Group, and was 
+established in 1998. Swemel Goup employs approximately 120 people in 
+4 companies: Swemel Innovation Enterprise, Sinclit, Acti-Master and 
+Master-Tool Ltd. Swemel Group has been a distributor of Tektronix 
+equipment for many years. Dmitry Ershov provided the export control 
+team with copies of trade magazine articles and advertisements that 
+clearly indicate his companyQs relationship with Tektronix as a 
+distributor of its products. Vladimir Marilovtsev stated that Swemel 
+Group has an in-house compliance program in place to receive 
+licensable dual use commodities from the United States. Marilovtsev 
+indicated knowledge of the end use restrictions on licensable U.S 
+origin dual use commodities. 
+ 
+¶5. The commodity in reftel was purchased by Master-Tool Ltd for the 
+end user VNIIFTRI, the Russian Scientific Institute for Physical and 
+Radio Measurements.  VNIIFTRI will use the reftel commodity to 
+develop and maintain standards of measurement methodology across a 
+broad range of fields, including time, frequency, acoustic, radio 
+and electric and magnetism. 
+ 
+¶6. The export control team found that the reftel commodity is being 
+used for the end use for which it was licensed, there are no 
+indications of impropriety, and the consigneeQs answers were not 
+evasive. 
+ 
+¶7. Recommendations: Post recommends Swemel Innovation Enterprise, 
+Moscow, Russia, as a reliable recipient of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

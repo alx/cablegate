@@ -1,0 +1,63 @@
+09HONGKONG320
+EXTRANCHECK: PRE LICENSE CHECK: CASTLE PEAK POWER COMPANY
+Mon Feb 23 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #0320 0540009
+ZNR UUUUU ZZH
+R 230009Z FEB 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 6932
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000320 
+ 
+USDOC FOR 532/OEA/MNICKSON/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE LICENSE CHECK: CASTLE PEAK POWER COMPANY 
+ 
+REF: A) USDOC 00088 B) D409723 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a pre license check (PLC) at Castle Peak Power Company, 147 Argyle 
+Street, Kowloon, Hong Kong (Castle Peak).  The items in question are 
+various gate valves and parts classified under export control 
+classification number (ECCN) 2B350 and controlled for chemical and 
+biological weapons reasons (CB).  ITT Industries of Amory 
+Massachusetts is the license applicant for these items (BIS license 
+application number D409723). 
+ 
+¶3.  Castle Peak is one of Hong Kong's electric utility companies. 
+It provides electricity to approximately seventy percent of Hong 
+Kong's population.  More information is available at 
+www.clpgroup.com. 
+ 
+¶4.  On January 20, 2009, ECO visited Cable Peak and met with Hon Sun 
+Lee, Senior Project Engineer, Emission Control Project, CLP Power 
+Hong Kong Limited and Mr. Zhang, Shu Wen, Manager of the Procurement 
+Department of Wuhan Kaidi Electric Power Environmental Co., Ltd. 
+Mr. Lee provided background on Castle Peak's flue gas 
+desulphurization plant project consistent with the information 
+provided in reftel A.  He also introduced Mr. Zhang, who is the 
+representative of Wuhan Kaidi Electric Power Company.  That company 
+was awarded the engineering procurement and construction contract to 
+build the desulphurization plant.  The valves and valve parts will 
+be used in the building project and Mr. Zhang and Mr. Lee confirmed 
+that the valves and parts will be used only in this project in Hong 
+Kong and will not be shipped to mainland China. 
+ 
+¶5.  Based on the information noted above, ECO believes Castle Peak 
+is a suitable recipient of U.S. origin controlled technology.

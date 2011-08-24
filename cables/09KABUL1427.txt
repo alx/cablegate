@@ -1,0 +1,219 @@
+09KABUL1427
+Knowledge Management Training and Evaluation Team
+Sun Jun 07 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Kabul
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHBUL #1427/01 1580606
+ZNR UUUUU ZZH
+R 070606Z JUN 09
+FM AMEMBASSY KABUL
+TO RUEHC/SECSTATE WASHDC 9268
+INFO RUEHBK/AMEMBASSY BANGKOK 2045
+RUEHFSI/FSINFATC WASHDCUNCLAS KABUL 001427 
+ 
+SIPDIS 
+ 
+STATE FOR NEASCA/EX 
+STATE FOR IRM/BPC/CST/LD 
+BANGKOK FOR RIMC 
+ 
+E.O. 12958: N/A 
+TAGS: AADP AMGT PGOV AF
+SUBJECT:  Knowledge Management Training and Evaluation Team 
+visit to Kabul, June 1-5 
+ 
+SUMMARY 
+======= 
+¶1. A four-person team, experienced in the application of KM 
+methods, visited Kabul to train staff on classified and 
+unclassified tools currently accessible to them and to evaluate 
+how KM methods could be employed to meet the needs of the U.S. 
+Mission.  Network issues aside (these will be addressed by a 
+technical team 10-14 June) the KM team found that, with 
+appropriate training, management attention, policy support and 
+on site KM expertise, currently available systems could meet 
+many of KabulQs needs.  Nevertheless, the team learned that the 
+embassy also faces a growing number of issues that require 
+substantial external collaboration where new approaches will 
+have to be developed. 
+ 
+TRAINING 
+======== 
+ 
+¶2. The team ran more than 25 one-hour training and awareness 
+briefings that mission staff were invited to attend on a 
+voluntary basis,  These sessions covered Intellipedia, 
+Communities@State, SharePoint, Intelink/uGov email, and Net- 
+Centric Diplomacy.  They also provided a forum for the 
+discussion of current workflows and where improvements could be 
+made through the application of IT.  Staff were largely 
+unfamiliar with the full range of information sharing and 
+collaboration tools available to them.  Perhaps more 
+importantly, use of these tools at post has been ad hoc and most 
+of the examples of good use were not institutionalized but 
+rather were reliant on the interest and enthusiasm of a single 
+individual or small group. 
+ 
+¶3. The team also provided a number of staff one-on-one training 
+at the usersQ desks in the front office, political, SIGAR, CLO 
+and DoJ.  It is telling to note that most usersQ classified 
+browsers retained only the default bookmarks to Internet sites. 
+Many were unaware of the resources available to them through NCD 
+and Intellipedia or the current locations of the post SharePoint 
+sites and Communities@State sites.  None had a clear 
+understanding of the level of visibility of these various 
+websites across the network or the degree to which information 
+is automatically synchronized, or not, across the networks.  Due 
+to time constraints, the team was unable to do much more than 
+generate a modest awareness of some of the capabilities among 
+those trained.  Users were encouraged to think about their daily 
+process and how these tools might be incorporated into their 
+work flow. 
+ 
+MEETINGS 
+======== 
+ 
+¶4. The team briefed the Country Team on the overall goals of the 
+visit, the topology of the networks and domains available to the 
+post, and the main tools that would be briefed to staff.  The 
+team also had individual meetings with the Deputy Ambassador and 
+Assistant Ambassador to discuss the policy and management 
+implications of the use of the new technology.  The Special 
+Inspector General for the Reconstruction and Development 
+activity was also briefed on the KM effort and the impact it 
+could have on the audit, inspection, and investigative process. 
+USAID executive officers and USAID program staff were also 
+briefed and trained in two separate sessions.  USAID is moving 
+forward with implementing a stand-alone version of the open- 
+source Drupal content management system on the Internet to 
+provide PRTs team workspace functionality.  Personnel from the 
+following sections were trained POL, POLMIL, PRT, FAA, INL, MGT, 
+Rule of Law, DoJ, RAO, PAS, and Elections.  The team also met 
+with the USMC liaison officer for 2nd MEB in Afghanistan.  He 
+indicated the MEB would take StateQs direction on collaboration 
+methodology but absent clear guidance from State, the MEB would 
+deploy a solution of its choice. 
+ 
+ISSUES 
+====== 
+ 
+¶5. The same KM issues that many enterprises are wrestling with 
+are even more prominent at mission Kabul, where the constraints 
+of the environment bring these issues into sharp relief.  The 
+deficiencies of coordinating work by email, for example, is a 
+common problem that private sector institutions are currently 
+addressing by a variety of web-based approaches to information 
+sharing.  In Kabul the need for improvements to pure email 
+processes is even more urgent while the infrastructure and 
+capabilities available to support the use of new systems is 
+inadequate. 
+ 
+¶6. During the course of the visit it became clear that many 
+ 
+mission activities, particularly those related to reconstruction 
+and development, are done at an entirely unclassified level and 
+often with the direct participation of representatives of 
+external entities, including foreign governments and non- 
+governmental organizations.  Since many of the key players in 
+these areas are ineligible for access to U.S. government 
+networks, interactions take place exclusively in face-to-face 
+meetings and through email exchanges, with all of the attendant 
+inefficiencies and lack of management visibility inherent in the 
+use of email. 
+ 
+¶7. Finally, while collaborative systems on the Internet can grow 
+and thrive based entirely on the efforts of a self-selected 
+group of volunteers who manage to learn the technology on their 
+own, for organizations to use these tools effectively resources 
+need to be devoted to training users, establishing policies, and 
+managing the sites.  Lacking programmatic support, participation 
+will almost always remain limited and partial adoption is rarely 
+beneficial.  Just like email, these systems are most useful only 
+when they are universal.  The network effects of having everyone 
+use the technology are large, and the key to successful use of 
+new information-sharing tools.  While the level of resources 
+required to achieve full adoption is not particularly high, it 
+is also not zero. 
+ 
+CONCLUSIONS AND RECOMMENDATIONS 
+=============================== 
+¶8. The Mission to Afghanistan could derive substantial benefit 
+from better use of the KM tools available to it today on 
+internal networks.  It could also benefit from more aggressive 
+use of Internet-based collaboration tools that could improve 
+interaction with external partners.  Mission Management clearly 
+and forcefully supports the use of new technology to promote 
+information sharing and collaboration and is pragmatic about the 
+need to leverage this technology to maximize mission 
+performance, even if this requires breaking some institutional 
+rice bowls.  Nevertheless, Front Office support and availability 
+of the tools are not enough to ensure success, as evidenced by 
+the fact that the Front Office itself is of necessity using 
+email to distribute Daily activity reports and Country Team 
+notes and agendas. 
+ 
+¶9. Local KM team needed. Several organizations within the 
+embassy community have recognized the need for KM professionals 
+in their staffs.  Unless the embassy obtains resources in this 
+area, there is a strong possibility that KM will remain 
+disjointed at post and will lack overall management and 
+direction.  We see an immediate need for support in this area as 
+KM efforts will otherwise proceed in an uncoordinated fashion. 
+Translating the AmbassadorQs strong support for modernized KM 
+across the mission into reality will require technical, policy, 
+and training capabilities that the post currently lacks. The IMO 
+has requested three contract positions for this function as part 
+of a total IT requirements request for Mission Afghanistan. 
+ 
+¶10. Systems for collaboration on the Internet need to be visible 
+and the information generated in them needs to flow to 
+government systems.  Post has a clear and immediate requirement 
+for collaborative systems on the Internet to facilitate 
+interaction with outside entities.  As mentioned earlier, USAID 
+and the DoD are already moving to create Internet-based systems 
+to satisfy this immediate need.  We believe, however, that if 
+these systems are implemented without also including a way for 
+the information generated in them to enter government systems 
+easily and automatically, a major source of knowledge will be, 
+in effect, stovepiped and probably lost.  While we applaud the 
+creation of Internet-based sharing systems to meet immediate 
+needs, we believe that any such system should be built to 
+include the function of easy and automatic sharing of the 
+information generated with internal USG systems.  Prior to 
+visiting post the team determined that, with support of services 
+provided by other agencies, setting up such a flow is entirely 
+within the realm of current capabilities. 
+ 
+¶11. State-only systems are of limited utility.  In missions like 
+Kabul and many, many others, where almost every issue of 
+substance has interagency interest and participation, 
+collaboration across agency boundaries has become the norm. 
+Systems that are fielded in such a way as to limit the ability 
+to include participants from other agencies are, as a result, 
+less useful than those that allow broad access.  SharePoint, for 
+example, would be of more value if it could be easily accessed 
+by other agencies, regardless of their networks. 
+ 
+¶12. Training in KM tools and capabilities needs to begin in 
+Washington.  Formal training on Intellipedia, Ugov, Communities 
+at State and SharePoint needs to be integrated into the yearlong 
+ 
+Area Studies course, the PRT and Afghan familiarization courses 
+and any other mandatory course for employees traveling to 
+Afghanistan. 
+ 
+POST COMMENT 
+============ 
+ 
+¶13.  Post appreciates the time, enthusiasm and dedication that 
+David McKee, John Janek, Kim Allred and Fred Hassani displayed 
+during their six days in Kabul.  For both the Elections and PRT 
+teams there has been progress made on getting an easily 
+accessible collaborative site up and running for these two 
+important areas thanks to the KM team.  The entire Mission 
+benefitted from their training.  Now we require dedicated KM 
+resources here in Kabul to keep the momentum going and we look 
+forward to the Department's quick support in this area.

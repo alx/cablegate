@@ -1,0 +1,125 @@
+06PARIS7633
+French Digital Copyright Law Demarche
+Fri Dec 01 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXRO4027
+RR RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHFR #7633/01 3351403
+ZNR UUUUU ZZH
+R 011403Z DEC 06
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 3508
+RUCPDOC/DEPARTMENT OF COMMERCE WASHDC
+INFO RUCNMEM/EU MEMBER STATES COLLECTIVEUNCLAS SECTION 01 OF 02 PARIS 007633 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD ECON EFIN KIPR FR
+SUBJECT: French Digital Copyright Law Demarche 
+ 
+REF: A) STATE 190838 B) PARIS 6811 B) PARIS 5242 
+ 
+¶1. (SBU) Summary: Per Ref A, Embassy officers have reiterated USG 
+concerns relating to the proposed decree (Ref B), which would 
+implement France's controversial new copyright legislation.  We will 
+use the upcoming visit of DUSTR Veroneau December 8 to underscore 
+the importance of this issue for the U.S.  French government 
+officials continue to tell us they are open to concrete suggestions 
+to minimize the impact on industry but time is growing short.  We 
+understand the draft decree will be reviewed by an inter-ministerial 
+committee starting the week of December 4 and that it could be 
+approved by the Conseil d'Etat as early as January 2007.  End of 
+Summary. 
+ 
+¶2. (SBU) Embassy officers delivered Ref A demarche on the draft 
+implementing decree of France's copyright law to Ministry of Culture 
+cabinet advisor Marc Herubel on November 28, and to Trade Minister 
+Lagarde's EU adviser, Eric Peters on November.  Additional meetings 
+are scheduled with President Chirac's staff and with the Industry 
+Minister's Legal Adviser.  We also briefed representatives of the 
+Business Software Alliance (BSA) November 27.  In response to our 
+concerns, Herubel explained that while he is open to suggestions 
+regarding the draft decree, it could not contain any language 
+contradicting or adding to the substance of the law.  He noted that 
+the new Technical Authority will develop "jurisprudence" on a 
+case-by-case basis and it is anticipated this will be elaborated 
+further by decisions of the Cour d'Appel de Paris (appeals court) 
+and the Cour de Cassation (court of last resort). 
+Herubel informed us that an inter-ministerial process to review and 
+approve the decree will commence December 4.  He added that there 
+would be no other or additional decrees regarding the implementation 
+of the law, with the exception of the decrees nominating the members 
+of the TMRA (Technical Measures Regulation Authority).  Herubel 
+concluded that Culture Minister de Vabres would like the new 
+authority to be fully operational by the end of January, but Herubel 
+doubts this will be the case. 
+ 
+¶3.  (SBU) In our meeting with Herubel, he said that access of 
+consumer groups to the TMRA would be limited to questions of 
+"exceptions" to copyright, which in France also include the "right 
+to private copy."  He confirmed that consumers groups would not have 
+standing before the TMRA regarding interoperability issues. 
+Finally, regarding trade secrets, Herubel explained that his 
+Ministry had decided to allow the TMRA to determine the process of 
+protecting trade secrets.  He noted that such decisions, either to 
+keep documents confidential or not, would not be subject to appeal. 
+(Note: France does not have legislation protecting trade secrets 
+comparable to that which exists in the U.S. End note.) 
+ 
+¶4.  (SBU) Herubel suggested three specific areas where U.S. comments 
+could be helpful: 
+ 
+-- As the TMRA will enforce the principle of interoperability based 
+on the findings of "rapporteurs," who will determine whether 
+specific technical measures are indeed sufficient to protect 
+copyright, Herubel said specific language could be introduced 
+detailing what are "permissible technical measures" (see Article 14 
+of the law, L. 331-7); 
+ 
+-- The guidelines on the scope of action of the TMRA and the 
+rapporteurs are outlined in Art 331-19, para 1 and 4 of the draft 
+decree.  Herubel welcomed our suggestions on guidelines/principles 
+that could be used by the new authority to determine the efficiency 
+and integrity of Digital Rights Management (DRM) systems. 
+ 
+-- On compensation, Herubel suggested that we provide him with 
+language to be added to Art 331-19, para 2 of the draft decree 
+defining how to measure and determine what would be "just" and 
+appropriate (e.g. true economic value) compensation. 
+ 
+¶5.  (SBU) Eric Peters, a member of Trade Minister Lagarde's cabinet, 
+explained that while the Ministry of Culture has the lead on the 
+issue, the start of the inter-ministerial process will provide other 
+Ministries, such as Trade and Industry, an opportunity to review and 
+influence the proposed decree.  Peters and his staff will review the 
+decree to determine in particular its compatibility with EU 
+directives and WTO commitments.  Peters asked that we remain in 
+close touch with the Trade Ministry in the coming weeks on this 
+issue. 
+ 
+¶6.  (SBU) Comment:  Although we were told by industry that European 
+Commission officials have indicated concern with the French law, we 
+understand the French have heard very little from the Commission. 
+Continued sensitization of Brussels by a broad spectrum of U.S. and 
+European industry of our concerns would be helpful.  BSA has 
+informed us that in its view much more pressure needs to be exerted 
+on the French to effect real change.  Additional guidance on these 
+issues, as well as those identified by Herubel (compensation, 
+permissible technical measures, DRM integrity/efficiency guidelines) 
+would be appreciated.  We will continue to press our broader 
+concerns with contacts throughout the French government as the 
+inter-ministerial process reaches its end-game.  But we also take 
+ 
+PARIS 00007633  002 OF 002 
+ 
+ 
+note of Herubel's comment that many key questions are likely to be 
+decided by jurisprudence that will evolve from decisions of the TMRA 
+and the French courts. 
+ 
+STAPLETON

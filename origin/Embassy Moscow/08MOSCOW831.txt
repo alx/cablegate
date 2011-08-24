@@ -1,0 +1,96 @@
+08MOSCOW831
+EXTRANCHECK: PRE-LICENSE CHECK: ATLANTIS
+Wed Mar 26 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0009
+PP RUEHWEB
+
+DE RUEHMO #0831 0861548
+ZNR UUUUU ZZH
+P 261548Z MAR 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 7298
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000831 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/JHOWARD 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: ATLANTIS 
+COMMUNICATIONS, MOSCOW, RUSSIA, LICENSE NO. D390433 
+ 
+REFTEL: USDOC 00821 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a pre-license check to determine 
+the legitimacy and reliability of the end-user, 
+Atlantis Communications, Moscow, Russia. The company 
+is listed on BIS license application D390433 as the 
+ultimate consignee of cm4 Linux unity software, 
+operating system for the media gateways. These items 
+are controlled for national security and anti- 
+terrorism reasons under ECCN 5D002. The licensee is 
+Avaya, Inc., 211 Mt. Airy Road, Basking Ridge, NJ 
+¶07920. 
+ 
+¶3. On March 24, 2008, Export Control Attache Peter 
+Liston and LES Natalya Shipitsina conducted the 
+requested pre-license check at the offices of Atlantis 
+Communications, 2-nd Zvenigorodskaya st., 13, bld.40, 
+Moscow, Russia. The Export Control Team met with 
+Sergey Melnik, Head of Telephone System Department, 
+Tatiana Kramarenko, Channel Account Manager (Avaya 
+Co.), Igor Krivoruchenko, Director, Govermnent Sector 
+Russia and CIS (Avaya Co.), Dmitry Koshelev, Deputy 
+Head of Technical Department, Central Administrative 
+Board of Ministry of Internal Affairs (GUVD, Moscow 
+Police Traffic Department) and Andrey Bushuev, Head of 
+Technical Department, Central Administrative Board of 
+Ministry of Internal Affairs (GUVD, Moscow Police 
+Traffic Department). 
+ 
+¶4. Atlantis Communications is a solely owned and 
+operated Russian company that was founded in 1998 and 
+employs approximately 300 people.  Atlantis purchases 
+primarily U.S. origin telecommunications equipment 
+(AT&T and Lucent) for re-sale on the Russian market. 
+Atlantis does not sell to customers outside of the 
+Russian Federation. 
+ 
+¶5. The commodity in subject reftel has been purchased 
+by Atlantis through the license applicant Avaya, in 
+order to upgrade the telecommunications equipment 
+currently in place at the Moscow City Traffic Police 
+(GUVD).  The equipment currently in place with the 
+GUVD is also U.S. origin and is approximately 10 years 
+old. 
+ 
+¶6.  Atlantis Communications, and the ultimate end-user 
+GUVD, appear to have the technical and commercial 
+sophistication consistent with that for which the 
+commodity in question was designed.  Atlantis 
+Communication and GUVD appear to have a legitimate 
+need for the commodity in subject reftel. 
+ 
+¶7. Recommendations: Post recommends Atlantis 
+Communications and Central Administrative Board of 
+Ministry of Internal Affairs (GUVD, Moscow Police 
+Traffic Department), Moscow, Russia, as reliable 
+recipients of sensitive U.S. origin commodities. It is 
+requested that Post be notified of final disposition 
+of the application, and of any shipments for this 
+organization in order to conduct appropriate FCS 
+follow-up and statistical reporting. 
+(FCS MOSCOW/BBLECHER/PLISTON) 
+BURNS

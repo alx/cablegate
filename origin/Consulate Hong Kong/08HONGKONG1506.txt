@@ -1,0 +1,105 @@
+08HONGKONG1506
+EXTRANCHECK: POST SHIPMENT VERIFICATION: WINDWAY
+Fri Aug 15 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHHK #1506 2280234
+ZNR UUUUU ZZH
+R 150234Z AUG 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 5566
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001506 
+ 
+USDOC FOR 532/OEA/LHINES/SHUERTA/EHOLLAND 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: WINDWAY 
+TECHNOLGIES, [AKA SHENZEN WINDWAY TECHNOLOGIES], SEMITEK ELECTRONICS 
+LTD. 
+ 
+REF: A) USDOC 03132 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) attempted 
+to conduct post shipment-verifications (PSV) at Windway Technologies 
+(AKA Shenzen Windway Technologies) and Semitek Electronics Ltd. both 
+located at Rooms 1102-1102, Kowloon Building, 555 Nathan Road, 
+Kowloon, Hong Kong (Windway/Semitek). The item in question for the 
+Windway shipment is digital signal processing hardware exported to 
+Windway on or about October 11, 2007 and valued at USD 4,975. Items 
+shipped to Semitek on October 26, 2007 include aircraft parts.  On 
+the applicable shippers export declarations (SEDs), these items are 
+classified under export control classification number (ECCN) 3A992 
+and 7A994 respectively and, if properly classified, would be 
+controlled for anti-terrorism (AT) reasons.  The exporter was EWA 
+Technologies, Inc. of Mount Laurel, New Jersey (for the hardware) 
+and Fatair of City of Industry, California. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Windway has been 
+in existence since 2003.  Its paid up share capital is the Hong Kong 
+equivalent of USD 1,300.  Mainland China national Kuang, 
+Zaihua(mainland Passport number: G01792710) is listed as the sole 
+director.  This individual is not a director in any other Hong Kong 
+company although a review of the Shenzhen, mainland China companies 
+registry web site (at the Shenzhen Industrial and Commercial 
+Administration Bureau) lists a Shenzhen company Windway (with Kuang, 
+Zaihua as director).  Compak Secretaries Limited is listed as the 
+company's corporate secretary in Hong Kong and Windway's corporate 
+address is the same as the address of Compak.  Compak has multiple 
+office locations (www.compak.com.hk) including an additional office 
+on the 14th floor of the Kowloon building. 
+ 
+¶4.  Commercial Assistant Carrie Chan attempted for some time to 
+arrange a time to conduct the PSV.  A representative of Compak 
+answered the Hong Kong number provided for Windway.  That person 
+provided a mainland China phone number for the company but refused 
+to pass a message to Windway in the mainland.  The ECO does not 
+contact companies in mainland China consistent with limitations on 
+the scope of operations of the ECO in Hong Kong.  ECO sent a 
+registered letter to Windway requesting a meeting.  A representative 
+of Compak accepted that letter on Windway's behalf but, to date, no 
+contact has been made by representatives of Windway.  ECO does not 
+expect Windway to be in touch. 
+ 
+¶5.  According to the Hong Kong Companies Registry, Semitek was 
+incorporated in 2002 and has the Hong Kong equivalent of USD 1300 in 
+share capital.  Its directors are listed as Chinese mainland 
+nationals He, Dong Sheng (Passport number G02704343) and Wang, You 
+Jun (Passport number 145744147).  Neither individual is listed as a 
+director in any other Hong Kong company.  Semitek's corporate 
+secretary is listed as United Incorporations Limited, also listed as 
+being located at the same address.  United Incorporations Limited 
+has a range of international offices 
+(www.ukinc.org/contact/default.html).  According to Semitek's web 
+site, it is engaged in the RF & Microwave high-tech market in China 
+(www.semitekcn.com). 
+ 
+¶6.  As in the case of Windway, a representative of Compak answered 
+the phone number provided for Semitek.  The Compak representative 
+declined to forward a message to Semitek representatives in the 
+mainland but stated that it would forward a letter.  ECO sent a 
+registered letter requesting a meeting to Semitek that was received 
+(and the receipt marked with what appears to be the Semitek seal). 
+ECO has received no reply from Semitek and does not expect to 
+receive one. 
+ 
+¶7.  Windway and Semitek are unsuitable recipients of U.S. origin 
+ 
+technology as they do not appear to have a physical presence in Hong 
+Kong and did not agree to accept PSVs. ECO recommends that Windway 
+and Semitek be added to the BIS Unverified List.  At OEA's 
+direction, ECO may request that the Hong Kong government assist the 
+ECO in making contact with these companies.

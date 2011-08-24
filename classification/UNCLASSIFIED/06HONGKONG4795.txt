@@ -1,0 +1,122 @@
+06HONGKONG4795
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Wed Dec 20 00:00:00 +0100 2006
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHHK #4795/01 3540903
+ZNR UUUUU ZZH
+R 200903Z DEC 06
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9871
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 004795 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+ADVANCED ENERGY-SHENZHEN C/O BALTRANS LOGISTRIC 
+ 
+REF: A) USDOC 05352 
+ 
+1.Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO) conducted a post shipment 
+verification (PSV) at Advanced Energy-Shenzhen 
+(Advanced Energy) C/O Baltrans Logistic (Baltrans), 59 
+Tai Yip Street, Kowloon, Hong Kong.  The items in 
+question are power hybrid circuits valued at USD 
+84,000, classified under Export Control Classification 
+Number (ECCN) 9A004 and controlled for national 
+security (NS) reasons. If properly classified, these 
+items would most likely require a license for export to 
+Hong Kong and mainland China.  The exporter is 
+International Rectifier of Leominster, Massachusetts 
+(International Rectifier).  Records provided by OEA 
+indicate that no license was obtained for this 
+shipment.  More information about Advanced Energy is 
+available at www.advanced-energy.com and more 
+information about International Rectifier is available 
+at www.irf.com. 
+ 
+¶3.  The ECO visited Baltrans at the address referenced 
+above on December 7, 2006 and met with Mr. Theodore 
+Shum, Assistant Manager, Airfreight Operations, Import 
+and Mr. Gordon Lam, Operations Manager, Airfreight, 
+Import.  Mr. Lam provided background on Baltrans and 
+its business, which involves the provision of a range 
+of logistics and freight forwarding services.  Baltrans 
+is an internationally known freight forwarding and 
+logistics company (www.baltrans.com). 
+ 
+¶4.  Mr. Lam stated that with respect to the shipment in 
+question, Baltrans acted merely as the warehouse for 
+Advanced Energy.  In particular, Federal Express was 
+responsible for the export of the item from the United 
+States as well as all import formalities into Hong 
+Kong.  Federal Express delivered the items to Baltrans 
+who, in turn, informed Advanced Energy of the arrival 
+of the items.  Advanced Energy, in turn, sent a truck 
+to pick up the items for onward shipment to mainland 
+China.  According to Mr. Lam, Advanced Energy was 
+responsible for all export related formalities from 
+Hong Kong.  In fact, Mr. Lam stated that Baltrans does 
+not perform export licensing services on behalf of its 
+customers (Note:  some freight forwarders in the United 
+States complete such formalities on behalf of 
+customers). 
+ 
+¶5.  Mr. Lam claimed that Advanced Energy is no longer a 
+customer of Baltrans and switched logistics providers 
+approximately three months prior to the PSV.  He 
+further stated that he is unaware of Advanced Energy's 
+current logistics provider.  He indicated that because 
+the shipment had occurred some time ago, he was unable 
+to access the applicable shipping documents.  He 
+averred that the documents had already been sent to 
+storage and so would be too difficult to provide to the 
+ECO. 
+ 
+¶6.  When asked by the ECO why the shipment had taken 
+the route that it had (through Hong Kong to Shenzhen), 
+Mr. Lam indicated that he had put the same question to 
+Advanced Energy since Baltrans has an office in 
+Shenzhen.  According to Mr. Lam, Advanced Energy 
+declined to answer Mr. Lam's question. 
+ 
+¶7.  As stated above, if properly classified, these 
+items would require a license for export to either Hong 
+Kong or mainland China.  The ECO recommends that BIS 
+reach out to the exporter to determine why it did not 
+obtain a license for this shipment and, further, why it 
+listed Hong Kong as the country of ultimate destination 
+when it is clear from the applicable documentation 
+provided by OEA that the shipment was destined for 
+mainland China. 
+ 
+¶8. At the time visited, Advanced Energy did not appear 
+to be a suitable recipient of controlled items since 
+Advanced Energy does not have a manufacturing or other 
+facility in Hong Kong at which such items might be put 
+to use. The ECO recommends that this PSV of Advanced 
+ 
+ 
+Energy be classified as Unfavorable. 
+ 
+Cunningham

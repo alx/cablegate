@@ -1,0 +1,85 @@
+06PARIS6557
+FRANCE:  BLUE LANTERN LEVEL 3:  POST-LICENSE END
+Mon Oct 02 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Paris
+null
+Lucia A Keegan  10/03/2006 09:44:44 AM  From  DB/Inbox:  Lucia A Keegan
+
+Cable 
+Text:                                                                      
+                                                                           
+      
+UNCLAS        PARIS 06557
+
+SIPDIS
+cxparis:
+    ACTION: ECON
+    INFO:   ENGO DCM ECNO SCIO TRDO ESCI FCS UNESCO ECSO
+            SCI POL ORA AMB AGR LABO
+
+DISSEMINATION: ECONOUT /1
+CHARGE: PROG
+
+APPROVED: ECON:SDWYER
+DRAFTED: ECON:HSULLIVAN
+CLEARED: NONE
+
+VZCZCFRI157
+PP RUEHC
+DE RUEHFR #6557 2751636
+ZNR UUUUU ZZH
+P 021636Z OCT 06
+FM AMEMBASSY PARIS
+TO SECSTATE WASHDC PRIORITY 1862UNCLAS PARIS 006557 
+ 
+SIPDIS 
+ 
+STATE FOR PM/DTCC - BLUE LANTERN COORDINATOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC FR
+SUBJECT: FRANCE:  BLUE LANTERN LEVEL 3:  POST-LICENSE END 
+USE CHECK ON LICENSE 05-1004395 
+ 
+REF: STATE 134294 
+ 
+¶1.  Per reftel, Post Blue Lantern Action Officer contacted 
+the French company ACAL's Product Line Manager Philippe 
+Bluteau and the end-user company SAGEM Defense and Security 
+Transmission Drone (TACTDRONE) Activity Chief Pascal Paqueron. 
+ 
+¶2.  ACAL's Bluteau confirmed that ACAL ordered SIRENZA items 
+referenced SVCO-5176, 5177, 5178, and 5179 and that the order 
+corresponds exactly with an order placed by SAGEM S&D, which 
+they confirm is the final end user.  Bluteau said that ACAL 
+is generally familiar with the USML regulations as they 
+affect their obligations when placing an order with Sirenza. 
+Further, ACAL is SIRENZA's representative in France. 
+ 
+¶3.  Concerning reftel's query regarding invoice item number 
+five, valued at USD 3000, Bluteau explained that it is not 
+for a physical commodity but for development costs (NRE- 
+Non-Recurring Engineering Costs) required to study the 
+specific products and their ability to satisfy SAGEM's 
+technical requirements, e.g., frequency band and output 
+level. 
+¶4.  SAGEM's Paqueron told us that the items ordered are for 
+development of the "new generation of systems for 
+transmitting data to and from unmanned aviation vehicles 
+(UAV)."  According to Paqueron, SAGEM ordered just a few 
+items of each component to assemble prototypes for testing 
+purposes and SAGEM is the final end user for this specific 
+order.  According to SAGEM, "If the performance sought is 
+achieved, it is likely that SAGEM will place other orders for 
+production to cover the needs of clients such as the French 
+Defense Ministry." 
+ 
+¶5.  Paqueron said that he had an established relationship 
+with ACAL, which is a regular supplier of SAGEM.  He 
+considers the firm a responsible importer of U.S. Munitions 
+list commodities.  He confirmed the order of the UAV 
+communications equipment from ACAL. 
+Please visit Paris' Classified Website at: 
+http://www.state.sgov.gov/p/eur/paris/index.c fm 
+STAPLETON

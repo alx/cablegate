@@ -1,0 +1,282 @@
+05ANKARA2552
+BANK COMPLIANCE
+Wed May 04 00:00:00 +0200 2005
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ankara
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 04 ANKARA 002552 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+TREASURY FOR INTERNATIONAL AFFAIRS, OFAC, FINCEN, TFFC 
+ 
+E.O. 12958: N/A 
+TAGS: KTFN EFIN PTER TU
+SUBJECT: BANK COMPLIANCE 
+ 
+REF: ANKARA 1664 
+ 
+THIS CABLE WAS COORDINATED WITH CONGEN ISTANBUL. 
+ 
+¶1. (SBU) Summary.  In a round of meetings with Turkish 
+bankers, Econoff obtained their perspective on Turkey's 
+anti-money laundering and terrorist financing regime. 
+Currently, Turkish banks are following a less vigilant 
+framework of policies and procedures than those of their 
+foreign bank counterparts in Turkey who have followed strict 
+AML/CTF policies for the past 20-30 years.  The Bank 
+Association and Turkey's financial intelligence unit, MASAK, 
+are working together to develop a set of uniform guidelines 
+for banks that seeks to address the weaknesses in the bank 
+system's financial crimes prevention and identification 
+procedures and to help banks be in compliance with 
+international guidelines such as those of the Financial 
+Action Task Force (FATF), which is due to conduct a country 
+review of Turkey at the end of 2005/beginning of 2006.  End 
+Summary. 
+ 
+---------------------------- 
+AML/CTF Regulatory Framework 
+---------------------------- 
+ 
+¶2. (U) The 1996 Law on the Prevention of Money Laundering is 
+the basis for the GOT,s anti-money laundering (AML) and 
+counter-terrorism finance (CTF) regime.  The Financial Crimes 
+Investigation Board, MASAK, was established under this law. 
+MASAK,s main duties are to receive, analyze and, if 
+necessary, refer suspicious transaction reports (STRs) for 
+investigation by the six authorized government inspection 
+units.  MASAK serves as Turkey,s financial intelligence unit 
+(FIU) and is the main link between the financial sector and 
+law enforcement agencies for financial crime.  Since the 
+enactment of the 1996 Law, MASAK has issued several general 
+communiques to Turkish banks regarding customer 
+identification rules, suspicious transaction reporting, and 
+terrorist financing.  These communiques, the anti-money 
+laundering law, and various international guidelines on 
+financial crimes shape Turkey,s regulatory framework on AML 
+and CTF. 
+ 
+------------------------------- 
+Bank Compliance: Turkish Banks 
+------------------------------- 
+ 
+¶3. (U) Econoffs recently visited the headquarters of three 
+Turkish banks*Ziraat Bank, Disbank, and Yapi Kredi Bank*and 
+spoke with bank officials who are in charge of compliance 
+with the GOT,s AML and CTF regulations.  According to the 
+officials, each of these banks has an internal 
+inspection/auditing team which ensures that their bank is 
+complying.  The inspection unit uses a central database to 
+check the bank,s accounts and transactions against USG and 
+international lists of individuals/entities who are involved 
+in terrorist financing.  The AML law dictates that a branch 
+must record identifying information (name, address, tax 
+identification number) for all transactions exceeding 12,000 
+Turkish Lira (approximately $8,900).  If a transaction is 
+believed to be &suspicious,8 regardless of the amount, a 
+bank must file a suspicious transaction report (STR) with 
+MASAK within ten days of detecting the transaction.  Bank 
+officials noted that most of the STR,s filed in 2004 were 
+for transactions involving foreign-related accounts. 
+ 
+¶4. (U) In addition to the laws and regulations mentioned 
+above, each bank also applies internal measures unique to its 
+own bank.  Ziraat is working on a method to merge each of its 
+branch's customer information records into its central 
+database.  Disbank emphasized that it enforces strict rules 
+for foreigners and non-residents who want to open 
+accounts*the customer,s identification documents must be 
+approved by headquarters before an account can be opened. 
+Disbank is also planning to initiate an electronic program in 
+which individuals who initiate or receive wire transfers will 
+automatically be checked against the U.S. Office of Foreign 
+Assets Control (OFAC) list.  Disbank has risk level ratings 
+for each of its branches and those branches with higher 
+ratings receive more frequent spot inspections.  According to 
+bank officials, Disbank,s branches in the southern and 
+southeastern parts of Turkey are especially vulnerable 
+because the quality of the staff is lower and the staff often 
+uses personal trust and relationships as an operational guide 
+rather than following procedures. 
+ 
+¶5. (U) Ziraat Bank, Disbank, and Yapi Kredi Bank employees 
+receive regular training on financial crime, STR reporting, 
+and &Know Your Customer" rules.  Yapi Kredi Bank offers this 
+training through computer-assisted education programs and 
+announces new procedures or regulations to its staff via 
+electronic circulars.  Disbank is attempting to implement an 
+e-learning project to train its staff and keep them updated 
+on new AML and CTF regulations.  Disbank also has a 
+legislative portal on the bank,s intranet site to which it 
+can post new regulations.  Additionally, Disbank has a book 
+on money laundering and suspicious transactions and has 
+distributed it to all its branches and customers.  Though all 
+the banks attend information sessions given by MASAK, none of 
+them receive significant financial crimes training from 
+MASAK.  Apparently, banks provide their own training to their 
+staff. 
+ 
+------------------------------ 
+Bank Compliance: Foreign Banks 
+------------------------------ 
+ 
+¶6. (SBU) Econoffs also visited the Turkey headquarters of 
+Hong Kong Shanghai Bank Corporation (HSBC) and Citigroup. 
+Officials at both banks believe their bank policies and 
+regulations on financial crime are far advanced compared to 
+those currently enforced by the GOT.  For example, Citigroup 
+sets its own AML policy for its Turkish subsidiary which is 
+not only compliant with local Turkish policy, but also with 
+regional Citigroup policy, FATF rules, E.U. requirements, and 
+U.S. laws, including the Bank Secrecy Act and Patriot Act. 
+(Though the GOT is in the process of amending its laws and 
+regulations, its current legislative framework on financial 
+crimes is not yet compliant with FATF rules and EU 
+policies--reftel).  The Citigroup official said that she had 
+attended a presentation at MASAK which was almost identical 
+to the training her own bank had developed for its employees. 
+ Both Citigroup,s and HSBC,s compliance officers claimed 
+that MASAK often seeks their advice on financial crime 
+policies and training material since these foreign banks have 
+been applying their policies for the past 20-30 years, 
+whereas Turkey,s AML policies were enacted less than 10 
+years ago. 
+ 
+¶7. (SBU) Like the Turkish banks, HSBC and Citigroup have 
+internal inspection teams to ensure that the banks are 
+monitoring transactions and accounts as well as reporting 
+transactions in accordance with Turkish regulations.  HSBC 
+and Citigroup provide their staff with training and refresher 
+courses on financial crimes policies, and neither bank, like 
+the Turkish banks, receives much training from MASAK.  HSBC 
+believes MASAK does not have the expertise or the resources 
+to give sufficient training to all banks. 
+ 
+¶8. (U) MASAK has been in the process of drafting a new law 
+which affects the organization of MASAK and the prevention of 
+money laundering and corruption.  MASAK sent its draft law to 
+the Bank Association who will review it and make 
+recommendations to MASAK.  MASAK also sent a copy of the law 
+to Citigroup for its recommendations and expertise.  The 
+Citigroup compliance officer told us that the draft is 
+&basically a carbon-copy of the FATF regulations.8  She 
+added that the draft law &is coming closer to the policies 
+Citigroup has been implementing for years.8 
+ 
+------------------------------------ 
+Bank Association/MASAK Working Group 
+------------------------------------ 
+ 
+¶9. (U) In light of this new draft law, the Bank Association 
+(comprised of 48 commercial and investment banks) is working 
+with MASAK to develop a set of principles and standards on 
+combating money laundering and other financial crimes.  This 
+will serve as a guide for all of its member banks.  The 
+Credits and Operations Control Manager at Turkish Economic 
+Bank, Alpaslan Cakir, explained to EconOff that the Bank 
+Association has been drawing on several references and 
+international guidelines, including the U.S.A. Patriot Act 
+and the FATF Special Recommendations on Terrorism Finance, to 
+establish a basic standard for Turkish Banks.  The Bank 
+Association is also using this opportunity to harmonize 
+regulations with those of the EU.  For example, Italian 
+anti-financial crime experts, as part of their EU Twinning 
+Project, are working with MASAK to develop a standard set of 
+suspicious transaction reporting guidelines for use in Turkey. 
+ 
+¶10. (U) The aim of the Bank Association/MASAK working group 
+is to develop consensus among the banks on a set of basic 
+uniform guidelines so that banks can develop their own 
+policies based on these guidelines.  Banks will, in turn, 
+make adjustments to their existing regulations.  The Bank 
+Association wants to finalize these standards in the form of 
+a guidebook before the FATF review scheduled for the end of 
+2005/beginning of 2006. 
+ 
+----------------------------------------- 
+Highlights of Bank Association Guidelines 
+----------------------------------------- 
+ 
+¶11. (U) Below is a list of some of the new procedures the 
+Bank Association hopes to include in its guidelines for 
+preventing, monitoring, and reporting potential financial 
+crimes. 
+ 
+--For all electronic transfers, banks will provide complete 
+information, i.e. full name and address of sender and 
+recipient. 
+ 
+--The guidebook will include effective ways to carry out 
+internal bank audits. 
+ 
+--There will be suggestions on how to determine &risky 
+regions,8 &risky transactions,8 and &risky sectors.8 
+ 
+--The guidebook would include lists of FATF,s 
+non-cooperative countries; the OFAC list; major 
+drug-traffickers list; all lists of major drug-traffickers 
+published by the U.S.; OECD list of tax haven countries; and 
+the Banks Union list of risky regions.  Banks will use these 
+lists together with their filtering systems to filter through 
+accounts and incoming and outgoing money transfers*checking 
+for matches to names on the respective reference lists.  The 
+filter would be operated by each bank,s internal auditing 
+section and requires detailed information*especially for 
+high risk regions. 
+ 
+--Risky transactions will include cash and electronic 
+transactions, foreign currency transactions, personal checks 
+and safe deposit boxes.  Risky sectors will include certain 
+cash-based sectors of the economy.  Banks will also use 
+information from previous money laundering cases as a 
+reference for determining risky entities. 
+ 
+-------------------- 
+Current Deficiencies 
+-------------------- 
+ 
+¶12. (U) Despite the best efforts of the Bank Association and 
+MASAK to strengthen policies, Bank compliance officers told 
+Econoffs that there are still gaping holes in the system. 
+For example, at the moment, there is no way for banks to 
+share information with each other about which 
+individuals/entities have been turned down for opening 
+accounts or making transactions.  The Bank Association is 
+working on a way to develop a system through which they can 
+share this information.  Also, there are compliance officers 
+in banks and special finance houses, but not in exchange 
+bureaus, insurance agencies, and other entities through which 
+money can be transferred and exchanged for illicit purposes. 
+ 
+¶13. (SBU) Citigroup and HSBC said that until the GOT,s 
+policies are changed and enforced, foreign banks that apply 
+advanced financial crimes regulations and procedures will be 
+at a competitive disadvantage.  Turkish banks are not asking 
+their customers the same types of questions HSBC and 
+Citigroup are required to ask their customers.  HSBC and 
+Citigroup officials said that the GOT needs to standardize 
+these questions, enforce them, and penalize noncompliant 
+parties.  They believe Turkish banks do not fully comply with 
+even the existing minimal regulations. 
+ 
+-------- 
+Comment 
+-------- 
+ 
+¶14. (SBU) New legislation based on international standards 
+and FATF recommendations, a set of uniform guidelines and 
+procedures, greater information sharing, and accurate 
+filtering systems could bolster the banking community,s 
+ability to prevent and identify financial crime.  Turkish 
+banks, however, may have a tougher time adjusting to more 
+rigid regulations since they lack the expertise, training, 
+and experience of foreign banks like HSBC and Citigroup. 
+Nevertheless, the proposed changes mentioned above are an 
+integral part of Turkey's efforts to strengthen it's AML/CTF 
+regime.  In order to improve the GOT's track record on 
+preventing and identifying financial crime, the government 
+must show a willingness to enforce the new legislation and 
+penalize non-compliance. 
+EDELMAN

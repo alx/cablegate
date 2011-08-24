@@ -1,0 +1,198 @@
+06TAIPEI193
+TAIWAN:  AVIAN FLU UPDATE
+Thu Jan 19 00:00:00 +0100 2006
+UNCLASSIFIED
+American Institute Taiwan, Taipei
+VZCZCXRO6441
+RR RUEHCN
+DE RUEHIN #0193/01 0192136
+ZNR UUUUU ZZH
+R 192136Z JAN 06
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC 8093
+INFO RUEHGV/USMISSION GENEVA 1715
+RUEHLO/AMEMBASSY LONDON 0110
+RUEHBK/AMEMBASSY BANGKOK 3094
+RUEHBJ/AMEMBASSY BEIJING 4543
+RUEHHI/AMEMBASSY HANOI 2983
+RUEHJA/AMEMBASSY JAKARTA 3757
+RUEHKL/AMEMBASSY KUALA LUMPUR 3429
+RUEHML/AMEMBASSY MANILA 9616
+RUEHPF/AMEMBASSY PHNOM PENH 0525
+RUEHUL/AMEMBASSY SEOUL 7542
+RUEHGP/AMEMBASSY SINGAPORE 6324
+RUEHKO/AMEMBASSY TOKYO 7346
+RUEHGZ/AMCONSUL GUANGZHOU 8888
+RUEHHK/AMCONSUL HONG KONG 5743
+RUEHCN/AMCONSUL CHENGDU 0981
+RUESLE/AMCONSUL SHANGHAI 8289
+RUEHSH/AMCONSUL SHENYANG 4899
+RUEHOK/AMCONSUL OSAKA KOBE 0354
+RUEAUSA/DEPT OF HHS WASHDC
+RUEHPH/CDC ATLANTA GAUNCLAS SECTION 01 OF 03 TAIPEI 000193 
+ 
+SIPDIS 
+ 
+STATE PLEASE PASS TO AIT/W, EAP/TC AND OES/IHA 
+HHS PLEASE PASS TO ERIKA ELVANDER 
+GENEVA PLEASE PASS HEALTH ATTACHE DAVID HOHMAN 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: AMED AMGT CASC ECON SENV SOCI TBIO WHO TW
+SUBJECT:  TAIWAN:  AVIAN FLU UPDATE 
+REF: A) 2005 SECSTATE 151549  B) 2005 TAIPEI 3598 
+ 
+C) 2005 TAIPEI 3742  D) 2005 TAIPEI 3713  E) 2005 
+TAIPEI 4067  F) 2005 TAIPEI 4264  G) 2005 TAIPEI 
+4128  H) 2005 TAIPEI 4160  I) 2005 TAIPEI 4295  J) 
+2005 TAIPEI 4645 
+ 
+¶1.  Summary.  Taiwan continues to be H5N1 free and to 
+prepare to counter a potential Avian Influenza (AI) 
+outbreak.  It has staged large-scale drills and 
+distributed information in multiple languages to 
+increase the flow of information to the public. 
+Taiwan's Environmental Protection Agency (TEPA) has 
+trained its staff to handle and dispose of AI-infected 
+waste.  Taipei City officials will start a pilot 
+program in early February to stop the slaughtering of 
+birds at traditional markets.  In December, 
+surveillance of wild birds detected the third 
+occurrence of low-pathogenic strains of the HN virus on 
+the island since April 2005.  End Summary. 
+ 
+Government Conducts AI Response Drill 
+------------------------------------- 
+ 
+¶2.  On December 27, the Department of Health (DOH) 
+conducted a tabletop exercise for level B and level C 
+conditions to fine-tune its response to an AI outbreak). 
+The exercise, chaired by Vice Premier Wu Rong-I, was 
+held with the participation of over 20 local governments 
+to clarify their roles and responsibilities.  In the 
+exercise scenario, the central government raised the 
+pandemic alert level to "A1" and set up quarantine 
+facilities for travelers from affected areas.  The next 
+step in the simulation was a WHO announcement that the 
+global flu pandemic was in WHO phase 5, and Taiwan 
+raised its alert level to "B."  Finally, Taiwan entered 
+level "C" as the world was in WHO phase 6.  Taiwan uses 
+the following 5-level system for its pandemic alert 
+levels: 
+ 
+a) Level 0/Alert: no human-to-human transmission 
+globally and no domestic avian-to-human transmission. 
+b) Level A1: confirmed cases of human-to-human 
+transmission outside of Taiwan. 
+c) Level A2: confirmed cases of domestic bird-to-human 
+transmission; a laboratory suspected case in Taiwan; or 
+an imported suspected case, but no signs of local human- 
+to-human transmission. 
+d) Level B: one or more confirmed cases of initial human- 
+to-human transmission reported domestically. 
+e) Level C: Secondary human-to-human transmission 
+reported domestically. 
+ 
+¶3.  Council of Labor Affairs (CLA) Chairman Lee Ying- 
+yuan, who acted as the commander of the Central Epidemic 
+Command Center at the drill, stated that an important 
+part of preparation involves strengthening the 
+psychological framework of society.  DOH Minister Hou 
+Shen-mou reiterated that defenses against AI were a top 
+priority of the DOH and called on the public to have 
+confidence in government preparations.  The DOH 
+conducted a drill for level A1 & A2 pandemic 
+mobilization on July 7, 2005.  The officials emphasized 
+that Taiwan remains free of H5N1 and is at the O level 
+of the TCDC Pandemic Response system.  (Note:  Prior to 
+becoming CLA Chairman, Lee was the Secretary General of 
+the Executive Yuan and a key player in drawing up 
+Taiwan's long-term plans to combat AI.  End Note.) 
+ 
+Increased Public Awareness 
+ 
+TAIPEI 00000193  002 OF 003 
+ 
+ 
+-------------------------- 
+ 
+¶4.  Apart from this exercise, health authorities have 
+distributed booklets to the public, established 
+telephone information lines and put up public notices to 
+inform the public about the threat and describe 
+government preparations to counter AI.  Notices have 
+been put up in major parks warning the public against 
+feeding birds and mass-transit systems also prohibit 
+carrying birds aboard their vehicles.  In order to 
+advise the substantial foreign labor component in Taiwan 
+of the threat, the Council of Labor Affairs (CLA) has 
+also distributed a total of 430,000 information booklets 
+on avian flu in English, Vietnamese, Thai and 
+Indonesian. 
+ 
+TEPA Implements AI Measures 
+--------------------------- 
+ 
+¶5.  Taiwan's Environmental Protection Administration 
+(TEPA) has adopted measures for disease prevention and 
+controls and has stepped up efforts to train staff in 
+the event of an AI outbreak.  TEPA officials told AIT 
+that at the alert level 0, TEPA is responsible for 
+assisting agricultural authorities to clean up culled 
+animals.  (Note: Council of Agriculture (COA) takes 
+charge of handling all the dead birds at all levels and 
+most of the infected animals would be cremated unless a 
+large number of animals need to be destroyed in which 
+case they would be buried.)  At A1, A2 and B levels, in 
+addition to assisting COA in handling dead birds, TEPA 
+is responsible for monitoring and assisting health 
+institutions in handling infected waste material; at 
+the C level, TEPA would take over the task of handling 
+all the waste material discharged by infected AI 
+patients.  TEPA has strengthened staff training in 
+procedures for protecting workers while handling 
+infected waste.  TEPA has purchased 4,000 suits of 
+protective gear for use when managing infected waste. 
+TEPA told AIT that these suits are for the use of the 
+approximately 1,000 front-line TEPA workers who would 
+respond in the event of an AI outbreak.  TEPA has also 
+established a toll free telephone number urging the 
+public to report any suspicious materials. 
+ 
+Traditional Markets to Stop Slaughtering Birds on Site 
+--------------------------------------------- --------- 
+ 
+¶6.  In an effort to curb the spread of viruses, the 
+Taipei City Government plans to stop the slaughtering 
+of chickens at traditional markets.  Ten stalls at Nan 
+Men Market will begin the trial program after the Lunar 
+New Year (which commences on January 28).  Each stall 
+will receive subsidies for purchasing freezers.  The 
+Taipei City government is trying to convince people 
+that freshly killed poultry at the traditional market 
+may not be healthy, and that people should look for a 
+label with a health certificate when purchasing poultry 
+meat.  There are more than 300 COA workers monitoring 
+the operations of the slaughterhouses. 
+ 
+Low Pathogenic Strains of HN Viruses Found for Third Time 
+--------------------------------------------- ------------ 
+ 
+TAIPEI 00000193  003 OF 003 
+ 
+ 
+ 
+¶7.  In routine fecal sampling by Taiwan's Wild Bird 
+Federation and COA on Dec. 14, the H5N2 and H7N3 
+viruses - low pathogenic strains of the HN family of 
+viruses - were found for the second time in the Guandu 
+marshlands in northern Taiwan.  The H7N3 virus was 
+previously found in Guandu in April 2005 and was also 
+found in marshlands near Tainan in Southern Taiwan in 
+November 2005.  COA has warned the public to take extra 
+precautions in the upcoming January to March flu 
+season. 
+ 
+Paal

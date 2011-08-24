@@ -1,0 +1,493 @@
+03FRANKFURT7038
+Securities Exchanges, Clearing and Settlement:
+Tue Aug 26 00:00:00 +0200 2003
+UNCLASSIFIED
+Consulate Frankfurt
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 07 FRANKFURT 007038 
+ 
+SIPDIS 
+ 
+STATE FOR EUR PDAS RIES, EB BAY, EUR/AGS, AND EUR/ERA 
+STATE PASS FEDERAL RESERVE BOARD 
+STATE PASS NSC FOR CLOUD 
+TREASURY FOR DAS SOBEL 
+TREASURY ALSO FOR IMI HARLOW, AUSTIN 
+PARIS ALSO FOR OECD 
+TREASURY FOR OCC RUTLEDGE, MCMAHON 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN EUN
+SUBJECT: Securities Exchanges, Clearing and Settlement: 
+Alliances Made and Broken; Poker or Chess? 
+T-IA-F-03-0042 
+ 
+ 
+This cable is sensitive but unclassified.  Not/not for 
+Internet distribution. 
+ 
+  ¶1.     (SBU) Introduction:  The European world of clearing 
+     and settlement is not as boring as these dreary back-office 
+     chores imply.  Intense rivalry in the market place has 
+     become even more so - spreading beyond the continent, across 
+     the channel and across the Atlantic.    Deutsche Borse lost 
+     its bid for the London Stock Exchange three years ago and is 
+     ending its joint venture with the Chicago Board of Trade 
+     (CBOT) only to find the French-based Euronext team striking 
+     up alliances with the British and the CBOT. 
+ 
+  ¶2.     (SBU) Policy wonks have also been busy.  The European 
+     System of Central Banks (ESCB) and the Committee of European 
+     Securities Regulators (CESR) issued a consultation paper 
+     proposing standards for clearing and settlement. Among the 
+     interesting features of these proposals is the notion that 
+     clearing and settlement systems should be open to investment 
+     firms, but such firms from third countries could be denied 
+     access if their home market supervision was not considered 
+     "adequate."  The European Parliament adopted a report to hem 
+     in competition between custodians and clearing and 
+     settlement organizations.  In April the Giovannini Group 
+     presented a critical pathway for liberalization of Europe's 
+     clearing and settlement structure.  Lots of good ideas and 
+     intentions. 
+ 
+  ¶3.     (SBU) Enter the European Commission.  .  This fall 
+     the Commission is scheduled to release a second 
+     communication and, depending on reactions, might issue draft 
+     legislative proposals in December.  To date, Commission 
+     officials assert that they are content to let the market 
+     sort itself out before taking legislative action.  Observed 
+     one specialist, market pressures are generating solutions 
+     that the Commission could never legislate - so best leave 
+     the sector alone. 
+  ¶4.     (SBU) The rough and tumble world of clearing and 
+     settlement is more like poker than chess - bluffs, calls and 
+     raising the stakes.   The Commission, congenitally condemned 
+     to initiate but not enact legislation, must confine its game 
+     to chess.  End Summary. 
+ 
+  Setting the Scene: The Players and the Pot 
+  ------------------------------------------ 
+ 
+  ¶5.     (SBU) The European players in the clearing and 
+     settlement game are very different from those in the United 
+     States.  Herein lie a strength and a weakness.  The strength 
+     is that the largest European players are part of an 
+     "exchange complex," that combines clearing and settlement 
+     activities with cash listing and trading (equities) (the so- 
+     called "vertical silo" approach) and derivatives trading. 
+     This allows revenues to be generated from different business 
+     lines generally resulting in resilience in the bottom line 
+     when one business line experiences weakness, e.g. lower 
+     equities trading as is the case at present. 
+ 
+  ¶6.     (SBU) The largest of these complexes in Europe are 
+     the Euronext group and Deutsche Borse.  Smaller, but 
+     similarly structured complexes, exist in Italy, Spain and 
+     Sweden. According to the MSMOW study published in June 2003, 
+     Deutsche Borse received 15% of its revenues from cash 
+     listing and trading, 23% from derivates trading and 
+     clearing, 43% from clearing and settlement, and 19% from 
+     information products and systems.  Euronext was similarly 
+     diversified: 26% from cash listing and trading, 34% from 
+     derivatives trading, 20% from clearing and settlement, and 
+     17% from information products.  Why is this interesting? 
+     One German expert explained that since many of its 
+     activities are similar, investing one time in software 
+     development can generate uses across its product line; 
+     increasing the load on those systems drives down marginal 
+     costs, increasing profitability. 
+ 
+  ¶7.     (SBU) Compare this diversity with that of the London 
+     Stock Exchange, New York Stock Exchange and Nasdaq, all with 
+     the bulk of their revenues coming from cash listing and 
+     trading (LSE 55%; NYSE, 74%, Nasdaq 71%). This "horizontal" 
+     approach allows investors to move from different systems for 
+     each aspect of securities execution, i.e. trading, clearing 
+     and settling.  As these exchanges are heavily dependent on 
+     one or two business lines, in present market conditions, 
+     lower listing and trading activities mean a lower total 
+     bottom line. 
+ 
+  ¶8.     (SBU) The weakness in Europe is that there is no one 
+     institution that clears and settles - implying heavy 
+     investments by the clearing and settlement industry and 
+     potential risks to investors.  In the US the Depository 
+     Trust Clearing Corporation clears and settles all equity 
+     securities in the US.  The Options Clearing Corporation does 
+     so for equity options.  Futures are somewhat different, 
+     being able to be cleared and settled in the system where 
+     they are traded. 
+ 
+  ¶9.     (SBU) What is the competition in Europe about?  The 
+     MSMOW study estimates that European exchange complexes took 
+     in revenues of euro 5.2 billion in 2002.  Profit margins 
+     were roughly 26%. Worth a good scuffle for a part of that 
+     pie. 
+ 
+  ¶10.  (SBU) Competition, however, should be viewed on a 
+     broader scale, that is, by considering the larger pot of 
+     where the investor "spends" money in capital markets 
+     transactions in Europe.  The MSMOW study estimates that 
+     total to be euro 40 billion.  Of that amount, exchanges and 
+     centralized depositories (institutions holding securities 
+     that enables securities transactions to be processed by book 
+     entries) took in euro 3.5 billion, custodians (entities that 
+     safe keep securities for customers) euro 4.5 billion, data 
+     system providers 2.5 billion, and a hefty euro 29.5 billion 
+     went to commissions and spreads.  Now that is a value chain 
+     worthy of an all out fight - exchanges want to cut out the 
+     middle man, custodians want to restrain exchanges, and 
+     middle men want to keep business in house (internalize 
+     transactions) or at least away from an order book open to 
+     all on an electronic exchange (hear the mouse click away 
+     their revenues?). 
+ 
+  Action:  Market Players 
+  ----------------------- 
+ 
+  ¶11.    (SBU) Three years ago Deutsche Borse was going for 
+     the "golden ring."  A merger with the London Stock Exchange 
+     was rumored in the press and its "vertical" processing of 
+     trading, clearing and settlement (straight through 
+     processing) was envied, copied, and attacked as 
+     anticompetitive.  Deutsche Borse struck up a joint venture 
+     in the derivatives market with the CBOT in the United 
+     States. Life seemed beautiful; but it still was life.  The 
+     merger didn't happen, other exchange complexes have 
+     developed or are planning their own straight through 
+     processing systems, Commission competition authorities have 
+     opened an investigation, and the joint venture with the CBOT 
+     will be dissolved at the end of 2003. 
+ 
+  ¶12.    (SBU) Instead of Deutsche Borse domination, there 
+     seems to have been a shift to what one analyst terms the 
+     "ABW Strategy," or an "anybody but Werner strategy," 
+     referring to the head of Deutsche Borse who has been 
+     referred to as "visionary," "opinionated," or "abrasive.". 
+     Highlights include: 
+ 
+       -    Merger of CrestCo with Euroclear (the settlement 
+            operations for the London Stock Exchange and Euronext, 
+            respectively); 
+       -    Proposed merger of the London Clearing House and 
+            Clearnet (the clearing operations for the LSE and Euronex 
+            respectively) 
+       -    The CBOT replacing its trading platform under license 
+            from Eurex, the Deutsche Borse derivatives operation, wit 
+            new contract with LIFFE Connect, designed and built by 
+            Euronext.liffe (over a year ago Euronext had purchased th 
+            London International Financial Futures Exchange) 
+       -    Nasdaq Europe has announced it will close down its 
+            exchange in Brussels at the beginning of 2004 and will cl 
+            Nasdaq Germany by the end of August. 
+  ¶13.    (SBU) Deutsche Borse, however, has managed a few 
+     surprises of its own.  DB has introduced a system to help 
+     brokers/dealers to internalize transactions (if they can't 
+     beat'em, join'em - or at least made some money out of the 
+     deal) and has announced that it will: 
+ 
+       -    seek to establish its own licensed exchange in the US 
+            to compete in the derivatives market; 
+       -    open its system to investors from other systems, 
+            forsaking the "silo approach" if others (read Euronext) d 
+            the same; 
+       -    implement an automated daytime bridge between 
+            Clearstream International (its settlement bank) and 
+            Euroclear Bank to allow same-day bridge transactions; 
+       -    attract Dutch brokers and dealers displeased with their 
+            Euronext association (fees went up this year for the firs 
+            time) (the LSE also seeking to pick up some of the busine 
+            from the disgruntled Dutch traders). 
+     Kinda leaves you breathless, waiting for the next move. 
+ 
+  Action: Policy Wonks 
+  -------------------- 
+ 
+  ¶14.    (SBU) European policy officials also have ventured 
+     into the clearing and settlement terrain. 
+ 
+       -    The European Commission is collecting comments on its 
+            May 2002 Communication on clearing and settlement and is 
+            expected to publish another communication in September; 
+       -    The European Commission's November 2002 proposal for 
+            the revision of the Investment Services Directive would 
+            require member states to ensure investment firms from oth 
+            member states have access to central counter party and 
+            clearing and settlement systems in their territory and th 
+            stock exchanges allow participants to designate the syste 
+            for the settlement of transactions; 
+       -    European Parliament adopted a report in December 2002 
+            on clearing and settlement proposing that core settlement 
+            services should be managed as a user-owned service govern 
+            by rule of a non-profit entity and that central securitie 
+            depositories perform only settlement services and not "va 
+            added" services; 
+       -    European Commission competition authorities opened an 
+            infringement proceeding in March against Deutsche Borse's 
+            Clearstream Banking AG for refusing Euroclear Bank's acce 
+            to the settlement platform for more than two years and fo 
+            charging higher transaction prices to Euroclear than to 
+            other national central securities depositories outside 
+            Germany. 
+       -    Giovaninni Group's Second Report on Clearing and 
+            Settlement issued in April presented a program and schedu 
+            for removing barriers to clearing and settlement within t 
+            EU. 
+       -    ESCB/CESR's Consultative Report on Standards for 
+            Securities and Clearing Settlements in the European Union 
+            issued at the end of July proposed standards to sustain 
+            integration in the EU by having one single set of standar 
+            for a regulatory framework. 
+     The ESCB/CESR work deserves special mention. 
+ 
+  ESCB/CESR: Softer than a Law but Harder than a 
+  Recommendation 
+  --------------------------------------------- -- 
+ 
+  ¶15.    (SBU) The ESCB/CESR Consultative Paper was prepared 
+     by a ESCB-CESR Working Group comprised of representatives of 
+     15 national banks of the EU and representatives of CESR. 
+     The Working Group has proposed 19 standards for clearing and 
+     settlement systems covering such topics as legal framework, 
+     settlement cycles, central counter parties, central 
+     securities depositories, delivery versus payment, risk 
+     controls, operational reliability, governance, access, 
+     transparency, and regulation, supervision and oversight, and 
+     risks in cross-system links.  Comments on the paper are due 
+     by October 31.  A public hearing will be held on October 2 
+     in Paris. 
+ 
+  ¶16.    (SBU) The paper reflects the Giovaninni Group's 
+     Second Report, the Group of Thirty's 20 recommendations on 
+     clearing and settlement systems released in January, and the 
+     Recommendations for Securities and Settlements Systems 
+     issued by the Committee on Payment and Settlement Systems 
+     (CPSS) and the Technical Committee of the International 
+     Organization of Securities Commissions (IOSCO) in November 
+     ¶2001. 
+ 
+  ¶17.    (SBU) The standards aim to provide a consistent basis 
+     for regulation, supervision and oversight of securities 
+     clearing and settlement systems, enhance the safety, 
+     soundness and efficiency of such systems, protect investors, 
+     promote competitive EU markets, and avoid systemic risks. 
+ 
+  ¶18.    (SBU) These standards are unique in several aspects. 
+     The first, is that they are "standards."  They are not 
+     recommendations to take or leave.  Neither are they 
+     mandatory since they would not have Community law status. 
+     Rather, the ECB/CESR Group believes that standards will be 
+     of a more binding nature than recommendations and that 
+     regulators will implement them on a "best-endeavor" basis. 
+     This has worked for the ECB in its standards for securities 
+     settlement systems in credit operations in the ESCB. 
+     However, the ESCB/CESR proposed standards on clearing and 
+     settlement go well beyond ESCB activities. 
+ 
+  ¶19.    (SBU) A second interesting feature is the proposal to 
+     apply many of the standards to major custodians, including 
+     custodian banks, some of which clear and settle in-house 
+     rather than going to local clearing and settlement systems. 
+     Some of these banks have significant operations and would be 
+     considered "systemically important custodians."  The 
+     ECB/CESR has proposed four criteria to identify such 
+     institutions: (1) magnitude of activities (e.g. 5% of EU 
+     market or 25% of a domestic market); (2) number of systems; 
+     (3) nature and number of clients; and (4) the possibility of 
+     being replaced in the event of failure.  Banks that have a 
+     large presence in the custodian business in Europe include 
+     BNP Paribas and Citigroup. 
+ 
+  ¶20.    (SBU) Finally, the standards go well beyond the 
+     competence of national banks and securities supervisors to 
+     cover tax, accounting and other legal issues.  To ensure 
+     consistent implementation and compliance, the Group notes 
+     the importance of cooperation and information exchange among 
+     competent authorities.  To ensure such cooperation is done 
+     in a regular and structured manner, the Group volunteers to 
+     take on a monitoring role to organize and co-ordinate 
+     assessments of implementation. 
+ 
+  Some Observations: Connecting the Dots 
+  -------------------------------------- 
+ 
+  ¶21.    (SBU) Actions by market participants and policy wonks 
+     have been, to some degree, symbiotic.  Here are some 
+     examples. 
+ 
+             (a)  Cross-Border Activities: Increased cross-border 
+                activities in clearing and settlement presaged by the 
+                Crestco and Euroclear merger or anticipated merger be 
+                LCH and Clearnet suggests that standardization of rul 
+                not only needed to integrate the EU market, but to en 
+                that integration at the company level works at the 
+                operations level, bringing promised efficiencies to 
+                investors while protecting them from increased risks 
+                cross-border transactions.  Thus, the ESCB/CESR stand 
+                have some urgency from a supervisory point of view. 
+                is some time, however.  According to a London-based e 
+                not much has changed in the actual operations of Cres 
+                Euroclear, for example, so the continental and UK sys 
+                still run separately. 
+ 
+             (b)  Access:  Deutsche Borse's willingness to open its 
+                system to investors that trade on other platforms ref 
+                the pressure from the ISD proposal, the Commission's 
+                competition policy investigation, and, to some extent 
+                ESCB/CESR standard on access.  Access is not to be ab 
+                The ESCB/CESR standard would require objective and pu 
+                disclosed criteria that permit "fair and open access" 
+                still being able to control risk.  Access could be de 
+                a clearing and settlement system if it posed risks th 
+                could not be effectively controlled.  What about acce 
+                investment firms from other countries?  Access could 
+                denied, according to ESCB/CESR if there is a lack of 
+                "adequate supervision" and doubts about the enforceab 
+                of the legal powers of the service provider in the ho 
+                country. 
+             (c)  Governance:  The ESCB/CESR standard on governance c 
+                for arrangements designed to fulfill public interest 
+                requirements and to promote the objectives of owners 
+                users.  This reflects, in part, the views in the Euro 
+                Parliament report proposing to require settlement sys 
+                be managed as a user-owned non-profit organization. 
+                European Parliament's view is also supported by a gro 
+                called "Fair and Clear," composed of large custodian 
+                including such big players as BNP Paribas and Citigro 
+ 
+             (d)  Value Added Services:  The ESCB/CESR proposed stand 
+                on risk controls implies that clearing and settlement 
+                systems could extend credits, thus competing with ban 
+                The ESCB/CESR proposed standard states that operators 
+                systemically important systems should not run credit 
+                but where they extend credit they should fully collat 
+                such exposures.  Should such systems extend credits t 
+                support the orderly functioning of the market, they c 
+                offer uncollateralized credit but only to institution 
+                high credit standing.  The European Parliament report 
+                proposed that settlement systems not be permitted to 
+                such credits, a view shared by "Fair and Clear."  Her 
+                concerns coincide: concerns about risks to settlement 
+                systems from credit lending and concerns about compet 
+                to custodian banks from settlement systems offering c 
+                services to their clients.  A German expert points ou 
+                is a false issue, in that settlement systems are lice 
+                banks anyway.  Moreover, investment firms enjoy the 
+                competition afforded by several players in the 
+                settlement/custodian business, keeping costs lower an 
+                service better than otherwise might be the case. 
+ 
+  Where will Competition Drive the Market? 
+  ---------------------------------------- 
+ 
+  ¶22.    (SBU) Allowing the market to find "solutions" to 
+     efficient trading, clearing and settlement systems sounds 
+     nice.  But what does it mean?  Where will the market take 
+     the trading and post-trading infrastructure?  Not being 
+     experts ourselves, we listen to what our betters have to 
+     say. 
+ 
+  ¶23.    (SBU) The MSMOW study presents there views on how 
+     several key areas may develop: 
+ 
+                 (1)  Silo versus horizontal approach:  The vertical 
+                    "silo" structure of exchange complexes that offer 
+                    clearing and settling and straight through proces 
+                    been criticized as anti-competitive. A horizontal 
+                    allows investors access to the trading, or cleari 
+                    settling systems.  The study suggests that this d 
+                    burn out as market participants and regulators lo 
+                    expensive costs and adopt pragmatic solutions.  V 
+                    structures will become "interoperable" over time 
+                    exchange complexes will be able to fulfill their 
+                    providing market infrastructure and making a prof 
+                    provided they continue to deliver lower all-in tr 
+                    costs.  So far, this seems to be the trend. 
+ 
+                 (2)  Separation of Depository from Banking Services: 
+                    Settlement systems will have a tough time competi 
+                    banks by offering value added services, in the MS 
+                    view.  Settlement banks, while banks, don't offer 
+                    range of banking services.  When the market picks 
+                    study expect exchanges will stick to their core b 
+ 
+                 (3)  Centralized clearing systems:  The study "stron 
+                    believes" that centralized clearing will receive 
+                    from Basle II.  Central counter party mechanisms 
+                    manage risk and reduce systemic risks.  Banks wil 
+                    such mechanisms to reduce risks and corresponding 
+                    charges.  The ESCB/CESR standard on central count 
+                    goes in the same direction.  It states that where 
+                    benefits of using a central counter party outweig 
+                    costs, market participants should either use the 
+                    an existing one or establish one of their own. 
+ 
+                 (4)  Internalization versus on Exchange Trading:  Th 
+                    suggests that continental exchanges that use elec 
+                    trading and a central order book for equity tradi 
+                    continue to capture a large market share - betwee 
+                    trading.  In the UK, where two-thirds of trades a 
+                    "facilitated" rather than placed directly on an o 
+                    book, the study expects little change.  In its op 
+                    customers and the size of orders will dictate the 
+                    exchange trading and internalization in each mark 
+                    provided regulation doesn't favor one or the othe 
+ 
+  Policy: The Wild Card 
+  --------------------- 
+ 
+  ¶24.    (SBU) The dynamics of the market place are like a 
+     game of poker: increasing investment stakes in high tech 
+     infrastructure, improving the hand by striking up more 
+     alliances or products, and bluffing about the strategy for 
+     improved business.  Needs a strong constitution.  But the 
+     winner's take could be considerable. 
+ 
+  ¶25.    (SBU) Enter the European Commission.  To date, the 
+     Commission officials assert that they have been content in 
+     allowing market forces to drive changes in the clearing and 
+     settlement market.  Moreover, others are trying to do some 
+     spadework to prepare the terrain.  The Giovannini Report and 
+     now the ESCB/CESR standards point to the need for member 
+     states to take action to bring down legal, regulatory and 
+     tax barriers.  The ESCB/CESR use of "standards" puts more 
+     pressure on supervisors to take action.  This is still short 
+     of legislation.  Nonetheless, it could be a not so subtle 
+     threat that if the market doesn't move itself, momentum 
+     could build for some type of legislative action. 
+     Parliament's report favors legislation, as does the "Fair 
+     and Clear" group and others, such as the London Stock 
+     Exchange, that believe that clearing or clearing and 
+     settlement, should be regulated as a public utility. 
+ 
+  ¶26.    (SBU) The role for specific legislation is not clear. 
+     With so many pieces of legislation pending under the 
+     Financial Services Action Plan (FSAP) that will have a 
+     significant impact on the financial market place 
+     (implementation of the prospectuses, market abuse and 
+     financial conglomerates directives and the accounting 
+     regulation; potential passage of the transparency and 
+     investment services directives) the Commission will be 
+     forgiven if not blessed, for letting these and related 
+     market-driven changes in clearing and settlement systems run 
+     their course.  Implementing enacted FSAP legislation as well 
+     as the ESCB/CESR standards should be a priority before 
+     assessing what, if anything needs to be done through 
+     Community law. 
+ 
+  ¶27.    (SBU) Such an approach is not at all certain.  The 
+     MSMOW study regards regulation as a "wildcard."  It observes 
+     that "one should never underestimate the unpredictable 
+     nature of lawmaking in Brussels or nationally and potential 
+     unintended consequences of legislation."  Amen to that. 
+     While the market is playing poker, the Commission must and 
+     should be thinking chess. 
+ 
+  ¶28.    (SBU) The report was coordinated with Embassies 
+     Berlin and London and USEU Brussels. 
+ 
+(U)  POC: James Wallar, Treasury Representative, e-mail 
+     wallarjg2@state.gov; tel. 49-(69)-7535-2431, fax 49- 
+     (69)-7535-2238. 
+ 
+Bodde

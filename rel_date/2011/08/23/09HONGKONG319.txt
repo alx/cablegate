@@ -1,0 +1,87 @@
+09HONGKONG319
+EXTRANCHECK: POST SHIPMENT VERIFICATION: KAI'S TECHNOLOGY
+Mon Feb 23 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHHK #0319 0540008
+ZNR UUUUU ZZH
+R 230008Z FEB 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 6931
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000319 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: KAI'S TECHNOLOGY 
+DEVELOPMENT LIMITED 
+ 
+REF: A) USDOC 00129 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment-verification(PSV) at Kai's Technology Development 
+Limited, Unit 2506, 25/F, Skyline Tower, 39 Wang Kwong Road, Hong 
+Kong (Kai's). The items in question for this PSV are various 
+electronic ICs exported to Kai's on or about August 27, 2008.  On 
+the applicable shippers export declaration (SED), these items are 
+classified under export control classification number (ECCN) 3A001 
+and, if properly classified, would be controlled for national 
+security (NS) reasons.  The exporter was America II Electronics of 
+St. Petersberg, Florida. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Kai's has been in 
+existence since 2004.  Its paid up share capital is the Hong Kong 
+equivalent of USD 250.  The Hong Kong Companies Registry lists two 
+Hong Kong residents as directors, namely Cheung, Fei Pang and Ho, 
+Hon Kai. 
+ 
+¶4.  A review of the company's web site (www.kais-tech.com) reveals 
+that Kai's specializes in the distribution of electronic components. 
+ It is an affiliate of Winstep Technology Limited.  Winstep is a 
+manufacturer of DVDR, CDR, DVD players and other similar electronic 
+devices.  The company has factories in mainland China and Hong 
+Kong. 
+ 
+¶5.  On February 13, 2009, ECO accompanied by Commercial Assistant, 
+Carrie Chan, visited Kai's and met with Joanne Wong, Purchasing 
+Manager.  She stated that Kai's is a sourcing company for companies 
+in the United States and Europe.  In particular, Kai's sources 
+electronics in China for shipment to companies in those 
+destinations.  Ms. Wong stated that direct customers are typically 
+other trading companies and Kai's is not generally aware of the 
+final end-user of its products.  When asked, Ms. Wong appeared 
+unaware of Hong Kong licensing requirements for certain ICs (such as 
+this one). 
+ 
+¶6.  As to the specific shipment in question, Ms. Wong stated that it 
+was a return from America II Electronics.  In particular, America 
+II's customer had returned them as they were not in good working 
+order.  Ms. Wong provided the relevant documentation of the return. 
+ 
+¶7.  Ms. Wong was open and cooperative during the meeting and 
+answered ECO's questions without hesitation.  ECO found Ms. Wong's 
+answers to be credible.  ECO provided Ms. Wong with information 
+about U.S. export controls. 
+ 
+¶8.  Based on the information noted above, ECO recommends a review of 
+past shipments to Kai's as it is not apparent that Kai's has taken 
+into account U.S. or Hong Kong export controls in its past 
+activities.  Likewise, while ECO does not have specific evidence of 
+any actual violations of the Export Administration Regulations by 
+Kai's, based on information obtained during this PSV, ECO recommends 
+that future shipments of controlled commodities to Kai's should be 
+closely reviewed.

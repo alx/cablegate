@@ -1,0 +1,136 @@
+08STATE62236
+BLUE LANTERN PRE-LICENSE END USE CHECK ON
+Tue Jun 10 00:00:00 +0200 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHC #2236 1621425
+ZNR UUUUU ZZH
+R 101416Z JUN 08
+FM SECSTATE WASHDC
+TO RUEHIN/AIT TAIPEI 0000
+INFO RUEHTC/AMEMBASSY THE HAGUE 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 062236 
+ 
+SIPDIS 
+FOR ECON MATTHEW E. O'CONNOR AND MI-YONG L. KIM 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC NL TW
+SUBJECT: BLUE LANTERN PRE-LICENSE END USE CHECK ON 
+APPLICATION 05-050105965 
+ 
+¶1.  This is an action message.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests AIT Taipei assistance in 
+conducting a pre-license check for the export of missile 
+components and technical data to Taiwan.  AIT Taipei is 
+requested to complete this Blue Lantern check within 30 days. 
+ Lack of response to a Blue Lantern check will affect pending 
+and future licenses involving parties to this license. 
+ 
+¶3.  Reason for request: the Foreign Consignee has no 
+licensing history with our office and is unknown to us. 
+Internet searching found a website for the Foreign Consignee 
+that describes its business (http://www.superwong.com.tw/), 
+however, the company was also found listed on mainland China 
+websites soliciting business transactions. 
+ 
+¶4.  ACTION: Please visit the Foreign Consignee, Super Wong 
+Industrial Company, and make appropriate inquiries to 
+ascertain the bona fides of this company as a responsible 
+recipient of USML commodities. The following questions are 
+provided as suggested guidance. 
+ 
+--What is the nature of Super Wong's business and who are its 
+usual clients? 
+ 
+--When was the company established and who are the owners? 
+Are there other companies doing business at this same address? 
+ 
+--Does Super Wong have an established relationship with the 
+government of Taiwan as a supplier of defense articles? 
+ 
+--Does Super Wong understand the restrictions on USML 
+commodities, particularly the prohibition against 
+re-transfers or re-exports without express USG authorization? 
+ 
+--Has Super Wong had any commercial agreements or business 
+dealings with Iran, North Korea, or China? 
+ 
+AIT Taipei should also contact appropriate government of 
+Taiwan officials and make inquires to confirm the bona fides 
+of Super Wong Industrial Company and ascertain the existence 
+of any derogatory information.  END ACTION. 
+ 
+¶5.  License Information: 
+ 
+DDTC Case Number 05-050105965 
+ 
+QUANTITY/COMMODITY: 
+ 
+500      Brush Ring Assembly, Part # 3181E-3024 
+ 
+01       Technical Drawings 
+ 
+LICENSE VALUE: USD 12,251.00 
+ 
+APPLICANT/SOURCE: 
+ 
+Advance Products International LLC 
+2626 Southport Way, Suite C 
+National City, California 91950 USA 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Super Wong Industrial Company Ltd. 
+No.306, Sec.3, Hueilai Road, Situn District 
+Taichung City 407 
+TAIWAN 
+TEL: 886-4-23176058 
+ 
+FOREIGN END USER: 
+ 
+Thales Netherlands B.V. 
+7550 GD Hengelo 
+NETHERLANDS 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Advance Products International will send brush ring 
+assemblies and tech data to Super Wong Industrial Co. for 
+molding (assemblies are placed in molds and injected with 
+impact-resistant resin).  The molded assemblies will then be 
+shipped back to the United States for integration into DC 
+motors that will then be shipped to Thales Netherlands as a 
+component in the seeker head of the standard missile. 
+ 
+¶6.  Additional documentation submitted in support of license 
+application: 
+ 
+A)  Advanced Products International Purchase Order Number 
+AXSYS-071, dated 05/27/08. 
+ 
+B)  Non-Disclosure Agreement For Procurement Under ITAR 
+124.13 between Advance Products International and Super Wong 
+Industrial Company; signed by Frank Barone (dated 5-28-2008), 
+President, Advance Products; signed by Dung Hsu Way (dated 
+2008-May-09), Manager Director, Super Wong. 
+ 
+¶7.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the DDTC Case Number 
+in the subject line.  POC on this case is Peter Sabatini, 
+PM/DTCC, phone: 202-663-2819; ClassNet email: 
+sabtinipj@state.sgov.gov; OpenNet email: 
+sabatinipj@state.gov.  The 2006 Blue Lantern Guide Book is 
+available on OpenNet at 
+http://fsi.state.gov/fsi/spas/default.asp?ID= 1588 
+Department thanks AIT Taipei for its assistance in this 
+matter. 
+RICE

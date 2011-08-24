@@ -1,0 +1,284 @@
+08BEIJING3055
+CHINA BUILDING INDIGENOUS NUCLEAR PLANT CONSTRUCTION
+Thu Aug 07 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Beijing
+P 070951Z AUG 08
+FM AMEMBASSY BEIJING
+TO SECSTATE WASHDC PRIORITY 9050
+INFO DEPT OF ENERGY WASHINGTON DC
+DEPT OF COMMERCE WASHDC
+NOAA NMFS WASHDC
+NSF WASHDC
+NSC WASHDC
+SECDEF WASHDC
+AMEMBASSY MOSCOW
+AMEMBASSY NEW DELHI
+AMEMBASSY PARIS
+AMEMBASSY TOKYO
+AMEMBASSY SEOUL
+USEU BRUSSELS
+USMISSION UNVIE VIENNA
+CHINA POSTS COLLECTIVE
+AMCONSUL HONG KONG
+NRC WASHDC
+AIT TAIPEI 7042UNCLAS BEIJING 003055 
+ 
+ 
+STATE FOR OES/SAT, EAP/CM, ISN/MDSP AND T, AND FOR ISN/NESS R. 
+DELABARRE, P. COMELLA 
+USDOE FOR INTERNATIONAL/FREDRIKSEN, YOSHIDA, BISCONTI, AND BALLOU 
+USDOE FOR NNSA/SCHEINMAN, BIENIAWSKI, HUIZENGA, AND KROL 
+USDOE FOR NE/SPURGEON AND MCGINNIS 
+USNRC FOR ROSALES-COOPER 
+USDOC FOR 4420/ITA/MAC KASOFF 
+TOKYO FOR DOE ATTACHE CHERRY 
+ 
+SENSITIVE 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG KNNP TPHY PREL CH
+SUBJECT: CHINA BUILDING INDIGENOUS NUCLEAR PLANT CONSTRUCTION 
+CAPACITY, EDGING OUT WESTINGHOUSE 
+ 
+REF: A. 2008 Beijing 1137, B. 2008 Beijing 1136, C. 2008 Beijing 
+2863 
+ 
+ 
+¶1.  (SBU) Summary: At a meeting convened by the DOE China Office, 
+Westinghouse China provided an update on China's nuclear reactor 
+program, including progress at the Westinghouse AP1000 sites, plans 
+for new reactors, and an assessment of China's overall current and 
+future capacity to build new nuclear power plants (NPP). 
+Westinghouse representative Gavin Liu noted that because China's 
+technical capacity is increasing, the longer it takes to start the 
+next round of AP1000 reactors, the less scope will be available for 
+Westinghouse.  Following construction of the first two AP1000s, 
+China should be able to indigenously produce most components for the 
+next two plants except for the primary coolant pumps and 
+instrumentation and control system.  Three Chinese manufacturers 
+have already acquired or are in the process of acquiring 
+capabilities to produce heavy nuclear forgings including reactor 
+pressure vessels, two of which will rival the capabilities of Japan 
+Steel Works.  Liu believes that China's forging and component 
+manufacturing capacity will need to be dedicated to internal 
+projects for the next two decades, after which China can turn to the 
+export market.  Although the CPR-1000, the Chinese-built reactor 
+based on a copy of Framatome reactor technology at Daya Bay and Ling 
+Ao, which has been broadly adopted throughout China and is becoming 
+Westinghouse's main competitor, can be built quickly and 
+efficiently, it uses decades-old technology and, according to 
+Westinghouse, is 100 times less safe than the revolutionary passive 
+design of the AP1000.  End Summary. 
+ 
+New QA/QC Standards for Importers 
+--------------------------------- 
+ 
+¶2.  (SBU) Westinghouse is currently building four reactors at two 
+sites in China, Sanmen and Haiyang, for a consortium led by the 
+State Nuclear Power Technology Corporation (SNPTC).  Other Chinese 
+partners are the China National Nuclear Corporation and China Power 
+Investment Corporation (CPIC).  For the first two reactors, the 
+control rod drive mechanism (CRDM), reactor coolant pumps, and 
+instrumentation and control circuitry (I&C) will be provided by 
+Westinghouse.  Doosan of South Korea will provide the reactor 
+pressure vessels (RPV) and steam generators (SG).  Primary coolant 
+piping will either be supplied by an Italian firm or one of three 
+potential Chinese suppliers who are currently submitting samples for 
+testing.  Liu noted that since the contract was signed last July, 
+China's nuclear regulator, the National Nuclear Safety 
+Administration (NSNA), has implemented new standards for foreign 
+firms to be licensed to import nuclear components into China. 
+Foreign vendors must submit an application that includes proving 
+they have successfully built the components in another country, but 
+do not have to provide samples.  (Comment: This new requirement is a 
+response to problems with Russian-supplied equipment at Tianwan NPP, 
+specifically with components that had never been manufactured 
+before.  End Comment.) 
+ 
+Equipment Localization Plans 
+---------------------------- 
+ 
+¶3.  (SBU) A local Chinese manufacturer has been selected to build 
+the steel containment vessels, but has not yet been able to obtain 
+required construction certifications from NNSA.  Liu believes the 
+delay is a combination of the manufacturer having difficulty 
+supplying sufficient samples of the steel and welds, and limited 
+resources of the regulator.  This is currently the only construction 
+delay.  Ansaldo Nucleare, originally one of Westinghouse's 
+ 
+ 
+subcontractors, is now out of the picture, as they intended to 
+source the containment vessel in China anyway. 
+ 
+¶4.  (SBU) For the second two reactors, the customer is responsible 
+for procuring most of the equipment (Westinghouse will still supply 
+the primary coolant pumps and the I&C system).  As part of the 
+technology transfer portion of the contract, Westinghouse will 
+provide technical drawings and specifications so that SNPTC can 
+place orders locally for the equipment. 
+ 
+Potential Bottlenecks 
+---------------------- 
+ 
+¶5.  (SBU) Liu noted that China does not currently have the technical 
+capability to manufacture cam pumps large enough to meet AP1000 
+specifications.  China has the technology to build smaller cam 
+pumps, used in nuclear submarines, Liu said, and is working on 
+manufacturing larger pumps to eventually use in AP1000s, but will 
+not be ready in time for the first four plants.  The other main 
+technology deficiency in China's nuclear industry is I&C.  China 
+currently has no one capable of integrating I&C technology to build 
+a platform for NPP applications, Liu said. 
+ 
+¶6.  (SBU) Liu believes the biggest potential bottleneck is human 
+resources - coming up with enough trained personnel to build and 
+operate all of these new plants, as well as regulate the industry. 
+Although the civil construction and engineering industry in China 
+has significantly improved, there is almost no cross-pollination 
+with the nuclear construction industry, he said.  (Comment: Although 
+there currently is a limited field of experienced nuclear personnel 
+in China, this will probably not be a showstopper, as China has 
+demonstrated in the past a near infinite capacity to draw in and 
+train new people as necessary, basically straight from high school. 
+This was how China built up a civil aviation industry from scratch. 
+End Comment.) 
+ 
+Heavy Forging Capacity to Rival Japan Steel Works 
+--------------------------------------------- ---- 
+ 
+¶7.  (SBU) China has three manufacturers that are working to expand 
+capabilities to produce heavy nuclear forgings - Shanghai Boiler 
+Works (SBW) (ref A), Harbin Boiler Co., Ltd, and Dongfang Boiler 
+Group.  Dongfang is currently working exclusively for Guangdong 
+Nuclear Power Corporation (GNPC) to produce forgings for CPR-1000 
+reactors under construction all over China.  Harbin and SBW have 
+installed presses which will give them the capacity to make the 
+largest forgings, rivaling even the capabilities of Japan Steel 
+Works.  SBW, which has received nuclear certifications from NNSA and 
+has produced forgings for Daya Bay, Ling Ao, Ling Dong, and Qinshan, 
+has installed the largest press in the world at 16,500 tons.  Harbin 
+installed a 16,000 ton press produced by China First Heavy Machine 
+Works in Qiqihar and is currently working to receive nuclear 
+certification from NNSA.  (Note: Harbin has reportedly been 
+practicing producing nuclear grade forgings, but none have made the 
+grade yet.  End Note)  SBW can provide four complete reactor forging 
+sets per year (reactor pressure vessel, steam generator, and 
+turbine), Dongfang can supply two to three, and Harbin expects to be 
+able to supply two per year.  Liu noted that no one transferred this 
+technology to China; they figured it out on their own.  The nuclear 
+forging capacity will have to be dedicated to local projects for the 
+next ten to twenty years, Liu believes, after which China can look 
+to the export market. 
+ 
+Evolution of the CPR-1000 
+------------------------- 
+ 
+ 
+¶8.  (SBU) GNPC's CPR-1000, which has been selected for seven sites 
+for a total of 22 reactors so far, is basically a carbon copy of the 
+Framatome reactors imported at Daya Bay, with upgrades to the I&C 
+system and some other minor improvements, Liu said.  The Framatome 
+reactors are actually copies of 1960s-era Westinghouse reactor 
+technology transferred to the French.  While there was no specific 
+technology transfer clause in the Daya Bay or subsequent Ling Ao 
+contracts, GNPC learned how to replicate the plants through a series 
+of separate projects with the French, including software sales and 
+training, Liu said.  China practiced by building Qinshan II, a 600 
+MW plant, a 2-loop downscale of the 3-loop Daya Bay plant. 
+ 
+¶9.  (U) CPR-1000 sites planned or under construction: 
+-- Ling Dong, Guangdong Province - 2 NPP 
+-- Qinshan II, Zhejiang Province - Units 3 and 4 (600MW) 
+-- Hongyanhe, Liaoning Province - 4 NPP 
+-- Ningde, Fujian Province - 4 NPP 
+-- Yangjiang, Guangdong Province - 4 NPP 
+-- Fuqing, Fujian Province - 4 NPP 
+-- Fangjiashan, Zhejiang Province - 2 NPP 
+ 
+China currently has 11 reactors operating with a total capacity of 
+almost 9 GW electric, all located along the eastern coastline. The 
+four AP1000s, two EPRs, and 2 planned VVERs (no contract yet) will 
+add another 9.2 GW of capacity.  With the 21.2 GW of capacity from 
+CP-1000 reactors above, the total announced capacity operating or 
+under construction is over 39 GW, close to China's original plan to 
+have 40 GW operating by 2020.  The 12 planned inland reactors will 
+edge the total nearer to the 60 GW championed by National Energy 
+Bureau Minister Zhang Guobao. 
+ 
+CPR-1000 Has Become the AP1000 Competitor 
+----------------------------------------- 
+ 
+¶10.  (SBU) Although the Westinghouse AP1000 was selected following 
+an international bidding process and is frequently compared to 
+Areva's EPR, Liu says that Westinghouse sees the CPR-1000 as its 
+main competitor in China.  The CPR-1000, which achieved market 
+dominance before the completely indigenous CNNC-designed CNP-1000 
+even emerged from the R&D phase, effectively killing it off, can be 
+built quickly and efficiently using localized components.  The 
+Chinese regulator, burned by problems at Tianwan (ref B), has 
+advocated slow adoption of new (i.e. AP1000) technology.  Even 
+though the National Development and Reform Commission (NDRC) 
+announced that GenIII technology (code for the AP1000) should be 
+used when three inland sites of four reactors each were approved 
+following the winter snow storms that paralyzed much of southern and 
+central China in early 2008, Liu is concerned that most, if not all, 
+of those plants could end up choosing CPR-1000 technology since 
+there is no transparency in the decision-making process.  Because of 
+the uncertainty, the three utilities are planning for either 
+technology. 
+ 
+¶11.  (SBU) In addition to concerns about the selection process, 
+Westinghouse is worried that the longer it takes for a technology to 
+be chosen, the less scope there will be for international partners 
+because China is rapidly acquiring indigenous capability. 
+Furthermore, continuing delays coupled with the long lead time for 
+many AP1000 components could result in local government officials 
+pushing hard for CPR-1000 reactors, since faster implementation 
+would allow them to take credit sooner for decreasing pollution, now 
+a key component of their performance evaluations. 
+ 
+Who's in Charge of Nuclear Energy? 
+ 
+ 
+---------------------------------- 
+ 
+¶12.  (SBU) Although the responsibilities of the new National Energy 
+Bureau (NEB) have been detailed, it is not yet a functioning entity, 
+Liu said.  There is no clear decision-making process established 
+yet, and none of the Vice Premiers have been assigned the energy 
+portfolio to date.  The official process is that NEB and NDRC 
+together make recommendations which are sent to the National Energy 
+Commission of the State Council for final decision; how this will 
+work out in reality remains unclear, especially in light of the 
+apparent leadership vacuum. Furthermore, although former China 
+Atomic Energy Authority Chairman Sun Qin and about ten of his 
+employees have moved to NEB (ref C), Liu is not aware of any actual 
+nuclear power experts in that group.  (Note: CAEA's nuclear power 
+expert was Dong Baotong; we have not yet determined where he ended 
+up in the reorganization.  Westinghouse was also unaware of his 
+current department affiliation.  End Note.) 
+ 
+¶13.  (SBU) Comment: It has been six months since the NDRC approved 
+the 12 inland NPPs and announced they should use GenIII technology, 
+and five months since NEB Minister Zhang Guobao announced China 
+should increase nuclear power to 5% of the national mix (or 60 GW 
+operating, 30 GW under construction), and there still is no decision 
+on when to start on the inland NPPs and which technology to utilize. 
+ The major government restructuring and devastating May 12 Sichuan 
+earthquake are likely largely to blame for the delay, but the impact 
+is every day decreasing the likelihood of quicker AP1000 
+implementation and reducing the potential scope for Westinghouse 
+involvement.  Furthermore, as the CPR-1000 increases market share, 
+China is assuring that rather than building a fleet of 
+state-of-the-art reactors, they will be burdened with technology 
+that by the end of its lifetime will be 100 years old.  Finally, by 
+bypassing the passive safety technology of the AP1000, which, 
+according to Westinghouse, is 100 times safer than the CPR-1000, 
+China is vastly increasing the aggregate risk of its nuclear power 
+fleet.  End Comment. 
+ 
+RANDT 
+ 
+ 
+NNNN

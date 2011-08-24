@@ -1,0 +1,70 @@
+09MOSCOW680
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: ELECTROCOMPLECT,
+Fri Mar 20 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0015
+PP RUEHWEB
+
+DE RUEHMO #0680 0790845
+ZNR UUUUU ZZH
+P 200845Z MAR 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2454
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000680 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: ELECTROCOMPLECT, 
+KOROLEV, MOSCOW REGION, RUSSIA. 
+ 
+REFTELS: USDOC 0366 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Electrocomplect, 
+Korolev, Moscow Region, Russia. The company is listed on BIS license 
+application: NLR as the ultimate consignee of 50 electronic 
+integrated circuits and micro assemblies. These items are controlled 
+for national security, missile technology, nuclear proliferation and 
+anti-terrorism reasons under ECCN 3A001. The licensee is Actel 
+Corporation, 2061 Stierlin Ct, Mountain View, California. 
+ 
+¶3. On February 19, 2009, ECO Moscow LES Natalya Shipitsina spoke 
+with the Artem LNU (last name unknown), the POC provided in reftel 
+as the ultimate consignee.  Artem LNU advised LES Shipitsina that he 
+was the intermediate consignee, not the end user.  Artem LNU advised 
+LES Shipitsina that he would contact Electrocomplect and arrange for 
+the end use check and a POC.  Later that same day Artem LNU advised 
+LES Shipitsina that he spoke with Irina Treister of Electrocomplect 
+and was told the export control team could contact her directly to 
+arrange for the end use check. 
+ 
+¶4. On March 2, 2009, LES Shipitsina spoke with Irina Treister of 
+Electrocomplect, and was told that she must contact Denis Podolko, 
+Sales Director for Electrocomplect, and request a meeting for the 
+end use check. 
+ 
+¶5. On March 12, 2009, after speaking with Denis Podolko on several 
+occasions and explaining the basis for the requested end use check 
+with Electrocomplect, LES Shipitsina was advised by Denis Podolko 
+that Electrocomplect would not meet with the export control team, 
+and further advised that the ultimate end users of the reftel 
+commodity are strictly confidential and would not be divulged to the 
+export control team. 
+ 
+¶6. Recommendations: Post cannot/cannot recommend Electrocomplect, 
+Korolev, Moscow Region, Russia as a reliable recipient of sensitive 
+U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLI

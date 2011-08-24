@@ -1,0 +1,178 @@
+09TELAVIV2430
+RESPONSE TO BLUE LANTERN LEVEL 3 POST-SHIPMENT
+Thu Nov 05 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Tel Aviv
+VZCZCXYZ0006
+OO RUEHWEB
+
+DE RUEHTV #2430/01 3091013
+ZNR UUUUU ZZH
+O 051013Z NOV 09
+FM AMEMBASSY TEL AVIV
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 4105
+INFO RUETIAA/DIRNSA FORT GEORGE G MEADE MD PRIORITY
+RUEAIIA/CIA WASHDC PRIORITY
+RUCNFB/FBI WASHDC PRIORITY
+RUEKJCS/SECDEF WASHDC PRIORITY
+RUCPDOC/USDOC WASHINGTON DC PRIORITYUNCLAS TEL AVIV 002430 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+PM/DTCC - BLUE LANTERN COORDINATOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC IS
+SUBJECT: RESPONSE TO BLUE LANTERN LEVEL 3 POST-SHIPMENT 
+END-USE CHECK, LICENSES 050121146 AND 050098938 
+ 
+REF: STATE 68122 
+ 
+¶1. (SBU) Summary:  Emboffs conducted site surveys at Israel 
+Aerospace Industries (IAI) and Silver Arrow/Elbit to verify 
+the receipt of gyroscopes from U.S. suppliers to be installed 
+in Israeli-made unmanned aerial vehicles (UAVs).  Both IAI 
+and Silver Arrow acknowledged receipt of the gyroscopes, 
+noting that some of the gyroscopes had been installed in UAVs 
+and delivered to the Israel Air Force (IAF), while the 
+remaining gyroscopes are stored either in the companies' 
+secure facilities or with the IAF.  Both IAI and Silver Arrow 
+maintain sophisticated computer tracking systems that 
+allegedly prevent the gyroscopes from being used in any other 
+project than as stated on the export license.  Neither 
+company conducts maintenance or repairs the gyroscopes; in 
+one instance, Silver Arrow sent one of its gyroscopes back to 
+the U.S. supplier for maintenance.  Both companies are quite 
+familiar with U.S. defense export regulations.  End summary. 
+ 
+IAI 
+--- 
+ 
+¶2. (SBU) Polmiloff conducted a site visit at Israel Aerospace 
+Industries (IAI) at its facilities at Ben Gurion Airport on 
+September 16; Kobi Fogler from the MOD's Directorate of 
+Security Defense Establishment (MALMAB) was present during 
+the visit.  IAI MALAT Procurement and Logistics Director Rami 
+Cohen briefed on is division's work.  He noted that the 
+MALAT divsion was founded in 1974, and currently is 
+resposible for USD 330 million in annual sales with a 
+wo-year backlog.  Cohen said MALAT has produced an 
+delivered over 800 unmanned aerial vehicles (UAs), and 
+employs over 900 persons dedicated to UA design, 
+development, production, and integratio.  He listed 42 
+customers from around the world, including 17 branches in 
+India.  In response to polmiloff's question regarding 
+potential sales to Georgia and Russia, Cohen declined to 
+mention some country clients due to clauses in their 
+contracts preventing public disclosure. 
+ 
+¶3. (SBU) Cohen acknowledged IAI/MALAT's receipt of 15 
+vertical VG700MB dynamic measurement unit (DMU) gyroscopes 
+from Crossbow Technology, Inc., and provided copies of 
+documents in support of the transaction, including the 
+purchase order, end-use certificate, and export license. 
+According to Cohen, three gyroscopes were installed in Heron 
+UAVs and delivered to the Israel Air Force (IAF).  An 
+additional gyroscope was sent to the IAF as a spare part. 
+Cohen stated that the remaining 11 gyroscopes have yet to be 
+assembled in UAVs; five of the gyroscopes remain in IAI 
+storage, while the last six gyroscopes are currently with the 
+IAF.  Fogler confirmed this account from the MOD's 
+perspective. 
+ 
+¶4. (SBU) Cohen walked polmiloff through IAI's elaborate 
+computer accountability and tracking system, which includes 
+the gyroscopes' serial numbers, purchase orders, project 
+numbers, and whether a component is a controlled item. 
+According to Cohen, controlled items are logged into this 
+computer system for tracking, marked with three separate 
+end-use stickers, and stored in a secure, controlled-access 
+facility.  He noted that the computer system tracks the 
+project for which the gyroscopes are intended.  In order to 
+remove the gyroscopes from storage, an individual must access 
+the computer system.  If the component is used for a project 
+for which it is not intended, the computer system locks down 
+after sending a system wide alert. 
+ 
+¶5. (U) Cohen confirmed that IAI conducts no maintenance or 
+repair of the gyroscopes, nor possesses the facilities or 
+knowledge to repair the gyroscopes.  He explained that the 
+gyroscopes are essentially closed-components -- if IAI were 
+to try and crack the component open, it would harm the 
+component further.  He stressed that any component requiring 
+maintenance would be sent to Crossbow Technology for repair. 
+Cohen was intimately familiar with regulations government the 
+import of U.S.-origin defense articles, including 
+restrictions on re-transfer or re-export. 
+ 
+Silver Arrow/Elbit 
+------------------ 
+ 
+¶6. (SBU) Polmiloff and senior commercial specialist conducted 
+a site visit of Silver Arrow at its facilities in Nes Tziona 
+on November 2.  MALMAB's Kobi Fogler was present for this 
+ 
+site visit, as well.  Silver Arrow General Manager Shimon 
+Sarid explained that Silver Arrow was formed in 1987; Elbit 
+Systems assumed 100 percent control of Silver Arrow in 2000. 
+According to Sarid, Silver Arrow, or Elbit's Unmanned Aerial 
+Systems (UAS) division, sells its services to Elbit and does 
+not directly interface with customers. 
+ 
+¶7. (SBU) Sarid said the UAS division employs over 1,000 
+persons, and maintains strategic partnerships with Thales UK, 
+General Dynamics, and UEL (UK-based rotary engines plant). 
+Silver Arrow's primary UAVs are the Skylark and Hermes 
+models; the Hermes 450 is the backbone of the IAF's UAV 
+fleet.  Silver Arrow also provides Hermes 450s to the United 
+Kingdom (Watchkeeper and Lydian programs) and Singapore. 
+According to Sarid, other Silver Arrow UAV customers include 
+Macedonia, Mexico, France, Canada, Australia, and Sweden. 
+Sarid said Georgia was a previous customer; following the 
+Russia-Georgia conflict, the MOD instructed Silver Arrow to 
+cease its relationship with Georgia, Sarid said. 
+ 
+¶8. (SBU) Silver Arrow Purchasing Manager and export control 
+officer Ayelet Rott presented a thorough brief on Silver 
+Arrow export control compliance, citing regulations and 
+restrictions governing the import of U.S.-origin defense 
+articles.  She explained that export controlled items are 
+managed and traced through Silver Arrow's BAAN-ERP 
+computerized system.  Rott said the BAANN-ERP system is 
+interactive through all stages of the supply process, 
+including product number definition, purchase order, 
+inventory, and production issuance/final inspection.  All 
+items requiring an export license/end-use statement are 
+defined in the BAAN-ERP system as a controlled item, Rott 
+said -- each tab on the interactive BAAN-ERP "windows-based" 
+system includes a "pop-up" window alerting that the item in 
+question requires an export license. 
+ 
+¶9. (SBU) Rott explained that once export licenses for 
+controlled items are received and filed, the item's export 
+license number is entered into the BAAN-ERP computer system 
+along side the item's purchase order number.  Silver Arrow's 
+warehouse receives the controlled items, and enters the 
+item's lot and designated project information.  The warehouse 
+also marks the stored item with an export-control sticker. 
+Once an item is designated to a lot and project, the BAAN 
+system will block any attempt to use the item for another 
+project. 
+ 
+¶10. (SBU) Rott confirmed Silver Arrow's receipt of 22 
+vertical VG34-0803 gyroscopes from Goodrich Corporation, and 
+produced copies of documents in support of the transfer, 
+including the purchase order, export license, and end-use 
+certificate.  She noted that two of the gyroscopes have been 
+installed in Hermes 450 UAVs, and have subsequently been 
+delivered to the IAF.  Rott noted that one gyroscope was 
+returned to Goodrich Corporation for maintenance, as Silver 
+Arrow does not repair any gyroscopes.  Rott said the repaired 
+gyroscope has since been returned to Silver Arrow; the 20 
+remaining gyroscopes are stored with Elbit/Silver Arrow, and 
+are expected to be installed in Hermes 450 UAVs and delivered 
+to the IAF in the near future.  Fogler confirmed this account 
+from the MOD's perspective. 
+ 
+CUNNINGHAM

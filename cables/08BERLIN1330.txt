@@ -1,0 +1,79 @@
+08BERLIN1330
+BLUE LANTERN POST-SHIPMENT END-USE CHECK: LICENSE
+Thu Sep 25 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXRO1658
+PP RUEHAG RUEHDF RUEHLZ
+DE RUEHRL #1330 2691521
+ZNR UUUUU ZZH
+P 251521Z SEP 08
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 2260
+INFO RUCNFRG/FRG COLLECTIVE
+RUEHCP/AMEMBASSY COPENHAGEN 0486
+RUCPDOC/USDOC WASHINGTON DC
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS BERLIN 001330 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+STATE FOR EUR/CE, EUR/PRA, AND PM/DTCC - BLUE LANTERN 
+COORDINATOR (SABATINI) 
+ 
+E.O. 12958: N/A 
+TAGS: DA ETTC KOMC GM
+SUBJECT: BLUE LANTERN POST-SHIPMENT END-USE CHECK: LICENSE 
+05-050104085 
+ 
+REF: A. SECSTATE 91180 
+     ¶B. PETERSEN-SABATINI E-MAIL 9/21/2008 
+ 
+¶1.  (SBU) REF A requested Embassy assistance in conducting a 
+post-shipment check on license 05-050104085 for export of a 
+U.S.-origin piezoresistive accelerometer (Endevco Model 
+7270A-200K) to the Fraunhofer Ernst-Mach-Institute (EMI) in 
+Freiburg, Germany.  The reason for this end-use check is that 
+this article represents a sensitive commodity with potential 
+for diversion.  EMI's stated application for this article is 
+to measure the acceleration of shock plates under blast 
+loading in a large shock tube.  Post was asked to confirm 
+from EMI receipt of the Endevco Model 7270A-200K 
+accelerometer and make inquiries about the intended use of 
+the commodity.  Post contacted the director of EMI, Dr. Klaus 
+Thoma, multiple times, but did not receive satisfactory 
+responses to any of the questions posed in REF A. 
+ 
+¶2.  (SBU) Thoma expressed irritation with our inquiries and 
+appeared to see them as an unnecessary intrusion, given that 
+the commodity had already been delivered to EMI.  His 
+responses were vague and he did not respond positively to 
+follow up questions despite every effort by post to deliver 
+the inquiries in a considerate and professional manner. 
+Thoma explained that EMI has 30 years of experience working 
+with the USG and that EMI receives Endevco accelerometers in 
+the 7270A family on a continuous basis.  His primary concern 
+was that he does not want his technicians burdened with 
+having to send reports describing how they intend to use 
+Endevco accelerometers and he insinuated that EMI may be 
+inclined to seek alternate suppliers if the procurement 
+process from Endevco becomes too cumbersome. 
+ 
+¶3.  (SBU) In response to the REF A specific questions, on 
+September 18, Thoma did acknowledge that EMI did receive the 
+7270A-200K "a couple days ago," but he did not supply any 
+accompanying supporting documentation to confirm the 
+commodity was received.  Thoma declined to describe any 
+specific testing EMI had planned for the 7270A-200K or why 
+this commodity was chosen (as opposed to other sensors in the 
+7270A family.)  Thoma only said EMI uses extreme range 
+accelerometers for uses including measuring hypervelocity 
+impacts, which he says are some of the most extreme 
+collisions measured on Earth.  Thoma also said that EMI 
+selects these sensors from an Endevco catalog without 
+consultations with Endevco applications engineers.  Regarding 
+re-export concerns, Thoma said "I guarantee that EMI uses 
+Endevco sensors only in our labs and we do not re-export 
+them." 
+KOENIG

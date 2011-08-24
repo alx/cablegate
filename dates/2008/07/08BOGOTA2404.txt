@@ -24,40 +24,7 @@ RUEAIIA/CIA WASHDC PRIORITY
 RUEAWJC/DEPT OF JUSTICE WASHDC PRIORITY
 RHEFDIA/DIA WASHDC PRIORITY
 RUEKJCS/SECDEF WASHDC PRIORITY
-RHEHNSC/NSC WASHDC PRIORITYid: 160575
-date: 7/3/2008 0:34
-refid: 08BOGOTA2404
-origin: Embassy Bogota
-classification: UNCLASSIFIED
-destination: 
-header:
-VZCZCXYZ0003
-PP RUEHWEB
-
-DE RUEHBO #2404 1850034
-ZNR UUUUU ZZH
-P 030034Z JUL 08
-FM AMEMBASSY BOGOTA
-TO RUEHC/SECSTATE WASHDC PRIORITY 3440
-INFO RUEHCV/AMEMBASSY CARACAS PRIORITY 0645
-RUEHLP/AMEMBASSY LA PAZ JUL 9537
-RUEHPE/AMEMBASSY LIMA PRIORITY 6324
-RUEHZP/AMEMBASSY PANAMA PRIORITY 1956
-RUEHFR/AMEMBASSY PARIS PRIORITY 1332
-RUEHQT/AMEMBASSY QUITO PRIORITY 6996
-RUEHGL/AMCONSUL GUAYAQUIL PRIORITY 4483
-RHMFISS/CDR USSOUTHCOM MIAMI FL PRIORITY
-RUEHGV/USMISSION GENEVA PRIORITY 1550
-RUEAIIA/CIA WASHDC PRIORITY
-RUEAWJC/DEPT OF JUSTICE WASHDC PRIORITY
-RHEFDIA/DIA WASHDC PRIORITY
-RUEKJCS/SECDEF WASHDC PRIORITY
-RHEHNSC/NSC WASHDC PRIORITY
-
-
------------------ header ends ----------------
-
-UNCLAS BOGOTA 002404 
+RHEHNSC/NSC WASHDC PRIORITYUNCLAS BOGOTA 002404 
  
 SIPDIS 
  
@@ -84,69 +51,4 @@ Aguilar, alias "Cesar," and Alexander Farfan, alias "Enrique
 Gafas."  Santos said the military would hand "Cesar" over to 
 Colombian judicial authorities.  The American hostages are 
 wheels up at 6:15 PM en route to the United States tonight. 
-BROWNFIELD 
-
-=======================CABLE ENDS============================
-
-
-id: 160665
-date: 7/3/2008 11:28
-refid: 08BOGOTA2406
-origin: Embassy Bogota
-classification: UNCLASSIFIED
-destination: 
-header:
-VZCZCXYZ0009
-PP RUEHWEB
-
-DE RUEHBO #2406 1851128
-ZNR UUUUU ZZH
-P 031128Z JUL 08
-FM AMEMBASSY BOGOTA
-TO RUEHC/SECSTATE WASHDC PRIORITY 3442
-INFO RUEHCV/AMEMBASSY CARACAS PRIORITY 0646
-RUEHLP/AMEMBASSY LA PAZ JUL 9538
-RUEHPE/AMEMBASSY LIMA PRIORITY 6325
-RUEHFR/AMEMBASSY PARIS PRIORITY 1333
-RUEHQT/AMEMBASSY QUITO PRIORITY 6997
-RUEHGL/AMCONSUL GUAYAQUIL PRIORITY 4484
-RUEHGV/USMISSION GENEVA PRIORITY 1551
-RUEAIIA/CIA WASHDC PRIORITY
-RUEAWJC/DEPT OF JUSTICE WASHDC PRIORITY
-RHEFDIA/DIA WASHDC PRIORITY
-RUEKJCS/SECDEF WASHDC PRIORITY
-RHEHNSC/NSC WASHDC PRIORITY
-
-
------------------ header ends ----------------
-
-UNCLAS BOGOTA 002406 
- 
-SIPDIS 
- 
-E.O. 12958: N/A 
-TAGS: PGOV PTER PREL PREF PHUM FR CO
-SUBJECT: COLOMBIAN MILITARY RESCUES AMERICAN HOSTAGES, 
-INGRID BETANCOURT 
- 
-¶1.  Minister of Defense Juan Manuel Santos announced on July 
-2 that the Colombian military had rescued American hostages 
-Marc Gonsalves, Thomas Howes, and Keith Stansell, along with 
-Ingrid Betancourt and eleven members of the Colombian 
-security forces, from the FARC.  Military intelligence 
-rescued the hostages from an area south of San Jose de 
-Guaviare in a secret operation titled "Operation Jaque." 
-Santos said the unprecedented operation incurred no injuries 
-or deaths. He added that the Colombian military had 
-"infiltrated" the FARC Secretariat, as well as the FARC's 
-First Front which was holding the hostages, as part of the 
-operation.  Santos called on all FARC to lay down their arms 
-and demobilize. The Colombian military also captured two FARC 
-members, including First Front commander Gerardo Antonio 
-Aguilar, alias "Cesar," and Alexander Farfan, alias "Enrique 
-Gafas." Santos said the military would hand "Cesar" over to 
-Colombian judicial authorities.  The American hostages are 
-wheels up at 6:15 PM en route to the United States tonight. 
-BROWNFIELD 
-
-=======================CABLE ENDS============================
+BROWNFIELD

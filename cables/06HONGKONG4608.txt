@@ -1,0 +1,94 @@
+06HONGKONG4608
+EXTRANCHECK: PRE-LICENSE CHECK: HAECO Limited
+Fri Dec 01 00:00:00 +0100 2006
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0026
+RR RUEHWEB
+
+DE RUEHHK #4608 3350829
+ZNR UUUUU ZZH
+R 010829Z DEC 06
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9629
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 004608 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: HAECO Limited 
+ 
+REF: A) USDOC 06263 B) EXP.LIC. D366543 C) HK 03591 D) 
+HK 07053 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO), conducted a pre-license 
+check at Hong Kong Aircraft Engineering Company Limited 
+(HAECO), 80 South Perimeter Road, Hong Kong 
+International Airport, Lantau Island, Hong Kong (more 
+information at www.haeco.com).  The purpose of the 
+visit was to determine the suitability of HAECO to be 
+the recipient of a Honeywell inertial reference unit 
+that is the subject of export license application 
+D366543.  The item (ECCN 7A103) is valued at USD 
+$78,000 and is controlled for missile technology 
+reasons (MT). The license applicant is General 
+Electric, acting through the Memphis Group of Memphis, 
+TN, a major supplier of used and surplus avionics 
+equipment (www.memphisgrp.com). 
+ 
+¶3.  HAECO is a longstanding Hong Kong company providing 
+comprehensive aeronautical engineering services to 
+airlines/operators since 1950 and was the subject of a 
+favorable check referenced in reftel C.  Related 
+company, Hong Kong Aero Engine Services Limited 
+(HAESL), was the subject of a separate favorable check 
+referenced in reftel D.  Other related companies 
+provide additional aircraft overhaul and support 
+services in Hong Kong and mainland China. 
+ 
+¶4.  On November 29, 2006, the ECO visited HAECO at the 
+address above and met with Simon Leung, Project 
+Manager.  He stated that HAECO needed the item to 
+service Boeing aircraft operated by start-up airline 
+"Oasis Airlines" pursuant to HAECO's asset management 
+agreement with that company.  The item will be held as 
+a spare for two Boeing 747-400 aircraft presently being 
+used by Oasis (Hong Kong registration numbers B-LFA, B- 
+LFB and MSN numbers 24063 and 24065).  Oasis is 
+acquiring two additional aircraft (Hong Kong 
+registration numbers: B-LFC and B-LFD) for which HAECO 
+may need an additional inertial reference unit in the 
+future. 
+ 
+¶5.  Leung stated that the item would be dedicated to 
+Oasis planes and would be well secured.  Mr. Leung was 
+quite familiar with the controlled nature of the item 
+and the need to comply with U.S. and Hong Kong laws 
+applicable to the item. 
+ 
+¶6.  At the time visited, HAECO appeared to be a 
+suitable recipient of the subject controlled item since 
+it cooperated fully with the PLC and provided 
+substantial information on HAECO's proposed use of the 
+item in Hong Kong.  In addition, HAECO operates a line 
+a business that is consistent with the potential use of 
+the ordered item.  The ECO recommends that this PLC be 
+classified as Favorable. 
+ 
+Cunningham

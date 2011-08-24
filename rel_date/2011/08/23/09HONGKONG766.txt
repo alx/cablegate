@@ -1,0 +1,141 @@
+09HONGKONG766
+EXTRANCHECK: POST SHIPMENT VERIFICATION: HANG TAT ELECHANG
+Mon Apr 27 00:00:00 +0200 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0004
+RR RUEHWEB
+
+DE RUEHHK #0766/01 1170915
+ZNR UUUUU ZZH
+R 270915Z APR 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 7480
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000766 
+ 
+USDOC FOR 532/OEA/MHAMES/MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: HANG TAT ELECHANG 
+TAT ENTERPRISES CO 
+ 
+REF: A) BIS request e-mail dated March 12, 2009 B)HK 00915 (2007) 
+C)HK 01070 (2008) 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO), 
+accompanied by Commercial Assistant, Carrie Chan, conducted a post 
+shipment verification (PSV) at Hang Tat Electronic Enterprises Co., 
+Room 2608, Technology Plaza, 29-35 Sha Tsui Road, Tsuen Wan, Hong 
+Kong (Hang Tat). The items in question are various integrated 
+circuits shipped to Hang Tat on or about September 23, 2008 and 
+valued at USD 33,236.  The export control classification number 
+(ECCN) for these items is 3A001.  If properly classified by the 
+exporter,these items are controlled for and national securiy (NS) 
+reasons and would not require a license for end use in Hong Kong but 
+would, in almost all circumstances, require a license for reexport 
+to mainland China.  The exporter was Easy Gray Technologies of 
+Gloucester, Massachusetts. 
+ 
+¶3.  As further detailed in reftel B, Hang Tat was the subjectof a 
+previous unfavorable end use check in 2007.  That check also 
+involved electronic components controlled for national security 
+reasons. 
+ 
+¶4.  According to the Hong Kong Inland Revenue Department Business 
+Registration Office, Hang Tat has been in existence since 1991.  The 
+company is a sole proprietorship (as a result, it is not listed in 
+the Hong Kong Companies Registry). Hong Kong identity holder Sau 
+Luen Chan is listed as owner.  A Hong Kong Trade Development Council 
+profile of Hang Tat lists Mr. Cho-Man Wong as manager.  It states 
+that Hang Tat is a trading company specializing in electronics 
+trade. 
+ 
+¶5.  On April 14,2009, the ECO, accompanied by Commercial Assistant 
+Carrie Chan, visited Hang Tat at the address referenced above and 
+met with a Mr. Wong and Mr. Bako Cheung (the person listed as the 
+contact person on the shipment's airway bill). The offices of Hang 
+Tat are modest (roughly 5 desks in a one room office with a 
+partitioned space for Mr. Wong's office).  The meeting had taken 
+some time to schedule as Mr. Cheung stated that Mr. Wong wanted to 
+participate in the meeting and he was traveling in mainland China 
+when Ms. Chan made the initial call.  As in 2007, Mr. Wong stated 
+that Hang Tat is a trading company with a long history of operations 
+in Hong Kong.  Hang Tat's business model consists of sourcing 
+electronic components for mainland Chinese trading companies.  When 
+asked for background on typical end-users for his items, Mr. Wong 
+demurred (as in 2007), stating that he typically deals with trading 
+companies in Shenzhen.  Mr. Wong stated that his customers (other 
+trading companies) do not want to divulge end users to him as they 
+fear he will approach those end users directly.  When pressed about 
+the types of products that might use the components he sells, Mr. 
+Wong stated that he and his staff are really not familiar with the 
+items they sell but only source based on item numbers. 
+ 
+¶6.  ECO asked Mr. Wong how customers find him.  Mr. Wong replied 
+that most of his customers are long-term customers while new 
+customers come to his business as a result of advertisements he 
+places in mainland catalogues and journals.  Mr. Wong showed ECO one 
+of those advertisements (from 2005).  This advertisement referenced 
+Shenzhen company Heng Hui Denzi and listed a Shenzhen retail office. 
+ The advertisement stated that Heng Hui specializes in various 
+electronic components including military grade components.  Based on 
+internet research, it appears that this retail office is located in 
+a larger Shenzhen electronics related shopping mall.  The phone 
+number for this company is listed as (755) 8301-3216 and the e-mail 
+is listed as henghui@tom.com.  As noted in further detail in reftel 
+C, another company that was the subject of an unfavorable end-use 
+check in Hong Kong (Wing Fat) also appears to have a Shenzhen 
+affiliate in this same shopping mall. 
+ 
+¶7.  When asked about the specific order, Mr. Wong provided ECO with 
+a copy of a Hang Tat invoice.  The invoice lists the buyer of items 
+as Yuning Electronics Ltd., Rm 4710 SEG Plaza, Shenlan Middle Road, 
+Futian, Shenzhen.  The telephone contact number is listed as 
+755-83234169.  The invoice includes a signature from the purported 
+customer confirming that the items had been picked up by the 
+customer.  The invoice also includes a large stamped box in which it 
+is stated that it is the obligation of the customer to obtain the 
+required export licenses and customs clearances.  Mr. Wong stated 
+that Yuning is a long-time customer (10 years) and it is also an 
+electronics trading company.  When asked why this Shenzhen trading 
+company is buying from a Hong Kong Trading company (and not directly 
+from suppliers), Mr. Wong stated that it is easier for mainland 
+customers to purchase from Hong Kong companies than from 
+international sources. 
+ 
+¶8.  Mr. Wong stated that when he orders items from abroad on behalf 
+of mainland customers, he does not inform the exporter that the 
+items are destined for mainland China.  Mr. Wong stated that he 
+typically tells his suppliers that any resale of items he purchases 
+will occur in Hong Kong.  As for the buyers, Mr. Wong stated that he 
+is not responsible nor aware whether they apply for Hong Kong export 
+licenses.  Mr. Wong stated that this is why he includes the language 
+on his invoices stating that it is the buyer's responsibility to 
+obtain any required export/reexport licenses. 
+ 
+¶9.  ECO informed Mr. Wong that he needed to take into consideration 
+applicable U.S. export and reexport rules and that Hong Kong export 
+control rules may be applicable to his transactions.  ECO, by 
+subsequent e-mail, sent Mr. Wong additional information on U.S. 
+reexport controls.  ECO recommends a thorough review of all 
+shipments to Hang Tat as he does not find Mr. Wong's explanations to 
+be credible.  ECO suspects that Hang Tat exists primarily as a means 
+of acquiring electronic components for mainland buyers that are 
+difficult to obtain in the mainland (likely because of export 
+control restrictions).  In addition, ECO requests that OEA provide 
+him with a commodity classification for the items in question so 
+that he may provide the Hong Kong government information about this 
+potential violation of Hong Hong law. 
+ 
+Donovan

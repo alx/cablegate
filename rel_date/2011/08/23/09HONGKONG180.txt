@@ -1,0 +1,62 @@
+09HONGKONG180
+EXTRANCHECK: PRE LICENSE CHECK: INTERTEK TESTING SERVICES
+Thu Jan 29 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0009
+RR RUEHWEB
+
+DE RUEHHK #0180 0290419
+ZNR UUUUU ZZH
+R 290419Z JAN 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 6778
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000180 
+ 
+USDOC FOR 532/OEA/MNICKSON/ADYSON/TWILLIS/EHOLLAND 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE LICENSE CHECK: INTERTEK TESTING SERVICES 
+HONG KONG 
+ 
+REF: A) D410394 B) USDOC 00113 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. At the direction of the Office of Enforcement Analysis (OEA) of 
+the USDOC Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO) conducted a pre-license check (PLC) at 
+Intertek Testing Services Hong Kong, 6/F, Garment Centre, 576 Castle 
+Peak road, Hong Kong (Intertek).  The item in question is an Agilent 
+7500cx ICP-MS. This item is classified under export control 
+classification number (ECCN) 3A233 and is controlled for nuclear 
+nonproliferation (NP) reasons.  The license applicant is Agilent. 
+ 
+¶3.  Intertek provides various testing services on a worldwide basis 
+in a range of fields including textiles, toys, electronics and 
+others.  Intertek has a global network of over 1000 laboratories in 
+110 countries throughout the world.  The Hong Kong offices of 
+Intertek at the Garment Centre comprise at least eight floors of the 
+large building.  More information can be found at www.intertek.com. 
+ 
+ 
+¶4.  On January 22, 2009, ECO visited the Intertek and met with Mr. 
+Marco Chan, Manager, Chemical Laboratory, Consumer Goods. He 
+cofirmed that Intertek had ordered the item in question from 
+Agilent's Hong Kong distributor, Tegent Tchnology.  The new item is 
+being purchased to aument an existing testing unit to increase 
+capaciy.  This section of Intertek tests various toy, fod and 
+textile samples from clients for heavy metas.  Mr. Chan was open 
+and cooperative and providd purchase order and other documentation 
+confirming the purchase. 
+ 
+¶5.  Based on the information noted above, ECO believes that Intertek 
+is a suitable recipient of U.S. origin controlled technology.

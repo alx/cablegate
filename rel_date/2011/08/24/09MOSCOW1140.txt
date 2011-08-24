@@ -1,0 +1,94 @@
+09MOSCOW1140
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: ISTC-INTERNATIONAL
+Tue May 05 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHMO #1140 1250515
+ZNR UUUUU ZZH
+P 050515Z MAY 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3139
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001140 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: ISTC-INTERNATIONAL 
+SCIENCE AND TECHNOLOGY CENTER, MOSCOW, RUSSIA. 
+ 
+REFTELS: REQUEST #4210006 DATED 4/22/2009 
+                 #4210007 DATED 4/23/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftels requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, ISTC - International 
+Science and Technology Center, Moscow, Russia. The company is listed 
+on BIS license application: NLR as the ultimate consignee of one (1) 
+water-cooled loadbank connector valve for electrical apparatus, 
+model no. WCL488-1000-120000-400V. No ECCN number given for this 
+item.  The licensee is Transistor Devices Inc., 36 Newburgh Road, 
+Hackettstown, NJ; and license application: D404449 as the ultimate 
+consignee of 2 model MPT2-MCA double width NIM electronic 
+instruments. These items are controlled for anti-terrorism reasons 
+under ECCN 3A992. The licensee is Canberra Industries, Inc., 800 
+Research Parkway, Meriden, CT 06450. 
+ 
+¶3. On April 29, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of ISTC-International Science and 
+Technology Center (ISTC). 32-34, Krasnoproletarskaya Street, Moscow, 
+Russia. The export control team met with Dmitry Ivlev, Deputy Chief 
+Procurement Officer. 
+ 
+¶4. The ISTC is an intergovernmental organization connecting 
+scientists from Russia, Georgia and other countries of the 
+Commonwealth of Independent States (CIS) with their peers and 
+research organizations in Canada, UE, Japan, Republic of Korea, 
+Norway and the United States.  ISTC facilitates international 
+science projects and assists the global scientific and business 
+community to source and engage with Russian and CIS institutes that 
+develop or possess an excellence of scientific know-how.  The ISTC 
+was established in 1992 and began operations in 1994.  It has over 
+200 employees from 40 countries, including the United States. 
+ 
+¶5. The objectives of the ISTC are to provide weapons experts in the 
+CIS the opportunity to redirect their talents to peaceful 
+activities; contribute to the solution of national science and 
+technology problems; reinforce the transition to market economies; 
+support basic and applied research; and promote integration of CIS 
+scientists into the global scientific community. 
+ 
+¶6. The commodities in reftel were purchased and imported for 
+RFNC-VNIIEF Institute of Nuclear & Radiation located in Sarov, 
+Russia.  Sarov was formally known as Arzamas-16, a closed and secret 
+city during Soviet days. 
+ 
+¶7. ISTC has a comprehensive compliance program in place.  Licensable 
+technology received by Russian customs is cleared by ISTC staff and 
+transported to its secure warehouse in Moscow.  The commodities are 
+logged in and out, documented with both a paper and electronic copy 
+of the transaction.  When the ultimate consignee picks up the 
+commodities at ISTC, a record of that transaction is also recorded. 
+ 
+¶8. The export control team found that the reftel commodities are 
+being used for the end-use for which they were licensed; there are 
+no indications of impropriety; and Dmitry IvlevQs answers were not 
+evasive. 
+ 
+¶8. Recommendations: Post recommends ISTC-International Science and 
+Technology Center, Moscow, Russia, as a reliable recipient of 
+sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

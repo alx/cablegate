@@ -1,0 +1,85 @@
+09MOSCOW1259
+EXTRANCHECK: POST-SHIPMENT VERIFICATIONS A & B: FSUE FEA
+Tue May 19 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0003
+PP RUEHWEB
+
+DE RUEHMO #1259 1390737
+ZNR UUUUU ZZH
+P 190737Z MAY 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3312
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001259 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATIONS A & B: FSUE FEA 
+RADIOEXPORT, MOSCOW, RUSSIA. 
+ 
+REFTELS: REQUEST #4210001; DATED 4/09/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the foreign purchaser, FSUE FEA 
+Radioexport, Moscow, Russia. The company is listed on BIS license 
+applications: NLR as the ultimate consignee of (PSV A) digital 
+oscilloscopes instruments and apparatus with a recording device, 
+(PSV B) digital oscilloscopes instruments and apparatus with a 
+recording device, model no: WAVEPRO 7200. These items are controlled 
+for nuclear non-proliferation and anti-terrorism reasons under ECCN 
+3A292 and 3A992. The licensee is LeCroy Corporation, 700 Chestnut 
+Ridge Road, Spring Valley, NY 109776. 
+ 
+¶3. On May 13, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of FSUE FEA Radioexport, Moscow, Russia. 
+The export control team met with Sergey Sobolev, Deputy General 
+Director and Igor Streguchevsky, Deputy Director, Candidate of 
+Science. 
+ 
+¶4. The Federal State Unitary Enterprise (FSUE) Foreign Economic 
+Associate (FEA) Radioexport was founded in 1966.  FSUE FEA 
+Radioexport is 100% government owned, has approximately 54 employees 
+and was established to export Soviet manufactured televisions and 
+radios.  Since the collapse of the Soviet Union FSUE FEA Radioexport 
+ceased all exports and now only imports electronic components, 
+software, measuring and computing instruments, primarily from the 
+United States.  FSUE FEA RadioexportQs main customers are other 
+state owned enterprises, ministries and research centers. 
+ 
+¶5. Sergey Sobolev, Deputy General Director of FSUA FEA Radioexport, 
+stated that the subject commodity was purchased from LeCroy as stock 
+for in-house testing and evaluation to assess its marketability in 
+Russia.  Sobolev advised the export control team that LeCroy 
+measuring equipment is not well established on the Russian market. 
+Of the 4 LeCroy oscilloscopes purchased by FSUE FEA Radioexport, 
+three are out at a testing lab being evaluated and one was available 
+to the export control team for inspection. The export control team 
+was escorted to a secure storage facility at FSUE FEA Radioexport 
+where one LeCroy oscilloscope, serial no. LCRY0612M23439, was 
+stored.  Sobolev advised the export control team that the other 
+three LeCroy oscilloscopes will be made available for inspection at 
+any time if requested. 
+ 
+¶6. The export control team found no indications of impropriety at 
+FSUE FEA Radioexport.  The consigneeQs answers were not evasive. It 
+appears that the subject commodity is being used for which it was 
+licensed. 
+ 
+¶7. Recommendations: Post recommends FSUE FEA Radioexport, Moscow, 
+Russia, as a reliable recipient of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/BBLECHER/PLISTON) 
+BEYRLE

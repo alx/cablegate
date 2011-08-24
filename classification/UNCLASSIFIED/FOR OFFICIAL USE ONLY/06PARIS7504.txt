@@ -1,0 +1,75 @@
+06PARIS7504
+FRANCE:  BLUE LANTERN 3:  POST-SHIPMENT END-USE CHECK
+Wed Nov 22 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+null
+Lucia A Keegan  12/01/2006 05:55:02 PM  From  DB/Inbox:  Lucia A Keegan
+
+Cable 
+Text:                                                                      
+                                                                           
+      
+UNCLAS    SENSITIVE     PARIS 07504
+
+SIPDIS
+cxparis:
+    ACTION: ECON
+    INFO:   ENGO DCM SCIO TRDO ESCI POL ORA AMB FCS AGR
+            LABO ECNO UNESCO ECSO SCI
+
+DISSEMINATION: ECONOUT /1
+CHARGE: PROG
+
+APPROVED: ECON:SDWYER
+DRAFTED: ECON:HSULLIVAN
+CLEARED: NONE
+
+VZCZCFRI938
+RR RUEHC
+DE RUEHFR #7504 3260846
+ZNR UUUUU ZZH
+R 220846Z NOV 06
+FM AMEMBASSY PARIS
+TO SECSTATE WASHDC 3300UNCLAS PARIS 007504 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+STATE FOR PM/DTCC - BLUE LANTERN COORDINATOR (MICHAEL ROMERO) 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC FR
+SUBJECT:  FRANCE:  BLUE LANTERN 3:  POST-SHIPMENT END-USE CHECK 
+ON LICENCE 05-1001634 - ROCKWELL COLLINS FRANCE 
+ 
+REF:  STATE 176592 
+ 
+¶1. (SBU) Per reftel, Post Blue Lantern Action Officer contacted 
+Rockwell Collins France regarding export license 05-1001634 
+involving the delivery of helicopter parts and communication 
+system components.  The Department was concerned about the 
+excessive number of intermediate consignees.  Rockwell Collins 
+Manager for Contracts Philippe Bardet contacted econoff by 
+letter on November 15. 
+ 
+¶2. (SBU) Bardet confirmed the delivery of helicopter parts under 
+license number 05-1001634 to IAR Brasov for final end use by the 
+Romanian Airforce.  He noted that, within the Rockwell Collins 
+Group, Rockwell Collins France was responsible for commercial 
+relations with Romania, which is the reason that Rockwell 
+Collins France was the purchaser for the IAR Brasov. 
+ 
+¶3. (SBU) According to Bardet, Rockwell Collins France delivered 
+the products directly from the U.S. to Romania and did not take 
+possession of the goods.  He confirmed, however, that the "Data 
+Loaders DL-8171" did not contain U.S.-origin frequency hopping 
+algorithms.  Neither did they permit access to frequency hopping 
+algorithms nor the functions of ECCM/frequency hopping of the 
+USG.  Finally, Bardet confirmed that none of the following was 
+released to any third-party entity:  USG datalink message 
+standards/formats and Have Quick IIA and the USG version of the 
+SINCGARS. 
+ 
+STAPLETON

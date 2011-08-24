@@ -1,0 +1,163 @@
+05TAIPEI1217
+US/TAIWAN HOLD FIRST ANTI-TRUST WORKING GROUP
+Tue Mar 22 00:00:00 +0100 2005
+UNCLASSIFIED
+American Institute Taiwan, Taipei
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 02 TAIPEI 001217 
+ 
+SIPDIS 
+ 
+STATE FOR EAP/RSP/TC, STATE PASS AIT/W 
+ 
+E.O. 12958: N/A 
+TAGS: ECON KIPR TW IPR
+SUBJECT: US/TAIWAN HOLD FIRST ANTI-TRUST WORKING GROUP 
+MEETING 
+ 
+¶1.  Summary:  Representatives from the US Department of 
+Justice and Fair Trade Commission and representatives from 
+the Taiwan Fair Trade Commission held a Digital Video 
+Conference (DVC) March 16.  This was the first meeting under 
+the auspices of the U.S./Taiwan Anti-trust Working Group. 
+The TFTC presented a short discussion of patent pooling in 
+Taiwan and then outlined their decision making process in a 
+recent case.  USDOJ and FTC introduced the U.S. business 
+review and advisory opinion process then discussed U.S. 
+procedures in a U.S. patent pooling case.  In addition to the 
+first meeting of the Anti-trust Working Group, this was 
+TFTC's first DVC.  TFTC representatives were very pleased 
+with the discussion, wished the DVC could have been extended 
+and are eagerly anticipating the next working group meeting. 
+End Summary. 
+ 
+¶2.  The first meeting of the US/Taiwan Anti-trust working 
+group was via DVC on the morning of March 16 Taipei time. 
+USDOJ Stuart Chemtob led the U.S. delegation, accompanied by 
+USDOJ Special Counsel for Intellectual Property Frances 
+Marshall, Attorneys Hill Wellford and Jennifer Dixton, and 
+Economist Suzanne Majewski, FTC Associate Director Alden 
+Abbott and Asia-Pacific Counsel Deirdre Shanahan.  US Deputy 
+Assistant Attorney General Makan Delrahim also attended 
+briefly.  The Taiwan FTC delegation was headed by Deputy 
+Chairman Shin Chih-jeng, accompanied by several members of 
+his staff. 
+ 
+Discussing Patent Pooling Guidelines 
+==================================== 
+ 
+¶3.  Introductions were followed by a TFTC presentation on 
+patent pooling regulations in Taiwan.  Patent pools are 
+created by rightsholders as a means of simplifying licensing 
+procedures for manufacturers who would like to use the 
+patented technology.  Relevant patents are included in a 
+"pool", the licensee then pays a royalty fee to license all 
+patents in the pool, rather than negotiating separate 
+agreements for each patent.  TFTC's staff, Ms. Chen Ying-ju 
+discussed the TFTC's methodology for determining whether 
+patent pools were anti-competitive.  Taiwan has published 
+guidelines based on international and domestic case law to 
+determine how to handle patent pooling cases.  These 
+guidelines include eleven examples of permissible patent 
+pools and direct investigators to consider reasonableness of 
+the pool, the market power of the licensor, the relative 
+market position of the parties, whether the patents are 
+substitutable or complimentary, and whether the arrangement 
+will discourage innovation. 
+ 
+¶4.  The TFTC then introduced its first patent pool case, 
+decided in 2004.  Philips, Sony, and Taiyo Yuden created a 
+patent pool for CD-Recordable (CD-R) production.  Taiwan has 
+a large CD-R manufacturing industry that licenses technology 
+from the patent pool administered by Philips.  In 1999, the 
+Taiwan CD-R industry brought a case to the TFTC alleging that 
+Philips had set the royalty rate too high, refused to 
+negotiate a lower rate, and required licensees to provide 
+confidential and irrelevant business data as a requirement of 
+ 
+SIPDIS 
+licensing.  After a lengthy investigation, the TFTC found in 
+2004 that Philips was in violation of Taiwan's anti-trust law 
+and authorized compulsory licensing of CD-R patents.  The 
+TFTC based its decision on several factors, including 
+Philips' unwillingness to adjust the royalty fee, the 
+inability of licensees to choose substitutes, and an improper 
+agreement between the patent-holders to set prices, share 
+royalties and not compete.  The TFTC also found that some of 
+the patents in the pool were irrelevant or substitutable, not 
+complementary patents. 
+ 
+¶5.  USDOJ officials, questions focused on how the TFTC 
+determined that the patent pool was anti-competitive, 
+including a discussion of the differences between US and 
+Taiwan procedures for gauging anti-competitive behavior. 
+Rather than looking at price or lack of competition, the 
+USDOJ directs its attention to whether patents included in 
+the pool are substitutable or complementary.  Pooling 
+complementary patents can encourage greater competition and 
+lower prices for consumers by eliminating inefficiencies and 
+lowering transaction costs.  The USDOJ does not believe that 
+inclusion of substitutable patents in a pool automatically 
+makes it anti-competitive, but such pools invite closer 
+scrutiny to determine whether innovation is suppressed.  The 
+TFTC representatives agreed that further discussions of how 
+to define complementality and substitutability would be 
+useful.  The USDOJ was interested to see TFTC's evidence 
+pertaining to the royalty sharing agreement, noting that the 
+US has not investigated this type of case and could benefit 
+from Taiwan's experience. 
+ 
+USDOJ Offers Experience in Business Reviews 
+=========================================== 
+ 
+¶6.  The USDOJ/USFTC presentation discussed their business 
+review and advisory opinion processes.  Companies can apply 
+to the DOJ in advance of any action to ask for a review of 
+their proposed conduct.  DOJ will then analyze the proposal 
+and recommend changes if needed, to ensure the planned course 
+of action does not violate the law.  DOJ noted that even if 
+the company does not follow DOJ recommendations, there is 
+still no presumption of anti-competitive behavior.  The FTC 
+advisory opinion is similar in that it applies only to 
+prospective actions.  There are two types of advisory 
+opinions.  Commission-issued opinions are agreed upon by the 
+whole commission and are legally binding.  Staff-issued 
+opinions are not legally binding, however, there has never 
+been a case where a staff opinion was overruled. 
+¶7.  The FTC then introduced its experience in a patent pool 
+case.  In the Visix-Summit case, two competing laser surgical 
+equipment manufacturers pooled their patents and set a fixed 
+price for all licensees.  Visix and Summit argued that their 
+patents were complementary, but the FTC found they were 
+substitutable and the pool artificially increased prices and 
+restricted innovation.  In this case, the FTC employed 
+independent experts to help determine whether the patents in 
+the pool were technically essential and whether there were 
+feasible alternatives.  In response to TFTC questions about 
+whether the high fixed royalty rate influenced the decision, 
+the FTC argued that the royalty rate should not be a 
+determining factor, rather it is the availability of 
+substitutes that should control the decision.  The FTC noted 
+that setting standards and royalty fees often seek a 
+"reasonable and non-discriminatory" standard, but it is 
+impossible to project what will be considered reasonable as 
+technology develops and matures. 
+ 
+Positive Reactions, Looking for Future Meetings 
+============================================= == 
+ 
+¶8.  In a brief closing, both the USDOJ and TFTC expressed 
+their satisfaction with the exchange of views and professed a 
+clearer understanding of the factors considered by their 
+counterparts in determining what comprises anti-competitive 
+practice.  During the post-meeting wrap-up, TFTC officials 
+told AIT/T that they very pleased with the discussion, would 
+have liked the opportunity to extend the discussion beyond 
+the two hour time frame and hope next time to include more 
+TFTC staff.  Attendees noted that the Philips case was 
+controversial, even within the TFTC, and were appreciative of 
+the opportunity to hear the views of US experts about key 
+aspects of the case.  The TFTC officials hoped the next 
+meeting of the working group could be scheduled as soon as 
+possible, and suggested further discussions about patent 
+pooling might be useful. 
+PAAL

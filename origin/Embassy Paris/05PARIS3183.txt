@@ -1,0 +1,497 @@
+05PARIS3183
+FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR ONE
+Wed May 11 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 06 PARIS 003183 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR; ELISE 
+WILSON); EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR ONE 
+PRINCIPAL CANDIDATE AND ONE ALTERNATE FOR EURP - U.S. 
+EUROPEAN SECURITY ISSUES (APRIL 24 - MAY 12, 2006) 
+ 
+REF: STATE 004520 
+ 
+POST WOULD LIKE TO NOMINATE ONE PRINCIPAL CANDIDATE FOR 
+SUBJECT PROGRAM: MR. DAVID BERTOLOTTI.  ONE ALTERNATE IS 
+NOMINATED FOR SUBJECT: MR. DOMINIQUE NIVAGGIOLI. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 276 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - EURP U.S. European Security Issues 
+START MEMO PROJ-DESC: 
+This project is intended for leaders in the security and 
+defense field, including government officials, politicians, 
+and academics.  It will expose participants to security and 
+defense policy-making and perspectives in the United States 
+and to specific issues such as international terrorism; 
+regional conflicts; weapons of mass destruction and arms 
+control; and Europe's current security architecture, including 
+the changing roles of NATO, the EU, the United Nations and 
+other international organizations in dealing with 
+international crises. 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Regional 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 04/22/2006 
+SESSION-DATE: 04/24/2006 
+RETURN-POST: 05/13/2006 
+NO-OF-PART: 2 
+RANK-ORDER: 3 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: RP 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Peace & Security 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: David 
+M-NAME: 
+L-NAME: Bertolotti 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Ministere des Affaires Etrangeres 
+M-ADDR2: 37, quai d'Orsay 
+M-ADDR3: 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75700 
+M-ZIP: 
+M-PHONE: + (33) 1.43.17.54.54 
+M-FAX: + (33) 1.43.17.54.10 
+M-EMAIL: david.bertolotti@diplomatie.gouv.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 11/10/1977 
+MAR-STAT: M 
+BIRTH-CITY: Monaco Principality 
+BIRTH-CNTRY: Monaco 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Missiles and Space Desk Officer, Strategic Security and 
+Disarmament Directorate, Ministry of Foreign Affairs, since 
+2003 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Assistant Professor of International Affairs 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+January-December 2001 - French National School of Public 
+Administration (ENA) - internship in Belgrade, FRY, and in 
+Laval, France 
+April-December 2000 - Strategic Affairs Delegation (DAS) - 
+Defense Ministry 
+August-November 1997 - Intern, Center for Defense History 
+Studies (CEHD), Vincennes 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+December 2004 - New York City and Englewood Cliffs NJ, 8 days 
+leisure 
+October 2003 - New York City, 5 days business and leisure 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+United Kingdom - several times over the years for business and 
+leisure 
+Norway - 1996, leisure 
+Malta - 1999, leisure 
+Croatia - 2000, leisure 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+2001-2003 - French National School of Public Administration 
+(ENA) - took competitive entrance examination as an external 
+candidate 
+1998-1999 - Paris Institute of Political Studies (IEP) - 
+additional year of preparation for national administrative 
+competitive examinations 
+1995-1998 - Paris Institute of Political Studies (IEP) - 
+graduated summa cum laude from Public Service Department 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+Continuing - lecturer on international and European issues at 
+the Institute of Public management and economic development 
+(IGPDE) of the French Finance Ministry 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START OTHER-LANGS: 
+OTHER-LANG: Danish 
+OTHER-LANG-ID: DA 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: German 
+OTHER-LANG-ID: GM 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: Norwegian 
+OTHER-LANG-ID: NR 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: Serbian 
+OTHER-LANG-ID: SC 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+The cooperative work Bertolotti performs with US Embassy Paris 
+officers and our counterparts in Washington is vital to our 
+ability to achieve key USG objectives as set out in Embassy 
+Paris' Mission Performance Plan (MPP).  Bertolotti is the 
+French government point of contact on key issues relating to 
+nonproliferation generally and specifically to our bilateral 
+and multilateral efforts at stopping the spread of missile 
+technology and materials to nations of concern, such as Iran, 
+North Korea and Syria.   He is most often the French MFA 
+representative to whom Embassy officers present demarches 
+concerning illegal transfers of controlled technology and 
+parts destined for use in the ballistic weapons programs of 
+states involved in potentially dangerous proliferation 
+activities, and his active cooperation in these matters is an 
+important factor in our ability to successfully stop these 
+transfers.  Bertolotti also plays a crucial role in our 
+efforts at enhancing the activities of the multilateral 
+missile control group MTCR, Australia Group (AG), and Nuclear 
+Suppliers Group (NSG). 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Based on U.S. Embassy recommendations, suggestions from the IV 
+nominee, and in coordination with our counterparts in 
+Washington, we propose the following general program for 
+Bertolotti: 
+--Meetings with the Director and Deputy Director of the 
+Department of State's Office of Chemical, Biological, and 
+Missile Nonproliferation (NP) 
+--Meetings with Department of Defense (OSD/ISP/NPP) experts in 
+the field of nonproliferation 
+--Meetings/tour at the National Imagery and Mapping Agency 
+(NIMA) 
+--Meetings/tour at the National Oceanic and Atmospheric 
+Administration (NOAA) 
+--Meetings with National Security Council (ProStrat) 
+nonproliferation experts 
+--Meetings at the Department of Energy (NNSA) 
+-- Meetings at the Department of Commerce (BIS/NCTC) 
+--Meetings at the Central Intelligence Agency (WINPAC) 
+--Meetings with key Non-governmental Organizations/Think-tanks 
+in the field of strategic studies such as the Center for 
+Strategic and International Studies, the Monterey Institute, 
+Carnegie Foundation, University of Georgia Export Controls 
+Center, etc. 
+--Per candidate's special request, a visit to a local 
+government office in Washington D.C. or one of the surrounding 
+cities/towns to see first hand how local communities operate 
+in terms of urban planning, policing, and general 
+administration.  Bertolotti worked on some of these issues 
+while at ENA, and noted that "decentralization" is a very 
+topical issue in France, and of great interest to him as a 
+civil servant. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Alexander Tounger 
+START MEMO NOMINATING-JUSTIFICATION: 
+Bertolotti is in many ways a perfect candidate for the 
+International Visitors program.  He is a product of the 
+prestigious French National School of Public Administration 
+(ENA), and before joining the French Ministry of Foreign 
+Affairs (MFA), worked in the Ministry of Defense's Office of 
+Strategic Affairs.  In his current capacity as the Deputy 
+Director of the MFA's Directorate of Disarmament and 
+Nonproliferation, he has the critical responsibility of 
+serving as the chief coordinator and point of contact for the 
+Missile Technology Control Regime (MTCR), a Paris-based 
+multilateral group of like-minded countries dedicated to the 
+control of missile technologies.  The work of the MTCR is of 
+extremely high-interest to U.S. policymakers from a wide-range 
+of government agencies and departments.  Bertolotti has proven 
+a highly articulate (in both French and English), competent, 
+and responsive interlocutor on MTCR issues and on bilateral 
+nonproliferation matters of great concern to the U.S. 
+government.  While Bertolotti has traveled to the U.S. on 
+personal visits to friends and family (he has an aunt and 
+uncle living in New Jersey), he has not had the opportunity to 
+make a professional visit to the U.S.  The nominating officer 
+believes that Bertolotti would benefit greatly from his 
+participation in the IV program, returning from it a more 
+knowledgeable, well-rounded diplomat, with a deeper 
+understanding and appreciation of U.S. foreign policy. 
+Bertolotti is only twenty-seven years old, and is just 
+beginning his career in the French MFA.  Despite his age, 
+Bertolotti has already been given a position that carries with 
+it considerable responsibility on issues of great import to 
+the French government, and will likely continue to serve in 
+positions that will keep him involved in sensitive matters of 
+concern to the both the French and U.S. governments.  He is 
+highly regarded by superiors and colleagues within the MFA. 
+Familiarizing him with the U.S. government's policymaking 
+structure and providing him with a deeper knowledge of 
+nonproliferation issues can only serve to make him an even 
+more valued diplomatic partner in the future.  In sum, 
+Bertolotti is an impressive young French diplomat with a very 
+bright future, and is someone with whom U.S officials at this 
+post and in Washington will likely be cooperating on issues of 
+vital concern for many years to come. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: EST - U.S. Embassy Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 547 
+PERSON-ID: 446 
+BIRTH-CNTRY-ID: MN 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Dominique 
+M-NAME: 
+L-NAME: Nivaggioli 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: No 
+M-ADDR1: Direction Regionale des 
+M-ADDR2: Renseignements Generaux 
+M-ADDR3: 1, rue d'Armeny 
+M-CITY: Marseille 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 13006 
+M-ZIP: 
+M-PHONE: + (33) 4.96.10.62.19 
+M-FAX: + (33) 4.91.55.57.76 
+M-EMAIL: nivaggioli.dominique@interieur 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 01/09/1962 
+MAR-STAT: M 
+BIRTH-CITY: Oran 
+BIRTH-CNTRY: Algeria 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Task Force Director of the Regional Secret Services in PACA 
+(Provence-Alpes-Cote d'Azur), since 2001 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1997-2001 - Director of the Division "Social and Economic 
+issues", Regional Secret Services in PACA 
+1993-1997 - Regional Director, Regional Secret Services of 
+Alpes de Haute Provence 
+1988-1993 - Police Chief in Roanne 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Maryland, 3 weeks to get married 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Egypt, Algeria, Israel - recurrent for the past three years, 
+business 
+Argentina - recurrent, business 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1985 - Graduated from the School of Criminal Sciences, 
+University of Grenoble 
+1984 - Master in Law, University of Grenoble 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START OTHER-LANGS: 
+OTHER-LANG: German 
+OTHER-LANG-ID: GM 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+An invitation to the U.S. will permit our candidate to 
+identify and develop proactive initiatives with GOF 
+counterparts engaged in  terrorist attacks. It will help 
+enhance intelligence sharing and encourage links and 
+professional exchanges. 
+We recommend that Nivaggioli be exposed to the changes of 
+performance indicators after September 11, so that he can 
+identify trends and changes in intelligence methodologies and 
+be able to harmonize joint intelligence programs. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Josette Steinbach 
+START MEMO NOMINATING-JUSTIFICATION: 
+According to Intelligence Director Nivaggioli, Marseille, the 
+second largest city in France with an "unofficial count of 30% 
+immigrants" is a "powder keg" where massive shifts of 
+population have never been as important and worrisome. The 
+recent enormous trans-border circulation taking place in the 
+PACA region is highly scrutinized by the RG (the Secret 
+Services) searching for organized crime related to drug 
+traffic and money laundering, an historical fact in a port 
+city that has traditionally drawn waves of immigrants from the 
+entire Mediterranean basin. 
+The 60,000 Comorians out of the 500,000 worldwide who moved to 
+Marseille during the last decade have substantially increased 
+in  recent years the Muslim population in Marseille to the 
+record number of almost a third of the entire population. 
+Nivaggioli, a prime source of information for this Consulate 
+General has been helpful in analyzing the sometimes difficult 
+adjustment that the younger generation of Muslims has to make 
+in dealing with French secular society and how some are easily 
+wooed by Middle East fanatics.  For example, Nivaggioli was 
+instrumental in the success of the US Navy aircraft carrier 
+USS Roosevelt's visit to Marseille in 2002. He provided frank 
+and honest analysis of potential threats, that helped US 
+military officials make their decisions to send the carrier to 
+Marseille. During the visit, with his ears to the ground, he 
+kept the US Consulate apprised of security issues. 
+In the GWOT, Nivaggioli has never faltered in his dedication, 
+willingness and cooperation to keep the Consulate and its 
+staff safe. He maintains regular liaison with the US 
+Consulate's sole US Law Enforcement representative. Through 
+this conduit the Consulate is made aware of event/issues that 
+could impact on the staff safety. 
+At age 43, Nivaggioli heads one the most active intelligence 
+services in southern France. A scrupulous professional, 
+Nivaggioli needs now to move a step ahead in his promising 
+career by being exposed to a good overview of the U.S. counter 
+terrorism policy, gaining insight especially into U.S. 
+methodologies that promote Franco-American cooperation in this 
+crucial area. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: AmConGen Marseille, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 548 
+PERSON-ID: 447 
+BIRTH-CNTRY-ID: AG 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

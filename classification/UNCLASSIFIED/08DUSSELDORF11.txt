@@ -1,0 +1,161 @@
+08DUSSELDORF11
+CONSTITUTIONAL COURT SETS HIGH HURDLES FOR ONLINE SEARCHES,
+Fri Feb 29 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Dusseldorf
+VZCZCXRO1585
+RR RUEHAG RUEHAST RUEHDA RUEHFL RUEHIK RUEHKW RUEHLA RUEHLN RUEHLZ
+RUEHPOD RUEHROV RUEHSR RUEHVK RUEHYG
+DE RUEHDF #0011/01 0601632
+ZNR UUUUU ZZH
+R 291632Z FEB 08
+FM AMCONSUL DUSSELDORF
+TO RUEHC/SECSTATE WASHDC 0119
+INFO RUEHZL/EUROPEAN POLITICAL COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+RHMFIUU/DEPT OF JUSTICE WASHINGTON DC
+RUEFHLC/DEPT OF HOMELAND SECURITY WASHINGTON DC
+RUEAIIA/CIA WASHDC
+RUEHDF/AMCONSUL DUSSELDORF 0135UNCLAS SECTION 01 OF 02 DUSSELDORF 000011 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: PTER PGOV KISL KPAO GM
+SUBJECT: CONSTITUTIONAL COURT SETS HIGH HURDLES FOR ONLINE SEARCHES, 
+OVERTURNS RELEVANT STATE LAW 
+ 
+REF: DUESSELDORF  2 
+ 
+DUSSELDORF 00000011  001.2 OF 002 
+ 
+ 
+Sensitive but Unclassified - Not for Internet Distribution 
+ 
+¶1.  (SBU) Summary: In a long-awaited landmark February 27 
+decision, the German Constitutional Court in Karlsruhe declared 
+unconstitutional parts of a law allowing online searches, 
+introduced in the state of North Rhine-Westphalia (NRW) in 2006. 
+ The court ruled that such searches interfere in an individual's 
+personal freedoms under Article 2 of the German constitution and 
+are therefore admissible only under very stringent conditions. 
+Both civil libertarians and advocates of a more robust approach 
+to combating terrorism touted the decision as a victory, 
+although both camps still have reservations with parts of the 
+ruling.  The decision requires NRW lawmakers to draft 
+legislation that meets the new legal standards, ending a period 
+of legal limbo and paving the way for national legislation.  End 
+Summary. 
+ 
+--------------------------------------------- ------- 
+NRW takes the heat as the first state regulating online searches 
+--------------------------------------------- ------- 
+ 
+¶2.  (U) The case goes back to constitutional complaints lodged 
+with the Federal Constitutional Court by five NRW citizens 
+(among them former Federal Interior Minister Gerhart Baum (FDP)) 
+against a 2006 amendment to a NRW law authorizing the State 
+Office for the Protection of the Constitution (OPC) to conduct 
+online searches of hard drives on private PCs and to better 
+monitor Internet communications of extremists, and in 
+particular, terrorists.  NRW was the first, and thus far only, 
+state in Germany to develop specific legislation regulating such 
+searches.  Attacks on the state government for its forward 
+leaning position on this matter, both by the SPD/Greens state 
+parliament opposition and civil liberties/privacy advocates, 
+increased after an October 2007 court hearing showed that the 
+Karlsruhe judges had serious doubts concerning the law's 
+constitutionality.  After that hearing, a primary drafter of the 
+NRW law told us he expected the Constitutional Court to overturn 
+it (reftel). 
+ 
+--------------------------------------------- ---------- 
+Court defines "new basic right" and sees NRW regulation as 
+violating it 
+--------------------------------------------- ---------- 
+ 
+¶3.  (U) In presenting the key elements of the 106-page court 
+decision, Chief Justice Hans-Juergen Papier stressed that the 
+court had broken new ground by defining "for the first time a 
+basic right guaranteeing the privacy and integrity of IT 
+systems."  This new basic right derived from Article 2, para. 1 
+of the Basic Law (personal freedoms) in connection with its 
+Article 1, para.1 (human dignity) and may only be restricted or 
+interfered with under very stringent conditions (see below). 
+The court ruled that the relevant NRW regulation violated this 
+basic right and was therefore null and void.  In particular, the 
+clause authorizing the OPC to conduct online searches was too 
+general and not clearly enough defined; did not fulfill the 
+requirements of reasonableness; and did not contain sufficient 
+provisions for protecting the core area of (a person's) privacy, 
+the court found. 
+ 
+-------------------------------- 
+High hurdles for online searches 
+-------------------------------- 
+ 
+¶4.  (U) According to the court, online searches are only 
+admissible if: 
+-- there are actual indications of a concrete threat to an 
+overridingly important object of legal protection, such as life, 
+freedom or the existence of the state; 
+-- there is prior approval of the measure by a judge; and 
+-- the legislation authorizing online searches contains 
+provisions protecting the core area of (a person's) privacy. 
+ 
+---------------- 
+Reactions in NRW 
+---------------- 
+ 
+¶5.  (SBU) NRW Interior Minister Ingo Wolf (FDP), who pushed the 
+forward looking OPC law, called the February 27 court ruling "a 
+trailblazing" decision and gave assurances that the NRW law 
+would be redrafted.  The opposition called the ruling a "slap in 
+the face" for Wolf, with the Greens going so far as to call for 
+his resignation.  The leading and most prominent complainant, 
+Gerhart Baum, the former Federal Interior Minister under 
+Chancellor Helmut Schmidt, expressed great satisfaction at the 
+outcome, terming the decision "historic" and a "milestone" in 
+the development of the protection of basic rights in the 
+ 
+DUSSELDORF 00000011  002.2 OF 002 
+ 
+ 
+information age.  In a February 28 conversation with CG, FDP 
+Bundestag Internal Affairs Spokesperson Gisela Piltz called the 
+ruling a "victory," but added that it still allows law 
+enforcement authorities access to some personal space that she 
+would have preferred not to see. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶6.  (SBU) The Constitutional Court's decision has implications 
+that go far beyond the NRW regulation of online searches, 
+providing a far-reaching concept for a new basic right 
+guaranteeing the privacy and integrity of IT systems, and 
+clearing the way for federal legislation on online searches. 
+NRW authorities, who had taken the first stab in Germany at 
+creating a legal basis for this new area, must now draft new 
+legislation, and other states can be expected to follow.  It is 
+too early to assess the impact of the ruling for the work and 
+effectiveness of intelligence and law enforcement agencies in 
+their struggle against the terrorist threat.  One senior 
+Duesseldorf police officer welcomed it "for finally providing 
+legal clarity," while another predicted that it would erode law 
+enforcement agencies' ability to combat extremist targets on 
+equal terms.  The ruling's language referring to the "existence 
+of a concrete danger" as a prerequisite for searches suggests 
+that it may be easier for law enforcement agencies than 
+intelligence services to use online searches as a tool.  Perhaps 
+for this reason, it is interesting to note that Federal Interior 
+Minister Wolfgang Schaeuble has thus far talked primarily about 
+amending the BKA (Federal Office of Criminal Investigation) law, 
+which concerns law enforcement agencies, and not the federal OPC 
+law.  End Comment. 
+ 
+¶7.  (U) This message was coordinated with Embassy Berlin. 
+BOYSE

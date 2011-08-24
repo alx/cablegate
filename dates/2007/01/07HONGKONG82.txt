@@ -1,0 +1,150 @@
+07HONGKONG82
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Wed Jan 10 00:00:00 +0100 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0013
+RR RUEHWEB
+
+DE RUEHHK #0082/01 0100809
+ZNR UUUUU ZZH
+R 100809Z JAN 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 0071
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000082 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+BEIJING FOR FCS JEANETTE CHU 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+ETERNAL INTERNATIONAL 
+ 
+REF: A) USDOC 06269 B) HK 00038 
+ 
+1.Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO) and Commercial Assistant 
+Sandy Lai conducted a post shipment verification (PSV) 
+at Eternal International (HK) Limited (Eternal HK), 
+Unit 2706, Metropole Square, 2 On Yiu Street, Hong 
+Kong.  The items in question are 200 Neophotonics PCB 
+base assemblies, classified under Export Control 
+Classification Number (ECCN) 4A001 and most likely 
+controlled for national security (NS) reasons. If 
+properly classified, these items would most likely not 
+require a license for export to Hong Kong but would 
+require a license for export or reexport to mainland 
+China.  It is possible that these items are controlled 
+for missile technology (MT) reasons and would then 
+require a license to both Hong Kong and mainland China. 
+ The exporter is Electromax Inc. of San Jose, 
+California. 
+ 
+¶3.  The ECO and Commercial Assistant visited Eternal HK 
+at the address referenced above on December 19, 2006 
+and met with Ms. Denise Leung, Customer Service Manager 
+responsible for this shipment.  Ms. Leung was open and 
+forthcoming during the interview.  She provided 
+background on Eternal HK and its business, which 
+involves the provision of a logistics and freight 
+forwarding services.  It is the Hong Kong branch office 
+of Eternal Asia (www.eternalasia.com), a large mainland 
+China based supply chain management and logistics 
+company. The offices of Eternal HK are located in a 
+larger office building and contain a series of cubicles 
+for customer service representatives.  The address 
+provided in reftel A (Unit 3, First Floor, Topsail 
+Plaza, 11 On Sum Street, Hong Kong) corresponds to 
+Eternal HK's warehouse space directly across the street 
+from the offices of Eternal HK.  Eternal HK has been in 
+existence since 2000 while Eternal Asia was established 
+in 1997. 
+ 
+¶4.  Ms. Leung stated that with respect to the shipment 
+in question, Eternal HK accepted the shipment of the 
+200 base assemblies on September 21, 2006 and 
+subsequently reshipped those items to Photon Technology 
+Co., Ltd. in Shenzhen on September 23, 2006 (Photon 
+Shenzhen).  According to the Photon Shenzhen web site 
+(www.photontec. com), the Shenzhen Photon facility is 
+an affiliate of Neophotonics, Inc. of San Jose, 
+California (more information at www.neophotonics.com). 
+ Ms. Leung stated that Photon Shenzhen may itself use 
+the items or resell them to other buyers in the 
+mainland. Coincidentally, the ECO and Commercial 
+Assistant conducted a PSV at another, unrelated, 
+company, involving Photon Shenzhen (see reftel B). 
+ 
+¶5.  Ms. Leung provided the ECO with the relevant 
+shipping documents in respect of those shipments into 
+the mainland.  Those documents reflect that Eternal HK 
+is the seller and Eternal Supply Chain Management Ltd. 
+in mainland China is the buyer of the applicable items. 
+ Eternal Asia markets itself as providing inventory 
+management services.  The sale price reflected in the 
+transaction documents between Eternal HK and Eternal 
+Supply Chain Management Ltd. reflects a significant 
+markup over the sum paid to Electronomax Inc. (the U.S. 
+exporter).  In particular, the total invoice price for 
+the Electromax to Eternal HK transaction is USD 62,907 
+while Eternal HK apparently sold the same items to 
+Eternal Supply Chain Management Ltd. for USD 81,529. 
+ 
+ 
+¶6. When asked by the ECO whether Eternal HK was 
+familiar with U.S. export control regulations, Ms. 
+Leung said it was not.  Ms. Leung stated that, in 
+certain cases where it knew of the controlled nature of 
+items under Hong Kong law, Eternal HK would apply for 
+applicable Hong Kong import and export control 
+licenses.  She cited cases involving Cisco items for 
+which Eternal HK obtained Hong Kong Trade and Industry 
+ 
+ 
+Department (TID) licenses when it was informed that 
+such licenses were necessary.  In other instances, 
+Eternal HK looks up the brand name and model number and 
+compares it against a list of controlled technologies 
+on the TID website to determine whether a license is 
+required.  Where, as in this case, parts and components 
+are involved, Eternal HK does not apply for TID 
+licenses unless it is informed that such a license is 
+required.  Ms. Leung stated that Eternal HK does not 
+have contact with exporters and that all customer 
+relationships are handled by Eternal HK's parent 
+company in the mainland. 
+ 
+¶7.  The ECO stressed to Ms. Leung that the reexport of 
+the items was subject to U.S. export control 
+regulations and later provided additional BIS guidance 
+on obligations of reexporters as well as a link to the 
+BIS website so that Eternal could become more aware of 
+U.S. export control rules. 
+ 
+¶8.  At the time visited, Eternal HK did not appear to 
+be a suitable recipient of the controlled items (as 
+logistics provider) since it is unfamiliar with U.S. 
+export controls and exercises only limited controls on 
+reexports of controlled commodities. Consistent with 
+BIS guidance on the classification of checks where the 
+check reveals a cause for concern about the suitability 
+of the parties involved, the ECO recommends that this 
+PSV be classified as Unfavorable. 
+ 
+Cunningham

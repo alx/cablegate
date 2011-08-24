@@ -1,0 +1,72 @@
+06BERLIN3172
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Tue Oct 31 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXYZ0009
+PP RUEHWEB
+
+DE RUEHRL #3172 3041201
+ZNR UUUUU ZZH
+P 311201Z OCT 06
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 5898
+INFO RUEHLO/AMEMBASSY LONDON PRIORITY 7600
+RUEHMD/AMEMBASSY MADRID PRIORITY 0617
+RUEHRO/AMEMBASSY ROME PRIORITY 9893UNCLAS BERLIN 003172 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EUR/AGS AND PM/DTCC - BLUE LANTERN COORDINATOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC GM UK SP IT
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+IN GERMANY FOR LICENSE 05-931065 
+ 
+REF: A. STATE 79736 
+ 
+     ¶B. MADRID 2729 
+     ¶C. STITZIEL-ALLISON-CRANDELL EMAILS - 10/25/2006 
+        AND PREVIOUS 
+ 
+¶1. (SBU) Per ref A request, emboffs contacted the management 
+offices of the Eurojet consortium in Hallbergmoss, Germany to 
+confirm receipt of aircraft spare parts (transducer sets) 
+made by U.S. company Endevco.  According to the license 
+application, the transducers are intended for use in EJ200 
+jet engines for Eurofighter Typhoon jets.  Chris Harris, the 
+head of Eurojet's production department, told emboffs the 
+transducers covered under license 05-931065 were shipped by 
+Endevco to Industria de Turbo Propulsores (ITP) in Spain. 
+(NOTE:  ITP is a member of the Eurojet consortium.  The other 
+members are UK's Rolls Royce, Germany's Daimler Chrysler 
+Aerospace, and Italy's Avio Spa.  END NOTE.)  Harris 
+confirmed ITP is responsible for distributing the transducer 
+sets to consortium members, who in turn install the 
+transducers in EJ200 engines and subsequently build the 
+engines into Eurofighters.  Harris noted ITP itself uses some 
+transducers to produce EJ200 enginges.  Harris said ITP 
+maintains records (by serial number) of transducers it has 
+received and redistributed to consortium members, but 
+consortium members do not necessarily track transducers after 
+they have been installed in EJ200 engines. 
+ 
+¶2. (SBU) Harris noted that NATO's EF2000 and Tornado 
+Development Production and Logistics Management Agency 
+(NETMA) -- not/not Eurojet -- is the actual end-user of the 
+transducer sets.  Harris explained Eurojet is building the 
+jet engines under a government contract with Italy, Germany, 
+Spain, and the UK.  While most EJ200 engines are built 
+directly into Eurofighters, Harris said, some engines are 
+held as spares at military facilities in each of the four 
+countries. 
+ 
+¶3. (SBU) Ref B reports ITP has provided Embassy Madrid with 
+detailed spreadsheets documenting receipt and redistribution 
+of the transducers.  Post understands PM/DDTC has closed this 
+case and no further action is required (ref C). 
+TIMKEN JR

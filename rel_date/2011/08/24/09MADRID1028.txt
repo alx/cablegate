@@ -1,0 +1,109 @@
+09MADRID1028
+REPLY TO BLUE LANTERN POST-SHIPMENT CHECK 050106146
+Tue Oct 20 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Madrid
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHMD #1028 2931538
+ZNR UUUUU ZZH
+R 201538Z OCT 09
+FM AMEMBASSY MADRID
+TO RUEHC/SECSTATE WASHDC 1358
+INFO RUEHJA/AMEMBASSY JAKARTA 0051UNCLAS MADRID 001028 
+ 
+SIPDIS 
+ 
+PM/DTCC - BLUE LANTERN COORDINATOR MEREDITH SUNDLOF 
+STACIE ZERDECKI EUR/WE 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC SP ID
+SUBJECT: REPLY TO BLUE LANTERN POST-SHIPMENT CHECK 050106146 
+ 
+REF: A. STATE 92584 
+     ¶B. 9/9/09 SUNDLOF-MURRAY FAX 
+     ¶C. 2008 MADRID 408 
+ 
+¶1.  SUMMARY:  Post has previously confirmed the bona fides of 
+Spanish aerospace and defense leader European Aeronautic 
+Defense and Space (EADS) CASA as a responsible recipient of 
+United States Munitions List items (ref C).  Post contacted 
+the Spanish Air Force as well as EADS CASA regarding the 
+post-shipment check requested (ref A).  David de Teran, Head 
+of Export Compliance for EADS CASA, informed Madrid ODC and 
+Pol-Mil officer October 7 that the cables and cable 
+assemblies for C-295 aircraft included in license 050106146 
+were not/not intended for the Spanish Air Force, had 
+therefore not been received by Spain, and further, remain in 
+Indonesian Aerospace facilities in Bandung.  EADS CASA 
+questioned whether the cables fall under International 
+Traffic in Arms Regulations (ITAR - see para 3) but undertook 
+to inform its Indonesian partners and U.S. suppliers of 
+related limitations and provisos.  EADS CASA will submit a 
+General Correspondence to the Department in order to modify 
+the actual end-user once known and seek permission to 
+re-export the cables to the authorized end user.  END SUMMARY. 
+ 
+//Background on the "Unusual Routing"// 
+ 
+¶2.  EADS CASA worked together with Indonesia on the 
+development and production of the CN-235 aircraft.  De Teran 
+elaborated that EADS CASA had subcontracted a work package 
+for the C295 to Indonesian Aerospace (the foreign 
+intermediate consignee listed in reftel A).  The work package 
+was only for C295 aircraft but did not include a specific 
+end-user of said aircraft.  According to de Teran, Indonesian 
+Aerospace purchased the cables described (ref A) from P&R 
+Trading, Inc. in 2008 for the fulfillment of the work 
+package.  In doing so, Indonesian Aerospace officials did not 
+inform EADS CASA that the items ordered were subject to ITAR, 
+necessitating the submission of a DSP5.  The company 
+nonetheless contacted Fulgencio Fernandez Perez, EADS CASA's 
+technical representative in Indonesia, asking that he sign 
+the End-Use Certification (ref B) in March 2008 and 
+specifying that an end user had to be included.  De Teran 
+held that Fernandez did not know the end-use statement was 
+for a DSP5 or any other U.S. export license and was 
+furthermore unaware of the terms, conditions, provisos, and 
+limitations of the DSP5.  Under pressure from Hadi Djumhana 
+of Indonesian Aerospace to list an end-user, Fernandez 
+allegedly included the Spanish Air Force (a current customer 
+of the C295) as a "potential" end-user. 
+ 
+//ITAR Regulations// 
+ 
+¶3.  EADS CASA's lead buyer for this type of cable maintains 
+that none of its suppliers have ever informed the company 
+that the items on the license fall under ITAR.  De Teran 
+clarified that EADS CASA does not normally purchase from P&R 
+Trading, Inc. but has experience with a Texas-based supplier 
+called Polygon.  De Teran planned to contact P&R Trading to 
+ask why the supplier felt the need to submit a DSP5 at all if 
+the items included were not subject to ITAR. 
+ 
+//Next Steps// 
+ 
+¶4.  EADS CASA confirms that the cables and cable assemblies 
+are still in Indonesian Aerospace's facility.  De Teran said 
+EADS had informed Indonesian Aerospace that they were not to 
+move the cables to other locations, including EADS CASA's 
+facility, without the prior written approval and notice of 
+EADS CASA.  In response to the confusion occasioned by this 
+order and the above signature process, EADS CASA has 
+instituted a policy stating that all end-use statements, 
+end-user certificates, DSP83s, and any other documents in 
+support of U.S. export licenses will require the signature of 
+the Head of Procurement or Head of Program as well as de 
+Teran's signature as head of Export Compliance.  In the case 
+of signature of a TAA, de Teran said EADS would enforce the 
+same internal control procedures.  De Teran said EADS CASA 
+would plan to submit a General Correspondence to the State 
+Department (presumably via DS-6004) in order to modify the 
+end-user listed on the DSP5, once a concrete end-user is 
+known.  Once EADS receives the Department's eventual 
+approval, EADS will retrieve the cables from Indonesian 
+Aerospace and re-export same to the end-user authorized by 
+the State Department. 
+CHACON

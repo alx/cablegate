@@ -1,0 +1,127 @@
+09HONGKONG2085
+EXTRANCHECK: POST SHIPMENT VERIFICATION: HONG KONG NOVIKY
+Fri Nov 13 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #2085/01 3170421
+ZNR UUUUU ZZH
+R 130421Z NOV 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 8945
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002085 
+ 
+USDOC FOR 532/OEA/ MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: HONG KONG NOVIKY 
+ELECTRONICS 
+ 
+REF: A) BIS e-mail request dated October 13, 2009 (01210075) 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) at Noviky Electronics, Unit 
+1502-3, 15/F, Leadr Industrial Centre, 57-59 Au Pui Wan Street, 
+Shatin, Hong Kong (Noviky). The items in question for this PSV are 
+two shipments of civil aircraft parts exported to Noviky on or about 
+September 28, 2007 and March 25, 2008.  These items are likely 
+classified under Export Control Classification Number (ECCN) 9A991, 
+meaning that they are controlled for anti-terrorism reasons and 
+would require a license to sanctioned destinations and certain 
+restricted end-uses/users.  The exporter is Aircraft Spruce 
+Specialty of Corona, California. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Noviky has been 
+in existence since March 2006.  Its paid up share capital is the 
+Hong Kong equivalent of USD 65,000.  The Hong Kong Companies 
+Registry lists mainland Chinese national Zhao, Sheng Hui as the sole 
+director.  The registered address of Noviky appears to be the 
+registered address of another company that is the subject of a 
+pending end use check, namely J&T Electronics. 
+ 
+¶4.  According to the company's web site (www.Noviky.com), Noviky is 
+a trading company that specializes in electronic components for the 
+aerospace, communication, electronic instrument and other sectors. 
+ 
+ 
+¶5.  It took some time to arrange a visit to Noviky.  The contact 
+person at the company stated that she was the only person running 
+the company and that she was due to go on maternity leave.  She also 
+claimed to have lost the documentation related to the shipment in 
+question.  Eventually, she agreed to meet. 
+ 
+¶6.  On November 9, 2009, ECO and FCS Commercial Assistant Carrie 
+Chan visited the company at the address noted above and met with Ms. 
+Wong (there was no signage to indicate that Noviky is located at 
+this address).  Noviky appears to be collocated with another 
+company, Armitech Electronics (more information at 
+www.armitechhk.com although this web site lists a different 
+address).  Even for this jaded ECO, the meeting was remarkable.  The 
+office of the company included only a desk and several chairs.  It 
+did not include any computer, phone or filing cabinets.  When asked 
+to describe Noviky's customers, Ms. Wong stated that they were 
+located in Hong Kong.  When asked again about Noviky's customers, 
+Ms. Wong stated that they were manufacturers and trading companies 
+in Hong Kong. She provided no further details.  When asked about the 
+warehouse referenced in the company's web site, Ms. Wong stated that 
+the company no longer has a warehouse.  When asked why the meeting 
+was held in the Leadr Center (vice the ship to address), Ms. Wong 
+stated that the company had recently moved.  When asked about the 
+transactions in question, Ms. Wong stated that she could not recall 
+(although she did not deny that they had taken place).  When asked 
+whether she had any documentation regarding the order, Ms. Wong 
+stated that she did not.  When asked whether she retains any 
+records, Ms. Wong stated that she did not.  She stated that all of 
+her orders were done verbally.  When asked why the office did not 
+contain a computer, phone or fax machine, Ms. Wong stated that she 
+visited her customers in person or they called her on her cell phone 
+or came to her office. 
+ 
+¶7.  When asked for an e-mail address to which ECO could send export 
+control information, Ms. Wong stated that she did not have an e-mail 
+address.  When ECO asked whether the e-mail on the Noviky web site 
+was operational, Ms. Wong stated that it was not.  When asked about 
+the phone numbers on the web site, Ms. Wong stated she did not know 
+whether they were operational and that she had used numbers provided 
+by the web page design group that had helped her create the web 
+site.  When asked about the director of the company, Ms. Wong stated 
+that he was a friend and allowed her to use his company for her 
+activities.  She stated that he was unfamiliar with her activities 
+on behalf of Noviky.  When asked for a business card, Ms. Wong 
+stated that she did not have one.  When asked to write her name on 
+ECO's business card, Ms. Wong wrote her name as May Wong.  ECO 
+cannot, with any degree of certainty, be sure the person he met with 
+is named Wong or May. 
+ 
+¶8.  ECO later visited the ship-to address for the shipments in 
+question.  This office (14/F Yue Choeng Centre, 1-3 Wong Chuk Yeung 
+St. Fotan, Hong Kong) is presently occupied by Interine Electronics 
+Pan Asia Co., Limited.  This company has been in existence since 
+2000 and has the HK dollar equivalent of USD 125,000 in share 
+capital.  A cursory review of SED data suggests that this company 
+has received shipments from the United States including national 
+ 
+ 
+security (NS) controlled electronic components classified under ECCN 
+3A001. 
+ 
+¶9.  ECO believes Noviky to be a most unsuitable recipient of U.S. 
+origin technology.  In ECO's opinion, Ms. Wong is aware of export 
+control restrictions on trade with sanctioned countries as evidenced 
+by her evasive answers.  ECO recommends a close review of all 
+shipments to Noviky (and its address) as well as a review of 
+shipments to Interine Electronics Pan Asia Co., Limited and Armitech 
+and their corresponding addresses.

@@ -1,0 +1,93 @@
+07MOSCOW982
+EXTRANCHECK: PRE-LICENSE CHECK: IGOR
+Fri Mar 09 00:00:00 +0100 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0011
+PP RUEHWEB
+
+DE RUEHMO #0982 0680718
+ZNR UUUUU ZZH
+P 090718Z MAR 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 8062
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000982 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: IGOR 
+KOCHEMASOV, NIZHNY NOVGOROD, RUSSIA, LICENSE NO. 
+D371236 
+ 
+REFTEL: USDOC 01280 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, Igor 
+Kochemasov, Nizhny Novgorod, Russia. The party is 
+listed on BIS license application D371236 as the 
+ultimate consignee of a device incorporated with 
+320X240 uncooled microbolometer focal plane array. 
+These items are controlled for national security, 
+nuclear non-proliferation reasons under ECCN 6A003. 
+The licensee is Vandolay, Inc., 257 Chinquapin Ave., 
+Carlsbad, CA 92008. 
+ 
+¶3. On March 1, 2007, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested pre-license check at the offices of the 
+Nizhny Novgorod Center of Creative Technologies, Ltd. 
+(NCTC), Nizhny Novgorod, Russia. The export control 
+team met with Igor Kochemasov, General Director. 
+ 
+¶4. NCTC was founded in 1996 as a small enterprise 
+conducting research and development projects for 
+medical and consumer end uses.  The company has 
+developed a series of successful projects such as the 
+"N-Jet" laser printing system for manicure design, a 
+sensor based body-fat analyzer, and various 
+dermatological products.  The company employs sixteen 
+at its offices and design facility located in an 
+industrial park in Nizhny Novgorod.  NCTC has the 
+ability to do small-scale production, but the 
+principal focus of the business is prototype design 
+and production. 
+ 
+¶5. NCTC has contracted with U.S. based Vandolay 
+Industries of California to produce a laser hand 
+treatment device.  The device will utilize the thermal 
+imager in reftel to map the veins of the hand, and 
+employs a laser to minimize the appearance of varicose 
+veins.  NCTC will incorporate the imager into the 
+prototype, which will then be returned to Vandolay in 
+the U.S. 
+ 
+¶6. While the imager is in the control of NCTC it will 
+be stored in a secure room for valuable commodities. 
+The facility is located on an industrial area, which 
+has a 24-hour security presence.  Access to the imager 
+will be limited to the engineers and designers on the 
+project.  The imager will be returned to Vandolay upon 
+completion of design and testing. 
+ 
+¶7. Recommendations: Post recommends NCTC and Igor 
+Kochemasov, Nizhny Novgorod, Russia, as reliable 
+recipients of sensitive U.S. origin commodities. It is 
+requested that post be notified of final disposition 
+of the application and of any shipments for this 
+organization, in order to conduct appropriate FCS 
+follow-up and statistical reporting. 
+(FCS MOSCOW/DLUTTER/DPEARCE) 
+BURNS

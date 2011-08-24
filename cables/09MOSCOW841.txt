@@ -1,0 +1,75 @@
+09MOSCOW841
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: RTSOFT, MOSCOW,
+Thu Apr 02 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0018
+PP RUEHWEB
+
+DE RUEHMO #0841 0921206
+ZNR UUUUU ZZH
+P 021206Z APR 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2693
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000841 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: RTSOFT, MOSCOW, 
+RUSSIA. 
+ 
+REFTELS: E-MAIL #207001 DATED 3/10/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, RTSoft Co., Moscow, 
+Russia. The company is listed on BIS license applications: NLR as 
+the ultimate consignee of one programmable controller and related 
+parts and equipment, and transmission equipment. These items are 
+controlled for anti-terrorism reasons under ECCN 5A991. The licensee 
+is GE Fanuc Embedded Systems, 12090 South Memorial Parkway, 
+Huntsville, AL 35803. 
+ 
+¶3. On March 31, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of RTSoft Co., 3, Nikitinskaya Street, 
+Moscow, Russia. The export control team met with Alexey Rybakov, 
+Technical Director and Nadezhda Sosedko, Manager of Sales 
+Coordination. 
+ 
+¶4. RTSoft is a closed joint stock company founded in 1992 as a 
+computer engineering services company.  RTSoft specializes in 
+systems integration, and works with a variety of industrial, 
+manufacturing and government clients. The current direction of the 
+company is towards embedded computer technologies and industrial 
+automation, control and information solutions. 
+ 
+¶5. Alexey Rybakov provided the export control team with a copy of 
+the GE Fanuc Export Form which identifies the ultimate end user of 
+the reftel commodity as SKB KP IKI RAN, located at 33 Gorkogo 
+Street, Tarusa (Kaluzhskiy Region), Russia  249100. The point of 
+contact at SKB KP IKI RAN is Davydov Viktor Aleksandrovich. The form 
+states that the reftel commodity will be used for auxiliary 
+subsystems for QElectronic BirdQ integration bench for RRJ for 
+Sukhoi Civil Aviation Company. The Export Form will be placed in the 
+PSV file. 
+ 
+¶6. The export control team found no indications of impropriety 
+during the end use check with RTSoft. The consigneeQs answers were 
+not evasive, and they provided the end user and end use information 
+as requested in reftel. 
+ 
+¶7. Recommendations: Post recommends RTSoft Co., Moscow, Russia, as a 
+reliable recipient of sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

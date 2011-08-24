@@ -1,0 +1,200 @@
+06HONGKONG4875
+HONG KONG PROPOSES UPDATING IPR LAWS TO COMBAT
+Fri Dec 29 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Hong Kong
+VZCZCXRO6164
+PP RUEHCN RUEHGH RUEHVC
+DE RUEHHK #4875/01 3630358
+ZNR UUUUU ZZH
+P 290358Z DEC 06
+FM AMCONSUL HONG KONG
+TO RUEHC/SECSTATE WASHDC PRIORITY 9953
+INFO RUEHOO/CHINA POSTS COLLECTIVE PRIORITY
+RHEHNSC/NSC WASHDC PRIORITY
+RUCPDOC/USDOC WASHDC PRIORITYUNCLAS SECTION 01 OF 02 HONG KONG 004875 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EB/TPP/MTA/IPC/FELSING 
+STATE FOR EB/IPE 
+STATE FOR EAP/CM 
+NSC FOR DWILDER, KTONG 
+USDOC FOR MCQUEEN 
+DEPT PASS USTR FOR ACELICO, RBAE 
+DEPT PASS TO USPTO FOR BMCCAFFREY, TWILLIAMS, SLEWIS 
+ 
+E.O. 12958: N/A 
+TAGS: KIPR ECON CH HK
+SUBJECT: HONG KONG PROPOSES UPDATING IPR LAWS TO COMBAT 
+DIGITAL PIRACY 
+ 
+REF: A. A) HONG KONG 4635 
+ 
+     ¶B. B) HONG KONG 4743 
+ 
+¶1. (U) SUMMARY:  On December 19, the Hong Kong Commerce, 
+Industry and Technology Bureau (CITB) published 'Copyright 
+Protection in the Digital Environment' a public consultation 
+document to address internet piracy in Hong Kong.  The 
+document proposes that the Hong Kong government (HKG) 
+institute criminal liability for illegally 
+uploading/downloading copyright materials, create a blanket 
+clause in the Copyright Ordinance to cover copyright 
+infringement using any form of digital technology (current 
+and future), mandate Internet service providers (ISPs) retain 
+records of their clients, online activities for longer 
+periods of time, and hold ISP,s liable if their clients 
+commit flagrant online piracy.  It remains unclear what laws 
+or regulations, if any, the HKG will put forward after the 
+public consultation process period ends in April 2007. 
+Representatives from the film and recording industries 
+expressed support for the consultation process and urged 
+quick implementation of new regulations, but internet privacy 
+groups expressed dismay over the potential loss of privacy 
+rights.  ISPs criticized the government, claiming that the 
+proposals would be too costly and could stifle technological 
+creativity, innovation, and information flow.  END SUMMARY. 
+ 
+¶2. (U) In announcing this "digital agenda" initiative, Hong 
+Kong Secretary for Commerce, Industry and Technology Joseph 
+Wong stated that recent technological advances mandate Hong 
+Kong once again review its copyright laws as they relate to 
+internet piracy.  He noted that a proactive approach to 
+internet IPR infringement would improve the city's reputation 
+as a trade and commercial center, but the HKG has not yet 
+committed itself to any of the internet safeguards proposed 
+in the consultation document.  Public statements by Wong and 
+other CITB officials underscore the need for careful 
+deliberation and a 'balancing' of competing interests, such 
+as personal privacy protection, the free flow of information 
+online, the development of Hong Kong as an internet services 
+hub, and the importance of promoting innovation in Hong Kong. 
+ (NOTE:  Hong Kong already proposed amending it's copyright 
+ordinance, but the existing amendment -- currently under 
+debate in the Legislative Council -- does not focus 
+specifically on the internet and digital environments.  This 
+new public consultation on digital piracy is in addition to 
+the existing copyright amendment.  END NOTE) 
+ 
+----------------------------------------- 
+Stiffer penalties and criminal sanctions? 
+----------------------------------------- 
+ 
+¶3. (U) Stakeholder concerns and the successful BitTorrent 
+prosecution (reftel B) have underscored to government and 
+industry groups that online pirates increasingly use new 
+technologies to mass produce and distribute copyrighted works 
+around the world from Hong Kong.  The HKG fears that this 
+growth in online piracy could undermine the city,s role as a 
+regional entertainment and technology hub.  Therefore, Hong 
+Kong is considering whether to criminalize unauthorized 
+filesharing of copyrighted works on the internet.  CITB has 
+yet to determine the extent of criminal liability for illegal 
+filesharing, but proposed three scenarios for consideration: 
+1) criminalizing all unauthorized downloading, including 
+downloading of songs, movies, articles and photographs; 2) 
+criminalizing illegal filesharing using peer-to-peer (P2P) 
+technology for songs and movies; and 3) criminalizing only 
+large-scale filesharing activities and those that result in 
+commercial profit. 
+ 
+¶4. (SBU) CITB is also deliberating whether to implement a 
+blanket protection for all copyrighted works transmitted 
+through digital means.  This clause could lead to either 
+criminal or civil sanctions and would apply to P2P 
+technology, internet television signals, 3G technology, other 
+mobile digital devices, and any future technology.  CITB 
+maintains that this blanket approach would ensure that local 
+customs, police and court officials always have effective 
+tools to combat IPR infringement in a fast-changing 
+technological era. 
+ 
+¶5. (U) To address stakeholder concerns regarding the high 
+ 
+HONG KONG 00004875  002 OF 002 
+ 
+ 
+cost of bringing a civil claim to court, the HKG also is 
+examining whether to follow the United States and Singapore 
+in implementing statutory damages for online copyright 
+infringement.  The consultation document proposes that 
+statutory damages should depend on the nature of the piracy 
+act and the economic benefit gained through piracy. 
+ 
+-------------------------------------- 
+Privacy Concerns and the Role of ISPs 
+-------------------------------------- 
+ 
+¶6. (U) CITB also is examining the introduction of civil 
+liability for ISPs if they fail to address online copyright 
+violations in a proactive manner, such as failing to remove 
+infringing materials or not blocking access to infringing 
+sites.  ISPs claim that that they cannot and should not 
+monitor all the activities of their customers.  They argue 
+that such actions would increase costs and make Hong Kong a 
+less attractive place for technology and internet companies 
+to conduct business.  ISPs and other public interest groups 
+also warn that forcing ISP,s to remove or block access to 
+material on the internet could limit public access to 
+information as the fear of liability could prompt ISPs to 
+overzealously block non-infringing material. 
+ 
+¶7. (U) As an alternative to introducing civil liability for 
+ISPs, CITB is examining new industry guidelines and mandatory 
+codes of practice to combat piracy.  One such regulation 
+would mandate that ISPs keep a log ) possibly up to two 
+years ) of their clients, internet activity, which law 
+enforcement and rights holders could access more easily.  As 
+part of this program, Hong Kong is exploring creating a 
+mechanism for rights holders to request information from ISPs 
+on clients who they believe are engaged in online piracy. 
+However, CITB has asked for stakeholder and public views on 
+how this mechanism should be structured and who (ISPs, the 
+government, or rights holders) should bear the costs.  As in 
+all the proposals, Hong Kong is examining how other advanced 
+economies ) the U.K, Singapore, Australia, Canada, and the 
+United States ) handle this issue with much of the focus on 
+the Digital Millennium Copyright Act. 
+ 
+--------------- 
+Early Reactions 
+--------------- 
+ 
+¶8. (SBU) Representatives of the Hong Kong Internet Society 
+and ISP Association balked at the proposals for ISPs to 
+assume more responsibility in fighting piracy, citing privacy 
+concerns and the enormous expense of record keeping.  If 
+implemented, they urge the government to develop clear 
+guidelines for sharing and safeguarding online activity 
+records to protect customer privacy.  They also caution that 
+legal liability for ISPs could create a hostile operating 
+environment for providers in Hong Kong, and "drag Hong 
+Kong,s internet development backward."  The ISP Association 
+also feels that the costs of liability and monitoring would 
+force providers to increase monthly service fees.  Alice Lee, 
+a Hong Kong University intellectual property law professor, 
+voiced concern over the blanket protection proposal because 
+it would give too much power to copyright holders.  Lee 
+claims that Hong Kong can use existing laws to fight the most 
+flagrant abusers of intellectual property and that a blanket 
+protection to cover future technologies would impede 
+innovation and reduce the free flow of information. 
+ 
+¶9. (SBU) Ricky Fung of the International Federation of the 
+Phonographic Industry (IPFI) urged swift discussion and 
+implementation of the proposals, which would improve law 
+enforcement ability to keep up with new forms of intellectual 
+property theft and help the recording industry recover from 
+years of online piracy losses.  Woody Tsung of the Hong Kong, 
+Kowloon and New Territories Motion Picture Industry welcomes 
+the possibility of criminal sanctions for illegal downloads, 
+stating that Hong Kong,s BitTorrent prosecution has reduced, 
+but still not squashed, the practice.  Sam Ho of the Motion 
+Picture Association concurs that strict penalties are the 
+best deterrent for online piracy, which has replaced optical 
+disk piracy as the main IP threat to the industry. 
+Sakaue

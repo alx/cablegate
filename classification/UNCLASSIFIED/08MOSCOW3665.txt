@@ -1,0 +1,84 @@
+08MOSCOW3665
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: S.P.KOROLEV ROCKET
+Thu Dec 18 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHMO #3665 3530635
+ZNR UUUUU ZZH
+P 180635Z DEC 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1236
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 003665 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: S.P.KOROLEV ROCKET 
+AND SPACE CORP., KOROLEV, RUSSIA, LICENSE NO. D393609 
+ 
+REFTEL: USDOC 04193 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a Post-shipment verification to determine the 
+legitimacy and reliability of the end-user, S.P.Korolev Rocket and 
+Space Corp., Korolev, Russia. The company is listed on BIS license 
+application D393609 as the ultimate consignee of one A128OXL-CQ172B 
+electronic integrated circuit and micro assembly and associated 
+field programmable gate array. These items are controlled for 
+national security, anti-terrorism, missile technology and nuclear 
+non proliferation reasons under ECCN 3A001. The licensee is Actel 
+Corporation, 2061 Stierlin Court, Mountain View, CA. 
+ 
+¶3. On December 17, 2008, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification with S.P.Korolev Rocket and Space Corp., Korolev, 
+Russia. The export control team met with Viktor Shebanov, Deputy 
+Head Department and Alexander Veselov, Engineer. 
+ 
+¶4. The S.P.Korolev Rocket and Space Corp., Korolev, Russia is an 
+open Joint-Stock company with a President and Board of Directors. 
+Established more than 50 years ago, S.P.Korolev Rocket and Space 
+Corporation is also commonly referred to as the Special Design 
+Bureau number 1 and/or Energia.  S.P.Korolev Rocket and Space 
+Corporation became pioneers in rocket and space technology, 
+intending to create new types of weaponry to assure parity with the 
+United States.  The design of the R-7 rocket is symbol of pride for 
+the S.P.Korolev Rocket and Space Corporation.  Originally developed 
+as a vehicle for delivering a nuclear warhead to any point on the 
+globe, it then became a starting point for a long line of launch 
+vehicle modifications that are still being used for putting into 
+space manned spacecraft and spacecraft for various applications. 
+ 
+¶5. The commodity in reftel was originally received by the OAO 
+Izhevskiy Radiozavod in Izhevsk, Russia, where they were tested and 
+assembled into components for the Soyuz manned spacecraft and the 
+Progress unmanned spacecraft.  Upon completion they were shipped to 
+the S.P.Korolev Rocket and Space Corporation and placed onboard the 
+individual flight vehicles. The ECO was therefore unable to inspect 
+the reftel commodity. 
+ 
+¶6. Viktor Shebanov, Deputy Head Department for the S.P.Korolev 
+Rocket and Space Corporation stated that they receive between 20 and 
+50 integrated circuit (I.C.) boards similar to the commodity in 
+reftel from the United States each year.  They work jointly with 
+NASA and the European Space program on joint projects and understand 
+the End User requirements for receiving Dual Use commodities under 
+license from the Department of Commerce. 
+ 
+¶7. Recommendations: Post recommends S.P.Korolev Rocket and Space 
+Corp., Korolev, Russia as a reliable recipient of sensitive U.S. 
+origin commodities. 
+(FCS MOSCOW/BBLECHER/PLISTON) 
+BEYRLE

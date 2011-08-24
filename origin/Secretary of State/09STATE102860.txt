@@ -1,0 +1,148 @@
+09STATE102860
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Fri Oct 02 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0012
+PP RUEHWEB
+
+DE RUEHC #2860 2751648
+ZNR UUUUU ZZH
+P R 021629Z OCT 09
+FM SECSTATE WASHDC
+TO RUEHIN/AIT TAIPEI PRIORITY 0000
+INFO RUEAIIA/CIA WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 102860 
+ 
+SIPDIS 
+TAIPEI FOR MATTHEW O'CONNOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC TW
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON APPLICATION 050192019 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests AIT Taipei's assistance in 
+conducting a pre-license check on application 050192019 for 
+the export of gyroscopes to Taiwan.  AIT Taipei is requested 
+to complete this Blue Lantern check within 30 days.  Lack of 
+response to a Blue Lantern check will affect pending and 
+future licenses involving parties to this license. 
+ 
+¶3. Reason for request:  sensitive commodity, lack of 
+documentation from end-user Chung Shan Institute of Science 
+and Technology (CSIST), and unfamiliar foreign consignee, 
+Pegasus Hi-Tek Co., Ltd. (Pegasus).  The company has appeared 
+on previous licenses but its bona fides have not been 
+ 
+verified by a Blue Lantern check. 
+ 
+¶4. ACTION AIT TAIPEI:  AIT Taipei is requested to make 
+inquiries with appropriate authorities to determine if CSIST 
+ordered the gyroscopes from Pegasus and if so, verify the 
+amount and that the items will be used for the purpose stated 
+on the license.  PM/DTCC also requests that post conduct a 
+site visit to Pegasus in order to provide Department with an 
+assessment of its business operations and on-site security. 
+Finally, post is asked to assess whether the company appears 
+to be a reliable recipient of USML items.  If a site visit is 
+not possible, please inform the PM/DTCC officer. 
+ 
+The following questions are provided as suggested guidance: 
+ 
+--Does the company have supporting documentation for this 
+proposed transaction? 
+ 
+--Does the company have secure facilities and proper 
+accounting and security procedures for handling sensitive 
+USML items? 
+ 
+--What is the exact end-use for this USML item? 
+ 
+--When was the company established and who are its 
+principals? 
+ 
+--What is the nature of its business -- what type of items 
+does it handle, does it serve as a broker? 
+ 
+--What type of organizations are among its typical customers 
+and where are the customers located? 
+ 
+--Does the company understand the restrictions on United 
+States Munitions List (USML) items, especially the 
+prohibition against unauthorized re-transfer and re-export? 
+END ACTION 
+ 
+¶5. Details of license application: 
+ 
+DTC Case: 050192019 
+ 
+QUANTITY/COMMODITY: 
+ 
+20  Rate Gyro P/N:RG02-0103-1 
+ 
+License Value: USD 77,000.00 
+ 
+SELLER: 
+ 
+Eugenix Systems, Inc. 
+6707 Convoy Ct. 
+San Diego, CA 92111 
+POC is Ji Kim, Tel. 858-278-4951 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Pegasus Hi-Tek Co., Ltd. 
+Room 11, 14F, No. 495, Kuan Fu S. Rd., Road 
+Taipei 
+Taiwan 
+POC is General Manager, William Mar, Tel. 02-27205060 
+ 
+FOREIGN END-USER: 
+ 
+Chung Shan Institute of Science and Technology 
+No. 481, Chia-An Sec., Chung-Chen Road Chia-An Village 
+Lung-Tan 
+Taiwan 
+No POC provided 
+ 
+PURPOSE: 
+ 
+Eugenix P/N:RG02-0103-1 rate gyro will be used as rotary axis 
+rate sensors for CS/MPQ-56IN shipboard tracking radar antenna 
+pedestal which is developed by CSIST for the Taiwanese Navy. 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC can fax documentation to post 
+upon request): 
+ 
+--DSP-83 Nontransfer and Use Certificate (illegible). 
+ 
+--Purchase Order No. XU98E80P submitted by Pegasus Hi-Tek 
+Co., Ltd., signed by General Manager William Mar on 24 August 
+¶2009. 
+ 
+--End Use Statement submitted by Pegasus Hi-Tek Co., Ltd., 
+signed by General Manager William Mar on 15 September 2009. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Tim Mazzarelli, Phone: 
+202-663-3867; Email: MazzarelliTP@state.gov; SIPRNET: 
+MazzarelliTP@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file in the Bunche Library's 
+E-Book Collection on the DOS Intranet: 
+http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶8. Department is grateful for post's assistance in this 
+matter. 
+CLINTON

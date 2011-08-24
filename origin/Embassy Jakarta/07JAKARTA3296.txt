@@ -1,0 +1,262 @@
+07JAKARTA3296
+INDONESIA - OBSTACLES AND PROGRESS IN CAPITAL MARKET
+Mon Dec 03 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Jakarta
+VZCZCXRO1667
+RR RUEHCHI RUEHCN RUEHDT RUEHHM
+DE RUEHJA #3296/01 3370732
+ZNR UUUUU ZZH
+R 030732Z DEC 07
+FM AMEMBASSY JAKARTA
+TO RUEHC/SECSTATE WASHDC 7238
+RUEATRS/DEPT OF TREASURY WASHDC
+INFO RUEHZS/ASSOCIATION OF SOUTHEAST ASIAN NATIONS
+RUCPDOC/DEPT OF COMMERCE WASHDC
+RUEHKO/AMEMBASSY TOKYO 1226
+RUEHBJ/AMEMBASSY BEIJING 4546
+RUEHBY/AMEMBASSY CANBERRA 1678
+RUEHUL/AMEMBASSY SEOUL 4320
+RUEAIIA/CIA WASHDCUNCLAS SECTION 01 OF 03 JAKARTA 003296 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPT FOR EAP/MTS, EAP/RSP AND EB/IFD/OMA 
+TREASURY FOR IA-BAUKOL, OTA-MCDONALD 
+SINGAPORE FOR TREASURY-BAKER 
+COMMERCE FOR 4430-BERLINGUETTE 
+DEPARTMENT PASS FEDERAL RESERVE SAN FRANCISCO FOR TCURRAN 
+DEPARTMENT PASS EXIM BANK 
+ 
+E.O. 12598: N/A 
+TAGS: EFIN EINV ECON PGOV ID
+SUBJECT: INDONESIA - OBSTACLES AND PROGRESS IN CAPITAL MARKET 
+DEVELOPMENT 
+ 
+REF: A) Jakarta 978 (Insurance Sector); 
+B) Jakarta 1128 (Monetary Policy Instruments); 
+C) Jakarta 3099 (Foreign Restrictions on SBI) 
+ 
+¶1. (SBU) Summary: Tax, legal and accounting issues are impeding the 
+development of securities markets and products in Indonesia.  Market 
+participants and some regulators argue that the lack of hedging 
+instruments and financing techniques is the key obstacle to 
+securities market development.  On the positive side, regulators are 
+starting to research initiatives to improve the insurance industry, 
+including addressing long-time insolvent firms.  Civil service 
+reform is also reducing opportunities for rent seeking, which may 
+improve both regulation and corporate governance.  Indonesian 
+securities supervisors have requested help from the U.S. Securities 
+and Exchange Commission (SEC) in improving disclosure and market 
+surveillance (see para 15) and the SEC plans to respond to the 
+request with a visit in early 2008. End Summary. 
+ 
+T-Bills and SBI 
+--------------- 
+ 
+¶2. (U) Indonesia's banking sector suffers from chronic excess 
+liquidity.  BI issues Sertifikat Bank Indonesia -SBIs - as part of 
+open market operations.  BI uses SBI as sterilization and liquidity 
+instruments with one- and three-month maturity. (See reftel B.)  Due 
+to the limited supply of alternative financial assets, overseas 
+investors buy SBI, which reduces the effectiveness of BI's liquidity 
+management activities.  Despite Indonesia's progress in setting up a 
+primary dealer's market and holding its first T-Bill auctions in 
+2007, the Ministry of Finance has not yet issued T-Bills with less 
+than one-year maturity. The expansion of availability of short-term 
+T-Bills would not only help market development by filling in the 
+short end of the yield curve, but would also provide a new monetary 
+policy instrument besides SBI. 
+ 
+¶3. (U) Currently, a 20% up-front tax hit on T-Bills appears to be a 
+small - but not insurmountable -- disincentive for many investors 
+and securities dealers.  However, Bank Indonesia (BI) is refusing to 
+pay withholding tax on T-Bills, and therefore will not purchase them 
+for use as monetary instruments.  One bond market expert noted that 
+taxing a central bank on purchases of government bonds had virtually 
+no precedent anywhere in the world. 
+ 
+¶4. (SBU) The availability of T-Bills is an important aspect of the 
+debate on potentially limiting foreign ownership of SBIs (reftel C). 
+ Without other short-term, rupiah-denominated securities such as 
+T-Bills, for foreign investors to switch into, limiting foreign 
+ownership of SBIs could potentially be destabilizing to the currency 
+markets.  Official sources told us, however, that there are plenty 
+of ways to "work around" such a regulation, should BI ever issue it. 
+ Most view such a move as unlikely and BI officials confirmed in 
+meetings with the Embassy that it has no plans to restrict foreign 
+ownership of SBIs or introduce capital controls in the near term. 
+Nevertheless, many market participants continue to believe it would 
+be in Indonesia's best interest to exclude non-resident investors 
+from the SBI market.  Should foreigners ever be excluded, the GOI 
+could potentially reduce any adverse impact by issuing more T-Bills 
+to capture this demand. 
+ 
+Hedging Instruments Needed, Especially Repo Market 
+--------------------------------------------- ----- 
+ 
+¶5. (SBU) Deutsche Bank's Director for Fixed Income Trading, Francis 
+Soetopo, argued that the main problem in the bond market now is the 
+absence of hedging instruments.  He argued that providing hedging 
+instruments should be the top priority from a regulatory point of 
+view. 
+ 
+¶6. (SBU) The most important hedging tool would be a properly 
+functioning repo market.  According to Citibank Country Economist 
+Anton Gunawan, BI officials want to rely on the private sector to 
+develop a repo market so that BI will not have to be the 
+counterparty to every repo transaction, thus reducing its own risk. 
+However, debt officials told us that the private sector's Master 
+Repo Agreement drafted previously is not working due to accounting 
+and tax problems.  Reportedly, banks that engage in repo agreements 
+ 
+JAKARTA 00003296  002 OF 003 
+ 
+ 
+are not able to effectively remove the liability from their balance 
+sheet even when it is has been sold to others.  Furthermore, repo 
+transactions are subject to transfer taxes, even if the assets 
+revert back to their original owner at the end of the repo deal. 
+ 
+¶7. (SBU) JP Morgan Managing Director Rizal Prasetijo also argued 
+that international financial institutions are required to limit 
+counter-party risk associated with local Indonesian banks.  This 
+means that the lines of credit available in local bank-to-bank repo 
+agreements would be very small.  He argued, therefore, that Bank 
+Indonesia will have to be the counterparty for the foreseeable 
+future if they want to have a deep and liquid repo market.  However, 
+even if BI were to seek a direct role as counterparty in repo 
+transactions, they are unlikely to warehouse the variety of 
+inventory required or want to disburse and/or absorb large cash 
+balances at the request of the dealer community. 
+ 
+Hope for Progress after Stock Exchange Merger 
+--------------------------------------------- 
+ 
+¶8. (SBU) BAPEPAM Chairman Fuad Rahmany believes that the merger of 
+the Jakarta (JSX) and Surabaya Stock Exchanges (SSX) will set the 
+stage for development of better derivatives markets, although there 
+will be some rough patches during the transition period.  The merged 
+exchanges, legally effective on November 30, are now called the 
+Indonesia Stock Exchange (Bursa Efek Indonesia or BEI).  Previously 
+the SSX, which specialized in bond trading, wanted to explore 
+derivatives (futures, options, real-estate investment trusts) but 
+the underlying asset was often traded on the larger, more liquid 
+JSX.  Trading related securities on different exchanges creates 
+problems in coordinating market surveillance to guard against market 
+manipulation.  As soon as the merged entity is stable, one bond 
+market official predicted that the MOF and BAPPEPAM would roll out 
+bond futures early next year.  The SSX was already in the advanced 
+stages of developing a financial futures contract for government 
+bonds. 
+ 
+Addressing Taxation of Securities 
+--------------------------------- 
+ 
+¶9. (SBU) Rahmany also mentioned that tax was the biggest hurdle in 
+terms of securitization products, such as asset-backed securities. 
+In addition to tax, real estate investment trusts (REITs) and 
+mortgage backed securities are also held up by the national land 
+agency, BPN.  Two new government regulations are needed to address 
+land title issues, custodial titles, the structure of new products 
+and their tax treatment. 
+ 
+¶10. (U) The government does seem to have recognized the myriad of 
+tax problems holding back market development.  In response, Dr. 
+Anggito Abimanyu, Head of the Ministry of Finance Fiscal Policy 
+Office said that the Ministry of Finance is drafting a new law in 
+2008 to address tax treatment of: 
+ 
+-- Financial securities (which he noted were not covered under 
+income tax); 
+ 
+-- Sharia bonds and other sharia investment instruments; 
+ 
+-- Derivatives and asset-backed securities. 
+ 
+Diversifying and Shoring Up Domestic Bond purchasers 
+--------------------------------------------- ------- 
+ 
+¶11. (SBU) Rahmany said plans also were being developed to encourage 
+more domestic players to participate in bond markets.  One market 
+expert reported that most insurance and pension assets are invested 
+in shorter-term bank deposits rather than longer-term assets such as 
+government or corporate bonds.  This is partly due to regulatory 
+rules that count 12-month deposits, but not government bonds, as 
+regulatory reserves. 
+ 
+¶12. (SBU) Most observers believe that the resulting asset-liability 
+mismatch has been allowed to persist due to concern about the 
+solvency of a few large firms and pension funds.  Rahmany admitted 
+that the insurance regulator had been weak, and the Ministry of 
+ 
+JAKARTA 00003296  003 OF 003 
+ 
+ 
+Finance is now trying to compensate for past neglect.  At the 
+industry level, former Coordinating Minister for the Economy 
+(2001-2004) and Indonesian Ambassador to the U.S. (1998-2001) 
+Dorodjatun Kuntjoro Jakti agreed to chair a "Blue Ribbon Commission" 
+on insurance reform, long requested by international insurers in 
+Indonesia to examine ways to improve the laggard sector.  Terms of 
+reference for the Commission are being drafted and will be submitted 
+to BAPEPAM-LK for comment in the coming weeks. 
+ 
+GOI Confirms It Will Bail Out Large Insurer 
+------------------------------------------- 
+ 
+¶13. (SBU) More narrowly, Rahmany confided that the GOI was looking 
+for ways to bail out bankrupt insurer Bumiputera 1912 (reftel A), 
+which has around 6 million policy holders.  Due to the size and 
+sensitivity of the bailout, Rahmany asked for our discretion, noting 
+that it will be a very sensitive issue, requiring a presentation to 
+Parliament, with a request to spend public money on the bailout. 
+Despite its government connections - historically many rural civil 
+servants supplemented their wages by selling its policies for 
+commissions -- Bumiputera is technically a mutually-owned life 
+company, not a state-owned company.  "Eventually, we will have to 
+demutualize it," Rahmany said. As Bumiputera 1912 is also the only 
+mutual life insurance company in Indonesia, that path will be 
+challenging. 
+ 
+Some Progress on Reducing Rent Seeking 
+-------------------------------------- 
+ 
+¶14. (U) Civil service reform is helping to reduce some incentives 
+and opportunities for rent seeking by regulators and other 
+government officials.  First, under the leadership of Finance 
+Minister Mulyani and BAPEPAM Chairman Fuad Rahmany, salaries have 
+tripled for BAPEPAM employees and raised significantly for high 
+level Ministry of Finance officials (particularly those in Echelon 
+1). Secondly, Ministry of Finance Head of Fiscal Policy Anggito 
+Abimanyu - who also sits on the board of PT Telkom, Indonesia's 
+state-owned telecom company -- reported that a new policy requires 
+government employees to refuse salaries provided as members of 
+boards of directors or commissioners.  The new policy applies to the 
+Ministry of Finance, the Supreme Audit Board (BPK), and the Supreme 
+Court this year and is planned for the armed forces, police and 
+judges next year.  According to the plan, all central government 
+officials will have to refuse any additional corporate salaries by 
+¶2012. 
+ 
+SEC Assistance Sought 
+--------------------- 
+ 
+¶15. (U) Rahmany said that BAPEPAM is grateful for assistance from 
+the U.S. Treasury, the U.S. Securities and Exchange Commission, as 
+well as Australia's Securities and Investment Commission (ASIC). 
+Rahmany requested that the SEC team he requested for a review of 
+market enforcement tools, come as early as possible in 2008. 
+Rahmany would also like to see a review of the disclosure rules for 
+listed companies.  "There is a lot of misbehavior in our markets," 
+Rahmany acknowledged.  He seeks SEC assistance with two major items: 
+the enforcement process including the Attorney General's Office 
+(AGO) and techniques and analysis to review suspected cases of 
+market manipulation.  State, Treasury, IMF, SEC, and the Australia's 
+Technical Assistance Management Facility for Economic Governance 
+(TAMF) have been coordinating on assistance to BAPEPAM. 
+ 
+HUME

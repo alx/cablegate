@@ -1,0 +1,120 @@
+10HONGKONG314
+EXTRANCHECK: POST SHIPMENT VERIFICATION: ON GRACE
+Wed Feb 24 00:00:00 +0100 2010
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHHK #0314/01 0550702
+ZNR UUUUU ZZH
+R 240702Z FEB 10
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9699
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000314 
+ 
+USDOC FOR 532/OEA/ MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: ON GRACE 
+TECHNOLOGIES 
+ 
+REF: A) BIS e-mail request 01210068 dated September 9, 2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) attempted 
+to conduct a post shipment verification (PSV) at On Grace 
+Technologies, Limited, Rm 201, Hi-Tech Centre, 9 Choi Yuen Road, 
+Hong Kong (On Grace).  The items in question for this PSV are 
+various electronic components exported to Secom Telecom (Hong Kong) 
+Ltd., Unit 1701-2, Apec Plaza, 49 Hoi Yuen Road, Hong Kong (Secom) 
+but destined for On Grace.  The exporter has classified these items 
+under Export Control Classification Number (ECCN) 3A001a2c.  This 
+ECCN is controlled for national security (NS) reasons and is 
+eligible for shipment to Hong Kong license free but would, in 
+virtually all circumstances, require a license for shipment to 
+mainland China. The exporter is Actel of Mountain View, California. 
+ 
+¶3.  Initial efforts to contact On Grace were unsuccessful.  As a 
+result, ECO elected to pursue a meeting with Secom.  According to 
+the Hong Kong Companies Registry, Secom has been in existence since 
+¶1997.  It has the Hong Kong equivalent of USD 1250 in share capital. 
+ Mainland nationals Xiao, Qing and Zeng, Qiang (with G24813200 and 
+G20968633 passport numbers) are listed as the company's directors. 
+ 
+¶4.  Background research on the internet reveals that Secom markets 
+itself as a distributor of electronic components and test and 
+measurement instruments (www.secomtel.com).  The company web site 
+lists an office in Hong Kong as well as multiple offices in various 
+cities throughout mainland China. 
+ 
+¶5.  On December 22, 2009, ECO and Commercial Assistant Carrie Chan 
+visited the company and met with Mr. Ricky Ng, Administration 
+Supervisor.  Mr. Ng stated that Secom is a distributor of components 
+and testing instruments.  It is funded from mainland China.  End 
+users for its products are typically OEMs and ODMs but Secom also 
+sells to other resellers.  Mr. Ng stated that Secom avoids military 
+grade products to avoid export control problems.  He further noted 
+that Secom requires end user statements from trading company 
+customers to protect itself against its products being shipped to 
+embargoed destinations. Mr. Ng stated that Secom applies for Hong 
+Kong strategic trade licenses when required. 
+ 
+¶6.  As to the specific transaction in question, Mr. Ng stated that 
+the buyer was On Grace.  On Grace was a regulator customer but Mr. 
+Ng stated that he does not know what they do and that they are no 
+longer a Secom customer.  Mr. Ng noted that the transaction in 
+question was an unusual one since it was a very high value and 
+controlled item.  Secom's Shenzhen office was responsible for the 
+sale but as far as Mr. Ng knows, On Grace is a Hong Kong company. 
+Mr. Ng stated that the salesperson responsible for the On Grace 
+account had left the company.  He also stated that Secom was unable 
+to find the documents for this order since the company had recently 
+moved and some documents had been lost during that move (he noted 
+also that the transaction was quite old - 2006). Later, Mr. Ng was 
+also to provide (by e-mail) On Grace's end user statement stating 
+that the items it procured from Secom would not be used for military 
+or WMD purposes.  ECO provided Mr. Ng with information about export 
+controls including a BIS brochure on reexport controls as well as 
+links to relevant provisions of the BIS web site. 
+ 
+¶7.  FCS Commercial Assistant Carrie Chan attempted, on several 
+occasions, to arrange a meeting with On Grace.  On Grace 
+representatives stated that the responsible person for this order is 
+no longer with the company.  In addition, the company no longer has 
+any documentation on the order.  ECO is continuing to attempt to 
+schedule a meeting and will report any significant information 
+obtained from On Grace by separate correspondence. 
+ 
+¶8.  According to the Hong Kong Companies Registry, On Grace has been 
+in existence since 2001.  It has the equivalent of USD 1 in share 
+capital.  Hong Kong residents Kwan, Pak Chun and Pon, Chi Ying are 
+listed as directors with corresponding HK ID #s G122825 and 
+D556430).  Director Kwan, Pak Chun is also a director in the 
+following companies:  Aceco Electronics (www.aceco.cn), Gobiz 
+Electronics Limited (www.gobiz.com.hk), New Glory Industries 
+Limited, Novacom Technology Limited, and Smartway Electronics (HK) 
+Limited. 
+ 
+¶9.  ECO recommends a close review of all shipments to Secom, On 
+Grace and the other related companies referenced herein.  While ECO 
+cannot make a definitive determination on this point, ECO suspects 
+that Secom did not obtain the required Hong Kong import license for 
+this shipment.  In addition, it is problematic that neither Secom 
+nor On Grace were able to find documentation for this particular 
+order nor were they able to provide any detail on the end user or 
+ 
+ 
+end use to which these items were put.  In light of the apparent 
+controlled nature of these items, ECO recommends that this EUC be 
+considered unfavorable.

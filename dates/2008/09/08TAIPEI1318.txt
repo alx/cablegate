@@ -1,0 +1,183 @@
+08TAIPEI1318
+Taiwan IPR: 301 Watch List OCR Update Three
+Thu Sep 04 00:00:00 +0200 2008
+UNCLASSIFIED
+American Institute Taiwan, Taipei
+VZCZCXRO5048
+PP RUEHCN RUEHGH RUEHVC
+DE RUEHIN #1318/01 2480859
+ZNR UUUUU ZZH
+P 040859Z SEP 08
+FM AIT TAIPEI
+TO RUEHC/SECSTATE WASHDC PRIORITY 9894
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUCPDOC/DEPT OF COMMERCE WASHDC
+RHMFIUU/DEPT OF JUSTICE WASHINGTON DCUNCLAS SECTION 01 OF 02 TAIPEI 001318 
+ 
+SIPDIS 
+ 
+STATE FOR EAP/TC 
+STATE PASS USTR FOR KATZ AND RAGLAND 
+COMMERCE FOR 4431/ITA/MAC/AP/OPB/TAIWAN 
+COMMERCE ALSO FOR ITA/MAC/OIPR, 
+COMMERCE PASS TO USPTO GIN, BROWNING, AND LOC STEPP 
+USDOJ FOR JOHN ZACHARIA 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ETRD KIPR PREL PGOV TW
+SUBJECT: Taiwan IPR: 301 Watch List OCR Update Three 
+ 
+Reftels:  A) Secstate 43143, B) Taipei 950, C) Taipei 1039, D) 
+Taipei 0008, E) Taipei 1258 
+ 
+¶1. (SBU) Summary: Taiwan has now made measurable progress on all 
+three areas outlined in May's Special 301 Watch List submission for 
+Taiwan (ref A).  Following the July opening of the Intellectual 
+Property (IP) Court (ref B) and ongoing actions under the Campus IP 
+Action Plan, the Taiwan Intellectual Property Office (TIPO) 
+forwarded to the Executive Yuan (EY) on August 27 a draft version of 
+internet service provider (ISP) amendments to Taiwan's Copyright 
+Act.   TIPO predicts that the EY will approve this version of the 
+bill and send it to the Legislative Yuan for consideration by the 
+end of September. The Ministry of Education continues to engage with 
+rights-holder groups, and has affirmed that the Ministry's 
+island-wide academic network TANet would be treated as an ISP under 
+the current draft version of the ISP bill.  We have asked Taiwan 
+officials to provide assurances of support for passage of the bill 
+in its current form.  We will also continue to monitor and encourage 
+support for the bill until its passage.  Given progress to date and 
+prospects for passage of acceptable, if not ideal, ISP legislation, 
+we recommend that Taiwan be removed from the 301 Watch List.  End 
+summary. 
+ 
+--------------------------------------------- 
+ISP Bill Moving Closer to Goal Line 
+--------------------------------------------- 
+ 
+¶2. (SBU) On August 27, TIPO sent to the EY its final draft version 
+of ISP-related amendments to the Copyright Act.  According to TIPO 
+Deputy Director General Margaret Chen, TIPO expects the EY to 
+approve the draft amendments in September, and forward the draft on 
+to the Legislative Yuan (LY) for approval soon afterwards.  Chen 
+does not know when the LY will take a vote on the amendments, 
+however, nor could she forecast whether the LY would pass the 
+amendments.  [Note: The LY's fall session started on September 1 and 
+wraps up end-December. End note.] 
+ 
+¶3. (SBU) The latest version of the ISP-related amendments does not 
+include U.S.-suggested language included in Article 88 of previous 
+versions that specifically referred to secondary (or contributory) 
+liability for ISPs that knowingly host copyright-infringing 
+material. Instead, the bill includes a written opinion from the 
+Ministry of Justice stating ISP operators are subject to secondary 
+liability under Article 185 of the Civil Code.  On September 2, 
+local rights-holder groups reaffirmed to econoff that they would 
+prefer to have the concept of secondary liability clearly laid out 
+in the bill, but can accept the amendment's current wording.  Some 
+rights-holder groups have also told AIT that after TIPO submits the 
+bill to the LY, a KMT Legislator will add language related to 
+secondary liability back into the amendment (ref C).  The bill also 
+does not reflect U.S. recommendations that ISPs should be liable for 
+infringing material that they "should have knowledge" of, not just 
+for infringing material that they "have knowledge" of, though local 
+rights-holder groups have not pushed AIT to address this issue. 
+ 
+------------------------- ------------------------------ 
+MOE Action Plan Improves, Rights-holders Still Concerned 
+------------------------- ------------------------------ 
+ 
+¶4. (SBU) During an August 19 meeting with Ministry of Education 
+(MOE) Computer Center Deputy Director Han Shan-min, Ms. Han updated 
+econoff on the continuing work of the MOE under its Campus IP Action 
+Plan.  Following a baseline survey made in June 2007 on network 
+management practices at 16 universities, the Computer Center is 
+undertaking another survey of 10 schools to evaluate their 
+enforcement efforts after the Action Plan's first year.  The MOE 
+will compile the results of this survey by the end of September, and 
+use these results as the basis of a new enforcement report with more 
+detailed indicators in October or November. 
+ 
+¶5. (SBU) The MOE has also increased feedback to rights-holders under 
+the Action Plan.  In response to rights-holder requests--and AIT 
+encouragement--the Computer Center instituted a new SOP for 
+rights-holder complaints, designating a staff member as the 
+complaints point-of-contact (POC) and producing more detailed, 
+bi-monthly reports on reported infringements.  The last such report 
+came out on August 21.  Han also informed econoff that on May 8, the 
+MOE ordered all universities to block installation of peer-to-peer 
+(P2P) software on all publicly-available terminals, as well as make 
+periodic checks for such software.  This move is a tightening of 
+restrictions implemented by the MOE in fall 2007 that curbed student 
+access to P2P websites and software (ref D). 
+ 
+¶6. (SBU) In addition, although the MOE had been wary of classifying 
+ 
+TAIPEI 00001318  002 OF 002 
+ 
+ 
+TANet as a normal ISP, Han said that the MOE now agrees that TANet 
+meets the ISP definition included in the draft Copyright Law 
+amendments that TIPO passed to the EY last week.  TANet 
+administrators at Taiwan's schools would therefore be subject to the 
+revised law's notice and takedown requirements.  Han said if the EY 
+passes the current version of the amendments, the MOE would work out 
+enforcement rules for this purpose, and work with individual 
+universities to implement notice-and-takedown measures. 
+ 
+¶7. (SBU) Local rights-holder groups, however, told econoff on 
+September 2 that they remain worried that the MOE may try to have 
+the LY reinsert language that would exempt TANet from the bill's 
+provisions.   Rights-holder also told econoff they are still not 
+satisfied with the MOE's efforts under the Action Plan.  According 
+to Robin Lee of the recording-industry group IFPI, the MOE's new, 
+bi-monthly reports do provide general information and statistics 
+about how infringement complaints are being handled by individual 
+universities, but the reports do not provide specific feedback about 
+how each complaint is being handled or punished, rendering the 
+reports "almost useless." Representatives from the software, movie, 
+and book-publishing rights-holder groups agree with Lee that 
+although the MOE has designated an infringement-complaints POC, the 
+Ministry does not have adequate staff to address the industry's 
+problems on TANet.  Rights-holders told econoff that they have asked 
+MOE to establish an enforcement group within the Computer Center. 
+ 
+----------------------------- 
+IP Court Has Slow First Month 
+----------------------------- 
+ 
+¶8. (SBU) Opened with fanfare on July 1 (ref B), the Taiwan 
+Intellectual Property Court had a lower-than-expected caseload 
+during it first two months.  IP Court President Kao Shiow-jen 
+recently told econoff the IP court has received only 146 cases, 
+mostly criminal appeals and administrative cases, none of which have 
+reached the trial stage.  Kao said the IP Court is disappointed by 
+the low number of cases received, especially first-instance civil 
+cases, since the Judicial Yuan (JY) estimates the Court is able to 
+handle about 250 cases per month.  Kao explained many plaintiffs in 
+civil cases are still watching and considering whether to use this 
+new venue, or file their cases as before in a district court.  Kao 
+believes that more plaintiffs will take their civil complaints 
+directly to the IP court when they realize the Court's judges can 
+effectively and correctly enforce Taiwan's patent, trademark, and 
+copyright laws. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶9. (SBU) We assess that Taiwan continues to make measurable progress 
+on the key areas outlined by the U.S. in this year's Special 301 
+Watch List submission for Taiwan. As we noted in ref C, the main 
+remaining issue is Taiwan's progress toward passing an acceptable 
+version of the ISP amendment.  Rights-holder groups, ISPs, and 
+web-portal operators all tell us that they can live with the 
+amendment's current wording, although rights-holder groups would 
+prefer that the final version include "Article 88" language clearly 
+referencing secondary liability, and also worry that the MOE may try 
+to have language reinserted into the bill that would exempt TANet 
+from its requirements.  We have already requested a written 
+expression of support for the bill's passage (ref E), and we will 
+follow up with EY officials to encourage Taiwan to pass as strong a 
+bill as possible.  If MOEA continues to support the bill's passage 
+in its current form, we recommend that Taiwan be removed from the 
+301 Watch List at the end of the out-of-cycle review. End comment.

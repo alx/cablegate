@@ -1,0 +1,144 @@
+06PARIS7212
+U/S LAVIN RAISES COPYRIGHT LEGISLATION CONCERNS WITH GOF
+Fri Nov 03 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXYZ0026
+RR RUEHWEB
+
+DE RUEHFR #7212/01 3071636
+ZNR UUUUU ZZH
+R 031636Z NOV 06
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 2841
+RUCPDOC/DEPARTMENT OF COMMERCE WASHDC
+INFO RUCNMEM/EU MEMBER STATES COLLECTIVEUNCLAS PARIS 007212 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD ECON EFIN KIPR FR
+SUBJECT: U/S LAVIN RAISES COPYRIGHT LEGISLATION CONCERNS WITH GOF 
+ 
+REF: A) PARIS 6811 B) PARIS 5242 
+ 
+1.(SBU) Summary: Commerce Under Secretary Franklin Lavin raised 
+concerns over France's recently passed copyright legislation 
+(reftels) with Ministry of Culture advisors Laurence Franceschini 
+and Marc Herubel on October 19, and separately with Trade Minister 
+Lagarde's Chief of Staff Stanislas Pottier and Invest in France 
+President Philippe Favre.  Lavin said the French copyright 
+legislation could potentially represent "a backwards step" for 
+innovation, jobs and culture.  The Under Secretary made the point to 
+the Culture Ministry that Apple is the largest carrier of 
+Francophone music. 
+ 
+¶2. (SBU) Franceschini and Herubel said the GOF would take a 
+pragmatic approach to drafting implementing regulations to the 
+legislation, including the decree establishing a "technical 
+measures" regulatory authority. The advisors said the regulatory 
+authority would make decisions on the dissemination of DRM on a 
+case-by-case basis and that the potential impact on the integrity of 
+a firm's IP would be factored into the decision-making.  However, 
+the Culture Ministry could not guarantee that software providers 
+would absolutely not have to give up protected intellectual property 
+information for the sake of interoperability.  In response to 
+questioning, Herubel said the GOF would welcome U.S. analysis for 
+WTO/TRIPS-consistency of the legislation to help inform implementing 
+regulations. End summary. 
+ 
+¶3. (SBU) ITA Under Secretary Franklin Lavin met with Ministry of 
+Culture Deputy Cabinet Director Laurence Franceschini and Technical 
+Advisor Marc Herubel on October 19 to raise U.S. concerns related to 
+France's copyright law.  Herubel told Lavin the legislation had been 
+passed under fast-track procedures, and that political pressure on 
+the National Assembly had resulted in the legislation "going a 
+little far" in satisfying a vocal slice of the user population.  The 
+July decision of the Constitutional Court (ref B) -- and now the 
+process of drafting implementing regulations -- was helping to 
+reestablish "equilibrium" and ensure protection of IP integrity. 
+ 
+¶3. (SBU) Franceschini and Herubel said implementing regulations 
+would include a decree creating a new regulatory authority 
+responsible for matters related to the mandatory dissemination of 
+DRM systems, among other issues. The decree should be ready by the 
+end of the year, with the goal of standing up the authority in 
+January. 
+ 
+¶4. (SBU) Franceschini said the regulatory authority would make 
+decisions on dissemination of DRM systems on a case-by-case basis. 
+She claimed the approach would be "pragmatic" and the potential 
+impact on the integrity of a firm's IP would be factored into 
+decision-making.  Franceschini also claimed firms could enjoy a 
+level of DRM protection by setting compensation prices high, though 
+she was unclear on how/whether the ability to do might be impaired 
+by decisions of the regulatory authority.  When Franceschini was 
+challenged as to how the Ministry would guard against confiscation 
+of technology, she was unable to provide a clear explanation, saying 
+only that the courts would adjudicate fairly. 
+ 
+¶5. (SBU) Asked why the market wouldn't be more efficient in clearing 
+such transactions, Franceschini listed several concerns.  In a 
+non-interoperable environment, resulting segmentation increased 
+risks of piracy, as experience had shown.  The vertically integrated 
+strategies around DRM, favored by companies such as Apple, clearly 
+had been critical in helping to launch a new market.  As the market 
+matured, it was important to encourage an "interoperable 
+environment" in which several standards might co-exist. 
+Franceschini drew on the television analogy: the consumer would not 
+put up with ten decoder boxes in order to watch ten different 
+channels. The advisors added that when France's Competition Council 
+denied a suit brought by Virgin Mega to open up Fairplay, the market 
+was not yet mature.  Now that it has matured, provisions must be 
+made for interoperability, otherwise the consumer is held prisoner. 
+ 
+ 
+¶6. (SBU) In response to probing, Herubel said he thought the 
+copyright legislation was WTO/TRIPS-consistent.  But he noted that 
+if the United States had a different analysis, he would be 
+interested in factoring that into consideration as the Ministry 
+proceeds with drafting implementing regulations. 
+ 
+¶7. (SBU) U/S Lavin closed the meeting by underscoring the importance 
+of what was at stake.  The French copyright legislation could 
+potentially represent "a backwards step" for innovation, jobs and 
+culture.  It would be critical to strike a balance between 
+interoperability and proprietary rights that did not come down on 
+the wrong side of the equation. He said this legislation gives the 
+impression to future innovators and investors the government may 
+arbitrarily, in the name of culture and consumer rights, take away 
+intellectual property rights if a later competitor promises to 
+provide the same service at a lower price. The Under Secretary also 
+made the point that Apple is the largest carrier of Francophone 
+music.  Apple has increased the public's access to current and past 
+French music. That, he said, is the irony here. 
+ 
+¶8. (SBU) In a separate meeting, Stanislas Pottier, Chief of Staff to 
+the French Trade Minister, told Lavin there would be 
+inter-ministerial consultations on the implementing regulations.  He 
+appeared confident his Ministry could ensure strong IP protection in 
+the implementing regulations.  Pottier said the Prime Minister's 
+office was concerned about not weakening IP protection.  Philippe 
+Favre, head of the French Government's investment promotion agency 
+Invest in France, intimated to Lavin that the IP damaging elements 
+of the legislation would be resolved in the implementing 
+regulations.   U/S Lavin also discussed the DRM issue with MEDEF, 
+the French Employer's association.  MEDEF did not appear fluent on 
+the issue, but was ready to explore it further. 
+ 
+¶10. (SBU) Comment: The Culture Ministry said it would seriously 
+review input into the implementing regulation drafting process.  If 
+we have specific concerns over WTO/TRIPS consistency, for example, 
+sharing those with the French before the decree is finalized may 
+help mitigate negative consequences of the legislation. 
+ 
+¶11. (U) Technical note: it appears that both film and music will be 
+within the scope of the legislation and software publishers will be 
+responsible for paying compensation to the DRM provider. 
+ 
+¶12. (U) U/S Lavin has cleared this cable. 
+ 
+STAPLETON

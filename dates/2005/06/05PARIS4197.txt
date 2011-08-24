@@ -1,0 +1,789 @@
+05PARIS4197
+FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR TWO
+Wed Jun 15 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+150930Z Jun 05UNCLAS SECTION 01 OF 09 PARIS 004197 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR; MARK 
+HILBERT); EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR TWO 
+PRINCIPAL CANDIDATES AND TWO ALTERNATES FOR EURP - A PROJECT 
+FOR YOUNG EUROPEAN LEADERS ON CURRENT SOCIAL, POLITICAL AND 
+ECONOMIC ISSUES (OCTOBER 24 - NOVEMBER 11, 2005) 
+ 
+REF: STATE 004520 
+ 
+POST WOULD LIKE TO NOMINATE TWO PRINCIPAL CANDIDATES FOR 
+SUBJECT PROGRAM: MR. PIERRE KANUTY; MR. BRUNO ERHARD.  TWO 
+ALTERNATES ARE NOMINATED FOR SUBJECT: MR. MANUEL MARTINEZ; 
+MR. GUILLAUME RAGONNAUD. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 273 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - EURP A Project for Young European Leaders 
+on current Social, Political and Economic Issues 
+START MEMO PROJ-DESC: 
+This project will provide young European leaders in politics, 
+government, business, labor and the media the opportunity to 
+examine current political, economic, and social issues at the 
+federal, state, and local levels in the United States.  The 
+visitors will explore the historic and constitutional bases of 
+U.S. foreign and domestic policy.  They will gain a deeper 
+understanding of the United States through exposure to the 
+range of opinion influencing U.S. policy. 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Regional 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 10/22/2005 
+SESSION-DATE: 10/24/2005 
+RETURN-POST: 11/12/2005 
+NO-OF-PART: 4 
+RANK-ORDER: 2 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: RP 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Economics (General) 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Pierre 
+M-NAME: 
+L-NAME: Kanuty 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Parti Socialiste 
+M-ADDR2: 10, rue de Solferino 
+M-ADDR3: 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75007 
+M-ZIP: 
+M-PHONE: + (33) 1.45.56.76.00 
+M-FAX: 
+M-EMAIL: pierre.kanuty@parti-socialiste.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 02/27/1972 
+MAR-STAT: U 
+BIRTH-CITY: Paris 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+In charge of Public Relations and Webjournalist, Socialist 
+Party, since 2002 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Member of the executive committee of the Paris section of the 
+Socialist Party, since 2003 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1999-2000 - Webjournalist at "La Ligue de l'Enseignement" 
+1998-2000 - Member of the Socialist Youth Movement Executive 
+Committee 
+1994-1999 - Member of the "Manifeste contre le Front National" 
+National Committee (against racism) 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+2003 - Slovenia (Congress) 
+2000 - Andalusia (Tourism) 
+1994 - London (Tourism) 
+1988 - Caracas (Tourism) 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1999 - Masters degree in public relations, politics and local 
+administration; Master's paper on the electronic communication 
+of the Ile-de-France region 
+1998 - A four-year degree in political studies at the 
+university of Paris I - Pantheon Sorbonne; Research paper on 
+U.S. affirmative action 
+1996 - Bachelor's degree in history at the university of Paris 
+IV-Sorbonne; Research paper on the first months of Clinton 
+presidency 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START OTHER-LANGS: 
+OTHER-LANG: Spanish 
+OTHER-LANG-ID: QB 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Since French political parties have recently begun attempting 
+to push more minority candidates to the forefront, Mr. 
+Kanuty's experience witnessing race relations in the U.S. and 
+talking with Americans about such topics would be invaluable 
+in demonstrating the extent of similar successes that can be 
+had in France as well as the actions that should be avoided. 
+Mr. Kanuty is in, and likely will be more prominent in, 
+positions where he can disseminate his ideas and what he has 
+learned. If the opportunity is taken now, he can be a great 
+aid in helping others in France, especially among the minority 
+and politically left communities, to have a greater 
+appreciation for U.S. policy and goals. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Sylvie Vacheret 
+START MEMO NOMINATING-JUSTIFICATION: 
+Pierre Kanuty has all the ideal characteristics of a candidate 
+for this program. He is young, an ethnic minority, an expert 
+in the field of International Relations, and holds a prominent 
+position in the Socialist Party. Mr. Kanuty has shown an 
+interest in politics since his university years when he 
+concentrated his studies on history, political science, and 
+communication in politics. As part of his research during this 
+time, he wrote one of his papers on the Affirmative Action 
+program in the United States and another on the early years of 
+the Clinton presidency. Afterwards, he lost no time putting 
+what he had learned at the university to good use and, in 
+1998, he entered into the executive bureau of the Movement of 
+Young Socialists. In 2002, he was able to use this experience 
+to obtain a job involving greater responsibilities within the 
+Socialist Party.  In his current position, he is charged with 
+making the goals and ideologies of the Socialist Party 
+understandable to others by editing, on the internet, 
+documents and papers that explain the party's official stance 
+on important issues. Due to his background and specialization, 
+he focuses especially on those documents dealing with foreign 
+policy issues. 
+Mr. Kanuty is a rising star in the Socialist Party and is 
+currently their webmaster and communications expert for 
+subjects dealing with international relations. It is expected 
+that his experience in these positions, combined with his 
+strong qualifications, will translate into his becoming a 
+member of a ministerial cabinet or even a European deputy 
+should the Socialists regain power. Even if they do not come 
+to hold the primary position in French politics, Mr. Kanuty, 
+due to his aforementioned skills as well as his close ties to 
+Dominique Strauss-Kahn and the former Minister for European 
+Affairs, Pierre Moscovici, will become a leading member of the 
+party and someone capable of influencing party position. His 
+participation in an IV Program in the United States could have 
+the effect both of making him more understanding of U.S. 
+policy, as well as to some extent influencing his party as a 
+whole either via his web-based work or his almost certain 
+future advancements. 
+Being part of an IV Program in the U.S. would lead to Pierre 
+Kanuty's better understanding of U.S. foreign policy, thereby 
+impacting his work in the Socialist Party. This is important 
+because the political left in France is not traditionally very 
+sympathetic to U.S. policy and the more they are offered 
+opportunities to personally interact with the United States, 
+the more understanding they may become. Furthermore, as a 
+minority candidate, his participation in a program in the U.S. 
+could broaden his knowledge of, and give him some practical 
+experience with, the American approach to race relations. 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: PA - U.S. Embassy, Paris 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 539 
+PERSON-ID: 438 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Bruno 
+M-NAME: 
+L-NAME: Erhard 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: UDF 
+M-ADDR2: 133 bis, rue de l'Universite 
+M-ADDR3: 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75007 
+M-ZIP: 
+M-PHONE: + (33) 1.53.59.20.13 
+M-FAX: + (33) 1.53.59.20.36 
+M-EMAIL: b.erhard@udf.org 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 09/07/1968 
+MAR-STAT: S 
+BIRTH-CITY: Strasbourg 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Chief of Staff of Francois Bayrou, since July 2004 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+In charge of international affairs for the UDF Political 
+Party, since July 2004 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+2000-2004 - Executive Director, Montaigne Institute (think 
+tank) 
+2000-2004 - Chief of Staff of Claude Bebear (founder of AXA 
+insurance group and president of Montaigne Institute) 
+1993-1997 - Personal Assistant to Sir James Goldsmith 
+1994-1999 - Deputy Secretary General of a political group in 
+the European Parliament 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+December 2003 - San Francisco and Chicago, 8 days part of the 
+program of the "Institut des Hautes Etudes de l'Entreprise" 
+November 2003 - Washington and New York, 8 days tour of think 
+tanks 
+September 2003 - Washington, 5 days Young Leaders Program of 
+the French-American Foundation 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+1995-1997 - London, work with Sir James Goldsmith 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1993 - D.E.A. (one-year post-graduate degree) in European law, 
+University of Paris II (Assas) 
+1993 - D.E.A. (one-year post-graduate degree) in Comparative 
+law, University of Paris I 
+1990 - Degree in Political Science, Institute of Political 
+Studies of Bordeaux 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Selected for the Young Leaders Program of the French-American 
+Foundation (2003-2004) 
+Participant to the "Remarque Forum" (New York University - 
+2003-2004) 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+2002 - 2003 
+"Comment ameliorer le travail parlementaire", Institut 
+Montaigne 
+"Europe Presence", Institut Montaigne 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 3 
+ENGL-SPEAK: 3 
+ENGL-COMP: 3 
+START MEMO NOM-POST-OBJ: 
+In his capacity as the chief of the UDF party's foreign 
+relations committee, nominee is a key player in determining 
+the positions taken by the party and party leader Francois 
+Bayrou on U.S. issues.  (Bayrou, incidentally, is a perennial 
+contender for the presidency and, though the leader of a 
+smaller party, he enjoys considerable credibility among the 
+public at large.)  In this time of widespread French public 
+disapproval of the U.S., it is particularly important that 
+those who shape political parties' positions on the U.S. 
+understand well both the goals and the making of U.S. foreign 
+policy.  Providing for a political party's better 
+understanding of U.S. foreign policy can have a multiplier 
+effect on the French public's understanding of the U.S. -- 
+which is a key MPP Public Affairs objective. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: William Owen, Marie-Claude Dumay 
+START MEMO NOMINATING-JUSTIFICATION: 
+Nominee is among the rising stars of the UDF party, a 
+centrist, Europe-focused party likely to benefit from deep 
+divisions on the right (UMP) and lack of strong leadership on 
+the left (PS).  Mr. Erhard has the confidence of party leader 
+Francois Bayrou, who recently chose Erhard -- at the young age 
+of 34 - to act both as Bayrou's Chief of Staff and as chairman 
+the party's foreign affairs committee, a position that brings 
+with it a seat on the party's executive committee.  It is 
+clearly a U.S. interest that those with policy-development 
+responsibilities, in centrist political parties focused on 
+supporting continued European integrations (like the UDF), 
+have a good understanding of the U.S. and the reasons for our 
+foreign policy positions. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: POL - U.S. Embassy, Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 540 
+PERSON-ID: 439 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Manuel 
+M-NAME: 
+L-NAME: Martinez 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: No 
+M-ADDR1: Hermes 
+M-ADDR2: 24, rue du Faubourg Saint-Honore 
+M-ADDR3: 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75008 
+M-ZIP: 
+M-PHONE: + (33) 1.40.17.48.45 
+M-FAX: + (33) 1.40.17.47.27 
+M-EMAIL: manuel.martinez@hermes.com 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 06/30/1969 
+MAR-STAT: M 
+BIRTH-CITY: Montreuil-sous-Bois 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+City Counselor of Montreuil, since June 1995 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Deputy Mayor of Montreuil, in charge of the inter-municipal 
+economic development, since 1998 
+Member of the General Council of Seine-Saint-Denis Department, 
+since March 2004 
+Member of the Socialist Party, since 1992 
+Human Resources Director, Hermes International Paris, since 
+July 2002 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1999-2002 - Personnel and Communication Manager, United 
+Biscuits (BN, Delacre, Verkade, ..) Paris, Nantes and Lille 
+1997-1999 - Managing Consultant in the Human Resources 
+Department, Gemini Consulting, Paris 
+1995-1997 - Business Development Manager, Lotus Development 
+(IBM), Paris 
+1993-1995 - Senior Consultant, Andersen Consulting (Arthur 
+Andersen & Cie), Paris 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+1997 - Florida, 2 weeks tourism 
+1995 - California, 3 weeks tourism 
+1994 - Illinois, 2 weeks training 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1994 - Two weeks in Saint Charles, ILL, at Andersen Consulting 
+training center 
+1987-1991 - CESEM (Groupe Ecole Superieure de Commerce de 
+Reims)-Reims Business School, specialization in marketing, 
+international finance and personnel management 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+June 1994 - Co-author of a handbook on marketing (Editions 
+d'Organisation) 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 3 
+ENGL-SPEAK: 3 
+ENGL-COMP: 3 
+START OTHER-LANGS: 
+OTHER-LANG: Spanish 
+OTHER-LANG-ID: QB 
+READ: 5 
+SPEAK: 5 
+COMP: 5 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+We would like Mr. Martinez to begin to further understand the 
+fundamental pressures and the checks and balances inherent in 
+democracy as it is practiced in the U.S.  We want him to 
+experience first-hand the vitality of US civic life, the role 
+of local associations, and the relationships between various 
+ethnic communities in order to understand the way 
+representative government in the U.S. differs from France. We 
+would also like him to develop a greater appreciation for the 
+benefits of public-private partnerships in economic 
+development (less governmental intervention and more reliance 
+on private initiatives). Fundamentally, we think that in the 
+future when he will obtain more influential elected positions, 
+he will be a more effective partner for U.S. leaders and be 
+more open to American investment, if he understands us better. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Manuel Martinez could be part of a European program for young 
+leaders, as his interests are quite broad, ranging from 
+democracy to education, health issues, immigration and 
+housing. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Sylvie Vacheret 
+START MEMO NOMINATING-JUSTIFICATION: 
+At the age of 35, Manuel Martinez has already had a successful 
+professional career in business and politics. As Director of 
+Human resources at Hermes, a prestigious and well-known luxury 
+firm, he has earned a position of great responsibility in a 
+major company where he directly supervises 600 people and 
+indirectly oversees 2400 people worldwide. In addition to his 
+business savvy, Manuel Martinez has also shown a strong 
+interest in politics since his teenage years. In his early 
+twenties he joined the Socialist Party, become an elected 
+municipal official at 26, and a deputy mayor of Montreuil, a 
+Parisian suburb, at 29. In the 2004 elections, he defeated the 
+Communist candidate to be elected to the General Council of 
+Seine-Saint Denis department in a district where the Communist 
+Party has never lost. In addition to this new role, he 
+continues on as Deputy Mayor of Montreuil: the third largest 
+town in the Paris suburbs (90,000 inhabitants) with a large 
+immigrant population and a long industrial history. Although 
+his town is changing and now attracts more service-oriented 
+industries and more middle-class inhabitants, it still has 
+more than 2,800 firms employing 37,500 people. As a result of 
+his educational and professional background, Manuel Martinez 
+purposely chose to be active in the economic development of 
+his hometown. 
+Manuel Martinez aims to be the next mayor of Montreuil in the 
+upcoming 2008 elections. The Socialist Party has a very real 
+chance of winning this time since the town is becoming less 
+industrial, the Communist Party is losing credibility, and the 
+current Communist mayor has held this office for what many 
+consider to have been far too long. He will also likely be the 
+substitute (suppleant) of the runner to the National Assembly. 
+In the General Council of Seine-Saint-Denis, a Communist Party 
+stronghold, the Socialists also hope to elect more officials 
+in the coming years which will means more influential high- 
+level positions. If these scenarios do play out, Manuel 
+Martinez could reach one of the top positions in the Assembly 
+and be very influential in his party. 
+Manuel Martinez's previous travels to the United States were 
+only for brief periods of time as a tourist or a student 
+developing his business skills. It would be advantageous to 
+send him at this juncture where he, a future French leader, 
+could discover America's political system, its economic 
+vitality, and its melting pot culture and history. He would be 
+able to draw clear connections with his town of Montreuil and 
+its immigrant heritage and in the process develop a clearer 
+understanding of and appreciation for American policy. This is 
+something he could take home and share with his French and 
+immigrant neighbors and as a leader within his party. 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: PA - U.S. Embassy, Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: ELEO 
+NOMINEE-ID: 541 
+PERSON-ID: 440 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: E 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Guillaume 
+M-NAME: 
+L-NAME: Ragonnaud 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: No 
+M-ADDR1: Federation Nationale des Syndicats 
+M-ADDR2: d'Exploitants Agricoles (FNSEA) 
+M-ADDR3: 11, rue de la Baume 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75008 
+M-ZIP: 
+M-PHONE: + (33) 1.53.83.47.02 
+M-FAX: + (33) 1.53.83.48.30 
+M-EMAIL: guillaume.ragonnaud@fnsea.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 05/07/1978 
+MAR-STAT: S 
+BIRTH-CITY: Valencia 
+BIRTH-CNTRY: Spain 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Project Manager in the office of economic and international 
+affairs, FNSEA (largest French farmer organization) - since 
+2003 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+July-October 2003 - Internship at BNP-Paribas Bank, risk 
+management bank, in charge of risk studies for the food 
+industry 
+March-September 2001 - Internship at GEVES (French planting 
+seed organization) on biotech issues 
+July-August 2000 - Internship at Dow Agroscience Spain for 
+seeds studies 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Spain (Valencia and Madrid) - 1978-79, 1993-96 
+Germany (Freeburg) - 1980-88 
+Morocco (Casablanca) - 1988-90 
+: Mr. Ragonnaud's father was a professor in French overseas 
+colleges 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+2001-2003 - French Institute of Political and Economic 
+Studies, post-graduate university degree in Economical Science 
+1998-2001 - Paris University in Agronomy, master of science in 
+Agriculture and Economics 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+July 2002 - Perspectives Agricoles (monthly publication of the 
+French grain industry): article on genotypic interactions in 
+protein peas 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START OTHER-LANGS: 
+OTHER-LANG: Spanish 
+OTHER-LANG-ID: QB 
+READ: 5 
+SPEAK: 5 
+COMP: 5 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: German 
+OTHER-LANG-ID: GM 
+READ: 2 
+SPEAK: 2 
+COMP: 2 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: Italian 
+OTHER-LANG-ID: JT 
+READ: 2 
+SPEAK: 2 
+COMP: 2 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Marie-Cecile Henard 
+START MEMO NOMINATING-JUSTIFICATION: 
+Guillaume Ragonnaud is a young and bright person with a strong 
+expertise in general farm policy and regulations specific to 
+biotechnology, food safety and renewable energies.  With his 
+education in agriculture, economics and political science, and 
+his first professional experience in the largest French 
+farmers' union, he is expected to become a highly influential 
+advisor to French leaders in agriculture. As he has never been 
+to the United States, the International Visitor Program would 
+be a unique opportunity to present him USG positions on a 
+number of issues. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: AGR - U.S. Embassy, Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 542 
+PERSON-ID: 441 
+BIRTH-CNTRY-ID: SP 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

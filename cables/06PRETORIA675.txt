@@ -1,0 +1,130 @@
+06PRETORIA675
+SOUTH AFRICA: SPECTRUM MANAGEMENT DEMARCHE RESPONSE
+Thu Feb 16 00:00:00 +0100 2006
+UNCLASSIFIED
+Embassy Pretoria
+VZCZCXYZ0013
+RR RUEHWEB
+
+DE RUEHSA #0675/01 0471254
+ZNR UUUUU ZZH
+R 161254Z FEB 06
+FM AMEMBASSY PRETORIA
+TO RUEHC/SECSTATE WASHDC 1613
+INFO RUEHBU/AMEMBASSY BUENOS AIRES 0186
+RUCPDC/DEPT OF COMMERCE WASHDCUNCLAS PRETORIA 000675 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPT OF COMMERCE FOR NTIA 
+STATE FOR EB/CIP/MA 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS SF
+SUBJECT: SOUTH AFRICA: SPECTRUM MANAGEMENT DEMARCHE RESPONSE 
+ 
+REF: 05 SECSTATE 225777 
+ 
+¶1. Per reftel questions, Woutjek Skowronski, General Manager 
+of Technology and Engineering and Dr. Tracy Cohen, Councilor, 
+both with the Independent Communications Authority of South 
+Africa (ICASA), provided the following responses. 
+ 
+¶2. Responsible Authority.  The responsible authority for 
+radio frequency management is ICASA, the independent 
+telecommunications and broadcasting regulator, which derives 
+its authority from the Telecommunications Act (1996) and 
+Broadcasting Laws (1994 and 1999).  ICASA is a statutory 
+body, established in terms of the ICASA Act (2000). 
+Currently, the Minister of Communications sets broad spectrum 
+management policy via legislation, and where necessary, 
+augmented by Ministerial Policy determinations, which must be 
+implemented by ICASA. Seven ICASA Councilors, appointed by 
+the President, take all regulatory decisions.  The Minister 
+of Communications is appointed by the President and is part 
+of the President's Cabinet. 
+ 
+These above laws are subject to pending legislation: The 
+Electronic Communications Bill (repealing telecommunications 
+and broadcasting law) and the ICASA Amendment Act.  The South 
+African Parliament passed both bills; they await the 
+President's signature, which will signify their commencement. 
+ The two Bills are inextricably linked by cross-references. 
+The ICASA Amendment Bill places more authority with the 
+Minister of Communications and effectively authorizes the 
+Minister, rather than the President, to appoint ICASA 
+councilors.  The pending legislation will not result in a 
+significant change in the powers of the Minister with regard 
+to spectrum policy formulation and ICASA,s role in 
+implementing spectrum management policy. 
+ 
+¶3. Assignment Process.  ICASA assigns spectrum on a 
+first-come, first-served basis.  There are no auctions, 
+lotteries, or comparative hearings.  The military manages its 
+own spectrum assignment within its own assigned bandwidth 
+assigned. 
+ 
+¶4. Licensing Regime.  ICASA awards licenses on an annual 
+basis for a specific service.  Licensees may renew their 
+licenses upon notification to ICASA. 
+ 
+¶5. License Privileges.  Licensees have no flexibility in 
+transferring spectrum rights to other parties.  Licensees may 
+not aggregate or subdivide licenses.  Licensees may not make 
+all or part of their spectrum available to other entities 
+based on geography or time, nor may licensees generally 
+accept payment in exchange for spectrum access.  An exception 
+is made for WiFi service providers which make their routers 
+available to individual retail users on a per minute or per 
+hour basis. 
+ 
+¶6. Spectrum Fees. The standard annual fee for spectrum users 
+is R770 ($128) per mHz for non-bulk users and R1540 ($256) 
+per mHz for bulk users such as the national telephone 
+operator, Telkom and the recently licensed second national 
+operator (SNO).  In addition, spectrum users in the 900 mHz 
+to 1800 mHz range, the so called 3-G (third generation) 
+spectrum, pay a one-time license fee of R5 million (i.e., 
+$83,333) as well as a percentage of revenue.  Access to this 
+category was granted through legislation.  Spectrum users in 
+this category include Telkom, the SNO and the three mobile 
+phone providers (Cell C, Vodacom, and MTN).  The only users 
+exempt from spectrum fees are those operating in the ISM band 
+2.4-2.5 MHz (industrial, scientific, and medical research 
+band). 
+ 
+¶7. Treatment of Government versus Commercial Users. 
+Government and non-commercial users are subject to the same 
+rules as commercial users as described in Paragraphs 2 
+through 6 above.  ICASA may waive spectrum fees for higher 
+purpose organizations, such as non-governmental organizations 
+which use spectrum for the greater public good. 
+ 
+¶8. Other Incentives.  ICASA did not identify other means to 
+encourage the more efficient use of spectrum. 
+ 
+¶9. Government Spectrum.  Paragraphs 2 through 7 above also 
+describe management of spectrum for government agencies. 
+ 
+¶10. In Country Contacts and Studies.  Discussion of ICASA's 
+spectrum management policies requires a formal meeting 
+request to the ICASA Chair, Mr. Paris Mashile, 
+telephone: ( 27 11 321 8202) pmashile1@icasa.org.za. 
+Clarification of the answers above may be directed to Mr. 
+Woutjek Skowronski, ICASA General Manager of Engineering and 
+Technology (Tel: (27)(11) 321-8328)wskowronski@icasa.org.za. 
+Postal address for 
+ICASA is Block A, Pinmill Farm, 164 Katherine Street, 
+Sandton, Private Bas X10002, Sandton, 2146, South Africa. 
+ICASA's website address is www.icasa.org.za.  Questions 
+regarding the Department of Communications' spectrum 
+management policies may be directed to Mr. Peter Zimeri, 
+Chief Director of Technology ( 27 12 427 8000). Postal 
+address for Department of Communications is Block C, iParioli 
+Office Park, 399 Duncan Street, Hatfield, Private Bag X860, 
+Pretoria 0001, South Africa.  Department of Communications 
+website is www.doc.gov.za. 
+ 
+TEITELBAUM

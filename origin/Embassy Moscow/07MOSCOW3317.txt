@@ -1,0 +1,102 @@
+07MOSCOW3317
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: NST
+Mon Jul 09 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHMO #3317 1900354
+ZNR UUUUU ZZH
+P 090354Z JUL 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1890
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 003317 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: NST 
+OMZ RESEARCH CENTER FOR EOM, MOSCOW, RUSSIA, LICENSE 
+NO. D367877 
+ 
+REFTEL: 1. USDOC 03328, 2. USDOC 03094 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, NST OMZ Research Center for EOM, Moscow, Russia. 
+The company is listed on BIS license application 
+D367877 as the ultimate consignee of four field 
+programmable gate arrays, model: AX2000-CQ352M. These 
+items are controlled for national security, missile 
+technology, nuclear non-proliferation and anti- 
+terrorism reasons under ECCN 3A001. The licensee is 
+Actel Corporation, 2061 Stierlin st., Mountain View, 
+CA 94043. 
+ 
+¶3. NOTE: ECO Moscow conducted PSV- D328969 with a 
+favorable recommendation for the same type of 
+commodity going to the Federal Space Agency for 
+incorporation into the Meteor-M satellite.  The 
+Meteor-M is a metrological satellite (detailed 
+information is available at the following NOAA 
+website: http://ceosplenary17.noaa.gov/roshydromet. 
+pdf). Also, post recently consulted with the Political 
+Military Section on a Blue Lantern check at the 
+Federal Space Agency, also recommended as favorable. 
+ 
+¶4. On July 5, 2007, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested post-shipment verification with NST OMZ 
+Research Center for Earth Operative Monitoring, 51, 
+bld 25, Dekabristov st., Moscow, Russia. The export 
+control team met with Sergey Kocherov, Master 
+Scientist and Dr. Victor Feygin, Deputy Director. 
+ 
+¶5. NST was founded in 1974 to produce satellites for 
+use in meteorology and geophysical survey purposes. 
+The organization is funded by the Russian Federal 
+Space Agency (Russian acronym ROSKOSMOS).  Recently 
+the organization launched new satellites for 
+geophysical research, "Resource DK" and "SECh-1M." 
+With each launch, NST produces a resource book in 
+Russian outlining the satellite and its capabilities. 
+NST makes these books available to interested parties. 
+ 
+¶6. The FPGAs in reftel were used in the production of 
+the information storage and transmission module of the 
+"Elekra-L" and "Meteor-M" satellites, due for launch 
+in 2008.  The satellites are in the final stages of 
+assembly, and all four FPGAs have been incorporated 
+into the appropriate modules.  The team was shown the 
+sealed module, and examined the technical documents 
+regarding the assembly of the module.  The satellites 
+will burn upon reentry after their usable life, which 
+is estimated at around 7 years. 
+ 
+¶7. The equipment is stored in the laboratory, which is 
+guarded by on-site security 24 hours a day.  When the 
+unit is to be transferred to the satellite fabrication 
+facility, NST technical specialists will escort it to 
+the final testing area and the satellite fabrication 
+facility.  Dr. Feygin will be personally responsible 
+for the project as chief constructor. 
+ 
+¶8. Recommendations: Post recommends NST OMZ Research 
+Center for Earth Operative Monitoring, Moscow, Russia 
+as reliable recipients of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

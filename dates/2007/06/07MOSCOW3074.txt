@@ -1,0 +1,150 @@
+07MOSCOW3074
+EXTRANCHECK: PRE-LICENSE CHECK: A) D368267
+Mon Jun 25 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHMO #3074/01 1761307
+ZNR UUUUU ZZH
+P 251307Z JUN 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1548
+RUEAORC/USCBP WASHDC
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS MOSCOW 003074 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: A) D368267 
+AND B) D371035 - JSC MIKRON 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, JSC 
+Mikron, Zelenograd, Russia. The company is listed on 
+BIS license application a) D368267 (Lam Research) and 
+b) D371035 (Axcelis) as the ultimate consignee of an 
+Alliance 9600 PTX Etch system (ECCN 3B001.c.1), an 
+Alliance 9400 Etch system (ECCN 3B001.c.1), an Exelan 
+HPT Etch System (ECCN 3B001.c.1), a High Energy 
+Implanter Model HE (ECCN 3B001.b.1), and a High 
+Current Implanter Model GSD Ultra (ECCN 3B001.b.2). 
+These items are controlled for national security and 
+anti-terrorism reasons under ECCN 3B001. The licensees 
+are Axcelis, 108 Cherry Hill Drive, Beverly MA 01915- 
+1088, and LAM Research, 4650 Cushing Parkway Fremont 
+CA 94538. 
+ 
+¶3. On June 7, 2007, Export Control Attache Donald 
+Pearce and Licensing Officer Brian Baker of Office of 
+Export Administration conducted a pre-license check at 
+the offices of Joint Stock Company Mikron (Mikron), 
+1st Zapadniy Proyezd #12, Zelenograd, Russia. The 
+export control team met with Andrey Golusko, Deputy 
+Head of Microelectronics Solutions, and Gennady 
+Krasnikov, General Director, and Alain Astier, Vice 
+President - Front-End Technology and Manufacturing 
+Group of STMicrolectronics. 
+ 
+¶4. Mikron is a producer of semiconductor products 
+targeted for the Commonwealth of Independent States 
+(CIS) and Southeast Asia markets.  Mikron, founded 15 
+years ago, is a subsidiary of Joint Stock Company 
+Sitronics. Sitronics owns 74% of Mikron stock, with 
+17% of the shares held by small shareholders and 100 
+legal entities, and the remaining 9% by the Federal 
+Real Estate Cadastre Agency (Russian acronym 
+Rosnedvizhimost). Sitronics, a telecom and IT 
+solutions provider, is a publicly traded company 
+listed on the London Stock Exchange.  Sitronics is 
+majority owned by Joint Stock Company Sistema, a 
+consumer services holding company.  Mikron employs 
+approximately 1500 at its Zelenograd headquarters and 
+a second facility in Voronezh.  About 600 of the staff 
+are engineers, with the remainder in administrative 
+and support positions. 
+ 
+¶5. Mikron designs and produces over 400 different 
+types of analog and digital integrated circuits (ICs), 
+including smart cards and radio-frequency 
+identification (RFID) products.  Mikron has two wafer 
+fabs with a combined average annual capacity of 
+600,000 4" wafers and 120,000 6" wafers.  Mikron also 
+has a smart-card production facility capable of 
+producing 280 million RFID cards and 60 million chip 
+modules annually.  Mikron currently produces the RFID 
+cards used in the Moscow Metropolitan Transport System 
+(Metro subway trains) and GSM cards for cellular 
+telephone providers MTS (Russia) and UMC (Ukraine). 
+ 
+¶6. The Axcelis and Lam Research equipment will be 
+utilized to give Mikron the ability to produce its own 
+memory chips for use in its smart cards.  Mikron has 
+partnered with ST Microelectronics of France (ST) for 
+transfer of a "copy-exact" process and manufacturing 
+technology for the production of Electrically Erasable 
+Programmable Read-Only Memory (EEPROM) circuits.  ST 
+will provide Mikron design expertise and access to its 
+network of suppliers.  Mikron will then provide access 
+to the Russian market for ST.  The package ST will 
+provide consists of tool specifications, facilities 
+and utilities specifications, process recipes and 
+training for Mikron engineers.  ST and Mikron hope to 
+have the clean rooms ready for tools by September, 
+2007 and are targeting their first chip starts for 
+December, 2007. This advance will allow the company to 
+produce smart cards completely in-house, drastically 
+reducing turnaround time and overall costs.  Mikron 
+currently receives the EEPROMS from ST in France. 
+ 
+¶7. Security at the facility is high due to the value 
+of the end products; specifically banking smart cards, 
+GSM chips and metro passes.  The system includes a 24- 
+hour a day, seven day a week security presence, as the 
+fabs are at work at all times.  An electronic system 
+ 
+monitors all entry and exit areas, and special "man- 
+trap" systems are employed in high-value areas such as 
+the smart-card production facility.  Access to all 
+areas is controlled by a proximity card system, which 
+also logs employee movements within the facility and 
+limits access to sensitive areas. 
+ 
+¶8. Mikron is not currently a Ministry of Defense 
+contractor, though it has supplied products to 
+companies that may have military contracts.  The 
+majority of items provided are power management ICs, 
+such as the ones used in the automotive industry.  In 
+Soviet times, Mikron produced voice scramblers for 
+military communications systems, but as the company 
+turned to civil applications after the fall of the 
+Soviet Union, these product lines were converted to 
+produce items of a commercial nature.  Today most 
+military hardware in Russia is produced by the Federal 
+State Unitary Enterprises, and most of the components 
+are either fabricated in-house or imported. There are 
+approximately 30 Russian enterprises with facilities 
+in Russia and Belarus currently producing ICs, which 
+may be involved in military contracting. 
+ 
+¶9. Recommendations: Post recommends JSC Mikron, 
+Zelenograd, Russia, as a reliable recipient of 
+sensitive U.S. origin commodities. It is requested 
+that post be notified of final disposition of the 
+application, and of any shipments for this 
+organization in order to conduct appropriate FCS 
+follow-up and statistical reporting. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

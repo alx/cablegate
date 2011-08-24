@@ -1,0 +1,305 @@
+08HONGKONG966
+EXTRANCHECK: PRE-LICENSE CHECK: FREE COMPONENTS
+Wed May 28 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0007
+RR RUEHWEB
+
+DE RUEHHK #0966/01 1490915
+ZNR UUUUU ZZH
+R 280915Z MAY 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 4967
+RHMFIUU/HQ BICE WASHINGTON DC
+RUEHBJ/AMEMBASSY BEIJING 2246UNCLAS HONG KONG 000966 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+BEIJING FOR FCS ECO JEANNETTE CHU 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: FREE COMPONENTS 
+ 
+REF: A) USDOC 02727 (2008) B) D395732 C) HK00843 (2008) D) HK 03094 
+(2007) E) HK 00001 (2008) F) HK02563 (2007) (G) HK 01953 (2005) H) 
+HK 00909 (2006) 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO), conducted 
+a combination pre-license check (PLC) and Post Shipment Verification 
+(PSV) of Free Components Co. Ltd., Unit 7401A/26 F, DMK-IN 
+Commercial Centre, Fo Dundai St., Mong Kok, Hong Kong (Free 
+Components).  The items in question for the PLC are 350 SRAM memory 
+arrays valued at USD 16,000 and which are that subject of BIS 
+license application D395732.  Additionally, the PSV concerns four 
+shipments of Actel A42MX36-1CQ208B integrated circuits that were 
+ordered by Free Components from Singapore company Tecnomic 
+Processors Pte. Ltd. and that are the discussed in further detail in 
+reftel C.  All of the items are classified under Export Control 
+Classification Number (ECCN) 3A001 and are controlled for national 
+security (NS) reasons.  Austin Semiconductor, Inc. of Austin, Texas 
+is the license applicant for the PLC and Tecnomic was the reexporter 
+in relation to the four additional PSV related shipments. 
+ 
+¶3.  A review of the Hong Kong Companies Registry reveals that Free 
+Components has been in existence since July 2006.  Its paid-up share 
+capital is the Hong Kong equivalent of USD 12. Its sole director is 
+listed as mainland Chinese national Hu, Yanhui, resident of Yin 
+Chuan City, Ningxia and mainland identification card holder with 
+number 640102198501091515.  Its sole shareholder is listed as 
+mainland national Chen, Yanjie of Shenzhen, mainland China.  The 
+registered address of Free Components, namely 2401A Park-In 
+Commercial Center, 56 Dundas Street, Hong Kong, is located at the 
+offices of SBC International (a company secretarial service). As 
+detailed further below, Free Components is affiliated with a range 
+of additional companies in Hong Kong and mainland China, many of 
+which are claim to be active in trading various military grade 
+integrated circuits and other military grade components. 
+ 
+¶4.  According to the web site of Free Components 
+(www.freeicforum.com), the company is one of the major stocking 
+distributors of electronic components in China.  The web site 
+further states that Free Components is expanding its focus on 
+hard-to-find and obsolete military, industrial or commercial grade 
+components.  The company states it also has several offices in China 
+including in Shenzhen, Beijing, Xian, Chengdu and Cixi besides its 
+Hong Kong office. 
+ 
+¶5.  A review of the Free Components web site reveals that it is not 
+located at the address provided in reftel A but rather at 2401A 
+Park-In Commercial Center, 56 Dundas Street, Mongkok (the registered 
+address noted above).  A Ms. Chan agreed to meet at a different 
+address, namely Room 503, Grand City Plaza, 1 Sai Lau Kok Road, Hong 
+Kong.  A review of the PSV related purchase orders obtained from 
+Tecnomic reveal an additional address in the Grand City Plaza, 
+namely Room 1702. 
+ 
+¶6.  On May 21, 2008, ECO and Commercial Assistant Carrie Chan 
+visited the company and met with Ms. Chan.  She had no business 
+cards to share with the ECO and stated that she was merely a clerk. 
+The office is located in a quiet office building.  There is no 
+reference to Free Components on the building directory or on the 
+door of the office.  It is a one-room office with a desk, phone and 
+a stack of boxes against one wall.  Ms. Chan appears to work alone 
+in the office although a sign apparently used when Ms. Chan is out 
+of the office (and laying on a table in the room) tells visitors to 
+visit room 1702 if room 503 is vacant. 
+ 
+¶7.  Ms. Chan stated that her office acts as the receiving point for 
+shipments received from abroad.  Upon receipt of packages, she 
+informs her principals in Shenzhen that the packages have arrived. 
+The Shenzhen office is responsible for receiving orders and payments 
+and sourcing products.  When payment is received from customers, the 
+Shenzhen office informs the customer and that customer typically 
+arrives at the offices of Free Components to pick up the items (over 
+ninety percent of all packages are handled in this way).  In other 
+cases, Free Components delivers the items to the customer, typically 
+by courier.  Ms. Chan claimed ignorance of customer names and 
+end-uses of the items Free Components receives.  She stated that the 
+Park-In Commercial Center address is the registered address of the 
+company. 
+ 
+¶8.  When asked about the specific transactions and the order in 
+question, Ms. Chan stated that neither she nor her superiors knew 
+anything about the order to Austin Semiconductor and had no further 
+information to provide on that issue.  As to the shipments from 
+ 
+ 
+ 
+Tecnomic, Ms. Chan stated that she only had one document relating to 
+the final disposition of those items.  That document (a copy of a 
+simple invoice) lists Feson Technology Limited as the buyer of two 
+of the Actel ICs.  No address is given on the document for this 
+company and it appears that the company picked up the items from 
+Free Components.  Ms. Chan had no further information to provide on 
+this company other than her belief that it is located in mainland 
+China.  No such company with that name could be found in the Hong 
+Kong Companies Registry.  As to the remaining shipments from 
+Tecnomic, Ms. Chan stated that all documents for those shipments had 
+been sent back to Shenzhen and that she had been unable to obtain 
+those from Shenzhen.  She went on to say that the files are 
+typically kept in a warehouse and then are unavailable.  This is 
+purportedly to keep sales agents from leaving the company with 
+customer names and contact details.  ECO did not find her answers on 
+this point to be credible.  No additional information on the final 
+disposition of these shipments was forthcoming. 
+ 
+¶9.  The conversation then turned to a range of Hong Kong and 
+mainland Chinese companies that appear to be related to Free 
+Components and which are themselves engaged in trading in 
+electronics components.  As noted below, many of those companies 
+claim to trade in military grade electronic components and some show 
+images of warships, fighter jets and missiles on their web sites.  A 
+listing of the companies follows as well as a short explanation of 
+their relationship to Free Components and to each other. 
+ 
+¶10.  Sur-Link Technology (H.K.) Limited (Sur-Link HK):  A review of 
+the Hong Kong Companies Registry reveals that Sur-Link HK has been 
+in existence since 2003.  It has paid-up share capital is the Hong 
+Kong equivalent of USD 1200. Its sole director is listed as mainland 
+Chinese national Chen, Renyi with mainland Chinese passport number 
+G05120674.  Chen, Renyi is also a director in Italy Fegour Electric 
+(International) Holdings Limited with Cen, Gengqiang who holds 
+mainland Chinese passport number G11990438.  Sur-Link HK's 
+registered address and actual premises are located in the same 
+building as Free Components (the Grand City Plaza Address) but on 
+the 17th floor.  Invoices relating to the PSV shipments list the 
+17th floor office of Sur-Link as the offices of Free Components.  A 
+review of Sur-Link's web site (www.surelink-ic.com) reveals that 
+this company's China affiliate office is located at the same address 
+in Shenzhen as Free Components (No. 4019 Shennanzhong Rd., Shenzhen 
+- an office building developed by China Aerospace Science and 
+Industry Group (CASIC)). It also states that Sur-Link HK is 
+expanding internationally including into Iran.  Ms. Chan confirmed 
+during the meeting that Sur-Link HK and other companies noted herein 
+are owned by a common group of owners.  Additionally, she stated 
+that she had heard that Sur-Link has an office in Dubai.  By 
+subsequent phone call the next day, Ms. Chan stated that the 
+companies were not related.  ECO notes that U.S. Company QP 
+Semiconductor (www.qpsemi.com) lists Sur-Link HK as its authorized 
+distributor/representative.  According to QP Semiconductor's web 
+site, it is a fabless semiconductor firm serving the military, 
+aerospace and high reliability industries. 
+ 
+¶11.  CTC International (Hong Kong) Limited (CTC HK):  A review of 
+the Hong Kong Companies Registry reveals that CTC HK has been in 
+existence since 2003.  Its paid-up share capital is the Hong Kong 
+equivalent of USD 250,000. Its directors are listed as mainland 
+Chinese national Cen, Chongping (also listed as Cen, Chong Ping) 
+with mainland passport number G03363416 and Hong Kong resident Chan, 
+Lee Na with Hong Kong identity card number K155636(3).  The 
+directors are also the company's shareholders.  Cen, Chongping is 
+also the director of H.K. Xing Hang Yuan Int'l Company Limited 
+(discussed below).  According to this company's web site, 
+(www.ctc-ic.com), the company is also able to source military grade 
+ICs from Intersil, IVG, Avago, Maxim, AD and others.  It claims a 
+Hong Kong and Shenzhen office.  The Shenzhen office is located at 
+the same address as the Shenzhen offices of Sur-Link and Free 
+Components. Ms. Chan confirmed during the meeting that CTC HK and 
+other companies noted herein are owned by a common group of owners. 
+By subsequent phone call the next day, Ms. Chan stated that the 
+companies were not related. 
+ 
+¶12.  H.K. Xing Hang Yuan Int'l Company Limited (HK XHY):  A review 
+of the Hong Kong Companies Registry reveals that HK XHY has been in 
+existence since 2000.  Its paid-up share capital is the Hong Kong 
+equivalent of USD 1,200. Its directors and shareholders are listed 
+as mainland Chinese national Cen, Chong Ping with mainland passport 
+number G03363416 (also a director in CTC HK) and mainland Chinese 
+national Chen, Yan Jie with mainland passport number G22619671. 
+Various web searches for this company linked back to the Free 
+Components web site.  On other web sites, the company claims to be a 
+ 
+ 
+ 
+supplier of military products for use in aviations, weapons and 
+shipping.  Ms. Chan confirmed during the meeting that HK XHY and 
+other companies noted herein are owned by a common group of owners. 
+By subsequent phone call the next day, Ms. Chan stated that the 
+companies were not related.  Some of the invoices from the Tecnomics 
+order list Free Components as the bill-to address while listing HK 
+XHY as the ship-to address.  HK XHY was the subject of a previous 
+unfavorable PSV discussed in reftel G (01953) and corresponding 
+administrative enforcement action against the Taiwanese reexporter 
+involved in that case. 
+ 
+¶13.  Other internet searches revealed an apparent link between Free 
+Components, CTC HK, HK XHY and Sur-link (and their mainland 
+counterparts) and a series of companies described in reftel D, 
+namely Hongtu Hangyan Electronic (HK) Co. and Ziheng International 
+Electronics Co. as well as affiliated companies in Shenzhen 
+including Shenzhen Hongtu Hangyang Technology Co. Ltd., Shenzhen 
+Xinghangyang Technology Co., Ltd., Shenzhen Star-Navi Technology Co. 
+and Beijing Hongtu Mingli Technology Trading Co. Ltd. The Shenzhen 
+addresses of these companies are located in the same building as 
+those of the companies listed above (Free Components, CTC HK, XHY HK 
+and Sure-Link HK) but on a different floor.  Web research suggests 
+that Shenzhen Star-Navi is actually the holding company for 
+companies in the Hongtu Hangyang group.  When asked about some of 
+these companies, Ms. Chan stated that she had heard of Ziheng but 
+had not done business with it. She stated that she had shipped 
+product to Hongtu Hangyang Technology Co. Ltd. although she was 
+unfamiliar with Beijing Hongtu Mingli. She stated that Shenzhen 
+Star-Navi Technology Co. was actually another English language name 
+for Xing Hang Yuan (referenced in the immediately preceding 
+paragraph). 
+ 
+¶14.  ECO further notes that the registered address of Free 
+Components (in the Park-In Commercial Center) is located at the 
+offices of SBC International (a company secretarial service). That 
+address is also the registered address of Victory Wave Holdings, the 
+subject of previous unfavorable PSVs referenced in reftels E and F 
+and likewise involving suspected diversion of national security 
+controlled items to mainland China.  In Reftel E, the representative 
+of Victory Wave stated that the particular items referenced in that 
+check (EAR99 items) were destined to Shenzhen Hongdu Industry Co. 
+(referenced above and apparently related to Free Components and the 
+other companies noted herein).  Other companies related to Victory 
+Wave (and referenced in reftel E including Exodus Microelectronics 
+Company Limited, Echelon Microsystems Limited and Omniway Technology 
+Limited) have been registered by SBC International in Hong Kong as 
+have Sur-Link HK, Italy Fegour (referenced in paragraph 10 above), 
+CTC HK, XHY HK, and Free Components.  As noted in reftel F, Victory 
+Wave is related to another Hong Kong company, namely Centre Bright 
+which was placed on the BIS Unverified List in light of its 
+problematic business practices (that PSV is detailed in reftel H). 
+ 
+ 
+¶15.  An initial review of Shippers Export Declarations (SEDs) 
+listing the address of Free Components and CTC HK (both in the Grand 
+City Plaza office building) reveals substantial shipments of 
+electronic components to the Grand City Plaza addresses noted above 
+(associated with Free Components and others) as well as additional 
+companies and individuals that have received shipments, namely Able 
+Components Co. Ltd., Ms. Cristy Chou and ARI International Co. Ltd. 
+Able Components is not listed in the Hong Kong Companies Registry. 
+ARI International Co. Ltd. is a new company registered in February 
+¶2008.  It has no paid up share capital.  Its sole director and 
+shareholder is mainland national Zhou, Lujun.  Its registered 
+address is also at SBC International, 2401A Park-In Commercial 
+Center, 56 Dundas Street, Hong Kong (as with Victory Wave, Free 
+Components and others).  An additional two companies, located on the 
+7th floor of the Grand City Plaza office building, are also in 
+receipt of various electronics related components.  They are Maxlink 
+Industries Ltd. and Seatech International. 
+ 
+¶16.  Recommendations:  ECO recommends that OEA conduct a thorough 
+review of all shipments to the various Hong Kong companies (and 
+related addresses) listed herein to determine whether controlled 
+commodities have been shipped to these companies as it is highly 
+likely that those commodities have been transshipped to mainland 
+China.  Also, ECO recommends that BIS consider conducting outreach 
+visits at exporters (including, especially, QP Semiconductor) that 
+have shipped items to these companies, particularly those that list 
+both a commercial and military production capability. (ECO note: 
+Subject to some limited exceptions, most commercial items that are 
+not controlled for export to China may be sold to virtually all 
+end-users in China). ECO further recommends that OEA consider a 
+ 
+ 
+ 
+review of shipments of controlled commodities to all of the Hong 
+Kong addresses of SBC International as ECO suspects that additional 
+procurement entities may be using SBC addresses as their business 
+premises (www.sbc.com.hk).  Additionally, ECO recommends that BIS 
+consider placing Free Components, CTC HK, Sur-Link HK, XHY HK, Able 
+Components Co. Ltd. and ARI International Company Limited on the 
+Unverified List (this is in addition to earlier recommendations that 
+other companies related to these companies be added to the 
+Unverified List). Finally, ECO recommends that BIS prepare commodity 
+classifications for the items involved in this PSV so that ECO may 
+approach the Hong Kong government to appraise it of potential 
+violations of HK law related to likely failure by the companies in 
+question to obtain required Hong Kong licenses. 
+ 
+Cunningham

@@ -1,0 +1,226 @@
+06ISTANBUL392
+NEW TURKISH WITHHOLDING TAX ROILS BROKERS AND
+Thu Mar 16 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Istanbul
+VZCZCXRO0970
+RR RUEHDA
+DE RUEHIT #0392/01 0751254
+ZNR UUUUU ZZH
+R 161254Z MAR 06
+FM AMCONSUL ISTANBUL
+TO RUEHC/SECSTATE WASHDC 4461
+INFO RUEHAK/AMEMBASSY ANKARA 4861
+RUEHDA/AMCONSUL ADANA 2201
+RUEATRS/DEPT OF TREASURY WASHDCUNCLAS SECTION 01 OF 03 ISTANBUL 000392 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+TREASURY FOR CPLANTIER 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN TU
+SUBJECT: NEW TURKISH WITHHOLDING TAX ROILS BROKERS AND 
+BANKS BUT HAS MINIMAL MARKET IMPACT 
+ 
+ 
+¶1. (SBU) Summary: Turkey's new 15 percent withholding tax on 
+capital gains and interest from government securities has had 
+little of the market impact that market players predicted 
+last year.  A number of analysts profess surprise at how 
+limited the impact has been, with some noting that the 
+Treasury wisely reduced its rollover ratio at the same time 
+that it introduced the tax, thereby minimizing its impact. 
+Interest rates on government debt have risen slightly in 
+recent weeks, most analysts ascribed the increase to the 
+impact of increasing rates in the U.S. and other developed 
+countries on flows to emerging markets.  The withholding 
+tax's impact on stock prices has also been minimal, with many 
+noting that the negative hit from the new tax has been more 
+than counterbalanced by gains resulting from the reduction in 
+Turkey's corporate tax rate from 30 to 20 percent.  Still, 
+the tax has had an important impact in several derivative 
+markets, most notably in that for American depository 
+receipts (ADRs) for Turkish companies.  Local custodians note 
+that because of uncertainty surrounding tax issues, new ADRs 
+are not being issued, and while existing ones continue to be 
+traded, they are not being cancelled or reissued.  Concerned 
+depositary institutions, including notably the Bank of New 
+York (BONY), which holds 70 percent of the local market, have 
+lobbied without success for the exclusion of ADRs from the 
+tax.  From a big picture policy perspective, the withholding 
+tax has considerable merit as it is part of a broader, 
+IMF-supported effort to tax all financial instruments 
+equally.  End Summary. 
+ 
+¶2. (SBU) A Controversial Measure: The new withholding tax 
+sparked extensive concern and opposition last year, with 
+leading local and international brokerages making the journey 
+to Ankara to argue that the measure could bring a sharp spike 
+in the interest rates Turkey pays on its government debt, as 
+investors took on board a new cost that would significantly 
+diminish the return they received on their investments.  In 
+the event, however, the new tax made its debut not with a 
+bang, but with a whimper, with an almost imperceptible impact 
+on Turkey's broad market indices.  Local brokerages we 
+surveyed (including Global, EFG Securities, EkspresInvest, 
+and Finansinvest) admit to being surprised by the low-key 
+reaction.  They attribute it to several factors, including a 
+wait-and-see attitude adopted by many investors in the first 
+months of the tax's implementation, and the fact that the 
+measure does not apply to bonds purchased before the tax's 
+entry into force on January 1.  Cem Akyurek at Global also 
+noted that the Treasury's decision to reduce the rollover 
+ratio on Turkish debt helped to minimize the impact.  Some 
+analysts believe, however, that the tax's full effect will 
+only be visible in 6-10 months, as more existing treasuries 
+expire and investors must select another investment vehicle. 
+Baturalp Candemir at EFG, notes that with the interest banks 
+pay on deposits matching (and in many cases exceeding) the 
+rates on treasury bills, more and more investors are opting 
+to take their money out of government bonds when their 
+existing holdings mature and put them in deposit accounts. 
+He attributes the slight uptick in rates at the end of 
+January and early February in part to this phenomenon, and 
+predicts that this trend will intensify. 
+ 
+¶3. (SBU) Localized Impact: Though the broad market impact of 
+the new tax has been limited, certain of its provisions have 
+severely roiled some market segments, including particularly 
+the market for American Depository Receipts (ADRs) of Turkish 
+companies.  That market has been frozen since the beginning 
+of the year, as the way in which Turkish tax authorities 
+apply the tax leaves the final purchaser of such an 
+instrument liable for tax on the capital gain over its entire 
+life when it is cancelled or reissued, potentially eclipsing 
+any capital gain he or she earned from it.  The Bank of New 
+York (BONY) has pursued this issue with the Turkish 
+Government without success, and warns that if the rules are 
+not reworked to permit the ADR market to function, BONY, 
+which controls 70 percent of that market in Turkey, may be 
+compelled to close its local office.  "We have lost our 
+entire revenue base," BONY's Istanbul Representatiave 
+Neslihan Tombul told us recently.  Tombul characterized her 
+meetings with government officials in Ankara as unproductive, 
+noting that officials there seem intent on maintaining an 
+approach to taxing these instruments that is out-of-step with 
+world practice.  Others who participated in the meetings note 
+that while the Ministry now understands the problem, it is 
+not inclined to correct it, as it believes it would be unfair 
+provide special treatment to one type of instrument.  They 
+note that local brokers have lined up on the other side of 
+the issue out of fear that exempting ADRs will shift 
+transaction volume out of the Istanbul Stock Exchange and 
+ 
+ISTANBUL 00000392  002 OF 003 
+ 
+ 
+overseas.  Tombul appealed for the Embassy to raise the issue 
+with the GOT, given its impact on BONY's bottom line. 
+ 
+¶4. (SBU) Swaps: Complicating the story is the fact that for 
+the time being at least, authorities are not applying the 
+withholding tax to swap contracts in countries such as the 
+Netherlands or the U.S. which have double taxation treaties 
+with Turkey.  Local brokers characterize this market as a 
+"gray area," which is neither completely legal or illegal.  A 
+number of them, however, have looked into the market and 
+decided that the risks are too great, as the custodian in the 
+Netherlands or other tax treaty country may be left with the 
+tax liability if, for instance, the transactions are 
+investigated and it is determined that the end beneficiary of 
+the swap was not a resident of the Netherlands who was 
+entitled to benefit from the tax treaty.  This specific issue 
+has also been raised with the U.S. Mission by concerned 
+investors, who note that Turkish authorities are considering 
+a regulation whereby they will make this exclusion explicit. 
+This, investors note, would prevent them from establishing 
+special purpose vehicles (SPVs) in Holland to benefit from 
+the treaty.  In seeking an explicit statement from Turkish 
+tax authorities that existence of such a vehicle conforms to 
+the requirements of the Dutch-Turkish tax treaty, Raymond 
+James Securities made the argument to us that such a 
+statement would level the playing field for all foreign 
+investors, and asked rhetorically, "where is the fairness in 
+permitting one group of international investors to invest in 
+Turkey without paying the withholding tax while another group 
+has to pay the tax?" 
+ 
+¶5. (SBU) Local brokers are not swayed by the argument, 
+however.  They prefer that all investments be taxed equally, 
+arguing that otherwise foreigners (including "mustachioed 
+foreigners"-- another term for Turkish capital held overseas) 
+will shift their investment activity offshore.  In this 
+regard, one analyst at a local brokerage told us, ADRs are a 
+much greater risk than swaps, since many funds are either 
+prohibited from engaging in the latter or have strict limits 
+on them.  Exclusion of ADRs from the tax, he argued, would 
+lead to a dramatic rise in their use, above and beyond the 40 
+companies that currently issue them. 
+ 
+¶6. (SBU) Treaty Violation?: Beyond these specialized issues, 
+some tax analysts suggest to us that the withholding tax is 
+in violation of the U.S.-Turkey bilateral tax treaty, full 
+stop, though they note that investors have been reluctant to 
+draw attention to themselves by pressing the point.  Umurcan 
+Gago, tax division manager at Pricewaterhouse Coopers, notes 
+that under the treaty American investors are subject to tax 
+only in their home jurisdiction so long as the following 
+three conditions apply: they held their assets for more than 
+a year, they sold them to a non-Turkish resident, or they 
+consisted of stocks or bonds that are quoted on a stock 
+exchange in Turkey.  Historically, however, he notes, the 
+Turkish Ministry of Finance has interpreted the conditions 
+more stringently, arguing that a stock or bond must be 
+registered, quoted and listed, and "actively traded" in order 
+to benefit.  Investors have been unhappy with this 
+stipulation since it was first introduced in the late 1990s. 
+The provision has become much more problematic since January 
+1, however, as investors no longer benefit from the tax 
+exempt status they enjoyed on assets such as government 
+securities.  In addition, the Finance Ministry has been 
+insistent that treasury bonds are not technically "quoted" on 
+an exchange, and hence cannot benefit from the "quotation 
+release." 
+ 
+¶7. (SBU) Though our financial market contacts are 
+understandably focused on the considerable and sometimes 
+unfavorable impact the new tax is having on their business, 
+the tax itself is part of a broader IMF-supported reform to 
+tax all financial instruments at the same rate.  In addition 
+to withholding at source in an attempt to maximize 
+compliance, the single rate was designed to get the 
+government out of the business of favoring one instrument 
+over another.  This change is particularly beneficial in 
+lessening the "crowding out" by government securities, since 
+until 2006 these securities were not taxed.  The change is 
+also likely to encourage the badly-needed deepening of the 
+banking sector, since bank deposits can now compete on a 
+level playing field with government securities. 
+ 
+¶8. (SBU) Comment: These exceedingly technical and arcane 
+issues are likely to keep investment professionals occupied 
+for quite some time to come.  While the macroeconomic impact 
+of the new tax has been minimal, in the face of the global 
+ 
+ISTANBUL 00000392  003 OF 003 
+ 
+ 
+flood of liquidity that continues to wash over Turkey, the 
+impact has been dramatic on some specific markets.  In 
+response to BONY's requests for Embassy intercession with the 
+GOT on the ADR issue, we have suggested that they first 
+pursue their efforts to secure support from ADR issuers such 
+as Turkcell, who also stand to be signficantly affected, as 
+well as from the local brokerage community, whose resistance 
+to ADRs appears to have stiffened the Ministry's back on the 
+issue.  To date, however, they have not been successful on 
+either front.  Local brokers remain staunchly opposed to 
+exempting ADRs, while issuing companies do not see the issue 
+in the same "life and death" terms as BONY, given that their 
+other investment vehicles are flourishing in Turkey's buoyant 
+markets.  End Comment. 
+JONES

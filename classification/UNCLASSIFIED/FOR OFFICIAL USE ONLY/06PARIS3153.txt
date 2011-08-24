@@ -1,0 +1,232 @@
+06PARIS3153
+FRANCE'S DIGITAL COPYRIGHT BILL: SENATE VOTES TO SOFTEN
+Fri May 12 00:00:00 +0200 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 PARIS 003153 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+DEPT FOR E, EB, EB/IPE, EUR/WE 
+DEPT PLS PASS USTR FOR JSANFORD/VESPINEL/RMEYERS 
+COMMERCE FOR SJACOBS, SWILSON 
+DOJ FOR CHARROP, FMARSHALL, RHESSE 
+COMMERCE PLEASE PASS USPTO 
+ 
+E.O. 12958: N/A 
+TAGS: KIPR ETRD PGOV FR
+SUBJECT:  FRANCE'S DIGITAL COPYRIGHT BILL: SENATE VOTES TO SOFTEN 
+INTEROPERABILITY BUT LOW PENALTIES REMAIN UNCHANGED 
+ 
+REF. PARIS 01847 
+ 
+¶1. This is an action request. See paragraph 13 
+ 
+¶2. (SBU)  SUMMARY.  The French Senate approved in the early hours of 
+May 11 the GOF draft law on digital copyright, in a format which 
+leaves unchanged the National Assembly's decriminalized penalty 
+regime, the principle (if not the requirement) of interoperability, 
+and the so-called "Vivendi Universal Amendment" criminalizing 
+peer-to-peer software publishing.  The draft law adopted by the 
+Senate largely takes the sting out of interoperability by laying out 
+general guidelines -- which no longer require Digital Rights 
+Management (DRM) vendors to divulge industrial secrets to their 
+competitors -- and creating a new independent authority to decide on 
+the scope of interoperability and the "right to the exception for 
+private copy." The newly adopted text, known as the Law on Author's 
+Rights and Related Rights in the Information Society, generally 
+abbreviated as DADVSI in French is a step that would bring France in 
+line with the 2001 EU Digital Copyright Directive.Over the next 
+month, the text will likely go to a reconciliation conference at the 
+end of the month, and be signed into law before the summer. END 
+SUMMARY. 
+ 
+Senate Approval And Next Steps 
+------------------------------ 
+¶3.  (SBU) The DADVSI draft law was adopted by the French upper house 
+on May 11, with 164 votes in favor, 128 against, and 37 abstentions. 
+ All the votes in favor came from representatives of the right of 
+center government UMP party.  The text will now go before a joint 
+committee of both houses of the French Parliament to be reconciled, 
+and for final approval under the current Government "fast-track" 
+emergency procedure, which requires only one reading by both houses. 
+ Upon completion of the legislative procedure, the draft bill will 
+be submitted to President Jacques Chirac for signature some time 
+before the summer.  France, which had tabled implementing 
+legislation in November 2003, is the last country, with Spain, to 
+transpose the EU Copyright Directive. 
+ 
+Exceptions to Exclusive Copyrights: 
+---------------------------------- 
+¶4.  (SBU) Exceptions to exclusive copyrights, for public libraries 
+and archives, will now have to fulfil the "three-step test," i.e. 
+that they be confined to special cases, not conflict with a normal 
+exploitation of the work, and not unreasonably prejudice the 
+legitimate interests of the right holder.   Education and research 
+have been added to the restrictive lists of exceptions in the 
+Senate, following the threat of a campaign of civil disobedience "in 
+any way they deemed useful and relevant" by over 2000 members of the 
+French scientific community. 
+ 
+¶5.  (SBU) The more traditonal exception for private copy, an 
+essential feature of French "droit d'auteur," which allows French 
+residents to freely make copies of works (except software) for their 
+private use (and that of their family and friends) has also been 
+refreshed. The number of copies allowed as part of that exception 
+will now be decided by a new high regulatory authority, in charge of 
+outlining the contours of the private copy exception as well as the 
+new interoperability principle.  The new authority will also work 
+hand-in-hand with the already existing Copyright Commission, which 
+sets the rates and conditions for the "tax on private copy" meant to 
+address the losses incurred by copyright holders. This tax is levied 
+on blank media (audio and video cassettes, CD, DVD, as well as 
+memory and hard drives in portable media players).  While most of 
+this tax goes to rightholders, a quarter of it, representing some 40 
+million euros a year (USD 50 million), is used to finance cultural 
+events and festivals throughout France. 
+ 
+Penalties Remain Unchanged 
+-------------------------- 
+¶6.  (SBU)  The system of "gradual sanctions", i.e. decriminalized 
+fines, has been confirmed by the Senate as "fair and balanced" -- 
+despite efforts by one Senator and former Minister of Trade and 
+Industry, Gerard Longuet, to switch from what he described as 
+"organized indifference" to stiffer sentences.  Culture Minister 
+Donnedieu de Vabres reiterated on this occasion that the purpose of 
+the bill was not to go after offenders but to ensure the protection 
+of works.  As a result, non-commercial downloads are subject to the 
+lowest fine in France's Penal Code (38 euros), the equivalent of a 
+traffic ticket,  instead of the original three years' imprisonment 
+and 300,000 euro fine proposed earlier by the GOF.  These heavy 
+penalities in the first GOF draft bill created a major outburst in 
+the National Assembly, eventually leading to the adoption of the 
+radical "global licence."  In the words of one Socialist and 
+technologically savvy member of the National Assembly, it would be 
+wrong "to describe the eight million people who have downloaded 
+music from the Internet as delinquents."  On May 11, the Culture 
+Minister announced that an "index" of all protected works would be 
+set up to enforce the three goals of the bill: respect of copyright, 
+private copy and interoperability. 
+ 
+Softening Interoperability 
+-------------------------- 
+¶7.  (SBU)  The Senate has proposed largely weakening the National 
+Assembly's radical ideas on the DRM technology.  Two amendments in 
+the National Assembly's version had stated that providers of DRM 
+systems should provide the necessary technical documentation to ANY 
+party needing it to ensure that interoperability, including the 
+source code.  This was interpreted as a direct attack on Apple's 
+iTunes platform and their iPod players. 
+ 
+¶8. (SBU)  In press statements, Apple said that the French copyright 
+law amounted to "state-sponsored piracy" and that it would pull its 
+business out of France. This declaration had an unfortunate impact. 
+It heartened claims by free-software advocates and politicians who 
+said that the opening up of DRM would benefit makers of DRM systems 
+by enabling them to prosecute competitors as facilitating piracy. 
+U.S. Secretary of Commerce Carlos Gutierrez's press comments saying 
+that while he needed to take a look at the legislation, he supported 
+protecting intellectual property rights were widely interpreted to 
+be supportive of Apple, and French pro-interoperability groups 
+reacted disapprovingly.  The Odebi League, a citizen's action group 
+defending the rights of Internet users, told Apple to "mind its 
+business and not meddle into the French legislative process" and 
+pointed out that "if Apple wishes to do business in France, it has 
+to respect the rights that the French enjoy."  Some senators said 
+they regretted that Apple did not appeal to them directly and 
+interpreted it as a lack of interest. 
+ 
+Creating A New Regulatory Authority 
+----------------------------------- 
+¶9.  (SBU)  The Senate bill proposes a new regulatory authority to 
+examine the question of private copies and interoperability.   This 
+new seven-member High Authority, modelled along the lines of 
+France's independent regulatory bodies in the electricity and gas 
+sectors (CREG), and in the telecoms and electronic commerce sector 
+(ARCEP), replaces the much-decried "college of mediators" initiated 
+by the National Assembly.  Its responsibilities, much like its 
+guidelines, have been left as open as possible to allow for the fast 
+pace of technological change.  At the same time,  prodded by 
+embattled Culture Minister Donnedieu de Vabre and Villepin 
+administration, the Senate Cultural Affairs Committee developed a 
+text designed to meet as little opposition as possible from the 
+National Assembly once in the joint committee for conciliation. 
+These considerations explain the current text's willingness to pass 
+the difficult decisions on to the new authority. 
+ 
+Previous Support For Interoperability and Copying 
+--------------------------------------------- ---- 
+¶10. (SBU)  Public discussion of DRM and its effect on the private 
+copy exception have been particularly vivid in France.  French 
+consumer associations initiated and often won court cases where DRM 
+restricted private copying -- a sacrosanct exception under French 
+copyright law. 
+Over the past three years, French consumer organizations have 
+initiated a number of court cases dealing with complaints of 
+consumers about CDs and DVDs that could not be copied and ripped 
+because of technical protection measures in place. In dealing with 
+the cases, French courts had developed the argument that the ability 
+to play a CD or a DVD on different devices constituted an essential 
+characteristic of a CD or DVD, and that producers of such devices 
+could be held liable for misleading the consumer in case of 
+incompatibilities.  This first step towards establishing the right 
+to interoperability was confirmed earlier this year, when a Paris 
+Court of Appeals concluded that DRMs must respect the private copy 
+exception. 
+ 
+NEXT STEPS 
+---------- 
+ 
+¶11. (SBU) Next steps include the drafting of implementing 
+regulations, which would also give the GOF (and stakeholders) an 
+opportunity to tweak the legislation, particularly regarding 
+penalties and sentencing.  This is expected to take place over the 
+summer.  The GOF will draft and implement these by decree. Other 
+possibilities for modification, according to lawyers, include a 
+constitutional challenge, which could come on any number of 
+articles. We understand that the Commission will eventually examine 
+all the EU member-states' transpositions of the directive at some 
+point over the next year.  Finally, the GOF notes that the law has a 
+"review clause" of 18 months, requiring the government to provide 
+the Parliament with an evaluation of its efficacy. 
+COMMENT AND ACTION REQUEST 
+-------------------------- 
+¶12.  (SBU).  France is one of the last countries to fulfil its 
+obligation to transpose this 2002 EU Directive.  In making only a 
+minimal effort, many Senators seemed to be acknowledging how quickly 
+technology had moved since then 2002, and during the debates, French 
+Parliamentarians underscored the irony of a belated implementation 
+of a directive which the EU Commission is reportedly already in the 
+process of re-examining.   In our conversations over the last weeks 
+where we raised our serious concerns over the quality and direction 
+of this controversial bill, French government officials and 
+observers had sought to reassure us and other stakeholders. We were 
+told (see reftels) that the Senate version would address many if not 
+most of industry's concerns. Senate legislative staff was thought 
+more pro-business, more technologically savvy, and less ideological. 
+Industry observers, many of whom where involved in a low-profile but 
+intense effort to reshape the bill with key amendments were 
+optimistic as well. Working with French industry allies, they 
+proposed close to 300 amendments. However, with the President and 
+Prime Minister under political siege, the government and the 
+majority party were in a hurry to get this complicated and 
+troublesome bill off their to-do list. By placing the bill on a 
+legislative fast-track, the government could be assured that the 
+conciliation conference would be over quickly. This political 
+pressure resulted in some improvements, such as interoperability, 
+where industry analysts are somewhat relieved at the results, but a 
+number of crucial elements remain unchanged, notably the lack of 
+deterrent penalties. 
+ 
+¶13. (SBU) COMMENT AND ACTION REQUEST.  The next six months will 
+provide some limited opportunities to fine-tune the bill, notably in 
+the drafting of implementing regulations, which the GOF can issue by 
+decree.  Other options would be to raise examination of the 
+legislation in light of other EU member state transpositions as well 
+as WIPO and TRIPS commitments.  Post would appreciate Washington's 
+cleared interagency guidance, including any legal analysis regarding 
+the legislation's impact.   End Comment. 
+ 
+Stapleton

@@ -1,0 +1,145 @@
+09HONGKONG379
+EXTRANCHECK: POST SHIPMENT VERIFICATION: EDAL ELECTRONICS
+Tue Mar 03 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0004
+RR RUEHWEB
+
+DE RUEHHK #0379/01 0620208
+ZNR UUUUU ZZH
+R 030208Z MAR 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 6998
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000379 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: EDAL ELECTRONICS 
+CO LTD 
+ 
+REF: A) USDOC 07199 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment-verification (PSV) at Edal Electronics Co. Ltd., No. 
+17, Wang Chiu Road 6/F, Continental Industrial Building, Hong Kong 
+(Edal). The items in question for this PSV are various 
+microprocessors exported to Edal on or about April 3, 2008.  On the 
+applicable shippers export declaration (SED), these items are 
+classified under export control classification number (ECCN) 3A001 
+and, if properly classified, would be controlled for national 
+security (NS) reasons.  Based on documentation provided by the 
+exporter, it appears that these items are of the class that may be 
+exported license free to Hong Kong, but would require a license for 
+export or reexport to mainland China because of their ability to 
+function at extreme temperatures. The exporter was Rochester 
+Electronics LLC of Newburyport, Massachusetts. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Edal has been in 
+existence since 1988.  Its paid up share capital is the Hong Kong 
+equivalent of USD 12,500.  The Hong Kong Companies Registry lists 
+four Hong Kong residents as directors, namely Chan, Tak Chung Terry 
+(HK ID G238949(4)), Chan, Tak Wah (HK ID E198464(4)), Chan, Tak Wing 
+(HK ID E750017(7)) and Tam, Moureen (HK ID G503096(9)).  Chan, Tak 
+Wah is also a director of Edal Investment Limited in Hong Kong. 
+ 
+¶4.  A review of the Edal's web site (www.edal.com.hk) reveals that 
+Edal specializes in the distribution of electronic components.  It 
+has offices in Shenzhen and Xian, China.  Related company, Telestar 
+Electronics Ltd. is located in the same building as Edal but uses 
+the same phone number contact as Edal (more on Telestar below). 
+ 
+¶5.  It took some time to arrange a meeting with Edal to discuss the 
+transaction.  It appears that the initial person involved in the 
+transaction had already left the company as had a second person 
+initially tasked to respond to the inquiry.  Eventually, on January 
+14, 2009, ECO visited Edal and met with Jean Yun, Senior Sales 
+Executive.  She stated that Edal is an electronic components 
+distributor that sources such products for further reexport to 
+mainland China and other countries.  According to Ms. Yun, the end 
+products for such components are televisions, video players and 
+other similar electronics products.  She stated that Edal is also a 
+distributor for such companies as NXP, Philips and Infineon . 
+ 
+¶6.  Ms. Yun further stated that Edal is a distributor for Rochester 
+Electronics which focuses on discontinued and obsolete products. 
+According to Ms. Yun, customers for Rochester products are in the 
+oil equipment repair and telecommunications business areas.  When 
+asked about Telestar, Ms. Yun stated that this company is related to 
+Edal (one family owns an interest in both companies).  Telestar is 
+engaged in a similar line of business as Edal.  Ms. Yun was unable 
+to clarify the full relationship between the two companies nor was 
+she able to clarify the underlying reason for two very similar 
+companies to be in apparent direct competition. 
+ 
+¶7.  Ms. Yun stated that Edal typically forwards order details to 
+Rochester and, if no license is required, Rochester fulfills the 
+order by shipping the goods to Edal.  However, she noted that is a 
+license is required (in instances where the item is destined to the 
+mainland, for example), Edal often cancels the order because it is 
+difficult to get a license and Edal typically loses this order as a 
+result.  Ms. Yun further stated that Rochester is aware of the final 
+destination of products based on end user statements that Edal and 
+Rochester require customers to complete for certain orders.  In this 
+instance, the Rochester end use document states that the end user is 
+a company in Taiwan, namely Tai Chung Electronics.  ECO has been 
+unable to find any trace of this company, whether in Hong Kong or 
+Taiwan. 
+ 
+¶8.  On February 8, 2009, ECO and Commercial Assistant Carrie Chan 
+visited the purported Hong Kong customer, G&L Co.  This company is a 
+sole proprietorship and trading company that has been in existence 
+since 1997.  The company headquarters consist of a one room office 
+in an older, out of the way, shopping center.  Mr. Ku, Oi Wang and 
+his wife jointly run the business.  According to Mr. Ku, they are a 
+general trading company that has been in existence for some time. 
+ECO notes that the company has no web presence.  Mr. Ku stated that 
+the company deals in a range of products.  Its customers come to it 
+by word of mouth. 
+ 
+¶9.  As to the specific transaction in question, Mr. Ku stated that 
+he is no longer able to reach the customer at the numbers provided 
+to him.  He further stated that no purchase order was received from 
+the company.  Rather, G&L generated a sales order based on a verbal 
+ 
+ 
+order from the customer.  Mr. Ku stated that for products where 
+there might be customs issues (later he clarified that this referred 
+to electronic components) G&L will not export the items but requires 
+that the buyer pick them up from his location or that they designate 
+a Hong Kong address for pickup. From the face of the documents and 
+from the conversation with Mr. Ku, it would seem that Mr. Ku 
+purchased roughly USD 15,000 of nonrefundable electronic components 
+from Edal on behalf of a buyer that he knew virtually nothing about. 
+ Mr. Ku stated that he had done a previous order and, as a result, 
+he was prepared to take the risk.  ECO did not find Mr. Ku's answers 
+to be credible and believes that Mr. Ku simply does not wish to 
+disclose his mainland China buyer. 
+ 
+¶10.  It appears to ECO that Edal was, in this instance, prepared to 
+sell controlled electronic components to a Hong Kong trading company 
+based on limited information about the customer and final end-use. 
+ECO believes it is also quite likely that G&L is aware of the final 
+destination of the items (that being, most likely, mainland China). 
+In fact, G&L's business model is likely to source controlled items 
+for mainland companies that are unwilling to order items directly in 
+situations where a license may be required.  Based on the 
+information noted above, ECO recommends a close review of past 
+shipments to Edal and G&L as well as Telestar.  ECO recommends 
+further outreach to Rochester Electronics to ascertain its knowledge 
+of this transaction and to encourage it to police its distributors 
+more closely.  ECO notes that Rochester shipments have been the 
+subject of multiple unfavorable end use checks implicating similar 
+products and similar procurement tactics.

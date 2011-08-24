@@ -1,0 +1,169 @@
+08PARIS156
+FRANCE AND IPR - OPPORTUNITIES FOR ENGAGEMENT
+Tue Jan 29 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXRO4246
+PP RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHFR #0156/01 0291755
+ZNR UUUUU ZZH
+P 291755Z JAN 08
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC PRIORITY 1821
+INFO RUCPDOC/USDOC WASHDC
+RUCNMEM/EU MEMBER STATES COLLECTIVEUNCLAS SECTION 01 OF 02 PARIS 000156 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+PASS CEA 
+PASS USTR: ATTN AMB VERONEAU 
+STATE FOR EB and EUR/WE 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EIPR ETRD PGOV FR
+SUBJECT: FRANCE AND IPR - OPPORTUNITIES FOR ENGAGEMENT 
+ 
+¶1. (SBU) Summary: As France prepares for its 2008 EU Presidency, 
+President Sarkozy is placing a high priority on Intellectual 
+Property Rights, pushing forward several initiatives that could 
+influence the global evolution of online IPR.  The Olivennes 
+Commission Report on digital piracy, commissioned by Sarkozy, made a 
+number of far-reaching recommendations on combatting counterfeiting 
+and protecting copyrights in the digital marketplace.  The French 
+government continues to be especially attentive to the interplay 
+between technology and culture and its consequences for France. 
+France's EU presidency provides an opportunity to ratchet up 
+engagement with France on our IPR issues.  End Summary. 
+ 
+"OLIVENNES" REFORMS 
+------------------- 
+ 
+¶2. (U) To address what he called the challenge of the "protection of 
+cultural works in the new networks of communication," President 
+Sarkozy in August 2007 appointed Denis Olivennes, CEO of the leading 
+French entertainment retailer FNAC, to head a committee to meet with 
+entertainment producers, copyright holders, and Internet service 
+providers (ISPs).  The Committee focused on three areas: fighting 
+internet piracy, developing a model for legal online purchases of 
+music and movies, and helping the French entertainment industry to 
+adapt to the digital marketplace.  The Olivennes committee completed 
+its work at the end of November and issued a series of proposals to 
+combat internet piracy and stimulate the growth of a legal digital 
+music and movie market. 
+ 
+¶3. (U) Olivennes proposed denying internet access to repeat 
+offenders who illegally download material.    The report calls for 
+the establishment of a new enforcement authority with the authority 
+to issues alerts, warnings and finally suspend or terminate internet 
+service for individuals suspected of illegal downloading.  This 
+authority would also have the power to sanction ISPs that fail to 
+comply with its injunctions.  According to Culture Minister 
+Christine Albanel, over "a billion music and movie files were 
+illegally shared in France in 2006." 
+ 
+¶4. (SBU) Olivennes has proven adept at mixing technology and culture 
+and bringing together disparate constituencies and his report has 
+received widespread support.  Sarkozy welcomed his proposals in a 
+speech calling for "a civilized internet."    The report is under 
+consideration in the French parliament with a number of the 
+recommendations, including new "filtering" rules that will impact 
+ISPs likely to enter into force in 2008 either by decree or new 
+legislation. 
+ 
+¶5. (U) Olivennes' recommendations have generated headlines globally, 
+with media reports terming his report "radical" and "revolutionary." 
+ John Kennedy, head of the association representing the recording 
+industry worldwide (IFPI), termed the Olivennes report "as the 
+single most important initiative yet to help win the war on online 
+piracy."  What is unprecedented is Olivennes' success in forging an 
+agreement between film and music rights holders and technology and 
+service providers, two groups that have not always seen eye-to-eye 
+on combating illegal downloads   However, the French consumer 
+organization, "UFC-Que Choisir," has criticized the proposal for 
+creating a new internet policeman, calling it a threat to civil 
+liberties. 
+ 
+DRM DEBATE: INTEROPERABILITY AND SOURCE CODES 
+--------------------------------------------- 
+¶6. (U) A Technical Measures Regulation Authority (TMRA), created in 
+April 2007 subsequent to passage of France's Digital Copyright law, 
+is now in place, though its future role, under any changes that may 
+flow form the Olivennes report, is not completely clear.  The TMRA 
+was established to regulate issues relating to the "mandated" 
+interoperability of digital rights management (DRM) systems, as well 
+as rights to copy original works for private use.  It has yet to 
+hear a single case. 
+ 
+¶7.  (SBU) The Business Software Alliance (BSA) has filed a formal 
+complaint with the European Commission in Brussels regarding the 
+French law.  According to BSA's complaint, the law, in particular 
+its potential for mandated interoperability, is inconsistent with 
+France's obligations under community rules.  Specifically, BSA 
+claims it impedes the free movement of services in contravention of 
+Article 49 of the EC Treaty and disadvantages the activities of 
+service providers established outside of France by imposing 
+restrictions on companies using DRMs that are both unjustified and 
+disproportionate.  BSA also comments that the French law reportedly 
+has not been formally "notified" to the EC, which contravenes EU 
+regulations.  Apple Inc has filed a similar complaint with the 
+French State Council, which reviews the legality and 
+constitutionality of French decrees and legislation.  The Council 
+has not yet taken any action on the complaint. 
+ 
+ 
+PARIS 00000156  002 OF 002 
+ 
+ 
+¶8.  (SBU) The GOF intends to complete the implementation of the 2006 
+Digital Copyright Law by issuing a decree related to the potential 
+requirement of disclosure of source codes to a government authority 
+(Article 15.)  We understand that the draft decree will be 
+circulated within the French government by the end of February and 
+then forwarded to the French State Council for approval. The decree 
+could impose source code disclosure obligations or new testing 
+requirements on technical protection measures used in DRM software. 
+ 
+The Year Ahead 
+- - - - - - -- 
+¶9. (SBU) The next twelve months provide important opportunities to 
+work with the French in advancing our IPR agenda, both bilaterally 
+and regarding IPR issues globally.  We are making some progress on 
+France's Digital Copyright law working with the newly established 
+TMRA ("Autorite de Regulation des Mesures Techniques") and with U.S. 
+industry to discuss means of protecting against spyware and other 
+French concerns without requiring the sharing of source codes. 
+ 
+¶10. (SBU) The French have expressed support for the Trans Atlantic 
+Economic Council (TEC) and are looking for headline issues to 
+address during the French EU presidency. Since France will be 
+hosting an EU-China summit during its Presidency, we should consider 
+initiating a TEC dialogue on key third country and strategic issues 
+to include IPR protection and trade. 
+ 
+¶11. (SBU) The French government remains very interested in the 
+proposed Anti-Counterfeit Trade Agreement (ACTA).  It agrees with 
+U.S. objectives but believes discussions thus far have been too 
+Brussels-oriented.  France also continues to advocate inclusion of 
+at least a limited number of developing nations in ACTA, as well as 
+some G-8 input into the process.  A more active dialogue with the 
+French on ACTA could help to ensure that we continue to make 
+progress on these negotiations during the French EU Presidency. 
+ 
+EMBASSY IPR CONFERENCE 
+---------------------- 
+¶12. (SBU) IPR - in particular how it relates to the internet and new 
+technologies - is a personal interest of President Sarkozy and a 
+high priority for his government.  French initiatives on IPR and the 
+digital economy have the potential to be precedent-setting globally, 
+with significant consequences for the U.S.  Given strong French 
+interest in IPR issues, and to encourage further dialogue between 
+U.S. and French government and business leaders, Embassy Paris is 
+planning to organize a one-day conference tentatively entitled: 
+"Counterfeit and Copyright in the Digital Age" in early June 2008. 
+Embassy Paris will coordinate with relevant Washington agencies and 
+the Department as we move forward on the conference. 
+ 
+PEKALA

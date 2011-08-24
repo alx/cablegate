@@ -1,0 +1,74 @@
+09MOSCOW326
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: FILUR ELECTRONIC
+Wed Feb 11 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHMO #0326 0420813
+ZNR UUUUU ZZH
+P 110813Z FEB 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1856
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DC
+RUEHKV/AMEMBASSY KYIV 0325UNCLAS MOSCOW 000326 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/M.HAMES/L.RITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+KYIV FOR FCS 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: FILUR ELECTRONIC 
+LTD, KIEV, UKRAINE, LICENSE NO. NLR 
+ 
+REFTEL: USDOC 0235 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a Post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Filur Electronic Ltd., 
+Kiev, Ukraine. The company is listed on BIS license application: NLR 
+as the ultimate consignee of thirty (30) integrated circuits, 16 
+lead, 3X3 and amplifiers, ten (10) GAAS PHEMT MMIC power amplifier 9 
+Q 11 GHZ, twenty-five (25) I.C. digital attenuator electronic 
+integrated circuit: n/unmounted, and twenty (20) I.C. DIV8 prescaler 
+electronic integrated circuit: n/unmounted, electronic devices and 
+components.  ECCN: 3A001.  These items are controlled for national 
+security (NA), missile technology (MT), nuclear non-proliferation 
+(NP) and anti-terrorism reasons (AT).  The exporter is Hittite 
+Microwave Corporation, 20 Alpha Road, Chelmsford, MA  01824. 
+ 
+¶3. On January 30, 2009, Export Control Attach Peter Liston and LES 
+Yuriy Prikhodko conducted the requested post-shipment verification 
+with Filur Electronic Ltd, 2A M Krivonosa Street, R 700, Kiev, 
+Ukraine.  The export control team met with Sergey Palatny, General 
+Director. 
+ 
+¶4. Filur Electronic Ltd was founded in 1993 as a distributor of 
+electronic components.  Filur has 20 employees.  FilurQs first 
+international contract was with Philips Corporation.  Filur started 
+importing dual-use electronic components in 1995.  Filur has 
+imported licensable electronic components from Honeywell Sensor 
+Controls, Siemens (under license from Germany), and Hittite 
+Microwave.  Filur has been offered military contact work but has 
+never imported components for them. 
+ 
+¶5. According to Sergey Palatny, the reftel commodities were imported 
+for sale on the local market only.  The commodities are consistent 
+with the subject business.  There are no indications of impropriety 
+and the consigneeQs answers were not evasive. 
+ 
+¶6. Recommendations: Post recommends Filur Electronic Ltd., Kiev, 
+Ukraine as reliable recipients of sensitive U.S. origin commodities. 
+ 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

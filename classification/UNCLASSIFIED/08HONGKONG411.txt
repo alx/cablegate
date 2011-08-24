@@ -1,0 +1,153 @@
+08HONGKONG411
+EXTRANCHECK: PRE-LICENSE CHECK: WALASEY LIMITED
+Thu Mar 06 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0316
+RR RUEHWEB
+
+DE RUEHHK #0411/01 0660140
+ZNR UUUUU ZZH
+R 060140Z MAR 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 4311
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000411 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: WALASEY LIMITED 
+ 
+REF: A) USDOC 00800 B) D390096 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO), conducted 
+a pre-license check at Walasey Limited, Room 2403A, 14/F, Nanyang 
+Plaza, 57 Hung To Road, Kwun Tong, Kowloon, Hong Kong (Walasey 
+Limited).  The purpose of the visit was to determine the suitability 
+of Walasey Limited be a recipient of sixty analog to digital 
+converters that are the subject of export license application 
+D390096.  The items (ECCN 3A001) are valued at USD $5,640 and are 
+controlled for national security (NS) reasons. The license applicant 
+is Kenet, Incorporated of Woburn, Massachusetts. 
+ 
+¶3.  A Hong Kong Companies Registry check of Walasey Limited reveals 
+that the company was registered in June 1993.  Hong Kong resident 
+Wu, Yuk Hung and mainland Chinese national Sheng, Shih Yun are 
+listed as directors.  The company's paid-up share capital is the 
+Hong Kong equivalent of approximately USD 80,000.  Further review of 
+the Hong Kong Companies Registry reveals that a number of Hong Kong 
+companies are related to Walasey Limited. 
+ 
+¶4.  Companies related to Walasey through director Sheng, Shih Yun: 
+Mr. Sheng is also a director in the following companies:  M2C 
+Electronic Technology Limited, Electrend Industrial Limited and 
+Walasey (China) Limited. 
+ 
+¶5.  Companies sharing an address with Walasey Limited:  Bright 
+Concept Trading Limited is collocated with Walasey. It has been in 
+existence since 2000 and its directors are Hong Kong resident Wong, 
+King Bor and mainland China national Zhang, Zhi Tong. 
+ 
+¶6.  Mr. Wong, King Bor, director of Bright Concept Trading Limited 
+is also a director in M2C (Hong Kong) Limited, M2C Electronic 
+Technology Limited (mentioned above), Walasey Technology Limited, 
+Well Time Technology Limited and Mega Bright International 
+Enterprise Limited. 
+ 
+¶7.  Mr. Zhu, Yan Hua (mainland Chinese passport number G00063728) is 
+a director of Walasey (China) Limited as well as M2C Electronic 
+Technology Limited, and Well Time Technology Limited (with Mr. Wong, 
+King Bor). 
+ 
+¶8.  In sum, Walasey Limited is related in one way or another to at 
+least the following additional companies in Hong Kong:  Walasey 
+(China) Limited, M2C Electronic Technology Limited, Well Time 
+Technology Limited, Mega Bright International Enterprise Limited, 
+M2C (Hong Kong) Limited and Electrend Industrial Limited. 
+ 
+¶9.  On February 14, 2008, the ECO and Commercial Assistant, Carrie 
+Chan visited Walasey Limited and met with Mr. Ricky Law, Deputy 
+General Manager of Walasey Technology Limited.  He stated that 
+Walasey Limited was established in 1994.  It is the distributor and 
+representative for certain brands of electronic components.  It is 
+primarily an electronic components reseller and has six offices in 
+mainland China.  The Hong Kong office acts as the contact window 
+between those offices and outside suppliers.  This is because many 
+of the company's employees in mainland China cannot speak English 
+well and it is also easier to get items through mainland China 
+customs via Hong Kong.  In effect, Walasey Limited acts as a 
+consolidator and customs broker for items being sent to customers in 
+mainland China.  Mr. Law stated that for some components, Walasey 
+Limited is the exclusive distributor, while for others it is one of 
+many (e.g., Kenet Inc.).  Walasey Limited's business focus is on 
+communications components (base stations for SCDMA) and consumer 
+applications (i.e., web cams and radio controlled clocks). 
+ 
+¶10.  As to the other related companies, Mr. Law provided the 
+following background at the meeting and by subsequent e-mail: 
+ 
+Walasey Technology Limited:  Registered but not active. 
+ 
+Bright Concept Trading Limited:  Owned by Mr. Zhang Zhi Tong (99.5 
+percent) and Mr. Wong, King Bor (0.5 percent).  According to Mr. 
+Law, this company is involved in the electronics trading business. 
+ 
+M2C (Hong Kong) Limited:  Registered but not active. 
+ 
+M2C Electronic Technology Limited:  This company is a developer, 
+producer and marketer of business information displays 
+(www.m2c-electronics.com).  During the February 14th visit, Mr. Law 
+showed the ECO and Commercial Assistant Chan the premises of this 
+company, located next door to the offices of Walasey Limited. 
+According to Mr. Law, this company produces and manages the content 
+display for nationwide information screens in various businesses. 
+The R and D for this company is conducted in Fuzhou, mainland 
+ 
+China. 
+ 
+Mega Bright International Enterprise Limited:  Electronics trading 
+company. 
+ 
+Well Time Technology Limited:  Electronics trading company. 
+ 
+Electrend Industrial Limited:  Electronics trading company. 
+ 
+¶11.  As to the specific items in question, Mr. Law stated that there 
+were two potential customers for these items.  The first is Jiangsu 
+Luyang Electronic Instrument Group Co., Ltd. (www.lvyang.com).  By 
+subsequent e-mail, Mr. Law provided the ECO with an internal order 
+form from Walasey's Shanghai office and filled out by the company 
+(located in Jiangsu province).  According to Mr. Law, this 
+customer's project (involving the production of oscilloscopes) is 
+still in the planning stages and they are only requesting a sample 
+of the product. 
+ 
+¶12.  According to Mr. Law, the second customer for the applicable 
+items is Nanjing Nanrui electronic Tech Co., located in Nanjing, 
+mainland China.  According to Mr. Law, this second customer will use 
+the items in the production of high resolution medical devices. 
+ 
+¶13.  The ECO found Mr. Law to be open and cooperative.  His 
+explanations appeared credible and generally consistent with 
+information independently obtained by the ECO.  At the same time, 
+ECO is concerned by the large number of collocated and interrelated 
+companies uncovered during this check and the lack of an apparent 
+clear delineation between these companies and their business 
+purposes.  Also, aside from the web site for Walasey and M2C, none 
+of the other companies appears to have any web presence (typical for 
+many electronics trading firms). 
+ 
+Cunningham

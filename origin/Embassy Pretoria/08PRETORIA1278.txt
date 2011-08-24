@@ -1,0 +1,302 @@
+08PRETORIA1278
+SEACOM ONLY UNDERSEA FIBER-OPTIC CABLE PROJECT SLATED TO BE
+Thu Jun 12 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Pretoria
+VZCZCXRO7189
+RR RUEHBZ RUEHDU RUEHGI RUEHJO RUEHMA RUEHMR RUEHPA RUEHRN RUEHTRO
+DE RUEHSA #1278/01 1640543
+ZNR UUUUU ZZH
+R 120543Z JUN 08
+FM AMEMBASSY PRETORIA
+TO RUEHC/SECSTATE WASHDC 4750
+RUCPDC/DEPT OF COMMERCE WASHDC
+RUCNSAD/SOUTHERN AF DEVELOPMENT COMMUNITY COLLECTIVE
+RUEHZO/AFRICAN UNION COLLECTIVE
+RUEHEG/AMEMBASSY CAIRO 0403
+RUEHNE/AMEMBASSY NEW DELHI 0491
+RUEHFR/AMEMBASSY PARIS 1365
+RUEHGV/USMISSION GENEVA 1259
+RUEHMRE/AMCONSUL MARSEILLE 0004
+RUEHBI/AMCONSUL MUMBAI 0056UNCLAS SECTION 01 OF 04 PRETORIA 001278 
+ 
+SENSITIVE BUT UNCLASSIFIED 
+SIPDIS 
+ 
+STATE PASS TO USTDA 
+STATE PASS TO OPIC 
+STATE PASS TO EXIM BANK 
+DEPT FOR EEB/BLAKEMAN 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS EINV EINT ETRD EAID BEXP TINT SF
+SUBJECT: SEACOM ONLY UNDERSEA FIBER-OPTIC CABLE PROJECT SLATED TO BE 
+ONLINE IN ADVANCE OF 2010 FIFA WORLD CUP 
+ 
+PRETORIA 00001278  001.2 OF 004 
+ 
+ 
+This cable contains company proprietary information. 
+ 
+¶1. (SBU) Summary. SEACOM representatives called on Ambassador Bost 
+on June 4 to discuss SEACOM's undersea cable project.  SEACOM 
+(developed by U.S. group Herakles Telecom) is based in Mauritius 
+with 75 percent African ownership and 25 percent U.S. ownership. 
+The project will provide the first true broadband connectivity for 
+countries on Africa's Eastern seaboard, which are presently 
+100-percent reliant on expensive satellite and fiber-optic cable 
+solutions.  Although several other undersea cable projects for the 
+East and West Coasts of Africa are currently under consideration, 
+SEACOM is the only one expected to be ready in time to meet FIFA 
+requirements for the 2010 World Cup (with a delivery date of June 
+2009).  However, at the highest level of the SAG there is still a 
+lack of understanding regarding SEACOM's ability to deliver adequate 
+bandwidth to meet FIFA requirements.  SEACOM seeks U.S. mission 
+support in increasing awareness among SAG policy makers and business 
+clients.  SEACOM's sister company, Sithe Global (a Blackstone Group 
+subsidiary), is also interested in the South African energy sector, 
+but is frustrated by the lengthy process for project uptake.  SEACOM 
+continues to face many challenges due to entrenched political 
+interests and preferential treatment of state-owned or backed 
+projects.  End Summary. 
+ 
+----------------- 
+Genesis of SEACOM 
+----------------- 
+ 
+¶2. (U) SEACOM President Brian Herlihy, Government Relations Vice 
+President Haskell Ward, and Telecom Specialist John Mathwasa 
+provided an overview of the SEACOM undersea cable project to 
+Ambassador Bost on June 4.  SEACOM is part of a group of companies 
+owned by New York City-based, private-equity group Blackstone. 
+Sithe Global, an independent power company, is the largest company 
+owned by Blackstone.  The group has been pursuing an undersea cable 
+project to increase bandwidth capacity in Africa for several years. 
+SEACOM President Brian Herlihy noted that the group initially 
+pursued the project through Sithe Global, one of its sister 
+companies.  USTDA supported the project through an Orientation Visit 
+in 2006 for East African Telecommunications Ministers where they met 
+with Sithe Global and interest in an East African cable project was 
+generated.  However, due to the political environment in South 
+Africa and the calls for majority local ownership, Blackstone 
+decided to create an African-based infrastructure company (SEACOM) 
+for the project instead. 
+ 
+¶3. (U) SEACOM is based in Mauritius with 75 percent African 
+ownership and 25 percent U.S. ownership.  Herakles Telecom, a New 
+York City-based international development group, owns this 25 
+percent stake.  (Note: The group initially had European partnership 
+agreements for an additional 25 percent, which were dropped when the 
+South African Minister of Communications publicly demanded 51 
+percent local ownership.)  The African ownership is now split 
+between East and Southern African investors: South Africa private 
+equity Venfin, 25 percent; South Africa private equity Shanduka 
+(Cyril Ramaphosa), 12.5 percent; South Africa private equity 
+Q(Cyril Ramaphosa), 12.5 percent; South Africa private equity 
+Convergence Partners (Andile Ngcaba), 12.5 percent; and East Africa 
+group IPS (owned by Aga Khan), 25 percent). 
+ 
+ 
+--------------------------------------------- ---------- 
+SEACOM to Provide Much Needed Bandwidth and Competition 
+--------------------------------------------- ---------- 
+ 
+¶4. (U) The project will provide the first access to true broadband 
+connectivity for countries on Africa's Eastern seaboard, which are 
+presently 100 percent reliant on expensive satellite and fiber-optic 
+cable solutions.  Once functional, SEACOM will provide 
+high-capacity, fiber-optic bandwidth along the East Coast of Africa 
+through South Africa, Mozambique, Madagascar, Tanzania, Kenya, 
+Djibouti, and Egypt and onwards to the rest of the world via landing 
+points in Marseille, France and Mumbai, India.  According to SEACOM, 
+the aim is to create a high-demand, low-cost model for bandwidth. 
+Africa is currently the least covered continent in terms of internet 
+content, and SEACOM representatives believe that increased bandwidth 
+capacity offered by their product will spur increased demand for 
+content. 
+ 
+PRETORIA 00001278  002.2 OF 004 
+ 
+ 
+ 
+ 
+¶5. (U) SEACOM will land in South Africa and connect with the 
+India-based, second-national-operator Neotel's land operations 
+providing much-needed competition to dominant, partially state-owned 
+Telkom.  In South Africa, Telkom has tightly controlled supply on 
+the existing fiber-optic system along Africa's west coast.  SEACOM 
+is gambling that demand for bandwidth will increase once prices 
+decrease drastically.  SEACOM's relationship with Neotel (and all 
+landing parties in Africa) is based on "open access", market-based 
+co-location, meaning that any customer can co-locate at no cost.  In 
+contrast, existing systems operate on a "club approach", meaning 
+access is granted at cost only to participating governments in the 
+countries that have a landing station and to a select group of 
+companies.  Other African projects have been struggling for years to 
+develop an "open access" model like the one SEACOM is pursuing.  The 
+SEACOM price structure will be significantly lower (about one-tenth 
+of current costs) than current satellite or fiber-optic pricing in 
+Africa. 
+ 
+¶6. (U) SEACOM will have the capacity to enable high-definition 
+television, internet protocol television, peer-to-peer networks, and 
+surging Internet demand.  SEACOM has already released its pricing 
+structure, and South African mobile-operators MTN and Vodacom have 
+indicated a desire to purchase bandwidth from SEACOM because of its 
+early availability, even though they would prefer to have their own 
+fiber-optic cables. 
+ 
+--------------------------------------- 
+SEACOM First to be Online for World Cup 
+--------------------------------------- 
+ 
+¶7. (U) Several other undersea cable projects for the East and West 
+Coasts of Africa are currently under consideration, but SEACOM is 
+the only one to have started construction.  Additionally, the other 
+African projects would need to get in line to secure construction 
+partners/contracts as demand is on the rise around the world for new 
+undersea cable projects.  According to Herlihy, SEACOM is already 
+first-in-line for construction with Tyco Telecommunications and 
+predicted that it would be first-to-market by at least a year. 
+(Note: U.S.-based Tyco Telecommunications manufactures all of the 
+major sub-systems required for undersea system construction from 
+cable and repeaters to dry plant, power feed equipment and network 
+management and marine installation.) 
+ 
+¶8. (U) SEACOM is expected to be fully operational by June 17, 2009, 
+well in advance of the FIFA 2010 World Cup.  Herlihy added that it 
+most likely will be the only new undersea cable project to be 
+operational in time to meet the FIFA high-definition broadcasting 
+requirements. 
+ 
+------------------------------------ 
+South African Government Misinformed 
+------------------------------------ 
+ 
+¶9. (U) Herlihy expressed concern that at the highest level of the 
+SAG there is still a lack of understanding regarding the 
+availability of adequate bandwidth to meet FIFA requirements. 
+State-owned infrastructure company Infraco has been stating that 
+there will be no broadband solution available in time for the 2010 
+World Cup.  Herlihy noted that there has been a lot of 
+QWorld Cup.  Herlihy noted that there has been a lot of 
+misinformation in the media on which projects will be available in 
+time for 2010.  He added that SAG officials do not recognize that 
+other undersea cable projects currently on the drawing board will 
+not be ready in time unless they are approved in the next few days 
+and construction begins shortly thereafter.  This is because there 
+is only limited global capacity to lay fiber-optic cable.  Failure 
+to secure cable-laying contracts in the next week means the signing 
+of such contracts will not be available in the foreseeable future. 
+ 
+ 
+¶10. (U) Minister of Communications Ivy Matsepe-Casaburri said, in 
+her budget speech on June 3, that the SAG has approved the building 
+of the African West Coast Cable undersea cable project (which is led 
+by state-owned broadband company Infraco) and gave support to 
+NEPAD's East Coast Uhuru Net project (which is led by Baharicom and 
+would install undersea cable around the entire African continent to 
+ 
+PRETORIA 00001278  003.2 OF 004 
+ 
+ 
+connect it to Brazil, Europe, the Middle East and India).  She 
+announced that both undersea cables should be ready by May 2010. 
+(Note: The FIFA World Cup begins on June 2010.)  This date is in 
+question as the industry for cable supply is very tight. 
+ 
+¶11. (U) Matsepe-Casaburri noted in her speech that infrastructure 
+provision for 2010 will involve an upgrade to Telkom's core network 
+to meet FIFA requirements and Telkom will implement the access 
+network from its exchanges into the stadiums.  Herlihy stated that 
+Telkom is hinting at partnership with SEACOM to provide the upgrade 
+solutions to meet the FIFA requirements.  Telkom wants its brand to 
+be a part of the 2010 solution and is recognizing the need to 
+partner with SEACOM.  SEACOM representatives noted that there is not 
+much additional capacity left on Telkom's Sat-3 system.  SEACOM will 
+connect with Neotel's land operations, but Neotel will not have 
+monopoly access to SEACOM's bandwidth, and opportunities exist for 
+Telkom and others to purchase directly from SEACOM. 
+ 
+--------------------------------- 
+Marketing and Advocacy Assistance 
+--------------------------------- 
+ 
+¶12. (U) SEACOM representatives sought U.S. Embassy assistance in 
+dispelling misinformation regarding undersea cable project timelines 
+and capacities.  Herlihy stated that SEACOM has focused thus far on 
+project management and finance and conceded that the company's 
+marketing needed to improve.  For example, SEACOM will provide 10 
+gigabits of bandwidth to South African universities at a minimal 
+administrative fee (at two percent of Telkom's current charges). 
+Currently, all of South Africa has a total bandwidth capacity of 17 
+gigabits.  However, this initiative has not received much press 
+attention outside of technical journals.  Ambassador Bost suggested 
+targeting radio audiences to educate consumers and noted that South 
+Africa was a good starting point to reach audiences throughout 
+southern Africa. 
+ 
+¶13. (U) SEACOM representatives said they could benefit from Embassy 
+efforts to better inform South African policy-makers about the 
+availability of bandwidth for 2010.  For example, they would like to 
+promote the SEACOM university bandwidth initiative with the 
+Department of Education.  The U.S. Embassy offered to organize a 
+media/business lunch in Johannesburg with the press and potential 
+customers and a dinner in Pretoria with government decision-makers 
+during Herlihy's next visit to South Africa during the month of 
+July. 
+ 
+¶14. (U) Ward added that while SEACOM is focused on just the undersea 
+cable infrastructure, there is a huge potential for U.S. content 
+providers to become involved once the cable lands in South Africa. 
+SEACOM representatives also noted that USTDA-supported feasibility 
+studies could benefit both U.S. businesses and the African 
+continent.  They advocated for studies exploring opportunities for 
+U.S. companies to assist with the installation and maintenance of 
+the land-based cable infrastructure into the interiors of the 
+African nations participating in SEACOM.  SEACOM would like the U.S. 
+Embassy to promote these types of partnership opportunities.  SEACOM 
+QEmbassy to promote these types of partnership opportunities.  SEACOM 
+also offered to provide low-cost bandwidth solutions for 
+USAID-supported projects. 
+ 
+-------------------------------------- 
+Group Also Interested in Energy Sector 
+-------------------------------------- 
+ 
+¶15. (SBU) Herlihy stated that Blackstone is also interested in 
+investing in energy projects via its energy arm Sithe Global, but it 
+is frustrated by the long wait time involved with getting projects 
+up and running in South Africa.  He noted that the Blackstone Group 
+is uniquely positioned to provide quick delivery of solutions to 
+address the current power shortage, but it seemed that state-owned 
+utility provider Eskom was "frozen" in its decision-making ability. 
+Herlihy also underscored the exchange-rate risk of the Rand-based 
+purchase agreements that the SAG would like to pursue. 
+ 
+¶16. (SBU) Ambassador Bost commented that the government was not as 
+desperate as it needed to be to address the power shortage.  The 
+SAG's inability to make decisions regarding energy projects 
+frustrates potential investors, especially given the high global 
+ 
+PRETORIA 00001278  004.2 OF 004 
+ 
+ 
+demand for energy projects.  Herlihy agreed that the SAG mindset is 
+that it has a budget surplus, so it can build whatever it wants 
+without taking into account global market conditions and the 
+scarcity of suppliers. 
+ 
+¶17. (U) Comment.  SEACOM's potential impact on South African 
+economic development and university education is great.  The SEACOM 
+undersea fiber-optic cable project will revolutionize the ICT sector 
+in the participating African nations.  The increased bandwidth 
+provided by the project will not only reduce ICT costs drastically, 
+but should improve access and drive innovations in content quality. 
+The project will also introduce U.S. ICT standards in Africa. 
+Finally, SEACOM's offer to provide subsidized access for 
+universities and USAID-funded projects should positively impact the 
+development issues the SAG is grappling with, such as skills 
+development.  End Comment. 
+ 
+BOST

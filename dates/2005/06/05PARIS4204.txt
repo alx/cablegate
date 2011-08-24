@@ -1,0 +1,233 @@
+05PARIS4204
+FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR ONE
+Wed Jun 15 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+150933Z Jun 05UNCLAS SECTION 01 OF 03 PARIS 004204 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR; 
+ANTHONY STAPLETON); EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR ONE 
+PRINCIPAL CANDIDATE FOR EURP - BIOTECHNOLOGY AND FOOD SAFETY 
+(JUNE 5 - 23, 2006) 
+ 
+REF: STATE 004520 
+ 
+POST WOULD LIKE TO NOMINATE ONE PRINCIPAL CANDIDATE FOR 
+SUBJECT PROGRAM: MRS. HELENE MORAUT-PESTANES. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 278 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - EURP Biotechnology and Food Safety 
+START MEMO PROJ-DESC: 
+This project is designed for government officials, 
+politicians, and academics actively developing or interpreting 
+issues related to biotechnology and food safety.  The program 
+will review the environmental implications of genetically 
+engineered products; provide an overview of food safety 
+policies in the U.S.; examine food security issues, and 
+analyze the potential impact of biotechnology on the world's 
+food supply and international agricultural trade. 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Regional 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 06/03/2006 
+SESSION-DATE: 06/05/2006 
+RETURN-POST: 06/24/2006 
+NO-OF-PART: 1 
+RANK-ORDER: 5 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: RP 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Biotechnology 
+START BIO: 
+PREFIX: Mrs 
+F-NAME: Helene 
+M-NAME: 
+L-NAME: Moraut-Pestanes 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: AFSSA 
+M-ADDR2: 27-31, avenue du General Leclerc 
+M-ADDR3: BP 19 
+M-CITY: Maisons-Alfort 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 94701 cedex 
+M-ZIP: 
+M-PHONE: + (33) 1.49.77.26.78 
+M-FAX: + (33) 1.49.77.26.12 
+M-EMAIL: h.moraut@afssa.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: F 
+DOB: 05/29/1973 
+MAR-STAT: M 
+BIRTH-CITY: Versailles 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+In charge of communication, AFSSA (French Food Safety Agency), 
+since March 2005 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+2003-2005 - Agriculture and Food Specialist in France's 
+largest consumer association "UFC-Que Choisir" 
+1999-2003 - Director of the French Technical Institute of 
+Organic Agriculture - ITAB 
+1999-2002 - Chief Editor, "Alter-Agri Magazine" (ITAB 
+publication) 
+1997-1999 - Project manager in the regional Chamber of 
+Agriculture of Champagne-Ardenne 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Africa - 1996, internship 
+Oceania - Tourism 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1993-1996 - Master of Science in Agronomy and Economics, Paris 
+University of Agronomy 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+- ACCIR: association of North-South cooperation 
+- Max Havelaar: French national association for fair trade 
+- FERT: rural organization in Madagascar 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+1999-2002 - "Alter-Agri Magazine" organic agriculture 
+publication 
+1998 - Action plan for the development of organic agriculture 
+in the Champagne-Ardenne region 
+1995 - INRA (French Research Institute in Agronomy) 
+publication on domesticated animals and environment management 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START OTHER-LANGS: 
+OTHER-LANG: Russian 
+OTHER-LANG-ID: RU 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Marie-Cecile Henard 
+START MEMO NOMINATING-JUSTIFICATION: 
+Helene Moraut-Pestanes is in charge of communication in the 
+French Food Safety Agency - AFSSA.  Thanks to her technical 
+and regulatory expertise in food safety, nutrition, 
+biotechnology, international farm policies and environment, 
+she is the person explaining complex and technical AFSSA 
+recommendations and reports to the press and the public.  She 
+is therefore a key-person to educate about the U.S. regulatory 
+framework on risk assessment and communication on risk in the 
+farm and food sector.  With her professional expertise in 
+organic and biotechnology, learning about these sectors in the 
+United States would help her understand the technical and 
+economical feasibility of their coexistence.  Biotech and non- 
+biotech coexistence is currently the key-issue in France and 
+other European Union Member States, as it is not regulated at 
+the European level. 
+For Helene Moraut-Pestanes and AFSSA, building contacts in the 
+United States with agencies in charge of risk evaluation and 
+communication on risk in food safety, nutrition, organic and 
+biotechnology would be helpful to improve consumer education 
+and adjust the information provided to consumers to their 
+demands and fears.  She could contribute to change French 
+consumer perception of biotech products in food. 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: AGR - U.S. Embassy Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 553 
+PERSON-ID: 452 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

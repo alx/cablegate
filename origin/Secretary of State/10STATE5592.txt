@@ -1,0 +1,175 @@
+10STATE5592
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Wed Jan 20 00:00:00 +0100 2010
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0008
+RR RUEHWEB
+
+DE RUEHC #5592 0201832
+ZNR UUUUU ZZH
+R 201826Z JAN 10
+FM SECSTATE WASHDC
+TO RUEHIN/AIT TAIPEI 0000
+INFO RUEAIIA/CIA WASHINGTON DC
+RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RHMCSUU/FBI WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DCUNCLAS STATE 005592 
+ 
+SIPDIS 
+AIT TAIPEI FOR MATTHEW O'CONNOR 
+ECON 
+MI-YONG KIM 
+REBECCA HESTER 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC TW
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 050196112 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in 
+conducting a post-shipment check on license 050196122 for 
+the export of International Traffic in Arms 
+(ITAR)-controlled AH-1W helicopter parts and components to 
+Taiwan.  Post is requested to complete this Blue Lantern 
+inquiry within 45 days.  Lack of response to a Blue 
+Lantern inquiry will affect pending and future licenses 
+involving parties to this license. 
+ 
+¶3. Reason for request: Unfamiliar consignee, Dali Sin Ya 
+Co. Ltd. (DSY) (no licensing history);  no documentation 
+from foreign end-user, Taiwan Ministry of National Defense 
+(TMND); commodities with risk of diversion. 
+ 
+¶4. ACTION: The Department requests that Post confirm that 
+the Foreign End User, TMND, ordered the items listed for 
+the purpose stated on the license application.  In 
+addition, the Department requests that Post make inquiries 
+with appropriate officials to establish the bona fides of 
+DSY in the transaction.  Conduct a site visit to 
+assess the company's reliability as a recipient of United 
+States Munitions List (USML) articles as well as an 
+assessment of the company's on-site security and 
+operations.  If a site visit is not possible, please 
+inform the PM/DTCC case officer. 
+ 
+The following points are included for guidance: 
+ 
+--Can DSY provide documentation that verifies the end-use 
+of the helicopter components, such as a contract or 
+purchase order from the TMND? 
+ 
+--When was DSY established and who are its principals? 
+ 
+--What is the nature of the company's businesses -- what 
+type of items does it handle?  Does the company serve as a 
+broker? 
+ 
+--What type of organizations are among its typical 
+customers and where are they located? 
+ 
+--Does DSY understand the restrictions on USML items, 
+especially the prohibition against unauthorized 
+re-transfer and 
+re-export? 
+ 
+END ACTION. 
+ 
+¶5. Details of license application: 
+ 
+DTC CASE:  050196122 
+ 
+QUANTITY/COMMODITY: 
+ 
+5 - Oil Relief Valve, P/N 5009528 
+3 - Chute Section Solid, P/N 1212B15724 
+7 - Aircraft Support, P/N 209-030-139-37 
+1 - Annular Ball Bearing, P/N 406-040-339-101 
+30 - Quick Disconnect Coupling Half, P/N H3F 
+1 - Check Value, P/N 205-076-413-1 
+100 - Spring Pin, P/N X41-S-094-0185 
+30 - Gasket, P/N 60-011-1 
+30 - Gasket, P/N BACG10AD32 
+30 - O-Ring, P/N M83248/1-232 
+30 - O-Ring, P/N J228P011 
+30 - O-Ring, P/N SR822A60-241 
+30 - O-Ring, P/N J228P013 
+30 - O-Ring, P/N 2-116-N116-7 
+5 - O-Ring, P/N 214-010-180-3 
+30 - O-Ring, P/N J228P041 
+7 - O-Ring, P/N 1698AS525 
+5 - Electrical Plug Connector, P/N MS3456W22-14S 
+1 - Electrical Plug Connector, P/N MS3456W14S-2S 
+ 
+License Value: 14,682.00 USD 
+ 
+(COMMENT: According to US Customs data, all items, except 
+the ball bearing and 2 chutes, were exported on 2 December 
+¶2009.  END COMMENT) 
+ 
+SELLER: 
+ 
+ISO Group, Inc. 
+7700 Technology Drive 
+West Melbourne, FL 32904 
+Tel: 877-330-1580, ext. 4101 
+POC: Jason Nunn 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Dali Sin Ya Co. Ltd. 
+No. 1, Lane 159, Futan 3 Street 
+Taichung 40241 
+Taiwan 
+Tel: 886-4-22365272 
+Cell: 886-0972-357896 
+Unified Business No. 24297072 
+POC: Charge Chiu 
+Email: Charge@charge-kircheis.com 
+ 
+FOREIGN END-USER: 
+ 
+Taiwan Ministry of National Defense 
+No. 172 Bo-ai Rd. Jhongjheng District 
+Taipei City 100 
+Taiwan 
+ 
+PURPOSE: 
+ 
+Parts for the repair and maintenance of the engine and 
+hydraulic systems on AH-1W Cobra aircraft owned by the 
+TMND. 
+ 
+¶6. Submitted in support of license application 050183769 
+were the following documents (PM/DTCC will fax 
+documentation to Post upon request): 
+ 
+--Purchase Order Number Oct13-2009 submitted by DSY to ISO 
+Group, dated 13 October 2009. 
+ 
+--End User Statement signed by Charge Chiu of DSY, 
+undated. 
+ 
+--Department of State License for Permanent Export of 
+Unclassified Defense Articles and Related Unclassified 
+Technical Data, signed 22 October 2009, approved 2 
+November 2009. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN 
+COORDINATOR and include the words "Blue Lantern" and the 
+case number in the subject line.  POC is Meredith Sundlof. 
+Phone: 202-663-3455; Email: SundlofME@state.gov; SIPRNET: 
+SundlofME@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file at 
+http://www.intelink.sgov.gov/wiki/Blue Lantern End-Use 
+Monitoring Program. 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+CLINTON

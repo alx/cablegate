@@ -1,0 +1,117 @@
+07MOSCOW2045
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Fri May 04 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0002
+PP RUEHWEB
+
+DE RUEHMO #2045 1241038
+ZNR UUUUU ZZH
+P 041038Z MAY 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 9912
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 002045 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/DMUSLU/MCORSEY/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+BOCHVAR ALL-RUSSIAN SCIENTIFIC RESEARCH INSTITUTE FOR 
+INORGANIC MATERIALS (VNIINM), MOSCOW, RUSSIA - D297986 
+ 
+REFTEL: 1. 04 USDOC 04284 
+ 
+¶2. 05 MOSCOW 14902 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Bochvar All-Russian Scientific Research 
+Institute for Inorganic Materials (VNIINM), Moscow, 
+Russia. The company was listed on BIS license number: 
+D297986 as the ultimate consignee of germanium coaxial 
+detector, digital spectrum, digital spectrum analyzer, 
+genie 2000 input software, shield neutron assay probe, 
+power supply for jsp-12, 50 ohm cable, 50 ohm cable, 
+bnc tee, bnc terminator, ECCN: 1A999. These items are 
+controlled for anti-terrorism reasons. The licensee is 
+Canberra Industries, Inc., 800 Research Parkway, 
+Meriden CT 06450.  Reftel 2 is an unfavorable 
+recommendation citing the refusal of the GOR to grant 
+access to the facility in order for ECO Moscow to 
+conduct the end use check. 
+ 
+¶3. NOTE: Bochvar All-Russian Scientific Research 
+Institute for Inorganic Materials (Russian acronym 
+VNIINM) conducts research on nuclear fuel cycle 
+technologies and fissile material processing.  The 
+Government of Russia (GOR) Ministry of Atomic Energy 
+(Russian acronym MINATOM) still classifies VNIINM as a 
+"closed facility."  Foreigners are generally not 
+granted access to closed facilities, however, a 
+bilateral agreement between the US Department of 
+Energy (DOE) and MINATOM allows for site visits by DOE 
+personnel for information exchange and audit purposes. 
+DOE and VNIINM have been working on collaborative 
+projects since 1992.  END NOTE. 
+ 
+¶4. On March 20, 2007 ECO Pearce participated in a DOE 
+teleconference with Mark Shuler, Technical Contractor, 
+National Nuclear Safety Administration (NNSA). Mr. 
+Shuler and his team were scheduled to visit the VNIINM 
+facilities as part of a DOE Threat Reduction and 
+Safeguards project assessment. ECO Pearce gave Mr. 
+Elmont a briefing on conducting BIS end use checks, 
+and the specific commodities to be verified, including 
+descriptions of the devices and the locations of 
+number plates.  Mr. Shuler stated that he and Mr. 
+Phillip Gibbs would be conducting the check on April 
+17, 2007 
+ 
+¶5. On April 18, 2007 ECO Pearce received an email from 
+Mr. Shuler with photographs and a narrative attached. 
+Paragraphs 6 and 7 summarize the information provided. 
+The original email and photographs are available from 
+post upon request. 
+ 
+¶6. On April 17, 2007 an NNSA team consisting of 
+Messrs. Shuler and Gibbs were granted access to the 
+VNIINM site. The team confirmed that the equipment in 
+reftel 1 is located at Building B5 on the second floor 
+in room 225. According to officials at VNIINM, the 
+equipment was obtained to determine the Plutonium 
+content in certain materials, specifically as a method 
+to promote the Plutonium Disposition (PD) program. Due 
+to the fact that the PD program has had limited 
+opportunities to work, the equipment has never been 
+used.   The team was shown a model GC3518 germanium 
+coaxial detector, serial #09027523, a 97-3803 "CITS" 
+analyzer and assay probe.  The serial number on the 
+probe can only be obtained by taking apart the tubs, 
+which the team did not request due to the technical 
+nature of the equipment. 
+ 
+¶7. The team observed other U.S. origin equipment in 
+room 225 that Gibbs believes was provided by DOE. 
+Mr. Shuler believes a team could conduct a check in 
+fairly short order depending on the size of the site 
+and number of units. 
+ 
+¶8. Recommendations: Post recommends Bochvar All- 
+Russian Scientific Research Institute For Inorganic 
+Materials (VNIINM) as a reliable recipient of 
+sensitive U.S. origin commodities. 
+(FCS MOSCOW/DLUTTER/DPEARCE) 
+BURNS

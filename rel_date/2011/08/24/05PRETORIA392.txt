@@ -1,0 +1,355 @@
+05PRETORIA392
+SOUTH AFRICA PUBLIC HEALTH JANUARY 28 ISSUE
+Fri Jan 28 00:00:00 +0100 2005
+UNCLASSIFIED
+Embassy Pretoria
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 05 PRETORIA 000392 
+ 
+SIPDIS 
+ 
+DEPT FOR AF/S; AF/EPS; AF/EPS/SDRIANO 
+DEPT FOR S/OFFICE OF GLOBAL AIDS COORDINATOR 
+STATE PLEASE PASS TO USAID FOR GLOBAL BUREAU APETERSON 
+DEPT FOR USAID GH/OHA/CCARRINO AND RROGERS, AFR/SD/DOTT 
+ALSO FOR AA/EGAT SIMMONS, AA/DCHA WINTER 
+HHS FOR THE OFFICE OF THE SECRETARY,WSTEIGER AND NIH,HFRANCIS 
+CDC FOR SBLOUNT AND EMCCRAY 
+ 
+E.O.  12958: N/A 
+TAGS: ECON KHIV SOCI TBIO EAID SF
+SUBJECT:  SOUTH AFRICA PUBLIC HEALTH JANUARY 28 ISSUE 
+ 
+ 
+Summary 
+------- 
+ 
+¶1.  Summary.  Every two weeks, USEmbassy Pretoria publishes a 
+public health newsletter highlighting South African health 
+issues based on press reports and studies of South African 
+researchers.  Comments and analysis do not necessarily reflect 
+the opinion of the U.S. Government.  Topics of this week's 
+newsletter cover:  Rationing ARV Treatment; Industry Anti- 
+retroviral Treatment Low; Two African Herbal Medicines Inhibit 
+Metabolism of Anti-HIV Drugs; Improving the Quality of Primary 
+Health Care: Public and Private Provision; Release of Mortality 
+Report Delayed; Draft Legislation Regulating Alternative 
+Medicines Likely to be Changed; and Aspen Approved by U.S. FDA. 
+End Summary. 
+ 
+Rationing ARV Treatment 
+----------------------- 
+ 
+¶2.  Researchers from the Center for International Health and 
+Development and the Clinical HIV Research Unit at the 
+University of the Witwatersrand recently published an article 
+describing how rationing of antiretroviral therapy (ART) will 
+be necessary as long as demand exceeds supply.  In Zambia, the 
+first-year target for treatment is 10,000 patients; while 
+100,000 Zambians have already reached the clinical threshold of 
+less than 200 CD4 cells.  The most recent numbers of South 
+Africans receiving ART is 19,500 by October 2004, out of an 
+estimated 300,000 to 700,000 needing ART treatment (South 
+African government estimates).  Kenya's target is 50 percent 
+coverage, as is the global target of WHO's 3X5 initiative. 
+Rationing is any policy that restricts consumption and can be 
+either a market-based (relying on prices) or non-market system. 
+As long as treatment targets represent less than total HIV/AIDS 
+patients, the rationing of treatment is inevitable. 
+ 
+¶3.  The article discusses rationing options and evaluation of 
+rationing systems and recommends that governments should make 
+deliberate choices about rationing ART and then explain and 
+defend the choices to their constituencies.  The most accepted 
+criterion for rationing ART is disease progression.  WHO 
+guidelines call for ART when a patient has a CD4 cell count of 
+less than 200; although a recent study highlighted how changing 
+this criteria would impact demand in South Africa.  If ART 
+treatment guidelines were changed to a CD4 count of 350 (the 
+guidelines used by the U.S. Department of Health and Human 
+Services), the proportion of HIV-positive people eligible for 
+therapy would increase from 9.5 percent to 56.3 percent. 
+ 
+¶4. The authors describe four types of rationing systems:  two 
+explicit and two implicit.  Explicit rationing systems use 
+specific socioeconomic criteria to define populations that 
+receive treatment.  An example is the mother to child 
+transmission program that makes ART preferentially available to 
+HIV-positive mothers and their children.  Other explicit 
+systems of rationing include either co-payment requirement or 
+geographic location, where clinics are concentrated in high HIV- 
+infected regions.  Other systems ration ART implicitly, with 
+either a lack of medical facilities or drugs effectively 
+serving as rationing in particular areas.  A system requiring 
+queues will be implicit rationing. 
+The authors provide seven criteria for assessing rationing 
+systems that could help governments decide on their 
+effectiveness.  The criteria outlined include:  (1) Does the 
+rationing system produce a high rate of successfully treated 
+patients; (2) Is the cost per patient relatively low; (3) Are 
+the human and infrastructural resources needed for program 
+implementation available; (4) To what extent does the system of 
+distributing treatment reduce the long-term effects of HIV/AIDS 
+on economic development; (5) Do all medically eligible patients 
+have equal access to treatment; (6) Can the system be 
+sustained; and (7) Does the treatment reduce the rate of HIV 
+infection.  The authors recommend that governments make clear 
+that the treatment program chosen be clear in its explicit and 
+implicit means of rationing so people can debate the policy 
+choices.  Source:  Health-link Bulletin, January 14; 
+www.thelancet.com. 
+ 
+Industry Antiretroviral Treatment Low 
+------------------------------------- 
+ 
+¶5.  A study, "Treatment of HIV/AIDS at SA's Largest Employers: 
+Myth or Reality" done by the Center for International Health 
+and Development, shows that 4 percent of employees in South 
+African's largest companies are on HIV/AIDS disease management 
+programs and 0.6 percent receive antiretroviral treatment 
+despite an HIV prevalence rate of 14.3 percent.  Only 25 of 
+South Africa's 64 largest firms know how many employees are 
+enrolled in their HIV/AIDS disease management programs or are 
+receiving ARV treatment.  Table 1 highlights treatment results 
+from the study by industrial sector.  Only a few companies make 
+up the most of the 3,908 workers receiving ARV treatment.  For 
+example, Anglo American has more than 1,000 of its South 
+African employees on treatment.  Study authors attribute low 
+treatment numbers to stigma, and to new workplace programs.  In 
+addition, companies have waited to see how the government 
+program prioritizes its treatment program, seeing if the 
+government's program would reach their employees.  The mining 
+and financial services sectors lead in providing HIV/AIDS 
+services.  All financial services and 75 percent of mining 
+firms surveyed offer ARV treatment to employees.  Only 31 
+percent of retail firms and no construction companies offer ARV 
+treatment.  Companies with in-house HIV/AIDS management 
+programs get more people into treatment than those companies 
+relying on medical insurance programs.  Source:  FM Focus, 
+January 14. 
+ 
+Table 1.  Industrial Employees on ARV Treatment by Industry 
+--------------------------------------------- -------------- 
+ 
+Sector    Number of Employees      Employees on ARV Treatment 
+Mining              275,300                            2,954 
+Financial           172,000                            300 
+Transport, Construction 
+and Communication   119,000                            6 
+Retail              44,900                             52 
+Manufacturing       36,700                             518 
+Agriculture         8,475                              48 
+Total               656,375                            3,908 
+--------------------------------------------- ------------------ 
+ 
+Two African Herbal Medicines Inhibit Metabolism of Anti-HIV 
+Drugs 
+--------------------------------------------- -------------- 
+ 
+¶6.  Two herbs widely used to treat individuals with HIV in 
+Africa have a significant interaction with anti-HIV medication, 
+potentially leading to poor metabolism of anti-retrovirals, 
+according to a study published in the January 3rd edition of 
+AIDS.  Extreme caution should be taken if using herbal 
+medicines in the treatment of HIV, stress the investigators, 
+who also state that their study shows the importance of 
+undertaking pharmacokinetic studies to show the potential 
+interactions between herbal medication and antiretrovirals. 
+ 
+¶7.  The South African government has accredited 27 facilities 
+to provide nutritional and micronutrients supplements and 
+complementary and traditional medicines to HIV-positive 
+patients so that the progression of HIV disease slows.  Many 
+anti-HIV drugs, including protease inhibitors and non- 
+nucleoside reverse transcriptase inhibitors (NNRTIs) are 
+metabolized using the CYP3A4 pathway.  Herbal medicines have 
+been shown to affect levels of anti-HIV because of their impact 
+on CYP3A4 and, in the case of protease inhibitors, P- 
+glycoprotein as well. Some herbal medications are also known to 
+interact with nuclear receptors such as the pregnane X receptor 
+(PXR), which modulates expression of CYP3A and P-glycoprotein. 
+In a laboratory study investigators examined the effects of 
+Hypoxis hemerocallidea (African potato) and Sutherlandia, two 
+herbs widely used against HIV in Africa, on the metabolism of 
+antiretroviral drugs.  Capsules, tablets and teas of both herbs 
+were extracted and tested for their ability to inhibit CYP3A4. 
+The affect of the herbs on PXR and P-glycoprotein were also 
+assessed.  African potato showed a significant inhibition of 
+CYP3A4 activity.  Sutherlandia also inhibited CYP3A4.  In 
+addition, African potato and Sutherlandia resulted in 
+significant activation of PXR.  The investigators suggest that 
+using these herbal drugs with antiretroviral agents may result 
+in the early inhibition of drug metabolism and transport 
+followed by the induction of decreased drug exposure with more 
+prolonged therapy.  The authors underscore the need for 
+appropriately designed pharmacokinetic studies to discover the 
+interaction potential of herbal drugs with antiretroviral 
+drugs.  Failure to undertake such studies could result in drug 
+interactions, treatment failure, resistant HIV, and drug 
+toxicities.  Source:  Healthnet.org, Mills E et al. Impact of 
+African herbal medicines on antiretroviral metabolism, AIDS 
+2005, January 14. 
+Improving the Quality of Primary Health Care: Public and 
+Private Provision 
+--------------------------------------------- ----------- 
+ 
+¶8.  Research from the London School of Hygiene and Tropical 
+Medicine, the University of Witwatersrand and the University of 
+Cape Town examines the performance of various types of public 
+health care (PHC) provision in South Africa.  It attempts to 
+determine the strengths and weaknesses of private and public 
+provision of primary care and the potential for increased 
+arrangements between the public and private sectors.  It 
+assesses whether private providers give good quality service at 
+a cost that is comparable to that of the public sector.  The 
+different models considered were individual General 
+Practitioner (GP) contracts, commercial companies running PHC 
+clinics on contracts, physicians in independent or group 
+practices, commercial companies running clinic chains, and the 
+public integrated model of clinics.   Performance was measured 
+by looking at the cost and quality of providers in terms of 
+their infrastructure, treatment given and acceptability to 
+patients. 
+ 
+¶9.  The main findings of the report were the following:  (1) 
+care delivered by two of the private provider models, 
+contracted GPs and the clinic chain, was comparable to public 
+sector care in terms of cost per patient; (2) there were no 
+private care provider models that consistently showed a better 
+overall technical quality of care than public clinics.  Care by 
+GPs lacked standardization and the clinic chain failed to 
+deliver standardized chronic care; (3) users perceived the 
+quality of service of private providers, except for contracted 
+GPs, to be far superior to that of others; (4) the performance 
+of both models involving contracts was negatively impacted by 
+weak contract design and implementation. 
+ 
+¶10.  The quality of PHC delivered to people in developing 
+countries is often poor and coverage is not yet universal. 
+This is despite a focus on the public delivery of comprehensive 
+PHC over the past 20 years.  People frequently consult private 
+providers including qualified medical professionals and 
+unqualified health practitioners.  A better use of private care 
+providers, therefore, might be a potential solution, including 
+contracting them to provide services on behalf of the public 
+sector.  Performance was strongly influenced by the context of 
+each type of service provision and thus simply comparing public 
+with private providers was not helpful.  Source: 
+Healthnet.org, January 14, "The performance of different models 
+of primary care provision in Southern Africa", Social Science & 
+Medicine, Vol. 59. 
+ 
+Release of Mortality Report Delayed 
+----------------------------------- 
+ 
+¶11.  The release of a mortality report by Statistics SA (Stats 
+SA) has been delayed to ensure it is "a good and useful product 
+", a senior agency official said yesterday, but would not 
+specify when it would be made public.  The report, detailing 
+causes of deaths between 1997 and 2003, was due for release on 
+January 12, but was postponed at the last minute without 
+explanation, fuelling speculation of political interference. 
+The report will include AIDS deaths figures, which has sparked 
+controversy in the past between government, Stats SA and the 
+Medical Research Council.  Stats SA had said the report was 
+based on all death notification forms received from home 
+affairs from 1997 to 2003.  Stats SA's last report in 2001 was 
+based on a 12 percent sample of forms from 1997 to 2001. It 
+said "basic information" on causes of deaths would be presented 
+for 1997 to 2003, and a more detailed analysis for 1997, 1999 
+and 2001.  In 2001, Stats SA released a report showing a sharp 
+increase in deaths among sexually active youths over the 
+previous 15 years, saying this was largely due to AIDS, which, 
+it said, was responsible for the deaths of an estimated 40 
+percent of people aged 15 to 49.  At that time, the report was 
+widely criticized by the Health Department and the Presidency 
+saying that no proof that AIDS was responsible for the rise in 
+deaths.  Stricter coding procedures and more efficient methods 
+were used for the upcoming study to determine underlying causes 
+of death, ranked according to frequency, and 10 leading causes 
+presented for various populations and sub-populations. 
+Source:  Business Day, January 20. 
+ 
+Draft Legislation Regulating Alternative Medicines Likely to be 
+Changed 
+--------------------------------------------- ------------------ 
+ 
+¶12.  Current draft regulations state that alternative medicines 
+should be regulated in the same way as patented conventional 
+drugs.  Health Minister Manto Tshabalala-Msimang recently 
+suggested that this draft legislation is likely to be changed, 
+meaning that African traditional medicines, homoeopathic 
+remedies, Chinese and Ayurvedic medicines and others would not 
+have to go through the rigorous testing as pharmaceutical 
+drugs.  If this draft were passed into law, alternative 
+medicines would have to undergo trials designed for Western 
+medicines and a pharmacist would have had to oversee their 
+manufacture.  Experts say complementary medicine cannot afford 
+expensive, large-scale trials because alternative medicines are 
+not patented.  At least 80 percent of South Africans used 
+African, Chinese, Ayurvedic or South American traditional 
+medicines, she said. The proportion would be greater if 
+homoeopathic and other complementary medicines were included. 
+South Africans spent R3-billion a year on complementary 
+medicines.  Tshabalala-Msimang said the study of indigenous 
+knowledge was "an opportunity to reclaim Africa's scientific 
+and socio-cultural heritage, which was stigmatized and 
+discredited as primitive rituals and witchcraft by colonialism 
+and apartheid".  The Health Department has spent R6 million ($1 
+million, using 6 rands per dollar) into the testing of the 
+safety, efficacy and quality of traditional medicines that are 
+used as immune boosters by people with HIV and Aids.  The first 
+phase of testing the safety of one of these medicines was 
+completed late in 2004 and the research had shown promising 
+results, the health minister said. The government also funds 
+research at universities and science councils into the efficacy 
+of traditional medicines used to treat tuberculosis, malaria, 
+asthma, cancer, diabetes, anxiety, stress and musculoskeletal 
+disorders.  (The Mercury, January 17) 
+ 
+Aspen Approved by U.S. FDA 
+-------------------------- 
+ 
+¶13.  Aspen Pharmacare had won U.S. Federal Drug Administration 
+(FDA) regulatory approval for its AIDS drugs to be included in 
+the U.S.'s $15 billion AIDS program.  "The approval is for the 
+co-packed and most widely used triple cocktail combination of 
+Lamivudine/Zidovudine and Nevirapine tablets in conventional 
+adult dosages and Aspen stated that the drugs would be priced 
+at affordable levels.   Aspen is the first accredited generic 
+supplier to the U.S. AIDS program.  Production would soon begin 
+at factory in Port Elizabeth, approved by the FDA in December. 
+The triple combination drug would not be immediately available 
+in South Africa, as it was still awaiting approval from the 
+Medicines Control Council, which was expected soon.  While the 
+result of the South African Health Department's first anti- 
+retroviral bid has not been released, Aspen officials believe 
+that the company is well positioned to win the bid.  About 25.4 
+million people live with HIV in Africa - where just three 
+percent of those infected had access to life-prolonging ARV 
+drugs. At least 2.3 million people died from the disease in sub- 
+Saharan Africa in 2004.  Aspen's pioneering of ARVs on the 
+African continent and its world first generic ARV recognition 
+by the FDA was achieved after getting voluntary licenses from 
+the original drug manufacturers.  These include 
+GlaxoSmithKline, the world's leading supplier of HIV and AIDS 
+drugs, German drug maker Boehringer Ingelheim and Bristol-Myers 
+Squibb.  By close of business on January 25, shares in Aspen 
+increased 4.4 percent to R19.84 per share.  Source:  Business 
+Day; Business Report; The Star; allAfrica.com; January 26. 
+ 
+AIDS Treatment Numbers Released 
+------------------------------- 
+ 
+¶14. As of September 2004, 155,000 people received anti- 
+retroviral treatment under the Presidential Emergency Plan for 
+AIDS Relief, a program begun in 2003.  South Africa is one of 
+15 focus nations, with over 12,000 receiving anti-retroviral 
+treatment.  World Health Organization released estimates of 
+people receiving anti-retroviral treatment and those aged 15-49 
+needing treatment.  In Sub-Saharan Africa there were 310,000 
+receiving therapy while 4 million need it.  According to WHO, 
+700,000 receive therapy globally while 5.8 million need it. 
+Source:  The Citizen, January 27; U.S. Embassy Pretoria PAS 
+Press Release, January 26. 
+ 
+MILOVANOVIC

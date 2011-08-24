@@ -1,0 +1,142 @@
+07HONGKONG2683
+EXTRANCHECK: POST SHIPMENT VERIFICATION: ZAND DYNASTY
+Thu Oct 25 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #2683/01 2980239
+ZNR UUUUU ZZH
+R 250239Z OCT 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 3253
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002683 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: ZAND DYNASTY 
+COMPANY LTD. 
+ 
+REF: A) USDOC 07674 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) of Zand Dynasty Company Ltd., 
+Unit 502, Block H, Sui Wo Court, Shatin, Hong Kong (Zand). The items 
+in question are gas turbine parts exported to Zand on or about May 
+21, 2007 and valued at USD 110,000.  In reftel A, the items are 
+classified under export control classification number (ECCN) 9A001. 
+This ECCN is controlled for national security (NS) and missile 
+technology (MT) reasons and items falling within this ECCN would 
+require a license for export to Hong Kong.  The ECO notes that the 
+U.S. exporter (Turbine Services Ltd. of Saratoga Springs, New York) 
+did not put an ECCN on the applicable shippers export declaration 
+(SED) and stated that the export could proceed NLR (no license 
+required). 
+ 
+¶3.  Zand is a Hong Kong registered company established in 2003. 
+According to the Hong Kong Companies Registry, its paid-up share 
+capital is the Hong Kong equivalent of USD 120.  Directors are 
+listed as Hong Kong resident Tian, Xiao Hua and Hong Kong resident 
+Mr. Hassan Zand.  The Hong Kong Companies Registry lists Ms. Tian's 
+personal residence as being located in the same building Zand (but 
+different block number). 
+ 
+¶4.  A review of Zand's web site (http://zanddynasty.diytrade.com) 
+reveals that Mr. Zand travels frequently to the Middle East and the 
+United States.  A review of Immigrations and Customs Enforcement 
+(ICE) databases reveals a Mr. Zand who is a likely match for the 
+Director of Zand Dynasty.  The Mr. Zand in the ICE database is an 
+Iranian national and a U.S. permanent resident. According to the 
+Zand web site, Ms. Tian is active in the mainland China market and 
+has been doing business in Hong Kong for the past eight years.  The 
+web site further states that the company specializes in exports, 
+imports, arranging outsourcing business for a wide range of 
+products. The web site advertises various gas turbine parts for 
+sale. 
+ 
+¶5.  A web search of various phone numbers and contact details on the 
+Zand web site reveals that Zand is a trading company that has been 
+active in a range of product lines including pesticides, car parts, 
+iron ore and other products.  Certain trade leads on various trading 
+sites including Alibaba include trade leads that require shipment of 
+products to Iran.  Additionally, certain web references to Matlab 
+Kish Co. in Tehran, Iran list Ms. Tian's internet e-mail account in 
+their contact details. 
+ 
+¶6.  On October 1, 2007, the ECO met with Ms. Tian at the offices of 
+FCS.  Mr. Tian had requested the meeting occur at FCS offices since, 
+she stated, Zand is actually run from her home and she preferred not 
+to meet there.  In e-mail correspondence prior to the meeting, Ms. 
+Tian stressed that the turbine parts were strictly for commercial 
+use in the power generation sector.  Ms. Tian stated that Zand is a 
+trading company that both sources items internationally on behalf of 
+clients and also represents mainland Chinese manufacturers 
+internationally.  She stated that its customers are primarily based 
+in China, Indonesia and the Middle East.  She stated that the 
+company has had customers in Iran for agricultural products and 
+construction machinery.  The company has two to three employees. 
+During a subsequent meeting on October 12, 2007 (described below), 
+Ms. Tian stated that Mr. Zand is somewhat involved in the business 
+but is also a professor at a Hong Kong university. 
+ 
+¶7.  As to the particular items in question, Ms. Tian stated that 
+they were acquired as part of a new market that Zand would like to 
+enter.  In particular, GE gas turbines are used for power generation 
+in mainland China.  As a result, according to Ms. Tian, there is a 
+market demand for ready access to turbine spare parts for the China 
+market.  However, Ms. Tian also stated that the China market is 
+moving from the GE frame 5 turbine (for which the items are suited) 
+to GE frame 9 turbines.  Ms. Tian stated that Zand is responding to 
+a tender in Egypt for gas turbine spare parts for which the 
+applicable items would be suitable. 
+ 
+¶8.  The ECO provided Ms. Tian with extensive information about U.S. 
+export and reexport controls.  That information included guidance 
+from the Treasury Department's Office of Foreign Assets Control 
+(OFAC), which administers the U.S. embargo on trade with Iran.  The 
+ECO stressed that U.S. persons (including lawful permanent 
+residents) may not conduct business with Iran (no matter the 
+technical parameters of the items).  Ms. Tian committed to reviewing 
+the information closely and to ensuring that Zand complies with U.S. 
+export and reexport controls. 
+ 
+ 
+¶9.  On October 12, 2007, the ECO visited Tung Yue freight forwarders 
+at the Kerry Cargo Center in Hong Kong.  The items were located at 
+this location in a larger wooden box.  Ms. Tian requested that the 
+box be opened but the items inside were sealed inside plastic 
+packaging.  Ms. Tian stated that it would not be appropriate to open 
+the packaging as purchasers would not buy the products once the 
+packaging had been opened.  A review of the labels on the packaging 
+revealed that this packaging material is designed to act as water 
+vapor control. 
+ 
+¶10.  The ECO recommends that OEA obtain an official commodity 
+classification for the items to better ascertain their control 
+status.  With such commodity classification, the ECO may approach 
+the Hong Kong government concerning this matter since items 
+classified as ECCN 9A001 require a license for import into Hong Kong 
+as well as export from Hong Kong. 
+ 
+¶11. At the time visited, Zand appeared to be an unsuitable recipient 
+of the commodities shipped in light of its apparent dealings and 
+associations with Iran.  ECO notes that while reexports of certain 
+low-level U.S. origin commodities to Iran by non-U.S. persons may be 
+allowed, U.S. nationals and permanent residents are severely 
+restricted from entering into such trade.  The ECO recommends that 
+this PSV be considered Unfavorable.

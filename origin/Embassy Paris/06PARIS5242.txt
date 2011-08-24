@@ -1,0 +1,265 @@
+06PARIS5242
+COURT UPHOLDS FRENCH COPYRIGHT LAW
+Wed Aug 02 00:00:00 +0200 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+null
+Lucia A Keegan  08/03/2006 09:47:07 AM  From  DB/Inbox:  Lucia A Keegan
+
+Cable 
+Text:                                                                      
+                                                                           
+      
+UNCLAS    SENSITIVE     PARIS 05242
+
+SIPDIS
+cxparis:
+    ACTION: ECON
+    INFO:   SCI AMB ENGO SCIO TRDO ESCI FCS POL ORA AGR
+            LABO DCM ECNO UNESCO ECSO
+
+DISSEMINATION: ECONOUT /1
+CHARGE: PROG
+
+APPROVED: ECON:TJWHITE
+DRAFTED: ECON:VBELON
+CLEARED: FCS:GBRISCOE
+
+VZCZCFRI329
+PP RUEHC RUCNMEM RUCPDOC RUEAWJA
+DE RUEHFR #5242/01 2141618
+ZNR UUUUU ZZH
+P 021618Z AUG 06
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC PRIORITY 0054
+INFO RUCNMEM/EU MEMBER STATES
+RUCPDOC/USDOC WASHDC
+RUEAWJA/DOJ WASHDCUNCLAS SECTION 01 OF 03 PARIS 005242 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+DEPT FOR EB/IPC AND EUR/WE 
+DEPT PLS PASS TO USTR FOR JSANFORD/VESPINEL/RMEYERS 
+COMMERCE FOR S JACOBS, S WILSON 
+DOJ FOR C HARROP, F MARSHALL, R HESSE 
+COMMERCE PLEASE PASS TO USPTO 
+ 
+E.O. 12958: N/A 
+TAGS: KIPR ETRD PGOV FR
+SUBJECT: COURT UPHOLDS FRENCH COPYRIGHT LAW 
+ 
+REFS: A) PARIS 4458 
+B) PARIS 3153 
+C) PARIS 1847 
+ 
+Summary 
+------- 
+¶1. (SBU) The French Constitutional Court in a July 27 decision 
+upheld the new copyright law, throwing out four provisions as 
+unconstitutional.  Specifically, the court ruled that collaborative 
+file-sharing, contravention of protected works online, and bypassing 
+of technical protective measures should be treated no more leniently 
+than other cases of copyright infringement.  Additionally, the court 
+upheld forced interoperability, but added that there should be 
+compensation. 
+ 
+¶2. (SBU) Having survived an appeal challenging it on both procedural 
+and substantive grounds, France's new copyright law will very soon 
+be on the books, but it far from closes the debate -- or the 
+confusion -- about the right to private copy and forced 
+interoperability.  The next milestone worth watching will be the 
+creation of the new Regulatory Authority for Technical Measures and 
+the appointment of its decision-makers, since this new "legal 
+monster" will have to decide such important unresolved matters as 
+defining the principle of interoperability.  End summary. 
+ 
+The Court Rules 
+--------------- 
+¶3. (SBU) Late on July 27, the French Constitutional Court released 
+its much-anticipated ruling on the appeal submitted in early July by 
+some 60 French parliamentarians against the new copyright law, 
+originally designed to transpose the European Union Copyright 
+Directive (EUCD).  Their appeal was focused on two issues: 
+procedural objections as to how the law was passed with limited 
+debate, and substantive objections charging that the law as passed 
+catered to big companies and sacrificed consumer interests.  The 
+court rejected the procedural objections and largely upheld the law. 
+ In certain substantive areas, the court's ruling actually is a blow 
+to those who brought the appeal, since it increased protections for 
+rights-holders and raised fines for online infringement, i.e. 
+illegal downloading. 
+ 
+¶4. (SBU) Four years into the legislative process to transpose the EU 
+Copyright Directive (EUCD), an originally straight-forward and 
+technical effort to fight counterfeiting and piracy in the 
+information society turned into a protracted battleground over civil 
+liberties, privacy protection, interoperability and open-source 
+software.  Although the much-debated bill cleared its last 
+legislative hurdle with a successful vote in the National Assembly 
+in late June, the proponents of the right to private copy and 
+government-enforced interoperability felt the so-called "iPod law" 
+was overly slanted toward business interests.  Not only did the 
+court decision not satisfy them, but it also came down more harshly 
+against file-sharing and internet-based copyright infringement than 
+many expected. 
+ 
+The court decides to leave all sides unsatisfied 
+--------------------------------------------- --- 
+¶5. (SBU) The Constitutional Court largely upheld the law, but ruled 
+four provisions unconstitutional.  First, the court said that the 
+interoperability provisions (namely those which require companies to 
+ensure that digital files are playable on devices manufactured by 
+other companies) need to be more clearly defined.  At issue was the 
+proprietary software -- used frequently by online music stores, most 
+notably Apple's iTunes -- to encrypt files so that they can only be 
+played on some devices but not others.  As it emerged from the 
+Court, the law would largely permit digital anti-piracy measures. 
+However, device-makers could petition the soon-to-be-established 
+Regulatory Authority for Technical Measures, if they fail to reach 
+an agreement by direct negotiation with Digital Rights Management 
+(DRM) rights-holders to share information which would allow access 
+to protected files on their devices.  The regulatory authority could 
+then force the technical protective measures to be shared in order 
+to allow interoperability, but the Court made clear that any forced 
+sharing of the technologies behind such measures should be 
+compensated.  The Court decision was silent on who would decide on 
+the indemnification, but one copyright legal expert thought such a 
+decision would most likely be made by the civil court rather than 
+the new regulatory authority. 
+ 
+¶6. (SBU) Second, the court ruled that Articles 21, 22, 23, and 24 
+were unconstitutional.  Article 21 would have exempted from 
+anti-infringement provisions developers working on collaborative 
+software, research or using file sharing to work on things not 
+subject to royalties or any other monetary compensation.  The Court 
+effectively erased this exception.  According to the court, such an 
+exception would wrongly infringe the work's rights-holders, taking 
+away coverage of their intellectual property just because they may 
+have renounced any remuneration.  One copyright expert portrayed the 
+elimination of the law's so-called "fair use" provision as a new 
+problem of legal liability for file-sharers outside of the universe 
+of commercial music, video, and other remunerated works.  Given the 
+decision, any French developers working on such software could be 
+sued by DRM software producers or copyright holders -- even when it 
+concerns only software intended for non-copyrighted content. So, no 
+matter whether someone in France uses peer-to-peer software for some 
+distributed business model or just to share an un-copyrighted piece 
+of music -- perhaps a work-in-progress willfully shared online by 
+its author(s) -- it is illegal. 
+ 
+¶7. (SBU) Articles 22 and 23 were declared unconstitutional because 
+the Court ruled they unjustly lifted all penalties against bypassing 
+technical protective measures, thereby removing the most basic 
+intellectual property protections of such measures, when their 
+circumvention is for the sake of interoperability.  The 
+interoperability exception to the rule against changing (infringing) 
+copyrighted works, namely technical protective measures, was 
+supposed to open up competition and protect software developers. 
+But the court deleted this exception by declaring it 
+unconstitutional, effectively accepting arguments submitted in a 
+brief to the court by the Business Software Alliance.  Much to the 
+dismay of consumers and, in particular, the French Internet Music 
+Users Association (Association des Audionautes), the court declared 
+that hacking into a DRM just because a consumer finds that it lacks 
+interoperability is unacceptable and, indeed, illegal.  Likewise, 
+without prior authorization, it will not be possible to develop 
+software that could interact with DRM-encumbered content.  This is 
+as true for free software developers, who are sure to protest 
+loudly, as it is for everyone else. 
+ 
+¶8. (SBU) Lastly, the court ruled against Article 24, which violated 
+the principle of equal protection under the law.  Legislators, 
+arguing that online piracy was less serious than unlawful commercial 
+reproduction of copyrighted works, had inserted a provision in 
+Article 24 that would have punished internet users with fines of 
+only 38 or 75 euros, scarcely more than a typical parking ticket. 
+More serious penalties were to be reserved for "commercial" pirates. 
+ The court struck down this provision.  As a result, online pirates 
+or internet users who illegally download copyrighted materials can 
+be sued under the default procedures for counterfeiting and risk up 
+to five years in prison and 500,000 euros.  French Culture Minister 
+Renaud Donnedieu de Vabres issued a communique criticizing this part 
+of the court decision, saying he "deplored" the increase of 
+sanctions against illegal downloading.  The compromise that the GOF 
+had struck during the drafting of the law was designed, he 
+explained, to "reserve the most serious penalties for the most 
+serious crimes." 
+ 
+A long and drawn out legislative process 
+---------------------------------------- 
+¶9. (SBU) This attitude was common throughout the parliamentary 
+debate.  The implementation procedure of the EU Copyright Directive 
+(EUCD) began normally enough in 2001-2002.  The initial draft law on 
+authors' and related rights in the information society, or DADVSI in 
+French, was jointly developed by the Government and the High Council 
+on Literary and Artistic Work Property (also known as the High 
+Council on Copyright), which represents the GOF, industry and 
+consumers (but not internet users).  A change in the political 
+majority from Socialist to center-right following the national 
+elections of Spring 2002 and then the nomination of Renaud Donnedieu 
+de Vabres as the new Culture Minister in 2004 contributed to the 
+first of many delays. 
+ 
+¶10. (SBU) By the time the DADVSI bill was finally presented to 
+Parliament in late December 2005, France had already implemented the 
+EU directive on e-commerce in 2004, citing as one of its goals to 
+"restore confidence in e-commerce" and introducing the notion of 
+"open standards."  According to a parliamentary staffer, the French 
+e-commerce "precedent" encouraged the French National Assembly and 
+Senate to "add their grain of salt instead of just rubberstamping EU 
+implementing legislation" as they had often done in the past. 
+Despite the fast track procedure chosen by the GOF, the resulting 
+legislative process took another seven months and led to an almost 
+complete overhaul of the original text, in what had by then become a 
+highly controversial national debate. 
+ 
+Legal monster of (yet another) regulatory body is born 
+--------------------------------------------- --------- 
+¶11. (SBU) Many French copyright lawyers have serious concerns about 
+the enforceability of the law with its layers of provisions 
+representing conflicting interests.  A new, and already much-decried 
+"Regulatory Authority for Technical Measures" will be in charge of 
+enforcing the right to private copy and interoperability.  When 
+access to information essential to interoperability is denied, any 
+publisher of computer software, any maker of a technical system, and 
+any technical service operator can ask the regulatory authority to 
+obtain that information from the rights holder.  Once initiated, 
+they have two months to deliver the information and/or render a 
+ruling.  At least that is how the law reads, but we have been unable 
+to find a single defender of this new regulatory authority.  Instead 
+we have a long list of lawyers and industry experts who fear this 
+new "legal monster" with a poorly defined mission but extensive 
+powers.  The State Council (Conseil d'Etat) will set by decree the 
+rules of procedure for the new regulatory authority.  The deciding 
+panel of six judges for the authority will consist of one judge from 
+the State Council, one from the Court of Cassation (Cour de 
+Cassation), one from the Accounting Court (Cour des Comptes), one IT 
+expert appointed by the President of the Technology Academy, one 
+representative of the High Council on Copyright, and one 
+representative from the Private Copy Commission (set up some twenty 
+years ago to monitor the right of private copy for music and video 
+tapes). 
+ 
+Comment 
+------- 
+¶12. (SBU) The new copyright legislation on authors' and related 
+rights in the information society is now de facto law.  It will 
+become law de jure once it is published in the French Official 
+Journal in the coming days.  However, this is far from the end of 
+the long debate over French copyright law -- a debate which is 
+already being echoed elsewhere in Europe.  Despite the ruling of the 
+Constitutional Court, many of the questions raised in France during 
+the legislative process remain unanswered and are not likely to find 
+a solution before the new Regulatory Authority for Technical 
+Measures is called into play. 
+ 
+¶13. (SBU)  During the frequently bitter parliamentary debate, the 
+GOF appeased the advocates of private copy and interoperability by 
+agreeing to include provisions that were in part struck down by the 
+court.  Many of the surviving portions remain questionable. 
+Ultimately, the new regulatory authority will have to take the hard 
+decisions the Government refused to take.  End Comment. 
+ 
+Stapleton

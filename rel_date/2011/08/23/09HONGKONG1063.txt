@@ -1,0 +1,68 @@
+09HONGKONG1063
+EXTRANCHECK: POST SHIPMENT VERIFICATION: ALTUS AUTOMATION
+Thu Jun 11 00:00:00 +0200 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHHK #1063 1620858
+ZNR UUUUU ZZH
+R 110858Z JUN 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 7820
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001063 
+ 
+USDOC FOR 532/OEA/MHAMES/MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: ALTUS AUTOMATION 
+INDUSTRY (HK) 
+ 
+REF: A) BIS e-mail request dated May 6, 2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) attempted 
+to conduct a post shipment verification (PSV) at Altus Automation 
+Industry (HK), Unit 1001, Four Seas building, 208-212 Nathan Road, 
+Hong Kong (Altus). The items in question for this PSV are various 
+mass flow equipment products exported to Altus on or about March 11, 
+¶2008.  On the applicable shippers export declaration (SED), these 
+items are not classified meaning that they are likely EAR99 and 
+eligible for shipment to virtually all destinations and 
+end-uses/users worldwide.  The exporter was Micro Motion, Inc. of 
+Boulder Colorado. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Altus has been in 
+existence since 2006.  The company's paid up share capital is the 
+Hong Kong equivalent of USD 13. The Hong Kong Companies Registry 
+lists Ouyang, Jifeng (with mainland China passport number G08871766) 
+as director.  Ouyang, Jifeng is not listed as a director in any 
+other Hong Kong company. 
+ 
+¶4.  ECO was unable to find a web presence for Altus Automation 
+Industry (HK).  A range of other companies appear to be located at 
+the company's address, which is also the address of ATA Corporate 
+Formation and Management Limited (a company secretarial service). 
+ 
+¶5.  Commercial Assistant Carrie Chan attempted for some time to 
+arrange a meeting with the company.  Calls to the company were 
+answered by ATA Corporate Formation and Management Limited who 
+agreed to forward the message to Altus.  Despite numerous calls and 
+a certified letter requesting a meeting, Altus did not respond. 
+ 
+¶6.  Based on the information noted above, ECO believes that Altus 
+most likely does not have any permanent Hong Kong presence.  While 
+there is no apparent export control violation associated with this 
+shipment, ECO nonetheless does not believe Altus to be a suitable 
+recipient of controlled U.S. origin technology.

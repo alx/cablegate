@@ -1,0 +1,240 @@
+09USOSCE65
+OSCE/FSC:  DAY TWO--OSCE WORKSHOP ON A
+Wed Mar 25 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Mission USOSCE
+VZCZCXRO9795
+OO RUEHAG RUEHAST RUEHDA RUEHDBU RUEHDF RUEHFL RUEHIK RUEHKW RUEHLA
+RUEHLN RUEHLZ RUEHMRE RUEHNP RUEHPOD RUEHROV RUEHSK RUEHSR RUEHVK
+RUEHYG
+DE RUEHVEN #0065/01 0841622
+ZNR UUUUU ZZH
+O 251622Z MAR 09
+FM USMISSION USOSCE
+TO RUEHC/SECSTATE WASHDC IMMEDIATE 6285
+INFO RUCNCFE/CONVENTIONAL ARMED FORCES IN EUROPE PRIORITY
+RUEHNO/USMISSION USNATO PRIORITY 1725
+RUEAIIA/CIA WASHDC PRIORITY
+RUEKJCS/DIA WASHDC PRIORITY
+RUEKJCS/SECDEF WASHDC PRIORITY
+RUESDT/DTRA-OSES DARMSTADT GE PRIORITY
+RHMFISS/CDR USEUCOM VAIHINGEN GE PRIORITY
+RUEKJCS/JOINT STAFF WASHDC//J5-DDPMA-IN/CAC/DDPMA-E// PRIORITY
+RUEAHQA/HQ USAF WASHINGTON DC//XONP// PRIORITY
+RUEADWD/DA WASHINGTON DC PRIORITY
+RUEASWA/DTRA ALEX WASHINGTON DC//OSAE PRIORITY
+RUEHZL/EUROPEAN POLITICAL COLLECTIVE 0087
+RUCNOSC/ORGANIZATION FOR SECURITY IN EUROPE COLLECTIVEUNCLAS SECTION 01 OF 03 USOSCE 000065 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR VCI/CCA, EUR/RPM, NSA FOR STANAR-JOHNSON, T FOR 
+KATSAPIS, OSD EUR/NATO, OSD/NII FOR HALL, DHS FOR DENNING, 
+NSC FOR HATHAWAY, NSC FOR DONAHUE, NSC FOR CUMMINGS, WINPAC 
+FOR FRITZMEIER, ISN FOR KARTCHNER, 
+NSC FOR HAYES 
+JCS FOR J5/COL NORWOOD 
+OSD FOR ISA (PERENYI) 
+ 
+E.O. 12958: N/A 
+TAGS: EINT FR KCFE KHLS OSCE PARM PREL RS KCIP
+SUBJECT: OSCE/FSC:  DAY TWO--OSCE WORKSHOP ON A 
+COMPREHENSIVE OSCE APPROACH TO ENHANCING CYBERSECURITY, DAY 
+TWO 
+ 
+REF: USOSCE 0064 
+ 
+¶1.  (U)  NOTE:  This is the second of a two-part cable 
+reporting the March 17-18 OSCE Workshop on a Comprehensive 
+OSCE Approach to Enhancing Cybersecurity.  END NOTE. 
+ 
+- - - - - - - - - - - - - - - - - - - - - - 
+Session 3: Private Users and Civil Society 
+- - - - - - - - - - - - - - - - - - - - - - 
+ 
+¶2.  (U)  The third session concentrated on the role of the 
+private sector and civil society in enhancing cyber security. 
+ Robert Doheny, U.S. Department of Defense, moderated. 
+Keynote speakers were Flemming Faber, Head of ICT Security 
+Division, IT and Telecom Agency, Ministry of Science, 
+Technology and Innovation for Denmark; Udo Helmbrecht, 
+President of the German Federal Office for Information 
+Security (BSI); and, Colonel Friedrich Teichmann, Deputy 
+Director for Communication and Information Systems Planning, 
+Ministry of Defense and Sports of Austria. 
+ 
+¶3.  (SBU)  Faber, in his presentation, The Importance of 
+Public Private Partnerships in Information Security, 
+described the high degree of mutual trust between a 
+government and its citizens needed to ensure cyber security 
+at all levels (FSC.DEL/34/09).  In Denmark this had been 
+achieved through extensive public awareness-raising through 
+education and public media.  Still, Fleming said the "culture 
+of security" would take time to develop.  Denmark, through 
+"soft law" or voluntary agreements between public and private 
+sectors, was able to introduce an electronic signature system 
+already used by more than 25 percent of adults in banking and 
+interactions with the government. 
+ 
+¶4.  (SBU)  Helmbrecht's presentation, Secure Identities in a 
+Global Cyber World, focused on the introduction of a national 
+electronic identity card (FSC.DEL/35/09).  The card is a 
+response to the growing threats to identity security 
+perceived by the German government, industry, and private 
+citizens.  The card could ultimately be used to verify 
+identity, nationality, age, address, eligibility for 
+government services, and provide access to banking and other 
+sensitive websites.  The card would also provide an 
+electronic signature valid for many types of electronic 
+business transactions.  In terms of threats, Helmbrecht noted 
+the decrease in instances of virus and worm attacks relative 
+to the rise of botnets and threats stemming from web 2.0 
+technologies.  He stressed that a strong national program 
+will focus on prevention through awareness and education, 
+preparedness for incidents, and sustainability. 
+ 
+¶5.  (SBU)  Teichmann, in Cyber Security at Home: A New 
+Perspective, set out basic statistics about IT use and 
+described the range of vulnerabilities encountered by the 
+private user (FSC.DEL/41/09).  He described the needs and 
+risks of different segments of the home-use population.  He 
+called for enhanced awareness of the demands of cyber 
+security at all levels of use, with emphasis on private users 
+and civil society.  Teichmann recommended industry develop 
+inexpensive IT security systems for the home user. 
+ 
+- - - - - - - - - - - - - - - - - - - - 
+Session 4:  OSCE Role in Cybersecurity 
+- - - - - - - - - - - - - - - - - - - - 
+ 
+¶6. (U) Working session 4 examined the possible role of the 
+OSCE in enhancing cyber security.  The keynote speaker was 
+Robert Doheny, Program Executive, Defense Cyber security 
+Implementation and Principal Director, Crisis Management and 
+ 
+USOSCE 00000065  002 OF 003 
+ 
+ 
+Mission Assurance, Department of Defense Department of 
+Defense. 
+ 
+¶7. (SBU) Doheny, in Keys for Achieving Collective Cyber 
+security, compared the dangers of a cyber attack to that of 
+an asteroid falling toward the earth because it affects 
+everyone and requires international cooperation to devise a 
+solution for protection (FSC.DEL/43/09/Add.1).  He noted that 
+the number of attacks had increased dramatically since the 
+mid-1980s, while the level of sophistication required by an 
+attacker has sharply declined.  Doheny said that we are all 
+part of a Global Information Infrastructure (GII) and noted 
+the great extent to which we share threats and 
+vulnerabilities across international boundaries and between 
+the public and private sectors.  He underscored the need for 
+the OSCE to play a role in building trust and confidence to 
+achieve cyber resiliency and outlined the following elements: 
+ improve shared defense-in-depth capabilities; improve 
+Identity Assurance (IA) and Computer Network Defense (CND) 
+interoperability; share cyber situational awareness and early 
+warning data; link watch center-to-watch center operations 
+and exercises; improve interoperability to protect and share 
+CND/IA information; and, foster relationships with collective 
+security institutions 
+ 
+¶8. (SBU) Doheny proposed next steps for the OSCE to enhance 
+the cyber security of OSCE participating States (pS).  These 
+include: networking and training workshops; a self-survey of 
+existing policies and practices; sharing best practices with 
+the Meridian Initiative; a workshop to exchange lessons 
+learned from exercises and identify opportunities for 
+confidence building exercises; publish information 
+requirements for an early warning network; and develop a 
+framework using the Counter-Terrorism Network to facilitate 
+law enforcement cooperation in tracing cyber criminals. 
+ 
+¶9. (SBU) The Estonian delegation (Tiirmaa-Klaar), supported 
+by Austria, noted that the OSCE was a good forum in which to 
+hold the discussions, but more can be done to include other 
+countries and institutions as well, e.g., Arab nations, Asian 
+countries, and others.  Doheny referred back to his 
+presentation, where he explained the need to "foster 
+relationships with collective security institutions" as a way 
+of increasing international trust.  He agreed with the points 
+raised.  The Finnish delegation said that it is not only 
+important to raise awareness and strengthen the level of 
+trust between international actors, but it is also necessary 
+to assist one another in the implementation of security 
+measures. 
+ 
+¶10. (SBU) Greece (Pavlidis)  played a live audio feed of air 
+traffic controllers at JFK International Airport and said 
+that there is not such thing as 100% cyber security.  Japan 
+(Ogata) recognized the need for governments to work very 
+closely with the private sector to develop cyber security 
+measures, but without killing innovation (FSC.DEL/52/09). 
+Ogata emphasized: 1) there must be domestic cross-sector 
+coordination; 2) policy and lawmakers must collaborate with 
+private industry prior to drafting any policy regulation or 
+laws; and 3) there was a need for better regional policy 
+coordination. Ogata also suggested that OSCE efforts could 
+link to efforts began as part of the Asia-Pacific Economic 
+Cooperation (APEC) cyber security initiatives. He indicated 
+that Japan was willing to share their initiatives and 
+practices related to threats, risks and proposed solutions. 
+ 
+- - - - - - - - - - - - - - - 
+COE Convention on Cyber Crime 
+- - - - - - - - - - - - - - - 
+ 
+USOSCE 00000065  003 OF 003 
+ 
+ 
+ 
+¶11. (SBU) The Turkish delegation (Begic) said there were 
+inconsistencies between Turkey's national law and the Council 
+of Europe Convention on Cyber Crime that had prevented Turkey 
+from joining the convention.    The Turkish del approached 
+USdel after the discussion and asked for assistance in 
+reconciling legal obstacles. 
+ 
+¶12. (SBU) The Russian delegation (Krutskikh) expanded on the 
+Turkish point and said that Russia will not agree with any 
+conclusion reached at the workshop if it included a 
+recommendation that all pS sign on to the Council of Europe 
+Convention on Cyber Crime.  Krutskikh called the convention 
+"outdated" and said it is "now high time that we elaborate 
+new rules."  He also said Russia wanted "some kind of legal 
+regime" and definitions of terms.  Krutskikh said Russia 
+cannot agree to an international document that uses terms not 
+used in Russian legislation. 
+ 
+- - - - - - - - - - - - - - - - 
+Closing Session:  A Way Forward 
+- - - - - - - - - - - - - - - - 
+ 
+¶13. (SBU) The French FSC Chair (Gonzalez) gave the closing 
+remarks (FSC.DEL/58/99).    Gonzalez reiterated a few points 
+that stood out: the importance of teaching younger 
+generations about cyber safety; the U.S. emphasized free 
+speech in response to a concern about spreading propaganda on 
+the internet and the U.S. caution against excessive cyber 
+regulation; a national response to cyber threats, while 
+important, is not enough; Russia's concerns about the 
+definition of "cyber" and limits of sovereignty in 
+cyberspace; interest in and importance of the UK's "Meridian 
+Process"; the need for governments to cooperate with the 
+private sector; and the general agreement with the U.S. 
+position of "defense first." 
+ 
+¶14. (SBU) Regarding the role to be played by the OSCE, the 
+French Chair acknowledged that a global approach is best. 
+Gonzalez said that protocols regarding information exchange 
+and confidence building were necessary.  He recalled the UK 
+comment on the Meridian Process.  Gonzalez ended with an 
+assertion that the OSCE is a good forum for discussion of 
+cyberspace issues and can be useful in promoting a global 
+culture of awareness. 
+ 
+¶15.  (U)  This cable has been cleared by INR/CCT Markoff; 
+OSD/NII; and, OSD/P. 
+NEIGHBOUR

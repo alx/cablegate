@@ -1,0 +1,76 @@
+08HONGKONG469
+EXTRANCHECK: PRE-LICENSE CHECK: HKSAR MARINE DEPARTMENT
+Thu Mar 13 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0010
+RR RUEHWEB
+
+DE RUEHHK #0469 0730836
+ZNR UUUUU ZZH
+R 130836Z MAR 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 4387
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000469 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: HKSAR MARINE DEPARTMENT 
+REF: A) USDOC 00807 B)D390721 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a pre-license check (PLC) at the Hong Kong Marine Department, Rm. 
+2411, 24th Floor, Harbour Building, 38 Pier Road, Central, Hong Kong 
+(Marine Department). The PLC concerned 33 internet firewall hardware 
+and software products.  The license applicant is Juniper Networks of 
+Sunnyvale, California.  The items are classified under ECCN 5A002 
+and are controlled for national security reasons (NS). 
+ 
+¶3.  Hong Kong Marine Department is a Hong Kong government 
+instrumentality.  More information at: (http://www.mardep.gov.hk/). 
+It has five major sections including Planning and Services, Port 
+Control, Multilateral policy, Shipping and Government Fleet.  It has 
+more than 1000 employees and is responsible for all navigational 
+matters in Hong Kong and the safety standards of all classes and 
+types of vessels. 
+ 
+¶4. On February 28, 2008, the ECO and Commercial Assistant Carrie 
+Chan visited the Marine Department and met with Mr. Kenneth YK Siu, 
+Senior Information Technology Officer.  Mr. Siu provided a general 
+overview of the Marine Department (consistent with information on 
+the Marine Department's web site). 
+ 
+¶5.  Mr. Siu was a bit surprised by the visit in that the Marine 
+Department had ordered one of the items (a Juniper SSG 140) in 
+October 2007 and had finally received it just one week before the 
+ECO's visit.  That item was shipped under license number D387447 and 
+Mr. Siu provided documentation confirming delivery of that item and 
+confirming that the Marine Department will comply with the relevant 
+license conditions.  He stated that there are no other pending 
+orders for Juniper products.  ECO surmises that the exporter has 
+applied for an export license for a range of products on the 
+possibility that a future order will materialize (and, if so, the 
+license lead time will be much reduced). 
+ 
+¶6.  At the time visited, ECO found Mr. Siu to be both cooperative 
+and credible and observed nothing that would suggest that Hong Kong 
+Marine Department is an unsuitable recipient of the items that are 
+the subject of License D390721.  OEA may wish to confirm with the 
+license applicant ECO's conclusion that this license was filed to 
+have a license in place to cover potential future orders. 
+ 
+Cunningham

@@ -1,0 +1,166 @@
+06PARIS1847
+FRANCE'S COPYRIGHT BILL PENALIZES ILLEGAL
+Wed Mar 22 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+221531Z Mar 06UNCLAS SECTION 01 OF 02 PARIS 001847 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+DEPT FOR EB, EB/IPE, EUR/WE 
+DEPT PLS PASS USTR FOR JSANFORD/VESPINEL/RMEYERS 
+COMMERCE FOR SJACOBS, SWILSON, PNAAS 
+ 
+E.O. 12958: N/A 
+TAGS: KIPR ETRD FR
+SUBJECT:  FRANCE'S COPYRIGHT BILL PENALIZES ILLEGAL 
+DOWNLOADS; INTRODUCES INTEROPERABILITY OF DIGITAL CONTENT 
+ 
+REF:  PARIS 8626 
+ 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+¶1.  (SBU) SUMMARY.  A final text for France's new digital 
+copyright law was voted by France's National Assembly on 
+March 21, following months of fierce debate over how best to 
+balance consumer rights against copyright in the Internet 
+age.  The complex draft bill, designed to bring France into 
+line with a 2001 EU directive, outlaws the downloading and 
+copying of commercial DVDs and CDs, provides an exception 
+for very limited private use, and establishes fines and 
+prison sentences as punishment for offenders.  The bill, 
+approved 296 to 193, further provides for the establishment 
+of a "college of mediators" to decide on copyright 
+exceptions.  Finally, the new law insists on the 
+"interoperability" of the Apple iTunes Music Store with 
+other music portals such as Sony, Virgin and FNAC, thus 
+bypassing digital rights management (DRM).  What was 
+originally seen as an opportunity to adapt France's 
+Intellectual Property Code to the digital environment and 
+combating piracy and counterfeiting has become a highly 
+complex, technical text, incomprehensible even to the most 
+specialized lawyers.  The debate is therefore far from over 
+as the draft bill moves to the Senate in May, where 
+parliamentary staff is far more knowledgeable on high-tech 
+and intellectual property issues than the National Assembly. 
+End Summary. 
+ 
+The new bill: an embarrassment for the Government 
+--------------------------------------------- ---- 
+ 
+¶2.  (SBU)  The Law on authors' rights and related rights in 
+the information society (called DADVSI for short in French) 
+is the French Government's third attempt to transpose the 
+2001 EU Copyright Directive.  Begun in 2001, the debate on 
+the draft bill was characterized by mixed messages and 
+confused strategies.  Before being voted by the National 
+Assembly on March 21, the government had successively 
+proposed watering down fines and prison sentences for 
+illegal downloading, withdrawn a proposal to legalize the 
+copying of a movie and music files from the Internet via a 
+flat tax (which legislators had seen as popular with youth 
+voters), and shrouded in confusion a proposal to make music 
+files playable on any system. 
+ 
+Penalties for  illegal downloads 
+---------------------------------- 
+ 
+¶3.  (SBU)  In its current form, the DADVSI allows for a jail 
+term of up to six months and a fine of 30,000 euros (USD 
+37,000) for those who supply software enabling users to 
+break copyright protection on DVDs and CDs, making them 
+available on the Internet. Furthermore, people possessing or 
+using this software to remove copyright protection will face 
+a fine of 750 euros, while hackers caught working 
+individually to break the copyright on discs will face a 
+fine of 3,750 euros.  The first-time offender downloading 
+tunes or a film will be fined 38 euros.  U.S. industry had 
+lobbied discretly to ensure that "habitual" copiers were the 
+target of enforcement. 
+ 
+Copyright Exceptions 
+-------------------- 
+ 
+¶4.  (SBU)  One of the key debates in the draft bill was the 
+nature of the private copy:  was there to be legislation 
+that legalized a private copy or was the "exception" to the 
+law to be maintained?  The current draft bill has not 
+legitimized the private copy, a concept that was upheld 
+recently in a court case over illegal copying of a DVD of 
+David Lynch's 2001 film Mulholland Drive. U.S. industry had 
+appealed the earlier result.  France's top appeal court, the 
+Cour de Cassation, ruled in February 2006 that there was no 
+inherent consumer right to make copies, and that the private 
+copy would remain as an exception. Previously, the 
+government had offered (on shaky legal grounds) language 
+that would have allowed five private copies per person. That 
+language was struck following the Mulholland Drive ruling. 
+ 
+¶5. (U) The draft bill instead will maintain the exception 
+for private use. Instead, the decision will be left to a 
+"college of mediators", on a case-by-case basis.  This 
+"college" will also decide on copyright exceptions for 
+libraries, journalists and handicapped people.  This new 
+independent authority will include two magistrates, who will 
+choose a third mediator, and will be responsible for 
+checking the validity of each of the protection measures 
+used. 
+Attempting to impose a "universal" format 
+----------------------------------------- 
+ 
+¶6.  (SBU)  The new bill attempts to create a universal 
+standard among commercial standards such as Sony Stage, 
+Windows Media Player and Apple iTunes.  These formats, 
+unlike compression formats such as MP3, are proprietary 
+formats whose use is subject to a license or to the use of 
+software belonging to those companies, the most obvious 
+example being the format developed by Apple and intended for 
+the Apple iPod player.  To address this problem and impose a 
+universal system, the National Assembly bill is elusively 
+calling for "interoperability" between these formats, "in 
+the respect of copyright law."  It makes no reference to 
+licenses but calls for all license holders (for any format) 
+to make available to all technical measures necessary for 
+"an open standard."  While this provision applies to all 
+online music stores, Apple would undoubtedly be the most 
+affected given its phenomenal market penetration in France, 
+like elsewhere. 
+ 
+Next Stop: The Senate 
+---------------------- 
+¶7. (SBU)    While industry observers originally thought 
+France's upper house would rubberstamp the National 
+Assembly's bill, the Senate is now likely to play a key role 
+in the shaping of the DADVSI.  While some French National 
+Assembly members have often been caught unaware of the 
+international consequences of their actions, whether 
+debating on the WTO negotiations or on high-tech issues, the 
+Senate has proven a more acute and better-informed observer. 
+The debate resumes in the Senate in May. 
+ 
+Comment: Electioneering and Lack of Expertise 
+--------------------------------------------- 
+ 
+¶8.  (SBU)  A French lawyer from Latham and Watkins told us 
+on March 20 that he had the most difficult time digesting a 
+draft law which combined electioneering with consumer 
+rights, leaving aside all the important issues regarding 
+intellectual property and licenses.  In his view, he said 
+that the government had no business insisting a company 
+share its proprietary format and accused the government as 
+well as consumers' groups of pandering to youth 
+voters/consumers at the expense of clarity.  We surmise that 
+while consumer lobbies had a high impact on the posture that 
+French National Assembly members presented to their 
+constituents, corporate lobbies are likely to have more of a 
+say in the French Senate in May.  Ironically, France 
+intended to break new ground by introducing a "universal" 
+standard to be copied by all.  Instead, it merely succeeded 
+in combining a series of disjointed provisions -- changed 
+time and time again -- giving the final product very little 
+credibility. End Comment. 
+Stapleton

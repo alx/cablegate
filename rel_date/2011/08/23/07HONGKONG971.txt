@@ -1,0 +1,172 @@
+07HONGKONG971
+EXTRANCHECK: PRE-LICENSE CHECK: TRONIC
+Wed Apr 04 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHHK #0971/01 0940801
+ZNR UUUUU ZZH
+R 040801Z APR 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 1212
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000971 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: TRONIC 
+TECHNOLOGY NETWORK (HK) CO. LTD. 
+ 
+REF: A) USDOC 00754 
+ 
+1.Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of 
+the Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO), accompanied by Commercial 
+Assistant, Sandy Lai, conducted a pre-license check 
+(PLC) at Tronic Technology Network (HK) Co. Ltd., 
+Unit 2-3 Hope Sea Industrial Centre No. 22-24, Lam 
+Hing Street, Kowloon Bay, Hong Kong (Tronic). The 
+items in question are two pulse generators, valued at 
+USD 35,900.  The export control classification number 
+(ECCN) for these items is 3A230.  Items classified as 
+3A230 are controlled for nuclear nonproliferation 
+reasons and require a license for export to Hong 
+Kong.  The license applicant is El-Pax, Inc. of 
+Burlingame, California (El-Pax).  The Hong Kong 
+purchaser of the items is Goodwell Microelectronics 
+Limited (Goodwell) while Tronic is listed on the 
+license application as the ultimate consignee. 
+ 
+¶3.  According to the Hong Kong Companies Registry, 
+Tronic has been in existence since April of 2000 and 
+has only nominal paid-in capital.  Directors of 
+Tronic are listed as mainland Chinese national Zugang 
+Lai as well as Hong Kong identity card holder Ha Lo. 
+Collocated at the same address are three additional 
+companies, China Oriental Express Company Limited 
+(established in 1994)(China Oriental), Dragon Well 
+Transportation Limited (established in 1998)(Dragon 
+Well), Oriental Resource International Development 
+Company Limited (established in 1997) (Oriental 
+Resource).  Ms. Lo is a director of these three 
+additional companies as is Hong Kong identity card 
+holder Sheung Wing Hai.  Oriental Resource has one 
+additional director, Hong Kong identity card holder, 
+Chi Kong Lau.  All companies have only nominal paid- 
+in share capital. 
+ 
+¶4.  Ms. Lo is listed in the Companies Registry as the 
+director in several additional companies in Hong Kong 
+including Action Technology (HK) Company Limited, 
+China Dragon Well Development (HK) Limited 
+(dissolved), Gori Electronic (HK) Company Limited, 
+Joint Express Transportation Limited and Konge 
+Industrial Development Company Limited (dissolved). 
+Chi Kong Lau is listed in the Companies Registry as 
+director in Amethyst Kingdom Company Limited, Huge 
+Loyal Investment Limited and June Just Company 
+Limited. 
+ 
+¶5.  According to the Companies Registry, Goodwell 
+(Tronic's supplier and buyer from El-Pax) has nominal 
+paid-in capital.  Its directors are Hui Yi Li and 
+Jian Heng Li, both mainland Chinese nationals. 
+Goodwell is collocated with Fiaco Microelectronics 
+(HK) Limited.  A google search reveals that Fiaco is 
+apparently the parent company of El-Pax (the U.S. 
+exporter and export license applicant).  A review of 
+the Tronic to Goodwell fax reveals that it is 
+addressed to Ms. Sindy Lau who is also listed as the 
+contact person for Fiaco (at the fax number listed 
+for Fiaco at www.fiaco.com). 
+ 
+¶6.  The ECO, accompanied by Commercial Assistant 
+Sandy Lai, visited Tronic at the address referenced 
+above on March 5, 2007 and met with Ms. Ha (Phoebe) 
+Lo.  Signage outside of the building lists the 
+tenants of the particular unit as China Oriental and 
+Dragon Well but makes no reference to Tronic.  Ms. Lo 
+provided background on Tronic and its business and 
+the proposed end-use of the items. She stated that 
+Tronic has two shareholders and four staff persons 
+and is involved primarily in mobile phone accessories 
+trading as well as trading in the area of cables and 
+modems.  Its clients are located in Hong Kong and 
+mainland China.  Ms. Lo noted that shareholders in 
+Tronic are also shareholders in other companies 
+including Oriental Resource, Dragon Well and China 
+Oriental (referenced above). 
+ 
+¶7.  When asked about the proposed use of the items, 
+Ms. Lo stated that they would be provided to Tronic's 
+ 
+ 
+client for IP TV cable testing.  Ms. Lo did not have 
+a copy of the contract with Tronic's client on hand. 
+However, she did provide a copy of a fax dated 
+December 15, 2006 to Goodwell that references an 
+order for the items and Tronic's End-Use Certificate 
+(dated November 25, 2006) and BIS-711 (Statement by 
+Ultimate Consignee and Purchaser).  In the BIS-711, 
+attached to the fax, Tronic marked the applicable box 
+relating to end-use stipulating that Tronic would be 
+the user of the items.  Tronic further stated on the 
+form that the items would be used by Tronic in 
+quality inspection of cable and that the nature of 
+Tronic's business is "Research Etd."  When later 
+asked by phone why Tronic had elected not to mark the 
+box stating that the items would be resold, Ms. Ho 
+stated that at the time she completed the form, 
+Tronic did not have a firm order in place.  [ECO 
+Comment:  This explanation is not entirely credible 
+since it is clear that it was never intended that 
+Tronic use the item.  As such, it would have been 
+more appropriate to state the items were for resale, 
+regardless of whether there was a firm order in 
+place.] 
+ 
+¶8.  By e-mail dated March 13, 2007, Ms. Ho stated 
+that the Hong Kong customer for the items is Ipma 
+Technology International Limited (HK) Co. (Ipma).  On 
+March 15, 2007, Ms. Ho provided a contract between 
+Tronic and Ipma for the items dated December 12, 
+¶2006.  It is worth noting that the sale price for 
+this transaction is USD 50,473 while the sale price 
+in the Goodwell to Tronic transaction is USD 43,890 
+and the value listed on the license application is 
+USD 35,910.  According to the Companies Registry, 
+Ipma has been in existence since 2005 and has the 
+equivalent of USD 500,000 paid-in share capital.  Its 
+director is Hong Kong identity card holder Man Bue 
+Loong.  More information on Ipma's broadband and 
+telecommunications business can be found at 
+www.ipmaco.com. 
+ 
+¶9.  On March 26, 2007, Ms. Vicky Lee, Marketing 
+Communication Officer of Ipma stated by phone that 
+Ipma had not placed the order claimed by Tronic. 
+Subsequently, on March 27, 2007, Ms. Josephine Or, 
+Manager for Product Marketing of Ipma called to say 
+that she was the more appropriate person to ascertain 
+whether an order existed.  On April 4, 2007, she 
+stated that no such order existed. 
+ 
+¶10.  The ECO recommends that this PLC of Tronic be 
+considered Unfavorable. 
+Sakaue

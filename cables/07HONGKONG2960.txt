@@ -1,0 +1,76 @@
+07HONGKONG2960
+EXTRANCHECK: PRE-LICENSE CHECK: COMPUTIME LIMITED
+Wed Dec 05 00:00:00 +0100 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0008
+RR RUEHWEB
+
+DE RUEHHK #2960 3390827
+ZNR UUUUU ZZH
+R 050827Z DEC 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 3574
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002960 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: COMPUTIME LIMITED 
+ 
+REF: A) USDOC 09011 B) D383541 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO), conducted 
+a pre-license check at Computime Limited, 17/F, Great Eagle Center, 
+23 Harbor Road, Wanchai, Hong Kong (Computime). The purpose of the 
+visit was to determine the suitability of Computime to be a 
+recipient of technology and hardware for CTL Zigbee radio modules 
+and related software that are the subject of export license 
+application D383541.  The items (ECCN 5A002 and 5E002) are valued at 
+USD $25,003 and are controlled for national security reasons (NS). 
+The license applicant is Cincinnati Technologies of Mason Ohio. 
+ 
+¶3. On November 16, 2007, ECO visited Computime at the address listed 
+above and met with Mr. Shen Owyang, General Manager, Wireless 
+Solutions.  According to Mr. Owyang, the company was established in 
+1974 and is involved in the design and production of remote 
+controllers for household heating and cooling equipment.  The 
+company has operations worldwide, including production facilities in 
+mainland China.  Customers are located in Asia, Europe and the 
+United States (but, as of yet, not in mainland China).  Computime is 
+a Hong Kong stock exchange listed company (its IPO was completed in 
+2006). 
+ 
+¶4.  Mr. Owyang stated that Computime is in the final stages of its 
+acquisition of Cincinnati Technologies (the license applicant).  As 
+part of that acquisition, certain design software for various 
+controllers will be transferred to Computime.  Mr. Owyang stressed 
+that the underlying encryption technology that is the subject of the 
+license application is actually not designed or controlled by either 
+Cincinnati Technologies or Computime.  Rather, those companies 
+purchase chip sets from Ember Technologies (www.ember.com) and it is 
+those chip sets that contain the encryption.  OEA may wish to 
+confirm that Ember is, in fact, obtaining licenses (as appropriate) 
+for any chip sets containing encryption technology that it is 
+sending to Computime. 
+ 
+¶5. Mr. Owyang stated that he and the company are keen to comply with 
+all applicable export controls (including both U.S. and Hong Kong 
+controls).  Computime expects to finalize the acquisition of 
+Cincinnati Technologies shortly and Mr. Owyang therefore requested 
+that the license application be considered expeditiously. 
+ 
+Cunningham

@@ -1,0 +1,76 @@
+09HONGKONG179
+EXTRANCHECK: PRE LICENSE CHECK: TRACE ELEMENTS SECTION,
+Thu Jan 29 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0007
+RR RUEHWEB
+
+DE RUEHHK #0179 0290419
+ZNR UUUUU ZZH
+R 290419Z JAN 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDO WASHD
+INFO RUEHC/SECSTATE WASHDC 6777
+RHMFIU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000179 
+ 
+USDOC FOR 532/OEA/MNICKSON/ADYSON/TWILLIS/EHOLLAND 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: PRE LICENSE CHECK: TRACE ELEMENTS SECTION, 
+GOVERNMENT OF HONG KONG LABORATORY 
+ 
+REF: A) D409681 B) USDOC 00092 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. At the direction of the Office of Enforcement Analysis (OEA) of 
+the USDOC Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO) conducted a pre-license check (PLC) at 
+the Trace Elements Section, Government of Hong Kong Laboratory, 88 
+Chung Hau Street, Homantin, Kowloon, Hong Kong. The item in question 
+is an Agilent 7500cx ICP-MS. This item is classified under export 
+control classification number (ECCN) 3A233 and is controlled for 
+nuclear nonproliferation (NP) reasons. 
+ 
+¶3.  The Hong Kong Laboratory, Trace Elements Section, was 
+established in 2003 to centralize all human and physical resources 
+for the determinations of trace elements within the Hong Kong 
+Government Laboratory.  The Trace Elements Section mainly provides 
+analytical support to the Environmental Chemistry Sections and the 
+Food Safety Sections of the Hong Kong Government Laboratory for 
+elemental analysis.  More information can be found at 
+www.govtlab.gov.hk. 
+ 
+¶4.  On January 21, 2009, ECO visited the Trace Elements Section and 
+met with Dr. Wai-hong Fung, Chemist, Analytical and Advisory 
+Services Division in the Division's laboratory.  He confirmed that 
+the Trace Elements Section ordered the item in question from 
+Agilent's Hong Kong distributor, Tegent Technology as part of a 
+tender process.  The new item is being purchased to replace a Perkin 
+Elmer Elan 6100 which is quite old and no longer operating at an 
+optimal level.  Mr. Fung stated that the existing Elan 6100 will be 
+traded in as part of the purchase process to Tegent.  He also noted 
+that Hong Kong Customs will confirm proper disposition of the 
+existing Perkin Elmer unit since it was imported into Hong Kong 
+under a Hong Kong Strategic Commodities license.  Mr. Fung was open 
+and cooperative and provided purchase order and other documentation 
+confirming the purchase. 
+ 
+¶5.  ECO notes that Hong Kong government entities typically purchase 
+equipment through a centralized tender process from Hong Kong 
+resellers.  This process is an open and transparent process and ECO 
+views it as highly unlikely that items procured by the Hong Kong 
+Government or affiliated entities will be diverted to unauthorized 
+end-uses or end-users. 
+ 
+¶6.  Based on the information noted above, ECO believes that the 
+Trace Elements Section is a suitable recipient of U.S. origin 
+controlled technology.

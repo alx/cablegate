@@ -1,0 +1,76 @@
+09MOSCOW644
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: MULTYSERVISNAYA
+Tue Mar 17 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0003
+PP RUEHWEB
+
+DE RUEHMO #0644 0761048
+ZNR UUUUU ZZH
+P 171048Z MAR 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2420
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000644 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: MULTYSERVISNAYA 
+RADIOSET, MOSCOW, RUSSIA. 
+ 
+REFTELS: USDOC 0469 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Multyservisnaya 
+Radioset, Moscow, Russia. The company is listed on BIS license 
+applications: NLR as the ultimate consignee of 52 static converters 
+for telecommunications and mobile communications equipment and 
+assemblies and components. These items are controlled for national 
+security, anti-terrorism and encryption reasons under ECCN 5A002 and 
+5A992. The licensee is Extreme Networks, 3585 Monroe Street, 
+Building 4, Santa Clara, CA 95051. 
+ 
+¶3. On March 16, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of Multyservisnaya Radioset, 2nd 
+Setunskiy Proezd, 13/2, Moscow, Russia. The export control team met 
+with Isak Alon, Head of the Logistics Department. 
+ 
+¶4. Multyservisnaya Radioset was founded in 2005 as an open joint 
+stock company in the telecommunications industry.  Multyservisnaya 
+Radioset is partially owned (approximately 45%) by the Moscow city 
+government and employs approximately 70 people.  Multyservisnaya 
+Radioset was established primarily to build a multi-service 
+transport network of fiber optics for wimax and wifi network for the 
+city of Moscow and the surrounding suburbs. 
+ 
+¶5. Isak Alon stated that 95% of the commodities in reftel have 
+already been installed in the network for the project with the 
+Moscow city government.  Alon stated that the network will be 
+utilized by almost of the Moscow municipalities.  Alon stated that 
+Multyservisnaya Radioset has used some of the reftel commodities in 
+the fiber optics network for wifi in the schools within the Moscow 
+city limits. 
+ 
+¶6. Multyservisnaya Radioset has a legitimate need and a legitimate 
+end use for the reftel commodity.  Isak Alon was not evasive when 
+answering the export control teamQs questions.  The export control 
+team saw no indications of impropriety and the equipment was being 
+used for which it was licensed. 
+ 
+¶7. Recommendations: Post recommends Multyservisnaya Radioset, 
+Moscow, Russia, as a reliable recipient of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

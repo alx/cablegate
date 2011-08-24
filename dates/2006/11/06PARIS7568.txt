@@ -1,0 +1,151 @@
+06PARIS7568
+FCC AND ARCEP COMMISSIONERS DISCUSS NEXT GENERATION
+Tue Nov 28 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXRO0280
+RR RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHFR #7568/01 3321405
+ZNR UUUUU ZZH
+R 281405Z NOV 06
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 3404
+RUEAFCC/FCC WASHDC
+INFO RUCPDOC/USDOC WASHDC
+RUEAWJA/DEPARTMENT OF JUSTICE WASHDC
+RUCNMEM/EU MEMBER STATESUNCLAS SECTION 01 OF 02 PARIS 007568 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE EB/CIP TFINTON AND EUR/WE 
+FCC FOR TWEISLER 
+PLEASE PASS TO USTR JMCHALE AND KSCHAGRIN 
+COMMERCE FOR NTIA CSPECHT AND ITA JBURTON 
+JUSTICE FOR KWILLNER 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON FR
+SUBJECT: FCC AND ARCEP COMMISSIONERS DISCUSS NEXT GENERATION 
+NETWORKS AND UPCOMING TELECOM ISSUES 
+ 
+ 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+¶1. (SBU) Summary:  Federal Communications Commissioner Deborah Tate 
+discussed telecommunications regulatory issues with her French 
+counterpart telecommunications regulator Autorite de Regulation des 
+Communication Electronique et des Postes (ARCEP) Commissioner 
+Gabrielle Gauthey on November 10.  Gauthey said that France 
+compensated for its relatively low cable penetration rates by 
+offering pay television and other high-value added telecommunication 
+services through its phone lines.  "Triple play" offers with long 
+distance telephone service, broadband, and television were among the 
+cheapest in the world at USD 36.50 a month.  Investment in fiber 
+networks was increasing, however, with France Telecom's competitors 
+investing as much as the incumbent.  ARCEP coordinates regularly 
+with France's broadcast regulator and other EU member states.  End 
+summary. 
+ 
+¶2. (U) On November 10, Federal Communications Commissioner Deborah 
+Tate met with her French counterpart telecommunications regulator 
+Autorite de Regulation des Communication Electronique et des Postes 
+(ARCEP) Commissioner Gabrielle Gauthey on competition in the 
+telecommunication industry, next generation networks, European 
+coordination, and universal service.  ARCEP International Relations 
+Chief Joel Voisin-Ratelle, FCC Western Europe Advisor Tracey 
+Weisler, and econoff also attended. 
+ 
+¶3. (SBU) According to Gauthey, cable was relatively undeveloped in 
+France, with only a five percent penetration rate.  However, French 
+telecom firms provided "triple play" long distance telecom, 
+broadband ADSL internet services, and television services over the 
+telecom network.  Competition was robust, with many companies 
+charging 30 euros (USD 36.50) per month, among the lowest rates in 
+the world.  Seventeen percent of French residents obtain their 
+telephone services over the internet (VOIP).  All of France 
+Telecom's competitors comprise about 50 percent of all 
+telecommunications networks.  Many of these competitors have changed 
+their business model from renting capacity from France Telecom to 
+building their own capacity.  That said, local loop unbundling does 
+not take place in all regions of France.  In rural areas, consumers 
+can only gain access to two to eight megabits, which is not enough 
+for video. 
+ 
+¶4. (SBU) Cable was weak in France for several reasons, Gauthey 
+explained.  France Telecom owned France's first cable operation and 
+intentionally did not upgrade it so that it would not cannibalize 
+its telecommunications operations.  France's efforts therefore went 
+into developing its broadband DSL services.  Unbundling the local 
+loop has resulted in booming competition.  Nonincumbent operators 
+such as Free and Neuf Telecom have driven innovation.  ARCEP has 
+also spurred competition through bit stream access, i.e., wholesale 
+broadband access.  Finally, France's copper network is newer than 
+that in the U.S. and does not have to be replaced. 
+ 
+¶5. (SBU) However, France's fiber network is beginning to expand more 
+rapidly.  Telecom provider Free announced that it would invest 300 
+million euros (USD 375 million) by the end of 2007 to build a fiber 
+optic network that would reach four million households.  ARCEP had 
+just issued spectrum for wimax through a "beauty contest," Gauthey 
+said.  ARCEP used three criteria to evaluate the packages assembled 
+by telecommunication companies:  price, territorial coverage, and 
+bit stream or broadband coverage.  In total, 14 regional governments 
+applied for a license to ensure their region had adequate coverage, 
+and six obtained one, in addition to private companies. 
+ 
+¶6. (SBU) Gauthey said that in recent years, universal service has 
+become a less "talked-about" subject, even though the GOF has not 
+yet decided whether next generation networks should contribute to 
+the universal service fund.  Telecom service providers pay directly 
+into this fund, and it does not appear as a separate item on phone 
+bills as in the U.S.  Since France Telecom is the recipient of the 
+universal service fund, it is supportive of the expansion of its 
+coverage to broadband. 
+ 
+¶7. (U) European Union (EU) member state telecommunication regulators 
+met regularly to coordinate policy, Gauthey said.   The group is 
+discussing appropriate ways to harmonize regulation and whether to 
+harmonize termination rates.  It is also reviewing the entire EU 
+telecommunications framework in preparation for new directives that 
+the Commission will issue next year.  In addition, the European 
+Commission is active in deciding whether incumbent telecommunication 
+providers are dominant players that are abusing their market power. 
+If so, each regulatory has a toolbox of remedies. 
+ 
+PARIS 00007568  002 OF 002 
+ 
+ 
+ 
+¶8. (SBU) Commissioner Tate noted that, in the U.S., the FCC was 
+discussing how to manage termination fees mobile phone companies 
+impose on consumers when they terminate service before the end of a 
+fixed contract.  Gauthey noted that the EU was also debating such 
+fees, particularly the need to harmonize them.  However, the Conseil 
+de la Concurrence (Competition Council), not ARCEP, was managing 
+this issue. 
+ 
+¶9. (SBU) Gauthey explained that, while ARCEP was in charge of 
+frequency allocation and telecommunications industry oversight, 
+another French agency, Conseil Superieur de l'Audiovisuel (CSA), 
+oversaw the broadcasting industry and its allocated spectrum. 
+Rumors have persisted about a merger between the two agencies, but 
+their functions were discrete.  Two ARCEP commissioners meet with 
+two CSA commissioners every month to coordinate on overlapping 
+issues and issue joint recommendations.  Two issues they discuss are 
+spectrum usage and the "digital dividend" or what to do with 
+spectrum earmarked for analog broadcasters after television and 
+radio switch over to digital transmissions.  She said that the two 
+also worked together to pass laws against child pornography and hate 
+content on the internet, but CSA does not, in general, want to 
+regulate content.   Commissioner Tate responded that the FCC is very 
+considerate of protecting children through ensuring transmission of 
+appropriate programs.  Congress has allowed fines to increase 
+tenfold.  However, FCC looks into indecent programming only upon the 
+receipt of a complaint. 
+ 
+¶10. (U) FCC cleared this message. 
+ 
+STAPLETON

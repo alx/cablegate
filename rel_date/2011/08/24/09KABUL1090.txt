@@ -1,0 +1,147 @@
+09KABUL1090
+Knowledge Management Action Plan for U.S.
+Wed Apr 29 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Kabul
+VZCZCXYZ0012
+RR RUEHWEB
+
+DE RUEHBUL #1090/01 1191419
+ZNR UUUUU ZZH
+R 291419Z APR 09
+FM AMEMBASSY KABUL
+TO RUEHC/SECSTATE WASHDC 8673
+INFO RUEHBK/AMEMBASSY BANGKOK 2042
+RUEHFSI/FSINFATC WASHDC
+RHMFISS/CDR USCENTCOM MACDILL AFB FL
+RXFPSHK/ISAF HQ
+RHMFISS/USFOR-A
+RUEHBU/AMEMBASSY BUENOS AIRES 0020UNCLAS KABUL 001090 
+ 
+SIPDIS 
+ 
+DEPT FOR D(L), M, CIO, S/SRAP, RM, SCA/A AMB. EIKENBERRY 
+FROM RICCIARDONE 
+NFATC FOR DIRECTOR WHITESIDE 
+USAID FOR A/ADMINISTRATOR 
+BANGKOK FOR RIMC 
+BUENOS AIRES FOR AMBASSADOR 
+ISAF FOR COMMANDER 
+USFOR-A FOR COMMANDER AND J6 
+ 
+E.O. 12958: N/A 
+TAGS: AMGT AADP KRIM AF
+SUBJECT:  Knowledge Management Action Plan for U.S. 
+Mission Afghanistan 
+ 
+1.A/COM INTRODUCTION: I endorse the following message 
+from Kabul Chief Knowledge Officer (CKO) Kathleen Lively, 
+and ask Department and USAID leadership's support for our 
+plan.  CKO Lively has been leading an IM interagency task 
+force combining civilian agencies under COM authority and 
+USFOR-A J6.  This team's goal is to improve intra-USG 
+Information Communication Technology (ICT) systems and 
+exploitation of them, with a longer-range goal of 
+improving USG collaboration via ICT with host nation, 
+third country, and NGO partners.  We believe this goal is 
+directly in line with President Obama's "whole of 
+government" philosophy. 
+ 
+Begin CKO plan: 
+Summary 
+======= 
+¶2. We must move forward as a Mission, not a collection of 
+disparate Agencies, to succeed in Afghanistan.  It is 
+thus critical to create and maintain effective 
+collaboration and robust Knowledge Management across USG 
+agencies and elements throughout Afghanistan, and between 
+us and colleagues in Washington, Islamabad and CENTCOM. 
+To do so we must overcome the seams among our many 
+custom-built IM networks we all access.  U.S. Mission 
+Afghanistan requests the Department's (including USAID's) 
+assistance in three keys areas: 
+ 
+      -- 1) The migration to one Unclassified network as 
+discussed in KABUL 1089 to improve policy coordination 
+and management efficiencies while meeting the business 
+requirements of all agencies; 
+ 
+      -- 2) Extensive promotion of and training on 
+existing collaboration tools such as Intelink, Net 
+Centric Diplomacy (NCD), Communities at State, SharePoint 
+and Adobe Connect to Mission staff; and 
+ 
+      -- 3) Resources to fund and implement a method to 
+create a timely, seamless flow of information from 
+unclassified sources and networks to higher-level, secure 
+government networks. 
+ 
+Improving System Performance 
+============================ 
+¶3. While one network will be a great leap forward in 
+terms of coordination, U.S. Mission Afghanistan's limited 
+communication infrastructure and staff are also 
+impediments to success.  We request that IRM engineers 
+explore ways to improve the performance of our 
+collaboration tools on both the Classified and 
+Unclassified networks so that Mission users can access 
+and use these tools more quickly and efficiently. 
+ 
+Training and Subject Matter Expertise Needed 
+============================================ 
+¶4. We need assistance from the Department and other 
+experts in sensitizing and training our staff regarding 
+existing tools such as Intelink, uGov mail, NCD, 
+SharePoint , and Communities at State. We are requesting 
+a joint IRM and RM/IRP team travel to post to train all 
+Mission staff in the effective use of these tools.  This 
+training must be complemented by efforts in Washington to 
+ensure that staff traveling to post have Intelink 
+Passports and that Provincial Reconstruction Team (PRT) 
+employees also have uGov mail accounts.  This area is 
+ripe for collaborating with our host nation, third 
+country and NGO/private sector partners.   We request 
+that the Department reach out to experts such as 
+Microsoft that have partnered with us in the past on 
+SharePoint and other collaboration tools to assist us 
+with establishing an effective collaboration site, 
+sharing government best practices for collaboration 
+standards and processes, and helping us to get the most 
+out of these robust tools. 
+ 
+Tapping into Critical Unclassified Information 
+============================================= = 
+ 
+¶5. There are many important inputs from the PRTs and 
+others located off the Embassy compound, such as our 
+implementing partners and NGOs, that exist in the 
+unclassified realm, but with too limited access to 
+government networks.  We need an easy way to ensure that 
+this wealth of information can enter our collaboration 
+space and be made available to all Mission elements. 
+Other Agencies, implementing partners, and PRT officers 
+require a better way to exchange and access information 
+before stovepipes lead to ill-informed decisions on 
+critical issues.  Accordingly, important ground-truth 
+information from a variety of reporters needs to make a 
+seamless migration to the classified enclave for analysts 
+and policymakers who exist virtually only on higher 
+networks.  Mission Afghanistan requests that the 
+Department send a software development team to gather 
+requirements in order to make this important pathway for 
+information sharing a quick reality. 
+ 
+We Succeed Together 
+=================== 
+¶6. While we are making progress on leveraging existing 
+tools such as Intelink and uGov email we request the 
+Department's assistance on these issues to meet the 
+President's objectives in Afghanistan; State and USAID 
+need to be in lockstep on one network, existing tools 
+need to be familiar and dependable for all Mission 
+employees, and a connector between the unclassified and 
+classified enclaves needs to be built to tap the wealth 
+of information that is available on the unclassified 
+side. We ask for Department (including USAID) 
+leadership's support and active engagement to realize 
+these goals.

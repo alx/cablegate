@@ -1,0 +1,63 @@
+06PARIS6844
+FRANCE:  BLUE LANTERN LEVEL 3:  PRE-LICENSE END
+Tue Oct 17 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Paris
+null
+Lucia A Keegan  10/18/2006 09:57:19 AM  From  DB/Inbox:  Lucia A Keegan
+
+Cable 
+Text:                                                                      
+                                                                           
+      
+UNCLAS        PARIS 06844
+
+SIPDIS
+cxparis:
+    ACTION: ECON
+    INFO:   UNESCO ECSO SCI ENGO SCIO TRDO AMB AGR ESCI FCS
+            LABO POL ORA DCM ECNO
+
+DISSEMINATION: ECONOUT /1
+CHARGE: PROG
+
+APPROVED: ECON:SDWYER
+DRAFTED: ECON:HSULLIVAN
+CLEARED: NONE
+
+VZCZCFRI244
+PP RUEHC
+DE RUEHFR #6844 2901337
+ZNR UUUUU ZZH
+P 171337Z OCT 06
+FM AMEMBASSY PARIS
+TO SECSTATE WASHDC PRIORITY 2261UNCLAS PARIS 006844 
+ 
+SIPDIS 
+ 
+STATE FOR PM/DTCC - BLUE LANTERN COORDINATOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC FR
+SUBJECT: FRANCE:  BLUE LANTERN LEVEL 3:  PRE-LICENSE END 
+USE CHECK ON LICENSE 05-1004053 
+ 
+REF: A. PARIS 6523 
+ 
+     ¶B. STATE 131954 
+ 
+MBDA France Missile Systems Contract Management Department 
+Head Patrick Bernard contacted the Embassy by fax with 
+additional information regarding license 05-1004053 for the 
+export of recorders, producers, and related equipment to 
+France.  Bernard confirmed MBDA's order of MSSR-2000-SA 
+recording equipment from EXPAN, located at 22, rue Mozart, 
+92110 Clichy, France.  Bernard said that they have not had 
+difficulties with EXPAN during previous orders.  Bernard 
+confirmed that the order would be used only for MBDA itself, 
+not the French Armed forces, to test the parameters of 
+acquisitions in the EXOCET AM39 missile program in France, as 
+noted in the May 2006 end-use statement. 
+Please visit Paris' Classified Website at: 
+http://www.state.sgov.gov/p/eur/paris/index.c fm 
+STAPLETON

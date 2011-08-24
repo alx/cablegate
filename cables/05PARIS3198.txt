@@ -1,0 +1,840 @@
+05PARIS3198
+FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR
+Wed May 11 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+111351Z May 05UNCLAS SECTION 01 OF 10 PARIS 003198 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR); 
+EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR 
+FOUR PRINCIPAL CANDIDATES AND ONE ALTERNATE FOR ITT - 
+POLITICAL, ECONOMIC AND TRADE ISSUES IN THE U.S. 
+ 
+REF: 
+ 
+POST WOULD LIKE TO NOMINATE FOUR PRINCIPAL CANDIDATES FOR 
+SUBJECT PROGRAM: MR. SEBASTIEN HUYGHE; MR. JEAN-LOUIS 
+VALENTIN; MR. CHRISTOPHE BECHU; MR. PHILIPPE ROUAULT. ONE 
+ALTERNATE IS NOMINATED FOR SUBJECT: MR. OLIVIER NOCQUET. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 280 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - ITT Political, Economic and Trade Issues 
+in the U.S. 
+START MEMO PROJ-DESC: 
+To experience U.S. political and cultural life through the 
+understanding of U.S. political system, policy-making process, 
+legislation and regulation; focusing on international affairs, 
+financial, economic, trade and agricultural issues through 
+domestic governance, and rural development issues. 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individuals Traveling Together 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 5 
+RANK-ORDER: 9 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: ITT 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: U.S. Economy 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Sebastien 
+M-NAME: 
+L-NAME: Huyghe 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: 234, rue du General de Gaulle 
+M-ADDR2: 
+M-ADDR3: 
+M-CITY: Wattignies 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 59139 
+M-ZIP: 
+M-PHONE: + (33) 3.20.60.26.26 
+M-FAX: + (33) 3.20.60.38.34 
+M-EMAIL: shuyghe@assemblee-nationale.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: H 
+GENDER: M 
+DOB: 10/25/1969 
+MAR-STAT: M 
+BIRTH-CITY: Bethune 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Member of the National Assembly, since 2002 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Member of the Regional Council of Nord - Pas-de-Calais, since 
+2002 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1995-2002 - Member of the City Council of La Madeleine 
+1995-2002 - Vice-President of an insurance company 
+ 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+- Miami - January 2005, 5 day delegation with French Minister 
+of Foreign Trade 
+- New York - October 2004, 6 day seminar Paris Europlace 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1987-1991 
+- Law degree at University of Lille Law School 
+- Certificate in business administration in Lille 
+- Clerk diploma at the Clerk Training Center 
+- PhD in Law, town planning, building and environment 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 2 
+ENGL-SPEAK: 2 
+ENGL-COMP: 2 
+START MEMO NOM-POST-OBJ: 
+An International Visitor Program for "Depute" HUYGHE would 
+address the MPP Strategic Goal of "Economic Prosperity and 
+Security" by promoting exchanges between U.S. policymakers and 
+an important French politician. It would also help a lawmaker 
+who has already worked on financial reform to better 
+understand U.S. financial markets in order to use that 
+knowledge to "ease the regulatory burden on financial 
+markets." 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Nominating officer recommends a program that focuses on 
+Monsieur Huyghe's interest in financial reform and his 
+involvement with cleaning up industrial pollution. Either an 
+individual or a group program would be appropriate. Meetings 
+in Washington should focus on financial and environmental 
+legislation and regulation. Visits to the New York Stock 
+Exchange and the Securities and Exchange Commission (SEC) to 
+see the system in operation would be most useful, as would the 
+opportunity to see successfully completed as well as ongoing 
+clean-up operations. Love Canal comes to mind. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Richard Huckaby 
+START MEMO NOMINATING-JUSTIFICATION: 
+Sebastien Huyghe is definitely a rising star in the UMP (Union 
+pour un Mouvement Populaire). Having deposed Lille's Socialist 
+Mayor Martine AUBRY from her seat in the National Assembly in 
+the last general election in 2002, he has attracted both local 
+and national attention. A very active "depute", his interests 
+include finance law and the environment. For example, he was 
+instrumental in pushing through legislation reducing the tax 
+burden of expatriate executives living in France in 2003, and 
+he serves as Vice-President of the legislative study group on 
+historical environmental pollution. He is also a member of the 
+group responsible for France-U.S. relations. 
+Although he has hardly any U.S. experience (about two weeks 
+total), he has an open mind and a generally positive view. An 
+International Visitor program would allow him to learn 
+firsthand about various aspects of the American political 
+scene, including the functioning of legislative bodies and the 
+private/government partnerships which have been developed to 
+address environmental problems. He has the personality and the 
+intellectual capacity to counter some of the traditional anti- 
+Americanism of French intellectuals and politicians. The 
+opportunity for him to learn about U.S. pollution control 
+technologies could also bring business to American companies. 
+It is certainly in the interest of the U.S. government for 
+this young political leader to have the opportunity to 
+experience directly various aspects of U.S. political and 
+cultural life. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Lille, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 560 
+PERSON-ID: 459 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Jean-Louis 
+M-NAME: 
+L-NAME: Valentin 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Assemblee Nationale 
+M-ADDR2: 128, rue de l'Universite 
+M-ADDR3: 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75007 
+M-ZIP: 
+M-PHONE: + (33) 1.40.63.59.27 
+M-FAX: + (33) 1.40.63.50.93 
+M-EMAIL: jlvalentin@assemblee-nationale.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 04/19/1964 
+MAR-STAT: M 
+BIRTH-CITY: Paris 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Chief of Staff to the President of the National Assembly, 
+since June 2002 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+2001-2002 - Advisor to M. Philippe Seguin, former minister, 
+President of the Accounting Court 
+1999-2000 - Advisor to M. Jean-Louis Debre, President of the 
+RPR political party at the National Assembly 
+1997-1998 - Delegate to the International Relations for the 
+City of Paris 
+1995-1997 - Chief of Staff, Adviser to Mr. Jean-Louis Debre, 
+Minister of Interior 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+- Ankara - 2005, 2 day official travel 
+- Montreal - 2004, 1 day official travel 
+- Rome - 2002, 1 day official travel 
+- Berlin - 2002, 1 day official travel 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1988-1992 
+- Graduate of the National School of Administration (ENA) 
+- Graduate of the Science Politics Institute of Paris 
+- Master of Public Law 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 2 
+ENGL-SPEAK: 2 
+ENGL-COMP: 2 
+START MEMO NOM-POST-OBJ: 
+Nominee hopes to become an elected official.  His ambition is 
+to win a seat in the National Assembly.  If he should succeed 
+in doing so, his having learned about the U.S. through the IV 
+program could prompt a sympathetic, career-long interest in 
+U.S. affairs. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: William Owen; Marie-Claude Dumay 
+START MEMO NOMINATING-JUSTIFICATION: 
+Nominee is an active politician with ambitions to win elective 
+office -- though (like many members of the ruling UMP party) 
+he lost his bid last March for a regional counsellorship in 
+his native region of Normandy.  Nominee is a well-respected, 
+up-and-coming member of the Gaullist "current" of the center- 
+right.  His interest (and governing experience as a former 
+prefect and bureaucrat in the Ministry of the Interior 
+following his graduation from France's elite Ecole Normale 
+d'Administration) is in domestic governance.  In addition, as 
+Chief of Staff to the President of the National Assembly he 
+has considerable influence on legislators' approach to both 
+domestic and international affairs matters.  Nominee has never 
+been to the U.S.  A better understanding of the U.S. and the 
+U.S. policy-making process should inform -- to our benefit -- 
+nominee's contributions to policy making in France. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: POL - U.S. Embassy Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 561 
+PERSON-ID: 460 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Christophe 
+M-NAME: 
+L-NAME: Bechu 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Hotel du Departement 
+M-ADDR2: Place Michel Debre 
+M-ADDR3: BP 94104 
+M-CITY: Angers 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 49041 cedex 01 
+M-ZIP: 
+M-PHONE: + (33) 2.41.81.49.01 
+M-FAX: + (33) 2.41.81.47.17 
+M-EMAIL: 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 06/11/1974 
+MAR-STAT: M 
+BIRTH-CITY: Angers 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+President of the Maine-et-Loire General Council, since 2004 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+- President of the Departmental Fire and Rescue Service, since 
+2001 
+- General Counselor for the area of Angers-NorthWest, since 
+2001 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+2000-2001 - Manager of "Craftelecom" (advising in 
+telecommunication) 
+1998-2001 - Deputy to the Mayor of Avrille 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+California - a few days a couple of years ago, study botanical 
+park 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+- 2002-2003 - Masters in Municipal Law 
+- 1997-1998 - Masters in Public Law 
+- 1993-1996 - Political Studies Institute, Paris 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 1 
+ENGL-SPEAK: 1 
+ENGL-COMP: 1 
+START MEMO NOM-POST-OBJ: 
+We hope Mr. Bechu will gain a better understanding of the U.S. 
+political system, and greater knowledge of American values and 
+culture, thus promoting mutual understanding between our two 
+countries.  We would also like to see him develop a network of 
+contacts in the U.S., especially at the county and municipal 
+level, with whom he could exchange ideas about economic 
+development.  This exchange of experiences would help promote 
+economic development of the U.S.  Ideally, Mr. Bechu will 
+develop a greater appreciation for the U.S. that will incline 
+him toward cooperation with the U.S., thus enhancing our own 
+security, as he moves upward through the French political 
+ranks. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Mr. Bechu should spend some time in Washington, DC to meet 
+with elected officials and government representatives, and to 
+gain a better understanding of the U.S. political system.  He 
+should also visit a few small cities where he can speak to 
+elected officials and economic development specialists to 
+share ideas on attracting jobs and business to smaller 
+municipalities. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Gary A. Clements 
+START MEMO NOMINATING-JUSTIFICATION: 
+Christophe Bechu is the youngest person ever elected President 
+of a General Council in France.  He was elected a municipal 
+councilor of his hometown of Avrille even before completing 
+his studies at Sciences Po in Paris.  Although clearly 
+ambitious, he has kept his focus on the demands of his current 
+job, where he is responsible for a team of 1200 General 
+Council employees.  He has made a point of visiting each 
+canton of his department to listen to the needs of the 
+citizens.  A devoted member of the conservative UMP party, 
+Bechu is nevertheless well liked by his political opponents, 
+and respected for his efforts to improve the economic 
+situation in Maine-et-Loire.  Bechu has made only one brief 
+trip to the U.S. to study a botanical park that he hopes to 
+recreate in his department as part of his economic development 
+plan.  He would thus benefit greatly from exposure to the 
+American political system at this early stage in his promising 
+career.  As he assumes positions of greater authority in the 
+French government, his IV experience will make him more 
+inclined to work cooperatively with the U.S. on matters of 
+mutual interest. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Rennes, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 562 
+PERSON-ID: 461 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Philippe 
+M-NAME: 
+L-NAME: Rouault 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Palais Bourbon 
+M-ADDR2: Casier de la Poste 
+M-ADDR3: 126, rue de l'Universite 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75355 
+M-ZIP: 
+M-PHONE: + (33) 1.40.63.60.00 
+M-FAX: + (33) 2.23.41.35.33 
+M-EMAIL: 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 12/17/1962 
+MAR-STAT: M 
+BIRTH-CITY: Rennes 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Member of the French National Assembly, since 2002 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+- Committee Reporter for Ecology and Sustainable Development 
+at the French National Assembly, since 2002 
+- Member of the Ille-et-Vilaine General Council 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+- 1995-2002 - Mayor of the town of Pace; General Councilor of 
+Ille-et-Vilaine 
+- University - 2002 - Environmental Engineer, specialized in 
+soil and water quality 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+two weeks vacation in 1999 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Cancun. Mexico in September 2003 to attend the WTO Convention 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Post Graduate Engineering Degree, University of Rennes I 
+Masters of Biology, University of Rennes I 
+B.S. in Biology, University of Rennes I 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+President of Young Social Democrats in 1989-1992 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 2 
+ENGL-SPEAK: 2 
+ENGL-COMP: 2 
+START MEMO NOM-POST-OBJ: 
+We hope Mr. Rouault will gain an understanding of the variety 
+of approaches rural areas in the United States have used 
+successfully to ensure their economic survival and protection 
+of their environment. 
+Mr. Rouault will become an important opinion maker in France 
+in the coming years and is potentially a valuable future 
+contact for the USG.   It is our hope that as a result of his 
+participation in the IV program, Philippe Rouault will be 
+inclined to seek out U.S. views on agriculture, trade and 
+other international affairs issues and to support cooperation 
+with the U.S. both privately and publicly. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Mr. Rouault should learn about American political institutions 
+and should meet with elected officials so as to better 
+understand the U.S. political system.  Additionally, he should 
+meet with high-profile farm leaders and U.S. policy makers 
+from farming regions with whom he can exchange views on 
+current trends in rural development. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Eric Beaty 
+START MEMO NOMINATING-JUSTIFICATION: 
+Philippe Rouault, elected Member of the National Assembly in 
+2002, is a former mayor of the suburban town of Pace, and 
+former member of the General Council of the Ille-et-Vilaine 
+Department.  Rouault is a rising star in the UMP party and 
+achieved national prominence in September 2003 when he 
+attended the WTO Cancun Ministerial meeting as a special envoy 
+of the French Parliament.  Rouault has always been interested 
+in French-American relations, but has had little direct 
+exposure to the U.S.  In his role as the committee reporter 
+for the Environmental Commission of the French Parliament, 
+Rouault has taken a keen interest in rural development in 
+order to advance the interests of his largely rural 
+constituency.  An IV program on rural development and 
+governance will enable Mr. Rouault to draw on the experiences 
+of rural communities in the U.S. in fashioning a strategy for 
+his district.  It will also help ensure continued positive 
+relations between the U.S. and this young man with a bright 
+political future. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Rennes, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 563 
+PERSON-ID: 462 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Olivier 
+M-NAME: Yves Philippe 
+L-NAME: Nocquet 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: No 
+M-ADDR1: Permanence parlementaire 
+M-ADDR2: du Senateur Jean Bizet 
+M-ADDR3: Place de l'Eglise 
+M-CITY: Le Teilleul 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 50640 
+M-ZIP: 
+M-PHONE: + (33) 2.33.59.44.54 
+M-FAX: + (33) 2.33.59.72.23 
+M-EMAIL: o.nocquet@libertysurf.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 05/29/1970 
+MAR-STAT: M 
+BIRTH-CITY: Boulogne Billancourt 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Parliamentary Assistant to Senator Jean Bizet of La Manche, 
+since December 1996 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+ 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+none 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Italy, Spain, Slovenia - 1996-2000, holidays 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1996 - DEA - Master's Degree in Political Sciences, University 
+of Paris II 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 2 
+ENGL-SPEAK: 2 
+ENGL-COMP: 2 
+START OTHER-LANGS: 
+OTHER-LANG: German 
+OTHER-LANG-ID: GM 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+We hope Mr. Nocquet will gain an understanding on how rural 
+areas cope with an evolving economy and ensuing population 
+shifts, with a special focus on ways to attract new families, 
+develop new business and maintain basic services. 
+We would also like to see him develop a network of contacts in 
+the U.S., especially at the county and municipal level, with 
+whom he could exchange ideas about economic development. 
+Ideally, Mr Nocquet will develop a greater appreciation for 
+the U.S. that will incline him toward cooperation with the 
+U.S. as he moves upward through the French political ranks. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Mr Nocquet should spend some time in Washington, DC to meet 
+with elected officials and government representatives. This 
+will enable him to gain a better understanding of the U.S. 
+political system, and of federal government programs that 
+address economic development. He should also visit a few small 
+cities in rural areas where he can speak to elected officials 
+and economic development specialists to share ideas on how to 
+integrate development goals in a mixed rural/urban setting. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Emilie Salieges 
+START MEMO NOMINATING-JUSTIFICATION: 
+Olivier Nocquet is the young, energetic and very forward- 
+looking parliamentary assistant of Senator Jean Bizet, the UMP 
+Senator from the La Manche department of Normandy.  A junior 
+politician-in-the-making, Mr. Nocquet is committed to the 
+Normandy region through both family ties and his personal 
+desire to assist his native region in its attempt to gain a 
+more solid economic and political footing.  La Manche is home 
+to the largest number of agricultural enterprises in the 
+Normandy region.  Characterized by small towns that rely on a 
+rural economy, La Manche is very concerned by agricultural 
+issues between France, the U.S. and the E.U. It faces problems 
+like rural migration to urban areas, closings of small 
+businesses and unfavorable implementation of farming quota 
+policies.  In this regard, Mr. Nocquet works hard with Senator 
+Jean Bizet, a very pro-American Senator who is the head of the 
+Senate's Biotechnology Committee and special assistant to the 
+Foreign Trade Minister, to ensure rural economic survival in 
+this part of France.  Although Mr. Nocquet is very 
+professional, he appears to APP Rennes staff to have little 
+concrete information on the U.S., its policies and rural 
+development practices. We believe that an IV grant for Mr. 
+Nocquet would provide him with the contacts and factual 
+information he needs to promote a mutually beneficial dialogue 
+between the U.S. and the agricultural stronghold he serves. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Rennes, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 564 
+PERSON-ID: 252 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

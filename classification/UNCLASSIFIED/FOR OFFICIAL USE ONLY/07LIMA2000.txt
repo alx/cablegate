@@ -38,55 +38,6 @@ REF: A. 2006 LIMA 2253
      ¶B. LIMA 1709 
      ¶C. LIMA 1841 
  
-Sensi...
-
-id: 111338
-date: 6/7/2007 19:21
-refid: 07LIMA2000
-origin: Embassy Lima
-classification: UNCLASSIFIED//FOR OFFICIAL USE ONLY
-destination: 06LIMA2253
-header:
-VZCZCXYZ0000
-PP RUEHWEB
-
-DE RUEHPE #2000/01 1581921
-ZNR UUUUU ZZH
-P 071921Z JUN 07
-FM AMEMBASSY LIMA
-TO RUEHC/SECSTATE WASHDC PRIORITY 5742
-INFO RUEHAC/AMEMBASSY ASUNCION 1660
-RUEHBO/AMEMBASSY BOGOTA 4711
-RUEHBR/AMEMBASSY BRASILIA 7373
-RUEHCV/AMEMBASSY CARACAS 0440
-RUEHLP/AMEMBASSY LA PAZ JUN MONTEVIDEO 9185
-RUEHQT/AMEMBASSY QUITO 1253
-RUEHSG/AMEMBASSY SANTIAGO 1310
-RUEHBS/USEU BRUSSELS
-RUEAIIA/CIA WASHDC
-RHMFIUU/CDR USSOUTHCOM MIAMI FL
-
-
------------------ header ends ----------------
-
-UNCLAS LIMA 002000 
- 
-SIPDIS 
- 
-SENSITIVE 
-SIPDIS 
- 
-USEU PASS TO MCKINLEY 
- 
-E.O. 12958: N/A 
-TAGS: CU PE PGOV PINR PTER SNAR VE
-SUBJECT: BOLIVARIAN INFLUENCE IN PUNO 
- 
-REF: A. 2006 LIMA 2253 
- 
-     ¶B. LIMA 1709 
-     ¶C. LIMA 1841 
- 
 Sensitive But Unclassified, Please Handle Accordingly. 
  
 ¶1.  (SBU) Summary: The southern highlands region of Puno has 
@@ -237,6 +188,4 @@ another question.  Poloff is currently in Puno meeting with
 local leaders and community organizations to gain a 
 first-hand perspective of Bolivarian and other influences in 
 the region.  End Summary. 
-STRUBLE 
-
-=======================CABLE ENDS============================
+STRUBLE

@@ -1,0 +1,153 @@
+06BEIJING13684
+VOIP:  A CASE STUDY OF CHINA'S INTERNECINE PROFIT
+Wed Jun 28 00:00:00 +0200 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Beijing
+VZCZCXRO2479
+RR RUEHCN RUEHGH
+DE RUEHBJ #3684/01 1790032
+ZNR UUUUU ZZH
+R 280032Z JUN 06
+FM AMEMBASSY BEIJING
+TO RUEHC/SECSTATE WASHDC 0437
+RUCPDOC/USDOC WASHDC
+INFO RUEHCN/AMCONSUL CHENGDU 6646
+RUEHGZ/AMCONSUL GUANGZHOU 0928
+RUEHHK/AMCONSUL HONG KONG 7730
+RUEHGH/AMCONSUL SHANGHAI 5108
+RUEHSH/AMCONSUL SHENYANG 6441
+RUEHIN/AIT TAIPEI 5764
+RUEATRS/DEPT OF TREASURY WASHDC
+RUEHGV/USMISSION GENEVA 1206UNCLAS SECTION 01 OF 02 BEIJING 013684 
+ 
+SIPDIS 
+ 
+USDOC FOR DAS LEVINE AND 4420/ITA/MAC/CEA/MCQUEEN 
+STATE PASS USTR 
+USTR FOR STRATFORD/WINTER/MCCARTIN/GRIER 
+USTR FOR MCHALE/WINELAND 
+TREASURY FOR OFFICE OF INTERNATIONAL INVESTMENT 
+TREASURY FOR OASIA/ISA-DOHNER AND KOEPKE 
+GENEVA PASS USTR 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD EINV ECPS PGOV ASEC WTRO CH
+SUBJECT: VOIP:  A CASE STUDY OF CHINA'S INTERNECINE PROFIT 
+WARS 
+ 
+REF: STATE 12988 
+ 
+¶1. (SBU) Summary:  In an informal interview during the June 
+14-16 China VoIP Conference & Expo in Beijing with Dr. Kan 
+Kaili, Director of the Policy and Development Institute of 
+Information Industries at Beijing University of Post and 
+Telecommunications, he likened the profit wars between 
+China's major telecom players as an internecine fight 
+guided by the bottom line, profit quotas, and the need to 
+please both Beijing Central Government officials and 
+company headquarters.   End Summary. 
+ 
+ 
+¶2. (SBU) In a candid analysis of the future of Voice Over 
+Internet Protocol (VoIP) in China, Dr. Kan, a very 
+influential Stanford PhD and former Deputy Director of the 
+Economic and Technological Development Research Center for 
+the now disbanded Ministry of Post and Telecommunications, 
+said that VoIP is alive and well and being exploited by 
+China's major telcos as just another tool to increase 
+profit margins or in some cases to meet monthly profit 
+quotas.  In essence, what the consumer wants really has 
+nothing to do with Chinese telcos' business practices. 
+ 
+The Landscape 
+------------- 
+ 
+¶3. (SBU) China Telecom, which has more than 244 thousand 
+employees, is the largest fixed service telecommunications 
+provider in China with USD 21.20 billion in revenue and 
+around 202 million customers in 2005.  The company provides 
+services in the west and south of China, including the 
+municipalities of Shanghai and Chongqing, the provinces of 
+Guangdong, Jiangsu, Zhejiang, Anhui, Fujian, Jiangxi, 
+Sichuan, Hubei, Hunan, Hainan, Guizhou, Yunnan, Shaanxi, 
+Gansu and Qinghai and the autonomous regions of Guangxi 
+Zhuang, Ningxia Hui and Xinjiang Uygur.  Its main rival, 
+China Netcom, was formed after a 2001 decision to split 
+China Telecom and break its monopolistic hold over China's 
+fixed line phones services.  China Netcom provides services 
+in the north of China, including Beijing, Tianjin, Hebei, 
+Henan, Shandong, Liaoning, as well as in Shanghai and 
+Guangdong.  The company, with more than 138 thousand 
+employees, had USD 10.90 billion in revenue in 2005.  China 
+Telecom controls 70 percent of the backbone network while 
+Netcom controls 30 percent. 
+ 
+¶4. (SBU) China Telecom and Netcom are state-owned 
+enterprises (SOE) and parts of their companies are listed 
+on the New York Stock Exchange.  Dr. Kan said that the 
+creation of the State-owned Asset Supervision and 
+Administration Commission (SASAC) has made SOEs more 
+powerful and it is understood that these companies can 
+engage in whatever business activities they wish without 
+fear of antagonizing a ministry such as the Ministry of 
+Information Industry (MII).  (Note: While the power of 
+these companies is well known, MII still regulates the 
+industry and determines when and who, for example, will 
+receive 3G or VoIP licenses.  The great power of SASAC over 
+the SOEs was exemplified when they shuffled the presidents 
+of all the telcos like a deck of cards.  End Note.) 
+ 
+VOIP: Just Another Tool to Make Money 
+------------------------------------- 
+ 
+¶5. (SBU) VoIP currently remains unregulated in China and is 
+neither legal nor illegal.  Nevertheless, to date, the 
+Chinese Government has exhibited policies and practices 
+that are stifling the growth of any non-domestic VoIP 
+providers.  A recent decree that halts the issuance of VoIP 
+licenses until 2008 serves as an example of how much power 
+a company like China Telecom can wield over the legal and 
+regulatory environment.  In the meanwhile, China Telecom 
+and Netcom are using VoIP to boost their own revenue 
+ 
+BEIJING 00013684  002 OF 002 
+ 
+ 
+streams.  Dr Kan explained that both companies are not only 
+encroaching on each other's territory but each provincial 
+branch is also encroaching on its own siblings' 
+territories.  For example, when the general manager of a 
+provincial China Telecom branch sees that his branch will 
+not meet that month's profit quota he will have no qualms 
+about going north to try to get more business by 
+undercutting calling rates from a province that Netcom 
+controls.  This is done by using VoIP to offer cheaper 
+domestic calling rates and services than Netcom's fixed 
+lines network.  Meanwhile, the rivalry does not stop there 
+because that same branch will also try to take business 
+away from another province that China Telecom already 
+controls.  Dr. Kan said that the low cost of VoIP 
+technology has given regional companies another tool to 
+increase their revenue streams or meet pre-set quotas.  He 
+added that while this may look like chaotic business 
+practices, everybody is making money so the powers that be 
+in Beijing are happy with the status quo. 
+ 
+The Future 
+---------- 
+ 
+¶6. (SBU) In answering a question about the future of VoIP, 
+Dr Kan said that VoIP is widely available and popular in 
+China and that in the end MII will have no choice but to 
+legalize it.  He exemplified this by pointing out that up 
+until 1999 IP telephony was illegal in China but in a 
+manner similar to VoIP was widely available.  The 
+government then had no choice but to legalize it and he 
+predicted that VoIP will follow the same path.  He 
+concluded by wondering if American companies could really 
+survive in such a business environment in China. 
+ 
+Randt

@@ -1,0 +1,80 @@
+08HONGKONG41
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: FIRE SERVICES
+Tue Jan 08 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHHK #0041 0080458
+ZNR UUUUU ZZH
+R 080458Z JAN 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 3816
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000041 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: FIRE SERVICES 
+DEPT. OF HONG KONG 
+ 
+REF: A) USDOC 09994 B) D349824 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post-shipment verification at the Fire Services Department of Hong 
+Kong, No. 1, Hong Chong Road, Tsim Sha Tsui East, Kowloon, Hong Kong 
+(HK Fire Services).  The items in question are twelve thermal 
+imagers exported to HK Fire Services on or about November 4, 2006 
+and valued at approximately USD 86,000.  The imagers are the subject 
+of export license D349824 and are classified under Export Control 
+Classification Number (ECCN) 6A003.  This ECCN is controlled for 
+national security (NS) and nuclear nonproliferation (NP) reasons. 
+The exporter was ISG Thermal Systems USA of Lawrenceville, Georgia. 
+ 
+¶3. The HK Fire Services are the fire department of Hong Kong with a 
+staff of over 9,000 located throughout Hong Kong.  More information 
+is available at www.hkfsd.gov.hk. 
+ 
+¶4.  Mr. Kei-Wai Tai, Assistant Divisional Officer, Planning Group, 
+HK Fire Services, provided ECO with documentation confirming receipt 
+of the twelve thermal imagers with serial numbers 7366 to 7377.  Mr. 
+Tai also provided ECO with a breakdown of the location of the twelve 
+units (by serial number and location).  The units are located at 
+various fire stations throughout the Hong Kong S.A.R. 
+ 
+¶5.  Visits were arranged at the ECO's request to two of the fire 
+stations, namely the Sai Kung Fire Station and the Chung Hom Kok 
+Fire Station.  On January 4, 2008, the ECO, accompanied by 
+Commercial Assistant Carrie Chan, met with Mr. Tai and 
+representatives of the fire station command at the Sai Kung Fire 
+Station.  Sai Kung fire station personnel removed the imager from a 
+locked case on a fire engine for inspection by the ECO.  The serial 
+number on that imager matched the serial number on the listing 
+provided by Mr. Tai described in paragraph four, above.  This imager 
+is used exclusively by this fire station as part of its 
+fire-fighting mission and is kept under lock and key at all times 
+(when not in use). 
+ 
+¶6.  Later on January 4, 2008, ECO met with Senior Fireman Chun Pu 
+Yip of the Chung Hom Kok fire station.  Mr. Yip removed a thermal 
+imager with serial number 7366 from a locked compartment on one of 
+the station's fire engines.  He confirmed that the imager is only 
+used by this fire station and is kept under lock and key at all 
+times (when not in use). 
+ 
+ 
+Cunningham

@@ -1,0 +1,81 @@
+09HONGKONG131
+EXTRANCHECK: POST SHIPMENT VERIFICATION: CENTRE BRIGHT
+Wed Jan 21 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHHK #0131 0210010
+ZNR UUUUU ZZH
+R 210010Z JAN 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 6708
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000131 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: CENTRE BRIGHT 
+COMPANY 
+ 
+REF: A) USDOC 00039 B) HK 02321 (2008) C)HK 00909 (2006) 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) attempted 
+to conduct a post shipment-verification (PSV) at Centre Bright 
+Company, Unit 7A, Nathan Commercial building, 430-436 Nathan Road, 
+Kowloon, Hong Kong (Centre Bright). The items in question for this 
+check are Xilinx integrated circuits exported to Centre Bright by GE 
+Procurement LLC on or about March 4, 2005. These items are 
+classified under export control classification number (ECCN) 
+3A001a2c and, if properly classified, would be controlled for 
+national security (NS) reasons.  This ECCN is one of the class of 
+products that may be exported to Hong Kong license free but would 
+require a license if shipped directly to mainland China. 
+ 
+¶3.  As further detailed in reftels B-C, Centre Bright was the 
+subject of a prior unfavorable PSV and is related (directly or 
+indirectly) to several additional unfavorable PSVs involving at 
+least the following Hong Kong companies: Exodus Microelectronics, 
+Echelon Microsystems Limited and Victory Wave Holding Ltd.  These 
+companies are, in turn, related or conduct business with a range of 
+problematic mainland China companies.  Based on information received 
+from an industry source, ECO believes that the directors and 
+shareholders of Exodus, Centre Bright, Victory Wave and Echelon are 
+all members of the same family (parents and adult son).  A review of 
+the Hong Kong Companies Registry reveals that the corporate 
+information concerning Centre Bright has not changed since the date 
+of the Centre Bright PSV referenced in reftel B. 
+ 
+¶4.  FCS Commercial Assistant Carrie Chan attempted, on several 
+occasions, to set up a meeting with representatives of Centre Bright 
+at a range of contact numbers (including those provided by OEA). 
+ECO subsequently sent a registered letter requesting a meeting to 
+Centre Bright at a new address, namely Room D, Block 1, 6/F, 
+International Industrial Ctr, 2-8 Kwai Tei Street, Shatin, New 
+Territories, Hong Kong (the new registered address of the company). 
+The Hong Kong Post Office confirms that a representative of Centre 
+Bright signed for the letter.  When Ms. Chan attempted to set up the 
+meeting, however, the party answering the phone at Centre Bright 
+stated that the applicable person was either not available or that 
+they would return the call.  To date, Commercial Assistant Chan has 
+not been able to schedule the check and ECO believes further 
+attempts will prove unsuccessful. 
+ 
+¶5. Based on the information noted above, ECO believes that Centre 
+Bright is a most unsuitable recipient of U.S. origin controlled 
+technology.  Further, ECO recommends that Centre Bright be added to 
+the BIS Entities List or that the BIS Unverified List be amended to 
+reflect an additional address for Centre Bright (which is already on 
+the BIS Unverified List).

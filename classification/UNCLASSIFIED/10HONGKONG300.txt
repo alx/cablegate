@@ -1,0 +1,101 @@
+10HONGKONG300
+EXTRANCHECK: POST SHIPMENT VERIFICATION: SOLAR ENERGY
+Mon Feb 22 00:00:00 +0100 2010
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHHK #0300 0530216
+ZNR UUUUU ZZH
+R 220216Z FEB 10
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9668
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000300 
+ 
+USDOC FOR 532/OEA/ MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: SOLAR ENERGY 
+INTERNATIONAL CO. 
+ 
+REF: A) BIS e-mail request dated February 3, 2010 (01210117) 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) at Solar Energy International Co. 
+(Solar Energy). The items in question for this PSV are various 
+microprocessors exported to Solar Energy on or about September 24, 
+¶2009.  According to information provided by OEA, these 
+microprocessors are likely classified under Export Control 
+Classification Number 3A991 and controlled for anti-terrorism 
+reasons, meaning that they can be shipped license free to virtually 
+all destinations and end-users worldwide without a license.  The 
+exporter was Crown Micro International of Fremont, California. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Solar Energy 
+International Co., Limited was registered in 2001.  It has the Hong 
+Kong equivalent of USD 1250 in share capital.  Hong Kong Residents 
+Chu, Ying Kit and Poon, Kuk Man are listed as directors. 
+ 
+¶4.  According to the company's web site (www.kukram.com), the 
+company specializes in the computer related peripherals business. 
+The company also markets its own brand of memory modules (kukram). 
+The company serves customers worldwide including in the Middle East. 
+ 
+ 
+¶5.  On February 8, 2010, ECO and FCS Commercial Assistant Carrie 
+Chan visited the company at the address noted above and met with Mr. 
+Simon Chu (CEO) and his wife, Ms. Poon, Kuk Man (Director). Mr. Chu 
+was quite nervous about the visit and asked several times why the 
+ECO was visiting his company. 
+ 
+¶6.  Mr. Chu provided an overview of the company.  He noted that the 
+company ships to customers worldwide.  Crown Micro (the exporter) is 
+a usual supplier and Solar Energy representatives met this company 
+at the CIBIT event in Germany.  According to Mr. Chu, Solar Energy 
+does not sell to any of the embargoed countries (although he had 
+some difficulty naming them) and specifically never to Iran.  He 
+noted that, as of late, there is a range of product supply coming 
+from Dubai because of the downturn in the economy there.  ECO 
+surmises that the company used to sell more products to Dubai but no 
+longer sells as much in that direction. 
+ 
+¶7.  As to the specific shipment in question, Mr. Chu provided 
+documentation confirming that some items had been sold to South Asia 
+Associates and picked up by Zeon Technology Limited (Mr. Chu stated 
+that this was done at the request of the purchaser).  According to 
+the Hong Kong Companies Registry, Zeon Technology Limited's 
+directors include Boris Chtchourovski and Olga Smirnova.  Other 
+items were sold and delivered to Pronet Group in Moscow 
+(www.pronetgroup.ru).  The items for Pronet Group were sent to the 
+company at a Singapore address.  Ms. Poon, Kuk Man stated that 
+Pronet consolidates its shipments in Singapore for shipment to 
+Russia. The direction that these items took to get to their 
+(apparent) final destination is somewhat unusual.  This is the first 
+time that ECO has seen a shipment of electronics from the United 
+States bound for Russia that was routed through Hong Kong (and 
+Singapore).  Mr. Chu and Ms. Poon were not aware of the end uses of 
+the items in question. A final set of products was reexported to 
+Hyde Shenzhen Century Technology Development Co., Ltd., a mainland 
+Chinese software development company. 
+ 
+¶8.  Mr. Chu stated that he is keen to comply with U.S. export 
+controls as he will be traveling shortly to the United States.  ECO 
+sent, by e-mail, additional information concerning U.S. export 
+controls to Mr. Chu. 
+ 
+¶9.  Mr. Chu was, on the whole, open and forthcoming during the 
+meeting and provided the requested documentation.  Based on the 
+information at hand, ECO can find no apparent violation associated 
+with these shipments.

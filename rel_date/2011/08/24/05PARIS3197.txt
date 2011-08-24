@@ -1,0 +1,239 @@
+05PARIS3197
+FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR.
+Wed May 11 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+111351Z May 05UNCLAS SECTION 01 OF 03 PARIS 003197 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR); 
+EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR. 
+FREDERIC BOURCIER - ALTERNATE CANDIDATE FOR INDIVIDUAL 
+PROGRAM. 
+ 
+REF: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 290 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - INDIVIDUAL Program - Frederic Bourcier 
+(Alternate) 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 18 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Politics & Parties 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Frederic 
+M-NAME: 
+L-NAME: Bourcier 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: No 
+M-ADDR1: Hotel de Ville 
+M-ADDR2: Place de la Mairie - BP 3126 
+M-ADDR3: 
+M-CITY: Rennes 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 35031 cedex 
+M-ZIP: 
+M-PHONE: + (33) 2.99.28.57.01 
+M-FAX: + (33) 2.99.28.40.63 
+M-EMAIL: fbourcier@ville-rennes.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 01/02/1970 
+MAR-STAT: M 
+BIRTH-CITY: Argentan 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Adjunct Mayor of Rennes, in charge of Educational Affairs and 
+Elementary Schools, since 2001 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+- President of the French Network of City Education 
+Policymakers, a worldwide education network, since 2001 
+- Chair, Ille-et-Vilaine Department Socialist Party, since 
+2003 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Until 2001 - Executive Director of an information technology 
+company in Rennes 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+- Australia - 2003, study Australian education 
+- Spain - frequent trips, meet with colleagues in Worldwide 
+Education Network 
+- Italy - frequent trips, meet with colleagues in Worldwide 
+Education Network 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1992 - B.A. in computer science and mathematics (licence), 
+University of Rennes I 
+1990 - Associate Degree in Mathematics 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+- Socialist Party since 1986 
+- Member and Chairman of the French Network of City Education 
+Policymakers 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 2 
+ENGL-SPEAK: 2 
+ENGL-COMP: 2 
+START OTHER-LANGS: 
+OTHER-LANG: German 
+OTHER-LANG-ID: GM 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: Spanish 
+OTHER-LANG-ID: QB 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Because of his increasing influence within the Party, Frederic 
+Bourcier will certainly be an important opinion maker in 
+France in the coming years and is potentially a valuable 
+future contact for the USG.   It is our hope that as a result 
+of his participation in the IV program, Frederic Bourcier will 
+be inclined to seek out U.S. views on International Affairs 
+issues and support cooperation with the U.S. both privately 
+and publicly.  As President of the French Network of City 
+Education Policymakers, he could advocate a more balanced view 
+of the United States at a time when its image is somewhat 
+negative in the French media and institutions of learning at 
+all levels. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Mr. Bourcier should learn about American political 
+institutions and should meet with elected officials so as to 
+better understand the U.S. political system.  Additionally, he 
+should meet with high-profile educators and education policy 
+makers with whom he can exchange views on current trends in 
+education, especially at the elementary level. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Eric Beaty 
+START MEMO NOMINATING-JUSTIFICATION: 
+Mr. Frederic Bourcier has impressed me with his public 
+speaking ability and his breadth of knowledge of international 
+educational systems.  A youthful member of the French 
+Socialist Party and chairman of the regional party structure, 
+Bourcier has a bright future ahead of him.  He is also 
+interested in American history, culture and education and does 
+not proffer the usual worn clichs that shape many French 
+politicians' opinions of the United States. When Rennes Mayor 
+and fellow Socialist Edmond Herve (at the helm of the city 
+since 1977) steps down in the next few years, he is likely to 
+handpick Bourcier to succeed him. 
+At 33 years of age, Bourcier already has the political 
+expertise and connections that he will need to become a 
+leading light in the French Socialist Party and perhaps a 
+Minister in a future Socialist French government.  By his own 
+admission, however, he does not possess an in-depth view of 
+U.S. institutions, politics and culture.  An I.V. program at 
+this early stage in his career will make him more receptive to 
+American thinking or issues of mutual interest. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Rennes, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: INTERPRETER 
+NOMINEE-ID: 577 
+PERSON-ID: 476 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: I 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

@@ -1,0 +1,91 @@
+09HONGKONG2248
+EXTRANCHECK: POST SHIPMENT VERIFICATION: COREZING
+Thu Dec 10 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #2248 3440210
+ZNR UUUUU ZZH
+R 100210Z DEC 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9128
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002248 
+ 
+USDOC FOR 532/OEA/LHINES 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: COREZING 
+INTERNATIONAL HK CO., LTD. 
+ 
+REF: A) EUC request 01210087 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) of a shipment destined to 
+Corezing International Co., Ltd., Shop A1, 287 Cleverly Street, Hong 
+Kong.  The items in question for this PSV are 256 low noice 
+amplifiers exported to Corezing on or about February 29, 2008. 
+According to the exporter, these items are classified under Export 
+Control Classification Number (ECCN) 3A001b2d, meaning that they are 
+controlled for national security reasons and would require a license 
+for export/reexport to mainland China but may be shipped license 
+free if for use in Hong Kong.  The exporter was Antennas and 
+Components of Andover, Massachusetts. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Corezing has been 
+in existence since July 2007.  Its paid up share capital is the Hong 
+Kong equivalent of USD 65,000.  The Hong Kong Companies Registry 
+lists Luo, Jie (with Mainland passport number 441481198206082304) 
+and Zhou, Zhenyong (with Mainland passport number 
+441900198910161558) as directors.  Corezing in Hong Kong is related 
+to a range of Hong Kong and Singapore based companies.  Those 
+companies are the subject of ongoing investigations and a recently 
+published temporary denial order (TDO).  That TDO restricts the 
+ability of those companies to acquire products that are subject to 
+the Export Administration Regulations (EAR). 
+ 
+¶4.  The shipment address for this transaction corresponds to a 
+currency exchange booth, namely Tung Kee Money Exchange Company 
+(Tung Kee).  According to the Hong Kong Inland Revenue Department, 
+Tung Kee has been in existence since 2003.  It is a sole 
+proprietorship owned by Mr. To, Ting Ping (with Hong Kong ID 
+H379847). 
+ 
+¶5.  On November 11, 2009, ECO and FCS Commercial Assistant Carrie 
+Chan visited Tung Kee and met with a Mr. To, the proprietor of the 
+business.  The office location is quite small.  Mr. To stated that 
+he accepted shipments on behalf of Ms. Luo Jie of Corezing.  Ms. Luo 
+came to pick up the shipments after they arrived.  Mr. To stated 
+that he was to have been paid for this service but he never received 
+payment.  Mr. To also provided an agreement (bearing the Corezing 
+stamp) providing Tung Kee with the authority to accept packages on 
+Corezing's behalf until 2012.  Mr. To stated that he stopped 
+providing this service as it was too much trouble to accept the 
+shipments and it interfered with his exchange business.  Mr. To 
+stated that he had received less than 10 shipments on Ms. Luo's 
+behalf and had stopped doing so two years earlier. 
+ 
+¶6.   When asked how he came to know Ms. Luo, Mr. To stated that he 
+had been introduced by a friend (but not a close friend).  Mr. To 
+stated that this friend is now located in the United States.  Mr. To 
+claimed not to have this friend's phone number now that he had moved 
+to the United States. 
+ 
+¶7.  Mr. To stated that he had no documentation related to the order 
+having given it all to Ms. Luo. 
+ 
+¶8.  ECO believes Corezing and Tung Kee to be a unsuitable recipients 
+of U.S. origin technology.  ECO recommends a close review of all 
+shipments to Corezing and Tung Kee (and its address).

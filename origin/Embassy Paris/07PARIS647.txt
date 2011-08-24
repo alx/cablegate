@@ -1,0 +1,127 @@
+07PARIS647
+ARCEP RESPONSE TO COMPTEL 1377 COMPLAINT
+Tue Feb 20 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Paris
+VZCZCXRO2322
+RR RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHFR #0647/01 0511640
+ZNR UUUUU ZZH
+R 201640Z FEB 07
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 5027
+INFO RUCPDOC/USDOC WASHDC
+RUEAFCC/FCC WASHDC
+RUEAWJA/DOJ WASHDC
+RUCNMEM/EU MEMBER STATESUNCLAS SECTION 01 OF 02 PARIS 000647 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EB/CIP, EUR/WE, AND EUR/ERA 
+DEPT PLEASE PASS TO USTR JMCHALE, KSCHAGRIN, AND CHINCKLEY 
+FCC FOR TWEISLER 
+COMMERCE FOR NTIA CSPECK AND ITA JBURTON 
+JUSTICE FOR KWILLNER, JHORVATH, TBURROWS 
+DEPT PLEASE PASS TO FTC FOR HSTEVENSON 
+BRUSSELS FOR USEU JUNDERWOOD 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD FR
+SUBJECT: ARCEP RESPONSE TO COMPTEL 1377 COMPLAINT 
+ 
+REF:  JANUARY 31 USTR/HINCKLEY-SULLIVAN E-MAIL 
+ 
+¶1. (U) Summary.  On October 9, 2006 French telecoms regulator ARCEP 
+issued a decision on the business leased lines market, which 
+introduced a more transparent framework for price setting.  ARCEP 
+hosts a meeting every other month with all operators, including 
+France Telecom (FT), to compare prices that FT is offering to 
+operators, and to pressure FT to lower rates.  The October 9 ARCEP 
+decision required unbundling not only at France's 10,000 local 
+exchanges, but also at its 40 regional exchanges.  ARCEP is forcing 
+FT to share its ducts with other operators so the latter can develop 
+their own fiber networks.  ARCEP consults OECD and European 
+Regulatory Group benchmarks in rate-setting, and monitors France 
+Telecom rates periodically.  ARCEP reps say they have not received 
+complaints from operators about the amount of time it takes to 
+receive a line, nor regarding pricing.  End summary. 
+ 
+Reaction to the Comptel submission 
+---------------------------------- 
+ 
+¶2. (SBU) On February 14, econoff met with French Electronic 
+Communications and Postal Services Regulator (ARCEP) International 
+Division Deputy Director Joel Voisin-Ratelle and FTTx and Unbundling 
+Head Sebastian Soriano to discuss Comptel's submission to USTR as 
+part of the 1377 review of compliance with telecommunications trade 
+agreements.  Both expressed surprise at Comptel's comments since 
+ARCEP was working closely with Verizon on its operations, and no 
+other U.S. carrier had approached ARCEP directly about the length of 
+time needed to gain access to unbundled loops or interconnection 
+pricing. 
+ 
+Rate Setting Process 
+-------------------- 
+ 
+¶3. (U) ARCEP has a transparent rate setting process that extends to 
+all types of wholesale offers including Local Loop Unbundling (LLU); 
+bitstream wholesale offers in which FT activates the end customer's 
+copper pair with its own access equipment and routes the Internet 
+flows to the closest delivery point between its backhaul network and 
+that of the alternate provider; and access to FT's regional 
+exchanges so that the alternate provider can meet the needs of 
+Internet service providers that have not deployed national networks. 
+ ARCEP requires FT to provide full Local Loop Unbundling (LLU) at 
+cost-oriented tariffs. 
+ 
+¶4. (U) On October 9, 2006, ARCEP issued a decision on the business 
+leased lines market, which the EU Commission approved.  Soriano said 
+this decision introduced a more transparent framework for price 
+setting, and greater investment by the incumbent and alternative 
+operators in fiber optic networks to businesses' premises.  Soriano 
+outlined a new system of monitoring the fairness of competition 
+between operators on the wholesale and retail markets.  ARCEP hosts 
+a meeting every other month with all operators, including FT, to 
+compare prices that FT is offering and to pressure FT to lower 
+rates.  In this way, ARCEP is ensuring that FT does not offer lower 
+prices to its end-user customers than those provided to competitors. 
+ ARCEP initiated this process based on its experience with local 
+loop unbundling in which operators met with FT as a group to apply 
+pressure to lower rates, Soriano explained.  Finally, Soriano 
+indicated that the October 9 ARCEP decision required unbundling not 
+only at France's 10,000 local exchanges, but also at its 40 regional 
+exchanges, which he said is a unique requirement.  FT has to publish 
+a reference offer for products and services that provide access to 
+France's regional exchanges. 
+ 
+The Wholesale Market -- ARCEP Carefully Monitors Rates 
+--------------------------------------------- --------- 
+ 
+¶5. (U) Soriano said that ARCEP carefully monitors wholesale rates, 
+particularly for Ethernet and Bitstream, which is an ARCEP 
+"priority."  As a result, ARCEP is forcing FT to share its ducts 
+with other operators so that they can develop their own fiber 
+networks.  He stressed that ARCEP has received no complaints on 
+rates so far.  ARCEP consults OECD and European Regulatory Group 
+benchmarks in rate-setting and monitors France Telecom rates 
+periodically. 
+ 
+No Delays in Receiving Lines 
+---------------------------- 
+ 
+¶6. (U) Soriano and Ratelle said that operators had not complained to 
+ 
+PARIS 00000647  002 OF 002 
+ 
+ 
+them about the time it takes to receive a line.  If operators want 
+to deviate from FT's reference offer (as negotiated with ARCEP) to 
+structure unique packages, Soriano allowed that there could be a 
+delay.  In practice operators were not complaining to ARCEP about 
+postponements.  However Soriano and Ratelle said they were preparing 
+for such an eventuality. 
+ 
+Stapleton

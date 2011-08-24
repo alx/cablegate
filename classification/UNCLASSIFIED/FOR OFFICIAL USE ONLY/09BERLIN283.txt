@@ -1,0 +1,121 @@
+09BERLIN283
+BLUE LANTERN REPONSE LICENSE 050115687: ASC SITE
+Wed Mar 11 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXRO6671
+PP RUEHAG RUEHDF RUEHLZ
+DE RUEHRL #0283/01 0701547
+ZNR UUUUU ZZH
+P 111547Z MAR 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 3533
+INFO RUCNFRG/FRG COLLECTIVE
+RUEHSA/AMEMBASSY PRETORIA 0259
+RUCPDOC/USDOC WASHINGTON DC
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS SECTION 01 OF 02 BERLIN 000283 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+STATE FOR PM/DTCC - BLUE LANTERN COORDINATOR (MAZZARELLI) 
+STATE FOR EUR/CE PETER SCHROEDER 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC SF GM
+SUBJECT: BLUE LANTERN REPONSE LICENSE 050115687: ASC SITE 
+VISIT 
+ 
+REF: A. BERLIN 0067 
+     ¶B. STATE 123126 
+ 
+¶1.  (SBU) As a follow-up to Ref A, EconOff conducted a site 
+visit to Advanced Sensors Calibration (ASC) GmbH.  Based on 
+this site visit, we assess that ASC is a reliable handler of 
+United States Munitions List (USML) items.  On March 3, 
+EconOff met with ASC GmbH CEO Peter Bay at ASC's 
+headquarters, received a tour of all of ASC's facilities, and 
+obtained a comprehensive understanding of how ASC handles 
+USML items. 
+ 
+ABOUT ASC 
+--------- 
+¶2.  (SBU) ASC is a small enterprise of 4-6 employees that 
+specializes in the packaging/calibration of domestically 
+produced accelerometers for the German auto industry and is 
+an authorized European distributor of high end Honeywell 
+accelerometers (mainly the QA3000 line).  ASC is run by a 
+husband and wife duo (Peter Bay - CEO, Renate Bay - Marketing 
+Director) with an annual turnover of roughly 1 million euro 
+per year. 
+ 
+ASC'S HANDLING OF USML ITEMS 
+---------------------------- 
+¶3.  (SBU) The only USML items that ASC receives are Honeywell 
+accelerometers with a transaction frequency of a handful of 
+orders per year.  Bay emphasized that ASC is only a 
+distributor of these accelerometers and that his company does 
+not perform any kind of work (calibration/repair) requiring 
+direct access to the items.  Normally, ASC simply ships these 
+items to the end-user the same day ASC receives them.  Bay 
+explained that in the case that items cannot be shipped the 
+same day, they are stored overnight on a shelf in Peter Bay's 
+locked office and shipped the next day. 
+ 
+¶4.  (SBU) EconOff recommended an additional layer of security 
+for overnight storage of USML items.  Bay agreed to store 
+these items in his personal safe (4.5' x 2.5' x 2.5') in the 
+future for overnight storage.  EconOff assesses that this 
+safe is of a sufficient size and weight such that it could 
+not be easily removed in the event of a robbery. 
+ 
+PRIOR CASES WHERE HONEYWELL DENIED ASC ORDERS FOR USML ITEMS 
+--------------------------------------------- --------------- 
+¶5.  (SBU) Bay explained the due to ASC's small staff size, 
+they do not have sufficient resources to perform in-depth 
+checks on their customers requesting Honeywell 
+accelerometers.  For this reason, Bay said that his company 
+relies heavily on their contact at Honeywell, Rich Johnson, 
+to provide ASC with the proper guidance.  Bay recalled two 
+examples where Honeywell was not able to obtain the necessary 
+USG export control permit for ASC customers.  In the first 
+example, a Swiss customer requested Honeywell accelerometers 
+for use in a centrifuge design.  Bay said that Honeywell 
+elected to deny the order outright and cited that the order 
+size (about 7,000 euro) was not worth the effort that would 
+be required to obtain the DTCC approval.  The second case 
+involved a Russian customer requesting Honeywell 
+accelerometers for downward drilling machines. 
+ 
+FRUSTRATION WITH LONG LEAD TIMES FOR DTCC PERMITS 
+--------------------------------------------- ---- 
+¶6.  (SBU) Bay said that his customers requesting Honeywell 
+products are frequently frustrated with how much time it 
+takes to get DTCC export approval and that his company would 
+welcome greater transparency into the DTCC export permit 
+process.  As an example, Bay cited a recent order from Carl 
+Zeiss Optronics GmbH (BL 050115687) that also involved firms 
+from Sweden, Israel, and South Africa valued at over 50,000 
+euro.  Bay said that although ASC did eventually receive the 
+DTCC approval, it took over year and Carl Zeiss was blaming 
+ASC for the delays.  Bay's concern is the potential loss of 
+future business resultant from DTCC approval delays. 
+ 
+COMMENT 
+------- 
+¶7.  (SBU) Bay appeared sincere with his company's commitment 
+to adhere to and respect restrictions placed on USML items. 
+This was evident in Bay's immediate receptiveness to 
+improving security regarding storage of USML items overnight 
+and interest in learning more about the DTCC export controls 
+process.  Although USML items represent only a small portion 
+of ASC's transactions, they are an important element to ASC's 
+ 
+BERLIN 00000283  002 OF 002 
+ 
+ 
+profitability.  For this reason, Bay places importance on 
+adherence to DTCC rules in order to avoid compromising his 
+company's ability to distribute of Honeywell accelerometers. 
+Koenig

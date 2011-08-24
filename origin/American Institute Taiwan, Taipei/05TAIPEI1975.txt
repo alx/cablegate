@@ -1,0 +1,116 @@
+05TAIPEI1975
+TAIWAN GOVERNMENT HEARS INDUSTRY'S VOICE OVER
+Mon May 02 00:00:00 +0200 2005
+UNCLASSIFIED
+American Institute Taiwan, Taipei
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 02 TAIPEI 001975 
+ 
+SIPDIS 
+ 
+STATE FOR EAP/RSP/TC AND EAP/EP 
+ 
+STATE PLEASE PASS AIT/W AND USTR 
+ 
+USTR FOR SCOTT KI 
+USDOC FOR 4430/ITA/MAC/AP/OPD/JKELLY 
+ 
+E.O. 12958: N/A 
+TAGS: EINV ECON TW WTRO
+SUBJECT: TAIWAN GOVERNMENT HEARS INDUSTRY'S VOICE OVER 
+INTERNET PROTOCOL 
+ 
+ 
+¶1.  Summary: Given the economic and consumer advantages 
+offered by Voice over Internet Protocol (VoIP), the 
+Directorate General of Telecommunications (DGT) announced 
+April 15, 2005 that it would opt for a light-touch policy 
+that will embrace innovation, competition and consumer 
+interests.  DGT has held two public consultations concerning 
+numbering, interconnection, voice quality, network security 
+and public safety, but has yet to publish draft regulations 
+for further comment.  Despite resistance by incumbent fixed- 
+line and mobile operators, DGT appears determined to create 
+a flexible regulatory environment that will help Taiwan 
+build an advanced broadband infrastructure that could 
+resolve the so-called "last mile" problems.  Nevertheless, 
+law enforcement authorities have expressed concerns over a 
+potential surge of telecom fraud in IP networks.  End 
+Summary. 
+ 
+¶2.  Since Taiwan opened its telecom market to VoIP service 
+providers in July 2001, there has been very little oversight 
+from the telecom regulator, DGT.  State-owned Chunghwa 
+Telecom (CHT) and three private fixed-line operators have 
+already begun to carry their international voice traffic 
+over IP networks, an outcome welcomed by DGT.  DGT believes 
+that this development was a result of its decision in 2000 
+to award fixed-line licenses to companies willing to build 
+advanced broadband networks.  As of September 2004, 73 
+companies in Taiwan were providing VoIP services to 270,000 
+subscribers and generating total revenues of 250 million NT 
+dollars (USD 7.9 million). 
+ 
+¶3.  DGT began to look into monitoring VoIP industry in 2004 
+as IP technology and services improved.  After two open 
+public consultations in June and November of 2004, DGT 
+announced April 15, 2005 that it will adopt a light 
+regulatory approach that will avoid unnecessary intervention 
+in the market but promote "social obligations," such as 
+assisting law enforcement authorities in combating online 
+fraud. 
+ 
+¶4.  Based on these principles, DGT is planning to draft a 
+five-article regulation before inviting further public 
+comments.  Most likely, DGT will allow telephone numbers to 
+be allocated to VoIP services and will consider number 
+portability when it is technically feasible.  DGT will 
+propose that providers with paid-in capital exceeding one 
+billion NT dollars (USD 32 million) may receive numbering 
+directly from DGT; others may lease from the primary 
+operators.  Six of incumbent VoIP providers have capital 
+investments exceeding two billion NT dollars (USD 63 
+million), nine between one and two billion NT dollars (USD 
+32-63 million), and 25 between 100 million and one billion 
+NT dollars (USD 3.2-32 million).  Meanwhile, a total of 206 
+existing telecom operators are capable of engaging in VoIP 
+business - 21 have capital investments exceeding two billion 
+NT dollars, 28 between one and two billion NT dollars, and 
+157 between 100 million and one billion NT dollars.  DGT is 
+also leaning toward mandating interconnectivity between VoIP 
+providers and fixed-line and wireless operators and has no 
+plans to set voice quality standards, allowing consumers to 
+select between different voice quality services. 
+ 
+¶5.  Consumers appear to be embracing this IP technology. 
+According to PChome Online, Skype's Taiwan partner, within 
+nine months of its introduction to Taiwan last July, Skype 
+has solicited 1.5 million subscribers from the island's 22 
+million population and will likely celebrate two million 
+members on the first anniversary.  In contrast to enthusiasm 
+from DGT, IP service providers and consumers, traditional 
+telecom operators are increasingly nervous about this new 
+trend.  Chunghwa Telecom relied on fixed-line services for 
+38 percent of its 2004 revenues.  In particular, Chunghwa's 
+local call services accounted for 61 percent of its 2004 
+fixed-line revenues, domestic long distance services for 17 
+percent and international call services for 22 percent. 
+Some have speculated that CHT is actively seeking a way to 
+degrade the quality of VoIP services, specifically Skype, 
+carried over CHT networks in an attempt to protect its 
+lucrative voice business. 
+ 
+¶6.  CHT ex-chairman and professor at National Chiao Tung 
+University, Mao Chi-kuo, boldly predicted at an IP 
+conference in March that VoIP will "evaporate" all voice 
+income by traditional operators.  This would come as a major 
+setback for CHT, as it would no longer enjoy market monopoly 
+through its control over the "last mile" - fixed-line access 
+to business and residential buildings.  However, due to 
+lingering consumer concerns over the effectiveness of 
+network security measures, there is unlikely to be an 
+immediate move from traditional telephone to VoIP services. 
+Taiwan law enforcement authorities have also expressed 
+uneasiness that a trend toward use of VoIP communications 
+would undermine recent efforts to combat telephone fraud. 
+ 
+PAAL

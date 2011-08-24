@@ -1,0 +1,71 @@
+09HONGKONG934
+EXTRANCHECK: POST SHIPMENT VERIFICATION - AVNET TECHNOLOGY
+Thu May 21 00:00:00 +0200 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0004
+RR RUEHWEB
+
+DE RUEHHK #0934 1410909
+ZNR UUUUU ZZH (CCY AD6A2881 WSC6664-695)
+R 210909Z MAY 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 7667
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000934 
+ 
+SIPDIS 
+ 
+C O R R E C T E D COPY SIGNATURE 
+ 
+USDOC FOR 532/OEA/MCANNER/MHAMES 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION - AVNET TECHNOLOGY 
+HONG KONG 
+ 
+REF: A) BIS e-mail request dated March 17, 2009 
+ 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO), 
+accompanied by Commercial Assistant Carrie Chan, conducted a post 
+shipment verification (PSV) at Avnet Technology Hong Kong, 2-5F, 
+Tsuan Wan Industrial Centre, 220-248 Texaco Rd., Hong Kong (Avnet). 
+The items in question are 17 Xilinx integrated circuits classified 
+by the exporter under Export Control Classification Number (ECCN) 
+3A001.  This ECCN is controlled for national security (NS) reasons. 
+The exporter was Xilinx Inc., of San Jose, California. 
+ 
+¶3.  A review of the Hong Kong Companies Registry reveals that Avnet 
+was registered in 2000.  Its share capital is the Hong Kong dollar 
+equivalent of one U.S. dollar.  Directors include a Singapore 
+national, a U.S. national and a Hong Kong resident. 
+ 
+¶4.  Internet research reveals that Avnet Hong Kong is the Hong Kong 
+branch of U.S. based international electronics components 
+distributor, Avnet, Inc.  (www.avnet.com). 
+ 
+¶5.  The ECO visited Avnet at the address referenced above on April 
+14, 2009 and met with Ms. Janet M.W. Choi, Shipping Coordinator. 
+She provided ECO with documentation confirming receipt by Avnet in 
+Hong Kong of the applicable items.  By subsequent e-mail, Kam Leung, 
+Regional Logistics Officer and Export Compliance Officer provided 
+additional documentation about the shipment.  In particular, Mr. 
+Leung provided documentation confirming delivery of the items to 
+Datang Mobile Communications Equipment Co. Ltd., a major 
+telecommunications equipment manufacturer in mainland China 
+(www.datangmobile.cn) for use in production of mobile phone base 
+stations.  Mr. Leung also provided an overview of Avnet's 
+corporate-wide export compliance program. 
+ 
+¶6. At the time visited, Avnet appeared to be a suitable recipient of 
+U.S. origin controlled commodities (as reseller). 
+DONOVAN

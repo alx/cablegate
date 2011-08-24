@@ -1,0 +1,170 @@
+06FRANKFURT7767
+GM Europe Working on Fuel Cell, Other New Transport
+Mon Nov 13 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Frankfurt
+VZCZCXRO6477
+RR RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHFT #7767/01 3171550
+ZNR UUUUU ZZH
+R 131550Z NOV 06
+FM AMCONSUL FRANKFURT
+TO RUEHC/SECSTATE WASHDC 8425
+INFO RUCPDOC/USDOC WASHDC
+RUCNMEM/EU MEMBER STATES
+RUCNFRG/FRG COLLECTIVEUNCLAS SECTION 01 OF 02 FRANKFURT 007767 
+ 
+SIPDIS 
+ 
+PASS WHITE HOUSE FOR CEQ; State for E, G, EB, and OES 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG ECON SENV GM
+SUBJECT: GM Europe Working on Fuel Cell, Other New Transport 
+Technologies; Notes Need for Common Standards 
+ 
+ 
+Sensitive but Unclassified / Contains Business-Proprietary 
+Information. 
+ 
+¶1.  (SBU) SUMMARY:  General Motors Europe representatives, meeting 
+with visiting Council on Environmental Quality (CEQ) Chairman James 
+Connaughton, described the work being done in the facility to 
+develop passenger vehicles powered by hydrogen fuel cells as well as 
+work on intermediate technologies.  Points made in the presentations 
+included the need for work with research institutions to develop 
+answers to specific problems/aspects of the technology's development 
+(rather than broad, conceptual research) and the necessity for 
+governments, including the U.S. and the EU / EU member states, to 
+create the regulatory environment essential to the development and 
+marketing of such new vehicles.  Participants also noted that 
+differences over regulations between the U.S. and the EU could 
+hamper the development/sales of such new technologies in markets 
+such as India and China where they could have a great positive 
+environmental impact.  END SUMMARY. 
+ 
+- - - - - - - - - - - - - - - - - - - - - - - - 
+Full-Scale Commercialization Still Ten Years Out 
+- - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+¶2.  (U) In an October 23 visit to the GM/Opel GM Fuel Cell 
+Activities Center in Mainz-Kastel (near Frankfurt), White House 
+Council on Environmental Quality Chairman James Connaughton was 
+briefed on fuel cell vehicle development and biofuel developments by 
+GM Europe (Opel) representatives.  Staff from CEQ, ConGen Frankfurt, 
+and Embassy Berlin also participated in the meeting.  The Center 
+integrates and tests GM's fuel cell vehicles (many of whose 
+components are developed and produced in the United States).  NOTE: 
+other GM fuel cell centers include Warren, MI (headquarters), 
+Rochester, NY (fuel cells) and Torrance, CA (electric motors). 
+ 
+¶3.  (SBU) Gherardo Corsini (GM Europe Director of Environmental 
+Strategy and Regulation) described the company's progress towards 
+environmentally sustainable vehicles -- ultimately hydrogen fuel 
+cell cars, but only after first better gasoline/diesel internal 
+combustion engines, then bio-fueled, and then hybrid engines. 
+Corsini and Dr. Lars Peter Thiesen (Manager, Fuel Cell Development) 
+said that full-scale commercialization is not likely before 2015 
+despite aggressive efforts by GM -- its latest rollout this year is 
+"Project Driveway" in whichone hundred Chevrlet Equinox SUVs, 
+converted torun on hydrogen fuel cells, will be deployed in various 
+cities (comprising the world's largest fuel cell fleet).  Fuel cells 
+still face hurdles in terms of durability, safety, and 
+affordability.  A related issue is the need for  the infrastructure 
+to support hydrogen-powered vehicles, e.g., fuel and repair 
+stations.  Connaughton commented that he had recently inaugurated 
+hydrogen fuel stations in the U.S., a promising development. 
+ 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Need to Consider Overall Impact and Commercial Viability 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ 
+¶4.  (SBU) Opel reps commented that for the next ten to fifteen 
+years, conventional and hybrid engines will be the key developments 
+and therefore should be the focus of today's concerns.  Principles 
+the company is observing in developing the new transport 
+technologies: 
+ 
+--  customer preferences; 
+ 
+--  technology that can sell at a price customers are willing to 
+pay; and 
+ 
+--  do not focus on just one improvement, but rather on an overall 
+positive impact. 
+ 
+Expanding on this last point, regulators should not target fuel 
+efficiency in a vacuum, the company officials argued.  Instead, they 
+should consider consumer preferences and the commercial/technical 
+limitations of new technology. 
+ 
+¶5.  (SBU) As a result of this approach, GM prefers to focus new 
+environmental technology in larger-sized vehicles - e.g., 
+introducing hybrid technology in larger SUV's and other truck-based 
+vehicles with "more bang for the buck" in terms of fuel savings. 
+This approach is sometimes controversial among environmental 
+activists who want to see only smaller vehicles on the road.  In 
+fact, GM's "Urea" clean diesel technology requires a supplemental 
+catalyst tank -- impractical for a small vehicle.  Putting it in a 
+small vehicle would necessitate specialized refilling every few 
+months.  The thinking in GM Europe is that the urea tank should only 
+be refilled every 25,000 - 35,000 km. 
+ 
+¶6.  (U) Connaughton agreed that whether diesel, bio-fuels, or 
+ 
+FRANKFURT 00007767  002 OF 002 
+ 
+ 
+hybrids, governments should pursue integrated policies on 
+transportation/ emissions rather than targeting only vehicle 
+technology.  For instance, the U.S. and Europe have a symbiotic 
+relationship on gasoline/diesel -- greater European diesel 
+penetration complements the gasoline-centric U.S. market -- so a 
+move towards more diesel vehicles in the U.S., while very 
+advantageous for fuel efficiency, could put pressure on diesel fuel 
+supplies worldwide. 
+ 
+- - - - - - - - - - - - - - - - - - - - 
+Promoting Fuel Cell Cars: The Way Ahead 
+- - - - - - - - - - - - - - - - - - - - 
+ 
+¶7.  (SBU) The GM Europe and CEQ reps compared notes on the USG's 
+$1.2 billion/five-year fuel cell program versus the European Union's 
+upcoming EUR 6.7 billion/ten-year program (of which half would come 
+from private sources).  In Germany, development is focused on the 
+Transport Energy Strategy (TES), a consortium including 
+DaimlerChrysler, BMW, Volkswagen, MAN, Shell, ARAL, and RWE.  Funds 
+come in roughly equal portions from industry and government, while 
+research is carried out through private firms and public/private 
+universities.  This differs from the U.S. approach in which national 
+labs play a leading role. 
+ 
+¶8.  (SBU) CEQ Chairman Connaughton asked whether current funding in 
+Europe is "too much or too little" in terms of efficient 
+utilization.  GM reps replied that, while there's always more 
+research one might wish to do, in fact coordinating spending is the 
+first priority.  General Motors and other large automakers are well 
+placed to integrate fuel cell technology; basic research should 
+focus instead on fundamental issues rather than rush towards 
+integration or commercialization. 
+ 
+¶9.  (SBU) GM reps commented that it is too early to regulate fuel 
+cell cars -- the technology is too young -- but the U.S. and Europe 
+ought to work now towards a regulatory regime that is integrated and 
+not bifurcated (Connaughton agreed).  Standards should focus on 
+performance/outcomes rather than on specific technologies which are 
+subject to change.  Without a harmonization in standards, the 
+technology's development and marketization will be stymied -- 
+including in its sales to key third markets such as China and India. 
+ Thus it is important that the U.S. and the EU find a way to accept 
+or harmonize standards to reap the energy savings, energy security, 
+and environmental/climate benefits of these new transportation 
+technologies. 
+ 
+¶10.  (U) This cable was cleared by CEQ subsequent to Chairman 
+Connaughton's departure. 
+ 
+POWELL

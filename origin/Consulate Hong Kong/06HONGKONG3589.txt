@@ -1,0 +1,113 @@
+06HONGKONG3589
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Thu Sep 07 00:00:00 +0200 2006
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0023
+RR RUEHWEB
+
+DE RUEHHK #3589 2500759
+ZNR UUUUU ZZH
+R 070759Z SEP 06
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 8497
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 003589 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132/FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+ALCATEL BUSINESS SYSTEMS C/O ZI CORPORATION LTD 
+ 
+REF: A) USDOC 04512 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the Bureau of 
+Industry and Security (BIS), Export Control Officer 
+(ECO) Philip Ankel and BIS Special Agent (SA) John 
+McKenna conducted a post shipment verification (PSV) 
+at ZI Corporation Ltd. (Zi Corp.) on August 17, 2006. 
+This PSV concerned intellectual property software 
+exported by Wind River Systems, Inc. of Alameda 
+California (Wind River) classified under ECCN 2D002 
+and valued at $6,143.  ECCN 2D002 is controlled for 
+national security and nuclear nonproliferation 
+reasons. 
+ 
+¶3. Zi Corp.'s web site (www.zicorp.com) includes the 
+following background on the company: 
+Begin Text: Zi Corporation has a singular focus: to 
+make mobile devices smarter and easier to use. Zi 
+makes intelligent interfaces - software products that 
+simplify data entry and interaction on communications 
+devices. The result is richer, more personalized 
+interaction for quicker, easier communication in 54 
+different language databases for use around the world. 
+End Text. 
+ 
+¶4.  On August 17, 2006 Export Control Officer (ECO) 
+Philip Ankel and Special Agent (SA) John McKenna 
+visited ZI Corp. at Unit 2003, 20/F, Lippo Center 
+Tower 1, Hong Kong and met with Kenny Leung, Senior 
+Software Engineer. Mr. Leung stated that Zi Corp. has 
+seven employees at this location and they develop and 
+provide communications software.  Leung further stated 
+that Alcatel Business Systems (Alcatel) had purchased 
+the software from Wind River for use by Zi Corp. in 
+its software development on behalf of Alcatel.  Mr. 
+Leung stated that Zi Corp. had no intention of 
+reexporting or transferring this software. 
+ 
+¶5.  According to the Shippers Export Declaration (SED) 
+filed by Wind River, this software falls under ECCN 
+2D002.  This software had recently been exported (June 
+13, 2006) to ZI Corp. and was still in its original 
+packaging.  The ECO and SA reviewed the package 
+containing the software and verified that it contained 
+the same model software identified on Wind River's 
+shipping documents. 
+ 
+¶6. Mr. Leung also provided a copy of the packing slip 
+for this order to the ECO and SA for review.  Based on 
+the software and documentation provided by Mr. Leung 
+and the support documentation provided by OEA, the ECO 
+was able to confirm that the software located at Zi 
+Corp. appeared to be the same software that had been 
+exported by Wind River. 
+ 
+¶7. Note: The ECCN cited by Wind River on the SED 
+(2D002) would appear to require a license for export 
+to Hong Kong even though the item was shipped NLR (No 
+License Required).  The ECO recommends that an 
+Outreach visit be conducted at Wind River to determine 
+if Wind River is exporting its commodities in 
+compliance with U.S. export regulations. The ECO also 
+requests guidance on whether this item is controlled 
+pursuant to NSG/Wassenaar control lists.  If yes, the 
+ECO may reach out to the Hong Kong authorities on this 
+matter as import of multilaterally controlled items 
+absent a Hong Kong import license would appear to 
+represent a violation of Hong Kong law. 
+ 
+¶8. At the time visited, the consignee (Zi Corp.) 
+appeared to be a suitable recipient of the commodities 
+shipped since the consignee cooperated with the PSV 
+and provided all requested documentation.  Further, 
+the SA and ECO were able to physically inspect the 
+software to confirm that the applicable serial numbers 
+on the software matched those on the shipping 
+documents.  The ECO recommends that this PSV be 
+classified as Favorable. 
+Cunningham

@@ -1,0 +1,95 @@
+08MOSCOW27
+EXTRANCHECK: PRE-LICENSE CHECK: ZOLOTARENKO
+Wed Jan 09 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0009
+PP RUEHWEB
+
+DE RUEHMO #0027 0091109
+ZNR UUUUU ZZH
+P 091109Z JAN 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 6060
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000027 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: ZOLOTARENKO 
+VLADIMIR, AGAT MOSCOW RESEARCH INSTITUTE, ZHUKOVSKY, 
+RUSSIA, LICENSE NO. D386472 
+ 
+REFTEL: USDOC 09924 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, Agat 
+Moscow Research Institute, Zhukovsky, Russia. The 
+company is listed on BIS license application D386472 
+as the ultimate consignee of matlab, high-level 
+technical computing language and interactive 
+environment for algorithm development, data 
+visualization, data analysis and numeric computation. 
+These items are controlled for national security and 
+anti-terrorism reasons under ECCN 5D992, simulink, 
+platform for multidomain simulation, these items are 
+controlled for missile technology reasons under ECCN 
+EAR99. The licensee is Mathworks Inc., 3 Apple Hill 
+Drive, Natick, MA 01760. 
+ 
+¶3. On December 26, 2007, Export Control Attache Peter 
+Liston and FSN Natalya Shipitsina conducted the 
+requested pre-license check at the offices of Agat 
+Moscow Research Institute, Tupoleva st., 2A, 
+Zhukovsky, Russia. The export control team met with 
+Vladimir Zolotarenko, Deputy Chief Engineer and Sergey 
+Grishakov, Deputy General Director. 
+ 
+¶4. Agat Moscow Research Institute is a state 
+scientific and production enterprise of Russian 
+Federation having rights of legal entity. The main 
+profile is radio engineering. Agat carries out 
+scientific investigations, research and development 
+work, produces and tests prototypes of the following 
+equipment: radar seekers for Air-to-air and Surface- 
+to-air missiles; antenna units for onboard radar 
+systems and seekers; onboard miniature computers and 
+signal processors; medical electronic equipment; 
+consumer goods. Agat is interested in co-operation 
+with Russian and foreign companies for development and 
+manufacturing of competitive electronic devices. 
+ 
+¶5. Agat was founded in 1986, when two previously 
+existing companies were combined to form Agat.  Agat 
+employs approximately 1000 people, all located with 
+the complex at Zhukovsky.  Agat is involved in the 
+production of defensive technology only. 
+ 
+¶6. The Mathworks, Inc software will be used in a 
+project working on the homing heads for missile 
+intercept and is consistent with the subject company's 
+business profile. 
+ 
+¶7. Agat has purchased licensed commodities from 
+Unigraphics in the past. 
+ 
+¶8. Recommendations: Post recommends Agat Moscow 
+Research Institute, Zhukovsky, Russia, as reliable 
+recipients of sensitive U.S. origin commodities. It is 
+requested that post be notified of final disposition 
+of the application, and of any shipments for this 
+organization in order to conduct appropriate FCS 
+follow-up and statistical reporting. 
+(FCS MOSCOW/SBOZEK/PLISTON) 
+BURNS

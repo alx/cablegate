@@ -1,0 +1,79 @@
+09MOSCOW1340
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: INFINET WIRELESS
+Tue May 26 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0004
+PP RUEHWEB
+
+DE RUEHMO #1340 1460645
+ZNR UUUUU ZZH
+P 260645Z MAY 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3443
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001340 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: INFINET WIRELESS 
+LTD., MOSCOW, RUSSIA. 
+ 
+REFTEL: REQUEST #4210012; DATED 5/14/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, InfiNet Wireless Ltd., 
+Moscow, Russia. The company is listed on BIS license application: 
+NLR as the ultimate consignee of 1000 integrated circuits HBT AMP, 
+1000 integrated circuits amplifiers, 2000 integrated circuits mixer 
+LOQs and 1000 integrated circuits VCO. The licensee is Hittite 
+Microwave Corp., 20 Alpha Road, Chelmsford, MA 01824. 
+ 
+¶3. On May 21, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of InfiNet Wireless Ltd., Leninsky 
+District, business-park QRumyantsevoQ, bld.1, Moscow, Russia. The 
+export control team met with Robert Stubblebine, President. 
+ 
+¶4. InfiNet Wireless was created to provide Internet Service 
+Providers and telecommunications carriers with wireless solutions 
+for the first and last mile broadband access in the emerging markets 
+sector. To date, 65 to 70 thousand InfiNet router systems have been 
+sold throughout the Russian Federation.  InfiNet Wireless Ltd became 
+an independent company in 2003 when it broke off from the Russian 
+internet company Compek. InfiNet employs approximately 70 people, 5 
+in its Moscow office and 65 in its main production and operations 
+center in Yekaterinburg. InfiNet Wireless products have been 
+deployed by more than 300 customers in over 30 countries. 
+ 
+¶5. Robert Stubblebine is a U.S. citizen who has lived in Russia for 
+the past 21 years.  He advised the export control team that he is 
+aware of the end-use restrictions on dual-use technology that his 
+company purchases from the United States. Stubblebine stated that 
+the reftel commodities were purchased by InfiNet Wireless to create 
+a 6 GHz router system. Stubblebine stated that the reftel 
+commodities are at its Yekaterinburg facility and invited the export 
+control team to the InfiNet Wireless production and operations 
+center in Yekaterinburg at any time in the future should we feel the 
+need. 
+ 
+¶6. The export control team believes that the reftel commodity is 
+being used for the end use for which it was licensed. There are no 
+indications of impropriety, and the consigneeQs answers were not 
+evasive. 
+ 
+¶7. Recommendations: Post recommends InfiNet Wireless Ltd., Leninsky 
+District, business-park QRumyantsevoQ, bld.1, Moscow, Russia, as a 
+reliable recipient of sensitive U.S. origin commodities. 
+(FCS MOSCOW/BBLECHER/PLISTON) 
+BEYRLE

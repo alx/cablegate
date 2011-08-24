@@ -1,0 +1,153 @@
+08TELAVIV121
+RESULTS OF BLUE LANTERN LEVEL 3 PRE-LICENSE CHECK
+Mon Jan 14 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Tel Aviv
+VZCZCXYZ0011
+PP RUEHWEB
+
+DE RUEHTV #0121/01 0141551
+ZNR UUUUU ZZH
+P 141551Z JAN 08
+FM AMEMBASSY TEL AVIV
+TO RUEHC/SECSTATE WASHDC PRIORITY 4994
+INFO RUEAIIA/CIA WASHDC
+RUCPDOC/USDOC WASHDC
+RUEKJCS/SECDEF WASHDC
+RUCNFB/FBI WASHDC
+RHMFIUU/HQ BICE INTEL WASHINGTON DCUNCLAS TEL AVIV 000121 
+ 
+SIPDIS 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC IS
+SUBJECT: RESULTS OF BLUE LANTERN LEVEL 3 PRE-LICENSE CHECK 
+ON APPLICATION 730003744 
+ 
+REF: A. 07 STATE 144058 
+     ¶B. 07 TEL AVIV 02854 
+ 
+¶1. (SBU) Acting on instructions in ref A, Embassy Blue 
+Lantern officer and senior commercial specialist visited 
+Astronautics C.A., Ltd.'s office in Petah Tikva, Israel on 
+January 14 and met with Ground Systems and Business 
+Development Manager Eli Avraham to discuss the proposed 
+transaction covered by export license application number 
+¶730003744.  In responding to emboffs' questions, Avraham said 
+the following in the course of the discussion: 
+ 
+A) Astronautics C.A. intends to use the T-16 and T-24 Vehicle 
+Reference Units (VRUs) in order to test new software that it 
+is developing.  The VRUs will interface with the new software 
+and 12.1-inch, 15-inch and 20-inch Control and Display Units 
+(CDUs) to enhance the software's capability.  The 12-inch CDU 
+includes a new processor and provides better resolution and 
+so requires new software.  Astronautics C.A. wants to 
+incorporate digital maps into their Inertial Navigation 
+Systems (INSs).  (NOTE:  Copies of pamphlets on these systems 
+have been sent by FAX to PM/DTCC at 202-261-8198.) 
+ 
+B) The T-16 and T-24 VRUs are normally incorporated into 
+Inertial Navigation Systems (INSs) for land systems, 
+including armored personnel carriers (APCs) and trucks.  They 
+can also be used in navigation and aiming systems for the 
+M-109 howitzer.  The T-24 VRU is also used on the 105 mm 
+L-119 light gun produced by General Dynamics Santa Barbara 
+Systems.  Avraham noted that the T-16 VRU is less accurate 
+than the T-24 VRU.  Kearfott is also developing a new T-18 
+VRU that is more accurate than the T-16 VRU and less accurate 
+than the T-24 VRU.  According to Avraham, it will be easier 
+for Kearfott to obtain export licenses for the T-18 VRU. 
+ 
+C) Astronautics in the U.S. applied for the temporary export 
+licenses for the T-16 and T-24 VRUs because Astronautics C.A. 
+in Israel only needs the VRUs temporarily, and because there 
+is no defined end-user for the units.  They plan to return 
+the VRUs within four years, unless the temporary export 
+licenses are renewed, in which case they will hold onto them 
+for the duration of the licenses. 
+ 
+D) Astronautics C.A. has not yet defined clients for the its 
+new CDUs.  Kearfott and Astronautics in the U.S. usually 
+handle the marketing and will apply for the appropriate U.S. 
+and Israeli export licenses once purchasers are identified. 
+Astronautics C.A. exports some of its displays to Spain.  In 
+response to Blue Lantern officer's question, Avraham stated 
+clearly that Astronautics C.A. does not deal with entities 
+located in countries that are subject to arms embargoes by 
+the U.S. and/or the United Nations. 
+ 
+¶2. (SBU) Providing an overview of the company for the senior 
+commercial specialist's information, Avraham repeated in 
+general information about the company that was reported in 
+Ref B: 
+ 
+A) Astronautics C.A. Ltd. is a subsidiary fully-owned by 
+Astronautics C.A. of America, which is located in Milwaukee, 
+Wisconsin.  The Israeli subsidiary was founded in 1971.  Its 
+general manager is David Ronen.  It has 110 employees, over 
+40 percent of which are engineers.  It does business with 
+many international partners, including Boeing, Lockheed 
+Martin, Bell Helicopter/TEXTRON, General Dynamics Santa 
+Barbara, Aeromacchi, the Turkish Navy and Air Force, the 
+Royal Thai Army, and Singapore Technologies. The company has 
+three divisions:  Airborne Systems, Land Systems and Naval 
+Systems.  It focuses mainly on displays for airborne systems, 
+but also produces displays and instruments for ground and 
+naval systems, air data computers, and digital maps.  It 
+received an award from Boeing for its co-production with 
+Kaiser Electronics on the F-15I displays program.  It is 
+providing maintenance for the Royal Thai Army's tanks, and 
+recently upgraded the display systems for Austria and 
+Switzerland's M-109 self-propelled howitzers. 
+ 
+B) All of the company's employees are vetted by the Israeli 
+MOD and have to undergo some form of a background check. 
+Astronautics C.A. Ltd.'s projects are classified at different 
+levels, with most of them being unclassified.  Employees 
+working on specific projects have to have the appropriate 
+level of clearance.  As the Ground Systems Manager, Avraham 
+has also been responsible for the company's security for the 
+last two years.  Controlled items cannot be taken out of the 
+company's secure warehouse without Avraham's approval. 
+Avraham said that the Israeli MOD conducts audits of the 
+ 
+company's security practices once every three months. 
+Avraham said that the T-16 and T-24 VRUs will be stored in 
+the secure warehouse and only operated under secure 
+conditions in keeping with their controlled status. 
+ 
+C) Astronautics C.A. of America also operates a factory in 
+Mexico, and has software engineers working for it in Russia 
+who test software manufactured in the U.S. 
+ 
+¶3. (SBU) Avraham noted that Astronautics C.A. in Israel 
+recently developed the Electronic Flight Bag (EFB) -- Class 2 
+and Class 3 -- for commercial and military aviation 
+applications.  It received Federal Aviation Administration 
+(FAA) approval for the Class 2 EFB without any problems, but 
+is finding it difficult to obtain FAA approval for the Class 
+3 EFB.  Avraham explained that the EFB is a computer that is 
+divided into two portions -- a 2-cm thick display, and a 
+computer that can be located elsewhere on the vessel housing 
+the EFB.  Avraham said that it is difficult to get the FAA 
+approval for the Class 3 EFB because it affords two-way 
+communication, and FAA is reportedly concerned that the 
+two-way communication may affect aircraft safety. 
+ 
+¶4. (SBU) Based on the site visit and emboffs' discussion with 
+Avraham, emboffs believe that the transaction proposed in 
+export license application number 730003744 is legitimate, 
+and recommend approval of the export license. 
+ 
+********************************************* ******************** 
+Visit Embassy Tel Aviv's Classified Website: 
+http://www.state.sgov.gov/p/nea/telaviv 
+ 
+You can also access this site through the State Department's 
+Classified SIPRNET website. 
+********************************************* ******************** 
+JONES

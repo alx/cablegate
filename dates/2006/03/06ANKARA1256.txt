@@ -1,0 +1,193 @@
+06ANKARA1256
+TURKEY: TELECOM/IT SECTOR CLAMORING FOR MORE
+Fri Mar 10 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ankara
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 ANKARA 001256 
+ 
+SIPDIS 
+ 
+USDOC FOR 4212/ITA/MAC/CPD/CRUSNAK 
+FCC FOR A THOMAS AND A WEINSCHENK 
+ 
+SENSITIVE 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS EINT EINV TU
+SUBJECT:  TURKEY: TELECOM/IT SECTOR CLAMORING FOR MORE 
+COMPETITION 
+ 
+REF: A: ISTANBUL 124 
+ 
+B: 05 ANKARA 6701 AND PREVIOUS 
+ 
+Sensitive But Unclassified.  Please handle accordingly. 
+ 
+¶1. (SBU) Summary: Following the privatization last July of 
+Turkey's fixed line telecom company Turk Telekom, operators 
+are urging the Telecommunications Regulatory Board to move 
+more quickly in licensing cable and new technologies and to 
+augment competition.  Still dominant Turk Telekom's new 
+management promises to embrace fair competition, but this 
+promise has not clearly permeated through its traditional 
+bureaucratic mind set.  Despite still low internet 
+penetration, there are significant growth opportunities in 
+the telecom/IT sectors in Turkey, and sector participants 
+are eager to learn from U.S. market and FCC regulatory 
+experience.  End Summary. 
+ 
+--------------------------- 
+Still Dominant Turk Telekom 
+--------------------------- 
+ 
+¶2.  (SBU) Representing the 55% majority interest led by Oger 
+Group, Turk Telekom's (TT) new President and CEO Paul Doany 
+said all the right things at a recent "STEAM" telecom sector 
+conference in Istanbul March 1-2.  Doany stressed that TT 
+was fully committed to acting as a fair competitor and good 
+business partner within the telecom regulatory framework and 
+given a fair return for investment.  He noted that TT's 
+competitors were customers, too.  Doany emphasized that the 
+company was moving from order taking to marketing, but 
+admitted that it was hard to effect change overnight.  While 
+claiming unflagging commitment to all stakeholders, he 
+argued that the incumbent TT could not be solely burdened 
+with capital costs, allowing newcomers to cherry pick 
+business.  Doany said that PC penetration of 5 million PCs 
+in Turkey was still too low, but he expected this to double 
+in 2 years to 10 million PCs.  Conference participants gave 
+TT credit for many successes, achieving majority 
+privatization to foreign capital, for one.  In addition, 
+multiple, redundant international cable connections have 
+been established (two Mediterranean submarine and five 
+European terrestrial), mitigating risky over-dependence on a 
+single connection.  Finally, TT has ramped up its ADSL wide- 
+band internet portals to over 1.8 million and subscriptions 
+to over 1.6 million. 
+ 
+¶3.  (SBU) Minister of Transportation and Communication 
+Binali Yildirim - by teleconference - told the conference he 
+is committed to moving forward on funding universal access, 
+R&D, PC provision to schools, and e-transformation in 
+government.  He said the government was formulating a new 
+communications law to improve the business environment.  He 
+said that the tax burden on GSM services is rather high. 
+This problem would be overcome partly in 2007, he claimed. 
+The Minister said that GOT, TT, and Microsoft were committed 
+to increasing PC's in schools (Ref A).  Telecommunications 
+Authority President Tayfun Arcarer outlined an ambitious 
+work program, which included moving forward on wide-band 
+provision via cable, wireless, and 3G platforms. 
+ 
+--------------------------------------------- ----- 
+Convergence, Taxation, Customers - not Subscribers 
+--------------------------------------------- ----- 
+ 
+¶4.  (SBU) Industry participants made the following points: 
+High taxation: mobile and other operators lamented that 
+Turkey faced among the highest taxation rates on telecom 
+services in the world (just ahead of Uganda), at around 60%, 
+severely hurting the sector's ability to expand and 
+innovate.  One participant told EconOff that the 
+government's position was that this was a lucrative sector 
+that was easy to tax, so it was unapologetic in locking in 
+an important revenue source.  Turkcell is the dominant 
+mobile provider, but the sector enjoys competition from 
+Telsim (recently acquired by Vodafone) and Avea (TT minority 
+interest). 
+ 
+¶5.  (SBU) Low internet penetration: According to EU 
+statistics overall internet usage in Turkey stands at 15%, 
+versus an EU average of 40%.  Participants noted that low 
+internet penetration was a function of low computer 
+penetration (5 million in Turkey) and to some extent low 
+fixed line penetration. 
+ 
+¶6.  (SBU) Broad-band is not Broad: Turk Telekom is still the 
+sole provider of wide-band internet through its ADSL 
+service.  While it has ramped up subscriptions at a fairly 
+reasonable price, there is no competition for services.  One 
+media participant lamented that Turkey's wide-band was 
+mostly 256 and 512 bp, while in parts of Europe and Asia 
+customers used 2 MB and above.   He said Turkish customers 
+were eager for new services and products, but needed more 
+band-width.  He claimed that one-half of Europe's high speed 
+ADSL was provided by new competitors. 
+ 
+¶7.  (SBU) Interconnection and Legal Woes: A Turkcell rep 
+told EconOff that TT's interconnection and leased line 
+pricing was still exorbitant.  He said that Turkcell is able 
+to mitigate this cost somewhat by using competing 
+international providers (who still have to connect through 
+the Turk Telekom infrastructure; out of forty licenses, 25 
+licensees have signed an interconnection agreement with TT, 
+but only a handful of long-distance license-holders 
+operate).  One participant noted that Turkcell's audit 
+report was filled with pages of descriptions of legal cases 
+filed against it by TT.  The industry still perceives that 
+rather than embracing competition in new technology, TT 
+resorts too quickly to legal action (because it often wins). 
+One participant told EconOff that TT had filed well over 200 
+cases against individuals who were providing competing 
+services.  One Vice President of the Telecommunications 
+Authority mentioned that TT's new DG Doany told them that 
+TT's new management would drop most of these court cases in 
+the near future. ISP's still struggle with expensive 
+interconnection with TT as both provider and competitor. 
+ 
+¶8.  (SBU) Cable: Industry is eager for cable licenses to be 
+issued, heretofore held up by legal and regulatory cases, 
+hoping that - like in the U.S. and elsewhere - this could 
+provide effective wide-band internet competition. 
+Currently, there is limited internet provision under an 
+existing cable license.  Once the licenses are issued, 
+licensees are planning to provide digital cable connections 
+which will enable wide-band interconnection.  The current 
+cable-TV network is analog type.  Prospective cable-TV 
+licensees would like to provide their services free from 
+Turksat, but the new draft law states that they have to go 
+through Turksat satellite services, which is still 100% 
+owned by the GOT (it was separated from TT prior to 
+privatization). 
+ 
+¶9.  (SBU) VOIP: Under Turkish regulations, Voice Over 
+Internet Protocol (VOIP) can be provided under voice 
+licenses for international service or intra-company.  Long 
+distance service providers are mostly using VoIP.  Turks are 
+also taking advantage of Skype, Vonage, and other similar 
+providers.  For this kind of service, the regulator noted 
+the challenge of the lack of a telephone number, which 
+causes a problem for emergency services.  Currently, the 
+regulator does not have a separate regulation for VoIP. 
+ 
+¶10.  (SBU) There was lots of buzz about local loop 
+unbundling, wireless, 3G and more to catalyze competition in 
+internet and telecom provision.  The regulator stated that 
+it was closely studying new technology to bring in new 
+licensing. 
+ 
+¶11.  (SBU) Comment: Both the Telecom and Energy Regulatory 
+Boards in Turkey have struggled to gain competence and 
+safeguard independence in their respective sectors.  While 
+the energy board's challenge has been that the sector is 
+still dominated by government actors - so it does not yet 
+have a dynamic market to regulate, the telecom market is 
+majority privatized and market participants are tearing at 
+the bit.  The STEAM telecom conference was striking in the 
+significant participation by the regulator and extensive and 
+spirited dialogue with industry.  However, industry is 
+intensely frustrated with slow progress on licensing new 
+technologies and imperfect competition in many areas. 
+Industry is speaking loudly, and the regulator is listening, 
+so there is great hope in this critical sector. 
+ 
+¶12.  (SBU) Many participants expressed to EconOff the desire 
+to learn from U.S. and FCC experiences; for example, there 
+was interest in the recent FCC ruling that cable provided 
+sustained competition to telephone fixed line DSL provision 
+in the U.S. market.  Turkey inevitably looks first to the 
+EU, but realizes that its own specific approach can benefit 
+from American lessons learned, especially in the dynamic 
+telecom/IT sectors. 
+ 
+Wilson

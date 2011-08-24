@@ -1,0 +1,80 @@
+09MOSCOW1498
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: T-PLATFORMS,
+Mon Jun 08 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0026
+PP RUEHWEB
+
+DE RUEHMO #1498 1591407
+ZNR UUUUU ZZH
+P 081407Z JUN 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3688
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001498 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: T-PLATFORMS, 
+MOSCOW, RUSSIA. 
+ 
+REFTELS: REQUEST #4210014; DATED 5/19/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, T-Platforms, Moscow, 
+Russia. The company is listed on BIS license applications: NLR as 
+the ultimate consignee of one infiniband switch and accessories, 
+auto processing units and transmission equipment. The licensee is 
+Silverstorm Technologies, 680 American Ave., Suite 100, King of 
+Prussia, PA 19406. 
+ 
+¶3. On June 4, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of T-Platforms, Leninsky Prospekt 113/1, 
+Suite E-715, Moscow, Russia. The export control team met with Lia 
+Ketiladze, Head of Procurement Department. 
+ 
+¶4. T-Platforms was established six (6) years ago by the current 
+General Director Vsevolod Opanasenko and has approximately 100 
+employees. T-Platforms rents a factory inside a facility that is 
+closed to non- Russians. T-Platforms claims to produce turn-key 
+integrated hardware/software solutions for high performance 
+computers (HPC) optimized for each customerQs specific needs. 
+T-Platforms offers a wide range of products for high performance 
+computers and data centers, including cluster systems and 
+shared-memory Linux-based supercomputers, servers, storage systems 
+and any architecture, cluster system and management software. 
+T-Platforms performs a full production cycle and support for its HPC 
+solutions, from project design to warrantee and post-warrantee 
+support. T-Platforms is the only Russian-based company to hold a 
+number of patents related to supercomputers and develop proprietary 
+supercomputer components. 
+ 
+¶5. The export control team was not able to conduct a site visit of 
+T-Platforms business operations and on-site security. Lia Ketiladze 
+advised the export control team that its production facility is 
+secure and has the necessary manned guard and electronic access 
+security features to make it compliant with obtaining controlled 
+items from the United States.  Ketiladze stated that T-Platforms has 
+its own research and development department and has produced two 
+ systems to date that are on the top 500 list for supercomputers. 
+The export control team found no indications of impropriety at 
+T-Platforms. The consigneeQs answers were not evasive and the reftel 
+commodity appears to be used for the end use for which it was 
+licensed. 
+ 
+¶6. Recommendations: Post recommends T-Platforms, Moscow, Russia, as 
+a reliable recipient of sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

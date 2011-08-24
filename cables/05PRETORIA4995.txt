@@ -1,0 +1,154 @@
+05PRETORIA4995
+LINKS BETWEEN POVERTY AND HIV/AIDS
+Tue Dec 27 00:00:00 +0100 2005
+UNCLASSIFIED
+Embassy Pretoria
+VZCZCXRO7016
+RR RUEHDU RUEHJO RUEHMR
+DE RUEHSA #4995/01 3611325
+ZNR UUUUU ZZH
+R 271325Z DEC 05
+FM AMEMBASSY PRETORIA
+TO RUEHC/SECSTATE WASHDC 0649
+INFO RUCNSAD/SOUTHERN AFRICAN DEVELOPMENT COMMUNITY
+RUCPDC/DEPT OF COMMERCE WASHDC
+RUEATRS/DEPT OF TREASURY WASHDC
+RUEAUSA/DEPT OF HHS WASHDC
+RUEHPH/CDC ATLANTA GA 0952UNCLAS SECTION 01 OF 02 PRETORIA 004995 
+ 
+SIPDIS 
+ 
+STATE PASS TO AID WASH DC 
+ 
+SIPDIS 
+ 
+DEPT FOR AF/S; AF/EPS; AF/EPS/SDRIANO 
+DEPT FOR S/OFFICE OF GLOBAL AIDS COORDINATOR 
+STATE PLEASE PASS TO USAID FOR GLOBAL BUREAU KHILL 
+USAID ALSO FOR GH/OHA/CCARRINO AND RROGERS, AFR/SD/DOTT 
+ALSO FOR AA/EGAT SIMMONS, AA/DCHA WINTER 
+HHS FOR THE OFFICE OF THE SECRETARY/WSTEIGER, NIH/HFRANCIS 
+CDC FOR SBLOUNT AND DBIRX 
+ 
+E.O.  12958: N/A 
+TAGS: ECON KHIV SOCI TBIO EAID SF
+SUBJECT:  LINKS BETWEEN POVERTY AND HIV/AIDS 
+ 
+Summary 
+------- 
+ 
+¶1.  Summary.  In December 2005, an International Union for the 
+Scientific Study of Population (IUSSP) conference in Cape Town 
+presented demographic studies that highlighted the interactions 
+between poverty and HIV/AIDS in Southern African nations of 
+Malawi, Zambia, and South Africa.  No direct evidence was shown 
+that poverty causes HIV/AIDS but there were strong correlations 
+and associations between the two.  Because most of the new 
+information was coming from surveying the same people over time 
+(panel surveys), much discussion centered around the problems 
+and interpretations of using this type of data for empirical 
+investigations.  Eight of the 12 studies used Demographic 
+Health Surveys, household-based national surveys having little 
+detailed information concerning income.  These studies had to 
+impute assets using either type of flooring, housing or other 
+asset information having a presumed correlation with income, 
+making the analysis of the interaction of poverty and HIV/AIDS 
+subject to possible measurement and specification errors.  The 
+South African studies used local surveys (in Free State and 
+KZN) trying to determine the impact of socio economic status on 
+orphans, antiretroviral treatment, and HIV affected households. 
+Most studies showed relationships between poverty and HIV/AIDS, 
+but no clear cut causation.  End Summary. 
+ 
+Poverty and HIV/AIDS 
+-------------------- 
+ 
+¶2.  Prominent African politicians and researchers have long 
+posited causality between poverty and HIV/AIDS, suggesting that 
+increased poverty causes high HIV/AIDS prevalence.  In 
+December, The International Union of Scientific Study of 
+Population (IUSSP) sponsored a conference in Cape Town that 
+presented 12 papers addressing the impacts of poverty and 
+HIV/AIDS, focusing on income effects on topics ranging from 
+orphans to receiving antiretroviral treatment.  The conference 
+organizers hoped to provide empirical evidence on the 
+hypothesis that HIV/AIDS' main solution lies in eradicating 
+poverty. 
+ 
+¶3.  The demographic studies focused on Southern African 
+countries and used a variety of household panel surveys that 
+were not designed for the specific study of HIV/AIDS 
+interactions.  Several studies used Demographic Health Surveys, 
+(nationally representative household surveys collected every 5 
+years in most developing countries), or national and provincial 
+surveys.  Focus countries included Malawi, Zambia, South 
+Africa, Kenya, Cambodia, Thailand and Tanzania.  All studies 
+used several waves of panel data, trying to discover long run 
+impacts in order to highlight poverty's impact on various risk 
+behaviors associated with higher HIV prevalence. 
+ 
+¶4.  Four studies concentrated on South Africa, using provincial 
+surveys, making generalized national observations difficult. 
+The South African studies examined the socio-economic impacts 
+of HIV/AIDS on household in the Free State; impacts of parental 
+death on school enrollment in KZN; orphans and HIV risk 
+behaviors among adolescents in KZN; and socioeconomic status as 
+determinants in treatment outcomes in the Free State.  One Free 
+State study (primary researcher, Sebastian Linnemayr from Ecole 
+Normale Superieure, using data collected in a USAID-funded 
+study at the University of the Free State) grouped HIV affected 
+and non-affected by amount of liquid and illiquid assets and 
+found the assets to be similar among groups, although since 40% 
+of people had no income in both groups, one could argue that 
+poverty impacted the results.  The study of the impacts of 
+parental death on school achievement in KZN (primary 
+researcher, Anne Case from Princeton University) found that 
+that there was no link between socio economic status (SES) if 
+the mother died, and a negative association if the father died; 
+however children without mothers are behind in school relative 
+to other children.  The study focusing on the orphanhood, 
+poverty and HIV risk behaviors in KZN (prime researcher Kelly 
+Hallman from the Population Council) found that orphans did 
+begin sexual relations earlier than non orphans and differing 
+income effects by gender, with girls in households with higher 
+income having lower chances of early sexual debut while boys 
+had higher chances of multiple partners.  Frikkee Booysen's 
+ 
+PRETORIA 00004995  002 OF 002 
+ 
+ 
+study (of the University of the Free State) found that only the 
+well-off felt that they were getting the benefit of anti- 
+retroviral treatment, having been on treatment and knowing 
+their status longer. 
+ 
+¶5.  The South African studies used different measures of 
+poverty.  Hallman's study used consumption and household asset- 
+based measures, Case's study used expenditures, assets, and 
+access to piped water and electricity as indicators of wealth. 
+Booysen's and Linnemayr's studies used the same Free State 
+panel data which collected income, asset and access to services 
+information.  Of the four studies, two found that income did 
+not explain differences in HIV-impacted households or orphans 
+and two found income to be an important determinant. 
+ 
+¶6.  Studies that focused on other countries in Africa also 
+found that income's impacts varied.  A Malawian study focused 
+on the impact of HIV/AIDS on Intra-household Time Allocation 
+and concluded that HIV/AIDS had no impact on men's allocation 
+of time and it caused women to diversify income sources.  In a 
+Zambian (focusing on prime age mortality, rather than death by 
+HIV/AIDS) study, women's prime age mortality was not affected 
+by income; prime age mortality is more likely to affect wealthy 
+men. 
+ 
+¶7.  All presented studies were preliminary and discussion 
+focused on inherent problems using panel data.  Panel data 
+gives temporal explanation but no causality.  Selectivity 
+(caused by attrition in survey respondents) and measurement 
+error biases are present.  Omitted variables and unobserved 
+fixed effects also presents empirical challenges.  One 
+agreement came from the conference:  further research is needed 
+on the links between poverty and HIV/AIDS. 
+ 
+TEITELBAUM

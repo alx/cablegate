@@ -1,0 +1,82 @@
+09MOSCOW2974
+EXTRANCHECK: PRE-LICENSE CHECK: PROTON LLC, MOSCOW, RUSSIA,
+Wed Dec 09 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHMO #2974 3431209
+ZNR UUUUU ZZH
+P 091209Z DEC 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 5615
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 002974 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: PROTON LLC, MOSCOW, RUSSIA, 
+LICENSE NO. D422663 
+ 
+REFTEL: REQUEST #6110074; DATED 11/10/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a pre-license check to determine the legitimacy 
+and reliability of the end-user, Proton LLC, Moscow, Russia.  The 
+organization is listed on BIS license application D422663 as the 
+ultimate consignee of one vertical machining center with 20QX16QX14 
+travels (X,Y,Z) with a 2-axis trunnion table TR110, capable of 
+5-axis simultaneous machining.  This item is controlled for national 
+security, nuclear nonproliferation and anti-terrorism reasons under 
+ECCN 2B001.  The licensee is Haas Automation Inc., 2800 Sturgis 
+Road, Oxnard, CA 93030. 
+ 
+¶3. On December 3, 2009, Commercial Attach Ilona Shtrom and LES 
+Natalya Shipitsina conducted the requested pre-license check at the 
+offices of Proton LLC., Pushkina st., 23A, Sobinka, Vladimir Region, 
+Russia.  The export control team met with Dmitry Ponomarenko, 
+General Director, EMG.  EMG is a small business and is ProtonQs 
+parent company. Founded in 2003, Proton employs approximately 50 
+individuals.  EMG, the parent company, employs approximately 400. 
+EMG includes a variety of other organizations within its structure 
+including a company called QModelQ and QMethodQ.  All companies work 
+in electro-technical sector. 
+ 
+¶4. ProtonQs customers include mostly oil/gas companies as the 
+company produces the vacuums utilized in pumping oil out of the 
+ground.  Proton exports to some countries of the former Soviet Union 
+(e.g. Kazakhstan), as well as India.  The equipment the company 
+wishes to purchase from Haas will be utilized to improve efficiency 
+and produce more components with fewer machine operators.  Proton is 
+located in an industrial area and appeared to be fully surrounded by 
+a security gate.  Mr. Ponomarenko indicated security is available 
+24/7 because, otherwise, it would not be safe to leave such 
+expensive equipment.  The export control team was given a brief tour 
+of the building which will house the Haas equipment.  The facility 
+ 
+appeared new and was not yet in operation pending receipt of the 
+equipment.  When the export control team explained the purpose of 
+the visit, Mr. Ponomarenko stated he has received Haas equipment in 
+the past and didnQt understand the reason for our visit now. 
+Additionally, he stated he is aware that several former defense 
+related organizations have ordered and already received the same 
+equipment and were never contacted for a PLC (he noted one such 
+organization located in Novosibirsk). Mr. Ponomarenko stated he 
+understands the equipment may not be re-exported and has plans to 
+make additional purchases from Haas in the future. 
+ 
+¶5. Recommendations: Post recommends Proton LLC, Sobinka, Vladimir 
+Region, Russia, as a reliable recipient of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/ JMARKS/ISHTROM) 
+BEYRLE

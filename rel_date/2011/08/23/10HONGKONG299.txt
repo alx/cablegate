@@ -1,0 +1,97 @@
+10HONGKONG299
+EXTRANCHECK: POST SHIPMENT VERIFICATION: HWADAR SCIENTIFIC
+Mon Feb 22 00:00:00 +0100 2010
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0004
+RR RUEHWEB
+
+DE RUEHHK #0299 0530216
+ZNR UUUUU ZZH
+R 220216Z FEB 10
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9667
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000299 
+ 
+USDOC FOR 532/OEA/ MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: HWADAR SCIENTIFIC 
+TECHNOLOGY CO. 
+ 
+REF: A) BIS e-mail request dated January 22, 2010 (01210110) 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) at Hwadar Scientific Technology 
+Co (Hwadar). The item in question for this PSV is a Symmetricom 
+Timeprovider high precision clock exported to Hwadar on or about 
+February 26, 2009.  According to information provided by OEA, this 
+system is likely classified under Export Control Classification 
+Number 7A994 and controlled for anti-terrorism reasons, meaning that 
+it can be shipped license free to virtually all destinations and 
+end-users worldwide without a license.  Based on the 7A994 
+classification, a license may be required to ship this item for 
+military end use in mainland China.  The exporter was Symmetricom, 
+Inc. of Puerto Rico. 
+ 
+¶3.  According to the Hong Kong Inland Revenue Department Business 
+Registration office, Hwadar has been in existence since 1998.  Li, 
+Yiu Sun is listed as the proprietor of the company (it is a sole 
+proprietorship). 
+ 
+¶4.  According to the web site of Rock Electronic (www.rockelec.com), 
+Hwadar is the Hong Kong affiliate of Rock Electronic which is 
+located in Shenzhen.  Rock Electronics markets itself as a total 
+solution provider for customers that need timing frequency products 
+or technology.  According to its website, Rock Electronics is an 
+authorized distributor for Symmetricom in China although the 
+Symmetricom website does not list Rock Electronic as a distributor. 
+Additional web research reveals an additional web site for Rock 
+Electronic which lists a range of customers including the Xian 
+Institute of Navigation Technology, the Shanghai Astronomical 
+Observatory, China Shipbuilding 722, Chengdu 10 and Chengdu 29. 
+ 
+¶5.  On February 8, 2010, ECO and FCS Commercial Assistant Carrie 
+Chan visited the company at the address noted above and met with Yan 
+Ming, General Manager of Rock Electronic and Zhang Jun, V.P. Sales 
+Manager for Rock Electronic.  Mr. Yan Ming's business card also 
+lists Rock Electronic (H.K.) Co., Ltd., and Hwadar Scientific 
+Technology Co.  According to Mr. Yan Ming, Hwadar is a subsidiary of 
+Rock Electronic and acts as its shipping and receiving affiliate in 
+Hong Kong.  Rock Electronic is a trading company active in the area 
+of timing related electronics.  The company's typical customers 
+include the Chinese Academy of Science, ZTE and the Shanghai 
+Astronomy Observatory.  Mr. Yan Ming mentioned, at this point, that 
+a license to sell a cesium clock to the Shanghai Astronomy 
+Observatory had been denied in 2009.  He inquired whether future 
+applications would likewise be denied. 
+ 
+¶6.  As to the specific shipment in question, Mr. Yan Ming stated 
+that the item was destined for ZTE in Hong Kong.  According to Mr. 
+Yan Ming, ZTE is a global telecom equipment and systems provider. 
+In this case, the item is being combined with other ZTE items (that 
+it cannot itself manufacture) for shipment to Ethiopia for use in a 
+civil telecommunications project there.  Mr. Yan Ming provided 
+documentation indicating that the item had been delivered to ZTE 
+(H.K.) Limited. 
+ 
+¶7.  Mr. Yan Ming was open and forthcoming during the interview.  He 
+indicated that he was keen to keep the company's reputation clear so 
+as to continue to be able to obtain U.S. origin technology. 
+ 
+¶8.  Based on the information at hand, ECO finds Hwadar to be a 
+suitable recipient of U.S. origin technology (as consolidator and 
+freight forwarder for Rock Electronic and not necessarily as end 
+user).  ECO recommends that BIS may wish to consider Rock 
+Electronic's apparent customers in future licensing decisions.

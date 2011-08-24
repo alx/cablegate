@@ -1,0 +1,104 @@
+06HONGKONG4113
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Tue Oct 17 00:00:00 +0200 2006
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0016
+RR RUEHWEB
+
+DE RUEHHK #4113 2900917
+ZNR UUUUU ZZH
+R 170917Z OCT 06 ZDK
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9074UNCLAS HONG KONG 004113 
+ 
+SIPDIS 
+ 
+STATE FOR US HQ BICE WASH DC 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132/FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+ 
+BEIJING FOR FCS JEANETTE CHU 
+ 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+KINPO INTERNATIONAL LTD. 
+ 
+REF: A) USDOC 04811 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the Bureau of 
+Industry and Security (BIS), Export Control Officer 
+(ECO) Philip Ankel conducted a post shipment 
+verification (PSV) of Kinpo International Ltd. (Kinpo 
+H.K.) on October 12, 2006. This PSV concerned a tri- 
+axis accelerometer exported by Kionix Inc. (Kionix) of 
+Ithaca, New York, classified as 7A994 (controlled for 
+anti-terrorism reasons) and valued at $10,456. 
+ 
+¶3. An extract from the Hong Kong Companies Registry 
+provides that Kinpo H.K. was dissolved as a commercial 
+entity in March 1998 and is no longer in existence. 
+No further information concerning this company was 
+available from the Companies Registry. 
+ 
+¶4.  The contact information in the Kionix invoice 
+provided by OEA led to the following results:  A visit 
+to the Kinpo H.K. address (13 Argyle Street, Room 
+2309-10, Hong Kong) listed in the "bill to" portion of 
+the invoice revealed that Kinpo was not located at 
+that address.  Rather, that location housed another 
+company "Win Global Electrical Appliance Ltd."  Calls 
+by the commercial assistant to the contact person in 
+the "ship to" portion of the Kionix invoice, Mr. 
+Terence Fung, revealed that Mr. Fung actually works 
+for a company called Soonest Express, a freight 
+forwarder. 
+ 
+¶5.  Mr. Fung confirmed that Soonest Express had 
+received the applicable item from Kionix on May 1, 
+2006 and had forwarded it to Kinpo International Ltd. 
+in Dong Guan, China (Kinpo China) on May 6, 2006.  Mr. 
+Fung stated that Soonest Express no longer acts as a 
+freight forwarder for Kinpo China.  Ms. Emily Zhang of 
+Kinpo China's purchasing department in Dong Guan 
+confirmed that Kinpo China had received the applicable 
+item from Kionix (via freight forwarder Soonest 
+Express in Hong Kong). 
+ 
+¶6.  Kinpo's web site (www.kinpo.com.tw) provides 
+greater background about this Taiwan based company. 
+Begin Quote: Kinpo has established itself as a front 
+runner in Taiwan's electronics industry since 1973. 
+After thirty years' hard working, Kinpo diversifies 
+its product lines from basic electronic calculators at 
+one end, a wide range of 3C consumer electronics in 
+between, and to internet application products at the 
+other.  To date, Kinpo has a staff of more than 10,000 
+employees worldwide. Under its current global 
+corporate structure, Kinpo places its corporate 
+management center and R&D design facilities in Taiwan, 
+software development centers in Shanghai and Beijing, 
+mass production facilities in Dongguan, and 
+manufacturing supports in Thailand. End quote. 
+ 
+¶7. Given the information noted above, the ECO 
+recommends that this PSV of Kinpo H.K. be categorized 
+as Unfavorable.  However, it should be noted that the 
+item in question (if properly classified) may be 
+exported to Hong Kong and reexported to China "no 
+license required" (NLR).  As such, the ECO suggests 
+that the "Unfavorable" recommendation not be applied 
+to Kinpo's operations in other countries. 
+Cunningham

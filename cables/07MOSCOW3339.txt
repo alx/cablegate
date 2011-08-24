@@ -1,0 +1,174 @@
+07MOSCOW3339
+Moscow Wi-Fi: Hotspots Amid an Internet Trend
+Mon Jul 09 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXRO6664
+RR RUEHHM RUEHLN RUEHMA RUEHPB RUEHPOD
+DE RUEHMO #3339/01 1901159
+ZNR UUUUU ZZH
+R 091159Z JUL 07
+FM AMEMBASSY MOSCOW
+TO RUEHC/SECSTATE WASHDC 1916
+INFO RUCPDOC/DEPT OF COMMERCE WASHDC
+RUEHZN/EST COLLECTIVE
+RUEHLN/AMCONSUL ST PETERSBURG 4290
+RUEHVK/AMCONSUL VLADIVOSTOK 2239
+RUEHYG/AMCONSUL YEKATERINBURG 2542UNCLAS SECTION 01 OF 02 MOSCOW 003339 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPARTMENT FOR OES/STC (DAUGHARTY), EUR/RUS (SIKKORA, GREENSTEIN), 
+EB/CIP/MA (GIBBS) 
+ 
+E.O. 12958: N/A 
+TAGS: EINT ECPS ECON TINT RS
+SUBJECT: Moscow Wi-Fi: Hotspots Amid an Internet Trend 
+ 
+MOSCOW 00003339  001.2 OF 002 
+ 
+ 
+¶1. SUMMARY: Internet in Russia is slowly gaining ground across the 
+country, albeit impeded by limited provision of broadband service 
+and lack of personal computers.  Wireless and high-speed Internet is 
+taking hold in larger cities such as Moscow and St. Petersburg. 
+Wi-Fi hotspots are increasingly visible throughout Russian cities. 
+As disposable income grows, even more users will acquire computers 
+and access to the Internet.  END SUMMARY 
+ 
+---------------- 
+Regular Internet 
+---------------- 
+ 
+¶2.  In March 2007, there were an estimated 23.7 million Internet 
+users in Russia (representing 16.5 percent of the population 
+according to Internet World Statistics). This was up by 664.5 
+percent compared to 2000.  Internet use is highest among students 
+(51 percent), top managers (45 percent), and qualified specialists 
+(41 percent). 
+ 
+ 
+¶3.  The number of broadband subscribers in Moscow passed the 1.2 
+million mark in the first quarter of 2007, as reported in 
+Kommersant, quoting the research company IKS Consulting.  This 
+represented a 15 percent increase in comparison with the fourth 
+quarter of 2006, equivalent to 160,000 new customers.  Forty percent 
+(600,000 households) of all home Internet users in Moscow connect 
+via dial-up, according to the business newspaper RBK (Russian 
+Business Consulting).  Half of these users are reported to be 
+satisfied with the service.  Almost 30 percent of dial-up users in 
+Moscow, representing approximately 150,000-170,000 potential 
+customers, say they would switch to broadband if it were available 
+-- which, due to technical issues, it is not. 
+ 
+¶4.  Analysts predict that Internet providers should expect their 
+customer numbers to rise continuously, as the Internet penetration 
+rate in Moscow has just reached 30 percent.  It will take 
+approximately three years to reach a market saturation point of 
+70-90 percent.  Corbina Telecom (a domestic alternative 
+telecommunications operator) predicts that within two years some 90 
+percent of all Internet connections in Moscow will be 
+broadband-based. 
+ 
+¶5.  Dial-up Internet in Moscow remains slow and difficult.  With the 
+advent of high-speed Internet connection, many websites have 
+upgraded their graphics, pictures, and fonts to be compatible with 
+broadband or high-speed Internet use.  Dial-up users are left 
+waiting minutes, sometimes hours, for websites to load -- many of 
+which never do, according to anecdotal reports.  Newer model 
+computers capable of high-speed Internet operation are less 
+productive than they could be due to shortcomings with Internet 
+access. 
+ 
+¶6.  The use of laptop computers in Russia is limited.  They are an 
+expensive purchase and are primarily used by businessmen and 
+students.  The Russian Internet Forum, which held a conference April 
+5-6 in Moscow, was attended by over 1,000 Internet entrepreneurs and 
+computer specialists, almost all of whom brought their own laptops. 
+Many Russians either own one household desktop computer, or they 
+access the Internet at work.  Older model computers are not 
+compatible with high-speed Internet because they cannot process 
+information quickly enough. 
+ 
+ 
+----------------- 
+Wireless Internet 
+----------------- 
+ 
+¶7.  Wi-Fi has become increasingly popular throughout the country in 
+recent years.  Wi-Fi is an example of Wireless Local Area Network 
+(WLAN) where users with wireless capability are able to access a 
+network.  Requiring no plug or cord, wireless Internet is quick and 
+convenient.  Wireless Internet works like an invisible bubble.  If 
+individuals are located within the bubble, they can connect so long 
+as they have the correct password and computer capability.  A 
+wireless card located within the laptop or desktop computer will 
+enable a user to access wireless Internet.  Depending on the 
+environment and usage patterns, wireless Internet varies from user 
+to user.  Desktop computers are more likely to be on a wireless 
+network if they are in a large, public Internet caf or in a 
+residential setting.  Mobile settings, such as busy restaurants and 
+cafes, are more likely to be used by clients with laptops. 
+ 
+¶8.  Moscow has the highest concentration of Internet access in the 
+country.  Currently, 61 percent of all Internet hotspots -- venues 
+that offer Wi-Fi access -- are located in the capital city.  Many 
+other cities within Russia have hotspots also: Saint Petersburg 
+ 
+MOSCOW 00003339  002.2 OF 002 
+ 
+ 
+(106), Novosibirsk (37), Yekaterinaburg (34), Tolyatti (28), 
+Vladivostok (24), Izhevsk (23), Rostov-on-Don (17), Samara (17), 
+Chelyabinsk (15), and Perm (13).  Thirty-two percent of the hotspots 
+in Russia are free of cost; however, many areas in Moscow require 
+payment. 
+ 
+¶9.  There are approximately 290 total hotspots within the city of 
+Moscow serviced by a few providers.  There are 206 wi-fi hotspots 
+supported by the company Yandex in Moscow (www.yandex.ru).  Most of 
+the Yandex-supported hotspots are in restaurants or cafes (173) and 
+usage is free with the purchase of food.  Yandex hotspots are also 
+located in car dealerships (11), movie theaters (5), beauty salons 
+(5), and a shopping complex (1).  Additionally, Internet cafes are 
+scattered throughout the city.  They charge per hour or per amount 
+downloaded. 
+ 
+¶10.  A select few metro stations have wireless Internet available 
+within the station itself; however, this is mainly for the use of 
+Internet via mobile devices such as Internet-enabled telephones. 
+Currently, Comstar's wi-fi service is available in three underground 
+metro stations - Okhotniy Ryad, Teatral'naya and Ploschad' 
+Revolyutsii. There are currently 21 hot spots covering an area of 
+two square kilometers, including waiting halls, passages, escalators 
+and entrance halls. Tunnels between stations are not yet covered by 
+this network. Comstar claims that the network capacity allows for 
+the simultaneous access of 48 users at a speed of 128 Kbps, and that 
+it plans to increase network capacity following increased demand for 
+the service.  Service is pre-paid per minute through MTC SMS 
+services or pre-paid wireless Comstar cards.  Mobile phones in 
+Russia are cheaper and more accessible than mobile phones in the 
+United States; Internet providers are already looking to a future of 
+Internet-ready mobile phones. 
+ 
+¶11.  Another company, Golden Telecom, has also launched wireless 
+Internet services around the center of Moscow.  Certain areas of the 
+service are free to access; other areas require subscription to the 
+Golden Telecom service. 
+ 
+¶12.  COMMENT: Wireless Internet in Russia is just beginning to come 
+on-line, but appears to have a bright future.  The number of 
+Internet users continues to rise across the country.  In order to 
+promote computer literacy, the GOR, through the Ministry for 
+Information Technologies and Communications and the Ministry of 
+Education and Science, has instituted a new program to provide every 
+school in Russia with computer access by the beginning of the 
+2007-2008 school year.  Additionally, the government hopes to put 
+computers in every town (mostly in the Post Offices) in order to 
+reach a broader audience.  The increase in disposable income will 
+provide more citizens access to computer technology via home 
+computers and personal laptops. 
+ 
+BURNS

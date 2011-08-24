@@ -1,0 +1,74 @@
+08BERLIN1421
+ADDITIONAL INFORMATION ON BLUE LANTERN END USE
+Mon Oct 20 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXRO0161
+PP RUEHAG RUEHDF RUEHLZ
+DE RUEHRL #1421 2941626
+ZNR UUUUU ZZH
+P 201626Z OCT 08
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 2410
+INFO RUCNFRG/FRG COLLECTIVE
+RUEHCP/AMEMBASSY COPENHAGEN 0491
+RUCPDOC/USDOC WASHINGTON DC
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS BERLIN 001421 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+STATE FOR EUR/CE, EUR/PRA, AND PM/DTCC - BLUE LANTERN 
+COORDINATOR (SABATINI) 
+ 
+E.O. 12958: N/A 
+TAGS: DA ETTC KOMC GM
+SUBJECT: ADDITIONAL INFORMATION ON BLUE LANTERN END USE 
+CHECK - LICENSE 05-050104085 
+ 
+REF: A. SECSTATE 91180 
+     ¶B. PETERSEN-SABATINI E-MAIL 9/21/2008 
+     ¶C. BERLIN 1330 
+ 
+¶1.  (U) THIS IS AN ACTION REQUEST.  PLEASE SEE PARA 5. 
+ 
+¶2. (SBU) The director of the Fraunhofer Ernst-Mach-Institute 
+(EMI) recently provided additional information and supporting 
+documentation that adequately addresses all questions posed 
+in Blue Lantern post-shipment end-user license check 
+056-050101085.  This response is in addition to EMI's 
+original response (captured in REF C), which did not 
+sufficiently answer the questions posed in the above 
+mentioned Blue Lantern license check.  The following 
+paragraphs contain the new response and attached 
+documentation will be emailed to the appropriate Blue Lantern 
+coordinator in conjunction with this cable. 
+ 
+¶3.  (SBU) Dr. Klaus Thoma, Director of EMI, stated that EMI 
+received Endevco accelerometer model 7270A-200K on June 22, 
+¶2008.  Thoma said that EMI is using this accelerometer to 
+characterize material behavior under blast and impact loads 
+in a shock tube with expected acceleration loads exceeding 
+100,000 G.  In Thoma's supporting documentation, he included 
+test results captured in a spreadsheet that demonstrated 
+loads of more than 100,000 G.  Given this load environment, 
+Thoma explained that only the Endevco accelerometer model 
+7270A-200K would suffice for their planned tests. 
+ 
+¶4.  (SBU) The additional information that EMI provided was in 
+response to inquiries posed by the Trade Compliance Manager 
+at Endevco Corporation on October 13, 2008.  These inquiries 
+were nearly identical in nature to that of the inquiries 
+posed in REF C, although Thoma was much more responsive the 
+second time around.  Although Thoma adequately answered all 
+the questions, he still appeared somewhat vexed in his 
+response and suspicious of the bone fides of the Blue Lantern 
+queries.  Specifically, Thoma asked, "Who gets all this 
+information about my institute and data from us and who 
+guarantees that this information is not misused or widely 
+distributed to our competitors?" 
+ 
+¶5. (SBU) ACTION REQUEST:  Post requests Department guidance 
+in responding to the question posed in the paragraph 4. 
+TIMKEN JR

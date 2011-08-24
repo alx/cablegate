@@ -1,0 +1,60 @@
+07ANKARA1718
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Thu Jul 05 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Ankara
+VZCZCXYZ0007
+PP RUEHWEB
+
+DE RUEHAK #1718 1860942
+ZNR UUUUU ZZH
+P 050942Z JUL 07
+FM AMEMBASSY ANKARA
+TO RUEHC/SECSTATE WASHDC PRIORITY 2848
+INFO RUCPDOC/USDOC WASHDC PRIORITY
+RUEPINS/HQ BICE INTEL WASHINGTON DC PRIORITY
+RUEHAK/USDAO ANKARA TU PRIORITY
+RUEUITH/ODC ANKARA TU PRIORITY
+RUEKJCS/SECDEF WASHDC PRIORITYUNCLAS ANKARA 001718 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPARTMENT FOR PM/DTCC - BLUE LANTERN COORDINATOR 
+ 
+E.O. 12958: N/A 
+TAGS: EG ETTC KOMC TU
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 05-1008088 
+ 
+REF: STATE 78898 
+ 
+¶1. As per reftel request, we spoke with Aselsan (Full name 
+Aselsan Electronics Industries Inc.) Purchasing Manager 
+Mehmet Ali Akcoray on June 22 regarding license number 
+05-1008088.  Akcoray relayed our questions to Aselsan's 
+technical section, which confirmed the receipt of 255 UAV 
+rings and all details of the contract. 
+ 
+¶2. Aselsan received the 255 UAV rings (P/N 951735-0001, Alcoa 
+P/N CA2210-M6R) on November 25, 2006, and is currently 
+storing them in its warehouse facilities.  Aselsan confirmed 
+that it has purchased the UAV rings for use in the Heron UAV 
+(Heron Medium Altitude long endurance Unmanned Aerial 
+Vehicle), as a component of its GPS embedded ring laser Gyro 
+Inertial Navigation System (LM-100G). 
+ 
+¶3. The range of the Heron UAV is 200 kilometers when not 
+interrupted.  The UAV's payload consists of a thermal camera 
+system (Aselflir 300T), an LN100 INS/GPS system, and, for 
+some UAVs, a SAR radar system. 
+ 
+¶4. Based on our conversations with Aselsan employees, who 
+fully answered all of our questions, we believe that the 
+items will be used for the purposes stated in the license. 
+ 
+Visit Ankara's Classified Web Site at 
+http://www.state.sgov.gov/p/eur/ankara/ 
+ 
+WILSON

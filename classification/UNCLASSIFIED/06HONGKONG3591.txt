@@ -1,0 +1,106 @@
+06HONGKONG3591
+EXTRANCHECK: POST SHIPMENT VERIFICATION: HONG
+Thu Sep 07 00:00:00 +0200 2006
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0026
+RR RUEHWEB
+
+DE RUEHHK #3591 2500800
+ZNR UUUUU ZZH
+R 070800Z SEP 06
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 8499
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 003591 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: HONG 
+KONG AERO ENGINE SERVICES LIMITED 
+ 
+REF: A) USDOC 04150 
+ 
+1.Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO) and Export Enforcement 
+Special Agent (SA) John McKenna conducted a post 
+shipment verification (PSV) at Hong Kong Aero Engine 
+Services Limited (HAESL), 70 Chun Choi Street, Tseung 
+Kwan O Industrial Estate, Hong Kong. The items in 
+question are pressure transducers (model APTE-4RB-1625) 
+exported to HAESL on May 3, 2006 and valued at USD 
+28,500.  The ECCN listed on the SED is 2B230 and these 
+items are controlled for nuclear nonproliferation and 
+anti-terrorism reasons. The exporter is Transaero Inc., 
+80 Crossways Park Drive, Woodbury, N.Y. (Transaero). 
+ 
+¶3.  The ECO and SA McKenna visited HAESL on August 17, 
+2006 and met with Maggie Leung, Procurement Assistant 
+for HAESL. Ms. Leung provided background on HAESL and 
+its business, which includes aircraft engine overhaul 
+services (more background can be found at 
+www.haesl.com).  HAESL is a joint venture between Rolls 
+Royce, Hong Kong Aircraft Engineering Company and SIA 
+Engineering Company. 
+ 
+¶4.  Ms. Yeung provided extensive documentation showing 
+that HAESL had received six pressure transducers (part 
+# APTE-4RB-1625) and that these six transducers had all 
+already been placed on recently overhauled aircraft 
+engines, which are no longer at HAESL.  As a result, SA 
+McKenna and the ECO were not able to view the 
+transducers at the facility.  Note:  The SED provided 
+to the ECO in anticipation of the check references only 
+three transducers.  The remaining transducers where 
+shipped on a different date than those referenced in 
+the SED. 
+ 
+¶5. Ms. Leung stated that the only commodity that HAESL 
+purchases from transaero are the pressure transducers 
+that are the subject of this check. Ms. Leung further 
+stated that Rolls Royce is also a manufacturer of these 
+pressure transducers and that normally HAESL purchases 
+the transducers from them. 
+ 
+¶6. Note: The ECCN cited by Transaero on the SED (2B230) 
+would appear to require a license for export to Hong 
+Kong even though the item was shipped NLR (No License 
+Required).  The ECO recommends that an Outreach visit 
+be conducted at Transaero to determine if Transaero is 
+exporting its commodities in compliance with U.S. 
+export regulations. The ECO also requests guidance on 
+whether this item is controlled pursuant to 
+NSG/Wassenaar control lists.  If yes, the ECO may reach 
+out to the Hong Kong authorities on this matter as 
+import of multilaterally controlled items absent a Hong 
+Kong import license could represent a violation of Hong 
+Kong law. 
+ 
+¶7. At the time visited, HAESL appeared to be a suitable 
+recipient of the commodities shipped since HAESL 
+cooperated with the PSV and provided all requested 
+documentation concerning the use and final disposition 
+of the items.  At the same time, the ECO and SA McKenna 
+were not able to inspect the subject items as they had 
+already been incorporated into aircraft engines and 
+shipped from the facility.  Consistent with guidance on 
+reporting of PSVs where the items cannot be physically 
+inspected, the ECO and SA McKenna recommend that this 
+PSV be classified as Limited. 
+ 
+CUNNINGHAM

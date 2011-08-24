@@ -1,0 +1,132 @@
+08HONGKONG824
+EXTRANCHECK: POST SHIPMENT VERIFICATION: SEISMIC CABLE
+Tue May 06 00:00:00 +0200 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHHK #0824/01 1270211
+ZNR UUUUU ZZH
+R 060211Z MAY 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 4802
+RHMFIUU/HQ BICE WASHINGTON DC
+RUEHGP/AMEMBASSY SINGAPORE 3846UNCLAS HONG KONG 000824 
+ 
+USDOC FOR 532/OEA/MNICKSON-DORSEY /DMUSLU 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+SINGAPORE FOR FCS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP ETRD ETTC HK
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: SEISMIC CABLE 
+REPAIRS PTE LTD 
+ 
+REF: A) USDOC 01395 B) USDOC 01396 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per Reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Regional Export Control Officer Philip Ankel (ECO) 
+conducted a post shipment-verification (PSV) at Seismic Cable 
+Repairs Pte. Ltd., Loyang Offshore Supply Base, Loyang Crescent Unit 
+B19, Singapore (SCB). The items in question are depth limited 
+hydrophones.  The items referenced in Reftel A are valued at USD 
+27,000 and the items referenced in Reftel B are valued at 
+approximately USD 103,000. The items are classified under Export 
+Control Classification Number (ECCN) 6A991 and are controlled for 
+anti-terrorism (AT) reasons.  The exporter for the items in Reftel A 
+was Hydroscience Technologies of Mineral Wells, Texas while the 
+exporter for the items referenced in Reftel B was Teledyne 
+Instruments of Houston, Texas. 
+ 
+¶3.  According to the Singapore companies registry, SCB was 
+registered in 1989 and its registered share capital is the Singapore 
+dollar equivalent of approximately USD 100,000.  Its directors are 
+Singapore citizens Vincent De Silva, Leon Vashon De Silva, Shirlyn 
+De Silva and Mrs. Vincent De Silva, Nee Doreen Tan Siam Choon. 
+Shareholders are Mr. And Mrs. Vincent De Silva.  The company does 
+not have a web site. 
+ 
+¶4.  On April 21, 2008, the ECO, accompanied by a representative of 
+Singapore Customs visited the company and met with Mr. Leon Vashon 
+de Silva, General Manager, Mr. Vincent De Silva, Managing Director 
+and Mrs. De Silva.  According to Vincent De Silva, the company was 
+founded as a partnership between he and his wife in 1978.  In 1991, 
+the company was registered as a limited company in Singapore.  It is 
+a family business engaged in the repair of oil and gas exploration 
+cables.  Its clients are multinational seismic companies engaged in 
+oil and gas exploration.  Those customers include PGS Exploration, 
+Scan Geophysical, CGG Veritas.  In turn, those customers are engaged 
+by the world's major oil companies for exploration activities 
+worldwide. 
+ 
+¶5.  The hydrophones that are the subject of the PSV are used on 
+cables that are themselves used to obtain seismic data from the sea 
+bottom.  The new hydrophones are used to replace damaged hydrophones 
+in cables brought to SCB for repair.  Old hydrophones are destroyed 
+and sold for scrap. SCB's customers do not tell SCB the location 
+where the cables are being used, primarily for commercial 
+competitive reasons.  That is because those customers do not want 
+competitors to know that one or more of their exploration boats is 
+unable to work because of technical difficulties. However, Mr. 
+Vincent De Silva stated that he is typically able to ascertain where 
+the cables are being used because of some of the physical 
+characteristics of the cables.  SCB's customers use various 
+logistics companies to deliver and pick up the cable that is being 
+repaired (typically in Singapore).  Mr. Leon Vashon De Silva 
+stressed that SCB does not resell any hydrophones as such but only 
+purchases those items for use in cables that it repairs. 
+ 
+¶6.  As to the particular items in question, Mr. Leon Vashon De Silva 
+provided documentation reflecting that SCB had received the items 
+referenced in Reftel B.  These items had, in turn, been turned over 
+to Scan Geophysical as part of repaired cable.  Mr. Leon Vashon De 
+Silva provided documentation reflecting receipt of the items in 
+Reftel A and subsequent delivery to Dalmorneftegeophysica 
+(www.dmng.ru) as part of repaired cable.  According to Mr. Leon 
+Vashon De Silva, this company has two boats in the region conducting 
+various oil and gas exploration projects.  He noted that this 
+company has switched to a French system and will likely no longer 
+need replacement hydrophones from the United States. 
+ 
+¶7.  Mr. Leon Vashon De Silva was very well versed in U.S. export 
+controls on the applicable items.  He as quite pleased to meet the 
+ECO and discussed at length the company's troubles associated with a 
+prior attempt to obtain more controlled (but apparently cheaper) 
+hydrophones.  That attempt was not successful as a result of a BIS 
+license denial referenced in Reftels A and B.  Mr. Leon Vashon De 
+Silva attended a BIS seminar held in Singapore in 2005 and relayed 
+the company's attempt to legally acquire other hydrophones.  He 
+stressed that the company does not sell the hydrophones except as a 
+part of works contracts for seismic exploration services providers. 
+He also stressed that his company does not do business with any of 
+the sanctioned countries.  He also stated that his company is not 
+related to Seismic Singapore and that this company had gone out of 
+business some time ago. 
+ 
+¶8.  In addition, Mr. De Silva also pointed out to the ECO (during a 
+ 
+ 
+tour of the facility) that Teledyne Instruments (the supplier in 
+Reftel B) had itself opened a cable repair facility immediately 
+adjacent to the SCB facility.  He further stated that Teledyne had 
+offered to acquire SCB but had been rebuffed (apparently on account 
+of price).  In effect, Teledyne is now both a supplier of 
+hydrophones but also a direct competitor in the cable repair 
+business. 
+ 
+¶9.  At the time visited, SCB appeared to be a suitable recipient of 
+the commodities shipped since SCB cooperated with the PSV, provided 
+ECO with access to all appropriate documents and operates a line of 
+business consistent with the use of the items.  Also, SCB was 
+informed of applicable export control rules (especially those 
+relating to reexports to sanctioned countries) and indicated its 
+intent to comply with them.

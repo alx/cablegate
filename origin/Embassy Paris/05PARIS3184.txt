@@ -1,0 +1,165 @@
+05PARIS3184
+FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR ONE
+Wed May 11 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+111327Z May 05UNCLAS SECTION 01 OF 03 PARIS 003184 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR; AVA 
+SMTIH); EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP - NOMINATION AND PART I BIODATA FOR ONE 
+PRINCIPAL CANDIDATE FOR EURP - TRADE AND ECONOMIC DEVELOPMENT 
+(MAY 8 - 26, 2006) 
+ 
+REF: STATE 004520 
+ 
+POST WOULD LIKE TO NOMINATE ONE PRINCIPAL CANDIDATE FOR 
+SUBJECT PROGRAM: MR. ANTOINE SAINTOYANT. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 277 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - EURP Trade and Economic Development 
+START MEMO PROJ-DESC: 
+This project is intended to give economic and trade 
+specialists, policy planners, academics, economic journalists 
+and labor leaders an understanding of the U.S. economic system 
+and the domestic economic forces that influence U.S. trade 
+policy and the policy-making local initiatives in 
+international trade and export promotion, and innovative 
+strategies for regional economic development. 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Regional 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 05/06/2006 
+SESSION-DATE: 05/08/2006 
+RETURN-POST: 05/27/2006 
+NO-OF-PART: 1 
+RANK-ORDER: 4 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: RP 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Trade 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Antoine 
+M-NAME: 
+L-NAME: Saintoyant 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Ministere de l'Economie et des Finances 
+M-ADDR2: Direction des Relations Economiques 
+M-ADDR3: Teledoc 543 - 139, rue de Bercy 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75572 
+M-ZIP: 
+M-PHONE: + (33) 1.53.18.82.63 
+M-FAX: 
+M-EMAIL: antoine.saintoyant@dree.org 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 08/28/1977 
+MAR-STAT: M 
+BIRTH-CITY: Paris 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Deputy Office Head, Foreign Agricultural Policy, Trade and 
+Development, Trade Directorate, Ministry of Economy, since 
+2003 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+June-December 2001 - Acting Cabinet Head, Prefecture of Ariege 
+January-June, 2001 - In charge of European Cooperation issues, 
+Embassy of France in Jordan 
+September-November 1997 - Trainee, Directorate General of the 
+Cultural, Scientific and Technical relation, Scientific and 
+Technical cooperation department, U.S. Office, Ministry of 
+Foreign Affairs, Paris 
+October-November 1996 - Trainee, Accounting Management 
+Services, Societe Generale, Paris 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Jordan - January-June 2001, training at French Embassy 
+Canada, Turkey, Jordan, Morocco, India, Vietnam - Tourism 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+2001-2003 - College for Senior Civil Servants, Paris and 
+Strasbourg 
+1998-1999 - International Studies Certificate in Economics, 
+University of Bonn, Germany 
+1995-1998 - Institute for Political Studies of Paris (civil 
+service section) 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 3 
+ENGL-SPEAK: 3 
+ENGL-COMP: 3 
+START OTHER-LANGS: 
+OTHER-LANG: German 
+OTHER-LANG-ID: GM 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: Spanish 
+OTHER-LANG-ID: QB 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Our principal objective is to strengthen our contact with a 
+potential high-level civil

@@ -1,0 +1,308 @@
+05PARIS3199
+FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR.
+Wed May 11 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+111351Z May 05UNCLAS SECTION 01 OF 04 PARIS 003199 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR); 
+EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR. 
+NICOLAS RECH - ALTERNATE CANDIDATE FOR INDIVIDUAL PROGRAM. 
+ 
+REF: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 291 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - INDIVIDUAL Program - Nicolas Rech 
+(Alternate) 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 19 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Agriculture 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Nicolas 
+M-NAME: 
+L-NAME: Rech 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: No 
+M-ADDR1: Lagarrigue 
+M-ADDR2: 
+M-ADDR3: 
+M-CITY: Senouillac 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 81600 
+M-ZIP: 
+M-PHONE: + (33) 5.63.41.70.83 
+M-FAX: + (33) 5.63.81.59.88 
+M-EMAIL: nicolas.rech@wanadoo.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: H 
+GENDER: M 
+DOB: 05/22/1976 
+MAR-STAT: S 
+BIRTH-CITY: Albi 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Wine grower and manager of winery, since 1997 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+- President of the Young Farmers' Union of Midi-Pyrenees 
+(Jeunes Agriculteurs), since June 2004 
+- President of the Young Farmers' Union of Tarn Department, 
+since February 2003 
+- Administrator, Wine cooperative, Labastide de Levis, Tarn, 
+since 2002 
+- Municipal Councilor, Senouillac, since 2001 
+- Treasurer, SICAREX (R&D agricultural firm), since 2001 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+ 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+- Canada, July 1996 - participant in a Rotary Club cultural 
+visit and exchange 
+- Spain, March 1995 - school trip to visit Spanish wineries 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+- 1994-1996 - Associate Degree, major in wine growing- 
+oenology, High School for General and Vocational Training in 
+Agriculture, Bordeaux-Blanquefort 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+- Member, Board of Directors, Center of Rural Economy, Tarn 
+department 
+- Member, Board of Directors, Chamber of Agriculture of the 
+Tarn department 
+- Member, Board of Directors, Departmental Federation of 
+Farmers' Unions (FDSEA), Tarn department 
+- Member, Board of Directors, Regional Federation of Farmers' 
+Unions (FRSEA), Midi-Pyrenees 
+- Member, Board of Directors, Departmental Committee on 
+Agricultural Orientation, Tarn department 
+- Member, Board of Directors, Departmental Association for the 
+Development of Farm Facilities (ADASEA), Tarn department 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 2 
+ENGL-SPEAK: 2 
+ENGL-COMP: 2 
+START OTHER-LANGS: 
+OTHER-LANG: Spanish 
+OTHER-LANG-ID: QB 
+READ: 2 
+SPEAK: 2 
+COMP: 3 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+As the Mission aims to reach out to the successor generation, 
+Mr. Rech's reach among young farmers (i.e. less than 35 years 
+old) would enable us to directly address this hard-to-reach 
+audience. Developing productive contacts in the agricultural 
+sector, which is the second industry after aeronautics in Midi- 
+Pyrenees, is essential for APP Toulouse. Agriculture employs 
+10% of the Midi- Pyrenees workforce --double the national 
+average. It is therefore a sector whose leaders have a major 
+influence on a large portion of the local population. Yet, 
+most young farmers have never traveled to the United States, 
+much less met with their American counterparts. Therefore, an 
+IV trip will give Mr. Rech the rare opportunity to interact 
+with American farmers, lobbyists, and policy makers. Helping 
+Mr. Rech gain a clear perception of American agricultural 
+issues and solutions will shape his decisions as President of 
+Young Farmers. 
+Promoting a better understanding of U.S. agriculture among 
+young farmers such as Mr. Rech will also help influence the 
+way the French agricultural sector approaches agricultural 
+trade negotiations at the international level (WTO). 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Mr. Rech has never been to the U.S. and is unfamiliar with 
+most of its agricultural issues. It would therefore be 
+essential for him to gain a broad knowledge of USG 
+agricultural policy before meeting with lobbyists, union 
+leaders, farmers/winegrowers, Congressional staffers, and 
+local Chamber of Agriculture-equivalent representatives. Mr. 
+Rech is interested in learning about American agriculture's 
+financing (especially with regard to financial aid to newly- 
+established farmers), rural development policies in the U.S., 
+and the organization of agribusiness networks. Helping him 
+develop contacts with his counterparts among young unionists 
+and with American farmers in order to confront the issues they 
+face and the solutions Americans have adopted is also crucial. 
+Mr. Rech has also started a farmers' committee in the Tarn 
+department tasked with analyzing biofuel production 
+opportunities for farmers. Presentations on U.S. energy policy 
+as it pertains to biofuel and renewable energy would also be 
+of use to Mr. Rech in his endeavors, as would meetings with 
+biofuel producers. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Helene Mason 
+START MEMO NOMINATING-JUSTIFICATION: 
+At age 28, Nicolas Rech has already reached a high level of 
+responsibility within his professional union and is a key 
+player in the Midi-Pyrenees young farmers' community. The 
+successful running of his winery enables him to dedicate much 
+of his time to the advancement of agricultural issues 
+important to young farmers. 
+A highly-motivated and energetic individual, he has been 
+actively involved in departmental and regional groups of the 
+national Young Farmers union since 2001. As departmental 
+administrator for the union in 2002, he handled farm 
+establishment, which is one of the major issues facing young 
+farmers. In that capacity, he promoted rural development and 
+interacted with local political leaders. His dynamism was well 
+recognized among his peers, and he rapidly progressed within 
+the union's hierarchy to become the elected Departmental and 
+Regional President of Young Farmers. He currently holds these 
+two positions simultaneously and is actively working to 
+energize his union members at the county and departmental 
+levels in order to build up support for and voluntary 
+participation in Young Farmers' regional endeavors. To that 
+end, he has chosen to focus union priorities on the 
+harmonization of farm establishment procedures at the regional 
+level and on polling young professionals to assist them with 
+their projects. 
+As Regional President of Young Farmers, he represents the 
+union's Midi-Pyrenees 2,000 members at the national level 
+through the Council of Regional Presidents and also through 
+promotional events and demonstrations. He therefore has a 
+significant domestic impact on the issues that are of 
+relevance to young farmers and on the ways the union should 
+push its agenda. 
+As a professional wine grower, Mr. Rech is also very active in 
+his community through the wine cooperative (300 wine growers) 
+of which he is an administrator. He has innovative ideas as to 
+how cooperatives in his area should be run and merged, and 
+vocally supports favoring efficiency over individual interests 
+and susceptibilities. 
+His involvement with Young Farmers -and undoubtedly later with 
+other farmers' unions- is a long-term choice. He intends to 
+continue to seek responsibilities at the national and local 
+levels, depending on time constraints. He feels that a 
+national role in Young Farmers in the short-term would be 
+tremendously interesting, as it would enable him to work with 
+Ministries, the European Union, and financial institutions. 
+However, within the next five years, he intends to run for a 
+departmental Chamber of Agriculture position and to become 
+more actively involved in the local wine production 
+organization (i.e. the running of local cooperatives). 
+Already engaged in his village's political life as municipal 
+councilor, Mr. Rech will very likely continue in politics in 
+the future in order to have a direct impact on budgets and 
+laws affecting his profession. He is considering running for 
+office within the next ten years, either at the national level 
+as a Member of the National Assembly to propose laws or at the 
+regional level as a Member of the Regional Council to shape 
+local development by voting on financial attributions. 
+A likely future key actor in rural development in Midi- 
+Pyrenees, Mr. Rech would be a very valuable contact for the 
+USG. Participating in the IV program at this stage would 
+undoubtedly be a decisive experience for him. Not only would 
+it broaden his understanding of American agricultural policy 
+in a context of Franco-American disagreements on agricultural 
+exchanges and policies, but it would be an opportunity to have 
+a significant impact on the way he tackles agricultural 
+issues. 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: APP Toulouse, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: INTERPRETER 
+NOMINEE-ID: 578 
+PERSON-ID: 477 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: I 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

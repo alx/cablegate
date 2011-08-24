@@ -1,0 +1,672 @@
+10PARIS111
+REPORT OF THE 119TH NUCLEAR ENERGY AGENCY STEERING
+Tue Feb 02 00:00:00 +0100 2010
+UNCLASSIFIED
+Embassy Paris
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHFR #0111/01 0331434
+ZNR UUUUU ZZH
+R 021434Z FEB 10
+FM AMEMBASSY PARIS
+TO RUEHC/SECSTATE WASHDC 8192
+RUEHSS/OECD POSTS COLLECTIVE
+RUEHUNV/USMISSION UNVIE VIENNA 0729
+RUEHNE/AMEMBASSY NEW DELHI 1358UNCLAS PARIS 000111 
+ 
+SIPDIS 
+ 
+SENT FROM USOECD 
+ 
+E.O. 12958: N/A 
+TAGS: AORC ENRG KNNP TRGY ISCA IEA OECD
+SUBJECT: REPORT OF THE 119TH NUCLEAR ENERGY AGENCY STEERING 
+COMMITTEE MEETING, OCTOBER 29-30, 2009 
+ 
+REF:  (09) SECSTATE 110381 
+ 
+¶1. SUMMARY: The OECD/Nuclear Energy Agency (NEA) Steering Committee 
+met October 29-30, 2009 at OECD headquarters in Paris.  Chairman 
+Richard Stratford (U.S.) was reelected as Chair of the Steering 
+Committee.  The meeting took place against a backdrop of 
+developments which indicate heightened interest in nuclear power: 
+these include Belgium's recent announcement to postpone its nuclear 
+phase-out, the German government's announcement that it is committed 
+to allow its NPP to operate longer and Italy's renewed interest in 
+nuclear energy.  Faced with the prospect of a second biennium of 
+zero nominal growth (ZNG) and rising demands on the agency, the 
+Steering Committee agreed to set up an Advisory Group on a 
+Sustainable NEA budget to provide options to the Steering Committee 
+at its next session for the 2011-2012 budget.  In addition to 
+routine business, the Steering Committee agreed to the participation 
+of Indian experts on an ad hoc basis in a selected number of nuclear 
+safety-related committees and working groups would be of mutual 
+benefit.  The Steering Committee also agreed to permit Poland to 
+participate as an ad hoc participant in 10 NEA Working Parties.  The 
+High-Level Group on the Security of Supply of Medical Radioisotopes 
+reported that it will study whether there has been market failure in 
+the supply chain.  If this proves to be the case, the study will 
+provide recommendations on how to address this failure in order to 
+create an environment that encourages sufficient investment in 
+medical radioisotope production and related infrastructure.  End 
+Summary. 
+ 
+-------------------------------------------- 
+Agenda Item 1: Adoption of the Agenda (NEA/NE/A(2009)2) 
+-------------------------------------------- 
+ 
+¶2.  The Agenda was adopted without comment. 
+ 
+--------------------------------------- 
+Agenda Item 2: Minutes (NEA/NE/M(2009)1 
+--------------------------------------- 
+ 
+¶3.  The Minutes of the April 28-29, 2009 meeting were approved 
+without comment. 
+ 
+------------------------------------------ 
+Agenda Item 3: Report of the Director-General (Oral) 
+------------------------------------------ 
+ 
+¶4.  The Director-General's opening oral comments provided a general 
+review of emerging interest in nuclear energy, including the many 
+"New Entrant" countries  discussed at the September IAEA General 
+Conference, in particular that these included NEA member Turkey and 
+OECD member Poland.  He commented on Belgium's recent announcement 
+to postpone its nuclear phase-out, the new German government's 
+announcement it is committed to allow its NPP to operate longer and 
+Italy's renewed interest in nuclear energy.  The Director-General 
+highlighted that the EU recently adopted a multibillion Euro plan 
+for new energy investment, including the objective that the first 
+prototype of a Generation-IV (GEN-IV) nuclear reactor should be in 
+operation by 2020.  Of particular note was his comment that 
+according to the 2009 IEA "World Energy Outlook," the IEA is now 
+explicitly considering that the development of nuclear power 
+technology must be accelerated, promoted and relied upon if the 
+world is to stabilize carbon dioxide emissions at an acceptable 
+level. 
+ 
+¶5.  The Director-General provided an overview of the June 2009 OECD 
+Ministerial Meeting which endorsed a Declaration on Green Growth and 
+whose attendees included the five accession countries (Chile, 
+Estonia, Israel, Russia, and Slovenia).  The October 2009 IEA 
+Ministerial focused on "Responding to Energy Challenges in 
+Partnership" (Public-Private) and included participation of China, 
+India, Russia and energy industries.  The Director-General covered 
+the status of NEA relations with China, Russia and the IAEA.  He 
+informed the Steering Committee that Romania has requested to become 
+a formal observer in a number of OECD bodies, including the NEA. His 
+remarks also included a review of activities in the areas of nuclear 
+safety and regulation, radioactive waste management and 
+decommissioning, radiological protection, nuclear science, nuclear 
+development, legal affairs and the Data Bank. 
+ 
+¶6.  Lastly the Director-General commented on the status of three 
+important reference publications: 
+ 
+--  The Red Book.  The publication of the "Uranium: Resources, 
+Production and Demand" is released biennially in cooperation with 
+the IAEA.  The last edition was published in 2008 and the next 
+edition is anticipated to be published in June 2010.  Preliminary 
+results indicate that the financial crisis continues to have a 
+moderating effect on exploration expenditures and mine development. 
+Nonetheless, resources continue to increase and production is also 
+ 
+increasing, albeit less rapidly, at least in part because lengthy 
+mine development in many jurisdictions remains an issue. 
+ 
+--  The Brown Book.  The 2009 edition of "Nuclear Energy Data" is 
+now available.  A timely source of NPP data, the book reports that 
+in addition to the 15 reactors currently  under construction in the 
+OECD area (14 in 2008), the number of firmly committed reactors has 
+jumped from 13 in 2008 to 23 in 2009, many due to the U.S. 
+government considering that 9 reactors now fall in this category. 
+ 
+--  The Yellow Book.  The Decommissioning Cost Estimation Book is 
+currently undergoing revision in collaboration with the IAEA and the 
+European commission.  It is scheduled for completion in 2010 and 
+will include a) a revision of the listing of cost items to take 
+account of experience gained from 10 years of using the current cost 
+structure, and b) the development of a Users Manual to guide users 
+in applying the cost structure and to ensure greater harmonization 
+of approaches to cost reporting. 
+ 
+¶7.  The Director-General's report was followed by general comments 
+from Belgium, Germany (clarifying the German government's views on 
+continued operation of its nuclear power plant), Iceland, Japan 
+(HGTR status), Netherlands, and Switzerland (both the Netherlands 
+and Switzerland requested a report at the April 2010 Steering 
+Committee meeting on the work of the High-level Group on the 
+Security of Medical Isotopes).  USDEL expressed its support for the 
+High-level Group, noting the importance of its work when there is a 
+critical shortage of isotopes worldwide. 
+ 
+------------------------------------------ 
+Agenda Item 4: Program of Work (POW) and Budget for 2009-2010 
+(NEA/NE(2009)8 
+------------------------------------------ 
+ 
+¶8.  Deputy-Director Janice Dunn Lee provided a recap of the April 
+2009 Steering Committee meeting, including an overview of the budget 
+challenges in relation to the significant down-sizing affect on the 
+Program of Work (POW).  In this process 6 Secretariat posts were 
+frozen.  Ms. Dunn Lee announced two donor Cost-Free Project Posts 
+were added; one in the area of radioisotopes and the second nuclear 
+safety coordinator to develop a program for New Entrant Countries. 
+She pointed out the Steering Committee at its October meeting is 
+invited to approve the adoption of a zero nominal growth (ZNG) 
+budgetary envelope for 2010 and down-sizing adjustments to the 
+Program of Work for 2009-2010.  The Deputy Director-General stressed 
+that the current budget impasse on reaching a stable and sustainable 
+core budget consensus is beyond the Secretariat's ability to resolve 
+therefore the Steering Committee must solve the problem. 
+Interventions by Korea and Switzerland noted the importance of 
+effectively using resources given the state of the global economy. 
+The U.S. intervention noted the need for a clarification of what the 
+Nuclear Safety Coordinator Cost-Free Expert for Entrant Countries 
+would be doing, also noting that the Steering Committee had not 
+approved any Entrant Country activities 
+ 
+¶9.  The Deputy Director commented that Member Countries should be 
+mindful of members' expressed desire to fulfill the original POW, 
+noting the Secretariat proposed that members who wish to do so 
+should consider voluntary contribution to be used to make up the 
+short-fall in areas of the POW that were being curtailed through the 
+imposition of ZNG and the down-sized POW.  She noted that to date 
+only one member country had offered a voluntary contribution in the 
+area of radioactive waste management.   Her comments were followed 
+by a number of interventions.   The South Korean Delegate stated 
+Korea was unclear as to the meaning and definition of voluntary 
+contributions and cost-free experts.   Austria raised the issue of 
+transparency as to what projects and activities were being supported 
+by the voluntary contributions and cost-free experts, the Steering 
+Committee needs to be knowledgeable on what is financed by voluntary 
+contributions.   The Austrian Delegate stated he was at a loss as to 
+why there was a need to discuss the importance of voluntary 
+contributions on the basis of one contribution.  He also raised the 
+issue of outsourcing Secretariat services for the Generation IV 
+consortium (GEN-IV).  The Director General stated that a POW agreed 
+by the Steering Committee was not distorted by a single voluntary 
+contribution; voluntary contributions were only accepted which are 
+consistent with the Program of Work (in line with OECD practices) 
+and after member approval.  Interventions by Australia, Germany and 
+Sweden supported the Chair's view on the potential affect of 
+voluntary contributions.  The Swedish Delegate raised the issue as 
+to what do Member States want the NEA to do.  The Deputy-Director 
+noting the concerned interventions raised by delegates and pledged 
+to improve the transparency of voluntary contributions and cost-free 
+experts contributions to the POW. 
+ 
+------------------------------------------ 
+Agenda Item 5: Steering Committee Advisory Group for a Sustainable 
+NEA Budget: Options Paper (NEA/NE(2009)11 
+ 
+------------------------------------------ 
+ 
+¶10.  After an overview by the Secretariat of the proposed three 
+options for establishing an advisory group, the Chairman provided 
+his view that there should be clear direction to the Secretariat, as 
+well as a clear idea of what is to be the product and what the 
+Steering Committee wants or needs.   The Steering Committee 
+delegations took note of the Chairman's introductory comments and 
+after considerable debate on the merits of a budget advisory group 
+delegations supported its creation with a suggested mandate.  There 
+was consensus that the Steering Committee should be kept informed in 
+a timely manner of the Group's deliberations, both via reports at 
+Steering Committee meetings and electronically between sessions. 
+After delegate discussion and revisions to the draft mandate text, 
+the US DEL joined consensus in approving the mandate as below: 
+ 
+BEGIN MANDATE TEXT: 
+ 
+Steering Committee Mandate Directive for Steering Committee Budget 
+Advisory Group for a Sustainable NEA Budget 
+ 
+-- Mandate: Assist and advise the Steering Committee on how best to 
+provide the NEA with a sustainable budget to complete its Program of 
+Work for 2011-2012 
+ 
+-- Specific Terms of Reference: to be considered by the group and 
+notified to the Steering Committee 
+ 
+-- Open-ended for the group itself; a smaller drafting group will 
+likely be needed 
+ 
+-- Desired Composition: technical and budget experts from a 
+representative range of member countries (small, medium and large; 
+broad geographical coverage) 
+ 
+-- Structure: Chair to be elected; no Bureau; NEA Secretariat to 
+provide staff support; quorum not an issue 
+ 
+-- Number and frequency of meetings: to be determined by the group, 
+with a first meeting suggested to take place before the end of 2009, 
+and one of the other meetings possibly during the days preceding the 
+April 2010 session of the Steering Committee 
+ 
+-- Relationship to the Steering Committee: to report to the Steering 
+Committee formally at its April 2010 session; interim reports to be 
+provided electronically as appropriate; the group does not have 
+decision-making powers itself 
+ 
+-- Product: written recommendations to be presented to the Steering 
+Committee at its April 2010 session and October 2010 session as 
+appropriate 
+ 
+-- Nominations: Member countries will be asked to nominate experts 
+by November 30, 2009 
+ 
+END MANDATE TEXT 
+ 
+------------------------------------------ 
+Agenda Item 6: Participation of Poland in NEA Committees and Working 
+Parties (NEA/NE(2009)9 
+------------------------------------------- 
+ 
+¶11.  At its 115th Session, the Steering Committee approved the 
+request by Poland to participate as an ad hoc OECD Member 
+Participant in the activities of the Committee on Radiation 
+Protection and Public Health (CRPPH), the Radioactive Waste 
+Management Committee (RWMC), and the Nuclear Development Committee 
+(NSC) and the NSC Working Party on Scientific Issues of the Fuel 
+Cycle and the Working Party on Scientific Issues of Reactor Systems. 
+ On August 3, 2009, Poland requested renewal of participation in 
+these committees and expressed interest in ad hoc participation in 
+the Committee on the Safety of Nuclear Installations (CSNI), the 
+Committee on Nuclear Regulatory Activities (CNRA), CNRA Working 
+Group on Regulation of New Reactors (WGRN), the Committee on 
+Radiation Protection and Public Health (CRPPH) Working Party on 
+Nuclear Energy Matters (WPNEM), and the Nuclear Law Committee (NLC). 
+ After affirmative interventions by France, Germany, Korea, the 
+Slovak Republic, and Sweden, the Steering Committee by unanimous 
+consensus approved Poland's request. 
+ 
+------------------------------------------- 
+Agenda Item 7: NEA Committee Mandates and Structures - Update 
+(NEA/NE(2009)10 
+------------------------------------------- 
+ 
+¶12.  There was no discussion on the Standing Technical Committee 
+(STC) Mandates and Structures document, because the document was not 
+available to delegations until the first day of the Steering 
+ 
+Committee Meeting. 
+ 
+NOTE:  The U.S. brief review found a number of changes to the 
+mandates, in particular non-government participants, which raised 
+concern and need for further review and discussion. 
+ 
+------------------------------------------- 
+Agenda Item 8: Status Report on GIF Activities and NEA Involvement 
+(Oral Report) 
+------------------------------------------- 
+ 
+¶13.  The Generation IV International Forum (GIF) is not a NEA core 
+program under the oversight of the NEA Steering Committee nor a 
+cooperative arrangement.  The GIF concept originated in the United 
+States and has expanded with the assistance of the NEA Secretariat. 
+The United States/DOE and Japan are the primary funders.  GIF is a 
+consortium of interested countries (without independent offices or 
+permanent staff) consisting of: Argentina, Brazil, Canada, China, 
+France, Japan, Korea, Russia, South Africa, Switzerland, UK, USA, 
+and EURATOM.  The IAEA is an observer.  Argentina, Brazil and the UK 
+are non-active members.  The NEA functions as the technical 
+secretariat and provides offices, and staff assistance.  Thierry 
+Dujardin, NEA Deputy Director, Science and Development, provided an 
+overview of 2008 activities regarding project arrangements, policy 
+group meetings, and the 2009 Symposium, September 9-10, 2009 in 
+Paris,   He reported on NEA Technical Secretariat Activities, 
+including 50 meetings; 30 teleconferences; organizational 
+preparation, preparation of agenda, drafting of  minutes, and 
+follow-up, editing documents,  etc.; and the IT website and public 
+website.  He noted that the NEA Secretariat staff is well integrated 
+in all technical activities, however it is more time consuming than 
+first anticipated. 
+ 
+------------------------------------------- 
+Agenda Item 9: NEA Relations with India: Proposals for Cooperation 
+(NEA/NE(2009)12) 
+------------------------------------------- 
+ 
+¶14.  Following exchanges with delegations on the proposed ad hoc 
+participation of India prior to the Steering Committee meeting, 
+"Actions by the Steering Committee" were amended as follows: 
+ 
+"The Steering Committee shall be invited to: 
+ 
+1)  Note the recent Safeguards Agreement and Additional Protocol 
+concluded between India and the IAEA and the conclusion of bilateral 
+agreements with India in the field of non-proliferation and the 
+peaceful use of nuclear energy; 
+ 
+2)  The willingness of India to align with international best 
+practices in regulating and operating its nuclear power plants for 
+civil use; 
+ 
+3)  Note the significant experience of Indian experts in nuclear 
+energy based on past and present autonomous development in research, 
+and the operation and regulation of nuclear power plants; and agree 
+that the participation of Indian experts on an ad hoc basis in a 
+selected number of nuclear safety-related committees and working 
+groups is meaningful and would be of mutual benefit; 
+ 
+4)  Agree that Indian technical experts could be invited on an ad 
+hoc basis to the meetings of the standing technical committees and 
+working groups listed in PARA 13 (NA/NE(2009)12), except for the 
+Expert Group on Integral Experiments for Minor Actinide Management 
+and the Working Party on Multi-scale Modeling of fuels and 
+Structural Materials for Nuclear Systems (WPMM) of the Nuclear 
+Science committee (NSC); 
+ 
+5)  Note that India could be participating in the future in nuclear 
+safety-related OECD/NEA Joint Projects and the MDEP; and 
+ 
+6)  Reconfirm the step-by-step approach for cooperation within the 
+scope of the Nuclear Suppliers Group (NSG) Statement on Civil 
+Nuclear cooperation with India of September 6, 2008 and with 
+potential applications in Indian Facilities under IAEA safeguards, 
+and request the Director General to report annually to the Steering 
+Committee on NEA cooperation with India. 
+ 
+Minor interventions were made by Canada, Japan, Korea, and Sweden. 
+Consensus supported an interest to have India participate in 
+standing technical committees on an ad hoc case-by-case basis. 
+ 
+------------------------------------------- 
+Agenda Item 10: Status Report by the Chair of the Nuclear Law 
+Committee (Oral Report) 
+------------------------------------------- 
+ 
+¶15.  Mr. Dussart Desart, Chairman of the Nuclear Law Committee (NLC) 
+ 
+presented an overview of the status of the Committee's Program of 
+Work, including impacts of environmental law, the Protocols amending 
+the Paris and Brussels Supplementary Conventions, the new topical 
+approach and further themes under consideration for study.  Of 
+particular interest was the New Policy related to observers from 
+NGOs. NGOs and industry must submit an application for participation 
+pursuant to OECD Council guidelines.  The new policy does not affect 
+a National Delegation's ability to determine the composition of its 
+delegation. 
+ 
+------------------------------------------- 
+Agenda Item 11: Status Report by the Chair of the CRPPH (Oral 
+Report) 
+------------------------------------------- 
+ 
+¶16.  Dr. Ann McGarry, Chairman of the Committee on Radiation 
+Protection and Public Health (CRPPH) presented an overview of 
+"Radiation Protection in Today's World: Contributions of the CRPPH. 
+ She noted the Committee's approach is to: 1) identify topics of 
+common or international interest; 2) Address agreed issues, and 3) 
+survey the horizon for possible emerging issues.  Her presentation 
+addressed principles areas of current interest, the current context 
+of radiological protection, the new ICRP Recommendations, new 
+nuclear build, the stakeholder roles in decision making, science and 
+values, radiological protection of the environment, nuclear 
+emergency management and the forthcoming 2010 INEX-4 which will 
+explore national and international issues in management of 
+consequences in an urban environment, and occupational exposure at 
+NPPs. 
+ 
+------------------------------------------- 
+Agenda Item 12: Report on the MDEP Conference Held in Paris 
+9/10-11/2009 (Oral Report) 
+------------------------------------------- 
+ 
+ 
+ 
+ 
+ 
+                                                      ¶17.  The 
+Multinational Design Evaluation Program (MDEP) is not a NEA core 
+program under the oversight of the NEA Steering Committee nor a 
+cooperative arrangement.  Like the GIF, it is funded by voluntary 
+contributions (primarily from the United States/NRC and Japan).  The 
+MDEP concept originated in the U.S. Nuclear Regulatory Commission 
+and expanded with the support of the NEA Secretariat.  MDEP is now a 
+consortium of regulatory authorities, from Canada, China, Finland, 
+France, Japan, Republic of Korea, Russian Federation, South Africa, 
+U.S. and the U.S.  MDEP does not have independent offices, permanent 
+staff, or an operational budget.  The NEA functions as the technical 
+secretariat and provides offices, and staff assistance.  Javier 
+Reig, Head of the NEA Nuclear Safety Division, reported on the MDEP 
+Conference on New Reactor Design Activities, September 10-11, 2009. 
+The goal of the conference was to share results obtained with 
+industry and non-MDEP regulators.  Held at the OECD headquarters in 
+Paris, the Conference had approximately 170 attendees from 23 
+different countries, 11 national/international organizations (IAEA, 
+EC, WENRA, EURELECTRIC, EUR, WNA/CORDEL, INSAG, ASME, AFCEN, and 
+FORATOM), and vendors, licensees/operators, and component 
+manufacturers.  The conference conclusions included among a number 
+of points:  1) great expectations from MDEP for worldwide 
+certification of new designs, 2) standardization and harmonization, 
+3) convergence of regulatory practices will finally lead to 
+convergence of regulatory requirements and standardization within 
+the present MDEP framework, and 4) certification and approval of 
+components.  It was announced that Sweden and India have requested 
+to join.  Korea raised an intervention regarding harmonization, 
+noting it would be difficult to harmonize standards when there are 
+different standards from country-to-country.  The Secretariat 
+responded that it could be similar practices and that it all depends 
+on what factors are included. Slovakia's intervention noted that 
+MDEP provides reports periodically to the CNRA and the CSNI Standing 
+Technical Committees. 
+ 
+------------------------------------------- 
+Agenda Item 13: Report on the Financing of Nuclear Power Plants 
+(Oral Report) 
+------------------------------------------- 
+ 
+¶18.  A report by the Secretariat Nuclear Development Division, on 
+the Nuclear Development Committee (NDC) Ad Hoc Experts Group on 
+Financing Nuclear Power Plants (FNPP) study (2007-2008 POW), for the 
+purpose of publishing an 18-month study, Report on Financing NPPS. 
+He highlighted that the participants were a mix of government and 
+industry representatives, including 7 member states, plus the EC, 
+the IEA, the IAEA, World Nuclear Association (WNA).  (NOTE: The Ad 
+Hoc Group was chaired by the Chief Investment Counsel, Bechtel Power 
+Corporation, and published in November 2009).  The only intervention 
+ 
+ 
+was by the Austria delegate on the difficulty of financial market 
+regulation.   However, in corridor discussions several delegations 
+again raised sensitivities over the merits of publishing this study 
+when the format, objectives, and summary, are closely similar  to an 
+IAEA study and report done some time ago.  (Comment: Turkey raised 
+the duplication issue in the April NEA Steering Committee April 2009 
+session as to why the NEA did not approach the IAEA to do a joint 
+report.  The Secretariat responded at that time that the NEA 
+participated in many IAEA studies and that in turn IAEA had been an 
+active participant in the NEA study on financing of Nuclear Power 
+Plants.  Director General Echavarri described the NEA/IAEA 
+relationship as professional and collaborative.  End comment) 
+ 
+------------------------------------------- 
+Agenda Item 14: Activities of Other Parts of the OECD (Oral 
+Reports) 
+------------------------------------------- 
+ 
+OECD/International Energy Agency (IEA): 
+ 
+¶19.  Mr. Nobuo Tanaka, Executive Director, International Energy 
+Agency (IEA) presented an overview of world-wide climate change 
+interests and the linkage between energy and climate change.  The 
+OECD is preparing an "OECD Policy Brief" for the COP-15 in 
+Copenhagen Conference and the need to reach CO2 emission target 
+reductions.  A main focus of his presentation was the role of energy 
+technology roadmaps and the inclusion of technology development 
+milestones.  The IEA and the NEA are cooperating on developing a 
+Nuclear Energy Roadmap for the new edition of the "IEA Energy 
+Technology Perspectives (ETP)."  The aim is to set out the necessary 
+steps to achieve the nuclear expansion envisaged in the ETP 2008 
+"Blue Map" scenario, covering technology development, policy 
+measures and resources.  This will be published as part of a series 
+of roadmaps being prepared by the IEA in response to a request from 
+the G-8 summit.   He further pointed out there is a need for a clear 
+definition of the role of nuclear power in a clean energy future. 
+ 
+OECD Environment Directorate: 
+ 
+¶20.  Rob Visser, Acting Director, Environment Directorate, presented 
+an overview of the OECD Council Ministerial "Green Growth 
+Declaration, adopted on June 25, 2009.  The Declaration was agreed 
+by the Ministers of Finance, Economy, Trade, foreign Affairs, and 
+Environment.  The Declaration involves expanding green markets, 
+price pollution and natural resource use properly, manages 
+transition to green growth at level of employment, foster green 
+technology and innovation, and investment in green infrastructures. 
+ 
+ 
+OECD Trade and Agriculture Directorate (EX-IM Credits): 
+ 
+¶21.  Julian Paisey, of the OECD Trade and Agriculture Directorate, 
+Export Credits Division, (www.oecd.org/trade/xcred) presented an 
+overview on New OECD Disciplines on Export Credits for Nuclear Power 
+Plants, focusing on the more favorable EM-IM financial terms and 
+credit/repayment terms.  The New Sector Understanding took on July 
+1, 2009 and is anticipated to have a positive affect in both the 
+near and long-term. 
+ 
+-------------------------------------- 
+Agenda Item 15: Election of the Bureau 
+-------------------------------------- 
+ 
+¶22.  The Steering Committee elected the following Bureau Members for 
+2010: 
+ 
+-- Richard Stratford/U.S.               Chairman 
+-- Mr. Frederic Mondolini/France        Vice-Chairman 
+        (new member) 
+-- Dr. Jozef Ronaky/Hungary             Vice-Chairman 
+-- Mr. Takayuki Shirao/Japan            Vice-Chairman 
+-- Mr. Kjell Bendiksen/Norway           Vice-Chairman 
+ 
+----------------------------------------- 
+Agenda Item 16: Dates of the Next Meeting 
+----------------------------------------- 
+ 
+¶23.  Member States consensus approved the meetings dates of April 
+21-22, 2010 for the spring session and October 28-29, 2010 for the 
+fall session. 
+ 
+------------------------------ 
+Agenda Item 17: Other Business 
+------------------------------ 
+ 
+¶24.  Room Document on NEA Co-sponsored Conferences and Symposia 
+2010-2012.  Delegates took note of the Room Document on NEA 
+Co-sponsored Conferences and Symposia 2010-2012 without comment. 
+ 
+ 
+¶25.  Room Document Fact Sheet on Helium-3 Shortage: The Chair 
+introduced and provided a short background overview on the Worldwide 
+Helium-3 shortage.  He suggested that this issue could be considered 
+as a discussion topic at a future NEA Steering Committee meeting. 
+ 
+¶26.  Report of the High-Level Group on the Security of Supply of 
+Medical Radioisotopes: Sylvana Guindon, of the Canadian Delegation, 
+reported on the first meeting of the High-Level Group held in Canada 
+in June 2009. A second meeting is planned for December 14-15, 2009 
+in Paris.  The Group as currently comprised has 20 experts from 11 
+countries, the European Commission, and the IAEA.  As planned, the 
+Group developed its mandate.  At its first meeting, the group 
+focused on ensuring that supply and demand information is available 
+and shared amongst all stakeholders.  It then began assessing 
+options to increase short-, medium- and long-term production.  As 
+part of the Terms of Reference, the NEA is undertaking an economic 
+analysis of the upstream Molybdenum-99 and Technetium-99m supply 
+chain.  This study will develop a solid factual basis to determine 
+whether there has been a market failure in the supply chain.  If so, 
+the study will provide recommendations on how to address this 
+failure in order to create an environment that encourages sufficient 
+investment in medical radioisotope production and related 
+infrastructure.  This effort is funded through voluntary 
+contributions.  Ms. Guindon also noted the Canadian NRU reactor, 
+unexpectedly shut down in May 2009, is still off line, and shutdown 
+is anticipated to continue until the first quarter of 2010.  She 
+further noted that supplier countries have stepped up production to 
+help meet the shortage. 
+ 
+------------------------------------------- 
+Suggested Topics for Policy Debates in 2010 
+------------------------------------------- 
+ 
+¶27.  There was a short discussion of suggested topics for the 2010 
+Policy debates.  Consensus supported: 
+ 
+     April:    Cost of Generating Electricity through 2009 
+     October:  Small and Medium Size Reactors 
+ 
+(NOTE: The NEA "Small ad Medium Size Reactors Report" will not be 
+available in time for April Meeting) 
+ 
+--------------------------------- 
+Policy Debate: NEA Strategic Plan 
+--------------------------------- 
+ 
+¶28.  In October 2008 the Steering Committee agreed to extend the 
+2005-2009 NEA Strategic Plan by one year, until December 2010, to 
+align the Strategic Plan with the OECD biennial budgetary system. 
+It also would accommodate the time needed to draft and publish an 
+update to the 2008 Nuclear Energy Outlook."   In April 2009 the 
+Steering Committee agreed to a five step plan: 1) Assessment of the 
+implementation of the current Strategic Plan, 2) Preparation of a 
+first draft of the next Strategic Plan (July-December 2009), 3) 
+Steering Committee Policy Debate (October 2009), 4) Collection and 
+integration of comments from member countries (January-March 2010), 
+and finalization of the draft for discussion and approval by the 
+Steering committee (April 2010).  For the most part, member 
+countries indicated that the plan was fine as is and did not 
+envision a substantive rewrite.  The Director-General convened a 
+5-member High-Level Advisory Group (HLAG)Dr. Peter Lyons, US/DOE 
+Principal Deputy Assistant Secretary for Nuclear Energy; Dr. Ann 
+McGarry, Chief Executive, Ireland Radiological Protection Institute; 
+Dr. David Torgerson, Senior Technical Advisor, Atomic Energy of 
+Canada, Ltd.; Mr. Toru Ogawa, Director-General, Japan Atomic Energy 
+Agency; and Mr. Philippe Pradel, Director, International 
+Developments, Commissariat a l Energie Atomique, France. 
+ 
+¶29.  The Policy debate opened with remarks from Director General 
+Echavarri, at which time he took the opportunity to comment on ZNG 
+v. ZRG issues and the $1 million Euro shortfall; the need to 
+maintain the level of the POW as in the past; the questionnaire 
+results, issues that differed from the past, in particular the 
+inclusion of "New Entrant Countries" and developing new leadership 
+role tools, current objectives and priorities and the OECD Counsel 
+on mission organizational priorities and that output should 
+correspond to POW expectations.  The Deputy Director General 
+presented the results of the NEA Questionnaire, followed by Summary 
+views of the HLAG presented by Dr. Ann McGarry and Mr. Philippe 
+Pradel. 
+ 
+¶30.  Nearly every delegation made interventions focusing on what 
+Member Countries want the NEA to be doing.  Interventions spoke to 
+issues that extended beyond the purely technical, e.g. transparency; 
+limiting the expansion of non-member countries and avoiding 
+duplication with other international organizations; questions 
+regarding NGO dialogue or interactions; concern over activities 
+ 
+promoting nuclear energy; NEA-IAEA relationship, leaving to the IAEA 
+or others what is not unique to the NEA; establishing a 
+cross-cutting issue inter-agency group (other international 
+organizations); joint publications (other international 
+organizations); closer working relationship with the IEA; concern 
+about adding New Entrant Countries; policy v. technical activities; 
+cross-cutting issues of common interest and the formulation of a NEA 
+topical crosscutting working group; joint sessions of Standing 
+Technical Committees;  scheduling of meetings; and adopting a 
+Strategic Plan based on sustainable resources. 
+ 
+¶31.  An extended dialogue over the function and purpose of the Data 
+Bank focused on whether or not it should continue as a separate 
+entity within the NEA.  Data coordination between the NEA and the 
+IAEA and the possibility of a joint data bank was of interest.  Two 
+NEA Member Countries are not members of the Data Bank (including the 
+U.S.), however the IAEA is a member and any member of the IAEA can 
+request data. Concern was raised over protecting intellectual 
+property rights, developing restriction of codes and experimental 
+data, and sensitive data.  The Secretariat was requested to provide 
+the Steering Committee a report on the Data Bank addressing issues 
+raised by the NEA Member Countries.  Kornbluh

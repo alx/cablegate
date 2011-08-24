@@ -1,0 +1,149 @@
+05PARIS5224
+France: Telecom and Information Technology Update
+Fri Jul 29 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+290914Z Jul 05UNCLAS SECTION 01 OF 02 PARIS 005224 
+ 
+SIPDIS 
+ 
+STATE FOR EB/CIP AND INR/B 
+USDOC FOR NTIA AND ITA 
+FCC FOR INTERNATIONAL 
+STATE PLEASE PASS TO USTR 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD FR
+SUBJECT: France: Telecom and Information Technology Update 
+ 
+ 
+NOT FOR INTERNET DISTRIBUTION 
+ 
+¶1. This is another in a series of periodic updates on the 
+French telecommunications and information technology 
+sectors, including internet and e-commerce. 
+ 
+Contents: 
+-- Two Members Added to ARCEP Board (para 2) 
+-- France Telecom changes strategy to buy Spanish telecom 
+operator (para 3) 
+-- Spanish reaction to French purchase (para 4) 
+-- France Telecom outperforms market expectations (para 5) 
+-- European Commission approves regulation of French 
+broadband (para 6) 
+ 
+¶2.  Two Members Added to ARCEP Board:  With regulatory 
+oversight of postal services added to the responsibilities 
+of the telecom regulator, ART not only changed its name to 
+ARCEP (see 24 June 2005 edition, Paris 4444), but also 
+expanded its board from five to seven.  The two additional 
+board members, Joelle Toledano and Nicolas Curien, were 
+named by the French National Assembly and by the Senate in 
+late June.  Toledano worked for the French postal services 
+group "La Poste" from 1993 to 2005, first in the directorate 
+for strategic affairs and later as the director for national 
+and European regulation.  Since February 2005, she has been 
+a professor at the University of Supelec, a leading 
+engineering school in France for energy and information 
+services.  Curien founded the International 
+Telecommunications Society.  Until his nomination to ARCEP, 
+he was professor of economics at the National Conservatory 
+of Arts and Trades (Conservatoire National des Arts et 
+Metiers or CNAM) and also taught at the prestigious French 
+engineering school Ecole Polytechnique.  His research and 
+teaching interests were in the fields of market organization 
+and regulation in network industries, especially 
+telecommunications.  He has published several books and a 
+number of academic papers on networks economics. 
+ 
+¶3.  France Telecom changes strategy to buy Spanish mobile 
+operator:  France Telecom (FT) has reportedly agreed to buy 
+80% of Amena, the Spanish mobile phone group, for 6.4 
+billion euros.  The French group fought off competing offers 
+from two powerful private equity consortiums in the final 
+stages of a four-month auction.  The acquisition - set to be 
+funded with cash and shares - comes less than three years 
+after FT flirted with financial disaster after spending more 
+than 100 billion euros on expansion.  The group, which had 
+nearly 50 billion of net debt in 2004, stabilized under 
+former-CEO Thierry Breton with a strategy to reverse FT's 
+excessive (and financially disastrous) foreign investments 
+and focus on its core businesses in France:  fixed-line 
+(FT), mobile (Orange), internet services (Wanadoo), and 
+corporate services (Equant).  After being named French 
+finance minister in February, Breton was succeeded as 
+chairman and chief executive by Didier Lombard, who has 
+wasted little time securing FT's largest takeover of a 
+foreign operator in more than four years and one that will 
+significantly expand the company's presence in neighboring 
+Spain. 
+ 
+¶4.  Spanish reaction to FT purchase:  The Orange brand will 
+replace Amena and merge with Wanadoo, FT's existing fixed- 
+line operation in Spain. Combined, the new company will 
+represent Spain's largest integrated telecommunications 
+group behind Telefonica, the former state monopoly.  During 
+a recent visit to Spain, FT CEO Didier Lombard promised that 
+the management team would remain "mainly Spanish" and that 
+there would be no job cuts.  Lombard said he spoke with Jose 
+Montilla, the Spanish industry minister, before launching 
+the Amena bid. He was told Madrid would not intervene in the 
+auction, but would react favorably to a bid from a foreign 
+industrial group.  "It is very important to know there is no 
+(Spanish) government opposition," said Lombard.  His 
+comments appeared to be an implicit criticism of the French 
+government for launching a barrage of protectionist rhetoric 
+(septel) in response to this month's rumors about a possible 
+bid by PepsiCo for French food group Danone. 
+ 
+¶5. France Telecom outperforms market expectations:  On June 
+28, FT announced a profitable first six months of 2005.  The 
+telecom group said its net income more than tripled from one 
+billion to 3.4 billion euros compared to last year, thanks 
+in large part to growth in its mobile division Orange as 
+well as asset sales, including Mobilcom and PagesJaunes (the 
+French "Yellow Pages" directory services).  From January 1 
+to June 30, FT increased its mobile phone customers by 16.3% 
+percent to 66.7 million, while broadband customers rose 80% 
+to 6.4 million.  FT is hoping to raise revenues three to 
+five percent annually through 2008 by integrating mobile 
+phone, internet, and fixed line services into single 
+packages.  Growth in third-generation mobile phone usage 
+coupled with integrated services for homes and businesses 
+should more than make up for the decline in revenues from 
+fixed-line services.  FT offers "triple play" services with 
+TV over DSL, as well as voice telephony and internet 
+services.  Currently, only two other operators (Neuf Telecom 
+and Free) offer TV over DSL in France via wholesale 
+broadband deals with FT.  Other operators are worried that 
+FT will effectively stifle competition in France with 
+bundled "triple play" offerings. 
+ 
+¶6.  European Commission approves regulation of French 
+broadband:  France Telecom will be required to provide other 
+market players with wholesale nationwide high-speed access 
+to France's telecommunications network. On July 27, the 
+European Commission authorized this regulatory measure, 
+which had been proposed by the French national regulatory 
+authority for electronic communications (ARCEP).  The 
+measure will apply until competing network operators have 
+built a sufficiently wide backbone network and a large 
+enough customer base to enable them to invest further in 
+regional high-speed (broadband) services.  FT's large market 
+share, its capacity to supply the whole range of broadband 
+products at both wholesale and retail level, its size and 
+its control of the local infrastructure, led ARCEP to 
+conclude that FT is dominant on the wholesale nation-wide 
+broadband access market. ARCEP considered that competition 
+in this market will be facilitated if FT is obliged to 
+ensure internal accounting transparency between its 
+wholesale "network" branch and its retail "ISP" entity as 
+the recent reintegration of Wanadoo into France Telecom may 
+have potential consequences on retail competition.  The 
+Commission asked ARCEP to review this market again within a 
+year to review new market developments, which could enhance 
+competition in the wholesale broadband market in France. 
+ 
+STAPLETON

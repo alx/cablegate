@@ -1,0 +1,98 @@
+07MOSCOW3145
+EXTRANCHECK: PRE-LICENSE CHECK: DMITROVSKY
+Thu Jun 28 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0013
+PP RUEHWEB
+
+DE RUEHMO #3145 1790812
+ZNR UUUUU ZZH
+P 280812Z JUN 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 1675
+RUEAORC/USCBP WASHDC
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS MOSCOW 003145 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: DMITROVSKY 
+ELECTRICITY NETWORK, DMITROV, RUSSIA, D373937 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, 
+Dmitrovsky Electricity network, Dmitrov, Russia. The 
+company is listed on BIS license application D373937 
+as the ultimate consignee of thermal imager, model 
+¶1100. These items are controlled for national security 
+and nuclear non-proliferation reasons under ECCN 
+6A003. The licensee is Mikron Infrared, Inc., 16 
+Thornton Road, Oakland, NJ 07436. 
+ 
+¶3. On June 22, 2007, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted a pre- 
+license check at the offices of Dmitrovsky Electricity 
+Network (Russian abbreviation DES), 46, Kosmonavtov 
+st., Dmitrov, Russia. The export control team met with 
+Vladimir Petrov, Chief Engineer. 
+ 
+¶4. DES is part of the Moscow Regional Electrical 
+Company (Russian abbreviation MOESK), a group of 13 
+affiliated power companies formed from the 
+reorganization of MosEnergo.  DES was founded 40 years 
+ago to provide electrical power generation and 
+distribution services to the Dmitrovsky Region, 
+located about 60 kilometers northwest of Moscow.  DES 
+is an Open Joint Stock company, with 52% government 
+ownership. DES employs 467, and maintains 32 
+substations in the region as well as transmission and 
+distribution lines. Currently DES is working with its 
+MOESK affiliates in a major overhaul program to 
+improve the regional power grid.  An investment of 
+approximately 45 Billion Russian Rubles is being used 
+to improve infrastructure, build and improve 
+substations and distribution lines. 
+ 
+¶5. The Department of Electrical Isolation will use the 
+thermal imager described in reftel for preventative 
+maintenance and non-destructive testing of lines and 
+transformers.  Three specialists will be trained at 
+the Bauman Moscow State Technical University. 
+Currently all thermal imaging is done through 
+contractors, which is not cost effective.  Providing 
+thermal-imaging services in-house is more efficient, 
+less expensive in the long run. 
+ 
+¶6. The Chief of the Electrical Isolation Services 
+department will be responsible for the imager, and 
+will issue the unit to crews on an as-needed basis. 
+The imager will be stored in a safe in the Chief's 
+office at the Dmitrovsky headquarters of DES.  The 
+building is on the grounds of the power station, which 
+is patrolled by contract security at all times.  The 
+offices are covered by a closed-circuit video security 
+system as well as an off-hours electronic access 
+control and alarm system. 
+ 
+¶7. Recommendations: Post recommends Dmitrovsky 
+Electricity network, Dmitrov, Russia, as a reliable 
+recipient of sensitive U.S. origin commodities. It is 
+requested that post be notified of final disposition 
+of the application, and of any shipments for this 
+organization in order to conduct appropriate FCS 
+follow-up and statistical reporting. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

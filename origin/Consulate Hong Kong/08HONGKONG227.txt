@@ -1,0 +1,94 @@
+08HONGKONG227
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: HIKARI
+Mon Feb 04 00:00:00 +0100 2008
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHHK #0227 0350849
+ZNR UUUUU ZZH
+R 040849Z FEB 08
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 4072
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000227 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: HIKARI 
+INTERNATIONAL LOGISTICS 
+ 
+REF: A) USDOC 00116 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post-shipment verification at Hikari International Logistics, 3/F, 
+Block D, 4-6 Tsing Tim St., Tsing Yi, Hong Kong (Hikari).  The items 
+in question are three shipments containing fiber optic receiver 
+modules, lenses, prisms and mirrors, long wave length single mode 
+fiber optic transmitter modules and diodes exported to Hikari on or 
+about October 31, 2007.  According to OEA, the items are classified 
+under Export Control Classification Number (ECCN) 5A991. This ECCN 
+is controlled for anti-terrorism (AT) reasons meaning that these 
+items require a license to a handful of terrorist sponsoring 
+countries and to certain restricted end-users/end-uses. The exporter 
+was PD-LD Inc. of Pennington, New Jersey. 
+ 
+¶3. According to the Hong Kong Companies Registry, Hikari has been in 
+existence since 2001.  It has the Hong Kong equivalent of USD 1,200 
+in share capital.  Hong Kong residents Chen, Ching Chi and Fu, Yuk 
+Kwan as well as Hikari International Logistics Limited are listed as 
+directors.  According to the Hikari web site 
+(www.Hikari-International.com), Hikari is a US-Japanese-Hong Kong 
+joint venture.  It specializes in third party logistics services. 
+ 
+¶4.  On January 22, 2008, the ECO, accompanied by Commercial 
+Assistant Carrie Chan, visited Hikari and met with Mr. Kai Yiu Chui, 
+Project Manager and Ms. Helen Fu, Managing Director.  Ms. Fu stated 
+that Hikari in Hong Kong provides primarily hub services to the 
+manufacturing facilities in mainland China of U.S., Japanese and 
+European multinationals.  Its main business focus is in the 
+electronics inputs arena.  In a typical scenario, its international 
+clients will arrange for inputs to be stockpiled at Hikari.  Those 
+inputs are then relayed to the manufacturing site in mainland China 
+(typically Shenzhen) when they are needed based on a "call order" 
+from the production facility. 
+ 
+¶5.  With respect to the shipments in question, Mr. Chui provided 
+documentation confirming delivery of the items to the Hikari 
+Warehouse on November 3, 2007. He provided further documentation 
+confirming that the items had been turned over to the end-user, 
+Solectron (Shenzhen) Technology Co.  Mr. Chiu stated that, as is 
+typically the case, the items were handed over to the Solectron 
+appointed shipping company for delivery into Shenzhen.  All 
+information provided by Mr. Chiu and Ms. Fu was consistent with 
+transaction documentation provided by OEA.  Mr. Chiu and Ms. Fu were 
+not familiar with the end-use of the items although they stated that 
+Solectron (since acquired by Flextronics) produces 
+telecommunications devices in Shenzhen. 
+ 
+¶6.  Ms. Fu stated that this type of logistics arrangement is quite 
+common in Hong Kong particularly for electronics manufacturers in 
+southern China.  Note:  As in this case, the logistics provider is 
+not necessarily familiar with the end-use of the applicable items. 
+Ms. Fu stated that logistics companies often have as clients the 
+Hong Kong offices of mainland Chinese companies.  Mr. Chiu stated 
+that, from time to time, Solectron (now Flextronics) provides Hikari 
+export controls training.  Also, when the shipping documents 
+indicate that a U.S. license is required, Hikari obtains the 
+applicable Hong Kong import/reexport license(s). 
+ 
+Cunningham

@@ -1,0 +1,259 @@
+09BERLIN765
+ASTRIUM GERMANY PLANS TO CORNER WORLD SPACE RADAR
+Thu Jun 25 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXRO8853
+PP RUEHAG RUEHAST RUEHDF RUEHDH RUEHHM RUEHLN RUEHLZ RUEHMA RUEHPB
+RUEHPOD RUEHSL RUEHTM RUEHTRO
+DE RUEHRL #0765/01 1761357
+ZNR UUUUU ZZH
+P 251357Z JUN 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 4436
+INFO RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+RUEHBJ/AMEMBASSY BEIJING 1029
+RUEHMO/AMEMBASSY MOSCOW 2058
+RUEHRO/AMEMBASSY ROME 2058
+RUEKJCS/SECDEF WASHINGTON DC
+RUEHRL/USDAO BERLIN GE
+RUEHBS/USEU BRUSSELS
+RUCUSTR/USSTRATCOM OFFUTT AFB NEUNCLAS SECTION 01 OF 03 BERLIN 000765 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+STATE FOR EUR/CE PETER SCHROEDER 
+STATE FOR ISN/MDSP DICK BUENNEKE 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC PGOV PINR MCAP PREL TSPA IT RS CH GM
+SUBJECT: ASTRIUM GERMANY PLANS TO CORNER WORLD SPACE RADAR 
+MARKET; PITCHES TO USG 
+ 
+REF: A. BERLIN 601 
+     ¶B. BERLIN 561 
+     ¶C. BERLIN 181 
+     ¶D. 08 BERLIN 1575 
+     ¶E. 08 BERLIN 1537 
+ 
+¶1.  (SBU) SUMMARY: EADS Astrium Friedrichshafen and their 
+daughter company, Infoterra GmbH, are actively marketing 
+their space-based Synthetic Aperture Radar (SAR) imagery, 
+imagery derived products, and even complete spacecraft to the 
+US market with the strategic goal of securing funding to 
+develop their next generation programs.  Astrium, in 
+collaboration with Infoterra, are confident their commercial 
+space-based radar market niche will offer superior value to 
+potential US customers and are taking calculated steps to 
+capture US market share.  Astrium's ultimate goal is to 
+corner the world commercial space-based radar market.  END 
+SUMMARY 
+ 
+ 
+BACKGROUND 
+---------- 
+ 
+¶2.  (SBU) On May 29, Mr. Thomas Walati from Astrium 
+Friedrichshafen, an exclusively German portion of the 
+pan-European company EADS, along with Mr. Joerg Herrmann, CEO 
+of Infoterra GmbH, visited the US Embassy in Berlin to meet 
+with Embassy staff and visitors from the US based RAND 
+Corporation.  The purpose of the meeting was to brief RAND on 
+the German satellite industry in support of a study that RAND 
+is compiling for USAF customers (USAF/A3/5 and USAF/A30-S), 
+entitled "Leveraging US Allied Space Capabilities."  While 
+RAND was in a listening mode for this meeting, Walati and 
+Herrmann utilized this opportunity to plug their product 
+offerings with the knowledge that the USAF would be an 
+indirect audience. 
+ 
+ 
+ASTRIUM BUILDS THE SATELLITES; INFOTERRA SELLS THE DATA 
+--------------------------------------------- ---------- 
+ 
+¶3.  (SBU) Infoterra GmbH was created in 2001 as subsidiary of 
+Astrium Friedrichshafen as part of Astrium Services, and is 
+the exclusive distributor of data product from Astrium's 
+TerraSAR-X program.  Astrium developed TerraSAR-X in a Public 
+Private Partnership (PPP) with the German Space Agency (DLR), 
+where both parties have 50/50 rights to the data and share 
+development costs/risks.  Herrmann said due to the commercial 
+success of this program, Astrium/Infoterra are in a position 
+to forego the PPP arrangement for future systems.  Astrium 
+plans to launch a sister satellite to TerraSAR-X, called 
+TanDEM-X, in October 2009 and is in advanced 
+design/development stages of a series of next generation 
+space-based SAR systems.  As these systems come online, 
+Infoterra will handle all data marketing/distribution. 
+ 
+ 
+ASTRIUM'S SPACE-BASED RADAR DEVELOPMENT PLAN 
+-------------------------------------------- 
+ 
+¶4.  (SBU) Astrium is pursuing three primary market segments 
+for their future space-based remote sensing projects: 1) 
+defense, 2) commercial data exports, and 3) the export of 
+complete spacecraft.  To make this vision a reality, Astrium 
+is developing the following next-generation SAR systems: 
+SCOUT-SAR, SCOUT-HRWS, Full Digital Beam Forming SCOUT, and 
+TerraSAR-NG.  Astrium says the next generation of SAR 
+satellites will also address customer demands for future 
+wideband SAR -- something that the current TerraSAR-X 
+technology lacks.  (COMMENT: Astrium's TerraSAR-X data has 
+been evaluated by the NGA and is certified to Level II 
+Digital Terrain Elevation Data (DTED) standard.  END COMMENT) 
+ Herrmann said beginning with the TanDEM-X mission, Astrium's 
+expectation is to meet DTED Level III. 
+ 
+¶5.  (SBU) According to documentation provided by Walati, the 
+base SCOUT system uses a wide-band, active phased array SAR. 
+The core idea is to improve resolution and agility, while 
+lowering the cost.  The primary driving force pushing SCOUT 
+ 
+BERLIN 00000765  002 OF 003 
+ 
+ 
+development is increased competition in the commercial SAR 
+arena, particularly from the Italian COSMOS SkyMED SAR 
+system.  SCOUT's technology improvements leverage the 
+TerraSAR-X design, simplify the design, use more robust 
+integration, and use standardized components. 
+ 
+¶6.  (SBU) Astrium said the SCOUT-SAR system technology will 
+be ready by 2010 and will feature significant improvements in 
+resolution and agility over TerraSAR-X.  To improve agility 
+and zoom capabilities, SCOUT-SAR will integrate wide-band 
+electronic beam steering.  The SCOUT-SAR system resolution is 
+expected to be as follows: 
+ 
+MODE                   Resolution   Area 
+----                   ----------   ---- 
+Spotlight              0.5 meter    10 km area 
+Strip Map              1-2 meter    25 km swath width 
+Digital Beam Forming   5 meter      100 km swath width 
+ 
+ 
+¶7.  (SBU) The SCOUT-High Resolution Wide Swath (HRWS) system 
+will build on SCOUT-SAR capabilities by integrating the 
+Astrium-patented Digital Beam Forming (DBF) capabilities that 
+Astrium anticipates will be ready by 2012.  Astrium said DBF 
+will enable a new High Resolution Overview Mode (HROM). 
+Astrium expects the following resolutions in HROM mode: 
+ 
+Resolution      Area 
+----------      ---- 
+1 meter         100 km swath width 
+4 meter         250 km swath width 
+ 
+ 
+¶8.  (SBU) TerraSAR-New Generation (NG) will be based on the 
+SCOUT model, but with superior features.  TerraSAR-NG will 
+have an enhanced HRWS capability, which, in combination with 
+DBF technology, Astrium anticipates will enable resolutions 
+in the 50 cm range.  Herrmann said Astrium also plans on 
+incorporating thermal infrared sensors in the TerraSAR-NG 
+payload, with expected resolution in the range of 20-50 
+meters.  Herrmann said Astrium expects that the ability to 
+provide thermal signatures with SAR data will be a valuable 
+commodity to future customers.  The anticipated release date 
+of this technology is 2012. 
+ 
+¶9.  (SBU) Full Digital Beam Forming SCOUT will build on 
+SCOUT-HRWS, focusing on further resolution, image size, and 
+sensitivity improvements.  In addition, this system will 
+incorporate moving target detection and multi-target 
+capabilities.  Astrium expects this technology to be ready in 
+¶2020. 
+ 
+ 
+THE SALES PITCH 
+--------------- 
+ 
+¶10.  (SBU) For Walati and Herrmann, this meeting represented 
+an opportunity to market their products, something that they 
+will take every opportunity to do.  Herrmann said Infoterra 
+could offer US customers access to their data based on a 
+subscription to a fixed percentage of spacecraft data storage 
+capacity.  For the USG, Herrmann said this percentage could 
+be up to 30 per cent.  (COMMENT:  Herrmann did not mention 
+anything about how tasking priority among customers would be 
+handled.  END COMMENT) 
+ 
+¶11.  (SBU) Walati's presentation offered complete TerraSAR-X 
+spacecraft capability, including ground segment, to US 
+customers.  He said Astrium's Rough Order of Magnitude (ROM) 
+price for a single TerraSAR-X spacecraft is 100 million euro. 
+ The ground segment, he said, would cost an additional 50 
+million euro.  Anticipating potential political concerns, 
+Walati offered that Astrium has flexibility in how/where the 
+satellite could be built.  For example, he said the bus could 
+be built by a US company and the satellite(s) could be 
+integrated in the US.  Walati also floated the idea of a 
+potential joint US/German TerraSAR-equivalent constellation 
+as a way to share costs and at the same time obtain higher 
+revisit rates. 
+ 
+BERLIN 00000765  003 OF 003 
+ 
+ 
+ 
+ 
+RUSSIA AND CHINA INTERESTED IN TERRASAR-X 
+----------------------------------------- 
+ 
+¶12.  (SBU) Walati said the Russians and Chinese have 
+expressed interest in procuring TerraSAR-X systems, but 
+Astrium is apprehensive about selling to the Russians and any 
+sale to the Chinese is "not likely to happen."  He suggested 
+that a sale to Russia is definitely a possibility, but that 
+the systems would be of a lower resolution -- on the order of 
+three meters.  He said intellectual property rights concerns 
+are primary reasons for their lack of interest in a sale to 
+the Chinese. 
+ 
+ 
+ITALY VIEWED AS THE MAIN COMPETITION 
+------------------------------------ 
+ 
+¶13.  (SBU) Walati said Astrium views the Italian 
+Telespazio-built COSMOS-SkyMed SAR system as their primary 
+competition and that it could stymie Astrium's bid on the 
+next SAR-Lupe contract.  (COMMENT:  SAR-Lupe is a 5-satellite 
+SAR constellation developed by the German firm OHB Systems 
+for the German military.  This system is scheduled for re-bid 
+in 2013.  END COMMENT)  Walati fears that the planned 
+European Multinational Space-Based Imaging System (MUSIS), a 
+consortium consisting of Belgium, Germany, France, Italy, 
+Spain, and Greece under coordination of the European Defense 
+Agency (EDA), will incorporate COSMOS-SkyMed for political 
+reasons.  Walati is concerned that MUSIS could potentially 
+fill Germany's military need for space-based SAR, obviating 
+the need for a follow-on SAR-Lupe system.  (COMMENT: We do 
+not expect that Germany would opt for an inferior foreign 
+system over an indigenous German SAR system.  We consider it 
+unlikely that MUSIS would have any serious effect on the next 
+SAR-Lupe contract.  END COMMENT) 
+ 
+ 
+COMMENT 
+------- 
+ 
+¶14.  (SBU) Astrium is aggressively marketing their products, 
+but are likely limiting their intended customer target to the 
+EU and the US market for now.  The motivation for inking 
+customers in the near term is to ensure that funding is 
+secured for their down stream projects, as they want to get 
+away from the PPP paradigms.  Astrium presented a chart 
+depicting 25 countries that have they assess have plans to 
+develop/acquire a space-based SAR capability.  Astrium 
+clearly sees the business opportunities in the 5-10 year 
+horizon and want to ensure that they are the undisputed 
+commercial market leader in space-based SAR. 
+ 
+¶15.  (SBU) For further technical information regarding the 
+above-mentioned Astrium SAR systems, please contact Shane M. 
+Petersen, Email: PetersenSM@state.gov; SIPRNET: 
+PetersenSM@state.sgov.gov. 
+Koenig

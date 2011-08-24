@@ -1,0 +1,134 @@
+05TAIPEI4094
+PHRMA AND TAIWAN AGREE ON COMPUTER VALIDATION
+Wed Oct 05 00:00:00 +0200 2005
+UNCLASSIFIED
+American Institute Taiwan, Taipei
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+052248Z Oct 05UNCLAS SECTION 01 OF 02 TAIPEI 004094 
+ 
+SIPDIS 
+ 
+STATE FOR EAP/RSP/TC AND EB/TPP/BTA, STATE PASS AIT/W AND 
+USTR, USTR FOR WINELAND AND WINTERS, USDOC FOR 
+4431/ITA/MAC/AP/OPB/TAIWAN/MBMORGAN AND JDUTTON 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ETRD TW
+SUBJECT: PHRMA AND TAIWAN AGREE ON COMPUTER VALIDATION 
+ 
+REF: A. TAIPEI 3807 
+ 
+     ¶B. TAIPEI 2078 
+ 
+¶1.  Summary:  AIT and the Pharmaceutical Research 
+Manufacturers Association (PhRMA), accompanied by 
+representatives of Japanese and European pharmaceutical 
+associations, met with Taiwan's Bureau of Food and Drug 
+Analysis (BFDA) to discuss pharmaceutical validation 
+requirements.  The positive tone set by the new director 
+general of the BFDA and the presence of other international 
+pharmaceutical associations resulted in fruitful discussions 
+that essentially resolved questions of computer validation 
+requirements and led to progress on finalizing the 
+methodology for determining which manufacturing sites will be 
+the first to be inspected.  End summary. 
+ 
+¶2.  On September 13, AIT accompanied members of PhRMA, the 
+Japanese Pharmaceutical Manufacturers Association (JPMA) and 
+the European Federation of Pharmaceutical Industries and 
+Associations (EFPIA) to meetings with BFDA,  and Bureau of 
+Pharmaceutical Affairs (BOPA)(reported reftel a.)  In sharp 
+contrast to PhRMA's April meeting on pharmaceutical 
+validation with BFDA (reftel b), discussions this time were 
+calm and productive.  Both sides were well prepared and the 
+reasonableness of the new BFDA Director General Chen Shu-kong 
+was a welcome relief.  Discussions focused on implementation 
+of computer validation requirements (information on a 
+pharmaceutical manufacturers computerized systems, training, 
+and software and hardware management protocols) for 
+manufacturing sites and clarifications on BFDA's method of 
+calculating the Risk Priority Number (RPN) used to determine 
+BFDA's inspection schedule. 
+ 
+============================================ 
+Japan and EU Weigh In on Computer Validation 
+============================================ 
+ 
+¶3.  In response to Dr. Chen's initial question about 
+requirements for computer validation by health authorities in 
+other countries, JPMA representative Kenta Goto explained 
+that in order to guarentee product quality, Japan has had a 
+mandatory computer validation requirement in place for many 
+years.  Although Japan's laws and regulations covering 
+computer validation have been subject to revision, the actual 
+requirement has effectively been in place continuously since 
+¶1993.  Malcolm Holmes, from EFPIA, informed Chen that an EU 
+Directive required that all EU members must have a law 
+requiring computer validation regimes in place in their 
+national codes by April 2004.  After that date, if no law 
+existed, the EU regulation requiring the same would take 
+precedence.  Newly acceding EU states must be in compliance 
+upon accession.  Holmes added that several EU regulations and 
+directives have addressed the issue of computer validation 
+requirements since 1991. 
+ 
+¶4.  BFDA agreed to accept government issued Certificates of 
+Pharmaceutical Product from the US, Japan and the EU as 
+effectively complying with the Taiwan requirement for 
+computer validation, but requested more information from both 
+the EU and Japan about their current regulations.  Moreover, 
+BFDA requested that manufacturing sites provide computer 
+manuals and standard operating procedures or reference 
+numbers of manuals for BFDA to review. 
+ 
+¶5.  Guy Wingate, also from EFPIA and an expert on computer 
+validation, responded that BFDA's over-reliance on documents 
+as a means to prove the existence of good computer system 
+practices was impractical.  Wingate noted that most factories 
+would have thousands of computerized systems operating 
+simultaneously and with constantly changing procedures, 
+providing manuals or reference numbers to BFDA for each of 
+them would not only be an onerous requirement, it would be of 
+questionable value.  Instead, he suggested that a paragraph 
+describing the structural testing regime and computer system 
+lifecycle be included in the overview of manufacturing 
+practices submitted by each company to BFDA.  After some 
+discussion and internal debate, BFDA agreed to consider 
+EFPIA's proposal. 
+ 
+============================= 
+Who Will Get Inspected First? 
+============================= 
+ 
+¶6.  Finally, the discussion turned to the methodology used by 
+BFDA to compute the RPN.  International pharmaceutical 
+manufacturers disagree with the need for BFDA to conduct 
+regular inspections of international pharmaceutical 
+manufacturers, believe BFDA is more interested in creating a 
+cadre of experienced inspectors through unnecessary 
+inspections and are concerned that the weighting of several 
+of the criteria, including extra emphasis on previous records 
+of recalled products, was unbalanced.  BFDA agreed to 
+distinguish between voluntary and mandatory recalls in the 
+determination of the RPN and to give a higher score to those 
+areas with weak regulatory oversight.  BFDA also agreed to 
+keep confidential the RPN of each manufacturing site. 
+ 
+¶7. Comment: The patience and reasonableness of the new 
+Director General of BFDA, as well as the sound preparation by 
+experts from JPMA and EFPIA, were crucial to the success of 
+this series of meetings.  PhRMA and the other international 
+pharmaceutical associations are not pleased by the prospect 
+of their manufacturing operations being inspected by BFDA. 
+They view this as a time-consuming and expensive endeavor, 
+with limited value in the majority of cases.  However, they 
+appear to be resigned to this new requirement and can take 
+heart from the fact the BFDA does not have the capacity to 
+inspect more than a handful of sites each year -- their goal 
+of 50 inspections in 2005 is likely to be closer to 20.  The 
+outline of the agreement on computer validation requirements 
+appears to be a win for the industry, but as always, the 
+proof will be in the shape of the published requirements, a 
+copy of which BFDA promised to provide soon.  End Comment. 
+PAAL

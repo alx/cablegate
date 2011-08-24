@@ -1,0 +1,129 @@
+07MOSCOW2074
+EXTRANCHECK: PRE-LICENSE CHECK: PERM MOTOR
+Mon May 07 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0016
+PP RUEHWEB
+
+DE RUEHMO #2074/01 1270833
+ZNR UUUUU ZZH
+P 070833Z MAY 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 9953
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 002074 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: PERM MOTOR 
+FACTORY, PERM, RUSSIA, LICENSE NO. D371295 
+ 
+REFTEL: USDOC 01270 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, Perm 
+Motor Factory, Perm, Russia. The company is listed on 
+BIS license application D371295 as the ultimate 
+consignee of ITC-6080C low noise preamplified 
+hydrophone. These items are controlled for national 
+security reasons under ECCN 6A001. The licensee is 
+International Transducer Corp., 869 Ward Drive, Santa 
+Barbara, CA 93111.  NOTE: Research conducted by FSN 
+Shipitsina indicated that the end user listed in the 
+cable was inaccurate.  A request for contact 
+information provided a new point of contact, and FSN 
+Shipitsina was able to schedule the check. END NOTE. 
+ 
+¶3. On April 25, 2007, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested pre-license check at the offices of Tento 
+Group Company (Tento), M.Gorkogo st., 9, Perm, Russia. 
+The export control team met with Yuriy Kozlov, General 
+Director. 
+ 
+¶4. Tento was founded in 1992 from the decentralization 
+of a government enterprise involved in the export of 
+materials such as wood and metals.  The 
+decentralization lead to a drop in business, so the 
+new company expanded into the importation and 
+installation of telecommunications equipment, as there 
+was no competition in this area at the time.  Tento 
+installed some of Russia's first Nortel PBX commercial 
+telephone systems for clients in Perm.  Tento is 
+currently an official distributor for Nortel, Cisco 
+Systems, APC, NARA and other communications products, 
+and uses the profits from the telecom business to fund 
+research and development of new products.  The company 
+employs around 100 in four smaller subsidiary 
+companies, and hopes to have around 210 employees by 
+the end of the year and 500 in five years.  Tento is 
+planning on moving from its current offices to a newly 
+designed office complex in downtown Perm upon 
+completion of construction. 
+ 
+¶5. The equipment in reftel will be used in a 
+monitoring system for submerged and subterranean 
+pipelines utilized in the oil and gas industry. 
+Currently, an organization like GazAvia, the aviation 
+arm of Russian energy company Gazprom, conducts aerial 
+surveillance of the lines using traditional 
+helicopters flying at an altitude of around 150 
+meters.  Due to the challenging terrain and depth of 
+the pipelines, the current system has a false alarm 
+rate of around 80%.  Tento is designing a system that 
+combines sensors in the pipes with an unmanned aerial 
+vehicle (UAV) for the air surveillance platform, 
+allowing for a more accurate and much more cost- 
+effective solution.  The hydrophone would be able to 
+detect faults using a known sound signature, which 
+would be analyzed by a software system being developed 
+for the project.  The system can also be used in 
+environmental monitoring and safety related 
+operations.  The company is also exploring options to 
+configure the system for use in hydroelectric plants 
+and for mine safety. 
+ 
+¶6. Ten specialists will have access to the device 
+while it is being incorporated into the system.  The 
+system will be marketed to companies such as Lukoil, 
+who is partnering in the research and development. 
+Construction of the device will take place at a 
+facility purchased by Tento from the Perm Scientific- 
+Industrial Machine Making Company (Russian acronym 
+PNPPK), part of the Perm Motor Factory, located in 
+Perm. The factory is a closed facility, with high 
+security and limited access for non-employees. 
+ 
+¶7. On April 25, 2007 ECO Pearce and FSN Shipitsina met 
+with Andrey A. Ploskov, Marketing and Sales Director 
+at the offices of the Perm Scientific-Industrial 
+Machine Making Company, 25th of October Street #106, 
+Perm Russia.  Mr. Ploskov confirmed the above-stated 
+information regarding the Tento Group project.  Mr. 
+Ploskov stated that a tour of the facility could be 
+ 
+arranged, however due to security regulations at the 
+company, a 45 day lead time for security clearances 
+would be required. 
+ 
+¶8. Recommendations: Post recommends Tento Group, Perm, 
+Russia, as reliable recipients of sensitive U.S. 
+origin commodities. It is requested that post be 
+notified of final disposition of the application, and 
+of any shipments for this organization in order to 
+conduct appropriate FCS follow-up and statistical 
+reporting. 
+(FCS MOSCOW/ DLUTTER /DPEARCE) 
+BURNS

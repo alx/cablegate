@@ -1,0 +1,527 @@
+09ANKARA326
+TURKEY 2009 SPECIAL 301 REVIEW
+Mon Mar 02 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Ankara
+VZCZCXRO6791
+PP RUEHAG RUEHAST RUEHDA RUEHDBU RUEHDF RUEHFL RUEHIK RUEHKW RUEHLA
+RUEHLN RUEHLZ RUEHNP RUEHPOD RUEHROV RUEHSK RUEHSR RUEHVK RUEHYG
+DE RUEHAK #0326/01 0611359
+ZNR UUUUU ZZH
+P 021359Z MAR 09
+FM AMEMBASSY ANKARA
+TO RUEHC/SECSTATE WASHDC PRIORITY 8946
+INFO RUEHZL/EUROPEAN POLITICAL COLLECTIVE PRIORITY
+RUEHDA/AMCONSUL ADANA PRIORITY 3646
+RUEHIT/AMCONSUL ISTANBUL PRIORITY 5457
+RUCPDOC/DEPT OF COMMERCE WASHDC PRIORITYUNCLAS SECTION 01 OF 06 ANKARA 000326 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPT FOR EUR/SE DMARSH AND EEB/TPP/IPE FOR TMCGOWAN AND 
+JURBAN 
+DEPT PLEASE PASS USTR FOR JCHOE-GROVES AND MMOWREY 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD KIPR USTR ECON TU
+SUBJECT: TURKEY 2009 SPECIAL 301 REVIEW 
+ 
+REF: A. STATE 8410 
+     ¶B. 08 ANKARA 1471 
+     ¶C. 08 ANKARA 1605 
+     ¶D. 08 ANKARA 2175 
+     ¶E. 08 ANKARA 2128 
+     ¶F. 08 ANKARA 2191 
+     ¶G. ANKARA 48 
+     ¶H. ANKARA 117 
+ 
+ANKARA 00000326  001.2 OF 006 
+ 
+ 
+¶1. (SBU) This report is sensitive but unclassified.  Please 
+protect accordingly. 
+ 
+¶2. (SBU) Summary.  The last year has been a mixed story for 
+IPR protection in Turkey, with several positive developments 
+but two high-profile setbacks - a regression in the 
+protection of confidential pharmaceutical test data and a 
+legislative fiasco involving the criminal provisions of the 
+trademark law that ended in the downgrading of 9000 trademark 
+violation cases due to GOT inaction.   Following Turkey's 
+move in 2008 from the Priority Watch List to the Watch List, 
+these developments are especially disappointing.   Despite 
+these setbacks, however, Turkey has made progress on many 
+fronts, including three of the six action items agreed to in 
+the 2007-2008 IPR Action Plan.  The Ministries of Culture and 
+Justice, as well as the Customs Undersecretariat and Turkish 
+National Police, have recognized the seriousness of Turkey's 
+IPR problems and are taking some steps to address the lack of 
+public awareness and the lack of training in both law 
+enforcement and the judiciary.  The Ministry of Health, 
+however, remains a serious obstacle to progress on IPR 
+issues.  MOH violated outright the protection of confidential 
+pharmaceutical test data for a U.S. company's product and 
+circulated a draft regulation that would further reduce data 
+protections for fixed combination products.  We recommend 
+that Turkey remain on the Special 301 Watch List this year, 
+and that the report focus attention on the need to address 
+pharmaceutical sector concerns and to continue harmonizing 
+Turkey's regulations and practices with its EU and 
+international commitments.  End Summary. 
+ 
+--------------------------------------------- 
+The Good: Incremental Progress on Many Fronts 
+--------------------------------------------- 
+ 
+¶3. (SBU) The consensus in recent years has been that Turkey's 
+IPR legislation, while flawed in some ways, is generally 
+sound and that the real problems are in public awareness, 
+enforcement, and judicial action.  We hoped that the GOT 
+would seriously tackle all these fronts in 2008, but instead 
+much of its attention was absorbed by the filing of a closure 
+case against the ruling party in March and the onset of the 
+global economic crisis in the third quarter.  This led to 
+lack of policy coordination on many fronts.  Nonetheless, 
+there were several noteworthy positive developments in IPR 
+over the last year, including: 
+ 
+(* indicates an item from the 2007-2008 IPR Action Plan) 
+ 
+ 
+-- In February 2008, the GOT passed a new Copyright Law, 
+harmonizing copyright law with the new Turkish Criminal Code. 
+ There are some problems with the law (see para 10) but it 
+ensured that copyright violations would continue to be 
+treated as criminal offenses. (*) 
+ 
+-- On April 24 (World IPR Day), in conjunction with the 
+Business Software Alliance (BSA), the Ministry of Culture 
+(MOC) launched an IPR public awareness campaign known as the 
+"3 Monkeys."  This included a large billboard provided by the 
+MOC in Istanbul's Taksim Square - the campaign is estimated 
+to have reached 7.5 million people. (*) 
+ 
+-- In May, the Ministry of Justice (MOJ) increased the number 
+of specialized IPR courts by two, bringing the total to 23. 
+ 
+-- On May 12-13, the MOC and MOJ held a conference in Izmir 
+on the criminal provisions of the Copyright Law. 
+Approximately 100 officials attended, including law 
+enforcement as well as 60 prosecutors and judges dealing with 
+IPR issues. (*) 
+ 
+-- On May 29-30, forty Turkish Customs officials participated 
+in a two-day Embassy-sponsored, INL-funded, USPTO training in 
+Istanbul focused on detecting trademark and copyright 
+infringement, with participation from the private sector. 
+ 
+ANKARA 00000326  002.2 OF 006 
+ 
+ 
+Further follow-up trainings in other cities are planned for 
+March 2009. (*) 
+ 
+-- On May 30, the Turkish Patent Institute (TPI), MOJ, and 
+European Patent Institute held a seminar on patent litigation 
+for 30 judges and prosecutors. 
+ 
+-- On June 1, the MOC implemented a certificate system for 
+all participants in the copyright production chain, including 
+an electronic track-and-trace component and an automatic 
+auditing mechanism that should ease the process of 
+investigating suspect sellers. (Ref B) 
+ 
+-- In June, Turkey formally opened the IPR accession chapter 
+with the European Union.  This in and of itself indicates 
+that Turkey had sufficiently improved its IPR environment to 
+meet the chapter-opening benchmarks, but it also opens the 
+door for further harmonization with the EU as Turkey 
+negotiates to close the chapter. 
+ 
+-- On July 15, the Prime Ministry issued a circular to all 
+government agencies reminding them that public agencies must 
+use only licensed software and requiring that they establish 
+a mechanism to track and audit software licenses. (Ref B)(*) 
+ 
+-- On August 28, Turkey formally acceded to the WIPO 
+Copyright Treaty and the WIPO Performances and Phonograms 
+Treaty, with no reservations.  The treaties entered into 
+force on November 28, 2008. (Ref C)(*) 
+ 
+-- In October, the GOT held the first meeting of the 
+Undersecretary-level IPR Coordination Council to ensure that 
+GOT policies across ministries are not working at 
+cross-purposes.  This idea was pushed by the EU as part of 
+the opening of the accession chapter. 
+ 
+-- In November, MOC, MOJ, and Istanbul Bilgi University held 
+a two-week training session in Antalya on all aspects of IPR, 
+focusing especially on judges and prosecutors who had not yet 
+participated in long-term or specialized IPR training.  40 
+officials participated. (Ref D) 
+ 
+-- In November, MOJ also issued a regulation requiring all 
+prosecutor's offices to designate a specialized IPR 
+prosecutor, and for offices with more than 500 cases per 
+annum to establish a special IPR bureau. (Ref D) 
+ 
+-- On November 22, the GOT held the first meeting of a 
+"Juridical Consultation Group for IPR" to issue 
+recommendations on improving the coordination of judicial 
+decisions on IPR, including involvement by judges and 
+prosecutors of the Supreme Court. (Ref D) 
+ 
+-- In January and February 2009, the Turkish National Police 
+held two three-day training sessions on all aspects of IPR 
+for police and prosecutors charged with IPR enforcement. 
+These were the fifth and sixth meetings in a longer-term 
+training program. (*) 
+ 
+-- Throughout the year, the MOJ worked on establishing the 
+National Judiciary Network Project (UYAP), which aims to link 
+various agencies and electronify records to speed the access 
+of judges and prosecutors to case-relevant information.  The 
+technical infrastructure is now in place, although several 
+IPR-related agencies are still awaiting legislative action to 
+permit their connection to the network.(Refs B and D) 
+ 
+-- The MOC sponsored a short-film contest on IPR among 
+graduate-level film students in which 170 students 
+participated.  Television stations will be required to show 
+the winning film, "Don't Kill the Original," as part of a 
+public awareness effort.  The Ministry plans to make this 
+into an annual program. The MOC has also reached out to 
+prominent television studios to ask them to include IPR 
+themes in their programs. (*) 
+ 
+¶4.  (SBU) The above list is by no means exhaustive, but does 
+indicate that the Ministries of Culture and Justice, as well 
+as the Customs Undersecretariat and Turkish National Police, 
+have recognized the seriousness of Turkey's IPR problems and 
+are taking some steps to address the lack of public awareness 
+and the lack of training in both law enforcement and the 
+judiciary.  Much work remains to be done, but Turkey's 
+incremental progress in a number of areas should be 
+recognized. 
+ 
+ANKARA 00000326  003.2 OF 006 
+ 
+ 
+ 
+--------------------------------------------- --------------- 
+The Bad: Legislative Incompetence/Inaction, and Enforcement 
+Problems Continue 
+--------------------------------------------- --------------- 
+ 
+¶5. (SBU) The low point of the past year was the GOT's lack of 
+timely response to a Constitutional Court decision annulling 
+the criminal provisions of the Trademark Law. (Refs D, E, F, 
+G and H)  On July 6, the Court ruled that the criminal 
+penalties in the Trademark law were unconstitutional because 
+the law was issued by decree rather than passed by 
+Parliament.  The Court gave the GOT six months, until January 
+5, 2009 to pass a new law through Parliament to maintain 
+these criminal penalties in force, and the government was 
+well aware of the deadline (Refs D and E).  Due to what can 
+at best be described as GOT incompetence, the deadline passed 
+with no new law, resulting in the invalidation of 
+approximately 9000 pending criminal trademark cases. 
+Following this debacle, the GOT sped a new law through 
+Parliament in near-record time, drafting it on the January 6 
+and promulgating it on January 29, but the damage had already 
+been done.  In an effort to prevent IPR criminals from 
+getting away completely, the MOJ has decided to prosecute the 
+same 9000 cases under unfair competition provisions of the 
+commercial code, but this reduces the maximum penalty, and it 
+is unclear if convictions under this provision will be upheld 
+on appeal.  Many attorneys representing rights holders also 
+are concerned that the fake goods confiscated in these 9000 
+cases will be returned to the counterfeiters, which would 
+flood literally millions of fake products into the 
+marketplace.  The only encouraging part of the whole episode 
+is that the Constitutional Court's decision was not based on 
+any objection to IPR.  Had the GOT acted in time, it would 
+have been a side note to the year. 
+ 
+¶6. (SBU) At the same time that Parliament was busy not 
+dealing with this specific trademark issue, it was also 
+unable to make much progress on the new patent law or the 
+full trademarks law, both of which have been languishing for 
+several years now (Ref E). Indeed, until the new patent law 
+passes there is some confusion as to whether criminal 
+penalties still apply to patent violations - the new Turkish 
+Criminal Code made all criminal penalties in other laws null 
+and void as of January 1, 2009, unless they had been 
+harmonized with the Code.  Copyright and trademark penalties 
+have now been harmonized (the latter by accident), but until 
+the patent law passes there are theoretically no criminal 
+protections (civil penalties still apply). 
+ 
+¶7. (SBU) Both the patent and trademark laws also contain some 
+troubling language, which the private sector and post are 
+working to fix.  For example, a requirement in the trademark 
+law that a copy of the original product must be submitted in 
+every trademark case could cause substantial costs to the 
+victimized rights holder when dealing with items worth 
+thousands of dollars.  The Turkish Patent Institute has taken 
+private sector concerns seriously, however, and in late 
+February 2009 even allowed for private sector interests to 
+see the draft law and provide comment, which is almost 
+unheard of within the Turkish legislative system and an 
+encouraging sign.  There are frequent rumors regarding 
+several amendments to both the patent law and trademark law 
+that would make them applicable only to goods produced in 
+Turkey, but the technical agencies involved (TPI, Foreign 
+Trade, etc.) have so far been diligent in ensuring that these 
+amendments are not included in the legislation. 
+ 
+¶8. (SBU) There was some marginal improvement in the 
+enforcement environment in 2008, but serious problems remain. 
+ Anecdotally, rights holders have told us they are pleased 
+with the enforcement activities of the specialized IPR units 
+within the Turkish National Police and with the 
+responsiveness of MOC, MOJ and the Customs Undersecretariat. 
+One software representative noted that 90% of their requests 
+for warrants are granted by the specialized IPR courts as 
+long as there is sufficient evidence of infringement, 
+representing a huge shift in judicial attitudes.  However, 
+outside of these specialized units (i.e. outside of the large 
+cities), rights holders find themselves in a constant battle 
+to convince police to take action and to persuade judicial 
+authorities to take the crimes seriously.  This is compounded 
+by the fact that such authorities are often themselves 
+involved in IPR-infringing activities.  Rights holders (and 
+the police themselves) also note that even the specialized 
+ 
+ANKARA 00000326  004.2 OF 006 
+ 
+ 
+units are underfunded and lack 
+ appropriate equipment. 
+ 
+¶9. (SBU) Enforcement statistics show an overall increase in 
+seizures of counterfeit products, although they have fallen 
+in some categories where the products are either becoming 
+outdated (music and video cassettes) or moving online (music 
+CDs).  The following chart highlights statistics from the 
+Security General Directorate - also reflected in the 
+submission of the International Intellectual Property 
+Alliance (IIPA). 
+ 
+------------------ 
+Seizure Statistics              2007          2008 
+------------------              ----          ---- 
+ 
+Operations                      3741          2847 
+Persons Arrested                4132          3226 
+ 
+Non-Banderoled Products 
+----------------------- 
+CD/VCD                        2.1 million     1.4 million 
+DVD                           490,000         1.3 million 
+Books                         235,000         575,000 
+Video Cassettes               400             250 
+Music Cassettes               28,000          8,100 
+ 
+Banderoled Products 
+------------------- 
+CD/VCD                        12,000          6,000 
+DVD                           1               700 
+Books                         10,000          22,000 
+Music Cassettes               55,000          15,000 
+ 
+CD/VCD/DVD Inlays             8.2 million     24.2 million 
+ 
+¶10. (SBU) As noted in the IIPA submission, there has been 
+considerable confusion over whether or not Police and 
+Inspection Committee officials possess ex officio power to 
+conduct raids.  The language in the previous Copyright Law 
+was deleted from the February 2008 version, not because the 
+power was removed but because it is enshrined elsewhere in 
+law and the amendment drafters felt it was redundant.  Post 
+agrees with IIPA that a formal circular confirming ex officio 
+power could help to reduce this confusion and encourage 
+police to initiate raids without a complaint from a victim. 
+ 
+¶11. (SBU) Internet piracy is a growing problem in Turkey, 
+especially as more Turks gain broadband access to the 
+Internet.  The GOT has been active in providing support to 
+fight Internet piracy, and both the copyright law and the 
+recent trademark amendment contain specific, strong language 
+to fight abuse of IPR on the Internet.  Rights holders report 
+that GOT authorities also respond quickly to requests to 
+block access to various piracy sites.  As broadband access is 
+expanding rapidly, the GOT is in a constant race to keep up 
+with the widening scope of the problem, but has shown a good 
+effort to date. 
+ 
+¶12. (SBU) Certain Customs regulations continue to pose 
+problems for rights holders.  Trademark owners are still 
+required to file in paper to every Customs site on a monthly 
+basis in order to receive protection for their goods, an 
+exhausting and expensive process.  A new Customs law is under 
+consideration that would replace this system with a 
+centralized electronic, yearly filing requirement (Refs B and 
+H) and passage is expected this year.  Customs is also only 
+allowed to hold suspected counterfeit goods for 10 calendar 
+days absent a formal complaint from the rights owner. 
+Because of time differences, these days are rapidly used up 
+when trying to coordinate with a rights holder in the U.S., 
+especially if the victim must travel to a remote portion of 
+Turkey to identify the goods. 
+ 
+¶13. (SBU) There has been little to no improvement on speeding 
+up judicial cases, although this may change once the UYAP 
+system is fully implemented and judges and prosecutors have 
+direct access to copyright, trademark, and patent files. 
+Almost all IPR cases are appealed and the average time to 
+process an appeal is still well over two years.  Even when 
+convictions are achieved and upheld, sentences also lack 
+deterrent effect and frequently end in suspended sentences or 
+nominal fines. 
+ 
+--------------------------------------------- ------- 
+ 
+ANKARA 00000326  005.2 OF 006 
+ 
+ 
+The Ugly: Pharmaceutical Protections Moving Backward 
+--------------------------------------------- ------- 
+ 
+¶14. (SBU) The most troubling developments in the last year 
+occurred at the Ministry of Health (MOH), which violated 
+outright the protection of confidential pharmaceutical test 
+data for a U.S. company's product and which circulated a 
+draft regulation that would further reduce data protections 
+for fixed combination products. 
+ 
+¶15. (SBU) In January 2009, in violation of the data 
+exclusivity rights of a U.S. pharmaceutical company, the MOH 
+issued marketing approval for a copycat generic product. 
+This action occurred just days after the approving official, 
+Dr. Mahmut Tokac, told Assistant USTR Christopher Wilson in a 
+formal U.S.-Turkey bilateral trade meeting that Turkey's 
+obligations on data protection for fixed combination products 
+were "unclear" and that the EU had not yet provided 
+instruction on the matter (Ref H).  Rather than place the 
+approval application on hold pending that clarification 
+(which had in any event already been provided by the EU in a 
+series of letters dating back four years), MOH went ahead and 
+approved the product.  Despite the intervention of the U.S. 
+company, the U.S. Embassy, and the European Commission 
+Delegation to Turkey, the MOH has refused to withdraw its 
+approval and the product was approved for pharmaceutical 
+reimbursement by the Social Security Administration just a 
+few weeks later and is now on the market (and is being 
+marketed for just 30 kurus less than the US company's product 
+- the equivalent of about 18 U.S. cents).  A second U.S. 
+product from a different company now faces the same problem. 
+This constitutes a serious violation not only of Turkey's WTO 
+TRIPS and its European Customs Union obligations, but also of 
+internal Turkish law and of the national treatment principle 
+(foreign companies' approval and reimbursement applications 
+routinely take years).  Post continues to work with relevant 
+Turkish agencies to rectify this situation, but for the time 
+being, the attitude of MOH remains a significant black mark 
+against Turkey. 
+ 
+¶16. (SBU) At the same meeting with AUSTR Wilson, MOH 
+officials denied that they had proposed amending the 
+regulations on pharmaceutical data protections, even though 
+the industry had been formally requested to provide input in 
+December (in some ways a positive sign, as they were at least 
+consulted first).  The amendment would have, among other 
+things, specifically changed the recipient of data protection 
+from its current form of "product" to "molecule."  This would 
+have had the effect of removing fixed combination products 
+from the group of protected products.  The amendment would 
+also have eliminated the requirement for testing if a 
+combination product's individual ingredients had previously 
+been approved - leaving aside the troubling IPR aspect of 
+this rule, it poses serious public health risks.  Although 
+this amendment has not moved forward, it may have been 
+intended to provide cover for the MOH's later actions 
+violating data exclusivity. 
+ 
+¶17. (SBU) In other issues of concern to the pharmaceutical 
+sector, there has still been no progress on the patent 
+linkage proposal (i.e., a formal system in which MOH checks 
+to see if a patent has been issued before issuing a marketing 
+approval).  GOT officials privately recognize that the idea 
+has some merit, but argue that Turkey has no obligation to 
+implement the system under its existing obligations.  Data 
+exclusivity also remains tied to the remaining term of the 
+product patent and dates from the first approval in the 
+European Customs Union.  Turkey will eventually need to 
+harmonize its data exclusivity rules entirely with the EU 
+(meaning an 11 year period of protection), but has indicated 
+that it plans to tie this harmonization to the date it 
+becomes a full member of the EU.  This could push back 
+implementation by over a decade. 
+ 
+------------------------- 
+Where Do We Go From Here? 
+------------------------- 
+ 
+¶18. (SBU) Post recommends that Turkey remain on the Special 
+301 Watch List.  We recognize that considerable problems 
+remain in Turkey's IPR regime and that the failure to amend 
+the trademark law in a timely manner and MOH's actions 
+against data exclusivity provide some justification for 
+raising Turkey back to the Priority Watch List.  In our 
+judgment, however, penalizing Turkey this year is likely to 
+ 
+ANKARA 00000326  006.2 OF 006 
+ 
+ 
+dishearten those in the MOJ, MOC and Customs Undersecretariat 
+who are making good faith efforts to improve Turkey's IPR 
+protections, and is highly unlikely to change problematic 
+attitudes at the MOH.  As one attorney recently noted to us, 
+"Fixing Turkey's IPR problems requires a change in the 
+society's mentality, and that will not happen overnight." 
+The past year's training programs and public awareness 
+campaigns lay the essential groundwork for future progress. 
+ 
+¶19. (SBU) Just because progress is slow, however, does not 
+mean it should stop.  We believe that in the coming year 
+Turkey should: 
+ 
+-- Ensure that vital pieces of IPR legislation, such as the 
+new patent and trademark laws and the new Customs law are 
+finally passed and implemented.  The laws should be crafted 
+to bring Turkey more in line with EU and international norms 
+instead of diverging from them, so frivolous or harmful 
+amendments should be avoided; 
+ 
+-- Issue a circular reaffirming the ex officio powers of law 
+enforcement to act against IPR violations; 
+ 
+-- Continue to provide enhanced training programs for judges, 
+prosecutors and law enforcement and expand the reach of these 
+programs beyond the specialized courts and units dealing with 
+IPR; 
+ 
+-- Transfer control of the banderole system for copyrighted 
+products to the private sector (Note: MOC officials have 
+informed us that they plan to give the power to issue 
+banderoles to the collecting societies in the coming year, 
+under MOC supervision.  End note.); 
+ 
+-- Ensure that pharmaceutical fixed combination products 
+receive confidential test data protection in line with 
+Turkey's laws and EU commitments; and, 
+ 
+-- Consider including private sector representatives on the 
+IPR Coordination Board. 
+ 
+We believe that all of these goals could be achieved within 
+the coming year and that taken together they would contribute 
+to a significant continued improvement in Turkey's IPR 
+regime. 
+ 
+Visit Ankara's Classified Web Site at 
+http://www.intelink.sgov.gov/wiki/Portal:Turk ey 
+ 
+Jeffrey

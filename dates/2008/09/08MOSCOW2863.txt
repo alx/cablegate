@@ -1,0 +1,81 @@
+08MOSCOW2863
+EXTRANCHECK: POST-SHIPMENT VERIFICATION:
+Thu Sep 25 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHMO #2863 2691021
+ZNR UUUUU ZZH
+P 251021Z SEP 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 0122
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 002863 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/M.HAMMES/L.RITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: 
+KEDAH ELECTRONICS, ZELENOGRAD, MOSCOW REGION, RUSSIA, 
+LICENSE NO. NLR 
+ 
+REFTEL: USDOC 05609 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, Kadah Electronics, Zelenograd 445, Moscow 
+Region, Russia. The company is listed on BIS license 
+application: NLR as the ultimate consignee of Three 
+hundred (300) I.C. SP4T positive BIAS switch DC, four 
+(4) SP4T switch die, five (5) I.C. LNA for wireless 
+applications, fifty (50)I.C switch SPDT (NLR), and 
+forty (40) I.C. DC prescalers, monolithic integrated 
+circuits. ECCN 3A001. Controlled for anti-terrorism 
+(AT), nuclear non-proliferation (NP), missile 
+technology (MT), and national security (NS) reasons. 
+The exporter is Hittite Microwave Corporation, 20 
+Alpha Road, Chelmsford, MA  01824. 
+ 
+¶3. On September 23, 2008, Export Control Attach Peter 
+Liston conducted the requested post-shipment 
+verification with Kadah Electronics, Zelenograd 445, 
+Moscow Region, Russia. The export control team met 
+with Olga Ilina, Deputy General Manager and Svetlana 
+Kostine, Sales Manager. 
+ 
+¶4. Kadah Electronics Engineering LLC (Kadah) was 
+founded in 2001 in Zelenograd, Moscow Region, Russia. 
+Kadah employs 57 engineers and has a total workforce 
+of 96, including security and support staff. Kedah 
+owns approximately 330 square meters of production 
+area that it fully equipped with modern assembling and 
+testing equipment.  Deputy General Manager Olga Ilina 
+provided the ECO with full access to the facility an 
+answered all relevant questions about the company 
+without hesitation.  There were no indications of 
+impropriety. 
+ 
+¶5. Although Kadah Electronics LLC does produce radio 
+relay lines, multi user access systems and other 
+electronics incorporating parts from Hittite Microwave 
+Corporation, Deputy General Director Olga Ilina stated 
+that Kadah did not receive any of the items in reftel 
+cable subject to this PSV.  ECO Liston was therefore 
+not able to account for the shipment. 
+ 
+¶6. Recommendations: Post recommends Kadah Electronics, 
+Zelenograd 445, Moscow Region, Russia as reliable 
+recipients of sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

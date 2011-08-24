@@ -1,0 +1,108 @@
+07HONGKONG1664
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Thu Jun 21 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0011
+RR RUEHWEB
+
+DE RUEHHK #1664 1720726
+ZNR UUUUU ZZH
+R 210726Z JUN 07
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 2037
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001664 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR 
+WILLIAM ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+BEIJING FOR FCS JEANETTE CHU 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+ERQIANG TECHNOLOGY (H.K.) 
+ 
+REF: A) USDOC 06595 B) USDOC 03921 C) HK 00038 D) 
+D368037  E) HK 00082 
+ 
+1.Unauthorized disclosure of the information 
+provided below is prohibited by Section 12C of the 
+Export Administration Act. 
+ 
+¶2. As per reftel B request and at the direction of 
+the Office of Enforcement Analysis (OEA) of the 
+USDOC Bureau of Industry and Security (BIS), 
+Export Control Officer Philip Ankel (ECO) 
+conducted a post-shipment verification of a 
+shipment bound for Erqiang Technology (H.K.) 
+(Erqiang), Flat 1105, Block B, Ching Lai Court 264 
+Lai King Hill Road, Kowloon, Hong Kong. The item 
+in question is five ring polyphenyl ether, 
+classified under Export Control Classification 
+Number (ECCN) 1C006 and controlled for national 
+security (NS) reasons. The item was shipped 
+pursuant to Commerce Department license D368037. 
+The exporter was Arch Technology Holding LLC of 
+St. Charles, Missouri. 
+ 
+¶3.  Erqiang and this particular shipment was the 
+subject of a pre-license check referenced in 
+reftel C.  In reftel C, the ECO provided a 
+detailed corporate description of the proposed 
+end-user and that company's relationship with 
+Erqiang.  In particular, the ECO noted that the 
+end-user, Photon Technology Co. Ltd., was the 
+parent company of Erqiang and had recently merged 
+with Neophotonics, Inc. of California.  The ECO's 
+recommendation for that pre-license check was 
+Favorable. 
+ 
+¶4.  Commercial Assistant Florence Tam attempted, 
+on several occasions, to set up an appointment 
+with Erqiang.  It emerged from several phone calls 
+with Ms. Hoi Ping Chu, previous representative of 
+Erqiang, that Erqiang is apparently no longer 
+operational (although the Hong Kong companies 
+registry lists that company as "active").  Mr. Chu 
+stated to Commercial Assistant Tam that, as a 
+result of the merger between Photon Technology Co. 
+Ltd. and Neophotonics, Inc., Erqiang no longer 
+acts as logistics provider for Photon Technology 
+Co. Ltd. 
+ 
+¶5.  Ms. Chu declined ECO's requests to meet and 
+discuss the transaction that is the subject of 
+this PSV.  Ms. Chu stated that she is running her 
+new business from her home and did not wish to 
+meet the ECO there.  Nonetheless, she agreed to 
+assist in obtaining information about the shipment 
+of the items in question.  By fax, Ms. Chu 
+provided documentation tracing the shipment from 
+the U.S. exporter to Erqiang (while it was still 
+operational) to Photon Technology's appointed Hong 
+Kong courier, Eternal Asia (HK) Ltd.  Eternal Asia 
+was the subject of an unfavorable PSV referenced 
+in reftel E.  Ms. Chu provided a further delivery 
+confirmation from Photon Technology indicating 
+that the item had been received by that company on 
+January 29, 2007. 
+ 
+¶6.  Given that it is purportedly no longer in 
+operation, Erqiang does not appear to be a 
+suitable recipient of controlled U.S. origin 
+items.  Nonetheless, the information and 
+documentation provided by the former staff person 
+from Erqiang suggests that the item in question 
+reached its intended destination.  In light of the 
+fact that the ECO could not inspect the item (as 
+it was apparently already in mainland China) the 
+ECO recommends that this PSV be classified as 
+Limited.

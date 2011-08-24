@@ -1,0 +1,75 @@
+09MOSCOW676
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: SPECIAL
+Fri Mar 20 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHMO #0676 0790822
+ZNR UUUUU ZZH
+P 200822Z MAR 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2450
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 000676 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: SPECIAL 
+ELECTRONICS, MOSCOW, RUSSIA. 
+ 
+REFTELS: USDOC 0283 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Special Electronics, 
+Moscow, Russia. The company is listed on BIS license applications: 
+NLR as the ultimate consignee of 96 electronic integrated circuits 
+and micro assemblies, parts and digital field programmable gate 
+arrays. These items are controlled for national security, 
+anti-terrorism, missile technology and nuclear non-proliferation 
+reasons under ECCN 3A001. The licensee is Actel Corporation, 2061 
+Stierlin Ct, Mountain View, CA 94043. 
+ 
+¶3. On March 17, 2009, Export Control Attach Peter Liston and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of Special Electronics, 127 Vernadskogo 
+Prospekt, Moscow, Russia. The export control team met with Nadezhda 
+Nesterova, Sales Manager. 
+ 
+¶4. Special Electronics was founded in 1994 as an electronics 
+components re-seller and distributor. Special Electronics is a 
+closed joint company partially owned by the German Electronics firm 
+Weidmuller. The company has 10 employees in its Moscow office and 10 
+employees in its St Petersburg location. 
+ 
+¶5. Nesterova stated that all of the components in reftel have 
+already been sold to a Russian oil and gas company. She also said 
+that the company is being hit rather hard by the global financial 
+crisis but expects to make it through it as they did during the 
+crisis of 1998. 
+ 
+¶6. Special Electronics appeared to be fully operational, and had 
+electronic components on mounted displays featured throughout the 
+office. Specialty Electronics has been in the electronics components 
+market in Russia for more than 15 years and has a legitimate need 
+and a legitimate end use for the reftel commodity. Nesterova was not 
+evasive when answering the export control teamQs questions. The 
+export control did not notice any impropriety during the end use 
+check. 
+ 
+¶7. Recommendations: Post recommends Special Electronics, Moscow, 
+Russia, as reliable recipients of sensitive U.S. origin 
+commodities. 
+(FCS MOSCOW/JMARKS/PLISTON) 
+BEYRLE

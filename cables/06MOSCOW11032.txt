@@ -1,0 +1,103 @@
+06MOSCOW11032
+EXTRANCHECK: PRE-LICENSE CHECK:
+Mon Oct 02 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHMO #1032 2750831
+ZNR UUUUU ZZH
+P 020831Z OCT 06
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 3279
+RHFJUSC/HQS US CUSTOMS SERVICE WASHINGTON DCUNCLAS MOSCOW 011032 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/DMUSLU 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: 
+TECHNOSERVICEPRIBOR, MOSCOW, RUSSIA, LICENSE NO. 
+D358560 
+ 
+REFTEL: USDOC 04978 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, 
+Technoservicepribor, Moscow, Russia. The company is 
+listed on BIS license application D358560 as the 
+ultimate consignee of vector network analyzer. These 
+items are controlled for national security reasons 
+under ECCN 3A002. The licensee is Anritsu Company, 490 
+Jarvis Drive, Morgan Hill, CA 95037. 
+ 
+¶3. On September 19, 2006 Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested pre-license check at the offices of 
+Technoservicepribor (TSP), Sumskoy proezd, 21/3, 
+Moscow and met with Andrey Kolesnikov, Commercial 
+Director. 
+ 
+¶4. TSP is a technical support and repair service 
+focusing on the medical and communications industries. 
+The company specializes in maintenance and repair of 
+foreign made high technology equipment used in 
+telecommunications and medical applications.  The 
+company is a spin off of the Interanalyt Company, a 
+distributor of high technology products for industry. 
+NOTE: Interanalyt was the subject of an NLR PSV 
+conducted on April 6, 2005 and reported in 2005 MOSCOW 
+¶04004.  TSP has been a separate entity since March 
+¶2006.  The company employs 7 at the Sumskoy poyezd 
+location, and has no other offices.  Mr. Kolesnikov 
+has a three-year contract to run the organization on 
+the behalf of the owner.  The company is privately 
+held. 
+ 
+¶5. TSP plans on using the analyzer in reftel for 
+service and maintenance of medical and communications 
+devices.  TSP is currently bidding on several tenders 
+to provide diagnostic and maintenance services for 
+medical facilities in the Moscow area.  The tender, 
+offered by Medtechnica, a state unitary organization 
+responsible for equipping medical clinics in Moscow, 
+would be to calibrate and maintain medical diagnostic 
+equipment such as Magnetic Resonance Imagers (MRI) and 
+the like.  TSP is also exploring the opportunity to 
+work with Shimazdzu Europe, GmbH to be an authorized 
+service center for their organization in Russia. In 
+addition, TSP hopes to offer its services to 
+telecommunications operators in the regions outside of 
+Moscow. TSP will test and service wireline systems as 
+they are upgraded to provide broadband services such 
+as cable television, high-speed Internet access and 
+other services. 
+ 
+¶6. The device will be stored in a cabinet in a secured 
+laboratory.  The room has barred windows, and an 
+electronic security system.  The perimeter of the 
+building is patrolled by security at all times. TSP 
+has no military contracts, and is aware of the end use 
+conditions of the license.  Only one or two 
+specialists will utilize the equipment. 
+ 
+¶7. Recommendations: Post recommends 
+Technoservicepribor, Moscow, Russia, as reliable 
+recipients of sensitive U.S. origin commodities. It is 
+requested that post be notified of final disposition 
+of the application, and of any shipments for this 
+organization in order to conduct appropriate FCS 
+follow-up and statistical reporting. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

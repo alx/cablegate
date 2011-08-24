@@ -1,0 +1,262 @@
+05PARIS2727
+NUCLEAR WASTE STORAGE/FRENCH R&D: PROGRESS AND
+Thu Apr 21 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 PARIS 002727 
+ 
+SIPDIS 
+ 
+DOE FOR OFFICE OF THE SECRETARY 
+DOE ALSO FOR NNSA, OFFICE OF SCIENCE; OFFICE EUROPEAN AND 
+ASIAN AFFAIRS 
+STATE FOR EUR/WE; OES; STAS; NP; AND EB/ESC 
+EPA FOR IA 
+STATE PLS PASS NUCLEAR REGULATORY COMMISSION 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG ENRG TSPL TPHY KSCA FR KNUC
+SUBJECT: NUCLEAR WASTE STORAGE/FRENCH R&D: PROGRESS AND 
+PROSPECTS 
+ 
+REF: 02 Paris 8289 
+ 
+FOR USG ONLY; NOT FOR INTERNET DISTRIBUTION. 
+ 
+Summary 
+------- 
+¶1.  The influential Parliamentary Office for the 
+Evaluation of Science and Technology Options (OPECST) 
+recently released a comprehensive scientific report on R&D 
+progress achieved in France in the area of high-level, 
+long-lived radioactive waste management (HLLLW).  The 
+report's final recommendations will be turned into a bill 
+leading to a vote in Parliament in late 2006.  The report 
+asserts the scientific feasibility of the three 
+technologies under investigation: separation and 
+transmutation, deep geological disposal, and long-term 
+interim storage.  It concludes that all three 
+technologies, initially perceived as "competing," are in 
+fact "complementary" and should be included in the 2006 
+bill.  The bill would also include a schedule for the 
+industrial implementation of each technology (2025-2040). 
+Finally, the authors of the report underscore that 
+significant R&D funding will be needed to demonstrate 
+industrial feasibility.  End summary. 
+ 
+Background: A Very Orderly Approach 
+----------------------------------- 
+¶2. In 1991, France laid out a 15-year research program, 
+known as the "Bataille Law," to explore three options for 
+HLLLW disposal: 1) partition and transmutation of high- 
+level nuclear waste into low-level substances; 2) 
+geological storage (development of at least two 
+underground laboratories in different underground areas- 
+clay and granite); and 3) waste packaging and effects of 
+long-term surface or subsurface storage.  By 2006, the 
+Parliament must decide which method(s) of disposal should 
+be implemented. 
+ 
+¶3.  Earmarked money for research conducted between 1992 
+and 2003, mainly under the aegis of the Atomic energy 
+Commission (CEA) and the National Waste Management Agency 
+(ANDRA), equalled 2.2 billion euros, distributed among the 
+three technologies under scrutiny.  Regular follow up has 
+been conducted by various committees, notably the OPECST 
+and the National Scientific Evaluation Committee (CNE), an 
+expert panel set up in 1994 to present to the GOF and 
+Parliament yearly critical assessments of HLLLW management 
+programs. 
+ 
+¶4.  At the initiative of two parliamentarians, OPECST Vice- 
+President Claude Birraux and Christian Bataille (an 
+originator of the 1991 law), the OPECST held three days of 
+public hearings on radioactive waste management in January 
+and February 2005, each session corresponding to one of 
+the research paths stipulated in the Bataille law.  These 
+hearings were preceded by private hearings with 250 
+scientists from 7 countries (Germany, Belgium, Finland, 
+Sweden, Switzerland, U.S., and France).  The 340-page 
+report (in French) resulting from these meetings is 
+available on the OPECST website: 
+(http://www.senat.fr/opecst/rapports.html).  The 
+conclusions of the report will be included in the draft 
+bill to be proposed by the GOF in early 2006 and debated 
+in Parliament in the second half of 2006. 
+ 
+Separation/Transmutation -- The "Ultimate Goal" 
+--------------------------------------------- -- 
+¶5.  Research on separation has been conducted since 1992 
+at the CEA ATALANTE facility in Marcoule (Gard) and in the 
+context of the European network ACTINET.  The OPECST 
+report notes that CEA has explored separation feasibility 
+through aqueous processes but also investigated the 
+possibilities offered by pyro-chemistry, an approach 
+finding supported under the U.S. AFCI program (Advanced 
+Fuel cycle Initiative).  It further notes that while the 
+industrialization of advanced separation will require 
+significant financial investment it would optimize 
+geological storage (reduction of contents) and reduce 
+costs of interim storage (volume/length of time). 
+ 
+¶6.  Transmutation: The scientific feasibility of 
+transmutation has been demonstrated, according to the 
+report, principally through experiments conducted with the 
+fast breeder Phenix reactor. The shutdown of Phenix (2008- 
+2009) will affect transmutation research.  To achieve 
+transmutation at an industrial scale, the OPECST report 
+underscores the need to develop fast neutron Generation IV 
+reactors and/or sub-critical reactors driven by 
+accelerators (Accelerator Driven Systems, or ADS) at the 
+horizon 2035-2040.  The authors of the report emphasize in 
+this context the need for "intense" international 
+cooperation around the G IV program and express the view 
+that the development of a European ADS demonstrator is "an 
+objective worth further consideration." 
+ 
+Deep Geological Formation Disposal -- "Unavoidable" 
+--------------------------------------------- ------ 
+¶7.  Notwithstanding future progress in separation/ 
+transmutation, nuclear development will still generate 
+ultimate radioactive waste.  Furthermore, existing HLLLW 
+will not, for economic and technical reasons, benefit from 
+this technology.  Consequently, MP Birraux and Bataille 
+consider that deep geological storage is "unavoidable." 
+Bataille and other French experts favor a "reversible" 
+repository, at least for a certain period of time (length 
+of time remaining to be specified) to leave the door open 
+to other modes of long-lived waste management if new 
+technologies emerge.  The report acknowledges delays in 
+the construction of the underground research laboratory by 
+ANDRA at Bure (Meuse), but considers that these delays are 
+partly "compensated" by experience acquired in other 
+research sites, notably at Mol in Belgium and Mont Terri 
+in Switzerland.  The OPECST report concludes that the 
+argillite formation tested by ANDRA at Bure "offers 
+favorable confinement capacities" and could be a good host 
+for a repository.  Engineering studies indicate that 
+geological storage could be reversible for a long period 
+of time. 
+ 
+Long-term Packaging and Long-term Surface Storage: "A Safe 
+Interim Solution" 
+--------------------------------------------- ------------- 
+¶8.  The report highlights significant progress made in 
+waste packaging and long-term storage. Some research 
+results have already been integrated into industrial 
+processes and the volumes of high- and medium-level 
+activity waste have been reduced by a factor of ten since 
+¶1992. The goal for long-term storage is to develop 
+centennial interim storage (100-300 years, as compared to 
+50 years at present) by 2016. 
+ 
+OPECST Recommendations and Calendar: A Political Will 
+--------------------------------------------- -------- 
+¶9.  The authors of the report emphasize that not one 
+technology alone will provide an answer to HLLL waste 
+management and recommend that all three technologies be 
+included in the 2006 law.  That is to say that Parliament 
+would incorporate in the text of the law three principles: 
+France sets separation/ transmutation as the ultimate goal 
+for radioactive waste management and has recourse to 
+reversible deep geologic disposal and long-term 
+(surface/subsurface) storage. 
+ 
+¶10.  Planning for the next four decades: the authors of 
+the report propose to include in the new law the following 
+objectives and schedule for public authorities: 
+-- 2016: implementation of long term storage, preferably 
+on the site of an already existing nuclear facility; 
+-- 2016: authorization to build a reversible deep geologic 
+repository; 
+-- 2020-25: implementation of a demonstrator reactor for 
+transmutation; 
+-- 2025: implementation of geological storage; 
+-- 2040: implementation of industrial transmutation. 
+ 
+¶11.  R&D Funding/Coordinating agency.  While the report 
+provides no detailed cost estimate, it states that 
+significant amounts of R&D funding will be necessary to 
+reach industrial feasibility for each of the three waste 
+management paths defined in the law and to ensure HLLLW 
+industrial management in the long-term.  To guarantee 
+appropriate funding, the OPECST report advocates the 
+creation of a dedicated fund, managed by the State and 
+backed by waste producers (the French Electricity Board 
+EDF, hospitals, etc.).  The OPECST further recommends the 
+extension of ANDRA's responsibilities to include long-term 
+storage of all radioactive waste and non-reprocessed UOX 
+and MOX spent fuel. 
+ 
+Next on the agenda 
+------------------ 
+¶12.  2006 deadline to be met?  Although behind schedule, 
+the authors of the report consider that sufficient results 
+are or will be available for presentation to Parliament 
+within the timeframe stipulated by the French legislation 
+(i.e. late 2006).  To prepare for the parliamentary vote 
+on the law, the Research Ministry has announced a 
+colloquium to take place in mid-2005.  ANDRA will submit 
+in June 2005 a progress report of research conducted at 
+Bure, and the CNE will review research results during the 
+summer of 2005.  The GOF will then issue a white paper and 
+organize a public debate (end of 2005/early 2006) and 
+release a draft bill to be voted in Parliament at the end 
+of 2006. 
+ 
+Press Reactions: Many Uncertainties/Long Way to Go 
+--------------------------------------------- ----- 
+¶13.  Several press commentators note the desire of the GOF 
+to "conclude" the nuclear waste issue before the 2007 
+presidential elections even though the necessary 
+scientific data to define waste management strategies may 
+not be available in time for the 2006 debate.  They 
+underscore that industrial feasibility for 
+separation/transmutation will require new types of 
+reactors that exist only "on paper."   Concerning deep 
+underground storage, some note that Bure will hardly be 
+operational in 2006 to provide concrete results and that 
+the second deep underground research lab in a granite 
+formation, also mentioned in the 1991 law (para 2), has 
+never been built.  Comment: Altogether, in terms of 
+scientific assessment, the 2006 "deadline" is turning more 
+and more into an intermediate benchmark.  From a more 
+political viewpoint, however, the decisions in principle 
+recommended by the OPECST, if followed by the GOF, express 
+a real determination to move forward France's waste 
+management strategy on the political agenda.  End comment. 
+ 
+Waste inventory/Figures 
+----------------------- 
+¶14.  Data available end-2002 (Source: ANDRA inventory, 
+OPECST report, Annex 1): 
+-- High-level long lived waste: 1639 m3; representing 0.2 
+percent of total volume (of radioactive waste) and 96 
+percent of total radioactivity; estimated annual 
+throughput: 110 m3. 
+-- Long-lived mean level: 45,359 m3; 4.6 percent of total 
+volume; 3.87 percent of total radioactivity; 600 m3. 
+-- Long-lived mean level: 44,559 m3; 4.5 percent of total 
+volume; 0.01 percent of total radioactivity. 
+-- Short-lived mean and low: 778,322 m3; 79.6 percent of 
+total volume; 0.07 percent of total radioactivity; annual 
+throughput: 28,000 m3. 
+-- Very low: 108,219 mm3; 11.1 percent of total volume; 
+percentage of total radioactivity: close to 0. 
+ 
+¶15.  Comment: France, which produces 80 percent of its 
+electrical power via nuclear energy, sees only a nuclear 
+future for itself.  The country has succeeded in obtaining 
+a high degree of public acceptance for its civilian 
+nuclear program.  Part of the reason for this is the 
+attention the government and industry already give to the 
+back-end of the nuclear fuel cycle.  The country has 
+heavily invested in reprocessing technologies and 
+facilities and is the world's leader in developing MOX 
+fuel from nuclear waste.  Recently, Congressman Dave 
+Hobson (R.Oh.), Chairman of the House Energy and Water 
+Appropriations Committee, led a delegation of members and 
+staff to France to obtain a first-hand appraisal of the 
+French nuclear waste system.  Hobson expressed 
+considerable interest in the French approach. 
+Wolff

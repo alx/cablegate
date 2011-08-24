@@ -1,0 +1,44 @@
+09BERLIN1432
+BLUE LANTERN POST-SHIPMENT END-USE CHECK ON
+Thu Nov 12 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXRO6021
+PP RUEHAG RUEHDF RUEHLZ
+DE RUEHRL #1432 3161317
+ZNR UUUUU ZZH
+P 121317Z NOV 09
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 5749
+INFO RUCNFRG/FRG COLLECTIVEUNCLAS BERLIN 001432 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+STATE FOR PM/DTCC - BLUE LANTERN COORDINATOR 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC GM
+SUBJECT: BLUE LANTERN POST-SHIPMENT END-USE CHECK ON 
+LICENSE 050117142 
+ 
+REF: STATE 109785 
+ 
+¶1.  (SBU) In response to Blue Lantern post-shipment check on 
+license 050117142, International Spares Services (ISS) GmbH 
+Business Director, Albrecht Schwecht, confirmed to EconOff 
+that the International Traffic in Arms (ITAR)-controlled 
+tachometers purchased from MPS Logistics, Inc. are for the 
+German Navy and not/not for the German Air Force. 
+Specifically, Schwecht said the tachometers  will be used in 
+the Westland Sea Lynx MK88/MK88A, operated by the German Navy. 
+ 
+COMMENT 
+------- 
+ 
+¶2.  (SBU) Schwecht was very helpful and promptly responded to 
+all inquiries regarding this case.  It appears to us that the 
+end-use statement designating the German Air Force as the 
+operator was in error and should have read "operated by the 
+German Navy." 
+MURPHY

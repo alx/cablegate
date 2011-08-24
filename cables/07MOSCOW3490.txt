@@ -1,0 +1,107 @@
+07MOSCOW3490
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: JSC
+Tue Jul 17 00:00:00 +0200 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0009
+PP RUEHWEB
+
+DE RUEHMO #3490 1981228
+ZNR UUUUU ZZH
+P 171228Z JUL 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 2132
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DC
+RUEHNT/AMEMBASSY TASHKENT 4990UNCLAS MOSCOW 003490 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTER/DMUSLU 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+AMEMBASSY TASHKENT FOR DALLEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: JSC 
+UZBEKTELECOM, TASHKENT, UZBEKISTAN, LICENSE NO. 
+D341584 
+ 
+REFTEL: 1. USDOC 05393 DATED 12/20/05 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a Post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, JSC Uzbektelecom, Tashkent, Uzbekistan. The 
+company is listed on BIS license application D341584 
+as the ultimate consignee of two cesium frequency 
+clocks, model: PRS45-0002. These items are controlled 
+for national security reasons under ECCN 3A002. The 
+licensee is Symmetricom Inc., 2300 Orchard Pkwy, San 
+Jose, CA 95131. 
+ 
+¶3. On July 11, 2007, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested post-shipment verification with JSC 
+Uzbektelecom (UT), 24, Amir Temur st., Tashkent, 
+Uzbekistan. The export control team met with Khakim 
+Mukhitdinov, General Director and Margarita Kashina, 
+Head of International Relations Department. 
+ 
+¶4. UT was founded in 1992 to provide 
+telecommunications services to Uzbekistan. UT is an 
+open joint-stock company, with 94% of the shares owned 
+by the Government of Uzbekistan, 3% owned by 
+employees, and 3% owned by the Judiciary of 
+Uzbekistan.  UT hopes to sell 49% of the company 
+shares to a foreign strategic investor.  UT employs 
+20,300 in 19 divisions, including regional 
+telecommunications providers and specialized 
+departments.  The company also has interests in 12 
+telecommunications related joint ventures. 
+ 
+¶5. The cesium primary reference sources (PRS) in 
+reftel are used in the UT national telecommunications 
+network control system, located at the Tashkent 
+Telegraph Station.  The PRS systems synchronize the 
+network, providing stable and highly accurate time 
+signals to the switching network.  The devices have no 
+other uses and are not accessible outside of the UT 
+technical network.  The units are stable, and working 
+well.  As UT expands it's digital switching network, 
+it will require 3 or 4 new PRS units, which it is 
+considering sourcing elsewhere due to the 7 to 8 month 
+wait for U.S. export licenses.  ECO Pearce advised 
+that the turnaround time for a future license should 
+be shorter.  Mr. Mukhitdinov is familiar with U.S. 
+export controls and the conditions of the license. 
+ 
+¶6. The team was brought to the Tashkent Telegraph 
+Station (TTS), a specialized department of UT, located 
+at #28 A. Navoi Str, Tashkent.  TTS controls the 
+international and long-distance switching networks for 
+UT.  In addition, the center provides satellite 
+uplink/downlink facilities for broadcasting.  The team 
+was shown two TimeCesium PRS-4400 clock systems, s/n 
+0608006812 and 0613007244.  The clocks are rack- 
+mounted in the IT center of the TTS building.  Access 
+to the TTS facility is restricted due to the sensitive 
+nature of the systems resident in the building.  A 
+proximity card system is used to control access, and 
+visitors must be escorted at all times.  Corporate 
+security officers patrol the facility 24 hours a day, 
+and a video surveillance system is in place.  Three 
+specialists have direct daily access to the system, 
+and one engineer is responsible for monitoring the 
+clocks. 
+ 
+¶7. Recommendations: Post recommends JSC Uzbektelecom, 
+Tashkent, Uzbekistan as reliable recipients of 
+sensitive U.S. origin commodities. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

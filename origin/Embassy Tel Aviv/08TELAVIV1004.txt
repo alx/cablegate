@@ -1,0 +1,134 @@
+08TELAVIV1004
+RESULTS OF BLUE LANTERN LEVEL 3 PRE-LICENSE
+Tue May 06 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Tel Aviv
+VZCZCXYZ0019
+PP RUEHWEB
+
+DE RUEHTV #1004/01 1271348
+ZNR UUUUU ZZH
+P 061348Z MAY 08
+FM AMEMBASSY TEL AVIV
+TO RUEHC/SECSTATE WASHDC PRIORITY 6598
+INFO RUEHNE/AMEMBASSY NEW DELHI PRIORITY 0364
+RUETIAA/DIRNSA FORT GEORGE G MEADE MD
+RUEAIIA/CIA WASHDC
+RUCNFB/FBI WASHDC
+RUCPDOC/USDOC WASHDC
+RUEKJCS/SECDEF WASHDC
+RHMFIUU/HQ BICE INTEL WASHINGTON DCUNCLAS TEL AVIV 001004 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+STATE FOR PM/DTCC - BLUE LANTERN COORDINATOR 
+STATE FOR NEA/IPA (PECCIA) 
+NEW DELHI FOR JONATHAN S. FISCHER 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC IN IS
+SUBJECT: RESULTS OF BLUE LANTERN LEVEL 3 PRE-LICENSE 
+END-USE CHECK ON APPLICATION 05-050095903 
+ 
+REF: STATE 37830 
+ 
+¶1. (SBU) Per reftel instructions, emboffs visited Orbit/FR 
+Engineering, Ltd., a subsidiary of Orbit-Alchut Technologies 
+in Netanya on May 6, and met with Vice President for Systems 
+Research and Development Noah Isman, Senior Antenna 
+Measurement Scientist Asi Geva, Customer Support Officer 
+Carmit Kachan, and Security Consultant Sagy Itzhak.  An 
+information security officer from the Israeli MOD's Security 
+Directorate (MALMAB/DSDE), Kobi Fogler, also participated in 
+the meeting.  Emboffs collected the following information: 
+ 
+A) Bona Fides:  Orbit/FR Engineering Ltd. is a subsidiary of 
+Orbit-Alchut Technologies, and the more specific foreign 
+consignee in the transaction covered under license 
+application 05-050095903.  Orbit/FR representatives provided 
+a brief PowerPoint presentation illustrating their place in 
+the Orbit conglomerate, and their business of developing and 
+retailing antenna components and systems.  Sixty-one percent 
+of Orbit/FR's shares are held by Orbit Technologies Group. 
+Orbit/FR is to be sold to France, and Orbit-Alchut 
+Technologies is the holding company.  Completion of the sale 
+is pending USG approval.  Orbit/FR's shares are traded on the 
+NASDAQ, and its corporate headquarters are located in 
+Pennsylvania.  Orbit/FR's customers include domestic and 
+global companies in satellite, aerospace, automotive, and 
+academic industries, such as Sony-Ericsson, Boeing, 
+Lufthansa, and Ford Motor Company.  Clients are military and 
+civilian, and range in size from large-scale defense 
+contractors to individuals.  Orbit was founded in 1951 and 
+dealt with electronics.  It then expanded into research and 
+development, and began developing its own line of products. 
+The "FR" portion of its name derives from Flamm and Russell, 
+a company which it bought in the 1990s. 
+ 
+B) Use of Licensed Technologies:  Vice President Noah Isman 
+described the four antenna switches covered by the export 
+license application in question as "very simple parts" used 
+for operating a test antenna, which can measure the efficacy 
+of other antenna transmitters.  The switch itself is designed 
+for integration into an established antenna range system and 
+permits users to connect to multiple transmitters and test 
+each one at a time.  Testing will take place in India, and 
+Isman thought it likely the antenna transmitters to be tested 
+are for a military application.  Customer Support Officer 
+Carmit Kachan showed emboffs copies of the purchase order, 
+numbered 111037, which listed the supplier as REMEC, a 
+subsidiary of Cobham Holdings, and was signed by Mark Fulling 
+of Cobham, Inc. Isman likewise provided an end-user 
+declaration confirming Defense Avionics Research 
+Establishment (DARE) in Bangalore, India, as the recipient of 
+the antenna switches.  The end-user declaration was signed by 
+"R.P. Ramalinjan, Distinguished Scientist and Director." 
+Kachan noted that she is Orbit FR's POC for the Israeli MOD's 
+Security Directorate (MALMAB/DSDE).  Isman said this is the 
+first time he is selling to this specific end-user, but noted 
+that he already has several other customers in the India 
+defense establishment.  Isman said he has worked with REMEC 
+before, and that Orbit/FR has received controlled items from 
+U.S. suppliers in the past that were covered by export 
+licenses. 
+ 
+C) Company Records and On-Site Security:  Security Consultant 
+Sagy Itzhak assured emboffs that controlled technologies are 
+very well protected at Orbit/FR.  He noted that all of 
+Orbit/FR's employees have at least a "confidential" level 
+security clearance, and that only employees working on a 
+project ever handle that project's technologies.  Itzhak 
+explained that controlled items licensed by State and 
+Commerce are secured in a separate section of the warehouse 
+and are labeled with a sticker identifying them as an 
+"article under control."  He stated that he requires the 
+company to maintain detailed files for each transaction, and 
+that Orbit FR is moving towards an entirely automated records 
+system. 
+ 
+D) Company's Understanding of USML Restrictions:  Itzhak 
+stated with confidence that he is very well read on the USML 
+restrictions and the requirements for transacting controlled 
+items.  Emboffs assessed that Isman and the other company 
+ 
+officials in the meeting likewise understood the importance 
+of abiding by USML protocol.  Per instructions in reftel, 
+emboffs reiterated that any re-export of controlled items 
+covered by U.S. export licenses requires approval prior to 
+re-export. 
+ 
+¶2. (SBU) Based on the above, emboffs believe Orbit/FR is a 
+bona fide company specializing in the research, development, 
+and sale of antenna measurements components and systems, and 
+is playing a legitimate role as consignee in a legitimate 
+transaction. 
+ 
+********************************************* ******************** 
+Visit Embassy Tel Aviv's Classified Website: 
+http://www.state.sgov.gov/p/nea/telaviv 
+ 
+You can also access this site through the State Department's 
+Classified SIPRNET website. 
+********************************************* ******************** 
+JONES

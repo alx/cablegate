@@ -1,0 +1,106 @@
+09MOSCOW2208
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: MOSCOW STATE
+Thu Aug 27 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0006
+PP RUEHWEB
+
+DE RUEHMO #2208 2391042
+ZNR UUUUU ZZH
+P 271042Z AUG 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 4645
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 002208 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: MOSCOW STATE 
+UNIVERSITY OF RAILWAY ENGINEERING AND NPP ELIKS JSC, MOSCOW, 
+RUSSIA. 
+ 
+REFTEL: REQUEST #04210023; DATED: 06/23/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, Moscow State University 
+of Railway Engineering, Moscow, Russia and the foreign purchaser, 
+NPP ELIKS JSC, Moscow, Russia.   The University is listed on BIS 
+license application D401431 as the ultimate consignee of one AWG5004 
+arbitrary waveform generator with options and accessories, 600 MS/S, 
+14BIT, 16M point and 4 channels.  NPP ELIKS JSC is the distributor 
+in Russia.  This item is controlled for national security and 
+anti-terrorism reasons.  The licensee is Tektronix, Inc., 14200 SW 
+Karl Braun Drive, Beaverton, OR 97077. 
+ 
+¶3. On August 6, 2009, Commercial Attach Ilona Shtrom and LES 
+Natalya Shipitsina conducted the requested post-shipment 
+verification at the offices of Moscow State University of Railway 
+Engineering, 9, Obraztsova Street, Moscow, Russia. The export 
+control team met with Mr. Yevgeny Scherbina, Head of Laboratory, 
+Associate Professor and Mr. Petr Bestemyanov, Director, Department 
+of Telecommunication and Electrification. 
+ 
+¶4. Moscow State University of Railway Engineering (MIIT) was founded 
+in 1896 and currently has an annual budget of $35-45 million. 
+Currently, there are approximately 46,000 students enrolled in its 
+various programs across the Russian Federation; 12,000 of these 
+students are in Moscow. 
+ 
+¶5. The export control team was able to identify and view the 
+Tektronix AWG5004 Arbitrary Waveform Generator in the university 
+laboratory.   The Serial number for the equipment was noted as 
+B010201; ID 00:00:72: AO:23:39; OI Key: 3XV9E-99TCC-RYZ3R-XCHRM. 
+The export control team noted that the lab has a lock with a key. 
+The key is available to two students and three university 
+professors.  The UniversityQs property is only accessible by a key 
+card and closes at 10pm.  When the export control team asked Mr. 
+Scherbina about how the Institute surpluses its equipment, we were 
+told that there is always use for equipment, no matter how old it 
+is, and nothing is ever removed from their inventory. 
+ 
+ 
+ 
+¶6. On August 6, 2009, the export control team also met with the 
+following representatives of NPP ELIKS JSC:  Alexander Afonskiy, 
+President of Eliks Group, Editor-in-Chief of the magazine "Test & 
+Measuring Instruments and Systems" Professor of Bauman State 
+Technical University and Tatyana Afonskaya, Development Director. 
+ 
+¶7.  ELIKS, a family-owned and operated business, located at 57-5, 
+Kashirskoe shosse, Moscow, Russia, was founded in 1992 and is a 
+supplier of testing and measuring instruments, soldering equipment 
+and industrial furniture in Russia.  In addition to serving as a 
+distributor for Tektronix, the company also sells equipment 
+manufactured by U.S. companies Fluke and Keithley.  Since 2000, 
+ELIKS has manufactured under its own brand name (Aktakom).  The 
+company sells to a wide variety of end-users ranging from large 
+industrial enterprises, universities, scientific research institutes 
+to metrology and telecom organizations.  The export control team 
+found the company to be well-prepared for the meeting and 
+well-informed on U.S. export controls and their obligations under 
+the EAR.  ELIKS indicated they are aware of constraints such as the 
+prohibition on re-exporting U.S. items.  Under their internal 
+technology control plan, when applicable, they request their 
+customers to sign an agreement to abide by these same constraints. 
+They also check USG lists such as the denied parties and entities 
+list.  Mr. Afonskiy stated that if they are not comfortable with a 
+customer, they will not sell to them.  ELIKS even provides its 
+customers with information on U.S. export controls on its website: 
+www.eliks.ru/product/tek/export.htm 
+ 
+¶8. Recommendations: Post recommends Moscow State University of 
+Railway Engineering, Moscow, Russia, as well as NPP JSC ELIKS as 
+reliable recipients of sensitive U.S. origin commodities. 
+(FCS MOSCOW/JMARKS/ISHTROM) 
+BEYRLE

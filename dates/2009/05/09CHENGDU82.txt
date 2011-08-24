@@ -1,0 +1,178 @@
+09CHENGDU82
+SW CHINA BROADBAND: GROWING RAPIDLY IN A LARGE POTENTIAL
+Mon May 18 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Consulate Chengdu
+VZCZCXRO6613
+RR RUEHGH RUEHVC
+DE RUEHCN #0082/01 1380854
+ZNR UUUUU ZZH
+R 180854Z MAY 09
+FM AMCONSUL CHENGDU
+TO RUEHC/SECSTATE WASHDC 3209
+INFO RUEHOO/CHINA POSTS COLLECTIVE
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEATRS/DEPT OF TREASURY WASHINGTON DC
+RUEHCN/AMCONSUL CHENGDU 3882UNCLAS SECTION 01 OF 02 CHENGDU 000082 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+DEPT FOR EAP/CM 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON CH SOCI
+SUBJECT: SW CHINA BROADBAND: GROWING RAPIDLY IN A LARGE POTENTIAL 
+MARKET 
+ 
+REF: STATE 027310 
+ 
+CHENGDU 00000082  001.2 OF 002 
+ 
+ 
+¶1. (U) This cable contains sensitive but unclassified 
+information - not for distribution on the Internet. 
+ 
+ 
+ 
+¶2. (SBU) Summary:  The number of Internet users in Southwest 
+China doubled to 27 million people between 2005 and 2008.  The 
+region's population of 200 million people leaves room for 
+substantial growth based on the penetration rates reported in 
+Beijing and Shanghai.  Broadband Internet connections in both 
+urban and rural areas offer the potential for high-speed 
+Internet surfing, but network congestion often leaves users with 
+only a fraction of the advertised bandwidth.  Recently 
+introduced third generation (3G) wireless networks offer another 
+potential path to high-speed Web browsing, although speeds still 
+appear too slow to access some content hosted outside of China. 
+End Summary. 
+ 
+ 
+ 
+Broadband Use Surging in Southwest China 
+ 
+---------------------------------------- 
+ 
+ 
+ 
+¶3.  (SBU) Wired broadband Internet service, already available in 
+major Southwest China cities and many rural areas, continues to 
+expand.  The China Internet Network Information Center (CINIC) 
+reported that by the end of 2008, Southwest China had 27.3 
+million Internet users, roughly 14 percent of the population. 
+The number of users represents a roughly 135 percent increase 
+since 2005, although growth is somewhat uneven across the 
+Southwest.  Sichuan saw the region's lowest average growth over 
+the three year period ending in 2008, but still boasted the 
+highest number of Internet users in the region at just over 11 
+million out of a population of 80 million.  Internet use in 
+Tibet grew more than 400 percent over the same period, yet still 
+had only 470,000 Internet users out of a population of about 3 
+million; this is lowest of any region in China.  The Southwest's 
+14 percent Internet penetration rate is less than half of the 
+CINIC's calculated national average of 24 percent. 
+ 
+ 
+ 
+¶4.  (SBU) More than one million users in Chengdu connect to the 
+Net using an ADSL (asymmetrical digital subscriber line) 
+provided by China Telecom.  Chengdu News reported in mid-2008 
+that number of users is growing at a rate of 1,000 customers per 
+day.  Broadband service levels vary, and users pay higher 
+monthly access fees to obtain greater bandwidth.  In Chengdu, 
+subscribers at the lowest monthly rate, around $14 USD per 
+month, have their download speeds capped at 512 kilobits per 
+second (kbps).  For roughly double the price, a user can get 
+four times the speed.  Even at higher service levels, downloads 
+are still often very slow.  China Telecom announced in March 
+that they would raise bandwidth caps free of charge for any 
+customer with a 1,500 kbps or slower connection who called in to 
+request an upgrade.  Posts on a popular Chinese website, Baidu, 
+indicate that broadband service in southern Sichuan city of 
+Panzhihua and the heavily Tibetan prefecture Ganzi is cheaper 
+than in Chengdu. 
+ 
+ 
+ 
+Connections Fast Within Chengdu But Then Decline Markedly 
+ 
+--------------------------------------------- ------------ 
+ 
+ 
+ 
+¶5.  (SBU) Despite claims of high speed access, users experience 
+much slower speeds.  Sometimes broadband download speeds are 
+lower than speeds a user might obtain using a dial-up modem. 
+Congenoff recently used web-based software (www.linkwan.com) to 
+measure download speeds at a local Internet cafe.  The recently 
+remodeled cafe has computers purchased in March and caters 
+heavily to online video gaming clients, who demand fast 
+connections.  Congenoff found at the cafe that download speeds 
+for sites based in Chengdu averaged over 4,000 kbps.  Average 
+download speeds for sites outside the city declined by 
+two-thirds or more.  The second fastest downloads were seen for 
+some sites in Hong Kong averaging 1,200 kbps.  Speeds to sites 
+hosted in Mianyang, a city northwest of Chengdu, averaged just 
+704 kbps.  Downloads from Beijing were 339 kbps, while speeds 
+from Seattle, Los Angeles, and Washington DC averaged under 100 
+ 
+CHENGDU 00000082  002.2 OF 002 
+ 
+ 
+kbps.  During separate tests from a different location, 
+downloads averaged around 150 kbps from U.S. sites. 
+ 
+ 
+ 
+¶6.  (SBU) Excessive numbers of user sharing bandwidth on the 
+ADSL likely contributes to the slow download speeds.  Congenoff 
+was told by China Telecom in March that slow speeds for even the 
+fastest service level were the result of high numbers of users 
+during peak usage periods in the early evening hours.  User 
+reports that connection speeds are better in the morning hours 
+before eight o'clock seem to confirm the peak usage explanation, 
+but the large and expanding ADSL customer base probably accounts 
+for sluggish speeds during non-peak hour. 
+ 
+ 
+ 
+A False Dawn For Fast 3G Wireless Networks? 
+ 
+------------------------------------------- 
+ 
+ 
+ 
+¶7.  (SBU) Chengdu officials earlier this year announced the 
+arrival of third generation (3G) wireless networks, which may 
+enable wireless data rates similar to broadband.  The deputy 
+chief of the Telecommunications Administration Bureau, Chen 
+Jiachun, projected that China would have 150 million 3G users 
+within three years.  3G networks are already deployed in 13 
+cities in Sichuan, and China Telecom plans to have networks 
+running in every county and major township by early July, 
+according to the Chengdu Evening News.  Wireless 3G cards for 
+laptop and desktop computers are widely available in Chengdu 
+stores from about USD 60.  Congenoff recently had a chance to 
+use the Zhongxing Telecommunication Company (ZTE) AC8710 EV-DO, 
+a USB-type 3G card retails for about $70 USD.  3G card users 
+must also purchase a cellular phone SIM card to access the 
+network, which cost roughly $15 USD per month. 
+ 
+ 
+ 
+¶8.  (SBU) During a stationary test in downtown Chengdu using the 
+ZTE card, download speeds from websites hosted in the city were 
+approximately 490 kbps.  As with the ADSL network, accessing 
+sites hosted in the U.S. was much slower than sites hosted in 
+Chengdu.  Speeds to the U.S. during one test were too slow for 
+Congenoff to access the broadband speed metering software on 
+SpeakEasy.net.  Websites like ESPN loaded, but connection speeds 
+did not permit continuous streaming of video clips.  Two 
+employees at a local electronics market said that they thought 
+speeds would improve over time.  Another vendor said that the 
+network was not "stabilized yet," suggesting that she also 
+thought speeds might improve.  None of the three suggested 
+specific expansion plans or reasons why they thought speeds 
+would increase. 
+BOUGHNER

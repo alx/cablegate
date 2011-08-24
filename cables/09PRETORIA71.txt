@@ -1,0 +1,556 @@
+09PRETORIA71
+QUARTERLY REVIEW OF THE SOUTH AFRICAN ECONOMY WITH KEY
+Wed Jan 14 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Pretoria
+VZCZCXRO6680
+RR RUEHBZ RUEHDU RUEHJO RUEHMR RUEHRN
+DE RUEHSA #0071/01 0141503
+ZNR UUUUU ZZH
+R 141503Z JAN 09
+FM AMEMBASSY PRETORIA
+TO RUEHC/SECSTATE WASHDC 6975
+RUCPCIM/CIMS NTDB WASHDC
+INFO RUCNSAD/SOUTHERN AF DEVELOPMENT COMMUNITY COLLECTIVE
+RUCPDC/DEPT OF COMMERCE WASHDC
+RUEATRS/DEPARTMENT OF TREASURY WASHDCUNCLAS SECTION 01 OF 06 PRETORIA 000071 
+ 
+DEPT FOR AF/S; AF/EPS; EB/TPP 
+USDOC FOR 4510/ITA/IEP/ANESA/OA/JDIEMOND 
+TREASURY FOR TRINA RAND 
+DEPT PASS USTR FOR PCOLEMAN 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN EINV EMIN ENRG ETRD BEXP KTDB SF
+SUBJECT: QUARTERLY REVIEW OF THE SOUTH AFRICAN ECONOMY WITH KEY 
+ECONOMIC STATISTICS 
+ 
+REF: STATE 08 134905 
+ 
+¶1. (U) Summary:  The deterioration in the global economic landscape 
+affected South Africa's third quarter 2008 economic performance. 
+Weaker international demand, falling commodity prices, and the tight 
+domestic economic environment resulted in the lowest quarterly real 
+GDP growth in ten years. Unemployment increased from 23.1 percent in 
+the second quarter to 23.2 percent in the third quarter.  The 
+current account deficit increased from 7.3 percent of GDP in the 
+second quarter to 7.9 percent in the third quarter.  A combination 
+of direct and other investment inflows financed the current account 
+deficit in the third quarter, while portfolio investment switched to 
+a net outflow.  The outflow was prompted by global financial risk 
+and a reduction in commodity prices, which also resulted in a 
+significant depreciation in the rand during September and a 
+subsequent fluctuation around lower levels.  Uncertainty and 
+volatility in global financial markets also affected the South 
+African Reserve Bank's reserve accumulation which led to a slight 
+decrease in foreign reserves in the third quarter of 2008. 
+CPIX-inflation peaked at 13.6 percent in August, before decelerating 
+to 12.1 percent in November, while growth in the broadly defined M3 
+money supply and credit extensions to the private sector also 
+decelerated further in the third quarter.  Declining inflation and 
+credit demand together with weakening domestic and international 
+economic conditions allowed the South African Reserve Bank's 
+Monetary Policy Committee (MPC) to reduce interest rates by 50 basis 
+points in December.  End Summary. 
+ 
+The sources for the following tables are from the South African 
+Reserve Bank (SARB), Statistics SA, and the Customs Department of 
+the South African Revenue Service.  Some figures from previous 
+months may have changed as the result of statistical revisions. 
+ 
+------------------ 
+¶I. MONTHLY FIGURES 
+------------------ 
+ 
+¶2.  EXCHANGE RATES 
+Rand/US Dollar Exchange Rate (monthly average): 
+ 
+ 2007            2008 
+Sep 7.13       Jan 6.99       May 7.62      Sep  8.05 
+Oct 6.77       Feb 7.64       Jun 7.92      Oct  9.67 
+Nov 6.70       Mar 7.98       Jul 7.64      Nov 10.12 
+Dec 6.83       Apr 7.79       Aug 7.66      Dec  9.94 
+ 
+Trade-Weighted Rand (monthly average; 2000 = 100): 
+ 
+2007            2008 
+Sep 75.82      Jan 74.68     May 66.29     Sep 66.11 
+Oct 78.65      Feb 67.98     Jun 63.85     Oct 57.32 
+Nov 77.92      Mar 63.13     Jul 65.69     Nov 56.61 
+Dec 77.03      Apr 64.31     Aug 67.66     Dec 56.73 
+ 
+Comment: The rand depreciated by 31.5 percent against the dollar and 
+25.2 percent against the trade-weighted average exchange rate of the 
+rand in 2008.  The sharp decline in the exchange rate was caused by 
+global financial turmoil, with investors rechanneling funds to 
+familiar, mature markets, as well as by the drop in international 
+commodity prices, which constitute a large percentage of South 
+Africa's exports.  The significant appreciation of the US dollar 
+resulted from increased investment in US assets by risk-averse 
+investors.  The movement in the rand was not unique as most 
+commodity-producing, emerging-market countries with large 
+current-account deficits experienced significant declines in their 
+currencies.  End Comment. 
+ 
+¶3.  INFLATION (year-on-year, not seasonally adjusted) 
+Q3.  INFLATION (year-on-year, not seasonally adjusted) 
+         2008 
+         Jul      Aug      Sep      Oct     Nov 
+CPI      13.4     13.7     13.1     12.1    11.8 
+CPIX     13.0     13.6     13.0     12.4    12.1 
+PPI      18.9     19.1     16.0     14.5    12.6 
+ 
+Comment:  Almost all inflation-targeting countries, including South 
+Africa, continue to experience inflation rates in excess of their 
+inflation targets. South Africa's inflation was primarily driven by 
+the rising prices of energy and food.  CPIX-inflation (CPI minus 
+mortgage interest) peaked at 13.6 percent in August, more than 
+double the upper limit of the inflation target range of 3 to 6 
+percent, before decelerating to 12.1 percent in November.  Producer 
+price inflation was 19.1 percent in August, the highest rate in 22 
+years, before decelerating to 12.6 percent in November.  The 
+Monetary Policy Committee's (MPC's) most recent central inflation 
+ 
+PRETORIA 00000071  002 OF 006 
+ 
+ 
+forecast projects that inflation will continue its downward 
+trajectory and return to within the target range in the third 
+quarter of 2009.  Inflation is expected to average 6.2 percent and 
+5.6 percent in 2009 and 2010, respectively.  Monthly inflation is 
+expected to drop by as mush as 3 percent in early 2009, when StatsSA 
+implements a new inflation basket that gives less importance to food 
+and fuel costs.  The MPC highlighted the exchange rate as the most 
+significant upside risk to the inflation outlook.  End Comment. 
+ 
+¶4. MONEY AGGREGATES (percentage change over 12 months) 
+         2008 
+         Jul      Aug      Sep      Oct      Nov 
+M1       7.64     2.40     4.57     4.67     2.61 
+M2      13.86     9.45    10.17    11.61    11.76 
+M3      18.10    15.42    15.23    15.59    16.26 
+ 
+Comment: After a two-year period of high growth in the broadly 
+defined money supply (M3), some moderation set in towards the end of 
+2007 and became more pronounced in 2008.  The deceleration in M3 
+growth reflected tighter credit conditions, diminishing wealth 
+effects as asset prices receded, and slower underlying growth in 
+income and expenditure.  End Comment. 
+ 
+¶5.  DOMESTIC CREDIT EXTENSION TO THE PRIVATE SECTOR (percentage 
+change over 12 months) 
+     2008 
+     Jul       Aug       Sep       Oct       Nov 
+    19.43     18.52     16.28     16.36     15.30 
+ 
+Comment: Growth in private sector credit extension continued to 
+moderate amid tougher economic conditions and tighter credit 
+conditions.  The progressive tightening in the monetary policy 
+stance, which began in the middle of 2006, has slowly but surely 
+reduced credit demand by households and corporate sectors. 
+Furthermore, consumers' purchasing power was eroded by inflation, 
+household balance sheets were undermined by stagnant house prices 
+and volatile financial markets, and lending standards were raised by 
+the National Credit Act (NCA).  Economists believe this downward 
+trend in credit extension will continue in 2009.  In a typical 
+credit cycle, credit growth starts rising only 12 to 18 months after 
+the first cut in interest rates.  Consequently, the December 
+interest rate cut is not expected to bolster credit growth until the 
+first half of 2010.  However, some economists expect that the 2010 
+World Cup may cause a "feel good" reaction that would accelerate the 
+expected consumer response to lower interest rates.  End Comment. 
+ 
+¶6.  KEY INTEREST RATES (at end of month) 
+ 
+2007             Aug     Sep     Oct     Nov      Dec 
+ 
+SARB Repo Rate   12.00   12.00   12.00   12.00   11.50 
+ 
+Prime Overdraft  15.50   15.50   15.50   15.50   15.00 
+Rate 
+ 
+Comment:  The South African Reserve Bank's Monetary Policy Committee 
+(MPC) reduced the key policy interest rate, the repo rate, by 50 
+basis points to 11.5 percent in December, ending a period of 
+unchanged monetary policy during its August and October meetings. 
+The rate cut was made possible by declining domestic inflation and 
+weakening domestic and international demand.  Most analysts believe 
+there will be further interest rate cuts in 2009.  End Comment. 
+ 
+¶7.  MERCHANDISE TRADE ACCOUNT (R millions) 
+------------------------------------------ 
+ 
+2008        EXPORTS       IMPORTS      TRADE BALANCE 
+Jan         39,356.8      49,573.2      -10,216.4 
+Feb         46,946.3      52,766.1       -5,819.8 
+QFeb         46,946.3      52,766.1       -5,819.8 
+Mar         51,150.9      56,181.0       -5,030.1 
+Apr         56,174.3      66,169.0       -9,994.7 
+May         56,240.5      57,900.0       -1,659.5 
+Jun         60,159.9      60,343.8         -183.9 
+Jul         61,268.2      75,599.6      -14,331.4 
+Aug         60,390.9      65,514.4       -5,123.5 
+Sep         61,067.3      68,179.2       -7,111.9 
+Oct         65,652.6      75,445.3       -9,792.7 
+Nov         53,877.9      65,944.3      -12,066.4 
+TOTAL (1)  609,463.0     693,641.2      -84,178.2 
+ 
+JAN - NOV 2007 
+TOTAL (1)  449,357.9     517,410.7      -68,052.7 
+ 
+(1) Total After Adjustments (year-to-date) 
+ 
+PRETORIA 00000071  003 OF 006 
+ 
+ 
+ 
+Comment:  The trade balance improved during the first half of the 
+year as a result of growing merchandise exports, but deteriorated 
+during the second half due to rising imports.  Merchandise export 
+growth stagnated in the third quarter due the slowdown in global 
+demand and the substantial decline in international commodity 
+prices.  Sluggish growth in export volumes was recorded in the 
+subcategory for motor vehicles and transport equipment, while the 
+volume of exported machinery, electrical equipment and precious 
+metals receded in the third quarter.  Merchandise imports increased 
+in the third quarter despite the moderation in domestic economic 
+activity and more stringent international credit conditions. 
+Economists expect the trade balance to narrow in 2009 as weak 
+domestic spending contains import volumes and the global recession 
+keeps import prices under control.  Export volumes and prices will 
+also be impacted by the global downturn, but exporters will receive 
+some support from a weaker rand.  End Comment. 
+ 
+¶8. FOREIGN RESERVES ($ billions) 
+-------------------------------- 
+                     2008 
+                     Jul    Aug    Sep    Oct    Nov 
+SARB Gross Gold and 
+Foreign Reserves    35.00  34.33  34.42  32.91  33.22 
+SARB Net Open Forward 
+Position            34.17  33.50  33.64  32.11  32.58 
+ 
+ 
+Comment:  South Africa's gross foreign reserves decreased slightly 
+in the third quarter of 2008. Valuation changes rather than outflows 
+caused these declines.  Uncertainty and volatility in global 
+financial markets inhibited the SARB's natural tendency to 
+accumulate reserves.  Economists expect South Africa's reserve 
+position to remain under pressure in 2009, given the weakness of the 
+rand and volatility in financial markets.  End Comment. 
+ 
+--------------------- 
+II. QUARTERLY FIGURES 
+--------------------- 
+ 
+¶9. REAL GROSS DOMESTIC PRODUCT (percent change, seasonally adjusted 
+and annualized) 
+--------------------------------------------- ------ 
+                    2007          2008 
+                     Q3     Q4    Q1     Q2     Q3 
+--------------------------------------------- ------ 
+Primary Sector      1.7    1.2  -14.5   19.2   -0.5 
+Agriculture         7.1   15.5   16.2   19.4   16.1 
+Mining             -0.4   -4.4  -25.8   19.2   -8.0 
+ 
+Secondary Sector    1.6    9.4    1.2   11.8   -2.6 
+Manufacturing      -1.4    9.0   -0.6   14.3   -6.9 
+Electricity         3.6   -0.8   -5.8   -2.1    3.0 
+Construction       15.5   17.8   13.9    9.1   15.0 
+ 
+Tertiary Sector     6.1    4.7    3.7    1.6    1.5 
+Trade & catering    4.4    2.0    4.1   -4.0   -6.9 
+Transport & Comm.   4.5    3.6    3.4    4.3    4.5 
+Finance            10.4    8.0    2.6    3.3    3.2 
+Government          3.7    4.3    4.6    2.5    3.9 
+--------------------------------------------- ------ 
+TOTAL               4.5    5.4    1.6    5.1    0.2 
+--------------------------------------------- ------ 
+ 
+Comment: South Africa's real GDP growth slowed noticeably in the 
+third quarter of 2008, recording the lowest quarterly growth rate in 
+ten years.  The sluggish growth was visible in all the major 
+goods-producing sectors of the economy. 
+ 
+Primary sector:  The decline in economic activity in the primary 
+sector in the third quarter was primarily the result of a decline in 
+mining production, in particular, in platinum-group metals, gold, 
+Qmining production, in particular, in platinum-group metals, gold, 
+diamonds, and coal.  Lower growth in the third quarter also 
+reflected the statistical effect of the high base established in the 
+second quarter, and was exacerbated by weaker international demand 
+and falling commodity prices.  Platinum output was adversely 
+affected by intensive maintenance programs usually conducted in 
+February, safety-related shutdowns and one-day strikes.  In 
+contrast, the agricultural sector made a positive contribution to 
+overall growth in the third quarter, benefiting from increased 
+planting of field crops and bolstered by favorable weather 
+conditions. 
+The result was a bumper maize crop. 
+ 
+ 
+PRETORIA 00000071  004 OF 006 
+ 
+ 
+Secondary sector:  Growth in the secondary sector turned negative in 
+the third quarter, mainly due to a decline in manufacturing output. 
+The decline in manufacturing was caused by slowing domestic demand, 
+falling commodity prices, and decelerating global economic growth. 
+Notably slower growth was observed in the subsectors for motor 
+vehicles, parts and accessories, textiles, clothing, leather and 
+footwear, and food and beverages.  The domestic demand for these 
+products was probably affected by the sluggish growth in real 
+income, higher interest rates, and already high debt levels, which 
+inhibited the take-up of more credit.  However, the construction 
+sector remained buoyant in the third quarter, benefiting from the 
+upgrading of existing infrastructure and large projects such as the 
+Gautrain, power stations, roads, sport stadiums and related 
+infrastructure developments for the 2010 FIFA World Cup under 
+construction. 
+ 
+Tertiary sector:  The slower pace of growth in the tertiary sector 
+reflected a slowdown in the trade sector.  This sector slipped into 
+a technical recession following negative growth in the second and 
+third quarters.  Tighter credit conditions and inflationary 
+pressures negatively affected consumer spending and consumer 
+confidence levels in the third quarter of 2008.  Growth in the 
+financial services sector, the largest sector of the economy, 
+moderated marginally in the third quarter.  This was due to a 
+moderation in the real output in the banking sector, which was 
+partly offset by higher trading volumes in equities, bonds and other 
+financial market instruments, as investors repositioned themselves 
+in a volatile market.  The increase value added in the general 
+government sector was largely due to increased employment in the 
+sector.  End Comment. 
+ 
+¶10. BALANCE ON CURRENT ACCOUNT (R millions) 
+--------------------------------------------- ------- 
+                    2007      2008 
+                    Q4        Q1       Q2      Q3 
+--------------------------------------------- ------- 
+Merchandise Exp.  133,320  138,082  172,201  178,975 
+ 
+Net Gold Exports   11,268   11,516   11,877   10,239 
+ 
+Merchandise Imp.  152,260  161,474  188,411  204,626 
+ 
+Income Payments    33,497   31,608   29,566   34,380 
+ 
+Service payment    30,418   30,579   36,642   36,241 
+--------------------------------------------- ------- 
+Current Account   -37,431  -42,773  -40,485  -52,827 
+--------------------------------------------- ------- 
+Current Account 
+Deficit/GDP        -7.2     -9.2     -7.3     -7.9 
+(percentage) 
+ 
+Comment: The widening deficit on the current account in the third 
+quarter reflected the impact of the slowdown in global economic 
+activity and a substantial decline in international commodity prices 
+as well as an increase in merchandise imports.  The decline in 
+global demand affected both the volume and prices of merchandise 
+exports adversely.  Over the same period, the growth in the value of 
+merchandise imports also slowed alongside the moderation in domestic 
+economic activity and more stringent international credit 
+conditions.  The trade deficit was further exacerbated by higher 
+income payments accruing to non-resident investors on their 
+investment in domestic securities.  End Comment. 
+ 
+¶11. BALANCE ON FINANCIAL ACCOUNT (R millions) 
+--------------------------------------------- -------- 
+Q-------------------------------------------- --------- 
+                      2007      2008 
+                       Q4       Q1      Q2        Q3 
+--------------------------------------------- -------- 
+Direct Investment     7,401   35,432   1,310   16,920 
+ 
+Portfolio Investment -6,055  -20,572  22,466  -12,970 
+ 
+Other Investment     35,280   40,525  14,798   20,550 
+--------------------------------------------- --------- 
+Financial Account    36,507   55,385  38,574   24,500 
+--------------------------------------------- --------- 
+ 
+Comment:  South Africa continued to attract capital inflows to 
+finance the current account deficit in the third quarter of 2008. 
+As in the first quarter of 2008, when portfolio investments turned 
+negative, capital inflows in the third quarter were from direct and 
+other investment capital.  The outflow of portfolio capital 
+reflected conditions in the global capital markets where foreign 
+ 
+PRETORIA 00000071  005 OF 006 
+ 
+ 
+investors limited their exposure to emerging-market assets and 
+transferred funds to familiar home markets.  Other investment flows 
+consisted mainly of short-term foreign loans drawn upon by South 
+African banks, as well as non-resident investors' foreign-currency 
+denominated deposits with these banks.  End Comment. 
+ 
+¶12.  KEY LABOR MARKET VARIABLES (thousand) 
+------------------------------------------- 
+                     2007      2008 
+                     Sep       Q1       Q2      Q3 
+--------------------------------------------- -------- 
+Employed           13,234    13,623   13,729   13,655 
+Unemployed          3,945     4,191    4,114    4,122 
+Total Labor Force  17,178    17,814   17,844   17,777 
+Not Econ. Active   13,235    12,794   12,861   13,024 
+Population 15-64   30,413    30,608   30,705   30,801 
+--------------------------------------------- -------- 
+Unemployment rate   23.0      23.5     23.1     23.2 
+(percentage) 
+ 
+Absorption rate     43.5      44.5     44.7     44.3 
+(Employed/population ratio) 
+ 
+ 
+Comment: Unemployment in South Africa increased from 23.1 percent in 
+the second quarter of 2008 to 23.2 percent in the third quarter. 
+The number of employed persons decreased by 74,000 to 13.6 million. 
+The decrease in employment was primarily due to a drop in informal 
+sector employment, which more than offset a gain of 24,000 new jobs 
+in the formal sector and the creation of 89,000 new jobs by private 
+households.  The prospect of slower economic growth in 2009 will 
+slow employment growth and result in job losses in some sectors of 
+the economy.  End Comment. 
+ 
+------------------ 
+III. ANNUAL FIGURES 
+------------------ 
+ 
+¶13. GROSS DOMESTIC PRODUCT 
+(R millions, at market prices) 
+--------------------------------------------- ---- 
+                   2005        2006        2007 
+--------------------------------------------- ----- 
+ Nominal GDP    1,543,976    1,745,217   1,999,086 
+ 
+--------------------------------------------- ----- 
+GDP Growth Rate    5.0         5.3         5.1 
+(constant 2000 prices, y-o-y growth percentage) 
+ 
+Comment:  Strong growth in 2007 was due to high commodity prices, 
+strong domestic consumer demand, and increased fixed capital 
+investment.  Economists expect economic growth to have slowed to 
+between 3 percent and 4 percent in 2008.  This slowdown is due to 
+the sustained monetary policy tightening since mid-2006, energy 
+supply constraints, and slower global growth.  End Comment. 
+ 
+¶14.  FINANCING OF GROSS CAPITAL FORMATION (R millions) 
+--------------------------------------------- -------- 
+                           2005      2006      2007 
+--------------------------------------------- ------- 
+ 
+Savings by Households      1,296    -5,088    -6,827 
+ 
+Corporate Savings         40,265    29,322    14,914 
+ 
+Government Savings       -12,217     5,953    27,810 
+ 
+Consumption of fixed     190,705   219,506   256,373 
+capital 
+--------------------------------------------- ------- 
+Gross savings            220,049   249,693   292,270 
+ 
+ 
+Foreign Investment        62,179   110,198   146,076 
+--------------------------------------------- ------- 
+Gross Capital Formation  282,228   359,891   438,346 
+--------------------------------------------- ------- 
+ 
+Gross 
+Savings/GDP               14.3      14.3       14.6 
+(percentage) 
+ 
+Dependence on Foreign     22.0      30.6       33.3 
+QDependence on Foreign     22.0      30.6       33.3 
+Investment 
+ 
+PRETORIA 00000071  006 OF 006 
+ 
+ 
+ 
+Foreign Investment/GDP     4.0       6.3        7.3 
+(percentage) 
+ 
+Gross Capital 
+Formation/GDP             17.1      18.8       21.1 
+(percentage) 
+ 
+Comment:  The savings rates for households and corporations 
+continued to decline, while the government increased its savings 
+rate in 2007.  The government's higher savings rate was mainly due 
+to an increase in tax revenue which more than offset growth in 
+expenditure.  Notwithstanding the minor improvement in the national 
+savings/GDP ratio, South Africa's dependence on foreign capital to 
+finance gross capital formation increased to its highest rate ever 
+in 2007.  Investment programs by private business enterprises, 
+public corporations, and the general government boosted growth in 
+gross capital formation.  The ratio of gross capital formation to 
+GDP increased to its highest level since 1985 and is approaching the 
+SAG's target of 25 percent.  Government savings are expected to 
+decrease, if not end, in 2009, adding to even greater dependence on 
+foreign capital to finance gross capital formation.  End Comment 
+ 
+¶15.  NATIONAL BUDGET (R billions) 
+--------------------------------- 
+ 
+Fiscal Year Ending 31 March: 
+                        2005    2006     2007   2008 
+--------------------------------------------- ------- 
+Total Revenue          347.4   411.2   482.7   559.8 
+Total Expenditure      368.6   416.8   470.2   541.7 
+Budget Balance         -21.2    -5.6    12.5    18.1 
+--------------------------------------------- ------- 
+ 
+Budget Balance/GDP      -1.5    -0.4     0.7     0.9 
+ 
+Comment:  The fiscal surplus in 2008, only the second since 1960, 
+was the result of a large increase in tax revenue (owing to strong 
+economic activity and stepped up revenue enforcement) that was only 
+partly absorbed by additional expenditure.  The fiscal surplus is 
+expected to decline, if not disappear in 2009.  End Comment. 
+ 
+¶16.  GOVERNMENT DEBT (R billions) 
+--------------------------------- 
+ 
+Fiscal Year Ending 31 March: 
+                      2005    2006     2007      2008 
+--------------------------------------------- -------- 
+Total Debt           501.7    528.5    551.9    571.7 
+  of Which: 
+   -- Domestic       431.8    461.2    469.0    475.2 
+   -- Foreign         69.4     66.8     82.6     96.2 
+   -- Other debt       0.5      0.4      0.3      0.2 
+ 
+Debt Service Cost     48.9     50.9     52.2     52.8 
+--------------------------------------------- -------- 
+Government Debt/GDP   36.8     33.2     28.9     25.4 
+(percentage) 
+ 
+Debt Service Cost/GDP    3.4      3.2      2.9      2.6 
+(percentage) 
+ 
+Comment: The decline in government debt as a percentage of GDP can 
+be attributed to the rapid growth of the economy and the creation of 
+a fiscal surplus.  Debt service costs have shown a steadily 
+declining trend since peaking at 5.6 percent of GDP in the 1999 
+fiscal year.  The decline in debt service costs has created the 
+necessary "fiscal space" to finance social priorities.  As a result, 
+government spending on social priorities has more than doubled since 
+¶2003.  End Comment. 
+ 
+--------------------------------------------- -------- 
+ 
+For additional information please consult the following websites: 
+ 
+South African Reserve Bank  
+South African Revenue Service  
+Statistics South Africa  
+QStatistics South Africa  
+National Treasury  
+ 
+BOST

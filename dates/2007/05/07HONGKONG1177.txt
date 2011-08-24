@@ -1,0 +1,99 @@
+07HONGKONG1177
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Tue May 01 00:00:00 +0200 2007
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHHK #1177 1210313
+ZNR UUUUU ZZH
+R 010313Z MAY 07 ZDK
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 1474
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001177 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LHINES/DFARROW 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+TECHCOMP LIMITED 
+ 
+REF: A) USDOC 03318 
+ 
+1.Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO) conducted a post shipment- 
+verification at Techcomp Limited, 6/F, Mita Centre, 
+552-556 Castle Peak Road,Kwai Chug, Kowloon, Hong 
+Kong (Techcomp).  The tem in question is a GENESIS 
+XM2, EDS, KIT, DPP-I exported to Techcomp on or about 
+February 18, 007 and valued at USD 36,000.  On the 
+applicableshippers export declaration (SED), the item 
+is classified as 3A999.  Items properly classified as 
+3A999 may be exported/reexported to virtually all 
+destinations and end-users worldwide, license free, 
+except for certain designated state sponsors of 
+terrorism (including North Korea).  The exporter was 
+Edax, Inc. of Mahwah, New Jersey. 
+ 
+¶3.  According to the Hong Kong Companies Registry, 
+Techcomp has been in existence since 1991.  Its paid-up 
+share capital is the Hong Kong equivalent of 
+approximately USD 1.2 million.  The Commercial Registry 
+lists Hong Kong ID holders Wai Shing Chan and Yat Keung 
+Lo as directors.  Techcomp has affiliated offices in 
+China and Singapore.  (more information at 
+www.techcomp.com.hk). 
+ 
+¶4.  On April 24, 2007, the ECO met with Mr. Wilson 
+Wong, Shipping and Logistics Manager who provided 
+detail about Techcomp (much of it included on the web 
+site referenced above).  Techcomp Holdings Limited is 
+engaged in the design, development, manufacture and 
+distribution of analytical instruments, life science 
+equipment and laboratory instruments.  Techcomp 
+Holdings Limited is a Singapore listed company with a 
+range of liaison offices in mainland China as well as 
+subsidiaries in Hong Kong and Singapore.  The Singapore 
+office is responsible for operations and sales in 
+Southeast Asia and covers India, Pakistan, Vietnam, 
+Thailand, the Philippines, and the UAE, among others. 
+Roughly 90% of Techcomp's products are sold into 
+mainland China.  Mr. Wong stated that Techcomp does 
+little trade in items included on Hong Kong's strategic 
+commodities list. 
+ 
+¶5.  As to the specific item in question, Mr. Wong 
+provided copies of the relevant shipping documents 
+showing that the item had been received in Hong Kong 
+and was subsequently shipped to mainland China.  The 
+end-user is TPK Optical Solutions Inc. (Xiamen), a 
+touch-screen manufacturer. 
+ 
+¶6.  At the time visited, Techcomp appeared to be a 
+suitable recipient of the commodities shipped (as 
+reseller) since Techcomp cooperated with the PSV and 
+provided all requested information concerning the final 
+disposition of the applicable items.  At the same time, 
+the ECO was not able to inspect the subject items as 
+they had already been delivered to Techcomp's customer. 
+ Consistent with guidance on reporting of PSVs where 
+the items cannot be physically inspected, the ECO 
+recommends that this PSV be classified as Limited. 
+ 
+Cunningham

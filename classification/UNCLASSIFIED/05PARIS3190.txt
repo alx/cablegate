@@ -1,0 +1,307 @@
+05PARIS3190
+FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR.
+Wed May 11 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Paris
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+111348Z May 05UNCLAS SECTION 01 OF 04 PARIS 003190 
+ 
+SIPDIS 
+ 
+DEPT FOR ECA/PE/V/R/E (CAROL GRABAUSKAS; STEVE TAYLOR); 
+EUR/PPD (LILLIAN DEVALCOURT) 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL FR
+SUBJECT: FY 2006 IVLP- NOMINATION AND PART I BIODATA FOR MR. 
+EMMANUEL VIVET - PRINCIPAL CANDIDATE FOR INDIVIDUAL PROGRAM. 
+ 
+REF: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: PaillardS@state.gov 
+TRANSMITTING-POST: PAS Paris 
+TRANSMITTING-POST-ID: 14544 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 283 
+ECA-PROJ-NO: 
+PROJ-NAME: FY 2006 - INDIVIDUAL Program - Emmanuel Vivet 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 
+SESSION-DATE: 
+RETURN-POST: 
+NO-OF-PART: 1 
+RANK-ORDER: 11 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1047 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 14544 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Aviation 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Emmanuel 
+M-NAME: 
+L-NAME: Vivet 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Direction Generale de l'Aviation Civile 
+M-ADDR2: 50, rue Henry Farman 
+M-ADDR3: 
+M-CITY: Paris 
+M-STATE: 
+M-CNTRY: France 
+M-ZONE: 75720 
+M-ZIP: 
+M-PHONE: + (33) 1.58.09.43.34 
+M-FAX: + (33) 1.58.09.38.65 
+M-EMAIL: emmanuel.vivet@aviation-civile.gouv.fr 
+M-CNTRY-ID: FR 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 02/08/1974 
+MAR-STAT: U 
+BIRTH-CITY: Chatenay Malabry 
+BIRTH-CNTRY: France 
+CITIZ-CNTRY: France 
+RES-CNTRY: France 
+START MEMO POSITION: 
+Head of Unit, Air Services Agreements, French Civil Aviation 
+Authority, since April 2002 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+First Assistant to the French Chief Negotiator for bilateral 
+and multilateral international aviation negotiations, French 
+Civil Aviation Authority 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+- August 2000-January 2001 - Six month civil service 
+assignment to the Prefecture of Cantal on the staff of the 
+Prefect, the central Government's representative in the 
+region; wrote Prefect's speeches, helped with local projects, 
+conceived and set up a web site, participated in police 
+activity. 
+- February 2000-July 2000 - Six month civil service assignment 
+at the French Embassy in Amman, Jordan, on the staff of the 
+French Ambassador to Jordan. Handled European affairs and 
+conducted in-depth studies on two population groups in Jordan. 
+- February 1999-December 1999 - French Naval Officer; Sea Duty 
+on-board French ship in the Indian Ocean. 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Washington D.C. - May 10-14, 2004 - French member of the 
+European Union negotiating team for negotiations with the U.S. 
+on European aviation area. 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+- South Korea, Singapore, India, Russia, Lebanon, Mauritius, 
+Yemen, Madagascar, Senegal, Slovakia, Colombia: since April 
+2002, professional trips on French Civil Aviation Authority' 
+negotiating team 
+- Jordan: February 2000-July 2000 - 6 month assignment to 
+French Embassy in Amman 
+- Uzbekistan: August 2002 - tourism 
+- Myanmar: January 1999 - tourism 
+- Morocco - 1997 - tourism 
+- Turkey, Syria, Jordan - 1996 - tourism 
+- Western European countries - tourism 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+2000-2002 - National School of Public Administration (ENA) 
+1996-1998 - Institute of Political Studies of Paris 
+1993-1996 - MBA - Graduate School of Business and Economic 
+Science (second ranking French business school; MBA degree 
+with a specialization in auditing and in town planning and 
+regional management) 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+- Negotiation instructor at the National School of Public 
+Administration (ENA) and at French industrial firms 
+- Competitive sailing team skipper 
+- Clarinetist in a Paris chamber orchestra 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: French 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START OTHER-LANGS: 
+OTHER-LANG: German 
+OTHER-LANG-ID: GM 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: Arabic 
+OTHER-LANG-ID: AR 
+READ: 0 
+SPEAK: 0 
+COMP: 0 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+Vivet plays a role now in U.S.-EU aviation issues, which is 
+part of Embassy Paris' MPP objectives related to economic 
+prosperity and security.  Successful air transport 
+negotiations with the EU will ensure continued and expanded 
+market access for U.S. air carriers. 
+In addition, Embassy Paris' MPP paper on Response to Terrorism 
+outlines the objectives of protecting U.S. citizens in part 
+through TSA and FAA's role in civil aviation security and 
+safety.  As Vivet rises through the ranks at the French civil 
+aviation authority, he will manage each of these issues and 
+deal directly with bilateral aviation safety and security 
+issues. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+Vivet would need to make the rounds of all the players in U.S. 
+aviation negotiations, which are led by State with the 
+participation of the Department of Transportation, Department 
+of Commerce, airlines and airline associations.  He should 
+meet with Congressional members or staff on committees with 
+oversight for aviation policy to get a grasp of legislative 
+input into the process.  He would also benefit from visits to, 
+and a better understanding of, our Federal Aviation 
+Administration and Transportation Security Administration. 
+Outside of this narrow focus, Vivet may be interested in 
+looking at policy changes under discussion in FAA and DOT per 
+recommendations from the International Civil Aviation 
+Organization (ICAO) with respect to oversight of Air Traffic 
+Control.  ICAO recommendations have recently led to a 
+reorganization of Vivet's agency, the General Directorate of 
+Civil Aviation (DGAC), in France.  Learning how major U.S. 
+airports deal with the challenge of noise abatement may be of 
+interest to him also.  DGAC and the GOF have made the issue a 
+high priority with mixed results for U.S. companies. 
+Trade policy officials in the U.S. could provide a forward- 
+looking view at trade-in-services agreements.  American 
+academics and business executives with a focus on the future 
+of the air transport industry (legacy carriers vs. low-cost), 
+or negotiation theory could provide insight into areas he 
+would want to explore.  In addition, a stop at Boeing with the 
+right officials would be important to show the other side of 
+the aircraft manufacturing subsidies debate.  In a broader 
+perspective, interaction with State governments for a better 
+general understanding of federalism would be in order. 
+On a personal side, Vivet is the skipper of an eight-main 
+sailing team in national competition and may want to 
+experience sailing in the U.S.  He is also an amateur musician 
+and supports a handicapped persons association. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Amy Westling 
+START MEMO NOMINATING-JUSTIFICATION: 
+Emmanuel Vivet is a promising civil servant who is smart, 
+ambitious and clearly destined for broader responsibilities in 
+French government beyond his current position of civil 
+aviation negotiator. 
+As a negotiator, Vivet has represented France in 7 of the 9 
+negotiating rounds between the European Union and the U.S. on 
+a US/EU open skies air transport agreement.  On internal EU 
+aviation issues, Vivet drafts positions for the French 
+Ambassador and his team at France's permanent representation 
+to the EU in Brussels and has participated in 35 bilateral air 
+services consultations between France and countries outside 
+the European Union.  In this position he prepares negotiations 
+by defining the French position in consultation with the 
+Ministry of Foreign Affairs and French airlines.  He takes the 
+floor in negotiations, drafts the MOUs and sends diplomatic 
+reports. 
+In my meetings with Vivet, he has demonstrated a mastery of 
+his aviation brief and the English language that is 
+impressive.  He demonstrates an outlook that is curious and 
+open to the world while he clearly articulates the logic 
+behind his government's positions.  His superiors have trusted 
+him with significant responsibility at a relatively young age. 
+Vivet is exactly the type of bright civil servant that we want 
+to expose to the complexities of the U.S. policy context.  For 
+the immediate future, an IV experience would give him a better 
+understanding of the interaction between the executive and 
+legislative branches and the influence of the private sector 
+in air services negotiations. 
+Partly because of fundamental differences between the U.S. and 
+France on the role of government in society, conventional 
+wisdom in France often dictates that U.S. policy be described 
+in simplistic and misguided terms.  Even intelligent, well- 
+educated people sometimes accept such generalizations because 
+they have no alternative reality to refute them.  The IV 
+program provides the opportunity to present the reality of the 
+U.S. in all its complexity.  Vivet is a prime candidate for 
+the experience because he is young, competent, open to other 
+points of view and undoubtedly will rise to a position of 
+authority in the French government.  Now and in the future, 
+his work needs to be informed by a more realistic picture of 
+how U.S. government and society work, a view that will 
+influence his official decisions. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ECON - U.S. Embassy Paris, France 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 570 
+PERSON-ID: 469 
+BIRTH-CNTRY-ID: FR 
+CITIZ-CNTRY-ID: FR 
+RES-CNTRY-ID: FR 
+FIRST-LANG-ID: FR 
+E-I-TYPE-ID: 
+NOM-POST-ID: 14544 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+  WOLFF

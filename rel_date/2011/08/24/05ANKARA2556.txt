@@ -1,0 +1,80 @@
+05ANKARA2556
+TGS REQUESTS UPDATED EADSIM SOFTWARE
+Wed May 04 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Ankara
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS ANKARA 002556 
+ 
+SIPDIS 
+ 
+STATE FOR EUR/SE 
+ 
+E.O. 12958: N/A 
+TAGS: MASS MARR TU
+SUBJECT: TGS REQUESTS UPDATED EADSIM SOFTWARE 
+ 
+¶1. Deputy PolMilCouns on May 3 received an original letter 
+from Colonel Ziyaeddin Ipekkan, Deputy Chief of the Turkish 
+General Staff (TGS) Scientific Division for forwarding to the 
+US Missile Defense Agency Modeling and Simulation Program 
+Director.  The letter requests US provision to TGS of EADSIM 
+version 12 software per the June 2001 Memorandum of 
+Understanding regarding Missile Defense Modeling and 
+Simulation.  We will pouch the original to MDA. 
+ 
+¶2. BEGIN TEXT OF LETTER: 
+ 
+REPUBLIC OF TURKEY 
+TURKISH GENERAL STAFF 
+ANKARA 
+ 
+ 
+13 April 2005 
+ 
+ 
+Mr. Richard S. MATLOCK 
+Program Director, Modeling and Simulation 
+Missile Defense Agency 
+7100 Defense Pentagon 
+Washington, DC  20301-7100 
+ 
+ 
+Mr. MATLOCK, 
+ 
+      The TGS Scientific Decision Support Center (SDSC) 
+currently uses Extended Air Defense Simulation (EADSIM) 
+version 11 R-06 for NATO Missile Defense (MD) Studies as a 
+member of Modeling and Simulation Team (MST) and Bilateral MD 
+Architecture Analysis Study under the terms and conditions of 
+the Memorandum of Understanding (MOU) signed between our 
+governments in June 2001. 
+ 
+      The aforementioned MOU enables TU to acquire and get 
+necessary services for current version of EADSIM until June 
+2008 via the consent of Missile Defense Agency (MDA). 
+ 
+      Within this context, I kindly request the release of 
+new version of EADSIM (v.12) to the TGS SDSC.  Please note 
+that the administrative paperwork e.g., user information 
+request, user site registration, MOU and Software Utility 
+Agreement for release of EADSIM, has already been completed 
+and sent to Teledyne Brown Engineering. 
+ 
+ 
+ 
+Sincerely, 
+ 
+ 
+// S  // 
+ 
+ 
+Ziyaeddin IPEKKAN 
+ 
+Colonel (TU Army) 
+ 
+Deputy Chief, TGS Scientific Decision 
+ 
+Support Center 
+ 
+END TEXT. 
+EDELMAN

@@ -1,0 +1,111 @@
+09HONGKONG2338
+EXTRANCHECK: POST SHIPMENT VERIFICATION: PEACEFUL VISION
+Wed Dec 23 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0022
+RR RUEHWEB
+
+DE RUEHHK #2338 3570703
+ZNR UUUUU ZZH
+R 230703Z DEC 09 ZDK
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9243
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 002338 
+ 
+USDOC FOR 532/OEA/ MCANNER 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: PEACEFUL VISION 
+ 
+REF: A) BIS e-mail request dated December 3, 2009 
+ 
+1.Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment verification (PSV) at Peaceful Vision, Ltd., Flat 
+13, 8/F, Block A, Hunghom Commercial Center, 39 Ma Tau Wai Road, 
+Hung Hom Hong Kong (Peaceful Vision). The items in question for this 
+PSV are various field programmable gate arrays exported to Peaceful 
+Vision on or about October 29, 2008.  These items are likely 
+classified under Export Control Classification Number (ECCN) 
+3A001a7a and are controlled for national security (NS) reasons. 
+This ECCN is eligible for shipment to Hong Kong license free and 
+eligible for license exception CIV (civil end use) to mainland 
+China. The exporter is Nu Horizons International of Southaven, 
+Massachusetts. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Peaceful Vision 
+has been in existence since 1996. Its paid up share capital is the 
+Hong Kong equivalent of USD 250,000.  The Hong Kong Companies 
+Registry lists Cen, Guan Hua and Lu, Jin Feng (both likely Mainland 
+nationals) as directors.  These two individuals do not appear to be 
+directors in any other Hong Kong registered companies. 
+ 
+¶4.  Web research reveals that Peaceful Vision is an electronics 
+reseller (www.peacefulv.com).  The company website states that the 
+company has several offices in mainland China as well as a European 
+office in Zaventem, Belgium.  In addition, the company website 
+provides that the company focuses on the military components 
+business around the world with an emphasis on aircraft, weapons, 
+ship and military industrial applications for domestic and 
+international customers.  Based on additional web research, it 
+appears that Peaceful Vision is related to additional companies, 
+Heng Star International, Yiu Star International and Ying Ke 
+Electronics (www.peaceful.icbuy.com). 
+ 
+¶5.  On December 17, 2009, ECO and FCS Commercial Assistant Carrie 
+Chan visited the company and met with Ms. Tong, salesperson.  Ms. 
+Tong had no business card to provide to ECO.  According to Ms. Tong, 
+Peaceful Vision is a trading company whose customers include other 
+trading companies in Hong Hong and China.  The company has 
+affiliates in other cities in China, including Shenzhen (where this 
+transaction originated).  Ms. Tong stated that the company acquires 
+components on behalf of customers based only on product numbers and 
+that she was not familiar with the end-users or end uses of these 
+items (or, for that matter, for most items Peaceful Vision 
+acquires).  Ms. Tong stated that virtually all customers are located 
+in Hong Kong and China although some have, in the past, been located 
+in the Philippines, Singapore and the United States. 
+ 
+¶6.  As to this particular order, Ms. Tong stated that she was 
+unaware of the end use of the items. She also stated that she did 
+not recall if Peaceful Vision had obtained the required Hong Kong 
+TID import license for these items (ECO does not believe such 
+license was obtained).  When asked about products in the military 
+temperature range, Ms. Tong stated that reference to such products 
+was done for trade promotion purposes (suggesting, ECO supposes, 
+that the company does not actively deal in these products). 
+Information independently obtained by ECO shows that Peaceful Vision 
+acquired (in 2008), electronic components rated for operation in the 
+military temperature range. 
+ 
+¶7.  Ms. Tong provided a purchase order and invoice for this order 
+listing the purchaser as Shenzhen Ke Ying.  She stated that this 
+customer picked up the items at Peaceful Vision's Hong Kong offices. 
+Ms. Tong did not clarify (as ECO subsequently surmised) that the 
+customer is an affiliate of Peaceful Vision (the customer fax number 
+is the same as the fax number for Peaceful Vision in Shenzhen).  Ms. 
+Tong stated that Peaceful Vision's Shenzhen office had generated the 
+Purchase Order directly to Nu Horizons.  As a result, Ms. Tong was 
+unaware whether an end user statement had been provided to Nu 
+Horizons in respect of this shipment. 
+ 
+¶8.  By separate e-mail, ECO relayed export control information 
+(including BIS and HKTID information) to Ms. Tong. 
+ 
+¶9.  Based on the circumstances of the EUC, ECO cannot recommend that 
+Peaceful Vision be considered a reliable recipient of U.S. origin 
+controlled technology.  ECO recommends that BIS reach out to the 
+exporter to determine what information it had on hand as to the end 
+use and end user prior to shipment to Peaceful Vision (in light of 
+Peaceful Vision's apparent focus on sales of military related ICs).

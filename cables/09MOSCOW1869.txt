@@ -1,0 +1,170 @@
+09MOSCOW1869
+INTERNET PIRACY: RUSSIAN LAW ENFORCEMENT SUCCESSFULLY TAKES
+Wed Jul 22 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Moscow
+VZCZCXRO3059
+RR RUEHAG RUEHAST RUEHDA RUEHDBU RUEHDF RUEHFL RUEHIK RUEHKW RUEHLA
+RUEHLN RUEHLZ RUEHNP RUEHPOD RUEHROV RUEHSK RUEHSL RUEHSR RUEHVK
+RUEHYG
+DE RUEHMO #1869/01 2030336
+ZNR UUUUU ZZH
+R 220336Z JUL 09
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/DEPT OF COMMERCE WASHDC
+RUEHC/SECSTATE WASHDC 4310
+RHMFIUU/DEPT OF JUSTICE WASHINGTON DC
+INFO RUCNCIS/CIS COLLECTIVE
+RUEHXD/MOSCOW POLITICAL COLLECTIVE
+RUEHZL/EUROPEAN POLITICAL COLLECTIVEUNCLAS SECTION 01 OF 02 MOSCOW 001869 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EUR/RUS(TUMINARO), EEB/IPE(URBAN) 
+STATE PLEASE PASS TO USTR KALVAREZ, PBURKHEAD 
+USDOC 4231 JBROUGHER 
+USPTO MSMITH 
+DOJ/CCIPS 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: PGOV ETRD KIPR ECON RS
+SUBJECT: INTERNET PIRACY: RUSSIAN LAW ENFORCEMENT SUCCESSFULLY TAKES 
+DOWN ILLEGAL WEBSITE 
+ 
+REF: MOSCOW 1439 
+ 
+ 
+¶1. (SBU) Summary.  Russian law enforcement, in collaboration with 
+local industry, conducted a raid against an Internet piracy release 
+group "Interfilm" and arrested the owners of their bit- torrent 
+site, "Interfilm.ru." The criminal action against this site is not 
+only the first in Russia since the infamous AllofMP3.com case in 
+2007, but is also the first successful take down of an illegal site 
+that offered films for download.  Authorities filed a criminal case 
+against Interfilm operators and are seeking the maximum prison 
+sentence of six years and fines upwards of $16,000 each.  Hoping 
+that the raid indicates a new trend in enforcing Internet piracy, 
+local industry is advocating for greater international cooperation 
+and IPR training, and pushing for changes in legislation which would 
+force Internet Service Providers to prevent illegal file-sharing. 
+End Summary. 
+ 
+---------- 
+Surprise Raid 
+---------- 
+ 
+¶2. (U) Early in the morning on May 26, Russian federal and local 
+Moscow law enforcement conducted a coordinated raid against the 
+"Interfilm" release group. The group operated Interfilm.ru, an 
+illegal website that utilized bit-torrent technology (a file-sharing 
+application effective for distributing large media files) and 
+offered unlicensed and pre-released movies. Thousands of American 
+and Russian movie titles were available for download.  The site 
+targeted not only a Russian audience, but also the Baltics and 
+former Soviet markets as well. In addition, "Interfilm" had 
+agreements with three other illegal release groups for exchanging 
+newly-pirated titles on other Internet sites. 
+ 
+¶3. (SBU) Dozens of law enforcement officials took part in the raid, 
+including officials from the Ministry of Interior's Cyber Crimes 
+Unit (also known as "Department K") and the MVD's Investigative 
+Committee, as well as representatives from the Russian Anti-Piracy 
+Organization (RAPO), which represents the interests of the Motion 
+Picture Association. During the raid, several people were arrested, 
+including the website owners, a man and his wife, who were known 
+only by aliases, "Ripper" and "Nadezhda." According to industry, the 
+couple grossed more than $32,000 in the two years they managed the 
+website. RAPO told us that while it took Russian law enforcement 
+months to plan it, the raid was a surprise.  Upon entering the 
+residence, police and RAPO representatives found the computers still 
+on, and seized vital evidence for further examination and analysis. 
+Authorities filed a criminal case against Interfilm operators and 
+are seeking the maximum prison sentence of six years and fines 
+upwards of $16,000 each. 
+ 
+---------- 
+International Connections 
+---------- 
+ 
+¶4. (U) Internet pirates tend to "spread out" internationally, making 
+enforcement more difficult. Interfilm.ru was no exception.  The site 
+was hosted by a Dutch ISP, Leaseweb. Payment to Leaseweb for hosting 
+the site came from Ukraine via the U.S.-based e-commerce website 
+Paypal. Immediately following the raid in Moscow, a Dutch trade 
+association, BREIN, representing the recording industry and movie 
+studios, submitted a "take-down" request to Leaseweb. Leaseweb 
+complied with the request and took down the site. However, the site 
+later re-opened for business in the Netherlands under a new name. 
+ 
+¶5. (SBU) This raid and take-down represents the GOR's first action 
+against any illegal Internet site since the infamous case of 
+AllofMP3.com, an illegal on-line music store that was owned and 
+operated by a Russian company, MediaServices. Site owners utilized a 
+loophole in Russian licensing laws to operate with impunity for 
+seven years.  Under pressure from the USG and the copyright 
+industry, access to the site was restricted in 2007.  Although 
+AllofMP3.com remains down, in 2007, a Moscow City Court acquitted 
+MediaServices owner Denis Kvasov. Similar to Interfilm, 
+MediaServices quickly re-grouped and opened other illegal sites 
+under different domain names. 
+ 
+---------- 
+Minimum Monetary Thresholds Are Too High 
+--------- 
+ 
+MOSCOW 00001869  002 OF 002 
+ 
+ 
+ 
+¶6. (SBU) Illegal on-line film and software stores are easier to 
+prosecute than those selling music because it is easier to meet the 
+minimum monetary threshold necessary to prosecute the case under 
+Russia's Criminal Code.  Russia's Cybercrime investigators must 
+provide evidence to the court that the minimum monetary threshold of 
+250,000 rubles (approx $8000) of damages has been met for the crime 
+to be considered serious under Russia's Criminal Code.  To make a 
+case against an illegal music site, police must prove thousands of 
+instances of copyright infringement of songs that sold for pennies 
+for the case to add up to the minimum monetary threshold. Rights 
+holders often argue that the minimum monetary threshold should be 
+lowered.  In the case against Interfilm, prosecutors are using 
+Russian Supreme Court Plenum Ruling, "On the Judicial Practice on 
+Hearing Criminal Cases on Copyright, Neighboring Rights, Inventors, 
+Patent Rights Violations, and Illegal Use of Trademark" to make the 
+case.  Prosecutors are calculating damages based on input from 
+rights holders and the average retail value of a legitimate DVD 
+(approximately 270 rubles or about $8.50). For pre-released titles, 
+they are using industry's estimated losses based on predicted 
+box-office sales. 
+ 
+---------- 
+Best Practices 
+---------- 
+ 
+¶7. (SBU) Impressed by RAPO's cooperation with Russian law 
+enforcement to take action against an illegal film website, other 
+industry groups, such as the Business Software Alliance, want to 
+replicate the success by working with law enforcement to take action 
+against illegal software sites.  RAPO representatives assert that 
+training programs on prosecuting and investigating IPR cases and 
+conferences that promote international cooperation on IPR are key. 
+Although it's difficult to measure the impact of IPR training 
+programs, the raid on Interfilm occurred just one month after the 
+same MVD Cybercrime investigators who took part in the raid on 
+Interfilm also participated in the recent USPTO training program for 
+law enforcement officials "Northwest Baltic Regional Conference on 
+Criminal Enforcement of IPR in the Digital Environment," April 28-29 
+in Helsinki, which brought together law enforcement officials from 
+the Baltics, Finland, UK and Russia (reftel). At the conference, 
+several participants noted the timeliness of the topics and said 
+they were sure that the information provided at the conference would 
+be useful to them.  Hoping that the raid indicates a new trend in 
+enforcing Internet piracy, local industry continues to push for more 
+international cooperation, training on IPR, and legislation which 
+would force Internet Service Providers to prevent illegal 
+file-sharing. 
+ 
+ 
+BEYRLE

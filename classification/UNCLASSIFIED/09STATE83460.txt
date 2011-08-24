@@ -1,0 +1,224 @@
+09STATE83460
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Tue Aug 11 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0008
+RR RUEHWEB
+
+DE RUEHC #3460 2231928
+ZNR UUUUU ZZH
+R 111910Z AUG 09
+FM SECSTATE WASHDC
+TO RUEHJA/AMEMBASSY JAKARTA 0000
+RUEHGP/AMEMBASSY SINGAPORE 0000
+INFO RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUEAIIA/CIA WASHINGTON DCUNCLAS STATE 083460 
+ 
+SIPDIS 
+SINGAPORE FOR MATT EASTER 
+ECON 
+JAKARTA FOR PABLO VALDEZ 
+ECON 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC SN ID
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON LICENSE 050183340 AND 050183339 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a pre-license check on license 050183340 and 050183339 for 
+the export of International Traffic in Arms (ITAR)-controlled 
+ground decks, pad wear, and disk brakes to Indonesia.  Post 
+is requested to complete this Blue Lantern inquiry within 30 
+days.  Lack of response to a Blue Lantern inquiry will affect 
+pending and future licenses involving parties to this license. 
+ 
+¶3. Reason for request: Unfamiliar consignee, Also Private 
+Limited, and unfamiliar foreign intermediate consignee, 
+Deugro PTE LTD. 
+ 
+¶4. ACTION Singapore: The Department requests that Post make 
+inquiries with appropriate officials to establish the bona 
+fides of Also Private Limited and Deugro PTE LTD in the 
+transaction.  Conduct a site visit to assess the companies' 
+reliability as recipients of United States Munitions List 
+(USML) articles as well as an assessment of the companies' 
+on-site security and operations.  If a site visit is not 
+possible, please inform the PM/DTCC case officer. 
+ 
+ACTION Jakarta: The Department requests that Post confirm 
+that the Foreign End User, the Indonesian Air Force, ordered 
+the items listed for the purpose stated on the license 
+applications. 
+ 
+The following points are included for guidance: 
+ 
+--Can Also Private Limited provide documentation that 
+verifies the end-use of the ground decks, such as a contract 
+or purchase order? 
+ 
+--When were Also Private Limited and Deugro PTE LTD 
+established and who are their 
+principals? 
+ 
+--What is the nature of the companies' businesses -- what 
+type of items 
+do they handle?  Does either company serve as a broker? 
+ 
+--What type of organizations are among their typical 
+customers 
+and where are they located? 
+ 
+--Do the companies understand the restrictions on USML items, 
+especially the 
+prohibition against unauthorized re-transfer and re-export? 
+ 
+END ACTION. 
+ 
+¶5. Details of license applications: 
+ 
+DTC CASE:  050183340 
+ 
+QUANTITY/COMMODITY: 
+ 
+2 - Ground Deck, Part No. 646R666G01, NSN 1270-01-083-5926 
+ 
+License Value: $23,500 USD 
+ 
+SELLER: 
+ 
+ILN Technologies, Inc. 
+21040 Osborne Street 
+Canoga Park, CA 91304 
+Tel: 818-718-1414 
+Attn: Mr. Yoram Ron 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Also Private Limited 
+7 Temasek Boulevard #07-07 
+Suntec City Tower 1 
+Singapore 038989 
+Tel:  65-67329696 
+Fax:  65-67328274 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Deugro (Singapore) PTE LTD. 
+9 Airline Road #03-22 
+Cargo Agents Building D 
+Box 640 
+Changi Airfreight Centre 
+Singapore 819827 
+Phone:  65-65426666 
+Fax:  65-65424602 
+Attn: Mr. Lee Say Seng 
+ 
+FOREIGN END-USER: 
+ 
+Republic of Indonesia Ministry of Defense 
+Indonesian Air Force 
+JL Raya Mabes TNI 
+Cilangkap, Jakarta Timur 
+Indonesia 
+ 
+PURPOSE: 
+ 
+Ground decks are parts to be used on F-16 aircraft owned and 
+operated by the Indonesian Air Force. 
+ 
+DTC CASE:  050183339 
+ 
+QUANTITY/COMMODITY: 
+ 
+2900 - Pad Wear, Part No. 5000260, Alternate Part No. 313012 
+ 
+4 - Disk Break, Part No. 9531109 
+ 
+License Value: $17,890 USD 
+ 
+SELLER: 
+ 
+ILN Technologies, Inc. 
+21040 Osborne Street 
+Canoga Park, CA 91304 
+Tel: 818-718-1414 
+Attn: Mr. Yoram Ron 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Also Private Limited 
+7 Temasek Boulevard #07-07 
+Suntec City Tower 1 
+Singapore 038989 
+Tel:  65-67329696 
+Fax:  65-67328274 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Deugro (Singapore) PTE LTD. 
+9 Airline Road #03-22 
+Cargo Agents Building D 
+Box 640 
+Changi Airfreight Centre 
+Singapore 819827 
+Phone:  65-65426666 
+Fax:  65-65424602 
+Attn: Mr. Lee Say Seng 
+ 
+FOREIGN END-USER: 
+ 
+Republic of Indonesia Ministry of Defense 
+Indonesian Air Force 
+JL Raya Mabes TNI 
+Cilangkap, Jakarta Timur 
+Indonesia 
+ 
+PURPOSE: 
+ 
+Spare parts for the C-130 aircraft owned and operated by the 
+Indonesian Air Force. 
+ 
+¶6. Submitted in support of license application 050183340 were 
+the following documents (PM/DTCC will fax documentation to 
+Post upon request): 
+ 
+--Purchase Order No.0278/MJS/AURI-F16/2009 submitted by Also 
+Private Limited to ILN Technologies, Inc. on 30 March 2009. 
+ 
+--Department of State License for Permanent Export of 
+Unclassified Defense Articles and Related Unclassified 
+Technical Data, signed 3 August 2009. 
+ 
+Submitted in support of license application 050183339 were 
+the following documents (PM/DTCC will fax documentation to 
+Post upon request): 
+ 
+--Purchase Order No.0288/MJS-AURI/2009 submitted by Also 
+Private Limited to ILN Technologies, Inc. on 18 July 2009. 
+ 
+--Department of State License for Permanent Export of 
+Unclassified Defense Articles and Related Unclassified 
+Technical Data, signed 4 August 2009. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Meredith Sundlof. Phone: 
+202-663-3455; Email: SundlofME@state.gov; SIPRNET: 
+SundlofME@state.sgov.gov.  The Blue Lantern Guidebook (ref) 
+is available as a PDF file at 
+http://www.intelink.sgov.gov/wiki/Blue Lantern End-Use 
+Monitoring Program. 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+CLINTON

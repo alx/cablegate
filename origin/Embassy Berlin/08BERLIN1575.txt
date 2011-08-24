@@ -1,0 +1,184 @@
+08BERLIN1575
+GERMAN FIRM INFOTERRA EYEING NEXT SAR-LUPE
+Fri Nov 21 00:00:00 +0100 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Berlin
+VZCZCXRO6822
+PP RUEHAG RUEHAST RUEHDF RUEHHM RUEHLN RUEHLZ RUEHMA RUEHPB RUEHPOD
+RUEHTM
+DE RUEHRL #1575/01 3261605
+ZNR UUUUU ZZH
+P 211605Z NOV 08
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC PRIORITY 2704
+RUEHZN/ENVIRONMENT SCIENCE AND TECHNOLOGY COLLECTIVE
+RUCNFRG/FRG COLLECTIVE
+INFO RUCNFRG/FRG COLLECTIVE
+RUEHRL/USDAO BERLIN GEUNCLAS SECTION 01 OF 02 BERLIN 001575 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+STATE FOR EUR/CE, EUR/ERA AND OES 
+ 
+E.O. 12958: N/A 
+TAGS: TSPA EINV ETRD PGOV PREL PINR GM
+SUBJECT: GERMAN FIRM INFOTERRA EYEING NEXT SAR-LUPE 
+CONTRACT AND FUTURE USG CUSTOMERS 
+ 
+¶1.  (SBU) SUMMARY: Infoterra, a subsidiary of EADS-Astrium, 
+believes that their next generation digital synthetic 
+aperture radar (SAR) technology provides them with a 
+competitive edge in securing the SAR-Lupe follow-on contract 
+with the German MOD and are actively pursuing entry into the 
+USG defense intelligence market.  In an October 31 meeting at 
+the U.S. Embassy in Berlin, Infoterra Managing Director, 
+Joerg Herrmann delivered a tailored briefing to embassy staff 
+with an underlying message of Infoterra's value to U.S. 
+customers and their desire to break into the USG market. 
+During this brief, Herrmann touted his company's solid 
+financial position, successful Public Private Partnership 
+(PPP) missions with the German Space Agency (DLR), and their 
+plans to for the next generation TerraSAR-X2 (TSX-2) - 
+scheduled for deployment in 2013.  Herrmann commented at the 
+end of his briefing that the USG is a high priority customer 
+and that although selling data is Infoterra's preference, 
+they would be willing to sell to the USG a complete 
+spacecraft capability, including ownership of the data.  END 
+SUMMARY 
+ 
+SOLID FINANCIAL POSITION -> COMMERCIAL FLEXIBILITY 
+--------------------------------------------- ----- 
+¶2.  (SBU) Infoterra, created in 2001 to prepare and 
+commercially exploit the TerraSAR-X (TSX-1) mission under a 
+PPP financial structure, finds itself in a strengthened 
+financial position without the need for government funding 
+for future commercial satellite projects.  Herrmann stated 
+that for the first time in Infoterra's seven-year history, 
+Infoterra will turn a modest profit in 2008.  According to 
+Herrmann, Infoterra's improved financial resources give them 
+greater control of their data products and satellite tasking. 
+ (Comment: Under the PPP agreement with DLR, DLR had rights 
+to 50 percent of all TSX-1 data leaving the other 50 percent 
+available for Infoterra commercial exploitation.  End Comment) 
+ 
+INFOTERRA OPTIMISTIC ON THE NEXT SAR-LUPE CONTRACT 
+--------------------------------------------- ----- 
+¶3.  (SBU) Herrmann was adamant that his company will submit 
+the superior proposal for the SAR-Lupe follow-on contract and 
+said "Infoterra will not lose out to OHB again."  (Comment: 
+OHB-System AG is located in Northern Germany and has 
+successfully deployed and operated Germany's first 
+satellite-based radar reconnaissance system.  End Comment) 
+Infoterra is likely in the advanced stages of its advanced 
+TSX-2 design and Hermann expressed confidence that OHB does 
+not possess comparable technology. The current SAR-Lupe 
+system (contract awarded to OHB in August 2005 and first 
+satellite launched in December 2006) has a life expectancy of 
+10 years.  This implies that the follow-on system will likely 
+need to be deployed by 2017 with the contract awarded in the 
+2013-2015 timeframe. 
+ 
+DESIGN IMPROVEMENTS: RESOLUTION, COVERAGE, AND THROUGHPUT 
+--------------------------------------------- ------------ 
+¶4.  (SBU) The next generation TSX-2 will aim for better 
+imaging resolution, increased coverage area, and larger data 
+throughput volumes.  Current TSX-1 performance parameters are 
+given below: 
+ 
+                   RESOLUTION    COVERAGE AREA 
+                   ----------    ------------- 
+-- spotlight mode: 1 m           5 km x 10 km scene 
+-- stripmap mode:  3 m           30 km swath width 
+-- scanSAR mode:   16 m          100 km swath width 
+ 
+Herrmann expressed confidence that Infoterra's next SAR 
+generation will achieve resolutions on the order of 0.5 m in 
+spotlight mode and 1 m with a 70 km scene width in stripmap 
+mode, the workhorse mode.  Herrmann projects that this 
+technology will be deployable by 2013. 
+ 
+¶5.  (SBU) In a meeting at DLR on October 27, DLR TSX-1 
+Project Manager, Rolf Werninghaus, discussed DLR efforts to 
+develop a High Resolution Wide Swath (HRWS) imaging 
+capabilities using digital "beamforming" techniques. 
+Werninghaus stated the desired goal is to collect 1-meter 
+resolution radar imagery over an area of approximately 100 km 
+(equivalent to the TSX-1 scanSAR mode).  This ambitious plan 
+is being closely coordinated with Infoterra and could 
+possibly be implemented with Infoterra's next generation SAR 
+satellites. 
+ 
+¶6.  (U) The penalty for imaging larger areas with greater 
+resolution is the need for increased data transmission 
+bandwidth to the ground station.  DLR's innovative approach 
+ 
+BERLIN 00001575  002 OF 002 
+ 
+ 
+to this problem is to create a space-based optical Laser 
+Communication Technology (LCT) data network (Germany awarded 
+the first LCD contracts to Tesat-Spacecom GmbH at the end of 
+the 1990s).  Infoterra's TSX-1 bus is equipped with a 
+experimental LCT payload intended to demonstrate high 
+bandwidth satellite-to-satellite optical communications.  In 
+February 2008, the LCT aboard TSX-1 and NFIRE (a U.S. 
+experimental satellite) successfully exchanged data covering 
+a distance of more than 5000 km without any errors, at a 
+bandwidth of 5.5 Gbit/s (a data equivalence to roughly 400 
+DVDs per hour).  The next step will be to relay TSX-1 data 
+via LCT from a geosynchronous relay (GEO-Relay) satellite to 
+a ground station.  The first GEO-relay satellite is scheduled 
+to launch in 2012. 
+ 
+DIGITAL ELEVATION MEASUREMENTS - UNPRECEDENTED ACCURACY 
+--------------------------------------------- ---------- 
+¶7.  (SBU) - Between September and December of 2009, Infoterra 
+in a PPP cooperation with DLR will launch TanDEM-X, a nearly 
+identical twin of TSX-1 with a three-year interferrometry 
+mission to acquire high quality Digital Elevation Models 
+(DEM) of the entire Earth.  TanDEM-X will operate in 
+conjunction with TSX-1 to form a tandem constellation, 
+separated by only 200 m.  DLR's stated goal with this program 
+is to acquire HRTI-3 level data with the following parameters: 
+ 
+Spatial Resolution: 12 m X 12 m 
+Absolute Horizontal Accuracy:  ¶8.  (SBU) Thus far, foreign satellite data providers have 
+been unable to break into the U.S. defense market, but an 
+unclassified July 2008 USAF Space Radar Acquisition Decision 
+Memorandum (ADM) calling for potential use of international 
+entities to fill future Warfighter needs may change this. 
+Specifically, the July ADM calls for action to "Quantify the 
+performance, capability, and utility of the near-term 
+available sources of radar data from commercial and 
+international space systems."  In response to this, Herrmann 
+commented that Infoterra is prepared to sell data directly to 
+the USG to fill this need and would even be prepared to offer 
+a complete spacecraft capability, including ownership of the 
+data.  It is believed that Infoterra has already submitted a 
+proposal in response to this ADM. 
+ 
+GERMANY TO HOST SEMINAR IN WDC ON GERMAN DATA SECURITY LAW 
+--------------------------------------------- ------------- 
+¶9.  (SBU) On November 24 at the German Embassy in Washington 
+DC, the German government, in coordination with DLR, 
+Infoterra GmbH, and RapidEye AG will host a seminar to 
+discuss scientific, operational, and legal aspects of 
+Germany's Act on Satellite Data Security law.  Clearly, the 
+implications at this seminar will be centered on future USG 
+procurement of German sources space-based imagery and the 
+role German export control restrictions will play. 
+ 
+COMMENT 
+------- 
+¶10.  (SBU) Infoterra is clearly advancing its SAR technology 
+at a rapid pace and their technical cooperation with DLR has 
+certainty paid dividends fostering this advancement.  As 
+Infoterra's economic position improves, so does its ability 
+to embark on projects independently without obligations to 
+the German government.  Given the U.S. need for alternative 
+sources for space-based radar data detailed in the USAF Space 
+Radar ADM and Infoterra's emergence as a world leader in SAR 
+technology,  Infoterra believes it is well-positioned to 
+break into the U.S. defense market. 
+TIMKEN JR

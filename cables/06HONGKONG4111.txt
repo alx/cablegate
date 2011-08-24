@@ -1,0 +1,141 @@
+06HONGKONG4111
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Tue Oct 17 00:00:00 +0200 2006
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0004
+RR RUEHWEB
+
+DE RUEHHK #4111/01 2900916
+ZNR UUUUU ZZH
+R 170916Z OCT 06
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 9071UNCLAS HONG KONG 004111 
+ 
+SIPDIS 
+ 
+STATE FOR US HQ BICE WASH DC 
+ 
+USDOC FOR 532/OEA/LHINES/KGAINES 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR WILLIAM 
+ZARIT 
+ 
+BEIJING FOR FCS JEANETTE CHU 
+ 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+KASTON OPTRONICS MANUFACTURING LTD. 
+ 
+REF: A) USDOC 05199 B) EXP.LIC. D316278 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the 
+Office of Enforcement Analysis (OEA) of the USDOC 
+Bureau of Industry and Security (BIS), Export Control 
+Officer Philip Ankel (ECO) conducted a post shipment 
+verification (PSV) at Kaston Optronics Manufacturing 
+Ltd., Rua De Foshan, No 51, EDIF, San Kin Yip Centro 
+Commercial, Andar, Macao (Kaston). The PSV concerned 
+4000 grams of Hafnium Oxide in the form of three gram 
+tablets valued at $3,360 that were the subject of 
+export license D316278 and which were exported to 
+Kaston in November 2004.  Hafnium oxide is classified 
+under ECCN 1C231 and is controlled for nuclear 
+nonproliferation reasons (NP). 
+ 
+¶3. On October 12, 2006, the ECO visited Kaston at the 
+address above and met with Ms. Waiman Fong, VP of 
+Administration and Finance at the location referenced 
+above.  The Kaston facilities are located on one half 
+of the second floor of this older industrial center 
+located in the center of Macau. 
+ 
+¶4. Ms. Fong was open and cooperative and provided the 
+relevant documentation concerning the Hafnium Oxide on 
+request.  At one point, Ms. Fong stressed that she was 
+aware of the controlled nature of the item and was 
+willing to be open and forthcoming with the ECO because 
+Kaston had always operated legally. 
+ 
+¶5.  Ms. Fong stated that Kaston uses Hafnium Oxide to 
+coat crystals that are used in various types of lasers 
+including those used for stage lighting (for use 
+generally in China) and also for medical purposes 
+(which are exported primarily to the United States). 
+Mr. Fong provided samples of crystals (both in their 
+raw form and as coated with the Hafnium Oxide).  More 
+details about the company can be found at its web site 
+(www.kaston.net). 
+ 
+¶6.  Mr. Fong stated that the production that used the 
+Hafnium Oxide was recently moved to the company's 
+mainland China production site (in Fujian province). 
+She stated that Kaston moved its production facilities 
+because of the greater availability of skilled 
+engineers at its mainland China production site. 
+During a tour of the Macau site, it did not appear that 
+any of the machines there were in use and, in fact, 
+much of the machinery was partially or fully boxed for 
+further shipment while other rooms were empty. 
+Employees were only located in the same office as Ms. 
+Fong and there were no production employees or 
+engineers apparent anywhere at the Macau site. Ms. Fong 
+stated that Kaston intended to locate newer production 
+facilities at the Macau site in the near future. 
+ 
+¶7. Ms. Fong stated that the purchase of the Hafnium 
+oxide in question had been the responsibility of an 
+employee no longer with the company.  Ms. Fong was, 
+however, able to provide several documents relating to 
+the purchase of the item including the purchase order, 
+End Use Statement and a "Nuclear Certification" signed 
+by Ms. Cynthia Cheang, Secretary to the Managing 
+Director.  That certification provided that the Hafnium 
+Oxide would not be used in nuclear explosive activities 
+or safeguarded or unsafeguarded nuclear activities. 
+Mr. Fong also provided a copy of the original BXA-711 
+(Statement by Ultimate Consignee and Purchaser) signed 
+by Ms. Cheang and Ms. Fong (suggesting that Ms. Fong 
+was directly involved in the original purchase). 
+ 
+¶8.  Ms. Fong further stated that approximately one 
+kilogram of the original four-kilogram shipment 
+remained when the production facilities were moved to 
+China.  The remaining Hafnium Oxide was also moved with 
+the production facilities to mainland China.  When the 
+ECO pointed out that the "Nuclear Certification" 
+(signed by Ms. Cheang) provides that BXA (now BIS) 
+approval is required for reexport, Ms. Fong suggested 
+ 
+ 
+that failure to obtain such approval was an oversight. 
+ 
+¶9.  Ms. Fong indicated that Cerac is the only U.S. 
+supplier they have used for Hafnium Oxide.  She recalls 
+that the ordering (and licensing) process took close to 
+one year and that, as a result, Kaston tended to order 
+larger amounts for use over a longer period of time.  A 
+previous order destined for Kaston's China production 
+facility in 2001 had taken close to six months to 
+complete.  She stated that Kaston now orders this 
+product from Germany as it is of better quality and 
+less expensive. 
+ 
+¶10. While Ms. Fong was open, forthcoming and believable 
+during the visit, she conceded that Kaston had 
+reexported some of the Hafnium Oxide notwithstanding a 
+commitment not do so (absent BIS approval).  In 
+addition, it did not appear to the ECO that any 
+production was underway at the Macau location.  As a 
+result, the ECO recommends that this PLC be classified 
+as Unfavorable. 
+Cunningham

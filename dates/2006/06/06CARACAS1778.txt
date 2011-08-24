@@ -1,0 +1,183 @@
+06CARACAS1778
+BRV INFORMATION TECHNOLOGY DRAFT LAW AND THE
+Fri Jun 16 00:00:00 +0200 2006
+UNCLASSIFIED
+Embassy Caracas
+VZCZCXRO1794
+RR RUEHAO
+DE RUEHCV #1778/01 1671618
+ZNR UUUUU ZZH
+R 161618Z JUN 06
+FM AMEMBASSY CARACAS
+TO RUEHC/SECSTATE WASHDC 5084
+INFO RUEHBO/AMEMBASSY BOGOTA 6655
+RUEHBU/AMEMBASSY BUENOS AIRES 1295
+RUEHLP/AMEMBASSY LA PAZ 2110
+RUEHPE/AMEMBASSY LIMA 0355
+RUEHSG/AMEMBASSY SANTIAGO 3598
+RUEHAO/AMCONSUL CURACAO 0872
+RUEHGL/AMCONSUL GUAYAQUIL 0518
+RUEHSO/AMCONSUL SAO PAULO 0026
+RUCNDT/USMISSION USUN NEW YORK 0295
+RUCPDOC/DEPT OF COMMERCE
+RUEHUB/USINT HAVANA 0796
+RHEHNSC/NSC WASHDCUNCLAS SECTION 01 OF 02 CARACAS 001778 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+USDOC FOR ITA MARGARET KESHISHIAN 
+ 
+E.O. 12958: N/A 
+TAGS: ECON KIPR VE
+SUBJECT: BRV INFORMATION TECHNOLOGY DRAFT LAW AND THE 
+OPEN-SOURCE SOFTWARE DEBATE 
+ 
+This message is sensitive but unclassified, please treat 
+accordingly. 
+ 
+------- 
+Summary 
+------- 
+ 
+¶1.  (U)  As part of an ongoing effort by the BRV to promote 
+open-source software (OSS) as a "revolutionary" alternative 
+to profit-driven commercial software, the National Assembly 
+has proposed a draft Information Technology Law. The 
+legislation would require government entitites at all levels 
+(plus their contractors and anyone receiving public funds) to 
+use OSS.  Currently, most of the BRV uses commercial 
+software, whose largest provider in Venezuela is Microsoft. 
+IBM is the country's largest provider of OSS.  Deputy Luis 
+Tascon, who was hosted by Microsoft in the U.S. earlier this 
+year, is fighting the mandatory OSS provisions in the law. 
+Felipe Perez, an influential Chavista ex-minister (and owner 
+of a Linux distribution company) is one of the main 
+proponents of the law.  Fighting between the two factions has 
+stalled the drafting of the final version.  End summary. 
+ 
+------------------------ 
+"Revolutionary" Software 
+------------------------ 
+ 
+¶2.  (U)  The BRV began a trend years ago to favor open-source 
+software (OSS) over commercial software.  The rationales for 
+the move are the perception that intellectual property rights 
+are against the "revolution," that open-source software is 
+better for the consumer, and that it would lower costs for 
+the BRV.  In 2004, President Chavez issued a decree requiring 
+all executive-branch agencies to migrate their operating 
+systems to OSS.  However, implementation has been lackluster, 
+and often users violate the terms of the software (such as 
+making open modifications or using without license). 
+Microsoft is the top provider of commercial software 
+(Windows) in Venezuela, while IBM is the main provider of OSS 
+(Linux). 
+ 
+¶3.  (U)  The Information Technology draft law (Ley de 
+Infogobierno) was passed in first discussion in the National 
+Assembly on August 2005.  It mandates exclusive use of OSS in 
+all government entities (from the executive to municipal 
+government), the Central Bank, public universities, companies 
+who receive public funds or are directed by a government 
+employee (at any level), and companies or persons who provide 
+temporary services or goods to the government or to 
+government employees.  It also requires migration of existing 
+platforms to OSS, establishes criminal sanctions for 
+non-compliance, and creates a National Commission for 
+Information Technology (CONATI) that would have 
+confidentiality agreements with software providers. 
+ 
+SIPDIS 
+ 
+------------------------- 
+Commercial v. Open-Source 
+------------------------- 
+ 
+¶4. (U)  In April 2006, the National Assembly established a 
+working group, led by Deputy Luis Tascon, to review the draft 
+law.  The group was comprised of private sector companies, 
+business chambers, labor groups, PDVSA, OSS groups, and 
+universities.  Two camps emerged.  One group, under Tascon, 
+has pushed to amend the law to allow each government entity 
+to choose between OSS and commercial software according to 
+their needs.  Tascon recently attended the Global Leadership 
+Forum in Washington, DC as a guest of Microsoft, where he met 
+Bill Gates. (Comment: It is ironic that Tascon, who is 
+infamous for publicly disseminating personal information on 
+those who voted against Chavez, would champion licensed 
+software.  End Comment). 
+ 
+¶5. (U)  The other group is comprised of proponents of OSS, 
+led by Felipe Perez Marti, President of the Venezuelan 
+Association of Open-Source Software (and former Minister of 
+Planning).  They strongly favor using OSS exclusively, as 
+stipulated by the draft law.  Perez, the original drafter of 
+ 
+CARACAS 00001778  002 OF 002 
+ 
+ 
+the pro-OSS 2004 decree, is the owner of SOLVE (Free Software 
+of Venezuela), a Linux distributor, whose board (known as 
+"Los Felipillos") is composed of many BRV leaders, reportedly 
+including the Minister of Education.  According to Microsoft, 
+Perez's company is positioned to provide the BRV with Linux 
+and all the technical support.  His company would 
+exponentially benefit from mandated government use of OSS, 
+which is currently minimal.  IBM's Venezuela operations 
+manager noted that they have great relations with the public 
+sector (their largest client), but expressed concern that the 
+BRV wants to buy the software but not agree to maintenance 
+contracts with IBM. 
+ 
+¶6. (U)  During a May 5 working group meeting, Perez publicly 
+called Tascon a "traitor."  Tascon expelled him from the room 
+and then declared he would finish drafting the law behind 
+closed doors due to the "impossibility of consensus" between 
+commercial software providers and OSS groups.  The media has 
+largely portrayed this as Tascon barring Perez for personal 
+reasons. 
+ 
+------------------- 
+Conspiracy Theories 
+------------------- 
+ 
+¶7. (SBU)  Microsoft's General Manager, Gonzalo Fernandez 
+(protect), showed EconOff an internal PDVSA memo which 
+claimed that all U.S. software companies had a "back door" 
+mechanism whereby the U.S. government could at any time 
+access information, citing the supposed CALEA Law (United 
+States Law of Assistance in Communications for Security 
+Systems).  The memo made a claim that the USG simultaneously 
+shut down all Microsoft operating systems in Iraq before 
+attacking, and then detailed various NSA and CIA hacker 
+programs.  The memo concludes that the BRV should not 
+contract any services from American providers. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶8. (SBU)  If the law passes in current form, the provisions 
+for mandatory use of OSS will have grave repercussions for 
+BRV operations.  By nature, OSS requires code sharing, and 
+could pose security concerns for important BRV institutions, 
+such as PDVSA, EDELCA (the electric company), or CADIVI (the 
+Foreign Exchange Control Authority).  Though OSS software has 
+only a one-time license fee -- and therefore seems more 
+cost-effective -- critics claim the system can be less-user 
+friendly and requires frequent technical support (which can 
+often be costlier than licensing).  According to Microsoft, 
+no government in the world has successfully used Linux for 
+large operations (Brazil and Cuba reportedly attempted this, 
+but then abandoned the effort).  The issue of BRV software 
+has become political -- with PQrez trying to bill OSS as a 
+"revolutionary" software that would promote endogenous 
+development, and Tasc"n siding with commercial software 
+providers by promoting "neutrality" in selection of operating 
+systems.  Most National Assembly deputies are uninformed on 
+the issue and though the law was to be presented in second 
+session in early May, there has been no news as of yet.  END 
+COMMENT. 
+WHITAKER

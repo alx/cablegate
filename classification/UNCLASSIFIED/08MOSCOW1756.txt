@@ -1,0 +1,88 @@
+08MOSCOW1756
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: ZAO
+Fri Jun 20 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0003
+PP RUEHWEB
+
+DE RUEHMO #1756 1720723
+ZNR UUUUU ZZH
+P 200723Z JUN 08
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 8678
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS MOSCOW 001756 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/M.HAMES/L.RITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: ZAO 
+MP DIAGNOST, MOSCOW, RUSSIA, LICENSE NO. NLR 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel 1 requested a post-shipment verification to 
+determine the legitimacy and reliability of the end- 
+user, ZAO MP Diagnost, Moscow, Russia. The company is 
+listed on BIS license application: NLR as the ultimate 
+consignee of One (1) M67D Optical Pyrometer, product 
+no. 14300-D2300C, and accessories.  ECCN - 0x000 - no 
+license required.  The exporter is Mikron Infrared 
+Incorporated, 16 Thornton Road, Oakland, NJ  07436. 
+ 
+¶3. On June 18, 2008, Export Control Attach Peter 
+Liston and RSO Investigative Assistant Joseph Tacke 
+conducted the requested post-shipment verification 
+with ZAO MP Diagnost, Okruzhnoy Proezd, Bldg 15, Room 
+10, Moscow, Russia. The export control team met with 
+Alexander Zozlov, Director; Michael Petrushenkov, 
+Executive Director; and Vladimir Rouban, Sales 
+Manager. 
+ 
+¶4. ZAO MP Diagnost was founded in 1991 as measuring 
+and testing equipment distributor specializing in 
+infrared and ultrasonic testing of heat and heat 
+sources.  ZAO MP Diagnost is listed in Dunn and 
+Bradstreet's Who's Who (NO. 401404).  The company 
+employs approximately 20, with operations in Moscow 
+and St Petersburg.  95% of ZAO MP Diagnostic's 
+customer base is located within the Russian 
+Federation.  ZAO MP does not export to countries where 
+the United States has trade restrictions in place. 
+ZAO MP Diagnost advised the Export Control Team that 
+they purchased two (2) M67D Optical Pyrometers, not 
+one as indicted in reftel. 
+ 
+¶5. The M67D Optical Pyrometers in reftel are used for 
+non-contact temperature measurement.  The M67D uses 
+infrared temperature measurement technology and can 
+measure the temperature of a heat source through hot 
+gas.  It is used in various industries including 
+metallurgical plants and glass factories.  Sales 
+invoices provided to the Export Control Team by ZAO MP 
+Diagnost accounted for the commodity in reftel.  The 
+invoices are available upon request.  There are no 
+indications of impropriety and ZAO MP Diagnost company 
+representatives answered all questions related to the 
+subject commodity. 
+ 
+¶6. ZAO MP Diagnost Moscow is located in a multi-office 
+complex with secure, card-controlled access.  There is 
+manned security and the Export Control Team was 
+allowed full access to all areas of the company's 
+operations. 
+ 
+¶7. Recommendations: Post recommends ZAO MP Diagnost, 
+Moscow, Russia as reliable recipients of sensitive 
+U.S. origin commodities. 
+(FCS MOSCOW/SBOZEK/PLISTON) 
+RUSSELL

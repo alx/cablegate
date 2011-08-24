@@ -1,0 +1,146 @@
+09HONGKONG1059
+EXTRANCHECK: POST SHIPMENT VERIFICATION:
+Thu Jun 11 00:00:00 +0200 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0007
+RR RUEHWEB
+
+DE RUEHHK #1059/01 1620857
+ZNR UUUUU ZZH
+R 110857Z JUN 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 7815
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 001059 
+ 
+USDOC FOR 532/OEA/MCANNER/MHAMES 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: 
+ASKEY TECH LIMITED; JOINTWAY ELECTRONICS LTD.; WINSUNY TECH (HONG 
+KONG) LTD. 
+ 
+REF: A) BIS EUC request e-mails dated May 26, 2009; B) HK 01087 
+(2008) regarding Winsuny and Cam-IC; C) HK 00604 (2009) regarding 
+Techwing, Askey and Jointway; D) HK 002146 regarding Cam-IC, Winsuny 
+and Techwing 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A requests and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) attempted 
+to conduct post shipment-verifications (PSVs) at three Hong Kong 
+consignees, namely (1) Askey Tech Limited, Units 701-703, 7/F Shing 
+Yip Industrial Building, 19-21 Shing Yip Street, Hong Kong (Askey); 
+(2) Jointway Electronics Ltd. at the same address (Jointway); and 
+(3) Winsuny Tech (Hong Kong) Ltd., Rm 1405 A, Chungkiu Commercial 
+Building, 47-51 Shantung Street, Mong Kok, Hong Kong (Winsuny).  The 
+items in question include a range of electronic components and, in 
+one instance, acoustic beacons sent to these consignees by a range 
+of U.S. exporters.  On the applicable shippers export declarations 
+(SEDs), most of the items are classified under export control 
+classification number (ECCN) 3A001 and, if properly classified, 
+would be controlled for national security (NS) reasons.  Based on 
+documentation provided by the exporters, in some instances, it 
+appears that the applicable items are of the class that may be 
+exported license free to Hong Kong, but would require a license for 
+export or reexport to mainland China because of their ability to 
+function at extreme temperatures (ECCN 3A001a2c).  Each consignee 
+(and related shipments) is considered in turn below. 
+ 
+¶3.  As detailed in reftels B-D, Askey, Jointway and Winsuny are 
+related to each other and to additional companies Cam-IC and 
+Techwing Electronics Limited through common ownership or course of 
+dealing.  Winsuny, Techwing and Cam-IC were the subject of prior 
+unfavorable end use checks involving diversion of national security 
+controlled commodities to mainland China (summarized in reftels 
+B-D).  Additional information about all of these companies can be 
+found in the applicable cables and is therefore not repeated 
+herein. 
+ 
+¶4.  Jointway Electronics Limited Shipments Summary:  The first 
+shipment for these PSVs included an acoustic beacon exported to 
+Jointway by Dukane Corporation of St. Charles, Illinois.  Dukane 
+Corporation classified the beacon as falling under ECCN 6A991 which 
+is controlled for anti-terrorism reasons (AT) and may be exported to 
+Hong Kong and mainland China without a license unless end-use and 
+end-user restrictions apply.  The second shipment involved 
+electronic components exported to Jointway by SG Industries of 
+Beverly, Massachusetts.  SG Industries classified the components 
+under ECCN 3A001 which is controlled for national security (NS) 
+reasons. 
+ 
+¶5.  Jointway PSV Results:  Commercial Assistant Carrie Chan 
+attempted, on multiple occasions to schedule a meeting with 
+Jointway.  The Hong Kong Post Office confirmed that Jointway 
+received the ECO's written request for a meeting.  While Ms. Chan 
+was able to make an initial contact with the company and request a 
+meeting, subsequent calls went unanswered.  ECO believes that as a 
+result of the PSV detailed in reftel C, Jointway will not agree to 
+meet with the ECO.  Should that change, ECO will inform OEA. 
+ 
+¶6.  Askey Tech Limited Shipments Summary:  The first two shipments 
+for these PSVs were sent by Azego Technology Services of Upper 
+Saddle River, New Jersey while the third shipment was sent by Digi 
+Key Corporation of Thief River Falls, Minnesota.  Digi-Key 
+classified its shipments of electronic components under ECCN 3A001a5 
+which is controlled for national security (NS) reasons and is of the 
+class of items that may be exported license free to Hong Kong, but 
+would require a license for export or reexport to mainland China. 
+Azego classified its items as EAR99, meaning that those items may be 
+shipped to virtually all end users (uses) worldwide license free. 
+In its order documentation with Digi-Key, Askey claims that it is 
+purchasing the applicable items for Techwing.  One Azego shipment is 
+in response to a Techwing purchase order (listing the ship to 
+address as Askey but at the Winsuny location) while the second order 
+documentation lists, alternatively, Askey and Techwing as the 
+purchaser.  ECO recommends a close review of this order 
+documentation. 
+ 
+¶7.  Askey PSV Results:  Commercial Assistant Carrie Chan attempted, 
+on multiple occasions to schedule a meeting with Askey.  The Hong 
+Kong Post Office confirmed that Askey received the ECO's written 
+request for a meeting.  Ms. Chan calls to Askey went unanswered. 
+ECO believes that as a result of the PSV detailed in reftel C, Askey 
+will not agree to meet with the ECO.  Should that change, ECO will 
+ 
+inform OEA. 
+ 
+¶8.  Winsuny Tech Shipments Summary:  These PSVs involve five 
+shipments by four exporters.  All shipments involve electronic 
+components controlled under ECCN 3A001 and controlled for national 
+security (NS) reasons.  Two shipments, from Rochester Electronics, 
+involve electronic components classified under ECCN 3A001a2c.  That 
+ECCN may be exported license free to Hong Kong but would require a 
+license for shipment to mainland China. Rochester Electronics 
+shipments have been the subject of multiple unfavorable end use 
+checks involving a range of electronics resellers in Hong Kong.  ECO 
+finds it noteworthy that the Winsuny order documents for these two 
+shipments both list the Winsuny Hong Kong address as well as the 
+Winsuny Shenzhen address.  Additional shipments of ECCN 3A001 
+electronic components were made by CMB Components of Holbrook, New 
+York, Electronic Expediters of Camarillo, California and Microram 
+Electronics, Inc. of Oldsmar, Florida. 
+ 
+¶9.  Winsuny PSV Results:  Commercial Assistant Carrie Chan 
+attempted, on multiple occasions to schedule a meeting with Winsuny. 
+ Initial calls were quite short and were but off after a few 
+seconds.  Eventually, after several days of trying by Ms. Chan, the 
+phone was listed as disconnected. The Hong Kong Post Office 
+confirmed that Winsuny received the ECO's written request for a 
+meeting. ECO believes Winsuny will not agree to meet with the ECO. 
+Should that change, ECO will inform OEA. 
+ 
+¶10.  All three consignees are unsuitable recipients of U.S. origin 
+controlled technology.  ECO recommends that BIS reach out to the 
+exporters to determine what they knew about the final destination of 
+their shipments to Winsuny when those shipments were made.

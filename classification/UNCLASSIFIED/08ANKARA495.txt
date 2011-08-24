@@ -1,0 +1,79 @@
+08ANKARA495
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Thu Mar 13 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Ankara
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHAK #0495 0731332
+ZNR UUUUU ZZH
+P 131332Z MAR 08
+FM AMEMBASSY ANKARA
+TO RUEHC/SECSTATE WASHDC PRIORITY 5579
+INFO RUCPDOC/USDOC WASHDC PRIORITY
+RUEPINS/HQ BICE INTEL WASHINGTON DC PRIORITY
+RUEHAK/USDAO ANKARA TU PRIORITY
+RUEUITH/ODC ANKARA TU PRIORITY
+RUEKJCS/SECDEF WASHDC PRIORITYUNCLAS ANKARA 000495 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPARTMENT FOR PM/DTCC - BLUE LANTERN COORDINATOR 
+ 
+E.O. 12958: N/A 
+TAGS: EG ETTC KOMC TU
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 050064457 
+ 
+REF: SECSTATE 8861 
+ 
+¶1. We met with Aselsan (Full name Aselsan Electronics 
+Industries Inc.) Purchasing Manager Ahmet Arpaozu on March 4 
+regarding reftel case (license number 050064457).  Arpaozu 
+relayed our questions to the production and project managers, 
+with whom we also met on site.  They confirmed Aselsan's 
+order of 368 NVIS LED components at a cost of approximately 
+60 USD per unit. 
+ 
+¶2. Arpaozu provided documentation showing Aselsan received 
+the 368 NSIV LED Assembly (P/N 0728-48A) on October 4, 2007. 
+Aselsan confirmed that it has purchased the LEDs for use in 
+the F-4 aircraft, as a component on the MXF-484 VHF/UHF 
+remote mount radio.  Aselsan representatives informed us this 
+is an ongoing contract, which is why different units are in 
+various stages of production, storage, or shipment.  Some are 
+being stored at Aselsan warehouse facilities, some are being 
+integrated in the remote mount radios at the Aselsan plant, 
+while others have already been shipped to the end user, the 
+Turkish Armed Forces, as a part of completed remote mount 
+radio units.  During our visit to Aselsan's headquarters and 
+assembly plant, we saw a worker place one of the LED units 
+into a partially-built remote mount radio.  We were also 
+informed a number of units were already in Eskisehir with the 
+Turkish Armed Forces and that Aselsan is not responsible for 
+installing them into the F-4 aircraft. 
+ 
+¶3. Col. Aydogdu from the Turkish Air Force confirmed the use 
+of the NSIV LED Assembly as a component on the MXF-484 
+VHF/UHF remote mount radio to be installed on the F-4 
+aircraft.  He assured us the LED component was only to be 
+used on Turkish planes and was not for re-export.  He 
+confirmed the installation of the LED on the radio was the 
+responsibility of Aselsan, while the installation of the 
+radio onto the F-4 was done by the Turkish Air Force.  Col. 
+Aydogdu also said that so far, the Turkish Air Force has 
+received 76 units from Aselsan. 
+ 
+¶4. Members of the Aselsan staff with whom we met were 
+forthcoming and cooperative in response to our inquiries. 
+Based on our meeting with Aselsan representatives, who fully 
+answered all of our questions, we believe that the items are 
+being used for the purposes stated in the license. 
+ 
+Visit Ankara's Classified Web Site at 
+http://www.intelink.sgov.gov/wiki/Portal:Turk ey 
+ 
+WILSON

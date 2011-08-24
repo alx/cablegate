@@ -1,0 +1,196 @@
+09BERLIN1567
+GERMANY MAY MISS ITS BROADBAND GOALS
+Wed Dec 09 00:00:00 +0100 2009
+UNCLASSIFIED
+Embassy Berlin
+VZCZCXRO2135
+RR RUEHAG RUEHDF RUEHLZ
+DE RUEHRL #1567/01 3431541
+ZNR UUUUU ZZH
+R 091541Z DEC 09 ZDK
+FM AMEMBASSY BERLIN
+TO RUEHC/SECSTATE WASHDC 6028
+INFO RUCPDOC/USDOC WASHINGTON DC
+RUCNFRG/FRG COLLECTIVE
+RUEAFCC/FCC WASHINGTON DCUNCLAS SECTION 01 OF 02 BERLIN 001567 
+ 
+PLEASE PASS TO EEB/CIP/BA:Timothy Finton; 
+FCC:Robert Tanner 
+DOC/ITA/OTEC:Andrew Bennett 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON GM
+SUBJECT: GERMANY MAY MISS ITS BROADBAND GOALS 
+ 
+REF: STATE 27310; BERLIN 000707 
+ 
+¶1. Summary: The German government introduced a 
+National broadband strategy in early 2009 that 
+spurred a flurry of activity aimed at expanding 
+broadband deployment at the state and local levels. 
+In the aftermath of the economic crisis, however, 
+the telecom industry has not invested the large 
+sums required.  The government is still mapping the 
+existing cable infrastructure, and work in various 
+states and communities is progressing at different 
+rates.  In addition, bickering continues over 
+wireless spectrum allocation of the digital 
+dividend, with the European Commission likely to 
+halt Germany's planned frequency auction unless its 
+modalities are revised.  In short, implementation 
+of Germany's broadband strategy will take longer 
+than projected, although the Economics Ministry 
+(BMWi) and the Federal Network Agency (BNetzA) are 
+still sticking to the original timeframe.  Note: 
+This cable is part of a regular series of updates 
+on Germany's telecom strategies and goals.  End 
+Summary. 
+ 
+Germany's Ambitious Broadband Plan 
+---------------------------------- 
+ 
+¶2.  Aimed at fostering economic growth, Germany's 
+broadband plan is an integral part of the 
+government's economic stimulus package.  The 
+ambitious plan aims to provide every German 
+household with access to broadband internet of at 
+least 1 Mbit/s by the end of 2010; 75 percent of 
+the connections would be at 50 Mbit/s by 2014, 
+increasing to 100 percent as quickly as possible 
+thereafter.  This would primarily benefit the 800 
+towns and 1,400 rural communities with either no 
+internet connection or low-bandwidth internet 
+access.  BMWi has established a webpage 
+(www.zukunft-breitband.de) featuring best practices 
+of 30 communities that successfully deployed 
+broadband. 
+ 
+High Investments Needed; Private Sector Reluctant 
+--------------------------------------------- ---- 
+ 
+¶3.  To date, only Deutsche Telekom (DTAG) has 
+invested 3 billion euro to equip households in the 
+50 largest cities with 50 Mbit/s.  Current 
+deployment stalled when non-DTAG investment dried 
+up as a result of the economic crisis.  It will 
+require a total investment of approximately 50 
+billion euro (of an estimated total of 300 billion 
+euro EU-wide) to adapt German infrastructure to 
+enable rapid broadband deployment.  Even the 
+dominant DTAG is seeking alliances with its 
+competitors to share the investment burden.  The 
+telecommunications industry has concluded that the 
+stimulus funds allocated for this are not 
+sufficient. 
+ 
+¶4.  According to a poll by the German ICT 
+federation (BITKOM), the private sector strongly 
+favors broadband deployment.  A recent Columbia 
+Business School study found that upgrading networks 
+to 50 Mbit/s by 2014 would create 400,000 jobs in 
+Germany and contribute 60 billion euro to German 
+GDP by 2014. 
+ 
+Digital Dividend Auction Likely To Be Postponed 
+--------------------------------------------- -- 
+ 
+¶5.  In June 2009, the Upper House (Bundesrat) 
+approved the "digital dividend" provision as an 
+important step towards nationwide broadband 
+deployment.  The provision calls for the auctioning 
+of frequencies no longer needed for broadcasting 
+after digitalization.  The auction has been 
+scheduled for the second quarter of 2010. 
+ 
+¶6.  The European Commission, however, decided that 
+the modalities of the auction, as determined by 
+BNetzA in October 2009, pose a potential 
+disadvantage to smaller mobile operators who might 
+not be able to acquire an adequate share of 
+frequencies.  The Commission is currently preparing 
+infringement procedures.  This would significantly 
+ 
+BERLIN 00001567  002 OF 002 
+ 
+ 
+delay the reallocation of frequencies for broadband 
+use and endanger the German government's broadband 
+goals. 
+ 
+¶7.  Critics, meanwhile, have dismissed the 
+additional frequencies from the digital dividend as 
+a "drop in the bucket," insufficient to close 
+existing gaps and meet the needs of underserved 
+areas.  The Association of the German Internet 
+Industry (eco) noted that more fiber optic links 
+would be required over the long term. 
+ 
+DTAG to Provide Last-Mile Access 
+-------------------------------- 
+ 
+¶8.  German regulator BNetzA has ruled that DTAG 
+must provide access to competitors beyond main 
+distribution frames to the branch nodes.  The 
+regulator argued that this would allow competitors 
+to provide "last mile" service to customers.  The 
+Association of German Cable Network Operators 
+(ANGA) welcomed the step, but urged that fees be 
+cost-based, so as not to pre-empt investments 
+necessary for next-generation networks. 
+ 
+Mapping Infrastructure Needs More Participation 
+--------------------------------------------- -- 
+ 
+¶9.  The Federal Network Agency is currently 
+compiling data for its "infrastructure atlas" to be 
+released in December 2009, which will chart 
+available infrastructure and serve as the basis for 
+improvements and construction projects.  A high 
+rate of participation by companies with 
+infrastructure could provide synergies and enable 
+telecommunications companies rapidly to install 
+fiber to new areas and customers at lower costs. 
+The project is proceeding apace, but participation 
+has not met expectations. 
+ 
+Alliances for Deployment and Cost-Effectiveness 
+--------------------------------------------- -- 
+ 
+¶10.  Germany's regulatory authority aims to boost 
+deployment and cost-effectiveness by encouraging 
+alliances between telecommunications providers and 
+utility companies.  Deutsche Telekom has confirmed 
+talks with its competitors, while German power 
+utility RWE is checking into potential synergies. 
+DTAG and Ewetel, a subsidiary of EWE energy 
+holding, have signed cooperation agreements at the 
+regional level. 
+ 
+¶11.  BNetzA also proposed that energy companies 
+without a telecommunications subsidiary provide 
+ducts for laying fiber optic cable.  BNetzA 
+President Matthias Kurth commended Switzerland as 
+an example, where utilities are laying fiber optic 
+all the way into the homes of Swisscom customers, 
+enabling rates of 100 Mbit/s.  Kurth has sent a 
+letter to 3,000 companies with cable infrastructure 
+in Germany requesting information on infrastructure 
+that could be utilized for broadband service. 
+ 
+Comment 
+------- 
+ 
+¶12.  Although the Economics Ministry and the 
+Federal Network Agency continue to stick to their 
+schedule, it appears increasingly unlikely that 
+Germany will achieve its ambitious broadband 
+deployment goals on time.  Remaining hurdles -- 
+from completing the infrastructure mapping to 
+funding high investment costs during an economic 
+downturn to delays in auctioning off spectrum -- 
+will continue to slow the process considerably. 
+End Comment. 
+ 
+MURPHY

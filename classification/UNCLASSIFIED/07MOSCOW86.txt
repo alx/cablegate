@@ -1,0 +1,145 @@
+07MOSCOW86
+EXTRANCHECK: PRE-LICENSE CHECK: JSC VREMYA-
+Fri Jan 12 00:00:00 +0100 2007
+UNCLASSIFIED
+Embassy Moscow
+VZCZCXYZ0006
+PP RUEHWEB
+
+DE RUEHMO #0086/01 0120823
+ZNR UUUUU ZZH
+P 120823Z JAN 07
+FM AMEMBASSY MOSCOW
+TO RUCPDOC/USDOC WASHDC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 6315
+RUEAORC/USCBP WASHDCUNCLAS MOSCOW 000086 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/MHAMES/LRITTA 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC RS
+SUBJECT: EXTRANCHECK: PRE-LICENSE CHECK: JSC VREMYA- 
+CH, NIZHNY NOVGOROD, RUSSIA, LICENSE NO. D368426 
+ 
+REFTEL: USDOC 06724 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided 
+below is prohibited by Section 12C of the Export 
+Administration Act. 
+ 
+¶2. Reftel requested a Pre-license check to determine 
+the legitimacy and reliability of the end-user, JSC 
+Vremya-Ch, Nizhny Novgorod, Russia. The company is 
+listed on BIS license application D368426 as the 
+ultimate consignee of 10 converters, model: AD9460BSV- 
+¶105. These items are controlled for national security, 
+nuclear non-proliferation reasons under ECCN 3A001. 
+The licensee is Analog Devices, 3 Technology Way, 
+Norwood, MA 02062. 
+ 
+¶3. On December 27, 2006, Export Control Attache Donald 
+Pearce and FSN Natalya Shipitsina conducted the 
+requested pre-license check at the offices of JSC 
+Vremya-Ch, 67, Osharskaya St., Nizhny Novgorod, 
+Russia. The export control team met with Dr. Sergey 
+Medvedev, Chief of IT Division and Dr. Boris Sakharov, 
+Head Engineer. 
+ 
+¶4. Vremya-Ch was founded in 1993 as a provider of 
+precision equipment maintenance for the Nizhny 
+Novgorod Institute of Electronic Measuring Instruments 
+Kvarz.  The founders and many of the employees of 
+Vremya-Ch are former employees and/or students at 
+Kvarz.  Currently Vremya-Ch produces a line of 
+frequency and time standards and frequency comparison 
+devices used in precision applications such as 
+telecommunications, navigational reference systems and 
+radio astronomy.  Vremya-Ch is a Joint Stock Company, 
+with 10% of the stock owned by Gosstandart, the 
+Russian Federation Standards organization and the 
+remaining shares privately held.   The company employs 
+200, and owns three floors of a multiple-tenant 
+industrial building in Nizhny Novgorod. 
+ 
+¶5. Drs. Medvedev and Sakharov are familiar with both 
+U.S. and Government of Russia (GOR) export 
+regulations.  Dr. Medvedev estimates that 50% of 
+Vremya-Ch's profits come from exports, and the company 
+frequently does business with U.S. companies such as 
+Analog Devices and Frequency Electronics, Inc. Dr. 
+Medvedev told the team about a 2001 end use check 
+conducted by the Federal Service for Technical and 
+Export Control of the Russian Federation on a client 
+in China, the Beijing Institute of Radio Metrology and 
+Measurement (BIRMM).  The check was favorable, and the 
+equipment was exported.  Drs. Medvedev and Sakharov 
+both stressed the importance of export control 
+compliance, as the company depends on the revenue from 
+export sales and realizes the importance of the 
+control of dual-use commodities. 
+ 
+¶6. Dr. Medvedev gave the following list of other 
+export clients: Switzerland: the Neuchatel 
+Observatory, Oscilloquartz Company, TNT-Temex 
+Neuchatel Time Company. Germany: Physikalish- 
+Technische Bundesanstalt (German Bureau of Standards), 
+Institute for Experimental Physics at Heinrich Heine 
+University. Australia: Commonwealth Scientific and 
+Industrial Research Organization, Australia Telescope 
+National Facility Poland: AM Technologies Polska. 
+Kazakhstan: "KazInMetr"(Kazakhstan Institute of 
+Metrology).  Belarus: State Institute of Metrology. 
+China: National Institute of Metrology Technology 
+Inc., Shanghai Astronomical Observatory, Chinese 
+Academy of Science, China Xinshidai Company, EZ Tech 
+Electronics Technology Company, Ltd., China Great Wall 
+Industry Corporation.  NOTE: Dr. Medvedev indicated 
+that he was familiar with the sanctions on China Great 
+Wall Industry Corporation, and stated that the sales 
+were in the time frame between 1994 and 2004.  END 
+NOTE. 
+ 
+¶7. The company does not manufacture equipment for 
+specific military purposes or projects, and does not 
+have any affiliation with weapons design or production 
+programs.  The company has contracts and continuing 
+business arrangements with the following Russian 
+organizations: All-Russian Scientific Research 
+Institute for Physical-Technical And Radio-Technical 
+Measurements, Korolev Space Center Mission Control, 
+Federal State Unitary Enterprise-Research Institute of 
+ 
+semiconductor Devices, Federal State Unitary 
+Enterprise-Russian Institute of Space Device 
+Engineering. 
+ 
+¶8. The equipment in reftel will be used to integrate 
+digital signal processing (DSP) into the current 
+product line.  Currently the company only uses DSP in 
+radio frequency (RF) tuning and calibration of crystal 
+oscillators.  With DSP capabilities, Dr. Sakharov 
+hopes to design wide band RF comparison standards and 
+equipment.  Three specialists will have direct access 
+to the equipment in reftel.  The equipment will be 
+stored in a locked closet inside of the fabrication 
+area of the facility, which is guarded at all times by 
+a security officer.  All areas of the facility are 
+limited to authorized personnel.  A proximity card 
+system and video surveillance security system are 
+utilized to control access. 
+ 
+¶X. Recommendations: Post recommends JSC Vremya-Ch, 
+Nizhny Novgorod, Russia, as reliable recipients of 
+sensitive U.S. origin commodities. It is requested 
+that post be notified of final disposition of the 
+application, and of any shipments for this 
+organization in order to conduct appropriate FCS 
+follow-up and statistical reporting. 
+(FCS MOSCOW/SBOZEK/DPEARCE) 
+BURNS

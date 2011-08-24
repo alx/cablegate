@@ -1,0 +1,100 @@
+09HONGKONG1
+EXTRANCHECK: POST SHIPMENT VERIFICATION: DRAGON WELL
+Fri Jan 02 00:00:00 +0100 2009
+UNCLASSIFIED
+Consulate Hong Kong
+VZCZCXYZ0001
+RR RUEHWEB
+
+DE RUEHHK #0001 0020303
+ZNR UUUUU ZZH
+R 020303Z JAN 09
+FM AMCONSUL HONG KONG
+TO RUCPDOC/USDOC WASHDC
+INFO RUEHC/SECSTATE WASHDC 6550
+RHMFIUU/HQ BICE WASHINGTON DCUNCLAS HONG KONG 000001 
+ 
+USDOC FOR 532/OEA/LHINES/ADYSON/TWILLIS/EHOLLAND 
+USDOC FOR 3132 FOR FCS/OIO REGIONAL DIRECTOR PATRICK SANTILLO 
+BICE FOR OFFICE OF STRATEGIC INVESTIGATIONS 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: BMGT BEXP HK ETRD ETTC
+SUBJECT: EXTRANCHECK: POST SHIPMENT VERIFICATION: DRAGON WELL 
+TRANSPORTATION LTD. 
+ 
+REF: A) USDOC 06873 B) HK 00971 (2007) 
+ 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. As per reftel A request and at the direction of the Office of 
+Enforcement Analysis (OEA) of the USDOC Bureau of Industry and 
+Security (BIS), Export Control Officer Philip Ankel (ECO) conducted 
+a post shipment-verification (PSV) at Dragon Well Transportation 
+Ltd., Unit 2-3 G/F, Hope Sea Ind. Ctr., No. 22-24 Lam Hing Street, 
+Hong Kong (Dragon Well). The item in question is an encircled flux 
+measurement system exported to Dragon Well on or about July 23, 2008 
+and valued at USD 7411.  On the applicable shippers export 
+declaration (SED), these items are classified under export control 
+classification number (ECCN) 3A001 and, if properly classified, 
+would be controlled for national security (NS) reasons.  The 
+exporter was Luminentoic of Chatsworth, California. 
+ 
+¶3.  According to the Hong Kong Companies Registry, Dragon Well was 
+registered in March 1998, and it has less than the Hong Kong 
+equivalent of USD 1 in paid-in capital. Its directors are listed as 
+Hai, Sheung Wing and Lo, Ha with Hong Kong identification numbers 
+K799619(5) and P073706(6) respectively.  Ms. Lo, Ha is the director 
+of a related company, Tronic Technology Network (HK) Company Limited 
+as well as a range of other Hong Kong companies.  Tronic was the 
+subject of a previous unfavorable pre-license check described in 
+reftel B. 
+ 
+¶4.  Internet research reveals that Dragon Well is a subsidiary of 
+China Oriental Express (www.coe.com.hk).  Ms. Lo, Ha (referenced 
+above) is a director in both Dragon Well and China Oriental.  Dragon 
+Well and China Oriental Express are freight forwarders. 
+ 
+¶5.  On December 3, 2008, ECO and Commercial Assistant Carrie Chan 
+visited Dragon Well at the address listed above and met with Tony 
+Choi of Dragon Well and Ms. Ida Ho of Source Photonics, the end user 
+of the item.  Ms. Ho (who did not have a business card to share) 
+explained that Source Photonics is the company resulting from the 
+merger of Luminentoic (the exporter of record) and Fiberxon (the 
+end-user on some of the applicable documentation provided to ECO by 
+Ms. Ho and OEA). A review of the web site of Source Photonics 
+(www.sourcephotonics.com) confirms this information. Ms. Ho of 
+Source Photonics stated that the company produces communication 
+modules for optical receivers. 
+ 
+¶6.  According to Mr. Choi, Dragon Well is a long-term logistics 
+provider to Fiberxon (now Source Photonics) and provides warehouse 
+and logistics services to the company's mainland based factory. Mr. 
+Choi further stated that the factory in Shenzhen completes all 
+customs and other formalities on the shipments.  When asked, Mr. 
+Choi could give no clear answer on whether Dragon Well (or any other 
+party) applies for required Hong Kong licenses for import of 
+strategic items into Hong Kong and their subsequent reexport.  ECO 
+assumes Dragon Well does not apply for required Hong Kong licenses 
+in this respect (and that it is unaware of any applicable U.S. 
+licensing requirements for items controlled by U.S. law for reexport 
+from Hong Kong). 
+ 
+¶7.  ECO reviewed various shipment documentation provided by Mr. Choi 
+and Ms. Ho of Source Photonics and it appears in order showing 
+shipment to Source Photonics in Shenzhen. 
+ 
+¶8.  Based on the information noted above, ECO believes that the 
+applicable items were, in fact, shipped to Source Photonics in 
+Shenzhen.  ECO notes that Dragon Well appears to be unaware of Hong 
+Kong and U.S. export control rules.  ECO requests that OEA confirm 
+the 3A001 classification of the applicable item so that ECO may 
+reach out to Hong Kong TID concerning a potential violation of Hong 
+Kong's export control rules in connection with this shipment.  A 
+determination of the control status of the item will likely also 
+determine whether a violation of U.S. law occurred in respect of 
+this shipment.
