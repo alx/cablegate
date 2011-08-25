@@ -1,0 +1,94 @@
+05CAIRO3180
+IMPROVING OUR SIPRNET WEBSITE
+Thu Apr 28 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Cairo
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS CAIRO 003180 
+ 
+SIPDIS 
+ 
+FOR RM/IRP DAVID MCKEE AND EDIPLOMACY GERALD GALLUCCI 
+ 
+E.O. 12958: N/A 
+TAGS: AINF EG SIPRNET
+SUBJECT: IMPROVING OUR SIPRNET WEBSITE 
+ 
+¶1. Post is committed to classified web-publishing as a way to 
+provide end-users with easy access to cables, biographies, 
+and other post reporting.  As part of our ongoing effort to 
+improve our SIPRNET website, post is beta-testing two new 
+applications from the Net-Centric Diplomacy group.  These 
+applications will fit nicely into our existing PortalX 
+website.  On their April 10-11 visit, the Net-Centric 
+Diplomacy team provided quick and efficient training on these 
+new applications, which substantially upgrade post's ability 
+to load and organize its web content. 
+ 
+---------------------------------------- 
+Initial Feedback on Net-Centric Software 
+---------------------------------------- 
+ 
+¶2. Post is working to integrate the Net-Centric applications 
+with its PortalX webpage.  The Net-Centric applications 
+already save time for post's content uploaders, allowing post 
+to focus more on the website's content than on the mechanics 
+of updating the website.  Post would recommend three changes 
+to the CableCapture software.  First, post would appreciate 
+the ability to add terms and tags to uploaded cables without 
+having to delete and reload them.  This capability will be 
+especially important with the introduction of the SIPDIS 
+caption.  With cables being loaded to the website 
+automatically, post will need an easy way to define "hot 
+topics" for the website.  Second, uploaded cables under a 
+given tag and/or term appear on the website in the order in 
+which they were posted.  Post believes it would be more 
+useful for them to appear by cable date, with the most recent 
+cables for each tag or term first.  Third, apostrophes turn 
+into quotation marks in uploaded cables.  The only way post 
+can fix this problem at present is to manually edit each 
+cable. 
+ 
+-------------------- 
+Streamlining PortalX 
+-------------------- 
+ 
+¶3. With the streamlined CableCapture function (and the 
+expected release of SIPDIS), cable uploading is no longer the 
+primary time-consumer for website management.  The biggest 
+obstacle to increasing and expanding our web-content is the 
+upload function of PortalX's daily report.  Post currently 
+uploads the daily report as a word document and adds the 
+pictures within PortalX.  The uploading process drops most of 
+the document's formatting, and pictures are very time 
+consuming to upload.  Post suggests that the daily report 
+uploading feature be modified to enable a word document that 
+is fully formatted and that includes pictures to be uploaded 
+as an html page.  We are currently able to do this in other 
+portlets, such as the Egypt at Street Level portlet.  We have 
+considered simply changing the daily report portlet into a 
+content portlet, but this would eliminate the daily report 
+archive feature. 
+ 
+¶4. Post also experiences difficulties with PortalX's search 
+engine.  For example, after loading four cables on a recent 
+CODEL, a search on the name of that CODEL (included in the 
+subject line of each cable) only returned two results instead 
+of the expected four. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶5. Post appreciates the support of the PortalX and 
+Net-Centric Diplomacy teams.  We look forward to 
+participating in the SIPDIS pilot in the near future. End 
+comment. 
+ 
+ 
+Visit Embassy Cairo's Classified Website: 
+http://www.state.sgov.gov/p/nea/cairo 
+ 
+You can also access this site through the 
+State Department's Classified SIPRNET website. 
+ 
+CORBIN

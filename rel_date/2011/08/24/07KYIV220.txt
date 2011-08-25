@@ -1,0 +1,173 @@
+07KYIV220
+UKRAINE: USITC ANTIDUMPING INVESTIGATION ON SILICON METAL
+Wed Jan 31 00:00:00 +0100 2007
+UNCLASSIFIED
+Embassy Kyiv
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHKV #0220/01 0311106
+ZNR UUUUU ZZH
+P 311106Z JAN 07
+FM AMEMBASSY KYIV
+TO RUEHC/SECSTATE WASHDC PRIORITY 1059
+INFO RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS KYIV 000220 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE PLEASE PASS TO USITC FOR LMSCHLITT 
+STATE PLEASE PASS TO USTR FOR KLEIN/MOLNAR 
+USDOC FOR 4231/ITA/OEENIS/NISD/CLUCYCK 
+STATE FOR EUR/UMB, EB/TPP/BTA, EB/TPP/MTA 
+ 
+E.O. 12958: N/A 
+TAGS: ETRD ECON UP
+SUBJECT: UKRAINE: USITC ANTIDUMPING INVESTIGATION ON SILICON METAL 
+FROM RUSSIA 
+ 
+REF: STATE 4821 
+ 
+¶1. Post provides the following information regarding silicon metal 
+production in Ukraine in response to reftel request.  This response 
+contains no business proprietary information. 
+ 
+Overview of Metallurgy Industry 
+------------------------------- 
+ 
+¶2. Metallurgy is one of the Ukrainian economy's largest sectors, 
+accounting for approximately 40% of GDP.  The metallurgy industry 
+started in Ukraine in the 19th century, when blast furnaces sprang 
+up throughout eastern Ukraine.  Proximity to raw materials -- iron 
+and manganese ore deposits, coking coal, and non-metallic materials 
+(limestone, molding sand, refractory clay, etc.) -- has continued to 
+fuel the sector's growth.  Ferrous and non-ferrous metals and 
+products accounted for 43% of Ukraine's exports in 2006.  Ukraine 
+generally exports about 75-80% of its total production.  Most 
+enterprises in the industry are engaged in the production of ferrous 
+metals (over 44%) and extraction and enrichment of crude ore (over 
+30%), with coke production coming in third.  The non-ferrous 
+metallurgy sub-sector is much smaller, ranking fourth.  The largest 
+branch of the non-ferrous metallurgy industry is aluminum 
+production. 
+ 
+Silicon Production 
+------------------ 
+ 
+¶3. Ukrainian production of silicon can be broken down into three 
+main categories: 
+ 
+-- Ferrosilicon, covered by several subheadings of the Harmonized 
+Tariff Schedule of the United States (HTS); 
+-- Silicon metal containing less than 99.99% silicon, and matching 
+HTS subheadings 2804.69.10 and 2804.69.50, of interest to the USITC 
+in this case; and 
+-- Semiconductor-grade silicon metal containing more than 99.99% 
+silicon, covered by HTS subheading 2804.61.00. 
+ 
+Ukrainian producers use different terminology, however, calling 
+these three categories "technical," "polycrystal," and "monocrystal" 
+silicon.  Ukrainian terminology may not exactly correspond to the 
+U.S. classifications. 
+ 
+¶4. Non-ferrous metallurgy, of which silicon is only a small part, 
+makes up roughly 6% of total metallurgical production.  Silicon 
+products therefore constitute a tiny fraction of Ukraine's 
+metallurgy industry.  Additionally, silicon metal containing less 
+than 99.99% silicon accounts for only 0.81% of the total silicon 
+exports (by value) during 1999-2002.  During this period, Ukraine 
+exported ten times more semiconductor-grade silicon metal 
+(containing more than 99.99% silicon), and over a hundred times more 
+ferrosilicon (both by value in USD). 
+ 
+¶5. Post was unable to locate most of the specific data requested 
+reftel.  There is very little publicly-available information on 
+Ukraine's silicon industry, especially going back to 1999-2002. 
+Post filed a formal request for information with the Ministry of 
+Industrial Policy, which maintains oversight of the metallurgy 
+industry, and is responsible for state-owned enterprises operating 
+in this sphere.  Ministry officials cautioned us in advance that 
+they would likely be unable to provide the data we requested.  In 
+the end, the Ministry did not respond to our request as of February 
+¶1. 
+ 
+Ukrainian Exports, 1999-2002 
+---------------------------- 
+ 
+¶6. Below are figures for Ukrainian exports of silicon metal 
+containing less than 99.99% silicon, 1999-2002: 
+ 
+(Note: Quantity is expressed in short tons; value in thousands of 
+U.S. dollars.  End note.) 
+ 
+             To USA            Total (to World) 
+             ------            ---------------- 
+       Quantity     Value     Quantity     Value 
+       --------     -----     --------     ----- 
+Year 
+---- 
+1999      0           0         593         637 
+ 
+2000      0           0         635         588 
+ 
+2001      0           0         499         448 
+ 
+2002     300         253        446         406 
+ 
+ 
+ 
+ 
+Ukraine's Top Export Partners (by value): 
+ 
+1999: Russia (94.5%), Netherlands (4.5%), Belarus (1.0%) 
+2000: Russia (83.9%), Tajikistan (13.2%), Belarus (2.9%) 
+2001: Russia (82.3%), Tajikistan (17.2%), Belarus (0.3%), 
+      Israel (0.2%) 
+2002: United States (62.3%), Russia (26.1%), Bulgaria 
+      (6.3%), Israel (2.5%), Moldova (2.2%), Other (0.6%) 
+ 
+Source: United Nations Commodity Trade Statistics Database 
+ 
+Note: Data is for HS1992 and HS1996 code 280469, which designates 
+silicon metal with less than 99.99% silicon content.  This data 
+should capture both the 2804.69.10 and 2804.69.50 subheadings, noted 
+in reftel as the subjects of this investigation, and nothing more. 
+End Note. 
+ 
+The Zaporizhskiy Titanium-Magnesium Combine (ZTMC) 
+--------------------------------------------- ----- 
+ 
+¶7. Reftel listed the Zaporizhskiy Titanium-Magnesium Combine (ZTMC) 
+as the sole Ukrainian firm believed to have produced silicon metal 
+with less than 99.99% silicon during 1999-2002.  In the early 1990s 
+ZTMC was a major producer of silicon in Ukraine.  The plant produced 
+several different metals, but silicon accounted for 80% of the total 
+plant output at that time.  In 1998, however, ZTMC management halted 
+silicon production, claiming that it was unprofitable.  At the same 
+time, ZTMC restarted production of titanium, previously halted in 
+1993, as the government had launched a program to promote titanium 
+production. 
+ 
+¶8. ZTMC is a state-owned enterprise and has struggled under the 
+market conditions of post-Soviet Ukraine.  Some industry analysts 
+have accused ZTMC's management of intentionally and systematically 
+bringing ZTMC to bankruptcy, and even of laundering money for the 
+state budget.  ZTMC has regularly recorded losses of several million 
+dollars, and by 2003 held about 80 million dollars worth of debt. 
+ 
+¶9. Although ZTMC halted silicon production in 1998, other firms have 
+tried to use ZTMC's facilities to produce some silicon.  From 
+1999-2004, several foreign companies rented the silicon-production 
+facilities at ZTMC, including the Russian firm Grafi.  In 2002, a 
+semiconductor plant was established at ZTMC, along with two other 
+companies -- Kremniypolymer and Gamma.  Currently, only one part of 
+ZTMC's semiconductor plant is officially in operation; it is rented 
+by a small firm named Siltec, which produces semiconductor-grade 
+silicon metal (containing more than 99.99% silicon), predominantly 
+for domestic consumers.  Serhiy Terekhov, Chief Engineer of the 
+semiconductor plant, estimated that ZTMC facilities produced 
+approximately three to four tons of silicon metal (of various types) 
+per month during 1999-2002. 
+ 
+TAYLOR

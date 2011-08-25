@@ -1,0 +1,185 @@
+09HARARE361
+ZIMBABWE'S ELECTRICAL WOES
+Mon May 04 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Harare
+VZCZCXRO7202
+RR RUEHJO
+DE RUEHSB #0361/01 1241457
+ZNR UUUUU ZZHZDF
+R 041457Z MAY 09
+FM AMEMBASSY HARARE
+TO RUEHC/SECSTATE WASHDC 4435
+INFO RUCNSAD/SOUTHERN AF DEVELOPMENT COMMUNITY COLLECTIVE
+RUEHDS/AMEMBASSY ADDIS ABABA 2920
+RUEHKI/AMEMBASSY KINSHASA 0535
+RUEHGP/AMEMBASSY SINGAPORE 0005
+RUEHBJ/AMEMBASSY BEIJING 0096
+RUEHKM/AMEMBASSY KAMPALA 2968
+RUEHNR/AMEMBASSY NAIROBI 5409
+RUEAIIA/CIA WASHDC
+RHMFISS/JOINT STAFF WASHDC
+RUEATRS/DEPT OF TREASURY WASHDC
+RHEFDIA/DIA WASHDC
+RUZEJAA/JAC MOLESWORTH RAF MOLESWORTH UK
+RUZEHAA/CDR USEUCOM INTEL VAIHINGEN GEUNCLAS SECTION 01 OF 02 HARARE 000361 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+AF/S FOR B. WALCH 
+EEB/ESC 
+CA/OCS/ACS/AF M. RAUGUST 
+JOHANNESBURG FOR RCO M. VEASY 
+NSC FOR SENIOR AFRICA DIRECTOR M. GAVIN 
+TREASURY FOR D. PETERS 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG ECON EINT CASC PGOV ZI
+SUBJECT: ZIMBABWE'S ELECTRICAL WOES 
+ 
+REF: 08 HARARE 000073 
+ 
+HARARE 00000361  001.2 OF 002 
+ 
+ 
+¶1. (U) SUMMARY:  Due to a lack of coal, aging equipment, vandalism, 
+and general neglect, Zimbabwe's electrical power grid currently 
+supplies only half of the country's demand.  The result is frequent 
+load-shedding (blackouts) with many rural regions without power at 
+all.  Although the Zimbabwe Electricity Supply Authority (ZESA) 
+operates a 750 MW hydro-electric plant in Kariba, its nine 
+coal-burning plants, with a design capacity of 1200 MW, only 
+generate an additional 200 MW.  In a barter deal with Namibia, four 
+of the coal-burning generators are being refurbished in exchange for 
+up to 150 MW supplied to Namibia.  Compounding the basic lack of 
+power generation are chronic problems with the country's step-down 
+transformers, circuit relays, and transmission lines.  For the 
+foreseeable future, insufficient electricity distribution will 
+remain a significant constraint to Zimbabwe's economic recovery. 
+END SUMMARY. 
+ 
+-------------------------------- 
+Problem Begins With Lack of Coal 
+-------------------------------- 
+ 
+¶2. (SBU) ZESA, a government-owned parastatal and sole electricity 
+supplier in Zimbabwe, has come under increasing criticism for 
+failing to meet the power needs of the country.  David Chikowore, an 
+electrical engineer with ZESA since 1983, spoke openly about the 
+utility during a meeting with conoff on April 22. 
+ 
+¶3. (SBU) According to Chikowore, lack of sufficient coal is the root 
+reason ZESA is producing only 50 percent of capacity.  In addition 
+to a 750 MW hydro-electric plant at Kariba that is fully 
+operational, Zimbabwe has six major and three supplemental 
+coal-burning plants, all of which suffer from an insufficient coal 
+supply.  Hwange, Zimbabwe's principal electricity generating 
+facility, is comprised of six major coal-burning furnaces.  Four of 
+the six are designed to generate 120 MW and two are designed to 
+generate 220 MW.  The three supplemental coal plants, located in 
+Harare, Bulawayo, and Munyati, each have a design capacity of 100 
+MW.  Although the nine coal-burning plants have a total design 
+capacity of 1220 MW, Chikowore said they are currently only 
+producing, on average, 200 MW.  Further, the three supplemental 
+plants in Harare, Bulawayo, and Munyati have been dormant and 
+disconnected from the national grid since 2007, all due to a lack of 
+coal. 
+ 
+¶4. (U) Hwange is also the site of one of the largest coal mines and 
+coal deposits in the Southern African region.  Like other Zimbabwe 
+state-run enterprises, Hwange Colliery Company suffers from a severe 
+shortage of working capital needed to repair and replace worn 
+equipment.  According to MineWeb, a mining news reporting service, 
+the Hwange colliery is operating at less than 50 percent capacity 
+and suffers from chronic breakdowns of its heavy equipment. 
+Unofficial estimates define Zimbabwe's monthly demand at 
+approximately 400,000 tons, with Hwange supplying less than 180,000. 
+ In 2007, Hwange Colliery estimated a need of USD 60 million to 
+bring the mine back to normal capacity.  According to Chikowore, the 
+Qbring the mine back to normal capacity.  According to Chikowore, the 
+conveyor belt used to supply coal from the mine to the Hwange power 
+generators has been collapsed for over a year, and the mine's 
+principal heavy piece of equipment, its dragline, suffers from 
+frequent breakdown. 
+ 
+ 
+¶5. (SBU) Further reducing the output from the Hwange facility is an 
+ongoing refurbishment of its generators.  In a USD 40 million deal 
+brokered between ZESA and Nampower (Namibia's power utility) in 
+2007, four of the six turbines are being replaced and the 
+corresponding generators refurbished.  As part of the original deal, 
+cash-strapped ZESA was to repay Nampower by supplying electricity; 
+initially 50 MW in 2008, followed by an increase to 150 MW over the 
+next five years.  Chikowore said the refurbishment had been delayed 
+due to ZESA's inability to honor its side of the deal (supply power) 
+and predicted the refurbishment at Hwange would continue into 2010. 
+ 
+HARARE 00000361  002 OF 002 
+ 
+ 
+In addition, Chikowore mentioned that the Hwange refurbishment only 
+included the four smaller generators, and that the remaining 220 MW 
+generators remain out of commission, without any prospect of 
+repair. 
+ 
+--------------------------------------- 
+Can't Distribute the Power It Generates 
+--------------------------------------- 
+ 
+ 
+¶6. (SBU) Besides not generating enough ower, ZESA is also unable to 
+equitably distribute the power it does generate.  Chikowore 
+explained that power leaves the main plants at Kariba and Hwange at 
+330 kilovolts on Zimbabwe's two main grid lines, and then is 
+stepped-down through a series of transformers, switches, and 
+distribution lines to 220 volts for consumption.  However, this 
+whole distribution system suffers from years of vandalism and 
+inadequate maintenance, resulting in large areas without power and 
+cash-strapped ZESA unable to do anything about it. 
+ 
+¶7. (SBU) Among the vandalism is theft of the transmission fluid from 
+the step-down transformers and theft of the timbers used to string 
+the transmission lines.  Chikowore explained that the same fluid 
+used in the transformers can be used in diesel trucks and machinery. 
+ He estimated that over 900 transformers were in need of service or 
+replacement in Harare and Gweru alone.  In rural areas, the theft of 
+wood timbers for firewood has caused whole power lines to collapse. 
+ 
+¶8. (SBU) Chikowore also explained that frequent load-shedding has 
+significantly increased wear on the switching and isolation circuit 
+breakers.  Designed as a replacement item after approximately 2000 
+cycles, many of these circuit breakers were experiencing 4000 cycles 
+every six months.  With no money to replace them, he said ZESA was 
+attempting to repair as many as possible, but admitted the repairs 
+were crude and did not bring the breakers back to original 
+condition.  In July 2008, a fire completely destroyed a major 
+substation in Stampford, a suburb of Harare, which left much of the 
+city without power for a month.  Chikowore said the fire was caused 
+by a simple overload that should have been isolated through the 
+protective circuit breakers, but that none of them were functioning. 
+ Harare experienced another substation fire on April 25, which left 
+much of the western suburbs without power. 
+ 
+ 
+¶9. (SBU) When asked about the future, Chikowore gave a pessimistic 
+prognosis, starting with the average tariff charged by ZESA.  In 
+March 2009, amidst a public outcry, the government announced an 
+increase in the average tariff from USD 0.041 to USD 0.075 (7.5 
+cents) per kilowatt-hour, which Chikowore said is still a woefully 
+low amount to fund capital improvement.  Chikowore believes the 
+tariff needs to be approximately 11 cents.  By contrast, the average 
+tariff is 9 cents in the U.S. and only 3.5 cents in South Africa. 
+ 
+¶10. (SBU) COMMENT:  The electricity utility ZESA is another example 
+of a bankrupt GOZ-owned operation.  Like Zimbabwe's rail, road, 
+medical, and telecommunications infrastructures, Zimbabwe's 
+Qmedical, and telecommunications infrastructures, Zimbabwe's 
+electricity system will require years and hundreds of millions of 
+dollars to repair.  In the short term, the public need for 
+electricity is being supplanted by more pressing needs to fund 
+teacher and civil-servant salaries by the cash-strapped government. 
+Nonetheless, if the country is to experience economic recovery, it 
+must restore power.  END COMMENT. 
+ 
+MCGEE

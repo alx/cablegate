@@ -1,0 +1,407 @@
+09STATE81475
+BLUE LANTERN PRE-LICENSE END USE CHECK ON
+Wed Aug 05 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0005
+RR RUEHWEB
+
+DE RUEHC #1475 2171522
+ZNR UUUUU ZZH
+R 051504Z AUG 09
+FM SECSTATE WASHDC
+TO RUEHMD/AMEMBASSY MADRID 0000
+INFO RUEAIIA/CIA WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 081475 
+ 
+SIPDIS 
+FOR POL E. STROTHER MURRAY 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC SP
+SUBJECT: BLUE LANTERN PRE-LICENSE END USE CHECK ON 
+APPLICATION 050179563 AND POST-SHIPMENT CHECK ON LICENSE 
+050141626 
+ 
+REF: A. MADRID 453 
+     ¶B. MADRID 777 
+ 
+¶1.  This is an action message.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post assistance in conducting a 
+pre-license and post-shipment check for the export of 
+battlefield effects simulators to Spain.  Post is requested 
+to complete this Blue Lantern check within 30 days.  Lack of 
+response to a Blue Lantern check will affect pending and 
+future licenses involving parties to this license. 
+ 
+¶3.  Reason for request: refs. A-B are post's unfavorable Blue 
+Lantern responses regarding the export of night vision 
+devices (NVD) to Spain.  The Spanish company ELINT, S.A. 
+participated in these NVD transactions, and per refs. may 
+have violated the terms of the export license and is 
+currently under criminal investigation by the Spanish 
+government.  ELINT, S.A. is the Foreign Consignee on both 
+050179563 and 050141626.  PM/DTCC would therefore like to 
+conduct a Blue Lantern check to confirm these requests with 
+the Spanish government. 
+ 
+¶4.  ACTION: Please contact the Foreign End User, the Spanish 
+Army, and confirm its request for the exact quantities and 
+specific types of commodities listed below.  Request the 
+Spanish Army to provide purchase order documentation which 
+lists all of the commodities it requested via ELINT.  Please 
+match the Spanish Army list of requested commodities with 
+ELINT's purchase order list of commodities reproduced below. 
+Inform PM/DTCC of any noted discrepancies.  END ACTION. 
+ 
+¶5.  License Information: 
+ 
+A)  DDTC Case Number 050179563 
+ 
+QUANTITY/COMMODITY: 
+ 
+100      IED Simulation Kit, product code K01IEDS: includes 
+T155FT, T80PM, T12TWC, RT01K4, FS160CT, A202CW 
+ 
+100      IED Simulation Kit, product code K02IEDS-B: includes 
+T48SBV, T50PB, RT005SR1, FS160CT, A202CW 
+ 
+100      Complete CO2 Fill Station Kit, product code K01FS-B: 
+includes FS060PF, FS315FS, FS30HS, FS01OL, R08OSC 
+ 
+1,000    100 Detonation Expendables Refill Kit for T155FT 
+Series, product code RKT155FT: includes 2 EST100M, 2 
+EST100XXL, 50 ESF128W 
+ 
+1,000    100 Detonation Expendables Refill Kit for T120FT, 
+product code RKT120FT: includes 2 EST100M, 1 EST100XXL, 50 
+ESF128W 
+ 
+1,000    100 Detonation Expendables Refill Kit for T48SBV, 
+product code RKT48SBV-B: includes 4 EST100M, 4 ESF016WC 
+ 
+1,000    100 Detonation Expendables Refill Kit for T80 
+Series, product code RKT80-B: includes 1 EST100M, 1 ESF016WC 
+ 
+1,000    100 Detonation Expendables Refill Kit for T12 
+Series, product code RKT12-B: includes 1 EST100M, 1 ESF016WC 
+ 
+1,000    100 Detonation Expendables Refill Kit for T50PB with 
+1 large hole, product code RKT50PB: includes 1 EST100XXL, 3 
+ESF016WC 
+ 
+1,000    100 Detonation Expendables Refill Kit for 
+K01IEDS/TIED2, product code RKO1EDS-B: includes 3 EST100M, 1 
+EST100LM, 2 EST100XXL, 2 ESF016WC, 50 ESF128W 
+ 
+1,000    Large Improvised Explosive Device Trainer-Version 2, 
+product code T155FT-V2 
+ 
+100      Medium Improvised Explosive Device Trainer, product 
+code T120FT 
+ 
+100      50mm Pipe Bomb Trainer, product code T50PB 
+ 
+100      50mm Shoulder Fired Launcher Trainer with 9 oz. CO2 
+Charging Tank, product code T50SFL 
+ 
+100      4 Gang Suicide Bomber Vest Trainer, product code 
+T48SBV 
+ 
+500      Pressure Sensitive Landmine Trainer with Safety 
+Lanyard, product code T80PM 
+ 
+100      Trip Wire Booby Trap Trainer with Pull-Pin 
+Detonation, product code T12TWC 
+ 
+100      81mm Mortar Launcher Trainer with 20 oz. CO2 
+Charging Tank, product code T81MSD 
+ 
+100      Flash Effects Simulator, product code T250FES 
+ 
+500      68 Caliber A-5EFX M4 Simulator with 3.5 oz. CO2 
+Charging Tank, product code T68A5M4 
+ 
+500      68 Caliber A-5EFX AK Simulator with 3.5 oz. CO2 
+Charging Tank, product code T68A5AK 
+ 
+100      Inert Anti-Tank Mine, product code T19ATM 
+ 
+100      155mm Aluminum Dummy Round, product code T155ADR 
+ 
+100      Long Range 4-Channel Wireless Transmitter/Receiver 
+with 24v Rechargeable Battery, product code RT01K4 
+ 
+300      Receiver for RT01K4 with Antenna and 24v 
+Rechargeable Battery, product code R01K4 
+ 
+100      RT01K4 Deprogramming Device, product code RT0300J 
+ 
+1,000    T12/50/155FT Explosion Simulator Tube Medium (100 
+per pack), product code EST100M 
+ 
+1,000    T80TM Explosion Simulator Tube Medium (100 per 
+pack), product code EST100LM 
+ 
+1,000    T155FT Explosion Simulator Tube Extra Large (100 per 
+pack), product code EST100XXL 
+ 
+1,000    Grey Simulation Powder, 320 oz., product code ESF640G 
+ 
+1,000    White Simulation Powder, 72 oz. bag, product code 
+ESF128W 
+ 
+1,000    Grey Simulation Powder, 72 oz. bag, product code 
+ESF128G 
+ 
+1,000    Red Simulation Powder, 72 oz. bag, product code 
+ESF128R 
+ 
+1,000    Yellow Simulation Powder, 72 oz. bag, product code 
+ESF128Y 
+ 
+1,000    White Simulation Powder in 12 oz. Dispensing Bottles 
+(12 per case), product code ESF016WC 
+ 
+1,000    Grey Simulation Powder in 12 oz. Dispensing Bottles 
+(12 per case), product code ESF016GC 
+ 
+1,000    Red Simulation Powder in 12 oz. Dispensing Bottles 
+(12 per case), product code ESF016RC 
+ 
+1,000    Yellow Simulation Powder in 12 oz. Dispensing 
+Bottles (12 per case), product code ESF016YC 
+ 
+1,000    50mm Paint Round used in the T50SFL (100 Pack), 
+product code E50MR 
+ 
+1,000    50mm Foam Round used in the T50SFL, product code 
+E50FR 
+ 
+1,000    Venom Paint Powder Mix, product code E36MP 
+ 
+10,000   68 Caliber Clear Paint Balls (2,000 per case), 
+product code E68PBC 
+ 
+10,000   68 Caliber Red Paint Balls (2,00 per case), product 
+code E68PBR 
+ 
+10,000   68 Caliber Blue Paint Balls (2,000 per case), 
+product code E68PBB 
+ 
+1,000    Explosion Bottle with Grey Smoke Simulation Powder 
+(20 per case), product code ESFB032GC 
+ 
+100      Deluxe CO2 Fill Station, product code FS24DF 
+ 
+100      ASA Plug, Nipple and Cover for the T155FT/T50PB, 
+product code FS12PNC 
+ 
+100      Oil Lubricant in 1 oz. Bottles, product code FS01OL 
+ 
+100      CO2 Pump with Fill Station, product code FS059P 
+ 
+100      Fill Apparatus Coil with Slide Check, product code 
+FS003FAC 
+ 
+100      3.5 oz. CO2 Charging Tank, product code FS035CT 
+ 
+100      Pro Fill Station with Lever and Muffler, product 
+code FS060PF 
+ 
+100      SCBA to Scuba Adapter, product code FS63ADP 
+ 
+100      63 cu. ft. Scuba Charging Tank with Filling 
+Apparatus, product code FS63SCT 
+ 
+100      63 cu. ft. Scuba Charging Tank, product code FS63ST 
+ 
+100      Scuba Fill Station with Filling Apparatus, product 
+code FS300SF 
+ 
+100      320 oz. Bulk CO2 Charging Tank with Fill Apparatus, 
+product code FS320CT 
+ 
+100      160 oz. Bulk CO2 Charging Tank with Fill Apparatus, 
+product code FS160CT 
+ 
+100      20 oz. CO2 Charging Tank, product code FS20CT 
+ 
+100      9 oz. CO2 Charging Tank, product code FS09CT 
+ 
+100      9 oz. CO2 Improved High Flow Discharging Tank with 
+Threaded Valve Cap (MIL-SIM-FX), product code FS09HFDC-B 
+ 
+100      Digital Hanging Weight Scale, 30 lbs. max., product 
+code FS30HS 
+ 
+100      Digital Floor Weight Scale, 315 lbs. max., product 
+code FS315FS 
+ 
+100      Bottle Adapter, product code FSUFADP 
+ 
+100      18v Power Relay for Extended Range IED Simulator 
+Triggering/Daisy Chaining Devices, product code A18PR 
+ 
+100      20' 16 Gauge 2 Conductor Wire, product code A202CW 
+ 
+100      T120FT Bottle Bomb Attachment, product code A120BB 
+ 
+100      T120FT Explosive Foam Penetrator, product code 
+A120EFP 
+ 
+LICENSE VALUE: USD 15,276,600.00 
+ 
+APPLICANT/SOURCE: 
+ 
+Combat Training Solutions Inc. 
+3595 E. Fountain Blvd., Suite F1 
+Colorado Springs, Colorado 80910 USA 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+A.G.C., S.L. 
+Centro de Carga Aerea de Madrid-Barajas 
+Edificio de Servicios Generales 
+Oficina No 304 
+28042 Madrid 
+SPAIN 
+ 
+FOREIGN CONSIGNEE: 
+ 
+ELINT, S.A. 
+Sagitario No 1 
+28023 Madrid 
+SPAIN 
+ 
+FOREIGN END USER: 
+ 
+Spanish Army 
+C/Veeduria, 2 
+15001 La Coruna 
+SPAIN 
+ 
+STATEMENT OF PURPOSE: 
+ 
+For use by the Spanish Army for training soldiers on 
+detection and reaction to Improvised Explosive Devices and 
+other threats on the battlefield. 
+ 
+¶6.  Additional documentation submitted in support of license 
+application: 
+ 
+I)  ELINT, S.A. Purchase Order number 0351/AD/BRI/09, dated 
+08 July 2009, signed by Carlos Dominguez, Product Manager. 
+ 
+II)  End Use/User Information Form, dated 01 June 2009, 
+referencing Purchase Order #0207/BQ/LEG/09, signed by 
+(illegible), Procurement Manager, ELINT, S.A. 
+ 
+B)  DDTC Case Number 050141626 
+ 
+QUANTITY/COMMODITY: 
+ 
+01       Large Improvised Explosive Device Trainer, product 
+code T155FT-V2 
+ 
+01       Medium Improvised Explosive Device Trainer, product 
+code T120FT 
+ 
+01       50mm Pipe Bomb Trainer, product code T50PB 
+ 
+01       4 Gang Suicide Bomber Vest Trainer, product code 
+T48SBV 
+ 
+01       Pressure Sensitive Landmine Trainer with Safety 
+Lanyard, product code T80PM 
+ 
+01       Trip Wire Booby Trap Trainer with Pull Pin 
+Detonation, product code T12TWC 
+ 
+01       Long Range 4-Channel Wireless Transmitter/Receiver 
+with 24v Rechargeable Battery, product code RT01K4 
+ 
+05       T12/50/155FT Explosion Simulator Tube Medium (100 
+per pack), product code EST100M 
+ 
+05       T80TM Explosion Simulator Tube Medium (100 per 
+pack), product code EST100LM 
+ 
+06       Yellow Simulation Powder, 72 oz. bag, product code 
+ESF128Y 
+ 
+25       50mm Foam Round used in the T50SFL, product code 
+E50FR 
+ 
+01       68 Caliber Clear Paint Balls (2,000 per case), 
+product code E68PBC 
+ 
+01       CO2 Pump with Fill Station, product code FS059P 
+ 
+01       Digital Floor Weight Scale, 315 lbs. max., product 
+code FS315FS 
+ 
+Note: shipment data indicates that all items were exported on 
+29 January 2009. 
+ 
+LICENSE VALUE: USD 8,748.00 
+ 
+APPLICANT/SOURCE: 
+ 
+Combat Training Solutions Inc. 
+3595 E. Fountain Blvd., Suite F1 
+Colorado Springs, Colorado 80910 USA 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+A.G.C., S.L. 
+Centro de Carga Aerea de Madrid-Barajas 
+Edificio de Servicios Generales 
+Oficina No 304 
+28042 Madrid 
+SPAIN 
+ 
+FOREIGN CONSIGNEE: 
+ 
+ELINT, S.A. 
+Sagitario No 1 
+28023 Madrid 
+SPAIN 
+ 
+FOREIGN END USER: 
+ 
+Spanish Army 
+C/Veeduria, 2 
+15001 La Coruna 
+SPAIN 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Non-pyrotechnic battlefield effects simulators for the 
+training of soldiers in the recognition of Improvised 
+Explosive Devices, suicide bombers and booby traps. 
+ 
+¶7.  Additional documentation submitted in support of license 
+application: 
+ 
+I)  ELINT, S.A. Purchase Order number 0794/BQ/EL/08, dated 23 
+December 2008, signed by Beatriz Quiros. 
+ 
+II)  End Use/User Information Form, dated 23 December 2008, 
+referencing Purchase Order #0794/BQ/EL/08, signed by 
+(illegible), Product Manager, ELINT, S.A. 
+ 
+¶8.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the DDTC Case 
+Numbers in the subject line.  POC on this case is Peter 
+Sabatini, PM/DTCC, phone: 202-663-2819; ClassNet email: 
+sabtinipj@state.sgov.gov; OpenNet email: sabatinipj@state.gov 
+The most current Blue Lantern Guide Book is available on 
+OpenNet at http://fsi.state.gov/fsi/spas/default.asp?ID= 1588 
+Department thanks Post for its assistance in this matter. 
+CLINTON

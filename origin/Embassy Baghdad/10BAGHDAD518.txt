@@ -1,0 +1,352 @@
+10BAGHDAD518
+MOBILE BANKING - GREAT POTENTIAL IN IRAQ, BUT OBSTACLES
+Sun Feb 28 00:00:00 +0100 2010
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Baghdad
+VZCZCXRO5172
+RR RUEHBC RUEHDA RUEHDH RUEHKUK
+DE RUEHGB #0518/01 0590311
+ZNR UUUUU ZZH
+R 280311Z FEB 10
+FM AMEMBASSY BAGHDAD
+TO RUEHC/SECSTATE WASHDC 6860
+INFO RUCNRAQ/IRAQ COLLECTIVE
+RUEATRS/DEPT OF TREASURY WASHDCUNCLAS SECTION 01 OF 04 BAGHDAD 000518 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR NEA/I/ECON and SP/JCOHEN 
+ 
+E.O.12958: N/A 
+TAGS: ECPS EFIN ECON EAID IZ
+SUBJECT: MOBILE BANKING - GREAT POTENTIAL IN IRAQ, BUT OBSTACLES 
+REMAIN 
+ 
+REF: FEB 3 TELCON: STATE(COHEN) - EMBASSY BAGHDAD(ECON, TREASURY) - 
+USF-I (J6) - TFBSO(HAAG) 
+ 
+SENSITIVE BUT UNCLASSIFIED.  PLEASE PROTECT ACCORDINGLY. 
+ 
+¶1. (SBU) This cable contains substantial input from Treasury's 
+Office of Technical Assistance (OTA), DoD's Task Force for Business 
+and Stability Operations (TF BSO) and USF-I, J-6 (Communications and 
+Information Systems Directorate). 
+ 
+¶2. (SBU) SUMMARY: With two cell phones for every three Iraqis, it 
+appears great market potential exists for "mobile banking" -- 
+allowing Iraqi subscribers to use mobile phones to view account 
+balances and make electronic payments and funds transfers. 
+Significant impediments -- none insurmountable -- stand in the way 
+of quick growth in Iraq's mobile banking sector:  a general mistrust 
+of banks by the population; existing Iraqi laws and regulations; 
+lack of electronic core banking systems in the state-owned banks; 
+and the need to further develop the switch infrastructure.  Mobile 
+phone companies and others are enthusiastic about pushing ahead with 
+one model or another in the near term.  The Central Bank of Iraq 
+also seems positive about the inevitability and promise of mobile 
+banking, though it is wary of "mobile wallet," whereby the cell 
+phone accounts themselves store value.  DOD's Task Force for 
+Business Stability Operations (TF BSO) is coordinating with the 
+Iraqi electronic banking consortium AMWAL and AsiaCell on a pilot 
+mobile banking project for 300 of both entities' employees.  The 
+other major cell phone provider in Iraq, Zain, is considering 
+providing a more limited mobile phone-based money transfer service 
+that would run through credit and banking institutions outside Iraq. 
+ For the time being, however, the only large-scale functioning 
+e-payment system used for mass distribution of salaries and pensions 
+is the Iraqi government's "Smart Card," operated through two state 
+banks.  (Private banks are offering smaller-scale services.)  END 
+SUMMARY. 
+ 
+¶3. (SBU) COMMENT: Getting the necessary regulatory, technical, and 
+consumer protection infrastructure in place for mobile banking 
+obviously will take some time.  Delays, however, could lead the 
+private sector and public to find more immediate workarounds, which 
+may lead to prudential and security vulnerabilities.  Once 
+operational, the attractiveness of mobile banking may spur many more 
+Iraqis to move their money into the formal financial system, a boon 
+to economic development.  Iraq's private banks (who have a 
+technological and service advantage over the state banks) may also 
+stand to gain as they are better able to offer these services. 
+Despite these advantages, however, growth of the private banking 
+sector will be limited as long as Iraqi government entities are 
+forbidden from doing business with private banks - the government 
+accounts for approximately 60 percent of employment and GDP.   As 
+Iraq inevitably presses ahead with some sort of mobile, electronic 
+transaction mechanism, we should look to ensure that these 
+developments keep with global best practices, efficient use of 
+appropriate technology, and safeguards against fraud, money 
+laundering and other abuses.  END COMMENT. 
+ 
+EXCELLENT POTENTIAL MARKET FOR MOBILE BANKING IN IRAQ 
+--------------------------------------------- -------- 
+ 
+¶4. (U) With more than 19.5 million mobile phone accounts  in Iraq - 
+and more people signing on every day - tremendous market potential 
+exists for mobile banking here.  [NOTE: Given Iraq's population of 
+approximately 30 million, this implies a penetration rate of 63 
+Qapproximately 30 million, this implies a penetration rate of 63 
+percent.  This likely overstates the case, however, as many 
+subscribers have two or three phones from different companies to 
+overcome lack of roaming and gaps in coverage.  END NOTE.]  New 
+mobile banking technologies such as point-of-sale phone payments at 
+retail shops, mobile phone bill payment, and electronic funds 
+transfers via text would undoubtedly be very popular here.  These 
+types of transactions would also allow Iraq to "leap frog" over some 
+of the traditional fund transfer mechanisms (such as checks, which 
+are often counterfeited here).  Moreover, this potential market is 
+expected to grow with the arrival of several international oil 
+companies, who have already expressed the desire to use the latest 
+banking systems for their internal operations and employees, 
+possibly on a large scale. 
+ 
+¶5. (SBU) One particular advantage of mobile banking for Iraq's 
+smaller, self-employed entrepreneurs is that the point-of-sale 
+transaction function means that they would not have to invest in 
+expensive point-of-sale credit card readers or pay hefty transaction 
+fees.  Similarly, families wanting to send funds to relatives via 
+bank transfers in Iraq sometimes pay exorbitant fees (up to $95 per 
+transaction) to wire money domestically within the same bank, and 
+the payment is often delayed.  A mobile phone transfer would likely 
+take less time, at a fraction of the cost.  Next, mobile banking has 
+allowed other developing countries to invest in fewer ATMs, which 
+are expensive to operate.  Many merchants in other countries also 
+ 
+BAGHDAD 00000518  002 OF 004 
+ 
+ 
+offer cash back with a mobile banking purchase, which saves them the 
+risk and expense of carrying their cash to the bank.  Finally, many 
+Iraqis currently have only one option if they want to know their 
+account balance:  wait in a long line (sometimes for hours) for a 
+teller to look it up.  Mobile banking would give account holders the 
+option of viewing their balance almost instantaneously. 
+ 
+TFBSO's PILOT MOBILE BANKING PROJECT 
+------------------------------------ 
+ 
+ 
+¶6. (SBU) The Department of Defense's Task Force for Business 
+Stability Operations (TFBSO) is already coordinating a pilot mobile 
+banking project with 300 users with the AMWAL consortium of 13 (out 
+of 36) Iraqi privately-owned banks and the cell phone provider, 
+AsiaCell.  The project will help assess the feasibility of a larger 
+mobile banking system throughout Iraq.  So far as we know, it is the 
+only such project in the country. 
+ 
+The pilot project allows participants to: 
+ 
+- Check their account balance, 
+- Top up their cell phone credit automatically, 
+- Send money from one person to another electronically, and 
+- Pay merchants directly from their account instead of using a debit 
+card. 
+ 
+Although the project is still relatively small, the partners plan to 
+expand it over the coming year, perhaps to university students.  The 
+project is also technologically simple:  no account menu is 
+displayed on the phone, and users text codes into the system 
+depending on the task.  AMWAL hopes that the project will move past 
+its pilot stage and go "live" this spring.  [NOTE: This project in 
+its current phase cannot be used as a mass-payroll system.  The 
+electronic switch does not work in a way that can "push" thousands 
+of payments to various accounts instantaneously.  Each payment must 
+be texted individually, which could lead to errors.  The lack of a 
+simple menu on the phone also demands some texting savvy on the part 
+of the user.  END NOTE.] 
+ 
+GENERAL POPULATION STILL SKEPTICAL OF BANKS 
+------------------------------------------- 
+ 
+¶7. (U) Despite the great potential of mobile banking in Iraq, much 
+work lies ahead.  The general population remains severely 
+under-banked; only nine percent of Iraqis have bank accounts. 
+Because of cash shortages during government pay periods, robberies, 
+corruption, and a lack of deposit insurance, many Iraqis do not view 
+banks as a safe place to keep money.  Instead, they generally keep 
+cash at home and use the traditional "hawala" money transfer system. 
+ In total, Iraq has only 853 bank branches for a population of more 
+than 30 million.  By comparison, to achieve the same bank 
+branch-per-capita ratio of Jordan, Iraq would need more than 3,000 
+branches.  In order for mobile banking to take hold on a large 
+scale, more Iraqis would first have to open bank accounts and link 
+them with their mobile phones.  (See comparison of "mobile banking" 
+and "mobile wallet" in paragraph 11.) 
+ 
+¶8. (U) State-owned banks, other private banks, or foreign investors 
+may launch competing mobile banking projects in the future.  All of 
+the private banks together still make up only a tiny fraction of 
+Iraq's total banking market - three percent of total assets. 
+AMWAL's consortium currently includes only four of the top ten 
+privately-owned banks, so its total market share remains exceeding 
+small.  Iraqis in the past have been especially skeptical of private 
+banks, and it may take time before AMWAL's market share grows. 
+Since state-owned banks currently make up 97 percent of the total 
+banking market (by assets), helping the state banks offer mobile 
+Qbanking market (by assets), helping the state banks offer mobile 
+banking would help boost the total number of mobile banking 
+customers in Iraq, though it also would bolster the comparative 
+advantages the state banks already enjoy over private banks. 
+ 
+GOI REGULATORY AND LEGAL HURDLES 
+-------------------------------- 
+ 
+¶9. (SBU) Iraqis' wariness about banks is only one obstacle to 
+achieving broad-based mobile banking in Iraq.  Several Government of 
+Iraq legal hurdles exist as well, including lack of legal validity 
+for e-transactions, GOI strictures against government agencies using 
+private banks, and banking regulators' resistance to cell phone 
+companies performing bank-like functions.  Opening the legal 
+environment for mobile banking might require new legislation passed 
+by the Council of Representatives (COR), and changes to Central Bank 
+of Iraq (CBI) regulations and Ministry of Finance (MOF) policies. 
+Some GOI officials are very enthusiastic about mobile banking, so we 
+could possibly see movement on regulatory changes in the near term. 
+ 
+ELECTRONIC SIGNATURES NEED TO BE LEGALLY ACCEPTABLE 
+ 
+BAGHDAD 00000518  003 OF 004 
+ 
+ 
+--------------------------------------------- ------ 
+ 
+¶10. (SBU) CBI Director for Banking Supervision Walid Eidy has told 
+EmbOffs he is excited about mobile banking and would be happy to 
+meet with investors interested in bringing that technology to Iraq. 
+However, he expressed concern that the technical and legal 
+foundations for such a system did not yet exist.  He said one of the 
+biggest difficulties is that electronic signatures (including those 
+from texts, email, and computer programs), photocopies, and scans 
+are not considered legal as evidence to be used in a court of law -- 
+thus mobile transactions would be hard to defend in court.  He said 
+that before mobile banking could work on a large scale, the COR 
+would have to pass a law that specifically made such "documents" 
+legal for use in court instead of paper originals.  Eidy also said 
+95 percent of the Iraqi population was "electronically illiterate," 
+and professed concern they could be taken advantage of without the 
+right consumer protections.  (Comment:  The U.S. Treasury Office of 
+Technical Assistance (OTA) is advising the CBI on a regulatory 
+platform on electronic signatures and other consumer protection 
+issues. End comment) 
+ 
+"MOBILE BANKING" vs. "MOBILE WALLET" 
+------------------------------------ 
+ 
+¶11. (SBU) The Central Bank makes a distinction between "mobile 
+banking" and "mobile wallet" and remains steadfast that only "mobile 
+banking" will be allowed in Iraq for the time being.  Mobile banking 
+is when all customers have both a cell phone and an established bank 
+account in a licensed bank.  The mobile banking interface merely 
+allows the customer to access his/her account via the cell phone, 
+and all transactions take place through the banking system.  "Mobile 
+wallet" (as the term is used by the CBI) is when the phone itself 
+can store value and payments can be linked to an individual cell 
+phone account.  (For example, in some East Asian countries, one can 
+purchase from a vending machine using money stored on the cell 
+phone.)  CBI opposes mobile wallet because the cell phone companies 
+would act as banks in facilitating transactions and would be more 
+difficult to supervise against money laundering and terrorism 
+finance.  For the time being, the CBI will require all Iraqis 
+wanting mobile banking to first get a bank account that can be 
+linked to their cell phone.  (Comment:  Treasury's OTA is 
+extensively advising the CBI on bank regulation issues.  The GOI 
+will need to carefully weigh the potential economic benefits of a 
+more loosely regulated mobile banking sector with the prudential and 
+security concerns inherent in a proliferation of non-banks (telecoms 
+companies) providing bank-like services. End Comment.) 
+ 
+CBI WANTS NEW NATIONAL SWITCHES 
+TO BE LOCATED IN IRAQ 
+------------------------------- 
+ 
+¶12. (SBU) For a mobile banking system to work, all participating 
+banks must plug into an inter-operable electronic "switch" (a kind 
+of sophisticated server) that will clear their transactions in a 
+timely manner.  Several different bankcard switches already are in 
+operation.  The AMWAL consortium of 13 private banks in Iraq has a 
+switch located in Amman, Jordan through which the consortium offers 
+Visa, Mastercard, and other electronic banking services.  Warka Bank 
+(private), Rafidain (state-owned), Rasheed (state-owned), and the 
+Trade Bank of Iraq (state-owned) all have their own switches, too. 
+Treasury's OTA is helping the CBI with the new architecture of their 
+payments system, which will include a new "national bankcard switch" 
+Qpayments system, which will include a new "national bankcard switch" 
+and a "national mobile banking switch," that would act as umbrella 
+switches over the various other switches, making them 
+inter-operable.  The Central Bank will require these switches to be 
+physically located in Iraq.  Treasury's OTA indicates that the two 
+switches could be up and running within the next year. 
+ 
+STATE BANKS NEED CORE BANKING SYSTEMS 
+------------------------------------- 
+ 
+¶13. (SBU) Before the state banks can be involved in mobile banking, 
+they all need to install a "core banking system," an integrated 
+computer system handling a bank's basic operations, such as 
+recording transactions, interest calculations on loans and deposits, 
+customer records, payments, and withdrawals.  A core banking system 
+allows customers with an account at one branch to access their 
+account seamlessly at any other branch of that bank. 
+ 
+¶14. (SBU) Treasury's OTA is helping the state-owned banks 
+restructure and modernize.  With OTA's help, Rafidain and Rasheed 
+Banks both now have computer systems at their Baghdad headquarters 
+and at each branch, but they are not interconnected.  Rafidain is in 
+the process of rolling out a core banking system at its headquarters 
+and 160 branches, and could be finished within a year.  Once the 
+state-banks' systems are up and running, the goal would be to 
+connect them to a national bankcard switch.  According to Treasury 
+OTA, the state banks could also offer a mobile banking interface. 
+ 
+BAGHDAD 00000518  004 OF 004 
+ 
+ 
+(Comment:  USF-I, J-6 (Communications and Information Systems 
+Directorate) assesses that limited national information 
+infrastructure and lack of a terrestrial communications backbone 
+will prove a major challenge to this initiative.  However, it 
+appears the core banking systems are intended to run through 
+satellite links, which may reduce this limitation. End Comment.) 
+ 
+GOI ENTITIES STILL LIMITED 
+TO STATE-OWNED BANKS 
+-------------------------- 
+ 
+¶15. (SBU) The Ministry of Finance (MOF) has long had a policy 
+limiting GOI entities (e.g., ministries, provincial governments, and 
+state-owned enterprises) to using state-owned banks, with very few 
+exceptions.  The Minister of Finance recently released a letter 
+allowing self-funded state-owned enterprises (the ones that do not 
+receive any funding from the federal budget) to use private banks as 
+soon as the CBI releases relevant guidance.  CBI Director of Banking 
+Supervision Walid Eidy told us January 13 that his team was writing 
+guidance for the CBI Governor to approve shortly.  (Comment:  During 
+the week of February 14, the Council of Ministers reportedly issued 
+official "instructions" to all government entities (including 
+self-funded SOEs) that they are prohibited from doing any business 
+with private banks.  End comment.) 
+ 
+SMART CARD SYSTEM PROBABLY BETTER FOR 
+LARGE GOI PAYROLLS IN SHORT TERM 
+------------------------------------- 
+ 
+¶16. (SBU) Given that the MOF only allows GOI entities to use 
+state-owned banks, and that the state-owned banks are still working 
+on their core banking systems (and have still not connected into a 
+national switch), it appears unlikely that GOI employees could be 
+paid via mobile phone in the short-term, even if "mobile wallet" 
+were allowed.  Meanwhile, an electronic payment scheme for GOI 
+employee salaries and pensions already exists:  the "Smart Card" 
+system through Rafidain and Rasheed Banks.  If the goal of a project 
+were to find a way to quickly set up an e-payment scheme directly 
+and transparently on a larger scale, the existing "Smart Card" 
+system would appear the way to go.  Treasury's OTA provided guidance 
+to the GOI's "Smart Card," project, in which over one million 
+individuals currently receive their pay electronically on a special 
+card.  This system appears to be working well, as many provincial 
+governors are eager to have their province join.  The Smart Card 
+system itself may develop a mobile phone interface in the next 
+couple of years, according to Treasury OTA. 
+ 
+FORD

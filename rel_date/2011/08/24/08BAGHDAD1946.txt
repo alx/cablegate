@@ -1,0 +1,89 @@
+08BAGHDAD1946
+IRAQI BANKS MOVE ELECTRONS INSTEAD OF PAPER
+Wed Jun 25 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Baghdad
+VZCZCXRO2845
+PP RUEHBC RUEHDA RUEHDE RUEHIHL RUEHKUK
+DE RUEHGB #1946 1771330
+ZNR UUUUU ZZH
+P 251330Z JUN 08
+FM AMEMBASSY BAGHDAD
+TO RUEHC/SECSTATE WASHDC PRIORITY 7981
+INFO RUCNRAQ/IRAQ COLLECTIVEUNCLAS BAGHDAD 001946 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN IZ
+SUBJECT: IRAQI BANKS MOVE ELECTRONS INSTEAD OF PAPER 
+ 
+¶1. Summary: While Iraq's economy remains predominately 
+cash-based, the banking system has begun a shift toward 
+electronic payments.  From December through April, 
+Iraqi-owned banks more than quadrupled the monthly value of 
+transactions they direct through electronic funds transfers 
+(EFT).  Private banks lead the way, with 60 percent of their 
+branches EFT-capable, while no state-owned banks offer 
+domestic EFT services to the public.  The USG sparked this 
+modernization, first through assistance to the Central Bank 
+of Iraq (CBI) and then through an emphasis on electronic 
+payments by the Joint Contracting Command - Iraq (JCCI).  As 
+banks and businesses gain experience with the speed, safety, 
+and low cost of EFT, we expect it to slowly displace the use 
+of cash in wholesale transactions.  An important side benefit 
+of progress in this area is that use of EFT may accelerate 
+GOI budget execution.  End summary. 
+ 
+¶2. In 2004 the U.S. Treasury Department contracted with New 
+York-based Montran Corp. to build a modern payments system in 
+Iraq through an $18-million program to deliver equipment, 
+technical assistance, and training to the CBI.  By 2006 the 
+new system offered both real-time gross settlement (RTGS) and 
+automated clearinghouse (ACH) services.  The ACH service, 
+which is designed to process low-value, high-volume retail 
+and payroll transactions, remains unused for now.  But for 
+RTGS, which is designed to process large inter-bank 
+transfers, monthly transaction value has more than doubled 
+since December 2007. 
+ 
+¶3. The expansion of EFT in Iraq is a reflection of the 
+increasing importance of privately owned banks.  While the 
+seven state-owned banks hold 80 percent of non-GOI deposits 
+in the system, the 32 private banks operate more than a third 
+of the 726 bank branches in the country.  About 60 percent of 
+the branches of private banks offer EFT services, while no 
+branches of state-owned banks are EFT capable.  The private 
+banks' modern capabilities are helping them expand their 
+business. 
+ 
+¶4. The USG played a role not only in building Iraq's EFT 
+infrastructure but also in promoting its use.  In particular, 
+the Department of Defense Task Force for Business Stability 
+Operations (TFBSO) sought to direct more USG payments through 
+Iraq's EFT system.  In October 2007, with help from TFBSO, 
+JCCI established a new policy to use EFT for all contract 
+awards of $50,000 or more.  This created a snowball effect in 
+subsequent months.  By May the volume of RTGS transactions 
+was more than triple the volume in October.  The aggregate 
+monthly value of RTGS transactions is now more than twice as 
+high as in the first six months of 2007.  Now TFBSO is 
+working with Iraq's private banks to promote the use of ACH 
+for retail payments. 
+ 
+¶5. Comment: Iraq's economy still runs mainly on cash, but 
+with "plumbing" installed by Treasury and "pump priming" 
+engineered by TFBSO and JCCI, Iraq's banking system has taken 
+a big step forward.  There will be greater gains when EFT 
+moves into the retail sector with ACH services.  Among other 
+effects, EFT can begin to replace the state-owned banks' 
+creaky, corruption-prone, cash-based system for distributing 
+wages, pensions, and other benefits for the GOI and 
+state-owned enterprises -- once the GOI develops the 
+political will to implement EFT for its own transactions. 
+More immediately, EFT may also prove to be another way of 
+easing bottlenecks that hamper GOI budget execution.  Iraqi 
+banks without EFT can take up to three weeks to process a 
+payment.  With EFT, the same transaction can be completed in 
+less than a day. 
+CROCKER

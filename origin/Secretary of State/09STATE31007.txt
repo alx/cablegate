@@ -1,0 +1,313 @@
+09STATE31007
+BLUE LANTERN: IRAQ END-USE MONITORING AND NDAA
+Tue Mar 31 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0001
+PP RUEHWEB
+
+DE RUEHC #1007 0902011
+ZNR UUUUU ZZH
+P 311951Z MAR 09
+FM SECSTATE WASHDC
+TO RUEHGB/AMEMBASSY BAGHDAD PRIORITY 0000
+INFO RHEHNSC/NSC WASHINGTON DC PRIORITY 0000
+RUETIAA/DIRNSA FT GEORGE G MEADE MD PRIORITY 0000
+RHMFISS/JOINT STAFF WASHINGTON DC PRIORITY
+RUEAIIA/CIA WASHINGTON DC PRIORITY 0000
+RHMCSUU/FBI WASHINGTON DC PRIORITY 0000
+RUEKJCS/SECDEF WASHINGTON DC PRIORITY
+RUCPDOC/USDOC WASHINGTON DC PRIORITY 0000UNCLAS STATE 031007 
+ 
+SIPDIS 
+BAGHDAD FOR DAVID HOWELL 
+BAGHDAD FOR NATALIE AHN 
+BAGHDAD FOR MNSTC-I SAO 
+BAGHDAD FOR MNSTC-I J4 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC IZ KOMC OTRA PARM PREL
+SUBJECT: BLUE LANTERN: IRAQ END-USE MONITORING AND NDAA 
+SECTION 1228 
+ 
+¶1. Summary:  A joint DOS Blue Lantern/DoD Golden Sentry team 
+visited Iraq February 24-28 for consultations on end-use 
+monitoring (EUM) of U.S.-provided or licensed defense 
+articles, and NDAA Section 1228 compliance.  The joint team 
+met with Iraqi MOD, Counter-Terrorism Bureau and Special 
+Operations Forces, and with the Security Assistance Office 
+(SAO) for the Multi-National Security Transition Command Iraq 
+(MNSTC-I), J4, U.S. Embassy Baghdad Political-Military 
+Affairs Section, as well as U.S. military transition teams. 
+In addition to working to develop a standard operating 
+procedure (SOP) on NDAA Section 1228 compliance, discussions 
+focused on EUM of night vision devices (NVDs). Significant 
+challenges with NVD accountability in Iraq remain, 
+particularly given ongoing combat deployments of the 
+equipment with Iraqi Security Forces (ISF) units.  End 
+Summary. 
+ 
+¶2. Background:  Administered by the Office of Defense Trade 
+Controls Compliance (PM/DTCC) in the Bureau of 
+Political-Military Affairs, Blue Lantern is a global program 
+designed to verify the end-use, end-users, and disposition of 
+defense articles, technology, and services exported under a 
+Department of State authorization pursuant to the Arms Export 
+Control Act (AECA) and the International Traffic in Arms 
+Regulations (ITAR). In effect since October 23, 2008, the 
+National Defense Authorization Action (NDAA) of 2008, Section 
+1228 mandates the development of a "registration and 
+monitoring" system for all lethal defense articles provided 
+to Iraqi end-users.  Specifically, NDAA Section 1228 requires 
+the registration of serial numbers of all small arms provided 
+to the government of Iraq or to other groups, organizations, 
+citizens and residents of Iraq, as well as an "end-use 
+monitoring" program for all "lethal defense articles" 
+provided to "such entities or individuals."  As both direct 
+commercial sales (DCS) licensed by the Department of State 
+and Foreign Military Sales (FMS) under Department of Defense 
+authorities are affected, a joint DOS-DOD team was composed 
+to conduct a joint end-use monitoring (EUM) and NDAA Section 
+1228 compliance assessment.  Research and Analysis Division 
+Chief Ed Peartree and Compliance Specialist for Iraq 
+Monitoring Kyle Ballard from PM/DTCC represented the 
+Department.  CENTCOM Golden Sentry Program Manager Chuck 
+Handal and CENTCOM EUM Officer Lt. Commander Martin Thomas 
+represented the Department of Defense,s Defense Security 
+Cooperation Agency (DSCA) 
+ 
+¶3.    Team began the visit with MNSTC-I SAO EUM team Major 
+Gene Beltran and Captain Steven Moore.  Beltran and Moore 
+described their roles within MNSTC-I SAO organization as 
+primarily working FMS cases for Iraqi forces and related EUM; 
+they noted that since the release of NDAA Section 1228 they 
+have been following DCS weapons and night vision devices 
+(NVDs) as well and had developed an SOP for Section 1228 
+compliance. 
+ 
+¶4.    Iraqi Special Operations Forces (ISOF) HQ visit: 
+DOS/DOD team and MNF-I Special Operations Iraqi Transition 
+Team (SOITT) Lt. Col. Nelson and ordnance officer Major Kevin 
+Groth met with Deputy Commander of the ISOF Brigadier General 
+Falah and Colonel Husayn.  DOS/DOD team toured ISOF arms 
+rooms and reviewed weapons accountability procedures. 
+Security and inventory control procedures for ISOF arms rooms 
+were well established and ISOF appeared to stress strict 
+adherence.  Both U.S. infantry weapons and NVDs (U.S.-made 
+AN-PVS 7, 10, 14, and 17) were observed.  SOITT and ISOF were 
+cognizant of U.S. EUM requirements.  Nearly all U.S.-provided 
+NVDs in Iraq are provided to Special Operations units; 
+General Falah stressed the criticality of night vision 
+capability to their operations.  Major Groth outlined key 
+challenges such as the need for better maintenance, repair, 
+and stockage of spare parts (particularly image 
+intensification tubes).  Currently there is limited 
+capability for maintenance and repair, and a significant 
+backlog of damaged equipment.  Anham, a U.S. contractor, has 
+a contract to do repair/maintenance at the Taji National 
+Depot Complex, but ISOF has limited access and significant 
+logistics challenges as Taji is many miles away.  In 
+addition, Anham has no repair parts on the shelf (bench 
+stock), and is currently unable to perform NVD maintenance 
+until parts can be ordered and received.  This lack of 
+service/bench stock had led to the inadvertent provision  of 
+replacement tubes over the 1250 Figure of Merit (FOM) limit 
+allowed for export to non-US forces -- a problem identified 
+by an October 2008 DOD Inspector General team and resulting 
+in a 15-6 report (violation). 
+ 
+¶5.    DOS-DOD team met separately with SOITT to discuss these 
+continuing problems and identify a way forward.  MNSTC-I SAO 
+had issued a fragmentary order (FRAGO) to all U.S. training 
+forces warning about providing tubes from US stocks into 
+Iraqi NVDs.  (Comment: all DOS authorizations for export of 
+NVDs include provisos strictly prohibiting export of any NVDs 
+with FOM above 1250 and requiring end-user to sign a 
+statement of compliance with these restrictions. It is 
+unclear, however, that these are being provided to Iraqi 
+end-users or that the statements of compliance are being 
+fulfilled.)  An ideal solution would be an on-site service 
+facility with an appropriately licensed agreement to provide 
+services/spare parts.  Such a facility should be managed and 
+funded by the Government of Iraq. 
+ 
+¶6.     Iraqi MOD (IMOD) Central Auditing Office: Team 
+provided an end-use monitoring briefing for Brigadier General 
+Hakim, Brigadier General Asam, and the Director General of 
+Acquisition and Supply.  Central Auditing is the IMOD focal 
+point for managing disposition of weapons and other defense 
+articles; Central Auditing had been working with MNSTC-I SAO 
+team on tracking NVDs provided to the Iraqi Security Forces 
+(ISF) by the United States.  The Director General of 
+Acquisition and Supply manages logistics, procurement and 
+distribution of defense articles for ISF.  Weapons and other 
+defense articles to be provided by USG to ISF are logged and 
+inventoried on arrival to Taji in depot property books and 
+again, jointly, when they are distributed to ISF. (Comment: 
+Taji National Depot Complex - Supply Depot, per MNSTC-I 
+policy statement #03-08, March 24, 2008, serves as principal 
+depot for distribution of all U.S.-provided defense articles 
+to the ISF.)  Distribution to the ISF unit level is also 
+subject to regular inventory verification procedures through 
+an established chain of command.  Any damaged, lost, or 
+stolen equipment is reviewed by an investigative committee 
+which assesses responsibility and punitive action.  The 
+General assured that strict weapons security measures were in 
+place to prevent loss and theft. 
+ 
+¶7.    DOS-DOD EUM team visited Iraqi Counter-Terrorism Bureau 
+(CTB) to provide an EUM brief and discuss Section 1228 
+requirements, as well as share the details of our NVD 
+accountability discussion with ISOF.  CTB is the central 
+bureau under which ISOF operates. 
+ 
+¶8.    MNSTC-I SAO and J4 discussions:  Team discussed way 
+forward and challenges for EUM in Iraq with MNSTC-I SAO Chief 
+of Staff Colonel Russ Kern.  Blue Lantern representatives 
+emphasized that DOS compliance with Section 1228 will require 
+close coordination with and support from MNSTC-I; this was 
+outlined in PM A/AS Ruggiero,s August 29, 2008 letter to 
+DSCA Director Admiral Wieringa.  Colonel Kern confirmed that 
+SAO EUM team will be POC and requested that Department of 
+State clearly articulate needs from SAO EUM.  Blue Lantern 
+team envisioned that Blue Lantern cables would be sent from 
+Washington to Embassy Baghdad Political-Military Affairs 
+section requesting end-use checks on exports of lethal 
+defense articles; Pol-Mil section would then coordinate with 
+MNSTC-I SAO EUM team and J4.  Given that DCS NVDs are being 
+provided in support of ISF, and are not subject to DSCA 
+Golden Sentry enhanced end-use monitoring as FMS NVDs are, 
+Kern suggested that SAO EUM would be able to perform checks 
+on these items incidentally while doing their mandatory FMS 
+EUM.  Kern also emphasized the challenges of performing EUM 
+in non-permissive environments where combat operations 
+involving MNF-I and ISF forces are continuing; agreement was 
+made that reporting standards be qualified to include "as 
+security environment, force protection posture, and resources 
+permit." 
+ 
+¶9.    J4 Property Accountability Section Chief LTC Sharon 
+Johnson described how serial numbers for all U.S.-provided 
+weapons and other defense articles contracted by the Joint 
+Contracting Command - Iraq (JCC-I) for provision to ISF -- 
+whether FMS or DCS -- are sent to MNSTC-I J4 Property 
+Accountability Section.  U.S. brokered foreign weapons 
+purchased with USG funds would also be included, as they 
+would pass through JCCI/MNSTC-I. When new weapons arrive, 
+notification via Delivery Document (DD-250) is emailed to J4 
+with serial numbers.  Other serialized items -- NVGs, 
+vehicles, etc.  are also logged and all items are uploaded 
+into a database which includes origin, delivery date, item 
+description, end-user and other relevant information. 
+Non-serialized items are also logged (e.g., uniforms) as 
+"issue logs."  DCS weapons and other USML items to be used by 
+private security firms would not/not be logged if they are 
+not under JCC-I contract.  On a quarterly basis, all weapons 
+serial numbers logged by J4 are forwarded to Army Logistics 
+Command (LOGSA) and to DSCA Golden Sentry.  Abu Ghraib 
+warehouse is soon closing and the Baghdad Police College will 
+be the distribution point for the Iraqi MOI. 
+ 
+¶10. J4 conveyed to Blue Lantern team that it is able and 
+willing to verify DCS exports for which it has records by 
+matching serial numbers provided to DDTC by exporters with 
+those collected via DD-250 in the J4 database.  Following 
+verification of export in Washington, DDTC will forward 
+serial numbers to J4 via email to confirm receipt and 
+delivery to appropriate ISF end-users. 
+ 
+¶11. Embassy Baghdad Political-Military Section:  Blue Lantern 
+team briefed Political-Military Affairs Minister-Counselor 
+Michael Corbin and officers Natalie Ahn and David Howell on 
+NDAA Section 1228 requirements and implications for Embassy 
+Baghdad,s Blue Lantern responsibilities.  Corbin asked about 
+the expected increase in volume of Blue Lantern end-use 
+checks that would be sent to Embassy and sought clarification 
+on the scope of the law.  Peartree indicated that based on 
+recent licensing volume, the number of Blue Lantern requests 
+would not be excessive, and that Blue Lanterns pursuant to 
+NDAA Section 1228 would generally be initiated for USG-funded 
+weapons supplied to Iraqi end-users; defense articles 
+acquired through FMS -- which we expect to be the bulk of 
+future weapons exports -- would fall under the jurisdiction 
+of DOD,s Golden Sentry EUM program.  Similarly, weapons and 
+other U.S. Munitions List (USML) items provided under DOS 
+license for private security contractors -- the bulk of 
+recent licensed exports to Iraq -- would not in most cases 
+require Blue Lantern action in Baghdad, as DDTC would work 
+directly with U.S. companies/exporters to obtain necessary 
+information and end-use assurances. 
+ 
+¶12. Hotwash: Reviewing findings and outlining way forward. 
+Joint Blue Lantern and Golden Sentry team met with MNSTC-I 
+and Embassy Baghdad representatives to review visit and 
+outline an SOP for end-use monitoring in Iraq.  Peartree 
+emphasized that though there were different means to an end, 
+both DSCA (Golden Sentry) and DOS Blue Lantern program were 
+focused on the same mission: accountability and security of 
+defense exports to Iraq.  As a notional SOP for Blue Lantern 
+end-use monitoring of DCS exports subject to NDAA Section 
+1228, the following guidance was outlined: 
+ 
+Following confirmation of shipment of lethal defense articles 
+licensed by the Department of State for Iraqi end-users, a 
+Blue Lantern cable will be sent from Washington to Embassy 
+Baghdad (Political-Military Affairs). 
+DDTC will also forward to Embassy Baghdad, via email, an 
+excel spreadsheet including serial numbers of lethal defense 
+articles in the subject export. 
+Embassy Baghdad will coordinate with MNSTC-I SAO EUM and J4 
+team to confirm receipt of the subject lethal defense 
+articles and verify that they have been delivered to the 
+appropriate ISF end-users identified in the Blue Lantern 
+cable. 
+Embassy Baghdad will also forward serial numbers spreadsheet 
+to MNSTC-I J4 to verify and match the serial numbers provided 
+to DDTC at export with those received in Iraq. 
+Results of the Blue Lantern check will be cabled back to 
+Washington by Embassy Baghdad. 
+DCS exports licensed by the Department of State to private 
+security contractors will generally be handled directly with 
+license applicant by DDTC in Washington, though they may, 
+from time to time, require Blue Lantern checks in Iraq. 
+ 
+¶13. Efforts to gain accountability of both FMS and DCS NVDs 
+in Iraq will continue.  Limited responses to the first FRAGO 
+would hopefully improve following a second FRAGO (deadline 
+March 15) sent out across MNSTC-I seeking accountability of 
+USG-provided NVDs within ISF units.  Embassy Baghdad Pol-Mil 
+officer David Howell asked Colonel Kern to provide a 
+timeline by which a baseline would be established for NVDs; 
+estimates of the number of NVDs provided to ISF during the 
+past several years varied widely and accountability will 
+remain elusive until a unit by unit inventory can be taken. 
+Peartree emphasized that since the DCS NVDs licensed under 
+the Department,s authorities were not subject to DSCA Golden 
+Sentry EUM requirements and the SAOs end-use monitoring 
+checks, DDTC is dependent on regular reporting of loss, theft 
+or unauthorized access stipulated in DOS license provisos; 
+Iraqis will need to provide this reporting to keep us 
+apprised of security problems and avoid more serious problems 
+in the future that could jeopardize DCS NVD exports. 
+ 
+¶14. Comments: Blue Lantern team is confident that Blue 
+Lantern checks in Iraq pursuant to NDAA Section 1228 can be 
+successfully completed by Embassy Baghdad working with 
+MNSTC-I SAO EUM and J4 contacts.  Given that the ISF 
+conversion from legacy Warsaw Pact infantry weapons (e.g., 
+AK-47 rifles) to NATO-standard will largely be completed via 
+FMS, we do not anticipate a significant increase in DCS 
+exports subject to NDAA Section 1228 requirements.  EUM for 
+NVDs remains a challenge; working with U.S. exporters and 
+Iraqi end-users to ensure compliance with license provisos, 
+and assistance from SAO EUM team in Baghdad will help improve 
+accountability and controls.  We will also work to improve 
+compliance with NVD provisos in Washington by reinforcing 
+requirements imposed on license applicants to ensure end-user 
+understandings of USG law, regulation and policy. 
+ 
+¶15. Washington expresses gratitude for the excellent support 
+provided by Embassy Baghdad Political-Military Affairs 
+Officers Natalie Ahn and David Howell, and MNSTC-I Major Gene 
+Beltran (USAF) and Captain Steve Moore (USAF). 
+CLINTON

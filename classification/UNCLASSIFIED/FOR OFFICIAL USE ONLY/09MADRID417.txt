@@ -12,210 +12,210 @@ FM AMEMBASSY MADRID
 TO RUEHC/SECSTATE WASHDC PRIORITY 0553
 INFO RUCNMEM/EU MEMBER STATES COLLECTIVE
 RUEHLA/AMCONSUL BARCELONA 3964
-RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS SECTION 01 OF 03 MADRID 000417
-
-SENSITIVE
-SIPDIS
-
-STATE FOR EEB/TPP/IPE AND EUR/WE
-STATE PASS USTR JGROVES AND DWEINER
-STATE PASS COPYRIGHT OFFICE
-USDOC FOR 4332/DCALVERT
-USDOC ALSO FOR USPTO
-
-E.O. 12958: N/A
+RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS SECTION 01 OF 03 MADRID 000417 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EEB/TPP/IPE AND EUR/WE 
+STATE PASS USTR JGROVES AND DWEINER 
+STATE PASS COPYRIGHT OFFICE 
+USDOC FOR 4332/DCALVERT 
+USDOC ALSO FOR USPTO 
+ 
+E.O. 12958: N/A 
 TAGS: ECON ETRD KIPR ECPS SP
-SUBJECT: INTERNET PIRACY IN SPAIN: SUSPENSION OF
-PRIVATE-SECTOR NEGOTIATIONS
-
-REF: A. MADRID 410
-¶B. MADRID 397
-¶C. MADRID 224 AND PREVIOUS
-
-MADRID 00000417 001.2 OF 003
-
-
-SENSITIVE BUT UNCLASSIFIED - PLEASE PROTECT ACCORDINGLY
-
-SUMMARY
--------
-
-¶1. (SBU) On April 17, negotiations between the association
-of Internet Service Providers (ISPs) ("Redtel") and the
-Coalition of Creators and Content Industries ("Coalition")
-were suspended. The parties had been meeting regularly for
-almost a year in an attempt to negotiate an agreement on
-combating internet piracy. According to Coalition sources,
-Redtel advised that it could not accept the Coalition's
-latest proposal and did not see any point in negotiating
-further. The government, which had been pressing the parties
-to reach an agreement that it hoped would serve as a basis
-for legislative and regulatory reform, asked each side to
-send its proposal in the hopes of identifying a solution that
-would bridge the differences between the two sides. However,
-the proposal submitted by Redtel was four months old and did
-not recognize more recently negotiated points of agreement.
-The government is analyzing the proposals and must decide
-whether to try to broker an agreement or to develop and
-implement its own initiative independent of service and
-content providers' positions. End Summary.
-
-MOVING TOWARDS A GRADUATED RESPONSE SYSTEM
-
-¶2. (SBU) Per ref C, the GOS has long believed that any
-"graduated response" regime or other package of measures to
-dissuade internet users from unauthorized file-sharing and
-punish repeat offenders will be politically controversial,
-and has pinned its hopes on the private-sector negotiations.
-Senior government officials had pressed the presidents of
-Redtel and the Coalition to submit their agreement by
-December 31, and then by March 4. After the parties missed
-both deadlines, the government reportedly expressed the
-intention to form a Working Group to develop its own
-solutions. This was apparently an attempt to pressure the
-parties to conclude a voluntary agreement rather than have
-the government impose its will.
-
-¶3. (SBU) As might be expected, the parties have approached
-the negotiations from vastly different perspectives. Redtel,
-whose members represent four major telecommunications
-companies - Telefonica, Vodaphone, ONO, and Orange - is
-mostly interested in the "business model" aspects of the
-agreement, in which content providers would agree to make
-some content available online, which the ISPs could market.
-This poses a problem for the U.S.-based Motion Picture
-Association of America (MPAA - perhaps the most influential
-Coalition member), which argues that it can agree to general
-statements about the desirability of online legal content but
-cannot, for U.S. anti-trust reasons, enter into business
-negotiations with Redtel on behalf of its members, which are
-individually considering online distribution deals.
-
-THE DEAL THAT WAS ON THE TABLE
-
-¶4. (SBU) With respect to dissuasive measures, before the
-negotiations were suspended, the parties had reportedly
-agreed to a watered-down version of the graduated response
-regime currently under consideration in the French
-legislature. The parties would agree to ask the government
-to create a national commission to receive complaints about
-illicit websites and downloading activity and send warning
-letters. However, the government believes it could probably
-send only about 1000 such letters per month. Websites that
-post IPR-infringing content would receive only one warning
-before being blocked; Coalition president Aldo Olcese
-believes that some 70 sites account for 80 percent of all
-infringing content and that their takedown would go a long
-way towards solving the problem. With respect to individual
-users who download infringing content, Redtel is on board
-with sending them two warning letters but insists that any
-agreement explicitly rule out suspension of internet access
-as a sanction for repeat offenders. Representatives of the
-film and music industries accept that account suspension
-should be a rarely used last resort in extreme cases but have
-not agreed to eliminate it as an option. Redtel also
-
-MADRID 00000417 002.2 OF 003
-
-
-believes that fines should be the only sanction for offenders
-who ignore the first two warning letters. Its negotiators
-argue that such technical measures as posting reminder
-warnings on individual internet accounts or reducing
-bandwidth are too difficult and costly to implement or too
-interventionist. Content providers insist, however, that the
-agreement include the possibility of some technical measures,
-even if the specific details are left to be worked out later.
-
-¶5. (SBU) According to Olcese, Redtel had agreed to the legal
-and regulatory aspects of the agreement. To reduce the
-burden on the government, these would be minimal: The parties
-would ask the government to amend the 2002 Law on Information
-Society Services and Electronic Commerce (LSSI) to create the
-government body to implement the graduated response regime,
-and to some provisions regulating that law. They would also
-propose amendments to the law governing civil procedure to
-remove some of the obstacles that impede rights-holders from
-pursuing civil remedies against internet pirates. There are
-conflicting accounts as to whether the parties would also
-call on the government to amend the Prosecutor General's 2002
-Circular that currently makes it almost impossible to obtain
-criminal convictions in digital piracy cases. However,
-according to Coalition sources, the proposal Redtel sent to
-the government includes none of the legislative or regulatory
-provisions, focusing almost entirely on business model issues
-and minimizing the legal and technical elements.
-
-GOVERNMENT PONDERS NEXT STEPS
-
-¶6. (SBU) According to Salvador Soriano, Deputy Director for
-Information Society Services in the Ministry of Industry,
-Tourism, and Trade, the government is disappointed to learn
-that negotiations have failed. It is currently studying each
-side's proposal to see if there are enough areas of agreement
-to provide a basis for government action. Carlos Guervos,
-acting Deputy Director for Intellectual Property at the
-Ministry of Culture, characterized the breakdown as a small
-hurdle. He said the Culture Ministry is determined that
-there will be new regulations to address internet piracy; it
-would be easier if they were based on a private-sector
-agreement, but if that is not possible, the government will
-develop its own solution.
-
-¶7. (SBU) Leading members of the Coalition hope that the
-government, eager to avoid embarrassment given how much it
-has riding on a successful negotiation, will persuade Redtel
-to return to the table with a more forthcoming attitude. The
-status quo - a legal regime that makes it almost impossible
-for content providers to enforce their rights and a
-prevailing public belief that P2P file-sharing is or should
-be legal - is unsustainable for content providers but
-advantageous for Internet Service Providers. Redtel members
-and their parent companies state that they will obey any law
-or regulation that the government enacts but have been
-reluctant to undertake any voluntary measures for fear of
-alienating their client base. Pedro Farre, government
-affairs director for the General Society of Authors and
-Publishers (SGAE), explains Redtel's withdrawal from
-negotiations as "a piece of theater." The recent campaign by
-the Internet Users' Association ("Internautas") to drive out
-the new Minister of Culture (ref B), he explained, enables
-Redtel members to argue that anyone who agrees to restrict
-internet use in any way will be the object of overwhelming
-popular wrath. (Comment: The alleged fear of the Internautas
-seems exaggerated to us, as they have not proven able to
-mobilize significant numbers for any event.)
-
-COMMENT
-
-¶8. (SBU) Even if this impasse is overcome, there may be more
-bumps in the road ahead. In March, the parties were
-reportedly close to a deal, with only MPAA holding out,
-preferring no deal at all to what it considered an inadequate
-offer. Other stakeholders, believing that an agreement
-without the participation of MPAA would lack credibility,
-prevailed upon the Association to continue to negotiate.
-There continue to be disagreements within both the Coalition
-- especially between the film and music industry groups and
-copyright management societies like SGAE - and Redtel,
-between Telefonica and smaller ISPs. This time it is Redtel
-that prefers no deal to one that it believes will bring major
-headaches.
-
-MADRID 00000417 003.2 OF 003
-
-
-
-¶9. (SBU) This impasse offers the government an opportunity
-to exercise leadership, but it remains unclear whether the
-government will work actively to help the parties overcome
-their differences, or propose a solution of its own, or take
-no action. One school of thought is that the government
-would like to defer this issue until after European
-Parliament elections in June. Coalition members are hopeful
-that anti-piracy legislation will pass soon in France,
-possibly influencing the calculations of Redtel and the
-government. Post will use our upcoming meeting to inform the
-GOS of its Special 301 status to emphasize the importance we
-attach to GOS action. End Comment.
+SUBJECT: INTERNET PIRACY IN SPAIN: SUSPENSION OF 
+PRIVATE-SECTOR NEGOTIATIONS 
+ 
+REF: A. MADRID 410 
+     ¶B. MADRID 397 
+     ¶C. MADRID 224 AND PREVIOUS 
+ 
+MADRID 00000417  001.2 OF 003 
+ 
+ 
+ SENSITIVE BUT UNCLASSIFIED - PLEASE PROTECT ACCORDINGLY 
+ 
+SUMMARY 
+------- 
+ 
+¶1.  (SBU) On April 17, negotiations between the association 
+of Internet Service Providers (ISPs) ("Redtel") and the 
+Coalition of Creators and Content Industries ("Coalition") 
+were suspended.  The parties had been meeting regularly for 
+almost a year in an attempt to negotiate an agreement on 
+combating internet piracy.  According to Coalition sources, 
+Redtel advised that it could not accept the Coalition's 
+latest proposal and did not see any point in negotiating 
+further.  The government, which had been pressing the parties 
+to reach an agreement that it hoped would serve as a basis 
+for legislative and regulatory reform, asked each side to 
+send its proposal in the hopes of identifying a solution that 
+would bridge the differences between the two sides.  However, 
+the proposal submitted by Redtel was four months old and did 
+not recognize more recently negotiated points of agreement. 
+The government is analyzing the proposals and must decide 
+whether to try to broker an agreement or to develop and 
+implement its own initiative independent of service and 
+content providers' positions.  End Summary. 
+ 
+MOVING TOWARDS A GRADUATED RESPONSE SYSTEM 
+ 
+¶2.  (SBU) Per ref C, the GOS has long believed that any 
+"graduated response" regime or other package of measures to 
+dissuade internet users from unauthorized file-sharing and 
+punish repeat offenders will be politically controversial, 
+and has pinned its hopes on the private-sector negotiations. 
+Senior government officials had pressed the presidents of 
+Redtel and the Coalition to submit their agreement by 
+December 31, and then by March 4.  After the parties missed 
+both deadlines, the government reportedly expressed the 
+intention to form a Working Group to develop its own 
+solutions.  This was apparently an attempt to pressure the 
+parties to conclude a voluntary agreement rather than have 
+the government impose its will. 
+ 
+¶3.  (SBU) As might be expected, the parties have approached 
+the negotiations from vastly different perspectives.  Redtel, 
+whose members represent four major telecommunications 
+companies - Telefonica, Vodaphone, ONO, and Orange - is 
+mostly interested in the "business model" aspects of the 
+agreement, in which content providers would agree to make 
+some content available online, which the ISPs could market. 
+This poses a problem for the U.S.-based Motion Picture 
+Association of America (MPAA - perhaps the most influential 
+Coalition member), which argues that it can agree to general 
+statements about the desirability of online legal content but 
+cannot, for U.S. anti-trust reasons, enter into business 
+negotiations with Redtel on behalf of its members, which are 
+individually considering online distribution deals. 
+ 
+THE DEAL THAT WAS ON THE TABLE 
+ 
+¶4.  (SBU) With respect to dissuasive measures, before the 
+negotiations were suspended, the parties had reportedly 
+agreed to a watered-down version of the graduated response 
+regime currently under consideration in the French 
+legislature.  The parties would agree to ask the government 
+to create a national commission to receive complaints about 
+illicit websites and downloading activity and send warning 
+letters.  However, the government believes it could probably 
+send only about 1000 such letters per month.  Websites that 
+post IPR-infringing content would receive only one warning 
+before being blocked; Coalition president Aldo Olcese 
+believes that some 70 sites account for 80 percent of all 
+infringing content and that their takedown would go a long 
+way towards solving the problem.  With respect to individual 
+users who download infringing content, Redtel is on board 
+with sending them two warning letters but insists that any 
+agreement explicitly rule out suspension of internet access 
+as a sanction for repeat offenders.  Representatives of the 
+film and music industries accept that account suspension 
+should be a rarely used last resort in extreme cases but have 
+not agreed to eliminate it as an option.  Redtel also 
+ 
+MADRID 00000417  002.2 OF 003 
+ 
+ 
+believes that fines should be the only sanction for offenders 
+who ignore the first two warning letters.  Its negotiators 
+argue that such technical measures as posting reminder 
+warnings on individual internet accounts or reducing 
+bandwidth are too difficult and costly to implement or too 
+interventionist.  Content providers insist, however, that the 
+agreement include the possibility of some technical measures, 
+even if the specific details are left to be worked out later. 
+ 
+¶5.  (SBU) According to Olcese, Redtel had agreed to the legal 
+and regulatory aspects of the agreement.  To reduce the 
+burden on the government, these would be minimal: The parties 
+would ask the government to amend the 2002 Law on Information 
+Society Services and Electronic Commerce (LSSI) to create the 
+government body to implement the graduated response regime, 
+and to some provisions regulating that law.  They would also 
+propose amendments to the law governing civil procedure to 
+remove some of the obstacles that impede rights-holders from 
+pursuing civil remedies against internet pirates.  There are 
+conflicting accounts as to whether the parties would also 
+call on the government to amend the Prosecutor General's 2002 
+Circular that currently makes it almost impossible to obtain 
+criminal convictions in digital piracy cases.  However, 
+according to Coalition sources, the proposal Redtel sent to 
+the government includes none of the legislative or regulatory 
+provisions, focusing almost entirely on business model issues 
+and minimizing the legal and technical elements. 
+ 
+GOVERNMENT PONDERS NEXT STEPS 
+ 
+¶6.  (SBU) According to Salvador Soriano, Deputy Director for 
+Information Society Services in the Ministry of Industry, 
+Tourism, and Trade, the government is disappointed to learn 
+that negotiations have failed.  It is currently studying each 
+side's proposal to see if there are enough areas of agreement 
+to provide a basis for government action.  Carlos Guervos, 
+acting Deputy Director for Intellectual Property at the 
+Ministry of Culture, characterized the breakdown as a small 
+hurdle.  He said the Culture Ministry is determined that 
+there will be new regulations to address internet piracy; it 
+would be easier if they were based on a private-sector 
+agreement, but if that is not possible, the government will 
+develop its own solution. 
+ 
+¶7.  (SBU) Leading members of the Coalition hope that the 
+government, eager to avoid embarrassment given how much it 
+has riding on a successful negotiation, will persuade Redtel 
+to return to the table with a more forthcoming attitude.  The 
+status quo - a legal regime that makes it almost impossible 
+for content providers to enforce their rights and a 
+prevailing public belief that P2P file-sharing is or should 
+be legal - is unsustainable for content providers but 
+advantageous for Internet Service Providers.  Redtel members 
+and their parent companies state that they will obey any law 
+or regulation that the government enacts but have been 
+reluctant to undertake any voluntary measures for fear of 
+alienating their client base.  Pedro Farre, government 
+affairs director for the General Society of Authors and 
+Publishers (SGAE), explains Redtel's withdrawal from 
+negotiations as "a piece of theater."  The recent campaign by 
+the Internet Users' Association ("Internautas") to drive out 
+the new Minister of Culture (ref B), he explained, enables 
+Redtel members to argue that anyone who agrees to restrict 
+internet use in any way will be the object of overwhelming 
+popular wrath.  (Comment: The alleged fear of the Internautas 
+seems exaggerated to us, as they have not proven able to 
+mobilize significant numbers for any event.) 
+ 
+COMMENT 
+ 
+¶8.  (SBU) Even if this impasse is overcome, there may be more 
+bumps in the road ahead.  In March, the parties were 
+reportedly close to a deal, with only MPAA holding out, 
+preferring no deal at all to what it considered an inadequate 
+offer.  Other stakeholders, believing that an agreement 
+without the participation of MPAA would lack credibility, 
+prevailed upon the Association to continue to negotiate. 
+There continue to be disagreements within both the Coalition 
+- especially between the film and music industry groups and 
+copyright management societies like SGAE - and Redtel, 
+between Telefonica and smaller ISPs.  This time it is Redtel 
+that prefers no deal to one that it believes will bring major 
+headaches. 
+ 
+MADRID 00000417  003.2 OF 003 
+ 
+ 
+ 
+¶9.  (SBU) This impasse offers the government an opportunity 
+to exercise leadership, but it remains unclear whether the 
+government will work actively to help the parties overcome 
+their differences, or propose a solution of its own, or take 
+no action.  One school of thought is that the government 
+would like to defer this issue until after European 
+Parliament elections in June.  Coalition members are hopeful 
+that anti-piracy legislation will pass soon in France, 
+possibly influencing the calculations of Redtel and the 
+government.  Post will use our upcoming meeting to inform the 
+GOS of its Special 301 status to emphasize the importance we 
+attach to GOS action.  End Comment. 
 CHACON

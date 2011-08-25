@@ -1,0 +1,125 @@
+09DAKAR252
+Senegal: Are the Electoral Rolls Corrupt?
+Fri Feb 27 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Dakar
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHDK #0252/01 0581135
+ZNR UUUUU ZZH
+R 271135Z FEB 09
+FM AMEMBASSY DAKAR
+TO RUEHC/SECSTATE WASHDC 1948
+INFO RUEHZK/ECOWAS COLLECTIVEUNCLAS DAKAR 000252 
+ 
+SIPDIS 
+SENSITIVE 
+ 
+DEPT FOR AF/W, AF/RSA, DRL AND INR/AA 
+PARIS FOR AFRICA WATCHER 
+ 
+E.O. 12958: N/A 
+TAGS: PGOV PREL PINS KDEM ECON SG
+SUBJECT: Senegal: Are the Electoral Rolls Corrupt? 
+ 
+¶1. (SBU) SUMMARY: On February 24, Embassy Pol staff debriefed two 
+computer experts who audited the national electoral database on 
+February 10-11, 2009.  The audit was requested by the coalition of 
+opposition parties and was conducted with the concurrence and 
+support of the Ministry of Interior that runs the database and 
+organizes all elections in Senegal.  The experts concluded that the 
+database is irredeemably flawed.  For the first time, it seems as if 
+the opposition has concrete evidence of at least incompetence or, at 
+worst, fraud that may cast a shadow over the reliability of the 
+elections results.  End Summary. 
+ 
+What's in a name? 
+------------------- 
+¶2. (SBU) Prior to the 2007 presidential elections, the opposition 
+had conducted an audit of the electoral database containing all 
+registered voters and did not find anything amiss.  Two weeks ago, 
+they repeated the same process audit but this time they seemed to 
+have been less fortunate.  The leading expert on the team, Iba 
+Gueye, told Embassy, "I don't know what led me to ask to see a 
+breakdown of the list by family names."  Upon closer inspection, 
+Gueye discovered 17,825 family names, this in a country where the 
+number of family names is very limited (many Senegalese are named 
+Ndiaye "njaay" or Diop, "joop").  Gueye continued, "By the looks of 
+it, real Senegalese names were taken and then new ones were created 
+by adding and removing letters.  Take for example the name Balde (of 
+which there were 49,824 entries in the database); in the list Balde 
+is preceded or followed by variants such as BALD, BALDECK, BALDEF 
+BALDA or BAL DEE.  What worries me the most is that all these names 
+represent legally registered voters, who have been assigned to 
+polling stations and who have legitimate national identity and voter 
+cards.  But, clearly these names are not Senegalese.  What's worse 
+is that the list is full of such variants that cannot realistically 
+be accounted for by claiming that they are there because of a 
+clerical or data entry error."  Gueye added that when they asked for 
+the addresses of the aforementioned voters the system failed to 
+respond. 
+ 
+Inconsistencies 
+---------------- 
+¶3. (SBU) The auditors noted that on February 2, 2009 there were 
+4,818,913 registered voters; an increase of 62,571 from the January 
+31, 2007 audit when the figure was 4,756,342, "logically, these all 
+should be newly registered voters."  But when they conducted a 
+search of new voters, the computer tech at the Ministry found only 
+6,715 new voters in the database; a discrepancy of 55,856 voters 
+"who may or may not be real."  Furthermore, the recent creation of 
+three new regions meant that a total of 872,407 voters have to have 
+their cards reprinted to reflect the new administrative entities in 
+which they live.  If this figure is added to the 6,715 newly 
+registered voters it should lead to the conclusion that only 934,311 
+new voters cards need to be printed.  When auditors questioned the 
+Ministry's card production unit they were told that 1,416,716 cards 
+have been printed since January 31, 2007. 
+ 
+Cosmetic biometry 
+----------------- 
+¶4. (SBU) President Abdoulaye Wade recently lauded the digitization 
+of the electoral process with the introduction of digital 
+fingerprinting for voter cards.  However, the auditors observed that 
+neither the card printing unit nor the voter registration unit was 
+linked to any sort of biometric database.  Thus, with only text 
+files that are not backed up by any biometric security features 
+these two units could, conceivably, create and modify entries at 
+will.  Meanwhile, even though the voter card is bar-coded, it is 
+very unlikely that any polling station will be equipped with barcode 
+readers or computers.  In fact, during the last Presidential 
+election Poloff witnessed votes being counted by candle light 
+because the school at which the voting station was located had no 
+electricity. 
+ 
+Rejection and Manipulation 
+-------------------------- 
+¶5. (SBU) The Ministry of Interior has already said that it will 
+ignore the findings of the auditors because the latter did not 
+present a report to the GOS at the conclusion of their mission. 
+Furthermore, the Minister of Interior, Cheikh Tidiane Sy, has 
+rejected the opposition's demand that an ultraviolet spray be used 
+instead of indelible ink to prevent multiple voting.  The auditors 
+insist on using the spray, which was used in Bosnia, because it is 
+more reliable than indelible ink which can be rendered ineffective 
+by rubbing grease on one's finger prior to dipping it into the ink. 
+It is also interesting that Minister Sy's son, Mame Ousmane Sy, is 
+President Wade's IT advisor and is allegedly the guru who tinkers 
+with the electoral data base; a fact confirmed by an Embassy contact 
+who was an advisor to the President. 
+ 
+Comment 
+------- 
+¶6. (SBU) Leading members of the opposition have told Poloff that 
+they are putting in place "brigades" that will physically prevent 
+registered foreigners (Guineans from Conakry or Bissau) from voting. 
+ Each candidate has been instructed to remain at his polling station 
+and an "informal identification process" will be in place to limit 
+fraud.  As the elections approach the rhetoric is getting more and 
+more inflammatory and this might pave the way to election day 
+violence, especially if the opposition can use the results of the 
+audit to somehow persuade the public that the ruling party is using 
+fraud to assure itself of victory. 
+ 
+Bernicat

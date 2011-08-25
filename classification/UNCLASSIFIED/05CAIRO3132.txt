@@ -1,0 +1,214 @@
+05CAIRO3132
+FY06 MRP "URBAN ENVIRONMENTAL ISSUES," NOVEMBER
+Wed Apr 27 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Cairo
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 CAIRO 003132 
+ 
+SIPDIS 
+ 
+FOR ECA/PE/V/M LOCKWOOD/ ZAKI; INFO ECA/PE/V/R/N, AND 
+NEA/PPD 
+ 
+E.O. 12958: NA 
+TAGS: OEXC KPAO EG
+SUBJECT:  FY06 MRP "URBAN ENVIRONMENTAL ISSUES," NOVEMBER 
+17  DECEMBER 8, 2005  EGYPT NOMINATION 
+ 
+REF:  A.  STATE 60374 
+      ¶B.  CAIRO 2571 
+ 
+¶1.  PA Cairo is pleased to nominate MR. Ashraf Amin 
+Mohamed AMIN, TV Nile News reporter, to participate in 
+the subject MRP. 
+ 
+¶2.  Following is full EVDB nomination and DS-2019 
+information: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.5 
+POST-EMAIL: exchangescairo@state.gov 
+TRANSMITTING-POST: PAS Cairo 
+TRANSMITTING-POST-ID: 2875 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VM 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 207 
+ECA-PROJ-NO: 
+: 
+PROJ-NAME: Urban Environmental Issues 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Multi-Regional 
+PROG-TYPE: IV Group Projects 
+FY: 2005 
+DEPART-POST: 11/15/2005 
+SESSION-DATE: 11/17/2005 
+RETURN-POST: 12/09/2005 
+NO-OF-PART: 1 
+RANK-ORDER: 1 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1027 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: MRP 
+PROG-TYPE-ID: 31 
+NOMINATING-POST-ID: 2875 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Urban Planning 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Ashraf 
+M-NAME: Amin 
+L-NAME: Mohamed Amin 
+SUFFIX: 
+POSITION-CODE: 622 
+PRINCIPAL?: Yes 
+GENDER: M 
+DOB: 06/01/1976 
+MAR-STAT: S 
+BIRTH-CITY: Giza 
+BIRTH-CNTRY: Egypt 
+CITIZ-CNTRY: Egypt 
+RES-CNTRY: Egypt 
+START MEMO POSITION: 
+Head, Al Ahram's Scientific Section 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Scientific Reporter 1999- present 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Freelance reporter in all Al-Ahram's IT and scientific 
+publications 
+2000-2001: Freelance reporter at Le Progress. 
+1998 - 1999: TV Nile News reporter 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+No. 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+1988- present: All Europe: Tourism and work to attend 
+medical conferences 
+2003: UK scientific workshop for scientific reporters 
+worldwide. 
+2004: Canada: Int'l Conference for Scientific Journalism. 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+1998: BSc. Faculty of Science, Cairo University. 
+2000: Mass Communication Diploma with Paris VI University, 
+Faculty of Mass Communication, Egypt. 
+UNESCO - Arab Union of Journalists workshop for scientific 
+reporters. 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Press Syndicate 
+Member of the International Association of Scientific 
+Writers 2004 
+RotarAct member. 
+Member of the National Association for Diabetic Children 
+Member of the Egyptian Association for Otist (mental) 
+Patients 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+Short Storie "L' Arbe du Chaplet" published in French . 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+Follow Islamic diet 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: Arabic 
+ENGL-READ: 3 
+ENGL-SPEAK: 3 
+ENGL-COMP: 3 
+START OTHER-LANGS: 
+OTHER-LANG: French 
+OTHER-LANG-ID: FR 
+READ: 3 
+SPEAK: 3 
+COMP: 3 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: John Berry; Information Officer 
+START MEMO NOMINATING-JUSTIFICATION: 
+Mr. Ashraf Amin has been well known to the PA-Cairo for 
+long years.  He has cooperated to publish Washington File 
+scientific stories, in particular, out of personal 
+interest, especially U.S. scientific, technological, 
+environmental and medical developments and discoveries.  He 
+also published several stories about different U.S. Embassy 
+cultural functions, the most recent of which was "Circus 
+Guy" due to its connection with science and environment. 
+Ashraf's reputation as a diligent contributor to leading 
+pro-government "Al Ahram" newspaper led to his recent 
+promotion to be the head of its Scientific Section. 
+Despite his long cooperation with the U.S. Embassy PA 
+Section, he has never been to the U.S.   An IV program in 
+the U.S. will be an ideal first-hand opportunity to boost 
+his knowledge of the U.S., especially scientific 
+developments, which would reflect on his work upon return. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: 
+SPEAKER?: No 
+NOTIFY-EMB: Yes 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: INTERPRETER 
+NOMINEE-ID: 511 
+PERSON-ID: 472 
+BIRTH-CNTRY-ID: EG 
+CITIZ-CNTRY-ID: EG 
+RES-CNTRY-ID: EG 
+FIRST-LANG-ID: AR 
+E-I-TYPE-ID: I 
+NOM-POST-ID: 2875 
+NOM-FUNDING-CNTRY-ID: 0 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 45.1201 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+¶3.  Post appreciates ECA's assistance with this 
+nomination. 
+ 
+GRAY

@@ -1,0 +1,112 @@
+09MADRID410
+SPAIN IPR: CRIMINAL CONVICTION IN INTERNET PIRACY
+Thu Apr 23 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Madrid
+VZCZCXRO7434
+RR RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV RUEHSR
+DE RUEHMD #0410 1131433
+ZNR UUUUU ZZH
+R 231433Z APR 09
+FM AMEMBASSY MADRID
+TO RUEHC/SECSTATE WASHDC 0546
+INFO RUCNMEM/EU MEMBER STATES COLLECTIVE
+RUEHLA/AMCONSUL BARCELONA 3960
+RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS MADRID 000410 
+ 
+SIPDIS 
+ 
+STATE FOR EEB/TPP/IPE AND EUR/WE 
+STATE PASS USTR FOR JGROVES AND DWEINER 
+STATE PASS U.S. COPYRIGHT OFFICE 
+USDOC FOR 4212/DCALVERT 
+USDOC ALSO FOR USPTO 
+ 
+E.O. 12958: N/A 
+TAGS: KIPR ETRD ECON SP
+SUBJECT: SPAIN IPR: CRIMINAL CONVICTION IN INTERNET PIRACY 
+CASE 
+ 
+REF: A. MADRID 224 
+     ¶B. MADRID 397 
+ 
+ ¶1.  Summary: On April 9, a court in Logrono delivered 
+Spain's first-ever criminal conviction and prison sentence to 
+an individual for operating a for-profit website that 
+facilitated peer-to-peer (P2P) file-sharing.  Adrian Gomez 
+Llorente was sentenced to six months in prison and fined 
+4,900 euros (about USD 6,450) for making available illicit 
+copies of films and video games. The sentence was suspended 
+because the 22-year-old defendant was a first-time offender. 
+Nevertheless, content providers' representatives hailed the 
+verdict as an important milestone that is expected to help 
+sensitize the general public as well as the law enforcement 
+community to the plague of internet piracy.  End Summary. 
+ 
+¶2.  The judge for the first district court for Logrono (La 
+Rioja - north central Spain) found that the defendant was 
+operating his file-sharing website for profit.  In order to 
+download files, viewers had to register on the site, where 
+they were exposed to paid advertising, and to authorize the 
+sending of more advertising via SMS, for which the operator 
+collected a fee.  The Penal Code identifies profit motive as 
+a required element of IPR crime, and the 2006 Circular (ref 
+A) issued by the Prosecutor General's Office (Fiscalia) 
+directs prosecutors to pursue internet piracy cases in which 
+commercial profit cannot be established as civil rather than 
+criminal offenses.  (Note: As discussed ref A, other 
+formidable legal obstacles impede civil litigation in such 
+cases.  End Note.)  Rights-holders have long complained that 
+this posture not only effectively decriminalizes infringing 
+P2P downloads but also makes it extremely difficult to 
+prosecute and convict operators of file-sharing sites.  Other 
+courts have dismissed similar cases on the grounds that the 
+generation of advertising revenue was incidental or ancillary 
+to the activity of providing or making available infringing 
+material and that the element of commercial profit was thus 
+lacking. 
+ 
+¶3.  According to Jose Manuel Tourne, Executive Director of 
+the Federation for the Protection of Intellectual Property 
+(FAP), which represents Spanish film and entertainment 
+software interests, in 2006 the National Police conducted 
+enforcement actions that led to the takedown of some 30 
+offending websites.  Another 20 sites were closed the 
+following year as a result of additional operations.  Cases 
+arising from the takedowns have been moving their way slowly 
+though the respective district courts.  Many courts have 
+dismissed cases on various grounds.  An unknown number remain 
+to be decided.  The most controversial judicial decision 
+involved the "Sharemula" website, in which a Madrid court 
+found in 2007 that facilitating P2P file-sharing via eMule is 
+not a crime nor even an IPR infringement so long as a site 
+does not itself contain or download an illicit file, because 
+making links available is not an act of public communication. 
+ A Madrid appeals court upheld the ruling in September 2008. 
+According to law enforcement and rights-holder contacts, 
+police no longer undertake criminal investigations of such 
+sites because the bar for successful prosecution has been set 
+too high. 
+ 
+¶4.  The ruling in the Logrono case is final because neither 
+defense nor prosecution plans to appeal.  The defendant's 
+lawyer still asserts that what his client did is not a crime, 
+but says he advised the defendant to accept the verdict to 
+avoid a likely expensive civil suit.  The decision has no 
+precedential force.  Judges in Spain are independent not only 
+of other branches of government but of each other, unless and 
+until the Supreme Court issues a binding decision, which it 
+has not done in the area of internet piracy.  But Tourne and 
+other rights-holders were excited by the conviction and 
+sentence, saying that it may at least influence judges with 
+similar cases in other jurisdictions and that the publicity 
+it has generated will help disabuse some internet users of 
+the widespread public belief that unauthorized P2P activity 
+is legal and permissible.  This decision, together with 
+recent internet piracy-related news in Spain and elsewhere in 
+Europe - the controversy surrounding the new Culture Minister 
+(ref B), the setback to proposed anti-piracy legislation in 
+France, and the convictions and sentences in the Pirate Bay 
+case in Sweden - have helped invigorate the public debate 
+over internet piracy. 
+CHACON

@@ -1,0 +1,139 @@
+09BAGHDAD2827
+GOOGLE IMAGES THE IRAQ NATIONAL MUSEUM
+Wed Oct 21 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Baghdad
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHGB #2827/01 2941430
+ZNR UUUUU ZZH
+R 211430Z OCT 09
+FM AMEMBASSY BAGHDAD
+TO RUEHC/SECSTATE WASHDC 5175
+INFO RUEHAM/AMEMBASSY AMMAN 2283
+RUEHME/AMEMBASSY MEXICO 0038UNCLAS BAGHDAD 002827 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+ 
+TAGS: EINT KPAO SCUL TINT PGOV ECPS IZ
+ 
+SUBJECT: GOOGLE IMAGES THE IRAQ NATIONAL MUSEUM 
+ 
+¶1.  (U) Summary: In support of Section IV of the Strategic Framework 
+Agreement (SFA), post supports programs to preserve Iraq's cultural 
+heritage.  To augment these efforts and harness the interest and 
+expertise of the American private sector, we have partnered with 
+several leaders from the IT industry in the U.S.  As follow-up to 
+the April visit of several leading IT CEOs, three Google engineers 
+traveled to Baghdad October 7-14 to image the Iraq National Museum 
+using several new Google technologies.  The images they took will 
+allow browsers, using new technology, a chance to "visit" the Iraq 
+National Museum and to learn more about Iraq's heritage. End 
+Summary. 
+ 
+Google To The Rescue! 
+ 
+ 
+¶2.  (U) Building on techniques used for Google Maps and Google 
+Street View, Google engineers Dan Ratner, Alex Starns and Matt 
+Williams took almost 15,000 pictures during three visits to the Iraq 
+National Museum to catalog all the exhibits currently on display. 
+After processing, browsers worldwide will be able to "walk" through 
+the museum and take a close look at all of the artifacts in the 
+museum.  While in Baghdad, the engineers met with several groups of 
+Iraqis interested in learning new ways to further develop Iraq's IT 
+industry.  The Street View team members also met with Embassy, MNF-I 
+and Iraqi counterparts to learn more about Iraq and discuss ways to 
+develop Iraq's IT industry with their interlocutors. 
+ 
+Street View Goes Indoors 
+ 
+¶3.  (SBU) Over three visits to the Iraq National Museum in Baghdad 
+on October 8, 11 and 13, the Google team imaged all the exhibits 
+currently on display.  Dan Ratner, a senior engineer and designer of 
+the Street View technology, along with operations engineers Alex 
+Starns and Matt Williams, spent eight days in Iraq to accomplish 
+their goal of bringing Street View technology inside a museum for 
+the first time ever.  Google originally planned to image a museum or 
+another building as a test case before coming to Iraq but were not 
+able to do so; the Iraq National Museum was the first imaged museum 
+and marked the first time Google used the adapted Street View 
+technology inside a building. 
+ 
+Google Tools in Iraq 
+ 
+¶4.  (SBU) Street View, a Google technology developed two years ago, 
+enables browsers to "walk" along streets by sending cars with high 
+resolution cameras on streets around the world.  Over 99 percent of 
+U.S. streets have been driven and photographed and there are roughly 
+500 Street View cars now on the road in various countries.  Taking 
+it a step further in Iraq, the Google team set out to map and image 
+inside a building.  To capture data normally done by a car-mounted 
+camera with a hard drive in the trunk, Mr. Ratner built a trolley to 
+gather image and location information inside buildings and the Iraq 
+National Museum was the first location the team tested this new 
+technology.  The data the trolley collected should be able to make 
+precise indoor maps to complement photos that the team took with 
+high resolution still cameras and with specially developed, 
+bracketed exposure panorama cameras.  Another complimentary 
+technology that will allow mapping and imaging outdoors on paths, 
+parks and even mountain bike trails where a car can not drive, 
+Ratner built a tricycle that was unveiled on the Today Show October 
+¶16.  (NOTE: The tricycle was not used in Baghdad. END NOTE.) 
+ 
+Stuff View 
+ 
+¶5.  (U) Mr. Starns brought another new Google technology, Stuff 
+View, with him to image individual artifacts at the museum.  Using a 
+simple cloth box, lights, cameras and a rotating disc, Starns placed 
+small objects (up to the size of a coke can) on the disc and took 
+Qsmall objects (up to the size of a coke can) on the disc and took 
+108 pictures of each object as he rotated it slowly.  Working 
+closely with the museum staff, he Stuff Viewed 20 artifacts and in a 
+matter of weeks internet browsers will be able to view these 
+artifacts in great detail from all angles. 
+ 
+Googlers Meet Iraq's Future Sergey Brin? 
+ 
+¶7.  (U) On October 10 the Google team met with 10 young computer 
+scientists and IT professionals to talk about the Street View 
+project, explain Google and brainstorm on how to improve Iraq's IT 
+industry.  The young tech professionals explained the challenges 
+they face working with limited connectivity and oppressive 
+bureaucracy.  The Google team explained that there were many more 
+tools available at no cost that might help them grow or start their 
+businesses.  Seeing the potential in Iraq and in the young Iraqis, 
+one Google engineer told emboff half-seriously that he wanted to 
+give each Iraqi seed money on the spot to see what kind of start-up 
+company they could develop. 
+Briefings, Brainstorming Sessions 
+¶8.  (U) The Google team received a military briefing on the security 
+situation in Iraq and met the Economic Counselor to discuss the 
+potential of the Iraqi economy and possibilities for a high-tech 
+Iraq.  Representatives from International Exchanges and Research 
+Board (IREX), an NGO active in Iraq, explained their efforts to 
+educate Iraqis about the tools the internet and computers have to 
+offer.  They highlighted how Google Earth had helped them to map 
+centers for disabled Iraqis so they could either visit the centers 
+or contact them easily to request services.  The Google team 
+directed the IREX team to the Connect Alabama project as a model for 
+how technology and mapping could be used effectively to make 
+government services more accessible using tools readily available on 
+the internet. 
+ 
+¶9.  (U) Comment: The mere fact the Google engineers traveled to Iraq 
+was a success for the Support Network for a Digital Iraq (SNDI) 
+initiative, a concept developed after the April visit to Baghdad 
+that hopes to provide an online forum to encourage U.S. companies to 
+engage and help develop Iraq (septel).  That the Google team brought 
+breakthrough technology with them and imaged the Iraq National 
+Museum as their first indoor Street View experiment is even greater. 
+ There was no press coverage of the Google visit because the 
+technology they used has not yet been released.  When this happens, 
+their visit will serve as a good example of how SNDI-ITTF efforts 
+can advance USG goals as laid out in the SFA.  End Comment. 
+ 
+FORD

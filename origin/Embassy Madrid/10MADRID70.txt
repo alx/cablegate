@@ -13,85 +13,85 @@ TO RUEHC/SECSTATE WASHDC 1727
 INFO RUCNMEM/EU MEMBER STATES COLLECTIVE
 RUEHLA/AMCONSUL BARCELONA 4306
 RUCPDOC/DEPT OF COMMERCE WASHDC
-RUEATRS/DEPT OF TREASURY WASHDCUNCLAS MADRID 000070
-
-SIPDIS
-
-STATE FOR EUR/WE, EEB/IFD/OMA, EEB/TPP/IPE
-STATE PASS USTR FOR D.WEINER
-COMMERCE FOR 4212/DON CALVERT
-TREASURY FOR OIA/OEE/R.JOHNSTON
-
-E.O. 12958: N/A
+RUEATRS/DEPT OF TREASURY WASHDCUNCLAS MADRID 000070 
+ 
+SIPDIS 
+ 
+STATE FOR EUR/WE, EEB/IFD/OMA, EEB/TPP/IPE 
+STATE PASS USTR FOR D.WEINER 
+COMMERCE FOR 4212/DON CALVERT 
+TREASURY FOR OIA/OEE/R.JOHNSTON 
+ 
+E.O. 12958: N/A 
 TAGS: ECON EFIN KIPR SP
-SUBJECT: MADRID ECONOMIC WEEKLY, JANUARY 18-22
-
-REF: MADRID 42
-
-Contents:
-
-EFIN: EC To Limit FROB Funding of Distressed Banks
-KIPR: Competition Commission Accuses Copyright Management
-Entities of Monopolistic Practices
-KIPR: Online Piracy Blamed for Drop in Music Sales
-
-EC to Limit FROB Funding of Distressed Banks
-
-¶1. (U) The European Commission will limit Spain's banking
-sector restructuring fund (FROB) to loans of no more than 2%
-of 'risk-weighted assets' to distressed banks and savings
-banks, or 2% of their "determined minimum amount of capital
-to operate effectively." The EC made this announcement after
-the Spanish government said the FROB would be allowed to loan
-up to 2.5%. The EC will make a final decision on approval
-before February 9. The expected approval will allow the GOS
-the ability to use the FROB without case-by-case
-authorization from Brussels, ultimately speeding up the
-banking sector restructuring process. The FROB has 9 billion
-euros and the ability to borrow up to 10 times that amount,
-for a total of 99 billion euros available. (El Pais, 1/19
-and 1/22)
-
-Competition Commission Accuses Copyright Management Entities
-of Monopolistic Practices
-
-¶2. (U) The National Competition Commission (CNC) issued a
-100-page report accusing Spain's copyright management
-entities (collecting societies) of monopolistic practices in
-representing the interests of artists and entertainers and
-collecting royalties. In response, the largest and
-best-known of the management entities, the General Society of
-Authors and Publishers (SGAE), joined forces with three
-smaller groups to form a new group, 'Ibercrea' (Iberian
-Creators), to defend their interests collectively. The CNC
-report represents a new conflict between the GOS and the
-members of Ibercrea, who support the government's
-controversial legislative proposal to combat internet piracy
-of copyrighted works. Separately, two outspoken Spanish
-attorneys known for their support of free downloading, Javier
-de la Cueva and David Bravo, presented the report to the
-European Court of Justice, claiming that Spain is in
-violation of the EU's anti-trust laws by allowing the
-copyright entities to operate. Comment: The management
-entities, especially SGAE, are unpopular in Spain due to
-their support for the "digital canon" private copy levy.
-SGAE in particular suffers from a bad public image resulting
-from its aggressive practices in collecting royalties. The
-current anti-trust accusations, combined with demonstrations
-by employees over working conditions and pay, only add to
-SGAE's woes. (El Pais, 1/21 and 1/22)
-
-Online Piracy Blamed for Drop in Music Sales
-
-¶3. (U) The International Federation of the Phonographic
-Industry (IFPI) recorded a worldwide drop of 30% in sales
-over the past five years, while Spanish artists have seen
-sales fall by 65%. Overall sales in Spain fell 17% in the
-past year alone. Industry representatives cited frustration
-over what they described as the GOS' passivity in fighting
-piracy. However, the head of the IFPI's local branch,
-Promusicae, expressed hope that the GOS would "continue the
-process it has just started," referring to the controversial
-"anti-downloading" provisions in the government's draft
-Economic Sustainability Law. (El Pais, 1/21)
+SUBJECT: MADRID ECONOMIC WEEKLY, JANUARY 18-22 
+ 
+REF: MADRID 42 
+ 
+Contents: 
+ 
+EFIN: EC To Limit FROB Funding of Distressed Banks 
+KIPR: Competition Commission Accuses Copyright Management 
+Entities of Monopolistic Practices 
+KIPR: Online Piracy Blamed for Drop in Music Sales 
+ 
+EC to Limit FROB Funding of Distressed Banks 
+ 
+¶1. (U) The European Commission will limit Spain's banking 
+sector restructuring fund (FROB) to loans of no more than 2% 
+of 'risk-weighted assets' to distressed banks and savings 
+banks, or 2% of their "determined minimum amount of capital 
+to operate effectively."  The EC made this announcement after 
+the Spanish government said the FROB would be allowed to loan 
+up to 2.5%.  The EC will make a final decision on approval 
+before February 9.  The expected approval will allow the GOS 
+the ability to use the FROB without case-by-case 
+authorization from Brussels, ultimately speeding up the 
+banking sector restructuring process. The FROB has 9 billion 
+euros and the ability to borrow up to 10 times that amount, 
+for a total of 99 billion euros available.  (El Pais, 1/19 
+and 1/22) 
+ 
+Competition Commission Accuses Copyright Management Entities 
+of Monopolistic Practices 
+ 
+¶2. (U) The National Competition Commission (CNC) issued a 
+100-page report accusing Spain's copyright management 
+entities (collecting societies) of monopolistic practices in 
+representing the interests of artists and entertainers and 
+collecting royalties.  In response, the largest and 
+best-known of the management entities, the General Society of 
+Authors and Publishers (SGAE), joined forces with three 
+smaller groups to form a new group, 'Ibercrea' (Iberian 
+Creators), to defend their interests collectively.  The CNC 
+report represents a new conflict between the GOS and the 
+members of Ibercrea, who support the government's 
+controversial legislative proposal to combat internet piracy 
+of copyrighted works.  Separately, two outspoken Spanish 
+attorneys known for their support of free downloading, Javier 
+de la Cueva and David Bravo, presented the report to the 
+European Court of Justice, claiming that Spain is in 
+violation of the EU's anti-trust laws by allowing the 
+copyright entities to operate.  Comment: The management 
+entities, especially SGAE, are unpopular in Spain due to 
+their support for the "digital canon" private copy levy. 
+SGAE in particular suffers from a bad public image resulting 
+from its aggressive practices in collecting royalties.  The 
+current anti-trust accusations, combined with demonstrations 
+by employees over working conditions and pay, only add to 
+SGAE's woes.  (El Pais, 1/21 and 1/22) 
+ 
+Online Piracy Blamed for Drop in Music Sales 
+ 
+¶3. (U) The International Federation of the Phonographic 
+Industry (IFPI) recorded a worldwide drop of 30% in sales 
+over the past five years, while Spanish artists have seen 
+sales fall by 65%.  Overall sales in Spain fell 17% in the 
+past year alone.  Industry representatives cited frustration 
+over what they described as the GOS' passivity in fighting 
+piracy.  However, the head of the IFPI's local branch, 
+Promusicae, expressed hope that the GOS would "continue the 
+process it has just started," referring to the controversial 
+"anti-downloading" provisions in the government's draft 
+Economic Sustainability Law.  (El Pais, 1/21) 
 SOLOMONT

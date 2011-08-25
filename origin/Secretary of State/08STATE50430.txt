@@ -1,0 +1,208 @@
+08STATE50430
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Tue May 13 00:00:00 +0200 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0006
+RR RUEHWEB
+
+DE RUEHC #0430 1341343
+ZNR UUUUU ZZH
+R 131336Z MAY 08
+FM SECSTATE WASHDC
+TO RUEHRB/AMEMBASSY RABAT 0000
+INFO RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUEAIIA/CIA WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 050430 
+ 
+SIPDIS 
+RABAT FOR STUART SMITH 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC MO
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON APPLICATION 05-050096158 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1.  This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a pre-license check on application 05-050096158 for the 
+export of defense hardware and technical data to Morocco. 
+Post is requested to complete this Blue Lantern inquiry 
+within 30 days.  Lack of response to a Blue Lantern inquiry 
+will affect pending and future licenses involving parties to 
+this license. 
+ 
+¶3.  Reason for request: To verify the bona fides of the 
+transaction.  Licensing Officer noted inconsistencies in the 
+Nontransfer and Use Certificates (DSP-83) that were submitted 
+with the application. 
+ 
+¶4.  Action Rabat:  Post should make appropriate inquiries to 
+verify the bona fides of foreign intermediate consignee 
+Technical Communication Solutions Maroc (TCSM) in the listed 
+transaction, and confirm that the Moroccan Ministry of 
+Defense, Army Signal Corps ordered the exact type and 
+quantity of United States Munitions List (USML) items listed 
+on the application. The following questions are provided as 
+suggested guidance: 
+ 
+For the Moroccan Ministry of Defense, Army Signal Corps: 
+ 
+--Are you familiar with TCSM? 
+ 
+--Did you order from TCSM the exact type and quantity of 
+items listed on this application? 
+ 
+-- If Moroccan Ministry of Defense, Army Signal Corps or 
+Direction of Reception and Transit signed and dated a 
+U.S. Department of State Nontransfer and Use Certificate, 
+please provide a copy of that document which verifies the 
+quantity 
+and value of the defense articles ordered. 
+ 
+--Is TCSM an official supplier/contractor for the Moroccan 
+Ministry of Defense?  Does the Moroccan Ministry of Defense 
+have 
+any other contracts with TCSM? 
+ 
+For TCSM: 
+ 
+Department requests that Post conduct a site visit to TCSM in 
+order to provide Department with an assessment of its 
+business operations and on-site 
+security. If a site visit is not possible, please inform 
+PM/DTCC case officer. Finally, Post is asked to assess 
+whether the company appears to be a reliable recipient of 
+USML items. 
+ 
+ 
+--Does the company have proper supporting documentation, 
+including purchase orders and End use certificates from the 
+Moroccan MOD, for this 
+proposed transaction? 
+ 
+--Will the company be handling or storing the items listed on 
+the application? If so, does it have secure facilities and 
+proper accounting and security procedures for handling these 
+sensitive USML items? 
+ 
+--When was the company established and who are its principals? 
+ 
+--What is the nature of its business -- what types of items 
+does it handle; does it serve as a broker? 
+ 
+--What types of organizations are among its typical customers 
+and where are the customers located? 
+ 
+--Does the company understand the restrictions on USML items, 
+especially the prohibition against unauthorized re-transfers 
+and re-exports? 
+ 
+ 
+End Action Request. 
+ 
+¶5. Details of license application: 
+ 
+DTC Case: 05-050096158 
+ 
+QUANTITY/COMMODITY: 
+ 
+12 Advanced Radar Surveillance System (ARSS-1) hardware and 
+associated components consisting of Transmitter Receiver 
+Antenna Unit P/N 366-1020 
+ 
+12   Drive Unit P/N 366-1500 
+ 
+12   Rugged Tripod Assembly P/N 337-1600 
+ 
+12   Signal Cable P/N 373-1023 
+ 
+12   ARSS Portable Interface P/N 337-1500 - consists of 1 
+Rugged Portable Computer Model CF-74 or GTEC A-790; 
+      1 RS-422 CCA; 1 Radar Interface Box; Operational 
+Software 
+ 
+12   Transport Case P/N 377-1030 
+ 
+12   Operator and Basic Maintenance Manual P/N TM 115909 
+ 
+ 1   Warranty parts, spares, components and associated items 
+including cables and connector kits, tools 
+ 
+ 
+License Value: USD $2,415,600. 
+ 
+SELLER: 
+ 
+Griffon Corp./Telephonics Corp. 
+815 Broad Hollow Road 
+Farmingdale, NY  11735 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Technical Communication Solutions Maroc (TCSM), SARL 
+1928 Massira 
+1 Temara 
+Rabat 
+MO 
+Telephonics Sales Representative 
+ 
+FOREIGN CONSIGNEES: 
+ 
+Moroccan Ministry of Defense 
+Direction of Reception and Transit 
+National Defense Administration 
+Procurement and Financial Affairs Department 
+Procurement Division 
+Foreign Purchasing Unit 
+BP  P.O. Box 16241 
+Casablanca 
+MO 
+Tel: 022 22 11 50 
+Fax: (212-22) 22 14 40 
+ 
+ 
+END-USER: 
+ 
+Kingdom of Morocco 
+Moroccan Ministry of Defense 
+Inspection des Transmissions de Royale Army Forces 
+Army Signal Corps 
+Boulevard Hassan II 
+Rabat 
+MO 
+Fax:  (212-37) 76 39 04 
+ 
+PURPOSE: 
+ 
+For end use by Moroccan Ministry of Defense Royale Army 
+Forces for border surveillance and desert security against 
+terrorists and illegal aliens. 
+ 
+¶6. Submitted in support of the license application was the 
+following document (PM/DTCC will fax documentation to Post 
+upon request): 
+ 
+-- Non Transfer and Use Certificate (DSP-83) U.S. Applicant 
+dated 27 March 2008 and 03 April 2008. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Rachael-Therese S. Joubert-Lin, 
+Phone: 202-663-2950; Email: JoubertLinRS@state.gov; SIPRNET: 
+JoubertLinRS@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file in the Bunche Library's 
+E-Book Collection on the DOS Intranet: 
+http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+RICE

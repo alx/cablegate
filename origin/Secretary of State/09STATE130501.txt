@@ -1,0 +1,150 @@
+09STATE130501
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Wed Dec 23 00:00:00 +0100 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0023
+RR RUEHWEB
+
+DE RUEHC #0501 3571920
+ZNR UUUUU ZZH
+R 231529Z DEC 09
+FM SECSTATE WASHDC
+TO RUEHMD/AMEMBASSY MADRID 0000
+RUEHHI/AMEMBASSY HANOI 0000
+INFO RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUEAIIA/CIA WASHINGTON DCUNCLAS STATE 130501 
+ 
+SIPDIS 
+MADRID FOR E. STROTHER MURRAY 
+HANOI FOR JANE BOCKLAGE 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC SP VN
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON LICENSE 050204437 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a pre-license check on license 050204437 for the export of 
+International Traffic in Arms (ITAR)-controlled C-295 
+aircraft parts to Vietnam.  Post is requested to complete 
+this Blue Lantern inquiry within 30 days.  Lack of response 
+to a Blue Lantern inquiry will affect pending and future 
+licenses involving parties to this license. 
+ 
+¶3. Reason for request: End-Use Statement provided by foreign 
+intermediate consignee EADS CASA of Spain states that the 
+parts will be used for the C-295 aircraft for end-use by the 
+Vietnam Marine Police (VMP).  The Department could not 
+independently verify that the C-295 has been ordered by or 
+delivered to Vietnam. In addition, the Department requires 
+verification that the aircraft parts will not be used in a 
+lethal component of the aircraft. Federal Register Notice 
+Vol. 72, No. 63 states that the United States will deny 
+approvals for exports of components of lethal defense 
+articles destined for Vietnam. 
+ 
+¶4. ACTION MADRID: Department requests that Post make inquires 
+with EADS CASA to verify the bona fides of this transaction. 
+Post is requested to ask EADS CASA to provide documentation 
+that verifies the end-use of the aircraft parts, such as a 
+contract with the VMP.  Post is also requested to inquire if 
+the motor pump on which the subject parts are to be 
+incorporated will be used for or installed on the hardpoints 
+of the aircraft. 
+ 
+(COMMENT: Hardpoints are areas of the aircraft where armament 
+can be attached.  END COMMENT) 
+ 
+ACTION HANOI: Department requests that Post make inquiries 
+with appropriate officials as to whether the C-295 has been 
+ordered by the VMP.  Post is requested to inquire as to how 
+many aircraft have been ordered and when the VMP expects to 
+take delivery of the planes.  Finally, Post is requested to 
+inquire as to how the aircraft will be used by the VMP and 
+for what types of missions. 
+ 
+END ACTION. 
+ 
+¶5. Details of license application: 
+ 
+DTC CASE:  050204437 
+ 
+QUANTITY/COMMODITY: 
+ 
+7 - P/N 715638 SA, Yoke Ball & Pin 
+ 
+License Value: 2,297.00 USD 
+ 
+SELLER: 
+ 
+Eaton Corporation 
+Eaton Center 1111 Superior Avenue 
+Cleveland, OH 44114 
+Tel: 601-987-3349 
+POC: Heather Lee 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Eaton Aerospace, Vickers Systems 
+Larchwood Avenue, Bedhampton 
+Havant Hants PO9 3QL 
+United Kingdom 
+Tel: 44-2392-487260 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+EADS CASA 
+Avenida de Aragon 404 
+Madrid 28022 
+Spain 
+POC: Gabriel Frias, Procurement Engineer 
+ 
+FOREIGN END-USER: 
+ 
+Vietnam Marine Police 
+No. 276 Da Nang Street 
+Ngo Quyen District 
+Hai Phong City 
+Vietnam 
+Tel: 84-31-375-25-34 
+ 
+PURPOSE: 
+ 
+Parts to be used to assemble the MPEV3-011-8UK2C Electric 
+Motor Pump which is installed on the C-295 aircraft. 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC will fax documentation to Post 
+upon request): 
+ 
+--End-Use Statement signed by Gabriel Frias of EADS CASA, 
+dated 9 September 2009. 
+ 
+--Purchase Order No. V14361 submitted by Eaton Aerospace to 
+Eaton Corporation, dated on 9 August 2009. 
+ 
+--Department of State License for Permanent Export of 
+Unclassified Defense Articles and Related Unclassified 
+Technical Data, signed 9 December 2009. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Meredith Sundlof. Phone: 
+202-663-3455; Email: SundlofME@state.gov; SIPRNET: 
+SundlofME@state.sgov.gov.  The Blue Lantern Guidebook (ref) 
+is available as a PDF file at 
+http://www.intelink.sgov.gov/wiki/Blue Lantern End-Use 
+Monitoring Program. 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+CLINTON

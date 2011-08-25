@@ -1,0 +1,199 @@
+08KYIV2460
+UKRAINE: USG-FUNDED IPR ENFORCEMENT TRAINING
+Wed Dec 17 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Kyiv
+VZCZCXYZ0000
+RR RUEHWEB
+
+DE RUEHKV #2460/01 3521450
+ZNR UUUUU ZZH
+R 171450Z DEC 08
+FM AMEMBASSY KYIV
+TO RUEHC/SECSTATE WASHDC 6934
+INFO RHMFIUU/DEPT OF JUSTICE WASHINGTON DC
+RUCPDOC/DEPT OF COMMERCE WASHINGTON DC
+RUEHMO/AMEMBASSY MOSCOW 0420
+RUEHSF/AMEMBASSY SOFIA 0043UNCLAS KYIV 002460 
+ 
+SIPDIS 
+ 
+STATE FOR EUR/UMB AND EB/TPP/IPE - JURBAN 
+STATE FOR INL - JVIGIL 
+STATE PLEASE PASS TO USTR FOR PBURKHEAD/JGROVES 
+USDOC FOR 4231/ITA/OEENIS/NISD - CLUCYCK 
+COMMERCE PLEASE PASS TO USPTO AND CLDP 
+SOFIA FOR DOJ - MLAMBERTI 
+ 
+E.O. 12958: DECL: N/A 
+TAGS: ETRD KIPR ECON UP
+SUBJECT: UKRAINE: USG-FUNDED IPR ENFORCEMENT TRAINING 
+FOCUSES ON INTERNET PIRACY 
+ 
+REFS: A) KYIV 1411 and previous 
+      B) KYIV 404 
+      C) 2007 STATE 154669 
+      D) 2007 KYIV 1417 
+      E) 2007 STATE 55928 
+ 
+SENSITIVE BUT UNCLASSIFIED; NOT FOR INTERNET PUBLICATION. 
+ 
+¶1. Summary: Post on December 5 held a workshop on combating 
+internet piracy primarily for Ukrainian police, the fourth 
+in a series of events that are part of a STATE/INL-funded, 
+IPR training initiative.  Some thirty police officials, 
+from the Kyiv central office and the regions, and one 
+prosecutor attended the event.  USG and industry experts 
+provided a practical introduction to internet piracy, as 
+well as strategies and best practices to improve 
+enforcement in this area in Ukraine.  End Summary. 
+ 
+Continuation of IPR Training Program 
+------------------------------------ 
+ 
+¶2. This December 5 internet piracy workshop was the latest 
+event of our intellectual property rights (IPR) training 
+initiative "Creating a Sustainable Ukrainian IPR Training 
+Capability" (ref D).  This initiative is part of the State 
+Department's 2007 IPR Enforcement Training Funds Program 
+(ref E), administered by the Bureau for International 
+Narcotics and Law Enforcement Affairs (INL), which has 
+allocated USD 125,000 for Ukraine (ref C). 
+ 
+¶3. About 30 Ministry of Interior officials from all over 
+Ukraine and one prosecutor attended the workshop.  Post 
+made a deliberate effort to include officers from the 
+regions, not just Kyiv, because officials at the Kyiv 
+office of the Ministry of Interior often farm out 
+investigations to regional offices due to lack of manpower. 
+A participant from the eastern Ukrainian city of 
+Zaporizhya, for example, boasted that earlier in the year 
+he had been the first to bring a criminal case involving a 
+private website to trial.  In addition, Post requested that 
+Ministry officials select police officers with experience 
+in computer/internet cases from cities that have generated 
+such cases in order to target the officers most likely to 
+handle an internet piracy case in the near future. 
+ 
+¶4. Prior workshops targeted judges and Customs officials 
+(ref A).  Post took the lead in organizing this seminar and 
+used the INL fund cite provided in ref C.  Post will 
+provide copies of all funding documents to INL/RM. 
+ 
+Internet Piracy: A New Problem for Ukraine 
+------------------------------------------ 
+ 
+¶5. Post's 2008 Special 301 submission (ref B) noted that 
+internet piracy is a nascent and growing problem in 
+Ukraine.  Many Ukraine-based websites offer pirated 
+material for download with the full knowledge of their 
+Internet Service Providers (ISPs).  Industry groups 
+estimate that out of the roughly 400 ISPs in Ukraine, 150 
+of them support websites offering pirated material. 
+Microsoft has also complained that Local Area Networks 
+(LAN), some of which cover entire Ukrainian cities, permit 
+widespread software piracy.  Another common type of 
+internet piracy is online ordering sites, where pirates 
+sell illegal CDs and DVDs for mail or personal delivery to 
+customers. 
+ 
+¶6. Ministry of Interior officials have pointed to some 
+successes in stopping online-ordering-site piracy, but 
+admit that little, if anything, has been done to combat 
+sites offering illegal filesharing/downloading, including 
+so-called Peer-to-Peer and BitTorrent sites.  GOU 
+representatives have argued that Ukrainian law does not 
+give law enforcement officials clear authority to shut down 
+such websites, although sometimes ISPs can be persuaded to 
+do so.  However, the main obstacle to investigating and 
+prosecuting these sites seems to be a lack of training and 
+resources. 
+ 
+Improving Police Capabilities 
+----------------------------- 
+ 
+¶7. Matthew Lamberti, Department of Justice Intellectual 
+Property Law Enforcement Coordinator for Eastern Europe and 
+a prosecutor experienced in handling internet piracy cases, 
+and Special Agent Kiffa Shirley, from the FBI's Cybercrime 
+Fraud Unit, discussed basic strategies for investigating 
+internet piracy. 
+ 
+¶8. Lamberti gave a presentation on investigating and 
+prosecuting pirate websites, focusing on Ukraine and other 
+countries in the region.  Among other things, he showed 
+numerous examples from pirate sites based in Ukraine and/or 
+used in Ukraine.  Lamberti noted that earlier this year one 
+of the world's biggest pirate websites had moved to 
+Ukraine, and that the founder of the site had stated that 
+he was looking for a "suitable" home after being pressured 
+to leave several other countries, including the 
+Netherlands, Canada, and Malaysia.  Lamberti cautioned that 
+Ukraine might become a haven for pirate sites if it did not 
+step up enforcement efforts. 
+ 
+¶9. Shirley gave a detailed briefing on the different kinds 
+of websites that engage in internet piracy and the 
+technology they employ.  He also described the 
+investigative steps he and other FBI agents took to 
+investigate elitetorrents.org, a pirate website based in 
+the United States that was known for its extremely fast 
+illegal downloads.  So far, that case has resulted in eight 
+convictions. 
+ 
+¶10. Serhiy Lebid, head of the Economic Crimes Department at 
+the Ministry of Interior, emphasized the importance of 
+combating internet piracy during his opening remarks. 
+Mumith Ali, from IFPI's London office, and Ihor Mykhaylov, 
+from the Ukrainian Anti-Piracy Association (which is funded 
+by the Motion Picture Association MPA), provided insight 
+from the private sector. 
+ 
+¶11. Ali provided participants with strategies and best 
+practices based on his experiences investigating some of 
+the biggest pirate websites in Europe, including a UK-based 
+private pirate website with 180,000 members notorious for 
+offering illegal downloads of pre-release music albums. 
+Prosecution of the owner of the site is currently pending 
+in English Crown Court.  Moreover, Ali gave a live 
+demonstration of how people download illegal works from 
+pirate websites.  Ukrainian participants were particularly 
+interested in Ali's description of a free computer program 
+called "Wireshark" used by IFPI to investigate pirate 
+sites; we are following up with the Ministry of Interior to 
+provide more information on this program.  Mykhaylov 
+discussed the efforts the movie industry has made to combat 
+internet piracy, and ways that police officers could obtain 
+assistance from his group and others.  He also discussed a 
+number of particular sites currently based in and/or used 
+in Ukraine offering pirate works. 
+ 
+¶12. In addition, to make the training workshop as hands-on 
+and practical as possible, organizers divided participants 
+into breakout groups to discuss one of two internet piracy 
+case studies.  Organizers based these case studies on 
+actual internet piracy sites in Ukraine, as well as on 
+specific issues and requirements presented by Ukrainian law 
+in this area.  At the conclusion of the workshop, several 
+police officers made helpful presentations to participants 
+on how they would investigate the case studies. 
+ 
+Comment: Baby Steps 
+------------------- 
+ 
+¶13. The Ukrainian participants were engaged in the 
+discussion, and many officers asked pertinent questions 
+during or after presentations.  Yet unfortunately resource 
+issues will continue to hamper enforcement efforts.  For 
+example, several police officers from the regions 
+complained privately that they did not have access to the 
+internet in their workplace.  We are also concerned that 
+the Prosecutor General's Office does not yet seem to have 
+made internet piracy a priority.  The workshop was a 
+success in terms of focusing Ukrainian police on the 
+problem of internet piracy and offering them some basic 
+tools to do so.  The police have a long way to go to 
+develop a robust enforcement system, however.  End comment. 
+ 
+ 
+TAYLOR

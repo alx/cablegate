@@ -1,0 +1,157 @@
+09STATE123343
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Wed Dec 02 00:00:00 +0100 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0011
+RR RUEHWEB
+
+DE RUEHC #3343 3390940
+ZNR UUUUU ZZH
+R 021346Z DEC 09
+FM SECSTATE WASHDC
+TO RUEHTA/AMEMBASSY ASTANA 0000
+INFO RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUEAIIA/CIA WASHINGTON DCUNCLAS STATE 123343 
+ 
+C O R R E C T E D COPY (REMOVED CAPTION ALMATY NOTNEED) 
+ 
+SIPDIS 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC KZ SP
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSE 050095697 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a post-shipment check on license 050095697 for the export of 
+International Traffic in Arms (ITAR)-controlled high powered 
+amplifiers (HPA) and traveling wave tubes (TWT) to 
+Kazakhstan.  Post is requested to complete this Blue Lantern 
+inquiry within 45 days.  Lack of response to a Blue Lantern 
+inquiry will affect pending and future licenses involving 
+parties to this license. 
+ 
+¶3. Reason for request: Sensitivity of the commodity; multiple 
+consignees, both outside of Kazakhstan, no documentation from 
+foreign end user Ministry of Defence of the Republic of 
+Kazakhstan. 
+ 
+¶4. ACTION: The Department requests that Post confirm that MOD 
+Kazakhstan received the HPAs and TWTs listed below (as 
+integrated into the CIDACA-R ESM/ECM system) and that the 
+articles are being used for the purpose stated on the 
+license. 
+ 
+END ACTION. 
+ 
+¶5. Details of license application: 
+ 
+DTC CASE:  050095697 
+ 
+QUANTITY/COMMODITY: 
+ 
+3 - High Powered Amplifier Model No. 600SC-M. 
+1 - Spare Traveling Wave Tube Teledyne Part No. MEC5500 
+3 - High Powered Amplifier with TWT Model No. 500IJ-XM 
+1 - Spare Traveling Wave Tube Teledyne Part No. MEC5415 
+ 
+License Value: 670,270.00 USD 
+ 
+SELLER: 
+ 
+ETM Electromatic, Inc. 
+35451 Dumbarton Court 
+Newark, CA 94560 
+Tel: 510-797-1100 ext. 102 
+POC: Michelle Childs 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Alava Ingenieros, S.A. 
+C/Albasanz, 16 
+Madrid 28037 
+Spain 
+Tel:  34-91-567-9720 
+POC: Maxi Herrera 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Indra Sistemas S.A. 
+Ctra. de Loeches 9 
+Torrejon de Ardoz 
+Madrid 28850 
+Spain 
+Tel:  34-91-626-8309 
+POC: Gonzalo Pesquero 
+ 
+FOREIGN END-USER: 
+ 
+Ministry of Defence of the Republic of Kazakhstan 
+5-A Auezova Street 
+Astana 010000 
+Kazakhstan 
+Tel:  7-3172-72-18-80 
+POC: K.B. Mujambetov 
+ 
+PURPOSE: 
+ 
+The ETM transmitters will be integrated into the CIDACA-R 
+ESM/ECM system to be used as a land-based radar 
+countermeasures application on a Kazakhstan Army vehicle. 
+They will be used to produce a wide bandwidth of radar 
+jamming capabilities on a vehicle platform to protect mission 
+personnel, equipment, and locations from electronic 
+surveillance. 
+ 
+Alava Ingenieros will integrate the transmitters with an 
+antenna system and conduct initial RF (radio frequency) 
+testing prior to shipping the transmitters and antenna to 
+Indra Sistemas.  Indra will conduct final system integration 
+with other system electronics into a mechanical structure 
+within a radome and ship the final system (the CIDACA-R 
+ESM/ECM) to the MOD Kazakhstan. 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC will fax documentation to Post 
+upon request): 
+ 
+--Letter of Intent, submitted by ETM, signed by Michael 
+Scott, dated 3 December 2007. 
+ 
+--Supplementary Explanation of Transaction, submitted by ETM, 
+signed by Michelle Childs, dated 21 February 2008. 
+ 
+--End-User Certificate, submitted by Alava Ingenieros, signed 
+by Maxi Herrera and Gonzalo Pesquero, dated 4 December 2007. 
+ 
+--ETM price quotation submitted to Alava Ingenieros, dated 18 
+October 2007. 
+ 
+--Technical data regarding the commodity. 
+ 
+--Department of State License for Permanent Export of 
+Unclassified Defense Articles and Related Unclassified 
+Technical Data, signed 25 March 2008, approved 22 May 2008. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Meredith Sundlof. Phone: 
+202-663-3455; Email: SundlofME@state.gov; SIPRNET: 
+SundlofME@state.sgov.gov.  The Blue Lantern Guidebook (ref) 
+is available as a PDF file at 
+http://www.intelink.sgov.gov/wiki/Blue Lantern End-Use 
+Monitoring Program. 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+CLINTON

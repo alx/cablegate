@@ -1,0 +1,109 @@
+10MADRID108
+SPAIN'S EXPERIENCE WITH ELECTRONIC IDENTITY CARDS
+Fri Jan 29 00:00:00 +0100 2010
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Madrid
+VZCZCXYZ0007
+PP RUEHWEB
+
+DE RUEHMD #0108 0291338
+ZNR UUUUU ZZH
+P 291338Z JAN 10
+FM AMEMBASSY MADRID
+TO RUEHC/SECSTATE WASHDC PRIORITY 1819
+INFO RUEHRL/AMEMBASSY BERLIN 0677
+RUEHLI/AMEMBASSY LISBON 1747
+RUEHNY/AMEMBASSY OSLO 0001
+RUEHTL/AMEMBASSY TALLINN 0112
+RUEHVI/AMEMBASSY VIENNA 0685UNCLAS MADRID 000108 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EEB/CIP/MA J. ENNIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS SP
+SUBJECT: SPAIN'S EXPERIENCE WITH ELECTRONIC IDENTITY CARDS 
+(EIDS) 
+ 
+REF: STATE 130106 
+ 
+¶1. (SBU) Electronic identities in Spain are governed by Law 
+59 of 2003, known as the electronic signatures law.  Spain 
+began issuing electronic national identity cards (DNIs) in 
+¶2006.  The DNI is the document that citizens and residents 
+are required to present for access to government facilities 
+and many private buildings and interaction with government 
+officials as well as many commercial transactions (use of a 
+credit or debit card, for example).  The electronic ID cards 
+come with a chip containing secure identifying information. 
+ 
+¶2. (SBU) According to contacts in the Secretariat of State 
+for Telecommunications and the Information Society (SETSI), 
+there are more than 14 million electronic DNIs in 
+circulation.  (Note: The population of Spain is about 45 
+million).  These are manufactured by the National Coin and 
+Stamp Factory (FNMT, a subdivision of the RCM or Royal Mint). 
+ Within FNMT, a department known as Spanish Certification 
+(CERES) provides an electronic certification accepted by all 
+branches of the GOS.  FNMT manufactures the plastic chips and 
+programs the individual data into them. 
+ 
+¶3. (SBU) In addition to the electronic DNIs, FNMT offers 
+other electronic ID cards which are not DNIs but have some of 
+the same attributes and can be used for commercial 
+transactions.  It has reportedly issued approximately 2.27 
+million of such non-DNI electronic ID cards  Finally, FNMT 
+also offers cardless electronic IDs which can be downloaded 
+from the Internet directly to an individual's computer hard 
+drive.  The technology of the various types of IDs is 
+similar, but the electronic cards offer more security than 
+the cardless downloaded IDs.  That said, SETSI is not aware 
+of any security issues or lapses or identity theft involving 
+electronic IDs in the almost four years the DNI program has 
+been in operation. 
+ 
+¶4. (SBU) SETSI's Sub-Directorate for Information Society 
+Services (SDSSI) financed the development of electronic DNIs 
+and oversees the program.  It serves as a central point for 
+anything having to do with electronic IDs and is responsible 
+for regulating their use.   SDSSI sponsored a campaign in 
+2007-8 to make electronic DNIs available over the entire 
+national territory and to increase their use by the public. 
+Individuals apply for the electronic DNIs through local 
+National Police stations, which serve as one-stop shops. 
+FNMT sends completed electronic DNIs to the police stations 
+for distribution to applicants. Currently 259 local police 
+stations across the country and an additional 90 mobile rural 
+police stations are able to distribute electronic DNIs, and 
+the government is striving to increase this number. 
+ 
+¶5. (SBU) SETSI, in conjunction with CERES, also authorizes 
+certain private entities to issue electronic IDs.  These are 
+mostly Chambers of Commerce and other business groups which 
+issue electronic ID cards for use with Spain's tax 
+administration and in electronic commerce transactions.  Some 
+major banks (Santander, Banesto) and companies (Telefonica) 
+are also authorized to issue the cards. Though there are many 
+electronic DNIs in circulation, citizens are not using them 
+much because they don't understand them very well or know how 
+to use them.  In general, many Spaniards have not yet gotten 
+used to conducting transactions over the Internet, and 
+electronic commerce has not reached its full potential. 
+ 
+¶6. (SBU) Additional information is available on the CERES 
+website, www.cert.fnmt.es.  Click on "welcome" in the upper 
+right-haQcorner for information in English.  The 
+government's primary POC for issues related to electronic IDs 
+is Salvador Soriano, Deputy Director General for Information 
+Society Services, Secretariat of State for Telecommunications 
+and the Information Society (SETSI), Ministry of Industry, 
+Tourism, and Trade (MITYC), tel: 34 91 346-1597, e-mail 
+slsoriano@mityc.es.  Soriano expressed a willingness to 
+coordinate meetings and visits for persons interested in 
+learning more about the program's architecture and the 
+manufacture and distribution of EIDS.  Embassy POC is 
+ecQmic officer Peter Higgins, tel: 34 91 587-2295, e-mail 
+higginsjp@state.gov. 
+SOLOMONT

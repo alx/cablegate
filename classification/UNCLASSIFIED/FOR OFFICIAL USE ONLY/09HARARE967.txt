@@ -1,0 +1,224 @@
+09HARARE967
+ZIMBABWE, LITERALLY IN THE DARK
+Mon Dec 14 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Harare
+VZCZCXRO5469
+RR RUEHBZ RUEHDU RUEHJO RUEHMR RUEHRN
+DE RUEHSB #0967/01 3481533
+ZNR UUUUU ZZH
+R 141533Z DEC 09
+FM AMEMBASSY HARARE
+TO RUEHC/SECSTATE WASHDC 5216
+INFO RUCNSAD/SOUTHERN AF DEVELOPMENT COMMUNITY COLLECTIVE
+RUEHDS/AMEMBASSY ADDIS ABABA 3319
+RUEHKI/AMEMBASSY KINSHASA 0539
+RUEHGP/AMEMBASSY SINGAPORE 0009
+RUEHBJ/AMEMBASSY BEIJING 0107
+RUEHKM/AMEMBASSY KAMPALA 0007
+RUEHNR/AMEMBASSY NAIROBI 0009
+RUEAIIA/CIA WASHDC
+RUEATRS/DEPT OF TREASURY WASHDC
+RHEFDIA/DIA WASHDC
+RHMFISS/EUCOM POLAD VAIHINGEN GE
+RUZEJAA/JAC MOLESWORTH RAF MOLESWORTH UK
+RHEHAAA/NSC WASHDCUNCLAS SECTION 01 OF 03 HARARE 000967 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+AF/S FOR B. WALCH 
+EEB/ESC 
+DRL FOR N. WILETT 
+CA/OCS/ACS/AF M. RAUGUST 
+JOHANNESBURG FOR RCO K. MAY 
+NSC FOR SENIOR AFRICA DIRECTOR M. GAVIN 
+TREASURY FOR D. PETERS 
+ 
+E.O. 12958: N/A 
+TAGS: ENRG ECON EINT CASC PGOV ZI
+SUBJECT: ZIMBABWE, LITERALLY IN THE DARK 
+ 
+REF:  A. HARARE 000361 
+      ¶B. HARARE 000941 
+ 
+¶1. (U) SUMMARY:  Zimbabwe produces about half the electricity it 
+needs, resulting in persistent blackouts that constrain industrial 
+output and economic recovery.  Zimbabwe's Electricity Supply 
+Authority (ZESA) struggles to operate and maintain a decrepit 
+national grid, which due to a chronic lack of coal, aging equipment, 
+vandalism, and general neglect routinely supplies only 750 MW, 
+against a national demand of around 2000 MW.  Habitual load-shedding 
+has become the norm, with many rural regions without power at all. 
+Given the absence of scheduled capacity building projects and a 
+government-controlled tariff schedule that prevents revenue for 
+capital improvements, no improvement is in sight.  END SUMMARY. 
+ 
+--------------------- 
+Insufficient Capacity 
+--------------------- 
+ 
+¶2. (SBU) David Chikowore, an electrical engineer with ZESA (a 
+government-owned parastatal and sole electricity supplier in 
+Zimbabwe) spoke openly about the country's electricity woes during a 
+meeting with Conoff on December 2.  Chikowore explained Zimbabwe's 
+root problem is insufficient generation capacity.  At the core of 
+the Zimbabwe national grid is the 750 MW hydro-electric plant at 
+Kariba.  However, due to periodic maintenance and fluctuating water 
+levels in the Kariba Reservoir, this plant often operates at less 
+than full capacity.  For example, in November 2009 the plant 
+underwent annual maintenance that restricted output to only 400 MW, 
+while the reservoir's water level in the dry season often restricts 
+the amount of water that can flow through the turbines.  Chikowore 
+estimated that the plant, on average, supplies about 550 MW. 
+ 
+¶3. (SBU) In addition to the hydro plant in Kariba, Zimbabwe has six 
+major and three supplemental coal-burning plants, which all suffer 
+from varying degrees of inefficiency and insufficient coal supply. 
+Hwange, Zimbabwe's principal electricity generating facility is 
+comprised of six major coal-burning furnaces with a total design 
+capacity of 1220 MW.  Four of the six are designed to generate 120 
+MW and two are designed to generate 220 MW.  The three supplemental 
+coal plants, located in Harare, Bulawayo, and Munyati, each have a 
+design capacity of 100 MW.  However, due to coal shortage and 
+disrepair, the three supplemental plants have been completely 
+dormant since 2007, while three of the six plants in Hwange are 
+normally down for service or refurbishment at any given time. 
+Chikowore explained that in 2009, Hwange has produced an average of 
+about 460 MW. 
+ 
+¶4. (U) Although Hwange is the site of one of the largest coal 
+deposits in the Southern African region, the Hwange Colliery Company 
+has been unable to meet demand, plagued by a series of conveyor 
+belt, dragline, and equipment failures (Ref A).  Like other Zimbabwe 
+state-run enterprises, it suffers from a severe shortage of working 
+capital needed to repair and replace worn equipment.  According to 
+MineWeb, a mining news reporting service, the Hwange colliery is 
+QMineWeb, a mining news reporting service, the Hwange colliery is 
+operating at less than 50 percent capacity and suffers from chronic 
+breakdowns of its heavy equipment.  Unofficial estimates define 
+Zimbabwe's monthly demand at approximately 400,000 tons of coal, 
+with Hwange supplying less than 180,000.  Aggravating the problem is 
+the Zimbabwe National Railway's state of disrepair.  Chikowore 
+explained that coal for the supplemental plants must be trucked from 
+the colliery, as the railway lines are unserviceable, and that 
+trucking coal to the supplemental plants is neither feasible nor 
+cost effective.  He said it was cheaper to buy power from 
+neighboring countries (Mozambique, Zambia, and DRC) than it was to 
+transport coal to the outdated and inefficient supplemental power 
+plants. 
+ 
+--------------------------------------------- ----- 
+Zimbabwe Is 1000 MW Short, But Exports Electricity 
+--------------------------------------------- ----- 
+ 
+HARARE 00000967  002 OF 003 
+ 
+ 
+ 
+¶5. (SBU) A principal factor in the depressed Hwange output is an 
+ongoing refurbishment of four plants.  In a 2007 barter deal between 
+ZESA and Nampower (Namibia's power utility), four of the six 
+turbines are being replaced and the corresponding generators 
+refurbished.  In exchange for the refurbished plants, ZESA agreed to 
+repay Nampower by supplying electricity.  Similar to a variable 
+mortgage, initial payments in 2008 were for only 50 MW.  However, in 
+2009 the payments jumped to 150 MW and will remain in effect for the 
+next five years.  Of note, the Hwange refurbishment only includes 
+the four smaller generators, with the 220 MW generators without any 
+prospect of repair. 
+ 
+--------------------------------------------- - 
+Decrepit National Grid and Daily Load-Shedding 
+--------------------------------------------- - 
+ 
+¶6. (SBU) Beside not generating enough power, ZESA is also unable to 
+equitably distribute the power it does generate.  The whole grid 
+distribution system suffers from years of vandalism and inadequate 
+maintenance, resulting in large areas disconnected from the national 
+grid.  Vandalism has included the theft of the transmission fluid 
+from the step-down transformers and theft of the timbers used to 
+string transmission lines.  Chikowore estimated that over 900 
+transformers were in need of service or replacement in Harare and 
+Gweru alone. 
+ 
+ 
+¶7. (U) Aware of the gap between supply and demand, ZESA attempts to 
+distribute the pain through publication of a "load-shedding 
+schedule."  In theory, the schedule is designed to equitably supply 
+industry and neighborhoods with power, while providing advance 
+warning of blackout periods.  However, in practice, the schedule, 
+built upon faulty assumptions, has become merely a starting point 
+for further cuts.  November 15, a typical day, serves to illustrate 
+the dynamic. 
+ 
+¶8. (SBU) On November 15, due to annual maintenance, Kariba produced 
+only 450 MW, not the planned 500 MW.  Hwange had one more furnace 
+out of service than planned, resulting in only 430 MW production, 
+vice the planned 550 MW.  Together, the two plants supplied 880 MW 
+to the national grid, although 1050 MW were planned.  From this 880 
+MW, 150 MW were diverted to Nampower, leaving 730 MW for domestic 
+consumption.  The load-shedding schedule assumed a demand of 1170 
+MW, resulting in a 270 MW shortfall that was used to build the 
+load-shedding schedule (1050 supply, minus 150 Nampower, minus 1170 
+demand).  Assuming an accurate prediction of demand, the ZESA 
+engineers at the control panels faced an additional 170 MW shortfall 
+(because actual production was below the expected level) before 
+anyone turned on a light.  However, the 1170 MW demand was 
+inaccurate as well.  Throughout the day, as "pulls" on the system 
+increased, nervous engineers watching their frequency panels shed an 
+additional 320 MW in addition to the published schedule of 270 MW. 
+Chikowore explained that this additional real-time load-shedding had 
+become a daily dynamic. 
+Qbecome a daily dynamic. 
+ 
+-------------- 
+Grim Prognosis 
+-------------- 
+ 
+¶9. (SBU) When asked about the future, Chikowore gave a pessimistic 
+prognosis.  Lamenting the total lack of any capacity building 
+projects on the books, he said no real change to the daily 
+load-shedding dynamic could occur within the next five years.  He 
+said that in the past, ZESA had purchased power from its regional 
+neighbors (Mozambique, DRC, and Zambia), but excess power was in 
+short supply and ZESA could not afford to buy it when it was 
+available. 
+ 
+¶10.  (SBU) According to Chikowore, ZESA's average tariff schedule 
+barely covers cost, leaving no revenue for capital improvements or 
+ 
+HARARE 00000967  003 OF 003 
+ 
+ 
+refurbishment.  In March 2009, amidst a public outcry, the 
+government announced an increase in the average tariff from USD 
+0.041 to USD 0.075 (7.5 cents) per kilowatt-hour.  Chikowore said 
+this increase was still woefully inadequate and did not provide for 
+capital improvements.  He said ZESA had applied to the Ministry of 
+Energy Regulatory Committee to increase the tariff to 9 cents 
+beginning in January 2010, though he believes the tariff should be 
+approximately 11 cents to provide realistic funding for 
+refurbishment. 
+ 
+¶11. (U) A November 2009 World Bank report estimated the cost of 
+transmission emergency rehabilitation at USD 561 million.  In a 
+November interview preceding publication of the new national budget, 
+the Minister of Energy and Power Development, Elias Mudzuri, said he 
+hoped that his ministry would receive between USD 70-100 million for 
+rehabilitation.  As reported in Ref B, Finance Minister Tendai Biti 
+placed the power sector at the top of his public-sector priorities 
+when he presented the 2010 budget, allocating USD 53 million towards 
+refurbishment. 
+ 
+¶12. (SBU) COMMENT:  The electricity utility ZESA is another example 
+of a bankrupt GOZ-owned operation.  Like Zimbabwe's rail, road, 
+medical, and telecommunications infrastructures, Zimbabwe's 
+electricity power sector will require years and hundreds of millions 
+of dollars to repair.  Although Minister Biti acknowledged the 
+importance of refurbishing the power sector, we anticipate a revenue 
+shortfall will compel him to abandon a large portion of this 
+priority in favor of an irreversible commitment for increased wages 
+in the public service.  END COMMENT. 
+ 
+RAY

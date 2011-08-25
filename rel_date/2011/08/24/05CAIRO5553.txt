@@ -1,0 +1,240 @@
+05CAIRO5553
+FY06 "RP: Foreign Policy Decision Making
+Wed Jul 20 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Cairo
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 CAIRO 005553 
+ 
+SIPDIS 
+ 
+FOR ECA/PE/V/R/N and NEA/PPD 
+ 
+E.O. 12958: NA 
+TAGS: OEXC KPAO EG
+SUBJECT:  FY06 "RP: Foreign Policy Decision Making 
+Process," March 20 - April 7, 2006 EGYPT NOMINATION 
+ 
+REF:  A. Cairo 2571 
+      ¶B. Cairo 4334 
+      ¶C. Remeika/Mahoney/Naguib e-mails of 07/14 & 18 
+ 
+¶1.  In addition to already nominated Mr. Gamal Ismail Abd 
+El Aziz Hassan SHAHIN, Journalist, at Al Sharq Al Awsat 
+Newspaper, post also nominates Mr Alaa El Din Kamal Mohamed 
+SABET, journalist, Al Ahram Al Messaie Newspaper, for 
+participation in subject RP. 
+ 
+¶2.  FOLLOWING IS FULL EVDB AND SEVIS INFROMATION. 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.5 
+POST-EMAIL: cairoexchanges@state.gov 
+TRANSMITTING-POST: PAS Cairo 
+TRANSMITTING-POST-ID: 2875 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VRA 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 232 
+ECA-PROJ-NO: 
+PROJ-NAME: Foreign Policy Decision-Making Process 
+START MEMO PROJ-DESC: 
+This project is designed to enhance understanding of the 
+U.S. foreign policy decision-making process, with emphasis 
+on the roles of the State Department, the National Security 
+Council, the Department of Defense, and Congress. 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Regional 
+PROG-TYPE: IV Grant Visitor 
+FY: 2006 
+DEPART-POST: 03/18/2006 
+SESSION-DATE: 03/20/2006 
+RETURN-POST: 04/07/2006 
+NO-OF-PART: 1 
+RANK-ORDER: 0 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1035 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: RP 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 2875 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Foreign Policy 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Alaa El Din 
+M-NAME: Kamal Mohamed 
+L-NAME: Sabet 
+SUFFIX: 
+POSITION-CODE: 622 
+PRINCIPAL?: Yes 
+GENDER: M 
+DOB: 12/12/1965 
+MAR-STAT: M 
+BIRTH-CITY: Kenna 
+BIRTH-CNTRY: Egypt 
+CITIZ-CNTRY: Egypt 
+RES-CNTRY: Egypt 
+START MEMO POSITION: 
+Head of Al Ahram Al Messaie's 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Assistant Managing Editor of Al Ahram Al Messaie 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+-- Freelance in Al Ahram's publications "Nesf Eldonia" 
+magazine and "Al Ahram Al Reyadi" (Sports) 2004-present 
+-- Regular two-page columnist in Al Ahram Strategic and 
+Political Studies Center's monthly "Al Ahram's Strategic 
+File" 
+-- Certified educational advisor for the Supreme Council of 
+Universities, 1994-present 
+-- Reporter, "Al Ahram Al Messaie" (Evening), 1994 -2004 
+-- Freelance reporter, "Transit" magazine for tourism, 
+1990-1994 
+-- Reporter, "Al Sharq Al Awsat's" "Al Megalla" magazine, 
+1990-1994 
+-- Features journalist, "RosAlYoussef" weekly magazine, 
+1990 
+ 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+No 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+-- Canada 2004, to discuss cooperation in establishing 
+Canadian university in Egypt 
+-- Germany July 1992, to discuss German education system 
+before establishing the German university in Egypt 
+-- Germany 2004, invitation from Olm University to evaluate 
+Egyptian-German educational relations 
+-- Turkey 2003-2004, training with the Arab Academy for 
+Naval Shipping 
+-- Dubai 1995, 98 for signing agreement on information 
+network between UAE and Al Ahram Strategic and Political 
+Studies Center 
+-- Jordan, Lebanon and Syria for discussing educational 
+experiences 1997, 1998 
+-- Saudi Arabia, religious pilgrimage 
+ 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+-- Luxor School, Thanaweya Amma and Al Azhar (Islamic) High 
+School diploma, 1983 
+-- Faculty of Mass Commutations and Publishing, Al Azhar 
+(Islamic) University, 1988 
+-- UN training courses, Faculty of Mass Communications, 
+Cairo University, 1993 
+-- International Policy course, Cairo University, 1990 
+-- Several local conferences on education, research, and 
+identity. For example, the First International Conference 
+on Scientific Research and Application, Cairo University, 
+1994 
+-- Press Syndicate press courses, 1996. 
+ 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Member of the Press Syndicate 1994 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+-- Collection of children stories for ETV series: "Sohail," 
+"Prophets," "Islamic History," and other children 
+characters 
+-- Writing for ETV short documentary films on the 
+environment 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: Arabic 
+ENGL-READ: 3 
+ENGL-SPEAK: 3 
+ENGL-COMP: 3 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Information Officer- John Berry 
+START MEMO NOMINATING-JUSTIFICATION: 
+Mr. Sabet is one of PA-Cairo's senior contacts who have 
+been cooperating largely in placing all of our cultural, 
+youth and educational programs.  His evening newspaper is 
+part of the leading pro-government daily "Al Ahram" and is 
+widely read among the Egyptian public.  Despite Mr. Sabet's 
+conservative education (Al Azhar high school and university 
+are religious), he is always willing to hear about our 
+programs and functions in Egypt and see ways of 
+cooperation.  Mr. Sabet has long experience in Egypt's 
+educational system, and thus his several travels abroad to 
+discuss cooperation programs.   Mr. Sabet is also a writer 
+of children's stories for the local Egyptian television 
+channels due to his educational experience.  However, he 
+has never been to the U.S. and North America.  An IV 
+program will be an ideal first-hand experience for Mr. 
+Sabet to know about the U.S. system and culture that will 
+positively impact his future writings. 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: 
+SPEAKER?: No 
+NOTIFY-EMB: Yes 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: INTERPRETER 
+NOMINEE-ID: 564 
+PERSON-ID: 510 
+BIRTH-CNTRY-ID: EG 
+CITIZ-CNTRY-ID: EG 
+RES-CNTRY-ID: EG 
+FIRST-LANG-ID: AR 
+E-I-TYPE-ID: I 
+NOM-POST-ID: 2875 
+NOM-FUNDING-CNTRY-ID: 
+NOM-STATUS: N 
+DS2019-ACTION: 0 
+DS2019-SUBJECT: 09.0401 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+¶3.  Post appreciates ECA's assistance with these 
+nominations. 
+ 
+Corbin

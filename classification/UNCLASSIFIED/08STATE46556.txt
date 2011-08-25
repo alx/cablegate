@@ -1,0 +1,130 @@
+08STATE46556
+BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK
+Fri May 02 00:00:00 +0200 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0008
+RR RUEHWEB
+
+DE RUEHC #6556 1231350
+ZNR UUUUU ZZH
+R 021344Z MAY 08
+FM SECSTATE WASHDC
+TO RUEHMD/AMEMBASSY MADRID 0000
+INFO RUETIAA/DIRNSA FT GEORGE G MEADE MD
+RUEAIIA/CIA WASHINGTON DC 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 046556 
+ 
+SIPDIS 
+ 
+SIPDIS 
+MADRID FOR E. STROTHER MURRAY 
+POL-MIL 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC SP
+SUBJECT: BLUE LANTERN LEVEL 3: PRE-LICENSE END-USE CHECK 
+ON APPLICATION 05-050100474 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1.  This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a pre-license check on application 05-050100474 for the 
+export of electronic components and spare parts to Spain. 
+Post is requested to complete this Blue Lantern inquiry 
+within 30 days.  Lack of response to a Blue Lantern inquiry 
+will affect pending and future licenses involving parties to 
+this license. 
+ 
+¶3.  Reason for request: To verify the existence of a civil 
+version of the Lanza Long Range 3-D Surveillance Radar in 
+development and its end-use. 
+ 
+¶4. Action:   Department requests that Post confirm that 
+end-user Indra Sistemas is developing a civil version of its 
+Lanza radar, the name and location of any other parties that 
+are involved in contracting the development of the product, 
+and the identity of all Indra Sistemas' customers to which 
+the radar system will be exported. Emphasize that the 
+unauthorized re-export or retransfer of United States 
+Munitions List (USML) items is strictly prohibited. 
+ 
+End Action Request. 
+ 
+¶5. Details of license application: 
+ 
+DTC Case: 05-050100474 
+ 
+QUANTITY/COMMODITY: 
+ 
+4   Model GA-2011-4   Attenuator Matched Sets in Accordance 
+with Indra Specifications. 
+ 
+ 
+ License Value: USD $47,360. 
+ 
+SELLER: 
+ 
+Aeroflex/KDI, Inc. 
+35 South Service Road 
+Plainview, NY  11803 
+ 
+FOREIGN CONSIGNEES: 
+ 
+Moises Gracia Garcia, President & CEO 
+Aspid Comunicaciones, S.A. 
+C/General Aranaz, 49 
+28027 Madrid 
+Spain 
+Tel: 34 91 371 77 56 
+Fax: 34 91 320 10 18 
+Email: aspidcom@aspidcom.com 
+ 
+END-USER: 
+ 
+Indra Sistemas, S.A. 
+Avenida de Bruselas, 33-35 
+Alcobendas 
+28108 Madrid 
+Spain 
+Tel: 34 91 480 50 00 
+ 
+PURPOSE: 
+ 
+Lanza Civil Primary Radar (Spec #0012921221000EC01) 
+consisting of total of four sets will be placed on the 
+receptor input; the attenuators avoid LNA saturation due to 
+near-clutter at each channel. 
+ 
+¶6. Submitted in support of the license application were the 
+following documents (PM/DTCC will fax documentation to Post 
+upon request): 
+ 
+-- End-Use/End-User Certificate from Aspid Comunicaciones, 
+S.A. dated 18 February 2008 which references Indra Sistemas 
+Purchase Order No. 26715752 for four Matched Sets of 
+Programmable RF Attenuators Model GA-2011 (for prototypes). 
+ 
+-- Aspid Comunicaciones, SA Purchase Order No. 2007/671 dated 
+20 December 2007 
+ 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Rachael-Therese S. Joubert-Lin, 
+Phone: 202-663-2950; Email: JoubertLinRS@state.gov; SIPRNET: 
+JoubertLinRS@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file in the Bunche Library's 
+E-Book Collection on the DOS Intranet: 
+http://buncheelectroniclibrary.state.gov/eboo ks/ 
+BlueLanternGuidebook2006%20 final .pdf 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+RICE

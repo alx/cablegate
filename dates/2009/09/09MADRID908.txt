@@ -1,0 +1,158 @@
+09MADRID908
+ANOTHER UNFAVORABLE BLUE LANTERN FOR ELINT ON CASE
+Thu Sep 10 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Madrid
+VZCZCXYZ0007
+RR RUEHWEB
+
+DE RUEHMD #0908/01 2530549
+ZNR UUUUU ZZH
+R 100549Z SEP 09
+FM AMEMBASSY MADRID
+TO RUEHC/SECSTATE WASHDC 1203
+INFO RUEKJCS/SECDEF WASHDCUNCLAS MADRID 000908 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+ 
+PM/DTCC - BLUE LANTERN COORDINATOR, TIM MAZZARELLI 
+EUR/WE - STACIE ZERDECKI AND ALEXANDRA MCKNIGHT 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC SP
+SUBJECT: ANOTHER UNFAVORABLE BLUE LANTERN FOR ELINT ON CASE 
+050177626 
+ 
+REF: A. STATE 75563 
+     ¶B. MADRID 453 
+     ¶C. MADRID 777 
+     ¶D. 8/21/09 MAZZARELLI-MURRAY E-MAIL WITH DSP-83 AND 
+        OTHER ATTACHMENTS 
+     ¶E. 9/3/09 MURRAY-MAZZARELLI E-MAIL WITH DSP-83 
+        ATTACHMENT 
+ 
+¶1. (SBU) SUMMARY:  Foreign consignee Elint, S.A. appears to 
+have broken both Spanish and U.S. law with the submission of 
+documentation in support of a June 2009 export license 
+application submitted by N-Vision Optics LLC of Needham, 
+Massachusetts.  Already under investigation by the Spanish 
+National Police (SNP) and charged with former U.S. supplier 
+ITT Night Vision with intellectual property violations, Elint 
+sought to procure an additional 862 U.S.-origin night vision 
+goggles ostensibly "to be used by the Spanish Marines for 
+anti-terrorist operations in support of Operation Enduring 
+Freedom (OEF) in Afghanistan and Lebanon."  (NOTE: Spain, 
+which now has over 1200 troops deployed under the auspices of 
+NATO's International Security Assistance Force (ISAF) in 
+Afghanistan, does not have Marines participating in U.S.-led 
+OEF.  END NOTE.)  Post has reviewed the documentation 
+submitted by Elint and N-Vision Optics LLC in support of the 
+application and shared same with Spanish Ministry of Defense 
+contacts per action request in reftel A.  Defense staff 
+concluded their study of the case upon resumption of normal 
+business hours the week of September 1 and affirmed September 
+3 "clear indications of wrongdoing."  Evidence provided to 
+Pol-Mil Officer and ODC Chief by Spanish MOD on indicates 
+egregious alteration of a U.S. Non-Transfer and Use 
+Certificate (DSP-83) as well as fabrication of Spanish 
+Ministry of Defense documentation.  Spanish officials remain 
+eager to cooperate with the USG and to coordinate enforcement 
+measures to deny Elint as an MOD supplier and bar Elint as a 
+supplier of U.S. Munitions List-controlled items, 
+respectively.  MOD contacts assured Mission officers that no 
+other acquisitions via Elint were in process for the Spanish 
+Armed Forces, but nonetheless stressed Spanish willingness to 
+abide any delays in delivery due to denial of export licenses 
+involving Elint.  END SUMMARY. 
+ 
+¶2. (SBU) Upon receipt of Post's initial inquiry (ref A) in 
+July 2009, Captain Eladio Ferreiro, Head of the Export 
+Control Unit within the Directorate General of Armament and 
+Materiel (DGAM) at the Spanish Ministry of Defense, expressed 
+concern about possible anomalies in the submitted 
+documentation.  He sought clarification of contact 
+information and requested better quality copies of documents. 
+ He also anticipated difficulty in locating the right people 
+in order to make PM's deadline.  As of mid-August 2009, 
+elements within DGAM assured Post they were looking into a 
+series of unanswered questions.  While he could not respond 
+officially while the investigation was ongoing, Colonel 
+Carlos Alonso Ausin (Chief of the U.S. Bilateral Relations 
+Unit) called the case "odd," and advised there was no 
+procurement order or budget on the part of the Spanish 
+Marines to correspond to an order for more than $2.7 million 
+in sensitive night vision equipment.  Ausin requested better 
+copies of the U.S. Non-Transfer and Use Certificate (DSP-83) 
+in order to be sure.  MOD urged the USG not to approve the 
+license in the face of so many unanswered questions and Ausin 
+assured the Office of Defense Cooperation that the case "had 
+everyone's attention." 
+ 
+¶3. (SBU) PM/DTCC provided clearer scans August 21 of the 
+supporting documents (ref D) mentioned in reftel A, and Post 
+forwarded the requested documents to Colonel Ausin.  Ausin 
+subsequently confirmed verbally:  "Based on the information 
+available as of August 21, the Marine Corps signed on June 3, 
+2009 a DSP-83 for sixty-two (62) AN/PVS-14 night vision 
+monocular generation 3."  (NOTE:  Per reftel A, Post and MOD 
+had been asked to confirm the existence of a contract or 
+purchase order with Elint for the full quantity and dollar 
+value of NVGs -- to wit, 462 AN/PVS-14 night vision monocular 
+generation 3 valued at $1,556,940.00 and 400 GT-14 night 
+vision monocular generation 3 valued at $1,084,000.00 as well 
+as 200 dual mounts for the GT14s valued at $95,000.  END 
+NOTE.) 
+ 
+¶4. (SBU) At a September 3 meeting convoked by DGAM 
+Subdirector General for International Relations BG Jose Luis 
+Ceballos Porras, Ceballos and COL Ausin provided a 
+reproduction of the DSP-83 as it had left the Spanish Marine 
+Corps (ref E).  A comparison of the two facsimiles showed, in 
+Ceballos's words, "clear indications of wrongdoing." 
+Ceballos confirmed the initial informal conclusion that the 
+original DSP-83 specifying 62 of one kind of NVG had been 
+clumsily altered sometime after it left the Spanish MOD, 
+ 
+showing additional quantity digits, line items, and dollar 
+values in a different typeface from the original.  Ceballos 
+expressed concern that the Spanish requisite end-use 
+certificate had also been fabricated.  It appeared to have 
+been cut and pasted onto fake MOD letterhead with a 
+non-existent point of contact and was stamped with the 
+Commandant of the Spanish Marine Corps seal by this 
+as-yet-unidentified procurement manager.  Further, Ceballos 
+noted that whoever had generated the bogus document had had 
+enough open source information to come up with a plausible 
+end use statement -- in support of anti-terrorist operations 
+in Afghanistan and Lebanon -- to pass muster and facilitate 
+the license application. 
+ 
+¶5.  (SBU) CONCLUSIONS:  In answer to questions posed in 
+reftel A, Spanish MoD confirmed the existence of a contract 
+or purchase order with Elint S.A. for NVGs, but not for the 
+full quantity and dollar value listed on the document. 
+Spanish MoD could neither confirm nor deny the intended 
+end-use of the NVGs in Afghanistan and Lebanon.  Further, 
+DGAM's Ceballos declared the legitimate acquisition attempt 
+null and void based on the false documentation.  Ceballos 
+said he had advised Spain's military commands that "a minor 
+issue" could cause delays with NVG procurement.  He was 
+hesitant to broadcast too widely a caution against doing 
+business with Elint, lest his administrative procedure 
+jeopardize the ongoing criminal investigation.  Having 
+concluded his internal study, Ceballos planned to share the 
+same evidence of document tampering with Spanish security 
+officials.  Pol-Mil Officer confirmed Ceballos's impression 
+that the USG takes issue with Elint only, and not/not with 
+the legitimate Spanish requirement for night vision devices 
+-- that neither the denial of this license nor a forthcoming 
+policy of denial toward Elint were a reflection on the 
+Spanish government.  Ceballos sought U.S. guidance in 
+correcting the misperception among the Spanish services that 
+procurement delays were due to U.S. bureaucratic hurdles.  He 
+appreciated the U.S. Commercial Service offer to facilitate 
+the acquisition process by identifying more reliable Spanish 
+distributors for U.S. defense equipment. 
+CHACON

@@ -1,0 +1,84 @@
+06BAGHDAD4211
+SEPTEMBER INFLATION DATA
+Sat Nov 11 00:00:00 +0100 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Baghdad
+VZCZCXRO5549
+PP RUEHBC RUEHDA RUEHDE RUEHIHL RUEHKUK
+DE RUEHGB #4211 3151145
+ZNR UUUUU ZZH
+P 111145Z NOV 06
+FM AMEMBASSY BAGHDAD
+TO RUEHC/SECSTATE WASHDC PRIORITY 7971
+INFO RUCNRAQ/IRAQ COLLECTIVE
+RUEATRS/DEPT OF TREASURY WASHDCUNCLAS BAGHDAD 004211 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN IZ
+SUBJECT: SEPTEMBER INFLATION DATA 
+ 
+REF: BAGHDAD 3460 
+ 
+¶1. (SBU) Iraq's consumer price index (CPI) decreased 12.8% in 
+September, and the year-on-year increase dropped to 51.6%. 
+The decrease is largely driven by price decreases in the 
+categories of Fuel/electricity (41.2%) and 
+Transport/communication (32.6%). GOI's Central Office of 
+Statistics and Information Technology (COSIT) lists 
+disaggregated percentage increases (month-on-month) as 
+follows: 
+ 
+Food                       2.0% 
+Tobacco/liquor             2.3% 
+Clothing/shoes             6.3% 
+Furniture                  3.0% 
+Fuel/electricity         -41.2% 
+Transport/communications -32.6% 
+Medical services/medicine  0.2% 
+Misc. goods/services       2.6% 
+Rent                       1.3% 
+ 
+Compared to the data from September 2005, prices grew at the 
+following rates: 
+ 
+Food                      33.3% 
+Tobacco/liquor            19.4% 
+Clothing/shoes            29.1% 
+Furniture                 18.2% 
+Fuel/electricity         165.3% 
+Transport/communications 152.2% 
+Medical services/medicine 21.6% 
+Misc. goods/services      36.4% 
+Rent                      34.7% 
+ 
+¶2.  (SBU)  This data compares to the August month-on-month 
+increase in COSIT's weighted aggregate CPI of 15.1% and 76.6% 
+for the year-on-year.  The month-on-month increases for the 
+previous six months are as follows: 
+ 
+July            8.3% 
+June            0.7% 
+May             1.2% 
+April          -1.1% 
+March           1.7% 
+February       13.1% 
+ 
+¶3.  (SBU)  Despite the decrease in the CPI for the month, it 
+remains unclear that real inflation has entered a slowing 
+trend.  The method by which COSIT measures inflation remains 
+inaccurate (see reftel) and the data may reflect seasonal 
+variation due to the Ramadan holiday, during which fuel 
+consumption (which factors more heavily in the weighting 
+system COSIT uses) typically decreases.  Real inflation is 
+likely to be sigificantly higher than indicated in the COSIT 
+data.  The apparent drop in prices also follows the 
+relatively high rate of inflation in August.  Additional data 
+is needed before a clear trend toward deceleration emerges, 
+and engaging with the GOI on the importance of inflation 
+remains a high priority. 
+KHALILZAD

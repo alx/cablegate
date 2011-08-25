@@ -1,0 +1,244 @@
+08BAGHDAD3542
+CERTIFICATION OF CONSULAR MANAGEMENT CONTROLS
+Sun Nov 09 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Baghdad
+VZCZCXYZ0003
+RR RUEHWEB
+
+DE RUEHGB #3542/01 3141301
+ZNR UUUUU ZZH
+R 091301Z NOV 08
+FM AMEMBASSY BAGHDAD
+TO SECSTATE WASHDC 0281UNCLAS BAGHDAD 003542 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: CMGT CVIS CASC KFRD
+SUBJECT:  CERTIFICATION OF CONSULAR MANAGEMENT CONTROLS 
+ 
+Reftel:  State 114455 
+ 
+¶1.  Post's review of Consular Management Controls was completed on 
+November 8, 2008.  Jeff Lodinsky, FS-02, Consular Chief, conducted 
+the review and certified its completion.  Items in para 2 below are 
+keyed to para 5(a) of reftel. 
+ 
+¶2. a.  Standard Operating Procedures:  All officers have access, via 
+the CA Intranet site, to 7 and 9 FAM, FAH-1, the Consular Management 
+Handbook and CA SOPs.  All consular section computers have the CA 
+website as their homepage.  All officers also have access to CA's 
+classified website.  While classified computers are housed in the 
+main Embassy building, all officers have access and utilize them 
+frequently. 
+ 
+b.  CST Management:  All users in CST were reviewed on November 5, 
+¶2008.  1) We confirm that only consular employees have consular 
+roles; only the six American consular officers have adjudicatory 
+roles, and only the Consular Chief and his Deputy have management 
+roles.  2) All active users are currently at post and have the need 
+to utilize the systems to which they have access.  No test or 
+anonymous accounts exist.  3)  All system access levels are 
+appropriate.  4) Passwords automatically expire after six months and 
+thus must be reset at least that often.  There is no sharing of 
+passwords in the consular section.  All guidance in SOP 82 is 
+currently being followed. 
+ 
+c.  Access:  The consular section is located in a different building 
+from the Embassy and is separated from the rest of the building by a 
+controlled access door.  Only the consular section employees have 
+the door code.  FSNs do not remain in the consular section outside 
+of office hours without a cleared American present.  All controlled 
+items are secured when, during office hours, no American is 
+present. 
+ 
+d.  Access to Personally Identifiable Information (PII):  We confirm 
+that review and collection of PII is confined to official purposes 
+only when absolutely needed in the course of active and legitimate 
+consular work.  All information is protected and access to consular 
+systems containing such information is only accessed in connection 
+with official duties.  There have been no breaches or incidents 
+involving loss, theft, unauthorized access or compromise of PII. 
+Any such breaches would be reported as described in Department 
+Notice 2008-06-134 of June 25, 2008. 
+ 
+e.  Inventory Count and Reconciliation of Accountable Consular 
+Items:  The Deputy Consular Chief was designated Accountable 
+Consular Officer (ACO).  The Consular Chief and Deputy Consular 
+Chief conducted a physical inventory of visa foils, blank EPDP 
+passports, passport barcodes, CRBAs, passport endorsement foils, 
+emergency passport foils, old blank passports books, wet and dry 
+seals, legend plates, passport ribbons, and print wheels.  The 
+results were recorded in writing and matched those in the Inventory 
+Control Ledger.  The physical inventory also matches that in the 
+electronic inventory module in ACS+ and the NIV Accountable Items 
+module. 
+ 
+f.  Control and Reconciliation of Accountable Items:  All 
+accountable items are stored in Mosler combination safes.  Only the 
+American consular officers have the combinations to the safes. 
+Controlled items are only released from the safe before their 
+immediate use and are reconciled daily.  Daily and Monthly 
+Reconciliation and Accountability logs record usage and 
+reconciliation of ACS supplies, while the NIV/IV Accountable Items 
+module records all NIV/IV foil usage.  There have been no instances 
+of missing controlled items. 
+ 
+g.  Destruction Log:  Post shreds, using a Department-approved 
+shredder, all spoiled or unusable controlled items.  Their 
+destruction is witnessed and immediately recorded in AI or the ACS 
+destruction log.   Post follows new guidance on returning all 
+passport books to the Department for destruction as described in 
+State 112062. 
+ 
+h.  Cash Accountability:  The ACO at post is the Deputy Consular 
+Chief.  1) The ACO, the consular cashier, and his back-up have all 
+been formally designated in writing.  2)  The ACO reviewed 
+accounting and reconciliation procedures with the cashier and 
+back-up.  3) The ACO updates the ACRS Daily Accounting Sheet as soon 
+as the class B cashier returns daily receipts.  There have been no 
+instances of cash discrepancies in the last 12 months.  Monthly 
+reports are forwarded to the FMO for certification and a dually 
+signed copy of the report is kept by the ACO. The ACO (recently 
+arrived at post) has registered and will complete PC-417.  The 
+cashier has enrolled in PC 419. 
+ 
+i. Periodic Comparison of MRV fees and NIV applications:  Post does 
+not utilize off-site fee collection.  Nonetheless, the ACO routinely 
+performs periodic comparisons of MRV fees collected with NIV 
+applications accepted. 
+ 
+j. Referral System:  The Mission's most recent visa referral policy 
+was updated and disseminated under the signature of the Management 
+Counselor on August 17, 2008.  It was approved by the Deputy Chief 
+of Mission.  It was approved by CA/VO/F/P. All referrals are signed 
+by U.S. military Flag Officers, Agency heads or Section heads.  All 
+of post's referrals are scanned into the NIV system.  Referrals from 
+the past 3 months were reviewed and no anomalies were noted.  Part 
+of post's policy is that only officers who have attended the formal 
+referral training course are certified to sign referrals.  These 
+courses are held at least once a month.  Post has not had any 
+referrals from inside the consular section.  If this were to occur, 
+they would be handled identically to all other referrals.  Post is 
+also careful to prohibit unofficial referrals and requires a 
+referral for anyone requesting an expedited appointment. 
+ 
+k.  Training:  Due to Embassy Baghdad's unusual staffing situation, 
+three of post's six LES are TDY from other embassies.  They are both 
+senior LES and have all necessary training.  The remaining three 
+were hired by Embassy Amman on one-year, renewable contracts to 
+serve in Baghdad.  Both have received extensive OJT, but their 
+ongoing training remains a priority.  One senior Jordanian hire 
+attended IV training this past FY.  ELOs are given OJT and are 
+assisted daily by the Deputy Consular Chief when questions of law, 
+policy or procedure arise.  It is very difficult to send ELOs to 
+conferences due to post's one-year assignments, multiple R&Rs, and 
+stringent requirements to be in-country for a set amount of days. 
+Both ACO's have registered to take PC-417 and ACRS training. 
+Consular chiefs have reviewed the management portion of the CA 
+wegsite. 
+ 
+l.  Standards of Employee Conduct:  All consular employees are aware 
+of the standards of ethical conduct expected of them.  The zero 
+tolerance policy of CA has been replicated in the consular section, 
+with a discussion on the topic taking place with all consular staff 
+on November 6, 2008. 
+ 
+m.  Namecheck and Clearance Reviews:  Namecheck results are 
+thoroughly reviewed by consular officers at post.  The determination 
+of hits is handled in a consistent manner, always erring on the side 
+of caution in questionable cases.  The Deputy Consular Chief reviews 
+namecheck and FR results on many of post's cases before issuance. 
+SAOs are done for the vast majority of applicants at post, and AOs 
+are also very common.  All responses are carefully reviewed to 
+ensure that the original submission was complete and no new hits 
+have been added since. 
+ 
+n.  Visa Lookout Accountability:  Post confirms that VLA procedures 
+are in place and that all adjudicating officers understand VLA 
+procedures and the consequences for failure to comply.  The Deputy 
+Consular Chief reviews all visa issuances and refusals. 
+ 
+o.  Intake, Interview and Screening:  Post is in full compliance 
+with 9 FAM 41.102, 41.103 procedural notes, and all other guidance 
+on visa procedures.  LES pre-screen the cases for completeness of 
+application; they are not in any way involved in the actual 
+adjudication of the case.  Applicants are never turned away before 
+speaking to a consular officer. 
+ 
+p.   Oversight of processing: Line-of-sight supervision is practiced 
+by consular officers at post.  Officers spend the majority of their 
+time in the section with the LES, especially when controlled items 
+have been released for use. 
+ 
+q.  Post is in compliance with fingerprinting regulations.  Two NIV 
+LES are authorized to collect biometrics with an officer verifying 
+the prints at the time of interview.  Post complies with 05 State 
+191641 regarding waiving of fingerprints.  Fingerprints are always 
+taken, including for diplomats and other government officials 
+applying for B1/B2 visas.  The Deputy Consular Chief verifies 
+compliance daily using the Waived Fingerprints Report in the CCD. 
+ 
+ 
+r.  Interview and Adjudication:  Consular Chief confirms that all 
+applicants requiring interviews are required to appear in-person in 
+the consular section.  Personal appearance waivers are only granted 
+for diplomats, government officials and employees of designated 
+international organizations applying for A or G visas. 
+ 
+s.  Photo Standards:  Post maintains strict standards for photos and 
+rigorously applies standards for NIV, IV, and passport photos. 
+ 
+ 
+t.  Review of Refusals and Issuances:  All cases are reviewed by the 
+Deputy Consular Chief using the CCD's NIV Adjudication Review Form. 
+The Consular Chief and Deputy Chief of Mission then review a sample 
+of these cases.  Consular Chief confirms that supervisory overcomes 
+are not used in cases of reconsideration in which there was no legal 
+error in the original adjudication. 
+ 
+u.  Visa Shopping:  Trends in visa applications are monitored by the 
+Deputy Consular Chief and Fraud Prevention Manager.  Post rarely 
+sees non-Iraqi applicants.  Consular Chiefs confirm that Post does 
+not maintain any sort of NIV written re-application process.  Post 
+does not refuse to accept an application from an individual who is 
+physically present. 
+ 
+v.  Files:  Consular chiefs confirm that files are being managed in 
+accordance with the Record Disposition Schedule and visa files are 
+maintained per 9 FAM Appendix F.  All consular personnel understand 
+that visa records are to be safeguarded in accordance with INA 
+Section 222(f).  NIV applications are kept in chronological order 
+according to the date the visa was issued or a final refusal was 
+made.  Post strictly adheres to the Department's record retention 
+schedule. 
+ 
+w.  Passports and CRBAs:  The accuracy and integrity of all 
+passports and CRBAs are carefully maintained at post.  Namechecks 
+are performed for all citizenship services, and the quality and 
+correctness of decisions and accuracy of information on applications 
+are verified and controlled.  Baghdad receives more extra page 
+applications than any other post in the world, and a namecheck is 
+performed for every one.  All emergency passport applications are 
+reviewed to determine the true urgency of the situation, and the 
+citizenship documents presented are carefully reviewed.  Nationality 
+determinations and passport cases are thoroughly investigated before 
+any decisions are made. 
+ 
+x.  Fraud Prevention Programs:  Post does not yet have a formal 
+program due to staffing issues, but we work closely with CA/FPP, 
+RSO, FBI, and other foreign missions in Baghdad to prevent fraud in 
+all facets of consular work.  We maintain a Lexus/Nexus account that 
+we utilize frequently to check the veracity of applicant claims 
+and/or documents.  The Deputy Consular Chief is designated as Fraud 
+Prevention Manager and all management controls are in effect for the 
+fraud prevention program. 
+ 
+y.  Classified Access:  Although housed in a separate building, all 
+ConOffs have classified e-mail accounts and check them on a regular 
+basis.  The Consular Chief checks classified e-mail at least daily. 
+ 
+z.  Posts Exercising Supervision of Consular Agents:  N/A 
+ 
+CROCKER

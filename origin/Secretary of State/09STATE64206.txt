@@ -1,0 +1,214 @@
+09STATE64206
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Mon Jun 22 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0014
+RR RUEHWEB
+
+DE RUEHC #4206 1731321
+ZNR UUUUU ZZH
+R 221259Z JUN 09
+FM SECSTATE WASHDC
+TO RUEHMD/AMEMBASSY MADRID 0000
+INFO RUETIAA/DIRNSA FT GEORGE G MEADE MD 0000
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 064206 
+ 
+SIPDIS 
+MADRID FOR E. STROTHER MURRAY 
+POL-MIL 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC SP
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSES 050097913 AND 050051555 
+ 
+REF: 2006 BLUE LANTERN GUIDEBOOK 
+ 
+¶1. This is an Action Request.  See paragraphs 2-4. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests Post's assistance in conducting 
+a post-shipment check on licenses 050097913 and 050051555 for 
+the export of International Traffic in Arms Regulations 
+(ITAR) - controlled, aircraft spare parts to the Spanish 
+Ministry of Defense (MOD).  Post is requested to complete 
+this Blue Lantern inquiry within 45 days.  Lack of response 
+to a Blue Lantern inquiry will affect pending and future 
+licenses involving parties to a license. 
+ 
+¶3. Reason for request: Substantiate the bona fides of 
+unfamiliar Foreign Consignee Europavia Espana in the two 
+transactions, listed below. 
+ 
+¶4. Action: The Department requests that Post conduct a site 
+visit to Europavia Espana in order to assess its business 
+operations, on-site security, and general reliability as a 
+recipient of United States Munitions List (USML) items.  Post 
+is also requested to make inquiries with the Spanish Ministry 
+of Defense (MOD) and the Spanish Air Force to determine if 
+they have received the aircraft and helicopter spare parts on 
+the licenses listed below and that the articles are being 
+used for the purpose stated on the licenses. 
+ 
+The following questions for Europavia Espana are provided as 
+suggested guidance: 
+ 
+-- Can the company provide documentation from the Spanish 
+Ministry of Defense (MOD) and/or the Spanish Air Force (e.g. 
+purchase order, contract, or letter of intent) establishing 
+it as the final end user of the USML items? 
+ 
+-- Have all of the items ordered on these licenses been 
+provided to the Spanish MOD?  Does Europavia continue to hold 
+any of the USML items? 
+ 
+-- Is Europavia Espana an official supplier/contractor for 
+the Spanish MOD?  Does the company have any 
+other contracts with the Spanish MOD that involve the 
+procurement of USML items? 
+ 
+-- Who are Europavia Espana's other customers, what is the 
+nature of their business, and where are they located? 
+ 
+-- Are you familiar with Freight Forwarder Integral Transport 
+Service, S.A. (Madrid)'s exact role on License 050097913, 
+ below? 
+ 
+-- Were there any additional foreign parties (e.g. 
+consignees, freight forwarders, etc.) involved in this 
+transaction? 
+ 
+-- Does Europavia Espana understand the restrictions on USML 
+items (especially the prohibition against unauthorized 
+re-transfers, re-exports, or changes in end use)? 
+ 
+End Action. 
+ 
+¶5. Details of license applications: 
+ 
+¶A. DTC Case: 050097913 
+ 
+QUANTITY/COMMODITY: 
+ 
+1  Helicopter Cargo Winch - P/N 4067-215 
+ 
+License Value: USD $5,386.00 
+ 
+SELLER: 
+ 
+Goodrich Corporation 
+1550 S. Valley Vista Drive 
+Diamond Bar, CA 91765 
+(909)569-0200 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Europavia Espana, S.A. 
+C Jorge Juan 
+30-4,A 
+28001 Madrid 
+Spain 
+Tel:  34 91 431 82 53 
+Fax:  34 91 576 11 28 
+Website: www.europavia.es 
+ 
+FOREIGN INTERMEDIATE CONSIGNEE: 
+ 
+Integral Transportation Service, S.A. 
+C Alcarria, 2, 28820 Coslada 
+Madrid 
+Spain 
+ 
+FOREIGN END-USER: 
+ 
+Spanish Air Force 
+Avenida de la Aviacion S/N 
+Madrid 28044 
+Cuatro Vientos 
+Spain 
+ 
+PURPOSE: 
+ 
+Goodrich Corporation designs and manufactures cargo winches 
+for use on the Boeing CH-47 helicopter. Europavia Espana is a 
+maintenance activity contractor for the Spanish Air Force. 
+Boeing and the U.S. military have sold CH-47 helicopters to 
+numerous customers, including the Spanish Air Force.  This 
+cargo winch, as utilized on the CH-47 helicopter, is designed 
+to assist in the transfer of cargo into and out of the 
+helicopter. 
+ 
+¶B. DTC Case: 050051555 
+ 
+QUANTITY/COMMODITY: 
+ 
+1  Electronic, hydraulic, electro mechanical and structural 
+components installed in the following aircraft/helicopters 
+operated by the Spanish MOD; S-76, CH47, F-5, F-18, C-130, 
+P-3, UH1-H. 
+ 
+License Value: USD $4,000,000.00 
+ 
+SELLER: 
+ 
+Ursula Cernuschi 
+Caravan International Corp. 
+841 Lexington Avenue 
+New York, NY  10022 
+212-223-7190 ext.2 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Europavia Espana, S.A. 
+C Jorge Juan 
+30-4,A 
+28001 Madrid 
+Spain 
+Tel:  34 91 431 82 53 
+Fax:  34 91 576 11 28 
+Website: www.europavia.es 
+ 
+FOREIGN END-USER: 
+ 
+Spanish Ministry of Defense 
+Paseo de la Castellana 109 
+Madrid 
+Spain 
+ 
+PURPOSE: Maintenance and repair of aircrafts/helicopters 
+S-76-C, CH47, F-5, F-18, C-130, P3, and UH1-H. 
+ 
+¶6. Submitted in support of the license applications were the 
+following documents (PM/DTCC will fax documentation to Post 
+upon request): 
+ 
+License #050097913 
+ 
+ -- Undated Europavia Espana End Use/End User Statement 
+signed by Rafael Garcia; 
+ 
+ -- Europavia Espana Repair Quote Acceptance No. 7/0214/M for 
+Mounted Aircraft Winch (P/N 4067-215) dated 8 Nov 2007 
+ 
+License #050051555 
+ 
+ -- Letter of Intent from Europavia Espana to Caravan 
+International dated 13 June 2007 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Rachael-Therese S. Joubert-Lin, 
+Phone:  202-663-2950; Email: JoubertLinRS@state.gov; SIPRNET: 
+JoubertLinRS@state.sgov.gov.  The Blue Lantern Guidebook 
+(ref) is available as a PDF file at 
+http://www.intelink.sgov.gov/wiki/Blue Lantern End-Use 
+Monitoring Program. 
+ 
+¶8. Department is grateful for Post's assistance in this 
+matter. 
+CLINTON

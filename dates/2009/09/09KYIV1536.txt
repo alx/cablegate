@@ -1,0 +1,77 @@
+09KYIV1536
+EXTRANCHECK: POST-SHIPMENT VERIFICATION: MIKROHVYLYA LTD,
+Wed Sep 09 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Kyiv
+VZCZCXYZ0009
+PP RUEHWEB
+
+DE RUEHKV #1536 2521516
+ZNR UUUUU ZZH
+P 091516Z SEP 09
+FM AMEMBASSY KYIV
+TO RUCPDOC/DEPT OF COMMERCE WASHINGTON DC PRIORITY
+INFO RUEHC/SECSTATE WASHDC 8378
+RHMFIUU/US CUSTOMS AND BORDER PROTECTION WASHINGTON DCUNCLAS KYIV 001536 
+ 
+SIPDIS 
+ 
+USDOC FOR 532/OEA/LRITTER 
+USDOC FOR 3150/USFCS/OIO/CEENIS/MCOSTA 
+USDOC FOR 532/OEE/MO'BRIEN 
+USDOC FOR 532/BIS/OEA/TWILLIS/EHOLLAND/ANALYST 
+ 
+E.O. 12958: N/A 
+TAGS: BEXP ETRD ETTC UA
+SUBJECT: EXTRANCHECK: POST-SHIPMENT VERIFICATION: MIKROHVYLYA LTD, 
+KYIV, UKRAINE. 
+ 
+REFTELS: REQUEST #06210023; DATED 7/15/2009 
+ 
+¶1. Unauthorized disclosure of the information provided below is 
+prohibited by Section 12C of the Export Administration Act. 
+ 
+¶2. Reftel requested a post-shipment verification to determine the 
+legitimacy and reliability of the end-user, MIKROHVYLYA LTD, KYIV, 
+UKRAINE. The company is listed on BIS license application: 06210023 
+as the ultimate consignee of various amounts and items consisting of 
+I.C 6 bit digital atten, NEG CTL DC-13GHZ, I.C 6-18 Ghz medium power 
+amplifier, GAAS PHEMT MMIC LNA 7-14 Ghz, wideband MMIC VCO w/Buffer 
+Amp, driver amplifier, mixer, HIG IP3, DB, 4-12 Ghz HPA7, 12 lead 
+3x3mm, I.C.5.8 Ghz PA, 16 L LPCC, switch, 8 lead MSOP w/PAD . I.C. 
+SP4T positive bias switch DC-3.5 Ghz, I.C. SP4T positive bias switch 
+DC-3.5 Ghz,I.C. 5-12 Ghz MSOPS SMT and mixer, 24 lead 4x4 mm. No 
+ECCN given. The licensee is Hittite Microwave Corp., 20 Alpha Road, 
+Chelmsford, MA 01824. 
+ 
+¶3. On September 1st, 2009, CS Kyiv SCO Richard Steffens and LES 
+Ruben Beliaev conducted the requested post-shipment verification at 
+the offices of MIKROHVYLYA LTD, KYIV, UKRAINE. The CS Kyiv team met 
+with Mr. Anatoliy Tusenko, Director of this company. 
+ 
+¶4. MIKROHVYLYA LTD was created in 2003 and has 6 employees. 
+MIKROHVYLYA LTD produces receiving/broadcasting electronic devices 
+for Ukrainian industrial users such as TV and radio broadcasting 
+stations. MIKROHVYLYA LTD director advised the CS Kyiv team that 
+MIKROHVYLYA LTD imports mainly from these U.S. companies: Hittite 
+Microwave, Micro Lambda, M/A Com. MIKROHVYLYA LTD director stated 
+that during the course of doing business with U.S. exporters of 
+licensable dual use commodities, MIKROHVYLYA LTD has become very 
+familiar with export compliance procedures and requirements. 
+ 
+¶5. MIKROHVYLYA LTD informed CS Kyiv team that the reftel commodity 
+was purchased through Filur Electric Ltd., as indicated in reftel. 
+The terms and conditions were standard business practice. 
+ 
+¶6. The CS Kyiv team was told that the reftel commodity is being used 
+for the end use for which it was licensed and was shown the 
+equipment built from subject electronic components. The commodity 
+was at the consignee's facility. There were no indications of 
+impropriety and the consignee's answers were not evasive. 
+ 
+¶7. Recommendations: Post recommends MIKROHVYLYA LTD, KYIV, UKRAINE, 
+as a reliable recipient of sensitive U.S. origin commodities. 
+ 
+(FCS Kyiv/RSTEFFENS/RBELIAEV) 
+ 
+PETTIT

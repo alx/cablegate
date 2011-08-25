@@ -1,0 +1,85 @@
+08KHARTOUM1003
+U.S. HOST BLOCKS SUDATEL INTERNET DOMAIN NAME
+Mon Jul 07 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Khartoum
+VZCZCXYZ0003
+OO RUEHWEB
+
+DE RUEHKH #1003 1891328
+ZNR UUUUU ZZH
+O 071328Z JUL 08
+FM AMEMBASSY KHARTOUM
+TO SECSTATE WASHDC IMMEDIATE 1251UNCLAS KHARTOUM 001003 
+ 
+DEPT FOR SE WILLIAMSON, AF/SPG, EEB/ESC/ESP(KLEIN), EEB/CIP 
+DEPT PLS PASS USAID FOR AFR/SUDAN 
+DEPT PLS PASS TREASURY FOR OFAC 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+E.O. 12958:  N/A 
+TAGS: EINT EAID PREL PGOV SU
+SUBJECT: U.S. HOST BLOCKS SUDATEL INTERNET DOMAIN NAME 
+ 
+REF: 07-03-2008 Mulligan-Struble email 
+ 
+¶1.  (U) This is an action request - see para 4. 
+ 
+¶2.  (SBU) In meetings with CDA Fernandez on July 6, Presidential 
+Advisor Osman Ismail and the Sudanese Foreign Ministry raised 
+U.S.-host company Network Solutions locking of Sudan 
+Telecommunications Company's (SUDATEL) internet domain name (ref 
+email).  Osman appealed for USG assistance to reverse the decision 
+or allow SUDATEL to transfer its domain to a non-U.S. host.  MFA 
+also provided the CDA with copies of internal email correspondence 
+between SUDATEL and Network Solutions.  In a separate meeting, the 
+MFA asserted to a UNAMID official that Network Solutions' action 
+will cause Sudan to loose all internet access within several 
+months. 
+ 
+¶3.  (U) On April 8, SUDATEL was informed via email by Kim Gasper, 
+Executive Support Specialist, Network Solutions, (tel: 
+570-708-8700, email:  kgasper@networksolutions.com) that its 
+internet domain name had been locked (substantive text in para. 5). 
+On April 10, SUDATEL queried whether its domain register could be 
+transferred to another company.  On April 11, it was informed that 
+"... upon further investigation, we have been advised that the U.S. 
+laws and federal regulations of the Office of Foreign Assets Control 
+prevent us from unlocking the domain name for transfer." 
+ 
+¶4.  (SBU) Action request:  If true, the assertion that Sudan may 
+soon loose its internet access is cause for serious concern.  Lack 
+of internet access would cripple efforts to implement a number of 
+key U.S. policy interests in Sudan, including CPA implementation, 
+UNAMID deployment, and humanitarian assistance in Darfur. It will 
+hurt private Sudanese, opposition political parties and civil 
+society and could lead to GOS retaliation against the US Embassy. 
+Post requests Washington guidance on how to respond to the GoS and 
+to SUDATEL, and what to advise them about how to work with Network 
+Solutions or another U.S. vendor in obtaining an OFAC license to 
+permit SUDATEL to continue to provide internet service.  Post 
+further requests that the Department and OFAC reach out to Network 
+Solutions to seek to remedy this situation, or if preferred, Embassy 
+Khartoum could assist Network Solutions with this process with 
+guidance from the Department and OFAC.  End action request. 
+ 
+¶5.  (U) Begin Text: 
+ 
+Your Domain Name is locked due to OFAC (Office of Foreign Asset 
+Control) rules.  I have provided a link below for your reference. 
+ 
+The Country you reside in may be listed in the Office of Foreign 
+Assets Control, therefore, due to U.S. law and federal regulations 
+we are not able to process your credit card for renewals or continue 
+to maintain registration of the domains that resided in your 
+Account. 
+ 
+Please feel free to submit any documentation related to this issue 
+to our Legal Department at resolution1@networksolutions.com or you 
+can fax it to 703-668-5959. 
+ 
+End Text. 
+ 
+FERNANDEZ

@@ -25,8 +25,29 @@ REVIEW
  
 REF: SECSTATE 4730 
  
-¶1. (U) This cable responds to Ref A seeking answers to the two questions posed by the Office of the U.S. Trade Representative regarding Telecommunications trade agreements pursuant to section 1377 of the Omnibus Trade and Competitiveness Act of 1988. The questions focused on market access and transparency for satellite services (SIA).
-
-¶2. (U) VSAT Operator Licenses: Egypt does not restrict the number of licenses available for VSAT operators and satellite service operators. Currently, there are four companies that have VSAT licenses: Alkan, Mobiserve, Egypt Sat, and Africa Wave. Only one company of the four, Alkan, is doing well in the market and has a lion market share. The licenses are provided based on market demand. The restriction on licenses is a result of market saturation.
-
-¶3. (U) Transparency and Petitioning: Egyptian telecom licensees should inform the National Telecommunications Regulatory Authority (NTRA) in order to obtain access to and/or contract directly with a foreign satellite operator. Users should go through an Egyptian licensee. A foreign operator may provide its service to end users through an Egyptian licensee. The NTRA provides details on its website on the VSAT regulation, at the following address: www.ntra.gov.eg/english/dpages dpagesdetails.asp?ID=258&Menu=1 SCOBEY
+¶1. (U) This cable responds to Ref A seeking answers to the 
+two questions posed by the Office of the U.S. Trade 
+Representative regarding Telecommunications trade agreements 
+pursuant to section 1377 of the Omnibus Trade and 
+Competitiveness Act of 1988.  The questions focused on market 
+access and transparency for satellite services (SIA). 
+ 
+¶2.  (U) VSAT Operator Licenses:  Egypt does not restrict the 
+number of licenses available for VSAT operators and satellite 
+service operators.  Currently, there are four companies that 
+have VSAT licenses: Alkan, Mobiserve, Egypt Sat, and Africa 
+Wave.  Only one company of the four, Alkan, is doing well in 
+the market and has a lion market share.  The licenses are 
+provided based on market demand.  The restriction on licenses 
+is a result of market saturation. 
+ 
+¶3.  (U) Transparency and Petitioning:  Egyptian telecom 
+licensees should inform the National Telecommunications 
+Regulatory Authority (NTRA) in order to obtain access to 
+and/or contract directly with a foreign satellite operator. 
+Users should go through an Egyptian licensee.  A foreign 
+operator may provide its service to end users through an 
+Egyptian licensee.  The NTRA provides details on its website 
+on the VSAT regulation, at the following address: 
+www.ntra.gov.eg/english/dpages dpagesdetails.asp?ID=258&Menu=1 
+SCOBEY

@@ -1,0 +1,135 @@
+07CAIRO511
+EGYPT: ANTI-COMPETITIVE TELECOMUNICATIONS PRACTICES
+Mon Feb 26 00:00:00 +0100 2007
+UNCLASSIFIED
+Embassy Cairo
+VZCZCXYZ0002
+RR RUEHWEB
+
+DE RUEHEG #0511/01 0570756
+ZNR UUUUU ZZH
+R 260756Z FEB 07
+FM AMEMBASSY CAIRO
+TO RUEHC/SECSTATE WASHDC 3755
+INFO RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS CAIRO 000511 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE FOR EB/CIP/BA, NEA/ELA 
+USTR FOR HINCKLEY 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON ETRD USTR EG
+SUBJECT: EGYPT: ANTI-COMPETITIVE TELECOMUNICATIONS PRACTICES 
+ 
+REF: A. STATE 1035 
+     ¶B. 2006 STATE 202978 
+ 
+Sensitive but unclassified, not for Internet distribution. 
+ 
+¶1. (SBU) Summary: For over a year, Egyptian telecommunication 
+regulators have promised to offer new licenses for 
+international connectivity, in accordance with commitments 
+undertaken when Egypt joined the World Trade Organization 
+(WTO), but have yet to do so.  The GOE may be delaying in 
+order to protect jobs at state-owned Telecom Egypt, maximize 
+revenues from the sale of licenses, and/or out of fears of 
+creating chaos in the market.  Egyptian regulators say they 
+will eventually provide new international licenses but will 
+limit their number, which would not meet Egypt's WTO 
+commitments.  End summary. 
+ 
+-------------------------------- 
+Foot-Dragging on WTO Commitments 
+-------------------------------- 
+ 
+¶2. (U) At the time of its WTO accession, Egypt agreed to open 
+its international telecommunications connectivity market to 
+competition, putting no limits on the number of international 
+origination and termination providers, by January 1, 2006. 
+State-owned Telecom Egypt's monopoly over this service 
+officially expired on January 1, 2006.  Since then, however, 
+no licenses have been granted, although Minister of 
+Communication and Information Technology (MCIT) Tarek Kamel 
+and Executive President of the National Telecommunications 
+Regulatory Authority (NTRA) Amr Badawi have consistently 
+promised that a limited number of such licenses would be 
+offered "within a few months." 
+ 
+¶3. (U) Engineer Amr Hashem, the telecom sector advisor to 
+Minister Kamel, and Dr. Badawi told A/USTR Donnelly in late 
+January that, when the NTRA offers international connectivity 
+licenses ("in about a month"), they may offer them only to 
+mobile phone companies or Internet service providers (ISPs). 
+Local media has consistently reported that regulators would 
+limit licenses to the current mobile operators or offer only 
+a limited number for auction.  ICT contacts opined that 
+Telecom Egypt increased its stake in Vodafone Egypt, one of 
+Egypt's two operating mobile phone companies, to 49 percent 
+in late 2006 for just this reason. 
+ 
+¶4. (SBU) U.S. company AllVoice complained of such license 
+restriction in the 2006 annual USTR section 1377 telecom 
+trade agreements review process (refs).  AllVoice, in its 
+attempt to establish a voice over Internet protocol (VOIP) 
+call-center in Egypt, ran afoul of a law forbidding 
+international VOIP origination and termination with any land- 
+or mobile-line.  This law, in place for "national security 
+reasons" according to Hashem, effectively criminalizes a 
+technology that simplifies provision of international calling 
+services.  Hashem told A/USTR Donnelly that AllVoice's 
+problems stemmed from its disorganized and demanding 
+requests, but this case shows that Egyptian regulators are 
+dealing with requests on a one-by-one basis instead of 
+adhering to the substance of their commitments. 
+-------------- 
+Why the delay? 
+-------------- 
+¶5. (U) Job losses:  Egyptian regulators are hesitating to 
+offer licenses in part because they are walking the 
+tight-rope between market liberalization and hurting Telecom 
+Egypt, with potential resultant job losses.  Telecom Egypt, 
+Egypt's only fixed-line and international connectivity 
+service provider, employs approximately 120,000 Egyptians and 
+is still 80-percent government-owned.  Mohamed Elnawawy, vice 
+president of Telecom Egypt for strategic studies, told 
+econoff that Telecom Egypt's international connectivity 
+service is one of its few profitable sectors, and subsidizes 
+other sectors that operate at a loss. 
+¶6. (U) Maximizing revenues:  In recent years the GOE has 
+earned significant revenues from auctioning licenses and 
+privatizing state-owned companies.  Most notably, the license 
+for the country's third mobile operator sold in 2006 for LE 
+16.7 billion (USD 2.9 billion), which was significantly more 
+than the GOE had expected.  The GOE now seems intent on 
+repeating this success, and may be going slowly to best 
+determine how gain the most from international communications 
+licenses. 
+ 
+¶7. (U) Fear of market chaos:  In delaying the opening of the 
+international telecom services market, telecom regulators 
+seem to have drawn a lesson from opening Egypt's ISP market. 
+When ISP services were opened to competition, new companies 
+flooded the market.  Now, ICT contacts told econoff, the GOE 
+is regulating artificially low prices for Internet services 
+to keep those firms in business, thus avoiding job losses 
+that could be blamed on market liberalization.  This has 
+diminished overall quality of service and stifled innovation 
+in the market.  By limiting new international licenses, the 
+GOE may be trying to avoid a similar problem. 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶8. (SBU) In the ICT market, as in other areas of the Egyptian 
+economy, fears of short-term job losses are weighed carefully 
+against potential benefits of liberalization.  Egyptian ICT 
+officials argue that in liberalizing at all, Egypt is moving 
+down the path to complete reform, albeit at a slower pace 
+than the USG might desire.  This does not change the fact 
+that proposed resolutions, even when implemented, will still 
+limit competition in the market. 
+RICCIARDONE

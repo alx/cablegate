@@ -1,0 +1,337 @@
+10HARARE102
+HARARE ANNUAL CERTIFICATION OF MANAGEMENT CONTROLS
+Mon Feb 08 00:00:00 +0100 2010
+UNCLASSIFIED
+Embassy Harare
+VZCZCXRO8997
+RR RUEHJO
+DE RUEHSB #0102/01 0391429
+ZNR UUUUU ZZH
+R 081428Z FEB 10
+FM AMEMBASSY HARARE
+TO RUEHC/SECSTATE WASHDC 0021
+INFO RUEHJO/AMCONSUL JOHANNESBURG 0001
+RUEHSB/AMEMBASSY HARAREUNCLAS SECTION 01 OF 04 HARARE 000102 
+ 
+SIPDIS 
+JOHANNESBURG FOR RCO KENT MAY 
+ 
+E.O. 12958: N/A 
+TAGS: CMGT CVIS CASC KFRD ZI
+SUBJECT: HARARE ANNUAL CERTIFICATION OF MANAGEMENT CONTROLS 
+ 
+REF: STATE 012136 
+ 
+¶1.  Per reftel, post completed its review of consular operations on 
+February 9, 2010, which was certified by Deputy Chief of Mission 
+Kathy Dhanani, FE-OC.  Post is in full compliance with consular 
+management control requirements. 
+ 
+ 
+ 
+¶2. (a) Inventory and Reconciliation of Accountable Items.  The NIV 
+and ACS Unit Chief serves as the ACO and completed a comprehensive 
+physical inventory of all accountable consular supplies with the 
+Consular Section Chief on February 8, 2010.  This inventory was 
+without incident, and was documented in writing and electronically 
+through the AI module in IVO, NIV, and ACS.  All AI tracked items 
+and non-expendable items such as seals and stamps were included. 
+Post no longer uses manual ledgers or inventory control sheets to 
+track AI. 
+ 
+ 
+ 
+(b) Guidance.  All consular officers are familiar with and have 
+access to all consular references and instructions.  Officers rely 
+on 7 and 9 FAM  , 7 FAH-1 
+ , consular ALDACs, 
+and CAWeb   (both the unclassified 
+and classified) for reference.  Training materials are not used for 
+reference.  All consular officers have access to classified 
+systems.  However, the Consular Section Chief does not check 
+classified e-mail daily because the consular section is not rated 
+for classified equipment.  Classified email is checked at least 
+weekly. 
+ 
+ 
+ 
+(c) Consular Shared Tables Management.  Only consular section 
+employees have consular roles in NIV, IVO, ACS, and ACRS.  RSO 
+ARSOs are assigned CCD roles and the DCM is assigned an NIV review 
+role.  Adjudicatory and management roles are limited to American 
+consular officers.  All parser roles have been disabled.  All 
+active users are at post and authorized system access only at the 
+appropriate level.  Users who no longer have any need for access 
+have been verified as disabled.  User passwords are periodically 
+reset and individually chosen by the individual IAW SOP82. 
+ 
+ 
+ 
+(d) Physical Access.  Physical access to the Consular Section and 
+all consular workstations is controlled and limited to Consular 
+Section employees.  Locally employed staff (LES) are not present 
+outside office hours unless a cleared American consular officer is 
+present. 
+ 
+ 
+ 
+(e) Access to Personally Identifiable Information (PII).  Post 
+protects and restricts access of PII to only those with a 
+legitimate need for such information.  Data base systems that 
+contain such information (including PIERs, IVO, NIV and ACS) are 
+restricted through CST user roles and local controls, and only 
+accessed in connection with official duties.  All consular assigned 
+personnel have been briefed on inappropriate use of such systems, 
+the penalties for improper use, and the critical need to safeguard 
+such information.  Post is unaware of any breaches or incidents 
+involving loss, theft, unauthorized access or compromise of PII. 
+If such a breach occurs in the future, it will be reported and 
+handled per 7 FAM 1300, Appendix Y 
+ . 
+ 
+ 
+ 
+(f) Control/Reconciliation/Destruction of Controlled Items. 
+Consular Section procedures ensure accountable consular items are 
+controlled, handled, destroyed, and accounted for in accordance 
+with 7 FAH-1 H-600.  The Accountable Items (AI) function is being 
+used for daily reconciliation of all accountable consular supplies 
+including passports, passport foils, supplemental pages, CRBAs, NIV 
+foils, and IV foils.  Post destroys spoiled, unusable, and obsolete 
+controlled times, and records via a witness their destruction in 
+AI.  Per State 112062, all unusable, spoiled, or obsolete passport 
+books, passport cards and border crossing cards are returned to the 
+Department for destruction. 
+ 
+ 
+ 
+(g) Cash Accountability.  The ACO, backup ACO, Consular Cashier, 
+and backup Consular Cashier are all designated in writing per 
+guidance, and all are fully familiar with the instructions in 7 
+ 
+HARARE 00000102  002 OF 004 
+ 
+ 
+FAH-1 H-700.  The ACO completed FSI on-line course PC 417, 
+Accounting for Consular Fees, in August 2008.  The backup ACO 
+completed the course in March 2008.  Both the Consular Cashier and 
+backup have completed PC 419, Collection of Consular Fees for 
+Consular Cashiers.  Local SOPs are in place that implement 7 FAH 
+and CAWeb Consular Fee Page guidance, ensuring that accounting and 
+reconciliation procedures for consular fees are properly carried 
+out.  Daily Accounting Sheets reconciled against ACRS and OF-158 
+receipts are on file for the last 12 months, with monthly 
+reconciliation signed by both the ACO and FMO.  There have been no 
+discrepancies within the past 12 months. 
+ 
+ 
+ 
+(h) Periodic comparison of MRV fees and NIV applications.  Post 
+does not use an off-site collection for MRV fees.  All consular 
+service fees, including MRV, are paid to the consular cashier in 
+USD cash at the time of service.  Adjudicating officers confirm a 
+valid ACRS (MRV) receipt for each service, and cancel the receipt 
+by initialing it.  State Dept copies of MRV receipts are stapled to 
+the application.  Daily, weekly, and monthly comparison of MRV fees 
+collected against NIV applications is carried out as prescribed in 
+7 FAH-1 H-740.  However, post finds the guidance for reconciliation 
+of non off-site MRV fees provided on the consular fees page of 
+CAWeb to be lacking.  Instead of NIV Report 44, post recommends 
+Report FEE, MRV Fees for Non-Immigrant Visas by Visa Class.  An 
+additional option better suited than NIV Report 44 is the Visa Fee 
+Collection Estimate Report from CCD.  The ACO uses all three 
+reports to compare the cumulative total of fees collected against 
+the number of MRV applications (excluding no-fee). 
+ 
+ 
+ 
+(i) Referral System.  Post's NIV referral policy is published as 
+Management Policy 56, and reflects 09 State 068314 and 9 FAM 
+Appendix K.  Only American officers under COM Authority are 
+permitted to make referrals, all referrals are signed by both the 
+referring officer and agency or section head as appropriate, 
+referral information is captured in the NIV system, all referral 
+forms (A and B referrals, whether issued or refused) are scanned 
+into the NIV system with the application form and all supporting 
+documents, and consular managers periodically review referral 
+reports to identify trends and possible areas of concern.  All 
+officers are required to be briefed on the policy and sign a 
+compliance agreement before being entered into NIV as an approved 
+referrer.  All class A and B referrals are adjudicated by the 
+Section Chief or the Acting Section Chief in his absence. 
+Referrals from within the consular section are handled and 
+documented identically to those from outside the section and no 
+unofficial referrals are allowed outside of the formal process. 
+ 
+ 
+ 
+(j) Training.  American and locally employed staff are expertly 
+trained for their responsibilities in accordance with SOP 73, 
+including fraud detection.  The ACO and backup ACO have completed 
+PC-417 and the on-line user training for ACRS.  Post has instituted 
+weekly training sessions that take advantage of FSI OJT training 
+modules and other material posted on the CA website.  All locally 
+employed staff have completed PC102, PC103, and PC104. 
+ 
+ 
+ 
+(k) Standards of Employee Conduct.  The Consular Section has a 
+written zero gift policy, and a policy for all consular officers to 
+recuse themselves from any case in which there may be a real or 
+perceived conflict of interest.  All consular employees are 
+familiar with the standards of ethical conduct expected of them. 
+Consular officers have reviewed the Department's Standards of 
+Ethical Conduct for Employees of the Executive Branch, and these 
+standards have been reviewed and discussed.  There are no 
+influences being brought to bear on the visa or passport process 
+that would lead to any perception of impropriety.  All members of 
+the section know and understand the reporting requirements and 
+options for reporting possible unethical or malfeasant activity. 
+ 
+ 
+ 
+(l) Namecheck and Clearance Reviews.  Namecheck returns are given 
+rigorous review and consistent standards are applied in determining 
+when a hit is close enough to warrant further action.  When 
+insufficient information is present to rule out a potential match 
+to a namecheck hit, that hit is treated as if it were a match. 
+ 
+ 
+ 
+(m) Visa Lookout Accountability (VLA).  Post's Visa Lookout 
+Accountability (VLA), Automated Biometric Identification (IDENT), 
+ 
+HARARE 00000102  003 OF 004 
+ 
+ 
+Facial Recognition (FR), and Integrated Automated Fingerprint 
+Identification System (IAFIS) procedures are in compliance with 
+Dept guidelines.  The Section Chief regularly reviews issuances to 
+verify compliance and reviews VLA responsibilities with arriving 
+officers.  All adjudicating officers understand VLA provisions and 
+requirements, as well as the consequences for failing to comply 
+with VLA procedures. 
+ 
+ 
+ 
+(n) Intake, Interview, and Screening.  Intake, interview, and 
+document screening procedures comply with the Department's 
+instructions (including 9 FAM 41.102 and 41.103).  Screening of 
+applications by locally employed staff (LES) does not encroach on 
+adjudication.  LES only review applications for completeness and do 
+not ask questions or make notes on the application that could be 
+interpreted as influencing adjudication.  LES do not turn away NIV 
+or IV applicants who have paid the appropriate fees and have a 
+completed application, even if they believe additional documents 
+are required. 
+ 
+ 
+ 
+(o) Oversight of processing.  Adequate supervision of processing is 
+exercised by American officers.  However, the layout of the 
+Consular Section does not allow constant line-of-sight supervision 
+of print stations.  Posts DNA policy and collection of samples 
+complies with 09 State 097431 and 9 FAM 42.44.  Post exercises 
+proper oversight of panel physicians and possesses recently updated 
+MOUs. 
+ 
+ 
+ 
+(p) Biometric collection.  Fingerprinting for biometric purposes is 
+only performed by consular officers or cleared American EFMs.  Post 
+is in compliance with Bio/Visa Enrollment policy and procedures 
+found in 9 FAM Appendix L. 
+ 
+ 
+ 
+(q) Photo Standards.  Per the photo guide on www.travel.state.gov, 
+post is only entering recent photos of the applicant and is 
+rigorously applying the photo guide standards for NIV, IV, and 
+passport photos. 
+ 
+ 
+ 
+(r) Visa Adjudication Oversight.  The Section Chief and DCM 
+regularly review NIV refusals and issuances via the NIV review 
+system in CCD, at a rate well above the minimum.  Comments are 
+entered into the system from initial adjudication through CCD 
+review.  If upon review, a supervisory consular officer determines 
+that an error in the application of law was made during the initial 
+adjudication, s/he personally re-interviews the applicant and makes 
+an adjudication decision under his/her own login.  In such cases, 
+the supervisor marks the case as overcome in the system, explains 
+the legal error in the original officer's adjudication, and the 
+action taken.  Supervisory overcomes are extremely rare and are not 
+used in cases of reconsideration in which there was no legal error 
+in the original adjudication.  All cases for reconsideration 
+require a new application and fee.  All applicants for whom a 
+personal appearance is required are interviewed per 05 State 
+092176, 08 State 04990, and 9 FAM 41.102.  Post regularly (at least 
+monthly) reviews issuance patterns to third country nationals, and 
+knows to report any unexplained trends or anomalies to CA/VO/F/P 
+and CA/FPP/CID.  Per 9 FAM 41.121 N2.5, previously refused visa 
+applicants are allowed to reapply any time, using the same 
+procedures as first-time applicants.  Posts does not have a written 
+re-application procedure. 
+ 
+ 
+ 
+(s) Files.  Consular files are managed in accordance with the 
+Record Disposition Schedule and visa files are maintained per 9 FAM 
+Appendix F instructions.  All consular personnel safeguard visa 
+records in accordance with INA Section 222(f), in order to prevent 
+unauthorized disclosure of any form.  NIV records are filed 
+chronologically per instructions in 9 FAM Appendix F, 200. 
+ 
+ 
+ 
+(t) Passports and CRBAs.  Procedures and controls are in place to 
+ensure the accuracy and integrity of U.S. passport, CRBA, and other 
+nationality determinations.  Post conducts passport namechecks per 
+7 FAM 1330 for all passport services, including the addition of 
+visa pages.  The ACS Unit chief and Consular Section Chief audit 
+passport cases and procedures to ensure the accuracy of: annotation 
+of citizenship and identity documentation; annotation related to 
+ 
+HARARE 00000102  004 OF 004 
+ 
+ 
+name clearances, endorsements and limitations; clarification of 
+illegible entries; correction of inaccuracies; and, fraud 
+detection.  Per 09 State 112062 and 7 FAM 1366, all unusable, 
+spoiled, or obsolete passport books, passport cards and border 
+crossing cards are returned to the Department for destruction. 
+ 
+ 
+ 
+(u) Fraud Prevention Programs.  The Section Chief serves as post's 
+Fraud Prevention Manager and post has a written Fraud Prevention 
+SOP that includes criteria for referring cases for investigation. 
+The FPU feature (button) in NIV and IVO are used to refer cases to 
+the FPU and to track FPU case status.  Written procedures are in 
+place to safeguard the role of the LES fraud investigator by 
+prohibiting her (or any other LES) from influencing eligibility 
+decisions.   Reports on investigations are confined to factual 
+information, not opinion or recommendations for adjudication.  All 
+investigative reports are carefully reviewed by an American officer 
+and are randomly validated.  Anti-fraud field trips are undertaken 
+rarely, but often with a consular officer.  The Section Chief 
+reviews and approves all fraud investigator vouchers. 
+ 
+ 
+ 
+(v) Wilberforce Act.  Per 09 State 05632, 09 State 05634, and 09 
+State 067921, post provides the Wilberforce pamphlets to the 
+relevant visa applicants, and confirms that the applicants have 
+received, read, and understood the contents of the pamphlet.  Links 
+to the Wilberforce pamphlet and information about worker and 
+student rights are provided on Post's NIV website. 
+ 
+ 
+ 
+(w) Oversight of Applicant Service Centers (ASCs).  N/A. 
+ 
+ 
+ 
+(x) Consular Agents.  N/A. 
+RAY

@@ -1,0 +1,348 @@
+09MADRID1161
+SPAIN: GOVERNMENT'S PROPOSED ANTI-INTERNET PIRACY
+Fri Dec 04 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Madrid
+VZCZCXRO8123
+PP RUEHIK
+DE RUEHMD #1161/01 3381644
+ZNR UUUUU ZZH
+P 041644Z DEC 09
+FM AMEMBASSY MADRID
+TO RUEHC/SECSTATE WASHDC PRIORITY 1536
+INFO RUCNMEM/EU MEMBER STATES COLLECTIVE
+RUEHLA/AMCONSUL BARCELONA 4256
+RHEHNSC/NSC WASHDC
+RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS SECTION 01 OF 04 MADRID 001161 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EUR/WE AND EEB/TPP/IPE 
+STATE PASS USTR FOR D.WEINER AND J.GROVES 
+STATE ALSO PASS U.S. COPYRIGHT OFFICE FOR M.PALLANTE AND 
+M.WOODS 
+COMMERCE FOR 4212/DON CALVERT 
+COMMERCE ALSO FOR PTO 
+ 
+E.O. 12958: N/A 
+TAGS: KIPR PGOV SP
+SUBJECT: SPAIN: GOVERNMENT'S PROPOSED ANTI-INTERNET PIRACY 
+LEGISLATIVE MEASURES GENERATE CONTROVERSY 
+ 
+REF: A. MADRID 1152 
+     ¶B. MADRID 1137 
+     ¶C. MADRID 1052 
+ 
+MADRID 00001161  001.3 OF 004 
+ 
+ 
+ SUMMARY 
+ 
+¶1. (U)  On November 27, Spain's Council of Ministers approved 
+for submission to Congress a draft Law for a Sustainable 
+Economy (LES), designed to modernize and restructure the 
+economy to make it more competitive.  Septel will address the 
+law's scope and major provisions.  One aspect of the draft 
+legislation proposes amending existing intellectual property 
+laws to facilitate government action to deter Internet 
+piracy.  Rights-holders generally support the proposals as a 
+first step towards reducing Internet piracy, though music 
+industry representatives have expressed disappointment that 
+the government did not go further.  All political parties 
+except the ruling Socialists have expressed opposition to the 
+measures.  Internet users' associations have reacted with 
+shrill denunciations.  A manifesto harshly critical of the 
+government's proposals that appeared on the Internet early on 
+December 2 has reportedly garnered tens of thousands of 
+adherents.  Opponents have announced plans to demonstrate 
+December 4 in Madrid and other cities.  The Minister of 
+Culture met with a group of Internet experts in an effort to 
+restore calm, and the Presidency put out a clarifying press 
+release.  However, in a December 3 press conference, 
+President Zapatero denied any intention on the part of the 
+government to close websites and intimated that the draft 
+provisions may be rewritten.  Two Vice Presidents and the 
+Minister of Justice also made comments that left the 
+government's ultimate intentions unclear.  End Summary. 
+ 
+NEW LEGISLATION PROPOSED 
+ 
+¶2. (U) The anti-Internet piracy provisions anticipate 
+recommendations that the government's Inter-Institutional 
+Commission (see reftels) is mandated to forward to the 
+government by December 31.  According to Salvador Soriano, 
+Deputy Director for Information Society Services in the 
+Secretariat for Telecommunications and the Information 
+Society (SETSI), the Commission reached consensus on the need 
+for these legislative changes and decided to attach them to 
+the best available legislative vehicle instead of waiting 
+until the end of the year.  The legislation seeks to amend 
+Law 34 of 2002, the Law on Information Society Services and 
+Electronic Commerce (LSSI), and Royal Legislative Decree 
+(RLD) 1 of 1996 , which incorporates the Law on Intellectual 
+Property (LPI), in ways designed to provide more protection 
+for IPR on the Internet.  The primary change would be to 
+expand the scope of Article 8 of LSSI. 
+ 
+¶3. (U) LSSI Section 8.1 empowers "competent organs" to take 
+the necessary measures against an "Information Society 
+service" that it finds to be acting to the detriment certain 
+interests.  These include national defense, public order 
+(including criminal investigation), public safety, public 
+health, consumer and investor protection, respect for 
+personal dignity and non-discrimination, and protection of 
+minors.  In such cases, the competent organ may order the 
+service interrupted or the damaging material removed.  Final 
+Disposition 1 of the draft LES proposes to add "safeguarding 
+intellectual property rights" to this list of interests that 
+could justify interrupting service or removing offending 
+material.  It then adds a new Section 8.2 granting the 
+"competent organ" the authority to identify persons 
+responsible for IPR-infringing activity - site owners, 
+executives, or administrators - by asking Internet Service 
+Providers (ISPs) for the information, and requires the ISPs 
+to comply with such requests. 
+ 
+¶4. (U) In support of these measures, LES would also amend the 
+RLD 1 to expand the jurisdiction of an existing Intellectual 
+Property Commission affiliated with the Ministry of Culture. 
+This Commission is responsible for mediating and arbitrating 
+IPR-related disputes.  The draft law would establish a 
+"Second Section" of the Commission as the "competent organ" 
+under LSSI Articles 8 and 11 (which requires service 
+providers to cooperate with such entities).  Rules for naming 
+members of the Second Section, as well as its specific 
+functions and procedures, are to be addressed by a separate 
+ 
+MADRID 00001161  002.3 OF 004 
+ 
+ 
+regulation. 
+ 
+¶5. (U)  According to government officials, the Second Section 
+would act not on its own initiative but in response to 
+complaints about websites that make copyright-protected 
+content available without authorization.  It would examine 
+such complaints while respecting "the maximum guarantees of 
+inherent rights and principles," requesting of the ISPs such 
+information as "addresses and ownership of websites" but not 
+personal data.  Its objective would be the "re-establishment 
+of legality via the removal of content disseminated without 
+authorization." 
+ 
+TARGETING THE "SUPPLY SIDE" OF PIRACY 
+ 
+¶6. (U) Culture Minister Angeles Gonzalez-Sinde and Industry, 
+Tourism, and Trade Minister Miguel Sebastian have stressed on 
+numerous occasions that the government will not target 
+individual users nor criminalize activities such as 
+downloading or file-sharing via peer-to-peer (P2P) programs. 
+The LSSI language allows the government to interrupt "an 
+Information Society service," i.e., a website but not an 
+individual user's account.  The government thus disavows any 
+intention to implement a graduated response regime such as 
+contemplated in recently enacted legislation in France. 
+Their specific intent is rather to impede access to 
+infringing content.  The Coalition of Creators and Content 
+Providers has identified some 200 "commercial scale" websites 
+(ref C) that allegedly either house or link to such content 
+and that will no doubt be among the first targets of the 
+Second Section if and when Congress passes the LES. 
+ 
+CONTENT PROVIDERS GENERALLY POSITIVE, SERVICE PROVIDERS MUM 
+ 
+¶7. (U) Some rights-holders - especially representatives of 
+the music industry - argue that this limitation will leave 
+users free to continue to engage in unauthorized P2P 
+downloading and thus will not significantly deter piracy. 
+They are especially concerned that the government is not 
+seeking to address Internet users' underlying attitude or 
+behavior, which they see as key to reducing piracy.  However, 
+Coalition spokesmen and representatives of several of its 
+constituent organizations have expressed support for the 
+legislative proposal as a step in the right direction. 
+ 
+8.(U) While many content providers wish the government would 
+go further, they also believe these measures probably 
+represent the most that can be achieved at this point and 
+that accepting them will enhance rights-holders' ability to 
+press the government for more stringent measures in the 
+future.  Jose Manuel Tourne of the Federation for the 
+Protection of Intellectual Property in Audiovisual Works 
+(FAP) said the measures could help transform an environment 
+in which a substantial segment of the population currently 
+believes (or affects to believe) that anything goes on the 
+Internet.  He also expressed hope that amending the Internet 
+IPR legislative regime would lead the Prosecutor General's 
+Office (Fiscalia) to modify its Circular 1 of 2006, which has 
+led to much misunderstanding and some adverse judicial 
+decisions. 
+ 
+¶9. (SBU) Neither the Internet Service Providers' (ISPs) 
+association, Redtel, nor its constituent companies - 
+Telefonica, Orange, Vodaphone, and Ono - have commented thus 
+far on the government's proposal.  Some press reports suggest 
+the ISPs were caught by surprise and are dismayed.  However, 
+SETSI Deputy Director Soriano, who works in a Secretariat 
+that maintains close ties with telecoms, said these measures 
+had been under consideration for some time and the ISPs knew 
+they were coming.  They were discussed in on-again, off-again 
+negotiations between the Coalition and Redtel.  When these 
+talks failed to reach fruition, the government decided to 
+move ahead unilaterally.  In the past year, both Redtel and 
+its most influential member, Telefonica, have stated publicly 
+that if the government wants to combat Internet piracy, it 
+should legislate, and service providers will obey the law. 
+It remains to be seen whether the ISPs will support or oppose 
+these proposals. 
+ 
+OPPONENTS DECRY CENSORSHIP, ABUSE OF DUE PROCESS, GOVERNMENT 
+OVERREACH 
+ 
+MADRID 00001161  003.3 OF 004 
+ 
+ 
+ 
+¶10. (U) Reaction from the Association of Internet Users 
+("Internautas") and like-minded organizations, however, was 
+immediate and vocal.  On the morning of December 2, a 
+10-point Manifesto in Defense of Fundamental Rights on the 
+Internet appeared on the Internet and in the first two days 
+had reportedly gained tens of thousands of adherents.  The 
+Manifesto argues that "copyright cannot be placed above 
+citizens' fundamental rights such as privacy, security, the 
+presumption of innocence, effective judicial protection, and 
+freedom of expression."  Its authors decry the empowerment of 
+an administrative entity to do judges' work, and claim that 
+bypassing the judicial system violates due process.  They 
+protest that the measures, if approved, will damage the 
+technology sector and inhibit new cultural creation on the 
+Internet, and further argue that content providers should 
+abandon their obsolete business model and seek new ways to 
+profit from their work on the Internet. 
+ 
+¶11. (U) Several attorneys specializing in telecommunications 
+and Internet law published op-eds opposing the measures, 
+arguing that websites should not be shut down without a 
+judicial order.  An opinion piece in daily El Mundo by 
+self-proclaimed "Surfer's Lawyer" Carlos Sanchez Almeida, 
+entitled "Closing Websites: The Sinister Second Section," 
+denounces "the systematic contempt with which our political 
+class treats the judicial power."  Sanchez further argues 
+that the proposed amendments to the LSSI represent 
+governmental overreach and open the door to a variety of 
+potential abuses.  A headline in daily of record "El Pais" 
+proclaimed the birth of an "Internet cultural police," while 
+El Publico's headline quotes an attorney as saying that "The 
+door to censorship on the Web has opened."  Other 
+commentators were somewhat more measured, noting that the EU 
+telecom passage recently approved by the European Parliament 
+will not require a court order for cutoff of Internet access, 
+but rather "a fair and impartial process that includes the 
+user's right to be heard," and note that the proposed 
+measures are considerably less severe than those in place in 
+the UK, France, and Germany.  A few columnists questioned 
+what all the fuss was about if the government wanted to shut 
+down operations that were openly distributing stolen goods. 
+ 
+¶12. (U) Opposition parties and some small parties nominally 
+allied with the government unanimously criticized the 
+proposed anti-Internet piracy proposals.  Perhaps most 
+significantly, a spokesman for the main opposition Popular 
+Party (PP) accused the government of proposing the creation 
+of a cultural police force that would "bring back censorship" 
+and turn the Minister of Culture into "the Big Brother of the 
+Internet."  He added that "a revolution is being forged on 
+the Internet against the government, and we have to pay 
+attention as if it were taking place in the streets."  The PP 
+official likened suspension of websites to "governmental 
+kidnapping of a communications medium."  The United Left (IU) 
+declared itself "belligerent" with respect to the proposals 
+and argued that links to unauthorized content are in fact 
+legal.  Weakened by the economic crisis, the government has 
+no stable majority in Congress and will need to round up 
+votes from smaller parties to pass this law.  Passage of the 
+LES is a high priority of President Zapatero, who describes 
+it as reorienting the Spanish economy to a more sustainable 
+model.  The government is expected to ask Congress to address 
+the legislation expeditiously. 
+ 
+GOVERNMENT INTENTIONS UNCLEAR 
+ 
+¶13. (U) Culture Minister Gonzalez-Sinde appeared in the 
+Senate December 2 to explain the proposals and met on 
+December 3 with a group of bloggers, journalists, and 
+Internet professionals and experts who asked her to remove 
+the proposals from the draft legislation.  After a two-hour 
+debate, the Minister reiterated that the government intends 
+to move ahead.  President Zapatero's office (Moncloa) issued 
+a press release to explain and clarify various aspects of the 
+proposed measures, noting they are fully compatible with the 
+EU telecom package.  Moncloa cited the importance of IPR 
+protection to the continued  development of Spain's essential 
+cultural industries as a motive force behind the initiative, 
+and called piracy an act of illegal competition.  Moncloa 
+also promises that affected parties will be able to appeal to 
+ 
+MADRID 00001161  004.3 OF 004 
+ 
+ 
+judges if they believe their Constitutional rights are being 
+abridged by the IPR administrative process. 
+ 
+¶14. (U) In a conversation with Econoff, SETSI Deputy Director 
+Soriano said the strident opposition was to be expected and 
+would not deter the government from moving the legislation 
+forward on a priority basis.  Likewise, Carlos Guervos, 
+Deputy Director for Intellectual Property at the Ministry of 
+Culture, asked about the manifesto and other shrill 
+commentary, quoted the proverb that "the dogs bark but the 
+caravan moves on," and added that now was the time for his 
+Ministry "not to go wobbly." 
+ 
+¶15. (U) At a press conference late on December 3, President 
+Zapatero appeared to distance himself from the legislative 
+proposal, saying that "Nothing will be closed, no web and no 
+blog.  If the draft law has been interpreted (as containing) 
+some possibility of closing one of the spaces of the sites 
+that is on the web, I'm telling you now that there's no way. 
+If something needs to be cleared up about the wording, it 
+will be done...and of course, I'm giving my opinion, freedom 
+of expression will always prevail."  Zapatero went on to 
+express support for strong government action to protect 
+intellectual property, "because if we don't, we'll be without 
+intellectual strength, without intellectual creation."  First 
+Vice President Maria Teresa Fernandez de la Vega stated that 
+"there has always been judicial control and there always will 
+be," suggesting that the government may seek to replace the 
+Second Section's administrative review with a judicial 
+process.  Justice Minister Francisco Caamano said the closing 
+of websites should include "judicial authorization and 
+control."  Further confusing the matter, Second Vice 
+President (and Minister of Economy and Finance) Elena Salgado 
+said the Congress could try to "perfect" the draft 
+legislation but that "a judicial order is necessary to shut 
+down Internet access but not to suspend it."  One contact 
+told us that the Council of Ministers will address the 
+controvery and the draft legislation during their weekly 
+meeting today. 
+ 
+COMMENT 
+ 
+¶16. (SBU) As this debate continues to unfold, post notes that 
+on December 3, the Ministry of Health and Social Policy 
+reportedly began the process of taking down four websites for 
+selling medication illegally and without prescription.  The 
+Health Ministry's actions appear uncontroversial.  Government 
+authorities take action every day that in some way regulates 
+or restricts Internet activity, and the society seems no less 
+open for their efforts.  At the same time, distrust of the 
+government's good intentions and of its ability to deliver 
+good results run high.  Thus, fears of censorship and 
+invasion of piracy, while expressed in this instance in 
+alarmist and scare-mongering fashion, remain very real to 
+some.  The government faces a serious challenge in trying at 
+long last to undertake concrete measures to protect IPR 
+online, and the outcome is uncertain.  End Comment. 
+CHACON

@@ -1,0 +1,453 @@
+05GENEVA2727
+WSIS PREPCOM III MEETS IN GENEVA; LEAVES KEY
+Wed Nov 09 00:00:00 +0100 2005
+UNCLASSIFIED
+US Mission Geneva
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 05 GENEVA 002727 
+ 
+SIPDIS 
+ 
+PLEASE PASS TO IO/T FOR JOYCE NAMDE AND EB/CIP FOR SALLY 
+SHIPMAN 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS EU IO TS WSIS
+SUBJECT: WSIS PREPCOM III MEETS IN GENEVA; LEAVES KEY 
+ISSUES UNRESOLVED 
+ 
+ 
+¶1.  Summary: The third meeting of the Preparatory Committee 
+(PrepCom III) for Phase II of the World Summit on the 
+Information Society (WSIS) took place in Geneva, Switzerland 
+on September 19 ) 30, 2005.  Over 1,900 participants 
+attended the PrepCom including 1047 delegates representing 
+152 states and the European Commission.  UN agencies, 
+international organizations, private sector and civil society 
+organizations also participated.  Major issues from the 
+PrepCom remain unresolved and negotiations will continue 
+during the intersessional period and a resumed PrepCom III 
+scheduled for the three days prior to WSIS, in Tunisia.  The 
+issue of Internet governance was particularly contentious 
+with the EU moving to the extreme and proposing an alternate 
+model of management with a high degree of government 
+involvement.  WSIS implementation and follow-up also remain 
+unresolved with debate centering around which UN body should 
+coordinate implementation.  Many freedom of expression 
+issues, stemming from Cuban proposals, and debate on 
+financial mechanisms from PrepCom II also remain open. 
+ 
+¶2.  The output of the Tunis Phase will be a non-binding 
+document comprising a political part (political chapeau) and 
+an operational part.  The operational part will consist of 
+four chapters: 1) implementation; 2) financing; 3) Internet 
+governance; and 4) the way ahead.  PrepCom III focussed on 
+the political chapeau, chapters 1, 3 and 4 and the unresolved 
+portions of chapter 2 remaining from PrepCom II.  Ambassador 
+David Gross, EB/CIP, led the U.S. delegation which included 
+Assistant Secretary of Commerce for Communications and 
+Information/Administrator of NTIA, Michael Gallagher and 
+representatives of State (EB/CIP, EB/CBA IO, DRL, PM, L/EB, 
+Mission Geneva), USAID, DOC/NTIA, DOC/PTO, Library of 
+Congress, Institute of Museum and Library Services, DOJ, and 
+NASA.  End Summary. 
+ 
+Key Issues: 
+ 
+Internet Governance 
+ 
+¶3.  The primary issue of PrepCom III was Internet governance. 
+  During Phase I of the WSIS, participants discussed Internet 
+governance and adopted a series of principles.  To further 
+the discussion,  the various WSIS stakeholders asked the UN 
+Secretary General to convene a working group to consider the 
+ 
+SIPDIS 
+issue further and to prepare a report in time for discussion 
+at the September PrepCom.  The working group released its 
+report in July and asked stakeholders to comment.  The U.S. 
+delegation submitted views founded primarily on the 
+Administration,s principles with respect to the Internet,s 
+Domain Name and Address System (DNS) as well as long standing 
+U.S. policy on general Internet issues. 
+ 
+¶4.  The Internet governance debate during the PrepCom focused 
+on a number of key issues.  First, prepcom participants 
+debated the role of the various stakeholders (governments, 
+civil society, and private sector).  The U.S. argued firmly 
+that the success of the Internet is due, in large measure, to 
+the unfettered ability of the Internet community throughout 
+the world to innovate and add economic value at the edges of 
+the network.  A number of countries, in contrast, supported a 
+stronger role for governments in both the technical and 
+policy aspects of the Internet.  This discussion quickly 
+moved into a debate over whether governmental oversight of 
+the Internet is needed. While most delegations agreed, in 
+principle, that governments ought not to be involved in the 
+day-to-day management of the Internet, there are great 
+differences in what is perceived to be part of the technical 
+management versus public policy. 
+ 
+¶5.  Second, there was an ongoing debate about the nature of 
+change in Internet management ) whether this change should 
+be evolutionary or whether a more revolutionary approach is 
+warranted.  Those favoring an evolutionary approach supported 
+permitting technological change within existing systems. 
+Supporters of a revolutionary change are seeking to uproot 
+the current system and develop a new mechanism for Internet 
+management, which would then be sent to the UN to oversee. 
+Supporters of evolutionary change differed on whether 
+governments should drive change through additional processes 
+and mechanisms or whether the evolutionary change should be 
+driven primarily by the technology and new innovation. 
+ 
+¶6.  Third, several delegations expressed dissatisfaction that 
+a single government, the United States, has an essential role 
+in the management of the Internet, specifically the role by 
+the Department of Commerce in authorizing changes or 
+modifications to the authoritative root zone file of the DNS. 
+ Various formulations were offered as to how to 
+&multilateralize8 this role.  The U.S. defended its unique 
+role in the system and reiterated the U.S. commitment to 
+doing its part to ensure the long-term stability and security 
+of the Internet. 
+ 
+¶7.  Lastly, discussions focused on whether or not there was a 
+need to develop some sort of forum to continue the debate on 
+Internet governance issues broadly.  While most delegations 
+agreed that dialogue should continue, disagreements persisted 
+over the terms of reference for such a forum.  Some 
+governments such as the U.S. and Australia articulated a 
+preference to use existing institutions while others called 
+for the creation of a new organization to fulfill the role. 
+ 
+¶8.  In a surprise move toward the end of the PrepCom, the EU 
+presented a proposal that would transfer much of the 
+Internet,s management, both technical and policy-related, to 
+an intergovernmental oversight body.  Iran, Cuba, Brazil, 
+China and Saudi Arabia, who have long argued for greater 
+intergovernmental control of the Internet, promptly supported 
+this proposal.  Argentina, with support from Canada, New 
+Zealand, Singapore, Mexico and others, tabled an alternative 
+proposal that focused on the need to strengthen and improve 
+existing institutions, and which called for a forum to 
+address public policy issues.  The U.S. has expressed 
+interest in the Argentine proposal. 
+ 
+¶9.  While prepcom participants tentatively agreed on 
+introductory text on the role of stakeholders and some 
+issue-specific text, they did not reach consensus on issues 
+related to the authoritative root zone file, Internet 
+oversight or a new forum dialogue.  The Subcommittee chairman 
+produced a text that sought to bring together the various 
+proposals.  The Chair,s proposal, coming at the end of the 
+PrepCom, did not help the negotiations; indeed it established 
+another element that further confused future negotiations. 
+This document has no status and is not considered a baseline 
+text by the U.S.  The issue of Internet governance will be 
+discussed further during the resumed PrepCom III in Tunis. 
+ 
+¶10.  Additional Internet governance issues include: 
+international charging arrangements for Internet services, 
+cybersecurity, cybercrime, spam: 
+ 
+(a) International Charging Arrangements for Internet Services 
+(ICAIS) 
+In the context of measures to promote development, 
+disagreements persisted over the need for governments to 
+impose a cost-sharing model on interconnection arrangements 
+between Internet Service Providers (ISPs), similar to the 
+model used in traditional international voice 
+telecommunications. The U.S. continued to advocate that 
+arrangements for Internet services should continue to be 
+negotiated commercially and governments should rely on 
+technology and market forces to support expansion of the 
+Internet and should not intervene in the process.  Text was 
+agreed that supports: the commercial nature of these 
+negotiations; the continued development of regional Internet 
+Exchange Centers; the development of low cost terminal 
+equipment; and the completion of ITU work on this issue.  A 
+proposal originally tied to existing multilateral trade rules 
+remains bracketed due to ambiguity in drafting. 
+ 
+(b) Cybersecurity 
+ 
+Russia proposed language on security for the political 
+chapeau based on that in paragraph 36 of the Geneva 
+Declaration of Principles.   In corridor discussions, the 
+U.S. worked with Russia to modify that language, which they 
+accepted, but Iran, Cuba and El Salvador proposed additional 
+sentences drawn from paragraphs 35 and 36 on social and 
+economic development and human rights.  While all parties had 
+indicated acceptance for the language, Russia and Cuba placed 
+the paragraph in brackets.  Upon review, the U.S. will 
+propose inclusion of language on the culture of 
+cybersecurity, drawn from paragraph 35, to rebalance the 
+compromise between paragraphs 35 and 36 reached in the Geneva 
+Declaration of Principles. 
+ 
+Much of the U.S. proposed language on cybersecurity in other 
+sections was agreed upon.   The agreed language promotes a 
+culture of cybersecurity, with specific mention of 
+information sharing to develop common standards and exchange 
+of best practices.  In addition, the language highlights the 
+importance of promoting cybersecurity while respecting 
+privacy and human rights. 
+ 
+(c) Cybercrime 
+ 
+Prepcom participants agreed to the core U.S. language with a 
+call for governments to adopt domestic legislation on 
+cybercrime, taking into account existing frameworks.  In 
+addition, there is a specific acknowledgment of the Council 
+of Europe's Convention on Cybercrime as an existing framework 
+for fighting cybercrime.  However, the last sentence of new 
+paragraph 61 is still in brackets as requested by the Russian 
+Federation.  This sentence focuses on the need for 
+international cooperation on cybercrime enforcement efforts, 
+but avoids a call for any new international agreement on 
+cybercrime. 
+ 
+(d) Spam 
+ 
+The core U.S. language was agreed to at PrepCom III. Pursuant 
+to U.S. policy, the language explicitly acknowledges the 
+London Action Plan, among other multi-lateral memoranda of 
+understanding, and calls for a multi-pronged approach to 
+counter spam that includes policy elements promoted by the 
+U.S. (consumer and business education; appropriate 
+legislation; law enforcement authorities and tools; continued 
+development of self-regulatory and technical measures; best 
+practices; and international cooperation).  In addition, the 
+language avoids a call for a global agreement on spam. 
+ 
+WSIS Implementation 
+ 
+¶11.  The issues of coordination and implementation of the 
+outcomes of the WSIS remained highly contentious.  Many 
+States at the PrepCom want the WSIS to designate specific UN 
+agencies to carry out specific tasks related to the WSIS 
+outcomes, want the WSIS to specify those tasks and want the 
+ITU, UNESCO and UNDP to play a &leading role8 in WSIS 
+coordination and implementation.  These States include 
+Venezuela, Saudi Arabia, Cuba, Russia, El Salvador, Ghana, 
+Iran, Azerbaijan, Brazil, Nigeria and the Dominican Republic. 
+ The U.S., the European Union (represented by the UK), 
+Norway, Australia and Canada contend that it is not up to the 
+WSIS to designate the tasks of UN agencies and that 
+coordination on implementation should be carried out through 
+the UN Secretary General within the context of the existing 
+framework of UN coordination under UNGA Resolution 57/270B 
+(on integrated and coordinated implementation of and follow 
+up to the outcomes of the major United Nations conferences 
+and summits in the economic and social fields) and within 
+existing UN mandates and resources.  An extensive debate on 
+this issue was conducted over the course of several days in 
+PrepCom Subcommittee B (chaired by Lyndall Shope-Mafole of 
+South Africa) and the attending States were unable reach 
+agreement on the issue.  The issue of WSIS implementation is 
+inextricably linked to the issues related to Internet 
+governance and is unlikely to be settled until the issue of 
+Internet governance is resolved within the WSIS. 
+ 
+Political Issues 
+ 
+¶12.  Freedom of Expression/Role of Media/Unilateral Measures 
+Language:  The U.S., EU, Canada and Australia expressed 
+strong support repeatedly for reaffirming the commitment made 
+to human rights in the Geneva Declaration of Principles, 
+without reopening the language.  However, proposals made 
+primarily by Cuba attempted to reopen language rejected in 
+Phase I instead of utilizing negotiated language already 
+agreed.  This was particularly the case regarding references 
+to the &removal of obstacles8 in the Political Chapeau and 
+the Implementation chapters of the Summit document(s) that 
+were geared to evoke criticism of the U.S. embargo and/or 
+U.S. media transmissions to Cuba (Radio/TV Marti).  Cuba also 
+continued to press for inclusion of paragraphs on the role of 
+the media and the &new world information and communication 
+order8 that are unacceptable to the U.S. and other 
+like-minded nations.  Although the U.S. delegation was able 
+to whittle the Cuban proposals down from many paragraphs to a 
+more limited number, the end result is that all such language 
+remains bracketed in the text.  Cuba is committed to 
+&operationalizing8 paragraph 46 of the Geneva Declaration 
+(on unilateral measures) and paragraph 45 of that Declaration 
+(on legality of management of the radio frequency spectrum). 
+Twice Cuba agreed to and then reneged on negotiated language 
+on those issues.  Agreement remains a major challenge prior 
+to Tunis. 
+ 
+Financial Mechanisms 
+ 
+¶13.  Chapter Two on Financial Mechanisms was substantially 
+agreed at PrepCom II.  However, due to lack of time, the few 
+remaining bracketed passages were never brought to the 
+Committee for final agreement. 
+ 
+Open Source 
+ 
+¶14.  Paragraphs on open source software (OSS) remain open. 
+Brazil proposed the addition of the original "Rio 
+Commitment," reflecting Brazil's (and GRULAC's) promotion of 
+open source software (OSS) over proprietary software 
+products.   Ghana, speaking for the African Group, also 
+supported this proposal.  The U.S. opposed the addition in 
+that it lacked the requisite technology neutrality previously 
+recognized in the Geneva Declaration of Principles and has 
+proposed technologically neutral language with which Brazil, 
+GRULAC, and Ghana have indicated they could agree.  The U.S. 
+resisted Brazil's attempts to move the technologically 
+neutral language within the paragraph, which would have 
+resulted in promotion of OSS over proprietary software.  It 
+appears that all parties are willing to agree to the U.S.' 
+original suggested placement of the language.  Brazil also 
+had communicated its desire to eliminate all other references 
+to OSS anywhere in the final document, in favor of the one 
+reference to OSS in the Political Chapeau.  This possibility 
+remains an open issue, however, as other references to OSS 
+already were the subject of working group drafts.  Drafting 
+group participants have not completed work on all the 
+paragraphs concerned.  Australia favored dropping Brazil's 
+proposal altogether, with which the U.S. would agree.   Ghana 
+has indicated to the U.S., however, that it needs this 
+provision on OSS in the Political Chapeau to support its 
+development agenda. 
+ 
+Technology Transfer 
+ 
+¶15.  Technology transfer continues to be an open issue, 
+although it is not expected to be a fractious one in that 
+there appears to be general agreement to modify the phrase 
+with "on mutually agreed terms" or similar modifications such 
+as "enabling environment."  Initial clashes with Saudi Arabia 
+and Egypt over inclusion of "with mutually agreed terms" were 
+resolved through several meetings of the drafting group, in 
+which the U.S. pointed to similar references in the Geneva 
+Declaration of Principles and the Plan of Action and the 
+parties were able to address their disagreement through the 
+inclusion of the phrase "enabling environment." 
+ 
+Cultural diversity 
+ 
+¶16.  Several paragraphs relating to cultural diversity/the 
+diversity of cultural content and artistic expression appear 
+in the political chapeau.  The U.S. agreed to language on 
+&respecting cultural and linguistic diversity8 in paragraph 
+13; however, debate remains open on paragraph 35 around 
+language on the &promotion and protection of cultural 
+diversity and identity,8 which the U.S. does not support. A 
+working group of Egypt, Ghana, Honduras and the U.S. proposed 
+an alternative, which removed reference to protecting 
+cultural diversity, which Egypt later rejected.  The working 
+group reconvened with the EU, Australia and Guatemala also 
+participating to develop the following language which will be 
+submitted at the intersessional PrepCom meeting: &We 
+reaffirm our commitment to promoting the involvement of all 
+peoples in the information society through the development 
+and use of local languages in ICTs, thereby promoting, 
+affirming, and preserving diverse cultural identities and 
+languages.8 
+ 
+Tunisia 
+ 
+¶17.  At the closing plenary of the WSIS PrepCom III, the 
+issue of respect for human rights resurfaced in a dramatic 
+way.  The Canadian delegation read a statement on behalf of 
+the EU, Romania, Bulgaria, Croatia, Serbia/Montenegro, 
+Switzerland, Norway, New Zealand, Iceland, Monaco, Australia 
+and the U.S. that emphasized, while their governments are 
+dedicated to achieving a successful WSIS Summit in Tunis, 
+they remain deeply concerned about the human rights situation 
+in Tunisia, particularly with recent incidents and issues 
+involving limitations on freedom of expression and 
+participation by some groups of Tunisian civil society.  The 
+statement noted that they expected Tunisia to demonstrate its 
+commitment to freedom of expression and opinion as host of 
+the Summit. 
+ 
+¶18.  Tunisia responded vehemently by saying that it had 
+spared no effort to make WSIS a success and that it had 
+provided the conditions for an open and inclusive summit, in 
+line with the UN rules and procedures.  The GOT also said 
+there was no reason for further concern and that there was no 
+reason to raise this issue at the Plenary and that it 
+regretted hearing such a statement. 
+ 
+¶19.  Saudi Arabia (on behalf of the Arab Group), Pakistan (on 
+behalf of the Asia Group), Ghana (on behalf of the Africa 
+Group), and Cuba spoke in support of the Tunisian efforts to 
+hold a successful summit.  Saudi Arabia, in particular, 
+deplored that this issue was raised in Plenary.  ITU 
+Secretary General assured the Plenary that the UN rules would 
+ 
+SIPDIS 
+apply to the Tunis Summit and that the inclusive nature of 
+WSIS would be upheld.  He claimed that the host country 
+agreement, just signed by Tunisia and the ITU, will ensure 
+the openness of the summit, in accordance with the UN rules. 
+The tension surrounding the issue was clear and the dividing 
+lines in the plenary hall were evident. 
+ 
+Accreditation 
+ 
+¶20.  Contentious human rights issues served as the bookends 
+for PrepCom III, opening and closing the meeting.  During the 
+opening plenary, the United States raised the issue of the 
+accreditation of U.S.-based NGO Human Rights in China (HRIC) 
+and requested an explanation from the WSIS Secretariat as to 
+why HRIC was not accredited for this meeting, given they had 
+submitted all necessary paperwork, including audited 
+financial statements showing they received no government 
+support. This concern was echoed by Canada and the UK on 
+behalf of the EU.  Following the Secretariat's explanation 
+that HRIC was denied accreditation because it failed to 
+disclose information about its anonymous donors, the U.S. 
+moved that the HRIC be accredited.   A lengthy procedural 
+discussion followed in which China strongly objected, stating 
+that discussing a single NGO after the Secretariat had not 
+recommended their accreditation would break with standard 
+procedures and that all NGOs rejected for accreditation could 
+also need to be discussed.  China raised a procedural point 
+that the PrepCom should not take up the discussion of NGOs 
+not recommended for accreditation by the Secretariat.   In an 
+intervention, Cuba supported this position. 
+¶21.  Ambassador Karklins, President of the PrepCom, proposed 
+postponing the discussion on HRIC to allow time for greater 
+examination of the issue and to save precious plenary time. 
+However, China expressed concern that, by doing this, a 
+precedent would be set and also argued that HRIC does not 
+work for the protection of human rights in China.  China then 
+called for a roll call vote on its proposal to not discuss 
+the issue of NGOs denied accreditation.  Acknowledging that 
+there was no guiding precedent in WSIS for this issue, 
+Ambassador Karklins called a roll call vote with the 
+following results: 52 countries supported China,s proposal, 
+35 voted in favor of discussing the accreditation issue, 35 
+countries abstained and 70 countries were declared absent, 
+primarily because they chose not to respond to the roll call 
+(many of them were in the room).   Following the vote, which 
+prevented the U.S. motion to accredit HRIC from being 
+considered, the U.S. expressed disappointment that the WSIS 
+process would not be as transparent and inclusive as the U.S. 
+had hoped. 
+ 
+Conclusion/Comments 
+ 
+¶22.  PrepCom III will be remembered as the international 
+meeting where the EU dramatically shifted its support from 
+the current system of Internet Governance to one it has 
+characterized as &a new cooperation model.8   In so doing, 
+the EU not only moved away from supporting a system it was 
+instrumental in helping to create but in so doing, it clearly 
+appeared to rebuke the U.S. and its historic role in the 
+management of the Internet system.  This dramatic shift -- 
+reflecting the views of Commissioner Viviane Redding -- is in 
+sharp contrast to the policies advocated by her predecessor 
+Commissioner Erkki Liikonen.  The summit will now be 
+remembered for the outcome of the US/EU differences over 
+Internet Governance. Consequences of these differences, and 
+how they will be dealt with at the Summit, will echo across a 
+number of upcoming international meetings, particularly 
+during the ITU,s Plenipotentiary Conference to be held in 
+Turkey in November 2006. 
+Moley

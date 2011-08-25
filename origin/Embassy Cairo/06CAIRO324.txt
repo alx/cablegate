@@ -1,0 +1,191 @@
+06CAIRO324
+GOE RESPONDS TO SPECTRUM MANAGEMENT DEMARCHE
+Sun Jan 22 00:00:00 +0100 2006
+UNCLASSIFIED
+Embassy Cairo
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 04 CAIRO 000324 
+ 
+SIPDIS 
+ 
+STATE FOR EB/CIP/MA 
+COMMERCE FOR NTIA 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS EG
+SUBJECT: GOE RESPONDS TO SPECTRUM MANAGEMENT DEMARCHE 
+ 
+REF: 05 SECSTATE 225777 
+ 
+Econoff presented reftel questions to GOE telecoms officials 
+on December 19, 2005.  The GOE's National Telecom Regulatory 
+Authority (NTRA) on January 15 submitted to Embassy Cairo its 
+answers to reftel questionnaire on spectrum management 
+practices in Egypt, as follows.  Monetary values listed are 
+all Egyptian pounds (LE); as of January 22, the exchange rate 
+was USD 1 = LE 5.7. 
+ 
+---------- 
+ 
+¶1.  Responsible Authority: Which organizations are involved 
+in spectrum management in your country?  To whom are they 
+responsible - executive branch, legislative branch, military 
+- or are they autonomous? 
+ 
+  NTRA, which operates based on the telecommunications law 
+(Law No. 10 of 2003) through a board headed by the Minister 
+of Communications and Information Technology, is the 
+responsible authority. 
+ 
+---------- 
+ 
+¶2.  Assignment Process:  Please describe the mechanism(s) 
+your country uses to assign spectrum (for example, auctions, 
+lotteries, comparative hearings).  To what services and/or 
+bands are such mechanisms applied? 
+ 
+  A.) For private use (factories, companies, hotels, etc.), 
+the assignment process utilizes a first come, first served 
+strategy. 
+ 
+  B.) For large public services/projects, such as public 
+mobile operators, the assignment process utilizes an auction 
+and "beauty contest" (tender) strategy, and when two 
+operators are equal in every category (financially and 
+technically), a lottery strategy is applied. 
+ 
+  The aforementioned mechanisms apply to all services and 
+bands.  Item A is applicable for local area communications 
+(small coverage area).  Item B is applicable for metropolitan 
+area communications (wide coverage area) with 
+service-providing systems. 
+ 
+---------- 
+ 
+¶3.  Licensing Regime:  Please describe your spectrum 
+licensing regime.  Are licenses awarded for the provision of 
+a specific service, or a specified technology or standard? 
+Are licenses subject to renewal? 
+ 
+  Egypt uses a licensing regime.  The procedure for getting a 
+license is as follows: 
+ 
+  A.) Application is made for a license by filling out the 
+appropriate forms for the type of license sought: 
+ 
+  - mobile service equipment license. 
+  - fixed service equipment license. 
+  - maritime service equipment license. 
+  - aeronautical service equipment license. 
+  - satellite service equipment license. 
+  - amateur service equipment license. 
+ 
+  B.) The frequency committee then investigates the 
+application. 
+  C.) License fees are paid. 
+  D.) The license is issued. 
+ 
+  Licenses are awarded for specific services and 
+technologies, except for unlicensed services such as Wi-Fi, 
+etc.  They are subject to renewal every year. 
+ 
+---------- 
+ 
+¶4.  Licensee Privileges:  What flexibility do licensees have 
+(e.g., secondary markets) to transfer their spectrum rights 
+to other parties?  May licensees aggregate licenses or 
+subdivide them?  May licensees make all or part of their 
+spectrum available to other entities based on geography or 
+time?  May licensees accept payment in exchange for spectrum 
+access? 
+ 
+  There are no secondary markets at present.  Licensees may 
+not aggregate or subdivide licenses, make all or part of 
+their spectrum available to other entities, or accept payment 
+in exchange for access. 
+ 
+---------- 
+ 
+¶5.  Spectrum Fees:  What types of fees are imposed on 
+spectrum users?  How are fees calculated?  Which, if any, 
+spectrum users are exempt from fees? 
+ 
+  The current system consists of two types of fees, equipment 
+fees billing (EFB) and spectrum fees billing (SFB).  The 
+calculation of these fees differs according to the service 
+type and the frequency band as follows: 
+ 
+Case 1: HF Band: 
+---------------- 
+ 
+  EFB per single device =250 50*NOC 
+  SFB per channel per site =27.825*CD 
+ 
+Frequencies below 3 MHz are considered as Night Usage 
+Frequencies (NUF), while frequencies above or equal to 5 MHz 
+are considered Day Usage Frequencies (DUF).  Any of the 
+following options is considered as a single HF channel for 
+which the above mentioned SFB is calculated: 
+ 
+  Single NUF. 
+  Single DUF. 
+  Pair of a single DUF plus a single NUF. 
+ 
+NOC:  No. Of Channels (as described) 
+CD:   Coverage Distance 
+= 1200 KM  for licensing an HF channel all over Egyptian 
+territory. 
+= 3000 KM  for communication with any destination outside 
+Egyptian territory. 
+ 
+Case 2: VHF Band: 
+----------------- 
+ 
+  EFB per single device =A 50*NOC 
+  SFB per single frequency per site =27.825*CD 
+ 
+NOC:  No. Of Channels (either duplex or simplex) 
+A=    150 for devices operating under 5 Watts 
+A=    250 otherwise 
+CD:   Coverage Distance 
+=20 KM  for handheld equipment without base station (Max 
+power 5 W) 
+=40 KM  for base stations or portable equipment mounted on car 
+ 
+Case 3: UHF Band: 
+----------------- 
+ 
+  EFB per single device =250 50*NOC 
+  SFB per single frequency per site =27.825*CD 
+ 
+NOC:  No. Of Channels (either duplex or simplex) 
+CD:   Coverage Distance 
+=20 KM  for handheld equipment without base station 
+=40 KM  for base stations or equipment on car 
+ 
+Case 4: Microwave Links: 
+------------------------ 
+ 
+  EFB per single device =250 50*NOC 
+  SFB per single link =27.825*CD*NOC 
+ 
+NOC:  No. Of Channels (based on the bandwidth) 
+ 
+For Data and Voice  NOC =15*BW in MHz 
+                    (If NOC is not specified in equipment 
+specs) 
+ 
+For Video Transmission  NOC =120*No. of Video channels 
+                        (If BW is not specified in equipment 
+specs) 
+ 
+NOC =15*BW in MHz (otherwise) 
+ 
+  In all previous cases, the following rules apply: 
+ 
+  For Point-To-Multipoint PTP (using the same frequencies), 
+SFB is calculated only once.  In the case of MW links, CD is 
+taken as the length of the longest link.  For all other cases 
+CD is taken as the distance between the two most distant 
+sites. 
+ 
+  IF (real value of CD)

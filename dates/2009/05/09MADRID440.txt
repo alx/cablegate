@@ -15,26 +15,145 @@ INFO RUEHZL/EUROPEAN POLITICAL COLLECTIVE
 RUEHLA/AMCONSUL BARCELONA 3971
 RUCNFB/FBI WASHDC
 RUEAWJA/DEPT OF JUSTICE WASHDC
-RHEHNSC/NSC WASHDCTuesday, 05 May 2009, 15:34
-UNCLAS SECTION 01 OF 02 MADRID 000440 
+RHEHNSC/NSC WASHDCUNCLAS SECTION 01 OF 02 MADRID 000440 
+ 
 SENSITIVE 
 SIPDIS 
+ 
 FOR EUR/WE, ALSO FOR L/LEI AND CA/OCS, DOJ FOR BRUCE SWARTZ 
 AND PAT REEDY 
-EO 12958 N/A 
-TAGS AORC, PREL, CASC, CJAN, PTER, PGOV, PHUM, PINS, SOCI, 
+ 
+E.O. 12958: N/A 
+TAGS: AORC PREL CASC CJAN PTER PGOV PHUM PINS SOCI
 KCRM, KJUS, SP 
 SUBJECT: GARZON OPENS SECOND INVESTIGATION INTO ALLEGED 
-U.S. TORTURE OF TERRORISM DETAINEES
-REF: A. MADRID 392  B. MADRID 393  C. 08 MADRID 1280
-MADRID 00000440 001.2 OF 002
-¶1. (SBU) Summary: Spanish National Court (Audiencia Nacional) investigating judge Baltasar Garzon has announced he will pursue an investigation into allegations the U.S. tortured terrorism detainees at Guantanamo. He has yet to name any targets of his investigation. This comes days after he was forced to give up a related complaint filed by an NGO against six Bush Administration officials (ref a). At the urging of Spanish prosecutors, the earlier case was reassigned to another National Court judge who now appears to be trying shelve the case. The Chief Prosecutor for the National Court tells us he will also fight Garzon’s latest move. Nevertheless, we suspect Garzon will wring all the publicity he can from the case unless and until he is forced to give it up. End summary.
-¶2. (U) Garzon bowed to arguments by Spanish prosecutors and April 17 forwarded to National Court docketing authorities a case recently filed against six Bush Administration officials (ref a). That case was duly assigned to investigating judge Eloy Velasco. We learned May 5 that Velasco has declined to process that case saying that before moving forward the USG should be asked if proceedings are underway in the U.S. He also offered to transfer the proceedings to the U.S. under the MLAT. We are waiting for a copy of Velasco’s ruling and will advise further when we receive it. Meanwhile, Garzon announced April 29 that he was commencing a separate investigation into alleged U.S. torture of terrorism detainees.
-¶3. (SBU) LEGATT and Embassy FSN Legal Advisor met May 4 with National Court Chief Prosecutor Javier Zaragoza (protect) to discuss Garzon’s latest move. Zaragoza said he had challenged Garzon directly and personally on this latest case, asking if he was trying to drum up more speaking fees. Garzon replied he was doing it for the record only and would let it die. Zaragoza opined that Garzon, having gotten his headline, would soon drop the matter. In case he does not, Zaragoza has a strategy to force his hand. Zaragoza’s strategy hinges on the older case in which Garzon investigated terrorism complaints against some Guantanamo detainees. In connection with those earlier investigations, Garzon ordered the Spanish police to visit Guantanamo and collect evidence against the suspected terrorists. Zaragoza reasons that he can use this fact to embarrass Garzon into dropping this latest case by suggesting Garzon in some sense condoned the U.S. approach to detainee issues circa 2004. Garzon took no action in 2004 when the suspects returned to Spain and reported to him their alleged mistreatment. Zaragoza said that if Garzon could not be shamed into dropping the case, then he would formally recommend Garzon do so and appeal if Garzon ignored him.
-¶4. (SBU) Key to Zaragoza’s plans is the fact that there is yet another Guantanamo-related case underway in the National Court. That case relates to so-called CIA flights carrying detainees to Guantanamo via Spain and is being heard by investigating Judge Ismael Moreno (ref c). The police officers whom Garzon sent to Guantanamo years ago are expected to testify before Moreno this month, and Zaragoza hopes their testimony will put on record Garzon’s role in the earlier cases. (Note: In opening his most recent Guantanamo investigation, Garzon asked that Moreno turn his detainee flights case over to him; Zaragoza thought there was no chance Moreno would agree to do so. End note.) Zaragoza is also banking on the fact that Garzon is already in hot water over his excessive zeal in another case. A few months ago, Garzon opened an investigation into Spanish civil war atrocities. Garzon persisted in his investigation in the face of all advice to the contrary from prosecutors. The case was finally wrestled away from Garzon, but there is now a criminal complaint against him in the Supreme Court, alleging abuse of authority. That complaint has the support of Spanish prosecutors. Zaragoza doubts Garzon will risk a second such complaint.
-¶5. (SBU) As we have reported, with respect to the earlier complaint against six Bush Administration officials, Zaragoza has repeatedly suggested that a USG affirmation that the U.S. is investigating the torture issue could help dispose of
-MADRID 00000440 002.2 OF 002
-Spanish judicial inquires into the subject. In that regard, the Spanish press reported today that National Court investigating judge Fernando Andreu, who is handling a case against Israeli officials accused of war crimes in Gaza in 2002, has refused to drop the case despite a request from prosecutors. The prosecutors had argued that Israel was investigating the matter. In refusing to close the case, Andreu argued that Gaza was not part of Israel and thus Israeli authorities were not the ones who should be investigating crimes allegedly committed there. The press reports that the President of the Supreme Court and Spain’s Judicial Council (Consejo General del Poder Judicial), Carlos Divar, is arguing for reforming the jurisdiction of the National Court to avoid having it turned into the “judicial police of the world.” Zaragoza has commented to us that while many talk about limiting Spain’s universal jurisdiction rules, it is unlikely politicians will act to do so.
-Comment
+U.S. TORTURE OF TERRORISM DETAINEES 
+ 
+REF: A. MADRID 392 
+     ¶B. MADRID 393 
+     ¶C. 08 MADRID 1280 
+ 
+MADRID 00000440  001.2 OF 002 
+ 
+ 
+¶1. (SBU) Summary:  Spanish National Court (Audiencia 
+Nacional) investigating judge Baltasar Garzon has announced 
+he will pursue an investigation into allegations the U.S. 
+tortured terrorism detainees at Guantanamo.  He has yet to 
+name any targets of his investigation.  This comes days after 
+he was forced to give up a related complaint filed by an NGO 
+against six Bush Administration officials (ref a).  At the 
+urging of Spanish prosecutors, the earlier case was 
+reassigned to another National Court judge who now appears to 
+be trying shelve the case.  The Chief Prosecutor for the 
+National Court tells us he will also fight Garzon's latest 
+move.  Nevertheless, we suspect Garzon will wring all the 
+publicity he can from the case unless and until he is forced 
+to give it up.  End summary. 
+ 
+¶2. (U) Garzon bowed to arguments by Spanish prosecutors and 
+April 17 forwarded to National Court docketing authorities a 
+case recently filed against six Bush Administration officials 
+(ref a).  That case was duly assigned to investigating judge 
+Eloy Velasco.  We learned May 5 that Velasco has declined to 
+process that case saying that before moving forward the USG 
+should be asked if proceedings are underway in the U.S.  He 
+also offered to transfer the proceedings to the U.S. under 
+the MLAT.  We are waiting for a copy of Velasco's ruling and 
+will advise further when we receive it.  Meanwhile, Garzon 
+announced April 29 that he was commencing a separate 
+investigation into alleged U.S. torture of terrorism 
+detainees. 
+ 
+¶3. (SBU) LEGATT and Embassy FSN Legal Advisor met May 4 with 
+National Court Chief Prosecutor Javier Zaragoza (protect) to 
+discuss Garzon's latest move.  Zaragoza said he had 
+challenged Garzon directly and personally on this latest 
+case, asking if he was trying to drum up more speaking fees. 
+Garzon replied he was doing it for the record only and would 
+let it die.  Zaragoza opined that Garzon, having gotten his 
+headline, would soon drop the matter.  In case he does not, 
+Zaragoza has a strategy to force his hand.  Zaragoza's 
+strategy hinges on the older case in which Garzon 
+investigated terrorism complaints against some Guantanamo 
+detainees.  In connection with those earlier investigations, 
+Garzon ordered the Spanish police to visit Guantanamo and 
+collect evidence against the suspected terrorists.  Zaragoza 
+reasons that he can use this fact to embarrass Garzon into 
+dropping this latest case by suggesting Garzon in some sense 
+condoned the U.S. approach to detainee issues circa 2004. 
+Garzon took no action in 2004 when the suspects returned to 
+Spain and reported to him their alleged mistreatment. 
+Zaragoza said that if Garzon could not be shamed into 
+dropping the case, then he would formally recommend Garzon do 
+so and appeal if Garzon ignored him. 
+ 
+¶4. (SBU) Key to Zaragoza's plans is the fact that there is 
+yet another Guantanamo-related case underway in the National 
+Court.  That case relates to so-called CIA flights carrying 
+detainees to Guantanamo via Spain and is being heard by 
+investigating Judge Ismael Moreno (ref c).  The police 
+officers whom Garzon sent to Guantanamo years ago are 
+expected to testify before Moreno this month, and Zaragoza 
+hopes their testimony will put on record Garzon's role in the 
+earlier cases.  (Note:  In opening his most recent Guantanamo 
+investigation, Garzon asked that Moreno turn his detainee 
+flights case over to him; Zaragoza thought there was no 
+chance Moreno would agree to do so.  End note.)  Zaragoza is 
+also banking on the fact that Garzon is already in hot water 
+over his excessive zeal in another case.  A few months ago, 
+Garzon opened an investigation into Spanish civil war 
+atrocities.  Garzon persisted in his investigation in the 
+face of all advice to the contrary from prosecutors.  The 
+case was finally wrestled away from Garzon, but there is now 
+a criminal complaint against him in the Supreme Court, 
+alleging abuse of authority.  That complaint has the support 
+of Spanish prosecutors.  Zaragoza doubts Garzon will risk a 
+second such complaint. 
+ 
+¶5. (SBU) As we have reported, with respect to the earlier 
+complaint against six Bush Administration officials, Zaragoza 
+has repeatedly suggested that a USG affirmation that the U.S. 
+is investigating the torture issue could help dispose of 
+ 
+MADRID 00000440  002.2 OF 002 
+ 
+ 
+Spanish judicial inquires into the subject.  In that regard, 
+the Spanish press reported today that National Court 
+investigating judge Fernando Andreu, who is handling a case 
+against Israeli officials accused of war crimes in Gaza in 
+2002, has refused to drop the case despite a request from 
+prosecutors.  The prosecutors had argued that Israel was 
+investigating the matter.  In refusing to close the case, 
+Andreu argued that Gaza was not part of Israel and thus 
+Israeli authorities were not the ones who should be 
+investigating crimes allegedly committed there.  The press 
+reports that the President of the Supreme Court and Spain's 
+Judicial Council (Consejo General del Poder Judicial), Carlos 
+Divar, is arguing for reforming the jurisdiction of the 
+National Court to avoid having it turned into the "judicial 
+police of the world."  Zaragoza has commented to us that 
+while many talk about limiting Spain's universal jurisdiction 
+rules, it is unlikely politicians will act to do so. 
+ 
+Comment 
 ------- 
-¶4. (SBU) We believe Zaragoza is acting in good faith and playing a constructive role. Certainly he knows Garzon better than we do, having sparred with him before. Nevertheless, we do not share his optimism that this problem will go away anytime soon. Having started, it is hard for us to see why the publicity-loving Garzon would shut off his headline-generating machine unless forced to do so. And forcing him to do so could take months. We also fear Garzon -- far from being deterred by threats of disciplinary action -- may welcome the chance for martyrdom, knowing the case will attract worldwide attention. In any event, we will probably be dealing with this issue for some time to come. Zaragoza will be in Washington in early June for LEGATT-organized consultations on CT cooperation. L and DOJ may wish take that opportunity to discuss these cases with him directly at that time. CHACON
+ 
+¶4. (SBU) We believe Zaragoza is acting in good faith and 
+playing a constructive role.  Certainly he knows Garzon 
+better than we do, having sparred with him before. 
+Nevertheless, we do not share his optimism that this problem 
+will go away anytime soon.  Having started, it is hard for us 
+to see why the publicity-loving Garzon would shut off his 
+headline-generating machine unless forced to do so.  And 
+forcing him to do so could take months.  We also fear Garzon 
+-- far from being deterred by threats of disciplinary action 
+-- may welcome the chance for martyrdom, knowing the case 
+will attract worldwide attention. In any event, we will 
+probably be dealing with this issue for some time to come. 
+Zaragoza will be in Washington in early June for 
+LEGATT-organized consultations on CT cooperation.  L and DOJ 
+may wish take that opportunity to discuss these cases with 
+him directly at that time. 
+CHACON

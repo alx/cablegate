@@ -1,0 +1,182 @@
+08STATE66583
+BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK
+Fri Jun 20 00:00:00 +0200 2008
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0011
+RR RUEHWEB
+
+DE RUEHC #6583 1721545
+ZNR UUUUU ZZH
+R 201544Z JUN 08
+FM SECSTATE WASHDC
+TO RUEHGB/AMEMBASSY BAGHDAD 0000
+INFO RUEHAM/AMEMBASSY AMMAN 0000
+RUEAIIA/CIA WASHINGTON DC 0000
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 066583 
+ 
+SIPDIS 
+BAGHDAD FOR EDWARD STAFFORD 
+POLMIL 
+BAGHDAD FOR EDWARD GALLAGHER 
+ 
+E.O. 12958: N/A 
+TAGS: ETTC KOMC IZ
+SUBJECT: BLUE LANTERN LEVEL 3: POST-SHIPMENT END-USE CHECK 
+ON LICENSES 05-958924 AND 05-982382 
+ 
+REF: BLUE LANTERN GUIDEBOOK 2006 
+ 
+¶1. This is an Action Request.  See paragraphs 2-3. 
+ 
+¶2. The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post's assistance in conducting 
+a post-shipment check on licenses 05-958924 and 05-982382 for 
+ 
+the export of night vision devices (NVDs) to Iraq.  PM/DTCC 
+understands that the Multi-National Security Transition 
+Command in Iraq (MNSTC-I) has begun a comprehensive review of 
+NVD location, storage, and accountability.  Department 
+requests post to ask MNSTC-I to incorporate this 
+post-shipment Blue Lantern check into its comprehensive NVD 
+review.  Given this request's extensive scope and the current 
+situation in Iraq, PM/DTCC is willing in this case to extend 
+its usual 45-day deadline for post-shipment checks in order 
+to fit the time frame of MNSTC-I's review.  PM/DTCC notes, 
+however, that lack of response to this Blue Lantern check 
+will affect pending and future licenses involving parties to 
+this license. 
+ 
+¶3. Reason for request:  Due to the sensitivity of the 
+equipment and the potential for their diversion or misuse, 
+the Department of State and the Department of Defense have 
+policies of carefully scrutinizing NVD export licenses and 
+taking steps to ensure proper end-use.  Provisos attached to 
+these licenses obligate the end-user to secure the NVDs from 
+loss, theft, or unauthorized access, and to perform routine 
+inventory checks by serial number.  These records are to be 
+made available for review upon US Government request. 
+ 
+¶4. Post/MNSTC-I is requested to make appropriate inquiries to 
+confirm receipt of the NVGs by both U.S. military and Iraqi 
+Armed Forces in Iraq, to confirm continued possession by the 
+Iraqi Armed Forces of the NVDs, to determine the serial 
+numbers of the NVDs, and to verify that all NVDs are secure 
+and being used only for the purpose stated on the license. 
+Department requests that post/MNSTC-I conduct a site visit, 
+if possible, in order to gather and verify this information. 
+If a site visit is not possible, please obtain official 
+written confirmation of receipt and continued possession, and 
+records of inventory checks and inform PM/DTCC case officer. 
+ 
+¶5. For background, the following details of the license in 
+question are provided: 
+ 
+¶A. 
+ 
+DTC Case: 05-958924 
+ 
+QUANTITY/COMMODITY: 
+ 
+6,371 Individual Night Vision Goggles ATN NVG7-2I with 
+upgrade II tube (FOM 750-1250) Gen II, with headgear, helmet 
+mounts, lens cap, batteries, case and spare parts lot 
+ 
+License Value: USD 8,135,767.00 
+ 
+(COMMENT: According to U.S. Customs data, all 6,371 NVDs were 
+exported to Iraq in 17 separate shipments between April 7, 
+2005, and January 25, 2006.  END COMMENT.) 
+ 
+SELLER: 
+ 
+American Technologies Network 
+20 So. Linden Avenue 
+Suite 1B 
+So. San Francisco, CA 94080 
+Company contact: James S. Munn, tel.: 650-875-0130 ext. 106 
+ 
+FOREIGN CONSIGNEE: 
+ 
+International Trading Establishment 
+Fahid Building 
+Swihiad District 
+Amman 11118 
+Jordan 
+ 
+FOREIGN END-USER: 
+ 
+Iraqi Armed Forces 
+c/o U.S. Forces In Iraq 
+Tadji Military Base 
+Tadji, Iraq 
+ 
+PURPOSE: 
+ 
+Support of Iraqi Armed Forces for nighttime security 
+operations in Iraq 
+ 
+¶B. 
+ 
+DTC Case: 05-982382 
+ 
+QUANTITY/COMMODITY: 
+ 
+6,424 Individual Night Vision Goggles ATN NVG7-2I with 
+upgrade II tube (FOM 750-1250) Gen II, with headgear, helmet 
+mounts, lens cap, batteries, case and spare parts lot 
+ 
+License Value: USD 8,351,200.00 
+ 
+(COMMENT: According to U.S. Customs data, all 6,424 NVDs were 
+exported to Iraq in 15 separate shipments between November 
+29, 2005, and June 29, 2006.  END COMMENT.) 
+ 
+SELLER: 
+ 
+American Technologies Network 
+20 So. Linden Avenue 
+Suite 1B 
+So. San Francisco, CA 94080 
+Company contact: James S. Munn, tel.: 650-875-0130 ext. 106 
+ 
+FOREIGN CONSIGNEE: 
+ 
+International Trading Establishment 
+Fahid Building 
+Swihiad District 
+Amman 11118 
+Jordan 
+ 
+FOREIGN END-USER: 
+ 
+Iraqi Armed Forces 
+c/o U.S. Forces In Iraq 
+Tadji Military Base 
+Tadji, Iraq 
+ 
+PURPOSE: 
+ 
+Support of Iraqi Armed Forces for nighttime security 
+operations in Iraq 
+ 
+¶6. PM/DTCC will send to post either via fax or email copies 
+of the licenses' provisos as well as all serial numbers and 
+shipping information of the NVDs. 
+ 
+¶7. Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the case number in 
+the subject line.  POC is Judd Stitziel, PM/DTCC, Phone: 
+202-663-3455; e-mail: StitzielJD@state.gov; SIPRNET: 
+StitzielJD@state.sgov.gov.  The Blue Lantern Guidebook (ref) 
+is available as a PDF file in the Bunche Library's Electronic 
+Library collection on the DOS Intranet: 
+http://virtuallibrary.state.gov/ 
+BlueLanternGuidebook2006%2520 final .pdf 
+ 
+¶8. Department is grateful for post's assistance in this 
+matter. 
+RICE

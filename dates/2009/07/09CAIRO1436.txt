@@ -24,20 +24,117 @@ IGNORES UNDERLYING PROBLEMS
 REF:  A. CAIRO 1208 
  ¶B. CAIRO 2111 
  
-¶1. (U) Key Points Egyptian import inspectors rejected a large shipment of Russian wheat in May, raising fears over imported wheat quality and prompting the quarantine of several other wheat shipments. -- Inefficient import inspections and continued incentives to import substandard wheat contributed to the dispute but are unlikely to go away despite import regulations reforms. --------------------------------------------- -------- Disputed Russian Wheat Import Stokes Political Debate --------------------------------------------- --------
-
-2.(U) The dispute over imported wheat and its fallout in Egypt have brought back into focus the Government of Egypt's (GOE) problematic agricultural imports inspections regime and the political sensitivity of wheat imports. It began in May when XXXXXXXXXXXX alleged that a recent shipment of Russian wheat contained impurities above the allowable limit and had entered Egypt illegally. XXXXXXXXXXXX requested that the Ministry of Justice (MOJ) bar Russian wheat entirely and summon the responsible officials for questioning.
-
-3.(U) However, a dispute soon arose among agencies responsible for import inspections over whether the wheat shipment was actually substandard. Spokesmen from the General Organization for Export and Import Control (GOEIC) and the Ministry of Health (MOH) announced that their own inspections had approved the wheat for human consumption and therefore allowed the shipment into port. But the Director of Plant Quarantine, Ali Soliman, contradicted the GOEIC and MOH, claiming that the wheat shipment contained dead bugs, seeds and other impurities above the allowable limit, and that his agency had rejected the shipment accordingly. The MOJ sided with Soliman and ordered that the shipment continue to be quarantined. Around this time, the GOE seized several other shipments of not only Russian but also Ukrainian and Australian wheat.
-
-4.(U) Meanwhile, the Ministry of Trade and Industry launched an investigation into whether Egyptian Traders, a private company that imported the Russian wheat shipment for the Ministry's main commodities purchasing agency, the General Authority for Supply Commodities (GASC), had forged inspection papers. Although Egyptian Traders alleged that a Swiss cargo inspection firm, SGS, had certified the wheat shipment, SGS countered that the quality certificate that Egyptian Traders submitted had been falsified and denied having ever inspected the shipment.
-
-5.(U) In late June, Minister of Trade and Industry Rachid Mohamed Rachid announced new measures to improve import inspections and quality control. This may have been influenced by well-publicized deliberations in the Shura Council on wheat imports and calls from parliamentarians that the GOE toughen penalties for import violations. The new measures include requiring a state-issued inspection certificate, doubling the financial sureties deposited by cargo firms, and heightened penalties (reftel A). However, the usual process of tendering for wheat purchases by GASC would continue unchanged, and there was no mention of significantly modifying agricultural import inspection procedures. --------------------------------------------- -- Underlying Problems and Political Sensitivities --------------------------------------------- --
-
-6.(U) The dispute is rooted at least partially in Egypt's large and confusing import inspections bureaucracy. Four agencies, spread across as many ministries, are responsible for inspecting wheat imports: the Ministry of Agriculture's Central Administration of Plant Quarantine, the MOH, the Atomic Energy Authority, and the GOEIC, which is part of the Ministry of Trade and Industry. Each agency carries out different tests and none adhere to uniform standards. The Quarantine Administration tests for agricultural pests and foreign seeds, while the MOH checks for impurities that may affect human health. GOEIC, meanwhile, inspects the wheat for grade and quality, and the Atomic Energy Authority checks for traces of radioactive material.
-
-7.(SBU) Egypt's import inspection agencies routinely reject wheat shipments due to quality concerns. Such disputes usually receive scant media coverage, but a few occasionally turn into contentious political debates. In May 2007, for instance, the GOE quarantined a 62,000-ton shipment of US wheat after finding pests (reftel B). The story drew widespread and negative media attention in Egypt, and the Ministry of Trade of Industry bowed to political pressure and rejected the wheat, which was re-exported, according to Assistant Regional Director of US Wheat Shannon Schlecht. A similar incident occurred in December 2008, when parliamentarians claimed that wheat from Ukraine was substandard, and one oppositionist party member accused the Minister of Trade of illegally colluding with an importer.
-
-8.(SBU) Comment: The political sensitivity of wheat imports stems from Egypt's strategic reliance on cheap wheat from abroad for subsidized bread. The world's largest wheat importer, it imports around eight million tons annually, mostly from Russia. With 45% of the Egyptian population living on less than US$2 per day, subsidized bread, and the imported wheat that goes into it, are extremely sensitive political issues. In this environment, scares over wheat quality or potential shortages can quickly spiral into contentious disputes and leave import inspection authorities and other GOE officials vulnerable to public criticism and political pressure.
-
-9.(SBU) Comment Cont'd: Without better coordination and standardization of inspection regulations across the GOE, inter-government disputes over agricultural imports are likely to continue. Additionally, the lowest-bidder tendering process incentivizes private companies, which import wheat and other agricultural products on behalf of GASC, to attempt to import substandard products, overlooking quality concerns or forging inspection documents to attempt to slip substandard wheat past import inspectors. TUELLER
+¶1. (U) Key Points 
+ 
+-- Egyptian import inspectors rejected a large shipment of Russian 
+wheat in May, raising fears over imported wheat quality and 
+prompting the quarantine of several other wheat shipments. 
+ 
+-- Inefficient import inspections and continued incentives to import 
+substandard wheat contributed to the dispute but are unlikely to go 
+away despite import regulations reforms. 
+ 
+--------------------------------------------- -------- 
+Disputed Russian Wheat Import Stokes Political Debate 
+--------------------------------------------- -------- 
+ 
+¶2. (U) The dispute over imported wheat and its fallout in Egypt have 
+brought back into focus the Government of Egypt's (GOE) problematic 
+agricultural imports inspections regime and the political 
+sensitivity of wheat imports. It began in May when an independent 
+parliamentarian, Mustafa Bakri, alleged that a recent shipment of 
+Russian wheat contained impurities above the allowable limit and had 
+entered Egypt illegally. Bakri requested that the Ministry of 
+Justice (MOJ) bar Russian wheat entirely and summon the responsible 
+officials for questioning. 
+ 
+¶3. (U) However, a dispute soon arose among agencies responsible for 
+import inspections over whether the wheat shipment was actually 
+substandard. Spokesmen from the General Organization for Export and 
+Import Control (GOEIC) and the Ministry of Health (MOH) announced 
+that their own inspections had approved the wheat for human 
+consumption and therefore allowed the shipment into port. But the 
+Director of Plant Quarantine, Ali Soliman, contradicted the GOEIC 
+and MOH, claiming that the wheat shipment contained dead bugs, seeds 
+and other impurities above the allowable limit, and that his agency 
+had rejected the shipment accordingly. The MOJ sided with Soliman 
+and ordered that the shipment continue to be quarantined. Around 
+this time, the GOE seized several other shipments of not only 
+Russian but also Ukrainian and Australian wheat. 
+ 
+¶4. (U) Meanwhile, the Ministry of Trade and Industry launched an 
+investigation into whether Egyptian Traders, a private company that 
+imported the Russian wheat shipment for the Ministry's main 
+commodities purchasing agency, the General Authority for Supply 
+Commodities (GASC), had forged inspection papers. Although Egyptian 
+Traders alleged that a Swiss cargo inspection firm, SGS, had 
+certified the wheat shipment, SGS countered that the quality 
+certificate that Egyptian Traders submitted had been falsified and 
+denied having ever inspected the shipment. 
+ 
+¶5. (U) In late June, Minister of Trade and Industry Rachid Mohamed 
+Rachid announced new measures to improve import inspections and 
+quality control. This may have been influenced by well-publicized 
+deliberations in the Shura Council on wheat imports and calls from 
+parliamentarians that the GOE toughen penalties for import 
+violations. The new measures include requiring a state-issued 
+inspection certificate, doubling the financial sureties deposited by 
+cargo firms, and heightened penalties (reftel A). However, the usual 
+process of tendering for wheat purchases by GASC would continue 
+unchanged, and there was no mention of significantly modifying 
+agricultural import inspection procedures. 
+ 
+--------------------------------------------- -- 
+Underlying Problems and Political Sensitivities 
+--------------------------------------------- -- 
+ 
+¶6. (U) The dispute is rooted at least partially in Egypt's large and 
+confusing import inspections bureaucracy. Four agencies, spread 
+across as many ministries, are responsible for inspecting wheat 
+imports: the Ministry of Agriculture's Central Administration of 
+Plant Quarantine, the MOH, the Atomic Energy Authority, and the 
+GOEIC, which is part of the Ministry of Trade and Industry. Each 
+agency carries out different tests and none adhere to uniform 
+standards. The Quarantine Administration tests for agricultural 
+pests and foreign seeds, while the MOH checks for impurities that 
+may affect human health. GOEIC, meanwhile, inspects the wheat for 
+grade and quality, and the Atomic Energy Authority checks for traces 
+of radioactive material. 
+ 
+¶7. (SBU) Egypt's import inspection agencies routinely reject wheat 
+shipments due to quality concerns. Such disputes usually receive 
+scant media coverage, but a few occasionally turn into contentious 
+political debates. In May 2007, for instance, the GOE quarantined a 
+62,000-ton shipment of US wheat after finding pests (reftel B). The 
+story drew widespread and negative media attention in Egypt, and the 
+Ministry of Trade of Industry bowed to political pressure and 
+rejected the wheat, which was re-exported, according to Assistant 
+Regional Director of US Wheat Shannon Schlecht. A similar incident 
+occurred in December 2008, when parliamentarians claimed that wheat 
+from Ukraine was substandard, and one oppositionist party member 
+ 
+accused the Minister of Trade of illegally colluding with an 
+importer. 
+ 
+¶8. (SBU) Comment: The political sensitivity of wheat imports stems 
+from Egypt's strategic reliance on cheap wheat from abroad for 
+subsidized bread. The world's largest wheat importer, it imports 
+around eight million tons annually, mostly from Russia. With 45% of 
+the Egyptian population living on less than US$2 per day, subsidized 
+bread, and the imported wheat that goes into it, are extremely 
+sensitive political issues. In this environment, scares over wheat 
+quality or potential shortages can quickly spiral into contentious 
+disputes and leave import inspection authorities and other GOE 
+officials vulnerable to public criticism and political pressure. 
+ 
+¶9. (SBU) Comment Cont'd: Without better coordination and 
+standardization of inspection regulations across the GOE, 
+inter-government disputes over agricultural imports are likely to 
+continue. Additionally, the lowest-bidder tendering process 
+incentivizes private companies, which import wheat and other 
+agricultural products on behalf of GASC, to attempt to import 
+substandard products, overlooking quality concerns or forging 
+inspection documents to attempt to slip substandard wheat past 
+import inspectors. 
+ 
+TUELLER

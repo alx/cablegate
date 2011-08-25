@@ -1,0 +1,216 @@
+09BAGHDAD2301
+SECURITY ISSUES, NOT RAMADAN, CORRELATES WITH
+Wed Aug 26 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Baghdad
+VZCZCXRO1624
+RR RUEHBC RUEHDA RUEHDE RUEHDH RUEHIHL RUEHKUK
+DE RUEHGB #2301/01 2381429
+ZNR UUUUU ZZH
+R 261429Z AUG 09
+FM AMEMBASSY BAGHDAD
+TO RUEHC/SECSTATE WASHDC 4463
+INFO RUCNRAQ/IRAQ COLLECTIVE
+RHEHNSC/NSC WASHDCUNCLAS SECTION 01 OF 03 BAGHDAD 002301 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+ 
+AIDAC 
+ 
+STATE FOR NEA/I/ECON AND EEB/IFD/OMA 
+ 
+E.O.12958: N/A 
+TAGS: ECON EFIN EAID IZ
+SUBJECT: SECURITY ISSUES, NOT RAMADAN, CORRELATES WITH 
+         INFLATION IN IRAQ 
+ 
+¶1. (SBU) SUMMARY: In Iraq, as in other Middle Eastern countries, 
+economic activity increases during Ramadan as families buy more 
+traditional foodstuffs and gifts for Iftar dinners.  Despite 
+this increased demand for goods (and reports of price-gouging), 
+our analysis of Iraq's Consumer Price Index (CPI) from 2003-2008 
+shows no systematic increase in inflation during the Ramadan 
+period.  Instead, price inflation appears strongly correlated 
+with security concerns.  END SUMMARY. 
+ 
+ANECDOTAL SIGNS THAT PRICES RISE DURING RAMADAN 
+--------------------------------------------- -- 
+ 
+ 
+¶2. (U) Embassy Baghdad's local staff and many of our Iraqi 
+counterparts complain that prices of goods families typically 
+buy for Ramadan - meat, candy, tea, lentils, and small toys for 
+children - rise with the approach of the holy Islamic period. 
+Religious leaders have used their sermons to denounce the 
+attempt of some "unscrupulous" merchants to "exploit this 
+month in order to crush the poor by increasing prices."  Press 
+editorials have accused Trade Ministry officials of "colluding 
+with the merchants to allow them to control prices."  This 
+alleged seasonal inflation is a popular topic of conversation 
+in Iraq, but recent empirical evidence does not support the 
+accusations. 
+ 
+THE CPI DOES NOT SHOW SEASONAL INFLATION 
+---------------------------------------- 
+ 
+¶3. (U) The GOI Central Office for Statistics and Information 
+Technology (COSIT) publishes the monthly Consumer Price Index 
+(CPI) for Iraq.  Using this data (available at 
+http://cosit.gov.iq/english), ECON analyzed the annualized 
+average month-on-month core inflation during Ramadan and the 
+rest of the year for each of the past six years (2003-2008). 
+(NOTE: We specifically used just "core" inflation, which omits 
+globally volatile fuel, energy, transportation, and 
+communication prices to better isolate the local in-country 
+effects of Ramadan on prices, especially food prices.  END 
+NOTE.)  Our comparison shows that there appears to be no 
+systematic increase in inflation during the Ramadan period. 
+ 
+CORE INFLATION (AVERAGE ANNUALIZED % Month-On-Month) 
+ 
+Year   NOT Ramadan  Ramadan  Difference 
+ 
+2003      10.4        4.6      -5.8 
+2004       2.8        4.0       1.2 
+2005       2.2        3.2       1.0 
+2006       2.3        1.4      -0.9 
+2007       1.0        1.5       0.5 
+2008       0.9        2.9       2.0 
+ 
+¶4. (U) The chart above shows that in two of the past six years 
+(2003 and 2006), prices actually decreased during Ramadan.  In 
+2004, 2005, and 2007, we believe that the small percentage point 
+differences of 1.2, 1.0, 0.5 are statistically insignificant. 
+The difference of 2.0 percentage points in 2008 is likely 
+attributable to the significant increases in global food prices, 
+and should not be interpreted as indicative of seasonal Ramadan 
+inflation alone.  (In September 2008, Iraq food prices increased 
+6.1 percent month-on-month and 14 percent year-on-year.  Global 
+food prices, according to the United Nations, hit an all-time 
+high in June 2008 and did not recover to pre-crisis levels until 
+the beginning of 2009.) 
+ 
+PERHAPS THE CPI IS FLAWED 
+------------------------- 
+ 
+¶5. (U) Even if the historical CPI data do not reflect a seasonal 
+uptick in prices during Ramadan, why do more than 25 million 
+Iraqi consumers believe that they are paying more for their 
+Ramadan purchases?  If consumers are indeed paying higher prices, 
+one possible explanation is that COSIT uses a flawed basket of 
+goods to calculate the inflation rate.  COSIT's basket of goods 
+Qgoods to calculate the inflation rate.  COSIT's basket of goods 
+is based on a 1993 household survey that may no longer reflect 
+the consumer behavior of the typical Iraqi household.  For 
+instance, since 1993, Iraqis have started spending significant 
+portions of their income on televisions and mobile phones. 
+Also, many families have migrated from farms to the cities and 
+no longer grow food for their own consumption.  COSIT conducted 
+a comprehensive Iraq Household Socio-Economic Survey in 2007 
+from which it intends to develop a new, updated CPI basket. 
+ 
+FOOD DISTRIBUTION MEANS FEWER GOODS BOUGHT 
+ 
+BAGHDAD 00002301  002 OF 003 
+ 
+ 
+------------------------------------------ 
+ 
+¶6. (U) Another complication is that 70 percent of Iraqi families 
+receive monthly food baskets -- including flour, sugar, rice, 
+cooking oil, and soap -- through the GOI's Public Distribution 
+System (PDS).  (In past years, the Ramadan basket also included 
+tea and lentils, key staples during this period.)  The fact that 
+consumers receive many of these goods for free mitigates the 
+effect of traditional supply and demand and the (alleged) 
+price-gouging found elsewhere in the Middle East during Ramadan. 
+In an effort control budget expenditures and pressure from the 
+International Monetary Fund, the GOI may look to reduce the PDS 
+over the coming year.  If so, we may see more (expected) 
+inflation during the Ramadan season. 
+ 
+SECURITY HAS STRONGEST EFFECT ON PRICES 
+--------------------------------------- 
+ 
+¶7. (U) Our analysis indicates that security concerns in Iraq have 
+a very strong effect on overall prices.  Hoarding of goods, 
+shortages due to transportation difficulties, citizens' fear 
+of attack as they walk in the streets, and anxiety over bombs 
+in market areas all affect consumer behavior in ways that 
+ultimately lead to higher prices.  Because security concerns 
+may be impossible to quantify, a good proxy is mortality, measured 
+by the average number of Iraqi violent civilian deaths per day. 
+As it is a proxy, mortality can be seen as a strong correlating 
+variable in the analysis rather than a direct causative factor on 
+price inflation. 
+ 
+AVERAGE NUMBER OF IRAQI CIVILIAN DEATHS/DAY 
+ 
+Year   NOT Ramadan  Ramadan  Difference 
+ 
+2003       32         16       -17 
+2004       21         48        27 
+2005       34         34         0 
+2006       69         88        19 
+2007       64         38       -25 
+2008       2          17        -5 
+ 
+¶8. (U) According to this data from the Iraq Body Count website 
+(http://www.iraqbodycount.org) on Iraqi civilian deaths, one 
+cannot immediately say that Iraq is either more or less "secure" 
+during Ramadan.  [NOTE: While not GOI official information, 
+IraqBodyCount.org is widely used as the source of data for 
+civilian casualties due to its consistent reporting and 
+documentation.  END 
+ 
+(NOTE.)  In 2003, 2007, and 2008, average daily deaths 
+decreased during Ramadan, while in 2004 and 2006 they 
+increased substantially during the holiday period.  But, 
+when one analyzes headline inflation over time alongside 
+our mortality proxy for insecurity, the results are surprisingly 
+strong.  [NOTE: We use "headline" inflation here because it 
+includes the volatile sectors of fuel, energy, transportation, 
+and communication, which are particularly affected by acts of 
+terrorism.  END NOTE.) 
+ 
+¶9. (U) Since mid-2004, the graphs for Iraqi civilian deaths and 
+monthly year-on-year percentage changes in headline inflation 
+over time track each other closely.  [NOTE: The graphs of our 
+analysis are available on Embassy Baghdad's intranet homepage 
+at: http://baghdad.state.gov/ sites/ECON/Inflation%20Graphs/ 
+Forms/AllItems.aspx  END NOTE.]  Of particular interest is the 
+period since July and August 2006, when violent deaths and 
+inflation peaked, respectively.  We have calculated a .88 
+correlation (very strong) between the two since their decline 
+from that peak.  If a one-month lag period is factored in 
+(assuming that one month's insecurity will not show up until 
+next month's price index), the correlation is even higher: .93. 
+Such a high correlation suggests that security concerns - as 
+measured by violent civilian deaths - in one month appears to 
+Qmeasured by violent civilian deaths - in one month appears to 
+drive up prices over the next month.  Also, according to our 
+analysis, when civilian deaths decline, inflation generally 
+decreases shortly thereafter. 
+ 
+COMMENT 
+------- 
+ 
+¶10. (SBU) As the CPI model gets updated, the GOI cuts its 
+food distribution to all but the truly poor, and the security 
+situation improves over time, we may see empirical evidence of 
+price inflation during Ramadan as in other Middle Eastern 
+countries.   Right now, however, security concerns (or 
+ 
+BAGHDAD 00002301  003 OF 003 
+ 
+ 
+insecurity proxied by violent civilian deaths) is a statistically 
+stronger factor than Ramadan as an indicator of price inflation 
+overall.  Given the tragic August 19 bombings in Baghdad that 
+killed more than 100 people, we would expect inflation during 
+Ramadan 2009 to increase due to fear affecting consumer 
+behavior. 
+ 
+FORD

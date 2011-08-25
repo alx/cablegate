@@ -1,0 +1,81 @@
+03AMMAN1882
+TFIZ01: VENTING ON THE WEB: JORDAN INTERNET USE
+Sun Mar 30 00:00:00 +0100 2003
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Amman
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS AMMAN 001882 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+USDOC FOR 4520/ITA/MAC/ONE/COBERG 
+TREASURY FOR MILLS, CHANG 
+TDA FOR SIGLER 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ECPS PREL KPAO IZ JO
+SUBJECT: TFIZ01: VENTING ON THE WEB: JORDAN INTERNET USE 
+SURGES 
+ 
+ 
+¶1.  (SBU) SUMMARY: The two major Internet providers in Jordan 
+report a sharp upsurge in Internet use, particularly email 
+traffic, over the past week.  Technical support managers said 
+that sophisticated software is allowing users to access and 
+download inflammatory TV news reports, which are then given 
+broad circulation via email.  Despite an increase in traffic 
+that has at times reached 95% of capacity, providers report 
+no problems providing uninterrupted service.  END SUMMARY 
+ 
+¶2.  (SBU)  Hamed Ghamam, Technical Support Director for 
+Cyberia, Jordan's largest internet provider, told us March 27 
+that Internet use had surged since the conflict with Iraq 
+began one week ago.  He said that while most users accessed 
+the Web to check on the news throughout the day, there has 
+been an unusually high increase in email traffic.  Ghamam 
+said that he was now receiving 50 emails per day, up from 20 
+as recently as last week.  Judging by the content of emails 
+he has received lately from contacts around the region, 
+senders have become more sophisticated in their ability to 
+download television news programs and "rebroadcast" them to 
+friends and family.  He said the messages he has received 
+feature footage from Al Jazeera or Iraqi TV, showing 
+particularly incendiary clips.  Ghamam said that the tone of 
+the mail has been "extremely angry and growing moreso day by 
+day."  He added that he has also seen an increase in 
+individual calls for a boycott of American and British goods, 
+but stressed that "there is no organized character to it as 
+of yet." 
+ 
+¶3.  (SBU) Likewise, Adel Uzaizi, Technical Support Manager 
+for Batelco (the other leading ISP), said that his company 
+has also seen a recent increase in traffic.  He said that 
+many subscribers take advantage of Internet access at work to 
+read the news and send emails in reaction.  He broadly echoed 
+Ghamam's comments, and said that there was "lots of anger out 
+there and this is the only way some people can vent."  Uzaizi 
+said that it was relatively easy, if one had the right 
+software, which is easily obtainable, to pull newscasts right 
+of the Internet and send them around.  Uzaizi said, too, that 
+mobile text messaging was being utilized the same way. 
+ 
+¶4.  (SBU) Both managers said their networks can easily handle 
+the traffic, although Ghamam said that at peak times, from 
+8:30 a.m. to 5:30 p.m. during the week, Cyberia had reached 
+95% of its capacity, up from 80% one week ago, with no 
+problems.  He said that levels of use are lowest on Friday 
+and rise a bit on Saturday.  Uzaizi said that Hashem One, the 
+main link for the Internet in Jordan, is maintained by Jordan 
+Telecom, and "has been pretty dependable" throughout busy 
+times, such as the Eid holiday and Ramadam. 
+ 
+¶5.  (SBU) COMMENT: As long as the war goes on, and probably 
+after, Jordanians will use the Internet to vent their 
+feelings and share news and opinions.  Unless it is used to 
+organize and incite violence, this medium is probably 
+perceived by the Government of Jordan as a tolerable, and 
+preferable, way for people to let off steam.  We know of only 
+one U.S.-based, Arabic website, www.arabnews.com, that 
+appears to be blocked by the GOJ for political content. 
+GNEHM

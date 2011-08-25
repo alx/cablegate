@@ -1,0 +1,172 @@
+09TUNIS371
+TUNISIA'S IT SECTOR GROWING, BUT SOME CHALLENGES
+Tue Jun 16 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Tunis
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHTU #0371/01 1671239
+ZNR UUUUU ZZH
+P 161239Z JUN 09 ZDK
+FM AMEMBASSY TUNIS
+TO RUEHC/SECSTATE WASHDC PRIORITY 6372
+INFO RUCNMGH/MAGHREB COLLECTIVE PRIORITYUNCLAS TUNIS 000371 
+ 
+SIPDIS 
+ 
+STATE FOR EEB/IFD/OMA, EEB/EPPD, AND NEA/MAG 
+(PATTERSON/HAYES) 
+STATE PASS USTR (BURKHEAD) AND USAID (MCCLOUD) 
+USDOC FOR ITA/MAC/ONE (MASON), ADVOCACY CTR (TABINE), AND 
+CLDP (TEJTEL AND MCMANUS) 
+USDOC PASS USPTO (ADAMS, BROWN AND MARSHALL) 
+CASABLANCA FOR FCS (ORTIZ) 
+RABAT FOR FAS (HASSAN) 
+CAIRO FOR FINANCIAL ATTACHE (SEVERENS) 
+LONDON AND PARIS FOR NEA WATCHER 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN ETRD ETTC FAO EINV TS
+SUBJECT: TUNISIA'S IT SECTOR GROWING, BUT SOME CHALLENGES 
+REMAIN 
+ 
+REF: STATE 27310 
+ 
+------- 
+Summary 
+------- 
+ 
+¶1.  Tunisia's Ministry of Communications recently announced 
+that the IT sector grew 17.8 percent from 2008 to 2009, 
+contributing 10 percent of GDP and poised to create over 
+10,000 jobs per year.  In the face of the economic crisis, 
+this sector continues to grow.  Already, mobile telephone 
+penetration rates are among the highest in the region.  The 
+GOT has plans for liberalization in telephony, and is due to 
+announce the winner of a 2008 tender for a third mobile 
+provider (which will also provide landline service) in the 
+coming months.  Regarding the Internet, however, restrictions 
+on the number of service providers and GOT censorship of 
+content remain barriers to expansion.  The GOT does have 
+ambitious plans to increase the reach of the Internet in 
+Tunisia, especially to poorer regions.  End Summary. 
+ 
+--------------------------------------------- ----------- 
+Telephony: High Penetration, Liberalization in the Works 
+--------------------------------------------- ----------- 
+ 
+¶2.  As of March 2009, there were 9.84 million subscribers to 
+mobile and fixed telephone lines in Tunisia.  As of February 
+2009, the fixed and mobile telephone density reached 94.6 
+lines per 100 inhabitants.  Mobile telephony has seen the 
+largest boom of all IT capabilities in recent years.  After 
+the GOT enacted some important reforms in 2001, the number of 
+mobile phones went up from 400,000 to more than six million 
+in four years.  The penetration rate surpassed that of fixed 
+telephony as early as 2003.  By June 2006, the penetration 
+rate of mobile phones had reached 62 percent.  Today, the 
+total number of subscribers to mobile services is 8.59 
+million.  (Tunisia's population is just over 10 million.) 
+This amounts to a penetration rate of over 93 percent -- one 
+of the highest on the African continent. 
+ 
+¶3. There are currently two providers for mobile telephony: 
+Tunisiana and Tunisie Telecom.  Tunisiana's ownership is 
+shared between Qatar Telecom (whose shares were purchased 
+from one of the original tender winners, Kuwait's Wataniyya 
+Telecom) and Egypt's Orascom Telecom.  Tunisie Telecom, the 
+state communications agency that currently controls all fixed 
+lines, was partially privatized in 2006, when 35 percent of 
+its capital was sold to a Dubai-based consortium.  Current 
+market share for mobile telephones is split evenly between 
+the two companies.  In December 2008, the GOT released an 
+international tender to award a third telecom license for 
+fixed and third-generation (3G) mobile telecommunications 
+networks and services.  No U.S. companies have bid for the 
+license, and the decision on the winner is expected in the 
+coming months. 
+ 
+--------------------------------------------- --- 
+Internet: Users Increasing, but so is Censorship 
+--------------------------------------------- --- 
+ 
+¶4.  As of August 2008, there were 2.3 million internet users 
+in Tunisia, but only about 365,000 subscribers.  Recent 
+numbers provided by the Ministry of Communications (MOC) 
+place the number of users at 2.8 million by the end of 2008. 
+The MOC also announced ADSL (Asymmetric Digital Subscriber 
+Line) connections are expected to reach 400,000 by the end of 
+2009, up from 212,639 currently. 
+ 
+¶5.  Over 300 universities and research centers have ADSL, as 
+well as 1,600 companies and 300 industrial and administrative 
+zones.  According to a local media report, 420 offshore 
+logistics and call centers use high speed Internet. 
+Geographically, an increasing number of towns and regions are 
+connected to broadband -- although the interior of the 
+country is behind the coastal areas in this regard.  The 
+number of computers in Tunisia rose 30 percent from 767,600 
+units in 2007, to 997,000 units at the end of 2008, according 
+to the GOT.  The number of Tunisian-registered websites also 
+increased 12 percent, from 5,796 in 2007 to 6,467 by December 
+¶2008. 
+ 
+¶6.  Government restrictions and censorship pose a challenge 
+to this sector.  There are only five private Internet service 
+providers (ISPs) licensed by the GOT, and they can only 
+provide service via the state Tunisian Internet Agency (ATI). 
+ This agency frequently blocks access to sites it considers 
+dangerous to national security, damaging to moral values or 
+critical of the government.  This includes sites whose 
+content is considered critical of GOT policies, including 
+international human rights groups Amnesty International and 
+Human Rights Watch as well as YouTube. 
+ 
+------------------------------ 
+GOT Forecasts IT Sector Growth 
+------------------------------ 
+ 
+¶7. Telecom's contribution to GDP has been steadily growing in 
+the last two decades.  According to the World Bank, the share 
+of telecom in GDP tripled in 15 years, from 1.3 percent in 
+1990 to 4.3 percent in 2005.  Today, the GOT says the IT 
+sector grew 17.8 percent year-on-year from 2008, and has gone 
+from contributing 9 percent of GDP in 2007 to 10 percent in 
+¶2008.  Minister of Communications El Hadj Gley said the 
+sector's contribution to GDP was expected to grow to 13 
+percent in 2011 and that he expected 10,000 new IT-related 
+jobs each year. 
+ 
+¶8. In 2008, the Ministry of Communications unveiled a series 
+of goals and upcoming projects, including an e-mail address 
+for each citizen and one million computers by 2009.  It also 
+outlined the goal of one public internet service center in 
+each village by the end of 2009 and free hosting for 
+associations creating national cultural, educational, and 
+scientific content.  On some of these goals, such as the 
+number of computers, Tunisia has come close (see Para 5). 
+ 
+------- 
+Comment 
+------- 
+ 
+¶9.  Undoubtedly, IT is one of the sectors of the Tunisian 
+economy that has enjoyed steady growth over the last decades. 
+ High rates of telephone penetration and increasing internet 
+connectivity have contributed to overall economic growth. 
+Since the sector is mostly driven by domestic demand (versus 
+European demand in the export sectors), the economic crisis 
+has not had the same negative effects on IT.  However, other 
+stumbling blocks remain.  Although the sector is growing, 
+many businesses and individuals still complain of problems in 
+service, especially during summer months and peak hours.  In 
+fact, the Tunisian-American Chamber of Commerce's 2008 
+Business Survey cited internet connectivity problems as one 
+of the barriers to doing business in Tunisia.  State control 
+of internet content and ISPs not only curbs development of 
+the sector, but significantly limits freedom of expression. 
+The issuance of a new tender for telephony and the push for 
+higher internet penetration, at least, are moves in the right 
+direction.  End Comment. 
+Godec

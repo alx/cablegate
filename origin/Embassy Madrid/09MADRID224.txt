@@ -1,0 +1,541 @@
+09MADRID224
+SPECIAL 301 REVIEW: SPAIN
+Mon Mar 02 00:00:00 +0100 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Madrid
+VZCZCXRO6837
+RR RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV RUEHSR
+DE RUEHMD #0224/01 0611432
+ZNR UUUUU ZZH
+R 021432Z MAR 09
+FM AMEMBASSY MADRID
+TO RUEHC/SECSTATE WASHDC 0316
+INFO RUCNMEM/EU MEMBER STATES COLLECTIVE
+RUEHLA/AMCONSUL BARCELONA 3870
+RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS SECTION 01 OF 06 MADRID 000224 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EUR/WE AND EEB/TPP/IPE 
+STATE PASS USTR FOR JGROVES AND DWEINER 
+STATE PASS U.S. COPYRIGHT OFFICE 
+USDOC FOR 4212/DCALVERT 
+USDOC ALSO FOR PTO 
+ 
+E.O. 12958: N/A 
+TAGS: KIPR ETRD ECON SP
+SUBJECT: SPECIAL 301 REVIEW: SPAIN 
+ 
+REF: A. STATE 08410 
+     ¶B. 08 MADRID 1351 
+     ¶C. 08 MADRID 1346 
+     ¶D. 08 MADRID 1318 
+     ¶E. 08 MADRID 1257 
+     ¶F. 08 MADRID 1194 
+     ¶G. 08 MADRID 1150 AND PREVIOUS 
+     ¶H. 08 STATE 45107 
+ 
+MADRID 00000224  001.2 OF 006 
+ 
+ 
+SENSITIVE BUT UNCLASSIFIED - PLEASE PROTECT ACCORDINGLY 
+ 
+SUMMARY AND RECOMMENDATION 
+ 
+¶1.  (SBU) Spain was placed on the Special 301 Watch List in 
+April 2008 primarily due to the government's failure to take 
+specific, concrete measures to address a growing Internet 
+piracy problem.  One year later, Internet piracy continues to 
+grow.  The government is attempting to address the problem in 
+several ways - most notably by pressing for results in 
+negotiations between Internet Service Providers (ISPs) and 
+rights-holders on measures to prevent unauthorized downloads. 
+ Because it does not want to take potentially controversial 
+action without the agreement of both parties, the government 
+has not yet initiated any legislative or regulatory measures 
+to combat digital piracy, pending the conclusion of 
+negotiations.  The government has taken a number of other 
+steps to discourage piracy and raise public awareness.  In 
+November 2008, the Minister of Culture introduced the 
+government's third anti-piracy public awareness campaign in 
+the past four years.  In the same month, the Ministry of 
+Industry, Tourism, and Trade hosted its second annual 
+conference on IPR in the digital environment, which featured 
+a USG speaker.  Rights-holder groups praised the release by a 
+GOS inter-agency group of an IPR good practices manual that 
+includes guidance on investigating and prosecuting IPR 
+crimes.  Notably, the manual emphasizes that unauthorized 
+peer-to-peer (P2P) downloads are always illegal. 
+ 
+¶2.  (SBU) The government is not investigating or prosecuting 
+cases of file-sharing or P2P downloading, due in large part 
+to the 2006 Circular of the Fiscalia (Prosecutor General's 
+Office) stating that such activity should not be subject to 
+criminal prosecution but rather treated as a civil violation. 
+ In civil proceedings, investigators are unable to obtain 
+identifying information from ISPs, making the civil route 
+unproductive; the government may seek to address this problem 
+once negotiations are completed.  Post is not aware of any 
+efforts by the government to modify the Circular despite our 
+efforts.  Separately, the Business Software Alliance reports 
+strong cooperation on the part of the GOS, and Microsoft says 
+software piracy levels declined in 2008.  Rights-holders 
+praise the ongoing work of the National Police and Civil 
+Guard in combating street piracy at the national level but 
+note that Internet piracy is now a more important problem. 
+Separately, police actions against informal street sellers 
+have come under growing public criticism, and a movement to 
+decriminalize such street sales has garnered media and 
+Congressional attention. 
+ 
+¶3.  (SBU) Recommendation: As described above, the GOS is 
+acting against piracy in a number of significant ways. 
+However, most observers agree that Internet piracy will 
+continue to flourish until the ISPs and the GOS agree to 
+regulatory and possibly legislative actions.  Post believes 
+the private-sector negotiations will eventually produce an 
+agreement that the government will then assist in 
+implementing, but it is not clear whether this will happen in 
+the next few months.  For this reason, post recommends 
+keeping Spain on the Watch List.  End Summary and 
+Recommendation. 
+ 
+¶4.  (SBU) Intellectual property rights policy in Spain is the 
+province of the Ministry of Industry, Tourism, and Trade and 
+the Ministry of Culture.  The Ministry of Interior (which 
+oversees the National Police and Civil Guard) and the 
+Ministry of Justice (of which the Fiscalia is an independent 
+branch) are responsible for enforcement.  Within the Ministry 
+of Industry, Tourism, and Trade, the Office of Patents and 
+Trademarks manages industrial property issues and receives 
+high marks from industry representatives for its 
+professionalism.  The Ministry of Culture has the lead on 
+copyright issues in tandem with the Ministry of Industry, 
+Tourism, and Trade's Secretariat of State for 
+Telecommunications and the Information Society.  The Minister 
+ 
+MADRID 00000224  002.2 OF 006 
+ 
+ 
+of Culture chairs an Inter-Sectoral Committee created in 2005 
+to implement the national anti-piracy plan and has been 
+perhaps the most visible public figure speaking in defense of 
+improving Spain's IPR enforcement.  Rights-holders give the 
+Ministry of Culture credit for his understanding of the 
+problem and strong desire to fix it, but lament the 
+Ministry's lack of resources and clout.    The government has 
+not centralized coordination of the fight against Internet 
+piracy; however, a lack of coordination is less an issue than 
+deficiencies in the legal regime. 
+ 
+INTERNET PIRACY - GOVERNMENT PUSHES PRIVATE SECTOR 
+NEGOTIATIONS 
+ 
+¶5.  (SBU) At the urging of the Ministry of Industry, Tourism, 
+and Trade, Redtel, the association comprising Spain's four 
+largest ISPs (Telefonica, Orange, Vodaphone, Ono), began in 
+May 2008 to meet with the Anti-Piracy Coalition, which 
+represents the film, music, and video games industries and 
+copyright management societies, to discuss ways to combat 
+internet piracy.  After extensive discussions and exchanges 
+of information, it was not until late September that Redtel 
+made its initial proposal for the creation of a new 
+government commisssion to hear complaints of digital 
+copyright infringement and send notifications to alleged 
+violators.  Content providers deemed Redtel's proposal 
+problematic in various respects - cumbersome, potentially 
+unworkable, not far-reaching enough - and had concerns as 
+well about the cost burdens, but accepted it as a basis for 
+further discussions.  The parties have continued to meet, and 
+all agree the talks are serious and are advancing, albeit 
+slowly and with occasional steps back.  The Minister of 
+Industry, Tourism, and Trade, Miguel Sebastian, called for 
+the parties to present to the government by December 31 a 
+document listing their areas of agreement and disagreement, 
+but they failed to meet this deadline.  The new target date 
+is the first week of March, at which time the government 
+hopes to make a public announcement. 
+ 
+¶6.  (SBU) Rights-holders groups advise that any decision 
+reached by that date will be general in nature, with many 
+details remaining to be worked out.  The two sides and their 
+lawyers are reportedly far apart on the legal measures that 
+will be required to implement any such agreement, with the 
+content providers arguing that a Ministerial decree may be 
+sufficient while the ISPs have suggested that four or five 
+laws may need to be amended, a process that would take at 
+least two years and probably longer.  Progress on adopting a 
+framework to make some content legally available online has 
+been mixed, with the Redtel pushing hard for access to more 
+music and especially films than the rights-holders are 
+prepared to make available.  While rights-holders frequently 
+complain about the slow pace of negotiations and about 
+Redtel's tactics, and several have at one time or another 
+threatened to pull out, the parties appear interested in 
+reaching agreement, though the early March deadline may be 
+unrealistic.  The GOS would prefer that the two sides reach 
+agreement on as many aspects as possible, and one official 
+has privately expressed concern that they may put forward two 
+different proposals, requiring the government to act as 
+broker. 
+ 
+¶7.  (SBU) It should be noted that differing priorities and 
+interests among the rights-holders' groups that comprise the 
+Coalition have complicated the negotiations.  The music and 
+film industries, for example, are at odds over Redtel's 
+insistence that penalties for repeat offenders will not 
+include suspension or cancellation of Internet services.  The 
+Music Producers of Spain contend that the threat to cut off 
+repeat violators must be an option, even if rarely exercised, 
+for the system to work.  The Motion Picture Association and 
+its local allies believe there are alternative sanctions, 
+such as a significant reduction in bandwidth, that would be 
+sufficient to deter recidivists. 
+ 
+¶8.  (SBU) The government, for its part, has pushed the 
+parties to continue to negotiate and has promised to assist 
+in implementing any agreement once the parties agree on what 
+regulatory/legislative changes are needed.  It remains 
+reluctant to propose any legislative or regulatory measures 
+that are not fully supported by the private sector, believing 
+that any such initiatives would be unpopular and unlikely to 
+succeed.  As a result, several legal obstacles to effective 
+IPR protection that the USG has urged the government to 
+ 
+MADRID 00000224  003.2 OF 006 
+ 
+ 
+modify - e.g., the "actual knowledge" standard for ISP 
+liability, the prohibition against identifying alleged 
+infringers in the context of civil litigation - remain in 
+place.  The government says it has prepared a number of 
+possible legislative proposals, depending on what service 
+providers and rights-holders agree to.  The government, like 
+most rights-holders, is hopeful that relatively few, modest 
+legal changes may be sufficient. 
+ 
+¶9.  (SBU) Industry figures show that between July 2007 and 
+June 2008, there were 1.9 billion music downloads, of which 4 
+percent were from legal, paid services, and 250,000 film 
+downloads, of which 2 percent were legal and paid,  Cynics 
+among the rights-holders assert that the government's posture 
+actually gives the ISPs an incentive to negotiate slowly, 
+since an agreement could trigger government actions that the 
+service providers would prefer to delay as long as possible. 
+In pushing the parties to reach agreement, the government has 
+threatened to impose its own solution if negotiations fail 
+but is clearly reluctant to take such a step, and the parties 
+know it.  The government, all agree, wants Telefonica and the 
+other telecommunications companies that own the ISPs to 
+voluntarily make some concessions - especially, to agree to a 
+graduated response regime modeled on some combination of 
+British and French approaches to the problem - in order to 
+spare the government from having to take politically 
+unpopular measures unilaterally.  However, the ISPs, eager to 
+avoid customer resentment, stress that they will do whatever 
+government requires through law or regulation, but only 
+because they are required to do so.  Telefonica, as part of 
+its corporate social responsibility programs, participates in 
+a prominent anti-piracy public education campaign.  However, 
+a company spokesperson recently told mass circulation daily 
+El Pais that Telefonica is "neither judge nor party" in the 
+controversy over file-sharing and P2P downloads and that it 
+"will do whatever our regulator says when a decision is made" 
+but is otherwise totally neutral on Internet piracy questions. 
+ 
+SIGNS OF LEGISLATIVE SUPPORT 
+ 
+¶10.  (U) On November 5, the Congress of Deputies issued a 
+non-binding resolution urging the government to "promote an 
+effective strategy, approved by consensus, to fight 
+activities in the digital environment that violate 
+intellectual property rights, based on agreement among all 
+sectors involved: the content industry, internet operators, 
+consumers, and users."  The government was not involved in 
+the development of this resolution, but took it as a positive 
+sign that, once the private parties agree on a way forward, 
+there will be support in the Congress for enabling 
+legislation.  A Ministry of Culture representative told 
+Econoffs February 25 that Congress's Culture Committee had 
+issued a resolution calling for a panel of experts to draft 
+revisions to the Intellectual Property law, but post has no 
+further information. 
+ 
+GOS PUBLIC AWARENESS ACTIVITIES 
+ 
+¶11.  (U) The GOS considers public opinion to be a key 
+battleground in the struggle against all forms of IPR piracy, 
+and public education and awareness to be critical elements in 
+protecting digital content.  All observers agree that many 
+Spaniards still do not view online piracy as a problem or 
+even as an offense.  Due in part to the Fiscalia's 2006 
+Circular, some believe peer-to-peer downloading is akin to 
+making a private copy of a digital file and is thus 
+permitted.  Others simply can't understand how there could be 
+an issue over such an easy, convenient, unimpeded act.  Yet 
+others see such downloading, though considered "wrong" by 
+some, as a form of Robin Hood activity, stealing from wealthy 
+artists, entertainers, and companies. 
+ 
+¶12.  (U) The government has undertaken a number of activities 
+in the past year to promote responsible Internet use and to 
+discourage piracy.  The Ministry of Industry, Tourism, and 
+Trade organized an International Conference on Digital 
+Content (FICOD) in late November, with a separate conference 
+involving many of the same participants on Protecting IPR in 
+the Digital Environment.  The Minister, Miguel Sebastian, 
+spoke at FICOD, and the Secretary of State for 
+Telecommunications, Francisco Ros, at the IPR Conference. 
+Both underscored the need for stronger IPR protection if the 
+sector is to grow, and highlighted the government's 
+commitment to combating digital piracy.  Also in late 
+ 
+MADRID 00000224  004.2 OF 006 
+ 
+ 
+November, Minister of Culture Cesar Antonio Molina launched 
+the government's third anti-piracy public education campaign, 
+aimed especially at young people, with the slogan, "If you're 
+legal, you're all right."  The campaign and Minister Molina's 
+public statements that the GOS would soon be publishing new 
+regulations to protect digital content sparked expressions of 
+concern among Spain's vocal pro-piracy Internet users' lobby, 
+though both their effort to have Molina fired and a 
+pro-piracy demonstration fizzled.  The Culture Ministry is 
+planning to launch another public awareness campaign after 
+the current one ends at the end of March and is also 
+organizing seminars on subjects related to IPR protection. 
+The Ministry of Industry, Tourism, and Trade, meanwhile, will 
+begin on March 31 a campaign with the Business Software 
+Alliance and a Spanish industry group to promote use of legal 
+software. 
+ 
+GOOD PRACTICES MANUAL 
+ 
+13  (U) Another important GOS initiative was the December 11 
+launch of a new "Manual of Good Practices" prepared by a 
+broad inter-agency group coordinated by the Ministry of 
+Culture.  The Manual is a general reference on IPR issues 
+combined with guidelines and practical suggestions on how to 
+recognize potentially infringing activity, conduct 
+investigations, and prepare cases to be brought before 
+judges.  Rights-holders' groups hailed the Manual as 
+establishing "approved criteria" for investigating and 
+prosecuting IPR crime.  In its section on Investigations, the 
+Manual describes the phenomenon of P2P downloads and 
+underscores that, when done without the content owner's 
+authorization, such downloads are always illegal and, in 
+contrast with the Fiscalia's Circular, characterizes as 
+"erroneous" any notion that they might constitute permitted 
+private copying. 
+ 
+THE CIRCULAR REMAINS UNCHANGED 
+ 
+¶14.  (SBU) One major issue that rights-holders unanimously 
+cite as the main obstacle to effective online IPR enforcement 
+is the 2006 "Circular" issued by the Fiscalia.  The Circular, 
+a 115-page document consisting of instructions to 
+prosecutors, was an attempt to incorporate into practice the 
+2003 IPR amendments to the Penal Code, which among other 
+things made IPR violations a public crime subject to ex 
+officio action by authorities rather than an offense 
+requiring a private complaint.  Numerous experts have praised 
+the Circular as a significant advance for the protection of 
+IPR, especially industrial property (patents and trademarks). 
+ At the same time, there is near universal agreement that its 
+treatment of Internet piracy, especially P2P file-sharing and 
+downloading, constitutes a combination of misunderstanding, 
+dubious interpretation, and misguided policy.  The Circular 
+states that while websites that make available links to 
+protected material are clearly not engaged in making a 
+"private copy" as permitted under the so-called "Digital 
+Canon," an Internet user who downloads from such a link or 
+from a P2P network is in fact making a private copy.  In 
+addition, the Fiscalia redefines "profit motive," identified 
+by the Penal Code as a prerequisite for prosecuting 
+IPR-infringing activity as a crime, to mean "commercial 
+profit motive" and specifies that infringing activity must be 
+of commercial scale to constitute a crime.  As such, no 
+individual who downloads protected material can be criminally 
+prosecuted, and those who make it available can be prosecuted 
+only if they charge for the service, or, in theory, if they 
+promote the availability of the material on their websites as 
+a means of selling advertising. 
+ 
+¶15.  (SBU) The Fiscalia's argument for treating illicit 
+downloads and file-sharing as a civil, rather than as a 
+criminal, offense, was twofold: That criminalizing all 
+IPR-infringing activity as well as a broad cross-section of 
+society that uses Internet technologies would violate the 
+principle of "minimal intervention" by law enforcement (in 
+other words, we can't prosecute half the population); and 
+that criminal prosecution should be reserved for serious 
+offenses and that illicit downloading represents a minor 
+offense which can more appropriately be addressed in the 
+civil courts.  The Circular has been interpreted by many 
+Internet users, as well as by many police, prosecutors, and 
+judges, as declaring P2P downloading to be a permitted 
+activity that is no business of law enforcement.  Some judges 
+have rejected criminal charges against infringing website 
+ 
+MADRID 00000224  005.2 OF 006 
+ 
+ 
+operators based on the Circular's reasoning. 
+ 
+¶16.  (SBU) A Fiscalia official with whom post met recently 
+repeated the GOS argument that the Circular is not binding on 
+judges nor a statement of what the law is or is not, but 
+rather a series of instructions designed to help orient 
+prosecutors in their handling of IPR cases.  At the same 
+time, she argued that the Circular was legally correct in its 
+reflection of the Penal Code's "profit motive" requirement. 
+If police decline to open criminal investigations against 
+internet IPR violators, and prosecutors decline to press 
+charges, they are correctly interpreting the Circular's 
+intent.  However, it is not the Fiscalia's fault, she 
+stressed, if some people misinterpret the Circular to mean 
+that P2P downloading and file-sharing are permitted, legally 
+sanctioned activities.  Nor can the Fiscalia be blamed for 
+the fact that civil cases for Internet piracy tend to run 
+aground on the Data Protection Law, which imposes a high 
+threshold for identifying users according to the Internet 
+Protocol addresses.  Those who don't like the Circular's 
+assignment of P2P to civil jurisdiction, she suggested, 
+should focus on either amending the Penal Code or improving 
+civil procedure.  The Fiscalia has not considered issuing any 
+sort of modification or clarification of the Circular, she 
+said.  Nor, as far has post has been able to determine, has 
+anyone in the government made a serious effort to convince it 
+to do so, despite our efforts.  However, if private-sector 
+negotiations produce an effective system of dissuasive 
+measures, the Circular will likely become less of an issue. 
+ 
+SOFTWARE PIRACY DECLINING 
+ 
+¶17.  The Business Software Alliance (BSA) is not a member of 
+the Anti-Piracy Coalition.  While BSA reports significant 
+piracy problems, including on the Internet, it also enjoys 
+strong and constructive relations with the government. 
+Microsoft recently published a report citing GOS action 
+against piracy and stating that software piracy rates 
+declined in 2008 from their 2007 levels. 
+ 
+ADVANCES AGAINST STREET PIRACY 
+ 
+¶18.  (U) Rights-holders and government representatives all 
+agree that law enforcement has done a good job of enforcing 
+IPR laws against the sale of pirated and counterfeit goods. 
+The National Police and the Civil Guard have conducted 
+numerous investigations, resulting in a number of raids on 
+street markets, of which the most significant were in June 
+and November.  While statistics are not yet available for 
+2008, preliminary estimates indicate that authorities 
+conducted at least 40 IPR enforcement actions resulting in 
+more than 300 arrests and the seizures of at least 26 million 
+euros worth of pirated or counterfeit merchandise.  In 
+addition, last month the National Police seized 1,150 
+unauthorized copying and modification devices that enable 
+video games to be uploaded to portable Nintendo consoles. 
+Rights-holders note that coordination between national and 
+local law enforcement varies from one city to another across 
+Spain and tends to depend on relations between national 
+government representatives and municipal governments, which 
+may in turn depend on the political orientation of Mayors and 
+city councils.  Catalonia is one region where the 
+coordination is reported to be especially good, whereas 
+representatives of the music industry cited Granada in the 
+south as an example of a city where street piracy remains a 
+problem due to poor coordination between national and local 
+law enforcement.  Another problem cited by rights-holders is 
+a lack of proactivity on the part of some public prosecutors 
+in investigating and prosecuting offending vendors and an 
+unwillingness on the part of some judges to levy fines and 
+jail sentences.  In addition, one content providers' 
+association head complained that police still require his 
+organization to defray the costs of transporting and storing 
+seized material.  That said, everyone we talked to agreed 
+that authorities have continued to increase and improve their 
+enforcement efforts against street piracy over the past year. 
+ 
+ 
+¶19.  (U) Many, however, expressed concern over a new movement 
+to decriminalize "top manta," the practice of selling pirated 
+videos, CDs, video games, and other portable contraband 
+displayed on sheets or blankets which can quickly be folded 
+and gathered up to conceal the merchandise when police 
+approach.  Police arrested approximately 700 "manteros" or 
+ 
+MADRID 00000224  006.2 OF 006 
+ 
+ 
+blanket people in 2008, and some 62 are in jail after being 
+convicted of IPR violations.  A few recording artists have 
+lent their names to a campaign calling for leniency for 
+arrested manteros and for a change in the law.  One judge on 
+Spain's Audiencia Nacional (High Court) has characterized top 
+manta (which is generally conducted by immigrants from 
+Africa) as "a minority business by the poor and for the poor" 
+and referred to enforcement efforts against it as 
+"criminalizing poverty."  Some even argue that street sales 
+of pirated goods are insignificant because music, films, and 
+games can be obtained so much more easily over the Internet. 
+The campaign to decriminalize "top manta" has gained 
+sympathetic media coverage in recent weeks and has come to 
+legislators' attention.  On February 13, a group of 
+Congressmen from small, left-wing parties from Catalonia 
+introduced in the Justice Committee a resolution calling on 
+the government to decriminalize blanket sales.  Although GOS 
+officials say they will oppose this initiative, 
+rights-holders are concerned that an adverse climate of 
+public opinion may demoralize police and lead to a diminution 
+of enforcement actions. 
+ 
+EMBASSY IPR ACTIVITIES 
+ 
+¶20.  (U) At the suggestion of Minister of Industry, Tourism, 
+and Trade Sebastian following Spain's placement on the Watch 
+List, Embassy set up a bilateral IPR working group with 
+representatives of the Ministry of Industry, Tourism, and 
+Trade and the Ministry of Culture.  The group has met several 
+times to assess progress on the USG's recommendations and on 
+ways to improve Spain's IPR performance.  The Ambassador met 
+twice with Minister Sebastian and once with Minister of 
+Culture Molina to advocate a more activist approach to 
+combating piracy.  Both the outgoing and incoming DCMs 
+discussed our IPR concerns with Secretary of State for 
+Telecommunications and the Information Society Francisco Ros. 
+ USPTO attorney-advisor Michael Shapiro was a presenter on 
+two panels at the November IPR/Digital conference; during his 
+visit, DCM hosted a lunch for representatives of the 
+government, the Anti-Piracy Coalition, and Redtel.  Econoff 
+meets regularly with rights-holders, service providers, and 
+government officials to highlight USG's interest in the 
+success of negotiations and the promulgation of effective 
+legislation. 
+ 
+COMMENT 
+ 
+¶21.  (SBU) Post believes the many GOS actions to discourage 
+piracy are significant, and that the GOS-promoted 
+negotiations between rights-holders and ISPs are likely to 
+identify measures that will reduce Internet piracy.  For 
+these reasons, post does not recommend placing Spain on the 
+Priority Watch List.  However, until ISPs and rights-holders 
+reach agreement and the GOS begins to take the necessary 
+implementing actions, we see no argument for removing Spain 
+from the Watch List. 
+ 
+¶22.  (SBU) We believe the year ahead offers important 
+opportunities for us to press the GOS to take definitive 
+steps forward.  The government is increasingly sensitive to 
+its international image in the run-up to its assumption of 
+the EU Presidency in January 2010.  It is also eager to 
+strengthen and expand bilateral engagement with the new U.S. 
+Administration, and hopes for high-level visits and meetings. 
+ In this context, the government is aware that Spain's 
+continuing Internet piracy problem hurts overall relations. 
+We need to find additional ways to use this sentiment to our 
+advantage.  End Comment. 
+CHACON

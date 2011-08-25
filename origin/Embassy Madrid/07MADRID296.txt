@@ -1,0 +1,97 @@
+07MADRID296
+SPAIN: DISAGREEMENT ON DSP-83 SIGNING AUTHORITY
+Fri Feb 16 00:00:00 +0100 2007
+UNCLASSIFIED
+Embassy Madrid
+VZCZCXRO0438
+PP RUEHLA
+DE RUEHMD #0296 0471653
+ZNR UUUUU ZZH
+P 161653Z FEB 07
+FM AMEMBASSY MADRID
+TO RUEHC/SECSTATE WASHDC PRIORITY 1892
+INFO RHMFISS/CDR USEUCOM VAIHINGEN GE PRIORITY
+RUEKJCS/SECDEF WASHDC PRIORITY
+RUEHLA/AMCONSUL BARCELONA 2455UNCLAS MADRID 000296 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+STATE FOR PM/DDTC - ANN GANZER 
+OSD FOR AT&L/INT'L COOPERATION - SETH WILSON 
+ 
+E.O. 12958: N/A 
+TAGS: MASS ETTC PREL SP
+SUBJECT: SPAIN: DISAGREEMENT ON DSP-83 SIGNING AUTHORITY 
+ 
+ 
+¶1. SUMMARY:  MOD is concerned because Spain's $1.2 billion 
+program to sell frigates to the Norwegian navy is being 
+delayed by an inability to reconcile US and Spanish technical 
+legal requirements regarding signature of end-user 
+nontransfer documents.  Post requests DDTC guidance on how to 
+move forward. See action request paragraph six. END SUMMARY. 
+ 
+¶2. Lockheed Martin and the Spanish shipbuilder Navantia have 
+a $1.2 billion program to build frigates for the Norwegian 
+navy.  This program, based on Spain's advanced new F-100 
+class frigate and including US combat systems technology, has 
+been brought to a temporary halt by DDTC's inability to 
+process a DSP-83 (Nontransfer and Use Certificate) because an 
+authorized representative of the Government of Spain (G0S) 
+has not signed in block 8. 
+ 
+¶3. In this case, the signed DSP-83 is a pre-requisite for an 
+amendment (TA 1437-98H) to the existing Technical Assistance 
+Agreement between Lockheed Martin and Navantia. This 
+amendment is required as a result of a corporate name change. 
+ This issue has surfaced because in the case of TA 1437-98H, 
+the end user of the technical data to be transferred is a 
+non-government entity and the signature of Spanish Government 
+representative in block 8 is required by the ITAR.  MOD says 
+that the person (MOD's National Industrial Security 
+Authority) who signed the DSP-83 for the original TAA was not 
+authorized to sign such a form. 
+ 
+¶4. In lieu of signing block 8 of the DSP-83, MOD issued its 
+own End Use Certificate, signed by MOD's Director General of 
+Armament and Material (DGAM), in accordance with pertinent 
+Spanish legislation - Royal Decree 1782/2004. MOD asserts 
+that the DGAM is the only GOS representative authorized to 
+sign an End Use Certificate on behalf of the GOS and that he 
+is legally restricted to using only the designated GOS End 
+Use Certificate that is included as an Annex to the Royal 
+Decree. MOD says that the DGAM would exceed his legal 
+authority by signing any form (e.g., a DSP-83) other than the 
+one included in the Royal Decree (NOTE: Post has e-mailed a 
+translation of the Royal Decree to DDTC.). 
+ 
+¶5. MOD contends that the language of its End Use Certificate 
+satisfies the protections required by the ITAR.  Until now, 
+MOD has submitted its own End Use Certificate in lieu of 
+signing block 8 of the DSP-83 because in past cases, the end 
+user of the material/data to be transferred was a government 
+entity. Therefore, the signature of the end-user in block 7 
+was sufficient and the fact that the Spanish Government 
+attached its own End Use Certificate Spanish was irrelevant 
+to the USG. The GOS, however, understood that its End Use 
+Certificate was being accepted in lieu of signing block 8. 
+MOD is aware of the option offered by the ITAR to use an 
+exchange of dip notes in place of signing a DSP-83.  MOD, 
+however, notes that the GOS's end user certificate is legally 
+binding, thus offering greater legal assurance than a dip 
+note. 
+ 
+¶6. ACTION REQUEST:  The broader issues raised by this case 
+could be addressed by the Export Controls Working Group of 
+Declaration of Principles when the group meets in May 2007. 
+However, a near-term solution is needed to avoid Lockheed 
+Martin and Navantia incurring serious contract penalties as a 
+result of the work stoppage and to avoid disrupting the Royal 
+Norwegian Navy's associated training programs. Post is aware 
+that DDTC has developed various work-arounds with other 
+European allies that have similar restrictions against 
+signing a DSP-83.  Post requests DDTC guidance as to how to 
+resolve this impasse with Spain. 
+LLORENS

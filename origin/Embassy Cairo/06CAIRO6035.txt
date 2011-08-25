@@ -1,0 +1,175 @@
+06CAIRO6035
+GOOGLE'S VIEWS ON EGYPT'S ECONOMIC ENVIRONMENT,
+Tue Sep 26 00:00:00 +0200 2006
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Cairo
+VZCZCXRO0185
+RR RUEHBC RUEHCN RUEHDE RUEHGH RUEHKUK RUEHVC
+DE RUEHEG #6035/01 2690825
+ZNR UUUUU ZZH
+R 260825Z SEP 06
+FM AMEMBASSY CAIRO
+TO RUEHC/SECSTATE WASHDC 1643
+INFO RUEHEE/ARAB LEAGUE COLLECTIVE
+RUEHOO/CHINA POSTS COLLECTIVE
+RUEAIIA/CIA WASHDC
+RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS SECTION 01 OF 02 CAIRO 006035 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR NEA/ELA AND EB/CIP 
+USAID FOR ANE/MEA MCCLOUD 
+USTR FOR SAUMS/AUGEROT/MCHALE/NEUREITER 
+COMMERCE FOR 4520/ITA/ANESA/TALAAT 
+FCC FOR INTERNATIONAL BUREAU/COOPER 
+ 
+E.O. 12958: N/A 
+TAGS: ECON ECPS EINT EINV ETRD KCOR KGIT PHUM EG CH
+SUBJECT: GOOGLE'S VIEWS ON EGYPT'S ECONOMIC ENVIRONMENT, 
+INTERNET CONTROLS 
+ 
+Sensitive But Unclassified, Not For Internet Distribution 
+ 
+¶1.  (SBU) Summary: On September 14, Google,s Regional 
+Manager for the Middle East and North Africa Sherif Iskander 
+gave econoff an overview of Google,s business in the region 
+and opined optimistically about the improvement of Egypt,s 
+business environment and economy, though with some 
+reservations.  Google,s ambitious plans, although still in 
+the preliminary stages, could eventually contribute to 
+increased Internet usage among Arabic speakers and a more 
+vibrant e-business in the region, with ensuing economic 
+benefits.  Iskander also discussed Google's approach to 
+complying with Egyptian Internet filtering laws.  End Summary. 
+ 
+----------------------------------- 
+Google,s Ambitious Middle East Plan 
+----------------------------------- 
+ 
+¶2.  (SBU) On September 14, econoff met with Sherif Iskander, 
+Google,s Regional Manager for the Middle East and North 
+Africa, to discuss Google,s business in the region, Egypt,s 
+economic reforms, and the opportunities and challenges that 
+lie ahead.  Google is just beginning its operations in the 
+region and is focused on fostering small- and medium-sized 
+enterprises (SMEs), the advertisements of which make up the 
+bread and butter of Google,s revenue.  Since less than five 
+percent of Egyptian SMEs have Internet access and less than 
+one percent of the Internet,s content is in Arabic, Google 
+is embarking on projects to increase Internet access among 
+its core customer group and provide a greater amount of 
+Arabic content. In order to increase local Internet use, 
+Google plans to provide software that is totally Web-based 
+and low-maintenance, thus alleviating costs for businesses 
+that may not even have a computer.  With this type of 
+software, businesses would be able to use Google,s products 
+from a local Internet caf or anywhere else. 
+ 
+¶3.  (SBU) Where the company might make more of a difference, 
+however, is in making Arabic content on the Internet more 
+prevalent and accessible.  It has already launched Gmail in 
+Arabic, which according to Iskander is the first e-mail 
+application for Arabic speakers requiring no knowledge of 
+English.  Additionally, the company has a research team 
+working on a new context-based method of machine translation 
+between English and Arabic, a notoriously difficult problem. 
+Iskander was optimistic that Google,s team would eventually 
+make translations at least intelligible enough to do 
+business, though the time frame for this was unspecified. 
+Google plans to link its translation engine to its search 
+software, so that a search in Arabic returns not only Arabic 
+sites but also those translated from English, and eventually 
+from other languages.  (Comment: Lack of Arabic content is 
+one of the primary hindrances cited by the business community 
+to increasing e-business in Egypt.  End Comment.) 
+ 
+---------------------------------- 
+Upbeat about improving economy ... 
+---------------------------------- 
+ 
+¶4.  (SBU) Iskander talked at length about what he sees as 
+recent improvements in Egypt's business environment and the 
+opportunities and challenges that lie ahead.  Officials in 
+the Nazif government have been much more accessible to him 
+and his colleagues than those of previous governments.  He 
+was also impressed with the increased transparency and amount 
+of public information about several recent issues, including 
+the 3rd mobile license, the upcoming Omar Effendi sale, and 
+the investigation into recent train accidents.  According to 
+Iskander, prior to 2004 all of these developments would have 
+been shrouded in secrecy.  Perhaps most telling is that prior 
+to 2004, Iskander himself was conducting almost all of his 
+business based in Dubai because of the poor business 
+environment in Egypt.  Iskander was particularly upbeat about 
+the IT/telecom sector's prospects.  In addition to the 3rd 
+mobile license, Egypt has become a more popular destination 
+for call centers, including those for Microsoft and Oracle. 
+Egypt's call centers are doing well because of high English 
+language standards and because they do not try to fool 
+customers into thinking that their employees are actually in 
+the U.S., a practice that apparently backfired in India. 
+ 
+--------------------------------------------- ----- 
+ 
+CAIRO 00006035  002 OF 002 
+ 
+ 
+... but wary of fundamentalists and lack of vision 
+--------------------------------------------- ----- 
+ 
+¶5.  (SBU) Iskander sees the biggest challenges to continued 
+economic growth to be two-fold: opposition under a religious 
+banner from people not yet benefiting from reform projects, 
+and a lack of planning in long-term growth strategy.  He 
+believes that Egyptians who do not see immediate benefits 
+from economic reforms may use religion as an excuse for 
+opposition.  If economic reforms progress far enough, 
+however, and reach deep enough into all levels of society, 
+then this opposition would eventually disappear.  Regarding 
+long-term growth strategy, Iskander thought that many of the 
+current GOE projects are aimed at "plugging the holes" in a 
+broken system without adequate thought for the future, though 
+the IT/telecom sector was slightly better off in this regard. 
+ 
+---------- 
+Censorship 
+---------- 
+ 
+¶6.  (SBU) Iskander prefaced his comments on censorship by 
+stressing that Google is a very moral company, and does not 
+place advertisements for pornography or alcohol (except for 
+wine).  He also stressed that Google must comply with host 
+country laws wherever it operates, but explained that Google 
+does not host any of its services from Egypt, but rather from 
+the U.S.  In this way, the company does not implement 
+censoring mechanisms itself, but rather allows Egyptian ISPs 
+to censor locally as they do with all Internet content. 
+Google thus complies with censorship regulations without 
+doing the actual censorship itself. 
+ 
+¶7.  (SBU) Econoff queried Iskander on why Google did not take 
+this approach in China, where the company has been criticized 
+for censoring its content.  Iskander responded that unlike 
+Egypt, Google needed to host its Chinese services from China 
+due to the way the Chinese are connected to the Internet. 
+The company was thus required to implement censorship itself. 
+ However, Iskander said that Google has publicly given a 
+different reason for why it hosts its Chinese services from 
+China, namely that the sheer size of the Chinese market 
+requires locally-hosted services for efficiency.  Iskander 
+said the company gives this explanation publicly so that no 
+other countries (read: Saudi Arabia) would try to close their 
+Internet off as China has done. 
+ 
+¶8.  (SBU) Comment: Google is walking a fine line with this 
+approach to censorship, neither endorsing nor pushing back 
+against limits on freedom of information.  The strong 
+blowback from its censorship in China may have pushed the 
+company to try this different approach.  Additionally, 
+because the Arab market is still so small, Google loses 
+little in efficiency by hosting its Arabic services outside 
+of the region.  End comment. 
+RICCIARDONE
