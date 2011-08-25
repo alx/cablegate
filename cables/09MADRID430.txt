@@ -1,0 +1,61 @@
+09MADRID430
+SPAIN: SPACE SHUTTLE EMERGENCY LANDING SITES AND
+Thu Apr 30 00:00:00 +0200 2009
+UNCLASSIFIED
+Embassy Madrid
+VZCZCXYZ0004
+PP RUEHWEB
+
+DE RUEHMD #0430 1200745
+ZNR UUUUU ZZH
+P 300745Z APR 09
+FM AMEMBASSY MADRID
+TO RUEHC/SECSTATE WASHDC PRIORITY 0579
+INFO RUEHFR/AMEMBASSY PARIS 1528UNCLAS MADRID 000430 
+ 
+SIPDIS 
+ 
+FOR OES/SAT DJACKSON AND NASA/OER SKAMM 
+ 
+E.O. 12958: N/A 
+TAGS: TSPA SP
+SUBJECT: SPAIN: SPACE SHUTTLE EMERGENCY LANDING SITES AND 
+PROCEDURES FOR SPACE SHUTTLE MISSION STS-125 
+ 
+REF: REF: STATE 38670 
+ 
+¶1.   Per reftel request, post has obtained verbal permission 
+from the GOS to use Gran Canaria Airport (aka Gando Air Base) 
+in Las Palmas, Canary Islands as an Emergency Landing Site 
+(ELS) for the launch of STS-125 and is expecting formal 
+written authorization soon.  Post knows of no reason the site 
+should not be considered as an ELS. 
+ 
+ ¶2.  POC for post: 
+ 
+Name: Peter Higgins 
+Title: Economic Officer 
+Org: U.S. Embassy Madrid 
+email: higginsjp@state.gov 
+phone: 34 91 587-2295 
+ 
+POCs for ATCT: 
+ 
+Name: Brigadier Jesus Benito Munoz 
+Title: Base Operations Supervisor 
+Org: Gando AB 
+email: jbenmun@ea.mde.es 
+phone: 34 928 328 328 
+ 
+Name: Commander Juan Carlos Dominguez 
+Title: Operations Support Squadron Commander 
+Org: Gando AB 
+email: jdomdor@ea.mde.es 
+phone: 34 639 761 676 
+ 
+Name: Tomas Vidriales Bartolome 
+Title: Air Traffic Control Chief Controller 
+Org: Gando AB 
+email: tvidriales@aena.es 
+phone: 34 928 577 055 
+CHACON

@@ -1,0 +1,106 @@
+05CAIRO3179
+NET-CENTRIC DIPLOMACY TRIP REPORT, CAIRO, APRIL
+Thu Apr 28 00:00:00 +0200 2005
+UNCLASSIFIED
+Embassy Cairo
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS CAIRO 003179 
+ 
+SIPDIS 
+ 
+FOR RM/IRP DAVID MCKEE AND EDIPLOMACY GERALD GALLUCCI FROM 
+HARRY PONTING, TEAM LEAD, AND RAMKI UPPULURI 
+ 
+E.O. 12958: N/A 
+TAGS: AINF OTRA EG NCD
+SUBJECT: NET-CENTRIC DIPLOMACY TRIP REPORT, CAIRO, APRIL 
+10-11 
+ 
+ ¶1. This cable was drafted by the Net-Centric Diplomacy (NCD) 
+team from the Department and CITI that visited post from 
+April 10-11 to install the NCD pilot system for publishing 
+biographic files and telegraphic reports to the SIPRNet.  The 
+NCD application was successfully installed on a ClassNet 
+workstation and the local contractor was fully trained in its 
+use. 
+ 
+------------ 
+Post Support 
+------------ 
+ 
+¶2.  Outstanding support was provided by Embassy Cairo. 
+Control Officer Michael Kidwell (ESTH officer in the combined 
+Economic and Political section) and OMS Felicia Lynch did a 
+wonderful job of pre-briefing mission elements and arranging 
+meetings. IPC staff Armando Asencio provided excellent 
+support in the pre-visit days to make sure the technical 
+infrastructure was in place ahead of the visit. Staff members 
+at the post were very interested in providing content to the 
+classified home pages using the NCD utilities, and asked a 
+lot of questions on how this project would help them enhance 
+the content on the home pages. Several OMSs and EFMs were 
+available for training, and in the time the team was at Post, 
+a large number of cables were posted to the servers.  The 
+spectacular job done by Cairo with regards to pre-visit 
+preparation and participation in training will be hard to top 
+and will be our benchmark for other posts we will visit. 
+Involvement by all levels of personnel at post shows a very 
+positive commitment to the effort. It is interesting to note 
+that a total of five OMSs and EFMs provide support as content 
+managers for the site. 
+ 
+---------------------- 
+Briefings and Training 
+---------------------- 
+ 
+¶3.  The goals of the team were discussed with the A/DCM and 
+control officer in a separate meeting prior to kicking off 
+the project. The NCD team gave formal overview briefings to 
+Economic and Political section (ECPO) officers and the A/DCM. 
+ 
+¶4.  Hands-on NCD training was provided for Patricia Fitzhugh 
+(CITI local contract hire), Suzanne Swanson, Twila Ray, 
+Felicia Lynch, and Brooke Adams. For the time being, 
+BioCapture will be handled exclusively by Ms. Fitzhugh, and 
+CableCapture will be provided on the desks of all OMSs and 
+EFMs involved in content management. 
+ 
+----------------- 
+Hardware/Software 
+----------------- 
+ 
+¶5.  JRE was pre-installed on the ClassNet workstation 
+set-aside for the NCD project. The power supply for the 
+scanner that was shipped earlier was received in a damaged 
+condition and the NCD team replaced this. 
+ 
+¶6.  The scanner and associated software were installed and 
+ready when we arrived and functioned normally. 
+ 
+¶7. NCD Utilities were downloaded to a folder on the shared 
+drive for ECPO, and short cuts to BioCapture and CableCapture 
+were placed on the desktops of those who will use these 
+utilities and manage content for the site. 
+ 
+--------------- 
+Lessons Learned 
+--------------- 
+ 
+¶8.  Post preparation makes a huge difference.  The legwork 
+done in advance by Cairo allowed us to get right to work. 
+Despite a shorter training schedule due to outgoing flights, 
+training was very easily completed ahead of time due to post 
+personnel's familiarity with SIPRNet, interest, and 
+enthusiasm. Close coordination on preparation work is 
+essential and pays off. 
+ 
+¶9.  Being savvy SIPRNet users helps.  Post personnel's use of 
+the SIPRNet is definitely on the high end of the scale. 
+ 
+ 
+Visit Embassy Cairo's Classified Website: 
+http://www.state.sgov.gov/p/nea/cairo 
+ 
+You can also access this site through the 
+State Department's Classified SIPRNET website. 
+ 
+CORBIN

@@ -1,0 +1,445 @@
+07KYIV449
+UKRAINE: 2007 SPECIAL 301 POST INPUT
+Thu Feb 22 00:00:00 +0100 2007
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Kyiv
+VZCZCXYZ0000
+PP RUEHWEB
+
+DE RUEHKV #0449/01 0531507
+ZNR UUUUU ZZH
+P 221507Z FEB 07
+FM AMEMBASSY KYIV
+TO RUEHC/SECSTATE WASHDC PRIORITY 1294
+INFO RUEAWJA/DEPT OF JUSTICE WASHDC
+RUCPDOC/USDOC WASHDC
+RUEHMO/AMEMBASSY MOSCOW 0073UNCLAS KYIV 000449 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+SIPDIS 
+ 
+STATE FOR EB/TPP/IPE - JBBOGER 
+STATE PLEASE PASS TO USTR FOR MOLNAR/CHOE-GROVES 
+ 
+USDOC FOR ITA/MAC/OIPR - CPETERS 
+USDOC FOR 4231/ITA/OEENIS/NISD - CLUCYCK 
+COMMERCE PLEASE PASS TO USPTO 
+ 
+E.O. 12958: DECL: N/A 
+TAGS: ETRD KIPR ECON UP
+SUBJECT: UKRAINE: 2007 SPECIAL 301 POST INPUT 
+ 
+REFS: A) STATE 7944 
+      B) KYIV 348 
+      C) 2006 KYIV 4359 
+      D) 2006 KIEV 3414 
+      E) 2006 KIEV 3293 
+      F) 2006 KIEV 3145 
+      G) 2006 KIEV 2992 
+      H) 2006 KIEV 2723 
+      I) 2006 KIEV 2219 
+      J) 2006 KIEV 881 
+      K) 2006 KIEV 721 
+      L) 2005 KIEV 4872 
+ 
+SENSITIVE BUT UNCLASSIFIED; NOT FOR INTERNET PUBLICATION. 
+ 
+¶1. (SBU) Summary and Recommendation: Embassy recommends 
+Ukraine remain on the Special 301 Priority Watch List, 
+which is statutorily accompanied by Section 306 monitoring 
+(Ref A), although the Government of Ukraine is definitely 
+moving in the right direction on IPR protection.  The GOU 
+has followed up on the substantial progress made in 2005, 
+which led to the lifting of Special 301 sanctions and 
+restoration of GSP benefits.  Ukraine is no longer a major 
+source of pirated goods, although such goods do remain 
+readily available on the local market.  Ukraine has made 
+important strides in bringing its legislation in line with 
+TRIPS and international obligations, notably in the area of 
+data protection.  The GOU significantly stepped up 
+enforcement efforts in 2006, although internet piracy is a 
+looming challenge.  Government procurement/use of 
+unlicensed software remains a problem.  The Petrivka open 
+air market is Ukraine's most notorious for pirated 
+material; GOU authorities have struggled to limit illicit 
+sales there, but have not moved to shut down the market. 
+Post believes enforcement-related training, especially for 
+judges/prosecutors and officials responsible for combating 
+internet piracy, is warranted.  End Summary and 
+Recommendation. 
+ 
+Overall Assessment of IP Climate 
+-------------------------------- 
+ 
+¶2. (SBU) Although the GOU has significantly stepped up its 
+efforts to protect Intellectual Property Rights (IPR) in 
+recent years, Ukraine still faces serious problems of 
+piracy, especially the widespread sale of pirate optical 
+disc material.  Industry reps estimate piracy levels for 
+music at 55%, for video at 76%, and for computer software 
+at 85%.  Counterfeit goods are also widely available. 
+Ukraine's IPR-related legal base has steadily improved and 
+only minor adjustments are now needed to bring legislation 
+fully in compliance with international norms and to allow 
+for improved enforcement.  Courts continue to hand down lax 
+sentences for IPR infringers, and customs officials have 
+thus far failed to halt the flood of pirated goods coming 
+in from Russia. 
+ 
+Optical Media Piracy 
+-------------------- 
+ 
+¶3. (U) Ukraine now has one of the most comprehensive 
+optical media laws in the world, regulating nearly every 
+step in the life of an optical disc (OD).  The 2002 law "On 
+the Specifics of the Government Regulation of the Activity 
+of Subjects of Economic Activity Associated with the 
+Manufacture, Export, and Import of Laser-Readable Discs" 
+put into place a detailed regulatory regime.  Its 10 
+articles outlined a special OD plant licensing regime, 
+plant inspection procedures, and measures to be taken when 
+violations are discovered.  A package of amendments to the 
+2002 law and the Criminal Code of Ukraine, passed in the 
+Rada (parliament) in July 2005, improved inspection 
+procedures and increased the penalties that apply to 
+violations.  The amendments also removed a requirement that 
+imported ODs have Source Identification (SID) codes 
+imprinted on them. 
+ 
+¶4. (SBU) Ukraine is no longer a major source of pirated 
+optical media.  According to Vladimir Iling, head of the 
+IFPI Kyiv office, the organization's forensic specialists 
+have not detected any pirated discs believed to be 
+manufactured in Ukraine since the 2005 amendments to the OD 
+law.  The State Department for Intellectual Property (SDIP) 
+coordinates inspections of the seven OD plants operating in 
+Ukraine, and GOU officials reported that they did not 
+detect any signs of pirate production during their more 
+than 20 inspections in 2006.  The Ministry of Internal 
+Affairs claims that roughly nine out of ten pirated CDs in 
+Ukraine come from Russia.  Yevgeniy Roudyk, deputy head of 
+the Internal Affairs Ministry's IPR Department, told 
+Econoff on February 9 that GOU investigators had uncovered 
+major shipping routes that originate almost exclusively in 
+Russia. 
+ 
+¶5. (SBU) The hologram sticker program (ref L) remains the 
+primary method used by law enforcement to recognize 
+potentially pirated materials.  Industry reps have 
+complained about the functioning of this program; they 
+claim that some importers of pirated discs are able to 
+obtain the hologram stickers, while legitimate producers 
+have to contend with time-consuming, bureaucratic hurdles. 
+Counterfeit hologram stickers are also a problem.  Industry 
+and GOU officials have come across several different 
+varieties of forged stickers, some of very high quality. 
+GOU officials, including the head of the Ministry of 
+Internal Affairs' IPR Department Serhiy Lebid, argue, 
+however, that eliminating the program altogether would be a 
+mistake.  Article 203 of the Criminal Code provides law 
+enforcement officials with some "ex officio" powers when 
+they encounter suspected pirated products without a 
+hologram sticker.  Eliminating the hologram program would 
+therefore serve to reduce law enforcement's authority to 
+seize suspected pirated material. 
+ 
+International Obligations and TRIPS Compliance 
+--------------------------------------------- - 
+ 
+¶6. (U) Ukraine is a member of the Universal Copyright 
+Convention, the Convention establishing the World 
+Intellectual Property Organization (WIPO), the Paris 
+Convention, the Madrid Agreement, the Patent Cooperation 
+Treaty, the International Convention for the Protection of 
+New Varieties of Plants, the Berne Convention, the Geneva 
+Phonograms Convention, the Trademark Law Treaty, and the 
+Budapest Treaty.  Ukraine is a party to the 1996 WIPO 
+Copyright Treaty (WCT), the WIPO Performances and 
+Phonograms Treaty (WPPT), and the Rome Convention. 
+Amendments to the Copyright Law passed in 2001 intended to 
+implement the WCT and WPPT, but fell short.  New amendments 
+to the Copyright Law are needed, in particular to address 
+technological protection measures. 
+ 
+¶7. (U) While working toward WTO accession, Ukraine's legal 
+base has achieved substantial TRIPS compliance.  TRIPS 
+omnibus legislation passed in 2002 was a major step, and 
+the Rada passed a number of IPR-related laws in November 
+¶2006.  An amendment to the Customs Code granted customs 
+officials expanded "ex officio" rights to stop pirated 
+material from entering Ukraine and helped bring the Code 
+into the compliance with Article 58 of the TRIPS Agreement. 
+The Rada also passed an amendment to the law "On Protection 
+of Rights for Indications of Origin of Goods," which sought 
+to bring Ukraine's geographical indications (GIs) 
+legislation into full TRIPS compliance.  Further amendment 
+to the GIs law may be necessary, however, in particular to 
+ensure that Ukrainian law does not require GI reciprocity. 
+Finally, the Rada passed two laws related to data 
+protection in order to comply with Article 39.3 of TRIPS 
+(see below). 
+ 
+¶8. (SBU) Ukraine's system of royalty collecting societies 
+functions imperfectly.  Rights holders have complained 
+bitterly that some societies collect fees for public use of 
+copyrighted material without authorization and do not 
+properly return royalty payments to rights holders (refs C- 
+F).  SDIP's initial draft amendment to the Copyright Law 
+failed to address industry's concerns on royalty collecting 
+societies, but the draft is now being reworked.  Legitimate 
+rights holders have had opportunities to express their 
+views to SDIP via the U.S.-Ukraine Enforcement Cooperation 
+Group.  SDIP's recent move to revoke the license of 
+collecting society Oberih (ref B), now being settled in the 
+courts, was welcomed by music industry representatives who 
+claimed Oberih illegitimately collected fees. 
+ 
+Data Protection 
+--------------- 
+ 
+¶9. (SBU) Ukraine has improved its protection of undisclosed 
+test data, such as that from drug trials, from unfair 
+commercial use (TRIPS Article 39.3).  In November 2006, the 
+Rada passed amendments to the law "On Medicinal Drugs," 
+introducing a five-year period for the protection of 
+undisclosed information in the course of registration of 
+medical drugs, and to the law "On Pesticides and 
+Agrochemicals," introducing a ten-year protection period 
+for agricultural chemical products.  The Association of 
+Pharmaceutical Research and Development (APRaD), which 
+unites local representatives of large international 
+pharmaceutical companies, has said it is generally 
+satisfied with the new law. 
+ 
+¶10. (U) The Ministry of Health has, on occasion, approved 
+generic copies of pharmaceutical products under patent in 
+other countries, allowing the copies to compete with the 
+branded products (ref G).  In one such case, the producer 
+of the branded product successfully sued the generic 
+producer in a Ukrainian court and got the copy pulled from 
+the market.  In another, the generic producer elected not 
+to market the copy and so the patent holder suffered no 
+commercial loss.  APRaD has argued that the GOU should 
+better implement patent linkage. 
+ 
+Counterfeit Goods 
+----------------- 
+ 
+¶11. (U) Counterfeited goods, including products that 
+contain protected trademarks, remain readily available in 
+Ukraine.  DuPont estimates that counterfeit and illegal 
+pesticides make up 20% of Ukraine's crop protection market, 
+causing roughly USD 40 million worth of damages to 
+legitimate producers.  Dominic Watson, DuPont Country 
+Manager for Eastern Europe, noted on February 21 that 
+counterfeit pesticides are particularly dangerous, as they 
+can hurt both crops and consumers, including foreign 
+consumers of Ukrainian agricultural products.  Monsanto, 
+meanwhile, suffers from illegal use of its genetically- 
+modified soybeans, present on an estimated 60% of Ukraine's 
+soybean-growing land.  In order to improve enforcement in 
+this area, the GOU first needs to create a legal framework 
+for the registration and use of biotechnology products. 
+Apparel products are also a target for counterfeiters. 
+Viktoriya Marchuk, Office Manager for Puma Ukraine, told 
+Econoff in December 2006 that Puma was concerned by the 
+increasing presence of counterfeited apparel in Ukraine, 
+and was pushing the GOU to do more to stop its import. 
+Most counterfeit goods are not produced in Ukraine, but are 
+imported, usually from China. 
+ 
+Use/Procurement of Government Software 
+-------------------------------------- 
+ 
+¶12. (U) On March 4, 2004, the Cabinet of Ministers of 
+Ukraine passed a resolution "On Approval of a Procedure for 
+Software Legalization at the Executive Power Bodies," which 
+established an inter-agency working group and procedures 
+for phasing out illegal software at government agencies 
+through annual inventories.  The GOU signed a software 
+legalization agreement with Microsoft Corporation in June 
+¶2005.  However, Microsoft cancelled this agreement in June 
+2006, as the GOU had taken little to no action to implement 
+it (ref H).  Valeriy Lanovenko, General Manager of 
+Microsoft Ukraine, explained that Microsoft had seen only 
+12% government compliance with the agreement in 2005 and an 
+additional 3% in 2006.  Lanovenko told Econoff in October 
+2006 that the GOU officially estimated the piracy level for 
+government software at 78%, down only marginally from 84% 
+in 2005.  Microsoft recommends that a single government 
+agency be named to take responsibility for the issue, and 
+cites this problem as a major deterrent to Microsoft in 
+considering further investment in Ukraine. 
+ 
+Enforcement 
+----------- 
+ 
+¶13. (U) SDIP and the Ministry of Internal Affairs are 
+steadily improving enforcement.  Statistics for 2006 show a 
+dramatic increase in IPR cases filed and in seizures.  The 
+Ministry of Internal Affairs reported that there were 812 
+IPR-related criminal investigations in 2006, up 68% from 
+¶2005.  462 cases went to the courts (up 235% from 2005) and 
+115 led to convictions (up 311% from 2005).  Roudyk, from 
+the Internal Affairs Ministry's IPR Department, credited 
+the February 2006 Criminal Code amendments for the improved 
+figures.  The 2006 amendments significantly lowered the 
+required threshold (from roughly 5,200 USD to 700 USD) 
+needed to pursue criminal prosecution and increased 
+penalties, including up to seven years imprisonment for 
+major offenders (ref K).  According to SDIP, in 2006 the 
+GOU seized a total of 1.3 million items, up from 850,000 
+items in 2005, and destroyed a total of 90,000 items, down 
+from 100,000 in 2005. 
+ 
+¶14. (U) The GOU set up an IPR Coordinating Council in 2003 
+to enhance interagency communication among the roughly 
+eight government bodies responsible for IPR.  Deputy Prime 
+Minister Dmitriy Tabachnyk will now chair this IPR 
+Coordination Council in an effort to give it more clout to 
+address problem areas.  SDIP is responsible for 
+coordinating all IPR protection efforts, and in 2005 agreed 
+to form an Enforcement Cooperation Group (ECG) jointly with 
+the United States and with rights holders.  The ECG met 
+three times in 2006 and in February, 2007 (refs B, C, I, 
+and J). 
+ 
+¶15. (U) SDIP has just one state inspector per oblast and 
+must enlist the assistance of the Internal Affairs Ministry 
+to file criminal cases.  In its own Special 301 submission, 
+SDIP recognized that enforcement at the local level, 
+especially in regions not well covered by inspectors, is 
+more difficult.  SDIP also noted that local oblast 
+governments often do not properly coordinate their 
+enforcement efforts. 
+ 
+¶16. (SBU) Lebid, head of the Ministry of Internal Affairs' 
+IPR Department, complains that too many IPR cases result 
+only in small fines, ranging from 1700-3400 UAH (340-680 
+USD).  The courts often decide to penalize violators with 
+"correctional works," usually paying 20 percent of one's 
+salary for one to five years.  In other cases, the courts 
+decide on "imprisonment" but with delayed sentencing, 
+similar to probation in the U.S. system.  Lebid has argued 
+that some of these rulings were not envisaged under the 
+law, and were the result of the judges' own discretion.  No 
+one has yet served jail time for IPR crimes partly due to 
+actions of the prosecutor general and judges, who often 
+lack expertise on IPR issues and do not always take these 
+crimes seriously.  The Ministry of Internal Affairs had 
+requested in 2006 that the Supreme Court hold a 
+coordination session on IPR crimes to issue clearer 
+instructions to the lower courts, but this session did not 
+yet take place. 
+ 
+¶17. (U) January 1, 2004 amendments to the Customs Code 
+empowered customs officers to impound illegal material at 
+the border, but only if it was included in the "Register of 
+Goods Containing Intellectual Property."  Customs officials 
+had also needed to refer impounded goods to the courts for 
+an official determination as to whether they are 
+counterfeit or not.  A November 2006 amendment to the 
+Customs Code, however, granted expanded "ex officio" 
+powers, allowing customs officials to act on their own 
+initiative without a right holder's claim or court 
+decision.  The State Customs Service Order No. 1061 of 
+February 2005 authorized the establishment of special 
+intellectual property rights subdivisions at ports of entry 
+and inland customs points.  The Customs Service reported 
+that as of February 15, 2007, 30 of these subdivisions had 
+been established at Ukrainian customs points. 
+ 
+Notorious Markets - Petrivka 
+---------------------------- 
+ 
+¶18. (SBU) Kyiv's Petrivka Market, a massive open air market 
+where as many as 300 stands may be selling illegal material 
+at any given time, has become a symbol of piracy in 
+Ukraine.  Although Ukrainian law enforcement has pushed 
+most of the smaller vendors off street corners, Petrivka 
+remains a sanctuary for all kinds of illegal, pirated 
+goods, including music, films, games, and software.  In 
+2005, the GOU undertook "Operation Intellect," an 
+enforcement action meant to drive the pirates out of 
+Petrivka.  The impact of Operation Intellect and subsequent 
+enforcement actions has only been temporary, however.  One 
+barrier to enforcement, according to industry sources, is 
+that the owners of pirate stalls are often influential 
+businessmen with ties to local government.  Law enforcement 
+officials may be wary to undertake major operations against 
+Petrivka without clear directives from the highest levels 
+of the Government. 
+ 
+¶19. (U) Ministry of Internal Affairs officials nonetheless 
+claim to be making headway.  The Ministry's IPR Department 
+formed an ad-hoc working group among Kyiv authorities in 
+May 2006 to focus on Petrivka.  During eight months of 
+operation, this working group oversaw 320 IPR-related 
+investigations, which resulted in 290 administrative 
+penalties (usually fines) and 28 criminal cases, nine of 
+which have already brought convictions.  Police seized 
+100,000 units of pirated material; 40,000 were destroyed in 
+September 2006, while the rest is scheduled for destruction 
+in February.  Iling noted that law enforcement bodies have 
+achieved some limited success in persuading Petrivka Market 
+management to revoke the licenses for stalls known to sell 
+pirated material.  Roudyk told Econoff on February 9 that 
+the Internal Affairs Ministry believes these efforts are 
+having a significant impact, reducing the number of pirated 
+goods in Petrivka by half. 
+ 
+Internet Piracy 
+--------------- 
+ 
+¶20. (U) Internet piracy is a nascent problem in Ukraine. 
+Many Ukraine-based websites offer pirated material for 
+download with the full knowledge of their Internet Service 
+Providers (ISPs).  Industry groups estimate that out of the 
+roughly 400 ISPs in Ukraine, 150 of them support websites 
+offering pirated material.  Microsoft Ukraine has 
+complained that Local Area Networks (LAN), some of which 
+cover entire Ukrainian cities, allow for widespread 
+software piracy.  Another common type of Internet piracy is 
+on-line mail order sites. 
+ 
+¶21. (U) Ministry of Internal Affairs officials have pointed 
+to some successes in stopping the mail order piracy, but 
+admit that file sharing/downloading is much more difficult. 
+GOU representatives have argued that Ukrainian law does not 
+give law enforcement officials clear authority to shut down 
+websites, although sometimes ISPs can be persuaded to do 
+so.  In order to go after the pirates involved, however, 
+the GOU needs rights holders to file claims for damages. 
+At a meeting of the IPR ECG on February 6, industry and 
+SDIP agreed to begin jointly monitoring suspected pirate 
+sites (ref B). 
+ 
+Training Needs 
+--------------- 
+ 
+¶22. (U) The GOU has demonstrated the political will to 
+combat IPR violations, but does not always possess the 
+technical competency required.  To assist the GOU in its 
+efforts, the Commercial Law Development Program (CLDP) has 
+conducted a series of IPR-related seminars, Post has 
+utilized USPTO's Global Intellectual Property Academy, and 
+industry has chipped in to provide expertise.  Post 
+appreciates Washington's consideration for an enforcement- 
+related training session in Ukraine, with translation for 
+non-English speakers.  Ukraine would especially benefit 
+from training in the following two areas: 
+ 
+-- Judges/Prosecutors: Numerous industry reps, and even the 
+Ministry of Internal Affairs, have repeatedly described the 
+courts as the weakest link in enforcement efforts.  In 
+addition to systemic problems (i.e. corruption), judges and 
+prosecutors often lack the required technical background on 
+IPR issues. 
+ 
+-- Internet Piracy: Internet piracy is a growing problem, 
+and the GOU admits that it lacks the technical competency 
+to properly address it (ref B). 
+ 
+TAYLOR

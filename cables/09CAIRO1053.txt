@@ -27,4 +27,8 @@ LICENSE 050074523
  
 REF: STATE 31516 
  
-In response to reftel request, the Egyptian Ministry of Defense verified that it received 75 Electrical Rotron Fans from Ametek Rotron/Rheinmetall Defence Italia for use in the Skyguard Air Defense System. SCOBEY
+In response to reftel request, the Egyptian Ministry of 
+Defense verified that it received 75 Electrical Rotron Fans 
+from Ametek Rotron/Rheinmetall Defence Italia for use in the 
+Skyguard Air Defense System. 
+SCOBEY

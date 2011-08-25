@@ -1,0 +1,172 @@
+08MADRID1025
+MADRID ECONOMIC WEEKLY, SEPT. 22-26
+Mon Sep 29 00:00:00 +0200 2008
+UNCLASSIFIED
+Embassy Madrid
+VZCZCXRO3572
+RR RUEHAG RUEHDF RUEHIK RUEHLZ RUEHROV
+DE RUEHMD #1025/01 2730625
+ZNR UUUUU ZZH
+R 290625Z SEP 08
+FM AMEMBASSY MADRID
+TO RUEHC/SECSTATE WASHDC 5371
+INFO RUCNMEM/EU MEMBER STATES COLLECTIVE
+RUEHLA/AMCONSUL BARCELONA 3590
+RUCPDOC/DEPT OF COMMERCE WASHDC
+RHMCSUU/DEPT OF ENERGY WASHINGTON DC
+RUEATRS/DEPT OF TREASURY WASHDCUNCLAS SECTION 01 OF 02 MADRID 001025 
+ 
+SIPDIS 
+ 
+STATE FOR EUR/WE, EEB/IFD/OMA 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EFIN EIND EINV ELAB ENRG KIPR SP
+SUBJECT: MADRID ECONOMIC WEEKLY, SEPT. 22-26 
+ 
+REF: MADRID 943 
+ 
+MADRID 00001025  001.2 OF 002 
+ 
+ 
+Contents: 
+ 
+ECON/KIPR: Zapatero in New York 
+ECON/EFIN: Council of Ministers Approves Draft 2009 Budget 
+EIND: Housing Sales, Starts Remain Weak 
+ENRG/EINV: GOS Reduces Solar PV Electricity Feed-In Tariffs 
+EINV: Spain Among Top FDI Investors and Recipients 
+ELAB: Spain Leads Opposition to Proposed EU Expansion of 
+Allowable Labor Hours 
+ 
+Zapatero in New York 
+ 
+¶1. (U) While visiting New York to speak at the UN, President 
+Zapatero met with business executives in a September 24 event 
+organized by the American Chamber of Commerce in Spain. 
+Executives from firms such as Boeing, Microsoft, IBM, Pfizer, 
+and the Bank of America, as well as the MPAA, participated in 
+the session.  Zapatero acknowledged challenges faced by the 
+Spanish economy, including the housing downturn and the 
+current account deficit, but he insisted that the economy's 
+resilience and strength would allow Spain to return to its 
+path of strong growth soon.  Zapatero also discussed topics 
+ranging from high-speed trains to his commitment to not 
+expand nuclear energy.  He said Spain would deepen its focus 
+on biotechnology, nanotechnology, and renewable energies.  At 
+least one questioner raised IPR piracy.  In his UNGA speech 
+September 25, Zapatero called for international regulation of 
+financial markets and urged developed countries to meet the 
+target of providing 0.7% of GDP in development assistance by 
+¶2015.  In a press conference, he expressed his support for 
+the Administration's financial market rescue package, noting 
+that it was the result of an "exceptional circumstance." (El 
+Confidencial, 9/25; El Pais, 9/25; All Media, 9/26) 
+ 
+Council of Ministers Approves Draft 2009 Budget 
+ 
+¶2. (U) The Council of Ministers approved on September 26 what 
+it described as an "austere" draft 2009 budget.  Spending, 
+including anticipated unemployment benefits, will rise 3.3%, 
+just below the rate of inflation.  Because of the economic 
+slump, the GOS has had to adjust spending down from what it 
+had anticipated only three months ago.  The deficit is 
+anticipated at 1.5% of GDP.  The GOS emphasized the budget's 
+emphasis on infrastructure, research, the administration of 
+justice, education, and housing.  The GOS will submit the 
+budget to the Congress next week, but it still lacks the 
+votes to ensure approval.  The unresolved dispute with 
+Catalonia over regional government financing makes it 
+unlikely that the CiU bloc will support the budget, so the 
+GOS is seeking support from the Basque Nationalist Party 
+(PNV) and smaller regional parties.  The budget is expected 
+to be approved, possibly after amendments, at the end of 
+December.  (Expansion, 9/25; El Pais, 9/26; Council of 
+Ministers, 9/26) 
+ 
+Housing Sales, Starts Remain Weak 
+ 
+¶3. (U) 26% fewer housing units were sold in July 2008 than in 
+July 2007.  Sales of used housing were down 38%, while sales 
+of new housing were down 10%. Comment: It may be that new 
+housing sales fell by less because builders are forced to 
+sell even if they have to accept lower prices, while owners 
+of existing housing prefer to stay put rather than accept 
+lower prices.  End comment.  The value of mortgages issued 
+that month was 33% below the July 2007 value; the number of 
+mortgages was down 28% and their average value was down 6%. 
+Builders are responding by cutting back on new construction; 
+in the year's second quarter, the number of housing starts 
+was 43% below its 2007 second-quarter level.  (Expansion, 
+9/26; Cinco Dias, 9/26) 
+ 
+GOS Reduces Solar PV Electricity Feed-In Tariffs 
+ 
+¶4. (U) Spain's system of incentives for different types of 
+renewable electricity guarantees generous prices (feed-in 
+tariffs) for up to a certain volume of projects of each 
+technology.  For solar photovoltaic power projects, the 
+existing 45 cents(euro)/KWh tariff applies to projects 
+completed and registered by September 29.  On September 26, 
+after many exchanges between the Ministry of Industry, 
+Tourism, and Commerce (MITC) and industry representatives, 
+the Council of Ministers approved a new tariff regime for 
+projects registered after September 29.  The guaranteed 
+tariff will fall to 32 cents/KWh for ground-based projects 
+and rooftop projects above 20 KW.  Rooftop projects below 20 
+ 
+MADRID 00001025  002.2 OF 002 
+ 
+ 
+KW will receive 34 cents/KWh; the GOS says rooftop projects 
+use less land and lose less electricity in transmission than 
+ground-based projects.  MITC Minister Miguel Sebastian told 
+the Congress that the new tariffs are 25% above those in 
+Germany, the EU's other large solar power market.  The 
+tariffs will be in force for 25 years and will include annual 
+adjustments just below the rate of inflation. 
+ 
+¶5. (U) The volume of projects eligible for the new tariffs 
+has been the most contentious point (reftel).  Many more 
+ground-based projects were registered before the September 29 
+deadline than the GOS had expected -- at more expense to 
+consumers, since the guaranteed prices are well above market 
+prices -- and many projects are not yet complete.  The 2009 
+limit of 367 MW of ground-based projects (and 133 MW of 
+rooftop projects) may cause some firms to scrap or delay 
+planned projects.  A new mechanism will allow the GOS, if the 
+volume limit of projects is reached in one year, to reduce 
+the next year's tariff and increase the volume limit by the 
+same percentage, up to ten percent a year.  This should 
+eventually lower tariffs to the minimum needed to guarantee 
+provision of the volume of generation the GOS seeks. (El 
+Confidencial, 9/26; Council of Ministers, 9/26; Embassy 
+analysis) 
+ 
+Spain Leads Opposition to Proposed EU Expansion of Allowable 
+Labor Hours 
+ 
+¶6. (U) Minister of Labor Celestino Corbacho announced Sept. 
+25 in Parliament that the GOS would lead the opposition 
+against the potential approval of a EU directive permitting 
+expansion of the work week from 40 hours to 65 or 70 hours. 
+Spain,s Chamber of Deputies unanimously rejected this 
+proposal a week earlier, while Spain,s Corbacho formally 
+voted against the proposal along with Greece at the EU level 
+September 15.   The European Parliament is expected to decide 
+on this directive next month.  (Cinco Dias, 9/26) 
+ 
+Spain Among Top FDI Investors and Recipients 
+ 
+¶7. (U) According to UNCTAD,s recently released 2008 World 
+Investment Report, in 2007 Spain was the 5th largest source 
+of foreign direct investment (FDI) -- with almost 120 billion 
+dollars in FDI abroad -- and the 6th largest recipient of FDI 
+inflows.  Spain experienced a large increase in FDI inflows 
+from 2006 to 2007; in 2006 these inflows were slightly under 
+30 billion dollars, while in 2007 this amount almost doubled 
+to more than 50 billion.  Comment:  A large part of the 
+increase was likely the result of the Italian firm Enel's 
+involvement in the 2007 purchase of electric utility ENDESA. 
+(UNCTAD press release, Sept 24). 
+Aguirre

@@ -1,0 +1,140 @@
+08BAGHDAD2617
+IRAQ FINANCIAL MANAGEMENT INFORMATION SYSTEM
+Sun Aug 17 00:00:00 +0200 2008
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Embassy Baghdad
+VZCZCXRO2458
+RR RUEHBC RUEHDA RUEHDE RUEHIHL RUEHKUK
+DE RUEHGB #2617/01 2301512
+ZNR UUUUU ZZH
+R 171512Z AUG 08
+FM AMEMBASSY BAGHDAD
+TO RUEHC/SECSTATE WASHDC 8899
+RUEATRS/DEPT OF TREASURY WASHDC
+RHEHAAA/WHITE HOUSE WASHINGTON DC
+RHEHNSC/NSC WASHDC
+RUCNRAQ/IRAQ COLLECTIVEUNCLAS SECTION 01 OF 02 BAGHDAD 002617 
+ 
+SENSITIVE 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: EFIN EAID ECON PREL PGOV IZ
+SUBJECT:  IRAQ FINANCIAL MANAGEMENT INFORMATION SYSTEM 
+ 
+¶1. (SBU) SUMMARY: The Iraq Financial Management Information System 
+(IFMIS) is an automated governmental accounting data tracking 
+system, designed to increase the effectiveness and transparency of 
+the GoI's accounting process.  As of June 2007 when it was taken off 
+line (following the abduction of a Bearing Point contractor and four 
+other British nationals who were working on the system at the 
+Ministry of Finance Data Center), several system modules were 
+complete and it was in the early stages of a roll-out to GOI 
+spending units.  In January of 2008, the Ministry of Finance (MOF) 
+and USAID signed a Memorandum of Understanding (MOU) detailing a 
+plan for joint responsibility for funding and the completion of the 
+IFMIS rollout to all GoI spending units nationwide.  The MOF has 
+responsibility for certain technical costs, including internet 
+hosting fees, and two software licenses, as well as connectivity to 
+all spending units, and the system's ongoing maintenance fees. END 
+SUMMARY 
+ 
+¶2.  (SBU)  On 5 July 2008, the GoI and USAID/BearingPoint restarted 
+the IFMIS.  This milestone marks the system's successful 
+redeployment and indicates renewed commitment on the part of the 
+MOF.  The MOF and USAID have identified a sample set of 11 GoI 
+spending units to track initial IFMIS usage.  As of 10 August, nine 
+out of the 11 spending units were entering budget execution data 
+(expense and journal vouchers) using IFMIS.  During the first six 
+weeks of the sample pilot, a total of over 3,700 individual expense 
+/ journal vouchers were entered into the IFMIS. These were submitted 
+by a total of 19 different spending units or offices, including from 
+the Ministries of Water Resources, Justice, Transportation, and 
+Science and Technology.  A significant number of entries were also 
+made by the Shia Endowment Council, and by treasury offices located 
+in Mosul, Babil, Najaf, Muthana, and Wasit.  There are a total of 
+250 spending units within the GoI.  The system is expected to be 
+formally handed over to the MOF in January of 2009. 
+ 
+---------------- 
+Purpose of IFMIS 
+---------------- 
+¶3. The intended purpose for the implementation of the IFMIS is to 
+provide the GoI with an integrated automated financial management 
+information system and a set of regulations and procedures that give 
+the Ministry of Finance (MOF): 
+-Real-time reporting and management of cash expenditures across 
+spending agencies; 
+-Improved control and management of cash resources, accounting 
+processes and budget execution in accordance with the Financial 
+Management Law and international standards, and increased 
+transparency in budget preparation and execution.  Implementation of 
+IFMIS is a key benchmark in the International Compact with Iraq. 
+ 
+------------- 
+USAID Support 
+------------- 
+¶4. The IFMIS is an automated budget execution tracking system that 
+was selected in 2003 by the Coalition Provisional Authority in Iraq 
+to replace a manual system used since the 1940s. The program 
+continued through phase II of implementation, and was on target for 
+timely handover until all activity was suspended and the system was 
+taken offline in June 2007 due to lack of GOI buy-in as well as the 
+abduction of a BearingPoint consultant and his security team from 
+the Ministry of Finance Data Center on 29 May 2007. 
+ 
+¶5. On 14 January 2008, a Memorandum of Understanding was signed by 
+the Minister of Finance and USAID.  The agreement outlines a joint 
+effort to restore the system to nationwide use and it sets a 
+timeline for handing the system over to the MoF. On 5 July 2008, the 
+system went live and select GoI spending units began to enter 
+transaction data. Project implementation is on track for adoption by 
+all ministries beginning January 1, 2009.  Parallel processing with 
+the manual system will continue for one year before full conversion 
+to IFMIS.  The MOF has agreed to assume internet connectivity 
+changes and procurement and licensing costs for the IFMIS going 
+forward. 
+ 
+--------------------------------------------- ---- 
+Budget Execution Reporting and GoI Financial Data 
+--------------------------------------------- ---- 
+¶6. The IFMIS is capable of producing a robust assortment of 
+financial reports based on real time data. The cumbersome nature of 
+the GoI's legacy system was such that access to financial data and 
+expenditure information took months to gather, and weeks to 
+assemble, meaning that the GoI had no reliable, authoritative, and 
+current data by which to gauge the effectiveness of our joint 
+efforts to improve budget execution.  As might be expected, the 
+manual process was prone to human error, and was thus of limited use 
+to the Minister of Finance. 
+ 
+¶7. The IFMIS will allow the GoI to produce reports detailing trial 
+balances, budget variance, expenditures and revenues -- broken out 
+ 
+BAGHDAD 00002617  002 OF 002 
+ 
+ 
+across spending units, directorates and ministries.  However, it is 
+important to note that while the GoI and the Ministry of Finance 
+will have access to this information in real time, the IFMIS is a 
+secured system, and the United States Government (USG) and other 
+donor agencies will not have access to the data unless the GoI 
+communicates it through official channels. 
+ 
+--------------------------------------------- ---- 
+USAID Implementing Performance Budgeting and Purchasing 
+Functionality within the IFMIS 
+--------------------------------------------- ---- 
+¶8. USAID and the MoF have agreed to resume work on implementing 
+performance budgeting and purchasing functionality in the form of 
+two modules.  Prior to June of 2007, this work was supported through 
+an ITAO-funded project.  EGII advisors are presently performing 
+functional mapping and are working with GoI counterparts in the 
+Ministries of Finance and Planning to rebuild working groups. Speedy 
+completion of the performance budget module, in particular, is 
+crucial, as the MOF team is counting on its use for budget modeling 
+in the upcoming negotiations for the 2009 budget. 
+ 
+ 
+CROCKER

@@ -30,34 +30,7 @@ RUEHDG/AMEMBASSY SANTO DOMINGO 0070
 RUMIAAA/CDR USSOUTHCOM MIAMI FL
 RUEHUB/USINT HAVANA 0074
 RUCNDT/USMISSION USUN NEW YORK 0060
-RHEHNSC/NSC WASHDCOO RUEHWEB
-
-DE RUEHMN #1068/01 3101913
-ZNR UUUUU ZZH
-O 061913Z NOV 06
-FM AMEMBASSY MONTEVIDEO
-TO RUEHC/SECSTATE WASHDC IMMEDIATE 6507
-INFO RUCNMER/MERCOSUR COLLECTIVE
-RUEHBO/AMEMBASSY BOGOTA 2550
-RUEHCV/AMEMBASSY CARACAS 0453
-RUEHHE/AMEMBASSY HELSINKI 0065
-RUEHLP/AMEMBASSY LA PAZ NOV LIMA 4865
-RUEHLI/AMEMBASSY LISBON 0011
-RUEHMD/AMEMBASSY MADRID 0858
-RUEHMU/AMEMBASSY MANAGUA 0108
-RUEHME/AMEMBASSY MEXICO 0291
-RUEHZP/AMEMBASSY PANAMA 0042
-RUEHPU/AMEMBASSY PORT AU PRINCE 0024
-RUEHQT/AMEMBASSY QUITO 1910
-RUEHSJ/AMEMBASSY SAN JOSE 0305
-RUEHSN/AMEMBASSY SAN SALVADOR 2571
-RUEHSG/AMEMBASSY SANTIAGO 2932
-RUEHDG/AMEMBASSY SANTO DOMINGO 0070
-RUMIAAA/CDR USSOUTHCOM MIAMI FL
-RUEHUB/USINT HAVANA 0074
-RUCNDT/USMISSION USUN NEW YORK 0060
-RHEHNSC/NSC WASHDC
-,UNCLAS MONTEVIDEO 001068 
+RHEHNSC/NSC WASHDCUNCLAS MONTEVIDEO 001068 
  
 SIPDIS 
  
@@ -75,7 +48,7 @@ SUBJECT: LACKLUSTER XVI IBERO-AMERICAN SUMMIT IN MONTEVIDEO
 ¶1. (SBU) Summary: The XVI Ibero-American Summit took place in 
 Montevideo on 3-5 November without major logistical or 
 security incidents.  Leaders from 22 Latin American and 
-European countries focused on ""Migration and Development,"" 
+European countries focused on "Migration and Development," 
 though we detected few concrete accomplishments in these 
 areas.  There was some U.S. bashing against its plans to 
 build a fence along its border with Mexico and against the 
@@ -106,22 +79,22 @@ Montevideo's international airport was temporarily closed on
 the afternoon of November 2 due to a bomb threat.  The 
 Uruguayan armed forces augmented police security with rarely 
 seen combat aircraft and ships.  There were no major security 
-incidents, except for small protests by anti-Summit, 	
-anti-globalization fringe groups.  The closing press 	
-conference was held at noon on November 5.  It was hosted by 	
-President Vazquez and included the King of Spain, Michelle 	
-Bachelet, UNSYG Kofi Annan and the forum's first 	
-Secretary-General Enrique Iglesias. 	
- 	
-SIPDIS 	
- 	
-¶3. (U) Perhaps the biggest story was the non-participation by 	
-important personalities	 a record seven heads of State did 
-not attend. Brazil's President Lula da Silva explained that 	
-he could not attend because of exhaustion after his election 	
-campaigning. Later, he was filmed strolling on a Brazilian 	
-beach in an unflattering Speedo, and pictures of Lula's 	
-vacation adorned the pages of Uruguayan dailies along with 	
+incidents, except for small protests by anti-Summit, 
+anti-globalization fringe groups.  The closing press 
+conference was held at noon on November 5.  It was hosted by 
+President Vazquez and included the King of Spain, Michelle 
+Bachelet, UNSYG Kofi Annan and the forum's first 
+Secretary-General Enrique Iglesias. 
+ 
+SIPDIS 
+ 
+¶3. (U) Perhaps the biggest story was the non-participation by 
+important personalities; a record seven heads of State did 
+not attend. Brazil's President Lula da Silva explained that 
+he could not attend because of exhaustion after his election 
+campaigning. Later, he was filmed strolling on a Brazilian 
+beach in an unflattering Speedo, and pictures of Lula's 
+vacation adorned the pages of Uruguayan dailies along with 
 coverage of the summit he had shunned.  Presidents from Cuba, 
 Peru, Panama, Guatemala, the Dominican Republic and Nicaragua 
 did not attend for various reasons.  Queen Sofia of Spain 
@@ -130,10 +103,10 @@ Vice-President Lage.  President Kirchner of Argentina arrived
 late, missed the opening ceremony and departed Saturday 
 afternoon without meeting with President Vazquez.  President 
 Vazquez responded to criticism about the absences by saying, 
-All Latin American countries were present, 16 were 
+"All Latin American countries were present, 16 were 
 represented by their presidents, five by their 
 vice-presidents and three by their ministers of foreign 
-affairs."" 
+affairs." 
  
 ¶4. (SBU) Perhaps most galling to the GOU (in particular to 
 the left-wing of the Frente Amplio) was the last minute 
@@ -143,10 +116,10 @@ please Chavez, the Frente-dominated Chamber of Deputies had
 approved Venezuela's entry into Mercosur through a special 
 session that began in the wee hours of November 2. (The 
 Senate had approved it earlier in the week.)  After Chavez' 
-no-show at the Summit, the conservative daily ""El Pais"" 
+no-show at the Summit, the conservative daily "El Pais" 
 called the fast-tracking of Venezuelan membership into 
-Mercosur a ""servile act.""  (Note: A news article in the daily 
-Ultimas Noticias"" implied that to make up for his absence, 
+Mercosur a "servile act."  (Note: A news article in the daily 
+"Ultimas Noticias" implied that to make up for his absence, 
 Chavez was sending $20 million to upgrade a public hospital. 
 End Note.) 
  
@@ -157,9 +130,9 @@ disruption to the downtown area, other editorials lamented
 the low level of participation, and questioned Spain's 
 leadership of the Summit process and Vazquez' inability to 
 get his Mercosur partners to attend.  On November 3, an 
-editorial in the conservative daily ""El Pais"" asked ""what 
+editorial in the conservative daily "El Pais" asked "what 
 will become of Latin American solidarity when we don't have 
-President Bush to criticize?""  The paper also carried a 
+President Bush to criticize?"  The paper also carried a 
 full-page paid ad signed by former presidents Patricio Aylwin 
 (Chile), Armando Calderon (El Salvador), Luis Alberto Monge 
 (Costa Rica), and Luis Alberto Lacalle (Uruguay) in the form 
@@ -179,7 +152,7 @@ during the course of Kirchner's brief visit, partly because
 Vazquez said that talks could not take place while the 
 bridges were blocked. In a surprise development at the 
 Summit, the Spaniards offered King Juan Carlos de Borbon to 
-mediate"" the paper mill controversy.  Both sides' initial 
+"mediate" the paper mill controversy.  Both sides' initial 
 reactions were positive, though it is unclear what the offer 
 truly entails. 
  
@@ -187,21 +160,21 @@ Business Summit
 --------------- 
 ¶7. (U) Parallel to the Ibero-American Summit, some of the 
 region's most prominent entrepreneurs gathered at the second 
-Ibero-American Impresario Encounter"" at a posh hotel in the 
+"Ibero-American Impresario Encounter" at a posh hotel in the 
 seaside resort of Punta del Este. The entrepreneurs sought 
-among other things ""clear rules of the game (for investors), 
+among other things "clear rules of the game (for investors), 
 respect for the rule of law and for private property, and 
-democratic values"". They also called on Summit leaders to 
+democratic values". They also called on Summit leaders to 
 fight corruption, respect contracts and engage in social 
 dialogue. These efforts, they said, are aimed at capturing 
-and preserving the ""economic bonanza"" currently being 
+and preserving the "economic bonanza" currently being 
 experienced in Latin America. Ibero-American 
 Secretary-General Enrique Iglesias and Uruguayan Economy and 
  
 SIPDIS 
 Finance Minister Danilo Astori also attended the conference. 
-Astori said that ""a permanent increase in productive 
-investment has to be the cornerstone"" of maintaining the 
+Astori said that "a permanent increase in productive 
+investment has to be the cornerstone" of maintaining the 
 economic bonanza. 
  
 Speeches and Documents 
@@ -211,21 +184,21 @@ handy web site at www.xvicumbre.org.uy.  Included are: The
 Final Resolution of Montevideo on Migration and Development 
 by Heads of State and Government of the Ibero-American 
 Community, The Declaration of Montevideo, The Ibero-American 
-Cultural Letter, and ""special communiques"" on Colombia, the 
+Cultural Letter, and "special communiques" on Colombia, the 
 Cuban Blockade and Helms-Burton, Energy and Sustainable 
 Development, the Panama Canal, Gender, the Falklands Islands, 
 the Fence on the U.S.-Mexican Border, and Terrorism.  The 
 final documents include criticism of the U.S. for its 
-blockade"" of Cuba and for the ""wall"" to be built along the 
+"blockade" of Cuba and for the "wall" to be built along the 
 U.S.-Mexican border.  Presidents Fox, Morales, Bachelet and 
 the Venezuelan delegation sharply criticized the wall in 
 their public statements.  Lage is quoted as saying that 
-Emigration is a right that must be respected.""  Spain and 
-Mexico were at odds over the inclusion of ""human rights for 
-migrants.""  Bolivia's Evo Morales made some attendees 
-uncomfortable when he said, ""When immigration came from north 
+"Emigration is a right that must be respected."  Spain and 
+Mexico were at odds over the inclusion of "human rights for 
+migrants."  Bolivia's Evo Morales made some attendees 
+uncomfortable when he said, "When immigration came from north 
 to south, there were no walls or deportations, but that is 
-what we face now."" Morales also told his own story of when he 
+what we face now." Morales also told his own story of when he 
 was a union activist arriving in Madrid and was asked to pay 
 $500 to enter the country. 
  
@@ -235,8 +208,8 @@ Comment:
 documents and consulting with our contacts who attended, our 
 impression is that the XVI Ibero-American Summit was long on 
 style and quite short on substance.  We could detect no major 
-advances in the stated themes, though the ""Commitment on 
-Immigration and Development"" document is aimed at promoting 
+advances in the stated themes, though the "Commitment on 
+Immigration and Development" document is aimed at promoting 
 the defense of immigrant's rights and economic development to 
 stem emigration.  The real story was the no-shows and minimal 
 participation by important leaders, a significant letdown 

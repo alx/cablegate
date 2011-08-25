@@ -1,0 +1,98 @@
+09STATE93861
+DIPLOMATIC NOTE REGARDING UKRAINIAN LINK  OUTAGE
+Wed Sep 09 00:00:00 +0200 2009
+UNCLASSIFIED//FOR OFFICIAL USE ONLY
+Secretary of State
+VZCZCXYZ0004
+PP RUEHWEB
+
+DE RUEHC #3861 2522114
+ZNR UUUUU ZZH
+P R 092057Z SEP 09
+FM SECSTATE WASHDC
+TO RUEHKV/AMEMBASSY KYIV PRIORITY 1455
+INFO RUEHTA/AMEMBASSY ASTANA 3319
+RUEHMO/AMEMBASSY MOSCOW 3539UNCLAS STATE 093861 
+ 
+SIPDIS 
+SENSITIVE BUT UNCLASSIFIED 
+ 
+E.O. 12958: N/A 
+TAGS: UP PARM
+SUBJECT: DIPLOMATIC NOTE REGARDING UKRAINIAN LINK  OUTAGE 
+ 
+REF: NONE 
+ 
+1.This is an action request.  Embassy Kyiv please see 
+paragraph 3. 
+ 
+¶2. Background: The Department has a direct 
+Government-to-Government Communications Link (GGCL) with 
+Ministry of Defense of Ukraine in Kyiv. This link has been in 
+place since 1994 and serves as a method for the Department, 
+through the U.S. Nuclear Risk Reduction Center and the 
+Verification Center of the Ministry of Defense of Ukraine, to 
+exchange arms control notifications required under the START 
+and INF treaties.  This is an older, relatively slow 4.8 kbs 
+link; the Bureau of Information Resources Management (IRM) 
+has been in negotiation with Ukrainian officials for several 
+years to replace it with a new digital circuit at the more 
+modern 64kbs level.  The current link has been non-functional 
+since August 24.  IRM technical staff have been working with 
+international carriers and the Ukrainian  MOD to restore this 
+circuit to operations without success.  In order to exchange 
+necessary arms control treaty information, Embassy Pol-Econ 
+and Embassy DTRO-K have delivered START notifications to 
+representatives of the MOD Verification Center; their work is 
+much appreciated by the Department and the START Interagency. 
+ In order to help resolve this ongoing outage situation, 
+Embassy is requested to pass the diplomatic note at para 3 to 
+appropriate host government officials at both the Ministry of 
+Defense and the Ministry of Foreign Affairs.  Embassy is 
+requested to confirm delivery of the points, the name and 
+office of the official to whom they were delivered, the date 
+of delivery, and any comment or reaction provided at that 
+time. 
+ 
+¶3. Text of diplomatic note: 
+Complimentary Opening.  The Government-to-Government 
+Communications Link (GGCL) between the Department of State,s 
+Nuclear Risk Reduction Center and the Verification Center of 
+the Ministry of Defense of Ukraine, in Kyiv, is the primary 
+and most effective mechanism used to exchange the arms 
+control notifications required under the START and INF 
+treaties.  The GGCL forms a vital link for arms control 
+treaty communications between our governments, and has been 
+in place since 1994.  Unfortunately this data channel has 
+been inoperable since August 24, 2009.  Treaty-required 
+notifications have continued to be conveyed through the 
+United States Embassy in Kyiv to the Ministry of Defense 
+Verification Center, at mutually-agreed intervals. 
+ 
+The United States of America wishes to convey growing concern 
+over the continued outage of the GGCL.  Technicians and 
+engineers from both Ukraine and the United States have spent 
+many hours attempting to restore this unique communications 
+link, without success.  Department of State technicians and 
+Ukrainian commercial service providers have successfully 
+tested the entire circuit path from Washington to the 
+Ukrainian Ministry of Defense's service provider, but have 
+been unable to test beyond that point.  Ukraine's Ministry of 
+Defense engineers must complete successful tests within their 
+facility and to their Earth Station.  Because we have tested 
+each section of the circuit pathway from Washington to the 
+Ukraine's Ministry of Defense, it appears likely that the 
+problem exists between the Ministry of Defense and the 
+Ukrainian service provider. 
+ 
+Given the significance of this data communications link, we 
+encourage Ukraine to address this issue at the earliest 
+possible opportunity.  The United States stands ready to 
+offer further technical assistance and advice if required. 
+Complimentary closing. 
+¶4. The POC s at the Department are IRM/OPS/MSO/SMO  Danny 
+Branch, telephone (202) 647-7884, and Wayne Payton (202) 
+747-7779, EUR/UMB, Elizabeth Zentos (202-647-6799), VCI/NRRC, 
+Ned Williams (202-647-0027).  Post support is greatly 
+appreciated. 
+CLINTON

@@ -1,0 +1,78 @@
+05MADRID173
+NET-CENTRIC DIPLOMACY TRIP REPORT-
+Tue Jan 18 00:00:00 +0100 2005
+UNCLASSIFIED
+Embassy Madrid
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS MADRID 000173 
+ 
+SIPDIS 
+ 
+DEPT FOR RM/IRP DAVID MCKEE AND EDIPLOMACY GERALD 
+GALLUCCI FROM FRED HASSANI, TEAM LEAD 
+ 
+E.O. 12958: N/A 
+TAGS: AINF OTRA
+SUBJECT: NET-CENTRIC DIPLOMACY TRIP REPORT- 
+MADRID, DECEMBER 15-17 
+ 
+SUMMARY 
+¶1.  A visit to install the NCD pilot system for 
+publishing biographic files and telegraphic 
+reports to the SIPRNet took place from December 
+15-17.  The NCD application was successfully 
+installed on a ClassNet workstation and the 
+locally engaged contractor was fully trained in 
+its use. 
+ 
+Post Support 
+¶2.  Outstanding support was provided by Embassy 
+Madrid.  Control Officer Stephen Widenhouse pre- 
+briefed mission elements, arranged meetings, and 
+ensured that the technical infrastructure was in 
+place and functioning properly. 
+ 
+Briefings and Training 
+¶3.  Formal overview briefings on NCD were done 
+for representatives of the Pol and Econ sections. 
+A technical briefing on NCD was provided for IMO 
+section staff.  The Bio Reports officer was 
+briefed on the goals of the program and the next 
+steps.  Finally, an overview was provided to the 
+Charge. 
+ 
+¶4.  Hands-on NCD training was provided for the 
+CITI local contract hire on the use of the 
+application and procedures for upgrading the 
+client software. 
+ 
+Hardware/Software 
+¶5.  The client software was downloaded and 
+functioned normally.  The NCD-provided HP 8500 
+scanner was installed and worked well.  A 
+workspace and 4-drawer safe were provided in the 
+CAA and will be available for the duration of the 
+project. 
+ 
+Lessons Learned 
+¶6.   A great deal of bio information no longer 
+makes it into the paper files.  In Madrid, as in 
+many other posts visited by NCD, much current 
+biographic information exists only in emails sent 
+from officer to officer.  Capturing, cataloguing, 
+and recording this information can be 
+problematical to impossible.  If the senders and 
+recipients of the email messages have departed 
+post, the information is usually simply lost: 
+email is ephemeral.  Providing a way for officers 
+to post information directly into the persistent 
+biographic database via email would be a big 
+plus. 
+ 
+Post Comment 
+¶7. Post would like to thank the NCD team for 
+choosing Madrid as a pilot post and Fred Hassani 
+for his excellent support during his visit. We 
+look forward to working with NCD in the next 
+phase of this project. 
+ 
+MANZANARES

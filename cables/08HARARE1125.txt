@@ -10,42 +10,193 @@ ZNR UUUUU ZZH
 O 161246Z DEC 08
 FM AMEMBASSY HARARE
 TO RUEHC/SECSTATE WASHDC IMMEDIATE 3827
-INFO RUCNSAD/SOUTHERN AF DEVELOPMENT COMMUNITY COLLECTIVETuesday, 16 December 2008, 12:46
-UNCLAS SECTION 01 OF 02 HARARE 001125 
+INFO RUCNSAD/SOUTHERN AF DEVELOPMENT COMMUNITY COLLECTIVEUNCLAS SECTION 01 OF 02 HARARE 001125 
+ 
 SENSITIVE 
 SIPDIS 
+ 
 DS, D, P, M, CA, S/CT, INR, CA/OCS 
-EO 12958 N/A 
-TAGS AMED, AMGT, ASEC, PGOV, PREL, SOCI, CASC, TBIO, ZI 
+ 
+E.O. 12958: N/A 
+TAGS: AMED AMGT ASEC PGOV PREL SOCI CASC TBIO ZI
 SUBJECT: HARARE EAC REVIEWS TRIPWIRES AND CHOLERA OUTBREAK 
-REF: A. HARARE 1066 AND PREVIOUS  B. HARARE 1067  C. 07 HARARE 214
-¶1. (U) SUMMARY: Post’s EAC met on December 15 to review trip wires in relation to the cholera epidemic in Zimbabwe and the collapse of medical services. The EAC agreed that the situation falls within the “Growing Potential for Drawdown” category in which Post has generally operated since March 2007. The EAC reviewed existing precautions and recommended others. Post requests funding to purchase an additional water truck and a reverse osmosis water purification unit. END SUMMARY.
-¶2. (U) In response to a request from Crisis Management Support, and following up on Embassy Harare’s December 2 EAC (Ref A), Post’s EAC met on December 15 to specifically review Post’s tripwires in relation to the cholera epidemic in Zimbabwe and the collapse of medical services. Management, medical and USAID Office of Foreign Disaster Assistance (OFDA) staff provided context for the discussion by describing the nature of the crisis and Post’s response to date (Ref B). The EAC used the meeting to review tripwires broadly in relation to the deteriorating political situation in Zimbabwe as well. RSO noted that Embassy Harare has been in the “Growing Potential for Drawdown” category since the surge in political violence in March of 2007 (Ref C). Since that time, the EAC has regularly reviewed and revised precautionary measures depending on the immediate threats facing Post personnel. These reviews have focused on political, security and logistical issues, but have not in the past tested the adequacy of Post ‘s medical tripwires.
+ 
+REF: A. HARARE 1066 AND PREVIOUS 
+     ¶B. HARARE 1067 
+     ¶C. 07 HARARE 214 
+ 
+¶1. (U) SUMMARY:  Post's EAC met on December 15 to review trip 
+wires in relation to the cholera epidemic in Zimbabwe and the 
+collapse of medical services.  The EAC agreed that the 
+situation falls within the "Growing Potential for Drawdown" 
+category in which Post has generally operated since March 
+¶2007.  The EAC reviewed existing precautions and recommended 
+others.  Post requests funding to purchase an additional 
+water truck and a reverse osmosis water purification unit. 
+END SUMMARY. 
+ 
+¶2. (U) In response to a request from Crisis Management 
+Support, and following up on Embassy Harare's December 2 EAC 
+(Ref A), Post's EAC met on December 15 to specifically review 
+Post's tripwires in relation to the cholera epidemic in 
+Zimbabwe and the collapse of medical services.  Management, 
+medical and USAID Office of Foreign Disaster Assistance 
+(OFDA) staff provided context for the discussion by 
+describing the nature of the crisis and Post's response to 
+date (Ref B).  The EAC used the meeting to review tripwires 
+broadly in relation to the deteriorating political situation 
+in Zimbabwe as well.  RSO noted that Embassy Harare has been 
+in the "Growing Potential for Drawdown" category since the 
+surge in political violence in March of 2007 (Ref C).  Since 
+that time, the EAC has regularly reviewed and revised 
+precautionary measures depending on the immediate threats 
+facing Post personnel.  These reviews have focused on 
+political, security and logistical issues, but have not in 
+the past tested the adequacy of Post 
+'s medical tripwires. 
+ 
 --------- 
-Tripwires
+Tripwires 
 --------- 
-¶3. (SBU) Post’s tripwires for medical threats distinguish between the seriousness and the susceptibility to control of a medical epidemic. The three tripwires for “Growing Potential,” “Authorized Departure” and “Ordered Departure” are:
---There is an outbreak of a medical epidemic that could pose a direct risk to post personnel and private American citizens. -- There is an outbreak of a medical epidemic that can be controlled but still poses a serious medical risk to post personnel and dependents and American citizens. --An outbreak of a medical epidemic that cannot be controlled and poses a serious medical risk to post personnel and dependents and American citizens occurs.
+ 
+¶3. (SBU) Post's tripwires for medical threats distinguish 
+between the seriousness and the susceptibility to control of 
+a medical epidemic.  The three tripwires for "Growing 
+Potential," "Authorized Departure" and "Ordered Departure" 
+are: 
+ 
+--There is an outbreak of a medical epidemic that could pose 
+a direct risk to post personnel and private American citizens. 
+-- There is an outbreak of a medical epidemic that can be 
+controlled but still poses a serious medical risk to post 
+personnel and dependents and American citizens. 
+--An outbreak of a medical epidemic that cannot be controlled 
+and poses a serious medical risk to post personnel and 
+dependents and American citizens occurs. 
+ 
 -------------- 
-Where We Stand
+Where We Stand 
 -------------- 
-¶4. (U) Post’s medical officer and the USAID OFDA representative explained to the EAC that cholera is a preventable disease that spreads where hygiene is poor. In Zimbabwe the breakdown in public services means that untreated sewage and garbage litter the streets of high-density neighborhoods while supplies of clean water have been cut off. This creates optimal conditions for rapid spread among individuals who live in these areas and have no access to clean water, soap, or water treatment. Cholera is also a readily treatable disease, but lack of health services has resulted in an unusually high mortality rate in Zimbabwe.
-¶5. (U) EAC members noted that Post’s tripwires do not provide a clear dividing line between risk and serious risk. Medical and OFDA staff stressed that the role of hygiene in the transmission of cholera means that, as long as employees and American citizens have access to water which they can treat, the risk to Americans from cholera is easily mitigated. Consular staff reported that they view the breakdown in health infrastructure as a threat to the safety of Americans in Harare, but their concern focuses on trauma, more than on cholera. Both prevention and treatment protocols for cholera are simple and well understood by the community. EAC members agreed that the risk posed by cholera is not currently “serious” for these reasons. The EAC believed that, the risk would become serious, and would merit authorized departure, if members of the official community were not able to obtain water. Without adequate water, Post would be unable to control the spread of cholera to the Mission community.
-¶6. (U) The EAC discussed Post’s logistics tripwires and noted that, for the time being, the Embassy has been able to
-HARARE 00001125 002 OF 002
-ameliorate the impact of the collapse of Zimbabwe’s infrastructure. Although Post does not anticipate that the collapse will outstrip Post’s ability to cope, the EAC considers this risk particularly pertinent to the sustainability of a large USG presence and has continued to seek possible measures to make Embassy coping mechanisms more robust. (Lack of water, even without a cholera epidemic, would justify authorized departure, according to existing tripwires.) The EAC also noted that, as we have been for some time, Post is in the “Growing Potential for Drawdown” category with respect to tripwires for Police and Security Forces, Political, and Media environment as well.
+ 
+¶4. (U) Post's medical officer and the USAID OFDA 
+representative explained to the EAC that cholera is a 
+preventable disease that spreads where hygiene is poor.  In 
+Zimbabwe the breakdown in public services means that 
+untreated sewage and garbage litter the streets of 
+high-density neighborhoods while supplies of clean water have 
+been cut off.  This creates optimal conditions for rapid 
+spread among individuals who live in these areas and have no 
+access to clean water, soap, or water treatment.  Cholera is 
+also a readily treatable disease, but lack of health services 
+has resulted in an unusually high mortality rate in Zimbabwe. 
+ 
+ 
+¶5. (U) EAC members noted that Post's tripwires do not provide 
+a clear dividing line between risk and serious risk.  Medical 
+and OFDA staff stressed that the role of hygiene in the 
+transmission of cholera means that, as long as employees and 
+American citizens have access to water which they can treat, 
+the risk to Americans from cholera is easily mitigated. 
+Consular staff reported that they view the breakdown in 
+health infrastructure as a threat to the safety of Americans 
+in Harare, but their concern focuses on trauma, more than on 
+cholera.  Both prevention and treatment protocols for cholera 
+are simple and well understood by the community.  EAC members 
+agreed that the risk posed by cholera is not currently 
+"serious" for these reasons.  The EAC believed that, the risk 
+would become serious, and would merit authorized departure, 
+if members of the official community were not able to obtain 
+water.  Without adequate water, Post would be unable to 
+control the spread of cholera to the Mission community. 
+ 
+¶6. (U) The EAC discussed Post's logistics tripwires and noted 
+that, for the time being, the Embassy has been able to 
+ 
+HARARE 00001125  002 OF 002 
+ 
+ 
+ameliorate the impact of the collapse of Zimbabwe's 
+infrastructure.  Although Post does not anticipate that the 
+collapse will outstrip Post's ability to cope, the EAC 
+considers this risk particularly pertinent to the 
+sustainability of a large USG presence and has continued to 
+seek possible measures to make Embassy coping mechanisms more 
+robust.  (Lack of water, even without a cholera epidemic, 
+would justify authorized departure, according to existing 
+tripwires.)  The EAC also noted that, as we have been for 
+some time, Post is in the "Growing Potential for Drawdown" 
+category with respect to tripwires for Police and Security 
+Forces, Political, and Media environment as well. 
+ 
 --------- 
-Responses
+Responses 
 --------- 
-¶7. (U) The EAC reviewed responses to the threat already carried out, including:
---Issuance of a Travel Warning. --Distribution of information on precautions against and treatment of cholera. --Scheduling of a Town Hall meeting for Embassy community at which the option of voluntary SMA authorization will be raised. --Consultation with Harare International School. --Ordering of hand sanitizer. --Closure to the public of Post’s Public Affairs Section when water is unavailable. --Revision of EAP and F-77 lists. --Request for funding for additional well drilling surveys. --Request for provision of enhanced Post medical unit facilities.
-¶8. (U) Additional measures being initiated or endorsed by the EAC include:
---Procurement of additional satellite phones and repetition of messages advising employees that these phones may be requested for in-country travel. --Drafting evacuation travel orders for all newly-arrived employees and ensuring all have valid visas for Zambia. --Review of additional options for emergency evacuation. --Procurement of water treatment supplies for LES employees. --Request for funding to procure an additional water truck and hire an additional driver. (See Action Request para 10.) --Request for consideration of funding to procure a reverse osmosis water pumping unit. (See Action Request para 11.)
-¶9. (U) The EAC considered but did not endorse the following measures at this time; they will be reviewed in subsequent EACs:
---In-country travel restrictions or restrictions on TDY visitors. --An additional Town Hall meeting for American citizens. --Restrictions on public functions.
+ 
+¶7. (U) The EAC reviewed responses to the threat already 
+carried out, including: 
+ 
+--Issuance of a Travel Warning. 
+--Distribution of information on precautions against and 
+treatment of cholera. 
+--Scheduling of a Town Hall meeting for Embassy community at 
+which the option of voluntary SMA authorization will be 
+raised. 
+--Consultation with Harare International School. 
+--Ordering of hand sanitizer. 
+--Closure to the public of Post's Public Affairs Section when 
+water is unavailable. 
+--Revision of EAP and F-77 lists. 
+--Request for funding for additional well drilling surveys. 
+--Request for provision of enhanced Post medical unit 
+facilities. 
+ 
+¶8. (U) Additional measures being initiated or endorsed by the 
+EAC include: 
+ 
+--Procurement of additional satellite phones and repetition 
+of messages advising employees that these phones may be 
+requested for in-country travel. 
+--Drafting evacuation travel orders for all newly-arrived 
+employees and ensuring all have valid visas for Zambia. 
+--Review of additional options for emergency evacuation. 
+--Procurement of water treatment supplies for LES employees. 
+--Request for funding to procure an additional water truck 
+and hire an additional driver.  (See Action Request para 10.) 
+--Request for consideration of funding to procure a reverse 
+osmosis water pumping unit.  (See Action Request para 11.) 
+ 
+¶9. (U) The EAC considered but did not endorse the following 
+measures at this time; they will be reviewed in subsequent 
+EACs: 
+ 
+--In-country travel restrictions or restrictions on TDY 
+visitors. 
+--An additional Town Hall meeting for American citizens. 
+--Restrictions on public functions. 
+ 
 --------------- 
-Action Requests
+Action Requests 
 --------------- 
-¶10. (U) Mission facilities and residences are kept supplied with water by two water trucks currently operating eight hours per day, seven days a week. Embassy employees are advised to conserve water, but there is no rationing enforced. If one of the trucks were to break down or if many more of our wells dried up, water use restrictions would have to be imposed, and authorized departure might be necessary. To reduce this risk, Post requests funds to obtain an additional water truck and hire an additional driver.
-¶11. (U) Embassy employees rely on distilled water for drinking. Public utility and well water are used without treatment for all other purposes. If water supplies deteriorated severely in both quantity and quality, Post might need to rely on lakes or other poor quality water sources. This would likely trigger a request for ordered departure, depending on the severity of the situation. Procurement of a reverse osmosis water purification unit would enable Post to serve the needs of remaining staff.
+ 
+¶10. (U) Mission facilities and residences are kept supplied 
+with water by two water trucks currently operating eight 
+hours per day, seven days a week.  Embassy employees are 
+advised to conserve water, but there is no rationing 
+enforced.  If one of the trucks were to break down or if many 
+more of our wells dried up, water use restrictions would have 
+to be imposed, and authorized departure might be necessary. 
+To reduce this risk, Post requests funds to obtain an 
+additional water truck and hire an additional driver. 
+ 
+¶11. (U) Embassy employees rely on distilled water for 
+drinking.  Public utility and well water are used without 
+treatment for all other purposes.  If water supplies 
+deteriorated severely in both quantity and quality, Post 
+might need to rely on lakes or other poor quality water 
+sources.  This would likely trigger a request for ordered 
+departure, depending on the severity of the situation. 
+Procurement of a reverse osmosis water purification unit 
+would enable Post to serve the needs of remaining staff. 
+ 
+ 
 DHANANI

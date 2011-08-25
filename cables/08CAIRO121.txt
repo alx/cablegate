@@ -1,0 +1,138 @@
+08CAIRO121
+EGYPT: POST SUBMISSION FOR SECTION 1377 TELECOM
+Thu Jan 24 00:00:00 +0100 2008
+UNCLASSIFIED
+Embassy Cairo
+VZCZCXYZ0015
+RR RUEHWEB
+
+DE RUEHEG #0121/01 0241503
+ZNR UUUUU ZZH
+R 241503Z JAN 08
+FM AMEMBASSY CAIRO
+TO RUEHC/SECSTATE WASHDC 7965
+INFO RUCPDOC/DEPT OF COMMERCE WASHDCUNCLAS CAIRO 000121 
+ 
+SIPDIS 
+ 
+SIPDIS 
+ 
+DEPARTMENT FOR NEA/ELA AND EB/CIP/BA 
+COMMERCE FOR OBERG 
+USTR FOR HINCKLEY 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON ETRD USTR EG
+SUBJECT: EGYPT: POST SUBMISSION FOR SECTION 1377 TELECOM 
+TRADE AGREEMENTS 2008 REVIEW 
+ 
+REF SECSTATE 3689 
+ 
+¶1. We provide the below responses from the Government of 
+Egypt to reftel concerns for the Section 1377 Telecom 
+Trade Agreements 2008 Review. 
+ 
+Satellite Services 
+------------------ 
+ 
+¶2. For all questions on licenses for satellite services, 
+National Telecommunications and Regulatory Authority 
+(NTRA) Executive President Dr. Amr Badawi refered us to 
+information on the NTRA web site.  The regulations for 
+Inmarsat licenses are at http://www.tra.gov.eg/english/ 
+DPages_DPagesDetails.asp?ID=257&Menu=1 and for VSAT 
+licenses are at http://www.tra.gov.eg/english/ 
+DPages_DPagesDetails.asp?ID=258&Menu=1.  The procedures, 
+conditions, and rules for general telecommunications 
+services licensing are at http://www.tra.gov.eg/english/ 
+DPages_DPagesDetails.asp?ID=241&Menu=1. 
+ 
+¶3. NTRA Economic and Regulatory Affairs Sector Head 
+Mahmoud El Gowini provided the following answers to 
+reftel specific questions on satellite licensing: 
+ 
+Q: What are the rules under which an Egyptian telecom 
+licensee can have access to and/or contract directly with 
+a foreign satellite operator?  If these are public, could 
+you provide a copy to us or provide us with a web-site 
+link?  Must other users (e.g. banks, broadcasters) have a 
+telecom license to operate a satellite dish? 
+ 
+A: Egyptian Telecom Licensees can have access to and/or 
+contract directly with foreign satellite operators. Since 
+they are already licensed they need not come back to the 
+NTRA.  Broadcasting according to the current rules is the 
+prerogative of the Radio and Television Union. Satellite 
+News Gathering (SNG) services are given timely permits to 
+operate and those permits are renewable upon request. 
+ 
+Q: What is the process for a foreign satellite operator 
+to petition to have its satellite capacity "approved" by 
+the National Telecommunication Regulatory Authority 
+(NTRA)?  If this process is embodied in a regulation or 
+rule, can you provide us with a copy? 
+ 
+A: Satellite operators submit a request to the NTRA to 
+receive a license. The request must show all technical 
+specs, coverage, bandwidth and applications. The NTRA 
+will study the request, obtain clearance on the operator, 
+confirm availability of required frequencies, a license 
+is then granted. In the very near future the process will 
+be shown with elaboration on our web site. 
+ 
+Time For License Application Processing 
+--------------------------------------- 
+ 
+¶4. Regarding the question on the normal time required to 
+process an application, the NTRA did not have a 
+substantive response. 
+ 
+Voice over Internet Protocol 
+---------------------------- 
+ 
+¶5. NTRA Vice President for Policies and International 
+Cooperation Olfat Abd El Monsef provided the following 
+answers to reftel specific questions on Voice over 
+Internet Protocol (VoIP) licensing: 
+ 
+Q: What rules, if any, govern the provision of VoIP 
+services in Egypt?  Are these publicly available and may 
+we have a copy or can you give us the link to a web-site 
+where they are available? 
+ 
+A: Licenses and regulations in Egypt are based on 
+technology-neutral principles.  VoIP is considered as a 
+technology and therefore any licensed operator in Egypt 
+is allowed to use VoIP to provide the licensed services. 
+As for the general rules governing VoIP services 
+provision, VoIP usage for private use (PC to PC) is 
+allowed without any license or registration.  Licensed 
+Class A and Class B data service providers are licensed 
+to provide domestic VPN services to their customers using 
+VoIP. 
+ 
+Q: Does the incumbent operator offer VOIP?  Do any other 
+companies, including foreign companies? 
+ 
+A: Currently the incumbent operator is offering voice 
+services using VoIP technology - along with other 
+technologies ? to provide international voice services as 
+it is licensed to provide these services.  Mobile 
+operators are allowed to use VoIP technology as well for 
+the provision of international voice services if they 
+acquire the required international gateway license (one 
+of the mobile operators has already been granted this 
+license). 
+ 
+Q: If publicly available, please provide us with copies 
+of any authorizations or licenses which have been granted 
+for VoIP services. 
+ 
+A: NTRA is opening the competition in fixed networks; 
+this license will include international voice services 
+(international gateway) where VoIP is allowed. An RFP for 
+the fixed voice services will be announced within the 
+first quarter of 2008.  National and foreign companies 
+and consortiums are welcome to apply. 
+ 
+Ricciardone

@@ -1,0 +1,290 @@
+09STATE83866
+BLUE LANTERN POST-SHIPMENT END USE CHECK ON
+Wed Aug 12 00:00:00 +0200 2009
+UNCLASSIFIED
+Secretary of State
+VZCZCXYZ0019
+RR RUEHWEB
+
+DE RUEHC #3866 2241519
+ZNR UUUUU ZZH
+R 121502Z AUG 09
+FM SECSTATE WASHDC
+TO RUEHEG/AMEMBASSY CAIRO 0000
+INFO RUEAIIA/CIA WASHINGTON DC
+RHMCSUU/FBI WASHINGTON DC 0000
+RUEKJCS/SECDEF WASHINGTON DC
+RUCPDOC/USDOC WASHINGTON DC 0000
+RUEPINS/HQ BICE INTEL WASHINGTON DCUNCLAS STATE 083866 
+ 
+SIPDIS 
+FOR POL MELISSA R. CLINE 
+ 
+E.O. 12958: N/A 
+TAGS: EG ETTC KOMC
+SUBJECT: BLUE LANTERN POST-SHIPMENT END USE CHECK ON 
+LICENSE 050086546 AND 050150345 
+ 
+¶1.  This is an action message.  See paragraphs 2-4. 
+ 
+¶2.  The Department's Office of Defense Trade Controls 
+Compliance (PM/DTCC) requests post assistance in conducting a 
+post-shipment check for the export of chemical warfare agent 
+and radiation detectors to Egypt.  Post is requested to 
+complete this Blue Lantern check within 45 days.  Lack of 
+response to a Blue Lantern check will affect pending and 
+future licenses involving parties to this license. 
+ 
+¶3.  Reason for request: the Foreign Consignee, Arab 
+Commercial Office, has a limited licensing history with our 
+office.  Large quantity of commodities requested that have 
+potential for diversion; the second license is a partial 
+duplicate request of the first license. 
+ 
+¶4.  ACTION: Please contact the Foreign End User, Government 
+of Egypt Armament Authority, and confirm its receipt of the 
+exact quantities and specific types of commodities listed 
+below.  END ACTION. 
+ 
+¶5.  License Information: 
+ 
+A)  DDTC Case Number 050086546 
+ 
+QUANTITY/COMMODITY: 
+ 
+40       CP100, ChemPro 100 Chemical Warfare Agent Detector 
+with Standard Accessory Kit 
+ 
+22       M90-D1-C, Chemical Warfare Agent Detector with 
+Standard Accessory Kit 
+ 
+40       CP100-RD, ChemPro 100 Radiation Detector Module 
+ 
+40       CP100-RM, ChemPro Bio-Strip Reader Module 
+ 
+40       TS-E00240000, Test Strip Ricin, Box of 10 
+ 
+40       TS-E00574000, Test Strip SEB, Box of 10 
+ 
+05       CP100-GPS, ChemPro GPS Module 
+ 
+08       CP100-LB1, Li-Ion Spare Battery Pack 
+ 
+03       CP100-AA, AA Battery Box 
+ 
+05       CP100-FS1, Filter Set of 3 CP100-IFLS 
+ 
+03       CP100-PC1, Power Cord European 
+ 
+03       CP100-ILC2, Inlet Cap 
+ 
+03       CP100-BPAS, Spare Body Part Set 
+ 
+03       CP100-SPCS, Spare Circuit Board Set 
+ 
+03       130410744V1, Belt Clip 
+ 
+03       040x20FPM, O-Ring 
+ 
+03       ISO7380CMx30A2MPTX, Security Torx Screw Case 
+ 
+03       130411139, PTFE Gasket, 6x3 
+ 
+03       0579MM, O-Ring, 579mm 
+ 
+03       DIN6912M4x30A2PTX, Hexagon Socket Screw 
+ 
+05       CP100-PU2A, Air Pump/SCCell Module 
+ 
+05       M90-IF/C, Internal Microfilter 
+ 
+05       B0065, Air Pump 
+ 
+02       B200V30, Semi Conductor (SC) Cell 
+ 
+02       B0010, Sensor Unit 
+ 
+02       CIP50040, Controller Board 
+ 
+02       CXC800140, Display Board 
+ 
+02       CXC800130, Power Board 1 
+ 
+02       CXC900135, Power Board 2 
+ 
+02       G5-080835, X Buzzer 
+ 
+02       M90-MP3, Main Power Supply 
+ 
+02       E6-EY233551, Switch Assembly 
+ 
+02       E6-SMC 447075300, Battery Connector 
+ 
+02       M90-LB, Lithium Battery 
+ 
+12       M90-NMB, NiMH Battery 
+ 
+02       M90-BC1, Smart Charger 
+ 
+02       M90-IT3, Inlet Tube 
+ 
+02       A2201, Air Inlet and Filter Cap Set 
+ 
+02       H704602V1210, Front Mask 
+ 
+02       E6-5581-4631, Switch Knob 
+ 
+02       E6-25043-180, Multi Purpose Connector 
+ 
+02       J32SMB447221, Detector Handle 
+ 
+02       K0000A2UNF35, Detector Handle Screw 
+ 
+02       E6-X000001, Field Cable Connector 
+ 
+03       B0600, Internal Tube Set 
+ 
+03       NINB12030030, Frame O-Ring 
+ 
+02       H100213V2210, Internal Filter Plug 
+ 
+NOTE: shipment data indicates that all items were exported on 
+04/08/2008. 
+ 
+LICENSE VALUE: USD 534,000.00 
+ 
+APPLICANT/SOURCE: 
+ 
+Environics USA Inc. 
+4401 Eastport Parkway 
+Port Orange, Florida 32127 USA 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Arab Commercial Office 
+95 Gomhoria Street 
+PO Box 134 Zamalek 
+11111 Cairo 
+EGYPT 
+ 
+FOREIGN END USER: 
+ 
+Government of the Arab Republic of Egypt 
+Armament Authority 
+Kobry El-Kobba, Cairo 
+EGYPT 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Detection of chemical warfare agents by the government of 
+Egypt. 
+ 
+¶6.  Additional documentation submitted in support of license 
+application: 
+ 
+I)  Arab Commercial Office Purchase Order No. 
+AHENV/CW/ORD1007, dated 20 October 2007, signed by Aly 
+Hassan, Managing Director. 
+ 
+II)  U.S. Department of State DDTC DSP-83 Non-Transfer and 
+Use Certificate; signed by Aly Hassan (dated 10-31-2007), 
+Managing Director, Arab Commercial Office; signed by 
+MG/Tharwat Mohamed A. Zanaty - MCD (no date); signed by 
+MG/Mahfouz E. Abo Hegazy, Chief, Armament Authority (no date). 
+ 
+B)  DDTC Case Number 050150345 
+ 
+QUANTITY/COMMODITY: 
+ 
+40       CP100, ChemPro 100 Chemical Warfare Agent Detector 
+with Standard Accessory Kit 
+ 
+40       CP100-RD, ChemPro Radiation Detector Module 
+ 
+40       CP100-RM, ChemPro Bio-Strip Reader Module 
+ 
+40       TS-E00240000, Test Strip Ricin, Box of 10 
+ 
+40       TS-E00574000, Test Bio-Strip SEB, Box of 10 
+ 
+08       CP100-LB1, Li-Ion Spare Battery Pack 
+ 
+03       CP100-AA, Battery Box 
+ 
+05       CP100-FS1, Filter Set of 3 CP100-IFLS 
+ 
+03       CP100-PC1, Power Cord European 
+ 
+03       CP100-ILC2, Inlet Cap 
+ 
+03       CP100-BPAS, Spare Body Part Set 
+ 
+03       CP100-SPCS, Spare Circuit Board Set 
+ 
+03       130410744V1, Belt Clip 
+ 
+03       040x20FPM, O-Ring 
+ 
+03       ISO7380CMx30A2MPTX, Security Torx Screw Case 
+ 
+03       130411139, PTFE Gasket, 6x3 
+ 
+03       0579MM, O-Ring, 579mm 
+ 
+03       DIN6912M4x30A2PTX, Hexagon Socket Screw 
+ 
+05       CP100-PU2A, Air Pump/SCCell Module 
+ 
+NOTE: shipment data indicates that all items were exported on 
+04/18/2009. 
+ 
+LICENSE VALUE: USD 330,000.00 
+ 
+APPLICANT/SOURCE: 
+ 
+Environics USA Inc. 
+4401 Eastport Parkway 
+Port Orange, Florida 32127 USA 
+ 
+FOREIGN CONSIGNEE: 
+ 
+Arab Commercial Office 
+95 Gomhoria Street 
+PO Box 134 Zamalek 
+11111 Cairo 
+EGYPT 
+ 
+FOREIGN END USER: 
+ 
+Government of the Arab Republic of Egypt 
+Armament Authority 
+Kobry El-Kobba, Cairo 
+EGYPT 
+ 
+STATEMENT OF PURPOSE: 
+ 
+Detection of chemical warfare agents by the government of 
+Egypt. 
+ 
+¶7.  Additional documentation submitted in support of license 
+application: 
+ 
+I)  Arab Commercial Office Purchase Order No. 09EN122008-A, 
+dated 18 February 2009, signed by Aly Hassan, Managing 
+Director. 
+ 
+II)  U.S. Department of State DDTC DSP-83 Non-Transfer and 
+Use Certificate; signed by Aly Hassan (dated 02.15.2009), 
+Managing Director, Arab Commercial Office; signed by MG/M.H 
+Arafat, Manager of CD (no date); signed by MG/Taha Sayo 
+Badawy (dated 4 3 09). 
+ 
+¶8.  Please slug reply for PM/DTCC - BLUE LANTERN COORDINATOR 
+and include the words "Blue Lantern" and the DDTC Case 
+Numbers in the subject line.  POC on this case is Peter 
+Sabatini, PM/DTCC, phone: 202-663-2819; ClassNet email: 
+sabtinipj@state.sgov.gov; OpenNet email: sabatinipj@state.gov 
+The most current Blue Lantern Guide Book is available on 
+OpenNet at http://fsi.state.gov/fsi/spas/default.asp?ID= 1588 
+Department thanks Post for its assistance in this matter. 
+CLINTON
